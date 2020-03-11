@@ -45,9 +45,9 @@ Several sources are available on the Internet:
   - https://phonenum.info/en/country-code/
 
 
-### For geographical countries and boarders
+### For geographical countries and borders
 - Wikipedia:
-  - 
+  - https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_land_borders
 - Other websites:
   - https://developers.google.com/maps/documentation/javascript/geocoding
   - http://www.naturalearthdata.com/downloads/10m-cultural-vectors/ (admin 0)
@@ -62,6 +62,22 @@ Therefore, the tool primarily uses it to build the JSON / Python dictionnaries.
 
 ## Install and usage
 
-TODO
+The following requirements must be fullfil for the script to work: Python3 and lxml are required.
+No installation of the script is required, just run it as is.
+
+```
+$ ./parse_wikipedia_tables.py --help
+usage: parse_wikipedia_tables.py [-h] [-j] [-p]
+
+dump Wikipedia ISO-3166 country codes, MCC and MNC tables into JSON or Python
+file
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -j          produce JSON files (with suffix .json)
+  -p          produce Python files (with suffix .py)
+```
+
+
 
 
