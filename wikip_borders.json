@@ -192,7 +192,7 @@
         "https://en.wikipedia.org/wiki/Azerbaijan"
       ],
       [
-        "Georgia (country)",
+        "Georgia",
         "https://en.wikipedia.org/wiki/Georgia_(country)"
       ],
       [
@@ -269,7 +269,7 @@
         "https://en.wikipedia.org/wiki/Armenia"
       ],
       [
-        "Georgia (country)",
+        "Georgia",
         "https://en.wikipedia.org/wiki/Georgia_(country)"
       ],
       [
@@ -1565,7 +1565,7 @@
   {
     "border_len_km": 1461,
     "border_len_mi": 908,
-    "country_name": "Georgia (country)",
+    "country_name": "Georgia",
     "country_sub": [],
     "country_url": "https://en.wikipedia.org/wiki/Georgia_(country)",
     "neigh": [
@@ -3516,7 +3516,7 @@
         "https://en.wikipedia.org/wiki/Finland"
       ],
       [
-        "Georgia (country)",
+        "Georgia",
         "https://en.wikipedia.org/wiki/Georgia_(country)"
       ],
       [
@@ -3923,7 +3923,7 @@
     "country_url": "https://en.wikipedia.org/wiki/South_Ossetia",
     "neigh": [
       [
-        "Georgia (country)",
+        "Georgia",
         "https://en.wikipedia.org/wiki/Georgia_(country)"
       ],
       [
@@ -4378,7 +4378,7 @@
         "https://en.wikipedia.org/wiki/Bulgaria"
       ],
       [
-        "Georgia (country)",
+        "Georgia",
         "https://en.wikipedia.org/wiki/Georgia_(country)"
       ],
       [

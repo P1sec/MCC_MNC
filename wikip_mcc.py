@@ -312,7 +312,7 @@ WIKIP_MCC = \
     'notes': ''},
   { 'authority': '',
     'code_alpha_2': 'GE',
-    'country_name': 'Georgia (country)',
+    'country_name': 'Georgia',
     'country_url': 'https://en.wikipedia.org/wiki/Georgia_(country)',
     'mcc': '282',
     'mcc_url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Georgia_-_GE',

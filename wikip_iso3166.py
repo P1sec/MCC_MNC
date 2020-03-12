@@ -784,7 +784,7 @@ WIKIP_ISO3166 = \
           'code_alpha_2': 'GE',
           'code_alpha_3': 'GEO',
           'code_num': '268',
-          'country_name': 'Georgia (country)',
+          'country_name': 'Georgia',
           'country_url': 'https://en.wikipedia.org/wiki/Georgia_(country)',
           'regions_url': 'https://en.wikipedia.org/wiki/ISO_3166-2:GE',
           'sovereignity': 'UN member',

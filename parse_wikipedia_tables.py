@@ -68,6 +68,13 @@ SOVEREIGNITY_LUT = {
     }
 
 
+CRAPPY_NAMES = {
+    'Georgia (country)',
+    'List of islands of the Netherlands Antilles',
+    'List of French islands in the Indian and Pacific oceans',
+    }
+
+
 def import_wikipedia_table(url):
     resp = urllib.request.urlopen(url)
     if resp.code == 200:
@@ -91,14 +98,15 @@ def explore_text(E):
 def _get_country_url(e):
     e = explore_text(e)
     if e is not None:
-        if len(e.values()) == 2:
-            url, name = e.values()
-            if name == 'List of French islands in the Indian and Pacific oceans':
+        values = e.values()
+        if len(values) == 2 and values[0][:6] == '/wiki/':
+            url, name = values
+            if name in CRAPPY_NAMES:
                 name = e.text.strip()
             return name, URL_PREF + url
-        elif len(e.values()) == 3:
-            url, _, name = e.values()
-            if name == 'List of French islands in the Indian and Pacific oceans':
+        elif len(values) == 3 and values[0][:6] == '/wiki/':
+            url, _, name = values
+            if name in CRAPPY_NAMES:
                 name = e.text.strip()
             return name, URL_PREF + url
         #print(e.text)
@@ -168,15 +176,17 @@ REC_MCC = {
 
 
 REC_MNC = {
-    'country_name'  : '', # str
-    'codes_alpha_2' : [], # list of 2-char
-    'mcc'           : '', # 3-digit str
-    'mnc'           : '', # 2 or 3-digit str
-    'brand'         : '', # str
-    'operator'      : '', # str
-    'status'        : '', # 'operational' or 'unknown'
-    'bands'         : '', # str
-    'notes'         : '', # str
+    'country_name'  : '',   # str
+    'country_url'   : '',   # str
+    'country_sub'   : None, # 2-tuple of str (country_name, country_url)
+    'codes_alpha_2' : [],   # list of 2-char
+    'mcc'           : '',   # 3-digit str
+    'mnc'           : '',   # 2 or 3-digit str
+    'brand'         : '',   # str
+    'operator'      : '',   # str
+    'status'        : '',   # 'operational' or 'unknown'
+    'bands'         : '',   # str
+    'notes'         : '',   # str
     }
 
 
@@ -211,8 +221,8 @@ def read_entry_mcc(T, off):
         rec['mcc']          = explore_text(L[0]).text.strip().upper()
         rec['code_alpha_2'] = explore_text(L[2]).text.strip()
         rec['country_name'], rec['country_url'] = _get_country_url(L[1])
-        if len(rec['country_name']) == 1:
-            # hidden HTML element with 1st letter of the country, jump over it
+        if rec['country_name'] is None:
+            # hidden HTML element with 1st letter of the country only, go to next
             rec['country_name'], rec['country_url'] = _get_country_url(L[1][1])
         mcc_url = explore_text(L[3]).values()
         if mcc_url:
@@ -250,9 +260,6 @@ def parse_table_mcc():
             if not rec['notes'] and L[-1]['notes']:
                 rec['notes']     = L[-1]['notes']
         #
-        if len(rec['country_name']) == 1:
-            rec['L'] = T_MCC[i]
-        
         cc2.add(rec['code_alpha_2'])
         if rec['mcc'] in mcc:
             print('> duplicate entry for MCC %s: %s // %s'\
@@ -268,24 +275,50 @@ def parse_table_mcc():
 
 
 def read_entry_mnc_title(e):
-    
-    
-    # TODO: for the country name, get country name and url with _get_country_url()
-    
-    
-    text = _strip_wiki_ref(''.join(e.itertext()).strip())
-    country, codes = map(str.strip, text.split(' - '))
+    name, url, sub, codes = '', '', None, []
+    while e is not None:
+        title = None
+        for i in e:
+            if i.values() and i.values()[0] == 'mw-headline' and '\n' not in ''.join(i.itertext()):
+                title = i
+                break
+        if title is not None:
+            break
+        else:
+            e = e.getprevious()
+    #
+    # country name
+    if title is None:
+        raise(Exception('unable to find headline title for MNC country name'))
+    elif len(title) == 0:
+        # raw title, without link
+        name = title.values()[1].strip()
+        return name, '', None, []
+    else:
+        name, url = _get_country_url(title[0])
+        if len(title) > 1:
+            # country sub-info, provided in parenthesis
+            if len(e[1]) >= 2:
+                sub = _get_country_url(e[1][1])
+                if sub[0] == None:
+                    sub = None            
+            else:
+                sub = None
+    #
+    # country alpha code
+    codes = ''.join(title.itertext()).split(' - ', 1)[1].strip()
     if '/' in codes:
-        codes = list(map(str.upper, sorted(codes.split('/'))))
+        codes = list(map(lambda s: s.strip().upper(), sorted(codes.split('/'))))
     elif '-' in codes:
-        codes = list(map(str.upper, sorted(codes.split('-'))))
+        codes = list(map(lambda s: s.strip().upper(), sorted(codes.split('-'))))
     else:
         codes = [codes]
     for code in codes:
         if len(code) != 2 or not code.isalpha():
             raise(Exception('invalid title format'))
-    return country, codes
-    
+    #
+    return name, url, sub, codes
+
 
 def read_entry_mnc(T_MNC, off):
     L   = T_MNC[off]
@@ -305,19 +338,6 @@ def read_entry_mnc(T_MNC, off):
     elif rec['status'] != 'operational':
         raise(Exception('invalid status %s for %s.%s'\
               % (rec['status'], rec['mcc'], rec['mnc'])))
-    #
-    # get country name and alpha code from the tab title
-    country, code, title = None, None, L.getparent().getparent().getprevious()
-    while country is None and code is None:
-        try:
-            country, codes = read_entry_mnc_title(title)
-        except Exception:
-            try:
-                title = title.getprevious()
-            except Exception:
-                break
-        else:
-            rec['country_name'], rec['codes_alpha_2'] = country, codes
     return rec
 
 
@@ -325,14 +345,23 @@ def parse_table_mnc(T_MNC):
     L       = []
     mcc     = set()
     mccmnc  = {}
+    #
+    # get table title with country name
+    title = T_MNC[1].getparent().getparent().getprevious()
+    country_infos = read_entry_mnc_title(title)
+    #
     for i in range(1, len(T_MNC)):
         rec = read_entry_mnc(T_MNC, i)
+        rec['country_name'], rec['country_url'], rec['country_sub'], rec['codes_alpha_2'] = \
+            country_infos
+        #
         if rec['mcc'].isdigit() and len(rec['mcc']) == 3 \
         and rec['mnc'].isdigit() and len(rec['mnc']) in (2, 3):
             mcc.add(rec['mcc'])
             L.append(rec)
         else:
             print('> invalid MCC MNC entry %s.%s, operator %s' % (rec['mcc'], rec['mnc'], rec['operator']))
+    #
     print('[+] parsed %i MNC entries for MCC %s' % (len(L), ', '.join(sorted(mcc))))
     return L
 
@@ -458,11 +487,11 @@ URL_BORDERS = "https://en.wikipedia.org/wiki/List_of_countries_and_territories_b
 REC_BORDERS = {
     'country_name'  : '', # str
     'country_url'   : '', # str
-    'country_sub'   : [], # list of 2-tuple, included countries / territories (country_name, country_url)
+    'country_sub'   : [], # list of 2-tuple of str, included countries / territories (country_name, country_url)
     'border_len_km' : 0,  # int
     'border_len_mi' : 0,  # int
     'neigh_num'     : 0,  # int
-    'neigh'         : [], # list of 2-tuple, neighbour countries (country_name, country_url)
+    'neigh'         : [], # list of 2-tuple or str, neighbour countries (country_name, country_url)
     }
 
 
@@ -470,17 +499,10 @@ def read_entry_borders(T, off):
     L   = T[off]
     rec = dict(REC_BORDERS)
     #
-    
-    
-    # TODO: for country name and url, use _get_country_url()
-    
-    
-    url, name = explore_text(L[0]).values()
-    neigh_num = explore_text(L[4]).text.strip()
-    rec['country_url']   = URL_PREF + url.strip()
-    rec['country_name']  = name.strip()
+    rec['country_name'], rec['country_url'] = _get_country_url(L[0])
     rec['border_len_km'] = int(explore_text(L[1]).text.strip().replace(',', '').split('.')[0])
     rec['border_len_mi'] = int(explore_text(L[2]).text.strip().replace(',', '').split('.')[0])
+    neigh_num = explore_text(L[4]).text.strip()
     if '(' in neigh_num:
         rec['neigh_num'] = int(neigh_num.split('(')[0].strip())
     else:
@@ -508,16 +530,9 @@ def read_entry_borders(T, off):
         # neighbours
         neigh = []
         for e in L[5][0][1]:
-            e = explore_text(e)
-            if e is not None:
-                if len(e.values()) == 2:
-                    url, name = e.values()
-                    neigh.append( (name, URL_PREF + url) )
-                elif len(e.values()) == 3:
-                    url, _, name = e.values()
-                    neigh.append( (name, URL_PREF + url) )
-                #else:
-                #    print(e.text)
+            name, url = _get_country_url(e)
+            if name is not None:
+                neigh.append( (name, url) )
         if neigh:
             neigh.sort(key=lambda t: t[0])
             rec['neigh'] = neigh
