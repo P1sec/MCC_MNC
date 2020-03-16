@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: UTF-8 -*-
 
 import sys
 import argparse
@@ -75,14 +76,15 @@ CRAPPY_NAMES = {
     }
 
 
-def import_wikipedia_table(url):
+def import_html_doc(url):
     resp = urllib.request.urlopen(url)
     if resp.code == 200:
         R = etree.parse(resp, etree.HTMLParser()).getroot()
     else:
         raise(Exception('resource %s not available, HTTP code %i' % (url, resp.code)))
     #
-    return R.xpath('//table')
+    #return R.xpath('//table')
+    return R
 
 
 def explore_text(E):
@@ -131,7 +133,7 @@ def read_entry_iso3166(T, off):
 
 
 def parse_table_iso3166():
-    T    = import_wikipedia_table(URL_CODE_ALPHA_2)
+    T    = import_html_doc(URL_CODE_ALPHA_2).xpath('//table')
     T_CC = T[0][0]
     D    = {}
     for i in range(2, len(T_CC)):
@@ -236,7 +238,7 @@ def read_entry_mcc(T, off):
 
 def parse_table_mcc():
     # warning: for some MCC, there are duplicated entries (mostly for islands...)
-    T     = import_wikipedia_table(URL_MCC)
+    T     = import_html_doc(URL_MCC).xpath('//table')
     T_MCC = T[1][0]
     L     = []
     cc2   = set()
@@ -383,7 +385,7 @@ def parse_table_mnc_all():
     D = {'0': [], '2': [], '3': [], '4': [], '5': [], '6': [], '7': [], '9': []}
     #
     # 1) MNC worldwide
-    T_MCC = import_wikipedia_table(URL_MCC)
+    T_MCC = import_html_doc(URL_MCC).xpath('//table')
     # test networks
     mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MCC[0][0])) )
     # intl networks
@@ -392,32 +394,32 @@ def parse_table_mnc_all():
     mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MCC[3][0])) )
     #
     # 2) MNC for EU
-    T_MNC_EU = import_wikipedia_table(URL_MNC_EU)
+    T_MNC_EU = import_html_doc(URL_MNC_EU).xpath('//table')
     for i in range(0, len(T_MNC_EU)):
         mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_EU[i][0])) )
     #
     # 3) MNC for North America
-    T_MNC_NA = import_wikipedia_table(URL_MNC_NA)
+    T_MNC_NA = import_html_doc(URL_MNC_NA).xpath('//table')
     for i in range(0, len(T_MNC_NA)):
         mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_NA[i][0])) )
     #
     # 4) MNC for Asia
-    T_MNC_AS = import_wikipedia_table(URL_MNC_AS)
+    T_MNC_AS = import_html_doc(URL_MNC_AS).xpath('//table')
     for i in range(0, len(T_MNC_AS)):
         mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_AS[i][0])) )
     #
     # 5) MNC for Oceania
-    T_MNC_OC = import_wikipedia_table(URL_MNC_OC)
+    T_MNC_OC = import_html_doc(URL_MNC_OC).xpath('//table')
     for i in range(0, len(T_MNC_OC)):
         mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_OC[i][0])) )
     #
     # 6) MNC for Africa
-    T_MNC_AF = import_wikipedia_table(URL_MNC_AF)
+    T_MNC_AF = import_html_doc(URL_MNC_AF).xpath('//table')
     for i in range(0, len(T_MNC_AF)):
         mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_AF[i][0])) )
     #
     # 7) MNC for South America
-    T_MNC_SA = import_wikipedia_table(URL_MNC_SA)
+    T_MNC_SA = import_html_doc(URL_MNC_SA).xpath('//table')
     for i in range(0, len(T_MNC_SA)):
         mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_SA[i][0])) )
     #
@@ -441,7 +443,7 @@ RE_WIKI_MSISDN_PREF = re.compile(r'^\+([0-9 ]{1,})\:[ ]{0,}([A-Z]{2}(,\s{0,}[A-Z
 
 
 def parse_table_msisdn_pref():
-    T   = import_wikipedia_table(URL_MSISDN)
+    T   = import_html_doc(URL_MSISDN).xpath('//table')
     D   = {}
     T_P = T[0][0]
     #
@@ -541,7 +543,7 @@ def read_entry_borders(T, off):
 
 
 def parse_table_borders():
-    T   = import_wikipedia_table(URL_BORDERS)
+    T   = import_html_doc(URL_BORDERS).xpath('//table')
     T_B = T[0][0]
     L   = []
     cns = set()
@@ -555,66 +557,6 @@ def parse_table_borders():
     L.sort(key=lambda r: r['country_name'])
     return L
 
-
-'''to be moved to another Python script
-#------------------------------------------------------------------------------#
-# Consolidate
-#------------------------------------------------------------------------------#
-
-def consolidate_dict_mnc(D_mnc, L_mcc, D_iso):
-    # consolidate the list / dicts produced by parse_table_mnc_all
-    # 1) get all country codes
-    MccIso = {}
-    
-    
-    MccMnc = {'0': {}, '2': {}, '3': {}, '4': {}, '5': {}, '6': {}, '7': {}, '9': {}}
-    #
-    
-    #
-    for (mcc0, recs) in sorted(D_mnc.items()):
-        for rec in sorted(recs, key=lambda r: r['operator']):
-            mccmnc = rec['mcc'] + rec['mnc']
-            # consolidate the set of countries / country codes for the given MCC MNC
-            consolidate_country(rec, [], [])
-            if mccmnc in MccMnc[mcc0]:
-                # consolidate against MCC MNC duplicates
-                MccMnc[mcc0][mccmnc] = consolidate_duplicate(MccMnc[mcc0][mccmnc], rec) 
-            else:
-                MccMnc[mcc0][mccmnc] = rec
-    return MccMnc
-
-
-def consolidate_country(rec_mnc, rec_mcc, rec_iso):
-    # From the 
-    pass
-
-
-def consolidate_duplicate(rec_n, rec_o):
-    # 1) keep only the operational one
-    if rec_o['status'] == 'unknown' and rec_n['status'] == 'operational':
-        return rec_n
-    elif rec_n['status'] == 'unknown' and rec_o['status'] == 'operational':
-        return rec_o
-    #
-    # 2) 
-    if rec_o['operator'] == rec_n['operator']:
-        # same operator, both are unknown or operational
-        
-        
-        pass
-    
-    else:
-        # different operator
-        
-        
-        print('> duplicate entry for MCC %s MNC %s: {%s} %s %s (%s) // {%s} %s %s (%s)'\
-              % (rec_o['mcc'], rec_o['mnc'],
-                 ', '.join(rec_o['codes_alpha_2']), rec_o['operator'], rec_o['bands'], rec_o['status'],
-                 ', '.join(rec_n['codes_alpha_2']), rec_n['operator'], rec_n['bands'], rec_n['status']))
-    
-    
-    return rec_n
-'''
 
 #------------------------------------------------------------------------------#
 # Main
@@ -645,7 +587,7 @@ def generate_python(d, destfile):
     pp = PrettyPrinter(indent=2, width=120)
     varname = destfile[:-3].upper()
     with open(destfile, 'w') as fd:
-        fd.write('%s = \\\n%s\n' % (varname, pp.pformat(d)))
+        fd.write('# -*- coding: UTF-8 -*-\n\n%s = \\\n%s\n' % (varname, pp.pformat(d)))
     print('[+] %s file generated' % destfile)
 
 

@@ -49,10 +49,13 @@ Several sources are available on the Internet:
 - Wikipedia:
   - https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_land_borders
 - Other websites:
-  - https://developers.google.com/maps/documentation/javascript/geocoding
-  - http://www.naturalearthdata.com/downloads/10m-cultural-vectors/ (admin 0)
-  - https://github.com/nvkelso/natural-earth-vector
+  - http://www.naturalearthdata.com/downloads/10m-cultural-vectors/ (open US-based initiative, see admin 0 data)
+  - https://github.com/nvkelso/natural-earth-vector (vectorized data from naturalearthdata)
+  - https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html (CIA open data)
+  - https://developers.google.com/maps/documentation/javascript/geocoding (Google maps API)
 
+The CIA World Factbook is more complete than Wikipedia when coming to geography and borders referencement.
+ 
 
 ### Which one to use
 
@@ -78,6 +81,17 @@ optional arguments:
   -p          produce Python files (with suffix .py)
 ```
 
+```
+$ ./parse_worldfactbook_infos.py --help
+usage: parse_worldfactbook_infos.py [-h] [-j] [-p]
 
+dump country-related informations from the CIA World Factbook into JSON or
+Python file
 
+optional arguments:
+  -h, --help  show this help message and exit
+  -j          produce JSON files (with suffix .json)
+  -p          produce Python files (with suffix .py)
+
+```
 
