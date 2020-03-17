@@ -303,32 +303,48 @@ COUNTRY_SECTIONS = {
     }
 
 
+def _explore_subsection(S, D, FIELDS):
+    for subsection in S:
+        if 'id' in subsection.attrib and subsection.attrib['id'] in FIELDS:
+            #print('subsection found: %s' % subsection.attrib['id'])
+            name, cb = FIELDS[subsection.attrib['id']]
+            D[name] = cb(subsection)
+    # sometimes, HTML structure hierarchy is corrupted, hence this:
+    _explore_section(S, D)
+
+
+def _explore_section(S, D):
+    for section in S:
+        if 'id' in section.attrib and section.attrib['id'] in COUNTRY_SECTIONS:
+            #print('section found: %s' % section.attrib['id'])
+            _explore_subsection(section, D, COUNTRY_SECTIONS[section.attrib['id']])
+        # sometimes, HTML structure hierarchy is corrupted, hence this:
+        _explore_section(section, D)
+
+
 def parse_table_country(url):
     try:
         T = import_html_doc(url)[2][0][0][0][0][0][1][1]
     except Exception:
         return {}
     #
-    D = {'err': []}
-    for section in T:
-        if section.attrib['id'] in COUNTRY_SECTIONS:
-            FIELDS = COUNTRY_SECTIONS[section.attrib['id']]
-            for field in section:
-                if field.attrib['id'] in FIELDS:
-                    name, cb = FIELDS[field.attrib['id']]
-                    D[name] = cb(field)
+    D = {}
+    # warning: for some country url, the HTML structure is inconsistent
+    _explore_section(T, D)
     return D
-    
+
 
 #------------------------------------------------------------------------------#
 # Main
 #------------------------------------------------------------------------------#
 
+URL_LICENSE = "https://www.cia.gov/library/publications/the-world-factbook/docs/contributor_copyright.html"
+
 def main():
     parser = argparse.ArgumentParser(description=
         'dump country-related informations from the CIA World Factbook into JSON or Python file')
-    parser.add_argument('-j', action='store_true', help='produce JSON files (with suffix .json)')
-    parser.add_argument('-p', action='store_true', help='produce Python files (with suffix .py)')
+    parser.add_argument('-j', action='store_true', help='produce a JSON file (with suffix .json)')
+    parser.add_argument('-p', action='store_true', help='produce a Python file (with suffix .py)')
     args = parser.parse_args()
     try:
         D = parse_table_country_all()
@@ -337,9 +353,9 @@ def main():
         return 1
     #
     if args.j:
-        generate_json(D, 'world_fb.json')
+        generate_json(D, 'world_fb.json', [URL_FACTBOOK], URL_LICENSE)
     if args.p:
-        generate_python(D, 'world_fb.py')
+        generate_python(D, 'world_fb.py', [URL_FACTBOOK], URL_LICENSE)
     return 0
 
 

@@ -55,12 +55,25 @@ Several sources are available on the Internet:
   - https://developers.google.com/maps/documentation/javascript/geocoding (Google maps API)
 
 The CIA World Factbook is more complete than Wikipedia when coming to geography and borders referencement.
- 
+
+Specifically for the minimum distance between countries, here are valuable sources:
+- https://egallic.fr/en/closest-distance-between-countries/
+  - with updated R code and computed values:
+    https://gist.github.com/mtriff/185e15be85b44547ed110e412a1771bf/
+- http://nils.weidmann.ws/projects/cshapes.html (CShapes dataset and R package)
+- https://zenodo.org/record/46822 for sea-distances only
+  - with related information provided here:
+    https://halshs.archives-ouvertes.fr/halshs-01288748/document
+- https://www.transtats.bts.gov/Distance.asp for distances between airports
+
 
 ### Which one to use
 
 After checking several sources, it seems Wikipedia has the must complete, up-to-date and accurate information.
-Therefore, the tool primarily uses it to build the JSON / Python dictionnaries.
+Therefore, the tool primarily uses it to build the JSON / Python dictionnaries, it uses also the CIA World Factbook
+to gather information related to each country, including borders and telephony-related.
+Finally, the code and data provided on the _egallic_ blogpost is valuable for dealing with close countries which
+do not share any borders.
 
 
 ## Install and usage

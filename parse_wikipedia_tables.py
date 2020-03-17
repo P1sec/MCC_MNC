@@ -576,20 +576,27 @@ def get_wiki_infos():
         return D_iso, L_mcc, D_mnc, D_pref, L_bord
 
 
-def generate_json(d, destfile):
+def generate_json(d, destfile, src, license):
     with open(destfile, 'w') as fd:
+        fd.write('{"source": [%s],\n' % ', '.join(['"%s"' % u for u in src]))
+        fd.write(' "license": "%s",\n }\n\n' % license)
         json.dump(d, fp=fd, sort_keys=True, indent=2)
         fd.write('\n')
     print('[+] %s file generated' % destfile)
 
 
-def generate_python(d, destfile):
+def generate_python(d, destfile, src, license):
     pp = PrettyPrinter(indent=2, width=120)
     varname = destfile[:-3].upper()
     with open(destfile, 'w') as fd:
-        fd.write('# -*- coding: UTF-8 -*-\n\n%s = \\\n%s\n' % (varname, pp.pformat(d)))
+        fd.write('# -*- coding: UTF-8 -*-\n')
+        fd.write('# source: %s\n' % ', '.join(src))
+        fd.write('# license: %s\n\n' % license)
+        fd.write('%s = \\\n%s\n' % (varname, pp.pformat(d)))
     print('[+] %s file generated' % destfile)
 
+
+URL_LICENSE = "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
 
 def main():
     parser = argparse.ArgumentParser(description=
@@ -602,17 +609,17 @@ def main():
         return 1
     #
     if args.j:
-        generate_json(D_iso, 'wikip_iso3166.json')
-        generate_json(L_mcc, 'wikip_mcc.json')
-        generate_json(D_mnc, 'wikip_mnc.json')
-        generate_json(D_pref, 'wikip_msisdn.json')
-        generate_json(L_bord, 'wikip_borders.json')
+        generate_json(D_iso, 'wikip_iso3166.json', [URL_CODE_ALPHA_2], URL_LICENSE)
+        generate_json(L_mcc, 'wikip_mcc.json', [URL_MCC], URL_LICENSE)
+        generate_json(D_mnc, 'wikip_mnc.json', [URL_MNC_EU, URL_MNC_NA, URL_MNC_AS, URL_MNC_OC, URL_MNC, AF, URL_MNC_SA], URL_LICENSE)
+        generate_json(D_pref, 'wikip_msisdn.json', [URL_MSISDN], URL_LICENSE)
+        generate_json(L_bord, 'wikip_borders.json', [URL_BORDERS], URL_LICENSE)
     if args.p:
-        generate_python(D_iso, 'wikip_iso3166.py')
-        generate_python(L_mcc, 'wikip_mcc.py')
-        generate_python(D_mnc, 'wikip_mnc.py')
-        generate_python(D_pref, 'wikip_msisdn.py')
-        generate_python(L_bord, 'wikip_borders.py')
+        generate_python(D_iso, 'wikip_iso3166.py', [URL_CODE_ALPHA_2], URL_LICENSE)
+        generate_python(L_mcc, 'wikip_mcc.py', [URL_MCC], URL_LICENSE)
+        generate_python(D_mnc, 'wikip_mnc.py', [URL_MNC_EU, URL_MNC_NA, URL_MNC_AS, URL_MNC_OC, URL_MNC, AF, URL_MNC_SA], URL_LICENSE)
+        generate_python(D_pref, 'wikip_msisdn.py', [URL_MSISDN], URL_LICENSE)
+        generate_python(L_bord, 'wikip_borders.py', [URL_BORDERS], URL_LICENSE)
     return 0
 
 

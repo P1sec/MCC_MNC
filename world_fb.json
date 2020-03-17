@@ -1,3 +1,7 @@
+{"source": ["https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html"],
+ "license": "https://www.cia.gov/library/publications/the-world-factbook/docs/contributor_copyright.html",
+ }
+
 {
   "Afghanistan": {
     "cc2": "AF",
@@ -35,7 +39,6 @@
         "local_long": "Jamhuri-ye Islami-ye Afghanistan",
         "local_short": "Afghanistan"
       },
-      "err": [],
       "population": 36643815,
       "ports": {},
       "region": [
@@ -100,7 +103,6 @@
         "conv_long": "none",
         "conv_short": "Akrotiri"
       },
-      "err": [],
       "population": 15500,
       "region": [
         "Middle East"
@@ -146,7 +148,6 @@
         "local_long": "Republika e Shqiperise",
         "local_short": "Shqiperia"
       },
-      "err": [],
       "population": 3074579,
       "ports": {
         "major seaport": "Durres, Sarande, Shengjin, Vlore"
@@ -225,7 +226,6 @@
         "local_long": "Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah",
         "local_short": "Al Jaza'ir"
       },
-      "err": [],
       "population": 42972878,
       "ports": {
         "major seaport": "Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda"
@@ -297,7 +297,6 @@
         "conv_long": "American Samoa",
         "conv_short": "American Samoa"
       },
-      "err": [],
       "population": 49437,
       "ports": {
         "major seaport": "Pago Pago"
@@ -362,7 +361,6 @@
         "local_long": "Principat d'Andorra",
         "local_short": "Andorra"
       },
-      "err": [],
       "population": 77000,
       "region": [
         "Europe"
@@ -429,7 +427,6 @@
         "local_long": "Republica de Angola",
         "local_short": "Angola"
       },
-      "err": [],
       "population": 32522339,
       "ports": {
         "major seaport": "Cabinda, Lobito, Luanda, Namibe"
@@ -493,7 +490,6 @@
         "conv_long": "none",
         "conv_short": "Anguilla"
       },
-      "err": [],
       "population": 18090,
       "ports": {
         "major seaport": "Blowing Point, Road Bay"
@@ -551,7 +547,6 @@
         "conv_long": "none",
         "conv_short": "Antarctica"
       },
-      "err": [],
       "population": 0,
       "ports": {},
       "region": [
@@ -607,7 +602,6 @@
         "conv_long": "none",
         "conv_short": "Antigua and Barbuda"
       },
-      "err": [],
       "population": 98179,
       "ports": {
         "major seaport": "Saint John's"
@@ -680,7 +674,6 @@
         "local_long": "Republica Argentina",
         "local_short": "Argentina"
       },
-      "err": [],
       "population": 45479118,
       "ports": {
         "container port": "Buenos Aires (1,851,701)",
@@ -753,7 +746,6 @@
         "local_long": "Hayastani Hanrapetut'yun",
         "local_short": "Hayastan"
       },
-      "err": [],
       "population": 3021324,
       "region": [
         "Asia"
@@ -818,7 +810,6 @@
         "local_long": "Land Aruba (Dutch); Pais Aruba (Papiamento)",
         "local_short": "Aruba"
       },
-      "err": [],
       "population": 119428,
       "ports": {
         "major seaport": "Barcadera, Oranjestad"
@@ -878,7 +869,6 @@
         "conv_long": "Territory of Ashmore and Cartier Islands",
         "conv_short": "Ashmore and Cartier Islands"
       },
-      "err": [],
       "population": 0,
       "ports": {},
       "region": [
@@ -918,7 +908,6 @@
         "conv_long": "Commonwealth of Australia",
         "conv_short": "Australia"
       },
-      "err": [],
       "population": 25466459,
       "ports": {
         "container port": "Melbourne (2,806,436), Sydney (2,530,122)",
@@ -999,7 +988,6 @@
         "local_long": "Republik Oesterreich",
         "local_short": "Oesterreich"
       },
-      "err": [],
       "population": 8859449,
       "ports": {},
       "region": [
@@ -1074,7 +1062,6 @@
         "local_long": "Azarbaycan Respublikasi",
         "local_short": "Azarbaycan"
       },
-      "err": [],
       "population": 10205810,
       "ports": {
         "major seaport": "Baku (Baki) located on the Caspian Sea"
@@ -1141,7 +1128,6 @@
         "conv_long": "Commonwealth of The Bahamas",
         "conv_short": "The Bahamas"
       },
-      "err": [],
       "population": 337721,
       "ports": {
         "container port": "Freeport (1,116,272)(2011)",
@@ -1212,7 +1198,6 @@
         "local_long": "Mamlakat al Bahrayn",
         "local_short": "Al Bahrayn"
       },
-      "err": [],
       "population": 1505003,
       "ports": {
         "major seaport": "Mina' Salman, Sitrah"
@@ -1303,7 +1288,6 @@
         "conv_long": "none",
         "conv_short": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll"
       },
-      "err": [],
       "population": 0,
       "ports": {
         "major seaport": "Baker, Howland, and Jarvis Islands, and Kingman Reef"
@@ -1350,7 +1334,6 @@
         "local_long": "Gana Prajatantri Bangladesh",
         "local_short": "Bangladesh"
       },
-      "err": [],
       "population": 162650853,
       "ports": {
         "container port": "Chittagong (2,566,597)",
@@ -1420,7 +1403,6 @@
         "conv_long": "none",
         "conv_short": "Barbados"
       },
-      "err": [],
       "population": 294560,
       "ports": {
         "major seaport": "Bridgetown"
@@ -1505,7 +1487,6 @@
         "local_long": "Respublika Byelarus'/Respublika Belarus'",
         "local_short": "Byelarus'/Belarus'"
       },
-      "err": [],
       "population": 9477918,
       "ports": {},
       "region": [
@@ -1582,7 +1563,6 @@
         "local_long": "Royaume de Belgique (French)/Koninkrijk Belgie (Dutch)/Koenigreich Belgien (German)",
         "local_short": "Belgique/Belgie/Belgien"
       },
-      "err": [],
       "population": 11720716,
       "ports": {
         "container port": "Antwerp (10,450,000)",
@@ -1654,7 +1634,6 @@
         "conv_long": "none",
         "conv_short": "Belize"
       },
-      "err": [],
       "population": 399598,
       "ports": {
         "major seaport": "Belize City, Big Creek"
@@ -1725,7 +1704,6 @@
         "local_long": "Republique du Benin",
         "local_short": "Benin"
       },
-      "err": [],
       "population": 12864634,
       "ports": {
         "major seaport": "Cotonou"
@@ -1793,7 +1771,6 @@
         "conv_long": "none",
         "conv_short": "Bermuda"
       },
-      "err": [],
       "population": 71750,
       "ports": {
         "major seaport": "Hamilton, Ireland Island, Saint George"
@@ -1860,7 +1837,6 @@
         "local_long": "Druk Gyalkhap",
         "local_short": "Druk Yul"
       },
-      "err": [],
       "population": 782318,
       "region": [
         "Asia"
@@ -1930,7 +1906,6 @@
         "local_long": "Estado Plurinacional de Bolivia",
         "local_short": "Bolivia"
       },
-      "err": [],
       "population": 11639909,
       "ports": {},
       "region": [
@@ -2001,7 +1976,6 @@
         "local_long": "none",
         "local_short": "Bosna i Hercegovina"
       },
-      "err": [],
       "population": 3835586,
       "ports": {},
       "region": [
@@ -2070,7 +2044,6 @@
         "local_long": "Republic of Botswana",
         "local_short": "Botswana"
       },
-      "err": [],
       "population": 2317233,
       "region": [
         "Africa"
@@ -2129,7 +2102,6 @@
         "conv_long": "none",
         "conv_short": "Bouvet Island"
       },
-      "err": [],
       "population": 0,
       "ports": {},
       "region": [
@@ -2182,7 +2154,6 @@
         "local_long": "Republica Federativa do Brasil",
         "local_short": "Brasil"
       },
-      "err": [],
       "population": 211715973,
       "ports": {
         "container port": "Santos (3,853,719)",
@@ -2246,7 +2217,6 @@
         "conv_long": "British Indian Ocean Territory",
         "conv_short": "none"
       },
-      "err": [],
       "population": 0,
       "ports": {
         "major seaport": "Diego Garcia"
@@ -2304,7 +2274,6 @@
         "conv_long": "none",
         "conv_short": "British Virgin Islands"
       },
-      "err": [],
       "population": 37381,
       "ports": {
         "major seaport": "Road Harbor"
@@ -2371,7 +2340,6 @@
         "local_long": "Negara Brunei Darussalam",
         "local_short": "Brunei"
       },
-      "err": [],
       "population": 464478,
       "ports": {
         "major seaport": "Muara"
@@ -2445,7 +2413,6 @@
         "local_long": "Republika Bulgaria",
         "local_short": "Bulgaria"
       },
-      "err": [],
       "population": 6966899,
       "ports": {
         "major seaport": "Burgas, Varna (Black Sea)"
@@ -2519,7 +2486,6 @@
         "local_long": "none",
         "local_short": "Burkina Faso"
       },
-      "err": [],
       "population": 20835401,
       "region": [
         "Africa"
@@ -2591,7 +2557,6 @@
         "local_long": "Pyidaungzu Thammada Myanma Naingngandaw (translated as the Republic of the Union of Myanmar)",
         "local_short": "Myanma Naingngandaw"
       },
-      "err": [],
       "population": 56590071,
       "ports": {
         "major seaport": "Mawlamyine (Moulmein), Sittwe"
@@ -2659,7 +2624,6 @@
         "local_long": "Republique du Burundi/Republika y'u Burundi",
         "local_short": "Burundi"
       },
-      "err": [],
       "population": 11865821,
       "ports": {},
       "region": [
@@ -2725,7 +2689,6 @@
         "local_long": "Republica de Cabo Verde",
         "local_short": "Cabo Verde"
       },
-      "err": [],
       "population": 583255,
       "ports": {
         "major seaport": "Porto Grande"
@@ -2799,7 +2762,6 @@
         "local_long": "Preahreacheanachakr Kampuchea (phonetic transliteration)",
         "local_short": "Kampuchea"
       },
-      "err": [],
       "population": 16926984,
       "ports": {
         "major seaport": "Sihanoukville (Kampong Saom)"
@@ -2878,7 +2840,6 @@
         "local_long": "Republique du Cameroun/Republic of Cameroon",
         "local_short": "Cameroun/Cameroon"
       },
-      "err": [],
       "population": 27744989,
       "ports": {},
       "region": [
@@ -2942,7 +2903,6 @@
         "conv_long": "none",
         "conv_short": "Canada"
       },
-      "err": [],
       "population": 37694085,
       "ports": {
         "container port": "Montreal (1,537,669), Vancouver (3,252,225)",
@@ -3010,7 +2970,6 @@
         "conv_long": "none",
         "conv_short": "Cayman Islands"
       },
-      "err": [],
       "population": 61944,
       "ports": {
         "major seaport": "Cayman Brac, George Town"
@@ -3083,7 +3042,6 @@
         "local_long": "Republique Centrafricaine",
         "local_short": "none"
       },
-      "err": [],
       "population": 5990855,
       "ports": {},
       "region": [
@@ -3154,7 +3112,6 @@
         "local_long": "Republique du Tchad/Jumhuriyat Tshad",
         "local_short": "Tchad/Tshad"
       },
-      "err": [],
       "population": 16877357,
       "region": [
         "Africa"
@@ -3219,7 +3176,6 @@
         "local_long": "Republica de Chile",
         "local_short": "Chile"
       },
-      "err": [],
       "population": 18186770,
       "ports": {
         "container port": "San Antonio (1,296,890), Valparaiso (1,073,734)",
@@ -3305,7 +3261,6 @@
         "local_long": "Zhonghua Renmin Gongheguo",
         "local_short": "Zhongguo"
       },
-      "err": [],
       "population": 1394015977,
       "ports": {
         "container port": "Dalian (9,707,000), Guangzhou (18,858,000), Ningbo (24,607,000), Qingdao (18,262,000), Shanghai (40,233,000), Shenzhen (25,208,000), Tianjin (15,040,000)",
@@ -3374,7 +3329,6 @@
         "conv_long": "Territory of Christmas Island",
         "conv_short": "Christmas Island"
       },
-      "err": [],
       "population": 2205,
       "ports": {
         "major seaport": "Flying Fish Cove"
@@ -3430,7 +3384,6 @@
         "local_long": "none",
         "local_short": "Ile Clipperton"
       },
-      "err": [],
       "population": 0,
       "ports": {},
       "region": [
@@ -3470,7 +3423,6 @@
         "conv_long": "Territory of Cocos (Keeling) Islands",
         "conv_short": "Cocos (Keeling) Islands"
       },
-      "err": [],
       "population": 596,
       "ports": {
         "major seaport": "Port Refuge"
@@ -3509,13 +3461,54 @@
     "cmt": "",
     "gec": "CO",
     "infos": {
+      "airports": 836,
+      "capital": {
+        "coord": "4 36 N, 74 05 W",
+        "name": "Bogota",
+        "time_diff": "UTC-5 (same time as Washington, DC, during Standard Time)"
+      },
       "coord": [
         "4 00 N, 72 00 W"
       ],
-      "err": [],
+      "country_name": {
+        "conv_long": "Republic of Colombia",
+        "conv_short": "Colombia",
+        "local_long": "Republica de Colombia",
+        "local_short": "Colombia"
+      },
+      "population": 49084841,
+      "ports": {
+        "container port": "Cartagena (2,663,415)",
+        "major seaport": "Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo"
+      },
       "region": [
         "South America"
-      ]
+      ],
+      "subs_broadband": 6678543,
+      "subs_fixed": 6973573,
+      "subs_mobile": 64513977,
+      "telephone": {
+        "code": "57",
+        "domestic": [
+          "fixed-line connections stand at about 14 per 100 persons",
+          "mobile cellular telephone subscribership is about 134 per 100 persons",
+          "competition among cellular service providers is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed-line services",
+          2018
+        ],
+        "general": [
+          "modern system with a nationwide microwave radio relay system, a domestic satellite system with 41 earth stations, and a fiber-optic network linking 50 cities",
+          "the cable sector commands about half of the market by subscribers, with DSL having a declining share and with fiber-based broadband developing strongly",
+          "competition among the MVNO (mobile virtual network operator) sector has promoted 2.9 million subscribers as of mid-2018",
+          "most infrastructure is primarily in high-density urban areas",
+          2018
+        ],
+        "intl": [
+          "landing points for the SAC, Maya-1, SAIT, ACROS, AMX-1, CFX-1, PCCS, Deep Blue Cable, Globe Net, PAN-AM, SAm-1 submarine cable systems providing links to the US, parts of the Caribbean, and Central and South America",
+          "satellite earth stations - 10 (6 Intelsat, 1 Inmarsat, 3 fully digitalized international switching centers)",
+          2019
+        ]
+      },
+      "users_internet": 27452550
     },
     "name": "Colombia",
     "stan": "COL",
@@ -3552,7 +3545,6 @@
         "local_long": "Udzima wa Komori (Comorian), Union des Comores (French), Jumhuriyat al Qamar al Muttahidah (Arabic)",
         "local_short": "Komori (Comorian), Comores (French), Juzur al Qamar (Arabic)"
       },
-      "err": [],
       "population": 846281,
       "ports": {
         "major seaport": "Moroni, Moutsamoudou"
@@ -3629,7 +3621,6 @@
         "local_long": "Republique Democratique du Congo",
         "local_short": "RDC"
       },
-      "err": [],
       "population": 101780263,
       "ports": {
         "major seaport": "Banana"
@@ -3705,7 +3696,6 @@
         "local_long": "Republique du Congo",
         "local_short": "Congo"
       },
-      "err": [],
       "population": 5293070,
       "ports": {
         "major seaport": "Pointe-Noire"
@@ -3769,7 +3759,6 @@
         "conv_long": "none",
         "conv_short": "Cook Islands"
       },
-      "err": [],
       "population": 8574,
       "ports": {
         "major seaport": "Avatiu"
@@ -3827,7 +3816,6 @@
         "conv_long": "Coral Sea Islands Territory",
         "conv_short": "Coral Sea Islands"
       },
-      "err": [],
       "population": 0,
       "ports": {},
       "region": [
@@ -3872,7 +3860,6 @@
         "local_long": "Republica de Costa Rica",
         "local_short": "Costa Rica"
       },
-      "err": [],
       "population": 5097988,
       "ports": {
         "major seaport": "Atlantic Ocean (Caribbean) - Puerto Limon"
@@ -3949,7 +3936,6 @@
         "local_long": "Republique de Cote d'Ivoire",
         "local_short": "Cote d'Ivoire"
       },
-      "err": [],
       "population": 27481086,
       "ports": {
         "major seaport": "Abidjan, San-Pedro"
@@ -4022,7 +4008,6 @@
         "local_long": "Republika Hrvatska",
         "local_short": "Hrvatska"
       },
-      "err": [],
       "population": 4227746,
       "ports": {
         "major seaport": "Ploce, Rijeka, Sibenik, Split"
@@ -4094,7 +4079,6 @@
         "local_long": "Republica de Cuba",
         "local_short": "Cuba"
       },
-      "err": [],
       "population": 11059062,
       "ports": {
         "major seaport": "Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba"
@@ -4162,7 +4146,6 @@
         "local_long": "Land Curacao (Dutch); Pais Korsou (Papiamento)",
         "local_short": "Curacao (Dutch); Korsou (Papiamento)"
       },
-      "err": [],
       "population": 151345,
       "ports": {
         "major seaport": "Willemstad"
@@ -4227,7 +4210,6 @@
         "local_long": "Kypriaki Dimokratia/Kibris Cumhuriyeti",
         "local_short": "Kypros/Kibris"
       },
-      "err": [],
       "population": 1266676,
       "ports": {
         "major seaport": "area under government control: Larnaca, Limassol, Vasilikos"
@@ -4300,7 +4282,6 @@
         "local_long": "Ceska republika",
         "local_short": "Cesko"
       },
-      "err": [],
       "population": 10702498,
       "ports": {},
       "region": [
@@ -4367,7 +4348,6 @@
         "local_long": "Kongeriget Danmark",
         "local_short": "Danmark"
       },
-      "err": [],
       "population": 5869410,
       "ports": {
         "major seaport": "Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg"
@@ -4435,7 +4415,6 @@
         "conv_long": "none",
         "conv_short": "Dhekelia"
       },
-      "err": [],
       "population": 15500,
       "region": [
         "Middle East"
@@ -4480,7 +4459,6 @@
         "local_long": "Republique de Djibouti/Jumhuriyat Jibuti",
         "local_short": "Djibouti/Jibuti"
       },
-      "err": [],
       "population": 921804,
       "ports": {
         "major seaport": "Djibouti"
@@ -4548,7 +4526,6 @@
         "conv_long": "Commonwealth of Dominica",
         "conv_short": "Dominica"
       },
-      "err": [],
       "population": 74243,
       "ports": {
         "major seaport": "Portsmouth, Roseau"
@@ -4618,7 +4595,6 @@
         "local_long": "Republica Dominicana",
         "local_short": "La Dominicana"
       },
-      "err": [],
       "population": 10499707,
       "ports": {
         "major seaport": "Puerto Haina, Puerto Plata, Santo Domingo"
@@ -4690,7 +4666,6 @@
         "local_long": "Republica del Ecuador",
         "local_short": "Ecuador"
       },
-      "err": [],
       "population": 16904867,
       "ports": {
         "container port": "Guayaquil (1,871,591)",
@@ -4764,7 +4739,6 @@
         "local_long": "Jumhuriyat Misr al-Arabiyah",
         "local_short": "Misr"
       },
-      "err": [],
       "population": 104124440,
       "ports": {
         "container port": "Alexandria (1,613,000), Port Said (East) (2,968,308)",
@@ -4839,7 +4813,6 @@
         "local_long": "Republica de El Salvador",
         "local_short": "El Salvador"
       },
-      "err": [],
       "population": 6481102,
       "ports": {
         "major seaport": "Puerto Cutuco"
@@ -4909,7 +4882,6 @@
         "local_long": "Republica de Guinea Ecuatorial/Republique de Guinee Equatoriale",
         "local_short": "Guinea Ecuatorial/Guinee Equatoriale"
       },
-      "err": [],
       "population": 836178,
       "ports": {
         "major seaport": "Bata, Luba, Malabo"
@@ -4978,7 +4950,6 @@
         "local_long": "Hagere Ertra",
         "local_short": "Ertra"
       },
-      "err": [],
       "population": 6081196,
       "ports": {
         "major seaport": "Assab, Massawa"
@@ -5050,7 +5021,6 @@
         "local_long": "Eesti Vabariik",
         "local_short": "Eesti"
       },
-      "err": [],
       "population": 1228624,
       "ports": {
         "major seaport": "Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn"
@@ -5123,7 +5093,6 @@
         "local_long": "Umbuso weSwatini",
         "local_short": "eSwatini"
       },
-      "err": [],
       "population": 1104479,
       "region": [
         "Africa"
@@ -5194,7 +5163,6 @@
         "local_long": "Ityop'iya Federalawi Demokrasiyawi Ripeblik",
         "local_short": "Ityop'iya"
       },
-      "err": [],
       "population": 108113150,
       "ports": {},
       "region": [
@@ -5273,7 +5241,6 @@
         "conv_long": "none",
         "conv_short": "Falkland Islands (Islas Malvinas)"
       },
-      "err": [],
       "population": 3198,
       "ports": {
         "major seaport": "Stanley"
@@ -5336,7 +5303,6 @@
         "local_long": "none",
         "local_short": "Foroyar"
       },
-      "err": [],
       "population": 51628,
       "ports": {
         "major seaport": "Fuglafjordur, Torshavn, Vagur"
@@ -5403,7 +5369,6 @@
         "local_long": "Republic of Fiji/Matanitu ko Viti",
         "local_short": "Fiji/Viti"
       },
-      "err": [],
       "population": 935974,
       "ports": {
         "major seaport": "Lautoka, Levuka, Suva"
@@ -5477,7 +5442,6 @@
         "local_long": "Suomen tasavalta/Republiken Finland",
         "local_short": "Suomi/Finland"
       },
-      "err": [],
       "population": 5571665,
       "ports": {
         "major seaport": "Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma"
@@ -5578,7 +5542,6 @@
         "local_long": "Republique francaise",
         "local_short": "France"
       },
-      "err": [],
       "population": 67848156,
       "ports": {
         "container port": "Le Havre (2,870,000)",
@@ -5709,7 +5672,6 @@
         "local_long": "Pays d'outre-mer de la Polynesie Francaise",
         "local_short": "Polynesie Francaise"
       },
-      "err": [],
       "population": 295121,
       "ports": {
         "major seaport": "Papeete"
@@ -5803,7 +5765,6 @@
         "local_long": "Territoire des Terres Australes et Antarctiques Francaises",
         "local_short": "Terres Australes et Antarctiques Francaises"
       },
-      "err": [],
       "population": 0,
       "ports": {},
       "region": [
@@ -5849,7 +5810,6 @@
         "local_long": "Republique Gabonaise",
         "local_short": "Gabon"
       },
-      "err": [],
       "population": 2230908,
       "ports": {
         "major seaport": "Libreville, Owendo, Port-Gentil"
@@ -5915,7 +5875,6 @@
         "conv_long": "Republic of The Gambia",
         "conv_short": "The Gambia"
       },
-      "err": [],
       "population": 2173999,
       "ports": {
         "major seaport": "Banjul"
@@ -5981,7 +5940,6 @@
         "local_long": "none",
         "local_short": "Qita' Ghazzah"
       },
-      "err": [],
       "population": 1918221,
       "ports": {
         "major seaport": "Gaza"
@@ -6051,7 +6009,6 @@
         "local_long": "none",
         "local_short": "Sak'art'velo"
       },
-      "err": [],
       "population": 3997000,
       "ports": {
         "major seaport": "Black Sea - Bat'umi, P'ot'i"
@@ -6131,7 +6088,6 @@
         "local_long": "Bundesrepublik Deutschland",
         "local_short": "Deutschland"
       },
-      "err": [],
       "population": 80159662,
       "ports": {
         "container port": "Bremen/Bremerhaven (5,510,000), Hamburg (8,860,000)",
@@ -6203,7 +6159,6 @@
         "conv_long": "Republic of Ghana",
         "conv_short": "Ghana"
       },
-      "err": [],
       "population": 29340248,
       "ports": {
         "major seaport": "Takoradi, Tema"
@@ -6273,7 +6228,6 @@
         "conv_long": "none",
         "conv_short": "Gibraltar"
       },
-      "err": [],
       "population": 29581,
       "ports": {
         "major seaport": "Gibraltar"
@@ -6357,7 +6311,6 @@
         "local_long": "Elliniki Dimokratia",
         "local_short": "Ellas or Ellada"
       },
-      "err": [],
       "population": 10607051,
       "ports": {
         "container port": "Piraeus (4,145,079)",
@@ -6430,7 +6383,6 @@
         "local_long": "none",
         "local_short": "Kalaallit Nunaat"
       },
-      "err": [],
       "population": 57616,
       "ports": {
         "major seaport": "Sisimiut"
@@ -6495,7 +6447,6 @@
         "conv_long": "none",
         "conv_short": "Grenada"
       },
-      "err": [],
       "population": 113094,
       "ports": {
         "major seaport": "Saint George's"
@@ -6574,7 +6525,6 @@
         "local_long": "none",
         "local_short": "Guahan"
       },
-      "err": [],
       "population": 168485,
       "ports": {
         "major seaport": "Apra Harbor"
@@ -6643,7 +6593,6 @@
         "local_long": "Republica de Guatemala",
         "local_short": "Guatemala"
       },
-      "err": [],
       "population": 17153288,
       "ports": {
         "major seaport": "Puerto Quetzal, Santo Tomas de Castilla"
@@ -6712,7 +6661,6 @@
         "conv_long": "Bailiwick of Guernsey",
         "conv_short": "Guernsey"
       },
-      "err": [],
       "population": 67052,
       "ports": {
         "major seaport": "Braye Bay, Saint Peter Port"
@@ -6782,7 +6730,6 @@
         "local_long": "Republique de Guinee",
         "local_short": "Guinee"
       },
-      "err": [],
       "population": 12527440,
       "ports": {
         "major seaport": "Conakry, Kamsar"
@@ -6855,7 +6802,6 @@
         "local_long": "Republica da Guine-Bissau",
         "local_short": "Guine-Bissau"
       },
-      "err": [],
       "population": 1927104,
       "ports": {
         "major seaport": "Bissau, Buba, Cacheu, Farim"
@@ -6922,7 +6868,6 @@
         "conv_long": "Cooperative Republic of Guyana",
         "conv_short": "Guyana"
       },
-      "err": [],
       "population": 750204,
       "ports": {
         "major seaport": "Georgetown"
@@ -6994,7 +6939,6 @@
         "local_long": "Republique d'Haiti/Repiblik d Ayiti",
         "local_short": "Haiti/Ayiti"
       },
-      "err": [],
       "population": 11067777,
       "ports": {
         "major seaport": "Cap-Haitien, Gonaives, Jacmel, Port-au-Prince"
@@ -7053,7 +6997,6 @@
         "conv_long": "Territory of Heard Island and McDonald Islands",
         "conv_short": "Heard Island and McDonald Islands"
       },
-      "err": [],
       "population": 0,
       "ports": {},
       "region": [
@@ -7095,7 +7038,6 @@
         "local_long": "La Santa Sede (Stato della Citta del Vaticano)",
         "local_short": "Santa Sede (Citta del Vaticano)"
       },
-      "err": [],
       "population": 1000,
       "region": [
         "Europe"
@@ -7154,7 +7096,6 @@
         "local_long": "Republica de Honduras",
         "local_short": "Honduras"
       },
-      "err": [],
       "population": 9235340,
       "ports": {
         "major seaport": "La Ceiba, Puerto Cortes, San Lorenzo, Tela"
@@ -7218,7 +7159,6 @@
         "local_long": "Heung Kong Takpit Hangching Ku (Eitel/Dyer-Ball)",
         "local_short": "Heung Kong (Eitel/Dyer-Ball)"
       },
-      "err": [],
       "population": 7249907,
       "ports": {
         "container port": "Hong Kong (20,770,000)",
@@ -7308,7 +7248,6 @@
         "conv_long": "none",
         "conv_short": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll"
       },
-      "err": [],
       "population": 0,
       "ports": {
         "major seaport": "Baker, Howland, and Jarvis Islands, and Kingman Reef"
@@ -7359,7 +7298,6 @@
         "local_long": "none",
         "local_short": "Magyarorszag"
       },
-      "err": [],
       "population": 9771827,
       "ports": {},
       "region": [
@@ -7424,7 +7362,6 @@
         "local_long": "Lydveldid Island",
         "local_short": "Island"
       },
-      "err": [],
       "population": 350734,
       "ports": {
         "major seaport": "Grundartangi, Hafnarfjordur, Reykjavik"
@@ -7498,7 +7435,6 @@
         "local_long": "Republic of India/Bharatiya Ganarajya",
         "local_short": "India/Bharat"
       },
-      "err": [],
       "population": 1326093247,
       "ports": {
         "container port": "Chennai (1,549,457), Jawaharal Nehru Port (4,833,397), Mundra (4,240,260)",
@@ -7572,7 +7508,6 @@
         "local_long": "Republik Indonesia",
         "local_short": "Indonesia"
       },
-      "err": [],
       "population": 267026366,
       "ports": {
         "container port": "Tanjung Perak (3,553,370), Tanjung Priok (6,090,000)",
@@ -7648,7 +7583,6 @@
         "local_long": "Jomhuri-ye Eslami-ye Iran",
         "local_short": "Iran"
       },
-      "err": [],
       "population": 84923314,
       "ports": {
         "container port": "Bandar Abbas (2,607,000)",
@@ -7727,7 +7661,6 @@
         "local_long": "Jumhuriyat al-Iraq/Komar-i Eraq",
         "local_short": "Al Iraq/Eraq"
       },
-      "err": [],
       "population": 38872655,
       "ports": {},
       "region": [
@@ -7799,7 +7732,6 @@
         "local_long": "none",
         "local_short": "Eire"
       },
-      "err": [],
       "population": 5176569,
       "ports": {
         "container port": "Dublin (529,563)",
@@ -7867,7 +7799,6 @@
         "conv_long": "none",
         "conv_short": "Isle of Man"
       },
-      "err": [],
       "population": 90499,
       "ports": {
         "major seaport": "Douglas, Ramsey"
@@ -7929,7 +7860,6 @@
         "local_long": "Medinat Yisra'el",
         "local_short": "Yisra'el"
       },
-      "err": [],
       "population": 8675475,
       "ports": {
         "container port": "Ashdod (1,443,000)",
@@ -8008,7 +7938,6 @@
         "local_long": "Repubblica Italiana",
         "local_short": "Italia"
       },
-      "err": [],
       "population": 62402659,
       "ports": {
         "container port": "Genoa (2,622,200), Gioia Tauro (2,448,600)",
@@ -8076,7 +8005,6 @@
         "conv_long": "none",
         "conv_short": "Jamaica"
       },
-      "err": [],
       "population": 2808570,
       "ports": {
         "container port": "Kingston (1,681,706)",
@@ -8136,7 +8064,6 @@
         "conv_long": "none",
         "conv_short": "Jan Mayen"
       },
-      "err": [],
       "population": 0,
       "ports": {},
       "region": [
@@ -8178,7 +8105,6 @@
         "local_long": "Nihon-koku/Nippon-koku",
         "local_short": "Nihon/Nippon"
       },
-      "err": [],
       "population": 125507472,
       "ports": {
         "container port": "Kobe (2,924,179), Nagoya (2,784,109), Osaka (2,326,852), Tokyo (4,500,156), Yokohama (2,926,698)",
@@ -8266,7 +8192,6 @@
         "conv_long": "none",
         "conv_short": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll"
       },
-      "err": [],
       "population": 0,
       "ports": {
         "major seaport": "Baker, Howland, and Jarvis Islands, and Kingman Reef"
@@ -8308,7 +8233,6 @@
         "conv_long": "Bailiwick of Jersey",
         "conv_short": "Jersey"
       },
-      "err": [],
       "population": 101073,
       "ports": {
         "major seaport": "Gorey, Saint Aubin, Saint Helier"
@@ -8390,7 +8314,6 @@
         "conv_long": "none",
         "conv_short": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll"
       },
-      "err": [],
       "population": 0,
       "ports": {
         "major seaport": "Baker, Howland, and Jarvis Islands, and Kingman Reef"
@@ -8440,7 +8363,6 @@
         "local_long": "Al Mamlakah al Urduniyah al Hashimiyah",
         "local_short": "Al Urdun"
       },
-      "err": [],
       "population": 10820644,
       "ports": {
         "major seaport": "Al 'Aqabah"
@@ -8527,7 +8449,6 @@
         "local_long": "Qazaqstan Respublikasy",
         "local_short": "Qazaqstan"
       },
-      "err": [],
       "population": 19091949,
       "ports": {
         "major seaport": "Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)"
@@ -8601,7 +8522,6 @@
         "local_long": "Republic of Kenya/Jamhuri ya Kenya",
         "local_short": "Kenya"
       },
-      "err": [],
       "population": 53527936,
       "ports": {
         "major seaport": "Kisumu, Mombasa"
@@ -8691,7 +8611,6 @@
         "conv_long": "none",
         "conv_short": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll"
       },
-      "err": [],
       "population": 0,
       "ports": {
         "major seaport": "Baker, Howland, and Jarvis Islands, and Kingman Reef"
@@ -8735,7 +8654,6 @@
         "local_long": "Republic of Kiribati",
         "local_short": "Kiribati"
       },
-      "err": [],
       "population": 111796,
       "ports": {
         "major seaport": "Betio (Tarawa Atoll), Canton Island, English Harbor"
@@ -8807,7 +8725,6 @@
         "local_long": "Choson-minjujuui-inmin-konghwaguk",
         "local_short": "Choson"
       },
-      "err": [],
       "population": 25643466,
       "ports": {
         "major seaport": "Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly Unggi), Wonsan"
@@ -8879,7 +8796,6 @@
         "local_long": "Taehan-min'guk",
         "local_short": "Han'guk"
       },
-      "err": [],
       "population": 51835110,
       "ports": {
         "container port": "Busan (20,493,000), Incheon (3,050,000), Kwangyang (2,230,000)",
@@ -8955,7 +8871,6 @@
         "local_long": "Republika e Kosoves (Republika Kosovo)",
         "local_short": "Kosove (Kosovo)"
       },
-      "err": [],
       "population": 1932774,
       "region": [
         "Europe"
@@ -9017,7 +8932,6 @@
         "local_long": "Dawlat al Kuwayt",
         "local_short": "Al Kuwayt"
       },
-      "err": [],
       "population": 2993706,
       "ports": {
         "major seaport": "Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, Mina' al Ahmadi"
@@ -9092,7 +9006,6 @@
         "local_long": "Kyrgyz Respublikasy",
         "local_short": "Kyrgyzstan"
       },
-      "err": [],
       "population": 5964897,
       "ports": {},
       "region": [
@@ -9164,7 +9077,6 @@
         "local_long": "Sathalanalat Paxathipatai Paxaxon Lao",
         "local_short": "Mueang Lao (unofficial)"
       },
-      "err": [],
       "population": 7447396,
       "region": [
         "Southeast Asia"
@@ -9234,7 +9146,6 @@
         "local_long": "Latvijas Republika",
         "local_short": "Latvija"
       },
-      "err": [],
       "population": 1881232,
       "ports": {
         "major seaport": "Riga, Ventspils"
@@ -9304,7 +9215,6 @@
         "local_long": "Al Jumhuriyah al Lubnaniyah",
         "local_short": "Lubnan"
       },
-      "err": [],
       "population": 5469612,
       "ports": {
         "container port": "Beirut (1,305,038)",
@@ -9373,7 +9283,6 @@
         "local_long": "Kingdom of Lesotho",
         "local_short": "Lesotho"
       },
-      "err": [],
       "population": 1969334,
       "region": [
         "Africa"
@@ -9440,7 +9349,6 @@
         "conv_long": "Republic of Liberia",
         "conv_short": "Liberia"
       },
-      "err": [],
       "population": 5073296,
       "ports": {
         "major seaport": "Buchanan, Monrovia"
@@ -9517,7 +9425,6 @@
         "local_long": "Dawiat Libiya",
         "local_short": "Libiya"
       },
-      "err": [],
       "population": 6890535,
       "ports": {
         "major seaport": "Marsa al Burayqah (Marsa el Brega), Tripoli"
@@ -9589,7 +9496,6 @@
         "local_long": "Fuerstentum Liechtenstein",
         "local_short": "Liechtenstein"
       },
-      "err": [],
       "population": 39137,
       "region": [
         "Europe"
@@ -9655,7 +9561,6 @@
         "local_long": "Lietuvos Respublika",
         "local_short": "Lietuva"
       },
-      "err": [],
       "population": 2731464,
       "ports": {
         "major seaport": "Klaipeda"
@@ -9731,7 +9636,6 @@
         "local_long": "Grand Duche de Luxembourg",
         "local_short": "Luxembourg"
       },
-      "err": [],
       "population": 628381,
       "ports": {},
       "region": [
@@ -9788,7 +9692,6 @@
         "conv_long": "Macau Special Administrative Region",
         "conv_short": "Macau"
       },
-      "err": [],
       "population": 614458,
       "ports": {
         "major seaport": "Macau"
@@ -9855,7 +9758,6 @@
         "local_long": "Republique de Madagascar/Repoblikan'i Madagasikara",
         "local_short": "Madagascar/Madagasikara"
       },
-      "err": [],
       "population": 26955737,
       "ports": {
         "major seaport": "Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)"
@@ -9924,7 +9826,6 @@
         "local_long": "Dziko la Malawi",
         "local_short": "Malawi"
       },
-      "err": [],
       "population": 21196629,
       "ports": {},
       "region": [
@@ -9996,7 +9897,6 @@
         "local_long": "none",
         "local_short": "Malaysia"
       },
-      "err": [],
       "population": 32652083,
       "ports": {
         "container port": "Port Kelang (Port Klang) (11,978,000), Tanjung Pelepas (8,260,000)",
@@ -10065,7 +9965,6 @@
         "local_long": "Dhivehi Raajjeyge Jumhooriyyaa",
         "local_short": "Dhivehi Raajje"
       },
-      "err": [],
       "population": 391904,
       "ports": {
         "major seaport": "Male"
@@ -10141,7 +10040,6 @@
         "local_long": "Republique de Mali",
         "local_short": "Mali"
       },
-      "err": [],
       "population": 19553397,
       "ports": {},
       "region": [
@@ -10209,7 +10107,6 @@
         "local_long": "Repubblika ta' Malta",
         "local_short": "Malta"
       },
-      "err": [],
       "population": 457267,
       "ports": {
         "container port": "Marsaxlokk (3,150,000)",
@@ -10277,7 +10174,6 @@
         "local_long": "Republic of the Marshall Islands",
         "local_short": "Marshall Islands"
       },
-      "err": [],
       "population": 77917,
       "ports": {
         "major seaport": "Enitwetak Island, Kwajalein, Majuro"
@@ -10364,7 +10260,6 @@
         "local_long": "Al Jumhuriyah al Islamiyah al Muritaniyah",
         "local_short": "Muritaniyah"
       },
-      "err": [],
       "population": 4005475,
       "ports": {
         "major seaport": "Nouadhibou, Nouakchott"
@@ -10438,7 +10333,6 @@
         "local_long": "Republic of Mauritius",
         "local_short": "Mauritius"
       },
-      "err": [],
       "population": 1379365,
       "ports": {
         "major seaport": "Port Louis"
@@ -10523,7 +10417,6 @@
         "local_long": "Estados Unidos Mexicanos",
         "local_short": "Mexico"
       },
-      "err": [],
       "population": 128649565,
       "ports": {
         "container port": "Manzanillo (2,830,370), Lazaro Cardenas (1,149,079)",
@@ -10599,7 +10492,6 @@
         "local_long": "Federated States of Micronesia",
         "local_short": "none"
       },
-      "err": [],
       "population": 102436,
       "ports": {
         "major seaport": "Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor"
@@ -10683,7 +10575,6 @@
         "conv_long": "none",
         "conv_short": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll"
       },
-      "err": [],
       "population": 0,
       "ports": {
         "major seaport": "Baker, Howland, and Jarvis Islands, and Kingman Reef"
@@ -10729,7 +10620,6 @@
         "local_long": "Republica Moldova",
         "local_short": "Moldova"
       },
-      "err": [],
       "population": 3364496,
       "region": [
         "Europe"
@@ -10796,7 +10686,6 @@
         "local_long": "Principaute de Monaco",
         "local_short": "Monaco"
       },
-      "err": [],
       "population": 39000,
       "ports": {
         "major seaport": "Hercules Port"
@@ -10865,7 +10754,6 @@
         "local_long": "none",
         "local_short": "Mongol Uls"
       },
-      "err": [],
       "population": 3168026,
       "region": [
         "Asia"
@@ -10937,7 +10825,6 @@
         "local_long": "none",
         "local_short": "Crna Gora"
       },
-      "err": [],
       "population": 609859,
       "ports": {
         "major seaport": "Bar"
@@ -11003,7 +10890,6 @@
         "conv_long": "none",
         "conv_short": "Montserrat"
       },
-      "err": [],
       "population": 5373,
       "ports": {
         "major seaport": "Little Bay, Plymouth"
@@ -11073,7 +10959,6 @@
         "local_long": "Al Mamlakah al Maghribiyah",
         "local_short": "Al Maghrib"
       },
-      "err": [],
       "population": 35561654,
       "ports": {
         "container port": "Tangier (3,312,409)",
@@ -11152,7 +11037,6 @@
         "local_long": "Republica de Mocambique",
         "local_short": "Mocambique"
       },
-      "err": [],
       "population": 30098197,
       "ports": {
         "major seaport": "Beira, Maputo, Nacala"
@@ -11237,7 +11121,6 @@
         "local_long": "Republic of Namibia",
         "local_short": "Namibia"
       },
-      "err": [],
       "population": 2630073,
       "ports": {
         "major seaport": "Luderitz, Walvis Bay"
@@ -11306,7 +11189,6 @@
         "local_long": "Republic of Nauru",
         "local_short": "Nauru"
       },
-      "err": [],
       "population": 11000,
       "ports": {
         "major seaport": "Nauru"
@@ -11363,7 +11245,6 @@
         "conv_long": "none",
         "conv_short": "Navassa Island"
       },
-      "err": [],
       "population": 0,
       "ports": {},
       "region": [
@@ -11407,7 +11288,6 @@
         "local_long": "Sanghiya Loktantrik Ganatantra Nepal",
         "local_short": "Nepal"
       },
-      "err": [],
       "population": 30327877,
       "region": [
         "Asia"
@@ -11481,7 +11361,6 @@
         "local_long": "Koninkrijk der Nederlanden",
         "local_short": "Nederland"
       },
-      "err": [],
       "population": 17280397,
       "ports": {
         "container port": "Rotterdam (13,734,000)",
@@ -11566,7 +11445,6 @@
         "local_long": "Territoire des Nouvelle-Caledonie et Dependances",
         "local_short": "Nouvelle-Caledonie"
       },
-      "err": [],
       "population": 290009,
       "ports": {
         "major seaport": "Noumea"
@@ -11628,7 +11506,6 @@
         "conv_long": "none",
         "conv_short": "New Zealand"
       },
-      "err": [],
       "population": 4925477,
       "ports": {
         "major seaport": "Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington"
@@ -11698,7 +11575,6 @@
         "local_long": "Republica de Nicaragua",
         "local_short": "Nicaragua"
       },
-      "err": [],
       "population": 6203441,
       "ports": {
         "major seaport": "Bluefields, Corinto"
@@ -11775,7 +11651,6 @@
         "local_long": "Republique du Niger",
         "local_short": "Niger"
       },
-      "err": [],
       "population": 22772361,
       "region": [
         "Africa"
@@ -11817,13 +11692,54 @@
     "cmt": "",
     "gec": "NI",
     "infos": {
+      "airports": 54,
+      "capital": {
+        "coord": "9 05 N, 7 32 E",
+        "name": "Abuja",
+        "time_diff": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
       "coord": [
         "10 00 N, 8 00 E"
       ],
-      "err": [],
+      "country_name": {
+        "conv_long": "Federal Republic of Nigeria",
+        "conv_short": "Nigeria"
+      },
+      "population": 214028302,
+      "ports": {
+        "major seaport": "Bonny Inshore Terminal, Calabar, Lagos"
+      },
       "region": [
         "Africa"
-      ]
+      ],
+      "subs_broadband": 73965,
+      "subs_fixed": 140491,
+      "subs_mobile": 172730603,
+      "telephone": {
+        "code": "234",
+        "domestic": [
+          "fixed-line subscribership remains less than 1 per 100 persons",
+          "mobile-cellular services growing rapidly, in part responding to the shortcomings of the fixed-line network",
+          "multiple cellular providers operate nationally with subscribership base over 85 per 100 persons",
+          2018
+        ],
+        "general": [
+          "one of the larger telecom markets in Africa",
+          "foreign investment presence",
+          "market competition",
+          "LTE technologies available but GSM technology dominate",
+          "unified licensing regime",
+          "government committed to expanding broadband penetration",
+          "in Q1 2018, the Nigerian Communications Commission approved seven licenses to telecom companies to deploy fiber optic cable in the six geopolitical zones and Lagos",
+          2018
+        ],
+        "intl": [
+          "landing point for the SAT-3/WASC, NCSCS, MainOne, Glo-1 & 2, ACE, and Equiano fiber-optic submarine cable that provides connectivity to Europe and South and West Africa",
+          "satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean)",
+          2019
+        ]
+      },
+      "users_internet": 47759904
     },
     "name": "Nigeria",
     "stan": "NGA",
@@ -11858,7 +11774,6 @@
         "conv_long": "none",
         "conv_short": "Niue"
       },
-      "err": [],
       "population": 2000,
       "ports": {
         "major seaport": "Alofi"
@@ -11918,7 +11833,6 @@
         "conv_long": "Territory of Norfolk Island",
         "conv_short": "Norfolk Island"
       },
-      "err": [],
       "population": 1748,
       "ports": {
         "major seaport": "Kingston"
@@ -11984,7 +11898,6 @@
         "local_long": "Republika Severna Makedonija",
         "local_short": "Severna Makedonija"
       },
-      "err": [],
       "population": 2125971,
       "region": [
         "Europe"
@@ -12046,7 +11959,6 @@
         "conv_long": "Commonwealth of the Northern Mariana Islands",
         "conv_short": "Northern Mariana Islands"
       },
-      "err": [],
       "population": 51433,
       "ports": {
         "major seaport": "Saipan, Tinian, Rota"
@@ -12111,7 +12023,6 @@
         "local_long": "Kongeriket Norge",
         "local_short": "Norge"
       },
-      "err": [],
       "population": 5467439,
       "ports": {
         "major seaport": "Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture"
@@ -12186,7 +12097,6 @@
         "local_long": "Saltanat Uman",
         "local_short": "Uman"
       },
-      "err": [],
       "population": 4664844,
       "ports": {
         "container port": "Salalah (3,946,421)",
@@ -12261,7 +12171,6 @@
         "local_long": "Jamhuryat Islami Pakistan",
         "local_short": "Pakistan"
       },
-      "err": [],
       "population": 233500636,
       "ports": {
         "container port": "Karachi (2,224,000)",
@@ -12335,7 +12244,6 @@
         "local_long": "Beluu er a Belau",
         "local_short": "Belau"
       },
-      "err": [],
       "population": 21685,
       "ports": {
         "major seaport": "Koror"
@@ -12419,7 +12327,6 @@
         "conv_long": "none",
         "conv_short": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Palmyra Atoll"
       },
-      "err": [],
       "population": 0,
       "ports": {
         "major seaport": "Baker, Howland, and Jarvis Islands, and Kingman Reef"
@@ -12466,7 +12373,6 @@
         "local_long": "Republica de Panama",
         "local_short": "Panama"
       },
-      "err": [],
       "population": 3894082,
       "ports": {
         "container port": "Balboa (2,905,049), Colon (3,891,209)",
@@ -12536,7 +12442,6 @@
         "conv_short": "Papua New Guinea",
         "local_short": "Papuaniugini"
       },
-      "err": [],
       "population": 7259456,
       "ports": {
         "major seaport": "Kimbe, Lae, Madang, Rabaul, Wewak"
@@ -12599,7 +12504,6 @@
         "conv_long": "none",
         "conv_short": "Paracel Islands"
       },
-      "err": [],
       "population": 1440,
       "ports": {},
       "region": [
@@ -12644,7 +12548,6 @@
         "local_long": "Republica del Paraguay",
         "local_short": "Paraguay"
       },
-      "err": [],
       "population": 7191685,
       "ports": {},
       "region": [
@@ -12718,7 +12621,6 @@
         "local_long": "Republica del Peru",
         "local_short": "Peru"
       },
-      "err": [],
       "population": 31914989,
       "ports": {
         "container port": "Callao (2,250,200)",
@@ -12787,7 +12689,6 @@
         "local_long": "Republika ng Pilipinas",
         "local_short": "Pilipinas"
       },
-      "err": [],
       "population": 109180815,
       "ports": {
         "container port": "Manila (4,782,240)",
@@ -12852,7 +12753,6 @@
         "conv_long": "Pitcairn, Henderson, Ducie, and Oeno Islands",
         "conv_short": "Pitcairn Islands"
       },
-      "err": [],
       "population": 50,
       "ports": {
         "major seaport": "Adamstown (on Bounty Bay)"
@@ -12922,7 +12822,6 @@
         "local_long": "Rzeczpospolita Polska",
         "local_short": "Polska"
       },
-      "err": [],
       "population": 38282325,
       "ports": {
         "container port": "Gdansk (1,593,761)",
@@ -12998,7 +12897,6 @@
         "local_long": "Republica Portuguesa",
         "local_short": "Portugal"
       },
-      "err": [],
       "population": 10302674,
       "ports": {
         "container port": "Sines (1,669,057)",
@@ -13069,7 +12967,6 @@
         "conv_long": "Commonwealth of Puerto Rico",
         "conv_short": "Puerto Rico"
       },
-      "err": [],
       "population": 3189068,
       "ports": {
         "container port": "San Juan (1,210,503)",
@@ -13142,7 +13039,6 @@
         "local_long": "Dawlat Qatar",
         "local_short": "Qatar"
       },
-      "err": [],
       "population": 2444174,
       "ports": {
         "major seaport": "Doha, Musay'id, Ra's Laffan"
@@ -13230,7 +13126,6 @@
         "local_long": "none",
         "local_short": "Romania"
       },
-      "err": [],
       "population": 21302893,
       "ports": {
         "major seaport": "Constanta, Midia"
@@ -13318,7 +13213,6 @@
         "local_long": "Rossiyskaya Federatsiya",
         "local_short": "Rossiya"
       },
-      "err": [],
       "population": 141722205,
       "ports": {
         "container port": "Saint Petersburg (1,848,700)",
@@ -13396,7 +13290,6 @@
         "local_long": "Republika y'u Rwanda",
         "local_short": "Rwanda"
       },
-      "err": [],
       "population": 12712431,
       "ports": {},
       "region": [
@@ -13459,7 +13352,6 @@
         "local_long": "Collectivite d'outre mer de Saint-Barthelemy",
         "local_short": "Saint-Barthelemy"
       },
-      "err": [],
       "population": 7122,
       "ports": {
         "major seaport": "Gustavia"
@@ -13527,7 +13419,6 @@
         "conv_long": "Saint Helena, Ascension, and Tristan da Cunha",
         "conv_short": "none"
       },
-      "err": [],
       "population": 7862,
       "ports": {
         "major seaport": "Saint Helena"
@@ -13595,7 +13486,6 @@
         "conv_long": "Federation of Saint Kitts and Nevis",
         "conv_short": "Saint Kitts and Nevis"
       },
-      "err": [],
       "population": 53821,
       "ports": {
         "major seaport": "Basseterre, Charlestown"
@@ -13661,7 +13551,6 @@
         "conv_long": "none",
         "conv_short": "Saint Lucia"
       },
-      "err": [],
       "population": 166487,
       "ports": {
         "major seaport": "Castries, Cul-de-Sac, Vieux-Fort"
@@ -13731,7 +13620,6 @@
         "local_long": "Collectivite d'outre mer de Saint-Martin",
         "local_short": "Saint-Martin"
       },
-      "err": [],
       "population": 32556,
       "region": [
         "Central America and the Caribbean"
@@ -13792,7 +13680,6 @@
         "local_long": "Departement de Saint-Pierre et Miquelon",
         "local_short": "Saint-Pierre et Miquelon"
       },
-      "err": [],
       "population": 5347,
       "ports": {
         "major seaport": "Saint-Pierre"
@@ -13849,7 +13736,6 @@
         "conv_long": "none",
         "conv_short": "Saint Vincent and the Grenadines"
       },
-      "err": [],
       "population": 101390,
       "ports": {
         "major seaport": "Kingstown"
@@ -13919,7 +13805,6 @@
         "local_long": "Malo Sa'oloto Tuto'atasi o Samoa",
         "local_short": "Samoa"
       },
-      "err": [],
       "population": 203774,
       "ports": {
         "major seaport": "Apia"
@@ -13987,7 +13872,6 @@
         "local_long": "Repubblica di San Marino",
         "local_short": "San Marino"
       },
-      "err": [],
       "population": 34232,
       "region": [
         "Europe"
@@ -14047,7 +13931,6 @@
         "local_long": "Republica Democratica de Sao Tome e Principe",
         "local_short": "Sao Tome e Principe"
       },
-      "err": [],
       "population": 211122,
       "ports": {
         "major seaport": "Sao Tome"
@@ -14122,7 +14005,6 @@
         "local_long": "Al Mamlakah al Arabiyah as Suudiyah",
         "local_short": "Al Arabiyah as Suudiyah"
       },
-      "err": [],
       "population": 34173498,
       "ports": {
         "container port": "Ad Dammam (1,582,388), Jeddah (4,150,000), King Abdulla (1,695,322)",
@@ -14198,7 +14080,6 @@
         "local_long": "Republique du Senegal",
         "local_short": "Senegal"
       },
-      "err": [],
       "population": 15736368,
       "ports": {
         "major seaport": "Dakar"
@@ -14276,7 +14157,6 @@
         "local_long": "Republika Srbija",
         "local_short": "Srbija"
       },
-      "err": [],
       "population": 7012165,
       "ports": {},
       "region": [
@@ -14341,7 +14221,6 @@
         "local_long": "Republic of Seychelles",
         "local_short": "Seychelles"
       },
-      "err": [],
       "population": 95981,
       "ports": {
         "major seaport": "Victoria"
@@ -14410,7 +14289,6 @@
         "local_long": "Republic of Sierra Leone",
         "local_short": "Sierra Leone"
       },
-      "err": [],
       "population": 6624933,
       "ports": {
         "major seaport": "Freetown, Pepel, Sherbro Islands"
@@ -14477,7 +14355,6 @@
         "local_long": "Republic of Singapore",
         "local_short": "Singapore"
       },
-      "err": [],
       "population": 6209660,
       "ports": {
         "container port": "Singapore (33,666,000)",
@@ -14550,7 +14427,6 @@
         "local_long": "Land Sint Maarten (Dutch); Country of Sint Maarten (English)",
         "local_short": "Sint Maarten (Dutch and English)"
       },
-      "err": [],
       "population": 43847,
       "ports": {
         "major seaport": "Philipsburg"
@@ -14615,7 +14491,6 @@
         "local_long": "Slovenska republika",
         "local_short": "Slovensko"
       },
-      "err": [],
       "population": 5440602,
       "ports": {},
       "region": [
@@ -14692,7 +14567,6 @@
         "local_long": "Republika Slovenija",
         "local_short": "Slovenija"
       },
-      "err": [],
       "population": 2102678,
       "ports": {
         "major seaport": "Koper"
@@ -14759,7 +14633,6 @@
         "local_long": "none",
         "local_short": "Solomon Islands"
       },
-      "err": [],
       "population": 685097,
       "ports": {
         "major seaport": "Honiara, Malloco Bay, Viru Harbor, Tulaghi"
@@ -14831,7 +14704,6 @@
         "local_long": "Jamhuuriyadda Federaalkaa Soomaaliya",
         "local_short": "Soomaaliya"
       },
-      "err": [],
       "population": 11757124,
       "ports": {
         "major seaport": "Berbera, Kismaayo"
@@ -14904,7 +14776,6 @@
         "conv_long": "Republic of South Africa",
         "conv_short": "South Africa"
       },
-      "err": [],
       "population": 56463617,
       "ports": {
         "container port": "Durban (2,699,978)",
@@ -14966,7 +14837,6 @@
         "conv_long": "South Georgia and the South Sandwich Islands",
         "conv_short": "South Georgia and South Sandwich Islands"
       },
-      "err": [],
       "population": 0,
       "ports": {
         "major seaport": "Grytviken"
@@ -15014,7 +14884,6 @@
         "conv_long": "Republic of South Sudan",
         "conv_short": "South Sudan"
       },
-      "err": [],
       "population": 10561244,
       "region": [
         "Africa"
@@ -15082,7 +14951,6 @@
         "local_long": "Reino de Espana",
         "local_short": "Espana"
       },
-      "err": [],
       "population": 50015792,
       "ports": {
         "container port": "Algeciras (4,389,836), Barcelona (2,968,757), Valencia (4,832,156)",
@@ -15145,7 +15013,6 @@
         "conv_long": "none",
         "conv_short": "Spratly Islands"
       },
-      "err": [],
       "population": 0,
       "ports": {},
       "region": [
@@ -15187,7 +15054,6 @@
         "local_long": "Shri Lanka Prajatantrika Samajavadi Janarajaya/Ilankai Jananayaka Choshalichak Kutiyarachu",
         "local_short": "Shri Lanka/Ilankai"
       },
-      "err": [],
       "population": 22889201,
       "ports": {
         "container port": "Colombo (6,209,000)",
@@ -15266,7 +15132,6 @@
         "local_long": "Jumhuriyat as-Sudan",
         "local_short": "As-Sudan"
       },
-      "err": [],
       "population": 45561556,
       "ports": {
         "major seaport": "Port Sudan"
@@ -15337,7 +15202,6 @@
         "local_long": "Republiek Suriname",
         "local_short": "Suriname"
       },
-      "err": [],
       "population": 609569,
       "ports": {
         "major seaport": "Paramaribo, Wageningen"
@@ -15403,7 +15267,6 @@
         "conv_long": "none",
         "conv_short": "Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)"
       },
-      "err": [],
       "population": 2926,
       "ports": {
         "major seaport": "Barentsburg, Longyearbyen, Ny-Alesund, Pyramiden"
@@ -15468,7 +15331,6 @@
         "local_long": "Konungariket Sverige",
         "local_short": "Sverige"
       },
-      "err": [],
       "population": 10202491,
       "ports": {
         "major seaport": "Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby"
@@ -15543,7 +15405,6 @@
         "local_long": "Schweizerische Eidgenossenschaft (German); Confederation Suisse (French); Confederazione Svizzera (Italian); Confederaziun Svizra (Romansh)",
         "local_short": "Schweiz (German); Suisse (French); Svizzera (Italian); Svizra (Romansh)"
       },
-      "err": [],
       "population": 8403994,
       "ports": {},
       "region": [
@@ -15616,7 +15477,6 @@
         "local_long": "Al Jumhuriyah al Arabiyah as Suriyah",
         "local_short": "Suriyah"
       },
-      "err": [],
       "population": 19398448,
       "ports": {
         "major seaport": "Baniyas, Latakia, Tartus"
@@ -15689,7 +15549,6 @@
         "local_long": "none",
         "local_short": "Taiwan"
       },
-      "err": [],
       "population": 23603049,
       "ports": {
         "container port": "Kaohsiung (10,271,018), Taichung (1,660,663), Taipei (1,561,743)",
@@ -15762,7 +15621,6 @@
         "local_long": "Jumhurii Tojikiston",
         "local_short": "Tojikiston"
       },
-      "err": [],
       "population": 8873669,
       "region": [
         "Asia"
@@ -15840,7 +15698,6 @@
         "local_long": "Jamhuri ya Muungano wa Tanzania",
         "local_short": "Tanzania"
       },
-      "err": [],
       "population": 58552845,
       "ports": {
         "major seaport": "Dar es Salaam, Zanzibar"
@@ -15917,7 +15774,6 @@
         "local_long": "Ratcha Anachak Thai",
         "local_short": "Prathet Thai"
       },
-      "err": [],
       "population": 68977400,
       "ports": {
         "container port": "Laem Chabang (7,227,431)",
@@ -15991,7 +15847,6 @@
         "local_long": "Republika Demokratika Timor Lorosa'e [Tetum]; Republica Democratica de Timor-Leste [Portuguese]",
         "local_short": "Timor Lorosa'e [Tetum]; Timor-Leste [Portuguese]"
       },
-      "err": [],
       "population": 1383723,
       "ports": {
         "major seaport": "Dili"
@@ -16063,7 +15918,6 @@
         "local_long": "Republique Togolaise",
         "local_short": "none"
       },
-      "err": [],
       "population": 8608444,
       "ports": {
         "major seaport": "Kpeme, Lome"
@@ -16120,7 +15974,6 @@
         "conv_long": "none",
         "conv_short": "Tokelau"
       },
-      "err": [],
       "population": 1647,
       "ports": {},
       "region": [
@@ -16184,7 +16037,6 @@
         "local_long": "Pule'anga Fakatu'i 'o Tonga",
         "local_short": "Tonga"
       },
-      "err": [],
       "population": 106095,
       "ports": {
         "major seaport": "Nuku'alofa, Neiafu, Pangai"
@@ -16250,7 +16102,6 @@
         "conv_long": "Republic of Trinidad and Tobago",
         "conv_short": "Trinidad and Tobago"
       },
-      "err": [],
       "population": 1208789,
       "ports": {
         "major seaport": "Point Fortin, Point Lisas, Port of Spain, Scarborough"
@@ -16335,7 +16186,6 @@
         "local_long": "Al Jumhuriyah at Tunisiyah",
         "local_short": "Tunis"
       },
-      "err": [],
       "population": 11721177,
       "ports": {
         "major seaport": "Bizerte, Gabes, Rades, Sfax, Skhira"
@@ -16421,7 +16271,6 @@
         "local_long": "Turkiye Cumhuriyeti",
         "local_short": "Turkiye"
       },
-      "err": [],
       "population": 82017514,
       "ports": {
         "container port": "Ambarli (3,131,621), Mersin (Icel) (1,592,000)",
@@ -16498,7 +16347,6 @@
         "local_long": "none",
         "local_short": "Turkmenistan"
       },
-      "err": [],
       "population": 5528627,
       "ports": {
         "major seaport": "Caspian Sea - Turkmenbasy"
@@ -16568,7 +16416,6 @@
         "conv_long": "none",
         "conv_short": "Turks and Caicos Islands"
       },
-      "err": [],
       "population": 55926,
       "ports": {
         "major seaport": "Cockburn Harbour, Grand Turk, Providenciales"
@@ -16633,7 +16480,6 @@
         "local_long": "none",
         "local_short": "Tuvalu"
       },
-      "err": [],
       "population": 11342,
       "ports": {
         "major seaport": "Funafuti"
@@ -16706,7 +16552,6 @@
         "conv_long": "Republic of Uganda",
         "conv_short": "Uganda"
       },
-      "err": [],
       "population": 43252966,
       "ports": {},
       "region": [
@@ -16781,7 +16626,6 @@
         "local_long": "none",
         "local_short": "Ukrayina"
       },
-      "err": [],
       "population": 43922939,
       "ports": {
         "major seaport": "Feodosiya (Theodosia), Illichivsk, Mariupol', Mykolayiv, Odesa, Yuzhnyy"
@@ -16857,7 +16701,6 @@
         "local_long": "Al Imarat al Arabiyah al Muttahidah",
         "local_short": "none"
       },
-      "err": [],
       "population": 9992083,
       "ports": {
         "container port": "Dubai Port (15,368,000), Khor Fakkan (Khawr Fakkan) (Sharjah) (2,321,000)",
@@ -16930,7 +16773,6 @@
         "conv_long": "United Kingdom of Great Britain and Northern Ireland; note - the island of Great Britain includes England, Scotland, and Wales",
         "conv_short": "United Kingdom"
       },
-      "err": [],
       "population": 65761117,
       "ports": {
         "container port": "Felixstowe (3,849,700), London (2,431,000), Southampton (2,040,000)",
@@ -17004,7 +16846,6 @@
         "conv_long": "United States of America",
         "conv_short": "United States"
       },
-      "err": [],
       "population": 332639102,
       "ports": {
         "cargo port": "Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines (LA), Tampa, Texas City",
@@ -17090,7 +16931,6 @@
         "local_long": "Republica Oriental del Uruguay",
         "local_short": "Uruguay"
       },
-      "err": [],
       "population": 3387605,
       "ports": {
         "major seaport": "Montevideo"
@@ -17166,7 +17006,6 @@
         "local_long": "O'zbekiston Respublikasi",
         "local_short": "O'zbekiston"
       },
-      "err": [],
       "population": 30565411,
       "ports": {},
       "region": [
@@ -17235,7 +17074,6 @@
         "local_long": "Ripablik blong Vanuatu",
         "local_short": "Vanuatu"
       },
-      "err": [],
       "population": 298333,
       "ports": {
         "major seaport": "Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila"
@@ -17310,7 +17148,6 @@
         "local_long": "Republica Bolivariana de Venezuela",
         "local_short": "Venezuela"
       },
-      "err": [],
       "population": 28644603,
       "ports": {
         "major seaport": "La Guaira, Maracaibo, Puerto Cabello, Punta Cardon"
@@ -17385,7 +17222,6 @@
         "local_long": "Cong Hoa Xa Hoi Chu Nghia Viet Nam",
         "local_short": "Viet Nam"
       },
-      "err": [],
       "population": 98721275,
       "ports": {
         "container port": "Saigon (6,155,535), Cai Mep (3,065,014)",
@@ -17457,7 +17293,6 @@
         "conv_long": "none",
         "conv_short": "Virgin Islands"
       },
-      "err": [],
       "population": 106235,
       "ports": {
         "major seaport": "Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree Bay"
@@ -17540,7 +17375,6 @@
         "conv_long": "none",
         "conv_short": "Wake Island"
       },
-      "err": [],
       "population": 0,
       "ports": {},
       "region": [
@@ -17590,7 +17424,6 @@
         "local_long": "Territoire des Iles Wallis et Futuna",
         "local_short": "Wallis et Futuna"
       },
-      "err": [],
       "population": 15854,
       "ports": {
         "major seaport": "Leava, Mata-Utu"
@@ -17645,7 +17478,6 @@
         "conv_long": "none",
         "conv_short": "West Bank"
       },
-      "err": [],
       "population": 2900034,
       "region": [
         "Middle East"
@@ -17707,7 +17539,6 @@
         "conv_long": "none",
         "conv_short": "Western Sahara"
       },
-      "err": [],
       "population": 652271,
       "ports": {
         "major seaport": "Ad Dakhla, Laayoune (El Aaiun)"
@@ -17761,7 +17592,6 @@
         "len": 356000
       },
       "country_name": {},
-      "err": [],
       "population": 7684292383,
       "ports": {},
       "region": [
@@ -17810,7 +17640,6 @@
         "local_long": "Al Jumhuriyah al Yamaniyah",
         "local_short": "Al Yaman"
       },
-      "err": [],
       "population": 29884405,
       "ports": {
         "major seaport": "Aden, Al Hudaydah, Al Mukalla"
@@ -17897,7 +17726,6 @@
         "conv_long": "Republic of Zambia",
         "conv_short": "Zambia"
       },
-      "err": [],
       "population": 17426623,
       "ports": {},
       "region": [
@@ -17965,7 +17793,6 @@
         "conv_long": "Republic of Zimbabwe",
         "conv_short": "Zimbabwe"
       },
-      "err": [],
       "population": 14546314,
       "ports": {},
       "region": [
