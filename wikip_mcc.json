@@ -1,2270 +1,2278 @@
 [
   {
-    "authority": "",
-    "code_alpha_2": "GR",
-    "country_name": "Greece",
-    "country_url": "https://en.wikipedia.org/wiki/Greece",
-    "mcc": "202",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Greece_-_GR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "NL",
-    "country_name": "Netherlands",
-    "country_url": "https://en.wikipedia.org/wiki/Netherlands",
-    "mcc": "204",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Netherlands_(Kingdom_of_the_Netherlands)_-_NL",
-    "notes": ""
-  },
-  {
-    "authority": "Belgian Institute for Postal services and Telecommunications (BIPT)",
-    "code_alpha_2": "BE",
-    "country_name": "Belgium",
-    "country_url": "https://en.wikipedia.org/wiki/Belgium",
-    "mcc": "206",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Belgium_-_BE",
-    "notes": ""
-  },
-  {
-    "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-    "code_alpha_2": "FR",
-    "country_name": "France",
-    "country_url": "https://en.wikipedia.org/wiki/France",
-    "mcc": "208",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#France_-_FR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MC",
-    "country_name": "Monaco",
-    "country_url": "https://en.wikipedia.org/wiki/Monaco",
-    "mcc": "212",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Monaco_-_MC",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AD",
-    "country_name": "Andorra",
-    "country_url": "https://en.wikipedia.org/wiki/Andorra",
-    "mcc": "213",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Andorra_-_AD",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "ES",
-    "country_name": "Spain",
-    "country_url": "https://en.wikipedia.org/wiki/Spain",
-    "mcc": "214",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Spain_-_ES",
-    "notes": ""
-  },
-  {
-    "authority": "National Media and Infocommunications Authority / Nemzeti M\u00e9dia- \u00e9s H\u00edrk\u00f6zl\u00e9si Hat\u00f3s\u00e1g (NMHH)",
-    "code_alpha_2": "HU",
-    "country_name": "Hungary",
-    "country_url": "https://en.wikipedia.org/wiki/Hungary",
-    "mcc": "216",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Hungary_-_HU",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BA",
-    "country_name": "Bosnia and Herzegovina",
-    "country_url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
-    "mcc": "218",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Bosnia_and_Herzegovina_-_BA",
-    "notes": ""
-  },
-  {
-    "authority": "Hrvatska agencija za po\u0161tu i elektronicke komunikacije (HAKOM)",
-    "code_alpha_2": "HR",
-    "country_name": "Croatia",
-    "country_url": "https://en.wikipedia.org/wiki/Croatia",
-    "mcc": "219",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Croatia_-_HR",
-    "notes": ""
-  },
-  {
-    "authority": "Regulatory Agency for Electronic Communications and Postal Services / Regulatorna agencija za elektronske komunikacije i po\u0161tanske usluge (RATEL)",
-    "code_alpha_2": "RS",
-    "country_name": "Serbia",
-    "country_url": "https://en.wikipedia.org/wiki/Serbia",
-    "mcc": "220",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Serbia_-_RS",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "XK",
-    "country_name": "Kosovo",
-    "country_url": "https://en.wikipedia.org/wiki/Kosovo",
-    "mcc": "221",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Kosovo_-_XK",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "IT",
-    "country_name": "Italy",
-    "country_url": "https://en.wikipedia.org/wiki/Italy",
-    "mcc": "222",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Italy_-_IT",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "RO",
-    "country_name": "Romania",
-    "country_url": "https://en.wikipedia.org/wiki/Romania",
-    "mcc": "226",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Romania_-_RO",
-    "notes": ""
-  },
-  {
-    "authority": "Federal Office of Communications / Office f\u00e9d\u00e9ral de la communication (OFCOM) / Bundesamt f\u00fcr Kommunikation (BAKOM)",
-    "code_alpha_2": "CH",
-    "country_name": "Switzerland",
-    "country_url": "https://en.wikipedia.org/wiki/Switzerland",
-    "mcc": "228",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Switzerland_-_CH",
-    "notes": ""
-  },
-  {
-    "authority": "Czech Telecommunication Office / \u010cesk\u00fd telekomunika\u010dn\u00ed \u00fa\u0159ad (CTU)",
-    "code_alpha_2": "CZ",
-    "country_name": "Czech Republic",
-    "country_url": "https://en.wikipedia.org/wiki/Czech_Republic",
-    "mcc": "230",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Czech_Republic_-_CZ",
-    "notes": ""
-  },
-  {
-    "authority": "Regulatory for Electronic Communications and Postal Services / \u00darad pre regul\u00e1ciu elektronick\u00fdch komunik\u00e1ci\u00ed a po\u0161tov\u00fdch slu\u017eieb",
-    "code_alpha_2": "SK",
-    "country_name": "Slovakia",
-    "country_url": "https://en.wikipedia.org/wiki/Slovakia",
-    "mcc": "231",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Slovakia_-_SK",
-    "notes": ""
-  },
-  {
-    "authority": "Rundfunk- und Telekom Regulierungs-GmbH (RTR-GmbH)",
-    "code_alpha_2": "AT",
-    "country_name": "Austria",
-    "country_url": "https://en.wikipedia.org/wiki/Austria",
-    "mcc": "232",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Austria_-_AT",
-    "notes": ""
-  },
-  {
-    "authority": "Office of Communications (Ofcom)",
-    "code_alpha_2": "GB",
-    "country_name": "United Kingdom",
-    "country_url": "https://en.wikipedia.org/wiki/United_Kingdom",
-    "mcc": "234",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#United_Kingdom_-_GB",
-    "notes": ""
-  },
-  {
-    "authority": "Office of Communications (Ofcom)",
-    "code_alpha_2": "GG",
-    "country_name": "Guernsey",
-    "country_url": "https://en.wikipedia.org/wiki/Guernsey",
-    "mcc": "234",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Guernsey_(United_Kingdom)_-_GG",
-    "notes": ""
-  },
-  {
-    "authority": "Office of Communications (Ofcom)",
-    "code_alpha_2": "IM",
-    "country_name": "Isle of Man",
-    "country_url": "https://en.wikipedia.org/wiki/Isle_of_Man",
-    "mcc": "234",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Isle_of_Man_(United_Kingdom)_-_IM",
-    "notes": ""
-  },
-  {
-    "authority": "Office of Communications (Ofcom)",
-    "code_alpha_2": "JE",
-    "country_name": "Jersey",
-    "country_url": "https://en.wikipedia.org/wiki/Jersey",
-    "mcc": "234",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Jersey_(United_Kingdom)_-_JE",
-    "notes": ""
-  },
-  {
-    "authority": "Office of Communications (Ofcom)",
-    "code_alpha_2": "GB",
-    "country_name": "United Kingdom",
-    "country_url": "https://en.wikipedia.org/wiki/United_Kingdom",
-    "mcc": "235",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "Danish Energy Agency  / Energistyrelsen",
-    "code_alpha_2": "DK",
-    "country_name": "Denmark",
-    "country_url": "https://en.wikipedia.org/wiki/Denmark",
-    "mcc": "238",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Denmark_(Kingdom_of_Denmark)_-_DK",
-    "notes": ""
-  },
-  {
-    "authority": "Swedish Post and Telecom Authority / Post- och telestyrelsen (PTS)",
-    "code_alpha_2": "SE",
-    "country_name": "Sweden",
-    "country_url": "https://en.wikipedia.org/wiki/Sweden",
-    "mcc": "240",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Sweden_-_SE",
-    "notes": ""
-  },
-  {
-    "authority": "Norwegian Communications Authority",
-    "code_alpha_2": "NO",
-    "country_name": "Norway",
-    "country_url": "https://en.wikipedia.org/wiki/Norway",
-    "mcc": "242",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Norway_-_NO",
-    "notes": ""
-  },
-  {
-    "authority": "Finnish Transport and Communications Agency / Liikenne- ja viestint\u00e4virasto (TRAFICOM)",
-    "code_alpha_2": "FI",
-    "country_name": "Finland",
-    "country_url": "https://en.wikipedia.org/wiki/Finland",
-    "mcc": "244",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Finland_-_FI",
-    "notes": ""
-  },
-  {
-    "authority": "Communications Regulatory Authority / Ry\u0161i\u0173 Reguliavimo Tarnyba (RRT)",
-    "code_alpha_2": "LT",
-    "country_name": "Lithuania",
-    "country_url": "https://en.wikipedia.org/wiki/Lithuania",
-    "mcc": "246",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Lithuania_-_LT",
-    "notes": ""
-  },
-  {
-    "authority": "Public Utilities Commission / Sabiedrisko pakalpojumu regul\u0113\u0161anas komisija (SPRK)",
-    "code_alpha_2": "LV",
-    "country_name": "Latvia",
-    "country_url": "https://en.wikipedia.org/wiki/Latvia",
-    "mcc": "247",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Latvia_-_LV",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "EE",
-    "country_name": "Estonia",
-    "country_url": "https://en.wikipedia.org/wiki/Estonia",
-    "mcc": "248",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Estonia_-_EE",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "RU",
-    "country_name": "Russian Federation",
-    "country_url": "https://en.wikipedia.org/wiki/Russian_Federation",
-    "mcc": "250",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Russian_Federation_-_RU",
-    "notes": ""
-  },
-  {
-    "authority": "National Commission for the State Regulation of Communications and Information (NKRZI)",
-    "code_alpha_2": "UA",
-    "country_name": "Ukraine",
-    "country_url": "https://en.wikipedia.org/wiki/Ukraine",
-    "mcc": "255",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Ukraine_-_UA",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BY",
-    "country_name": "Belarus",
-    "country_url": "https://en.wikipedia.org/wiki/Belarus",
-    "mcc": "257",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Belarus_-_BY",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MD",
-    "country_name": "Moldova",
-    "country_url": "https://en.wikipedia.org/wiki/Moldova",
-    "mcc": "259",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Moldova_-_MD",
-    "notes": ""
-  },
-  {
-    "authority": "Office of Electronic Communications / Urz\u0105d Komunikacji Elektronicznej (UKE)",
-    "code_alpha_2": "PL",
-    "country_name": "Poland",
-    "country_url": "https://en.wikipedia.org/wiki/Poland",
-    "mcc": "260",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Poland_-_PL",
-    "notes": ""
-  },
-  {
-    "authority": "Federal Network Agency / Bundesnetzagentur (BNetzA)",
-    "code_alpha_2": "DE",
-    "country_name": "Germany",
-    "country_url": "https://en.wikipedia.org/wiki/Germany",
-    "mcc": "262",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Germany_-_DE",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "GI",
-    "country_name": "Gibraltar",
-    "country_url": "https://en.wikipedia.org/wiki/Gibraltar",
-    "mcc": "266",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Gibraltar_(United_Kingdom)_-_GI",
-    "notes": ""
-  },
-  {
-    "authority": "National Communications Authority / Autoridade Nacional de Comunica\u00e7\u00f5es (ANACOM)",
-    "code_alpha_2": "PT",
-    "country_name": "Portugal",
-    "country_url": "https://en.wikipedia.org/wiki/Portugal",
-    "mcc": "268",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Portugal_-_PT",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "LU",
-    "country_name": "Luxembourg",
-    "country_url": "https://en.wikipedia.org/wiki/Luxembourg",
-    "mcc": "270",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Luxembourg_-_LU",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "IE",
-    "country_name": "Republic of Ireland",
-    "country_url": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
-    "mcc": "272",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Ireland_-_IE",
-    "notes": ""
-  },
-  {
-    "authority": "Post and Telecom Administration / P\u00f3st- og fjarskiptastofnun (PFS)",
-    "code_alpha_2": "IS",
-    "country_name": "Iceland",
-    "country_url": "https://en.wikipedia.org/wiki/Iceland",
-    "mcc": "274",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Iceland_-_IS",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AL",
-    "country_name": "Albania",
-    "country_url": "https://en.wikipedia.org/wiki/Albania",
-    "mcc": "276",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Albania_-_AL",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MT",
-    "country_name": "Malta",
-    "country_url": "https://en.wikipedia.org/wiki/Malta",
-    "mcc": "278",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Malta_-_MT",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CY",
-    "country_name": "Cyprus",
-    "country_url": "https://en.wikipedia.org/wiki/Cyprus",
-    "mcc": "280",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Cyprus_-_CY",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "GE",
-    "country_name": "Georgia",
-    "country_url": "https://en.wikipedia.org/wiki/Georgia_(country)",
-    "mcc": "282",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Georgia_-_GE",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AM",
-    "country_name": "Armenia",
-    "country_url": "https://en.wikipedia.org/wiki/Armenia",
-    "mcc": "283",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Armenia_-_AM",
-    "notes": ""
-  },
-  {
-    "authority": "Communications Regulation Commission (CRC)",
-    "code_alpha_2": "BG",
-    "country_name": "Bulgaria",
-    "country_url": "https://en.wikipedia.org/wiki/Bulgaria",
-    "mcc": "284",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Bulgaria_-_BG",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TR",
-    "country_name": "Turkey",
-    "country_url": "https://en.wikipedia.org/wiki/Turkey",
-    "mcc": "286",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Turkey_-_TR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "FO",
-    "country_name": "Faroe Islands",
-    "country_url": "https://en.wikipedia.org/wiki/Faroe_Islands",
-    "mcc": "288",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Faroe_Islands_(Kingdom_of_Denmark)_-_FO",
-    "notes": ""
-  },
-  {
-    "authority": "\n",
-    "code_alpha_2": "GE-AB",
-    "country_name": "Abkhazia",
-    "country_url": "https://en.wikipedia.org/wiki/Abkhazia",
-    "mcc": "289",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Abkhasia_-_GE-AB",
-    "notes": "MCC is not listed by ITU\n"
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "GL",
-    "country_name": "Greenland",
-    "country_url": "https://en.wikipedia.org/wiki/Greenland",
-    "mcc": "290",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Greenland_(Kingdom_of_Denmark)_-_GL",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SM",
-    "country_name": "San Marino",
-    "country_url": "https://en.wikipedia.org/wiki/San_Marino",
-    "mcc": "292",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#San_Marino_-_SM",
-    "notes": ""
-  },
-  {
-    "authority": "Agency for communication networks and services / Agencija za komunikacijska omre\u017eja in storitve (AKOS)",
-    "code_alpha_2": "SI",
-    "country_name": "Slovenia",
-    "country_url": "https://en.wikipedia.org/wiki/Slovenia",
-    "mcc": "293",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Slovenia_-_SI",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MK",
-    "country_name": "Republic of North Macedonia",
-    "country_url": "https://en.wikipedia.org/wiki/Republic_of_North_Macedonia",
-    "mcc": "294",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#North_Macedonia_-_MK",
-    "notes": ""
-  },
-  {
-    "authority": "Amt f\u00fcr Kommunikation (AK)",
-    "code_alpha_2": "LI",
-    "country_name": "Liechtenstein",
-    "country_url": "https://en.wikipedia.org/wiki/Liechtenstein",
-    "mcc": "295",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Liechtenstein_-_LI",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "ME",
-    "country_name": "Montenegro",
-    "country_url": "https://en.wikipedia.org/wiki/Montenegro",
-    "mcc": "297",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Montenegro_-_ME",
-    "notes": ""
-  },
-  {
-    "authority": "Canadian Numbering Administrator",
-    "code_alpha_2": "CA",
-    "country_name": "Canada",
-    "country_url": "https://en.wikipedia.org/wiki/Canada",
-    "mcc": "302",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Canada_-_CA",
-    "notes": ""
-  },
-  {
-    "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-    "code_alpha_2": "PM",
-    "country_name": "Saint Pierre and Miquelon",
-    "country_url": "https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
-    "mcc": "308",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Pierre_and_Miquelon_-_PM",
-    "notes": ""
-  },
-  {
-    "authority": "IMSI Administrator",
-    "code_alpha_2": "GU",
-    "country_name": "Guam",
-    "country_url": "https://en.wikipedia.org/wiki/Guam",
-    "mcc": "310",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Guam_(United_States_of_America)_-_GU",
-    "notes": ""
-  },
-  {
-    "authority": "IMSI Administrator",
-    "code_alpha_2": "MP",
-    "country_name": "Northern Mariana Islands",
-    "country_url": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands",
-    "mcc": "310",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Northern_Mariana_Islands_(United_States_of_America)_-_MP",
-    "notes": ""
-  },
-  {
-    "authority": "IMSI Administrator",
-    "code_alpha_2": "US",
-    "country_name": "United States of America",
-    "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
-    "mcc": "310",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_of_America_-_US",
-    "notes": ""
-  },
-  {
-    "authority": "IMSI Administrator",
-    "code_alpha_2": "GU",
-    "country_name": "Guam",
-    "country_url": "https://en.wikipedia.org/wiki/Guam",
-    "mcc": "311",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "IMSI Administrator",
-    "code_alpha_2": "US",
-    "country_name": "United States of America",
-    "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
-    "mcc": "311",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "IMSI Administrator",
-    "code_alpha_2": "US",
-    "country_name": "United States of America",
-    "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
-    "mcc": "312",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "IMSI Administrator",
-    "code_alpha_2": "US",
-    "country_name": "United States of America",
-    "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
-    "mcc": "313",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "IMSI Administrator",
-    "code_alpha_2": "US",
-    "country_name": "United States of America",
-    "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
-    "mcc": "314",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "IMSI Administrator",
-    "code_alpha_2": "US",
-    "country_name": "United States of America",
-    "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
-    "mcc": "315",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "IMSI Administrator",
-    "code_alpha_2": "US",
-    "country_name": "United States of America",
-    "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
-    "mcc": "316",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "PR",
-    "country_name": "Puerto Rico",
-    "country_url": "https://en.wikipedia.org/wiki/Puerto_Rico",
-    "mcc": "330",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Puerto_Rico_-_PR",
-    "notes": ""
-  },
-  {
-    "authority": "IMSI Administrator",
-    "code_alpha_2": "VI",
-    "country_name": "United States Virgin Islands",
-    "country_url": "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
-    "mcc": "332",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_of_America_-_US",
-    "notes": "The US Virgin Islands share the US MCCs instead of using the assigned MCC 332\n"
-  },
-  {
-    "authority": "Instituto Federal de Telecomunicaciones",
-    "code_alpha_2": "MX",
-    "country_name": "Mexico",
-    "country_url": "https://en.wikipedia.org/wiki/Mexico",
-    "mcc": "334",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Mexico_-_MX",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "JM",
-    "country_name": "Jamaica",
-    "country_url": "https://en.wikipedia.org/wiki/Jamaica",
-    "mcc": "338",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Jamaica_-_JM",
-    "notes": ""
-  },
-  {
-    "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-    "code_alpha_2": "BL",
-    "country_name": "Saint Barth\u00e9lemy",
-    "country_url": "https://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy",
-    "mcc": "340",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ",
-    "notes": ""
-  },
-  {
-    "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-    "code_alpha_2": "GP",
-    "country_name": "Guadeloupe",
-    "country_url": "https://en.wikipedia.org/wiki/Guadeloupe",
-    "mcc": "340",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ",
-    "notes": ""
-  },
-  {
-    "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-    "code_alpha_2": "MF",
-    "country_name": "Saint Martin",
-    "country_url": "https://en.wikipedia.org/wiki/Saint_Martin",
-    "mcc": "340",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ",
-    "notes": ""
-  },
-  {
-    "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-    "code_alpha_2": "MQ",
-    "country_name": "Martinique",
-    "country_url": "https://en.wikipedia.org/wiki/Martinique",
-    "mcc": "340",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BB",
-    "country_name": "Barbados",
-    "country_url": "https://en.wikipedia.org/wiki/Barbados",
-    "mcc": "342",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Barbados_-_BB",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AG",
-    "country_name": "Antigua and Barbuda",
-    "country_url": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
-    "mcc": "344",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Antigua_and_Barbuda_-_AG",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "KY",
-    "country_name": "Cayman Islands",
-    "country_url": "https://en.wikipedia.org/wiki/Cayman_Islands",
-    "mcc": "346",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Cayman_Islands_(United_Kingdom)_-_KY",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "VG",
-    "country_name": "British Virgin Islands",
-    "country_url": "https://en.wikipedia.org/wiki/British_Virgin_Islands",
-    "mcc": "348",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#British_Virgin_Islands_(United_Kingdom)_-_VG",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BM",
-    "country_name": "Bermuda",
-    "country_url": "https://en.wikipedia.org/wiki/Bermuda",
-    "mcc": "350",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Bermuda_-_BM",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "GD",
-    "country_name": "Grenada",
-    "country_url": "https://en.wikipedia.org/wiki/Grenada",
-    "mcc": "352",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Grenada_-_GD",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MS",
-    "country_name": "Montserrat",
-    "country_url": "https://en.wikipedia.org/wiki/Montserrat",
-    "mcc": "354",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Montserrat_(United_Kingdom)_-_MS",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "KN",
-    "country_name": "Saint Kitts and Nevis",
-    "country_url": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
-    "mcc": "356",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Kitts_and_Nevis_-_KN",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "LC",
-    "country_name": "Saint Lucia",
-    "country_url": "https://en.wikipedia.org/wiki/Saint_Lucia",
-    "mcc": "358",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Lucia_-_LC",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "VC",
-    "country_name": "Saint Vincent and the Grenadines",
-    "country_url": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
-    "mcc": "360",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Vincent_and_the_Grenadines_-_VC",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BQ",
-    "country_name": "Caribbean Netherlands",
-    "country_url": "https://en.wikipedia.org/wiki/Caribbean_Netherlands",
-    "mcc": "362",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_-_BQ/CW/SX",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CW",
-    "country_name": "Cura\u00e7ao",
-    "country_url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao",
-    "mcc": "362",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_-_BQ/CW/SX",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SX",
-    "country_name": "Sint Maarten",
-    "country_url": "https://en.wikipedia.org/wiki/Sint_Maarten",
-    "mcc": "362",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_-_BQ/CW/SX",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AW",
-    "country_name": "Aruba",
-    "country_url": "https://en.wikipedia.org/wiki/Aruba",
-    "mcc": "363",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Aruba_(Kingdom_of_the_Netherlands)_-_AW",
-    "notes": ""
-  },
-  {
-    "authority": "Utilities Regulation & Competition Authority (URCA)",
-    "code_alpha_2": "BS",
-    "country_name": "Bahamas",
-    "country_url": "https://en.wikipedia.org/wiki/Bahamas",
-    "mcc": "364",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Bahamas_-_BS",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AI",
-    "country_name": "Anguilla",
-    "country_url": "https://en.wikipedia.org/wiki/Anguilla",
-    "mcc": "365",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Anguilla_(United_Kingdom)_-_AI",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "DM",
-    "country_name": "Dominica",
-    "country_url": "https://en.wikipedia.org/wiki/Dominica",
-    "mcc": "366",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Dominica_-_DM",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CU",
-    "country_name": "Cuba",
-    "country_url": "https://en.wikipedia.org/wiki/Cuba",
-    "mcc": "368",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Cuba_-_CU",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "DO",
-    "country_name": "Dominican Republic",
-    "country_url": "https://en.wikipedia.org/wiki/Dominican_Republic",
-    "mcc": "370",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Dominican_Republic_-_DO",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "HT",
-    "country_name": "Haiti",
-    "country_url": "https://en.wikipedia.org/wiki/Haiti",
-    "mcc": "372",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Haiti_-_HT",
-    "notes": ""
-  },
-  {
-    "authority": "Telecommunications Authority of Trinidad and Tobago (TATT)\n",
-    "code_alpha_2": "TT",
-    "country_name": "Trinidad and Tobago",
-    "country_url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
-    "mcc": "374",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Trinidad_and_Tobago_-_TT",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TC",
-    "country_name": "Turks and Caicos Islands",
-    "country_url": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
-    "mcc": "376",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Turks_and_Caicos_Islands_-_TC",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AZ",
-    "country_name": "Azerbaijan",
-    "country_url": "https://en.wikipedia.org/wiki/Azerbaijan",
-    "mcc": "400",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Azerbaijan_-_AZ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "KZ",
-    "country_name": "Kazakhstan",
-    "country_url": "https://en.wikipedia.org/wiki/Kazakhstan",
-    "mcc": "401",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kazakhstan_-_KZ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BT",
-    "country_name": "Bhutan",
-    "country_url": "https://en.wikipedia.org/wiki/Bhutan",
-    "mcc": "402",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bhutan_-_BT",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "IN",
-    "country_name": "India",
-    "country_url": "https://en.wikipedia.org/wiki/India",
-    "mcc": "404",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#India_-_IN",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "IN",
-    "country_name": "India",
-    "country_url": "https://en.wikipedia.org/wiki/India",
-    "mcc": "405",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "IN",
-    "country_name": "India",
-    "country_url": "https://en.wikipedia.org/wiki/India",
-    "mcc": "406",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "PK",
-    "country_name": "Pakistan",
-    "country_url": "https://en.wikipedia.org/wiki/Pakistan",
-    "mcc": "410",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Pakistan_-_PK",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AF",
-    "country_name": "Afghanistan",
-    "country_url": "https://en.wikipedia.org/wiki/Afghanistan",
-    "mcc": "412",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Afghanistan_-_AF",
-    "notes": ""
-  },
-  {
-    "authority": "Telecommunications Regulatory Commission of Sri Lanka (TRCSL)\n",
-    "code_alpha_2": "LK",
-    "country_name": "Sri Lanka",
-    "country_url": "https://en.wikipedia.org/wiki/Sri_Lanka",
-    "mcc": "413",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Sri_Lanka_-_LK",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MM",
-    "country_name": "Myanmar",
-    "country_url": "https://en.wikipedia.org/wiki/Myanmar",
-    "mcc": "414",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Myanmar_-_MM",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "LB",
-    "country_name": "Lebanon",
-    "country_url": "https://en.wikipedia.org/wiki/Lebanon",
-    "mcc": "415",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Lebanon_-_LB",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "JO",
-    "country_name": "Jordan",
-    "country_url": "https://en.wikipedia.org/wiki/Jordan",
-    "mcc": "416",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Jordan_-_JO",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SY",
-    "country_name": "Syria",
-    "country_url": "https://en.wikipedia.org/wiki/Syria",
-    "mcc": "417",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Syria_-_SY",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "IQ",
-    "country_name": "Iraq",
-    "country_url": "https://en.wikipedia.org/wiki/Iraq",
-    "mcc": "418",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Iraq_-_IQ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "KW",
-    "country_name": "Kuwait",
-    "country_url": "https://en.wikipedia.org/wiki/Kuwait",
-    "mcc": "419",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kuwait_-_KW",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SA",
-    "country_name": "Saudi Arabia",
-    "country_url": "https://en.wikipedia.org/wiki/Saudi_Arabia",
-    "mcc": "420",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Saudi_Arabia_-_SA",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "YE",
-    "country_name": "Yemen",
-    "country_url": "https://en.wikipedia.org/wiki/Yemen",
-    "mcc": "421",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Yemen_-_YE",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "OM",
-    "country_name": "Oman",
-    "country_url": "https://en.wikipedia.org/wiki/Oman",
-    "mcc": "422",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Oman_-_OM",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AE",
-    "country_name": "United Arab Emirates",
-    "country_url": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
-    "mcc": "424",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#United_Arab_Emirates_-_AE",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "IL",
-    "country_name": "Israel",
-    "country_url": "https://en.wikipedia.org/wiki/Israel",
-    "mcc": "425",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Israel_-_IL",
-    "notes": ""
-  },
-  {
-    "authority": "\n",
-    "code_alpha_2": "PS",
-    "country_name": "State of Palestine",
-    "country_url": "https://en.wikipedia.org/wiki/State_of_Palestine",
-    "mcc": "425",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Palestine_-_PS",
-    "notes": "Uses the MCC of Israel\n"
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BH",
-    "country_name": "Bahrain",
-    "country_url": "https://en.wikipedia.org/wiki/Bahrain",
-    "mcc": "426",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bahrain_-_BH",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "QA",
-    "country_name": "Qatar",
-    "country_url": "https://en.wikipedia.org/wiki/Qatar",
-    "mcc": "427",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Qatar_-_QA",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MN",
-    "country_name": "Mongolia",
-    "country_url": "https://en.wikipedia.org/wiki/Mongolia",
-    "mcc": "428",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Mongolia_-_MN",
-    "notes": ""
-  },
-  {
-    "authority": "Nepal Telecommunications Authority",
-    "code_alpha_2": "NP",
-    "country_name": "Nepal",
-    "country_url": "https://en.wikipedia.org/wiki/Nepal",
-    "mcc": "429",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Nepal_-_NP",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AE",
-    "country_name": "United Arab Emirates",
-    "country_url": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
-    "mcc": "430",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AE",
-    "country_name": "United Arab Emirates",
-    "country_url": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
-    "mcc": "431",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "IR",
-    "country_name": "Iran",
-    "country_url": "https://en.wikipedia.org/wiki/Iran",
-    "mcc": "432",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Iran_-_IR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "UZ",
-    "country_name": "Uzbekistan",
-    "country_url": "https://en.wikipedia.org/wiki/Uzbekistan",
-    "mcc": "434",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Uzbekistan_-_UZ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TJ",
-    "country_name": "Tajikistan",
-    "country_url": "https://en.wikipedia.org/wiki/Tajikistan",
-    "mcc": "436",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Tajikistan_-_TJ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "KG",
-    "country_name": "Kyrgyzstan",
-    "country_url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
-    "mcc": "437",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kyrgyzstan_-_KG",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TM",
-    "country_name": "Turkmenistan",
-    "country_url": "https://en.wikipedia.org/wiki/Turkmenistan",
-    "mcc": "438",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Turkmenistan_-_TM",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "JP",
-    "country_name": "Japan",
-    "country_url": "https://en.wikipedia.org/wiki/Japan",
-    "mcc": "440",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Japan_-_JP",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "JP",
-    "country_name": "Japan",
-    "country_url": "https://en.wikipedia.org/wiki/Japan",
-    "mcc": "441",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "KR",
-    "country_name": "South Korea",
-    "country_url": "https://en.wikipedia.org/wiki/South_Korea",
-    "mcc": "450",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#South_Korea_-_KR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "VN",
-    "country_name": "Vietnam",
-    "country_url": "https://en.wikipedia.org/wiki/Vietnam",
-    "mcc": "452",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Vietnam_-_VN",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "HK",
-    "country_name": "Hong Kong",
-    "country_url": "https://en.wikipedia.org/wiki/Hong_Kong",
-    "mcc": "454",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Hong_Kong_-_HK",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MO",
-    "country_name": "Macau",
-    "country_url": "https://en.wikipedia.org/wiki/Macau",
-    "mcc": "455",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Macau_(People's_Republic_of_China)_-_MO",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "KH",
-    "country_name": "Cambodia",
-    "country_url": "https://en.wikipedia.org/wiki/Cambodia",
-    "mcc": "456",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Cambodia_-_KH",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "LA",
-    "country_name": "Laos",
-    "country_url": "https://en.wikipedia.org/wiki/Laos",
-    "mcc": "457",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Laos_-_LA",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CN",
-    "country_name": "China",
-    "country_url": "https://en.wikipedia.org/wiki/China",
-    "mcc": "460",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#China_-_CN",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CN",
-    "country_name": "China",
-    "country_url": "https://en.wikipedia.org/wiki/China",
-    "mcc": "461",
-    "mcc_url": "",
-    "notes": ""
-  },
-  {
-    "authority": "National Communications Commission (NCC)",
-    "code_alpha_2": "TW",
-    "country_name": "Taiwan",
-    "country_url": "https://en.wikipedia.org/wiki/Taiwan",
-    "mcc": "466",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Taiwan_-_TW",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "KP",
-    "country_name": "North Korea",
-    "country_url": "https://en.wikipedia.org/wiki/North_Korea",
-    "mcc": "467",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#North_Korea_-_KP",
-    "notes": ""
-  },
-  {
-    "authority": "Bangladesh Telecommunication Regulatory Commission\n",
-    "code_alpha_2": "BD",
-    "country_name": "Bangladesh",
-    "country_url": "https://en.wikipedia.org/wiki/Bangladesh",
-    "mcc": "470",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bangladesh_-_BD",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MV",
-    "country_name": "Maldives",
-    "country_url": "https://en.wikipedia.org/wiki/Maldives",
-    "mcc": "472",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Maldives_-_MV",
-    "notes": ""
-  },
-  {
-    "authority": "Malaysian Communications and Multimedia Commission / Suruhanjaya Komunikasi dan Multimedia Malaysia (SKMM)",
-    "code_alpha_2": "MY",
-    "country_name": "Malaysia",
-    "country_url": "https://en.wikipedia.org/wiki/Malaysia",
-    "mcc": "502",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Malaysia_-_MY",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AU",
-    "country_name": "Australia",
-    "country_url": "https://en.wikipedia.org/wiki/Australia",
-    "mcc": "505",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Australia_-_AU",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "NF",
-    "country_name": "Norfolk Island",
-    "country_url": "https://en.wikipedia.org/wiki/Norfolk_Island",
-    "mcc": "505",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Norfolk_Island_-_NF",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "ID",
-    "country_name": "Indonesia",
-    "country_url": "https://en.wikipedia.org/wiki/Indonesia",
-    "mcc": "510",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Indonesia_-_ID",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TL",
-    "country_name": "East Timor",
-    "country_url": "https://en.wikipedia.org/wiki/East_Timor",
-    "mcc": "514",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#East_Timor_-_TL",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "PH",
-    "country_name": "Philippines",
-    "country_url": "https://en.wikipedia.org/wiki/Philippines",
-    "mcc": "515",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Philippines_-_PH",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TH",
-    "country_name": "Thailand",
-    "country_url": "https://en.wikipedia.org/wiki/Thailand",
-    "mcc": "520",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Thailand_-_TH",
-    "notes": ""
-  },
-  {
-    "authority": "Info-communications Media Development Authority (IMDA)",
-    "code_alpha_2": "SG",
-    "country_name": "Singapore",
-    "country_url": "https://en.wikipedia.org/wiki/Singapore",
-    "mcc": "525",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Singapore_-_SG",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BN",
-    "country_name": "Brunei",
-    "country_url": "https://en.wikipedia.org/wiki/Brunei",
-    "mcc": "528",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Brunei_-_BN",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "NZ",
-    "country_name": "New Zealand",
-    "country_url": "https://en.wikipedia.org/wiki/New_Zealand",
-    "mcc": "530",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#New_Zealand_-_NZ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "NR",
-    "country_name": "Nauru",
-    "country_url": "https://en.wikipedia.org/wiki/Nauru",
-    "mcc": "536",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Nauru_-_NR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "PG",
-    "country_name": "Papua New Guinea",
-    "country_url": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
-    "mcc": "537",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Papua_New_Guinea_-_PG",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TO",
-    "country_name": "Tonga",
-    "country_url": "https://en.wikipedia.org/wiki/Tonga",
-    "mcc": "539",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tonga_-_TK",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SB",
-    "country_name": "Solomon Islands",
-    "country_url": "https://en.wikipedia.org/wiki/Solomon_Islands",
-    "mcc": "540",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Solomon_Islands_-_SB",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "VU",
-    "country_name": "Vanuatu",
-    "country_url": "https://en.wikipedia.org/wiki/Vanuatu",
-    "mcc": "541",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Vanuatu_-_VU",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "FJ",
-    "country_name": "Fiji",
-    "country_url": "https://en.wikipedia.org/wiki/Fiji",
-    "mcc": "542",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Fiji_-_FJ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "WF",
-    "country_name": "Wallis and Futuna",
-    "country_url": "https://en.wikipedia.org/wiki/Wallis_and_Futuna",
-    "mcc": "543",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Wallis_and_Futuna_-_WF",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AS",
-    "country_name": "American Samoa",
-    "country_url": "https://en.wikipedia.org/wiki/American_Samoa",
-    "mcc": "544",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#American_Samoa_(United_States_of_America)_-_AS",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "KI",
-    "country_name": "Kiribati",
-    "country_url": "https://en.wikipedia.org/wiki/Kiribati",
-    "mcc": "545",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Kiribati_-_KI",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "NC",
-    "country_name": "New Caledonia",
-    "country_url": "https://en.wikipedia.org/wiki/New_Caledonia",
-    "mcc": "546",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#New_Caledonia_-_NC",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "PF",
-    "country_name": "French Polynesia",
-    "country_url": "https://en.wikipedia.org/wiki/French_Polynesia",
-    "mcc": "547",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#French_Polynesia_(France)_-_PF",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CK",
-    "country_name": "Cook Islands",
-    "country_url": "https://en.wikipedia.org/wiki/Cook_Islands",
-    "mcc": "548",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Cook_Islands_(Pacific_Ocean)_-_CK",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "WS",
-    "country_name": "Samoa",
-    "country_url": "https://en.wikipedia.org/wiki/Samoa",
-    "mcc": "549",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Samoa_-_WS",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "FM",
-    "country_name": "Federated States of Micronesia",
-    "country_url": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
-    "mcc": "550",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Federated_States_of_Micronesia_-_FM",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MH",
-    "country_name": "Marshall Islands",
-    "country_url": "https://en.wikipedia.org/wiki/Marshall_Islands",
-    "mcc": "551",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Marshall_Islands_-_MH",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "PW",
-    "country_name": "Palau",
-    "country_url": "https://en.wikipedia.org/wiki/Palau",
-    "mcc": "552",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Palau_-_PW",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TV",
-    "country_name": "Tuvalu",
-    "country_url": "https://en.wikipedia.org/wiki/Tuvalu",
-    "mcc": "553",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tuvalu_-_TV",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TK",
-    "country_name": "Tokelau",
-    "country_url": "https://en.wikipedia.org/wiki/Tokelau",
-    "mcc": "554",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tokelau_-_TK",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "NU",
-    "country_name": "Niue",
-    "country_url": "https://en.wikipedia.org/wiki/Niue",
-    "mcc": "555",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Niue_-_NU",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "EG",
-    "country_name": "Egypt",
-    "country_url": "https://en.wikipedia.org/wiki/Egypt",
-    "mcc": "602",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Egypt_-_EG",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "DZ",
-    "country_name": "Algeria",
-    "country_url": "https://en.wikipedia.org/wiki/Algeria",
-    "mcc": "603",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Algeria_-_DZ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MA",
-    "country_name": "Morocco",
-    "country_url": "https://en.wikipedia.org/wiki/Morocco",
-    "mcc": "604",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Morocco_-_MA",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TN",
-    "country_name": "Tunisia",
-    "country_url": "https://en.wikipedia.org/wiki/Tunisia",
-    "mcc": "605",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Tunisia_-_TN",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "LY",
-    "country_name": "Libya",
-    "country_url": "https://en.wikipedia.org/wiki/Libya",
-    "mcc": "606",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Libya_-_LY",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "GM",
-    "country_name": "Gambia",
-    "country_url": "https://en.wikipedia.org/wiki/Gambia",
-    "mcc": "607",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Gambia_-_GM",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SN",
-    "country_name": "Senegal",
-    "country_url": "https://en.wikipedia.org/wiki/Senegal",
-    "mcc": "608",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Senegal_-_SN",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MR",
-    "country_name": "Mauritania",
-    "country_url": "https://en.wikipedia.org/wiki/Mauritania",
-    "mcc": "609",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mauritania_-_MR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "ML",
-    "country_name": "Mali",
-    "country_url": "https://en.wikipedia.org/wiki/Mali",
-    "mcc": "610",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mali_-_ML",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "GN",
-    "country_name": "Guinea",
-    "country_url": "https://en.wikipedia.org/wiki/Guinea",
-    "mcc": "611",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Guinea_-_GN",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CI",
-    "country_name": "Ivory Coast",
-    "country_url": "https://en.wikipedia.org/wiki/Ivory_Coast",
-    "mcc": "612",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ivory_Coast_-_CI",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BF",
-    "country_name": "Burkina Faso",
-    "country_url": "https://en.wikipedia.org/wiki/Burkina_Faso",
-    "mcc": "613",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Burkina_Faso_-_BF",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "NE",
-    "country_name": "Niger",
-    "country_url": "https://en.wikipedia.org/wiki/Niger",
-    "mcc": "614",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Niger_-_NE",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TG",
-    "country_name": "Togo",
-    "country_url": "https://en.wikipedia.org/wiki/Togo",
-    "mcc": "615",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Togo_-_TG",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BJ",
-    "country_name": "Benin",
-    "country_url": "https://en.wikipedia.org/wiki/Benin",
-    "mcc": "616",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Benin_-_BJ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MU",
-    "country_name": "Mauritius",
-    "country_url": "https://en.wikipedia.org/wiki/Mauritius",
-    "mcc": "617",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#MMauritius_-_MU",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "LR",
-    "country_name": "Liberia",
-    "country_url": "https://en.wikipedia.org/wiki/Liberia",
-    "mcc": "618",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Liberia_-_LR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SL",
-    "country_name": "Sierra Leone",
-    "country_url": "https://en.wikipedia.org/wiki/Sierra_Leone",
-    "mcc": "619",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sierra_Leone_-_SL",
-    "notes": ""
-  },
-  {
-    "authority": "National Communications Authority (NCA)",
-    "code_alpha_2": "GH",
-    "country_name": "Ghana",
-    "country_url": "https://en.wikipedia.org/wiki/Ghana",
-    "mcc": "620",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ghana_-_GH",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "NG",
-    "country_name": "Nigeria",
-    "country_url": "https://en.wikipedia.org/wiki/Nigeria",
-    "mcc": "621",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Nigeria_-_NG",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "TD",
-    "country_name": "Chad",
-    "country_url": "https://en.wikipedia.org/wiki/Chad",
-    "mcc": "622",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Chad_-_TD",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CF",
-    "country_name": "Central African Republic",
-    "country_url": "https://en.wikipedia.org/wiki/Central_African_Republic",
-    "mcc": "623",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Central_African_Republic_-_CF",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CM",
-    "country_name": "Cameroon",
-    "country_url": "https://en.wikipedia.org/wiki/Cameroon",
-    "mcc": "624",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Cameroon_-_CM",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CV",
-    "country_name": "Cape Verde",
-    "country_url": "https://en.wikipedia.org/wiki/Cape_Verde",
-    "mcc": "625",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Cape_Verde_-_CV",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "ST",
-    "country_name": "Sao Tome and Principe",
-    "country_url": "https://en.wikipedia.org/wiki/Sao_Tome_and_Principe",
-    "mcc": "626",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sao_Tome_and_Principe_-_ST",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "GQ",
-    "country_name": "Equatorial Guinea",
-    "country_url": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
-    "mcc": "627",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Equatorial_Guinea_-_GQ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "GA",
-    "country_name": "Gabon",
-    "country_url": "https://en.wikipedia.org/wiki/Gabon",
-    "mcc": "628",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Gabon_-_GA",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CG",
-    "country_name": "Republic of the Congo",
-    "country_url": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
-    "mcc": "629",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Congo_-_CG",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CD",
-    "country_name": "Democratic Republic of the Congo",
-    "country_url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
-    "mcc": "630",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Democratic_Republic_of_the_Congo_-_CD",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AO",
-    "country_name": "Angola",
-    "country_url": "https://en.wikipedia.org/wiki/Angola",
-    "mcc": "631",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Angola_-_AO",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "GW",
-    "country_name": "Guinea-Bissau",
-    "country_url": "https://en.wikipedia.org/wiki/Guinea-Bissau",
-    "mcc": "632",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Guinea-Bissau_-_GW",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SC",
-    "country_name": "Seychelles",
-    "country_url": "https://en.wikipedia.org/wiki/Seychelles",
-    "mcc": "633",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Seychelles_-_SC",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SD",
-    "country_name": "Sudan",
-    "country_url": "https://en.wikipedia.org/wiki/Sudan",
-    "mcc": "634",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sudan_-_SD",
-    "notes": ""
-  },
-  {
-    "authority": "Rwanda Utilities Regulatory Agency (RURA) / Agence Rwandaise de R\u00e9gulation",
-    "code_alpha_2": "RW",
-    "country_name": "Rwanda",
-    "country_url": "https://en.wikipedia.org/wiki/Rwanda",
-    "mcc": "635",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Rwanda_-_RW",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "ET",
-    "country_name": "Ethiopia",
-    "country_url": "https://en.wikipedia.org/wiki/Ethiopia",
-    "mcc": "636",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ethiopia_-_ET",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SO",
-    "country_name": "Somalia",
-    "country_url": "https://en.wikipedia.org/wiki/Somalia",
-    "mcc": "637",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Somalia_-_SO",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "DJ",
-    "country_name": "Djibouti",
-    "country_url": "https://en.wikipedia.org/wiki/Djibouti",
-    "mcc": "638",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Djibouti_-_DJ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "KE",
-    "country_name": "Kenya",
-    "country_url": "https://en.wikipedia.org/wiki/Kenya",
-    "mcc": "639",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Kenya_-_KE",
-    "notes": ""
-  },
-  {
-    "authority": "Tanzania Communications Regulatory Authority (TCRA)",
-    "code_alpha_2": "TZ",
-    "country_name": "Tanzania",
-    "country_url": "https://en.wikipedia.org/wiki/Tanzania",
-    "mcc": "640",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Tanzania_-_TZ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "UG",
-    "country_name": "Uganda",
-    "country_url": "https://en.wikipedia.org/wiki/Uganda",
-    "mcc": "641",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Uganda_-_UG",
-    "notes": ""
-  },
-  {
-    "authority": "L\u2019Agence de R\u00e9gulation et de Contr\u00f4le des T\u00e9l\u00e9communications (ARCT)",
-    "code_alpha_2": "BI",
-    "country_name": "Burundi",
-    "country_url": "https://en.wikipedia.org/wiki/Burundi",
-    "mcc": "642",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Burundi_-_BI",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MZ",
-    "country_name": "Mozambique",
-    "country_url": "https://en.wikipedia.org/wiki/Mozambique",
-    "mcc": "643",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mozambique_-_MZ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "ZM",
-    "country_name": "Zambia",
-    "country_url": "https://en.wikipedia.org/wiki/Zambia",
-    "mcc": "645",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Zambia_-_ZM",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MG",
-    "country_name": "Madagascar",
-    "country_url": "https://en.wikipedia.org/wiki/Madagascar",
-    "mcc": "646",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Madagascar_-_MG",
-    "notes": ""
-  },
-  {
-    "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-    "code_alpha_2": "RE",
-    "country_name": "French Indian Ocean Territories",
-    "country_url": "https://en.wikipedia.org/wiki/List_of_French_islands_in_the_Indian_and_Pacific_oceans",
-    "mcc": "647",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#French_Indian_Ocean_Territories_(France)_-_YT/RE",
-    "notes": ""
-  },
-  {
-    "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-    "code_alpha_2": "YT",
-    "country_name": "French Indian Ocean Territories",
-    "country_url": "https://en.wikipedia.org/wiki/List_of_French_islands_in_the_Indian_and_Pacific_oceans",
-    "mcc": "647",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#French_Indian_Ocean_Territories_(France)_-_YT/RE",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "ZW",
-    "country_name": "Zimbabwe",
-    "country_url": "https://en.wikipedia.org/wiki/Zimbabwe",
-    "mcc": "648",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Zimbabwe_-_ZW",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "NA",
-    "country_name": "Namibia",
-    "country_url": "https://en.wikipedia.org/wiki/Namibia",
-    "mcc": "649",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Namibia_-_NA",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "MW",
-    "country_name": "Malawi",
-    "country_url": "https://en.wikipedia.org/wiki/Malawi",
-    "mcc": "650",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Malawi_-_MW",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "LS",
-    "country_name": "Lesotho",
-    "country_url": "https://en.wikipedia.org/wiki/Lesotho",
-    "mcc": "651",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Lesotho_-_LS",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BW",
-    "country_name": "Botswana",
-    "country_url": "https://en.wikipedia.org/wiki/Botswana",
-    "mcc": "652",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Botswana_-_BW",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SZ",
-    "country_name": "Swaziland",
-    "country_url": "https://en.wikipedia.org/wiki/Swaziland",
-    "mcc": "653",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Swaziland_-_SZ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "KM",
-    "country_name": "Comoros",
-    "country_url": "https://en.wikipedia.org/wiki/Comoros",
-    "mcc": "654",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Comoros_-_KM",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "ZA",
-    "country_name": "South Africa",
-    "country_url": "https://en.wikipedia.org/wiki/South_Africa",
-    "mcc": "655",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#South_Africa_-_ZA",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "ER",
-    "country_name": "Eritrea",
-    "country_url": "https://en.wikipedia.org/wiki/Eritrea",
-    "mcc": "657",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Eritrea_-_ER",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SH",
-    "country_name": "Saint Helena, Ascension and Tristan da Cunha",
-    "country_url": "https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha",
-    "mcc": "658",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Saint_Helena,_Ascension_and_Tristan_da_Cunha_-_SH",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SS",
-    "country_name": "South Sudan",
-    "country_url": "https://en.wikipedia.org/wiki/South_Sudan",
-    "mcc": "659",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#South_Sudan_-_SS",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BZ",
-    "country_name": "Belize",
-    "country_url": "https://en.wikipedia.org/wiki/Belize",
-    "mcc": "702",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Belize_-_BZ",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "GT",
-    "country_name": "Guatemala",
-    "country_url": "https://en.wikipedia.org/wiki/Guatemala",
-    "mcc": "704",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Guatemala_-_GT",
-    "notes": ""
-  },
-  {
-    "authority": "Superintendencia General de Electricidad y Telecomunicaciones (SIGET)",
-    "code_alpha_2": "SV",
-    "country_name": "El Salvador",
-    "country_url": "https://en.wikipedia.org/wiki/El_Salvador",
-    "mcc": "706",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#El_Salvador_-_SV",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "HN",
-    "country_name": "Honduras",
-    "country_url": "https://en.wikipedia.org/wiki/Honduras",
-    "mcc": "708",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Honduras_-_HN",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "NI",
-    "country_name": "Nicaragua",
-    "country_url": "https://en.wikipedia.org/wiki/Nicaragua",
-    "mcc": "710",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Nicaragua_-_NI",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CR",
-    "country_name": "Costa Rica",
-    "country_url": "https://en.wikipedia.org/wiki/Costa_Rica",
-    "mcc": "712",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Costa_Rica_-_CR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "PA",
-    "country_name": "Panama",
-    "country_url": "https://en.wikipedia.org/wiki/Panama",
-    "mcc": "714",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Panama_-_PA",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "PE",
-    "country_name": "Peru",
-    "country_url": "https://en.wikipedia.org/wiki/Peru",
-    "mcc": "716",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Peru_-_PE",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "AR",
-    "country_name": "Argentina",
-    "country_url": "https://en.wikipedia.org/wiki/Argentina",
-    "mcc": "722",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Argentina_-_AR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BR",
-    "country_name": "Brazil",
-    "country_url": "https://en.wikipedia.org/wiki/Brazil",
-    "mcc": "724",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Brazil_-_BR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "CL",
-    "country_name": "Chile",
-    "country_url": "https://en.wikipedia.org/wiki/Chile",
-    "mcc": "730",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Chile_-_CL",
-    "notes": ""
-  },
-  {
-    "authority": "Comisi\u00f3n de Regulaci\u00f3n de Comunicaciones (CRC)",
-    "code_alpha_2": "CO",
-    "country_name": "Colombia",
-    "country_url": "https://en.wikipedia.org/wiki/Colombia",
-    "mcc": "732",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Colombia_-_CO",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "VE",
-    "country_name": "Venezuela",
-    "country_url": "https://en.wikipedia.org/wiki/Venezuela",
-    "mcc": "734",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Venezuela_-_VE",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "BO",
-    "country_name": "Bolivia",
-    "country_url": "https://en.wikipedia.org/wiki/Bolivia",
-    "mcc": "736",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Bolivia_-_BO",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "GY",
-    "country_name": "Guyana",
-    "country_url": "https://en.wikipedia.org/wiki/Guyana",
-    "mcc": "738",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Guyana_-_GY",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "EC",
-    "country_name": "Ecuador",
-    "country_url": "https://en.wikipedia.org/wiki/Ecuador",
-    "mcc": "740",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Ecuador_-_EC",
-    "notes": ""
-  },
-  {
-    "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-    "code_alpha_2": "GF",
-    "country_name": "French Guiana",
-    "country_url": "https://en.wikipedia.org/wiki/French_Guiana",
-    "mcc": "742",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ",
-    "notes": "French Guinana shares MCC 340 instead of using the assigned MCC 742\n"
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "PY",
-    "country_name": "Paraguay",
-    "country_url": "https://en.wikipedia.org/wiki/Paraguay",
-    "mcc": "744",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Paraguay_-_PY",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "SR",
-    "country_name": "Suriname",
-    "country_url": "https://en.wikipedia.org/wiki/Suriname",
-    "mcc": "746",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Suriname_-_SR",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "UY",
-    "country_name": "Uruguay",
-    "country_url": "https://en.wikipedia.org/wiki/Uruguay",
-    "mcc": "748",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Uruguay_-_UY",
-    "notes": ""
-  },
-  {
-    "authority": "",
-    "code_alpha_2": "FK",
-    "country_name": "Falkland Islands",
-    "country_url": "https://en.wikipedia.org/wiki/Falkland_Islands",
-    "mcc": "750",
-    "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Falkland_Islands_(United_Kingdom)_-_FK",
-    "notes": ""
-  },
-  {
-    "authority": "\n",
-    "code_alpha_2": "IO",
-    "country_name": "British Indian Ocean Territory",
-    "country_url": "https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory",
-    "mcc": "995",
-    "mcc_url": "https://en.wikipedia.org#British_Indian_Ocean_Territory_(United_Kingdom)_-_IO",
-    "notes": "MCC is not listed by ITU\n"
-  }
+    "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License",
+    "source": [
+      "https://en.wikipedia.org/wiki/Mobile_country_code"
+    ]
+  },
+  [
+    {
+      "authority": "",
+      "code_alpha_2": "GR",
+      "country_name": "Greece",
+      "country_url": "https://en.wikipedia.org/wiki/Greece",
+      "mcc": "202",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Greece_-_GR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "NL",
+      "country_name": "Netherlands",
+      "country_url": "https://en.wikipedia.org/wiki/Netherlands",
+      "mcc": "204",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Netherlands_(Kingdom_of_the_Netherlands)_-_NL",
+      "notes": ""
+    },
+    {
+      "authority": "Belgian Institute for Postal services and Telecommunications (BIPT)",
+      "code_alpha_2": "BE",
+      "country_name": "Belgium",
+      "country_url": "https://en.wikipedia.org/wiki/Belgium",
+      "mcc": "206",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Belgium_-_BE",
+      "notes": ""
+    },
+    {
+      "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "code_alpha_2": "FR",
+      "country_name": "France",
+      "country_url": "https://en.wikipedia.org/wiki/France",
+      "mcc": "208",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#France_-_FR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MC",
+      "country_name": "Monaco",
+      "country_url": "https://en.wikipedia.org/wiki/Monaco",
+      "mcc": "212",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Monaco_-_MC",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AD",
+      "country_name": "Andorra",
+      "country_url": "https://en.wikipedia.org/wiki/Andorra",
+      "mcc": "213",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Andorra_-_AD",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "ES",
+      "country_name": "Spain",
+      "country_url": "https://en.wikipedia.org/wiki/Spain",
+      "mcc": "214",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Spain_-_ES",
+      "notes": ""
+    },
+    {
+      "authority": "National Media and Infocommunications Authority / Nemzeti M\u00e9dia- \u00e9s H\u00edrk\u00f6zl\u00e9si Hat\u00f3s\u00e1g (NMHH)",
+      "code_alpha_2": "HU",
+      "country_name": "Hungary",
+      "country_url": "https://en.wikipedia.org/wiki/Hungary",
+      "mcc": "216",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Hungary_-_HU",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BA",
+      "country_name": "Bosnia and Herzegovina",
+      "country_url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+      "mcc": "218",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Bosnia_and_Herzegovina_-_BA",
+      "notes": ""
+    },
+    {
+      "authority": "Hrvatska agencija za po\u0161tu i elektronicke komunikacije (HAKOM)",
+      "code_alpha_2": "HR",
+      "country_name": "Croatia",
+      "country_url": "https://en.wikipedia.org/wiki/Croatia",
+      "mcc": "219",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Croatia_-_HR",
+      "notes": ""
+    },
+    {
+      "authority": "Regulatory Agency for Electronic Communications and Postal Services / Regulatorna agencija za elektronske komunikacije i po\u0161tanske usluge (RATEL)",
+      "code_alpha_2": "RS",
+      "country_name": "Serbia",
+      "country_url": "https://en.wikipedia.org/wiki/Serbia",
+      "mcc": "220",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Serbia_-_RS",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "XK",
+      "country_name": "Kosovo",
+      "country_url": "https://en.wikipedia.org/wiki/Kosovo",
+      "mcc": "221",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Kosovo_-_XK",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "IT",
+      "country_name": "Italy",
+      "country_url": "https://en.wikipedia.org/wiki/Italy",
+      "mcc": "222",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Italy_-_IT",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "RO",
+      "country_name": "Romania",
+      "country_url": "https://en.wikipedia.org/wiki/Romania",
+      "mcc": "226",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Romania_-_RO",
+      "notes": ""
+    },
+    {
+      "authority": "Federal Office of Communications / Office f\u00e9d\u00e9ral de la communication (OFCOM) / Bundesamt f\u00fcr Kommunikation (BAKOM)",
+      "code_alpha_2": "CH",
+      "country_name": "Switzerland",
+      "country_url": "https://en.wikipedia.org/wiki/Switzerland",
+      "mcc": "228",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Switzerland_-_CH",
+      "notes": ""
+    },
+    {
+      "authority": "Czech Telecommunication Office / \u010cesk\u00fd telekomunika\u010dn\u00ed \u00fa\u0159ad (CTU)",
+      "code_alpha_2": "CZ",
+      "country_name": "Czech Republic",
+      "country_url": "https://en.wikipedia.org/wiki/Czech_Republic",
+      "mcc": "230",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Czech_Republic_-_CZ",
+      "notes": ""
+    },
+    {
+      "authority": "Regulatory for Electronic Communications and Postal Services / \u00darad pre regul\u00e1ciu elektronick\u00fdch komunik\u00e1ci\u00ed a po\u0161tov\u00fdch slu\u017eieb",
+      "code_alpha_2": "SK",
+      "country_name": "Slovakia",
+      "country_url": "https://en.wikipedia.org/wiki/Slovakia",
+      "mcc": "231",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Slovakia_-_SK",
+      "notes": ""
+    },
+    {
+      "authority": "Rundfunk- und Telekom Regulierungs-GmbH (RTR-GmbH)",
+      "code_alpha_2": "AT",
+      "country_name": "Austria",
+      "country_url": "https://en.wikipedia.org/wiki/Austria",
+      "mcc": "232",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Austria_-_AT",
+      "notes": ""
+    },
+    {
+      "authority": "Office of Communications (Ofcom)",
+      "code_alpha_2": "GB",
+      "country_name": "United Kingdom",
+      "country_url": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "mcc": "234",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#United_Kingdom_-_GB",
+      "notes": ""
+    },
+    {
+      "authority": "Office of Communications (Ofcom)",
+      "code_alpha_2": "GG",
+      "country_name": "Guernsey",
+      "country_url": "https://en.wikipedia.org/wiki/Guernsey",
+      "mcc": "234",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Guernsey_(United_Kingdom)_-_GG",
+      "notes": ""
+    },
+    {
+      "authority": "Office of Communications (Ofcom)",
+      "code_alpha_2": "IM",
+      "country_name": "Isle of Man",
+      "country_url": "https://en.wikipedia.org/wiki/Isle_of_Man",
+      "mcc": "234",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Isle_of_Man_(United_Kingdom)_-_IM",
+      "notes": ""
+    },
+    {
+      "authority": "Office of Communications (Ofcom)",
+      "code_alpha_2": "JE",
+      "country_name": "Jersey",
+      "country_url": "https://en.wikipedia.org/wiki/Jersey",
+      "mcc": "234",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Jersey_(United_Kingdom)_-_JE",
+      "notes": ""
+    },
+    {
+      "authority": "Office of Communications (Ofcom)",
+      "code_alpha_2": "GB",
+      "country_name": "United Kingdom",
+      "country_url": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "mcc": "235",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "Danish Energy Agency  / Energistyrelsen",
+      "code_alpha_2": "DK",
+      "country_name": "Denmark",
+      "country_url": "https://en.wikipedia.org/wiki/Denmark",
+      "mcc": "238",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Denmark_(Kingdom_of_Denmark)_-_DK",
+      "notes": ""
+    },
+    {
+      "authority": "Swedish Post and Telecom Authority / Post- och telestyrelsen (PTS)",
+      "code_alpha_2": "SE",
+      "country_name": "Sweden",
+      "country_url": "https://en.wikipedia.org/wiki/Sweden",
+      "mcc": "240",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Sweden_-_SE",
+      "notes": ""
+    },
+    {
+      "authority": "Norwegian Communications Authority",
+      "code_alpha_2": "NO",
+      "country_name": "Norway",
+      "country_url": "https://en.wikipedia.org/wiki/Norway",
+      "mcc": "242",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Norway_-_NO",
+      "notes": ""
+    },
+    {
+      "authority": "Finnish Transport and Communications Agency / Liikenne- ja viestint\u00e4virasto (TRAFICOM)",
+      "code_alpha_2": "FI",
+      "country_name": "Finland",
+      "country_url": "https://en.wikipedia.org/wiki/Finland",
+      "mcc": "244",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Finland_-_FI",
+      "notes": ""
+    },
+    {
+      "authority": "Communications Regulatory Authority / Ry\u0161i\u0173 Reguliavimo Tarnyba (RRT)",
+      "code_alpha_2": "LT",
+      "country_name": "Lithuania",
+      "country_url": "https://en.wikipedia.org/wiki/Lithuania",
+      "mcc": "246",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Lithuania_-_LT",
+      "notes": ""
+    },
+    {
+      "authority": "Public Utilities Commission / Sabiedrisko pakalpojumu regul\u0113\u0161anas komisija (SPRK)",
+      "code_alpha_2": "LV",
+      "country_name": "Latvia",
+      "country_url": "https://en.wikipedia.org/wiki/Latvia",
+      "mcc": "247",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Latvia_-_LV",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "EE",
+      "country_name": "Estonia",
+      "country_url": "https://en.wikipedia.org/wiki/Estonia",
+      "mcc": "248",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Estonia_-_EE",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "RU",
+      "country_name": "Russian Federation",
+      "country_url": "https://en.wikipedia.org/wiki/Russian_Federation",
+      "mcc": "250",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Russian_Federation_-_RU",
+      "notes": ""
+    },
+    {
+      "authority": "National Commission for the State Regulation of Communications and Information (NKRZI)",
+      "code_alpha_2": "UA",
+      "country_name": "Ukraine",
+      "country_url": "https://en.wikipedia.org/wiki/Ukraine",
+      "mcc": "255",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Ukraine_-_UA",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BY",
+      "country_name": "Belarus",
+      "country_url": "https://en.wikipedia.org/wiki/Belarus",
+      "mcc": "257",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Belarus_-_BY",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MD",
+      "country_name": "Moldova",
+      "country_url": "https://en.wikipedia.org/wiki/Moldova",
+      "mcc": "259",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Moldova_-_MD",
+      "notes": ""
+    },
+    {
+      "authority": "Office of Electronic Communications / Urz\u0105d Komunikacji Elektronicznej (UKE)",
+      "code_alpha_2": "PL",
+      "country_name": "Poland",
+      "country_url": "https://en.wikipedia.org/wiki/Poland",
+      "mcc": "260",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Poland_-_PL",
+      "notes": ""
+    },
+    {
+      "authority": "Federal Network Agency / Bundesnetzagentur (BNetzA)",
+      "code_alpha_2": "DE",
+      "country_name": "Germany",
+      "country_url": "https://en.wikipedia.org/wiki/Germany",
+      "mcc": "262",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Germany_-_DE",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "GI",
+      "country_name": "Gibraltar",
+      "country_url": "https://en.wikipedia.org/wiki/Gibraltar",
+      "mcc": "266",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Gibraltar_(United_Kingdom)_-_GI",
+      "notes": ""
+    },
+    {
+      "authority": "National Communications Authority / Autoridade Nacional de Comunica\u00e7\u00f5es (ANACOM)",
+      "code_alpha_2": "PT",
+      "country_name": "Portugal",
+      "country_url": "https://en.wikipedia.org/wiki/Portugal",
+      "mcc": "268",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Portugal_-_PT",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "LU",
+      "country_name": "Luxembourg",
+      "country_url": "https://en.wikipedia.org/wiki/Luxembourg",
+      "mcc": "270",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Luxembourg_-_LU",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "IE",
+      "country_name": "Republic of Ireland",
+      "country_url": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+      "mcc": "272",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Ireland_-_IE",
+      "notes": ""
+    },
+    {
+      "authority": "Post and Telecom Administration / P\u00f3st- og fjarskiptastofnun (PFS)",
+      "code_alpha_2": "IS",
+      "country_name": "Iceland",
+      "country_url": "https://en.wikipedia.org/wiki/Iceland",
+      "mcc": "274",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Iceland_-_IS",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AL",
+      "country_name": "Albania",
+      "country_url": "https://en.wikipedia.org/wiki/Albania",
+      "mcc": "276",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Albania_-_AL",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MT",
+      "country_name": "Malta",
+      "country_url": "https://en.wikipedia.org/wiki/Malta",
+      "mcc": "278",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Malta_-_MT",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CY",
+      "country_name": "Cyprus",
+      "country_url": "https://en.wikipedia.org/wiki/Cyprus",
+      "mcc": "280",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Cyprus_-_CY",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "GE",
+      "country_name": "Georgia",
+      "country_url": "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "mcc": "282",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Georgia_-_GE",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AM",
+      "country_name": "Armenia",
+      "country_url": "https://en.wikipedia.org/wiki/Armenia",
+      "mcc": "283",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Armenia_-_AM",
+      "notes": ""
+    },
+    {
+      "authority": "Communications Regulation Commission (CRC)",
+      "code_alpha_2": "BG",
+      "country_name": "Bulgaria",
+      "country_url": "https://en.wikipedia.org/wiki/Bulgaria",
+      "mcc": "284",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Bulgaria_-_BG",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TR",
+      "country_name": "Turkey",
+      "country_url": "https://en.wikipedia.org/wiki/Turkey",
+      "mcc": "286",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Turkey_-_TR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "FO",
+      "country_name": "Faroe Islands",
+      "country_url": "https://en.wikipedia.org/wiki/Faroe_Islands",
+      "mcc": "288",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Faroe_Islands_(Kingdom_of_Denmark)_-_FO",
+      "notes": ""
+    },
+    {
+      "authority": "\n",
+      "code_alpha_2": "GE-AB",
+      "country_name": "Abkhazia",
+      "country_url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "mcc": "289",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Abkhasia_-_GE-AB",
+      "notes": "MCC is not listed by ITU\n"
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "GL",
+      "country_name": "Greenland",
+      "country_url": "https://en.wikipedia.org/wiki/Greenland",
+      "mcc": "290",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Greenland_(Kingdom_of_Denmark)_-_GL",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SM",
+      "country_name": "San Marino",
+      "country_url": "https://en.wikipedia.org/wiki/San_Marino",
+      "mcc": "292",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#San_Marino_-_SM",
+      "notes": ""
+    },
+    {
+      "authority": "Agency for communication networks and services / Agencija za komunikacijska omre\u017eja in storitve (AKOS)",
+      "code_alpha_2": "SI",
+      "country_name": "Slovenia",
+      "country_url": "https://en.wikipedia.org/wiki/Slovenia",
+      "mcc": "293",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Slovenia_-_SI",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MK",
+      "country_name": "Republic of North Macedonia",
+      "country_url": "https://en.wikipedia.org/wiki/Republic_of_North_Macedonia",
+      "mcc": "294",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#North_Macedonia_-_MK",
+      "notes": ""
+    },
+    {
+      "authority": "Amt f\u00fcr Kommunikation (AK)",
+      "code_alpha_2": "LI",
+      "country_name": "Liechtenstein",
+      "country_url": "https://en.wikipedia.org/wiki/Liechtenstein",
+      "mcc": "295",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Liechtenstein_-_LI",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "ME",
+      "country_name": "Montenegro",
+      "country_url": "https://en.wikipedia.org/wiki/Montenegro",
+      "mcc": "297",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Montenegro_-_ME",
+      "notes": ""
+    },
+    {
+      "authority": "Canadian Numbering Administrator",
+      "code_alpha_2": "CA",
+      "country_name": "Canada",
+      "country_url": "https://en.wikipedia.org/wiki/Canada",
+      "mcc": "302",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Canada_-_CA",
+      "notes": ""
+    },
+    {
+      "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "code_alpha_2": "PM",
+      "country_name": "Saint Pierre and Miquelon",
+      "country_url": "https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
+      "mcc": "308",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Pierre_and_Miquelon_-_PM",
+      "notes": ""
+    },
+    {
+      "authority": "IMSI Administrator",
+      "code_alpha_2": "GU",
+      "country_name": "Guam",
+      "country_url": "https://en.wikipedia.org/wiki/Guam",
+      "mcc": "310",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Guam_(United_States_of_America)_-_GU",
+      "notes": ""
+    },
+    {
+      "authority": "IMSI Administrator",
+      "code_alpha_2": "MP",
+      "country_name": "Northern Mariana Islands",
+      "country_url": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands",
+      "mcc": "310",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Northern_Mariana_Islands_(United_States_of_America)_-_MP",
+      "notes": ""
+    },
+    {
+      "authority": "IMSI Administrator",
+      "code_alpha_2": "US",
+      "country_name": "United States of America",
+      "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
+      "mcc": "310",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_of_America_-_US",
+      "notes": ""
+    },
+    {
+      "authority": "IMSI Administrator",
+      "code_alpha_2": "GU",
+      "country_name": "Guam",
+      "country_url": "https://en.wikipedia.org/wiki/Guam",
+      "mcc": "311",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "IMSI Administrator",
+      "code_alpha_2": "US",
+      "country_name": "United States of America",
+      "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
+      "mcc": "311",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "IMSI Administrator",
+      "code_alpha_2": "US",
+      "country_name": "United States of America",
+      "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
+      "mcc": "312",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "IMSI Administrator",
+      "code_alpha_2": "US",
+      "country_name": "United States of America",
+      "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
+      "mcc": "313",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "IMSI Administrator",
+      "code_alpha_2": "US",
+      "country_name": "United States of America",
+      "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
+      "mcc": "314",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "IMSI Administrator",
+      "code_alpha_2": "US",
+      "country_name": "United States of America",
+      "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
+      "mcc": "315",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "IMSI Administrator",
+      "code_alpha_2": "US",
+      "country_name": "United States of America",
+      "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
+      "mcc": "316",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "PR",
+      "country_name": "Puerto Rico",
+      "country_url": "https://en.wikipedia.org/wiki/Puerto_Rico",
+      "mcc": "330",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Puerto_Rico_-_PR",
+      "notes": ""
+    },
+    {
+      "authority": "IMSI Administrator",
+      "code_alpha_2": "VI",
+      "country_name": "United States Virgin Islands",
+      "country_url": "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
+      "mcc": "332",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_of_America_-_US",
+      "notes": "The US Virgin Islands share the US MCCs instead of using the assigned MCC 332\n"
+    },
+    {
+      "authority": "Instituto Federal de Telecomunicaciones",
+      "code_alpha_2": "MX",
+      "country_name": "Mexico",
+      "country_url": "https://en.wikipedia.org/wiki/Mexico",
+      "mcc": "334",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Mexico_-_MX",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "JM",
+      "country_name": "Jamaica",
+      "country_url": "https://en.wikipedia.org/wiki/Jamaica",
+      "mcc": "338",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Jamaica_-_JM",
+      "notes": ""
+    },
+    {
+      "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "code_alpha_2": "BL",
+      "country_name": "Saint Barth\u00e9lemy",
+      "country_url": "https://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy",
+      "mcc": "340",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ",
+      "notes": ""
+    },
+    {
+      "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "code_alpha_2": "GP",
+      "country_name": "Guadeloupe",
+      "country_url": "https://en.wikipedia.org/wiki/Guadeloupe",
+      "mcc": "340",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ",
+      "notes": ""
+    },
+    {
+      "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "code_alpha_2": "MF",
+      "country_name": "Saint Martin",
+      "country_url": "https://en.wikipedia.org/wiki/Saint_Martin",
+      "mcc": "340",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ",
+      "notes": ""
+    },
+    {
+      "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "code_alpha_2": "MQ",
+      "country_name": "Martinique",
+      "country_url": "https://en.wikipedia.org/wiki/Martinique",
+      "mcc": "340",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BB",
+      "country_name": "Barbados",
+      "country_url": "https://en.wikipedia.org/wiki/Barbados",
+      "mcc": "342",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Barbados_-_BB",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AG",
+      "country_name": "Antigua and Barbuda",
+      "country_url": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+      "mcc": "344",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Antigua_and_Barbuda_-_AG",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "KY",
+      "country_name": "Cayman Islands",
+      "country_url": "https://en.wikipedia.org/wiki/Cayman_Islands",
+      "mcc": "346",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Cayman_Islands_(United_Kingdom)_-_KY",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "VG",
+      "country_name": "British Virgin Islands",
+      "country_url": "https://en.wikipedia.org/wiki/British_Virgin_Islands",
+      "mcc": "348",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#British_Virgin_Islands_(United_Kingdom)_-_VG",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BM",
+      "country_name": "Bermuda",
+      "country_url": "https://en.wikipedia.org/wiki/Bermuda",
+      "mcc": "350",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Bermuda_-_BM",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "GD",
+      "country_name": "Grenada",
+      "country_url": "https://en.wikipedia.org/wiki/Grenada",
+      "mcc": "352",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Grenada_-_GD",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MS",
+      "country_name": "Montserrat",
+      "country_url": "https://en.wikipedia.org/wiki/Montserrat",
+      "mcc": "354",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Montserrat_(United_Kingdom)_-_MS",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "KN",
+      "country_name": "Saint Kitts and Nevis",
+      "country_url": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+      "mcc": "356",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Kitts_and_Nevis_-_KN",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "LC",
+      "country_name": "Saint Lucia",
+      "country_url": "https://en.wikipedia.org/wiki/Saint_Lucia",
+      "mcc": "358",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Lucia_-_LC",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "VC",
+      "country_name": "Saint Vincent and the Grenadines",
+      "country_url": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "mcc": "360",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Vincent_and_the_Grenadines_-_VC",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BQ",
+      "country_name": "Caribbean Netherlands",
+      "country_url": "https://en.wikipedia.org/wiki/Caribbean_Netherlands",
+      "mcc": "362",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_-_BQ/CW/SX",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CW",
+      "country_name": "Cura\u00e7ao",
+      "country_url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao",
+      "mcc": "362",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_-_BQ/CW/SX",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SX",
+      "country_name": "Sint Maarten",
+      "country_url": "https://en.wikipedia.org/wiki/Sint_Maarten",
+      "mcc": "362",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_-_BQ/CW/SX",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AW",
+      "country_name": "Aruba",
+      "country_url": "https://en.wikipedia.org/wiki/Aruba",
+      "mcc": "363",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Aruba_(Kingdom_of_the_Netherlands)_-_AW",
+      "notes": ""
+    },
+    {
+      "authority": "Utilities Regulation & Competition Authority (URCA)",
+      "code_alpha_2": "BS",
+      "country_name": "Bahamas",
+      "country_url": "https://en.wikipedia.org/wiki/Bahamas",
+      "mcc": "364",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Bahamas_-_BS",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AI",
+      "country_name": "Anguilla",
+      "country_url": "https://en.wikipedia.org/wiki/Anguilla",
+      "mcc": "365",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Anguilla_(United_Kingdom)_-_AI",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "DM",
+      "country_name": "Dominica",
+      "country_url": "https://en.wikipedia.org/wiki/Dominica",
+      "mcc": "366",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Dominica_-_DM",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CU",
+      "country_name": "Cuba",
+      "country_url": "https://en.wikipedia.org/wiki/Cuba",
+      "mcc": "368",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Cuba_-_CU",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "DO",
+      "country_name": "Dominican Republic",
+      "country_url": "https://en.wikipedia.org/wiki/Dominican_Republic",
+      "mcc": "370",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Dominican_Republic_-_DO",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "HT",
+      "country_name": "Haiti",
+      "country_url": "https://en.wikipedia.org/wiki/Haiti",
+      "mcc": "372",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Haiti_-_HT",
+      "notes": ""
+    },
+    {
+      "authority": "Telecommunications Authority of Trinidad and Tobago (TATT)\n",
+      "code_alpha_2": "TT",
+      "country_name": "Trinidad and Tobago",
+      "country_url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+      "mcc": "374",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Trinidad_and_Tobago_-_TT",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TC",
+      "country_name": "Turks and Caicos Islands",
+      "country_url": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
+      "mcc": "376",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Turks_and_Caicos_Islands_-_TC",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AZ",
+      "country_name": "Azerbaijan",
+      "country_url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "mcc": "400",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Azerbaijan_-_AZ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "KZ",
+      "country_name": "Kazakhstan",
+      "country_url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "mcc": "401",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kazakhstan_-_KZ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BT",
+      "country_name": "Bhutan",
+      "country_url": "https://en.wikipedia.org/wiki/Bhutan",
+      "mcc": "402",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bhutan_-_BT",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "IN",
+      "country_name": "India",
+      "country_url": "https://en.wikipedia.org/wiki/India",
+      "mcc": "404",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#India_-_IN",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "IN",
+      "country_name": "India",
+      "country_url": "https://en.wikipedia.org/wiki/India",
+      "mcc": "405",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "IN",
+      "country_name": "India",
+      "country_url": "https://en.wikipedia.org/wiki/India",
+      "mcc": "406",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "PK",
+      "country_name": "Pakistan",
+      "country_url": "https://en.wikipedia.org/wiki/Pakistan",
+      "mcc": "410",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Pakistan_-_PK",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AF",
+      "country_name": "Afghanistan",
+      "country_url": "https://en.wikipedia.org/wiki/Afghanistan",
+      "mcc": "412",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Afghanistan_-_AF",
+      "notes": ""
+    },
+    {
+      "authority": "Telecommunications Regulatory Commission of Sri Lanka (TRCSL)\n",
+      "code_alpha_2": "LK",
+      "country_name": "Sri Lanka",
+      "country_url": "https://en.wikipedia.org/wiki/Sri_Lanka",
+      "mcc": "413",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Sri_Lanka_-_LK",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MM",
+      "country_name": "Myanmar",
+      "country_url": "https://en.wikipedia.org/wiki/Myanmar",
+      "mcc": "414",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Myanmar_-_MM",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "LB",
+      "country_name": "Lebanon",
+      "country_url": "https://en.wikipedia.org/wiki/Lebanon",
+      "mcc": "415",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Lebanon_-_LB",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "JO",
+      "country_name": "Jordan",
+      "country_url": "https://en.wikipedia.org/wiki/Jordan",
+      "mcc": "416",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Jordan_-_JO",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SY",
+      "country_name": "Syria",
+      "country_url": "https://en.wikipedia.org/wiki/Syria",
+      "mcc": "417",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Syria_-_SY",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "IQ",
+      "country_name": "Iraq",
+      "country_url": "https://en.wikipedia.org/wiki/Iraq",
+      "mcc": "418",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Iraq_-_IQ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "KW",
+      "country_name": "Kuwait",
+      "country_url": "https://en.wikipedia.org/wiki/Kuwait",
+      "mcc": "419",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kuwait_-_KW",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SA",
+      "country_name": "Saudi Arabia",
+      "country_url": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+      "mcc": "420",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Saudi_Arabia_-_SA",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "YE",
+      "country_name": "Yemen",
+      "country_url": "https://en.wikipedia.org/wiki/Yemen",
+      "mcc": "421",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Yemen_-_YE",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "OM",
+      "country_name": "Oman",
+      "country_url": "https://en.wikipedia.org/wiki/Oman",
+      "mcc": "422",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Oman_-_OM",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AE",
+      "country_name": "United Arab Emirates",
+      "country_url": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+      "mcc": "424",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#United_Arab_Emirates_-_AE",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "IL",
+      "country_name": "Israel",
+      "country_url": "https://en.wikipedia.org/wiki/Israel",
+      "mcc": "425",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Israel_-_IL",
+      "notes": ""
+    },
+    {
+      "authority": "\n",
+      "code_alpha_2": "PS",
+      "country_name": "State of Palestine",
+      "country_url": "https://en.wikipedia.org/wiki/State_of_Palestine",
+      "mcc": "425",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Palestine_-_PS",
+      "notes": "Uses the MCC of Israel\n"
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BH",
+      "country_name": "Bahrain",
+      "country_url": "https://en.wikipedia.org/wiki/Bahrain",
+      "mcc": "426",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bahrain_-_BH",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "QA",
+      "country_name": "Qatar",
+      "country_url": "https://en.wikipedia.org/wiki/Qatar",
+      "mcc": "427",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Qatar_-_QA",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MN",
+      "country_name": "Mongolia",
+      "country_url": "https://en.wikipedia.org/wiki/Mongolia",
+      "mcc": "428",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Mongolia_-_MN",
+      "notes": ""
+    },
+    {
+      "authority": "Nepal Telecommunications Authority",
+      "code_alpha_2": "NP",
+      "country_name": "Nepal",
+      "country_url": "https://en.wikipedia.org/wiki/Nepal",
+      "mcc": "429",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Nepal_-_NP",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AE",
+      "country_name": "United Arab Emirates",
+      "country_url": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+      "mcc": "430",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AE",
+      "country_name": "United Arab Emirates",
+      "country_url": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+      "mcc": "431",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "IR",
+      "country_name": "Iran",
+      "country_url": "https://en.wikipedia.org/wiki/Iran",
+      "mcc": "432",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Iran_-_IR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "UZ",
+      "country_name": "Uzbekistan",
+      "country_url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "mcc": "434",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Uzbekistan_-_UZ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TJ",
+      "country_name": "Tajikistan",
+      "country_url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "mcc": "436",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Tajikistan_-_TJ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "KG",
+      "country_name": "Kyrgyzstan",
+      "country_url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "mcc": "437",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kyrgyzstan_-_KG",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TM",
+      "country_name": "Turkmenistan",
+      "country_url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "mcc": "438",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Turkmenistan_-_TM",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "JP",
+      "country_name": "Japan",
+      "country_url": "https://en.wikipedia.org/wiki/Japan",
+      "mcc": "440",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Japan_-_JP",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "JP",
+      "country_name": "Japan",
+      "country_url": "https://en.wikipedia.org/wiki/Japan",
+      "mcc": "441",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "KR",
+      "country_name": "South Korea",
+      "country_url": "https://en.wikipedia.org/wiki/South_Korea",
+      "mcc": "450",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#South_Korea_-_KR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "VN",
+      "country_name": "Vietnam",
+      "country_url": "https://en.wikipedia.org/wiki/Vietnam",
+      "mcc": "452",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Vietnam_-_VN",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "HK",
+      "country_name": "Hong Kong",
+      "country_url": "https://en.wikipedia.org/wiki/Hong_Kong",
+      "mcc": "454",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Hong_Kong_-_HK",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MO",
+      "country_name": "Macau",
+      "country_url": "https://en.wikipedia.org/wiki/Macau",
+      "mcc": "455",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Macau_(People's_Republic_of_China)_-_MO",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "KH",
+      "country_name": "Cambodia",
+      "country_url": "https://en.wikipedia.org/wiki/Cambodia",
+      "mcc": "456",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Cambodia_-_KH",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "LA",
+      "country_name": "Laos",
+      "country_url": "https://en.wikipedia.org/wiki/Laos",
+      "mcc": "457",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Laos_-_LA",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CN",
+      "country_name": "China",
+      "country_url": "https://en.wikipedia.org/wiki/China",
+      "mcc": "460",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#China_-_CN",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CN",
+      "country_name": "China",
+      "country_url": "https://en.wikipedia.org/wiki/China",
+      "mcc": "461",
+      "mcc_url": "",
+      "notes": ""
+    },
+    {
+      "authority": "National Communications Commission (NCC)",
+      "code_alpha_2": "TW",
+      "country_name": "Taiwan",
+      "country_url": "https://en.wikipedia.org/wiki/Taiwan",
+      "mcc": "466",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Taiwan_-_TW",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "KP",
+      "country_name": "North Korea",
+      "country_url": "https://en.wikipedia.org/wiki/North_Korea",
+      "mcc": "467",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#North_Korea_-_KP",
+      "notes": ""
+    },
+    {
+      "authority": "Bangladesh Telecommunication Regulatory Commission\n",
+      "code_alpha_2": "BD",
+      "country_name": "Bangladesh",
+      "country_url": "https://en.wikipedia.org/wiki/Bangladesh",
+      "mcc": "470",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bangladesh_-_BD",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MV",
+      "country_name": "Maldives",
+      "country_url": "https://en.wikipedia.org/wiki/Maldives",
+      "mcc": "472",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Maldives_-_MV",
+      "notes": ""
+    },
+    {
+      "authority": "Malaysian Communications and Multimedia Commission / Suruhanjaya Komunikasi dan Multimedia Malaysia (SKMM)",
+      "code_alpha_2": "MY",
+      "country_name": "Malaysia",
+      "country_url": "https://en.wikipedia.org/wiki/Malaysia",
+      "mcc": "502",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Malaysia_-_MY",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AU",
+      "country_name": "Australia",
+      "country_url": "https://en.wikipedia.org/wiki/Australia",
+      "mcc": "505",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Australia_-_AU",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "NF",
+      "country_name": "Norfolk Island",
+      "country_url": "https://en.wikipedia.org/wiki/Norfolk_Island",
+      "mcc": "505",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Norfolk_Island_-_NF",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "ID",
+      "country_name": "Indonesia",
+      "country_url": "https://en.wikipedia.org/wiki/Indonesia",
+      "mcc": "510",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Indonesia_-_ID",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TL",
+      "country_name": "East Timor",
+      "country_url": "https://en.wikipedia.org/wiki/East_Timor",
+      "mcc": "514",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#East_Timor_-_TL",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "PH",
+      "country_name": "Philippines",
+      "country_url": "https://en.wikipedia.org/wiki/Philippines",
+      "mcc": "515",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Philippines_-_PH",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TH",
+      "country_name": "Thailand",
+      "country_url": "https://en.wikipedia.org/wiki/Thailand",
+      "mcc": "520",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Thailand_-_TH",
+      "notes": ""
+    },
+    {
+      "authority": "Info-communications Media Development Authority (IMDA)",
+      "code_alpha_2": "SG",
+      "country_name": "Singapore",
+      "country_url": "https://en.wikipedia.org/wiki/Singapore",
+      "mcc": "525",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Singapore_-_SG",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BN",
+      "country_name": "Brunei",
+      "country_url": "https://en.wikipedia.org/wiki/Brunei",
+      "mcc": "528",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Brunei_-_BN",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "NZ",
+      "country_name": "New Zealand",
+      "country_url": "https://en.wikipedia.org/wiki/New_Zealand",
+      "mcc": "530",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#New_Zealand_-_NZ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "NR",
+      "country_name": "Nauru",
+      "country_url": "https://en.wikipedia.org/wiki/Nauru",
+      "mcc": "536",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Nauru_-_NR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "PG",
+      "country_name": "Papua New Guinea",
+      "country_url": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+      "mcc": "537",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Papua_New_Guinea_-_PG",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TO",
+      "country_name": "Tonga",
+      "country_url": "https://en.wikipedia.org/wiki/Tonga",
+      "mcc": "539",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tonga_-_TK",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SB",
+      "country_name": "Solomon Islands",
+      "country_url": "https://en.wikipedia.org/wiki/Solomon_Islands",
+      "mcc": "540",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Solomon_Islands_-_SB",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "VU",
+      "country_name": "Vanuatu",
+      "country_url": "https://en.wikipedia.org/wiki/Vanuatu",
+      "mcc": "541",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Vanuatu_-_VU",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "FJ",
+      "country_name": "Fiji",
+      "country_url": "https://en.wikipedia.org/wiki/Fiji",
+      "mcc": "542",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Fiji_-_FJ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "WF",
+      "country_name": "Wallis and Futuna",
+      "country_url": "https://en.wikipedia.org/wiki/Wallis_and_Futuna",
+      "mcc": "543",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Wallis_and_Futuna_-_WF",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AS",
+      "country_name": "American Samoa",
+      "country_url": "https://en.wikipedia.org/wiki/American_Samoa",
+      "mcc": "544",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#American_Samoa_(United_States_of_America)_-_AS",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "KI",
+      "country_name": "Kiribati",
+      "country_url": "https://en.wikipedia.org/wiki/Kiribati",
+      "mcc": "545",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Kiribati_-_KI",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "NC",
+      "country_name": "New Caledonia",
+      "country_url": "https://en.wikipedia.org/wiki/New_Caledonia",
+      "mcc": "546",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#New_Caledonia_-_NC",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "PF",
+      "country_name": "French Polynesia",
+      "country_url": "https://en.wikipedia.org/wiki/French_Polynesia",
+      "mcc": "547",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#French_Polynesia_(France)_-_PF",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CK",
+      "country_name": "Cook Islands",
+      "country_url": "https://en.wikipedia.org/wiki/Cook_Islands",
+      "mcc": "548",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Cook_Islands_(Pacific_Ocean)_-_CK",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "WS",
+      "country_name": "Samoa",
+      "country_url": "https://en.wikipedia.org/wiki/Samoa",
+      "mcc": "549",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Samoa_-_WS",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "FM",
+      "country_name": "Federated States of Micronesia",
+      "country_url": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
+      "mcc": "550",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Federated_States_of_Micronesia_-_FM",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MH",
+      "country_name": "Marshall Islands",
+      "country_url": "https://en.wikipedia.org/wiki/Marshall_Islands",
+      "mcc": "551",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Marshall_Islands_-_MH",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "PW",
+      "country_name": "Palau",
+      "country_url": "https://en.wikipedia.org/wiki/Palau",
+      "mcc": "552",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Palau_-_PW",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TV",
+      "country_name": "Tuvalu",
+      "country_url": "https://en.wikipedia.org/wiki/Tuvalu",
+      "mcc": "553",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tuvalu_-_TV",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TK",
+      "country_name": "Tokelau",
+      "country_url": "https://en.wikipedia.org/wiki/Tokelau",
+      "mcc": "554",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tokelau_-_TK",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "NU",
+      "country_name": "Niue",
+      "country_url": "https://en.wikipedia.org/wiki/Niue",
+      "mcc": "555",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Niue_-_NU",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "EG",
+      "country_name": "Egypt",
+      "country_url": "https://en.wikipedia.org/wiki/Egypt",
+      "mcc": "602",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Egypt_-_EG",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "DZ",
+      "country_name": "Algeria",
+      "country_url": "https://en.wikipedia.org/wiki/Algeria",
+      "mcc": "603",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Algeria_-_DZ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MA",
+      "country_name": "Morocco",
+      "country_url": "https://en.wikipedia.org/wiki/Morocco",
+      "mcc": "604",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Morocco_-_MA",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TN",
+      "country_name": "Tunisia",
+      "country_url": "https://en.wikipedia.org/wiki/Tunisia",
+      "mcc": "605",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Tunisia_-_TN",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "LY",
+      "country_name": "Libya",
+      "country_url": "https://en.wikipedia.org/wiki/Libya",
+      "mcc": "606",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Libya_-_LY",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "GM",
+      "country_name": "Gambia",
+      "country_url": "https://en.wikipedia.org/wiki/Gambia",
+      "mcc": "607",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Gambia_-_GM",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SN",
+      "country_name": "Senegal",
+      "country_url": "https://en.wikipedia.org/wiki/Senegal",
+      "mcc": "608",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Senegal_-_SN",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MR",
+      "country_name": "Mauritania",
+      "country_url": "https://en.wikipedia.org/wiki/Mauritania",
+      "mcc": "609",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mauritania_-_MR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "ML",
+      "country_name": "Mali",
+      "country_url": "https://en.wikipedia.org/wiki/Mali",
+      "mcc": "610",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mali_-_ML",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "GN",
+      "country_name": "Guinea",
+      "country_url": "https://en.wikipedia.org/wiki/Guinea",
+      "mcc": "611",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Guinea_-_GN",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CI",
+      "country_name": "Ivory Coast",
+      "country_url": "https://en.wikipedia.org/wiki/Ivory_Coast",
+      "mcc": "612",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ivory_Coast_-_CI",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BF",
+      "country_name": "Burkina Faso",
+      "country_url": "https://en.wikipedia.org/wiki/Burkina_Faso",
+      "mcc": "613",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Burkina_Faso_-_BF",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "NE",
+      "country_name": "Niger",
+      "country_url": "https://en.wikipedia.org/wiki/Niger",
+      "mcc": "614",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Niger_-_NE",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TG",
+      "country_name": "Togo",
+      "country_url": "https://en.wikipedia.org/wiki/Togo",
+      "mcc": "615",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Togo_-_TG",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BJ",
+      "country_name": "Benin",
+      "country_url": "https://en.wikipedia.org/wiki/Benin",
+      "mcc": "616",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Benin_-_BJ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MU",
+      "country_name": "Mauritius",
+      "country_url": "https://en.wikipedia.org/wiki/Mauritius",
+      "mcc": "617",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#MMauritius_-_MU",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "LR",
+      "country_name": "Liberia",
+      "country_url": "https://en.wikipedia.org/wiki/Liberia",
+      "mcc": "618",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Liberia_-_LR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SL",
+      "country_name": "Sierra Leone",
+      "country_url": "https://en.wikipedia.org/wiki/Sierra_Leone",
+      "mcc": "619",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sierra_Leone_-_SL",
+      "notes": ""
+    },
+    {
+      "authority": "National Communications Authority (NCA)",
+      "code_alpha_2": "GH",
+      "country_name": "Ghana",
+      "country_url": "https://en.wikipedia.org/wiki/Ghana",
+      "mcc": "620",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ghana_-_GH",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "NG",
+      "country_name": "Nigeria",
+      "country_url": "https://en.wikipedia.org/wiki/Nigeria",
+      "mcc": "621",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Nigeria_-_NG",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "TD",
+      "country_name": "Chad",
+      "country_url": "https://en.wikipedia.org/wiki/Chad",
+      "mcc": "622",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Chad_-_TD",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CF",
+      "country_name": "Central African Republic",
+      "country_url": "https://en.wikipedia.org/wiki/Central_African_Republic",
+      "mcc": "623",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Central_African_Republic_-_CF",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CM",
+      "country_name": "Cameroon",
+      "country_url": "https://en.wikipedia.org/wiki/Cameroon",
+      "mcc": "624",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Cameroon_-_CM",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CV",
+      "country_name": "Cape Verde",
+      "country_url": "https://en.wikipedia.org/wiki/Cape_Verde",
+      "mcc": "625",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Cape_Verde_-_CV",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "ST",
+      "country_name": "Sao Tome and Principe",
+      "country_url": "https://en.wikipedia.org/wiki/Sao_Tome_and_Principe",
+      "mcc": "626",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sao_Tome_and_Principe_-_ST",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "GQ",
+      "country_name": "Equatorial Guinea",
+      "country_url": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
+      "mcc": "627",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Equatorial_Guinea_-_GQ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "GA",
+      "country_name": "Gabon",
+      "country_url": "https://en.wikipedia.org/wiki/Gabon",
+      "mcc": "628",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Gabon_-_GA",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CG",
+      "country_name": "Republic of the Congo",
+      "country_url": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
+      "mcc": "629",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Congo_-_CG",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CD",
+      "country_name": "Democratic Republic of the Congo",
+      "country_url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+      "mcc": "630",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Democratic_Republic_of_the_Congo_-_CD",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AO",
+      "country_name": "Angola",
+      "country_url": "https://en.wikipedia.org/wiki/Angola",
+      "mcc": "631",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Angola_-_AO",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "GW",
+      "country_name": "Guinea-Bissau",
+      "country_url": "https://en.wikipedia.org/wiki/Guinea-Bissau",
+      "mcc": "632",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Guinea-Bissau_-_GW",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SC",
+      "country_name": "Seychelles",
+      "country_url": "https://en.wikipedia.org/wiki/Seychelles",
+      "mcc": "633",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Seychelles_-_SC",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SD",
+      "country_name": "Sudan",
+      "country_url": "https://en.wikipedia.org/wiki/Sudan",
+      "mcc": "634",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sudan_-_SD",
+      "notes": ""
+    },
+    {
+      "authority": "Rwanda Utilities Regulatory Agency (RURA) / Agence Rwandaise de R\u00e9gulation",
+      "code_alpha_2": "RW",
+      "country_name": "Rwanda",
+      "country_url": "https://en.wikipedia.org/wiki/Rwanda",
+      "mcc": "635",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Rwanda_-_RW",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "ET",
+      "country_name": "Ethiopia",
+      "country_url": "https://en.wikipedia.org/wiki/Ethiopia",
+      "mcc": "636",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ethiopia_-_ET",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SO",
+      "country_name": "Somalia",
+      "country_url": "https://en.wikipedia.org/wiki/Somalia",
+      "mcc": "637",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Somalia_-_SO",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "DJ",
+      "country_name": "Djibouti",
+      "country_url": "https://en.wikipedia.org/wiki/Djibouti",
+      "mcc": "638",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Djibouti_-_DJ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "KE",
+      "country_name": "Kenya",
+      "country_url": "https://en.wikipedia.org/wiki/Kenya",
+      "mcc": "639",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Kenya_-_KE",
+      "notes": ""
+    },
+    {
+      "authority": "Tanzania Communications Regulatory Authority (TCRA)",
+      "code_alpha_2": "TZ",
+      "country_name": "Tanzania",
+      "country_url": "https://en.wikipedia.org/wiki/Tanzania",
+      "mcc": "640",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Tanzania_-_TZ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "UG",
+      "country_name": "Uganda",
+      "country_url": "https://en.wikipedia.org/wiki/Uganda",
+      "mcc": "641",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Uganda_-_UG",
+      "notes": ""
+    },
+    {
+      "authority": "L\u2019Agence de R\u00e9gulation et de Contr\u00f4le des T\u00e9l\u00e9communications (ARCT)",
+      "code_alpha_2": "BI",
+      "country_name": "Burundi",
+      "country_url": "https://en.wikipedia.org/wiki/Burundi",
+      "mcc": "642",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Burundi_-_BI",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MZ",
+      "country_name": "Mozambique",
+      "country_url": "https://en.wikipedia.org/wiki/Mozambique",
+      "mcc": "643",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mozambique_-_MZ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "ZM",
+      "country_name": "Zambia",
+      "country_url": "https://en.wikipedia.org/wiki/Zambia",
+      "mcc": "645",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Zambia_-_ZM",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MG",
+      "country_name": "Madagascar",
+      "country_url": "https://en.wikipedia.org/wiki/Madagascar",
+      "mcc": "646",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Madagascar_-_MG",
+      "notes": ""
+    },
+    {
+      "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "code_alpha_2": "RE",
+      "country_name": "French Indian Ocean Territories",
+      "country_url": "https://en.wikipedia.org/wiki/List_of_French_islands_in_the_Indian_and_Pacific_oceans",
+      "mcc": "647",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#French_Indian_Ocean_Territories_(France)_-_YT/RE",
+      "notes": ""
+    },
+    {
+      "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "code_alpha_2": "YT",
+      "country_name": "French Indian Ocean Territories",
+      "country_url": "https://en.wikipedia.org/wiki/List_of_French_islands_in_the_Indian_and_Pacific_oceans",
+      "mcc": "647",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#French_Indian_Ocean_Territories_(France)_-_YT/RE",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "ZW",
+      "country_name": "Zimbabwe",
+      "country_url": "https://en.wikipedia.org/wiki/Zimbabwe",
+      "mcc": "648",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Zimbabwe_-_ZW",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "NA",
+      "country_name": "Namibia",
+      "country_url": "https://en.wikipedia.org/wiki/Namibia",
+      "mcc": "649",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Namibia_-_NA",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "MW",
+      "country_name": "Malawi",
+      "country_url": "https://en.wikipedia.org/wiki/Malawi",
+      "mcc": "650",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Malawi_-_MW",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "LS",
+      "country_name": "Lesotho",
+      "country_url": "https://en.wikipedia.org/wiki/Lesotho",
+      "mcc": "651",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Lesotho_-_LS",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BW",
+      "country_name": "Botswana",
+      "country_url": "https://en.wikipedia.org/wiki/Botswana",
+      "mcc": "652",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Botswana_-_BW",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SZ",
+      "country_name": "Swaziland",
+      "country_url": "https://en.wikipedia.org/wiki/Swaziland",
+      "mcc": "653",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Swaziland_-_SZ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "KM",
+      "country_name": "Comoros",
+      "country_url": "https://en.wikipedia.org/wiki/Comoros",
+      "mcc": "654",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Comoros_-_KM",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "ZA",
+      "country_name": "South Africa",
+      "country_url": "https://en.wikipedia.org/wiki/South_Africa",
+      "mcc": "655",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#South_Africa_-_ZA",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "ER",
+      "country_name": "Eritrea",
+      "country_url": "https://en.wikipedia.org/wiki/Eritrea",
+      "mcc": "657",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Eritrea_-_ER",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SH",
+      "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+      "country_url": "https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha",
+      "mcc": "658",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Saint_Helena,_Ascension_and_Tristan_da_Cunha_-_SH",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SS",
+      "country_name": "South Sudan",
+      "country_url": "https://en.wikipedia.org/wiki/South_Sudan",
+      "mcc": "659",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#South_Sudan_-_SS",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BZ",
+      "country_name": "Belize",
+      "country_url": "https://en.wikipedia.org/wiki/Belize",
+      "mcc": "702",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Belize_-_BZ",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "GT",
+      "country_name": "Guatemala",
+      "country_url": "https://en.wikipedia.org/wiki/Guatemala",
+      "mcc": "704",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Guatemala_-_GT",
+      "notes": ""
+    },
+    {
+      "authority": "Superintendencia General de Electricidad y Telecomunicaciones (SIGET)",
+      "code_alpha_2": "SV",
+      "country_name": "El Salvador",
+      "country_url": "https://en.wikipedia.org/wiki/El_Salvador",
+      "mcc": "706",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#El_Salvador_-_SV",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "HN",
+      "country_name": "Honduras",
+      "country_url": "https://en.wikipedia.org/wiki/Honduras",
+      "mcc": "708",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Honduras_-_HN",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "NI",
+      "country_name": "Nicaragua",
+      "country_url": "https://en.wikipedia.org/wiki/Nicaragua",
+      "mcc": "710",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Nicaragua_-_NI",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CR",
+      "country_name": "Costa Rica",
+      "country_url": "https://en.wikipedia.org/wiki/Costa_Rica",
+      "mcc": "712",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Costa_Rica_-_CR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "PA",
+      "country_name": "Panama",
+      "country_url": "https://en.wikipedia.org/wiki/Panama",
+      "mcc": "714",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Panama_-_PA",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "PE",
+      "country_name": "Peru",
+      "country_url": "https://en.wikipedia.org/wiki/Peru",
+      "mcc": "716",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Peru_-_PE",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "AR",
+      "country_name": "Argentina",
+      "country_url": "https://en.wikipedia.org/wiki/Argentina",
+      "mcc": "722",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Argentina_-_AR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BR",
+      "country_name": "Brazil",
+      "country_url": "https://en.wikipedia.org/wiki/Brazil",
+      "mcc": "724",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Brazil_-_BR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "CL",
+      "country_name": "Chile",
+      "country_url": "https://en.wikipedia.org/wiki/Chile",
+      "mcc": "730",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Chile_-_CL",
+      "notes": ""
+    },
+    {
+      "authority": "Comisi\u00f3n de Regulaci\u00f3n de Comunicaciones (CRC)",
+      "code_alpha_2": "CO",
+      "country_name": "Colombia",
+      "country_url": "https://en.wikipedia.org/wiki/Colombia",
+      "mcc": "732",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Colombia_-_CO",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "VE",
+      "country_name": "Venezuela",
+      "country_url": "https://en.wikipedia.org/wiki/Venezuela",
+      "mcc": "734",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Venezuela_-_VE",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "BO",
+      "country_name": "Bolivia",
+      "country_url": "https://en.wikipedia.org/wiki/Bolivia",
+      "mcc": "736",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Bolivia_-_BO",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "GY",
+      "country_name": "Guyana",
+      "country_url": "https://en.wikipedia.org/wiki/Guyana",
+      "mcc": "738",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Guyana_-_GY",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "EC",
+      "country_name": "Ecuador",
+      "country_url": "https://en.wikipedia.org/wiki/Ecuador",
+      "mcc": "740",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Ecuador_-_EC",
+      "notes": ""
+    },
+    {
+      "authority": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "code_alpha_2": "GF",
+      "country_name": "French Guiana",
+      "country_url": "https://en.wikipedia.org/wiki/French_Guiana",
+      "mcc": "742",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ",
+      "notes": "French Guinana shares MCC 340 instead of using the assigned MCC 742\n"
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "PY",
+      "country_name": "Paraguay",
+      "country_url": "https://en.wikipedia.org/wiki/Paraguay",
+      "mcc": "744",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Paraguay_-_PY",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "SR",
+      "country_name": "Suriname",
+      "country_url": "https://en.wikipedia.org/wiki/Suriname",
+      "mcc": "746",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Suriname_-_SR",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "UY",
+      "country_name": "Uruguay",
+      "country_url": "https://en.wikipedia.org/wiki/Uruguay",
+      "mcc": "748",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Uruguay_-_UY",
+      "notes": ""
+    },
+    {
+      "authority": "",
+      "code_alpha_2": "FK",
+      "country_name": "Falkland Islands",
+      "country_url": "https://en.wikipedia.org/wiki/Falkland_Islands",
+      "mcc": "750",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Falkland_Islands_(United_Kingdom)_-_FK",
+      "notes": ""
+    },
+    {
+      "authority": "\n",
+      "code_alpha_2": "IO",
+      "country_name": "British Indian Ocean Territory",
+      "country_url": "https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory",
+      "mcc": "995",
+      "mcc_url": "https://en.wikipedia.org#British_Indian_Ocean_Territory_(United_Kingdom)_-_IO",
+      "notes": "MCC is not listed by ITU\n"
+    }
+  ]
 ]

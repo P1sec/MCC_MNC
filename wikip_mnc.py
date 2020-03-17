@@ -1,3 +1,12 @@
+# -*- coding: UTF-8 -*-
+# source: https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe),
+#         https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America),
+#         https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia),
+#         https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania),
+#         https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa),
+#         https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)
+# license: https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
 WIKIP_MNC = \
 { '0': [ { 'bands': 'any',
            'brand': 'TEST',

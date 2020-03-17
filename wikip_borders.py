@@ -1,3 +1,7 @@
+# -*- coding: UTF-8 -*-
+# source: https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_land_borders
+# license: https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
 WIKIP_BORDERS = \
 [ { 'border_len_km': 5529,
     'border_len_mi': 3436,

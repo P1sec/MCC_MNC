@@ -1,3 +1,7 @@
+# -*- coding: UTF-8 -*-
+# source: https://en.wikipedia.org/wiki/Mobile_country_code
+# license: https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
 WIKIP_MCC = \
 [ { 'authority': '',
     'code_alpha_2': 'GR',

@@ -1,3 +1,7 @@
+# -*- coding: UTF-8 -*-
+# source: https://en.wikipedia.org/wiki/List_of_country_calling_codes
+# license: https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
 WIKIP_MSISDN = \
 { '1': [ 'AG',
          'AI',
