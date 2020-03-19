@@ -17,10 +17,9 @@ RE_WIKI_REF = re.compile(r'.*(\[.*\]){1,}$')
 def _strip_wiki_ref(s):
     m = RE_WIKI_REF.match(s)
     if m:
-        
         return s[:s.find('[')].strip()
     else:
-        return s
+        return s.strip()
 
 
 #------------------------------------------------------------------------------#
