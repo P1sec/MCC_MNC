@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
 
+import os
 import re
+import csv
 
 from parse_wikipedia_tables import (
     REC_ISO3166,
@@ -157,8 +159,25 @@ CC2_TO_ADD = [
     "country_name": "Akrotiri and Dhekelia",
     "country_url": "https://en.wikipedia.org/wiki/akrotiri_and_dhekelia",
     "state_name": "Akrotiri"
-    }
+    },
     ]
+
+# all those codes are not official country codes:
+# TA, 290: Tristan da Cunha, already part of SH
+# TA -> link to SH
+# XD, 888: United Nations Organization
+# EU, 388: global European telephony space
+# CT, 90: Northern Cyprus (recognized independent only by Turkey
+# XT, 800: toll-free telephone number (call billed to the callee)
+# XG, 881: global mobile satellite system
+# XN, 870: Inmarsat satellite system, https://en.wikipedia.org/wiki/Inmarsat
+# XS, 808: shared cost service, https://en.wikipedia.org/wiki/Shared-cost_service 
+# XV,  882: international networks
+# UK -> link to GB
+# AC -> link to SH
+# QN -> link to AZ
+#
+
 
 
 # France overseas territories with independent CC2:
@@ -404,6 +423,8 @@ MCC_INTL = {
 
 
 MCC_CC2_LUT = {
+    #
+    # Abhkazia CC2 is moved to its unofficial 2-letter code
     'GE-AB': 'AB',
     }
 
@@ -464,4 +485,87 @@ def patch_wikip_mnc():
         print(log)
 
 patch_wikip_mnc()
+
+
+#------------------------------------------------------------------------------#
+# Wikipedia MSISDN prefix dict
+#------------------------------------------------------------------------------#
+
+# it maybe needed to add CC2 for specific country prefix
+# AB, check with Georgia
+# KX, check with countries around Serbia
+# AK, check with Cyprus and UK
+
+def verif_wikip_msisdn():
+    print('[+] verify Wikipedia list of country prefix')
+    # verify all CC2 exist
+    for pref, cc2list in WIKIP_MSISDN.items():
+        assert( pref.isdigit() )
+        for cc2 in cc2list:
+            if cc2 not in WIKIP_ISO3166:
+                print('> cc2 %s for prefix %s, not in ISO3166 dict' % (cc2, pref))
+
+verif_wikip_msisdn()
+
+
+#------------------------------------------------------------------------------#
+# get minimum distance between countries
+#------------------------------------------------------------------------------#
+
+# addingthe dataset with minimum distance between countries, from here
+URL_MIN_DIST = 'https://gist.githubusercontent.com/mtriff/185e15be85b44547ed110e412a1771bf/'\
+               'raw/1bb4d287f79ca07f63d4c56110099c26e7c6ee7d/countries_distances.csv'
+# which is an updated version of the dataset computed here:
+# http://egallic.fr/en/closest-distance-between-countries/
+
+
+def get_egal_min_dist():
+    print('[+] read country_dist.csv')
+    #
+    if not os.path.exists('./country_dist.csv'):
+        resp = urllib.request.urlopen(URL_MIN_DIST)
+        if resp.code != 200:
+            raise(Exception('resource %s not available, HTTP code %i' % (url, resp.code)))
+        with open('country_dist.csv', 'w') as fd:
+            fd.write(resp.read())
+    #
+    with open('country_dist.csv', encoding='utf-8') as fd:
+        csv_lines = fd.readlines()
+        if 'pays1' in csv_lines[0]:
+            # remove header
+            del csv_lines[0]
+        while not csv_lines[-1].strip():
+            # remove blank lines
+            del csv_lines[-1]
+        D = {}
+        for n, src, dst, dist in csv.reader(csv_lines, delimiter=','):
+            src, dst, dist = map(lambda t: t.replace('"', '').strip(), (src, dst, dist))
+            if src not in D:
+                D[src] = {}
+            elif dst in D[src]:
+                print('> duplicate entry for %s in %s' % (dst, src))
+            D[src][dst] = float(dist)
+        return D
+
+EGAL_MIN_DIST = get_egal_min_dist()
+
+
+def patch_egal_min_dist():
+    print('[+] patch egallic country distance dataset')
+    #
+    nameset    = set([r['country_name'] for r in WIKIP_ISO3166.values()])
+    namesetext = set()
+    [namesetext.update(country_name_canon(name)) for name in nameset]
+    #
+    for src, dst_dist in EGAL_MIN_DIST.items():
+        for dst in  dst_dist:
+            if dst not in EGAL_MIN_DIST:
+                print('> dst country %s in %s, not in src' % (dst, src))
+        if src not in nameset:
+            print('> country %s, not in ISO3166 dict' % src)
+            if src not in namesetext:
+                print('> country %s, not matching any in ISO3166 dict' % src)
+    #
+
+patch_egal_min_dist()
 

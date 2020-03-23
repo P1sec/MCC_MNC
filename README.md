@@ -40,6 +40,8 @@ Several sources are available on the Internet:
   - https://www.itu.int/pub/T-SP-E.164D
 - Wikipedia:
   - https://en.wikipedia.org/wiki/List_of_country_calling_codes
+  - https://en.wikipedia.org/wiki/List_of_mobile_telephone_prefixes_by_country#International_prefixes_table
+  - https://en.wikipedia.org/wiki/International_Networks_(country_code) (for international networks)
 - Other websites:
   - https://github.com/google/libphonenumber/tree/master/resources/geocoding/en
   - https://phonenum.info/en/country-code/

@@ -11279,7 +11279,7 @@ WORLD_FB = \
                           'country_name': { 'conv_long': 'none',
                                             'conv_short': 'Ukraine',
                                             'local_long': 'none',
-                                            'local_short': 'Ukrayina'},
+                                            'local_short': 'Ukraina'},
                           'population': 43922939,
                           'ports': { 'major seaport': "Feodosiya (Theodosia), Illichivsk, Mariupol', Mykolayiv, Odesa, "
                                                       'Yuzhnyy'},
@@ -12006,7 +12006,7 @@ WORLD_FB = \
                         'subs_broadband': 1002793951,
                         'subs_fixed': 984289950,
                         'subs_mobile': 7806142681,
-                        'users_internet': 3174000000},
+                        'users_internet': 4},
              'name': 'World',
              'stan': '-',
              'tld': '-',

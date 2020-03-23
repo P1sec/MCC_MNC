@@ -7,805 +7,1692 @@
   },
   {
     "1": [
-      "AG",
-      "AI",
-      "AS",
-      "BB",
-      "BM",
-      "BS",
-      "CA",
-      "DM",
-      "DO",
-      "GD",
-      "GU",
-      "JM",
-      "KN",
-      "KY",
-      "LC",
-      "MP",
-      "MS",
-      "PR",
-      "SX",
-      "TC",
-      "TT",
-      "UM",
-      "US",
-      "VC",
-      "VG",
-      "VI"
+      [
+        "AG",
+        "https://en.wikipedia.org/wiki/antigua_and_barbuda"
+      ],
+      [
+        "AI",
+        "https://en.wikipedia.org/wiki/anguilla"
+      ],
+      [
+        "AS",
+        "https://en.wikipedia.org/wiki/american_samoa"
+      ],
+      [
+        "BB",
+        "https://en.wikipedia.org/wiki/barbados"
+      ],
+      [
+        "BM",
+        "https://en.wikipedia.org/wiki/bermuda"
+      ],
+      [
+        "BS",
+        "https://en.wikipedia.org/wiki/the_bahamas"
+      ],
+      [
+        "CA",
+        "https://en.wikipedia.org/wiki/canada"
+      ],
+      [
+        "DM",
+        "https://en.wikipedia.org/wiki/dominica"
+      ],
+      [
+        "DO",
+        "https://en.wikipedia.org/wiki/dominican_republic"
+      ],
+      [
+        "GD",
+        "https://en.wikipedia.org/wiki/grenada"
+      ],
+      [
+        "GU",
+        "https://en.wikipedia.org/wiki/guam"
+      ],
+      [
+        "JM",
+        "https://en.wikipedia.org/wiki/jamaica"
+      ],
+      [
+        "KN",
+        "https://en.wikipedia.org/wiki/st._kitts_and_nevis"
+      ],
+      [
+        "KY",
+        "https://en.wikipedia.org/wiki/cayman_islands"
+      ],
+      [
+        "LC",
+        "https://en.wikipedia.org/wiki/st._lucia"
+      ],
+      [
+        "MP",
+        "https://en.wikipedia.org/wiki/northern_mariana_islands"
+      ],
+      [
+        "MS",
+        "https://en.wikipedia.org/wiki/montserrat"
+      ],
+      [
+        "PR",
+        "https://en.wikipedia.org/wiki/puerto_rico"
+      ],
+      [
+        "SX",
+        "https://en.wikipedia.org/wiki/sint_maarten"
+      ],
+      [
+        "TC",
+        "https://en.wikipedia.org/wiki/turks_and_caicos_islands"
+      ],
+      [
+        "TT",
+        "https://en.wikipedia.org/wiki/trinidad_and_tobago"
+      ],
+      [
+        "UM",
+        "https://en.wikipedia.org/wiki/united_states_minor_outlying_islands"
+      ],
+      [
+        "US",
+        "https://en.wikipedia.org/wiki/united_states"
+      ],
+      [
+        "VC",
+        "https://en.wikipedia.org/wiki/st._vincent_and_the_grenadines"
+      ],
+      [
+        "VG",
+        "https://en.wikipedia.org/wiki/british_virgin_islands"
+      ],
+      [
+        "VI",
+        "https://en.wikipedia.org/wiki/united_states_virgin_islands"
+      ]
     ],
     "1242": [
-      "BS"
+      [
+        "BS",
+        "https://en.wikipedia.org/wiki/the_bahamas"
+      ]
     ],
     "1246": [
-      "BB"
+      [
+        "BB",
+        "https://en.wikipedia.org/wiki/barbados"
+      ]
     ],
     "1264": [
-      "AI"
+      [
+        "AI",
+        "https://en.wikipedia.org/wiki/anguilla"
+      ]
     ],
     "1268": [
-      "AG"
+      [
+        "AG",
+        "https://en.wikipedia.org/wiki/antigua_and_barbuda"
+      ]
     ],
     "1284": [
-      "VG"
+      [
+        "VG",
+        "https://en.wikipedia.org/wiki/british_virgin_islands"
+      ]
     ],
     "1340": [
-      "VI"
+      [
+        "VI",
+        "https://en.wikipedia.org/wiki/united_states_virgin_islands"
+      ]
     ],
     "1345": [
-      "KY"
+      [
+        "KY",
+        "https://en.wikipedia.org/wiki/cayman_islands"
+      ]
     ],
     "1441": [
-      "BM"
+      [
+        "BM",
+        "https://en.wikipedia.org/wiki/bermuda"
+      ]
     ],
     "1473": [
-      "GD"
+      [
+        "GD",
+        "https://en.wikipedia.org/wiki/grenada"
+      ]
     ],
     "1649": [
-      "TC"
+      [
+        "TC",
+        "https://en.wikipedia.org/wiki/turks_and_caicos_islands"
+      ]
     ],
     "1658": [
-      "JM"
+      [
+        "JM",
+        "https://en.wikipedia.org/wiki/jamaica"
+      ]
     ],
     "1664": [
-      "MS"
+      [
+        "MS",
+        "https://en.wikipedia.org/wiki/montserrat"
+      ]
     ],
     "1670": [
-      "MP"
+      [
+        "MP",
+        "https://en.wikipedia.org/wiki/northern_mariana_islands"
+      ]
     ],
     "1671": [
-      "GU"
+      [
+        "GU",
+        "https://en.wikipedia.org/wiki/guam"
+      ]
     ],
     "1684": [
-      "AS"
+      [
+        "AS",
+        "https://en.wikipedia.org/wiki/american_samoa"
+      ]
     ],
     "1721": [
-      "SX"
+      [
+        "SX",
+        "https://en.wikipedia.org/wiki/sint_maarten"
+      ]
     ],
     "1758": [
-      "LC"
+      [
+        "LC",
+        "https://en.wikipedia.org/wiki/st._lucia"
+      ]
     ],
     "1767": [
-      "DM"
+      [
+        "DM",
+        "https://en.wikipedia.org/wiki/dominica"
+      ]
     ],
     "1784": [
-      "VC"
+      [
+        "VC",
+        "https://en.wikipedia.org/wiki/st._vincent_and_the_grenadines"
+      ]
     ],
     "1787": [
-      "PR"
+      [
+        "PR",
+        "https://en.wikipedia.org/wiki/puerto_rico"
+      ]
     ],
     "1809": [
-      "DO"
+      [
+        "DO",
+        "https://en.wikipedia.org/wiki/dominican_republic"
+      ]
     ],
     "1829": [
-      "DO"
+      "DO",
+      "https://en.wikipedia.org/wiki/dominican_republic"
     ],
     "1849": [
-      "DO"
+      "DO",
+      "https://en.wikipedia.org/wiki/dominican_republic"
     ],
     "1868": [
-      "TT"
+      [
+        "TT",
+        "https://en.wikipedia.org/wiki/trinidad_and_tobago"
+      ]
     ],
     "1869": [
-      "KN"
+      [
+        "KN",
+        "https://en.wikipedia.org/wiki/st._kitts_and_nevis"
+      ]
     ],
     "1876": [
-      "JM"
+      [
+        "JM",
+        "https://en.wikipedia.org/wiki/jamaica"
+      ]
     ],
     "1939": [
-      "PR"
+      [
+        "PR",
+        "https://en.wikipedia.org/wiki/puerto_rico"
+      ]
     ],
     "20": [
-      "EG"
+      [
+        "EG",
+        "https://en.wikipedia.org/wiki/egypt"
+      ]
     ],
     "211": [
-      "SS"
+      [
+        "SS",
+        "https://en.wikipedia.org/wiki/south_sudan"
+      ]
     ],
     "212": [
-      "EH",
-      "MA"
+      [
+        "EH",
+        "https://en.wikipedia.org/wiki/western_sahara"
+      ],
+      [
+        "MA",
+        "https://en.wikipedia.org/wiki/morocco"
+      ]
     ],
     "213": [
-      "DZ"
+      [
+        "DZ",
+        "https://en.wikipedia.org/wiki/algeria"
+      ]
     ],
     "216": [
-      "TN"
+      [
+        "TN",
+        "https://en.wikipedia.org/wiki/tunisia"
+      ]
     ],
     "218": [
-      "LY"
+      [
+        "LY",
+        "https://en.wikipedia.org/wiki/libya"
+      ]
     ],
     "220": [
-      "GM"
+      [
+        "GM",
+        "https://en.wikipedia.org/wiki/the_gambia"
+      ]
     ],
     "221": [
-      "SN"
+      [
+        "SN",
+        "https://en.wikipedia.org/wiki/senegal"
+      ]
     ],
     "222": [
-      "MR"
+      [
+        "MR",
+        "https://en.wikipedia.org/wiki/mauritania"
+      ]
     ],
     "223": [
-      "ML"
+      [
+        "ML",
+        "https://en.wikipedia.org/wiki/mali"
+      ]
     ],
     "224": [
-      "GN"
+      [
+        "GN",
+        "https://en.wikipedia.org/wiki/guinea"
+      ]
     ],
     "225": [
-      "CI"
+      [
+        "CI",
+        "https://en.wikipedia.org/wiki/ivory_coast"
+      ]
     ],
     "226": [
-      "BF"
+      [
+        "BF",
+        "https://en.wikipedia.org/wiki/burkina_faso"
+      ]
     ],
     "227": [
-      "NE"
+      [
+        "NE",
+        "https://en.wikipedia.org/wiki/niger"
+      ]
     ],
     "228": [
-      "TG"
+      [
+        "TG",
+        "https://en.wikipedia.org/wiki/togo"
+      ]
     ],
     "229": [
-      "BJ"
+      [
+        "BJ",
+        "https://en.wikipedia.org/wiki/benin"
+      ]
     ],
     "230": [
-      "MU"
+      [
+        "MU",
+        "https://en.wikipedia.org/wiki/mauritius"
+      ]
     ],
     "231": [
-      "LR"
+      [
+        "LR",
+        "https://en.wikipedia.org/wiki/liberia"
+      ]
     ],
     "232": [
-      "SL"
+      [
+        "SL",
+        "https://en.wikipedia.org/wiki/sierra_leone"
+      ]
     ],
     "233": [
-      "GH"
+      [
+        "GH",
+        "https://en.wikipedia.org/wiki/ghana"
+      ]
     ],
     "234": [
-      "NG"
+      [
+        "NG",
+        "https://en.wikipedia.org/wiki/nigeria"
+      ]
     ],
     "235": [
-      "TD"
+      [
+        "TD",
+        "https://en.wikipedia.org/wiki/chad"
+      ]
     ],
     "236": [
-      "CF"
+      [
+        "CF",
+        "https://en.wikipedia.org/wiki/central_african_republic"
+      ]
     ],
     "237": [
-      "CM"
+      [
+        "CM",
+        "https://en.wikipedia.org/wiki/cameroon"
+      ]
     ],
     "238": [
-      "CV"
+      [
+        "CV",
+        "https://en.wikipedia.org/wiki/cape_verde"
+      ]
     ],
     "239": [
-      "ST"
+      [
+        "ST",
+        "https://en.wikipedia.org/wiki/s%c3%a3o_tom%c3%a9_and_pr%c3%adncipe"
+      ]
     ],
     "240": [
-      "GQ"
+      [
+        "GQ",
+        "https://en.wikipedia.org/wiki/equatorial_guinea"
+      ]
     ],
     "241": [
-      "GA"
+      [
+        "GA",
+        "https://en.wikipedia.org/wiki/gabon"
+      ]
     ],
     "242": [
-      "CG"
+      [
+        "CG",
+        "https://en.wikipedia.org/wiki/republic_of_congo"
+      ]
     ],
     "243": [
-      "CD"
+      [
+        "CD",
+        "https://en.wikipedia.org/wiki/democratic_republic_of_the_congo"
+      ]
     ],
     "244": [
-      "AO"
+      [
+        "AO",
+        "https://en.wikipedia.org/wiki/angola"
+      ]
     ],
     "245": [
-      "GW"
+      [
+        "GW",
+        "https://en.wikipedia.org/wiki/guinea-bissau"
+      ]
     ],
     "246": [
-      "IO"
+      [
+        "IO",
+        "https://en.wikipedia.org/wiki/british_indian_ocean_territory"
+      ]
     ],
     "247": [
-      "AC"
+      [
+        "AC",
+        "https://en.wikipedia.org/wiki/ascension_island"
+      ]
     ],
     "248": [
-      "SC"
+      [
+        "SC",
+        "https://en.wikipedia.org/wiki/seychelles"
+      ]
     ],
     "249": [
-      "SD"
+      [
+        "SD",
+        "https://en.wikipedia.org/wiki/sudan"
+      ]
     ],
     "250": [
-      "RW"
+      [
+        "RW",
+        "https://en.wikipedia.org/wiki/rwanda"
+      ]
     ],
     "251": [
-      "ET"
+      [
+        "ET",
+        "https://en.wikipedia.org/wiki/ethiopia"
+      ]
     ],
     "252": [
-      "SO"
+      [
+        "SO",
+        "https://en.wikipedia.org/wiki/somalia"
+      ]
     ],
     "253": [
-      "DJ"
+      [
+        "DJ",
+        "https://en.wikipedia.org/wiki/djibouti"
+      ]
     ],
     "254": [
-      "KE"
+      [
+        "KE",
+        "https://en.wikipedia.org/wiki/kenya"
+      ]
     ],
     "255": [
-      "TZ"
+      [
+        "TZ",
+        "https://en.wikipedia.org/wiki/tanzania"
+      ]
     ],
     "256": [
-      "UG"
+      [
+        "UG",
+        "https://en.wikipedia.org/wiki/uganda"
+      ]
     ],
     "257": [
-      "BI"
+      [
+        "BI",
+        "https://en.wikipedia.org/wiki/burundi"
+      ]
     ],
     "258": [
-      "MZ"
+      [
+        "MZ",
+        "https://en.wikipedia.org/wiki/mozambique"
+      ]
     ],
     "260": [
-      "ZM"
+      [
+        "ZM",
+        "https://en.wikipedia.org/wiki/zambia"
+      ]
     ],
     "261": [
-      "MG"
+      [
+        "MG",
+        "https://en.wikipedia.org/wiki/madagascar"
+      ]
     ],
     "262": [
-      "RE",
-      "TF",
-      "YT"
+      [
+        "RE",
+        "https://en.wikipedia.org/wiki/r%c3%a9union"
+      ],
+      [
+        "TF",
+        "https://en.wikipedia.org/wiki/french_southern_and_antarctic_lands"
+      ],
+      [
+        "YT",
+        "https://en.wikipedia.org/wiki/mayotte"
+      ]
     ],
     "263": [
-      "ZW"
+      [
+        "ZW",
+        "https://en.wikipedia.org/wiki/zimbabwe"
+      ]
     ],
     "264": [
-      "NA"
+      [
+        "NA",
+        "https://en.wikipedia.org/wiki/namibia"
+      ]
     ],
     "265": [
-      "MW"
+      [
+        "MW",
+        "https://en.wikipedia.org/wiki/malawi"
+      ]
     ],
     "266": [
-      "LS"
+      [
+        "LS",
+        "https://en.wikipedia.org/wiki/lesotho"
+      ]
     ],
     "267": [
-      "BW"
+      [
+        "BW",
+        "https://en.wikipedia.org/wiki/botswana"
+      ]
     ],
     "268": [
-      "SZ"
+      [
+        "SZ",
+        "https://en.wikipedia.org/wiki/swaziland"
+      ]
     ],
     "269": [
-      "KM"
+      [
+        "KM",
+        "https://en.wikipedia.org/wiki/comoros"
+      ]
     ],
     "27": [
-      "ZA"
+      [
+        "ZA",
+        "https://en.wikipedia.org/wiki/south_africa"
+      ]
     ],
     "290": [
-      "SH",
-      "TA"
+      [
+        "SH",
+        "https://en.wikipedia.org/wiki/saint_helena"
+      ],
+      [
+        "TA",
+        "https://en.wikipedia.org/wiki/tristan_da_cunha"
+      ]
     ],
     "291": [
-      "ER"
+      [
+        "ER",
+        "https://en.wikipedia.org/wiki/eritrea"
+      ]
     ],
     "297": [
-      "AW"
+      [
+        "AW",
+        "https://en.wikipedia.org/wiki/aruba"
+      ]
     ],
     "298": [
-      "FO"
+      [
+        "FO",
+        "https://en.wikipedia.org/wiki/faroe_islands"
+      ]
     ],
     "299": [
-      "GL"
+      [
+        "GL",
+        "https://en.wikipedia.org/wiki/greenland"
+      ]
     ],
     "30": [
-      "GR"
+      [
+        "GR",
+        "https://en.wikipedia.org/wiki/greece"
+      ]
     ],
     "31": [
-      "NL"
+      [
+        "NL",
+        "https://en.wikipedia.org/wiki/netherlands"
+      ]
     ],
     "32": [
-      "BE"
+      [
+        "BE",
+        "https://en.wikipedia.org/wiki/belgium"
+      ]
     ],
     "33": [
-      "FR"
+      [
+        "FR",
+        "https://en.wikipedia.org/wiki/france"
+      ]
     ],
     "34": [
-      "ES"
+      [
+        "ES",
+        "https://en.wikipedia.org/wiki/spain"
+      ]
     ],
     "350": [
-      "GI"
+      [
+        "GI",
+        "https://en.wikipedia.org/wiki/gibraltar"
+      ]
     ],
     "351": [
-      "PT"
+      [
+        "PT",
+        "https://en.wikipedia.org/wiki/portugal"
+      ]
     ],
     "352": [
-      "LU"
+      [
+        "LU",
+        "https://en.wikipedia.org/wiki/luxembourg"
+      ]
     ],
     "353": [
-      "IE"
+      [
+        "IE",
+        "https://en.wikipedia.org/wiki/republic_of_ireland"
+      ]
     ],
     "354": [
-      "IS"
+      [
+        "IS",
+        "https://en.wikipedia.org/wiki/iceland"
+      ]
     ],
     "355": [
-      "AL"
+      [
+        "AL",
+        "https://en.wikipedia.org/wiki/albania"
+      ]
     ],
     "356": [
-      "MT"
+      [
+        "MT",
+        "https://en.wikipedia.org/wiki/malta"
+      ]
     ],
     "357": [
-      "CY"
+      [
+        "CY",
+        "https://en.wikipedia.org/wiki/cyprus"
+      ]
     ],
     "358": [
-      "AX",
-      "FI"
+      [
+        "AX",
+        "https://en.wikipedia.org/wiki/%c3%85land_islands"
+      ],
+      [
+        "FI",
+        "https://en.wikipedia.org/wiki/finland"
+      ]
     ],
     "359": [
-      "BG"
+      [
+        "BG",
+        "https://en.wikipedia.org/wiki/bulgaria"
+      ]
     ],
     "36": [
-      "HU"
+      [
+        "HU",
+        "https://en.wikipedia.org/wiki/hungary"
+      ]
     ],
     "370": [
-      "LT"
+      [
+        "LT",
+        "https://en.wikipedia.org/wiki/lithuania"
+      ]
     ],
     "371": [
-      "LV"
+      [
+        "LV",
+        "https://en.wikipedia.org/wiki/latvia"
+      ]
     ],
     "372": [
-      "EE"
+      [
+        "EE",
+        "https://en.wikipedia.org/wiki/estonia"
+      ]
     ],
     "373": [
-      "MD"
+      [
+        "MD",
+        "https://en.wikipedia.org/wiki/moldova"
+      ]
     ],
     "374": [
-      "AM",
-      "QN"
+      [
+        "AM",
+        "https://en.wikipedia.org/wiki/armenia"
+      ],
+      [
+        "QN",
+        "https://en.wikipedia.org/wiki/nagorno-karabakh"
+      ]
     ],
     "375": [
-      "BY"
+      [
+        "BY",
+        "https://en.wikipedia.org/wiki/belarus"
+      ]
     ],
     "376": [
-      "AD"
+      [
+        "AD",
+        "https://en.wikipedia.org/wiki/andorra"
+      ]
     ],
     "377": [
-      "MC"
+      [
+        "MC",
+        "https://en.wikipedia.org/wiki/monaco"
+      ]
     ],
     "378": [
-      "SM"
+      [
+        "SM",
+        "https://en.wikipedia.org/wiki/san_marino"
+      ]
     ],
     "379": [
-      "VA"
+      [
+        "VA",
+        "https://en.wikipedia.org/wiki/vatican_city"
+      ]
     ],
     "380": [
-      "UA"
+      [
+        "UA",
+        "https://en.wikipedia.org/wiki/ukraine"
+      ]
     ],
     "381": [
-      "RS"
+      [
+        "RS",
+        "https://en.wikipedia.org/wiki/serbia"
+      ]
     ],
     "382": [
-      "ME"
+      [
+        "ME",
+        "https://en.wikipedia.org/wiki/montenegro"
+      ]
     ],
     "383": [
-      "XK"
+      [
+        "XK",
+        "https://en.wikipedia.org/wiki/kosovo"
+      ]
     ],
     "385": [
-      "HR"
+      [
+        "HR",
+        "https://en.wikipedia.org/wiki/croatia"
+      ]
     ],
     "386": [
-      "SI"
+      [
+        "SI",
+        "https://en.wikipedia.org/wiki/slovenia"
+      ]
     ],
     "387": [
-      "BA"
+      [
+        "BA",
+        "https://en.wikipedia.org/wiki/bosnia_and_herzegovina"
+      ]
     ],
     "388": [
-      "EU"
+      [
+        "EU",
+        "https://en.wikipedia.org/wiki/european_telephony_numbering_space"
+      ]
     ],
     "389": [
-      "MK"
+      [
+        "MK",
+        "https://en.wikipedia.org/wiki/north_macedonia"
+      ]
     ],
     "39": [
-      "IT",
-      "VA"
+      [
+        "IT",
+        "https://en.wikipedia.org/wiki/italy"
+      ],
+      [
+        "VA",
+        "https://en.wikipedia.org/wiki/vatican_city"
+      ]
     ],
     "40": [
-      "RO"
+      [
+        "RO",
+        "https://en.wikipedia.org/wiki/romania"
+      ]
     ],
     "41": [
-      "CH"
+      [
+        "CH",
+        "https://en.wikipedia.org/wiki/switzerland"
+      ]
     ],
     "420": [
-      "CZ"
+      [
+        "CZ",
+        "https://en.wikipedia.org/wiki/czech_republic"
+      ]
     ],
     "421": [
-      "SK"
+      [
+        "SK",
+        "https://en.wikipedia.org/wiki/slovakia"
+      ]
     ],
     "423": [
-      "LI"
+      [
+        "LI",
+        "https://en.wikipedia.org/wiki/liechtenstein"
+      ]
     ],
     "43": [
-      "AT"
+      [
+        "AT",
+        "https://en.wikipedia.org/wiki/austria"
+      ]
     ],
     "44": [
-      "GG",
-      "IM",
-      "JE",
-      "UK"
+      [
+        "GG",
+        "https://en.wikipedia.org/wiki/guernsey"
+      ],
+      [
+        "IM",
+        "https://en.wikipedia.org/wiki/isle_of_man"
+      ],
+      [
+        "JE",
+        "https://en.wikipedia.org/wiki/jersey"
+      ],
+      [
+        "UK",
+        "https://en.wikipedia.org/wiki/united_kingdom"
+      ]
     ],
     "45": [
-      "DK"
+      [
+        "DK",
+        "https://en.wikipedia.org/wiki/denmark"
+      ]
     ],
     "46": [
-      "SE"
+      [
+        "SE",
+        "https://en.wikipedia.org/wiki/sweden"
+      ]
     ],
     "47": [
-      "BV",
-      "NO",
-      "SJ"
+      [
+        "BV",
+        "https://en.wikipedia.org/wiki/bouvet_island"
+      ],
+      [
+        "NO",
+        "https://en.wikipedia.org/wiki/norway"
+      ],
+      [
+        "SJ",
+        "https://en.wikipedia.org/wiki/svalbard_and_jan_mayen"
+      ]
     ],
     "48": [
-      "PL"
+      [
+        "PL",
+        "https://en.wikipedia.org/wiki/poland"
+      ]
     ],
     "49": [
-      "DE"
+      [
+        "DE",
+        "https://en.wikipedia.org/wiki/germany"
+      ]
     ],
     "500": [
-      "FK",
-      "GS"
+      [
+        "FK",
+        "https://en.wikipedia.org/wiki/falkland_islands"
+      ],
+      [
+        "GS",
+        "https://en.wikipedia.org/wiki/south_georgia_and_the_south_sandwich_islands"
+      ]
     ],
     "501": [
-      "BZ"
+      [
+        "BZ",
+        "https://en.wikipedia.org/wiki/belize"
+      ]
     ],
     "502": [
-      "GT"
+      [
+        "GT",
+        "https://en.wikipedia.org/wiki/guatemala"
+      ]
     ],
     "503": [
-      "SV"
+      [
+        "SV",
+        "https://en.wikipedia.org/wiki/el_salvador"
+      ]
     ],
     "504": [
-      "HN"
+      [
+        "HN",
+        "https://en.wikipedia.org/wiki/honduras"
+      ]
     ],
     "505": [
-      "NI"
+      [
+        "NI",
+        "https://en.wikipedia.org/wiki/nicaragua"
+      ]
     ],
     "506": [
-      "CR"
+      [
+        "CR",
+        "https://en.wikipedia.org/wiki/costa_rica"
+      ]
     ],
     "507": [
-      "PA"
+      [
+        "PA",
+        "https://en.wikipedia.org/wiki/panama"
+      ]
     ],
     "508": [
-      "PM"
+      [
+        "PM",
+        "https://en.wikipedia.org/wiki/st._pierre_and_miquelon"
+      ]
     ],
     "509": [
-      "HT"
+      [
+        "HT",
+        "https://en.wikipedia.org/wiki/haiti"
+      ]
     ],
     "51": [
-      "PE"
+      [
+        "PE",
+        "https://en.wikipedia.org/wiki/peru"
+      ]
     ],
     "52": [
-      "MX"
+      [
+        "MX",
+        "https://en.wikipedia.org/wiki/mexico"
+      ]
     ],
     "53": [
-      "CU"
+      [
+        "CU",
+        "https://en.wikipedia.org/wiki/cuba"
+      ]
     ],
     "54": [
-      "AR"
+      [
+        "AR",
+        "https://en.wikipedia.org/wiki/argentina"
+      ]
     ],
     "55": [
-      "BR"
+      [
+        "BR",
+        "https://en.wikipedia.org/wiki/brazil"
+      ]
     ],
     "56": [
-      "CL"
+      [
+        "CL",
+        "https://en.wikipedia.org/wiki/chile"
+      ]
     ],
     "57": [
-      "CO"
+      [
+        "CO",
+        "https://en.wikipedia.org/wiki/colombia"
+      ]
     ],
     "58": [
-      "VE"
+      [
+        "VE",
+        "https://en.wikipedia.org/wiki/venezuela"
+      ]
     ],
     "590": [
-      "BL",
-      "GP",
-      "MF"
+      [
+        "BL",
+        "https://en.wikipedia.org/wiki/saint_barth%c3%a9lemy"
+      ],
+      [
+        "GP",
+        "https://en.wikipedia.org/wiki/guadeloupe"
+      ],
+      [
+        "MF",
+        "https://en.wikipedia.org/wiki/saint_martin"
+      ]
     ],
     "591": [
-      "BO"
+      [
+        "BO",
+        "https://en.wikipedia.org/wiki/bolivia"
+      ]
     ],
     "592": [
-      "GY"
+      [
+        "GY",
+        "https://en.wikipedia.org/wiki/guyana"
+      ]
     ],
     "593": [
-      "EC"
+      [
+        "EC",
+        "https://en.wikipedia.org/wiki/ecuador"
+      ]
     ],
     "594": [
-      "GF"
+      [
+        "GF",
+        "https://en.wikipedia.org/wiki/french_guiana"
+      ]
     ],
     "595": [
-      "PY"
+      [
+        "PY",
+        "https://en.wikipedia.org/wiki/paraguay"
+      ]
     ],
     "596": [
-      "MQ"
+      [
+        "MQ",
+        "https://en.wikipedia.org/wiki/martinique"
+      ]
     ],
     "597": [
-      "SR"
+      [
+        "SR",
+        "https://en.wikipedia.org/wiki/suriname"
+      ]
     ],
     "598": [
-      "UY"
+      [
+        "UY",
+        "https://en.wikipedia.org/wiki/uruguay"
+      ]
     ],
     "599": [
-      "BQ",
-      "CW"
+      [
+        "BQ",
+        "https://en.wikipedia.org/wiki/caribbean_netherlands"
+      ],
+      [
+        "CW",
+        "https://en.wikipedia.org/wiki/cura%c3%a7ao"
+      ]
     ],
     "60": [
-      "MY"
+      [
+        "MY",
+        "https://en.wikipedia.org/wiki/malaysia"
+      ]
     ],
     "61": [
-      "AU",
-      "CC",
-      "CX"
+      [
+        "AU",
+        "https://en.wikipedia.org/wiki/australia"
+      ],
+      [
+        "CC",
+        "https://en.wikipedia.org/wiki/cocos_islands"
+      ],
+      [
+        "CX",
+        "https://en.wikipedia.org/wiki/christmas_island"
+      ]
     ],
     "62": [
-      "ID"
+      [
+        "ID",
+        "https://en.wikipedia.org/wiki/indonesia"
+      ]
     ],
     "63": [
-      "PH"
+      [
+        "PH",
+        "https://en.wikipedia.org/wiki/philippines"
+      ]
     ],
     "64": [
-      "NZ",
-      "PN"
+      [
+        "NZ",
+        "https://en.wikipedia.org/wiki/new_zealand"
+      ],
+      [
+        "PN",
+        "https://en.wikipedia.org/wiki/pitcairn_islands"
+      ]
     ],
     "65": [
-      "SG"
+      [
+        "SG",
+        "https://en.wikipedia.org/wiki/singapore"
+      ]
     ],
     "66": [
-      "TH"
+      [
+        "TH",
+        "https://en.wikipedia.org/wiki/thailand"
+      ]
     ],
     "670": [
-      "TL"
+      [
+        "TL",
+        "https://en.wikipedia.org/wiki/east_timor"
+      ]
     ],
     "672": [
-      "AQ",
-      "HM",
-      "NF"
+      [
+        "AQ",
+        "https://en.wikipedia.org/wiki/australian_antarctic_territory"
+      ],
+      [
+        "HM",
+        "https://en.wikipedia.org/wiki/heard_island_and_mcdonald_islands"
+      ],
+      [
+        "NF",
+        "https://en.wikipedia.org/wiki/norfolk_island"
+      ]
     ],
     "673": [
-      "BN"
+      [
+        "BN",
+        "https://en.wikipedia.org/wiki/brunei_darussalam"
+      ]
     ],
     "674": [
-      "NR"
+      [
+        "NR",
+        "https://en.wikipedia.org/wiki/nauru"
+      ]
     ],
     "675": [
-      "PG"
+      [
+        "PG",
+        "https://en.wikipedia.org/wiki/papua_new_guinea"
+      ]
     ],
     "676": [
-      "TO"
+      [
+        "TO",
+        "https://en.wikipedia.org/wiki/tonga"
+      ]
     ],
     "677": [
-      "SB"
+      [
+        "SB",
+        "https://en.wikipedia.org/wiki/solomon_islands"
+      ]
     ],
     "678": [
-      "VU"
+      [
+        "VU",
+        "https://en.wikipedia.org/wiki/vanuatu"
+      ]
     ],
     "679": [
-      "FJ"
+      [
+        "FJ",
+        "https://en.wikipedia.org/wiki/fiji"
+      ]
     ],
     "680": [
-      "PW"
+      [
+        "PW",
+        "https://en.wikipedia.org/wiki/palau"
+      ]
     ],
     "681": [
-      "WF"
+      [
+        "WF",
+        "https://en.wikipedia.org/wiki/wallis_and_futuna"
+      ]
     ],
     "682": [
-      "CK"
+      [
+        "CK",
+        "https://en.wikipedia.org/wiki/cook_islands"
+      ]
     ],
     "683": [
-      "NU"
+      [
+        "NU",
+        "https://en.wikipedia.org/wiki/niue"
+      ]
     ],
     "685": [
-      "WS"
+      [
+        "WS",
+        "https://en.wikipedia.org/wiki/samoa"
+      ]
     ],
     "686": [
-      "KI"
+      [
+        "KI",
+        "https://en.wikipedia.org/wiki/kiribati"
+      ]
     ],
     "687": [
-      "NC"
+      [
+        "NC",
+        "https://en.wikipedia.org/wiki/new_caledonia"
+      ]
     ],
     "688": [
-      "TV"
+      [
+        "TV",
+        "https://en.wikipedia.org/wiki/tuvalu"
+      ]
     ],
     "689": [
-      "PF"
+      [
+        "PF",
+        "https://en.wikipedia.org/wiki/french_polynesia"
+      ]
     ],
     "690": [
-      "TK"
+      [
+        "TK",
+        "https://en.wikipedia.org/wiki/tokelau"
+      ]
     ],
     "691": [
-      "FM"
+      [
+        "FM",
+        "https://en.wikipedia.org/wiki/federated_states_of_micronesia"
+      ]
     ],
     "692": [
-      "MH"
+      [
+        "MH",
+        "https://en.wikipedia.org/wiki/marshall_islands"
+      ]
     ],
     "7": [
-      "KZ",
-      "RU"
+      [
+        "KZ",
+        "https://en.wikipedia.org/wiki/kazakhstan"
+      ],
+      [
+        "RU",
+        "https://en.wikipedia.org/wiki/russia"
+      ]
     ],
     "73": [
-      "RU"
+      [
+        "RU",
+        "https://en.wikipedia.org/wiki/russia"
+      ]
     ],
     "74": [
-      "RU"
+      [
+        "RU",
+        "https://en.wikipedia.org/wiki/russia"
+      ]
     ],
     "76": [
-      "KZ"
+      [
+        "KZ",
+        "https://en.wikipedia.org/wiki/kazakhstan"
+      ]
     ],
     "77": [
-      "KZ"
+      [
+        "KZ",
+        "https://en.wikipedia.org/wiki/kazakhstan"
+      ]
     ],
     "78": [
-      "RU"
+      [
+        "RU",
+        "https://en.wikipedia.org/wiki/russia"
+      ]
     ],
     "79": [
-      "RU"
+      [
+        "RU",
+        "https://en.wikipedia.org/wiki/russia"
+      ]
     ],
     "800": [
-      "XT"
+      [
+        "XT",
+        "https://en.wikipedia.org/wiki/universal_international_freephone_number"
+      ]
     ],
     "808": [
-      "XS"
+      [
+        "XS",
+        "https://en.wikipedia.org/wiki/shared_cost_service"
+      ]
     ],
     "81": [
-      "JP"
+      [
+        "JP",
+        "https://en.wikipedia.org/wiki/japan"
+      ]
     ],
     "82": [
-      "KR"
+      [
+        "KR",
+        "https://en.wikipedia.org/wiki/south_korea"
+      ]
     ],
     "84": [
-      "VN"
+      [
+        "VN",
+        "https://en.wikipedia.org/wiki/vietnam"
+      ]
     ],
     "850": [
-      "KP"
+      [
+        "KP",
+        "https://en.wikipedia.org/wiki/north_korea"
+      ]
     ],
     "852": [
-      "HK"
+      [
+        "HK",
+        "https://en.wikipedia.org/wiki/hong_kong"
+      ]
     ],
     "853": [
-      "MO"
+      [
+        "MO",
+        "https://en.wikipedia.org/wiki/macau"
+      ]
     ],
     "855": [
-      "KH"
+      [
+        "KH",
+        "https://en.wikipedia.org/wiki/cambodia"
+      ]
     ],
     "856": [
-      "LA"
+      [
+        "LA",
+        "https://en.wikipedia.org/wiki/laos"
+      ]
     ],
     "86": [
-      "CN"
-    ],
-    "870": [
-      "XN"
+      [
+        "CN",
+        "https://en.wikipedia.org/wiki/china"
+      ]
     ],
     "878": [
-      "XP"
+      [
+        "XP",
+        "https://en.wikipedia.org/wiki/universal_personal_telecommunications"
+      ]
     ],
     "880": [
-      "BD"
+      [
+        "BD",
+        "https://en.wikipedia.org/wiki/bangladesh"
+      ]
     ],
     "881": [
-      "XG"
+      [
+        "XG",
+        "https://en.wikipedia.org/wiki/global_mobile_satellite_system"
+      ]
     ],
     "882": [
-      "XV"
+      [
+        "XV",
+        "https://en.wikipedia.org/wiki/international_networks_(country_code)"
+      ]
     ],
     "883": [
-      "XV"
+      [
+        "XV",
+        "https://en.wikipedia.org/wiki/international_networks_(country_code)"
+      ]
     ],
     "886": [
-      "TW"
+      [
+        "TW",
+        "https://en.wikipedia.org/wiki/taiwan"
+      ]
     ],
     "888": [
-      "XD"
+      [
+        "XD",
+        "https://en.wikipedia.org/wiki/ocha"
+      ]
     ],
     "90": [
-      "CT",
-      "TR"
+      [
+        "CT",
+        "https://en.wikipedia.org/wiki/northern_cyprus"
+      ],
+      [
+        "TR",
+        "https://en.wikipedia.org/wiki/turkey"
+      ]
     ],
     "91": [
-      "IN"
+      [
+        "IN",
+        "https://en.wikipedia.org/wiki/india"
+      ]
     ],
     "92": [
-      "PK"
+      [
+        "PK",
+        "https://en.wikipedia.org/wiki/pakistan"
+      ]
     ],
     "93": [
-      "AF"
+      [
+        "AF",
+        "https://en.wikipedia.org/wiki/afghanistan"
+      ]
     ],
     "94": [
-      "LK"
+      [
+        "LK",
+        "https://en.wikipedia.org/wiki/sri_lanka"
+      ]
     ],
     "95": [
-      "MM"
+      [
+        "MM",
+        "https://en.wikipedia.org/wiki/myanmar"
+      ]
     ],
     "960": [
-      "MV"
+      [
+        "MV",
+        "https://en.wikipedia.org/wiki/maldives"
+      ]
     ],
     "961": [
-      "LB"
+      [
+        "LB",
+        "https://en.wikipedia.org/wiki/lebanon"
+      ]
     ],
     "962": [
-      "JO"
+      [
+        "JO",
+        "https://en.wikipedia.org/wiki/jordan"
+      ]
     ],
     "963": [
-      "SY"
+      [
+        "SY",
+        "https://en.wikipedia.org/wiki/syria"
+      ]
     ],
     "964": [
-      "IQ"
+      [
+        "IQ",
+        "https://en.wikipedia.org/wiki/iraq"
+      ]
     ],
     "965": [
-      "KW"
+      [
+        "KW",
+        "https://en.wikipedia.org/wiki/kuwait"
+      ]
     ],
     "966": [
-      "SA"
+      [
+        "SA",
+        "https://en.wikipedia.org/wiki/saudi_arabia"
+      ]
     ],
     "967": [
-      "YE"
+      [
+        "YE",
+        "https://en.wikipedia.org/wiki/yemen"
+      ]
     ],
     "968": [
-      "OM"
+      [
+        "OM",
+        "https://en.wikipedia.org/wiki/oman"
+      ]
     ],
     "970": [
-      "PS"
+      [
+        "PS",
+        "https://en.wikipedia.org/wiki/state_of_palestine"
+      ]
     ],
     "971": [
-      "AE"
+      [
+        "AE",
+        "https://en.wikipedia.org/wiki/united_arab_emirates"
+      ]
     ],
     "972": [
-      "IL"
+      [
+        "IL",
+        "https://en.wikipedia.org/wiki/israel"
+      ]
     ],
     "973": [
-      "BH"
+      [
+        "BH",
+        "https://en.wikipedia.org/wiki/bahrain"
+      ]
     ],
     "974": [
-      "QA"
+      [
+        "QA",
+        "https://en.wikipedia.org/wiki/qatar"
+      ]
     ],
     "975": [
-      "BT"
+      [
+        "BT",
+        "https://en.wikipedia.org/wiki/bhutan"
+      ]
     ],
     "976": [
-      "MN"
+      [
+        "MN",
+        "https://en.wikipedia.org/wiki/mongolia"
+      ]
     ],
     "977": [
-      "NP"
+      [
+        "NP",
+        "https://en.wikipedia.org/wiki/nepal"
+      ]
     ],
     "979": [
-      "XR"
+      [
+        "XR",
+        "https://en.wikipedia.org/wiki/international_premium_rate_service"
+      ]
     ],
     "98": [
-      "IR"
+      [
+        "IR",
+        "https://en.wikipedia.org/wiki/iran"
+      ]
     ],
     "991": [
-      "XC"
+      [
+        "XC",
+        "https://en.wikipedia.org/wiki/itpcs"
+      ]
     ],
     "992": [
-      "TJ"
+      [
+        "TJ",
+        "https://en.wikipedia.org/wiki/tajikistan"
+      ]
     ],
     "993": [
-      "TM"
+      [
+        "TM",
+        "https://en.wikipedia.org/wiki/turkmenistan"
+      ]
     ],
     "994": [
-      "AZ"
+      [
+        "AZ",
+        "https://en.wikipedia.org/wiki/azerbaijan"
+      ]
     ],
     "995": [
-      "GE"
+      [
+        "GE",
+        "https://en.wikipedia.org/wiki/georgia_(country)"
+      ]
     ],
     "996": [
-      "KG"
+      [
+        "KG",
+        "https://en.wikipedia.org/wiki/kyrgyzstan"
+      ]
     ],
     "998": [
-      "UZ"
+      [
+        "UZ",
+        "https://en.wikipedia.org/wiki/uzbekistan"
+      ]
     ]
   }
 ]

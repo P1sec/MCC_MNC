@@ -438,43 +438,98 @@ def parse_table_mnc_all():
 URL_MSISDN = "https://en.wikipedia.org/wiki/List_of_country_calling_codes"
 
 # regexp to match "+123: AA"-like pattern
-RE_WIKI_MSISDN_PREF = re.compile(r'^\+([0-9 ]{1,})\:[ ]{0,}([A-Z]{2}(,\s{0,}[A-Z]{2}){0,})$')
+RE_WIKI_MSISDN_PREF = re.compile('\+[0-9 ]{1,}')
+
+
+def _get_cc_url(e):
+    ccs = set()
+    if len(e):
+        for se in e:
+            ccs.update( _get_cc_url(se) )
+    elif e.text:
+        cc  = e.text.strip()
+        assert( cc.isupper() and len(cc) == 2 )
+        url = URL_PREF + e.values()[0].strip().lower()
+        ccs.add( (cc, url) )
+    return ccs
 
 
 def parse_table_msisdn_pref():
     T   = import_html_doc(URL_MSISDN).xpath('//table')
-    D   = {}
+    #
+    # 1) extract the dict of {msisdn prefix: CC2}
+    D_P = {}
     T_P = T[0][0]
     #
     # 2nd line: +1 prefix (North America)
-    T_NA = T_P[2][1][0]
     ccs  = set()
-    for i in range(3, len(T_NA)):
-        cc = T_NA[i].text.strip()
+    for e in T_P[2][1][0][3:]:
+        cc  = e.text.strip()
+        url = URL_PREF + e.values()[0].strip().lower()
         if cc:
-            ccs.add(cc)
-    D['1'] = ccs
+            ccs.add( (cc, url) )
+    D_P['1'] = ccs
+    #
+    # 3rd line: +1 XYZ prefix
+    for e in T_P[3]:
+        if len(e) and len(e[0]):
+            pref, ccs = None, set()
+            for se in e[0]:
+                if se.text and RE_WIKI_MSISDN_PREF.match(se.text):
+                    if pref is not None and ccs:
+                        D_P[pref] = ccs
+                        ccs = set()
+                    pref = se.text.strip()[1:].replace(' ', '')
+                    assert(pref.isdigit())
+                elif se.text:
+                    ccs.update( _get_cc_url(se) )
+            if pref is not None and ccs:
+                D_P[pref] = ccs
+    # 
+    # crappy table formatting, missing Dominican prefixes:
+    if '1829' not in D_P:
+        D_P['1829'] = ('DO', 'https://en.wikipedia.org/wiki/dominican_republic')
+    if '1849' not in D_P:
+        D_P['1849'] = ('DO', 'https://en.wikipedia.org/wiki/dominican_republic')
     #
     # other prefixes
-    for i in range(3, len(T_P)):
-        for j in range(0, len(T_P[i])):
-            for infos in ''.join(T_P[i][j].itertext()).split('\n'):
-                m = RE_WIKI_MSISDN_PREF.match(infos)
-                if m:
-                    pref, ccs = m.group(1), [c for c in map(str.strip, m.group(2).split(','))]
-                    pref = pref.replace(' ', '')
-                    if pref in D:
-                        D[pref].update(ccs)
-                    else:
-                        D[pref] = ccs
-                #elif infos:
-                #    print(infos)
+    for i, L in enumerate(T_P[3:]):
+        for j, e in enumerate(L):
+            if len(e) > 1:
+                pref = e[0].text.strip()
+                assert(RE_WIKI_MSISDN_PREF.match(pref))
+                pref = pref[1:].replace(' ', '')
+                D_P[pref] = _get_cc_url(e[1:])
     #
     # convert set to list
-    for pref, ccs in D.items():
-        D[pref] = list(sorted(ccs))
+    for pref, ccs in D_P.items():
+        D_P[pref] = list(sorted(ccs))
     #
-    return D
+    # 2) extract the dict of {country: MSISDN prefix}
+    D_C = {}
+    T_C = T[1][0]
+    #
+    for L in T_C[1:]:
+        name = explore_text(L[0]).text.strip()
+        pref = list(map(lambda s: RE_WIKI_MSISDN_PREF.search(s.strip()).group().replace(' ', '')[1:],
+                        ''.join(L[1].itertext()).split(',')))
+        assert( name not in D_C )
+        D_C[name] = pref
+    #
+    # 3) extract the dict of {location with no country code: MSISDN prefix}
+    D_T = {}
+    T_T = T[2][0]
+    #
+    for L in T_T[1:]:
+        e     = explore_text(L[0])
+        name  = e.text.strip()
+        url   = URL_PREF + e.values()[0].strip().lower()
+        pref  = RE_WIKI_MSISDN_PREF.search(''.join(L[1].itertext())).group().replace(' ', '')[1:]
+        count = explore_text(L[2]).text.strip()
+        assert( name not in D_T )
+        D_T[name] = (url, count, pref)
+    #
+    return D_P, D_C, D_T
 
 
 #------------------------------------------------------------------------------#
@@ -566,13 +621,13 @@ def get_wiki_infos():
         D_iso  = parse_table_iso3166()
         L_mcc  = parse_table_mcc()
         D_mnc  = parse_table_mnc_all()
-        D_pref = parse_table_msisdn_pref()
+        D_pref, D_count, D_terr = parse_table_msisdn_pref()
         L_bord = parse_table_borders()
     except Exception as err:
         print('unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
         return None, None, None, None, None
     else:
-        return D_iso, L_mcc, D_mnc, D_pref, L_bord
+        return D_iso, L_mcc, D_mnc, D_pref, D_count, D_terr, L_bord
 
 
 def generate_json(d, destfile, src, license):
@@ -602,7 +657,7 @@ def main():
     parser.add_argument('-j', action='store_true', help='produce JSON files (with suffix .json)')
     parser.add_argument('-p', action='store_true', help='produce Python files (with suffix .py)')
     args = parser.parse_args()
-    D_iso, L_mcc, D_mnc, D_pref, L_bord = get_wiki_infos()
+    D_iso, L_mcc, D_mnc, D_pref, D_count, D_terr, L_bord = get_wiki_infos()
     if D_iso is None:
         return 1
     #
@@ -611,12 +666,16 @@ def main():
         generate_json(L_mcc, 'wikip_mcc.json', [URL_MCC], URL_LICENSE)
         generate_json(D_mnc, 'wikip_mnc.json', [URL_MNC_EU, URL_MNC_NA, URL_MNC_AS, URL_MNC_OC, URL_MNC_AF, URL_MNC_SA], URL_LICENSE)
         generate_json(D_pref, 'wikip_msisdn.json', [URL_MSISDN], URL_LICENSE)
+        generate_json(D_count, 'wikip_country.json', [URL_MSISDN], URL_LICENSE)
+        generate_json(D_terr, 'wikip_territory.json', [URL_MSISDN], URL_LICENSE)
         generate_json(L_bord, 'wikip_borders.json', [URL_BORDERS], URL_LICENSE)
     if args.p:
         generate_python(D_iso, 'wikip_iso3166.py', [URL_CODE_ALPHA_2], URL_LICENSE)
         generate_python(L_mcc, 'wikip_mcc.py', [URL_MCC], URL_LICENSE)
         generate_python(D_mnc, 'wikip_mnc.py', [URL_MNC_EU, URL_MNC_NA, URL_MNC_AS, URL_MNC_OC, URL_MNC_AF, URL_MNC_SA], URL_LICENSE)
         generate_python(D_pref, 'wikip_msisdn.py', [URL_MSISDN], URL_LICENSE)
+        generate_python(D_count, 'wikip_country.py', [URL_MSISDN], URL_LICENSE)
+        generate_python(D_terr, 'wikip_territory.py', [URL_MSISDN], URL_LICENSE)
         generate_python(L_bord, 'wikip_borders.py', [URL_BORDERS], URL_LICENSE)
     return 0
 

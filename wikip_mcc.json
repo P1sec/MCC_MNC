@@ -448,13 +448,13 @@
       "notes": ""
     },
     {
-      "authority": "\n",
+      "authority": "",
       "code_alpha_2": "GE-AB",
       "country_name": "Abkhazia",
       "country_url": "https://en.wikipedia.org/wiki/Abkhazia",
       "mcc": "289",
       "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Abkhasia_-_GE-AB",
-      "notes": "MCC is not listed by ITU\n"
+      "notes": "MCC is not listed by ITU"
     },
     {
       "authority": "",
@@ -634,7 +634,7 @@
       "country_url": "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
       "mcc": "332",
       "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_of_America_-_US",
-      "notes": "The US Virgin Islands share the US MCCs instead of using the assigned MCC 332\n"
+      "notes": "The US Virgin Islands share the US MCCs instead of using the assigned MCC 332"
     },
     {
       "authority": "Instituto Federal de Telecomunicaciones",
@@ -871,7 +871,7 @@
       "notes": ""
     },
     {
-      "authority": "Telecommunications Authority of Trinidad and Tobago (TATT)\n",
+      "authority": "Telecommunications Authority of Trinidad and Tobago (TATT)",
       "code_alpha_2": "TT",
       "country_name": "Trinidad and Tobago",
       "country_url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
@@ -961,7 +961,7 @@
       "notes": ""
     },
     {
-      "authority": "Telecommunications Regulatory Commission of Sri Lanka (TRCSL)\n",
+      "authority": "Telecommunications Regulatory Commission of Sri Lanka (TRCSL)",
       "code_alpha_2": "LK",
       "country_name": "Sri Lanka",
       "country_url": "https://en.wikipedia.org/wiki/Sri_Lanka",
@@ -1069,13 +1069,13 @@
       "notes": ""
     },
     {
-      "authority": "\n",
+      "authority": "",
       "code_alpha_2": "PS",
       "country_name": "State of Palestine",
       "country_url": "https://en.wikipedia.org/wiki/State_of_Palestine",
       "mcc": "425",
       "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Palestine_-_PS",
-      "notes": "Uses the MCC of Israel\n"
+      "notes": "Uses the MCC of Israel"
     },
     {
       "authority": "",
@@ -1285,7 +1285,7 @@
       "notes": ""
     },
     {
-      "authority": "Bangladesh Telecommunication Regulatory Commission\n",
+      "authority": "Bangladesh Telecommunication Regulatory Commission",
       "code_alpha_2": "BD",
       "country_name": "Bangladesh",
       "country_url": "https://en.wikipedia.org/wiki/Bangladesh",
@@ -2227,7 +2227,7 @@
       "country_url": "https://en.wikipedia.org/wiki/French_Guiana",
       "mcc": "742",
       "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ",
-      "notes": "French Guinana shares MCC 340 instead of using the assigned MCC 742\n"
+      "notes": "French Guinana shares MCC 340 instead of using the assigned MCC 742"
     },
     {
       "authority": "",
@@ -2266,13 +2266,13 @@
       "notes": ""
     },
     {
-      "authority": "\n",
+      "authority": "",
       "code_alpha_2": "IO",
       "country_name": "British Indian Ocean Territory",
       "country_url": "https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory",
       "mcc": "995",
       "mcc_url": "https://en.wikipedia.org#British_Indian_Ocean_Territory_(United_Kingdom)_-_IO",
-      "notes": "MCC is not listed by ITU\n"
+      "notes": "MCC is not listed by ITU"
     }
   ]
 ]
