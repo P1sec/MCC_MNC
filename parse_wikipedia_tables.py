@@ -449,8 +449,10 @@ def _get_cc_url(e):
     elif e.text:
         cc  = e.text.strip()
         assert( cc.isupper() and len(cc) == 2 )
-        url = URL_PREF + e.values()[0].strip().lower()
-        ccs.add( (cc, url) )
+        name, url = _get_country_url(e)
+        if name is None or url is None:
+            assert()
+        ccs.add( (cc, name, url) )
     return ccs
 
 
@@ -464,10 +466,11 @@ def parse_table_msisdn_pref():
     # 2nd line: +1 prefix (North America)
     ccs  = set()
     for e in T_P[2][1][0][3:]:
-        cc  = e.text.strip()
-        url = URL_PREF + e.values()[0].strip().lower()
+        cc   = e.text.strip()
+        url  = URL_PREF + e.values()[0].strip()
+        name = e.values()[-1].strip()
         if cc:
-            ccs.add( (cc, url) )
+            ccs.add( (cc, name, url) )
     D_P['1'] = ccs
     #
     # 3rd line: +1 XYZ prefix
@@ -488,9 +491,9 @@ def parse_table_msisdn_pref():
     # 
     # crappy table formatting, missing Dominican prefixes:
     if '1829' not in D_P:
-        D_P['1829'] = ('DO', 'https://en.wikipedia.org/wiki/dominican_republic')
+        D_P['1829'] = [('DO', 'Dominican Republic', 'https://en.wikipedia.org/wiki/dominican_republic')]
     if '1849' not in D_P:
-        D_P['1849'] = ('DO', 'https://en.wikipedia.org/wiki/dominican_republic')
+        D_P['1849'] = [('DO', 'Dominican Republic', 'https://en.wikipedia.org/wiki/dominican_republic')]
     #
     # other prefixes
     for i, L in enumerate(T_P[3:]):
@@ -523,11 +526,11 @@ def parse_table_msisdn_pref():
     for L in T_T[1:]:
         e     = explore_text(L[0])
         name  = e.text.strip()
-        url   = URL_PREF + e.values()[0].strip().lower()
+        url   = URL_PREF + e.values()[0].strip()
         pref  = RE_WIKI_MSISDN_PREF.search(''.join(L[1].itertext())).group().replace(' ', '')[1:]
         count = explore_text(L[2]).text.strip()
         assert( name not in D_T )
-        D_T[name] = (url, count, pref)
+        D_T[name] = (pref, count, url)
     #
     return D_P, D_C, D_T
 
