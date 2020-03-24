@@ -104,12 +104,12 @@ def _get_country_url(e):
             url, name = values
             if name in CRAPPY_NAMES:
                 name = e.text.strip()
-            return name, URL_PREF + url
+            return name, URL_PREF + url.strip()
         elif len(values) == 3 and values[0][:6] == '/wiki/':
             url, _, name = values
             if name in CRAPPY_NAMES:
                 name = e.text.strip()
-            return name, URL_PREF + url
+            return name, URL_PREF + url.strip()
         #print(e.text)
     return None, None
 
@@ -128,6 +128,9 @@ def read_entry_iso3166(T, off):
     rec['regions_url']  = URL_PREF + L[6][0].values()[0]
     rec['cc_tld']       = explore_text(L[7]).text.strip().lower()
     rec['cc_tld_url']   = URL_PREF + explore_text(L[7]).values()[0]
+    if rec['cc_tld'] and rec['cc_tld'][0] != '.':
+        rec['cc_tld']     = ''
+        rec['cc_tld_url'] = ''
     return rec
 
 
