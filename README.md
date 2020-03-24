@@ -83,6 +83,8 @@ do not share any borders.
 The following requirements must be fullfil for the script to work: Python3 and lxml are required.
 No installation of the script is required, just run it as is.
 
+The Wikipedia and World Factbook data can be imported by using the following commands:
+
 ```
 $ ./parse_wikipedia_tables.py --help
 usage: parse_wikipedia_tables.py [-h] [-j] [-p]
@@ -95,6 +97,8 @@ optional arguments:
   -j          produce JSON files (with suffix .json)
   -p          produce Python files (with suffix .py)
 ```
+
+and
 
 ```
 $ ./parse_worldfactbook_infos.py --help
@@ -110,3 +114,14 @@ optional arguments:
 
 ```
 
+Then, in order to load all those imported data with aligned and coherent values 
+(e.g. country name, ISO codes and other numbering and information), the module
+_patch_dataset_ can be used. It exports the Wikipedia, World Factbook and Egallic 
+dataset, after applying few corrections and fixes:
+
+```
+>>> from patch_dataset import *
+[...]
+>>> WIKIP_ISO3166
+[...]
+```
