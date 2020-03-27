@@ -542,6 +542,13 @@ def parse_table_msisdn_pref():
 # parsing Wikipedia country borders
 #------------------------------------------------------------------------------#
 
+# this is used for both Wikipedia and World Factbook
+CRAPPY_BORDERS = {
+    'India , including Dahagram-Angarpota'      : 'India',
+    'Bangladesh , including Dahagram-Angarpota' : 'Bangladesh',
+    }
+
+
 # Countries and borders
 URL_BORDERS = "https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_land_borders"
 
@@ -555,6 +562,22 @@ REC_BORDERS = {
     'neigh_num'     : 0,  # int
     'neigh'         : [], # list of 2-tuple or str, neighbour countries (country_name, country_url)
     }
+
+
+
+_stripbordref = lambda s: re.sub('\s{1,}', ' ', re.sub(r'\(.*?\)|\[.*?\]', ' ', s).strip())
+
+def _get_bord(e):
+    b = []
+    for s in map(str.strip, ''.join(e.itertext()).split('\xa0')):
+        if s:
+            s = _stripbordref(s)
+            if ':' in s:
+                name = s.split(':')[0].strip()
+                if name in CRAPPY_BORDERS:
+                    name = CRAPPY_BORDERS[name]
+                b.append(name)
+    return b
 
 
 def read_entry_borders(T, off):
@@ -589,15 +612,9 @@ def read_entry_borders(T, off):
             rec['country_sub'] = sub
     #
     if len(L) >= 6 and len(L[5]) >= 1 and len(L[5][0]) >= 2:
-        # neighbours
-        neigh = []
-        for e in L[5][0][1]:
-            name, url = _get_country_url(e)
-            if name is not None:
-                neigh.append( (name, url) )
-        if neigh:
-            neigh.sort(key=lambda t: t[0])
-            rec['neigh'] = neigh
+        rec['neigh'] = _get_bord(L[5][0][1])
+        if rec['neigh_num'] and not rec['neigh']:
+            assert()
     #
     return rec
 

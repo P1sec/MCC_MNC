@@ -28280,7 +28280,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 850 / UMTS 1800 / UMTS 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 3500",
+        "bands": "UMTS 850 / UMTS 1800 / UMTS 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 3500 / 5G 3500",
         "brand": "NTT docomo",
         "codes_alpha_2": [
           "JP"
@@ -28295,8 +28295,8 @@
         "status": "operational"
       },
       {
-        "bands": "1700",
-        "brand": "",
+        "bands": "LTE 1800",
+        "brand": "Rakuten Mobile",
         "codes_alpha_2": [
           "JP"
         ],
@@ -28305,9 +28305,9 @@
         "country_url": "https://en.wikipedia.org/wiki/Japan",
         "mcc": "440",
         "mnc": "11",
-        "notes": "Launch planned for Oct 2019",
+        "notes": "",
         "operator": "Rakuten Mobile Network, Inc.",
-        "status": "unknown"
+        "status": "operational"
       },
       {
         "bands": "Unknown",

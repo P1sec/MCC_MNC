@@ -3239,8 +3239,7 @@
             "Nepal": 1389,
             "North Korea": 1352,
             "Pakistan": 438,
-            "Russia (northeast)": 4133,
-            "Russia (northwest)": 46,
+            "Russia": 46,
             "Tajikistan": 477,
             "Vietnam": 1297
           },
@@ -7916,7 +7915,7 @@
           "bord": {
             "Austria": 404,
             "France": 476,
-            "Holy See (Vatican City)": 3,
+            "Holy See": 3,
             "San Marino": 37,
             "Slovenia": 218,
             "Switzerland": 698
@@ -9542,7 +9541,7 @@
             "Belarus": 640,
             "Latvia": 544,
             "Poland": 104,
-            "Russia (Kaliningrad)": 261
+            "Russia": 261
           },
           "len": 1549
         },
@@ -10938,8 +10937,7 @@
         "boundaries": {
           "bord": {
             "Algeria": 1900,
-            "Spain (Ceuta)": 8,
-            "Spain (Melilla)": 10,
+            "Spain": 10,
             "Western Sahara": 444
           },
           "len": 2362
@@ -12801,7 +12799,7 @@
             "Czech Republic": 796,
             "Germany": 467,
             "Lithuania": 104,
-            "Russia (Kaliningrad Oblast)": 210,
+            "Russia": 210,
             "Slovakia": 541,
             "Ukraine": 535
           },
@@ -13182,18 +13180,17 @@
           "bord": {
             "Azerbaijan": 338,
             "Belarus": 1312,
-            "China (south)": 46,
-            "China (southeast)": 4133,
+            "China": 46,
             "Estonia": 324,
             "Finland": 1309,
             "Georgia": 894,
             "Kazakhstan": 7644,
             "Latvia": 332,
-            "Lithuania (Kaliningrad Oblast)": 261,
+            "Lithuania": 261,
             "Mongolia": 3452,
             "North Korea": 18,
             "Norway": 191,
-            "Poland (Kaliningrad Oblast)": 210,
+            "Poland": 210,
             "Ukraine": 1944
           },
           "len": 22408
@@ -14409,7 +14406,7 @@
         "airports": 1,
         "boundaries": {
           "bord": {
-            "Saint Martin (France)": 16
+            "Saint Martin": 16
           },
           "len": 16
         },
@@ -14930,8 +14927,7 @@
             "Andorra": 63,
             "France": 646,
             "Gibraltar": 1,
-            "Morocco (Ceuta)": 8,
-            "Morocco (Melilla)": 10,
+            "Morocco": 10,
             "Portugal": 1224
           },
           "len": 1952

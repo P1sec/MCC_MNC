@@ -2,19 +2,27 @@
 # -*- coding: UTF-8 -*-
 
 __all__ = [
-    # Wikipedia
+    # Wikipedia structures
     'WIKIP_ISO3166',
     'WIKIP_BORDERS',
     'WIKIP_MCC',
     'WIKIP_MNC',
     'WIKIP_MSISDN',
     'WIKIP_COUNTRY',
-    #'WIKIP_TERRITORY',
-    # World Factbook
+    'WIKIP_TERRITORY',
+    # World Factbook structure
     'WORLD_FB',
-    # Custom
+    # Egallic minimum distance
+    'EGAL_MIN_DIST',
+    # Custom structures
     'WFB_UNINHABITED',
     'COUNTRY_SPEC',
+    'CC2_ALIAS',
+    'CC2_INTL',
+    # functions
+    'country_name_canon',
+    'country_match',
+    'country_present',
     ]
 
 
@@ -165,11 +173,36 @@ COUNTRY_SPEC = {
         'sub_cc2': ['BL', 'GF', 'GP', 'MF', 'MQ'],
         },
     #
-    # Georgia
+    # Georgia, Russia, Ukraine and other autonomous region around 
     'Georgia': {
         'cc2' : 'GE',
         'sub' : ['Abkhazia', 'South Ossetia'],
         'sub_cc2': ['AB'],
+        },
+    #
+    'Abkhazia': {
+        'cc2' : 'AB',
+        'url' : 'https://en.wikipedia.org/wiki/Abkhazia',
+        'state_name'    : 'Republic of Abkhazia',
+        },
+    #
+    'Nagorno-Karabakh': {
+        'cc2' : 'QN',
+        'url' : 'https://en.wikipedia.org/wiki/Nagorno-Karabakh',
+        'sovereignity'  : 'disputed',
+        'state_name'    : 'Artsakh',
+        },
+    #
+    # Kosovo
+    'Kosovo': {
+        'cc2' : 'XK',
+        'url' : 'https://en.wikipedia.org/wiki/Kosovo',
+        #
+        'cc_tld'        : '.xk',
+        'cc_tld_url'    : 'https://en.wikipedia.org/wiki/.xk',
+        'code_alpha_3'  : 'XKS',
+        'sovereignity'  : 'disputed',
+        'state_name'    : 'Republic of Kosovo',
         },
     #
     # Moldova
@@ -255,20 +288,34 @@ COUNTRY_SPEC = {
         'sub' : ['Trinidad', 'Tobago'],
         },
     #
+    # Turkey
+    'Turkey': {
+        'cc2' : 'TR',
+        'sub' : ['Northern Cyprus'],
+        'sub_cc2': ['CT'],
+        },
+    #
+    'Northern Cyprus': {
+        'cc2' : 'CT',
+        'url' : 'https://en.wikipedia.org/wiki/Northern_Cyprus',
+        },
+    #
     # United Kingdom
     'United Kingdom': {
         'cc2' : 'GB',
         'sub' : [ # automatically filled from WIKIP_ISO3166
             'Northern Ireland', # no CC2
             ],
-        'sub_cc2': [], # automatically filled from WIKIP_ISO3166
+        'sub_cc2': ['AK', ], # automatically filled from WIKIP_ISO3166
         },
     #
     'Akrotiri and Dhekelia': {
         'cc2' : 'AK',
         'sub' : ['Akrotiri', 'Dhekelia'],
         'bord': ['Cyprus'],
+        'state_name': 'Akrotiri',
         },
+    #
     #
     'British Indian Ocean Territory': {
         'cc2': 'IO',
@@ -283,6 +330,17 @@ COUNTRY_SPEC = {
     'Saint Helena, Ascension and Tristan da Cunha': {
         'cc2' : 'SH',
         'sub' : ['Saint Helena', 'Ascension', 'Tristan da Cunha'],
+        'sub_cc2': ['AC', 'TA'],
+        },
+    #
+    'Ascension': {
+        'cc2' : 'AC',
+        'url' : 'https://en.wikipedia.org/wiki/Ascension_Island',
+        },
+    #
+    'Tristan da Cunha': {
+        'cc2' : 'TA',
+        'url' : 'https://en.wikipedia.org/wiki/Tristan_da_Cunha',
         },
     #
     'South Georgia and the South Sandwich Islands': {
@@ -316,13 +374,17 @@ COUNTRY_RENAME = {
     'Bailiwick of Guernsey'     : 'Guernsey',
     'Vatican City'              : 'Vatican',
     'Vatican City State'        : 'Vatican',
-    'Vatican City State (Holy See)' : 'Vatican',
+    'Holy See (Vatican City)'   : 'Vatican',
     'Holy See'                  : 'Vatican',
     'Macedonia'                 : 'North Macedonia',
     'UK'                        : 'United Kingdom',
+    'Ireland'                   : 'Republic of Ireland',
+    'Vatican City State (Holy See)' : 'Vatican',
     'The Kingdom of the Netherlands': 'Netherlands',
     #
     # Africa / Middle-East / Asia
+    'UAE'                       : 'United Arab Emirates',
+    'Burma'                     : 'Myanmar',
     'Palestine'                 : 'State of Palestine',
     'Palestine, State of'       : 'State of Palestine',
     'Somaliland'                : 'Somalia',
@@ -330,7 +392,12 @@ COUNTRY_RENAME = {
     'Korea, North'              : 'North Korea',
     'Korea, South'              : 'South Korea',
     'Brunei Darussalam'         : 'Brunei',
+    'Artsakh'                   : 'Nagorno-Karabakh',
     'Republic of Congo'         : 'Republic of the Congo',
+    'Côte d\'Ivoire'            : 'Ivory Coast',
+    'Cote d\'Ivoire'            : 'Ivory Coast',
+    'Gambia'                    : 'The Gambia',
+    'People\'s Republic of China'   : 'China',
     'The Islamic Republic of Iran'  : 'Iran',
     'Iran (Islamic Republic of)'    : 'Iran',
     'Congo, Democratic Republic of the (Zaire)' : 'Democratic Republic of the Congo',
@@ -341,6 +408,7 @@ COUNTRY_RENAME = {
     'Wake Island, USA'          : 'Wake Island',
     #
     # Islands
+    'Bahamas'                   : 'The Bahamas',
     'Caribbean Netherlands'     : 'Bonaire, Saba and Sint Eustatius',
     'Curacao'                   : 'Curaçao',
     'Cocos (Keeling) Islands'   : 'Cocos Islands',
@@ -355,6 +423,9 @@ COUNTRY_RENAME = {
     'US Virgin Islands'         : 'United States Virgin Islands',
     'Madeira Islands'           : 'Madeira',
     'Svalbard'                  : 'Svalbard and Jan Mayen',
+    'Ascension Island'          : 'Ascension',
+    'Heard Island'              : 'Heard Island and McDonald Island',
+    'Midway Island, USA'        : 'Midway Island',
     'Chatham Island, New Zealand'   : 'Chatham Island',
     'Collectivity of Saint Martin'  : 'Saint Martin',
     'Micronesia, Federated States of'       : 'Federated States of Micronesia',
@@ -370,40 +441,22 @@ COUNTRY_RENAME = {
 # Wikipedia ISO3166 dict
 #------------------------------------------------------------------------------#
 
-# code alpha 2 to be added to ISO3166 dict
-CC2_TO_ADD = [
-    {
-    # Kosovo: not yet formally approved
-    "cc_tld": ".xk",
-    "cc_tld_url": "https://en.wikipedia.org/wiki/.xk", # does not exist (yet)
-    "code_alpha_2": "XK", # not formally approved
-    "code_alpha_3": "XKS",
-    "country_name": "Kosovo",
-    "country_url": "https://en.wikipedia.org/wiki/Kosovo",
-    "sovereignity": "disputed",
-    "state_name": "Republic of Kosovo"
-    },
-    {
-    # Abkhazia (autonomous part of Georgia): unoffical code
-    "code_alpha_2": "AB", # unofficial
-    "country_name": "Abkhazia",
-    "country_url": "https://en.wikipedia.org/wiki/Abkhazia",
-    "sovereignity": "disputed",
-    "state_name": "Republic of Abkhazia"
-    },
-    {
-    # Akrotiri (military base in Cyprus): arbitrary code
-    "code_alpha_2": "AK", # arbitrary assignment
-    "country_name": "Akrotiri and Dhekelia",
-    "country_url": "https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia",
-    "state_name": "Akrotiri"
-    },
-    ]
-
-
 # code alpha 2 to be added, which is an alias for another code
 CC2_ALIAS = {
     'UK' : 'GB',
+    }
+
+
+# CC2 used for international organizations
+CC2_INTL = {
+    'XC',
+    'XD',
+    'XG',
+    'XP',
+    'XR',
+    'XS',
+    'XT',
+    'XV',
     }
 
 
@@ -411,14 +464,19 @@ def patch_wikip_iso3166():
     print('[+] patch Wikipedia ISO3166 dict: WIKIP_ISO3166')
     #
     # 1) add entries
-    for new in CC2_TO_ADD:
-        r = dict(REC_ISO3166)
-        r.update(new)
-        if r['code_alpha_2'] in WIKIP_ISO3166:
-            print('> CC2 %s already exists, %s not added' % (r['code_alpha_2'], r['country_name']))
-        else:
+    for country, infos in sorted(COUNTRY_SPEC.items()):
+        if 'cc2' in infos and infos['cc2'] not in WIKIP_ISO3166:
+            r = dict(REC_ISO3166)
+            for k in r:
+                if k in infos:
+                    r[k] = infos[k]
+            r['country_name'] = country
+            r['code_alpha_2'] = infos['cc2']
+            if 'url' in infos:
+                r['country_url'] = infos['url']
             WIKIP_ISO3166[r['code_alpha_2']] = r
             print('> CC2 %s, %s added' % (r['code_alpha_2'], r['country_name']))
+    #
     for new, old in sorted(CC2_ALIAS.items()):
         if new not in WIKIP_ISO3166:
             WIKIP_ISO3166[new] = WIKIP_ISO3166[old]
@@ -464,21 +522,28 @@ def patch_wikip_iso3166():
                           % (sorted(WIKIP_ISO3166)[i], sorted(WIKIP_ISO3166)[i+1+j]))
     #
     # 5) ensure all overseas, sub-territories and other geographic specificities
-    # are referenced correctly
+    # are referenced correctly, and verify sovereignity
     for country in COUNTRY_SPEC_CC2:
         cc2 = COUNTRY_SPEC[country]['cc2']
-        if cc2 not in WIKIP_ISO3166:
-            print('> missing CC2 %s, %s' % (cc2, country))
-        else:
-            if country != WIKIP_ISO3166[cc2]['country_name']:
-                print('> CC2 %s, country name changed from %s to %s' % (cc2, WIKIP_ISO3166[cc2]['country_name'], country))
-                WIKIP_ISO3166[cc2]['country_name'] = country
-                if 'url' in COUNTRY_SPEC[country]:
-                    WIKIP_ISO3166[cc2]['country_url'] = COUNTRY_SPEC[country]['url']
-            if 'sub_cc2' in COUNTRY_SPEC[country]:
-                for cc2_s in COUNTRY_SPEC[country]['sub_cc2']:
-                    if cc2_s not in WIKIP_ISO3166:
-                        print('> missing CC2 %s, part of %s' % (cc2_s, country))
+        wc  = WIKIP_ISO3166[cc2]
+        if country != wc['country_name']:
+            print('> CC2 %s, country name changed from %s to %s' % (cc2, wc['country_name'], country))
+            wc['country_name'] = country
+            if 'url' in COUNTRY_SPEC[country]:
+                wc['country_url'] = COUNTRY_SPEC[country]['url']
+        if 'sub_cc2' in COUNTRY_SPEC[country]:
+            for cc2_s in COUNTRY_SPEC[country]['sub_cc2']:
+                if cc2_s not in WIKIP_ISO3166:
+                    print('> missing CC2 %s, part of %s' % (cc2_s, country))
+                else:
+                    wc_s = WIKIP_ISO3166[cc2_s]
+                    
+                    
+                    if wc_s['sovereignity'] == '':
+                        wc_s['sovereignity'] = cc2
+                    elif wc_s['sovereignity'] != cc2:
+                        print('> CC2 %s, %s, sovereignity mismatch %s / %s'\
+                              % (cc2_s, wc_s['country_name'], wc_s['sovereignity'], cc2))
     #
     # 6) keep track of country name variants
     for cc2, infos in sorted(WIKIP_ISO3166.items()):
@@ -507,7 +572,7 @@ def extend_country_spec():
                 sovs['sub'].append(r['country_name'])
                 print('> country %s (%s) added under %s' % (r['country_name'], cc2, sov['country_name']))
             if cc2 not in sovs['sub_cc2']:
-                sovs['sub_cc2'].append(cc2)                
+                sovs['sub_cc2'].append(cc2)
 
 extend_country_spec()
 
@@ -588,14 +653,10 @@ def patch_wikip_borders():
                 print('> country name changed from %s to %s' % (oldname, newname))
         for n in r['neigh'][:]:
             for oldname, newname in sorted(COUNTRY_RENAME.items()):
-                if country_match(n[0], oldname): 
-                    if newname in COUNTRY_SPEC and 'url' in COUNTRY_SPEC[newname]:
-                        new_n = (newname, COUNTRY_SPEC[newname]['url'])
-                    else:
-                        new_n = (newname, n[1])
+                if country_match(n, oldname):
                     r['neigh'].remove(n)
-                    r['neigh'].append( new_n )
-                    r['neigh'].sort(key=lambda t: t[0])
+                    r['neigh'].append(newname)
+                    r['neigh'].sort()
                     print('> country %s, border changed from %s to %s'\
                           % (r['country_name'], oldname, newname))
         for s in r['country_sub'][:]:
@@ -637,15 +698,14 @@ def patch_wikip_borders():
     # to enable conversion of WIKIP_BORDERS into a dict
     BD = {r['country_name']: r for r in WIKIP_BORDERS}
     assert( len(BD) == len(WIKIP_BORDERS) )
-    for name in ('France', 'Netherlands', 'United Kingdom'):
-        neighs = [name for (name, url) in BD[name]['neigh']]
+    for name in BORD_DUP_DEL:
         for r in WIKIP_BORDERS:
             for r_neigh in r['neigh'][:]:
-                if country_match(r_neigh[0], name) \
-                and not country_present(r['country_name'], neighs):
+                if country_match(r_neigh, name) \
+                and not country_present(r['country_name'], BD[name]['neigh']):
                     # delete entry
                     r['neigh'].remove(r_neigh)
-                    print('> country %s, neighbour %s removed' % (r['country_name'], r_neigh[0]))
+                    print('> country %s, neighbour %s removed' % (r['country_name'], r_neigh))
     #
     # 5) ensure all country / borders are in the ISO3166 dict
     isonames = set()
@@ -667,15 +727,15 @@ def patch_wikip_borders():
                     print('> country %s, missing border %s' % (r['country_name'], b))
         #
         for n in r['neigh']:
-            if not any([name in isonames for name in country_name_canon(n[0])]):
-                if country_present(n[0], SUBTERR_TO_COUNTRY):
+            if not any([name in isonames for name in country_name_canon(n)]):
+                if country_present(n, SUBTERR_TO_COUNTRY):
                     # warning: SUBTERR_TO_COUNTRY lookup could fail here
                     print('> country %s, border %s in not present in ISO3166 dict but referenced as sub of %s'\
-                          % (r['country_name'], n[0], SUBTERR_TO_COUNTRY[n[0]]))
+                          % (r['country_name'], n, SUBTERR_TO_COUNTRY[n]))
                 else:
                     print('> country %s, border %s in not present in ISO3166 dict'\
-                          % (r['country_name'], n[0]))
-
+                          % (r['country_name'], n))
+    
 patch_wikip_borders()
 
 
@@ -721,7 +781,10 @@ def patch_wikip_mcc():
             assert( r['code_alpha_2'] in WIKIP_ISO3166 )
         else:
             assert( r['mcc'] in MCC_INTL )
-
+        #
+        # check mcc format
+        assert( len(r['mcc']) == 3 and r['mcc'].isdigit() )
+    
 patch_wikip_mcc()
 
 
@@ -856,7 +919,6 @@ def patch_wikip_country():
                 if not found:
                     print('> country %s, prefix +%s not in WIKIP_MSISDN' % (country, pref))
 
-
 patch_wikip_country()
 
 
@@ -918,12 +980,11 @@ def verif_egal_min_dist():
         for dst in dst_dist:
             if dst not in EGAL_MIN_DIST:
                 print('> dst country %s in %s, not in src' % (dst, src))
-        if not country_present(src, isonameset):
-            if country_present(src, SUBTERR_TO_COUNTRY):
-                #print('> country %s, matching a sub-territory from %s' % (src, SUBTERR_TO_COUNTRY[src]))
-                pass
+        if not src in isonameset:
+            if not src in SUBTERR_TO_COUNTRY:
+                print('> country %s, not matching any territory name' % src)
             else:
-                print('> country %s, not matching any country name from ISO3166 dict' % src)
+                print('> country %s, matching only a sub-territory name' % src)
 
 verif_egal_min_dist()
 
@@ -953,7 +1014,7 @@ WFB_UNINHABITED = {
     'Bassas da India'       : _URL_Scattered_Islands,
     'Coral Sea Islands'     : 'https://en.wikipedia.org/wiki/Coral_Sea_Islands', # Australia
     'Palmyra Atoll'         : _URL_US_Insular_area,
-    'Paracel Islands'       :'https://en.wikipedia.org/wiki/Paracel_Islands', # disputed China / Vietnam
+    'Paracel Islands'       : 'https://en.wikipedia.org/wiki/Paracel_Islands', # disputed China / Vietnam
     #'Wake Island'           : _URL_US_Insular_area,
     'Tromelin Island'       : _URL_Scattered_Islands,
     #'Jan Mayen'             : 'https://en.wikipedia.org/wiki/Jan_Mayen', # Svalbard and Jan Mayen (SJ), Norway
@@ -984,12 +1045,24 @@ def patch_wfb():
         if name in WFB_COUNTRY_DEL:
             del WORLD_FB[name]
             print('> country %s deleted' % name)
+    #
+    for name, infos in sorted(WORLD_FB.items()):
         if name in COUNTRY_RENAME:
             newname = COUNTRY_RENAME[name]
             assert( newname not in WORLD_FB )
             WORLD_FB[newname] = infos
             del WORLD_FB[name]
             print('> country name changed from %s to %s' % (name, newname))
+        # patch borders' names too
+        try:
+            bord = infos['infos']['boundaries']['bord']
+        except Exception:
+            pass
+        else:
+            for b, d in list(bord.items()):
+                if b in COUNTRY_RENAME:
+                    bord[COUNTRY_RENAME[b]] = d
+                    del bord[b]
     #
     for name, infos in sorted(WORLD_FB.items()):
         if name not in isonameset:
@@ -1014,7 +1087,6 @@ def patch_wfb():
                         print('> country name changed from %s to %s' % (name, newname))
                 elif name not in WFB_UNINHABITED:
                     print('> country %s, no CC2, not referenced, unknown' % name)
-
 
 patch_wfb()
 

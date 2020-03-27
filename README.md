@@ -81,7 +81,7 @@ do not share any borders.
 ## Install and usage
 
 The following requirements must be fullfil for the script to work: Python3 and lxml are required.
-No installation of the script is required, just run it as is.
+No installation of the scripts is required, just run it as is.
 
 The Wikipedia and World Factbook data can be imported by using the following commands:
 
@@ -115,9 +115,9 @@ optional arguments:
 ```
 
 Then, in order to load all those imported data with aligned and coherent values 
-(e.g. country name, ISO codes and other numbering and information), the module
-_patch_dataset_ can be used. It exports the Wikipedia, World Factbook and Egallic 
-dataset, after applying few corrections and fixes:
+(e.g. country names, ISO codes and other information and numbering), the module
+*patch_dataset* can be used. It exports the Wikipedia, World Factbook and Egallic 
+dataset, after applying few corrections and fixes on them:
 
 ```
 >>> from patch_dataset import *
@@ -125,3 +125,37 @@ dataset, after applying few corrections and fixes:
 >>> WIKIP_ISO3166
 [...]
 ```
+
+Finally, the last script generates new json and Python dictionnaries based on 
+those re-engineered data:
+- MNC: dict of MCCMNC 5/6-digit-str, MNO(s) information
+- MCC: dict of MCC 3-digit-str, Operators-related information
+- MSISDN: dict of MSISDN prefixes, countries
+- MSISDNEXT: dict of MSISDN prefixes, countries and extra-territories
+- CC2: dict of alpha-2 code, country-related information
+- CNTR: dict of country, country-related information (similar to CC2)
+- TERR: dict of country or territory, borders and neighbour related information
+
+```
+$ ./gen_dataset.py
+[...]
+[+] p1_mnc.json file generated
+[+] p1_mnc.py file generated
+[+] p1_mcc.json file generated
+[+] p1_mcc.py file generated
+[+] p1_msisdn.json file generated
+[+] p1_msisdn.py file generated
+[+] p1_msisdnext.json file generated
+[+] p1_msisdnext.py file generated
+[+] p1_cc2.json file generated
+[+] p1_cc2.py file generated
+[+] p1_cntr.json file generated
+[+] p1_cntr.py file generated
+[+] p1_terr.json file generated
+[+] p1_terr.py file generated
+
+```
+
+Now you can use those dictionnaries to get precise information for any MCC, MNC,
+MSISDN prefix, and related geographical information !
+

@@ -403,8 +403,8 @@
       "state_name": "The Kingdom of Bhutan"
     },
     "BV": {
-      "cc_tld": "[d]",
-      "cc_tld_url": "https://en.wikipedia.org#cite_note-13",
+      "cc_tld": "",
+      "cc_tld_url": "",
       "code_alpha_2": "BV",
       "code_alpha_3": "BVT",
       "code_num": "074",
@@ -787,8 +787,8 @@
       "state_name": "The Arab Republic of Egypt"
     },
     "EH": {
-      "cc_tld": "[aj]",
-      "cc_tld_url": "https://en.wikipedia.org#cite_note-48",
+      "cc_tld": "",
+      "cc_tld_url": "",
       "code_alpha_2": "EH",
       "code_alpha_3": "ESH",
       "code_num": "732",
@@ -2407,8 +2407,8 @@
       "state_name": "The Republic of Slovenia"
     },
     "SJ": {
-      "cc_tld": "[w]",
-      "cc_tld_url": "https://en.wikipedia.org#cite_note-35",
+      "cc_tld": "",
+      "cc_tld_url": "",
       "code_alpha_2": "SJ",
       "code_alpha_3": "SJM",
       "code_num": "744",
@@ -2779,8 +2779,8 @@
       "state_name": "The Republic of Uganda"
     },
     "UM": {
-      "cc_tld": "[ad]",
-      "cc_tld_url": "https://en.wikipedia.org#cite_note-42",
+      "cc_tld": "",
+      "cc_tld_url": "",
       "code_alpha_2": "UM",
       "code_alpha_3": "UMI",
       "code_num": "581",

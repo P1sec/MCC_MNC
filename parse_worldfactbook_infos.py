@@ -14,7 +14,8 @@ from parse_wikipedia_tables import (
     import_html_doc,
     explore_text,
     generate_json,
-    generate_python
+    generate_python,
+    _stripbordref
     )
 
 
@@ -187,7 +188,7 @@ def _extract_bound(e):
             m = RE_BORD.match(infos[0])
             if m:
                 num       = int(m.group(1))
-                countries = list(map(str.strip, infos[1].split(',')))
+                countries = list(map(_stripbordref, infos[1].split(',')))
                 assert(len(countries) == num)
                 for country in countries:
                     m = RE_DIST.search(country)
