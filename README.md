@@ -15,6 +15,7 @@ Several sources are available on the Internet:
 
 
 ### For country codes:
+
 - ISO website:
   - https://www.iso.org/obp/ui/#search
   - https://www.iso.org/obp/ui/#iso:pub:PUB500001:en
@@ -23,6 +24,7 @@ Several sources are available on the Internet:
 
 
 ### For MNO-related information:
+
 - ITU-T documents:
   - List of MCC: https://www.itu.int/pub/T-SP-E.212A
   - List of MNC: https://www.itu.int/pub/T-SP-E.212B
@@ -38,6 +40,7 @@ Several sources are available on the Internet:
 
 
 ### For MSISDN numbering prefixes:
+
 - ITU-T documents:
   - https://www.itu.int/pub/T-SP-E.164D
 - Wikipedia:
@@ -50,6 +53,7 @@ Several sources are available on the Internet:
 
 
 ### For geographical countries and borders:
+
 - Wikipedia:
   - https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_land_borders
 - Other websites:
@@ -70,7 +74,8 @@ Specifically for the minimum distance between countries, here are valuable sourc
     https://halshs.archives-ouvertes.fr/halshs-01288748/document
 - https://www.transtats.bts.gov/Distance.asp for distances between airports
 
-
+Some other sources may be found online ; additionally, it seems the R programming language
+has nice geography-related packages.
 
 
 ### Which one to use:
@@ -131,8 +136,8 @@ dataset, after applying few corrections and fixes on them:
 [...]
 ```
 
-Finally, the last script generates new JSON and Python dictionnaries based on 
-those re-engineered data:
+The command *gen_dataset.py* then generates new JSON and Python dictionnaries based on 
+those re-engineered data and store them in new files prefixed with "p1":
 - MNC: dict of MCCMNC 5/6-digit-str, MNO(s) information
 - MCC: dict of MCC 3-digit-str, Operators-related information
 - MSISDN: dict of MSISDN prefixes, countries
@@ -161,13 +166,13 @@ $ ./gen_dataset.py
 
 ```
 
-The following one-liner can be used to update the whole dataset:
+The following one-liner can be used to update the whole final dataset:
 ```
 $ ./parse_wikipedia_tables.py -j -p && $ ./parse_worldfactbook_infos.py -j -p && ./gen_dataset.py
 ```
 
 Now you can use those dictionnaries to get precise information for any MCC, MNC,
-MSISDN prefix, and related geographical information !
+MSISDN prefix, and related geographical information.
 
 Finally, 3 little command-line tools are provided to make direct use of the 
 extracted and engineered dataset:
