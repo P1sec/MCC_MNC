@@ -61,14 +61,14 @@ def printext_cntr(infos):
         pass
 
 
-def print_cntr(cntr, sov=None, ext=0):
-    if sov is None:
+def print_cntr(cntr, dep=None, ext=0):
+    if dep is None:
         print('> %s (%s)' % (cntr['name'], cntr['cc2']))
         neigh = P1_TERR[cntr['name']]['neigh']
     else:
-        print('> %s, sovereign country %s (%s)' % (cntr, sov['name'], sov['cc2']))
+        print('> %s, dependent to country %s (%s)' % (cntr, dep['name'], dep['cc2']))
         neigh = P1_TERR[cntr]['neigh']
-        cntr = sov
+        cntr = dep
     #
     print('  MCC           : %s' % ', '.join(cntr['mcc']))
     print('  MSISDN prefix : +%s' % ', +'.join(cntr['msisdn']))
@@ -76,6 +76,9 @@ def print_cntr(cntr, sov=None, ext=0):
     print('  borders       : %s' % ', '.join(neigh['bord']))
     print('  neighbours (< 30km) : %s' % ', '.join(neigh['less30']))
     print('  neighbours (< 100km): %s' % ', '.join(neigh['less100']))
+    #
+    if cntr['dep']:
+        print('  dependency    : %s' % cntr['dep'])
     #
     try:
         print('  url World Factbook  : %s' % cntr['infos']['geo']['url_wfb'])
@@ -127,7 +130,7 @@ def main():
                     for name, inf in P1_TERR.items():
                         if country.lower() == name.lower():
                             assert( inf['cc2'] is None )
-                            print_cntr(country, sov=P1_CC2[inf['sov']], ext=args.x)
+                            print_cntr(country, dep=P1_CC2[inf['dep']], ext=args.x)
                             found = True
                             break
                 if not found:
