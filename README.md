@@ -4,7 +4,8 @@ Scrap available information on the Internet related to:
 - Mobile Network Operators (such as MCC, MNC, brand, network type, countries of operation...)
 - countries (such as country name, 2 and 3-chars ISO codes, sovereignity, tld...)
 - international dialplan (such as msisdn prefix and associated countries)
-And generate JSON and Python dictionnaries from them.
+
+And generate re-engineered JSON and Python dictionnaries from them.
 
 
 ## Data sources
@@ -47,7 +48,7 @@ Several sources are available on the Internet:
   - https://phonenum.info/en/country-code/
 
 
-### For geographical countries and borders
+### For geographical countries and borders:
 - Wikipedia:
   - https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_land_borders
 - Other websites:
@@ -69,8 +70,7 @@ Specifically for the minimum distance between countries, here are valuable sourc
 - https://www.transtats.bts.gov/Distance.asp for distances between airports
 
 
-### Which one to use
-
+### Which one to use:
 After checking several sources, it seems Wikipedia has the must complete, up-to-date and accurate information.
 Therefore, the tool primarily uses it to build the JSON / Python dictionnaries, it uses also the CIA World Factbook
 to gather information related to each country, including borders and telephony-related.
@@ -82,7 +82,7 @@ do not share any borders.
 
 The provided scripts require Python3, and lxml for the ones extracting data from 
 web sites (parse_wikipedia_tables.py and parse_worldfactbook_infos.py).
-No installation is required, just run it as is.
+No installation is required, just run the scripts as is.
 
 The Wikipedia and World Factbook data can be imported by using the following commands:
 
