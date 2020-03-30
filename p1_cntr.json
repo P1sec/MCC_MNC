@@ -8,6 +8,7 @@
   {
     "Abkhazia": {
       "cc2": "AB",
+      "dep": "GE",
       "infos": {
         "codes": {},
         "geo": {},
@@ -24,12 +25,15 @@
         "28967",
         "28988"
       ],
-      "msisdn": [],
+      "msisdn": [
+        "995"
+      ],
       "name": "Abkhazia",
       "url": "https://en.wikipedia.org/wiki/Abkhazia"
     },
     "Afghanistan": {
       "cc2": "AF",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "AFG",
@@ -120,6 +124,7 @@
     },
     "Akrotiri and Dhekelia": {
       "cc2": "AK",
+      "dep": "GB",
       "infos": {
         "codes": {},
         "geo": {},
@@ -129,14 +134,20 @@
         ],
         "tel": {}
       },
-      "mcc": [],
+      "mcc": [
+        "234",
+        "235"
+      ],
       "mccmnc": [],
-      "msisdn": [],
+      "msisdn": [
+        "44"
+      ],
       "name": "Akrotiri and Dhekelia",
       "url": ""
     },
     "Albania": {
       "cc2": "AL",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ALB",
@@ -231,6 +242,7 @@
     },
     "Algeria": {
       "cc2": "DZ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "DZA",
@@ -333,6 +345,7 @@
     },
     "American Samoa": {
       "cc2": "AS",
+      "dep": "US",
       "infos": {
         "codes": {
           "cc3": "ASM",
@@ -412,6 +425,7 @@
     },
     "Andorra": {
       "cc2": "AD",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "AND",
@@ -489,6 +503,7 @@
     },
     "Angola": {
       "cc2": "AO",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "AGO",
@@ -575,6 +590,7 @@
     },
     "Anguilla": {
       "cc2": "AI",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "AIA",
@@ -654,6 +670,7 @@
     },
     "Antarctica": {
       "cc2": "AQ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ATA",
@@ -713,6 +730,7 @@
     },
     "Antigua and Barbuda": {
       "cc2": "AG",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ATG",
@@ -795,6 +813,7 @@
     },
     "Argentina": {
       "cc2": "AR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ARG",
@@ -893,6 +912,7 @@
     },
     "Armenia": {
       "cc2": "AM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ARM",
@@ -980,6 +1000,7 @@
     },
     "Aruba": {
       "cc2": "AW",
+      "dep": "NL",
       "infos": {
         "codes": {
           "cc3": "ABW",
@@ -1063,6 +1084,7 @@
     },
     "Ascension": {
       "cc2": "AC",
+      "dep": "SH",
       "infos": {
         "codes": {},
         "geo": {},
@@ -1071,7 +1093,9 @@
         ],
         "tel": {}
       },
-      "mcc": [],
+      "mcc": [
+        "658"
+      ],
       "mccmnc": [],
       "msisdn": [
         "247"
@@ -1081,6 +1105,7 @@
     },
     "Australia": {
       "cc2": "AU",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "AUS",
@@ -1223,6 +1248,7 @@
     },
     "Austria": {
       "cc2": "AT",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "AUT",
@@ -1340,6 +1366,7 @@
     },
     "Azerbaijan": {
       "cc2": "AZ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "AZE",
@@ -1434,6 +1461,7 @@
     },
     "Bahrain": {
       "cc2": "BH",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BHR",
@@ -1525,6 +1553,7 @@
     },
     "Bangladesh": {
       "cc2": "BD",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BGD",
@@ -1621,6 +1650,7 @@
     },
     "Barbados": {
       "cc2": "BB",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BRB",
@@ -1704,6 +1734,7 @@
     },
     "Belarus": {
       "cc2": "BY",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BLR",
@@ -1800,6 +1831,7 @@
     },
     "Belgium": {
       "cc2": "BE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BEL",
@@ -1909,6 +1941,7 @@
     },
     "Belize": {
       "cc2": "BZ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BLZ",
@@ -1992,6 +2025,7 @@
     },
     "Benin": {
       "cc2": "BJ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BEN",
@@ -2085,6 +2119,7 @@
     },
     "Bermuda": {
       "cc2": "BM",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "BMU",
@@ -2169,6 +2204,7 @@
     },
     "Bhutan": {
       "cc2": "BT",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BTN",
@@ -2252,6 +2288,7 @@
     },
     "Bolivia": {
       "cc2": "BO",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BOL",
@@ -2339,6 +2376,7 @@
     },
     "Bonaire, Saba and Sint Eustatius": {
       "cc2": "BQ",
+      "dep": "NL",
       "infos": {
         "codes": {
           "cc3": "BES",
@@ -2387,6 +2425,7 @@
     },
     "Bosnia and Herzegovina": {
       "cc2": "BA",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BIH",
@@ -2469,6 +2508,7 @@
     },
     "Botswana": {
       "cc2": "BW",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BWA",
@@ -2555,6 +2595,7 @@
     },
     "Bouvet Island": {
       "cc2": "BV",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BVT",
@@ -2593,6 +2634,7 @@
     },
     "Brazil": {
       "cc2": "BR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BRA",
@@ -2716,6 +2758,7 @@
     },
     "British Indian Ocean Territory": {
       "cc2": "IO",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "IOT",
@@ -2781,6 +2824,7 @@
     },
     "British Virgin Islands": {
       "cc2": "VG",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "VGB",
@@ -2863,6 +2907,7 @@
     },
     "Brunei": {
       "cc2": "BN",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BRN",
@@ -2952,6 +2997,7 @@
     },
     "Bulgaria": {
       "cc2": "BG",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BGR",
@@ -3046,6 +3092,7 @@
     },
     "Burkina Faso": {
       "cc2": "BF",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BFA",
@@ -3131,6 +3178,7 @@
     },
     "Burundi": {
       "cc2": "BI",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BDI",
@@ -3218,6 +3266,7 @@
     },
     "Cambodia": {
       "cc2": "KH",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "KHM",
@@ -3319,6 +3368,7 @@
     },
     "Cameroon": {
       "cc2": "CM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CMR",
@@ -3407,6 +3457,7 @@
     },
     "Canada": {
       "cc2": "CA",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CAN",
@@ -3558,6 +3609,7 @@
     },
     "Cape Verde": {
       "cc2": "CV",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CPV",
@@ -3644,6 +3696,7 @@
     },
     "Cayman Islands": {
       "cc2": "KY",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "CYM",
@@ -3726,6 +3779,7 @@
     },
     "Central African Republic": {
       "cc2": "CF",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CAF",
@@ -3812,6 +3866,7 @@
     },
     "Chad": {
       "cc2": "TD",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TCD",
@@ -3897,6 +3952,7 @@
     },
     "Chile": {
       "cc2": "CL",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CHL",
@@ -4009,6 +4065,7 @@
     },
     "China": {
       "cc2": "CN",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CHN",
@@ -4123,6 +4180,7 @@
     },
     "Christmas Island": {
       "cc2": "CX",
+      "dep": "AU",
       "infos": {
         "codes": {
           "cc3": "CXR",
@@ -4184,7 +4242,9 @@
           "url_tld": "https://en.wikipedia.org/wiki/.cx"
         }
       },
-      "mcc": [],
+      "mcc": [
+        "505"
+      ],
       "mccmnc": [],
       "msisdn": [
         "61",
@@ -4195,6 +4255,7 @@
     },
     "Cocos Islands": {
       "cc2": "CC",
+      "dep": "AU",
       "infos": {
         "codes": {
           "cc3": "CCK",
@@ -4256,7 +4317,9 @@
           "url_tld": "https://en.wikipedia.org/wiki/.cc"
         }
       },
-      "mcc": [],
+      "mcc": [
+        "505"
+      ],
       "mccmnc": [],
       "msisdn": [
         "61",
@@ -4267,6 +4330,7 @@
     },
     "Colombia": {
       "cc2": "CO",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "COL",
@@ -4365,6 +4429,7 @@
     },
     "Comoros": {
       "cc2": "KM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "COM",
@@ -4449,6 +4514,7 @@
     },
     "Cook Islands": {
       "cc2": "CK",
+      "dep": "NZ",
       "infos": {
         "codes": {
           "cc3": "COK",
@@ -4527,6 +4593,7 @@
     },
     "Costa Rica": {
       "cc2": "CR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CRI",
@@ -4619,6 +4686,7 @@
     },
     "Croatia": {
       "cc2": "HR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "HRV",
@@ -4712,6 +4780,7 @@
     },
     "Cuba": {
       "cc2": "CU",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CUB",
@@ -4796,6 +4865,7 @@
     },
     "Cura\u00e7ao": {
       "cc2": "CW",
+      "dep": "NL",
       "infos": {
         "codes": {
           "cc3": "CUW",
@@ -4894,6 +4964,7 @@
     },
     "Cyprus": {
       "cc2": "CY",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CYP",
@@ -4983,6 +5054,7 @@
     },
     "Czech Republic": {
       "cc2": "CZ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CZE",
@@ -5076,6 +5148,7 @@
     },
     "Democratic Republic of the Congo": {
       "cc2": "CD",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "COD",
@@ -5177,6 +5250,7 @@
     },
     "Denmark": {
       "cc2": "DK",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "DNK",
@@ -5292,6 +5366,7 @@
     },
     "Djibouti": {
       "cc2": "DJ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "DJI",
@@ -5381,6 +5456,7 @@
     },
     "Dominica": {
       "cc2": "DM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "DMA",
@@ -5464,6 +5540,7 @@
     },
     "Dominican Republic": {
       "cc2": "DO",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "DOM",
@@ -5558,6 +5635,7 @@
     },
     "East Timor": {
       "cc2": "TL",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TLS",
@@ -5646,6 +5724,7 @@
     },
     "Ecuador": {
       "cc2": "EC",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ECU",
@@ -5735,6 +5814,7 @@
     },
     "Egypt": {
       "cc2": "EG",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "EGY",
@@ -5830,6 +5910,7 @@
     },
     "El Salvador": {
       "cc2": "SV",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SLV",
@@ -5918,6 +5999,7 @@
     },
     "Equatorial Guinea": {
       "cc2": "GQ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GNQ",
@@ -6003,6 +6085,7 @@
     },
     "Eritrea": {
       "cc2": "ER",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ERI",
@@ -6090,6 +6173,7 @@
     },
     "Estonia": {
       "cc2": "EE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "EST",
@@ -6196,6 +6280,7 @@
     },
     "Eswatini": {
       "cc2": "SZ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SWZ",
@@ -6279,6 +6364,7 @@
     },
     "Ethiopia": {
       "cc2": "ET",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ETH",
@@ -6366,26 +6452,9 @@
       "name": "Ethiopia",
       "url": "https://en.wikipedia.org/wiki/Ethiopia"
     },
-    "European Telephony Numbering Space": {
-      "cc2": "EU",
-      "infos": {
-        "codes": {},
-        "geo": {},
-        "nameset": [
-          "european telephony numbering space"
-        ],
-        "tel": {}
-      },
-      "mcc": [],
-      "mccmnc": [],
-      "msisdn": [
-        "388"
-      ],
-      "name": "European Telephony Numbering Space",
-      "url": "https://en.wikipedia.org/wiki/European_Telephony_Numbering_Space"
-    },
     "Falkland Islands": {
       "cc2": "FK",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "FLK",
@@ -6462,6 +6531,7 @@
     },
     "Faroe Islands": {
       "cc2": "FO",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "FRO",
@@ -6544,6 +6614,7 @@
     },
     "Federated States of Micronesia": {
       "cc2": "FM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "FSM",
@@ -6621,6 +6692,7 @@
     },
     "Fiji": {
       "cc2": "FJ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "FJI",
@@ -6709,6 +6781,7 @@
     },
     "Finland": {
       "cc2": "FI",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "FIN",
@@ -6848,6 +6921,7 @@
     },
     "France": {
       "cc2": "FR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "FRA",
@@ -7028,6 +7102,7 @@
     },
     "French Guiana": {
       "cc2": "GF",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "GUF",
@@ -7069,6 +7144,7 @@
     },
     "French Polynesia": {
       "cc2": "PF",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "PYF",
@@ -7151,6 +7227,7 @@
     },
     "French Southern Territories": {
       "cc2": "TF",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "ATF",
@@ -7225,7 +7302,9 @@
           "url_tld": "https://en.wikipedia.org/wiki/.tf"
         }
       },
-      "mcc": [],
+      "mcc": [
+        "208"
+      ],
       "mccmnc": [],
       "msisdn": [
         "262"
@@ -7235,6 +7314,7 @@
     },
     "Gabon": {
       "cc2": "GA",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GAB",
@@ -7323,6 +7403,7 @@
     },
     "Georgia": {
       "cc2": "GE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GEO",
@@ -7425,6 +7506,7 @@
     },
     "Germany": {
       "cc2": "DE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "DEU",
@@ -7558,6 +7640,7 @@
     },
     "Ghana": {
       "cc2": "GH",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GHA",
@@ -7661,6 +7744,7 @@
     },
     "Gibraltar": {
       "cc2": "GI",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "GIB",
@@ -7744,6 +7828,7 @@
     },
     "Greece": {
       "cc2": "GR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GRC",
@@ -7852,6 +7937,7 @@
     },
     "Greenland": {
       "cc2": "GL",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GRL",
@@ -7932,6 +8018,7 @@
     },
     "Grenada": {
       "cc2": "GD",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GRD",
@@ -8012,6 +8099,7 @@
     },
     "Guadeloupe": {
       "cc2": "GP",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "GLP",
@@ -8052,6 +8140,7 @@
     },
     "Guam": {
       "cc2": "GU",
+      "dep": "US",
       "infos": {
         "codes": {
           "cc3": "GUM",
@@ -8140,6 +8229,7 @@
     },
     "Guatemala": {
       "cc2": "GT",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GTM",
@@ -8232,6 +8322,7 @@
     },
     "Guernsey": {
       "cc2": "GG",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "GGY",
@@ -8314,6 +8405,7 @@
     },
     "Guinea": {
       "cc2": "GN",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GIN",
@@ -8409,6 +8501,7 @@
     },
     "Guinea-Bissau": {
       "cc2": "GW",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GNB",
@@ -8494,6 +8587,7 @@
     },
     "Guyana": {
       "cc2": "GY",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GUY",
@@ -8585,6 +8679,7 @@
     },
     "Haiti": {
       "cc2": "HT",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "HTI",
@@ -8671,6 +8766,7 @@
     },
     "Heard Island and McDonald Island": {
       "cc2": "HM",
+      "dep": "AU",
       "infos": {
         "codes": {
           "cc3": "HMD",
@@ -8707,7 +8803,9 @@
           "url_tld": "https://en.wikipedia.org/wiki/.hm"
         }
       },
-      "mcc": [],
+      "mcc": [
+        "505"
+      ],
       "mccmnc": [],
       "msisdn": [
         "672"
@@ -8717,6 +8815,7 @@
     },
     "Honduras": {
       "cc2": "HN",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "HND",
@@ -8806,6 +8905,7 @@
     },
     "Hong Kong": {
       "cc2": "HK",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "HKG",
@@ -8921,6 +9021,7 @@
     },
     "Hungary": {
       "cc2": "HU",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "HUN",
@@ -9011,6 +9112,7 @@
     },
     "Iceland": {
       "cc2": "IS",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ISL",
@@ -9104,6 +9206,7 @@
     },
     "India": {
       "cc2": "IN",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "IND",
@@ -9411,6 +9514,7 @@
     },
     "Indonesia": {
       "cc2": "ID",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "IDN",
@@ -9513,6 +9617,7 @@
     },
     "Iran": {
       "cc2": "IR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "IRN",
@@ -9624,6 +9729,7 @@
     },
     "Iraq": {
       "cc2": "IQ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "IRQ",
@@ -9723,6 +9829,7 @@
     },
     "Isle of Man": {
       "cc2": "IM",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "IMN",
@@ -9794,6 +9901,7 @@
     },
     "Israel": {
       "cc2": "IL",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ISR",
@@ -9914,6 +10022,7 @@
     },
     "Italy": {
       "cc2": "IT",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ITA",
@@ -10033,6 +10142,7 @@
     },
     "Ivory Coast": {
       "cc2": "CI",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CIV",
@@ -10131,6 +10241,7 @@
     },
     "Jamaica": {
       "cc2": "JM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "JAM",
@@ -10216,6 +10327,7 @@
     },
     "Japan": {
       "cc2": "JP",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "JPN",
@@ -10330,6 +10442,7 @@
     },
     "Jersey": {
       "cc2": "JE",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "JEY",
@@ -10409,6 +10522,7 @@
     },
     "Jordan": {
       "cc2": "JO",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "JOR",
@@ -10503,6 +10617,7 @@
     },
     "Kazakhstan": {
       "cc2": "KZ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "KAZ",
@@ -10597,6 +10712,7 @@
     },
     "Kenya": {
       "cc2": "KE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "KEN",
@@ -10699,6 +10815,7 @@
     },
     "Kiribati": {
       "cc2": "KI",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "KIR",
@@ -10781,6 +10898,7 @@
     },
     "Kosovo": {
       "cc2": "XK",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "XKS",
@@ -10861,6 +10979,7 @@
     },
     "Kuwait": {
       "cc2": "KW",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "KWT",
@@ -10952,6 +11071,7 @@
     },
     "Kyrgyzstan": {
       "cc2": "KG",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "KGZ",
@@ -11041,6 +11161,7 @@
     },
     "Laos": {
       "cc2": "LA",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "LAO",
@@ -11130,6 +11251,7 @@
     },
     "Latvia": {
       "cc2": "LV",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "LVA",
@@ -11225,6 +11347,7 @@
     },
     "Lebanon": {
       "cc2": "LB",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "LBN",
@@ -11313,6 +11436,7 @@
     },
     "Lesotho": {
       "cc2": "LS",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "LSO",
@@ -11394,6 +11518,7 @@
     },
     "Liberia": {
       "cc2": "LR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "LBR",
@@ -11485,6 +11610,7 @@
     },
     "Libya": {
       "cc2": "LY",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "LBY",
@@ -11582,6 +11708,7 @@
     },
     "Liechtenstein": {
       "cc2": "LI",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "LIE",
@@ -11666,6 +11793,7 @@
     },
     "Lithuania": {
       "cc2": "LT",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "LTU",
@@ -11768,6 +11896,7 @@
     },
     "Luxembourg": {
       "cc2": "LU",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "LUX",
@@ -11858,6 +11987,7 @@
     },
     "Macau": {
       "cc2": "MO",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MAC",
@@ -11940,6 +12070,7 @@
     },
     "Madagascar": {
       "cc2": "MG",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MDG",
@@ -12025,6 +12156,7 @@
     },
     "Malawi": {
       "cc2": "MW",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MWI",
@@ -12112,6 +12244,7 @@
     },
     "Malaysia": {
       "cc2": "MY",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MYS",
@@ -12213,6 +12346,7 @@
     },
     "Maldives": {
       "cc2": "MV",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MDV",
@@ -12298,6 +12432,7 @@
     },
     "Mali": {
       "cc2": "ML",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MLI",
@@ -12389,6 +12524,7 @@
     },
     "Malta": {
       "cc2": "MT",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MLT",
@@ -12474,6 +12610,7 @@
     },
     "Marshall Islands": {
       "cc2": "MH",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MHL",
@@ -12558,6 +12695,7 @@
     },
     "Martinique": {
       "cc2": "MQ",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "MTQ",
@@ -12598,6 +12736,7 @@
     },
     "Mauritania": {
       "cc2": "MR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MRT",
@@ -12694,6 +12833,7 @@
     },
     "Mauritius": {
       "cc2": "MU",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MUS",
@@ -12779,6 +12919,7 @@
     },
     "Mayotte": {
       "cc2": "YT",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "MYT",
@@ -12820,6 +12961,7 @@
     },
     "Mexico": {
       "cc2": "MX",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MEX",
@@ -12930,6 +13072,7 @@
     },
     "Moldova": {
       "cc2": "MD",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MDA",
@@ -13019,6 +13162,7 @@
     },
     "Monaco": {
       "cc2": "MC",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MCO",
@@ -13101,6 +13245,7 @@
     },
     "Mongolia": {
       "cc2": "MN",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MNG",
@@ -13186,6 +13331,7 @@
     },
     "Montenegro": {
       "cc2": "ME",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MNE",
@@ -13274,6 +13420,7 @@
     },
     "Montserrat": {
       "cc2": "MS",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "MSR",
@@ -13351,6 +13498,7 @@
     },
     "Morocco": {
       "cc2": "MA",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MAR",
@@ -13448,6 +13596,7 @@
     },
     "Mozambique": {
       "cc2": "MZ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MOZ",
@@ -13541,6 +13690,7 @@
     },
     "Myanmar": {
       "cc2": "MM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MMR",
@@ -13643,6 +13793,7 @@
     },
     "Nagorno-Karabakh": {
       "cc2": "QN",
+      "dep": "AZ",
       "infos": {
         "codes": {},
         "geo": {},
@@ -13652,7 +13803,9 @@
         ],
         "tel": {}
       },
-      "mcc": [],
+      "mcc": [
+        "400"
+      ],
       "mccmnc": [],
       "msisdn": [
         "374",
@@ -13664,6 +13817,7 @@
     },
     "Namibia": {
       "cc2": "NA",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "NAM",
@@ -13757,6 +13911,7 @@
     },
     "Nauru": {
       "cc2": "NR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "NRU",
@@ -13834,6 +13989,7 @@
     },
     "Nepal": {
       "cc2": "NP",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "NPL",
@@ -13924,6 +14080,7 @@
     },
     "Netherlands": {
       "cc2": "NL",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "NLD",
@@ -14052,6 +14209,7 @@
     },
     "New Caledonia": {
       "cc2": "NC",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "NCL",
@@ -14131,6 +14289,7 @@
     },
     "New Zealand": {
       "cc2": "NZ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "NZL",
@@ -14217,6 +14376,7 @@
     },
     "Nicaragua": {
       "cc2": "NI",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "NIC",
@@ -14306,6 +14466,7 @@
     },
     "Niger": {
       "cc2": "NE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "NER",
@@ -14397,6 +14558,7 @@
     },
     "Nigeria": {
       "cc2": "NG",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "NGA",
@@ -14484,6 +14646,7 @@
     },
     "Niue": {
       "cc2": "NU",
+      "dep": "NZ",
       "infos": {
         "codes": {
           "cc3": "NIU",
@@ -14557,6 +14720,7 @@
     },
     "Norfolk Island": {
       "cc2": "NF",
+      "dep": "AU",
       "infos": {
         "codes": {
           "cc3": "NFK",
@@ -14632,6 +14796,7 @@
     },
     "North Korea": {
       "cc2": "KP",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "PRK",
@@ -14723,6 +14888,7 @@
     },
     "North Macedonia": {
       "cc2": "MK",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "MKD",
@@ -14811,6 +14977,7 @@
     },
     "Northern Cyprus": {
       "cc2": "CT",
+      "dep": "TR",
       "infos": {
         "codes": {},
         "geo": {},
@@ -14819,7 +14986,9 @@
         ],
         "tel": {}
       },
-      "mcc": [],
+      "mcc": [
+        "286"
+      ],
       "mccmnc": [],
       "msisdn": [
         "90",
@@ -14830,6 +14999,7 @@
     },
     "Northern Mariana Islands": {
       "cc2": "MP",
+      "dep": "US",
       "infos": {
         "codes": {
           "cc3": "MNP",
@@ -14907,6 +15077,7 @@
     },
     "Norway": {
       "cc2": "NO",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "NOR",
@@ -15017,6 +15188,7 @@
     },
     "Oman": {
       "cc2": "OM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "OMN",
@@ -15108,6 +15280,7 @@
     },
     "Pakistan": {
       "cc2": "PK",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "PAK",
@@ -15208,6 +15381,7 @@
     },
     "Palau": {
       "cc2": "PW",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "PLW",
@@ -15291,6 +15465,7 @@
     },
     "Panama": {
       "cc2": "PA",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "PAN",
@@ -15383,6 +15558,7 @@
     },
     "Papua New Guinea": {
       "cc2": "PG",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "PNG",
@@ -15471,6 +15647,7 @@
     },
     "Paraguay": {
       "cc2": "PY",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "PRY",
@@ -15560,6 +15737,7 @@
     },
     "Peru": {
       "cc2": "PE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "PER",
@@ -15655,6 +15833,7 @@
     },
     "Philippines": {
       "cc2": "PH",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "PHL",
@@ -15746,6 +15925,7 @@
     },
     "Pitcairn Islands": {
       "cc2": "PN",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "PCN",
@@ -15806,7 +15986,10 @@
           "url_tld": "https://en.wikipedia.org/wiki/.pn"
         }
       },
-      "mcc": [],
+      "mcc": [
+        "234",
+        "235"
+      ],
       "mccmnc": [],
       "msisdn": [
         "64"
@@ -15816,6 +15999,7 @@
     },
     "Poland": {
       "cc2": "PL",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "POL",
@@ -15962,6 +16146,7 @@
     },
     "Portugal": {
       "cc2": "PT",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "PRT",
@@ -16063,6 +16248,7 @@
     },
     "Puerto Rico": {
       "cc2": "PR",
+      "dep": "US",
       "infos": {
         "codes": {
           "cc3": "PRI",
@@ -16151,6 +16337,7 @@
     },
     "Qatar": {
       "cc2": "QA",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "QAT",
@@ -16240,6 +16427,7 @@
     },
     "Republic of Ireland": {
       "cc2": "IE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "IRL",
@@ -16339,6 +16527,7 @@
     },
     "Republic of the Congo": {
       "cc2": "CG",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "COG",
@@ -16429,6 +16618,7 @@
     },
     "Romania": {
       "cc2": "RO",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ROU",
@@ -16528,6 +16718,7 @@
     },
     "Russia": {
       "cc2": "RU",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "RUS",
@@ -16678,6 +16869,7 @@
     },
     "Rwanda": {
       "cc2": "RW",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "RWA",
@@ -16767,6 +16959,7 @@
     },
     "R\u00e9union": {
       "cc2": "RE",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "REU",
@@ -16804,6 +16997,7 @@
     },
     "Saint Barth\u00e9lemy": {
       "cc2": "BL",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "BLM",
@@ -16884,6 +17078,7 @@
     },
     "Saint Helena, Ascension and Tristan da Cunha": {
       "cc2": "SH",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "SHN",
@@ -16978,6 +17173,7 @@
     },
     "Saint Kitts and Nevis": {
       "cc2": "KN",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "KNA",
@@ -17063,6 +17259,7 @@
     },
     "Saint Lucia": {
       "cc2": "LC",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "LCA",
@@ -17145,6 +17342,7 @@
     },
     "Saint Martin": {
       "cc2": "MF",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "MAF",
@@ -17232,6 +17430,7 @@
     },
     "Saint Pierre and Miquelon": {
       "cc2": "PM",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "SPM",
@@ -17311,6 +17510,7 @@
     },
     "Saint Vincent and the Grenadines": {
       "cc2": "VC",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "VCT",
@@ -17396,6 +17596,7 @@
     },
     "Samoa": {
       "cc2": "WS",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "WSM",
@@ -17480,6 +17681,7 @@
     },
     "San Marino": {
       "cc2": "SM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SMR",
@@ -17554,6 +17756,7 @@
     },
     "Sao Tome and Principe": {
       "cc2": "ST",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "STP",
@@ -17640,6 +17843,7 @@
     },
     "Saudi Arabia": {
       "cc2": "SA",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SAU",
@@ -17738,6 +17942,7 @@
     },
     "Senegal": {
       "cc2": "SN",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SEN",
@@ -17831,6 +18036,7 @@
     },
     "Serbia": {
       "cc2": "RS",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SRB",
@@ -17925,6 +18131,7 @@
     },
     "Seychelles": {
       "cc2": "SC",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SYC",
@@ -18006,6 +18213,7 @@
     },
     "Sierra Leone": {
       "cc2": "SL",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SLE",
@@ -18099,6 +18307,7 @@
     },
     "Singapore": {
       "cc2": "SG",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SGP",
@@ -18194,6 +18403,7 @@
     },
     "Sint Maarten": {
       "cc2": "SX",
+      "dep": "NL",
       "infos": {
         "codes": {
           "cc3": "SXM",
@@ -18283,6 +18493,7 @@
     },
     "Slovakia": {
       "cc2": "SK",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SVK",
@@ -18384,6 +18595,7 @@
     },
     "Slovenia": {
       "cc2": "SI",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SVN",
@@ -18476,6 +18688,7 @@
     },
     "Solomon Islands": {
       "cc2": "SB",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SLB",
@@ -18557,6 +18770,7 @@
     },
     "Somalia": {
       "cc2": "SO",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SOM",
@@ -18655,6 +18869,7 @@
     },
     "South Africa": {
       "cc2": "ZA",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ZAF",
@@ -18781,6 +18996,7 @@
     },
     "South Georgia and the South Sandwich Islands": {
       "cc2": "GS",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "SGS",
@@ -18816,7 +19032,10 @@
           "url_tld": "https://en.wikipedia.org/wiki/.gs"
         }
       },
-      "mcc": [],
+      "mcc": [
+        "234",
+        "235"
+      ],
       "mccmnc": [],
       "msisdn": [
         "500"
@@ -18826,6 +19045,7 @@
     },
     "South Korea": {
       "cc2": "KR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "KOR",
@@ -18925,6 +19145,7 @@
     },
     "South Sudan": {
       "cc2": "SS",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SSD",
@@ -19009,6 +19230,7 @@
     },
     "Spain": {
       "cc2": "ES",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ESP",
@@ -19138,6 +19360,7 @@
     },
     "Sri Lanka": {
       "cc2": "LK",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "LKA",
@@ -19232,6 +19455,7 @@
     },
     "State of Palestine": {
       "cc2": "PS",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "PSE",
@@ -19264,6 +19488,7 @@
     },
     "Sudan": {
       "cc2": "SD",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SDN",
@@ -19360,6 +19585,7 @@
     },
     "Suriname": {
       "cc2": "SR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SUR",
@@ -19449,6 +19675,7 @@
     },
     "Svalbard and Jan Mayen": {
       "cc2": "SJ",
+      "dep": "NO",
       "infos": {
         "codes": {
           "cc3": "SJM",
@@ -19506,7 +19733,9 @@
           ]
         }
       },
-      "mcc": [],
+      "mcc": [
+        "242"
+      ],
       "mccmnc": [],
       "msisdn": [
         "47",
@@ -19517,6 +19746,7 @@
     },
     "Sweden": {
       "cc2": "SE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SWE",
@@ -19655,6 +19885,7 @@
     },
     "Switzerland": {
       "cc2": "CH",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "CHE",
@@ -19768,6 +19999,7 @@
     },
     "Syria": {
       "cc2": "SY",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "SYR",
@@ -19864,6 +20096,7 @@
     },
     "Taiwan": {
       "cc2": "TW",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TWN",
@@ -19965,6 +20198,7 @@
     },
     "Tajikistan": {
       "cc2": "TJ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TJK",
@@ -20059,6 +20293,7 @@
     },
     "Tanzania": {
       "cc2": "TZ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TZA",
@@ -20165,6 +20400,7 @@
     },
     "Thailand": {
       "cc2": "TH",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "THA",
@@ -20270,6 +20506,7 @@
     },
     "The Bahamas": {
       "cc2": "BS",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "BHS",
@@ -20357,6 +20594,7 @@
     },
     "The Gambia": {
       "cc2": "GM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GMB",
@@ -20446,6 +20684,7 @@
     },
     "Togo": {
       "cc2": "TG",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TGO",
@@ -20529,6 +20768,7 @@
     },
     "Tokelau": {
       "cc2": "TK",
+      "dep": "NZ",
       "infos": {
         "codes": {
           "cc3": "TKL",
@@ -20597,6 +20837,7 @@
     },
     "Tonga": {
       "cc2": "TO",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TON",
@@ -20681,6 +20922,7 @@
     },
     "Trinidad and Tobago": {
       "cc2": "TT",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TTO",
@@ -20769,6 +21011,7 @@
     },
     "Tristan da Cunha": {
       "cc2": "TA",
+      "dep": "SH",
       "infos": {
         "codes": {},
         "geo": {},
@@ -20777,7 +21020,9 @@
         ],
         "tel": {}
       },
-      "mcc": [],
+      "mcc": [
+        "658"
+      ],
       "mccmnc": [],
       "msisdn": [
         "290",
@@ -20788,6 +21033,7 @@
     },
     "Tunisia": {
       "cc2": "TN",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TUN",
@@ -20885,6 +21131,7 @@
     },
     "Turkey": {
       "cc2": "TR",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TUR",
@@ -20985,6 +21232,7 @@
     },
     "Turkmenistan": {
       "cc2": "TM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TKM",
@@ -21074,6 +21322,7 @@
     },
     "Turks and Caicos Islands": {
       "cc2": "TC",
+      "dep": "GB",
       "infos": {
         "codes": {
           "cc3": "TCA",
@@ -21154,6 +21403,7 @@
     },
     "Tuvalu": {
       "cc2": "TV",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "TUV",
@@ -21235,6 +21485,7 @@
     },
     "Uganda": {
       "cc2": "UG",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "UGA",
@@ -21333,6 +21584,7 @@
     },
     "Ukraine": {
       "cc2": "UA",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "UKR",
@@ -21439,6 +21691,7 @@
     },
     "United Arab Emirates": {
       "cc2": "AE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ARE",
@@ -21531,6 +21784,7 @@
     },
     "United Kingdom": {
       "cc2": "GB",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "GBR",
@@ -21692,6 +21946,7 @@
     },
     "United States": {
       "cc2": "US",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "USA",
@@ -22178,6 +22433,7 @@
     },
     "United States Minor Outlying Islands": {
       "cc2": "UM",
+      "dep": "US",
       "infos": {
         "codes": {
           "cc3": "UMI",
@@ -22194,7 +22450,15 @@
         ],
         "tel": {}
       },
-      "mcc": [],
+      "mcc": [
+        "310",
+        "311",
+        "312",
+        "313",
+        "314",
+        "315",
+        "316"
+      ],
       "mccmnc": [],
       "msisdn": [
         "1"
@@ -22204,6 +22468,7 @@
     },
     "United States Virgin Islands": {
       "cc2": "VI",
+      "dep": "US",
       "infos": {
         "codes": {
           "cc3": "VIR",
@@ -22285,6 +22550,7 @@
     },
     "Uruguay": {
       "cc2": "UY",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "URY",
@@ -22377,6 +22643,7 @@
     },
     "Uzbekistan": {
       "cc2": "UZ",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "UZB",
@@ -22473,6 +22740,7 @@
     },
     "Vanuatu": {
       "cc2": "VU",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "VUT",
@@ -22561,6 +22829,7 @@
     },
     "Vatican": {
       "cc2": "VA",
+      "dep": "IT",
       "infos": {
         "codes": {
           "cc3": "VAT",
@@ -22621,7 +22890,9 @@
           "url_tld": "https://en.wikipedia.org/wiki/.va"
         }
       },
-      "mcc": [],
+      "mcc": [
+        "222"
+      ],
       "mccmnc": [],
       "msisdn": [
         "379",
@@ -22633,6 +22904,7 @@
     },
     "Venezuela": {
       "cc2": "VE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "VEN",
@@ -22727,6 +22999,7 @@
     },
     "Vietnam": {
       "cc2": "VN",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "VNM",
@@ -22827,6 +23100,7 @@
     },
     "Wallis and Futuna": {
       "cc2": "WF",
+      "dep": "FR",
       "infos": {
         "codes": {
           "cc3": "WLF",
@@ -22903,6 +23177,7 @@
     },
     "Western Sahara": {
       "cc2": "EH",
+      "dep": "MA",
       "infos": {
         "codes": {
           "cc3": "ESH",
@@ -22956,7 +23231,9 @@
           ]
         }
       },
-      "mcc": [],
+      "mcc": [
+        "604"
+      ],
       "mccmnc": [],
       "msisdn": [
         "212"
@@ -22966,6 +23243,7 @@
     },
     "Yemen": {
       "cc2": "YE",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "YEM",
@@ -23057,6 +23335,7 @@
     },
     "Zambia": {
       "cc2": "ZM",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ZMB",
@@ -23145,6 +23424,7 @@
     },
     "Zimbabwe": {
       "cc2": "ZW",
+      "dep": null,
       "infos": {
         "codes": {
           "cc3": "ZWE",
@@ -23232,6 +23512,7 @@
     },
     "\u00c5land Islands": {
       "cc2": "AX",
+      "dep": "FI",
       "infos": {
         "codes": {
           "cc3": "ALA",
@@ -23249,7 +23530,9 @@
           "url_tld": "https://en.wikipedia.org/wiki/.ax"
         }
       },
-      "mcc": [],
+      "mcc": [
+        "244"
+      ],
       "mccmnc": [],
       "msisdn": [
         "358",

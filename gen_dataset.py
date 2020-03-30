@@ -423,7 +423,7 @@ def gen_dict_terr():
     
     territory infos:
     - cc2: CC2 or None
-    - sovereignity: CC2 or None
+    - dependency (sovereignity or geographical dependency): CC2 or None
     - neighbours:
         - borders
         - less than 30 km
@@ -439,7 +439,7 @@ def gen_dict_terr():
     for name, inf in CNTR.items():
         R[name] = {'cc2': inf['cc2']}
     #
-    # sovereignity
+    # dependency / sovereignity
     for name, inf in COUNTRY_SPEC.items():
         if name not in R:
             # territory without CC2
@@ -450,7 +450,10 @@ def gen_dict_terr():
                 if sub not in R:
                     R[sub] = {'cc2': None}
                 if 'cc2' in inf:
-                    R[sub]['sov'] = inf['cc2']
+                    R[sub]['dep'] = inf['cc2']
+    for name, inf in COUNTRY_SPEC.items():
+        if 'dep' in inf and 'dep' not in R[name]:
+            R[name]['dep'] = inf['dep']
     #
     # 2) add borders and neighbours
     WBORD = {r['country_name']: r for r in WIKIP_BORDERS}
@@ -518,6 +521,29 @@ def gen_dict_terr():
     return R
 
 TERR = gen_dict_terr()
+
+
+# go over CC2 / CNTR dict to add potential sovereignity / dependency info in there 
+# and complete MCC and MSISDN if empty
+
+def complete_cc2():
+    for cc2, inf in CC2.items():
+        if inf['name'] in TERR and 'dep' in TERR[inf['name']]:
+            inf['dep'] = TERR[inf['name']]['dep']
+        else:
+            inf['dep'] = None
+    #
+    for cc2, inf in CC2.items():
+        if not inf['mcc'] and inf['dep']:
+            # go check sovereign country for MCC
+            inf['mcc'].extend(CC2[inf['dep']]['mcc'])
+        if not inf['msisdn'] and inf['dep']:
+            # go check sovereign country for MCC
+            inf['msisdn'].extend(CC2[inf['dep']]['msisdn'])
+    
+# run it twice as sovereign relationships can be 2-stages
+complete_cc2()
+#complete_cc2()
 
 
 #------------------------------------------------------------------------------#

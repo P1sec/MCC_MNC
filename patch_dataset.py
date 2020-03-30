@@ -127,7 +127,7 @@ COUNTRY_SPEC = {
             'Australian Antarctic Territory',  # should correspond to CC2 AC (Antarctic)
             'Australian External Territories', # group of multiple islands
             ],
-        'sub_cc2': [], # automatically filled from WIKIP_ISO3166
+        'sub_cc2'       : [], # automatically filled from WIKIP_ISO3166
         },
     #
     # Chile
@@ -142,14 +142,20 @@ COUNTRY_SPEC = {
         'url' : 'https://en.wikipedia.org/wiki/Eswatini',
         },
     #
+    # Finland
+    'Åland Islands': {
+        'cc2' : 'AX',
+        'dep' : 'FI',
+        },
+    #
     # France
     'France': {
-        'cc2'   : 'FR',
+        'cc2' : 'FR',
         'sub' : [ # automatically filled from WIKIP_ISO3166
             'Clipperton Island', # no CC2
             'French Antilles',   # group of multiple CC2
             ],
-        'sub_cc2': [], # automatically filled from WIKIP_ISO3166
+        'sub_cc2'       : [], # automatically filled from WIKIP_ISO3166
         },
     #
     'Saint Martin': {
@@ -170,14 +176,14 @@ COUNTRY_SPEC = {
     'French Antilles': {
         'url' : 'https://en.wikipedia.org/wiki/French_West_Indies',
         'sub' : ['Saint Barthélemy', 'French Guiana', 'Guadeloupe', 'Saint Martin', 'Martinique'],
-        'sub_cc2': ['BL', 'GF', 'GP', 'MF', 'MQ'],
+        'sub_cc2'       : ['BL', 'GF', 'GP', 'MF', 'MQ'],
         },
     #
     # Georgia, Russia, Ukraine and other autonomous region around 
     'Georgia': {
         'cc2' : 'GE',
         'sub' : ['Abkhazia', 'South Ossetia'],
-        'sub_cc2': ['AB'],
+        'sub_cc2'       : ['AB'],
         },
     #
     'Abkhazia': {
@@ -189,6 +195,7 @@ COUNTRY_SPEC = {
     'Nagorno-Karabakh': {
         'cc2' : 'QN',
         'url' : 'https://en.wikipedia.org/wiki/Nagorno-Karabakh',
+        'dep' : 'AZ', # Azerbaijan
         'sovereignity'  : 'disputed',
         'state_name'    : 'Artsakh',
         },
@@ -211,12 +218,18 @@ COUNTRY_SPEC = {
         'sub' : ['Transnistria'],
         },
     #
+    # Morroco
+    'Western Sahara': {
+        'cc2' : 'EH',
+        'dep' : 'MA',
+        },
+    #
     # Netherlands
     'Netherlands': {
         'cc2' : 'NL',
         'url' : 'https://en.wikipedia.org/wiki/Netherlands',
         'sub' : [], # automatically filled from WIKIP_ISO3166
-        'sub_cc2': [], # automatically filled from WIKIP_ISO3166
+        'sub_cc2'       : [], # automatically filled from WIKIP_ISO3166
         },
     #
     'Bonaire, Saba and Sint Eustatius': {
@@ -243,6 +256,7 @@ COUNTRY_SPEC = {
         'cc2' : 'SJ',
         'url' : 'https://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen',
         'sub' : ['Svalbard', 'Jan Mayen'],
+        'dep' : 'NO',
         },
     #
     # Saint Kitts and Nevis
@@ -306,16 +320,15 @@ COUNTRY_SPEC = {
         'sub' : [ # automatically filled from WIKIP_ISO3166
             'Northern Ireland', # no CC2
             ],
-        'sub_cc2': ['AK', ], # automatically filled from WIKIP_ISO3166
+        'sub_cc2'       : ['AK', ], # automatically filled from WIKIP_ISO3166
         },
     #
     'Akrotiri and Dhekelia': {
         'cc2' : 'AK',
         'sub' : ['Akrotiri', 'Dhekelia'],
         'bord': ['Cyprus'],
-        'state_name': 'Akrotiri',
+        'state_name'    : 'Akrotiri',
         },
-    #
     #
     'British Indian Ocean Territory': {
         'cc2': 'IO',
@@ -330,7 +343,7 @@ COUNTRY_SPEC = {
     'Saint Helena, Ascension and Tristan da Cunha': {
         'cc2' : 'SH',
         'sub' : ['Saint Helena', 'Ascension', 'Tristan da Cunha'],
-        'sub_cc2': ['AC', 'TA'],
+        'sub_cc2'       : ['AC', 'TA'],
         },
     #
     'Ascension': {
@@ -354,13 +367,14 @@ COUNTRY_SPEC = {
         'sub' : [ # automatically filled from WIKIP_ISO3166
             'Midway Island', 'Wake Island', # no CC2
             ],
-        'sub_cc2': [], # automatically filled from WIKIP_ISO3166
+        'sub_cc2'       : [], # automatically filled from WIKIP_ISO3166
         },
     #
     # Vatican
     'Vatican' : {
         'cc2' : 'VA',
         'url' : 'https://en.wikipedia.org/wiki/Holy_See',
+        'dep' : 'IT',
         },
     }
 
@@ -449,6 +463,7 @@ CC2_ALIAS = {
 
 # CC2 used for international organizations
 CC2_INTL = {
+    'EU',
     'XC',
     'XD',
     'XG',

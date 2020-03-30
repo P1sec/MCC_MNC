@@ -80,8 +80,9 @@ do not share any borders.
 
 ## Install and usage
 
-The following requirements must be fullfil for the script to work: Python3 and lxml are required.
-No installation of the scripts is required, just run it as is.
+The provided scripts require Python3, and lxml for the ones extracting data from 
+web sites (parse_wikipedia_tables.py and parse_worldfactbook_infos.py).
+No installation is required, just run it as is.
 
 The Wikipedia and World Factbook data can be imported by using the following commands:
 
@@ -126,7 +127,7 @@ dataset, after applying few corrections and fixes on them:
 [...]
 ```
 
-Finally, the last script generates new json and Python dictionnaries based on 
+Finally, the last script generates new JSON and Python dictionnaries based on 
 those re-engineered data:
 - MNC: dict of MCCMNC 5/6-digit-str, MNO(s) information
 - MCC: dict of MCC 3-digit-str, Operators-related information
@@ -156,6 +157,55 @@ $ ./gen_dataset.py
 
 ```
 
+The following one-liner can be used to update the whole dataset:
+```
+$ ./parse_wikipedia_tables.py -j -p && $ ./parse_worldfactbook_infos.py -j -p && ./gen_dataset.py
+```
+
 Now you can use those dictionnaries to get precise information for any MCC, MNC,
 MSISDN prefix, and related geographical information !
+
+Finally, 3 little command-line tools are provided to make direct use of the 
+extracted and engineered dataset:
+
+```
+$ ./chk_mnc.py --help
+usage: chk_mnc.py [-h] [-x] [MCCMNC [MCCMNC ...]]
+
+provides information related to mobile operator(s); if no argument is passed,
+lists all known MCC-MNC
+
+positional arguments:
+  MCCMNC      0 or more 5/6-digit string for MCC-MNC
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -x          provides extended information for MNO(s)
+
+$ ./chk_msisdn.py --help
+usage: chk_msisdn.py [-h] [-x] [MSISDN [MSISDN ...]]
+
+provides information related to international telephone prefix; if no argument
+is passed, lists all known MSISDN prefixes
+
+positional arguments:
+  MSISDN      0 or more digit string for MSISDN
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -x          provides extended country-related information
+
+$ ./chk_cntr.py --help
+usage: chk_cntr.py [-h] [-x] [COUNTRY [COUNTRY ...]]
+
+provides information related to a given country or territory; if no argument
+is passed, lists all known countries and territories
+
+positional arguments:
+  COUNTRY     0 or more string for country (can be an alpha-2 code too)
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -x          provides extended country-related information
+```
 

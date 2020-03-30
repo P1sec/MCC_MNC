@@ -8,6 +8,7 @@
   {
     "Abkhazia": {
       "cc2": "AB",
+      "dep": "GE",
       "neigh": {
         "bord": [
           "Georgia",
@@ -15,17 +16,16 @@
         ],
         "less100": [],
         "less30": []
-      },
-      "sov": "GE"
+      }
     },
     "Ad\u00e9lie Land": {
       "cc2": null,
+      "dep": "TF",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "TF"
+      }
     },
     "Afghanistan": {
       "cc2": "AF",
@@ -45,23 +45,23 @@
     },
     "Akrotiri": {
       "cc2": null,
+      "dep": "AK",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "AK"
+      }
     },
     "Akrotiri and Dhekelia": {
       "cc2": "AK",
+      "dep": "GB",
       "neigh": {
         "bord": [
           "Cyprus"
         ],
         "less100": [],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "Albania": {
       "cc2": "AL",
@@ -99,23 +99,23 @@
     },
     "American Samoa": {
       "cc2": "AS",
+      "dep": "US",
       "neigh": {
         "bord": [],
         "less100": [
           "Samoa"
         ],
         "less30": []
-      },
-      "sov": "US"
+      }
     },
     "Amsterdam Island": {
       "cc2": null,
+      "dep": "TF",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "TF"
+      }
     },
     "Andorra": {
       "cc2": "AD",
@@ -145,6 +145,7 @@
     },
     "Anguilla": {
       "cc2": "AI",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [
@@ -157,8 +158,7 @@
           "Saint Martin",
           "Sint Maarten"
         ]
-      },
-      "sov": "GB"
+      }
     },
     "Antarctica": {
       "cc2": "AQ",
@@ -170,6 +170,7 @@
     },
     "Antigua": {
       "cc2": null,
+      "dep": "AG",
       "neigh": {
         "bord": [],
         "less100": [
@@ -180,8 +181,7 @@
           "Saint Kitts"
         ],
         "less30": []
-      },
-      "sov": "AG"
+      }
     },
     "Antigua and Barbuda": {
       "cc2": "AG",
@@ -220,6 +220,7 @@
     },
     "Aruba": {
       "cc2": "AW",
+      "dep": "NL",
       "neigh": {
         "bord": [],
         "less100": [
@@ -228,17 +229,16 @@
         "less30": [
           "Venezuela"
         ]
-      },
-      "sov": "NL"
+      }
     },
     "Ascension": {
       "cc2": "AC",
+      "dep": "SH",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "SH"
+      }
     },
     "Australia": {
       "cc2": "AU",
@@ -252,21 +252,21 @@
     },
     "Australian Antarctic Territory": {
       "cc2": null,
+      "dep": "AU",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "AU"
+      }
     },
     "Australian External Territories": {
       "cc2": null,
+      "dep": "AU",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "AU"
+      }
     },
     "Austria": {
       "cc2": "AT",
@@ -303,12 +303,12 @@
     },
     "Azores": {
       "cc2": null,
+      "dep": "PT",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "PT"
+      }
     },
     "Bahrain": {
       "cc2": "BH",
@@ -324,12 +324,12 @@
     },
     "Balearic Islands": {
       "cc2": null,
+      "dep": "ES",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "ES"
+      }
     },
     "Bangladesh": {
       "cc2": "BD",
@@ -357,6 +357,7 @@
     },
     "Barbuda": {
       "cc2": null,
+      "dep": "AG",
       "neigh": {
         "bord": [],
         "less100": [
@@ -366,8 +367,7 @@
           "Saint Kitts"
         ],
         "less30": []
-      },
-      "sov": "AG"
+      }
     },
     "Belarus": {
       "cc2": "BY",
@@ -428,12 +428,12 @@
     },
     "Bermuda": {
       "cc2": "BM",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "Bhutan": {
       "cc2": "BT",
@@ -465,6 +465,7 @@
     },
     "Bonaire": {
       "cc2": null,
+      "dep": "BQ",
       "neigh": {
         "bord": [],
         "less100": [
@@ -472,17 +473,16 @@
           "Venezuela"
         ],
         "less30": []
-      },
-      "sov": "BQ"
+      }
     },
     "Bonaire, Saba and Sint Eustatius": {
       "cc2": "BQ",
+      "dep": "NL",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "NL"
+      }
     },
     "Bosnia and Herzegovina": {
       "cc2": "BA",
@@ -544,15 +544,16 @@
     },
     "British Indian Ocean Territory": {
       "cc2": "IO",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "British Virgin Islands": {
       "cc2": "VG",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [
@@ -561,8 +562,7 @@
         "less30": [
           "United States Virgin Islands"
         ]
-      },
-      "sov": "GB"
+      }
     },
     "Brunei": {
       "cc2": "BN",
@@ -664,14 +664,14 @@
     },
     "Canary Islands": {
       "cc2": null,
+      "dep": "ES",
       "neigh": {
         "bord": [],
         "less100": [
           "Morocco"
         ],
         "less30": []
-      },
-      "sov": "ES"
+      }
     },
     "Cape Verde": {
       "cc2": "CV",
@@ -683,12 +683,12 @@
     },
     "Cayman Islands": {
       "cc2": "KY",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "Central African Republic": {
       "cc2": "CF",
@@ -722,21 +722,21 @@
     },
     "Chagos Archipelago": {
       "cc2": null,
+      "dep": "IO",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "IO"
+      }
     },
     "Chatham Island": {
       "cc2": null,
+      "dep": "NZ",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "NZ"
+      }
     },
     "Chile": {
       "cc2": "CL",
@@ -782,30 +782,30 @@
     },
     "Christmas Island": {
       "cc2": "CX",
+      "dep": "AU",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "AU"
+      }
     },
     "Clipperton Island": {
       "cc2": null,
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "FR"
+      }
     },
     "Cocos Islands": {
       "cc2": "CC",
+      "dep": "AU",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "AU"
+      }
     },
     "Colombia": {
       "cc2": "CO",
@@ -833,12 +833,12 @@
     },
     "Cook Islands": {
       "cc2": "CK",
+      "dep": "NZ",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "NZ"
+      }
     },
     "Costa Rica": {
       "cc2": "CR",
@@ -872,12 +872,12 @@
     },
     "Crozet Islands": {
       "cc2": null,
+      "dep": "TF",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "TF"
+      }
     },
     "Cuba": {
       "cc2": "CU",
@@ -894,6 +894,7 @@
     },
     "Cura\u00e7ao": {
       "cc2": "CW",
+      "dep": "NL",
       "neigh": {
         "bord": [],
         "less100": [
@@ -902,8 +903,7 @@
           "Venezuela"
         ],
         "less30": []
-      },
-      "sov": "NL"
+      }
     },
     "Cyprus": {
       "cc2": "CY",
@@ -966,21 +966,21 @@
     },
     "Dhekelia": {
       "cc2": null,
+      "dep": "AK",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "AK"
+      }
     },
     "Diego Garcia": {
       "cc2": null,
+      "dep": "IO",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "IO"
+      }
     },
     "Djibouti": {
       "cc2": "DJ",
@@ -1034,12 +1034,12 @@
     },
     "Easter Island": {
       "cc2": null,
+      "dep": "CL",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "CL"
+      }
     },
     "Ecuador": {
       "cc2": "EC",
@@ -1146,22 +1146,14 @@
         "less30": []
       }
     },
-    "European Telephony Numbering Space": {
-      "cc2": "EU",
+    "Falkland Islands": {
+      "cc2": "FK",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
       }
-    },
-    "Falkland Islands": {
-      "cc2": "FK",
-      "neigh": {
-        "bord": [],
-        "less100": [],
-        "less30": []
-      },
-      "sov": "GB"
     },
     "Faroe Islands": {
       "cc2": "FO",
@@ -1226,15 +1218,16 @@
     },
     "French Antilles": {
       "cc2": null,
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "FR"
+      }
     },
     "French Guiana": {
       "cc2": "GF",
+      "dep": "FR",
       "neigh": {
         "bord": [
           "Brazil",
@@ -1242,26 +1235,25 @@
         ],
         "less100": [],
         "less30": []
-      },
-      "sov": "FR"
+      }
     },
     "French Polynesia": {
       "cc2": "PF",
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "FR"
+      }
     },
     "French Southern Territories": {
       "cc2": "TF",
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "FR"
+      }
     },
     "Gabon": {
       "cc2": "GA",
@@ -1277,6 +1269,7 @@
     },
     "Gaza Strip": {
       "cc2": null,
+      "dep": "PS",
       "neigh": {
         "bord": [
           "Egypt",
@@ -1284,8 +1277,7 @@
         ],
         "less100": [],
         "less30": []
-      },
-      "sov": "PS"
+      }
     },
     "Georgia": {
       "cc2": "GE",
@@ -1341,14 +1333,14 @@
     },
     "Gibraltar": {
       "cc2": "GI",
+      "dep": "GB",
       "neigh": {
         "bord": [
           "Spain"
         ],
         "less100": [],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "Greece": {
       "cc2": "GR",
@@ -1385,6 +1377,7 @@
     },
     "Grenadines": {
       "cc2": null,
+      "dep": "VC",
       "neigh": {
         "bord": [],
         "less100": [
@@ -1394,11 +1387,11 @@
         "less30": [
           "Saint Vincent"
         ]
-      },
-      "sov": "VC"
+      }
     },
     "Guadeloupe": {
       "cc2": "GP",
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [
@@ -1407,19 +1400,18 @@
           "Montserrat"
         ],
         "less30": []
-      },
-      "sov": "FR"
+      }
     },
     "Guam": {
       "cc2": "GU",
+      "dep": "US",
       "neigh": {
         "bord": [],
         "less100": [
           "Northern Mariana Islands"
         ],
         "less30": []
-      },
-      "sov": "US"
+      }
     },
     "Guatemala": {
       "cc2": "GT",
@@ -1436,6 +1428,7 @@
     },
     "Guernsey": {
       "cc2": "GG",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [
@@ -1444,8 +1437,7 @@
         "less30": [
           "Jersey"
         ]
-      },
-      "sov": "GB"
+      }
     },
     "Guinea": {
       "cc2": "GN",
@@ -1504,12 +1496,12 @@
     },
     "Heard Island and McDonald Island": {
       "cc2": "HM",
+      "dep": "AU",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "AU"
+      }
     },
     "Honduras": {
       "cc2": "HN",
@@ -1635,6 +1627,7 @@
     },
     "Isle of Man": {
       "cc2": "IM",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [
@@ -1642,8 +1635,7 @@
           "United Kingdom"
         ],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "Israel": {
       "cc2": "IL",
@@ -1711,12 +1703,12 @@
     },
     "Jan Mayen": {
       "cc2": null,
+      "dep": "SJ",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "SJ"
+      }
     },
     "Japan": {
       "cc2": "JP",
@@ -1732,6 +1724,7 @@
     },
     "Jersey": {
       "cc2": "JE",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [],
@@ -1739,8 +1732,7 @@
           "France",
           "Guernsey"
         ]
-      },
-      "sov": "GB"
+      }
     },
     "Jordan": {
       "cc2": "JO",
@@ -1794,12 +1786,12 @@
     },
     "Kerguelen Islands": {
       "cc2": null,
+      "dep": "TF",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "TF"
+      }
     },
     "Kiribati": {
       "cc2": "KI",
@@ -1990,12 +1982,12 @@
     },
     "Madeira": {
       "cc2": null,
+      "dep": "PT",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "PT"
+      }
     },
     "Malawi": {
       "cc2": "MW",
@@ -2069,6 +2061,7 @@
     },
     "Martinique": {
       "cc2": "MQ",
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [
@@ -2076,8 +2069,7 @@
           "Saint Lucia"
         ],
         "less30": []
-      },
-      "sov": "FR"
+      }
     },
     "Mauritania": {
       "cc2": "MR",
@@ -2104,14 +2096,14 @@
     },
     "Mayotte": {
       "cc2": "YT",
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [
           "Comoros"
         ],
         "less30": []
-      },
-      "sov": "FR"
+      }
     },
     "Mexico": {
       "cc2": "MX",
@@ -2127,12 +2119,12 @@
     },
     "Midway Island": {
       "cc2": null,
+      "dep": "US",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "US"
+      }
     },
     "Moldova": {
       "cc2": "MD",
@@ -2188,6 +2180,7 @@
     },
     "Montserrat": {
       "cc2": "MS",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [
@@ -2198,8 +2191,7 @@
           "Saint Kitts"
         ],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "Morocco": {
       "cc2": "MA",
@@ -2248,6 +2240,7 @@
     },
     "Nagorno-Karabakh": {
       "cc2": "QN",
+      "dep": "AZ",
       "neigh": {
         "bord": [],
         "less100": [],
@@ -2307,6 +2300,7 @@
     },
     "Nevis": {
       "cc2": null,
+      "dep": "KN",
       "neigh": {
         "bord": [],
         "less100": [
@@ -2320,17 +2314,16 @@
         "less30": [
           "Saint Kitts"
         ]
-      },
-      "sov": "KN"
+      }
     },
     "New Caledonia": {
       "cc2": "NC",
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "FR"
+      }
     },
     "New Zealand": {
       "cc2": "NZ",
@@ -2385,21 +2378,21 @@
     },
     "Niue": {
       "cc2": "NU",
+      "dep": "NZ",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "NZ"
+      }
     },
     "Norfolk Island": {
       "cc2": "NF",
+      "dep": "AU",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "AU"
+      }
     },
     "North Korea": {
       "cc2": "KP",
@@ -2431,32 +2424,32 @@
     },
     "Northern Cyprus": {
       "cc2": "CT",
+      "dep": "TR",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "TR"
+      }
     },
     "Northern Ireland": {
       "cc2": null,
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "Northern Mariana Islands": {
       "cc2": "MP",
+      "dep": "US",
       "neigh": {
         "bord": [],
         "less100": [
           "Guam"
         ],
         "less30": []
-      },
-      "sov": "US"
+      }
     },
     "Norway": {
       "cc2": "NO",
@@ -2571,12 +2564,12 @@
     },
     "Pitcairn Islands": {
       "cc2": "PN",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "Poland": {
       "cc2": "PL",
@@ -2609,6 +2602,7 @@
     },
     "Puerto Rico": {
       "cc2": "PR",
+      "dep": "US",
       "neigh": {
         "bord": [],
         "less100": [
@@ -2618,8 +2612,7 @@
           "United States Virgin Islands"
         ],
         "less30": []
-      },
-      "sov": "US"
+      }
     },
     "Qatar": {
       "cc2": "QA",
@@ -2720,15 +2713,16 @@
     },
     "R\u00e9union": {
       "cc2": "RE",
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "FR"
+      }
     },
     "Saba": {
       "cc2": null,
+      "dep": "BQ",
       "neigh": {
         "bord": [],
         "less100": [
@@ -2742,11 +2736,11 @@
         "less30": [
           "Sint Eustatius"
         ]
-      },
-      "sov": "BQ"
+      }
     },
     "Saint Barth\u00e9lemy": {
       "cc2": "BL",
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [
@@ -2760,29 +2754,29 @@
           "Saint Martin",
           "Sint Maarten"
         ]
-      },
-      "sov": "FR"
+      }
     },
     "Saint Helena": {
       "cc2": null,
+      "dep": "SH",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "SH"
+      }
     },
     "Saint Helena, Ascension and Tristan da Cunha": {
       "cc2": "SH",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "Saint Kitts": {
       "cc2": null,
+      "dep": "KN",
       "neigh": {
         "bord": [],
         "less100": [
@@ -2799,8 +2793,7 @@
           "Nevis",
           "Sint Eustatius"
         ]
-      },
-      "sov": "KN"
+      }
     },
     "Saint Kitts and Nevis": {
       "cc2": "KN",
@@ -2824,6 +2817,7 @@
     },
     "Saint Martin": {
       "cc2": "MF",
+      "dep": "FR",
       "neigh": {
         "bord": [
           "Sint Maarten"
@@ -2837,22 +2831,22 @@
           "Anguilla",
           "Saint Barth\u00e9lemy"
         ]
-      },
-      "sov": "FR"
+      }
     },
     "Saint Pierre and Miquelon": {
       "cc2": "PM",
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": [
           "Canada"
         ]
-      },
-      "sov": "FR"
+      }
     },
     "Saint Vincent": {
       "cc2": null,
+      "dep": "VC",
       "neigh": {
         "bord": [],
         "less100": [
@@ -2861,8 +2855,7 @@
         "less30": [
           "Grenadines"
         ]
-      },
-      "sov": "VC"
+      }
     },
     "Saint Vincent and the Grenadines": {
       "cc2": "VC",
@@ -2924,12 +2917,12 @@
     },
     "Scattered Islands": {
       "cc2": null,
+      "dep": "TF",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "TF"
+      }
     },
     "Senegal": {
       "cc2": "SN",
@@ -2996,6 +2989,7 @@
     },
     "Sint Eustatius": {
       "cc2": null,
+      "dep": "BQ",
       "neigh": {
         "bord": [],
         "less100": [
@@ -3009,11 +3003,11 @@
           "Saba",
           "Saint Kitts"
         ]
-      },
-      "sov": "BQ"
+      }
     },
     "Sint Maarten": {
       "cc2": "SX",
+      "dep": "NL",
       "neigh": {
         "bord": [
           "Saint Martin"
@@ -3027,8 +3021,7 @@
           "Anguilla",
           "Saint Barth\u00e9lemy"
         ]
-      },
-      "sov": "NL"
+      }
     },
     "Slovakia": {
       "cc2": "SK",
@@ -3100,21 +3093,21 @@
     },
     "South Georgia": {
       "cc2": null,
+      "dep": "GS",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "GS"
+      }
     },
     "South Georgia and the South Sandwich Islands": {
       "cc2": "GS",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "South Korea": {
       "cc2": "KR",
@@ -3130,6 +3123,7 @@
     },
     "South Ossetia": {
       "cc2": null,
+      "dep": "GE",
       "neigh": {
         "bord": [
           "Georgia",
@@ -3137,17 +3131,16 @@
         ],
         "less100": [],
         "less30": []
-      },
-      "sov": "GE"
+      }
     },
     "South Sandwich Islands": {
       "cc2": null,
+      "dep": "GS",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "GS"
+      }
     },
     "South Sudan": {
       "cc2": "SS",
@@ -3190,12 +3183,12 @@
     },
     "St. Paul Island": {
       "cc2": null,
+      "dep": "TF",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "TF"
+      }
     },
     "State of Palestine": {
       "cc2": "PS",
@@ -3242,15 +3235,16 @@
     },
     "Svalbard": {
       "cc2": null,
+      "dep": "SJ",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "SJ"
+      }
     },
     "Svalbard and Jan Mayen": {
       "cc2": "SJ",
+      "dep": "NO",
       "neigh": {
         "bord": [],
         "less100": [],
@@ -3388,14 +3382,14 @@
     },
     "Tobago": {
       "cc2": null,
+      "dep": "TT",
       "neigh": {
         "bord": [],
         "less100": [
           "Trinidad"
         ],
         "less30": []
-      },
-      "sov": "TT"
+      }
     },
     "Togo": {
       "cc2": "TG",
@@ -3411,12 +3405,12 @@
     },
     "Tokelau": {
       "cc2": "TK",
+      "dep": "NZ",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "NZ"
+      }
     },
     "Tonga": {
       "cc2": "TO",
@@ -3428,15 +3422,16 @@
     },
     "Transnistria": {
       "cc2": null,
+      "dep": "MD",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "MD"
+      }
     },
     "Trinidad": {
       "cc2": null,
+      "dep": "TT",
       "neigh": {
         "bord": [],
         "less100": [
@@ -3445,8 +3440,7 @@
         "less30": [
           "Venezuela"
         ]
-      },
-      "sov": "TT"
+      }
     },
     "Trinidad and Tobago": {
       "cc2": "TT",
@@ -3458,12 +3452,12 @@
     },
     "Tristan da Cunha": {
       "cc2": "TA",
+      "dep": "SH",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "SH"
+      }
     },
     "Tunisia": {
       "cc2": "TN",
@@ -3512,14 +3506,14 @@
     },
     "Turks and Caicos Islands": {
       "cc2": "TC",
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [
           "The Bahamas"
         ],
         "less30": []
-      },
-      "sov": "GB"
+      }
     },
     "Tuvalu": {
       "cc2": "TV",
@@ -3604,15 +3598,16 @@
     },
     "United States Minor Outlying Islands": {
       "cc2": "UM",
+      "dep": "US",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "US"
+      }
     },
     "United States Virgin Islands": {
       "cc2": "VI",
+      "dep": "US",
       "neigh": {
         "bord": [],
         "less100": [
@@ -3621,8 +3616,7 @@
         "less30": [
           "British Virgin Islands"
         ]
-      },
-      "sov": "US"
+      }
     },
     "Uruguay": {
       "cc2": "UY",
@@ -3659,6 +3653,7 @@
     },
     "Vatican": {
       "cc2": "VA",
+      "dep": "IT",
       "neigh": {
         "bord": [
           "Italy"
@@ -3701,24 +3696,25 @@
     },
     "Wake Island": {
       "cc2": null,
+      "dep": "US",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "US"
+      }
     },
     "Wallis and Futuna": {
       "cc2": "WF",
+      "dep": "FR",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "FR"
+      }
     },
     "West Bank": {
       "cc2": null,
+      "dep": "PS",
       "neigh": {
         "bord": [
           "Israel",
@@ -3726,11 +3722,11 @@
         ],
         "less100": [],
         "less30": []
-      },
-      "sov": "PS"
+      }
     },
     "Western Sahara": {
       "cc2": "EH",
+      "dep": "MA",
       "neigh": {
         "bord": [
           "Algeria",
@@ -3774,12 +3770,12 @@
     },
     "Zanzibar": {
       "cc2": null,
+      "dep": "TZ",
       "neigh": {
         "bord": [],
         "less100": [],
         "less30": []
-      },
-      "sov": "TZ"
+      }
     },
     "Zimbabwe": {
       "cc2": "ZW",
@@ -3797,6 +3793,7 @@
     },
     "\u00c5land Islands": {
       "cc2": "AX",
+      "dep": "FI",
       "neigh": {
         "bord": [],
         "less100": [],

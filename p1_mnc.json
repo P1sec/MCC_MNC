@@ -12125,7 +12125,8 @@
         "UMTS 1900",
         "LTE 700",
         "LTE 1700",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 2500"
       ],
       "brand": "Rogers Wireless",
       "cc2s": [
@@ -18592,7 +18593,8 @@
       "bands": [
         "GSM 900",
         "GSM 1800",
-        "UMTS 2100"
+        "UMTS 2100",
+        "LTE 1800"
       ],
       "brand": "Digicel",
       "cc2s": [
