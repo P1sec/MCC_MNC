@@ -78,7 +78,7 @@ Some other sources may be found online ; additionally, it seems the R programmin
 has nice geography-related packages.
 
 
-### Which one to use:
+### Which one to use:
 
 After checking several sources, it seems Wikipedia has the must complete, up-to-date and accurate information.
 Therefore, the tool primarily uses it to build the JSON / Python dictionnaries, it uses also the CIA World Factbook
