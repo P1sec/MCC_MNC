@@ -1,0 +1,883 @@
+                        ITU Operational Bulletin
+                                                         www.itu.int/itu-t/bulletin
+
+       No. 1153              1.VIII.2018                  (Information received by 17 July 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                           Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                               Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                               Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                              E-mail: brmail@itu.int
+
+
+
+
+                                                                  Table of Contents
+                                                                                                                                                                      Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin ...............................................................................................                            3
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                                   4
+     Namibia (Communications Regulatory Authority of Namibia (CRAN), Windhoek) ..................................                                                        4
+     Papua New Guinea (National Information & Communications Technology Authority (NICTA),
+        Boroko) ...............................................................................................................................................          6
+     Thailand (Office of the National Broadcasting and Telecommunication Commission (the Office of
+        NBTC), Bangkok) .................................................................................................................................                6
+Other communications:
+     Austria ......................................................................................................................................................      7
+     Uganda .....................................................................................................................................................        7
+Service Restrictions ........................................................................................................................................            8
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                          8
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .........................................                                                9
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                      9
+Mobile Network Codes (MNC) .......................................................................................................................                      17
+List of ITU Carrier Codes .................................................................................................................................             18
+List of International Signalling Point Codes (ISPC) .........................................................................................                           19
+National Numbering Plan ...............................................................................................................................                 19
+
+
+
+
+                                                                                                                                       www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1154            15.VIII.2018            1.VIII.2018
+               1155              1.IX.2018            16.VIII.2018
+               1156             15.IX.2018            31.VIII.2018
+               1157              1.X.2018              14.IX.2018
+               1158             15.X.2018              28.IX.2018
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                       Telephone Service
+                                  (Recommendation ITU-T E.164)
+                                       url: www.itu.int/itu-t/inr/nnp
+
+Denmark (country code +45)
+Communication of 3.VII.2018:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     Assignment – Mobile communications services
+
+             Provider                               Numbering series                       Date of assignment
+Mobilevalue ApS                   30394fgh, 30396fgh, 30397fgh, 30398fgh, 30399fgh,             1.X.2018
+                                  61492fgh and 61493fgh
+
+Communication of 12.VII.2018:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     Assignment – Mobile communications services
+
+             Provider                               Numbering series                       Date of assignment
+SimService A/S                    5450efgh, 5451efgh, 5452efgh, 5453efgh and 5456efgh          10.VII.2018
+Telenor Connexion AB              923defgh                                                     10.VII.2018
+Contact:
+      Danish Energy Agency
+      Amaliegade 44
+      1256 COPENHAGEN K
+      Denmark
+      Tel:    +45 33 92 67 00
+      Fax:    +45 33 11 47 43
+      E-mail: ens@ens.dk
+      URL:    www.ens.dk
+
+Namibia (country code +264)
+Communication of 12.VII.2018:
+
+The Communications Regulatory Authority of Namibia (CRAN), Windhoek, announces the following national
+numbering plan in Namibia:
+
+                                    Presentation of national numbering plan
+                                             for country code +264
+a)         Overview:
+           The minimum number length (excluding the country code) is 9 digits.
+           The maximum number length (excluding the country code) is 12 digits.
+
+b)         Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the
+           national numbering plan (if any): n/a
+c)    Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): n/a
+d)    Detail of numbering plan:
+
+
+
+
+National destination     N(S)N number length
+     code (NDC)
+                                                          Usage of
+ or leading digits of    Maximum    Minimum                                         Additional information
+                                                    ITU-T E.164 number
+national (significant)    length     length
+  number (N(S)N))
+610                          9          9       Number for Fixed line        Fixed Line existing DID number
+                                                telephony (DID) services     assigned to Telecom Namibia (existing
+                                                                             services only)
+612                          9          9       Number for Fixed line        Fixed Line existing DID number
+                                                telephony (DID) services     assigned to Telecom Namibia (existing
+                                                                             services only)
+613                          9          9       Number for Fixed line        Fixed Line existing DID number
+                                                telephony (DID) services     assigned to Telecom Namibia (existing
+                                                                             services only)
+614                          9          9       Number for Fixed line        Fixed Line existing DID number
+                                                telephony (DID) services     assigned to Telecom Namibia (existing
+                                                                             services only)
+80                           9          9       FreeFone                     Toll free numbers
+81                           9          9       Electronic Communications    Mobile/Fixed numbers for electronic
+                                                                             communications (Voice and Data)
+                                                                             assigned to Mobile
+                                                                             Telecommunications Limited
+                                                                             (technology & service neutral licence)
+82                           9          9       Electronic Communications    Mobile/Fixed numbers for electronic
+                                                                             communications (Voice and Data)
+                                                                             assigned to Demshi Investment
+                                                                             Holdings (technology & service neutral
+                                                                             licence)
+83                           9          9       Electronic Communications    Mobile/Fixed numbers for electronic
+                                                                             communications (Voice and Data)
+                                                                             assigned to Paratus
+                                                                             Telecommunications (Pty) Ltd
+                                                                             (technology & service neutral licence)
+84                           9          9       Electronic Communications    Mobile/Fixed numbers for electronic
+                                                                             communications (Voice and Data)
+                                                                             assigned to MTN Namibia (technology
+                                                                             & service neutral licence)
+85                           9          9       Electronic Communications    Mobile/Fixed numbers for electronic
+                                                                             communications (Voice and Data)
+                                                                             assigned to Telecom Namibia
+                                                                             (technology & service neutral licence)
+89                          12         12       Machine-2-Machine services
+      Contact:
+            Communications Regulatory Authority of Namibia (CRAN)
+            Private Bag 13309
+            56 Robert Mugabe Avenue
+            09000 WINDHOEK
+            Namibia
+            Tel:     +264 61222666
+            Fax:     +264 61238646
+            E-mail: cran@cran.na
+            URL:     www.cran.na
+
+
+Papua New Guinea (country code +675)
+Communication of 9.VII.2018:
+The National Information & Communications Technology Authority (NICTA), Boroko, announces the following
+update in the national numbering plan of Papua New Guinea.
+
+     Description of introduction of new resource for national E.164 numbering plan for country code 675:
+              (1)                           (2)                        (3)                        (4)
+  NDC (National Destination         N(S)N Number length
+                                                                     Usage of
+Code) or leading digits of N(S)N   Maximum     Minimum                                   Additional information
+                                                                  E.164 number
+(National (Significant) Number)     length       length
+81000000 – 81999999 (NDC)              8            8      Non-geographic number –       GSM Mobile service
+                                                           assigned to Digivoip
+                                                           Communications Limited
+
+Contact:
+       Mr Charles Sihron Punaha
+       National Information & Communications Technology Authority (NICTA)
+       Level 4 Tower 1, Stratos Building
+       Savannah Heights
+       PO Box 8222
+       111 BOROKO, NCD
+       Papua New Guinea
+       Tel:     +675 303 3201
+       Fax:     +675 325 6868
+       E-mail: cpunaha@nicta.gov.pg
+       URL:     www.nicta.gov.pg
+
+Thailand (country code +66)
+Communication of 11.VII.2018:
+The Office of the National Broadcasting and Telecommunication Commission (the Office of NBTC), Bangkok,
+would like to inform that the National Broadcasting and Telecommunication Commission (NBTC) has approved a
+new numbering plan, which changes fixed line numbering structure from 9 to 10 digits, in order to increase the
+supply of fixed line and mobile numbers. This new numbering plan will be fully implemented in 2021. The time
+schedule agreed by all stakeholders is shown as follows:
+1.     In January 1st 2021, all Thai telecommunications operators must be ready to provide their services under
+       the new numbering plan.
+2.     By the second quarter of 2020, all fixed line telecommunications operators must provide 10 digit fixed
+       line services in parallel with 9 digit service, and all mobile telecommunications operators must prepare
+       their network system to provide services on new mobile categories.
+In this regards, Thailand's new national numbering plan as per Rec. ITU-T E.129 format presentation will follow
+later in the process.
+Contact:
+       National Broadcasting and Telecommunications Commission (NBTC)
+       87 Soi Sailom, Phaholyothin Road
+       10400 BANGKOK
+       Thailand
+       Tel: +66 22727054
+       Fax: +66 22781736
+       URL: www.nbtc.go.th
+
+
+
+
+                                         Other communications
+
+Austria
+Communication of 16.VII.2018:
+On the occasion of the UCI Road World Championships in Innsbruck-Tirol, the Austrian Administration authorizes
+Austrian amateur stations to use the special call sign OE18xxx from 21 September to 1 October 2018.
+
+Uganda
+Communication of 17.VII.2018:
+The Uganda Communications Commission (UCC), Kampala, announces a change in the national regulatory
+framework of Uganda.
+                            Notification to network operators to ensure implementation
+                                 of Recommendations ITU-T E.157 and ITU-T E.164
+Uganda Communications Commission (UCC) has directed all operators in Uganda to establish call line
+identification (CLI) facilitates in line with the provisions of the ITU-T E.157 and ITU-T E.164 Recommendations.
+Effective 1st August 2018, the operators have been required to prevent any call with invalid or non-dialable CLI
+data from being connected to the called party in Uganda. This is to apply to both local and international calls.
+Contact:
+       Mr Godfrey Mutabazi
+       Executive Director
+       Uganda Communications Commission (UCC)
+       Plot 42-44 Spring Road, Bugolobi
+       P.O. Box 7376, Kampala, Uganda
+       Tel:     +256 41 433 9000
+       Fax:     +256 41 434 8832
+       E-mail: ucc@ucc.co.ug
+       URL:     www.ucc.co.ug
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                      AMENDMENTS TO SERVICE PUBLICATIONS
+                                              Abbreviations used
+
+                              ADD    Insert                     PAR    paragraph
+                              COL    Column                     REP    replace
+                              LIR    Read                       SUP    Delete
+                              P      page(s)
+
+                         List of Ship Stations and Maritime Mobile
+                                 Service Identity Assignments
+                                            (List V)
+                                        Edition of 2018
+
+                                                Section VI
+REP
+
+      BE05 MARLINK S.A. Rue de Stalle 140, 1180 Uccle, Belgium.
+           E-Mail: Tilmann.Michalke@marlink.com, Tel: +32 2 371 71 11, Fax: +32 2 332 33 27.
+           Contact Person: Tilmann Michalke, Tel: +49 (0) 221 99591 532.
+
+
+
+                            List of Issuer Identifier Numbers for
+                    the International Telecommunication Charge Card
+              (in accordance with ITU-T Recommendation E.118 (05/2006))
+                              (Position on 15 November 2015)
+                       (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                        (Amendment No. 45)
+
+Azerbaijan LIR
+      Country/         Company Name/Address                 Issuer Identifier   Contact
+  geographical area                                             Number
+ Azerbaijan            Azercell Telecom LLC                    89 994 01        Ms Aida Bayramova
+                       149 Tbilisi Avenue                                       149 Tbilisi Avenue
+                       AZ 1122 BAKU                                             AZ 1122 BAKU
+                                                                                Tel:     +994 50 210 0091
+                                                                                Fax:     +994 12 430 0568
+                                                                                E-mail: abayram@azercell.com
+ Azerbaijan            Caspian American Telecom LLC            89 994 03        Ms Ulviyya Gurbanzada
+                       54 S. Rustam                                             54 S. Rustam
+                       AZ 1007 BAKU                                             AZ 1007 BAKU
+                                                                                Tel:     +994 12 447 1699
+                                                                                Fax:     +994 12 447 4600
+                                                                                E-mail: bill@catel.az
+ Azerbaijan            Azerfon LLC                             89 994 04        Mr Gunnar Pahnke
+                       153, Netchilar Ave., Nasimi                              153, Netchilar Ave., Nasimi district
+                       district                                                 AZ 1010 BAKU
+                       AZ 1010 BAKU                                             Tel:    +994 12 444 0730
+                                                                                Fax:    +994 12 490 0731
+                                                                                E-mail: media@azerfon.az
+
+
+ Azerbaijan               Special State Protection Service       89 994 05        Mr Azar Ahadov
+                          of the Republic of Azerbaijan                           68, Lermontov Str.,
+                          68, Lermontov Str.,                                     AZ 1066 BAKU
+                          AZ 1066 BAKU                                            Tel:    +994 12 435 1880
+                                                                                  Fax: +994 12 498 9648
+                                                                                  E-mail: azarahadov@dmx.gov.az;
+                                                                                          secretary@dmx.gov.az
+
+Georgia             LIR
+      Country/            Company Name/Address               Issuer Identifier    Contact
+  geographical area                                              Number
+ Georgia                  Geocell LLC                           89 995 01         Mr David Svanidze
+                          3 Gotua Str. Right Side of the                          3 Gotua Str. Right Side of the River
+                          River Mtkvari,                                          Mtkvari,
+                          TBILISI, 0160                                           TBILISI, 0160
+                                                                                  Tel:     +995 32 277 01 00
+                                                                                  Fax: +995 32 277 01 29
+                                                                                  E-mail: cno@geocell.ge;
+                                                                                           core@geocell.ge
+
+Hong Kong, China      LIR
+      Country/              Company Name/Address                Issuer                       Contact
+  Geographical area                                           Identifier
+                                                               Number
+ Hong Kong, China           Hong Kong                        89 852 00       Mr Christopher Wong
+                            Telecommunications (HKT)                         3/F, LHK Engineering Centre,
+                            Limited                                          4 Yuet Lun Street, Lai Chi Kok, Kowloon,
+                            39/F., PCCW Tower, Taikoo                        Hong Kong
+                            Place,                                           Tel:    +852 2883 8587
+                            979 King's Road, Quarry Bay,                     Fax: +852 2962 5504
+                            Hong Kong                                        E-mail: christopher.wf.wong@pccw.com
+ Hong Kong, China           Hutchison Telephone              89 852 03       Mr James Leung
+                            Company Limited                                  15/F, Hutchison Telecom Tower,
+                            19/F, Hutchison Telecom                          99 Cheung Fai Road, Tsing Yi, New
+                            Tower,                                           Territories,
+                            99 Cheung Fai Road,                              Hong Kong
+                            Tsing Yi, New Territories,                       Tel:    +852 2128 3694
+                            Hong Kong                                        Fax: +852 2123 1202
+                                                                             E-mail: james.leung@hthk.com
+ Hong Kong, China           Hutchison Telephone              89 852 04       Mr James Leung
+                            Company Limited                                  15/F, Hutchison Telecom Tower,
+                            19/F, Hutchison Telecom                          99 Cheung Fai Road, Tsing Yi, New
+                            Tower,                                           Territories,
+                            99 Cheung Fai Road,                              Hong Kong
+                            Tsing Yi, New Territories,                       Tel:     +852 2128 3694
+                            Hong Kong                                        Fax:     +852 2123 1202
+                                                                             E-mail: james.leung@hthk.com
+ Hong Kong, China           SmarTone Mobile                  89 852 06       Mr Stephen Chau
+                            Communications Limited                           31/F Millennium City 2,
+                            31/F Millennium City 2,                          378 Kwun Tong Road, Kowloon,
+                            378 Kwun Tong Road,                              Hong Kong
+                            Kowloon,                                         Tel:     +852 3128 2838
+                            Hong Kong                                        Fax:     +852 3128 2266
+                                                                             E-mail: stephen_chau@smartone.com
+
+
+
+
+     Country/              Company Name/Address              Issuer                     Contact
+ Geographical area                                         Identifier
+                                                            Number
+Hong Kong, China           China Unicom (Hong Kong)       89 852 07     Ms Sarah Zhang
+                           Operations Limited                           6/F, 19 Chun Wang Street,
+                           28/F, Tower 1, The Gateway,                  Tseung Kwan O Industrial Estate, New
+                           25 Canton Road,                              Territories,
+                           Tsim Sha Tsui, Kowloon,                      Hong Kong
+                           Hong Kong                                    Tel:      +852 6550 1982
+                                                                        Fax:      +852 2189 2599
+                                                                        E-mail: ho-sarahzhang@chinaunicom.cn
+Hong Kong, China           Hong Kong                      89 852 10     Mr Christopher Wong
+                           Telecommunications (HKT)                     3/F, LHK Engineering Centre,
+                           Limited                                      4 Yuet Lun Street, Lai Chi Kok, Kowloon,
+                           39/F., PCCW Tower, Taikoo                    Hong Kong
+                           Place,                                       Tel:      +852 2883 8587
+                           979 King's Road, Quarry Bay,                 Fax:      +852 2962 5504
+                           Hong Kong                                    E-mail: christopher.wf.wong@pccw.com
+Hong Kong, China           China-Hongkong Telecom         89 852 11     Mr Anthony Hui
+                           Limited                                      Room 3701-02, 37/F, Hong Kong Plaza,
+                           Room 3701-02, 37/F, Hong                     188 Connaught Road West, Western
+                           Kong Plaza,                                  District,
+                           188 Connaught Road West,                     Hong Kong
+                           Western District,                            Tel:      +852 2859 9368
+                           Hong Kong                                    Fax:      +852 2859 0987
+                                                                        E-mail: anthony@chkt.hk
+Hong Kong, China           China Mobile Hong Kong         89 852 12     Mr Alex Cheng
+                           Company Limited                              Level 20, Tower 1, Kowloon Commerce
+                           Level 20, Tower 1, Kowloon                   Centre, No. 51 Kwai Cheong Road,
+                           Commerce Centre,                             Kwai Chung, New Territories,
+                           No. 51 Kwai Cheong Road,                     Hong Kong
+                           Kwai Chung, New Territories,                 Tel:      +852 2945 8282
+                           Hong Kong                                    Fax:      +852 3104 1053
+                                                                        E-mail: alexcheng@hk.chinamobile.com
+Hong Kong, China           Hong Kong                      89 852 16     Mr Christopher Wong
+                           Telecommunications (HKT)                     3/F, LHK Engineering Centre,
+                           Limited                                      4 Yuet Lun Street, Lai Chi Kok, Kowloon,
+                           39/F., PCCW Tower, Taikoo                    Hong Kong
+                           Place,                                       Tel:      +852 2883 8587
+                           979 King's Road, Quarry Bay,                 Fax:      +852 2962 5504
+                           Hong Kong                                    E-mail: christopher.wf.wong@pccw.com
+Hong Kong, China           Hong Kong                      89 852 18     Mr Christopher Wong
+                           Telecommunications (HKT)                     3/F, LHK Engineering Centre,
+                           Limited                                      4 Yuet Lun Street, Lai Chi Kok, Kowloon,
+                           39/F., PCCW Tower, Taikoo                    Hong Kong
+                           Place,                                       Tel:      +852 2883 8587
+                           979 King's Road, Quarry Bay,                 Fax:      +852 2962 5504
+                           Hong Kong                                    E-mail: christopher.wf.wong@pccw.com
+Hong Kong, China           Hong Kong                      89 852 19     Mr Christopher Wong
+                           Telecommunications (HKT)                     3/F, LHK Engineering Centre,
+                           Limited                                      4 Yuet Lun Street, Lai Chi Kok, Kowloon,
+                           39/F., PCCW Tower, Taikoo                    Hong Kong
+                           Place,                                       Tel:      +852 2883 8587
+                           979 King's Road, Quarry Bay,                 Fax:      +852 2962 5504
+                           Hong Kong                                    E-mail: christopher.wf.wong@pccw.com
+
+
+
+
+     Country/        Company Name/Address                 Issuer                       Contact
+ Geographical area                                      Identifier
+                                                         Number
+Hong Kong, China     21Vianet Mobile Limited           89 852 21     Ms Karen Hsu
+                     37/F, Tower 1, Metroplaza,                      37/F, Tower 1, Metroplaza,
+                     223 Hing Fong Road,                             223 Hing Fong Road,
+                     Kwai Fong, New Territories,                     Kwai Fong, New Territories,
+                     Hong Kong                                       Hong Kong
+                                                                     Tel:      +852 3568 9956
+                                                                     Fax:      +852 3565 4903
+                                                                     E-mail: karen.hsu@21vianet.com
+Hong Kong, China     Multibyte Info Technology         89 852 24     Mr Shawn Wong
+                     Limited                                         Flat E, 12/F, Effort Industrial Building,
+                     Flat E, 12/F, Effort Industrial                 No. 2-8 Kung Yip Street,
+                     Building,                                       Kwai Chung, New Territories,
+                     No. 2-8 Kung Yip Street,                        Hong Kong
+                     Kwai Chung, New Territories,                    Tel:      +852 2428 8247
+                     Hong Kong                                       Fax:      +852 2565 0495
+                                                                     E-mail: shawn@multi-byte.com
+Hong Kong, China     PCCW-HKT Telephone                89 852 30     Mr Philip Ho,
+                     Limited and Hong Kong                           17/F, PCCW Tower, Taikoo Place,
+                     Telecommunications (HKT)                        979 King's Road, Quarry Bay,
+                     Limited                                         Hong Kong
+                     39/F., PCCW Tower, Taikoo                       Tel:      +852 2888 2836
+                     Place,                                          Fax:      +852 2504 5937
+                     979 King's Road, Quarry Bay,                    E-mail: philip.kw.ho@pccw.com
+                     Hong Kong
+Hong Kong, China     China Telecom Global              89 852 31     Mr Karson Ng
+                     Limited                                         28/F Everbright Centre,
+                     28/F Everbright Centre,                         108 Gloucester Road, Wanchai,
+                     108 Gloucester Road,                            Hong Kong
+                     Wanchai,                                        Tel: +852 2582 9131
+                     Hong Kong                                       Fax: +852 2877 0988
+                                                                     E-mail: karsonng@chinatelecomglobal.com
+Hong Kong, China     Tai Tung Mobile Phone             89 852 33     Mr Pong Yip Nam
+                     Company Limited                                 Room 1223A, 12/F, Star House,
+                     Room 405, Tung Ning                             3 Salisbury Road, Tsim Sha Tsui, Kowloon,
+                     Building,                                       Hong Kong
+                     249 – 253 Des Voeux Road                        Tel: +852 3161 5057
+                     Central,                                        Fax: Nil
+                     Hong Kong                                       E-mail: yn.pong@mvne.asia
+Hong Kong, China     China Mobile International        89 852 34     Mr Chan Chun Ming
+                     Limited                                         Level 30, Tower 1, Kowloon Commerce
+                     Level 29 & 30, Tower 1,                         Centre, No. 51 Kwai Cheong Road,
+                     Kowloon Commerce Centre,                        Kwai Chung, New Territories,
+                     No. 51 Kwai Cheong Road,                        Hong Kong
+                     Kwai Chung, New Territories,                    Tel:      +852 3155 6986
+                     Hong Kong                                       Fax:      +852 3586 94961
+                                                                     E-mail: Legal@cmi.chinamobile.com
+Hong Kong, China     Webbing Hong Kong Limited         89 852 35     Mr Noam Lando
+                     17/F., Yue Hing Building,                       17/F., Yue Hing Building,
+                     103 Hennessy Road,                              103 Hennessy Road, Wanchai,
+                     Wanchai,                                        Hong Kong
+                     Hong Kong                                       Tel:      +972 54 5691693
+                                                                     Fax:      +972 3 5469218
+                                                                     E-mail: noam@iamwebbing.com
+
+
+
+      Country/              Company Name/Address                  Issuer                     Contact
+  Geographical area                                             Identifier
+                                                                 Number
+ Hong Kong, China           Tink Labs Limited                  89 852 37     Mr Lau Kin Sang
+                            1st Floor, Sing Pao Building,                    1st Floor, Sing Pao Building,
+                            101 King’s Road, North Point,                    101 King’s Road, North Point,
+                            Hong Kong                                        Hong Kong
+                                                                             Tel:      +852 9138 1033
+                                                                             Fax:      +852 3698 1899
+                                                                             E-mail: kslau@tinklabs.com
+ Hong Kong, China           HGC Global Communications          89 852 68     Mr Michael Shiu
+                            Limited                                          9/F Hutchison Telecom Tower,
+                            17/F Hutchison Telecom                           99 Cheung Fai Road,
+                            Tower,                                           Tsing Yi, New Territories,
+                            99 Cheung Fai Road,                              Hong Kong
+                            Tsing Yi, New Territories,                       Tel:      +852 2128 3399
+                            Hong Kong                                        Fax:      +852 2126 7090
+                                                                             E-mail: michael.shiu@hgc.com.hk
+ Hong Kong, China           HKBN Enterprise Solutions          89 852 69     Mr Kenneth Ng
+                            Limited                                          12/F, Trans Asia Centre, 18 Kin Hong
+                            12/F, Trans Asia Centre,                         Street,
+                            18 Kin Hong Street,                              Kwai Chung, New Territories,
+                            Kwai Chung, New Territories,                     Hong Kong
+                            Hong Kong                                        Tel:      +852 3999 1222
+                                                                             Fax:      +852 3999 7695
+                                                                             E-mail: kenneth.ng@hkbn.com.hk
+ Hong Kong, China           WTT HK Limited                     89 852 77     Ms Agnes Tan
+                            9/F, KITEC, 1 Trademart                          9/F, KITEC, 1 Trademart Drive,
+                            Drive,                                           Kowloon Bay, Kowloon,
+                            Kowloon Bay, Kowloon,                            Hong Kong
+                            Hong Kong                                        Tel:      +852 2112 2672
+                                                                             Fax:      +852 2112 2680
+                                                                             E-mail: tanagnes@wtthk.com
+ Hong Kong, China           PCCW-HKT Telephone                 89 852 80     Mr Philip Ho
+                            Limited and Hong Kong                            17/F, PCCW Tower, Taikoo Place,
+                            Telecommunications (HKT)                         979 King's Road, Quarry Bay,
+                            Limited                                          Hong Kong
+                            39/F., PCCW Tower, Taikoo                        Tel:      +852 2888 2836
+                            Place,                                           Fax:      +852 2504 5937
+                            979 King's Road, Quarry Bay,                     E-mail: philip.kw.ho@pccw.com
+                            Hong Kong
+
+
+Hong Kong, China    SUP
+   Country/     Company Name/Address                    Issuer     Contact                                    Effective
+ geographical                                         Identifier                                               date of
+     area                                              Number                                               cancellation
+ Hong Kong,     Trident Telecom Ventures Ltd          89 852 08    CY Lee                                   23.IX.2009
+ China          Unit 1004, 10/F AXA Ctr.,151                       Unit 1004, 10/F AXA Ctr.,151
+                Gloucester Road                                    Gloucester Road
+                WANCHAI                                            WANCHAI
+                                                                   Tel:    +852 2121 1818
+                                                                   Fax:    +852 2121 1810
+                                                                   E-mail: cylee@tridenttelecom.com.hk
+
+
+
+
+Macao, China     LIR
+
+ Country/Geographical     Company Name/Address              Issuer                      Contact
+         area                                             Identifier
+                                                           Number
+ Macao, China             SmarTone - Comunicações        89 853 00      Tracy Law
+                          Móveis, S.A.                                  Avenida Xian Xing Hai,
+                          Avenida Xian Xing Hai,                        Centro Golden Dragon, 12 andar,
+                          Centro Golden Dragon, 12                      Macau
+                          andar,                                        Tel:     +853 8797 9222
+                          Macau                                         Fax:     +853 2878 7811
+                                                                        E-mail: tracy_law@smartone.com
+ Macao, China             Companhia de                   89 853 01      Teresa Chan
+                          Telecomunicações de                           Rua de Lagos,
+                          Macau, S.A.R.L.                               Telecentro,
+                          Rua de Lagos,                                 Taipa, Macau
+                          Telecentro,                                   Tel:     +853 8891 5031
+                          Taipa, Macau                                  Fax:     +853 2852 9420
+                                                                        E-mail: teresa.pc.chan@ctm.com.mo
+ Macao, China             Hutchison – Telefone           89 853 03      Ho Wai Ming
+                          (Macau), Limitada                             Avenida Xian Xing Hai,
+                          Avenida Xian Xing Hai,                        Centro Golden Dragon, 8 andar,
+                          Centro Golden Dragon, 8                       Macau
+                          andar,                                        Tel:     +853 8893 3339
+                          Macau                                         Fax:     +853 2878 2288
+                                                                        E-mail: wmho@htmac.com
+
+
+Malaysia LIR
+     Country/          Company Name/Address              Issuer Identifier                Contact
+ geographical area                                           Number
+ Malaysia              Telekom Malaysia Berhad (TM)          89 60 00        Asma Md. Isa
+                       Menara TM,                                            7th South Wing, Menara TM,
+                       Jalan Pantai Baharu                                   Jalan Pantai Baharu,
+                       50672 KUALA LUMPUR                                    50672 KUALA LUMPUR
+                                                                             Tel:      +60 3 2240 7470
+                                                                             Fax:      +60 3 7955 7135
+                                                                             E-mail: asmaisa@tm.com.my
+ Malaysia              Maxis Broadband Sdn Bhd               89 60 01        Abdul Karim Fakir Bin Ali
+                       Level 21, Menara Maxis,                               Level 21, Menara Maxis,
+                       Kuala Lumpur City Centre,                             Kuala Lumpur City Centre,
+                       Off Jalan Ampang,                                     Off Jalan Ampang,
+                       50088 KUALA LUMPUR                                    50088 KUALA LUMPUR
+                                                                             Tel:     +60 3 2330 7000
+                                                                             Fax:     +60 3 2330 0590/
+                                                                                      +60 3 2330 0513
+                                                                             E-mail: karim@maxis.com.my
+ Malaysia              Celcom Axiata Berhad                  89 60 19        Moriani Mohamed
+                       Level 22, Menara Celcom,                              Level 22, Menara Celcom,
+                       82, Jalan Raja Muda Abdul Aziz,                       82, Jalan Raja Muda Abdul Aziz,
+                       50300 KUALA LUMPUR                                    50300 KUALA LUMPUR
+                                                                             Tel:     +60 3 2688 4616
+                                                                             Fax:     +60 3 2681 0350
+                                                                             E-mail: moriani@celcom.com.my
+
+
+
+
+ Malaysia              TT dotCom Sdn. Bhd.                         89 60 88           Afzal Abdul Rahim
+                       Level 4, No. 14, Jalan Majistret                               Level 4, No. 14, Jalan Majistret
+                       U1/26,                                                         U1/26,
+                       HICOM Glenmarie Industrial                                     HICOM Glenmarie Industrial Park,
+                       Park,                                                          40150 SHAH ALAM SELANGOR
+                       40150 SHAH ALAM SELANGOR                                       Tel:      +60 3 5032 6000
+                                                                                      Fax:      +60 3 5032 6401
+                                                                                      E-mail: afzal@time.com.my
+
+Namibia LIR
+ Country/Geographical       Company Name/Address                        Issuer                      Contact
+         area                                                         Identifier
+                                                                       Number
+
+ Namibia                    Mobile Telecommunications              89 264 01          Curt Mouton
+                            Ltd.                                                      PO Box 23051
+                            PO Box 23051                                              WINDHOEK
+                            WINDHOEK                                                  Tel:    +264 61 280 2000
+                                                                                      Fax:    +264 61 280 2124
+                                                                                      E-mail: cmouton@mtc.com.na
+
+ Namibia                    Paratus Telecommunications             89 264 22          Erasmus Schalk
+                            (Pty) Ltd                                                 P.O. Box 90140, Klein
+                            P.O. Box 90140, Klein                                     WINDHOEK
+                            WINDHOEK                                                  Tel:    +264 83 300 1000
+                                                                                      E-mail: schalk.erasmus@paratus.com
+
+
+Trinidad and Tobago LIR
+
+   Country/Geographical       Company Name/Address                      Issuer                      Contact
+           area                                                       Identifier
+                                                                       Number
+ Trinidad and Tobago          Telecommunications                     89 1 023         Martin Young
+                              Services of Trinidad and                                1 Edward St.
+                              Tobago Ltd. (TSTT)                                      PORT OF SPAIN
+                              PO Box 917, 54 Frederick St.                            Tel:    +1 868 623 2837
+                              PORT OF SPAIN                                           Fax:    +1 868 623 2759
+                                                                                      E-mail: myoung@tstt.co.tt
+
+United States     SUP
+    Country/            Company Name/Address                   Issuer       Contact                             Effective
+  geographical                                               Identifier                                          date of
+      area                                                    Number                                          cancellation
+ United States    North Dakota Network Company               89 1 040       Mr Shawn Grosz                     31.III.2018
+                  3615 North Broadway                                       3615 North Broadway
+                  MINOT, ND 58703                                           MINOT, ND 58703
+                                                                            Tel:    +1 701 858 1200
+                                                                            Fax: +1 701 858 1400
+                                                                            E-mail: shawngg@srttel.com
+
+
+
+
+Venezuela (Bolivarian Republic of)   LIR
+    Country/     Company Name/Address            Issuer     Contact
+  geographical                                 Identifier
+      area                                      Number
+ Venezuela       Telefónica Venezolana, C.A.   89 58 04     Alfredo Uzcátegui
+ (Bolivarian     Avenida Francisco de                       And/or José Riera
+ Republic of)    Miranda                                    Avenida Francisco de Miranda
+                 CARACAS 1060                               CARACAS 1060
+                                                            Tel:    +58 212 200 8259 and/or 200.95.55
+                                                            Fax: +58 212 200 8279
+                                                            E-mail: alfredo.uzcategui@telefonica.com.ve
+                                                                   jose.riera@telefonica.com.ve
+
+
+
+
+Mobile Network Codes (MNC) for the international identification plan
+               for public networks and subscriptions
+       (According to Recommendation ITU-T E.212 (09/2016))
+                 (Position on 1st November 2016)
+                       (Annex to ITU Operational Bulletin No. 1111 - 1.XI.2016)
+                                       (Amendment No.41 )
+
+  Country/Geographical area           MCC+MNC *           Operator/Network
+  Denmark SUP
+                                            238 07        Mundio Mobile (Denmark) Limited
+  Denmark ADD
+                                            238 05        Dansk Beredskabskommunikation
+                                            238 09        Dansk Beredskabskommunikation
+                                            238 23        Banedanmark
+  Denmark LIR
+                                            238 01        TDC A/S
+                                            238 02        Telenor
+                                            238 03        Syniverse Technologies
+                                            238 08        Voxbone
+                                            238 10        TDC A/S
+                                            238 11        Dansk Beredskabskommunikation
+                                            238 12        Lycamobile Denmark Ltd.
+                                            238 28        LINK Mobility A/S
+                                            238 77        Telenor
+  Kyrgyzstan ADD
+                                            437 03        7 Mobile
+                                            437 05        Alfa Telecom
+                                            437 06        Kyrgyztelecom
+                                            437 09        Nur Telecom
+                                            437 10        Saima Telecom
+                                            437 11        iTel
+  Kyrgyzstan LIR
+                                            437 01        Sky Mobile
+  Spain ADD
+                                                          SAC CONVERGENT AGGREGATION
+                                            214 12
+                                                          SERVICES, S.L.U.
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                       (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                        (Amendment No. 64)
+
+ Country or area/ISO code                         Company Code      Contact
+  Company Name/Address                             (carrier code)
+
+Germany (Federal Republic of) / DEU       ADD
+
+ AirIT Services GmbH                                  AIRIT         Mr Mario Kraemer
+ Gebaeude 663                                                       Tel.:    +49 6543 507310
+ 55483 HAHN-FLUGHAFEN                                               Fax:     +49 6543 507333
+                                                                    E-mail : mario.kraemer@airit.de
+
+ AVACOMM Systems GmbH                               AVACOM          Mr Christian Gallitscher
+ Muehlthal 3                                                        Tel.:    +49 8020 90571 0
+ 83626 VALLEY                                                       Fax:     +49 8020 90571 20
+                                                                    E-mail : support@avacomm.com
+
+ Breitbandzweckverband Suedangeln                     BZVS          Mr Joachim Kock
+ Toft 7                                                             Tel.:    +49 4623 78412
+ 24860 BOEKLUND                                                     Fax:     +49 4623 78400
+                                                                    E-mail : bzv-suedangeln@amt-suedangeln.de
+
+ SVO Vertrieb GmbH                                    SVOV          Mr Kersten Koschoreck
+ Sprengerstrasse 2                                                  Tel.:    +49 5141 2196 1300
+ 29223 CELLE                                                        Fax:     +49 5141 2196 1399
+                                                                    E-mail : kersten.koschoreck@svo.de
+
+ Twilio Germany GmbH                                 TWLODE         Mr Sven Dirschauer-Grube
+ Frauenlobstrasse 2                                                 Tel.:    +49 176 21177364
+ 80337 MUNICH                                                       E-mail : sdirschauer@twilio.com
+
+
+ WEMAG AG                                            WEMAG          Mr Mario Jeske
+ Obotritenring 40                                                   Tel.:     +49 385 755 2460
+ 19053 SCHWERIN                                                     Fax:      +49 385 755 2222
+                                                                    E-mail : mario.jeske@wemag.com
+
+ Stadtwerke Hilden GmbH                              SWH106         Mr Martin Sasonow
+ Am Feuerwehrhaus 1                                                 Tel.:    +49 2103 795 163
+ 40724 HILDEN                                                       Fax:     +49 2103 795 130
+                                                                    E-mail : martin.sasonow@stadtwerke-hilden.de
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 40)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Australia LIR
+ 5-011-1       10329        Sydney Test Switch                         TPG Telecom Ltd
+ 5-015-4       10364        Sydney                                     TPG Telecom Ltd
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                         Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.VII.2018, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                             Country/ Geographical area                     Country Code (CC)
+                  Mexico                                                             +52
+
+
+
+

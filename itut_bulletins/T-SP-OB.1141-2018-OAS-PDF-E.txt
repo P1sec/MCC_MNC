@@ -1,0 +1,1396 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1141             1.II.2018                   (Information received by 16 January 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin ...............................................................................................                      3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                             6
+     Hungary (National Media and Infocommunications Authority, Budapest) ..............................................                                           22
+     Sierra Leone (National Telecommunications Commission (NATCOM), Freetown) ...................................                                                 25
+Service Restrictions ........................................................................................................................................     26
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   26
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .........................................                                         27
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               28
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................      29
+List of ITU Carrier Codes .................................................................................................................................       30
+List of International Signalling Point Codes (ISPC) .........................................................................................                     31
+National Numbering Plan ...............................................................................................................................           31
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1142             15.II.2018              1.II.2018
+               1143              1.III.2018            15.II.2018
+               1144             15.III.2018            1.III.2018
+               1145              1.IV.2018             16.III.2018
+               1146             15.IV.2018             30.III.2018
+               1147              1.V.2018              13.IV.2018
+               1148             15.V.2018               1.V.2018
+               1149              1.VI.2018             16.V.2018
+               1150             15.VI.2018             1.VI.2018
+               1151             1.VII.2018             15.VI.2018
+               1152             15.VII.2018            29.VI.2018
+               1153             1.VIII.2018           17.VII.2018
+               1154            15.VIII.2018            1.VIII.2018
+               1155              1.IX.2018            16.VIII.2018
+               1156             15.IX.2018            31.VIII.2018
+               1157              1.X.2018              14.IX.2018
+               1158             15.X.2018              28.IX.2018
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-27, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T M.3071 (01/2018): Cloud-based network management functional architecture
+–     ITU-T X.760 (01/2018): The measurement framework for the statistical indicators of website traffic
+–     ITU-T Q.1912.5 (01/2018): Interworking between Session Initiation Protocol (SIP) and Bearer Independent
+      Call Control protocol or ISDN User Part
+–     ITU-T Q.3640 (01/2018): Framework of interconnection of VoLTE/ViLTE-based networks
+–     ITU-T Q.3714 (01/2018): Signalling requirements of SDN-based access networks with media independent
+      management capabilities
+–     ITU-T Q.3715 (01/2018): Signalling requirements for dynamic bandwidth adjustment on demand on
+      broadband network gateway implemented by software-defined networking technologies
+–     ITU-T Q.3716 (01/2018): Signalling Requirements for Mapping between Physical and Virtual Networks
+–     ITU-T Q.3740 (01/2018): Signalling Requirements for SDN and NFV based Central Office services
+–     ITU-T Q.3914 (01/2018): Set of parameters of cloud computing for monitoring
+–     ITU-T Q.3940 (01/2018): NGN/IMS interconnection tests between network operators at the IMS 'Ic'
+      interface and NGN NNI / SIP-I
+–     ITU-T Q.3952 (01/2018): The architecture and facilities of Model network for IoT testing
+–     ITU-T Q.3953 (01/2018): VoLTE/ViLTE interconnection testing for interworking and roaming scenarios
+–     ITU-T Q.4016 (01/2018): Testing specification of call establishment procedures based on SIP/SDP and
+      ITU-T H.248 for a real-time fax over IP service
+–     ITU-T Q.4041.1 (01/2018): Cloud computing infrastructure capabilities interoperability testing - part 1:
+      Interoperability testing between CSC and CSP
+–     ITU-T X.609.4 (01/2018): Managed P2P communications: Multimedia streaming peer protocol
+–     ITU-T X.609.5 (01/2018): Managed P2P communications: Multimedia streaming overlay management
+      protocol
+–     ITU-T I.570 (01/2018): Public/private ISDN interworking
+–     ITU-T K.35 (01/2018): Bonding configurations and earthing at remote electronic sites
+–     ITU-T K.40 (01/2018): Protection against LEMP in telecommunications centres
+–     ITU-T K.50 (01/2018): Safe limits for operating voltages and currents of telecommunication systems
+      powered over the network
+–     ITU-T K.52 (01/2018): Guidance on complying with limits for human exposure to electromagnetic fields
+–     ITU-T K.61 (01/2018): Guidance on measurement and numerical prediction of electromagnetic fields for
+      compliance with human exposure limits for telecommunication installations
+–     ITU-T K.70 (01/2018): Mitigation techniques to limit human exposure to EMFs in the vicinity of
+      radiocommunication stations
+–     ITU-T K.91 (01/2018): Guidance for assessment, evaluation and monitoring of human exposure to radio
+      frequency electromagnetic fields
+–     ITU-T K.100 (01/2018): Measurement of radio frequency electromagnetic fields to determine compliance
+      with human exposure limits when a base station is put into service
+–     ITU-T K.128 (01/2018): Surge protective component application guide - metal oxide varistor (MOV)
+      components
+
+
+
+–        ITU-T K.129 (01/2018): Characteristics and ratings of silicon PN junction voltage clamping components
+         used for the protection of telecommunications installations
+–        ITU-T K.130 (01/2018): Neutron irradiation test methods for telecommunications equipment
+–        ITU-T K.131 (01/2018)
+–        ITU-T K.132 (01/2018): EMC requirements of electromagnetic disturbances from lighting equipment
+         located in telecommunication facilities
+–        ITU-T K.133 (01/2018): Electromagnetic (EM) environment of body worn equipment in the 2.4 GHz and
+         13.56MHz industrial, scientific and medical band
+–        ITU-T L.1020 (01/2018): Circular Economy: Guide for Operators and Suppliers on approaches to migrate
+         towards circular ICT goods and networks
+–        ITU-T L.1332 (01/2018): Total network infrastructure Energy efficiency metrics
+–        ITU-T L.1505 (01/2018): Use of ICT in the adaptation of the Fisheries Sector to the Effects of Climate
+         Change
+–        ITU-T L.1506 (01/2018): Framework of climate change risk assessment for telecommunication and
+         electrical facilities
+–        ITU-T M.1400 (2015) Amd. 1 (01/2018): Addition of new function codes for optical networks beyond
+         100 Gb/s
+–        ITU-T Y.2255 (01/2018): Voice and Video Call Continuity over LTE, Wi-Fi and 2G/3G
+–        ITU-T Y.2322 (01/2018): The functional architecture of VCNMO (Virtualized Control Network entities
+         Management and Orchestration) in NGN evolution
+–        ITU-T Y.2618 (01/2018): M interface in Public packet Telecommunication Data Network (PTDN)
+–        ITU-T Y.3053 (01/2018): Framework of trustworthy networking with trust-centric network domains
+–        ITU-T Y.3101 (01/2018)
+–        ITU-T Y.3130 (01/2018): Requirements of IMT-2020 fixed mobile convergence
+–        ITU-T Y.3150 (01/2018): High level technical characteristics of network softwarization for IMT-2020
+–        ITU-T Y.3650 (01/2018): Framework of big data driven networking
+–        ITU-T Y.4500.1 (01/2018): oneM2M- Functional Architecture
+
+
+
+
+                                       Telephone Service
+                                  (Recommendation ITU-T E.164)
+                                        url: www.itu.int/itu-t/inr/nnp
+Denmark (country code +45)
+Communication of 5.I.2018:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+
+•         assignment – Fixed communication services
+                Provider                              Numbering series              Date of assignment
+Dialoga Servicios Interactivos, S.A   32443fgh                                            4.I.2018
+
+
+
+
+•         withdrawal – Fixed communication services
+                Provider                              Numbering series              Date of withdrawal
+TDC A/S                               1000-serie:                                       31.XII.2017
+                                       36352fgh
+                                       36354fgh
+                                       36356fgh
+                                       36357fgh
+                                       36358fgh
+                                       39764fgh
+                                       39765fgh
+                                       39767fgh
+                                       39768fgh
+                                       39769fgh
+                                       43615fgh
+                                       43616fgh
+                                       43617fgh
+                                       43618fgh
+                                       43619fgh
+                                       45415fgh
+                                       45416fgh
+                                       45417fgh
+                                       45418fgh
+                                       45419fgh
+                                       46164fgh
+                                       46166fgh
+                                       46167fgh
+                                       46168fgh
+                                       46169fgh
+                                       46735fgh
+                                       46736fgh
+                                       46737fgh
+                                       46738fgh
+
+
+            Provider                     Numbering series   Date of withdrawal
+TDC A/S                    1000-serie:                          31.XII.2017
+                            46739fgh
+                            46745fgh
+                            46746fgh
+                            46747fgh
+                            46748fgh
+                            46749fgh
+                            47514fgh
+                            47515fgh
+                            47516fgh
+                            47517fgh
+                            47518fgh
+                            48304fgh
+                            48306fgh
+                            48307fgh
+                            48308fgh
+                            48309fgh
+                            48462fgh
+                            48463fgh
+                            48464fgh
+                            48468fgh
+                            48469fgh
+                            49120fgh
+                            49123fgh
+                            49124fgh
+                            49128fgh
+                            49129fgh
+                            49171fgh
+                            49172fgh
+                            49173fgh
+                            49178fgh
+                            49179fgh
+                            49195fgh
+                            49196fgh
+                            49197fgh
+                            49198fgh
+                            49199fgh
+                            49272fgh
+                            49273fgh
+                            49274fgh
+                            49275fgh
+                            49276fgh
+                            49712fgh
+                            49713fgh
+                            49714fgh
+
+
+
+               Provider                 Numbering series        Date of withdrawal
+TDC A/S                   1000-serie:                               31.XII.2017
+                           49715fgh
+                           49716fgh
+                           54450fgh
+                           54452fgh
+                           54455fgh
+                           54458fgh
+                           54459fgh
+                           54612fgh
+                           54613fgh
+                           54614fgh
+                           54618fgh
+                           54619fgh
+                           54632fgh
+                           54633fgh
+                           54634fgh
+                           54635fgh
+                           54636fgh
+                           54692fgh
+                           54695fgh
+                           54697fgh
+                           54698fgh
+                           54699fgh
+                           54714fgh
+                           54716fgh
+                           54717fgh
+                           54718fgh
+                           54719fgh
+                           54750fgh
+                           54751fgh
+                           54752fgh
+                           54753fgh
+                           54754fgh
+                           54810fgh
+                           54811fgh
+                           54812fgh
+                           54813fgh
+                           54814fgh
+                           55435fgh
+                           55436fgh
+                           55437fgh
+                           55438fgh
+                           55439fgh
+                           55560fgh
+                           55566fgh
+
+
+
+            Provider                     Numbering series   Date of withdrawal
+TDC A/S                    1000-serie:                          31.XII.2017
+                            55567fgh
+                            55568fgh
+                            55569fgh
+                            55710fgh
+                            55712fgh
+                            55714fgh
+                            55715fgh
+                            55716fgh
+                            55820fgh
+                            55821fgh
+                            55822fgh
+                            55828fgh
+                            55829fgh
+                            56340fgh
+                            56341fgh
+                            56342fgh
+                            56343fgh
+                            56344fgh
+                            56700fgh
+                            56701fgh
+                            56702fgh
+                            56703fgh
+                            56704fgh
+                            56781fgh
+                            56782fgh
+                            56783fgh
+                            56784fgh
+                            56786fgh
+                            56860fgh
+                            56863fgh
+                            56864fgh
+                            56866fgh
+                            56867fgh
+                            56874fgh
+                            56875fgh
+                            56876fgh
+                            56877fgh
+                            56878fgh
+                            56915fgh
+                            56916fgh
+                            56917fgh
+                            56918fgh
+                            56919fgh
+                            57602fgh
+
+
+
+           Provider                 Numbering series        Date of withdrawal
+TDC A/S               1000-serie:                               31.XII.2017
+                       57604fgh
+                       57606fgh
+                       57607fgh
+                       57609fgh
+                       57841fgh
+                       57842fgh
+                       57843fgh
+                       57846fgh
+                       57847fgh
+                       57881fgh
+                       57882fgh
+                       57883fgh
+                       57884fgh
+                       57885fgh
+                       58180fgh
+                       58181fgh
+                       58182fgh
+                       58183fgh
+                       58187fgh
+                       58201fgh
+                       58202fgh
+                       58203fgh
+                       58204fgh
+                       58205fgh
+                       58220fgh
+                       58221fgh
+                       58222fgh
+                       58223fgh
+                       58224fgh
+                       58244fgh
+                       58246fgh
+                       58247fgh
+                       58248fgh
+                       58249fgh
+                       58354fgh
+                       58355fgh
+                       58357fgh
+                       58358fgh
+                       58359fgh
+                       58364fgh
+                       58366fgh
+                       58367fgh
+                       58368fgh
+                       58369fgh
+
+
+
+            Provider                     Numbering series   Date of withdrawal
+TDC A/S                    1000-serie:                          31.XII.2017
+                            59250fgh
+                            59252fgh
+                            59254fgh
+                            59255fgh
+                            59259fgh
+                            59300fgh
+                            59301fgh
+                            59307fgh
+                            59308fgh
+                            59309fgh
+                            59662fgh
+                            59663fgh
+                            59664fgh
+                            59667fgh
+                            59669fgh
+                            62260fgh
+                            62266fgh
+                            62267fgh
+                            62268fgh
+                            62269fgh
+                            62510fgh
+                            62516fgh
+                            62517fgh
+                            62518fgh
+                            62519fgh
+                            62600fgh
+                            62603fgh
+                            62604fgh
+                            62605fgh
+                            62606fgh
+                            64710fgh
+                            64716fgh
+                            64717fgh
+                            64718fgh
+                            64719fgh
+                            65200fgh
+                            65203fgh
+                            65205fgh
+                            65208fgh
+                            65209fgh
+                            65320fgh
+                            65326fgh
+                            65327fgh
+                            65328fgh
+
+
+
+           Provider                 Numbering series        Date of withdrawal
+TDC A/S               1000-serie:                               31.XII.2017
+                       65329fgh
+                       65373fgh
+                       65374fgh
+                       65377fgh
+                       65378fgh
+                       65379fgh
+                       65422fgh
+                       65423fgh
+                       65426fgh
+                       65427fgh
+                       65429fgh
+                       65430fgh
+                       65435fgh
+                       65436fgh
+                       65438fgh
+                       65439fgh
+                       65450fgh
+                       65451fgh
+                       65453fgh
+                       65454fgh
+                       65459fgh
+                       66195fgh
+                       66196fgh
+                       66197fgh
+                       66198fgh
+                       66199fgh
+                       73204fgh
+                       73205fgh
+                       73206fgh
+                       73208fgh
+                       73209fgh
+                       73740fgh
+                       73741fgh
+                       73746fgh
+                       73748fgh
+                       73749fgh
+                       73760fgh
+                       73763fgh
+                       73764fgh
+                       73765fgh
+                       73769fgh
+                       73840fgh
+                       73843fgh
+                       73844fgh
+
+
+
+            Provider                     Numbering series   Date of withdrawal
+TDC A/S                    1000-serie:                          31.XII.2017
+                            73847fgh
+                            73849fgh
+                            74180fgh
+                            74185fgh
+                            74186fgh
+                            74188fgh
+                            74189fgh
+                            74312fgh
+                            74316fgh
+                            74317fgh
+                            74318fgh
+                            74319fgh
+                            74475fgh
+                            74476fgh
+                            74477fgh
+                            74478fgh
+                            74479fgh
+                            74480fgh
+                            74481fgh
+                            74482fgh
+                            74483fgh
+                            74484fgh
+                            75262fgh
+                            75263fgh
+                            75265fgh
+                            75266fgh
+                            75268fgh
+                            75281fgh
+                            75283fgh
+                            75284fgh
+                            75285fgh
+                            75286fgh
+                            75390fgh
+                            75394fgh
+                            75395fgh
+                            75397fgh
+                            75399fgh
+                            75430fgh
+                            75434fgh
+                            75436fgh
+                            75438fgh
+                            75439fgh
+                            75692fgh
+                            75696fgh
+
+
+
+           Provider                 Numbering series        Date of withdrawal
+TDC A/S               1000-serie:                               31.XII.2017
+                       75697fgh
+                       75698fgh
+                       75699fgh
+                       75874fgh
+                       75875fgh
+                       75877fgh
+                       75878fgh
+                       75879fgh
+                       76351fgh
+                       76352fgh
+                       76357fgh
+                       76358fgh
+                       76359fgh
+                       76872fgh
+                       76874fgh
+                       76876fgh
+                       76877fgh
+                       76878fgh
+                       79200fgh
+                       79205fgh
+                       79206fgh
+                       79208fgh
+                       79209fgh
+                       79230fgh
+                       79235fgh
+                       79237fgh
+                       79238fgh
+                       79239fgh
+                       79244fgh
+                       79245fgh
+                       79246fgh
+                       79248fgh
+                       79249fgh
+                       79310fgh
+                       79312fgh
+                       79314fgh
+                       79318fgh
+                       79319fgh
+                       79382fgh
+                       79385fgh
+                       79386fgh
+                       79387fgh
+                       79388fgh
+                       79400fgh
+
+
+
+            Provider                     Numbering series   Date of withdrawal
+TDC A/S                    1000-serie:                          31.XII.2017
+                            79401fgh
+                            79402fgh
+                            79403fgh
+                            79407fgh
+                            79710fgh
+                            79712fgh
+                            79713fgh
+                            79714fgh
+                            79719fgh
+                            79720fgh
+                            79721fgh
+                            79723fgh
+                            79728fgh
+                            79729fgh
+                            79961fgh
+                            79964fgh
+                            79967fgh
+                            79968fgh
+                            79969fgh
+                            86455fgh
+                            86456fgh
+                            86457fgh
+                            86458fgh
+                            86459fgh
+                            86490fgh
+                            86493fgh
+                            86498fgh
+                            86499fgh
+                            86594fgh
+                            86595fgh
+                            86597fgh
+                            86598fgh
+                            86599fgh
+                            86604fgh
+                            86605fgh
+                            86606fgh
+                            86607fgh
+                            86894fgh
+                            86895fgh
+                            86896fgh
+                            86897fgh
+                            86899fgh
+                            86913fgh
+                            86916fgh
+
+
+
+           Provider                 Numbering series        Date of withdrawal
+TDC A/S               1000-serie:                               31.XII.2017
+                       86917fgh
+                       86918fgh
+                       86919fgh
+                       87590fgh
+                       87593fgh
+                       87595fgh
+                       87598fgh
+                       87599fgh
+                       87670fgh
+                       87671fgh
+                       87672fgh
+                       87673fgh
+                       87676fgh
+                       87683fgh
+                       87685fgh
+                       87687fgh
+                       87688fgh
+                       87689fgh
+                       87690fgh
+                       87691fgh
+                       87692fgh
+                       87694fgh
+                       87697fgh
+                       87771fgh
+                       87772fgh
+                       87775fgh
+                       87777fgh
+                       87778fgh
+                       87805fgh
+                       87806fgh
+                       87807fgh
+                       87808fgh
+                       87809fgh
+                       87952fgh
+                       87953fgh
+                       87954fgh
+                       87956fgh
+                       87957fgh
+                       87980fgh
+                       87984fgh
+                       87986fgh
+                       87987fgh
+                       87988fgh
+                       89194fgh
+
+
+
+            Provider                     Numbering series   Date of withdrawal
+TDC A/S                    1000-serie:                          31.XII.2017
+                            89195fgh
+                            89196fgh
+                            89198fgh
+                            89199fgh
+                            89220fgh
+                            89221fgh
+                            89226fgh
+                            89227fgh
+                            89229fgh
+                            89261fgh
+                            89263fgh
+                            89265fgh
+                            89268fgh
+                            89269fgh
+                            89270fgh
+                            89271fgh
+                            89277fgh
+                            89278fgh
+                            89279fgh
+                            89460fgh
+                            89461fgh
+                            89466fgh
+                            89467fgh
+                            89469fgh
+                            89590fgh
+                            89596fgh
+                            89597fgh
+                            89598fgh
+                            89599fgh
+                            96122fgh
+                            96124fgh
+                            96125fgh
+                            96128fgh
+                            96129fgh
+                            96150fgh
+                            96156fgh
+                            96157fgh
+                            96158fgh
+                            96159fgh
+                            96381fgh
+                            96382fgh
+                            96384fgh
+                            96387fgh
+                            96388fgh
+
+
+
+           Provider                 Numbering series        Date of withdrawal
+TDC A/S               1000-serie:                               31.XII.2017
+                       96390fgh
+                       96392fgh
+                       96393fgh
+                       96394fgh
+                       96395fgh
+                       96521fgh
+                       96523fgh
+                       96524fgh
+                       96526fgh
+                       96527fgh
+                       96590fgh
+                       96596fgh
+                       96597fgh
+                       96598fgh
+                       96599fgh
+                       96620fgh
+                       96621fgh
+                       96623fgh
+                       96624fgh
+                       96628fgh
+                       96762fgh
+                       96765fgh
+                       96766fgh
+                       96767fgh
+                       96769fgh
+                       96770fgh
+                       96772fgh
+                       96773fgh
+                       96777fgh
+                       96778fgh
+                       96804fgh
+                       96805fgh
+                       96806fgh
+                       96807fgh
+                       96809fgh
+                       96993fgh
+                       96994fgh
+                       96997fgh
+                       96998fgh
+                       96999fgh
+                       97130fgh
+                       97134fgh
+                       97135fgh
+                       97138fgh
+
+
+
+            Provider                     Numbering series   Date of withdrawal
+TDC A/S                    1000-serie:                          31.XII.2017
+                            97139fgh
+                            97170fgh
+                            97174fgh
+                            97176fgh
+                            97177fgh
+                            97179fgh
+                            97310fgh
+                            97314fgh
+                            97317fgh
+                            97318fgh
+                            97319fgh
+                            97340fgh
+                            97344fgh
+                            97345fgh
+                            97347fgh
+                            97349fgh
+                            97355fgh
+                            97356fgh
+                            97357fgh
+                            97358fgh
+                            97415fgh
+                            97416fgh
+                            97417fgh
+                            97418fgh
+                            97480fgh
+                            97483fgh
+                            97486fgh
+                            97488fgh
+                            97489fgh
+                            97743fgh
+                            97745fgh
+                            97747fgh
+                            97748fgh
+                            97749fgh
+                            97870fgh
+                            97873fgh
+                            97874fgh
+                            97876fgh
+                            97877fgh
+                            97950fgh
+                            97954fgh
+                            97955fgh
+                            97957fgh
+                            97958fgh
+
+
+
+           Provider                 Numbering series        Date of withdrawal
+TDC A/S               1000-serie:                               31.XII.2017
+                       97964fgh
+                       97966fgh
+                       97967fgh
+                       97968fgh
+                       97969fgh
+                       97992fgh
+                       97994fgh
+                       97996fgh
+                       97998fgh
+                       97999fgh
+                       98280fgh
+                       98285fgh
+                       98287fgh
+                       98288fgh
+                       98289fgh
+                       98390fgh
+                       98394fgh
+                       98395fgh
+                       98397fgh
+                       98399fgh
+                       98400fgh
+                       98403fgh
+                       98404fgh
+                       98405fgh
+                       98406fgh
+                       98560fgh
+                       98563fgh
+                       98564fgh
+                       98567fgh
+                       98568fgh
+                       98700fgh
+                       98701fgh
+                       98702fgh
+                       98707fgh
+                       98708fgh
+                       98840fgh
+                       98845fgh
+                       98846fgh
+                       98848fgh
+                       98849fgh
+                       98853fgh
+                       98855fgh
+                       98856fgh
+                       98858fgh
+
+
+
+                Provider                            Numbering series                    Date of withdrawal
+TDC A/S                             1000-serie:                                             31.XII.2017
+                                     98859fgh
+                                         98950fgh
+                                         98953fgh
+                                         98955fgh
+                                         98957fgh
+                                         98959fgh
+                                         99110fgh
+                                         99112fgh
+                                         99114fgh
+                                         99115fgh
+                                         99119fgh
+                                         99170fgh
+                                         99175fgh
+                                         99176fgh
+                                         99178fgh
+                                         99179fgh
+                                         99220fgh
+                                         99226fgh
+                                         99227fgh
+                                         99228fgh
+                                         99229fgh
+                                         99233fgh
+                                         99236fgh
+                                         99237fgh
+                                         99238fgh
+                                         99239fgh
+
+CORRIGENDUM* - Communication of 19.I.2018:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+    assignment – M2M communication
+             Provider                               Numbering series                     Date of assignment
+ Telenor A/S                      37100130ijkl, 37100131ijkl, 37100132ijkl,                  13.XII.2017
+                                  37100133ijkl, 37100134ijkl, 37100135ijkl,
+                                  37100136ijkl, 37100137ijkl, 37100138ijkl and
+                                  37100139ijkl
+* This announcement cancels and replaces that published in ITU Operational Bulletin No. 1140 of 15.I.2018,
+page 5, M2M communication for Telenor A/S.
+Contact:
+               Danish Energy Agency
+               Amaliegade 44
+               1256 COPENHAGEN K
+               Denmark
+               Tel:    +45 33 92 67 00
+               Fax:    +45 33 11 47 43
+               E-mail: ens@ens.dk
+               URL:    www.ens.dk
+
+
+
+Hungary (country code +36)
+Communication of 10.I.2018:
+The National Media and Infocommunications Authority, Budapest, announces the updated E.164 National
+Numbering Plan (NNP) for Hungary (country code +36).
+
+
+              Description of deletion of resource for national E.164 numbering plan for Hungary
+                                              (country code +36)
+
+             NDC
+                                               Usage of E.164 Number                      Time and date of deletion
+  (National Destination Code)
+              40                     Non-geographic number: Freephone service                    31.XII.2017
+                                     (national)
+
+
+
+                      Presentation of E.164 National Numbering Plan (NNP) for Hungary
+                                             (country code +36)
+(a)    Overview:
+       Minimum number length (excluding country code):            eight (8) digits.
+       Maximum number length (excluding country code):            twelve (12) digits.
+(b)    Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the
+       national numbering plan:
+       NMIAH Assignment of Communication Identifiers:
+       http://english.nmhh.hu/stakeholders/identifier-management/identifier-registry
+(c)    Link to the real-time database reflecting ported ITU-T E.164 numbers:
+       Phone number ported status: http://krapub.nmhh.hu/?lang=en
+(d)    Detail of numbering scheme:
+
+
+       NDC              N(S)N number length
+     (National        Maximum        Minimum        Usage of E.164 Number               Additional information
+ Destination Code)     length         length
+          1                8             8        Geographic number              Area code for Budapest
+         20                9             9        Non-geographic number          Mobile
+         21                9             9        Non-geographic number          Nomadic telephone service
+         22                8             8        Geographic number              Area code for
+                                                                                 Székesfehérvár
+         23                8             8        Geographic number              Area code for Biatorbágy
+         24                8             8        Geographic number              Area code for
+                                                                                 Szigetszentmiklós
+         25                8             8        Geographic number              Area code for Dunaújváros
+         26                8             8        Geographic number              Area code for Szentendre
+         27                8             8        Geographic number              Area code for Vác
+         28                8             8        Geographic number              Area code for Gödöllő
+         29                8             8        Geographic number              Area code for Monor
+         30                9             9        Non-geographic number          Mobile
+         31                9             9        Non-geographic number          Mobile
+         32                8             8        Geographic number              Area code for Salgótarján
+         33                8             8        Geographic number              Area code for Esztergom
+
+
+      NDC             N(S)N number length
+    (National       Maximum      Minimum      Usage of E.164 Number      Additional information
+Destination Code)    length       length
+       34                  8         8      Geographic number         Area code for Tatabánya
+       35                  8         8      Geographic number         Area code for
+                                                                      Balassagyarmat
+       36                   8        8      Geographic number         Area code for Eger
+       37                   8        8      Geographic number         Area code for Gyöngyös
+       38                   9        9      Non-geographic number     Corporate networks
+       39                   –        –      –
+       40                   –        –      –
+       41                   –        –      –
+       42                   8        8      Geographic number         Area code for Nyíregyháza
+       43                   –        –      –
+       44                   8        8      Geographic number         Area code for Mátészalka
+       45                   8        8      Geographic number         Area code for Kisvárda
+       46                   8        8      Geographic number         Area code for Miskolc
+       47                   8        8      Geographic number         Area code for Szerencs
+       48                   8        8      Geographic number         Area code for Ózd
+       49                   8        8      Geographic number         Area code for Mezőkövesd
+       50                   9        9      Non-geographic number     Mobile
+       51                   8        8      Non-geographic number     Internet dial-up services
+       52                   8        8      Geographic number         Area code for Debrecen
+       53                   8        8      Geographic number         Area code for Cegléd
+       54                   8        8      Geographic number         Area code for Berettyóújfalu
+       55                   8        8      Geographic number         Test number
+       56                   8        8      Geographic number         Area code for Szolnok
+       57                   8        8      Geographic number         Area code for Jászberény
+       58                   –        –      –
+       59                   8        8      Geographic number         Area code for Karcag
+       60                   –        –      –
+       61                   –        –      –
+       62                   8        8      Geographic number         Area code for Szeged
+       63                   8        8      Geographic number         Area code for Szentes
+       64                   –        –      –
+       65                   –        –      –
+       66                   8        8      Geographic number         Area code for Békéscsaba
+       67                   –        –      –
+       68                   8        8      Geographic number         Area code for Orosháza
+       69                   8        8      Geographic number         Area code for Mohács
+       70                   9        9      Non-geographic number     Mobile
+       71                  12       12      Non-geographic number     M2M
+       72                   8        8      Geographic number         Area code for Pécs
+       73                   8        8      Geographic number         Area code for Szigetvár
+       74                   8        8      Geographic number         Area code for Szekszárd
+       75                   8        8      Geographic number         Area code for Paks
+       76                   8        8      Geographic number         Area code for Kecskemét
+
+
+       NDC              N(S)N number length
+     (National         Maximum      Minimum        Usage of E.164 Number      Additional information
+ Destination Code)      length       length
+           77              8            8       Geographic number          Area code for Kiskunhalas
+           78              8            8       Geographic number          Area code for Kiskőrös
+           79              8            8       Geographic number          Area code for Baja
+           80              8            8       Non-geographic number      Freephone service (national)
+           81              –            –       –
+           82              8            8       Geographic number          Area code for Kaposvár
+           83              8            8       Geographic number          Area code for Keszthely
+           84              8            8       Geographic number          Area code for Siófok
+           85              8            8       Geographic number          Area code for Marcali
+           86              –            –       –
+           87              8            8       Geographic number          Area code for Tapolca
+           88              8            8       Geographic number          Area code for Veszprém
+           89              8            8       Geographic number          Area code for Pápa
+           90              8            8       Non-geographic number      Premium-rate service (adult)
+           91              8            8       Non-geographic number      Premium-rate service
+           92              8            8       Geographic number          Area code for Zalaegerszeg
+           93              8            8       Geographic number          Area code for Nagykanizsa
+           94              8            8       Geographic number          Area code for Szombathely
+           95              8            8       Geographic number          Area code for Sárvár
+           96              8            8       Geographic number          Area code for Győr
+           97              –            –       –
+           98              –            –       –
+           99              8            8       Geographic number          Area code for Sopron
+
+Contact:
+           Mr Tamás Puss
+           National Media and Infocommunications Authority, Hungary
+           Visegrádi utca 106.
+           1133 Budapest
+           Hungary
+           Tel:    +36 1 468 0666
+           Fax:    +36 1 468 0690
+           E-mail: puss.tamas@nmhh.hu / numbering@nmhh.hu
+           URL:    www.nmhh.hu
+
+
+
+
+ Sierra Leone (country code +232)
+ Communication of 22.I.2018:
+
+ The National Telecommunications Commission (NATCOM), Freetown, announces the following update to the
+ national numbering plan of Sierra Leone:
+
+                                Presentation of national ITU-T E.164 numbering plan
+                                                for country code 232
+
+ a)         Overview:
+            The minimum number length (excluding the country code) is              8         digits.
+            The maximum number length (excluding the country code) is              8         digits.
+
+ b)         Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the
+            national numbering plan (if any): n/a
+
+ c)         Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): n/a
+
+ d)         Description of introduction of new resource for national E.164 numbering plan for country code 232:
+
+     NDC (national            N(S)N number length
+  destination code) or
+                                                                                                         Additional
+leading digits of N(S)N    Maximum       Minimum               Usage of E.164 number
+                                                                                                        information
+ (national (significant)    length        length
+        number)
+75(NDC)                         8            8        Non-geographic number for Orange SL         10-11-2017-13:00
+
+ International dialling format: +232 75X XXXXX
+
+ Contact:
+            Mr Abdul Bah
+            National Telecommunications Commission
+            3 Regent Road
+            Hill Station, FREETOWN
+            Sierra Leone
+            Tel:       +232 88 600 003 or +232 78 333 444
+            E-mail: abah@natcom.gov.sl
+            URL:       www.natcom.gov.sl
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                             Abbreviations used
+
+                               ADD    Insert                    PAR    paragraph
+                               COL    Column                    REP    replace
+                               LIR    Read                      SUP    Delete
+                               P      page(s)
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2017
+
+                                                Section VI
+SUP
+
+      SJ02   Director General for the Management of Royal Courts and Government Guest Palaces,
+             P.O. Box 6350, Riyadh 11132, Saudi Arabia.
+             Tel: +966 1 4547400, Fax: +966 1 454459, Tlx: 406350.
+      SJ03   Ministry of Foreign Affairs, Technical Telecomm. Dept., Riyadh 1124, Saudi Arabia.
+             Tel: +966 1 4015046, Fax: +966 1 4030670, Tlx: 405000.
+             Contact Person: Ali Al Kahtani, Manager.
+
+      SJ04   Ministry of Information, Accounting Dept., Riyadh-11171, Saudi Arabia.
+             Tel: +966 1 4623333, Fax: +966 1 4626313, Tlx: 400 820.
+      SJ05   Saudi Arabia Monetary Agency HO., P.O Box 2992, Riyadh - 11169, Saudi Arabia.
+             Tel: +966 1 4633000, Fax: +966 1 4662400, Tlx: 401 736.
+      SJ06   Superintendent NO & SD Communications, Operations Department,
+             P.O. Box 96, Saudi Aramco, Dahahran-31311, Saudi Arabia.
+             Tel: +966 3 8766966, Fax: +966 3 8768588, Tlx: 801 220.
+      SJ07   Royal Flt. Opns., CC: 971, P.O. Box 167, Jeddah-21231, Saudi Arabia.
+             Tel: +966 2 6842585, Tlx: 651007 commi sj.
+      SJ08   Electronic Application Establishment, P.O. Box 10955, Riyadh 11443, Saudi Arabia.
+             Tel: +966 1 4650834.
+      SJ09   Ministry of Interior, General Director of Telecommunications, P.O. Box 1625,
+             Riyadh 11441, Saudi Arabia.
+             Tel: +966 1 4654072, Tlx: 205 205.
+      SJ10   National Commercial Bank, P.O. Box 22217, Riyadh 11495, Saudi Arabia.
+             Tel: +966 1 47878777 (ext. 220), Fax: +966 1 4790032.
+             Contact Person: Branch Manager.
+
+      SJ11   Ministry of Interior, Frontier Force Marine Affairs Department, Riyadh, Saudi Arabia.
+
+      SJ12   Ministry of Interior, Telecommunications Department, General Director of Frontier
+             Force, Riyadh 11135, Saudi Arabia.
+             Tel: +966 1 4020222, Fax: +966 1 403 0358, Tlx: 401625.
+
+
+
+
+                            List of Issuer Identifier Numbers for
+                    the International Telecommunication Charge Card
+              (in accordance with ITU-T Recommendation E.118 (05/2006))
+                              (Position on 15 November 2015)
+                        (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                         (Amendment No. 34)
+
+Denmark           SUP
+   Country/          Company Name/Address         Issuer              Contact              Effective
+ geographical                                   Identifier                                  date of
+     area                                        Number                                  cancellation
+ Denmark         Telia Sonera A/S               89 45 03     Kim Philip                 18.IV.2000
+                 Ejby Industrivej 135                        Ejby Industrivej 135
+                 DK-2600 GLOSTRUP                            DK-2600 GLOSTRUP
+                                                             Tel:    +45 35 279200
+                                                             Fax: +45 43 275499
+
+Russian Federation     SUP
+     Country/                  Company            Issuer              Contact              Effective
+ geographical area           Name/Address       Identifier                                  date of
+                                                 Number                                  cancellation
+ Russian               Telecom XXI              89 7 193     Yuri B. Vymorkov           30.VI.2005
+ Federation            6 Proletarskoy                        ST. PETERSBURG
+                       Diktatury Square                      Tel:     +7 812 329 7447
+                       193124 ST.                            Fax: +7 812 329 7448
+                       PETERSBURG
+
+Switzerland       SUP
+    Country/         Company Name/Address         Issuer               Contact              Effective
+  geographical                                  Identifier                                   date of
+      area                                       Number                                   cancellation
+ Switzerland      Vectone Mobile Limited /      89 41 28     Alkesh Dave                  18.XII.2017
+                  Mundio Mobile Limited                      Mundio Mobile Limited,
+                  54 Marsh Wall                              54 Marsh Wall,
+                  LONDON E14 9TP                             LONDON E14 9TP
+                  (United Kingdom)                           (United Kingdom)
+                                                             Tel:    +44 2035364800
+                                                             Fax: +44 2070050562
+                                                             E-mail: legal@mundio.com
+
+
+
+
+   Mobile Network Codes (MNC) for the international identification plan
+                 for public networks and subscriptions
+         (According to Recommendation ITU-T E.212 (09/2016))
+                    (Position on 1st November 2016)
+                            (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                            (Amendment No. 29)
+
+ Country/Geographical area           MCC+MNC *           Operator/Network
+ Australia ADD
+                                           505 43        Arrow Energy Pty Ltd
+ Canada ADD
+                                          302 420        A.B.C. Allen Business Communications Ltd.
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                       (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                        (Amendment No. 56)
+
+ Country or area/ISO code                          Company Code      Contact
+  Company Name/Address                              (carrier code)
+
+Germany (Federal Republic of) / DEU          ADD
+
+ cyberways Informationsdienste GmbH                    CWAYS         Mr Jan Baumann
+ Beim Glaspalast 1                                                   Tel:      +49 821 72042 0
+ 86153 AUGSBURG                                                      Fax:      +49 821 72042 42
+                                                                     E-mail:   jb@cyberways.net
+
+ HT Kommunikation GmbH & Co.KG                         HTKOM         Tel:      +49 7802 70407 0
+ Raiffeisenstrasse 5                                                 Fax:      +49 7802 70407 29
+ 77704 OBERKIRCH                                                     E-mail:   portierung@ht-kommunikation.de
+
+
+
+Switzerland (Confederation of) / CHE   SUP
+
+ AAA COMMUNICATION EUROPE AG                             ACE         Mr Allan Barquero
+ Gasometerstrasse 34                                                 Tel:     +41 76 7922495
+ 8005 ZÜRICH                                                         E-mail: info@acommgroup.com
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 29)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Panama ADD
+ 7-031-0       14584        BTPTY1                                     Telecomunicaciones NetUno de Panama SA
+
+ Singapore SUP
+ 5-054-6       10678        Phoenix-Comcentre III                      Phoenix Communications Pte Ltd
+
+ Singapore LIR
+ 5-052-0       10656        International standalone STP-2             Singapore Telecommunications Ltd
+ 5-052-1       10657        East Gateway - Trunk (EGT)                 Singapore Telecommunications Ltd
+ 5-141-5       11373        M1-MOC-NGN SG                              M1 Limited
+ 5-141-6       11374        M1-MOC-NGN SS                              M1 Limited
+ 5-141-7       11375        M1-TMOC2                                   M1 Limited
+ 5-142-0       11376        M1-TROC2                                   M1 Limited
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                         Web: www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.I.2018, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                          Country/ Geographical area                      Country Code (CC)
+                  Malawi                                                        +265
+
+
+
+

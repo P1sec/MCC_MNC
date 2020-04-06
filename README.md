@@ -224,4 +224,19 @@ optional arguments:
   -h, --help  show this help message and exit
   -x          provides extended country-related information
 ```
-    
+
+
+## Working on ITU-T documents
+
+ITU-T is publishing bi-mensual bulletins (23 or 24 a year, depends...), containing
+all addition and modification to numbering plans and MNC identifiers. Complete
+lists of MCC-MNC can be found in bulletin 1111 from 2016 and bulletin 1162 from 
+2018.
+Moreover, differentials can be provided into individual bulletin.
+
+A script can be used to download all bulletins in PDF (starting from 1111),
+and convert them into text, using the Linux command ```pdftotext```. All resulting
+documents are available in the *itut_bulletins* sub-directory.
+
+
+

@@ -1,0 +1,580 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1148             15.V.2018                   (Information received by 1 May 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Telegram Service:
+     Ukraine (State Service of Special Communications and Information Protection of Ukraine, Kyiv)...........                                                      5
+Telephone Service:
+     Luxembourg (Institut Luxembourgeois de Régulation (ILR), Luxembourg) ..............................................                                           6
+     Kyrgyzstan (State Communications Agency under the State Committee of Information Technologies
+        and Communications of Kyrgyz Republic, Bishkek) .............................................................................                              7
+     Niue (Telecom Niue, Alofi) ........................................................................................................................           8
+     Norway (Norwegian Communications Authority, Lillesand) ....................................................................                                   9
+Other communication: Austria ......................................................................................................................                9
+Service Restrictions ........................................................................................................................................     10
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   10
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               11
+Mobile Network Codes (MNC) .......................................................................................................................                12
+List of Telegram Destination Indicators .........................................................................................................                 13
+List of ITU Carrier Codes .................................................................................................................................       14
+List of International Signalling Point Codes (ISPC) .........................................................................................                     15
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1149              1.VI.2018             16.V.2018
+               1150             15.VI.2018             1.VI.2018
+               1151             1.VII.2018             15.VI.2018
+               1152             15.VII.2018            29.VI.2018
+               1153             1.VIII.2018           17.VII.2018
+               1154            15.VIII.2018            1.VIII.2018
+               1155              1.IX.2018            16.VIII.2018
+               1156             15.IX.2018            31.VIII.2018
+               1157              1.X.2018              14.IX.2018
+               1158             15.X.2018              28.IX.2018
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                           Approval of ITU-T Recommendations
+
+By AAP-34, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T Y.4500.4 (03/2018): oneM2M – Service layer core protocol specification
+–     ITU-T Y.4500.5 (03/2018): oneM2M- Management enablement (OMA)
+–     ITU-T Y.4500.6 (03/2018): oneM2M Management enablement (BBF)
+–     ITU-T Y.4500.8 (03/2018): oneM2M- CoAP Protocol Binding
+–     ITU-T Y.4500.9 (03/2018): oneM2M- HTTP Protocol Binding
+–     ITU-T Y.4500.10 (03/2018): oneM2M- MQTT Protocol Binding
+–     ITU-T Y.4500.11 (03/2018): oneM2M- Common Terminology
+–     ITU-T Y.4500.12 (03/2018): oneM2M Base Ontology
+–     ITU-T Y.4500.13 (03/2018): oneM2M- Interoperability Testing
+–     ITU-T Y.4500.14 (03/2018): oneM2M- LwM2M Interworking
+–     ITU-T Y.4500.15 (03/2018): oneM2M- Testing framework
+–     ITU-T Y.4500.20 (03/2018): oneM2M- WebSocket Protocol Binding
+–     ITU-T Y.4500.23 (03/2018): oneM2M-Home Appliances Information Model and Mapping
+
+
+
+
+                                               Telegram Service
+                                        (ITU-T Recommendation F.32)
+Ukraine
+Communication of 24.IV.2018:
+
+                                                 Cessation of telegram service
+
+The State Service of Special Communications and Information Protection of Ukraine, Kyiv, announces that the
+national and international telegram service to and from Ukrtelecom JSC in Ukraine is no longer being provided
+as of 1 March 2018.
+Furthermore, owing to the termination of the national and international telegram service by Ukrtelecom JSC
+(formerly Ukrainian Telecom) in Ukraine, office codes:
+"UXCK/UXCG/UXCV/UXDP/UXDC/UXGR/UXIF/UXHR/UXHS/UXHM/UXKG/UXKM/UXKR/UXKV/UXLK/UXLC/UXLV
+/UXMR/UXMK/UXOD/UXPL/UXRV/UXSV/UXSF/UXSU/UXTR/UXUG/UXVC/UXYL/UXZP/UXZT/UXKX", used in the
+telegram retransmission system, have been deleted.
+The List of Telegram Destination Indicators, published in accordance with Recommendation ITU-T F.32, will be
+updated accordingly.
+For further information concerning the termination of this telegram service, please contact:
+          State Service of Special Communications and Information Protection of Ukraine
+          13 Solomianska Street,
+          03110 KYIV
+          Ukraine
+          Tel: +380 44 281 92 10
+          Fax: +380 44 226 26 73
+          E-mail: info@dsszzi.gov.ua
+
+____________
+* See present ITU Operational Bulletin No. 1148 of 15.V.2018, page 13.
+
+
+
+
+                                       Telephone Service
+                                  (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+Luxembourg (country code +352)
+Communication of 18.IV.2018:
+The Institut Luxembourgeois de Régulation (ILR), Luxembourg, announces the following updates to national
+numbering plan in Luxembourg related to machine-to-machine (M2M) numbers.
+
+a)         Overview for M2M numbers:
+           The minimum number length (excluding the country code) is       12    digits.
+           The maximum number length (excluding the country code) is       12    digits.
+
+b)         Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the
+           national numbering plan:
+           https://web.ilr.lu/FR/Professionnels/Communications-electroniques/Numerotation/Numbering-
+           Information-for-international-carriers/Pages/default.aspx
+
+c)         Detail of numbering plan for M2M numbers:
+
+
+      NDC (national          N(S)N number length
+   destination code) or
+ leading digits of N(S)N    Maximum       Minimum       Usage of E.164 number               Additional information
+  (national (significant)    length        length
+         number)
+ 6000                           12            12       M2M                         MTX Connect S.à r.l.
+ 6001                           12            12       M2M                         Join Experience S.A.
+ 6002                           12            12       M2M                         Proximus S.A.
+ 6021                           12            12       M2M                         POST Luxembourg
+ 6061                           12            12       M2M                         Orange Communications
+                                                                                   Luxembourg S.A.
+ 6067                           12            12       M2M                         Bouygues Telecom S.A.
+
+Contact:
+        Mr Jérôme Besch
+        Institut Luxembourgeois de Régulation (ILR)
+        17, rue du Fossé
+        2922 Luxembourg
+        Luxembourg
+        Tel:      +352 28 228 228
+        Fax:      +352 28 228 229
+        E-mail: numerotation@ilr.lu
+        URL:      www.ilr.lu
+
+
+
+
+Kyrgyzstan (country code +996)
+
+Communication of 25.IV.2018:
+
+The State Communications Agency under the State Committee of Information Technologies and
+Communications of Kyrgyz Republic, Bishkek, announces updates to the national numbering plan of Kyrgyzstan.
+
+     Description of introduction of new resource for national E.164 numbering plan for country code 996:
+
+      NDC (national         N(S)N number length
+   destination code) or
+                                                                                        Time and date of
+ leading digits of N(S)N    Maximum      Minimum        Usage of E.164 number
+                                                                                          introduction
+  (national (significant)    length       length
+         number)
+            22                   9           9        Non-geographic number –          13 November 2017
+                                                      Mobile telephony services           (Sky Mobile)
+                                                      (+996 22 X XXX XXX)
+            77                   9           9        Non-geographic number –             20 April 2010
+                                                      Mobile telephony services           (Sky Mobile)
+                                                      (+996 77 X XXX XXX)
+            996                  9           9        Non-geographic number –           27 October 2017
+                                                      Mobile telephony services           (Sky Mobile)
+                                                      (+996 99 6 XXX XXX)
+            999                  9           9        Non-geographic number –           27 October 2017
+                                                      Mobile telephony services           (Sky Mobile)
+                                                      (+996 99 9 XXX XXX)
+
+Contacts:
+  State Communications Agency
+  under the State Committee of Information Technologies and Communications of Kyrgyz Republic
+  7b, Baytik Baatyr Street
+  720005 BISHKEK
+  Kyrgyzstan
+  Tel:    +996 312 541333
+  Fax:    +996 312 544105
+  E-mail: atilenbaev@nas.gov.kg; nta@infotel.kg
+  URL: http://world.nas.gov.kg/index.php?option=com_content&view=article&id=70&Itemid=165 &lang=ru
+  Sky Mobile LLC
+  Roaming and interconnect department
+  E-mail: roaming@beeline.kg
+
+
+
+
+Niue (country code +683)
+Communication of 25.IV.2018:
+Telecom Niue, Alofi, announces the following updated Numbering Plan for Niue, as from 1 May 2018.
+
+                                           Country
+            Assignment                                     Telephone Number                 Status
+                                            Code
+Operator Assistance                         683                   010                       Active
+Faults & Directory Service                  683                   015                       Active
+Weather & Tidal Information                 683                   101                       Active
+Emergency                                                         999                       Active
+Reserved                                    683               1000 – 1099                  Reserved
+Postpaid AMPS Mobile                        683               1100 – 1999                 Not Active
+Postpaid GSM Fixed Wireless                 683               2000 – 2999                 Not Active
+Postpaid AMPS FWT                           683               3000 – 3999                 Not Active
+Postpaid PSTN                               683               4000 – 4999                   Active
+Prepaid GSM Mobile 2G                       683               5000 – 5999                 Not Active
+Prepaid GSM Mobile 2G                       683               6000 – 6999                 Not Active
+Postpaid PSTN                               683               7000 – 7999                   Active
+Prepaid LTE Mobile                          683            8884000-8884999                  Active
+                                                           8885000-8885999
+                                                           8886000-8886999
+                                                           8887000-8887999
+                                                           8888000-8888999
+                                                           8889000-8889999
+
+    Description of introduction of new resource for national E.164 numbering plan for country code +683:
+
+  NDC (national destination       N(S)N number length        Usage of E.164 number        Time and date of
+  code) or leading digits of     Maximum      Minimum                                       introduction
+ N(S)N (national (significant)    length       length
+          number)
+           888 XXXX                 7                7    Geographic number for LTE      00:00 2018-05-01
+                                                          Mobile Telephony Services
+
+Contact:
+      Mr Colin Talamahina - Director
+      Mr Farm Tukumulia - Operations Manager
+      Telecom Niue LTD
+      PO Box 32 – Commercial Center
+      ALOFI
+      Niue
+      Tel:    +683 5663/+683 4005
+      Fax:    +683 4010
+      E-mail: colin.talamahina@mail.gov.nu;
+              farm.tukumulia@mail.gov.nu;
+              telecom.callcentre@mail.gov.nu
+
+
+
+
+Norway (country code +47)
+Communication of 26.IV.2018:
+The Norwegian Communications Authority, Lillesand, announces the following update to the national
+numbering plan of Norway:
+
+•           Assignment – Mobile communications services
+                Provider                             Numbering series                  Date of assignment
+Kvantel AS                          9870efgh                                               22.09.2017
+
+Contact:
+               Norwegian Communications Authority
+               Postbox 93
+               4791 LILLESAND
+               Norway
+               Tel:     +47 22 82 46 00
+               Fax:     +47 22 82 46 40
+               E-mail: firmapost@nkom.no
+               URL:     www.nkom.no
+
+
+
+
+                                       Other communication
+
+Austria
+Communication of 23.IV.2018:
+On the occasion of the 23rd FAI World Hot Air Ballon Championship in Groß-Siegharts (Austria), the Austrian
+Administration authorizes an Austrian amateur station to use the special call sign OE18BALLON from 18 to 25
+August 2018.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                  AMENDMENTS TO SERVICE PUBLICATIONS
+                                           Abbreviations used
+
+                             ADD    Insert                     PAR      paragraph
+                             COL    Column                     REP      replace
+                             LIR    Read                       SUP      Delete
+                             P      page(s)
+
+
+
+                           List of Issuer Identifier Numbers for
+                   the International Telecommunication Charge Card
+             (in accordance with Recommendation ITU-T E.118 (05/2006))
+                             (Position on 15 November 2015)
+                        (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                         (Amendment No. 41)
+
+
+Czech Rep.       LIR
+
+    Country/     Company Name/Address               Issuer Identifier     Contact
+  geographical                                          Number
+      area
+ Czech Rep.      O2 Czech Republic a.s.                89 420 05          Michal Pekárek
+                 Za Brumlovkou 266/2                                      Za Brumlovkou 266/2
+                 140 22 PRAHA 4 - MICHLE                                  140 22 PRAHA 4 - MICHLE
+                                                                          Tel:     +420 271 464 526
+                                                                          E-mail: michal.pekarek@o2.cz
+ Czech Rep.      O2 Czech Republic a.s.                89 420 20          Michal Pekárek
+                 Za Brumlovkou 266/2                                      Za Brumlovkou 266/2
+                 140 22 PRAHA 4 - MICHLE                                  140 22 PRAHA 4 - MICHLE
+                                                                          Tel:     +420 271 464 526
+                                                                          E-mail: michal.pekarek@o2.cz
+
+Guam             LIR
+
+    Country/     Company Name/Address              Issuer Identifier      Contact
+  geographical                                         Number
+      area
+ Guam            Docomo Pacific, Inc.                  89 1 377           Mr James W. Hofman
+                 890 S. Marine Corps Dr.                                  Docomo Pacific, Inc.
+                 TAMUNING                                                 890 S. Marine Corps Dr.
+                 GU USA 96913                                             TAMUNING
+                                                                          GU USA 96913
+                                                                          Tel:    +1 671 688 2355
+                                                                          Fax:    +1 671 649 7247
+                                                                          Email: jhofman@docomopacific.com
+
+
+
+
+Guam                ADD
+
+  Country/        Company                          Issuer        Contact                                         Effective
+geographical      Name/Address                   Identifier                                                       date of
+    area                                          Number                                                          usage
+Guam              Docomo Pacific, Inc.           89 1 048        Mr James W. Hofman                             23.III.2018
+                  890 S. Marine Corps Dr.                        Docomo Pacific, Inc.
+                  TAMUNING                                       890 S. Marine Corps Dr.
+                  GU USA 96913                                   TAMUNING
+                                                                 GU USA 96913
+                                                                 Tel:     +1 671 688 2355
+                                                                 Fax:     +1 671 649 7247
+                                                                 Email: jhofman@docomopacific.com
+
+
+
+
+   Mobile Network Codes (MNC) for the international identification plan
+                  for public networks and subscriptions
+          (According to Recommendation ITU-T E.212 (09/2016))
+                    (Position on 1st November 2016)
+                          (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                          (Amendment No. 36)
+
+   Country/Geographical area              MCC+MNC *        Operator/Network
+   Estonia ADD
+                                             248 11        UAB Raystorm Eesti filiaal
+
+
+ ____________
+ *        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                            List of Telegram Destination Indicators
+                 (In accordance with ITU-T Recommendation F.32 – (10/1995))
+                                   (Position on 15 May 2011)
+                                  (Annex to ITU Operational Bulletin No. 980 – 15.V.2011)
+                                                   (Amendment No. 6)
+P 38-39 UKRAINE
+
+Network code: UX          COL 2 Ukrainian Telecom – Ukrainian State Telecommunications Corporation, Kyiv
+
+COL 1-5       SUP
+                                           Date of cessation of service: 1 March 2018
+
+          Country              Network (administration/ROA)            Network code                Name of          Office code
+     /geographical area                                                                        Telegraph Office
+             1                                 2                              3                       4                  5
+
+     UKRAINE               Ukrainian Telecom – Ukrainian State        UX- -
+     UKRAINE               Telecommunications Corporation,                                Cherkasy                    UXCK
+     UCRANIA               Kyiv                                                           Chernihiv                   UXCG
+                                                                                          Chernivtsi                  UXCV
+                                                                                          Dnipropetrovsk              UXDP
+                                                                                          Donetsk                     UXDC
+                                                                                          Horlivka                    UXGR
+                                                                                          Ivano-Frankivsk             UXIF
+                                                                                          Kharkiv                     UXHR
+                                                                                          Kherson                     UXHS
+                                                                                          Khmelnitskyi                UXHM
+                                                                                          Kirovohrad                  UXKG
+                                                                                          Kramatorsk                  UXKM
+                                                                                          Kryvyi Rih                  UXKR
+                                                                                          Kyiv                        UXKV
+                                                                                          Luhansk                     UXLK
+                                                                                          Lutsk                       UXLC
+                                                                                          Lviv                        UXLV
+                                                                                          Mariupol                    UXMR
+                                                                                          Mykolaiv                    UXMK
+                                                                                          Odesa                       UXOD
+                                                                                          Poltava                     UXPL
+                                                                                          Rivne                       UXRV
+                                                                                          Sevastopol                  UXSV
+                                                                                          Simferopol                  UXSF
+                                                                                          Sumy                        UXSU
+                                                                                          Ternopil                    UXTR
+                                                                                          Uzhhorod                    UXUG
+                                                                                          Vinnytsia                   UXVC
+                                                                                          Yalta                       UXYL
+                                                                                          Zaporizhia                  UXZP
+                                                                                          Zhytomyr                    UXZT
+                                                                                          All others                  UXKX
+
+____________
+*      See Note published in present ITU Operational Bulletin No. 1148 of 15.V.2018, page 5.
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                         (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                          (Amendment No. 61)
+
+ Country or area/ISO code                           Company Code        Contact
+  Company Name/Address                               (carrier code)
+
+Germany (Federal Republic of) / DEU        ADD
+
+ Herbst Datentechnik GmbH                               HERBST          Mr Robert Schwanitz
+ Philippistrasse 10                                                     Tel.:    +49 30 788 90 530
+ 14059 BERLIN                                                           Fax:     +49 30 788 90 559
+                                                                        E-mail : support@herbst.de
+
+ sentec networks GmbH                                   SENTEC          Mr Uemit Senli
+ Residenzstrasse 128                                                    Tel.:    +49 30 4985 1435
+ 13409 BERLIN                                                           Fax:     +49 30 4985 6291
+                                                                        E-mail : mail@sentec-it.com
+
+ Anycall GmbH                                           ANYCLL          Mr Ole Nils Feddersen
+ Jahnstrasse 2                                                          Tel.:    +49 4122 50635 0
+ 25436 UETERSEN                                                         Fax:     +49 4122 50635 10
+                                                                        E-mail : service@anycall.de
+
+ Luxembourg Online S.A.                                 DEULOL          Mr Remi Bianchi
+ 14, avenue du X Septembre                                              Tel.:    +352 4525 6440
+ L-2550 LUXEMBOURG                                                      Fax:     +352 4593 34
+ Luxembourg                                                             E-mail : network@online.lu
+
+
+ cratchmere.com gmbh                                    SIPFON          SIPfonica Auftragsmanagement
+ Ibacher Muehle 87                                                      Tel.:    +49 2053 9109 580
+ 42553 VELBERT                                                          Fax:     +49 2053 9109 589
+                                                                        E-mail : auftrag@sipfonica.de
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 36)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point        Name of the signalling point operator
+
+
+ Panama SUP
+ 7-026-7       14551        PANTD1                                     Telefónica Móviles Panamá, S.A.
+
+ Panama ADD
+ 7-026-7       14551        PANSL4M                                    Telefónica Móviles Panamá, S.A.
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+

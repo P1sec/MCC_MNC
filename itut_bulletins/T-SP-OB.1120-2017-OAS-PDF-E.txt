@@ -1,0 +1,622 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1120             15.III.2017                 (Information received by 1 March 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164:
+   (11/2010)) Identification codes for international networks .....................................................................                                4
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Identification codes for mobile networks ..............................................................................                            4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)) ................                                                           5
+Telephone Service:
+     Burkina Faso: (Autorité de Régulation des Communications Electroniques et des Postes (ARCEP),
+        Ouagadougou) ....................................................................................................................................          5
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                             6
+Other communication: Austria ......................................................................................................................                6
+Service Restrictions ........................................................................................................................................      7
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                    7
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                         8
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                9
+List of ITU-T Recommendation E.164 assigned Country Codes .....................................................................                                   10
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................      11
+List of ITU Carrier Codes .................................................................................................................................       12
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                      13
+List of International Signalling Point Codes (ISPC) .........................................................................................                     13
+National Numbering Plan ...............................................................................................................................           15
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1121              1.IV.2017             17.III.2017
+               1122             15.IV.2017             31.III.2017
+               1123              1.V.2017              14.IV.2017
+               1124             15.V.2017               1.V.2017
+               1125              1.VI.2017             16.V.2017
+               1126             15.VI.2017             1.VI.2017
+               1127             1.VII.2017             16.VI.2017
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+     (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+     E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+     subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+     (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+     Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1066 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+     (Position on 15 December 2014)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+     2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+     optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+     Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+     (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+     to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+     (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+     operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+     accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+     (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+     T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+     (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+     series Recommendations) (Position on 15 February 2011)
+972 List of terrestrial trunk radio mobile country codes (Complement to ITU-T Recommendation E.218
+     (05/2004)) (Position on 15 January 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+     on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+     Recommendation F.1 (03/1998))
+B.   The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                      Approval of ITU-T Recommendations
+By TSB Circular 13 of 27 February 2017, it was announced that the following ITU-T Recommendation was
+approved, in accordance with the procedures outlined in Resolution 1:
+–         ITU-T T Y.2773 (02/2017): Performance models and metrics for deep packet inspection
+
+
+
+                The International Public Telecommunication Numbering Plan
+                         (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+
+                                          Identification codes for international networks
+
+Associated with shared country code 882 for international networks, the following two-digit identification code
+has been assigned.
+
+
+                                                                                       Country Code and            Date of assignment
+                Applicant                              Network
+                                                                                      Identification Code
+
+    Monaco Telecom                          Monaco Telecom                                  +882 49                     16.II.2017
+
+
+
+
+Associated with shared country code 883 for international networks, the following three-digit identification code
+has been assigned.
+
+
+                                                                                        Country Code and           Date of assignment
+                Applicant                               Network
+                                                                                       Identification Code
+
+    Beezz Communication Sol. Ltd.           Beezz Communication Sol. Ltd.                    +883 220                   7.III.2017
+
+
+
+
+        International Identification Plan for Public Networks and Subscriptions
+                       (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                                     Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has
+been assigned on 7 March 2017:
+
+                                                                                 Mobile Country Code (MCC)* and Mobile Network
+                                  Network
+                                                                                                 Code (MNC)**
+    Beezz Communication Sol. Ltd.                                                                        901 55
+
+______________
+*       MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+**      MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                     Assignment of Signalling Area/Network Codes (SANC)
+                           (Recommendation ITU-T Q.708 (03/99))
+
+Note from TSB
+       At the request of the Administration of the Republic of Colombia, the Director of TSB has assigned the
+following signalling area/network code (SANC) for use in the international part of the signalling system No. 7
+network of this country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                     Country/geographical area or signalling network                                  SANC
+                     Colombia (Republic of)                                                           7-110
+
+____________
+SANC: Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                           Telephone Service
+                                      (Recommendation ITU-T E.164)
+                                               url: www.itu.int/itu-t/inr/nnp
+
+Burkina Faso (country code +226)
+Communication of 22.II.2017:
+The Autorité de Régulation des Communications Electroniques et des Postes (ARCEP), Ouagadougou, announces
+the following update to the National Numbering Plan of Burkina Faso.
+
+
+•        assignment of new prefix AB=56:
+
+    NDC (national
+                       N(S)N number length
+     destination
+        code) or
+    leading digits                                          Usage of                  Additional          Date of
+       of N(S)N       Maximum       Minimum            ITU-T E.164 number            information          assignment
+       (national       length        length
+     (significant)
+       number)
+         56               8             8            Non Geographic             Airtel Burkina Faso       22.II.2017
+                                                     Number - Mobile            S.A.
+                                                     telephone service
+
+
+•        assignment of the following new number series:
+
+    Service                           Operator                           Number series                  Date
+                                                                         AB PQ MC DU
+    Mobile telephone networks         Airtel Burkina Faso S.A.           5600 XXXX – 5649 XXXX          22.II.2017
+
+
+
+
+Contact:
+      Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+      B.P. 6437
+      OUAGADOUGOU 01
+      Burkina Faso
+      Tel: +226 25 37 53 60/61/62
+      Fax: +226 25 37 53 64
+      E-mail: secretariat@arcep.bf
+      URL: www.arcep.bf
+
+
+
+Denmark (country code +45)
+Communication of 17.II.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     assignment – Mobile communication services
+
+
+       Provider                              Numbering series                         Date of assignment
+SimService A/S         9346efgh, 9347efgh, 9348efgh, 9364efgh, 9365efgh and                10.II.2017
+                       9366efgh
+
+Contact:
+      Danish Energy Agency
+      Amaliegade 44
+      1256 COPENHAGEN K
+      Denmark
+      Tel:    +45 33 92 67 00
+      Fax:    +45 33 11 47 43
+      E-mail: ens@ens.dk
+      URL:    www.ens.dk
+
+
+
+                                     Other communication
+
+Austria
+Communication of 24.II.2017:
+On the occasion of the 31st anniversary of the nuclear accident of Chernobyl, the Austrian Administration
+authorizes an Austrian amateur station to use the special call sign OE17ATOM on 22 April 2017.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                        Call – Back
+               and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                           Abbreviations used
+
+                               ADD   Insert                   PAR   paragraph
+                               COL   Column                   REP   replace
+                               LIR   Read                     SUP   Delete
+                               P     page(s)
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2017
+
+                                               Section VI
+
+
+REP
+
+      LV05        National Fisheries Producer Organization, Ganibu dambis 24D-420,
+                  Riga LV-1005, Latvia.
+                  Tel.: +371 67383197, Fax: +371 67383197, E-Mail: zv.flote@et.lv
+
+
+      TR01        Directorate General of Coastal Safety , Kiyi Emniyeti Genel Müdürlügü,
+                  Telsiz Isletme Müdürlügü, Besyol Mah. Inönü Cad. No: 3/1, 34295 Sefaköy
+                  Istanbul, Turkey.
+                  Tel.: +90 212 580 98 98/138, Fax: +90 212 580 91 91
+                  Contact Person: Esma Pervin KESER
+
+      US11        COMSAT, Inc., 2550 Wasser Terrace, Suite 6000, Herndon, VA 20171, United States.
+                  Tel.: +1 (571) 599 3627, Fax: +1 (571) 599 3672, E-Mail: jwilhelmi@comsat.com,
+                  URL: www.comsat.com
+                  Contact Person: Julie Wilhelmi, E-mail: jwilhelmi@comsat.com,
+                  Tel.: +1 (571) 599 3627, Fax: +1 (571) 599 3672
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                           (Position on 15 November 2015)
+                            (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                             (Amendment No. 18)
+
+
+Gibraltar LIR
+    Country/       Company Name/Address                      Issuer     Contact
+  geographical                                             Identifier
+       area                                                 Number
+Gibraltar          Eazi Telecom Ltd (trading as            89 350 09    Mrs Jessica Canepa
+                   “Limba”)                                             Eazi Telecom Ltd (trading as “Limba”)
+                   Suite 48, Royal Ocean Plaza                          Suite 48, Royal Ocean Plaza
+                   16 Glacis Road                                       16 Glacis Road
+                   Gibraltar GX11 1AA                                   Gibraltar GX11 1AA
+                                                                        Tel:     +350 219 000 00
+                                                                        E-mail: jventura@limbatelecom.com
+
+
+Hong Kong, China ADD
+   Country/       Company Name/Address              Issuer                  Contact                  Effective
+ geographical                                     Identifier                                          date of
+      area                                         Number                                              usage
+Hong Kong,       TAI TUNG MOBILE PHONE            89 852 33    Mr Kam Ping HAU                       1.IV.2017
+China            COMPANY LIMITED                               Tai Tung Mobile Phone Company
+                 Room 405 Tung Ning                            Limited
+                 Building 249-253 des                          Room 405 Tung Ning Building
+                 Voeux Road Central                            249-253 des Voeux Road Central
+                 HONG KONG                                     HONG KONG
+                                                               Tel:    +852 98628530
+                                                               E-mail: kp.hau@taitung-mobile.hk
+
+
+
+
+             List of ITU-T Recommendation E.164 assigned Country Codes
+               (Complement to ITU-T Recommendation E.164 (11/2010))
+                            (Position on 15 December 2016)
+                             (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                               (Amendment No. 1)
+
+Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+P 17 Note o) +882 35         LIR
+
+                                                                               Country Code and
+                 Applicant                             Network                                           Status
+                                                                              Identification Code
+
+ Cisco Systems, Inc.                       Cisco Systems, Inc.                     +882 35             Assigned
+
+
+
+Associated with shared country code 882, the following two-digit identification code assignment has been made
+for the international networks of:
+P 18 Note o) +882 49         ADD*
+
+                                                                               Country Code and
+                 Applicant                             Network                                           Status
+                                                                              Identification Code
+
+ Monaco Telecom                            Monaco Telecom                          +882 49             Assigned
+
+* 16 February 2017
+
+
+
+Associated with shared country code 883, the following three-digit identification code assignment has been
+made for the international networks of:
+P 18 Note p) +883 220         ADD*
+
+                                                                               Country Code and
+                 Applicant                             Network                                           Status
+                                                                              Identification Code
+
+ Beezz Communication Sol. Ltd.             Beezz Communication Sol. Ltd.          +883 220             Assigned
+
+* 7 March 2017
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                    for public networks and subscriptions
+            (According to Recommendation ITU-T E.212 (09/2016))
+                       (Position on 1st November 2016)
+                        (Annex to ITU Operational Bulletin No. 1111 - 1.XI.2016)
+                                         (Amendment No. 9)
+
+ Country/Geographical area           MCC+MNC *           Operator/Network
+ Uganda ADD
+                                           641 16        SimbaNET Uganda Limited
+ International Mobile, shared
+ code ADD
+                                           901 55        Beezz Communication Solutions Ltd.
+ International Mobile, shared
+ code LIR
+                                           901 16        Cisco Systems, Inc.
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                  List of ITU Carrier Codes
+                  (According to Recommendation ITU-T M.1400 (03/2013))
+                              (Position on 15 September 2014)
+                       (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                        (Amendment No. 39)
+
+ Country or area/ISO code                         Company Code      Contact
+  Company Name/Address                             (carrier code)
+
+Germany (Federal Republic of) / DEU       ADD
+
+ Breitbandservice Gantert GmbH & Co.KG                 BBGG         Mr Volker Gantert
+ Im Sulzfeld 10                                                     Tel:    +49 7744 9299700
+ 79780 STUEHLINGEN                                                  Fax:    +49 7744 933962
+                                                                    E-mail: info@breitbandservice.com
+
+ CompuNet Systems GmbH                                 CPN1         Mr Boris Hoppe
+ Paul-Ehrlich-Strasse 1-3                                           Tel:     +49 451 317033 0
+ 23562 LUEBECK                                                      Fax:     +49 451 317033 20
+                                                                    E-mail: b.hoppe@cpn-systems.it
+
+ hochrheinNET GmbH                                     HRN          Mr Francesco Lucia
+ Gemeindezentrum 1                                                  Tel:    +49 7741 606770
+ 79790 KUESSABERG                                                   Fax:    +49 7741 606841
+                                                                    E-mail: info@hochrheinnet.de
+
+ Innofactory GmbH                                      LNET         Mr Kevin Baier CTO
+ Agathastr. 63                                                      Tel:     +49 27219459434
+ D-57368 LENNESTADT                                                 Fax:     +49 2721983720
+                                                                    E-mail: KBaier@innofactory.de
+
+ Inter.net Germany GmbH                               INET42        Mr Christian Röhl
+ Knesebeckstr. 59-61                                                Tel:     +49 30 25430 301
+ 10719 BERLIN                                                       Fax:     +49 30 25430 499
+                                                                    E-mail: itu@de.inter.net
+
+ rockenstein AG                                        ROCK         Mr Christoph Rockenstein
+ Ohmstrasse 12                                                      Tel:     +49 931299344
+ 97076 WUERZBURG                                                    Fax:     +49 9312993499
+                                                                    E-mail: support@rockenstein.de
+
+ tel.quick GmbH & Co. KG                              TQUICK        Mr Jan Wilhelm
+ Pinneberger Strasse 2                                              Tel:    +49 4106 616121
+ 25451 QUICKBORN                                                    Fax:    +49 4106 616161
+                                                                    E-mail: jwilhelm@stadtwerke-quickborn.de
+
+Gibraltar / GIB      LIR
+
+ Eazi Telecom Ltd (trading as “Limba”)                EAZ629        Mrs Jessica Canepa
+ Suite 48, Royal Ocean Plaza                                        Tel:    +350 219 000 00
+ 16 Glacis Road                                                     E-mail: jventura@limbatelecom.com
+ Gibraltar GX11 1AA
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                             (Position on 15 December 2014)
+                               (Annex to ITU Operational Bulletin No. 1066 – 15.XII.2014)
+                                                (Amendment No. 23)
+
+
+
+ Numerical order        ADD
+               7-110        Colombia (Republic of)
+
+
+
+ Alphabetical order ADD
+               7-110        Colombia (Republic of)
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                 (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                 (Amendment No. 11)
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point   Name of the signalling point operator
+
+
+ Colombia ADD
+ 7-216-0       16064        CESG                                  EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. ESP.
+ 7-216-1       16065        COSG                                  EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. ESP.
+ 7-216-2       16066        LLEIDA_CO                             LLEIDA S.A.S.
+ 7-216-3       16067        STP01VEN                              COMUNICACION CELULAR S.A.
+ 7-216-4       16068        STP01BUC                              COMUNICACION CELULAR S.A.
+ 7-216-5       16069        STP02AVA                              AVANTEL S.A.S
+ 7-216-6       16070        STP02AVAINT02                         AVANTEL S.A.S
+
+ Colombia LIR
+ 7-064-0       14848        E-10 MT - BOGOTÁ                      COLOMBIA TELECOMUNICACIONES S.A. ESP
+ 7-064-1       14849        AXE NORTE - BOGOTÁ                    COLOMBIA TELECOMUNICACIONES S.A. ESP
+ 7-064-2       14850        AXE - BARRANQUILLA                    COLOMBIA TELECOMUNICACIONES S.A. ESP
+ 7-064-3       14851        E-10 MT                               COLOMBIA TELECOMUNICACIONES S.A. ESP
+ 7-064-4       14852        AXE TRANSGATE3 - MEDELLÍN             ORBITEL S.A. ESP
+ 7-064-5       14853        AXE TRANSGATE3 - BOGOTÁ               ORBITEL S.A. ESP
+ 7-064-6       14854        EWSD VERSIÓN 12 - BOGOTÁ              EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. ESP.
+ 7-064-7       14855        EWSD VERSIÓN 12 - CALI                EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. ESP.
+ 7-065-0       14856        AXE-10 BOGOTÁ - CENTRO                COLOMBIA TELECOMUNICACIONES S.A. ESP
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point   Name of the signalling point operator
+ 7-065-1       14857        AXE 10 BARRANQUILLA - EL PELU         COLOMBIA TELECOMUNICACIONES S.A. ESP
+ 7-065-2       14858        MD_INT_SS_ORB                         ORBITEL S.A. ESP
+ 7-066-2       14866        CALLE 72                              TELMEX TELECOMUNICACIONES S.A. ESP
+
+ Germany SUP
+ 2-121-0       5064         Düsseldorf                            Carrier 1 International GmbH
+ 2-121-1       5065         Frankfurt                             Carrier 1 International GmbH
+ 2-225-3       5899         Frankfurt                             Xtec Communication Ltd.
+ 2-248-2       6082         Frankfurt                             Carrier1 AG
+ 2-250-4       6100         Düsseldorf                            Carrier1 AG
+
+ Germany ADD
+ 3-252-5       8165         FRA SCP1                              TelcoVillage GmbH
+ 3-254-4       8180         FRA SCP2                              TelcoVillage GmbH
+
+ Germany LIR
+ 2-036-5       4389         FRA STP1                              TelcoVillage GmbH
+ 2-243-2       6042         Frankfurt                             Median Telecom GmbH
+ 3-243-7       8095         FRA STP2                              TelcoVillage GmbH
+
+ United States ADD
+ 3-022-0       6320         Wichita Falls, TX                     Choice Wireless, LC
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web:www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that
+the information, which will be made available freely to all administrations/ROAs and service providers, can be
+posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.II.2017 the following countries have updated their national numbering plan on our site:
+
+                                Country                              Country Code (CC)
+               Burkina Faso                                                 +226
+               Costa Rica                                                   +506
+               Haiti                                                        +509
+
+
+
+

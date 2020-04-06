@@ -1,0 +1,372 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1175             1.VII.2019                  (Information received by 17 June 2019) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+
+
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                               3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164 (11/2010)):
+   Note from TSB ..........................................................................................................................................       4
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Note from TSB .......................................................................................................................             4
+Telephone Service:
+     Trinidad and Tobago Telecommunications Authority of Trinidad and Tobago (TATT), Barataria ...........                                                        5
+Service Restrictions ........................................................................................................................................     6
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   6
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                        7
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                                7
+List of Recommendation ITU-T E.164 assigned Country Codes .....................................................................                                   8
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................      9
+List of International Signalling Point Codes (ISPC) .........................................................................................                    10
+National Numbering Plan ...............................................................................................................................          10
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1176             15.VII.2019            28.VI.2019
+               1177             1.VIII.2019           15.VII.2019
+               1178            15.VIII.2019           31.VII.2019
+               1179              1.IX.2019            16.VIII.2019
+               1180             15.IX.2019            30.VIII.2019
+               1181              1.X.2019              16.IX.2019
+               1182             15.X.2019               1.X.2019
+               1183              1.XI.2019             15.X.2019
+               1184             15.XI.2019             1.XI.2019
+               1185             1.XII.2019             15.XI.2019
+               1186             15.XII.2019            2.XII.2019
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+                              Approval of ITU-T Recommendations
+By AAP-60, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T H.264 (V13) (06/2019): Advanced video coding for generic audiovisual services
+–       ITU-T T.800 (V3) (06/2019): Information technology – JPEG 2000 image coding system: Core coding system
+–       ITU-T T.814 (06/2019): Information technology - JPEG 2000 image coding system: Encapsulation of JPEG
+        2000 images into ISO/IEC 23008-12
+–       ITU-T T.815 (06/2019): Information technology - JPEG 2000 image coding system: Encapsulation of JPEG
+        2000 images into ISO/IEC 23008-12
+–       ITU-T Y.4206 (06/2019): Requirements and capabilities of user-centric work space service
+–       ITU-T Y.4207 (06/2019): Requirements and capability framework of smart environmental monitoring
+–       ITU-T Y.4458 (06/2019): Requirements and functional architecture of smart street light service
+–       ITU-T Y.4460 (06/2019): Architectural reference models of devices for IoT applications
+
+
+             The International Public Telecommunication Numbering Plan
+                      (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+
+                                 Identification codes for international networks
+
+Associated with shared country code 883 for international networks, the following three-digit identification code
+has been assigned.
+
+
+                                                                      Country Code and           Date of assignment
+             Applicant                       Network
+                                                                     Identification Code
+
+    1NCE GmbH                     1NCE GmbH                               +883 300                   12.VI.2019
+
+
+
+
+      International Identification Plan for Public Networks and Subscriptions
+                     (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                             Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC)
+have been assigned.
+
+                                 Mobile Country Code (MCC) and Mobile Network                Date of assignment
+           Network
+                                                  Code (MNC)
+1NCE GmbH                                              901 67                                    12.VI.2019
+Maersk Line A/S                                        901 68                                    12.VI.2019
+
+
+
+
+                                          Telephone Service
+                                     (Recommendation ITU-T E.164)
+                                            url: www.itu.int/itu-t/inr/nnp
+
+Trinidad and Tobago (country code +1 868)
+Communication of 3.VI.2019:
+The Telecommunications Authority of Trinidad and Tobago (TATT), Barataria, announces that the following
+Central Office codes (CO) have been assigned to an operator in Trinidad and Tobago.
+
+     Fixed network
+
+                  Name of operator                        Central office code     Service
+    Digicel (Trinidad and Tobago) Limited                         240              Fixed
+                                                                  241
+                                                                  242
+
+Contact:
+         Ms Cynthia Reddock-Downes
+         Chief Executive Officer (Ag)
+         Telecommunications Authority of Trinidad and Tobago (TATT)
+         5, Eight Avenue Extension, off Twelfth Street
+         BARATARIA
+         Trinidad and Tobago
+         Tel:     +1 868 675 8288
+         Fax:     +1 868 674 1055
+         E-mail: info@tatt.org.tt
+         URL:     www.tatt.org.tt
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call – Back
+               and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                      AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+
+                                 ADD    Insert                     PAR   paragraph
+                                 COL    Column                     REP   replace
+                                 LIR    Read                       SUP   Delete
+                                 P      page(s)
+
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2019
+
+                                                  Section VI
+REP
+          JP01 Kokusai Denshin Denwa Co. Ltd., 3-2, Nishi-Shinjuku 2-Chome,
+               Shinjuku-Ku, Tokyo 163, Japan.
+               Tel: +81 3 3347-6061, Fax: +81 3 3347-6430, Telex: j22500.
+
+
+
+
+                            List of Issuer Identifier Numbers for
+                    the International Telecommunication Charge Card
+              (in accordance with Recommendation ITU-T E.118 (05/2006))
+                               (Position on 1 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                              (Amendment No. 12)
+
+Brazil               LIR
+    Country/         Company Name/Address                     Issuer      Contact
+  geographical                                              Identifier
+      area                                                   Number
+ Brazil              Claro S/A                              89 55 05      Luiz Otavio V. Prates
+                     Rua Henri Dunant, 780                                Av. Pres. Vargas 1012 – 6th floor
+                     SÃO PAULO, SP / CEP: 04709-110                       Rio de Janeiro – RJ – CEP 20071-910
+                                                                          Tel:     +55 21 21219300
+                                                                          Fax:     +55 21 21219321
+                                                                          E-mail: lprates@starone.com.br
+
+
+
+
+               List of Recommendation ITU-T E.164 assigned Country Codes
+                 (Complement to Recommendation ITU-T E.164 (11/2010))
+                            (Position on 15 December 2016)
+                                 (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016))
+                                                   (Amendment No. 10)
+
+ Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+p       Associated with shared country code 883, the following three-digit identification code reservations or
+        assignments have been made for the international networks of:
+Note p)      +883 300           ADD*
+
+                                                                          Country Code and
+               Applicant                               Network                                           Status
+                                                                         Identification Code
+
+ 1NCE GmbH                                 1NCE GmbH                         +883 300                   Assigned
+
+* 12.VI.2019
+
+__________
+
+See page 4 of the present Operational Bulletin No. 1175 of 1.VII.2019.
+
+
+
+
+Mobile Network Codes (MNC) for the international identification plan
+               for public networks and subscriptions
+       (According to Recommendation ITU-T E.212 (09/2016))
+                  (Position on 15 December 2018)
+                       (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                        (Amendment No.11)
+
+ Country/Geographical area                    MCC+MNC *              Operator/Network
+ Brazil LIR
+                                                      724 06         Telefônica Brasil S.A.
+                                                      724 10         Telefônica Brasil S.A.
+                                                      724 11         Telefônica Brasil S.A.
+                                                      724 23         Telefônica Brasil S.A.
+ Gibraltar ADD
+                                                      266 03         GibFibre Ltd (trading as “Gibfibrespeed”)
+ Spain ADD
+                                                      214 13         SYMA MOBILE ESPAÑA, S.L.
+ Spain LIR
+                                                      214 24         VODAFONE ESPAÑA, S.A.U.
+ Switzerland ADD
+                                                      228 64         NTH AG
+ International Mobile, shared code ADD
+                                                      901 67         1NCE GmbH
+                                                      901 68         Maersk Line A/S
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (09/2016))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 58)
+
+
+ Country/                   Unique name of the signalling point         Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+ American Samoa ADD
+ 5-088-4       10948        Pago Pago, AS                               AST Telecom, LLC
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                          Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.VI.2019, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                     Country/ Geographical area                                    Country Code (CC)
+ Iran (Islamic Republic of)                                                                 +98
+ Sierra Leone                                                                              +232
+
+
+
+

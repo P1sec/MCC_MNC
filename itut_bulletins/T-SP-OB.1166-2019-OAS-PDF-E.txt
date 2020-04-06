@@ -1,0 +1,641 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1166             15.II.2019                  (Information received by 2 February 2019) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                               Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ................................................................................3
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)):
+   Note from TSB.....................................................................................................................................................4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164 (11/2010)):
+   Note from TSB.....................................................................................................................................................5
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Note from TSB .................................................................................................................................5
+Telephone Service
+     Denmark (Danish Energy Agency, Copenhagen) ................................................................................................6
+     Kyrgyzstan (State Communications Agency under the State Committee of Information Technologies
+        and Communications of Kyrgyz Republic, Bishkek) .......................................................................................8
+Service Restrictions ..................................................................................................................................................9
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .................................................................9
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .................................................10
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card ...................................11
+List of Recommendation ITU-T E.164 assigned Country Codes ............................................................................12
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .............................................................................................................................................12
+List of ITU Carrier Codes .......................................................................................................................................13
+List of Signalling Area/Network Codes (SANC) ......................................................................................................14
+List of International Signalling Point Codes (ISPC) .................................................................................................15
+National Numbering Plan .....................................................................................................................................16
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1167              1.III.2019            15.II.2019
+               1168             15.III.2019            1.III.2019
+               1169              1.IV.2019             15.III.2019
+               1170             15.IV.2019             1.IV.2019
+               1171              1.V.2019              12.IV.2019
+               1172             15.V.2019              26.IV.2019
+               1173              1.VI.2019             15.V.2019
+               1174             15.VI.2019             31.V.2019
+               1175             1.VII.2019             14.VI.2019
+               1176             15.VII.2019            28.VI.2019
+               1177             1.VIII.2019           15.VII.2019
+               1178            15.VIII.2019           31.VII.2019
+               1179              1.IX.2019            16.VIII.2019
+               1180             15.IX.2019            30.VIII.2019
+               1181              1.X.2019              16.IX.2019
+               1182             15.X.2019               1.X.2019
+               1183              1.XI.2019             15.X.2019
+               1184             15.XI.2019             1.XI.2019
+               1185             1.XII.2019             15.XI.2019
+               1186             15.XII.2019            2.XII.2019
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+                  Assignment of Signalling Area/Network Codes (SANC)
+                        (Recommendation ITU-T Q.708 (03/99))
+
+
+Note from TSB
+At the request of the Administration of the Kingdom of Lesotho, the Director of TSB has assigned the following
+signalling area/network code (SANC) for use in the international part of the signalling system No. 7 network of
+this country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                 Country/geographical area or signalling network                         SANC
+
+                   Lesotho (Kingdom of)                                                  6-103
+
+
+
+______________
+SANC: Signalling Area/Network Code.
+      Code de zone/réseau sémaphore (CZRS).
+      Código de zona/red de señalización (CZRS).
+
+
+
+
+             The International Public Telecommunication Numbering Plan
+                      (Recommendation ITU-T E.164 (11/2010))
+
+
+Note from TSB
+
+                                    Identification codes for international network
+
+Associated with shared country code 883 for international networks, the following three-digit identification
+codes have been assigned:
+
+
+                                                                             Country Code and             Date of
+             Applicant                              Network                    Identification           assignment
+                                                                                   Code
+  Plintron Global Technology          Plintron Global Technology                   +883 280                 29.I.2019
+  Solutions Private Limited           Solutions Private Limited
+  Limitless Mobile, LLC               Limitless Mobile, LLC                        +883 290                 29.I.2019
+
+
+
+
+     International Identification Plan for Public Networks and Subscriptions
+                    (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                               Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC)
+have been assigned on 29 January 2019:
+
+                                                                        Mobile Country Code (MCC)* and Mobile
+                            Network
+                                                                                Network Code (MNC)**
+ Plintron Global Technology Solutions Private Limited t                                     901 65
+ Limitless Mobile, LLC                                                                      901 66
+
+______________
+*      MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+**     MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                          url: www.itu.int/itu-t/inr/nnp
+
+ Denmark (country code +45)
+ Communication of 17.I.2019:
+ The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+ Denmark:
+       Withdrawal – Fixed communications services
+Provider                                       Numbering series                                     Date of
+                                                                                                   withdrawal
+TDC A/S      32469fgh; 32631fgh; 32632fgh; 32633fgh; 32634fgh; 32635fgh; 32636fgh; 32637fgh;       31.XII.2018
+             32639fgh; 32691fgh; 32692fgh; 32693fgh; 32694fgh; 32695fgh; 32822fgh; 32823fgh;
+             32824fgh; 32832fgh; 32834fgh; 32862fgh; 32863fgh; 32864fgh; 32865fgh; 32866fgh;
+             32867fgh; 32868fgh; 32869fgh; 3319fgh0; 33191fgh; 33192fgh; 33264fgh; 33850fgh;
+             33864fgh; 33869fgh; 33870fgh; 33871fgh; 33872fgh; 33873fgh; 33874fgh; 35243fgh;
+             36134fgh; 36135fgh; 36136fgh; 36137fgh; 36138fgh; 36149fgh; 36157fgh; 36345fgh;
+             36346fgh; 38779fgh; 43272fgh; 43273fgh; 43274fgh; 43279fgh; 43400fgh; 43401fgh;
+             43402fgh; 43403fgh; 43562fgh; 43563fgh; 43564fgh; 43602fgh; 43603fgh; 43604fgh;
+             43605fgh; 43606fgh; 43607fgh; 43608fgh; 43609fgh; 43663fgh; 43688fgh; 43689fgh;
+             43850fgh; 43851fgh; 43852fgh; 43853fgh; 43854fgh; 43855fgh; 43856fgh; 43857fgh;
+             43858fgh; 43953fgh; 43954fgh; 43956fgh; 44496fgh; 44497fgh; 44498fgh; 44499fgh;
+             44780fgh; 44781fgh; 45163fgh; 45206fgh; 45653fgh; 45654fgh; 45665fgh; 45666fgh;
+             45667fgh; 45668fgh; 45669fgh; 45895fgh; 45896fgh; 45897fgh; 45898fgh; 45899fgh;
+             45943fgh; 46344fgh; 46349fgh; 46375fgh; 46376fgh; 46377fgh; 46378fgh; 46379fgh;
+             46386fgh; 46387fgh; 46388fgh; 46389fgh; 46566fgh; 46567fgh; 46568fgh; 46569fgh;
+             47189fgh; 47318fgh; 47319fgh; 47331fgh; 47332fgh; 47336fgh; 47342fgh; 47344fgh;
+             47345fgh; 47346fgh; 47347fgh; 47348fgh; 47349fgh; 47362fgh; 47363fgh; 47364fgh;
+             47369fgh; 47533fgh; 47726fgh; 47727fgh; 47728fgh; 47729fgh; 47743fgh; 47744fgh;
+             47764fgh; 47773fgh; 47774fgh; 47775fgh; 47776fgh; 47778fgh; 47779fgh; 48256fgh;
+             48257fgh; 48258fgh; 48259fgh; 48700fgh; 48703fgh; 48719fgh; 48720fgh; 48721fgh;
+             48722fgh; 48723fgh; 48724fgh; 48725fgh; 48726fgh; 48728fgh; 48729fgh; 48767fgh;
+             54164fgh; 55359fgh; 55464fgh; 55768fgh; 55823fgh; 55824fgh; 55825fgh; 55827fgh;
+             55908fgh; 56189fgh; 56209fgh; 56647fgh; 56648fgh; 56649fgh; 56664fgh; 56665fgh;
+             56666fgh; 56667fgh; 56668fgh; 56960fgh; 57605fgh; 58253fgh; 58257fgh; 58310fgh;
+             59457fgh; 62257fgh; 62258fgh; 62452fgh; 62455fgh; 62456fgh; 62457fgh; 62458fgh;
+             62597fgh; 62598fgh; 62599fgh; 62657fgh; 62658fgh; 62659fgh; 64457fgh; 64458fgh;
+             64459fgh; 64787fgh; 64788fgh; 64789fgh; 64804fgh; 64805fgh; 64806fgh; 64897fgh;
+             64898fgh; 64899fgh; 65347fgh; 65348fgh; 65349fgh; 65375fgh; 65376fgh; 65984fgh;
+             65985fgh; 65986fgh; 65987fgh; 65988fgh; 65989fgh; 65990fgh; 65995fgh; 73203fgh;
+             73265fgh; 73301fgh; 73308fgh; 73309fgh; 73327fgh; 73350fgh; 73351fgh; 73352fgh;
+             73354fgh; 73355fgh; 73356fgh; 73358fgh; 73359fgh; 73712fgh; 73713fgh; 73714fgh;
+             73715fgh; 73716fgh; 73717fgh; 73718fgh; 73719fgh; 74300fgh; 74309fgh; 74350fgh;
+             74352fgh; 74354fgh; 74355fgh; 74356fgh; 74357fgh; 74358fgh; 74359fgh; 74610fgh;
+             74611fgh; 74612fgh; 74615fgh; 74616fgh; 74619fgh; 74729fgh; 76247fgh; 76499fgh;
+             76508fgh; 76529fgh; 76549fgh; 76596fgh; 76598fgh; 76609fgh; 76657fgh; 76696fgh;
+             76699fgh; 76712fgh; 76713fgh; 76715fgh; 76773fgh; 76777fgh; 76786fgh; 76788fgh;
+             76789fgh; 76807fgh; 76839fgh; 76848fgh; 76849fgh; 76879fgh; 76909fgh; 76942fgh;
+             76944fgh; 76948fgh; 76976fgh; 76979fgh; 76988fgh; 76992fgh; 79252fgh; 86497fgh;
+             86608fgh; 86776fgh; 86778fgh; 89138fgh; 90500fgh; 90505fgh; 96246fgh; 96418fgh;
+             96438fgh; 96839fgh; 96878fgh; 97359fgh; 97419fgh; 97842fgh; 97843fgh; 98234fgh;
+             98519fgh; 98570fgh; 98577fgh; 98578fgh; 98579fgh; 99123fgh; 99152fgh; 99396fgh;
+             99397fgh; 99398fgh; 99399fgh; 99830fgh
+
+     Assignment – Fixed communications services
+              Provider                              Numbering series      Date of assignment
+Flexfone A/S                      6916efgh                                    16.I.2019
+Colt Technology Services A/S      3274efgh and 8874efgh                       16.I.2019
+
+
+     Assignment – Mobile communications services
+              Provider                              Numbering series      Date of assignment
+Flexfone A/S                      4414efgh                                    16.I.2019
+
+
+     Withdrawal – Carrier select code
+              Provider                              Carrier select code   Date of withdrawal
+Verizon A/S                       1029                                        31.I.2019
+
+
+Contact:
+         Danish Energy Agency
+         Amaliegade 44
+         1256 COPENHAGEN K
+         Denmark
+         Tel: +45 33 92 67 00
+         Fax: +45 33 11 47 43
+         E-mail: ens@ens.dk
+         URL: www.ens.dk
+
+
+
+
+ Kyrgyzstan (country code +996)
+ Communication of 18.I.2019:
+ The State Communications Agency under the State Committee of Information Technologies and
+ Communications of Kyrgyz Republic, Bishkek, announces updates to the national numbering plan of Kyrgyzstan.
+        Description of introduction of new resource for national E.164 numbering plan for country code 996:
+
+     NDC (national         N(S)N number length
+  destination code) or
+                                                                 Usage of                    Time and date of
+leading digits of N(S)N    Maximum      Minimum            ITU-T E.164 number                  introduction
+ (national (significant)    length       length
+        number)
+       70 (NDC)                9            9        Non-geographic number – Mobile             20 April 2010
+                                                     telephony services                        (Nur Telecom)
+                                                     (+996 70 X XXX XXX)
+          50 0                 9            9        Non-geographic number – Mobile          5 September 2017
+       [50 (NDC)]                                    telephony services                        (Nur Telecom)
+                                                     (+996 50 0 XXX XXX)
+          50 1                 9            9        Non-geographic number – Mobile          5 September 2017
+       [50 (NDC)]                                    telephony services                        (Nur Telecom)
+                                                     (+996 50 1 XXX XXX)
+          50 2                 9            9        Non-geographic number – Mobile          5 September 2017
+       [50 (NDC)]                                    telephony services                        (Nur Telecom)
+                                                     (+996 50 2 XXX XXX)
+          50 5                 9            9        Non-geographic number – Mobile          5 September 2017
+       [50 (NDC)]                                    telephony services                        (Nur Telecom)
+                                                     (+996 50 5 XXX XXX)
+          50 7                 9            9        Non-geographic number – Mobile          5 September 2017
+       [50 (NDC)]                                    telephony services                        (Nur Telecom)
+                                                     (+996 50 7 XXX XXX)
+          50 8                 9            9        Non-geographic number – Mobile           29 October 2018
+       [50 (NDC)]                                    telephony services                        (Nur Telecom)
+                                                     (+996 50 8 XXX XXX)
+          50 9                 9            9        Non-geographic number – Mobile           29 October 2018
+       [50 (NDC)]                                    telephony services                        (Nur Telecom)
+                                                     (+996 50 9 XXX XXX)
+          50 3                 9            9        Non-geographic number – Mobile            14 April 2017
+       [50 (NDC)]                                    telephony services                        (“7 Mobile”)
+                                                     (+996 50 3 XXX XXX)
+          50 4                 9            9        Non-geographic number – Mobile            14 April 2017
+       [50 (NDC)]                                    telephony services                         (“7 Mobile”)
+                                                     (+996 50 4 XXX XXX)
+
+ Contacts:
+     State Communications Agency
+     under the State Committee of Information Technologies and Communications of Kyrgyz Republic
+     7b, Baytik Baatyr Street
+     720005 BISHKEK
+     Kyrgyzstan
+     Tel: +996 312 544450
+     Fax: +996 312 544105
+     E-mail: nta@infotel.kg
+     URL: http://world.nas.gov.kg/index.php?option=com_content&view=article&id=70&Itemid=165 &lang=ru
+
+     NUR Telecom LLC - Roaming and interconnect department
+     E-mail: roaming@nurtelecom.kg
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                             Abbreviations used
+
+                               ADD   Insert                    PAR   paragraph
+                               COL   Column                    REP   replace
+                               LIR   Read                      SUP   Delete
+                               P     page(s)
+
+
+
+
+                         List of Ship Stations and Maritime Mobile
+                                 Service Identity Assignments
+                                            (List V)
+                                        Edition of 2018
+
+                                               Section VI
+
+
+REP
+
+      DP04      SpeedCast Germany GmbH, Lauenburger Landstrasse 11, 21039 Boernsen,
+                Germany.
+                E-Mail: info.de@speedcast.com, Tel:+49 4402 696690,
+                Contact Person: Stefan Alberts.
+
+      DP05      SpeedCast Germany GmbH, Lauenburger Landstrasse 11, 21039 Boernsen,
+                Germany.
+                E-Mail: info.de@speedcast.com, Tel: +49 4402 696690,
+                Contact Person: Stefan Alberts.
+
+      IA17      PT. Bathera Energi Samudra Tuah, Equity Tower 43th Floor, Unit F-G,
+                JI. Jendral Dudirman Kav.52-53, Jakarta 14330, Indonesia.
+                E-Mail: herry@bestshippinglines.com, Tel: +62 21 5152330, Fax: +62 21 5152331
+                Contact Person: Herry Mokoginta.
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                              (Amendment No. 4)
+
+
+Malta          LIR
+
+Country/Geographical        Company Name/Address          Issuer Identifier   Contact
+        area                                                  Number
+Malta                       YOM Ltd.                         89 356 11        Vadym Gurzhos
+                            2nd Floor Bonnici House                           2nd Floor Bonnici House
+                            Triq Is-Sardin                                    Triq Is-Sardin
+                            Burmarrad                                         Burmarrad
+                            SAN PAWL IL-BAĦAR,                                SAN PAWL IL-BAĦAR, SPB 6073
+                            SPB 6073                                          Tel: +356 2743 5048
+                                                                              E-mail: general@yom.company
+Malta                       GO p.l.c.                        89 356 21        Stefan Briffa
+                            Fra Diegu Street                                  Fra Diegu Street
+                            MARSA, MRS 1501                                   MARSA, MRS 1501
+                                                                              Tel: +356 2594 2520
+                                                                              E-mail: stefan.briffa@go.com.mt
+
+
+
+
+              List of Recommendation ITU-T E.164 assigned Country Codes
+                (Complement to Recommendation ITU-T E.164 (11/2010))
+                           (Position on 15 December 2016)
+                             (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016))
+                                               (Amendment No. 8)
+
+Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+p       Associated with shared country code 883, the following three-digit identification code reservations or
+        assignments have been made for the international networks of:
+Note p)     +883 280; +883 290       ADD*
+
+                                                                          Country Code and
+              Applicant                          Network                                                   Status
+                                                                         Identification Code
+ Plintron Global Technology           Plintron Global Technology               +883 280                  Assigned
+ Solutions Private Limited            Solutions Private Limited
+ Limitless Mobile, LLC                Limitless Mobile, LLC                    +883 290                  Assigned
+
+* 29.I.2019
+
+
+
+
+       Mobile Network Codes (MNC) for the international identification plan
+                     for public networks and subscriptions
+             (According to Recommendation ITU-T E.212 (09/2016))
+                        (Position on 15 December 2018)
+
+                            (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                              (Amendment No. 3)
+
+
+    Country/Geographical area            MCC+MNC *         Operator/Network
+
+    Estonia ADD
+                                             248 16        SmartTel Plus OÜ
+
+    Hungary LIR
+                                             216 04        Invitech ICT Services Ltd.
+
+    South Africa ADD
+                                             655 65        Vodacom Pty Ltd
+
+    International Mobile,
+    shared code ADD                          901 65        Plintron Global Technology Solutions Private Limited
+                                             901 66        Limitless Mobile, LLC
+
+
+____________
+
+*           MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+            MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 73)
+
+
+ Country or area/ISO code                        Company Code       Contact
+  Company Name/Address                            (carrier code)
+
+
+Germany (Federal Republic of) / DEU           ADD
+
+
+ Dr. Michaelis Consult GmbH                       MCGMBH           Mr Steffen Pein
+ Braunstrasse 22                                                   Tel.:    +49 341 2426200
+ 04347 LEIPZIG                                                     Fax:     +49 341 242609
+                                                                   E-mail : spein@mcgmbh.net
+
+ Heike Keim                                         KENS34         Mr Stefan Keim
+ Keim - Elektronik                                                 Tel.:    +49 6693 919081
+ Landsburger Strasse 4                                             Fax:     +49 6693 919082
+ 34599 NEUENTAL                                                    E-mail : info@keim-elektronik.de
+
+ MAINGAU Energie GmbH                               MEGTK          Mr Dominik Habig
+ Ringstrasse 4 - 6                                                 Tel.:    +49 6104 9519 2049
+ 63179 OBERTSHAUSEN                                                E-mail : dominik.habig@maingau-energie.de
+
+
+ SKYTRON Communications GmbH & Co.KG                SKYTRN         Mr Holger Witt
+ Im Hinteracker 6-10                                               Tel.:    +49 7248 4528 130
+ 76307 KARLSBAD                                                    Fax:     +49 7248 4528 230
+                                                                   E-mail : h.witt@skytron.de
+
+ Stadtwerke Bühl GmbH                               BUEHL          Mr Georg Friedmann
+ Siemensstrasse 5                                                  Tel.:    +49 7223 946 110
+ 77815 BUEHL                                                       Fax:     +49 7223 946 271110
+                                                                   E-mail : georg.friedmann@stadtwerke-buehl.de
+
+ Vattenfall Bitstream Infrastructure GmbH            VBIG          Mrs Vera Forst
+ Chausseestrasse 23                                                Tel.:    +49 152 2886 4355
+ 10115 BERLIN                                                      E-mail : vera.forst@vattenfall.de
+
+
+ Viakom GmbH                                        VIAKOM         Mr Matthias Damerow
+ Heideland 1                                                       Tel.:    +49 461 430920 10
+ 24976 HANDEWITT                                                   Fax:     +49 461 430920 50
+                                                                   E-mail : matthias.damerow@viakom.de
+
+ WSW Wuppertaler Stadtwerke GmbH                    WSWNET         Mr Pasquale Martic
+ Bromberger Str. 39 - 41                                           Tel.:    +49 202 569 3909
+ 42281 WUPPERTAL                                                   Fax:     +49 202 569 803909
+                                                                   E-mail : pasquale.martic@wsw-online.de
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                 (Position on 1 June 2017)
+
+                             (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                              (Amendment No. 6)
+
+
+
+ Numerical order       ADD
+               6-103    Lesotho (Kingdom of)
+
+
+
+ Alphabetical order ADD
+               6-103    Lesotho (Kingdom of)
+
+____________
+
+SANC: Signalling Area/Network Code.
+      Code de zone/réseau sémaphore (CZRS).
+      Código de zona/red de señalización (CZRS).
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+
+                               (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                               (Amendment No. 51)
+
+
+ Country/                 Unique name of the signalling point       Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Estonia SUP
+ 2-092-4       4836       Tallinn                                   Elisa Andmesidesttnused AS
+ 6-227-2       14106      Tallinn                                   Travel Communication OÜ
+
+ Estonia ADD
+ 5-230-2       12082      Dzinga/TLN                                SmartTel Plus OÜ
+
+ France SUP
+ 2-150-3       5299       SAP France - Courbevoie 1                 SAP France
+ 2-150-4       5300       SAP France - Courbevoie 2                 SAP France
+ 3-232-0       8000       OMEA TELECOM - Aubervilliers              Omea telecom
+ 3-232-1       8001       OMEA TELECOM - Courbevoie                 Omea telecom
+
+ France ADD
+ 2-150-2       5298       Mobiquithings – Vitry 4                   Mobiquithings
+ 2-150-3       5299       Mobiquithings – Vitry 5                   Mobiquithings
+ 2-150-4       5300       Mobiquithings – Vitry 6                   Mobiquithings
+ 3-232-0       8000       P1 Security – Vitry 1                     P1 security
+ 3-232-1       8001       P1 Security – Vitry 2                     P1 security
+
+ France LIR
+ 2-016-0       4224       Sewan Communications - Courbevoie         Sewan Communications
+
+ Hungary LIR
+ 2-032-5       4357       VTH-DUN-TE                                Invitech ICT Services Ltd.
+
+ Panama SUP
+ 7-027-3       14555      Vozelia 1                                 Vozelia, S.A.
+
+____________
+
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                 National Numbering Plan
+                  (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.I.2019, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                         Country/ Geographical area                     Country Code (CC)
+                 Kenya                                                        +254
+                 Viet Nam                                                      +84
+                 Zimbabwe                                                     +263
+
+
+
+

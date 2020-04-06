@@ -1,0 +1,1087 @@
+                       ITU Operational Bulletin
+                                                        www.itu.int/itu-t/bulletin
+
+       No. 1122             15.IV.2017                  (Information received by 31 March 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                          Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                              Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                              Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                             E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                  Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                  3
+Approval of ITU-T Recommendations ............................................................................................................                       4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)) ................                                                             4
+Telephone Service:
+     Bosnia and Herzegovina (Communications Regulatory Agency (RAK), Sarajevo) ....................................                                                  5
+     Burkina Faso (Autorité de Régulation des Communications Electroniques et des Postes (ARCEP),
+        Ouagadougou) ....................................................................................................................................            9
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                              10
+     Israel (Ministry of Communications, Jerusalem) ......................................................................................                          11
+     Papua New Guinea (National Information & Communications Technology Authority (NICTA),
+        Boroko) ...............................................................................................................................................     13
+     Suriname (Telecommunications Authority Suriname (TAS), Paramaribo) ................................................                                            14
+Other communication: Austria ......................................................................................................................                 15
+Service Restrictions ........................................................................................................................................       16
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                     16
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                                  17
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................           20
+List of ITU Carrier Codes .................................................................................................................................         21
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                        22
+List of International Signalling Point Codes (ISPC) .........................................................................................                       22
+National Numbering Plan ...............................................................................................................................             24
+
+
+
+
+                                                                                                                                    www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1123              1.V.2017              14.IV.2017
+               1124             15.V.2017               1.V.2017
+               1125              1.VI.2017             16.V.2017
+               1126             15.VI.2017             1.VI.2017
+               1127             1.VII.2017             16.VI.2017
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+     (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+     E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+     subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+     (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+     Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1066 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+     (Position on 15 December 2014)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+     2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+     optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+     Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+     (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+     to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+     (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+     operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+     accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+     (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+     T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+     (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+     series Recommendations) (Position on 15 February 2011)
+972 List of terrestrial trunk radio mobile country codes (Complement to ITU-T Recommendation E.218
+     (05/2004)) (Position on 15 January 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+     on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+     Recommendation F.1 (03/1998))
+B.   The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                  Approval of ITU-T Recommendations
+By AAP-09, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T Q.3053 (03/2017): Signalling architecture and requirements for IP based short message service over
+        ITU-T defined NGN
+–       ITU-T Q.3630 v1 (03/2017): Inter-IMS Network to Network Interface (NNI) - Protocol specification
+–       ITU-T Q.3713 (03/2017): Signalling requirements for Broadband Network Gateway (BNG) pool
+–       ITU-T Y.2041 (03/2017): Policy Control Mechanism in Multi-connection
+–       ITU-T Y.2304 (03/2017): Network intelligence capability enhancement - Requirements and capabilities to
+        support mobile content delivery optimization
+–       ITU-T Y.2341 (03/2017): Next Generation Network evolution - Requirements and capabilities for
+        supporting authorized account messaging service
+–       ITU-T Y.3051 (03/2017): The basic principles of trusted environment in ICT infrastructure
+–       ITU-T Y.3052 (03/2017): Overview of trust provisioning for ICT infrastructures and services
+–       ITU-T Y.3071 (03/2017): Data Aware Networking (Information Centric Networking) - Requirements and
+        Capabilities
+
+
+
+
+                    Assignment of Signalling Area/Network Codes (SANC)
+                          (Recommendation ITU-T Q.708 (03/99))
+
+Note from TSB
+At the request of the Administration of Hungary, the Director of TSB has assigned the following signalling
+area/network code (SANC) for use in the international part of the signalling system No. 7 network of this
+country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                   Country/geographical area or signalling network                          SANC
+
+                   Hungary                                                                  5-218
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+
+Bosnia and Herzegovina (country code +387)
+Communication of 21.III.2017:
+The Communications Regulatory Agency (RAK), Sarajevo, announces the Numbering plan for telephone services
+in Bosnia and Herzegovina.
+It shall apply from: 1st October 2017.
+
+                                               General information
+– E.164 Numbering Plan for telephone services in Bosnia and Herzegovina is presented according to the
+  Recommendation ITU-T E.129.
+– Country code (CC): +387
+– International prefix: "00"
+– National prefix: "0"
+– NDC = National destination code
+– N(S)N = National (significant) number {NDC + SN}
+– SN = Subscriber Number
+– Format of international numbers: CC + NDC + SN
+For all national calls, except for calls to short numbers, the National prefix must be dialled before N(S)N. It must
+not be dialled from abroad.
+               Presentation of E.164 Numbering plan for telephone services in Bosnia and Herzegovina
+a)       Overview:
+–        N(S)N Number length: 6 digits minimum / 9 digits maximum
+–      Link to the national database assigned ITU-T E.164 numbers within the Numbering plan for telephone
+       services in Bosnia and Herzegovina:
+http://rak.ba/eng/index.php?uid=1283438061
+b)       Detail of numbering scheme:
+
+          (1)                 (2)                              (3)                                 (4)
+        NDC or        N(S)N number length
+    leading digits   Minimum Maximum                Usage of E.164 Number               Additional information
+       of N(S)N       length      length
+    1x                   8           8        Geographic number for fixed             Reserve
+                                              telephony services                      x=0-9
+    2x                   8           8        Geographic number for fixed             Reserve
+                                              telephony services                      x=0-9
+    30                   8           8        Geographic number for fixed             Area code for Central
+                                              telephony services                      Bosnia Canton
+    31                   8           8        Geographic number for fixed             Area code for Posavina
+                                              telephony services                      Canton
+    32                   8           8        Geographic number for fixed             Area code for Zenica-
+                                              telephony services                      Doboj Canton
+    33                   8           8        Geographic number for fixed             Area code for Sarajevo
+                                              telephony services                      Canton
+    34                   8           8        Geographic number for fixed             Area code for Canton 10
+                                              telephony services
+    35                   8           8        Geographic number for fixed             Area code for Tuzla Canton
+                                              telephony services
+
+
+
+      (1)                 (2)                          (3)                             (4)
+    NDC or        N(S)N number length
+leading digits   Minimum Maximum             Usage of E.164 Number           Additional information
+   of N(S)N       length      length
+36                   8           8      Geographic number for fixed        Area code for
+                                        telephony services                 Hercegovina-Neretva
+                                                                           Canton
+37                  8           8       Geographic number for fixed        Area code for Unsa-Sana
+                                        telephony services                 canton
+38                  8           8       Geographic number for fixed        Area code for Bosanian-
+                                        telephony services                 Podrinje Goražde Canton
+39                  8           8       Geographic number for fixed        Area code for West
+                                        telephony services                 Herzegovina Canton
+49                  8           8       Geographic number for fixed        Area code for Brčko
+                                        telephony services                 Distirct B&H
+4x                  8           8       Geographic number for fixed        Reserved x= 0-8
+                                        telephony services
+50                  8           8       Geographic number for fixed        Area code for Mrkonjić
+                                        telephony services                 Grad
+51                  8           8       Geographic number for fixed        Area code for Banja Luka
+                                        telephony services
+52                  8           8       Geographic number for fixed        Area code for Prijedor
+                                        telephony services
+53                  8           8       Geographic number for fixed        Area code for Doboj
+                                        telephony services
+54                  8           8       Geographic number for fixed        Area code for Šamac
+                                        telephony services
+55                  8           8       Geographic number for fixed        Area code for Bijeljina
+                                        telephony services
+56                  8           8       Geographic number for fixed        Area code for Zvornik
+                                        telephony services
+57                  8           8       Geographic number for fixed        Area code for Istočno
+                                        telephony services                 Sarajevo
+58                  8           8       Geographic number for fixed        Area code for Foča
+                                        telephony services
+59                  8           8       Geographic number for fixed        Area code for Trebinje
+                                        telephony services
+60                  9           9       Non-geographic numbers for         Assigned
+                                        mobile telephony services
+61                  8           8       Non-geographic number for mobile   Assigned
+                                        telephony services
+62                  8           8       Non-geographic number for mobile   Assigned
+                                        telephony services
+63                  8           8       Non-geographic number for mobile   Assigned
+                                        telephony services
+64                  9           9       Non-geographic number for mobile   Assigned
+                                        telephony services
+65                  8           8       Non-geographic number for mobile   Assigned
+                                        telephony services
+66                  8           8       Non-geographic number for mobile   Assigned
+                                        telephony services
+67                  9           9       Non-geographic number for mobile   Assigned
+                                        telephony services
+6x                  9           9       Non-geographic number for mobile   Reserve
+                                        telephony services                 x= 8,9
+
+
+
+      (1)                 (2)                           (3)                           (4)
+    NDC or        N(S)N number length
+leading digits   Minimum Maximum              Usage of E.164 Number         Additional information
+   of N(S)N       length      length
+70                   8           8      Non-geographic number for fixed   Assigned
+                                        telephony services-
+                                        Nomadic subscribers
+7x                  8           8       Non-geographic number for         Reserved
+                                        personal number                   x= 1-9
+800                 8           8       Non-geographic numbers for        Freephone services
+                                        services with special tariffs
+8010                8           8       Non-geographic numbers for        Telephony card
+                                        services with special tariffs     Calling card services
+81a                 8           8       Non-geographic number for         Services with distribution
+                                        services with special tariffs     of cost and Internet
+                                                                          approach
+                                                                          (a=0,1…8)
+819                 8           8       Non-geographic number for         Universal access number
+                                        services with special tariffs     services
+82                  8           8       Non-geographic number for         Services with distribution
+                                        services with special tariffs     of cost
+83                  6           6       Non-geographic number for         e-Commerce services
+                                        services with special tariffs
+85                  9           9       Non-geographic number for         M2M services
+                                        services with special tariffs
+8x                  8           8       Non-geographic numbers for        Reserved
+                                        special services                  x= 6-9
+90                  8           8       Non-geographic number for         Information services
+                                        premium rate services
+91                  8           8       Non-geographic number for         Short messages of value
+                                        premium rate services             added services in mobile
+                                                                          network
+92                  8           8       Non-geographic number for         Entertainment services,
+                                        premium rate services             exempting contents
+                                                                          unsuitable for children and
+                                                                          youth
+94                  8           8       Non-geographic number for         Any entertainment
+                                        premium rate services             services
+96                  8           8       Non-geographic number for         Services which are
+                                        premium rate services             provided in real time
+9x                  8           8       Non-geographic number for         Reserve
+                                        premium rate services             x= 3,5, 7-9
+
+
+
+
+Short numbers:
+       (1)                (2)                               (3)                            (4)
+     NDC or       N(S)N number length
+ leading digits   Minimum Maximum             Usage of E.164 Number              Additional information
+    of N(S)N       length     length
+ 10ab                 4          4      Carrier selection                     ab - operator code
+                                                                              a,b=0-9
+ 112                 3          3       Harmonized European short             Reserved for single
+                                        number                                European Emergency
+                                                                              Service Number
+ 116                 6          6       Harmonized European short code        Reserved for services of
+                                                                              special public interest
+ 116000              6          6       Harmonized European short code        Hotline for missing childre
+ 116006              6          6       Harmonized European short code        Hotline for victims of crime
+ 116111              6          6       Harmonized European short code        Child Helpline
+ 116117              6          6       Harmonized European short code        Medical Services
+ 116123              6          6       Harmonized European short code        Emotional Support Helpline
+ 118a(b)             4          5       Information on telephone numbers      a(b)- operator code
+                                                                              a,b=0-9
+ 11x                                    Protected (for the harmonisation of   x= 0, 1, 3-5, 7, 9
+                     -          -
+                                        numbers)
+ 1200                4          4       Operator assistance for national
+                                                                              Commercial service
+                                        calls
+ 1201                4          4       Operator assistance for
+                                                                              Commercial service
+                                        international calls
+ 1202                4          4       Telegram delivery by telephone        Commercial service
+ 1203                4          4       Distant telephone invitation          Commercial service
+ 1204                4          4       Ultra automatic centre                Commercial service
+ 1205                4          4       Automatic responder for National
+                                                                              Assistant service
+                                        Telephone Exchanges
+ 1206                4          4       Military police                       Emergency service
+ 1207                4          4       Special military services             Emergency service
+ 120x                4          4       Free                                  x= 8, 9
+ 121                 3          3       Information center                    Emergency service
+ 122                 3          3       Police                                Emergency service
+ 123                 3          3       Fire department                       Emergency service
+ 124                 3          3       Medical assistance                    Emergency service
+ 125                 3          3       Clock (Time-signal service)           Commercial service
+ 1260                4          4       Backup connection and Dial up
+                                                                              Commercial service
+                                        connection (CIPS)
+ 1261                4          4       Helpline for victims of women
+                                                                              Assistance service
+                                        trafficking
+ 1262                4          4       Service of search and rescue in B&H   Assistance services
+ 1266                4          4       Operator assistance for
+                                                                              Commercial service
+                                        international calls
+ 126x                4          4       Free                                  x= 3-5, 7-9
+ 127a(b)             4          5       Login interference                    Assistance services
+                                                                              a(b)- operator code
+                                                                              a,b=0-9
+ 128a(b)             4          5       Roadside assistance                   Assistance services
+                                                                              a(b)- operator code
+                                                                              a,b=0-9
+ 129x                4          4       Free                                  x= 0-9
+ 13xx                4          4       Different services within the
+                                                                              Commercial services
+                                        territory of B&H
+
+
+          (1)                 (2)                                 (3)                                 (4)
+        NDC or        N(S)N number length
+    leading digits    Minimum Maximum                Usage of E.164 Number                Additional information
+       of N(S)N        length     length
+    14xx                  4          4        Services provided by operators in
+                                                                                        Commercial services
+                                              their areas
+    15xx                  4           4       Different services within the
+                                                                                        Commercial services
+                                              territory of B&H
+    16xx                  4           4       Protected (for the harmonisation of       For the harmonisation of
+                                              numbers)                                  numbers
+    17xxx                 5           5       Humanitarian number in B&H                Humanitarian services
+    18xx                  4           4       Free                                      x= 0-9
+    19ab                  4           4       Carrier selection                         ab- operator code
+                                                                                        a,b=0-9
+
+                                    Description of introduction of new resources for
+                                    national numbering plan for country code +387:
+
+           (1)                     (2)                                  (3)                                 (4)
+         NDC or            N(S)N number length
+     leading digits      Minimum       Maximum                Usage of E.164 Number          Additional information
+        of N(S)N          length        length
+           85                9             9            Non-geographic number for                2017-10-01-00
+                                                        services with special tariffs
+                                                              (M2M services)
+
+
+Contact:
+            Communications Regulatory Agency (RAK)
+            Mehmeda Spahe 1
+            71 000 SARAJEVO
+            Bosnia and Herzegovina
+            Tel:    +387 (0)33 250 6000
+            Fax:    +387 (0)33 713 080
+            E-mail: info@rak.ba
+            URL:    www.rak.ba
+
+
+
+Burkina Faso (country code +226)
+Communication of 30.III.2017:
+The Autorité de Régulation des Communications Electroniques et des Postes (ARCEP), Ouagadougou, announces
+the following update to the National Numbering Plan of Burkina Faso.
+•           assignment of the following new number series:
+
+    Service                        Operator                      Number series                 Date
+                                                                 AB PQ MC DU
+    Mobile telephone               Airtel Burkina Faso S.A.      5650 XXXX – 5699 XXXX         30.III.2017
+    networks
+
+
+
+
+Contact:
+       Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+       B.P. 6437
+       OUAGADOUGOU 01
+       Burkina Faso
+       Tel: +226 25 37 53 60/61/62
+       Fax: +226 25 37 53 64
+       E-mail: secretariat@arcep.bf
+       URL: www.arcep.bf
+
+
+
+Denmark (country code +45)
+CORRIGENDUM* - Communication of 10.III.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•      assignment – Mobile communication services
+
+
+               Provider                                    Numbering series                        Date of assignment
+Benemen Oy                              9311efgh                                                       10.III.2017
+Maxtel.dk                               93100fgh and 93103fgh
+                                        91300fgh and 91303fgh                                           10.III.2017
+
+* This announcement cancels and replaces that published in ITU Operational Bulletin No. 1121 of 1.IV.2017, page 17, Mobile
+communication services for Maxtel.dk.
+
+
+Communication of 22.III.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•      assignment – Fixed communication services
+
+
+               Provider                                 Numbering series                           Date of assignment
+Telus ApS                               5757efgh, 7272efgh and 86868fgh                                 1.IV.2017
+
+Contact:
+       Danish Energy Agency
+       Amaliegade 44
+       1256 COPENHAGEN K
+       Denmark
+       Tel:    +45 33 92 67 00
+       Fax:    +45 33 11 47 43
+       E-mail: ens@ens.dk
+       URL:    www.ens.dk
+
+
+
+
+Israel (country code +972)
+Communication of 28.III.2017:
+The Ministry of Communications, Jerusalem, announces the updated numbering plan of Israel.
+(a)    Overview:
+       The minimum number length (excluding the country code) is      8 digits
+       The maximum number length (excluding the country code) is      9 digits
+b)     Detail of numbering scheme:
+
+           (1)                   (2)                      (3)                                (4)
+    NDC (national        N(S)N number length
+  destination code)
+  or leading digits of
+                         Maximum Minimum        Usage of E.164 number               Additional Information
+    N(S)N (national
+                          length  length
+      (significant)
+        number)
+ 2 (NDC)                    8          8       Geographic number for       Area code for Jerusalem Region
+                                               fixed telephony services
+                                               (area code)
+ 3 (NDC)                    8          8       Geographic number for       Area code for Tel Aviv Region
+                                               fixed telephony services
+                                               (area code)
+ 4 (NDC)                    8          8       Geographic number for       Area code for Haifa and North
+                                               fixed telephony services    Regions
+                                               (area code)
+ 50 (NDC)                   9          9       Non-geographic number for   Assigned to Pelephone
+                                               mobile telephony services
+ 51 (NDC)                   9          9       Non-geographic number for   Reserve to Maraton 018
+                                               mobile telephony services
+ 52 (NDC)                   9          9       Non-geographic number for   Assigned to Cellcom
+                                               mobile telephony services
+ 53 (NDC)                   9          9       Non-geographic number for   Assigned to Hot Mobile
+                                               mobile telephony services
+ 54 (NDC)                   9          9       Non-geographic number for   Assigned to Partner
+                                               mobile telephony services
+ 55 (NDC), as               9          9       Non-geographic number for   Assigned to MVNO
+ follows:                                      mobile telephony services
+
+ 55-22, 23                                                                 Home Cellular
+
+ 55-32, 33                                                                 Free Telecom
+
+ 55-66, 67, 68                                                             Rami Levi
+
+ 55-70, 71                                                                 Celact
+
+ 55-87, 88, 89                                                             Pelephone (Alon Cellular)
+
+ 55-94 till 99                                                             Telzar
+
+ 56 (NDC)- 2 to 9           9          9       Non-geographic number for
+                                               mobile telephony services
+ 58 (NDC)                   9          9       Non-geographic number for Assigned to Golan Telecom
+                                               mobile telephony services
+ 59 (NDC)                   9          9       Non-geographic number for Assigned to Jawall
+                                               mobile telephony services
+
+
+           (1)                   (2)                         (3)                               (4)
+    NDC (national        N(S)N number length
+  destination code)
+  or leading digits of
+                         Maximum Minimum            Usage of E.164 number          Additional Information
+    N(S)N (national
+                          length  length
+      (significant)
+        number)
+ 6 (NDC)                     9           9       Reserved for future use
+ 7x (NDC)                    9           9       Non geographic number for
+ As follows:                                     fixed telephony services
+
+ 71-8                                                                        Assign to Exphone 018
+
+ 72-2, 72-3                                                                  Assign to 012 Telecom
+
+ 73-2, 73-3                                                                  Assign to Cellcom Fixed Line
+
+ 73-7                                                                        Assign to Veidan
+
+ 74-7                                                                        Assign to Partner Fixed Line
+
+ 76-5                                                                        Assign to B.I.P
+
+ 76-80, 88, 81, 76-88                                                        Assign to Bezeq
+
+ 77                                                                          Assign to Hot Telecom
+
+ 78-2                                                                        Assign to Golan
+
+ 79-2                                                                        Assign to Free Telecom
+
+ 79                                                                          Assign to several operators
+
+ 8 (NDC)                     8           8       Geographic number for       Area code for Hashfela and South
+                                                 fixed telephony services    Regions
+                                                 (area code)
+ 9 (NDC)                     8           8       Geographic number for       Area code for Hasharon Region
+                                                 fixed telephony services
+                                                 (area code)
+Service prefixes open for international incoming calls:
+1255 - Emergency hospitals center (+972 1255 XXX)
+151 - Voice mail (+972 151 + NDC + SN)
+153 - Fax mail (+972 153 + NDC + SN)
+1599 - Interactive voice mail (+972 1599 XXXXXX)
+
+Contact:
+        Mr Itzhak Yadgar
+        Manager, Numbering Department
+        Engineering and Licensing Division
+        Ministry of Communications
+        23 Jaffa Street
+        9199900 JERUSALEM
+        Israel
+        Tel:     +972 3 519 8220/230
+        Fax:     +972 3 519 8244
+        E-mail: yadgari@moc.gov.il
+
+
+
+
+Papua New Guinea (country code +675)
+Communication of 21.III.2017:
+The National Information & Communications Technology Authority (NICTA), Boroko, announces the following
+update in the national numbering plan of Papua New Guinea.
+    Description of introduction of new resources for national E.164 numbering plan for country code 675:
+
+            (1)                         (2)                            (3)                             (4)
+                               N(S)N Number length
+ NDC (National Destination
+ Code) or leading digits of                                         Usage of
+                              Maximum         Minimum                                        Additional information
+      N(S)N (National                                            E.164 number
+   (Significant) Number)       length          length
+
+
+ 2070000 – 2079999 (NDC)         7               7      Non-geographic number –             VoIP service
+                                                        assigned to Digivoip
+                                                        Communications Limited
+ 2040000 – 2049999 (NDC)         7               7      Non-geographic number –             VoIP service
+                                                        assigned to Digitec PNG Limited
+ 2030000 – 2039999 (NDC)         7               7      Non-geographic number –             VoIP service
+                                                        assigned to Oceanic Broadband
+ 2020000 – 2029999 (NDC)         7               7      Non-geographic number –             VoIP service
+                                                        assigned to Digicel (PNG) Limited
+ 2000000 – 2009999 (NDC)         7               7      Non-geographic number –             VoIP service
+                                                        assigned to Telikom PNG Limited
+ 2010000 – 2019999 (NDC)         7               7      Non-geographic number –             VoIP service
+                                                        assigned to Bemobile Limited
+
+Contact:
+       Mr Charles Sihron Punaha
+       National Information & Communications Technology Authority (NICTA)
+       Frangipani Street, Hohola
+       111 BOROKO, NCD
+       Papua New Guinea
+       Tel:    +675 303 3201
+       Fax:    +675 325 6868
+       E-mail: cpunaha@nicta.gov.pg
+       URL:    www.nicta.gov.pg
+
+
+
+
+Suriname (country code +597)
+Communication of 16.III.2017:
+The Telecommunications Authority Suriname (TAS), Paramaribo, announces the abrogation of the numbers
+assigned to Intelsur Suriname N.V. (Uniqa) for mobile services from 16 March 2017.
+
+ Numbering blocks                  Service                          Service Provider          Date of withdrawal
+ 830-0000        839-9999          Mobile        Mobile-GSM         INTELSUR                  16.III.2017
+ 840-0000        844-9999          Mobile        Mobile-GSM         INTELSUR                  16.III.2017
+ 845-0000        847-9999          Mobile        Mobile-GSM         INTELSUR                  16.III.2017
+ 848-0000        849-9999          Mobile        Mobile-GSM         INTELSUR                  16.III.2017
+
+The Telecommunications Authority Suriname (TAS), Paramaribo, wishes to restate the abrogation of the
+numbers assigned to Intelsur Suriname N.V. (Uniqa) for mobile services from 18 November 2016.
+
+ Numbering blocks                                                                Date of withdrawal
+ 5900 000 – 5904 999           VOIP              Intelsur N.V. - UNIQA           18.XI.2016
+
+
+ Calling codes for VOIP Services                                                 Date of withdrawal
+ 1620                          Intelsur N.V. - UNIQA                             18.XI.2016
+ 1625                          Intelsur N.V. - UNIQA                             18.XI.2016
+ 1630                          Intelsur N.V. - UNIQA                             18.XI.2016
+ 1659                          Intelsur N.V. - UNIQA                             18.XI.2016
+
+
+
+ HNI code                                                                        Date of withdrawal
+ 746 04               Intelsur Suriname N.V. (UNIQA)                             18.XI.2016
+
+
+
+ ISPC codes                                                                      Date of withdrawal
+ 7-092-4      15076      Intelsur N.V. – UNIQA – UTS N.V.                        18.XI.2016
+ 7-092-5      15077      Intelsur N.V. – UNIQA – UTS N.V.                        18.XI.2016
+
+
+ NSPC codes                                                                      Date of withdrawal
+ 1-250-0      24048      Intelsur N.V. – UNIQA                                   18.XI.2016
+ 1-250-1      24049      Intelsur N.V. – UNIQA                                   18.XI.2016
+ 1-250-2      24050      Intelsur N.V. – UNIQA                                   18.XI.2016
+ 1-250-3      24051      Intelsur N.V. – UNIQA                                   18.XI.2016
+ 1-250-4      24052      Intelsur N.V. – UNIQA                                   18.XI.2016
+ 1-250-5      24053      Intelsur N.V. – UNIQA                                   18.XI.2016
+ 1-250-6      24054      Intelsur N.V. – UNIQA                                   18.XI.2016
+ 1-250-7      24055      Intelsur N.V. – UNIQA                                   18.XI.2016
+
+
+
+Contact:
+      Ms Wendy Jap-A-Joe
+      Acting Director
+      Telecommunications Authority Suriname (TAS)
+      Tweede Rijweg no. 47 hk. Cayottestraat
+      PARAMARIBO
+      Suriname
+      Tel:     +597 532523
+      Fax:     +597 462985
+      E-mail: dsecretariaat@tas.sr
+
+
+
+
+                                      Other communication
+
+Austria
+Communication of 15.III.2017:
+
+On the occasion of the activities of "Young Helpers on the Air", the Austrian Administration authorizes an
+Austrian amateur station to use the special call sign OE6YHOTA from 23 to 24 September 2017.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                      AMENDMENTS TO SERVICE PUBLICATIONS
+                                                  Abbreviations used
+
+                                  ADD     Insert                       PAR    paragraph
+                                  COL     Column                       REP    replace
+                                  LIR     Read                         SUP    Delete
+                                  P       page(s)
+
+
+
+
+                          List of Issuer Identifier Numbers for
+                  the International Telecommunication Charge Card
+            (in accordance with ITU-T Recommendation E.118 (05/2006))
+                            (Position on 15 November 2015)
+                          (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                           (Amendment No. 19)
+
+Hong Kong, China ADD
+
+     Country/          Company Name/Address             Issuer                        Contact                   Effective
+ geographical area                                    Identifier                                                 date of
+                                                       Number                                                    usage
+Hong Kong, China     CHINA MOBILE                     89 852 34 Mr Chan Chun Ming                              1.VII.2017
+                     INTERNATIONAL LIMITED                       China Mobile International Limited
+                     Level 30, Tower I,                          Level 30, Tower I, Kowloon Commerce Centre,
+                     Kowloon Commerce Centre,                    51 Kwai Cheong Road,
+                     51 Kwai Cheong Road,                        KWAI CHUNG, NEW TERRITORIES,
+                     HONG KONG                                   HONG KONG
+                                                                 Tel:     +852 31556986
+                                                                 Fax:     +852 35869496
+                                                                 E-mail: chanchunming@cmi.chinamobile.com
+
+
+Portugal LIR
+    Country/      Company Name/Address                     Issuer   Contact
+geographical area                                        Identifier
+                                                          Number
+Portugal             Infraestruturas de Portugal SA      89 351 12 Mr Pedro Gouveia e Melo
+                     Praça de Portagem                              Infraestruturas de Portugal SA
+                     2809-013 ALMADA                                Rua Passeio do Báltico 4
+                                                                    1990-036 LISBOA
+                                                                    Tel:    +351 21 102 4053
+                                                                    Fax:    +351 21 102 1701
+                                                                    E-mail: pedro.gmelo@infraestruturasdeportugal.pt;
+                                                                    ip-dat-rm@infraestruturasdeportugal.pt
+
+
+
+
+     Country/          Company Name/Address            Issuer Identifier   Contact
+ geographical area                                         Number
+Portugal              Lycamobile Portugal, Lda            89 351 04        Mr António Maria Spínola Brito Mendes Arnaut
+                      Avenida João Crisóstomo 24                           Lycamobile Portugal, Lda
+                      1050-127 LISBOA                                      Avenida João Crisóstomo 24
+                                                                           1050-127 LISBOA
+                                                                           Tel:     +351 210 990 582
+                                                                           E-mail: antonio.arnaut@lycamobile.pt
+
+
+    Country/         Company Name/Address                       Issuer Identifier    Contact
+  geographical                                                      Number
+      area
+Portugal         MEO - Serviços de Comunicações e                  89 351 80        Mr Pedro Gonçalves
+                 Multimédia, S.A.                                                   MEO - Serviços de Comunicações e
+                 Avenida Fontes Pereira de Melo, nº 40                              Multimédia, S.A.
+                 1069-300 LISBOA                                                    Avenida Fontes Pereira de Melo, nº 40
+                                                                                    1069-300 LISBOA
+                                                                                    Tel:    +351 21 500 78 07
+                                                                                    Fax:    +351 21 500 78 47
+                                                                                    E-mail: pedro.v.goncalves@telecom.pt
+
+    Country/         Company Name/Address                             Issuer         Contact
+  geographical                                                      Identifier
+      area                                                           Number
+Portugal             MEO - Serviços de Comunicações e               89 351 06       Mr Pedro Gonçalves
+                     Multimédia, S.A.                                               MEO - Serviços de Comunicações e
+                     Avenida Fontes Pereira de Melo, nº 40                          Multimédia, S.A.
+                     1069-300 LISBOA                                                Avenida Fontes Pereira de Melo, nº 40
+                                                                                    1069-300 LISBOA
+                                                                                    Tel:    +351 21 500 78 07
+                                                                                    Fax:    +351 21 500 78 47
+                                                                                    E-mail: pedro.v.goncalves@telecom.pt
+
+
+
+
+     Country/          Company Name/Address                     Issuer Identifier     Contact
+geographical area                                                   Number
+Portugal               Mundio Mobile (Portugal) Limited            89 351 07          Mr Alkesh Dave
+                       54 Marsh Wall                                                  Mundio Mobile (Portugal) Limited
+                       LONDON E14 9TP                                                 54 Marsh Wall
+                       United Kingdom                                                 LONDON E14 9TP
+                                                                                      United Kingdom
+                                                                                      Tel:     +44 207 5364 800
+                                                                                      Fax:     +44 207 0050 562
+                                                                                      E-mail: legal@mundio.com
+
+
+
+
+     Country/        Company Name/Address                    Issuer Identifier     Contact
+geographical area                                                Number
+Portugal             NOS Comunicações, S.A.                     89 351 03          Mr Tiago Lopes
+                     Rua Ator António Silva, nº 9                                  NOS Comunicações, S.A.
+                     Campo Grande,                                                 Rua Ator António Silva, nº 9
+                     1600-404 LISBOA                                               Campo Grande,
+                                                                                   1600-404 LISBOA
+                                                                                   Tel:     +351 93 101 07 07
+                                                                                   E-mail: tiago.lopes@nos.pt
+
+
+
+     Country/        Company Name/Address                         Issuer         Contact
+ geographical area                                              Identifier
+                                                                 Number
+Portugal             Vodafone Portugal, Comunicações            89 351 01        Mr Rui Gomes
+                     Pessoais, S.A.                                              Vodafone Portugal, Comunicações Pessoais,
+                     Av. D. João II, 36, Parque das Nações                       S.A.
+                     1998-017 LISBOA                                             Av. D. João II, 36, Parque das Nações
+                                                                                 1998-017 LISBOA
+                                                                                 Tel:      + 351 21 0914941
+                                                                                 Fax:      +351 21 0914174
+                                                                                 E-mail: rui.gomes@vodafone.com
+
+
+
+
+    Mobile Network Codes (MNC) for the international identification plan
+                  for public networks and subscriptions
+          (According to Recommendation ITU-T E.212 (09/2016))
+                     (Position on 1st November 2016)
+                            (Annex to ITU Operational Bulletin No. 1111 - 1.XI.2016)
+                                            (Amendment No.11)
+
+Country/Geographical area           MCC+MNC *           Operator/Network
+Israel ADD
+                                          425 09        Marathon 018 Xphone Ltd.
+Portugal SUP
+                                          268 05        Oniway - Inforcomunicaçôes, S.A.
+Portugal ADD
+                                          268 02        MEO - Serviços de Comunicações e Multimédia, S.A.
+                                          268 04        Lycamobile Portugal, Lda.
+                                          268 07        Mundio Mobile (Portugal) Limited
+                                          268 11        Compatel, Limited
+                                          268 12        IP Telecom - Serviços de Telecomunicações, S.A.
+                                          268 13        G9Telecom, S.A.
+                                          268 80        MEO - Serviços de Comunicações e Multimédia, S.A.
+Portugal LIR
+                                          268 01        Vodafone Portugal - Comunicações Pessoais, S.A.
+                                          268 03        NOS Comunicações, S.A.
+                                          268 06        MEO - Serviços de Comunicações e Multimédia, S.A.
+South Africa ADD
+                                          655 53        Lycamobile (Pty) Ltd
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 41)
+
+ Country or area/ISO code                           Company Code      Contact
+  Company Name/Address                               (carrier code)
+
+Germany (Federal Republic of) / DEU           ADD
+
+ Gemeindewerke Hohenwestedt GmbH                         GWH100       Mr Tim Petersen
+ Am Gaswerk 8                                                         Tel:     +49 4871 7687 24
+ 24594 HOHENWESTEDT                                                   Fax:    +49 4871 7687 19
+                                                                      E-mail: t.petersen@gemeindewerke-hohenwestedt.de
+
+ Snellstar GmbH                                           SNELL       Mr Karlheinz Hagen
+ Kaistrasse 101                                                       Tel:    +49 431 7755102
+ 24114 KIEL                                                           Fax:    +49 431 7755105
+                                                                      E-mail: tk@snellstar.de
+
+ Stadtwerke Nortorf Breitband GmbH                       DEUNOR       Mr Kerrin Niklas Bracker
+ Poststrasse 21                                                       Tel:    +49 4392 9130 104
+ 24589 NORTORF                                                        Fax:    +49 4392 9130 290
+                                                                      E-mail: k.bracker@stadtwerke-nortorf.de
+
+Portugal / PRT    SUP
+
+ Companhia Portugesa Rádio Marconi (CPRM)                 CPRM        Abel Santos Veloso
+ Av. Alvaro País, 2, Edificio Marconi                                 Tel     +351 21 790 7667
+ 1600 LISBOA                                                          Fax:    +351 21 720 7174
+
+
+ PT Comunicaçôes S.A.                                        PT       Lucilia Fernandes
+ Av. Fontes Pereira de Melo, 40                                       Tel:     +351 21 500 2000
+ 1089 LISBOA CODEX                                                    Fax:     +351 21 350 4728
+
+
+Portugal / PRT    ADD
+
+ MEO - Serviços de Comunicações e Multimédia, S.A           MEO       Ms Anabela Maia
+ Avenida Fontes Pereira de Melo, nº 40                                Tel:    +351 215007419
+ 1069-300 LISBOA                                                      Fax:    +351 215007032
+                                                                      E-mail: anabela.s.maia@telecom.pt
+
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                             (Position on 15 December 2014)
+                               (Annex to ITU Operational Bulletin No. 1066 – 15.XII.2014)
+                                                (Amendment No. 24)
+
+
+
+ Numerical order        ADD
+               5-218        Hungary
+
+
+
+ Alphabetical order ADD
+               5-218        Hungary
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                 (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                 (Amendment No. 12)
+
+ Country/                   Unique name of the signalling point       Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Hungary ADD
+ 4-243-5       10141        Budapest-DIGIMOBIL-02                     DIGI Telecommunication Ltd
+ 4-243-6       10142        Debrecen-DIGIMOBIL-02                     DIGI Telecommunication Ltd
+
+ Hungary LIR
+ 2-032-7       4359         Budapest BTH01                            BT Limited Hungarian Branch Office
+ 2-212-0       5792         Budaörs DN01                              GTS Hungary Telecommunications Ltd.
+ 2-212-6       5798         Pannon INT1                               Telenor Hungary Ltd
+ 4-243-2       10138        Bp. MGWG                                  Magyar Telekom Plc
+ 4-243-3       10139        Bp. MGWF                                  Magyar Telekom Plc
+ 6-251-1       14297        Budaörs DN02                              GTS Hungary Telecommunications Ltd.
+
+ Portugal SUP
+ 2-137-7       5199         TTPLBA                                    Transit Telecom, Sociedade Unipessoal Ltda
+
+ Portugal LIR
+ 2-136-0       5184         Stand Alone Linda-a-Velha (SA1)           MEO (Fixed)
+ 2-136-1       5185         Stand Alone Picoas (SA2)                  MEO (Fixed)
+ 2-136-2       5186         TDM Switch Linda-a-Velha (LRM4)           MEO (Fixed)
+
+
+
+ Country/                   Unique name of the signalling point           Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+ 2-136-3       5187         Planned for Stand Alone Linda-a-Velha (SA1)   MEO (Fixed)
+ 2-136-4       5188         Planned for Stand Alone Picoas (SA2)          MEO (Fixed)
+ 2-136-5       5189         Planned for Stand Alone Linda-a-Velha (SA1)   MEO (Fixed)
+ 2-136-6       5190         Planned for Stand Alone Picoas (SA2)          MEO (Fixed)
+ 2-137-0       5192         NOS (LOS10) LISBOA                            NOS Comunicações, S.A.
+ 2-137-1       5193         Planned for Stand Alone Linda-a-Velha (SA1)   MEO (Fixed)
+ 2-137-2       5194         Planned for Stand Alone Picoas (SA2)          MEO (Fixed)
+ 2-137-3       5195         TDM Switch Picoas (LRM3)                      MEO (Fixed)
+ 2-137-4       5196         NOS (LON10) LISBOA                            NOS Comunicações, S.A.
+ 2-137-5       5197         NOS (PCS10) PORTO                             NOS Comunicações, S.A.
+ 2-137-6       5198         ARTELECOM (LSBNPTJZ01T) LISBOA                AR Telecom - Acessos e Redes de
+                                                                          Telecomunicações, S.A.
+ 2-138-1       5201         VODAFONE (MAT1TE) LISBOA-MATINHA              Vodafone Portugal - Comunicações Pessoais, S.A.
+ 2-138-2       5202         NOS (LSB30) LISBOA-LOURES                     NOS Comunicações, S.A.
+ 2-138-3       5203         ONI (00INTL1) LISBOA                          ONITELECOM - Infocomunicações, S.A.
+ 2-138-4       5204         ONI (00INTP1) PORTO                           ONITELECOM - Infocomunicações, S.A.
+ 2-138-5       5205         ONI (REPÚBLICA) AV. DA REPÚBLICA              ONITELECOM - Infocomunicações, S.A.
+ 2-138-6       5206         NOS (TVCLIS04) LISBOA                         NOS Comunicações, S.A.
+ 2-138-7       5207         NOS (TVCLIS91) LISBOA                         NOS Comunicações, S.A.
+ 2-139-0       5208         NOS (GRA30) LISBOA                            NOS Comunicações, S.A.
+ 2-139-1       5209         VODAFONE (MAT1FS) LISBOA-MATINHA              Vodafone Portugal - Comunicações Pessoais, S.A.
+ 2-139-2       5210         VODAFONE (ALF1ME) CASAL DE ALFRAGIDE          Vodafone Portugal - Comunicações Pessoais, S.A.
+ 2-139-3       5211         VODAFONE (BOA1FS) PORTO/BOAVISTA              Vodafone Portugal - Comunicações Pessoais, S.A.
+ 2-139-4       5212         VODAFONE (ALF1TC) LISBOA                      Vodafone Portugal - Comunicações Pessoais, S.A.
+ 2-139-5       5213         VODAFONE (BOA1TC) PORTO                       Vodafone Portugal - Comunicações Pessoais, S.A.
+ 2-139-6       5214         COLT (COLT) OEIRAS                            COLT Technology Services, Unipessoal, Lda.
+ 2-139-7       5215         IP (RTINT1) LISBOA-GARE DO ORIENTE            IP Telecom - Serviços de Telecomunicações, S.A
+ 2-223-0       5880         NOWO (LSBNPTCB01V) PALMELA                    NOWO Communications, S.A.
+ 2-223-1       5881         NOWO (ESTRPOCB02V) ESTARREJA                  NOWO Communications, S.A.
+ 2-223-2       5882         NOWO (G9S01) LISBOA                           G9Telecom, S.A.
+ 2-223-3       5883         NOWO (G9S02) PORTO                            G9Telecom, S.A.
+ 2-223-4       5884         ARTELECOM (ALC01-SSW02) LISBOA                AR Telecom - Acessos e Redes de
+                                                                          Telecomunicações, S.A.
+ 2-223-5       5885         Lisboa - LISBSC2ARTELECOM (ALC01-             AR Telecom - Acessos e Redes de
+                            MGW03) LISBOA                                 Telecomunicações, S.A.
+ 3-249-0       8136         SPIC1 (STP Picoas Lisboa)                     MEO (Fixed)
+ 3-249-1       8137         SLAP1 (STP Lapa Porto)                        MEO (Fixed)
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                 National Numbering Plan
+                  (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web:www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that
+the information, which will be made available freely to all administrations/ROAs and service providers, can be
+posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.III.2017 the following countries have updated their national numbering plan on our site:
+
+                                Country                             Country Code (CC)
+                 Burkina Faso                                              +226
+
+
+
+

@@ -1,0 +1,597 @@
+                        ITU Operational Bulletin
+                                                          www.itu.int/itu-t/bulletin
+
+       No. 1150              15.VI.2018                   (Information received by 1 June 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                            Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                                Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                                Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                               E-mail: brmail@itu.int
+
+
+
+
+                                                                  Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                       3
+Approval of ITU-T Recommendations ............................................................................................................                            4
+Telephone Service:
+     Kuwait (Communication and Information Technology Regulatory Authority (CITRA), Kuwait City) ........                                                                 5
+     Viet Nam (Ministry of Information and Communications (MIC), Hanoi) ..................................................                                                6
+Other communication:
+     Serbia ........................................................................................................................................................      9
+Service Restrictions ........................................................................................................................................            10
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                          10
+AMENDMENTS TO SERVICE PUBLICATIONS
+Mobile Networks Code (MNC) .......................................................................................................................                       11
+List of ITU Carrier Codes .................................................................................................................................              12
+List of International Signalling Point Codes (ISPC) .........................................................................................                            13
+National Numbering Plan ...............................................................................................................................                  14
+
+
+
+
+                                                                                                                                        www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1151             1.VII.2018             15.VI.2018
+               1152             15.VII.2018            29.VI.2018
+               1153             1.VIII.2018           17.VII.2018
+               1154            15.VIII.2018            1.VIII.2018
+               1155              1.IX.2018            16.VIII.2018
+               1156             15.IX.2018            31.VIII.2018
+               1157              1.X.2018              14.IX.2018
+               1158             15.X.2018              28.IX.2018
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-36, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+– ITU-T G.997.1 (2016) Amd. 2 (05/2018)
+– ITU-T Y.2072 (05/2018): Framework of Energy Sharing and Trading Platform
+– ITU-T Y.2305 (05/2018): Unified management of Content Delivery Networks
+– ITU-T Y.2619 (05/2018): OAM functions and mechanisms for Public packet Telecommunication Data Network
+(PTDN)
+– ITU-T Y.3054 (05/2018): Framework of Trust-based Media Services
+– ITU-T Y.3102 (05/2018): Framework of IMT-2020 network
+– ITU-T Y.3112 (05/2018): Framework for the support of Multiple Network Slicing
+– ITU-T Y.3505 (05/2018): Cloud computing - Overview and functional requirements for data storage federation
+– ITU-T Y.3506 (05/2018): Cloud computing - Functional requirements for cloud service brokerage
+
+
+
+
+                                           Telephone Service
+                                      (Recommendation ITU-T E.164)
+                                            url: www.itu.int/itu-t/inr/nnp
+  Kuwait (country code +965)
+  Communication of 24.V.2018
+  The Communication and Information Technology Regulatory Authority (CITRA), Kuwait City, announces the
+  following update to the National Numbering Plan (NNP) of Kuwait.
+  The full Kuwait National Numbering Plan (NNP) Policy is available on CITRA website (http://www.citra.gov.kw).
+                          Presentation of national E.164 numbering plan for country code +965:
+  a)     Overview:
+         The minimum number length (excluding the country code) is 3 digits
+         The maximum number length (excluding the country code) is 8 digits
+  b)     Detail of numbering scheme:
+
+
+Leading digits of             N(S)N number length
+N(S)N (National
+                           Maximum          Minimum          Usage of E.164 number            Additional Information
+  (Significant)
+    Number)                 length           length
+       10                      3                3         Non-geographic Number           Emergency & Short Numbers
+       11                      3                3         Non-geographic Number           Emergency & Short Numbers
+       12                      3                3         Non-geographic Number           Emergency & Short Numbers
+       13                      3                3         Non-geographic Number           Emergency & Short Numbers
+       14                      3                3         Non-geographic Number           Emergency & Short Numbers
+       15                      3                3         Non-geographic Number           Emergency & Short Numbers
+       16                      3                3         Non-geographic Number           Emergency & Short Numbers
+       17                      3                3         Non-geographic Number           Emergency & Short Numbers
+       18                      7                7         Non-geographic Number           Toll Free Numbers
+        2                      8                8         Fixed Telephony Services        MoC
+        5                      8                8         Mobile Telephony Services       Viva
+        6                      8                8         Mobile Telephony Services       Ooredoo
+        9                      8                8         Mobile Telephony Services       Zain
+  All Kuwaiti eight-digit numbers starting with the digits 5 (mobile), 6 (mobile), 9 (mobile) are valid number ranges
+  in Kuwait’s National Numbering Plan.
+  Individual number blocks within these ranges will be allocated to individual licensed operators by CITRA in
+  accordance with the National Numbering Plan “NNP” Policy and in response to valid applications received from
+  the licensed operators.
+  CITRA does not notify ITU-T when it allocates individual number blocks from these ranges to licensed operators
+  Contact :
+                    Mr. Zuhair M. AlZuhair
+                    Head of Interconnection and Numbering
+                    Communication and Information Technology Regulatory Authority (CITRA)
+                    P.O. Box 898
+                    Safat 13009
+                    Kuwait
+                    Tel:    +965 22966059 / +965 22966054
+                    Fax:    +965 22966040
+                    E-mail: z.alzuhair@citra.gov.kw
+                    URL:    www.citra.gov.kw
+
+
+Viet Nam (country code +84)
+Communication of 31.V.2018:
+The Ministry of Information and Communications (MIC), Hanoi, announces that it has implemented the area
+codes change for the National Numbering Plan (NNP) in Viet Nam. The change of new area codes is applied for
+23 provinces in Viet Nam.
+                Description of number change for national numbering plan for country code +84:
+
+     (1)               (2)                 (3)                      (4)                      (5)                    (6)
+                    National
+ Communi-         (Significant)                            Parallel running
+ cated time      Number (N(S)N)         Usage of                                                          Proposed wording of
+                                                                                          Operator
+ and date of                         E.164 number                                                            announcement
+                  Old      New
+   change                                                Begins             Ends
+                number    number
+
+                                                                                                         Please note that: the
+                                    Non-geographic
+                                                                                                         network code has
+                  120       70      number for           00:00              23:59
+                                                                                                         been changed. Please
+                xxxxxxx   xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                         redial, replacing
+                                    services
+                                                                                                         84120 with 8470
+                                                                                                         Please note that: the
+                                    Non-geographic
+                                                                                                         network code has
+                  121       79      number for           00:00              23:59
+                                                                                                         been changed. Please
+                xxxxxxx   xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                         redial, replacing
+                                    services
+                                                                                                         84121 with 8479
+                                                                                                         Please note that: the
+                                    Non-geographic
+                                                                                                         network code has
+                  122       77      number for           00:00              23:59
+                                                                                                         been changed. Please
+                xxxxxxx   xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                         redial, replacing
+                                    services
+                                                                                                         84122 with 8477
+                                                                                                         Please note that: the
+                                    Non-geographic
+                                                                                                         network code has
+                  126       76      number for           00:00              23:59      - VNPT
+                                                                                                         been changed. Please
+                xxxxxxx   xxxxxxx   mobile telephony   2018-09-15         2018-11-14   - VIETTEL
+                                                                                                         redial, replacing
+                                    services                                           - MOBIFONE
+   00:00                                                                                                 84126 with 8476
+                                                                                       - VIETNAMOBILE
+ 2018-09-15                                                                                              Please note that: the
+                                    Non-geographic                                     - GMOBILE
+                                                                                                         network code has
+                  128       78      number for           00:00              23:59      - ITELECOM
+                                                                                                         been changed. Please
+                xxxxxxx   xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                         redial, replacing
+                                    services
+                                                                                                         84128 with 8478
+                                                                                                         Please note that: the
+                                    Non-geographic
+                                                                                                         network code has
+                  123       83      number for           00:00              23:59
+                                                                                                         been changed. Please
+                xxxxxxx   xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                         redial, replacing
+                                    services
+                                                                                                         84123 with 8483
+                                                                                                         Please note that: the
+                                    Non-geographic
+                                                                                                         network code has
+                  124       84      number for           00:00              23:59
+                                                                                                         been changed. Please
+                xxxxxxx   xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                         redial, replacing
+                                    services
+                                                                                                         84124 with 8484
+                                                                                                         Please note that: the
+                                    Non-geographic
+                                                                                                         network code has
+                  125       85      number for           00:00              23:59
+                                                                                                         been changed. Please
+                xxxxxxx   xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                         redial, replacing
+                                    services
+                                                                                                         84125 with 8485
+
+
+
+
+    (1)              (2)                    (3)                      (4)                  (5)                     (6)
+                  National
+Communi-        (Significant)                               Parallel running
+cated time     Number (N(S)N)            Usage of                                                      Proposed wording of
+                                                                                        Operator
+and date of                           E.164 number                                                        announcement
+                Old         New
+  change                                                  Begins             Ends
+              number       number
+                                                                                                       Please note that: the
+                                     Non-geographic
+                                                                                                       network code has
+                127          81      number for           00:00              23:59
+                                                                                                       been changed. Please
+              xxxxxxx      xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                       redial, replacing
+                                     services
+                                                                                                       84127 with 8481
+                                                                                                       Please note that: the
+                                     Non-geographic
+                                                                                                       network code has
+                129          82      number for           00:00              23:59
+                                                                                                       been changed. Please
+              xxxxxxx      xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                       redial, replacing
+                                     services
+                                                                                                       84129 with 8482
+                                                                                                       Please note that: the
+                                     Non-geographic
+                                                                                                       network code has
+                162          32      number for           00:00              23:59
+                                                                                                       been changed. Please
+              xxxxxxx      xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                       redial, replacing
+                                     services
+                                                                                                       84162 with 8432
+                                                                                                       Please note that: the
+                                     Non-geographic
+                                                                                                       network code has
+                163          33      number for           00:00              23:59
+                                                                                                       been changed. Please
+              xxxxxxx      xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                       redial, replacing
+                                     services
+                                                                                                       84163 with 8433
+                                                                                                       Please note that: the
+                                     Non-geographic
+                                                                                                       network code has
+                164          34      number for           00:00              23:59
+                                                                                                       been changed. Please
+              xxxxxxx      xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                       redial, replacing
+                                     services
+                                                                                                       84164 with 8434
+                                                                                                       Please note that: the
+                                     Non-geographic
+                                                                                                       network code has
+                165          35      number for           00:00              23:59
+                                                                                                       been changed. Please
+              xxxxxxx      xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                       redial, replacing
+                                     services
+                                                                                                       84165 with 8435
+                                                                                                       Please note that: the
+                                     Non-geographic
+                                                                                                       network code has
+                166          36      number for           00:00              23:59
+                                                                                                       been changed. Please
+              xxxxxxx      xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                       redial, replacing
+                                     services
+                                                                                                       84166 with 8436
+                                                                                                       Please note that: the
+                                     Non-geographic
+                                                                                                       network code has
+                167          37      number for           00:00              23:59
+                                                                                                       been changed. Please
+              xxxxxxx      xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                       redial, replacing
+                                     services
+                                                                                                       84167 with 8437
+                                                                                                       Please note that: the
+                                     Non-geographic
+                                                                                                       network code has
+                168          38      number for           00:00              23:59
+                                                                                                       been changed. Please
+              xxxxxxx      xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                       redial, replacing
+                                     services
+                                                                                                       84168 with 8438
+                                                                                                       Please note that: the
+                                     Non-geographic
+                                                                                                       network code has
+                169          39      number for           00:00              23:59
+                                                                                                       been changed. Please
+              xxxxxxx      xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                       redial, replacing
+                                     services
+                                                                                                       84169 with 8439
+                                                                                                       Please note that: the
+                                     Non-geographic
+                                                                                                       network code has
+                186          56      number for           00:00              23:59
+                                                                                                       been changed. Please
+              xxxxxxx      xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                       redial, replacing
+                                     services
+                                                                                                       84186 with 8456
+
+
+
+     (1)                (2)                 (3)                      (4)                    (5)                    (6)
+                     National
+ Communi-          (Significant)                              Parallel running
+ cated time       Number (N(S)N)         Usage of                                                        Proposed wording of
+                                                                                         Operator
+ and date of                          E.164 number                                                          announcement
+                   Old      New
+   change                                                 Begins             Ends
+                 number    number
+                                                                                                        Please note that: the
+                                     Non-geographic
+                                                                                                        network code has
+                   188       58      number for           00:00              23:59
+                                                                                                        been changed. Please
+                 xxxxxxx   xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                        redial, replacing
+                                     services
+                                                                                                        84188 with 8458
+                                                                                                        Please note that: the
+                                     Non-geographic
+                                                                                                        network code has
+                   199       59      number for           00:00              23:59
+                                                                                                        been changed. Please
+                 xxxxxxx   xxxxxxx   mobile telephony   2018-09-15         2018-11-14
+                                                                                                        redial, replacing
+                                     services
+                                                                                                        84199 with 8459
+                                                                                                        Please note that: the
+                                                                                                        network code has
+                  992       672      Non-geographic       00:00              23:59
+                                                                                                        been changed. Please
+                 xxxxxx    xxxxxx    number for VSAT    2018-09-15         2018-11-14
+                                                                                                        redial, replacing
+                                                                                                        84992 with 84672
+
+Contact:
+           Ministry of Information and Communications (MIC)
+           18 Nguyen Du Street
+           HA NOI 10000
+           Viet Nam
+           Tel: +84 43943 0204
+           Fax: +84 43822 6590
+           E-mail: dic@mic.gov.vn
+           URL: www.mic.gov.vn
+
+
+
+
+                                       Other communication
+
+Serbia
+Communications of 28.V.2018:
+On the occasion of the 85th anniversary of the foundation of the Amateur Radio Club “Zrenjanin”, the Serbian
+Administration authorizes radio stations of the Amateur Radio Club “Zrenjanin” to use the special call sign
+YU85AOP from 1 July to 31 December 2018.
+The Amateur Radio Union of Serbia wishes to support the work of young radio amateurs, during their actions
+and competitions, with the use of the special call sign YT0YOTA authorized by the Serbian Administration from
+30 May to 31 December 2018.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                                 Abbreviations used
+
+                                 ADD     Insert                       PAR     paragraph
+                                 COL     Column                       REP     replace
+                                 LIR     Read                         SUP     Delete
+                                 P       page(s)
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                     for public networks and subscriptions
+             (According to Recommendation ITU-T E.212 (09/2016))
+                       (Position on 1st November 2016)
+                       (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                       (Amendment No. 38)
+
+    Country/Geographical area          MCC+MNC *           Operator/Network
+
+    Georgia ADD
+
+                                             282 10        Premium Net International SRL LTD
+
+
+____________
+
+*          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                         (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                          (Amendment No. 63)
+
+ Country or area/ISO code                          Company Code         Contact
+  Company Name/Address                             (carrier code)
+
+Germany (Federal Republic of) / DEU   ADD
+
+ Stadtwerke Ludwigsburg-Kornwestheim GmbH          SWLB                 Mr Holger Grahl
+ Gaensfussallee 23                                                      Tel.: +49 7141 910 4377
+ 71636 LUDWIGSBURG                                                      Fax: +49 7141 910 2841
+                                                                        E-mail : holger.grahl@swlb.de
+
+ D.T.NET Service oHG                               DTN018               Mr Torsten Hess / Mr Philipp Tolar
+ Bamberger Strasse 44                                                   Tel.: +49 6146 8109755
+ 91413 NEUSTRADT A. D. AISCH                                            E-mail : info@omb-it.de
+
+
+
+
+                   List of International Signalling Point Codes (ISPC)
+                 (According to Recommendation ITU-T Q.708 (03/1999))
+                               (Position on 1 October 2016)
+                                   (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                   (Amendment No. 38)
+
+
+ Country/                   Unique name of the signalling point         Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Germany ADD
+ 2-121-0       5064         DERATSG01_RATINGEN_VRS                      Vodafone GmbH
+ 2-121-1       5065         DERATSG02_RATINGEN_VRS                      Vodafone GmbH
+ 3-254-7       8183         CGN-EPC-1                                   1NCE GmbH
+ 3-255-3       8187         HAM-EPC-1                                   1NCE GmbH
+ 3-255-7       8191         EMNIFYWUERZBURGDE2                          EMnify GmbH
+ 4-244-1       10145        STP_BBN1                                    DB Netz AG
+ 4-246-2       10162        Hamm W9511                                  Vodafone GmbH
+ 5-245-2       12202        Muenchen M8354                              Vodafone GmbH
+
+ Hungary SUP
+ 6-251-1       14297        Budaörs DN02                                Magyar Telekom Plc
+
+ Ireland ADD
+ 5-216-0       11968        SAPIRL1                                     SAP (UK) Ltd.
+ 5-216-1       11969        SAPIRL2                                     SAP (UK) Ltd.
+
+ Serbia SUP
+ 3-241-0       8072         BEGTN1                                      I.KOM d.о.о.
+
+ Sudan ADD
+ 6-068-5       12837        NGN(Soft Switch) 1                          Kanartel Co.
+ 6-069-4       12844        NGN(Soft Switch) 2                          Kanartel Co.
+
+ Sweden LIR
+ 2-082-0       4752         RIX1                                        Com Hem AB
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                 National Numbering Plan
+                  (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+
+From 15.V.2018, the following countries/geographical areas have updated their national numbering plan on
+our site:
+
+                               Country/ Geographical area                      Country Code (CC)
+                 Kyrgyzstan                                                          +996
+                 Niue                                                                +683
+                 Luxembourg                                                          +352
+
+
+
+

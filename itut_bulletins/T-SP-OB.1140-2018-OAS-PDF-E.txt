@@ -1,0 +1,815 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1140             15.I.2018                   (Information received by 2 January 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin ...............................................................................................                      3
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)) ................                                                           4
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                             5
+     Kenya (Communications Authority of Kenya (CA), Nairobi) .....................................................................                                 6
+     Kuwait (Ministry of Communications, Safat) ............................................................................................                       8
+Service Restrictions ........................................................................................................................................     11
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   11
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               12
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         15
+List of ITU Carrier Codes .................................................................................................................................       16
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                      16
+List of International Signalling Point Codes (ISPC) .........................................................................................                     17
+National Numbering Plan ...............................................................................................................................           19
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1141              1.II.2018             16.I.2018
+               1142             15.II.2018              1.II.2018
+               1143              1.III.2018            15.II.2018
+               1144             15.III.2018            1.III.2018
+               1145              1.IV.2018             16.III.2018
+               1146             15.IV.2018             30.III.2018
+               1147              1.V.2018              13.IV.2018
+               1148             15.V.2018               1.V.2018
+               1149              1.VI.2018             16.V.2018
+               1150             15.VI.2018             1.VI.2018
+               1151             1.VII.2018             15.VI.2018
+               1152             15.VII.2018            29.VI.2018
+               1153             1.VIII.2018           17.VII.2018
+               1154            15.VIII.2018            1.VIII.2018
+               1155              1.IX.2018            16.VIII.2018
+               1156             15.IX.2018            31.VIII.2018
+               1157              1.X.2018              14.IX.2018
+               1158             15.X.2018              28.IX.2018
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                    Assignment of Signalling Area/Network Codes (SANC)
+                          (Recommendation ITU-T Q.708 (03/99))
+
+Note from TSB
+At the request of the Administration of Singapore, the Director of TSB has assigned the following signalling
+area/network code (SANC) for use in the international part of the signalling system No. 7 network of this
+country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                   Country/geographical area or signalling network                     SANC
+
+                   Singapore (Republic of)                                             5-145
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                       url: www.itu.int/itu-t/inr/nnp
+
+Denmark (country code +45)
+Communication of 20.XII.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+
+     assignment – M2M communication
+                Provider                             Numbering series                    Date of assignment
+Telenor A/S                          37100130ijkl, 37100131ijkl, 37100132ijkl,               13.XII.2017
+                                     37100133ijk, 37100134ijk, 37100135ijk,
+                                     37100136ijk, 37100137ijk, 37100138ijk and
+                                     37100139ijk
+
+     assignment – Fixed communication services
+                Provider                             Numbering series                    Date of assignment
+Benemen Oy                           35522fgh                                                13.XII.2017
+
+     withdrawal – Mobile communication services
+                Provider                             Numbering series                    Date of withdrawal
+Tel42 ApS                            93754fgh, 93755fgh, 9370efgh                            20.XII.2017
+
+     assignment – Mobile communication services
+                Provider                             Numbering series                    Date of assignment
+Greenwave Mobile IoT ApS             93754fgh, 93755fgh, 9370efgh                            20.XII.2017
+Greenwave Mobile IoT ApS             93751fgh, 93752fgh, 93753fgh, 93756fgh, 93757fgh,        1.I.2018
+                                     93758fgh, 93759fgh and 9777efgh
+
+
+Contact:
+         Danish Energy Agency
+         Amaliegade 44
+         1256 COPENHAGEN K
+         Denmark
+         Tel:    +45 33 92 67 00
+         Fax:    +45 33 11 47 43
+         E-mail: ens@ens.dk
+         URL:    www.ens.dk
+
+
+
+
+Kenya (country code +254)
+Communication of 11.XII.2017:
+The Communications Authority of Kenya (CA), Nairobi, announces the following update to the National
+Numbering Plan of Kenya.
+
+          Description of introduction of new resource for national E.164 numbering plan for Kenya
+                                             (country code 254)
+
+      NDC (national         N(S)N number length
+   destination code) or
+                                                                                    Time and date of
+     leading digits of    Maximum      Minimum         Usage of E.164 number
+                                                                                    introduction
+     N(S)N (national       length       length
+  (significant) number)
+  20 NDC with Leading           9          9        Geographical number for         2 October 2017
+  Digits 30                                         fixed telephony services –
+  (+254 20 30)                                      Airtel Networks Kenya Ltd
+  20 NDC with Leading           9          9        Geographical number for         2 October 2017
+  Digits 310                                        fixed telephony services –
+  (+254 20 310)                                     Jamii telecommunications Ltd
+  41 NDC with Leading           9          9        Geographical number for         2 October 2017
+  Digits 4000                                       fixed telephony services –
+  (+254 41 4000)                                    Jamii telecommunications Ltd
+  41 NDC with Leading           9          9        Geographical number for         2 October 2017
+  Digits 650                                        fixed telephony services –
+  (+254 41 650)                                     Jamii telecommunications Ltd
+  51 NDC with Leading           9          9        Geographical number for         2 October 2017
+  Digits 3100                                       fixed telephony services –
+  (+254 51 3100)                                    Jamii telecommunications Ltd
+  52 NDC with Leading           9          9        Geographical number for         2 October 2017
+  Digits 3000                                       fixed telephony services –
+  (+254 52 3000)                                    Jamii telecommunications Ltd
+  57 NDC with Leading           9          9        Geographical number for         2 October 2017
+  Digits 3000                                       fixed telephony services –
+  (+254 57 3000)                                    Jamii telecommunications Ltd
+  20 NDC with Leading           9          9        Geographical number for         2 October 2017
+  Digits 32                                         fixed telephony services –
+  (+254 20 32)                                      Telkom Kenya Ltd
+  44 NDC with Leading           9          9        Geographical number for         2 October 2017
+  Digits 344                                        fixed telephony services –
+  (+254 44 344)                                     Telkom Kenya Ltd
+  54 NDC with Leading           9          9        Geographical number for         2 October 2017
+  Digits 202                                        fixed telephony services –
+  (+254 54 202)                                     Telkom Kenya Ltd
+  56 NDC with Leading           9          9        Geographical number for         2 October 2017
+  Digits 200                                        fixed telephony services –
+  (+254 56 200)                                     Telkom Kenya Ltd
+  779 (NDC)                     9          9        Telkom Kenya Limited            2 October 2017
+  778 (NDC)                     9          9        Telkom Kenya Limited            2 October 2017
+  744 (NDC)                     9          9        Homeland Media Group            3 April 2017
+                                                    Limited
+
+
+
+      NDC (national          N(S)N number length
+   destination code) or
+                                                                              Time and date of
+     leading digits of      Maximum     Minimum       Usage of E.164 number
+                                                                              introduction
+     N(S)N (national         length      length
+  (significant) number)
+  740 (NDC)                    9            9      Safaricom Limited          18 July 2017
+  741 (NDC)                    9            9      Safaricom Limited          18 July 2017
+  742 (NDC)                    9            9      Safaricom Limited          18 July 2017
+  743 (NDC)                    9            9      Safaricom Limited          29 September 2017
+  746 (NDC)                    9            9      Safaricom Limited          2 October 2017
+  748 (NDC)                    9            9      Safaricom Limited          3 October 2017
+
+
+Contact:
+      Mr Peter Nyongesa
+      Communications Authority of Kenya
+      Waiyaki Way, Nairobi.
+      P.O. Box 14448
+      NAIROBI 00800
+      Kenya
+      Tel:     +254 20 4242000/+254 703 042000
+      E-mail: nyongesa@ca.go.ke; info@ca.go.ke
+      URL:     www.ca.go.ke
+
+
+
+
+Kuwait (country code +965)
+Communication of 25.XII.2017:
+The Ministry of Communications, Safat, announces the national numbering plan of Kuwait.
+I. Fixed network subscribers ranges operated by Ministry of Communications:
+Note: The range 18XX XXX is maximum 10 digits with the country code
+
+
+      SN.             SUBSCRIBERS RANGES
+       1               1800 000 – 1899 999
+       2              2200 0000 – 2299 9999
+       3              2300 0000 – 2399 9999
+       4              2410 0000 – 2439 9999
+       5              2450 0000 – 2499 9999
+       6              244 44400 – 244 44499
+       7              2500 0000 – 2500 9999
+       8              2503 0000 – 2504 9999
+      9               2520 0000 – 2549 9999
+      10              2551 0000 – 2553 9999
+      11              2560 0000 – 2569 9999
+      12              2571 0000 – 2577 9999
+
+II. Mobile network subscriber ranges operated by mobile operator, OOREDOO Telecom:
+
+      SN.             SUBSCRIBERS RANGES
+       1             6000 0000 – 6009 9999
+       2             6030 0000 – 6039 9999
+       3             6040 0000 – 6049 9999
+       4             6060 0000 – 6069 9999
+       5             6070 0000 – 6079 9999
+       6             6090 0000 – 6099 9999
+       7             6222 0000 – 6222 9999
+       8             6500 0000 – 6500 9999
+       9             6501 0000 – 6502 9999
+      10             6503 0000 – 6503 9999
+      11             6504 0000 – 6504 9999
+      12             6505 0000 – 6509 9999
+      13             6510 0000 – 6519 9999
+      14             6550 0000 – 6550 9999
+      15             6551 0000 – 6551 9999
+      16             6552 0000 – 6552 9999
+      17             6553 0000 – 6553 9999
+      18             6554 0000 – 6559 9999
+      19             6560 0000 – 6569 9999
+      20             6570 0000 – 6570 9999
+      21             6571 0000 – 6577 9999
+      22             6578 0000 – 6579 9999
+      23             6580 0000 – 6599 9999
+      24             6600 0000 – 6699 9999
+
+
+
+      25              6700 0000 – 6701 9999
+      26              6703 0000 – 6709 9999
+      27              6760 0000 – 6769 9999
+      28              6770 0000 – 6776 9999
+      29              6778 0000 – 6779 9999
+      30              6777 0000 – 6777 9999
+      31              6900 0000 – 6909 9999
+      32              6960 0000 – 6969 9999
+      33              6990 0000 – 6999 9999
+      34              6930 0000 – 6930 9999
+      35              6933 0000 – 6933 9999
+      36              6939 0000 – 6939 9999
+
+III. Mobile network subscriber ranges operated by mobile operator, ZAIN:
+
+      SN.              SUBSCRIBERS RANGES
+       1               9000 0000 – 9009 9999
+       2               9090 0000 – 9099 9999
+       3               9110 0000 – 9110 9999
+       4               9111 0000 – 9111 9999
+       5               9220 0000 - 9229 9999
+       6               9400 0000 – 9409 9999
+       7               9440 0000 – 9449 9999
+       8               9410 0000 – 9419 9999
+       9               9470 0000 – 9479 9999
+      10               9490 0000 – 9499 9999
+      11               9550 0000 – 9559 9999
+      12               9600 0000 – 9609 9999
+      13               9660 0000 – 9660 9999
+      14               9690 0000 – 9699 9999
+      15               9670 0000 – 9679 9999
+      16               9702 0000 – 9702 9999
+      17               9710 0000 – 9769 9999
+      18               9770 0000 – 9779 9999
+      19               9780 0000 – 9799 9999
+      20               9870 0000 – 9879 9999
+      21               9800 0000 – 9809 9999
+      22               9850 0000 – 9859 9999
+      23               9880 0000 – 9889 9999
+      24               9900 0000 – 9999 9999
+
+Note: The highlighted ranges defined at the International Gateways are new for Zain mobile operators.
+
+
+IV. Mobile network subscriber ranges operated by mobile operator, VIVA:
+
+
+      SN.             SUBSCRIBERS RANGES
+       1              5000 0000 – 5009 9999
+       2              501 00000 – 501 99999
+       3              502 00000 - 502 99999
+       4              503 00000 – 503 99999
+       5              504 00000 – 504 99999
+
+
+       6              505 00000 – 505 99999
+       7              506 00000 – 506 99999
+       8              5070 0000 – 5070 0000
+       9              508 00000 - 508 99999
+       10             509 00000 – 509 99999
+       11             550 00000 – 559 99999
+       12             510 00000 – 5109 9999
+       13             511 00000 – 511 99999
+       14             512 00000 – 512 99999
+       15             513 00000 – 513 99999
+       16             514 00000 – 514 99999
+       17             515 00000 – 515 99999
+       18             516 00000 – 516 99999
+       19             517 00000 – 517 99999
+       20             522 20000 – 522 29999
+       21             525 20000 – 525 29999
+       22             525 50000 – 525 59999
+       23             565 00000 – 565 99999
+       24             566 00000 – 566 99999
+
+
+The 3-digit fixed network subscriber numbers (100-179), operated by Ministry of Communications, will remain
+unchanged.
+
+Contact:
+      International Gateways (IGWS)
+      Ministry of Communications
+      P.O. Box 318
+      11111 SAFAT
+      Kuwait
+      Tel:     +965 2241 6565/ +965 2246 6621
+      Fax:     +965 2245 9797
+      E-mail: igws@moc.gov.kw
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                             Abbreviations used
+
+                               ADD     Insert                    PAR    paragraph
+                               COL     Column                    REP    replace
+                               LIR     Read                      SUP    Delete
+                               P       page(s)
+
+
+
+                          List of Issuer Identifier Numbers for
+                  the International Telecommunication Charge Card
+            (in accordance with ITU-T Recommendation E.118 (05/2006))
+                            (Position on 15 November 2015)
+                         (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                          (Amendment No. 33)
+
+Greenland          LIR
+    Country/        Company Name/Address              Issuer      Contact
+  geographical                                      Identifier
+      area                                           Number
+ Greenland          TELE Greenland A/S              89 299 01     Mr Tom Andersen
+                    Postboks 1002                                 Postboks 1002
+                    Farip Aqqutaa 8                               DK-3900 NUUK
+                    DK-3900 NUUK                                  Tel:    +299 386325
+                                                                  E-mail: tba@telepost.gl
+
+Italy              ADD
+    Country/     Company Name/Address              Issuer     Contact                             Effective
+  geographical                                   Identifier                                        date of
+       area                                       Number                                           usage
+ Italy           FASTWEB S.P.A.                  89 39 08     Ms Laura Navarra                    1.I.2018
+                 Via Caracciolo n.51                          FASTWEB S.P.A.
+                 20155 MILAN                                  Piazzale Luigi Sturzo 23
+                                                              00144 ROME
+                                                              Tel:    +39 0650860812
+                                                              E-mail: laura.navarra@fastweb.it
+
+Mauritius          LIR
+    Country/        Company Name/Address              Issuer      Contact
+  geographical                                      Identifier
+      area                                           Number
+ Mauritius          Mauritius Telecom Ltd           89 230 01     Manvendra Singh
+                    18th Floor, Telecom Tower                     18th Floor, Telecom Tower
+                    Edith Cavell Street                           Edith Cavell Street
+                    PORT LOUIS                                    PORT LOUIS
+                                                                  Tel:    +230 2037000
+                                                                  Fax:    +230 2081070
+                                                                  E-mail: ceo@telecom.mu
+
+
+
+
+Mauritius          LIR
+
+
+ Mauritius          Emtel Ltd                    89 230 02     Mr Rajvardhan Singh Bhullar
+                    10 Ebène Cybercity                         10 Ebène Cybercity
+                    Ebène 72201                                Ebène 72201
+                    PORT LOUIS                                 PORT LOUIS
+                                                               Tel:    +230 5 729 54 00
+                                                               Fax:    +230 454 10 10
+                                                               E-mail: emtel@emtel.com
+
+Sweden            LIR
+    Country/        Company Name/Address            Issuer        Contact
+  geographical                                    Identifier
+      area                                         Number
+ Sweden             CLX Networks AB               89 46 11        Hanna Johannesson
+                    Lindhagensgatan 74                            Lindhagensgatan 74
+                    SE-112 18 STOCKHOLM                           SE-112 18 STOCKHOLM
+                                                                  Tel: +46 76 831 48 48
+                                                                  E-mail:
+                                                                  hanna.johannesson@clxcommunications.com
+ Sweden             Com4 Sweden AB                 89 46 09       Henning Solberg
+                    c/o Adv. firman Lindberg &                    c/o Adv. firman Lindberg & Saxon AB
+                    Saxon AB                                      Cardellgatan 1
+                    Cardellgatan 1                                SE-114 36 STOCKHOLM
+                    SE-114 36 STOCKHOLM                           Tel:     +47 94049404
+                                                                  Fax:     +47 94049405
+                                                                  E-mail: hso@com4.se
+ Sweden             GlobeTouch AB                  89 46 27       James Snyder
+                    Box 5126                                      GlobeTouch Inc
+                    SE-102 43 STOCKHOLM                           555 12th Street #910
+                                                                  OAKLAND CA 94607
+                                                                  USA
+                                                                  Tel:      +1 408-474-0991
+                                                                  E-mail: gt.regulatory@globetouch.com
+ Sweden             Götalandsnätet AB              89 46 05       Per Frykner
+                    Box 33                                        Box 33
+                    SE-461 21 TROLLHATTAN                         SE-461 21 TROLLHATTAN
+                                                                  Tel:      +46 520 50 05 80
+                                                                  Fax:      +46 520 50 05 89
+                                                                  E-mail: per.frykner@gotanet.se
+ Sweden             Hi3G Access AB                 89 46 07       Edwin Tumukunde
+                    Lindhagensgatan 98                            Lindhagensgatan 98
+                    SE-112 18 STOCKHOLM                           SE-112 18 STOCKHOLM
+                                                                  Tel:      +4673 533 81 88
+                                                                  E-mail: interconnect@tre.se
+ Sweden             Netett Sverige AB              89 46 03       Mr Peter Borgfors
+                    Åsögatan 108                                  Åsögatan 108
+                    SE-118 29 STOCKHOLM                           SE-118 29 STOCKHOLM
+                                                                  Tel:      +46 8 755 59 84
+                                                                  E-mail: peter.borgfors@net1.se
+
+
+
+
+Sweden          LIR
+
+
+ Sweden          Rebtel Networks AB    89 46 31   Johan Dahlqvist
+                 Jakobsbergsgatan 16              Jakobsbergsgatan 16
+                 SE-111 44 STOCKHOLM              SE-111 44 STOCKHOLM
+                                                  Tel:     +46 70 097 57 97
+                                                  E-mail: johan.dahlqvist@rebtel.com
+ Sweden          Tele2 Sverige AB      89 46 10   Carl-Johan Rydén
+                 Box 62                           Box 62
+                 SE-164 94 KISTA                  SE-164 94 KISTA
+                                                  Tel:      +46 70 426 41 33
+                                                  E-mail: carljohan.ryden@tele2.com
+ Sweden          Tele2 Sverige AB      89 46 20   Carl-Johan Rydén
+                 Box 62                           Box 62
+                 SE-164 94 KISTA                  SE-164 94 KISTA
+                                                  Tel:      +46 70 426 41 33
+                                                  E-mail: carljohan.ryden@tele2.com
+ Sweden          Tele2 Sverige AB      89 46 70   Carl-Johan Rydén
+                 Box 62                           Box 62
+                 SE-164 94 KISTA                  SE-164 94 KISTA
+                                                  Tel:      +46 70 426 41 33
+                                                  E-mail: carljohan.ryden@tele2.com
+ Sweden          Tele2 Sverige AB      89 46 71   Carl-Johan Rydén
+                 Box 62                           Box 62
+                 SE-164 94 KISTA                  SE-164 94 KISTA
+                                                  Tel:      +46 70 426 41 33
+                                                  E-mail: carljohan.ryden@tele2.com
+ Sweden          Telenor Sverige AB    89 46 08   Stefan Wahlstedt
+                 SE-116 88 STOCKHOLM              SE-116 88 STOCKHOLM
+                                                  Tel +:    46 70 933 55 15
+                                                  E-mail: stefan.wahlstedt@telenor.se
+ Sweden          Telia Sverige AB      89 46 01   Mr Andreas Howe
+                 SE-169 94 SOLNA                  SE-169 94 SOLNA
+                                                  Tel:      +46 70 300 68 83
+                                                  E-mail: Andreas.howe@teliacompany.com
+
+
+
+
+Mobile Network Codes (MNC) for the international identification plan
+              for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016))
+                 (Position on 1st November 2016)
+                        (Annex to ITU Operational Bulletin No. 1111 - 1.XI.2016)
+                                        (Amendment No.28)
+
+  Country/Geographical area           MCC+MNC *           Operator/Network
+  Denmark SUP
+                                            238 42        Brandtel ApS
+  Denmark ADD
+                                            238 42        Greenwave Mobile IoT ApS
+  Kenya ADD
+                                            639 01        Safaricom Limited
+                                            639 04        Mobile Pay Kenya Limited
+                                            639 05        Airtel Networks Kenya Ltd
+                                            639 06        Finserve Africa Limited
+                                            639 07        Telkom Kenya Limited
+                                            639 08        Sema Mobile Services Limited
+                                            639 09        Homeland Media Group Limited
+                                            639 10        Jamii Telecommunications Limited
+                                            639 11        WiAfrica Kenya Limited
+  Kenya LIR
+                                            639 03        Airtel Networks Kenya Ltd
+  Mali ADD
+                                            610 02        Orange Mali Sa
+                                            610 03        ATEL-SA
+  Switzerland SUP
+                                            228 59        Mundio Mobile Limited
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 55)
+
+ Country or area/ISO code                                   Company Code      Contact
+  Company Name/Address                                       (carrier code)
+
+Germany (Federal Republic of) / DEU                   ADD
+
+ 1N Telecom GmbH                                                DEU1N         Mr Philipp Hoffmann
+ Prinzenallee 7                                                               E-mail: p.hoffmann@1n.de
+ 40549 DUESSELDORF
+
+
+ Gemeindewerke Nümbrecht GmbH                                    LUZIE        Mrs Karina Tuttlies
+ Schulstrasse 4                                                               Tel.:   +49 2293 9113 14
+ 51588 NUEMBRECHT                                                             Fax:    +49 2293 9113 55
+                                                                              E-mail: tuttlies@gwn24.de
+
+ telba AG                                                        TELBA        Mr Robin Goldammer
+ In der Steele 23                                                             Tel.:   +49 211 9009 6154
+ 40599 DUESSELDORF                                                            Fax:    +49 211 9985 85156
+                                                                              E-mail: rgoldammer@telba.de
+
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                 (Position on 1 June 2017)
+                                 (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                  (Amendment No. 2)
+
+
+
+ Numerical order        ADD
+               5-145        Singapore (Republic of)
+
+
+
+ Alphabetical order ADD
+               5-145        Singapore (Republic of)
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                    List of International Signalling Point Codes (ISPC)
+                 (According to Recommendation ITU-T Q.708 (03/1999))
+                                (Position on 1 October 2016)
+                           (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                           (Amendment No. 28)
+
+
+Country/              Unique name of the signalling point       Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+
+
+Denmark SUP
+2-079-1    4729                                                 Supertel A/S
+
+Estonia ADD
+2-199-3    5691       STP4                                      Top Connect OÜ
+
+Finland SUP
+2-089-2    4810       Vantaa (MSCSVA2)                          DNA Oy
+2-091-5    4829       Espoo (UKKOhki1)                          Ukko Mobile Oy
+2-091-6    4830       Espoo (UKKOhki2)                          Ukko Mobile Oy
+2-255-7    6143       Lahti (MSCSLA1)                           DNA Oy
+4-231-0    10040      Lahti (Alborada)                          Alborada Oy
+
+Finland LIR
+2-088-0    4800       Helsinki (HEL1)                           Telia Finland Oyj
+2-088-1    4801       Helsinki (HEL2)                           Telia Finland Oyj
+2-088-5    4805       Helsinki (HLS-SIGW1 TSIC)                 Telia Finland Oyj
+2-088-6    4806       Helsinki (MGTS)                           Telia Finland Oyj
+2-089-1    4809       Helsinki (GIWU)                           Telia Finland Oyj
+2-089-3    4811       Hämeenlinna (HML1 Surpass MGC)            Telia Finland Oyj
+2-089-4    4812       Helsinki (HMG02 TSIC)                     Telia Finland Oyj
+2-089-5    4813       Lahti (MSCSLA5, MSC)                      DNA Oyj
+2-089-6    4814       Lahti (STPLA1, STP-keskus)                DNA Oyj
+2-089-7    4815       Hyvinkää (KOE10 Surpass)                  Telia Finland Oyj
+2-090-2    4818       Helsinki (STPHE2, STP-keskus)             DNA Oyj
+2-090-7    4823       Helsinki (SMS02HKP)                       Telia Finland Oyj
+2-091-0    4824       Tampere (SMS03TRE)                        Telia Finland Oyj
+2-091-2    4826       Vantaa (MY1)                              DNA Oyj
+2-091-3    4827       Vantaa (MY2)                              DNA Oyj
+2-254-0    6128       Helsinki (HKISTP4)                        Telia Finland Oyj
+2-254-1    6129       Helsinki (SMS01HKI)                       Telia Finland Oyj
+2-254-5    6133       Tampere (TRESTP5)                         Telia Finland Oyj
+2-254-7    6135       MSCSHE6, MSC, Helsinki                    DNA Oyj
+2-255-3    6139       Lahti (MGLAH05, MediaGateway)             DNA Oyj
+2-255-5    6141       Helsinki (MGHEL06, MediaGateway)          DNA Oyj
+
+
+
+
+Country/            Unique name of the signalling point   Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+
+
+Kenya ADD
+6-079-2    12922    Nairobi                               WiAfrica Kenya Limited
+
+Kenya LIR
+6-078-0    12912    Milimani                              Telkom Kenya Limited
+6-078-1    12913    Westlands                             Telkom Kenya Limited
+6-078-2    12914    Westlands                             Safaricom Limited
+6-078-4    12916    Kasarani                              Safaricom Limited
+6-078-5    12917    Extelcoms                             Telkom Kenya Limited
+6-079-0    12920    Nairobi                               Airtel Networks Kenya Limited
+6-079-1    12921    Nairobi                               Airtel Networks Kenya Limited
+
+Norway SUP
+2-085-1    4777     Oslo 1                                Teletopia Gruppen AS
+2-085-2    4778     Oslo 2                                Teletopia Gruppen AS
+2-087-0    4792     MSC JBV-nett                          Jernbaneverket
+7-240-3    16259    Oslo MobileNorway                     Mobile Norway AS
+
+Norway LIR
+2-084-0    4768     Eik GW1                               Marlink Enterprise AS
+2-084-1    4769     Eik GW2                               Marlink Enterprise AS
+2-084-2    4770     Oslo1                                 Telia Norge AS
+2-085-0    4776     Oslo MSC 1                            Telenor Global Services AS
+2-085-3    4779     Oslo G MSC                            Telenor Global Services AS
+2-085-4    4780     Oslo Network Norway                   Telia Norge AS
+2-085-6    4782     Oslo                                  Phonero AS
+2-085-7    4783     Oslo2                                 Telia Norge AS
+2-086-0    4784     Oslo Netc1 MSC                        Telia Norge AS
+2-086-1    4785     Oslo Netc4 MSC                        Telia Norge AS
+2-086-4    4788     Kvantel 1                             Kvantel AS
+2-086-5    4789     NOOSLULV89                            Telia Norge AS
+2-087-1    4793     NOOSLOKE121                           Telia Norge AS
+2-087-4    4796     NIT-GW1                               Marlink Enterprise AS
+2-087-5    4797     Eik MSC 1                             Telenor Maritime AS
+2-087-7    4799     Gri CDMA MSC                          Telenor Maritime AS
+7-231-0    16184    HMG9-MSS01                            Phonero AS
+7-231-1    16185    HMG9-MGW01                            Phonero AS
+7-231-2    16186    SIG14-MSS02                           Phonero AS
+
+
+
+
+ Country/               Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC       DEC
+ 7-231-3    16187       SIG14-MGW02                                Phonero AS
+ 7-231-4    16188       MSC-S Marienborg                           Bane NOR SF
+ 7-231-5    16189       MSC-S Dora                                 Bane NOR SF
+ 7-231-6    16190       MGW Marienborg                             Bane NOR SF
+ 7-231-7    16191       MGW Dora                                   Bane NOR SF
+ 7-240-0    16256       Telio1                                     NextGenTel AS
+ 7-240-6    16262       OXIA (MSS)                                 Telia Norge AS
+ 7-240-7    16263       OXIB (MGW)                                 Telia Norge AS
+
+ Switzerland ADD
+ 7-228-5    16165       Zürich_1                                   Telecom26 AG
+ 7-228-6    16166       Zürich_2                                   Telecom26 AG
+
+ Zimbabwe ADD
+ 6-095-3    13051       HRE-ZTE-MSC1-2                             NetOne Cellular (Pvt) ltd
+
+
+
+
+                                 National Numbering Plan
+                  (According to Recommendation ITU-T E.129 (01/2013))
+                                     Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.XII.2017, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                                 Country/ Geographical area                      Country Code (CC)
+               Palau                                                                   +680
+               Trinidad and Tobago                                                    +1 868
+
+
+
+

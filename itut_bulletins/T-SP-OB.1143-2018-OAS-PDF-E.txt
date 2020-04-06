@@ -1,0 +1,1207 @@
+                       ITU Operational Bulletin
+                                                        www.itu.int/itu-t/bulletin
+
+       No. 1143             1.III.2018                  (Information received by 15 February 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                          Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                              Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                              Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                             E-mail: brmail@itu.int
+
+
+
+
+                                                                                                                                                                  Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                  3
+Approval of ITU-T Recommendations ............................................................................................................                       4
+Telephone Service:
+     Burkina Faso (Autorité de Régulation des Communications Electroniques et des Postes (ARCEP),
+        Ouagadougou) ....................................................................................................................................            4
+     Congo (Agence de Régulation des Postes et des Communications Electroniques (ARPCE),
+        Brazzaville) ..........................................................................................................................................      5
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                               6
+     Mali (Autorité Malienne de Régulation des Télécommunications/TIC et des Postes (AMRTP),
+       Bamako) ..............................................................................................................................................        7
+     Mauritius (Information and Communication Technologies Authority (ICTA), Port-Louis) ........................                                                   11
+     Swaziland (Swaziland Communications Commission, Mbabane) .............................................................                                         12
+     Togo (Autorité de Règlementation des secteurs de Postes et Télécommunications (ART&P), Lomé) ......                                                            17
+Other communication: Austria ......................................................................................................................                 19
+Service Restrictions ........................................................................................................................................       20
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                     20
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                 21
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................           24
+List of ITU Carrier Codes .................................................................................................................................         25
+List of International Signalling Point Codes (ISPC) .........................................................................................                       26
+National Numbering Plan ...............................................................................................................................             26
+
+
+
+
+                                                                                                                                    www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1144             15.III.2018            1.III.2018
+               1145              1.IV.2018             16.III.2018
+               1146             15.IV.2018             30.III.2018
+               1147              1.V.2018              13.IV.2018
+               1148             15.V.2018               1.V.2018
+               1149              1.VI.2018             16.V.2018
+               1150             15.VI.2018             1.VI.2018
+               1151             1.VII.2018             15.VI.2018
+               1152             15.VII.2018            29.VI.2018
+               1153             1.VIII.2018           17.VII.2018
+               1154            15.VIII.2018            1.VIII.2018
+               1155              1.IX.2018            16.VIII.2018
+               1156             15.IX.2018            31.VIII.2018
+               1157              1.X.2018              14.IX.2018
+               1158             15.X.2018              28.IX.2018
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-29, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.993.2 (2015) Amd. 3 (02/2018)
+–     ITU-T G.9961 (2015) Amd. 3 (02/2018)
+–     ITU-T G.9978 (02/2018): Secure admission in G.hn network
+–     ITU-T H.265 (V5) (02/2018): High efficiency video coding
+–     ITU-T Y.4200 (02/2018): Requirements for interoperability of smart city platforms
+–     ITU-T Y.4201 (02/2018): High-level requirements and reference framework of smart city platform
+
+
+
+                                     Telephone Service
+                                (Recommendation ITU-T E.164)
+                                        url: www.itu.int/itu-t/inr/nnp
+
+Burkina Faso (country code +226)
+Communication of 15.II.2018:
+The Autorité de Régulation des Communications Electroniques et des Postes (ARCEP), Ouagadougou, announces
+the following update to the National Numbering Plan of Burkina Faso.
+•     assignment of new prefix AB=52:
+
+  NDC (national         N(S)N number
+destination code)           length
+or leading digits of                                 Usage of             Additional      Time and date of
+ N(S)N (national     Maximum Minimum           ITU-T E.164 number        information        introduction
+    (significant)     length      length
+      number)
+           52           8           8       Non-geographic number        ONATEL-S.A.      2018-02-15-00:00
+                                            - Mobile telephone                                 (UTC)
+                                            service
+
+Contact:
+
+      Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+      B.P. 6437
+      OUAGADOUGOU 01
+      Burkina Faso
+      Tél:     +226 25 37 53 60/61/62
+      Fax:     +226 25 37 53 64
+      E-mail: secretariat@arcep.bf
+      URL:     www.arcep.bf
+
+
+
+
+Congo (country code +242)
+Communication of 6.II.2018:
+The Agence de Régulation des Postes et des Communications Electroniques (ARPCE), Brazzaville, announces the
+assignment of the following new number series in the national numbering plan of the Republic of the Congo.
+
+                                   Number series
+            Operator                                           Service               Date of introduction
+                                     (9 digits)
+
+  Global Reach Telecom        +242 801 12 00 00 -       Value-added service               2.X.2017
+                                   801 14 99 99
+
+X= 0 to 9
+International dialling format:                             +242 XXX XX XX XX
+The minimum number length (excluding the country code) is: Nine (9) digits
+The maximum number length (excluding the country code) is: Nine (9) digits
+
+Contact:
+       Mr Wilson Emery BOKATOLA
+       Agence de Régulation des Postes et des Communications Electroniques (ARPCE)
+       Immeuble ARPCE
+       91 bis, Avenue de l'Amitié
+       B.P. 2490
+       BRAZZAVILLE
+       Congo (Rep of)
+       Tél:      +242 05 553 00 50
+       E-mail: wilson.bokatola@arpce.cg
+       URL:      www.arpce.cg
+
+
+
+
+Denmark (country code +45)
+Communications of 5.II.2018 and 15.II.2018:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+
+•          Withdrawal – Mobile communications services
+                Provider                            Numbering series                Date of withdrawal
+Naka AG                            9271efgh                                              6.XII.2017
+•     Withdrawal – Fixed communications services
+                Provider                            Numbering series                Date of withdrawal
+Greenwave Mobile IoT ApS           9777efgh                                              8.II.2018
+•     Withdrawal – M2M communication
+                Provider                            Numbering series                Date of withdrawal
+Telia Danmark                      37100000ijkl to 37100099ijkl                          9.II.2018
+•     assignment – Mobile communications services
+                Provider                            Numbering series                Date of assignment
+Telenor Connexion                  348defgh                                              30.I.2018
+inMobile ApS                       5454efgh                                              2.II.2018
+SimService A/S                     9374efgh                                              9.II.2018
+•     assignment – M2M communication
+                Provider                            Numbering series                Date of assignment
+Telia Company Danmark              37100000ijkl to 37100099ijkl                          9.II.2018
+
+Contact:
+      Danish Energy Agency
+      Amaliegade 44
+      1256 COPENHAGEN K
+      Denmark
+      Tel:    +45 33 92 67 00
+      Fax:    +45 33 11 47 43
+      E-mail: ens@ens.dk
+      URL:    www.ens.dk
+
+
+
+
+  Mali (country code +223)
+  Communication of 13.II.2018:
+  The Autorité Malienne de Régulation des Télécommunications/TIC et des Postes (AMRTP), Bamako, announces
+  the updated national numbering plan (NNP) of Mali.
+                                     Presentation of national numbering plan
+                                              for country code +223
+  a)         Overview:
+             The minimum number length (excluding the country code) is         8   digits.
+             The maximum number length (excluding the country code) is         8   digits.
+  b)         Detail of numbering plan:
+
+
+    NDC (national         N(S)N number length
+ destination code) or
+   leading digits of    Maximum          Minimum        Usage of ITU-T E.164 number           Additional information
+   N(S)N (national       length           length
+(significant) number)
+      20 2 (NDC)
+                               8            8
+
+    20 70 (NDC)
+    20 71 (NDC)
+    20 72 (NDC)                                                                          Fixed subscribers of the
+                                                     Geographic number –
+    20 73 (NDC)                                                                          operator SOTELMA SA in
+                                                     Fixed telephony service
+    20 74 (NDC)                8            8                                            Bamako District
+    20 75 (NDC)
+    20 76 (NDC)
+    20 77 (NDC)
+        and
+    20 78 (NDC)
+    20 79 (NDC)                8            8        Non-geographic number –             CDMA subscribers of operator
+                                                     Digital mobile telephony service    SOTELMA SA in Bamako District
+       21 7 (NDC)              8            8        Non-geographic number –             CDMA subscribers of operator
+                                                     Digital mobile telephony service    SOTELMA SA in the regions
+    21 26 (NDC)
+                                                     Geographic number –                 Fixed subscribers of SOTELMA
+        and                    8            8
+                                                     Fixed telephony service             SA in the Koulikoro region
+    21 27 (NDC)
+                                                                                         Fixed subscribers of operator
+                                                     Geographic number –
+       21 4 (NDC)              8            8                                            SOTELMA SA in the Mopti
+                                                     Fixed telephony service
+                                                                                         region
+                                                                                         Fixed subscribers of operator
+                                                     Geographic number –
+       21 5 (NDC)        8 (eight)       8 (eight)                                       SOTELMA SA in the Kayes
+                                                     Fixed telephony service
+                                                                                         region
+                                                     Geographic number –                 Fixed subscribers of SOTELMA
+       21 6(NDC)         8 (eight)       8 (eight)
+                                                     Fixed telephony service             SA in the Sikasso region
+                                                                                         Fixed subscribers of operator
+                                                     Geographic number –
+       21 8(NDC)         8 (eight)       8 (eight)                                       SOTELMA SA in the Gao and
+                                                     Fixed telephony service
+                                                                                         Kidal region
+                                                                                         Fixed subscribers of operator
+                                                     Geographic number –
+       21 9(NDC)         8 (eight)       8 (eight)                                       SOTELMA SA in the
+                                                     Fixed telephony service
+                                                                                         Tombouctou region
+
+
+
+
+    NDC (national        N(S)N number length
+ destination code) or
+   leading digits of    Maximum     Minimum         Usage of ITU-T E.164 number        Additional information
+   N(S)N (national       length      length
+(significant) number)
+       400(NDC)
+       401(NDC)
+                                                 Geographic number –              Fixed subscribers of the
+       402(NDC)         8 (eight)    8 (eight)
+                                                 Fixed telephony service          operator ATEL SA
+       403(NDC)
+       404(NDC)
+     44 2 (NDC)                                                                   Fixed subscribers of the
+                                                 Geographic number –
+     44 3 (NDC)         8 (eight)    8 (eight)                                    operator Orange Mali SA in the
+                                                 Fixed telephony service
+     44 9 (NDC)                                                                   Bamako district
+     44 1 (NDC)                                                                   Fixed subscribers of the
+                                                 Geographic number –
+                        8 (eight)    8 (eight)                                    operator Orange Mali SA in
+                                                 Fixed telephony service
+                                                                                  regions
+     500(NDC)
+     501(NDC)
+                                                 Non-geographic number –          Mobile subscribers of the
+     502(NDC)           8 (eight)    8 (eight)
+                                                 Mobile telephony service         operator ATEL SA
+     503(NDC)
+     504(NDC)
+      6 (NDC)
+      95 (NDC)
+      96 (NDC)
+      97 (NDC)                                   Non-geographic number –          Mobile subscribers of the
+                        8 (eight)    8 (eight)
+      98 (NDC)                                   Mobile telephony service         operator SOTELMA SA
+        and
+      99 (NDC)
+      89 (NDC)
+
+      7 (NDC)
+
+      90 (NDC)
+      91 (NDC)
+      92 (NDC)
+                                                 Non-geographic number –          Mobile subscribers of operator
+      93 (NDC)          8 (eight)    8 (eight)
+                                                 Mobile telephony service         Orange Mali SA
+         and
+      94 (NDC)
+      82 (NDC)
+         and
+      83 (NDC)
+
+
+
+
+c) Special Numbers
+
+        Numbers for national use only                         Operator             Additional information
+                     80001                    SOTELMA SA                           Freephone number
+                                                                                   (Numéro vert)
+                     80002                    Orange Mali SA                       Freephone number
+                                                                                   (Numéro vert)
+                     80011                    SOTELMA SA                           Local rate number
+                                                                                   (Numéro Azur)
+                                              Orange Mali SA                       Local rate number
+                     80012
+                                                                                   (Numéro Azur)
+                                              SOTELMA SA                           Special rate number
+                     80021
+                                                                                   (Numéro indigo)
+                                              Orange Mali SA                       Special rate number
+                     80022
+                                                                                   (Numéro indigo)
+                  80(NDC)                                                          Freephone numbers
+                                              All operators
+ minimum length =maximum length = 8 (eight)                                        (Numéro vert)
+                     36 XXX                   SOTELMA SA                           SAV short code
+                     37 XXX                   Orange Mali SA                       SAV short code
+                                              Access number for access providers   Short code
+                     35 2XX
+                                              and value-added services
+
+
+
+
+  d) Important numbers for emergency and helpline services
+
+  Numbers for                        Service                 Allocated or assigned    ITU-T E.164 number or            Note
+ Emergency and                                                                         national-only number
+helpline services
+      1210          Semi-automatic trunk                    Allocated in the National National use only
+                                                            Numbering Plan (NNP)
+     1212           Inquiries                               Allocated in the National National use only
+                                                            Numbering Plan (NNP)
+     1213           Faults                                  Allocated in the National National use only
+                                                            Numbering Plan (NNP)
+     1214           Commercial inquiries                    Allocated in the National National use only
+                                                            Numbering Plan (NNP)
+     1216           International semi-automatic            Allocated in the National National use only
+                                                            Numbering Plan (NNP)
+     1219           Speaking clock                          Allocated in the National National use only
+                                                            Numbering Plan (NNP)
+     1221           Information on supplementary            Allocated in the National National use only
+                    services                                Numbering Plan (NNP)
+     1223           Information on billing and telegrams    Allocated in the National National use only
+                                                            Numbering Plan (NNP)
+     11XY1          Other national public health services   Allocated in the National National use only       1 :X   other than 2
+                                                            Numbering Plan (NNP)
+      112           GSM emergency service                   Allocated in the National National use only
+                                                            Numbering Plan (NNP)
+       15           National public health service          Allocated in the National National use only
+                                                            Numbering Plan (NNP)
+       17           Police emergency service                Allocated in the National National use only
+                                                            Numbering Plan (NNP)
+       18           Fire brigade emergency service          Allocated in the National National use only
+                                                            Numbering Plan (NNP)
+
+  Contact:
+            Autorité Malienne de Régulation des Télécommunications/TIC et des Postes (AMRTP)
+            Mr Issoufi Kouma MAIGA
+            Chef Département Technique
+            Rue 390 Hamdallaye ACI 2000
+            B.P. 2206
+            BAMAKO
+            Mali
+            Tel:     +223 20 23 14 90/91; +223 44 90 10 87/88
+            Fax:     +223 20 23 14 94
+            E-mail: imaiga@amrtp.ml / amrtp@amrtp.ml
+
+
+
+
+Mauritius (country code +230)
+Communication of 7.II.2018:
+The Information and Communication Technologies Authority (ICTA), Port-Louis, notifies that new Fixed Number
+ranges have been opened in the Republic of Mauritius by the following PSTN operators since 1 January 2013:
+
+ Operator                                  Usage of E.164 number                  Dailling Format
+ Emtel Ltd                                 Geographic number range                +230-65X XXXX
+ Mauritius Telecom Ltd                     Geographic number range                +230-289 XXXX
+ Mauritius Telecom Ltd                     Geographic number range                +230-489 XXXX
+ Mauritius Telecom Ltd                     Geographic number range                +230-689 XXXX
+
+
+The Information and Communication Technologies Authority (ICTA), Port-Louis, notifies that new Mobile Number
+ranges have been opened in the Republic of Mauritius by the following mobile operators since 1 January 2013:
+
+ Operator                                   Usage of E.164 number                 Dailling Format
+ Emtel Ltd                                  Non-geographic mobile numbers         +230-548X XXXX
+ Mahanagar Telephone (Mauritius) Ltd        Non-geographic mobile numbers         +230-528X XXXX
+ Cellplus Mobile Communications Ltd         Non-geographic mobile numbers         +230-580X XXXX
+ Cellplus Mobile Communications Ltd         Non-geographic mobile numbers         +230-581X XXXX
+ Cellplus Mobile Communications Ltd         Non-geographic mobile numbers         +230-583X XXXX
+ Emtel Ltd                                  Non-geographic mobile numbers         +230-584X XXXX
+ Emtel Ltd                                  Non-geographic mobile numbers         +230-585X XXXX
+ Mahanagar Telephone (Mauritius) Ltd        Non-geographic mobile numbers         +230-588X XXXX
+ Mahanagar Telephone (Mauritius) Ltd        Non-geographic mobile numbers         +230-589X XXXX
+
+Contact:
+      Mr R. Shakya
+      Information and Communication Technologies Authority (ICTA)
+      Level 12
+      The Celicourt
+      6, Sir Celicourt Antelme Street
+      PORT LOUIS
+      Mauritius
+      Tel:      +230 217 2222
+      Fax :     +230 217 7777
+      E-mail: icta@intnet.mu
+
+
+
+
+Swaziland (country code +268)
+Communications of 8.II.2018:
+The Swaziland Communications Commission, Mbabane, hereby announces the entry into service of the National
+Numbering Plan in Swaziland.
+
+     1.   THE NATIONAL NUMBERING AND ADDRESSING PLAN TABLE – BROAD STRUCTURE
+The structure of the Numbering Plan is shown in Table 1 below. The broad structure shows the generic allocation
+of the various services against the number range 0 to 9. Table 2 shows the detailed structure of the Plan.
+
+ Leading Digit    Main Purpose (the Purpose for parts which are not identified as Protected in this table is detailed
+                  in the Schedules of the Plan below)
+
+ “+”              International Access Prefix
+
+ 0                Access Numbers and Type B Short Codes (and Carrier selection if adopted)
+
+ 1                Type C Short Codes (non-geographic) and Special services
+
+ 2                Geographic Numbers - (Fixed)
+
+ 3                Geographic Numbers - (Fixed)
+
+ 4                Protected
+
+ 5                Protected
+
+ 6                Future Services
+
+ 7                Nationwide (non-geographic) Numbers – Mobile
+
+ 8                Freephone (non-geographic) and Special Services Numbers
+
+ 9                Type A Short Codes – Emergency and Type B Short codes-Special Services
+
+ *                Supplementary Service Codes
+
+ #                Supplementary Service Codes
+
+
+     2.   THE NATIONAL NUMBERING AND ADDRESSING PLAN TABLE – DETAILED STRUCTURE
+
+Digit Grouping     Application/Use Operator/User          Comment                                        Min.     Max.
+                                                                                                         Digits   Digits
+                                      All Operators       “00” or "+" for international Access and       2        2
+0                  Access Numbers
+                                      All Operators       "0X" for Carrier Selection (X= 1 to 5)         1        2
+
+
+
+                                                          Off Net Type A 112 and 116                     3        6
+                   Special Service
+1                                     All Operators
+                   Codes                                  On-Net Type C Codes, 1XX to 8XX, X= 0 to 9
+                                                                                                         3        6
+                                                          (Except 112 and 116)
+
+
+
+
+Digit Grouping   Application/Use Operator/User         Comment                                         Min.     Max.
+                                                                                                       Digits   Digits
+                                    SPTC               22XX XXXX - Shiselweni ( X= 0 to 9)             8        8
+                 Fixed Network
+                 Operator           SPTC               23XX XXXX - Lubombo ( X= 0 to 9)                8        8
+2
+                 (Geographic        SPTC               24XX XXXX - Hhohho ( X= 0 to 9)                 8        8
+                 Codes)
+                                    SPTC               25XX XXXX - Manzini ( X= 0 to 9)                8        8
+
+
+                                    Swazi Mobile Ltd   32YX XXXX - Shiselweni (Y=0 to 4; X=0 to 9)     8        8
+                 Fixed Network
+                 Operator           Swazi Mobile Ltd   33YX XXXX - Lubombo (Y=0 to 4; X=0 to 9)        8        8
+                 (Geographic        Swazi Mobile Ltd   34YX XXXX - Hhohho (Y=0 to 4; X=0 to 9)         8        8
+                 Codes)
+                                    Swazi Mobile Ltd   35YX XXXX - Manzini (Y=0 to 4; X=0 to 9)        8        8
+3
+                                    Swazi MTN Ltd      32YX XXXX - Shiselweni (Y=5 to 9; X=0 to 9)     8        8
+                 Fixed Network
+                 Operator           Swazi MTN Ltd      33YX XXXX - Lubombo (Y=5 to 9; X=0 to 9)        8        8
+                 (Geographic        Swazi MTN Ltd      34YX XXXX - Hhohho (Y=5 to 9 X=0 to 9)          8        8
+                 Codes)
+                                    Swazi MTN Ltd      35YX XXXX - Manzini (Y=5 to 9 X=0 to 9)         8        8
+
+
+4                Protected/Spare Not In Use            Spare
+5                Protected/Spare Not In Use            Spare
+6                Future Services    Not In Use         Spare
+
+
+                 Voice Over IP
+                                    All Operators      70XX XXXX (X = 0 to 9)                          8        8
+                 (VoIP) Services
+
+
+7                                   Swazi MTN Ltd      76XX XXXX (X = 0 to 9)                          8        8
+                 Mobile Network Swazi MTN Ltd          78XX XXXX (X = 0 to 9)                          8        8
+                 Operators (Non-
+                 Geographic)     SPTC                  77XX XXXX (X = 0 to 9)                          8        8
+                                 Swazi Mobile Ltd      79XX XXXX (X = 0 to 9)                          8        8
+
+
+                 Free-Phone/Toll
+                                 All Operators         800 XXXX (X = 0 to 9)                           8        8
+                 Free
+
+
+                 Internet Access-
+                                                                                                       8        8
+                 ISP Dial Up                           860 - A = XXXX , A=1,2,3 and X=0 to 9
+
+
+                 Call Centre
+                                                                                                       8        8
+8                Business                              861X XXXX
+
+                                    All Operators
+                 Tele-Banking                          869 -A-9XXX, A=1,2,3.                           8        8
+
+
+                 Mass Calling                          87XX (Where XX = 00 to 99)                      4        6
+
+
+                 Future Special                        801 A XXXX to 899 A XXXX
+                                                                                                       8        8
+                 Services                              (except 860 AXXX)
+
+
+
+Digit Grouping        Application/Use Operator/User               Comment                                        Min.     Max.
+                                                                                                                 Digits   Digits
+
+
+                      Premium                                     900 A B XXXX (A = Operator, B = Operator       9        9
+                      Services                                    Tariff Code)
+
+
+9                     Emergency               All Operators       Type A Codes - 99X, X = 0 to 9,                3        6
+                      Services
+
+
+                                                                  Type B Codes- 9YX, Y= 0 to 8, X=0 to 9' and
+                      Internal Services                                                                       3           6
+                                                                  9YXX, Y=0 to 8, X= 0 to 9
+
+
+                      Supplementary           All Operators
+                                                                                                                 3        6
+* and # PAIR          Codes (USSD)                                XXX (Where X = 0 to 9)
+
+
+The Swaziland Communications Commission, Mbabane, announces update of numbering resources for
+Swaziland. The effective date of the new numbering resources is 2018-03-1 00:00.
+a)     Overview:
+•        Notification of new numbering resources 32Y, 33Y, 34Y and 35Y (Y= 5 to 9) for new Fixed line operator in
+         Swaziland, Swazi MTN Limited;
+b)        Details of new numbering resources:
+       Description of introduction of new resource for national E. 164 numbering plan for country code +268:
+
+
+       NDC (national destination              N(S)N number length           Usage of E.164 number         Time and date of
+     code) or leading digits of N(S)                                                                        introduction
+    N (National significant number)       Maximum             Minimum
+                                          length              length
+
+    32Y (Y= 5 to 9)                       8                   8         Fixed Geographic number for       2018-01-29 00:00
+                                                                        Shiselweni Region for Fixed
+                                                                        network operator Swazi MTN
+
+    33Y (Y= 5 to 9)                       8                   8         Fixed Geographic number for       2018-01-29 00:00
+                                                                        Lubombo Region for Fixed
+                                                                        network operator Swazi MTN
+
+    34Y (Y= 5 to 9)                       8                   8         Fixed Geographic number for       2018-01-29 00:00
+                                                                        Hhohho Region for Fixed
+                                                                        network operator Swazi MTN
+
+    35Y (Y= 5 to 9)                       8                   8         Fixed Geographic number for       2018-01-29 00:00
+                                                                        Manzini Region for Fixed
+                                                                        network operator Swazi MTN
+
+
+The Swaziland Communications Commission, Mbabane, announces update of numbering resources for
+Swaziland. The effective date of the new numbering resources is 2018-01-29 00:00.
+c)     Overview:
+•        Notification of changes in fixed number ranges for fixed and mobile telecommunications service provider
+         in Swaziland, Swazi Mobile Limited from 26, 27, 28 and 29 to 32Y, 33Y, 34Y and 35Y (Y = 0 to 4),
+         respectively.
+
+
+
+d)    Details of changes in numbering resources:
+
+              Table– Description of introduction of new resource for national E. 164 numbering plan for
+                                                 country code +268:
+                             N(S)N                                 Parallel running
+  Communicated                                    Usage of                                              Proposed
+ time and date of Old Number        New            E.164                                   Operator     wording of
+     change                       Number          Number         Begins         Ends                  announcement
+                    8 digits
+                                   8 digits
+29.I.2018           2 6XXXXXX     3 4YXXXXX    Geographic     29.II.2018-   30.IV.2018-   Swazi      Swaziland fixed
+00:00 hours                                    Hhohho         00:00         00:00         Mobile - line phone
+                                               region                                     Fixed line numbers for
+                                                                                                     Swazi Mobile
+                                                                                                     have changed.
+                                                                                                     Please redial
+                                                                                                     placing 3 before
+                                                                                                     all fixed line
+                                                                                                     numbers for
+                                                                                                     Swazi Mobile.
+29.I.2018           2 7XXXXXX     3 5YXXXXX    Geographic     29.II.2018-   30.IV.2018-   Swazi      Swaziland fixed
+00:00 hours                                    Manzini        00:00         00:00         Mobile - line phone
+                                               region                                     Fixed line numbers for
+                                                                                                     Swazi Mobile
+                                                                                                     have changed.
+                                                                                                     Please redial
+                                                                                                     placing 3 before
+                                                                                                     all fixed line
+                                                                                                     numbers for
+                                                                                                     Swazi Mobile.
+29.I.2018           2 8XXXXXX     3 3YXXXXX    Geographic     29.II.2018-   30.IV.2018-   Swazi      Swaziland fixed
+00:00 hours                                    Lubombo        00:00         00:00         Mobile - line phone
+                                               region                                     Fixed line numbers for
+                                                                                                     Swazi Mobile
+                                                                                                     have changed.
+                                                                                                     Please redial
+                                                                                                     placing 3 before
+                                                                                                     all fixed line
+                                                                                                     numbers for
+                                                                                                     Swazi Mobile.
+29.I.2018           2 9XXXXXX     3 2YXXXXX    Geographic     29.II.2018-   30.IV.2018-   Swazi      Swaziland fixed
+00:00 hours                                    Shiselweni     00:00         00:00         Mobile - line phone
+                                               region                                     Fixed line numbers for
+                                                                                                     Swazi Mobile
+                                                                                                     have changed.
+                                                                                                     Please redial
+                                                                                                     placing 3 before
+                                                                                                     all fixed line
+                                                                                                     numbers for
+                                                                                                     Swazi Mobile.
+
+
+
+
+The Swaziland Communications Commission, Mbabane, announces the updated national numbering plan of
+Swaziland.
+                 Presentation of E.164 national numbering plan for country code +268:
+
+     NDC (National          N(S)N number length
+  Destination Code) or
+                                                                                                 Additional
+ leading digits of N(S)N   Maximum     Minimum           Usage of E.164 number
+                                                                                                information
+ (National (Significant)    length      length
+        Number)
+           22                 8           8       Geographic number for Fixed line          Effective 1.II.2011
+                                                  Operator SPTC Shiselweni region
+           23                 8           8       Geographic number for Fixed line          Effective 1.II.2011
+                                                  Operator SPTC Lubombo region
+           24                 8           8       Geographic number for Fixed line          Effective 1.II.2011
+                                                  Operator SPTC Hhohho region
+           25                 8           8       Geographic number for Fixed line          Effective 1.II.2011
+                                                  Operator SPTC Manzini region
+     32Y (Y=0 to 4)           8           8       Geographic number for Fixed line          1.III.2018
+                                                  Operator Swazi Mobile Shiselweni
+                                                  region
+     33Y (Y=0 to 4)           8           8       Geographic number for Fixed line          1.III.2018
+                                                  Operator Swazi Mobile Lubombo region
+     34Y (Y=0 to 4)           8           8       Geographic number for Fixed line          1.III.2018
+                                                  Operator Swazi Mobile Hhohho region
+     35Y (Y=0 to 4)           8           8       Geographic number for Fixed line          1.III.2018
+                                                  Operator Swazi Mobile Manzini region
+     32Y (Y=5 to 9)           8           8       Geographic number for Fixed line          1.III.2018
+                                                  Operator Swazi MTN Shiselweni region
+     33Y (Y=5 to 9)           8           8       Geographic number for Fixed line          1.III.2018
+                                                  Operator Swazi MTN Lubombo region
+     34Y (Y=5 to 9)           8           8       Geographic number for Fixed line          1.III.2018
+                                                  Operator Swazi MTN Hhohho region
+     35Y (Y=5 to 9)           8           8       Geographic number for Fixed line          1.III.2018
+                                                  Operator Swazi MTN Manzini region
+           76                 8           8       Non-geographic number for GSM             Effective 1.IV.2010
+                                                  operator MTN Swaziland
+           77                 8           8       Non-geographic number for CDMA            Effective
+                                                  operator SPTC                             15.VIII.2009
+           78                 8           8       Non-geographic – Mobile GSM Service       Effective 1.X.2010
+                                                  for MTN Swaziland
+           79                 8           8       Non-geographic – Mobile GSM Service       Effective 1.V.2017
+                                                  for Swazi Mobile
+
+Contact:
+      Thulani Fakudze
+      General Manager Technical Services
+      Swaziland Communications Commission
+      P.O. Box 7811
+      MBABANE, H100
+      Swaziland
+      Tel:     +268 24067000
+      E-mail: thulani.fakudze@sccom.org.sz
+      URL:     www.sccom.org.sz
+
+
+
+Togo (country code +228)
+Communication of 9.II.2018:
+The Autorité de Règlementation des secteurs de Postes et Télécommunications (ART&P), Lomé, announces the
+national numbering plan of Togo.
+(a)    Overview:
+       Maximum number length (not including country code):    8    digits
+       Minimum number length (not including country code):    8    digits
+
+(b)    Details of numbering plan
+
+               NDC                    N(S)N number length
+(NDC (national destination code)                              Usage of E.164 number     Additional information
+     or leading digits of N(S)N
+                                    Maximum       Minimum
+  (national (significant) number)    length        length
+     Geographical numbers
+             220                     8 digits      8 digits       Fixed telephony,          Not allocated
+             221                     8 digits      8 digits            Lomé                 Not allocated
+             222                     8 digits      8 digits                                TOGO TELECOM
+             223                     8 digits      8 digits                                TOGO TELECOM
+             224                     8 digits      8 digits                                TOGO TELECOM
+             225                     8 digits      8 digits                                TOGO TELECOM
+             226                     8 digits      8 digits                                TOGO TELECOM
+             227                     8 digits      8 digits                                TOGO TELECOM
+             228                     8 digits      8 digits                                 Not allocated
+             229                     8 digits      8 digits                                 Not allocated
+             230                     8 digits      8 digits       Fixed telephony,          Not allocated
+             231                     8 digits      8 digits       Maritime region           Not allocated
+             232                     8 digits      8 digits                                TOGO TELECOM
+             233                     8 digits      8 digits                                TOGO TELECOM
+             234                     8 digits      8 digits                                 Not allocated
+             235                     8 digits      8 digits                                 Not allocated
+             236                     8 digits      8 digits                                 Not allocated
+             237                     8 digits      8 digits                                 Not allocated
+             238                     8 digits      8 digits                                 Not allocated
+             239                     8 digits      8 digits                                 Not allocated
+             240                     8 digits      8 digits       Fixed telephony,          Not allocated
+             241                     8 digits      8 digits       Plateaux region           Not allocated
+             242                     8 digits      8 digits                                 Not allocated
+             243                     8 digits      8 digits                                 Not allocated
+             244                     8 digits      8 digits                                TOGO TELECOM
+             245                     8 digits      8 digits                                TOGO TELECOM
+             246                     8 digits      8 digits                                 Not allocated
+             247                     8 digits      8 digits                                 Not allocated
+             248                     8 digits      8 digits                                 Not allocated
+             249                     8 digits      8 digits                                 Not allocated
+
+
+
+
+              NDC                    N(S)N number length
+(NDC (national destination code)                             Usage of E.164 number     Additional information
+    or leading digits of N(S)N
+                                   Maximum       Minimum
+ (national (significant) number)    length        length
+            250                     8 digits      8 digits     Fixed telephony,            Not allocated
+            251                     8 digits      8 digits      Central region             Not allocated
+            252                     8 digits      8 digits                                 Not allocated
+            253                     8 digits      8 digits                                 Not allocated
+            254                     8 digits      8 digits                                 Not allocated
+            255                     8 digits      8 digits                                TOGO TELECOM
+            256                     8 digits      8 digits                                 Not allocated
+            257                     8 digits      8 digits                                 Not allocated
+            258                     8 digits      8 digits                                 Not allocated
+            259                     8 digits      8 digits                                 Not allocated
+            260                     8 digits      8 digits     Fixed telephony,            Not allocated
+            261                     8 digits      8 digits        Kara region              Not allocated
+            262                     8 digits      8 digits                                 Not allocated
+            263                     8 digits      8 digits                                 Not allocated
+            264                     8 digits      8 digits                                 Not allocated
+            265                     8 digits      8 digits                                 Not allocated
+            266                     8 digits      8 digits                                TOGO TELECOM
+            267                     8 digits      8 digits                                TOGO TELECOM
+            268                     8 digits      8 digits                                 Not allocated
+            269                     8 digits      8 digits                                 Not allocated
+            270                     8 digits      8 digits     Fixed telephony,            Not allocated
+            271                     8 digits      8 digits     savannah region             Not allocated
+            272                     8 digits      8 digits                                 Not allocated
+            273                     8 digits      8 digits                                 Not allocated
+            274                     8 digits      8 digits                                 Not allocated
+            275                     8 digits      8 digits                                 Not allocated
+            276                     8 digits      8 digits                                 Not allocated
+            277                     8 digits      8 digits                                TOGO TELECOM
+            278                     8 digits      8 digits                                 Not allocated
+            279                     8 digits      8 digits                                 Not allocated
+    Non-geographical numbers
+             90                     8 digits      8 digits    Mobile telephony           TOGO CELLULAIRE
+             91                     8 digits      8 digits
+             92                     8 digits      8 digits
+             93                     8 digits      8 digits
+             94                     8 digits      8 digits                                 Not allocated
+             95                     8 digits      8 digits                                 Not allocated
+             96                     8 digits      8 digits                                 ATLANTIQUE
+             97                     8 digits      8 digits                                TELECOM TOGO
+             98                     8 digits      8 digits
+             99                     8 digits      8 digits
+
+
+
+
+              NDC                    N(S)N number length
+(NDC (national destination code)                                 Usage of E.164 number      Additional information
+    or leading digits of N(S)N
+                                   Maximum       Minimum
+ (national (significant) number)    length        length
+            700 à 705               8 digits      8 digits         Mobile telephony          TOGO CELLULAIRE
+            706 à 709               8 digits      8 digits                                     Not allocated
+               71                   8 digits      8 digits                                     Not allocated
+               72                   8 digits      8 digits                                     Not allocated
+               73                   8 digits      8 digits                                     Not allocated
+               74                   8 digits      8 digits                                     Not allocated
+               75                   8 digits      8 digits                                     Not allocated
+               76                   8 digits      8 digits                                     Not allocated
+               77                   8 digits      8 digits                                     Not allocated
+               78                   8 digits      8 digits                                     Not allocated
+            790 à 796               8 digits      8 digits                                     Not allocated
+            797 à 799               8 digits      8 digits                                     ATLANTIQUE
+                                                                                              TELECOM TOGO
+
+Contacts:
+      Ms GNOGNO ETOH or Mr BOYODI
+      Autorité de Règlementation des secteurs de Postes et Télécommunications (ART&P)
+      BP 358 LOME
+      Togo
+      Tél:     +228 22 23 63 63
+      Fax:     +228 22 23 63 64
+      E-mail: jgnogno@artp.tg or boyodi@artp.tg or artp@artp.tg
+      URL:     www.artp.tg
+
+
+
+                                        Other communication
+
+Austria
+Communication of 14.II.2018:
+On the occasion of the International Marconi-Day, the Austrian Administration authorizes an Austrian amateur
+station to use the special call sign OE18M from 20 to 22 April 2018.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                        AMENDMENTS TO SERVICE PUBLICATIONS
+                                                Abbreviations used
+
+                                  ADD     Insert                   PAR     paragraph
+                                  COL     Column                   REP     replace
+                                  LIR     Read                     SUP     Delete
+                                  P       page(s)
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with ITU-T Recommendation E.118 (05/2006))
+                           (Position on 15 November 2015)
+                             (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                              (Amendment No. 36)
+
+Belgium          LIR
+    Country/              Company Name/Address         Issuer Identifier                   Contact
+  geographical                                             Number
+      area
+ Belgium               Proximus NV van publiek recht       89 32 00        Mr Steven Tas
+                       Koning Albert II-laan 27                            Tel:     +32 2 202 88 99
+                       B-1030 BRUSSEL                                      Fax:     +32 2 202 85 33
+                                                                           E-mail: rfq.inbox@proximus.com
+ Belgium               Society for Worldwide               89 32 01        Luc de Clercq
+                       interbank Financial                                 Avenue Adèle, 1
+                       Telecommunications (SWIFT)                          B-1310 LA HULPE
+                       Avenue Adèle, 1                                     Tel:     +32 2 655 3111
+                       B-1310 LA HULPE                                     Fax:     +32 2 655 3226
+ Belgium               Orange Belgium N.V.                 89 32 02        Mr Dirk Segers
+                       Bourgetlaan 3                                       Bourgetlaan 3
+                       B-1140 BRUSSEL                                      B-1140 BRUSSEL
+                                                                           Tel:     +32 2 745 72 00
+                                                                           E-mail: dirk.segers@orange.com
+ Belgium               Telenet Group BVBA                  89 32 03        Mr Marcel Olieman
+                       Neerveldstraat 105                                  Neerveldstraat 105
+                       B-1200 BRUSSEL                                      B-1200 BRUSSEL
+                                                                           Tel:     +32 485 54 25 48
+                                                                           E-mail: marcel.olieman@telenetgroup.be
+ Belgium               Telenet BVBA                        89 32 07        Mr Philippe Ronsse
+                       Liersesteenweg 4                                    Liersesteenweg 4
+                       B-2800 MECHELEN                                     B-2800 MECHELEN
+                                                                           Tel:     +32 15 33 35 61
+                                                                           Fax:     +32 15 33 39 99
+                                                                           E-mail: philippe.ronsse@telenetgroup.be
+
+
+
+
+Belgium          LIR
+ Belgium               Voxbone SA                          89 32 08     Ms Katarzyna Golos-Terrasi
+                       Claus Building                                   Claus Building
+                       Avenue Louise 489                                Avenue Louise 489
+                       B-1050 BRUXELLES                                 B-1050 BRUXELLES
+                                                                        Tel :    +32 2 808 00 61
+                                                                        Fax:      +32 2 808 00 01
+                                                                        E-mail: bel@ic.voxbone.com
+
+Belgium          SUP
+   Country/              Company             Issuer                         Contact                            Effective
+ geographical          Name/Address        Identifier                                                           date of
+     area                                   Number                                                           cancellation
+ Belgium          Elephant Talk            89 32 05     Robert Bodemann                                     31.XII.2014
+                  Communication                         Schipol Boulevard 249
+                  Schweiz GmbH                          1118 BY SCHIPOL
+                  Barrerstrasse 135                     (Netherlands)
+                  CH-6301 ZUG                           Tel:     +31 206 535 916
+                  (Switzerland)                         Fax:     +31 206 533 846
+                                                        E-mail: robert.bodemann@elephanttalk.com
+
+
+Belgium          ADD
+
+   Country/            Company Name/Address          Issuer                  Contact                        Effective
+ geographica                                       Identifier                                             date of usage
+    l area                                          Number
+  Belgium         Belgacom International           89 32 04     Kathelijne Winderickx                       1.III.2017
+                  Carrier Services S.A.                         4 Rue Lebeau
+                  (BICS SA)                                     B-1000 BRUSSELS
+                  4 Rue Lebeau                                  Tel: +32 2 547 53 81
+                  B-1000 BRUSSELS                               Fax: +32 2 547 52 10
+                                                                E-mail: bics.regulatory@bics.com
+
+
+
+Belize           LIR
+     Country/             Company Name/Address            Issuer                             Contact
+   geographical                                         Identifier
+        area                                             Number
+ Belize                 Belize Telemedia Ltd.           89 501 67     Mr Ivan Tesucum
+                        St. Thomas Street                             P.O. Box 603
+                        P.O. Box 603                                  BELIZE CITY
+                        BELIZE CITY                                   Tel:    +501 223 8109
+                                                                      E-mail: ivan.tesucum@belizetelemedia.net
+
+
+
+
+France           ADD
+   Country/             Company Name/Address                Issuer                        Contact                       Effective
+ geographical                                             Identifier                                                     date of
+     area                                                  Number                                                        usage
+France            Orange                                  89 883 01       Mr Philippe Fouquart                         31.X.2011
+                  40-48 avenue de la République                           40-48 avenue de la République
+                  92320 CHATILLON                                         92320 CHATILLON
+                                                                          Tél:     +33 1 57 39 58 13
+                                                                          E-mail: philippe.fouquart@orange.com
+
+Italy            ADD
+    Country/               Company               Issuer Identifier                     Contact                        Effective
+  geographical           Name/Address                Number                                                            date of
+      area                                                                                                             usage
+Italy             PosteMobile SpA                   89 39 33           Mr Alberto De Luca                             9.I.2018
+                  Viale Europa 190                                     Viale Europa 190
+                  00144 ROMA                                           00144 ROMA
+                                                                       Tel:    +39 377 1000068
+                                                                       Fax:    +39 06 98688251
+                                                                       E-mail: alberto.deluca@postemobile.it
+
+Paraguay         LIR
+    Country/           Company Name/Address                 Issuer         Contact
+  geographical                                            Identifier
+      area                                                 Number
+Paraguay               Hóla Paraguay S.A.                 89 595 01        Mr Orlando Pereira
+                       Av. Mcal. López N° 3958                             Av. Mcal. López N° 3958
+                       casi Rca. Argentina                                 ASUNCION
+                       ASUNCION                                            Tel:      +595 21 619 9000
+                                                                           E-mail: orlando.pereira@vox.net.py
+Paraguay               AMX Paraguay S.A.                  89 595 02        Mr Evert Esquivel
+                       Av. Mcal. López N° 1730                             Av. Mcal. López N° 1730
+                       ASUNCION                                            ASUNCION
+                                                                           Tel:      +595 212 499 000
+                                                                           E-mail: evert.esquivel@claro.com.py
+
+
+
+
+   Mobile Network Codes (MNC) for the international identification plan
+                  for public networks and subscriptions
+          (According to Recommendation ITU-T E.212 (09/2016))
+                    (Position on 1st November 2016)
+                       (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                        (Amendment No.31)
+
+  Country/Geographical area           MCC+MNC *           Operator/Network
+  Denmark SUP
+                                            238 17        Naka AG
+  Monaco ADD
+                                            212 10        Monaco Telecom
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                       (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                        (Amendment No. 57)
+
+
+ Country or area/ISO code                       Company Code      Contact
+  Company Name/Address                           (carrier code)
+
+Germany (Federal Republic of) / DEU       ADD
+
+ Primastrom GmbH                                      PRIMST         Mr Frank Weis
+ Zimmerstrasse 78                                                    Tel:    +49 30 206143 730
+ 10117 BERLIN                                                        Fax:    +49 30 206143 731
+                                                                     E-mail: f.weis@primaholding.de
+
+ ProCRM IT Systems GmbH                              PROCRM          Mr Alexander Weber
+ Max-Hufschmidt-Strasse 2                                            Tel:    +49 6131 49059 0
+ 55130 MAINZ                                                         Fax:    +49 6131 49059 99
+                                                                     E-mail: support@pro-crm.de
+
+ Georg Kröber                                         SIPSAL         Mr Georg Kröber
+ WEBSERVICE                                                          Tel:    +49 971 7852 6638
+ Rodenbergweg 2                                                      Fax:    +49 971 7852 6639
+ 97688 BAD KISSINGEN                                                 E-mail: support@sipsale.de
+
+ voxenergie GmbH                                     VOXENE          Mr Frank Weis
+ Zimmerstrasse 78                                                    Tel:    +49 30 206143 730
+ 10117 BERLIN                                                        Fax:    +49 30 206143 731
+                                                                     E-mail: f.weis@primaholding.de
+
+Germany (Federal Republic of) / DEU       LIR
+
+ Equada GmbH                                          EQUADA          Mr Bernd Buedenbender
+ Am Neuen Berg 3                                                      Tel:    +49 6023 96741 0
+ 63755 ALZENAU                                                        Fax:    +49 6023 96741 11
+                                                                      E-mail: nummernverwaltung@equada.de
+
+                                                                      Tel:    +49 221 669 8000
+ Plusnet Infrastruktur GmbH &Co.KG                      PNET
+                                                                      Fax:    +49 221 669 8009
+ Matthias-Brueggen-Strasse 55
+                                                                      E-mail: info@plusnet.de
+ D-50829 COLOGNE
+
+
+ Stadtwerke Konstanz GmbH                              SWKN           Mr Roland Stader
+ Max-Stromeyer-Strasse 21 - 29                                        Tel:    +49 7531 803 4800
+ 78467 KONSTANZ                                                       Fax:    +49 7531 803 77 4800
+                                                                      E-mail: r.stader@stadtwerke-konstanz.de
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 31)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Burkina Faso ADD
+ 6-026-4       12500        GMSC Bobo Dioulasso                        ORANGE BURKINA FASO SA
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                         Web: www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.II.2018, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                 Country/ Geographical area                                      Country Code (CC)
+ Hungary                                                                                +36
+ Sierra Leone                                                                           +232
+
+
+
+

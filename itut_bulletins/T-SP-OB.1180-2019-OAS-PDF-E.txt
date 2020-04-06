@@ -1,0 +1,395 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1180             15.IX.2019                  (Information received by 30 August 2019) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+
+GENERAL INFORMATION ..............................................................................................................................                 3
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+The International Public Telecommunication Numbering Plan
+   (Recommendation ITU-T E.164 (11/2010)) ..............................................................................................                           5
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                             6
+     Oman (Oman Telecommunications Regulatory Authority (TRA), Ruwi) ...................................................                                           6
+Service Restrictions ........................................................................................................................................      8
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                    8
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .........................................                                          9
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               10
+List of Recommendation ITU-T E.164 assigned Country Codes .....................................................................                                   10
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................      11
+National Numbering Plan ...............................................................................................................................           11
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1181              1.X.2019              16.IX.2019
+               1182             15.X.2019               1.X.2019
+               1183              1.XI.2019             15.X.2019
+               1184             15.XI.2019             1.XI.2019
+               1185             1.XII.2019             15.XI.2019
+               1186             15.XII.2019            2.XII.2019
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-65, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.671 (08/2019): Transmission characteristics of optical components and subsystems
+–     ITU-T G.808.2 (08/2019): Generic protection switching – Ring protection
+–     ITU-T G.984.2 (08/2019): Gigabit-capable Passive Optical Networks (G-PON): Physical Media Dependent
+      (PMD) layer specification
+–     ITU-T G.988 (2017) Amd. 2 (08/2019)
+–     ITU-T G.989.2 (2019) Cor. 1 (08/2019)
+–     ITU-T G.998.4 (2018) Cor. 1 (08/2019)
+–     ITU-T G.7041/Y.1303 (2016) Amd. 1 (08/2019)
+–     ITU-T G.7710/Y.1701 (08/2019): Common equipment management function requirements
+–     ITU-T G.7712/Y.1703 (08/2019): Architecture and specification of data communication network
+–     ITU-T G.8013/Y.1731 (2015) Cor. 2 (08/2019)
+–     ITU-T G.8021/Y.1341 (2018) Cor. 1 (08/2019)
+–     ITU-T G.8132/Y.1383 (2017) Cor. 1 (08/2019)
+–     ITU-T G.8133 (08/2019): Dual-Homing Protection for MPLS-TP Pseudowires
+–     ITU-T G.8261/Y.1361 (08/2019): Timing and synchronization aspects in packet networks
+–     ITU-T G.8262.1/Y.1362.1 (2019) Amd. 1 (08/2019)
+–     ITU-T G.8265.1/Y.1365.1 (2014) Amd. 1 (08/2019)
+–     ITU-T G.8271.1/Y.1366.1 (2017) Amd. 2 (08/2019)
+–     ITU-T G.8272.1/Y.1367.1 (2016) Amd. 2 (08/2019)
+–     ITU-T G.8273.2/Y.1368.2 (08/2019): Timing characteristics of telecom boundary clocks and telecom time
+      slave clocks
+–     ITU-T G.8275/Y.1369 (2017) Amd. 2 (08/2019)
+–     ITU-T G.8275.1/Y.1369.1 (2016) Amd. 3 (08/2019)
+–     ITU-T G.8275.2/Y.1369.2 (2016) Amd. 3 (08/2019)
+–     ITU-T G.9803 (2018) Amd. 1 (08/2019)
+–     ITU-T L.208 (08/2019): Requirements for passive optical nodes: Fibre distribution box
+–     ITU-T Y.2775 (08/2019): Functional architecture of deep packet inspection for future networks
+
+
+
+
+            The International Public Telecommunication Numbering Plan
+                     (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+                                Identification codes for international networks
+
+Associated with shared country code 882 for international networks, the following two-digit identification code
+has been assigned.
+
+
+                                                                     Country Code and       Date of assignment
+            Applicant                      Network
+                                                                    Identification Code
+
+ Phonegroup SA                   Phonegroup SA                           +882 50              22.VIII.2019
+
+
+
+
+                                          Telephone Service
+                                     (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+
+Denmark (country code +45)
+Communication of 28.VIII.2019:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+
+      Assignment – Fixed communication services
+             Provider                                Numbering series                Date of assignment
+Ipnordic A/S                    45500fgh                                                 15.VIII.2019
+
+
+Contact:
+         Danish Energy Agency
+         43 Carsten Niebuhrs Gade
+         1577 COPENHAGEN V
+         Denmark
+         Tel: +45 33 92 67 00
+         Fax: +45 33 11 47 43
+         E-mail: ens@ens.dk
+         URL: www.ens.dk
+
+Oman (country code +968)
+Communication of 27.VIII.2019:
+The Oman Telecommunications Regulatory Authority (TRA), Ruwi, announces the following update to the
+National Numbering Plan (NNP) of Oman:
+
+             NDC              N(S)N number length
+    (National Destination
+                                                               Usage of
+    Code) or leading digits                                                     Additional information
+                              Maximum   Minimum           ITU-T E.164 number
+      of N(S)N (National
+    (Significant) Number)
+         901X XXXX               8           8       Mobile service            Omantel Mobile
+            to
+         909X XXXX
+          91XXXXXX               8           8       Mobile service            Omantel Mobile
+          92XXXXXX               8           8       Mobile service            Omantel Mobile
+          93XXXXXX               8           8       Mobile service            Omantel Mobile
+          94XXXXXX               8           8       Mobile service            Ooredoo
+          95XXXXXX               8           8       Mobile service            Ooredoo
+          96XXXXXX               8           8       Mobile service            Ooredoo
+          97XXXXXX               8           8       Mobile service            Ooredoo
+          98XXXXXX               8           8       Mobile service            Omantel Mobile
+          99XXXXXX               8           8       Mobile service            Omantel Mobile
+          71XXXXXX               8           8       Mobile service            Omantel Mobile
+          72XXXXXX               8           8       Mobile service            Omantel Mobile
+
+          NDC               N(S)N number length
+ (National Destination
+                                                           Usage of
+ Code) or leading digits                                                             Additional information
+                            Maximum   Minimum         ITU-T E.164 number
+   of N(S)N (National
+ (Significant) Number)
+       78XXXXXX                8          8       Mobile service                   Ooredoo
+       79XXXXXX                8          8       Mobile service                   Ooredoo
+       22XXXXXX                8          8       Fixed service                    Ooredoo/Omantel/Awaser
+       23XXXXXX                8          8       Fixed service – currently only   Dhofar & Al Wusta
+                                                  one fixed operator
+                                                  (Omantel)
+       24XXXXXX                8          8       Fixed service – currently only   Muscat
+                                                  one fixed operator
+                                                  (Omantel)
+       25XXXXXX                8          8       Fixed service – currently only   A’Dakhliyah, Al Sharqiya &
+                                                  one fixed operator               A’Dhahira
+                                                  (Omantel)
+       26XXXXXX                8          8       Fixed service – currently only   Al Batinah & Musandam
+                                                  one fixed operator
+                                                  (Omantel)
+
+Contact:
+      Mr Mohammed Al-Kindy
+      Regulatory and Compliance Unit
+      Oman Telecommunications Regulatory Authority (TRA)
+      P.O. Box 579
+      RUWI, 112
+      Sultanate of Oman
+      Tel:     +968 24222149
+      Fax:     +968 24222081
+      E-mail: ir@tra.gov.om
+      URL:     www.tra.gov.om
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call – Back
+               and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                          Abbreviations used
+
+                              ADD   Insert                 PAR   paragraph
+                              COL   Column                 REP   replace
+                              LIR   Read                   SUP   Delete
+                              P     page(s)
+
+
+
+
+                           List of Ship Stations and Maritime Mobile
+                                   Service Identity Assignments
+                                              (List V)
+                                          Edition of 2019
+
+                                              Section VI
+
+REP
+
+      GD01       Tele Greenland, P.O. Box 1002, 3900 Nuuk, Greenland.
+                 E-Mail: telepost@telepost.gl, Tel: +299 341255, Fax: +299 322255.
+                 Contact Person: Nielsine Thorning Hansen.
+                 For Inmarsat invoices:
+                 Radioforvaltningen, P.O. Box 1002, 3900 Nuuk, Greenland.
+                 E-Mail: nhn@tele.gl, Tel: +299 323120, Fax: +299 322255.
+                 E-Mail: sly@tele.gl, Tel: +299 321255, Fax: +299 323130.
+
+
+
+
+                             List of Issuer Identifier Numbers for
+                     the International Telecommunication Charge Card
+               (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                (Position on 1 December 2018)
+                                 (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                                  (Amendment No. 16)
+United States          ADD
+
+      Country/         Company                            Issuer         Contact                                        Effective
+    Geographical       Name/Address                     Identifier                                                        date
+        area                                             Number                                                         of usage
+    United States      Shuttle Wireless                  89 1 053        Ronald W. Del Sesto, Jr.                     26.VIII.2019
+                       Solutions, Inc.                                   c/o Morgan Lewis,
+                       1111 Pennsylvania Ave.                            1111 Pennsylvania Ave. NW
+                       NW                                                WASHINGTON DC 20004-2541
+                       WASHINGTON DC 20004-                              Tel.:   +1 202 373 6023
+                       2541                                              Fax:    +1 202 739 3001
+                                                                         E-mail: ronald.delsesto@morganlewis.com
+
+
+
+
+               List of Recommendation ITU-T E.164 assigned Country Codes
+                 (Complement to Recommendation ITU-T E.164 (11/2010))
+                            (Position on 15 December 2016)
+                                 (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                  (Amendment No. 11)
+
+ Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+o        Associated with shared country code 882, the following two-digit identification code reservations or
+         assignments have been made for the international networks of:
+Note o)      +882 50       ADD*
+
+                                                                                    Country Code and
+               Applicant                              Network                                                      Status
+                                                                                   Identification Code
+
+ Phonegroup SA                            Phonegroup SA                                +882 50                    Assigned
+
+* 22.VIII.2019
+
+__________
+
+See page 5 of the present Operational Bulletin No. 1180 of 15.IX.2019.
+
+
+
+
+   Mobile Network Codes (MNC) for the international identification plan
+                 for public networks and subscriptions
+         (According to Recommendation ITU-T E.212 (09/2016))
+                     (Position on 15 December 2018)
+
+                      (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                       (Amendment No.16)
+
+   Country/Geographical area          MCC+MNC *           Operator/Network
+   Canada ADD
+                                           302 330        Blue Canada Wireless Inc
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                National Numbering Plan
+                 (According to Recommendation ITU-T E.129 (01/2013))
+                                    Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.VIII.2019, the following countries/geographical areas have updated their national numbering plan on
+our site:
+
+               Country/ Geographical area                                        Country Code (CC)
+ Georgia                                                                                +995
+ Morocco                                                                                +212
+ Ukraine                                                                                +380
+
+
+
+

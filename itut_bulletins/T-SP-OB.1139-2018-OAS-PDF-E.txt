@@ -1,0 +1,701 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1139             1.I.2018                    (Information received by 12 December 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Telephone Service:
+     Malawi (Malawi Communications Regulatory Authority (MACRA), Blantyre) .........................................                                               5
+Service Restrictions ........................................................................................................................................      6
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                    6
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                7
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         13
+List of ITU Carrier Codes .................................................................................................................................       14
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1140              15.I.2018              2.I.2018
+               1141              1.II.2018             16.I.2018
+               1142             15.II.2018              1.II.2018
+               1143              1.III.2018            15.II.2018
+               1144             15.III.2018            1.III.2018
+               1145              1.IV.2018             16.III.2018
+               1146             15.IV.2018             30.III.2018
+               1147              1.V.2018              13.IV.2018
+               1148             15.V.2018               1.V.2018
+               1149              1.VI.2018             16.V.2018
+               1150             15.VI.2018             1.VI.2018
+               1151             1.VII.2018             15.VI.2018
+               1152             15.VII.2018            29.VI.2018
+               1153             1.VIII.2018           17.VII.2018
+               1154            15.VIII.2018            1.VIII.2018
+               1155              1.IX.2018            16.VIII.2018
+               1156             15.IX.2018            31.VIII.2018
+               1157              1.X.2018              14.IX.2018
+               1158             15.X.2018              28.IX.2018
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                             Approval of ITU-T Recommendations
+By AAP-26, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+
+– ITU-T F.746.5 (12/2017): Framework for language learning system based on speech/NLP technology
+
+– ITU-T F.746.6 (12/2017): Requirements for a name resolution service in information-centric networks
+
+– ITU-T G.722.2 Annex C (12/2017): Fixed-point C-code
+
+– ITU-T G.722.2 Annex D (12/2017): Digital test sequences
+
+– ITU-T G.798 (12/2017): Characteristics of optical transport network hierarchy equipment functional blocks
+
+– ITU-T G.993.5 (2015) Amd. 2 (12/2017)
+
+– ITU-T G.994.1 (2012) Amd. 9 (12/2017)
+
+– ITU-T G.996.2 (2009) Amd. 5 (12/2017)
+
+– ITU-T G.997.1 (2012) Amd. 7 (12/2017)
+
+– ITU-T G.997.2 (2015) Amd. 4 (12/2017)
+
+– ITU-T G.9701 (2014) Cor. 4 (12/2017)
+
+– ITU-T G.9701 (2014) Amd. 4 (12/2017)
+
+– ITU-T H.222.0 (2017) Amd. 1 (12/2014): Ultra-low latency and 4k and higher resolution support for transport
+of JPEG 2000 video
+
+– ITU-T H.248.77 (12/2017): Gateway control protocol: Secure real-time transport protocol (SRTP) package and
+procedures
+
+– ITU-T H.550 (12/2017): Architecture and functional entities of vehicle gateway platforms
+
+– ITU-T H.560 (12/2017): Communications interface between external applications and a vehicle gateway
+platform
+
+– ITU-T H.626.2 (12/2017)
+
+– ITU-T H.724 (12/2017): IPTV terminal device: Interworking-enabled model of multiple devices
+
+– ITU-T H.763.3 (12/2017): HTML for IPTV services
+
+– ITU-T H.782 (12/2017): Digital signage: Metadata
+
+– ITU-T H.861.0 (12/2017): Requirements on communication platform for multimedia brain information
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+
+Malawi (country code +265)
+Communication of 11.XII.2017:
+The Malawi Communications Regulatory Authority (MACRA), Blantyre, announces that Telekom Networks
+Malawi Plc has implemented a new number segment +26531.
+The new segment will be used for its VOIP, non-SIM based services. The number segment will run in parallel
+with the existing +26588 range which is for all SIM based services.
+General information:
+The international public telecommunication number structure for this segment will have twelve (12) digits in all
+(including country code +265).
+       CC + N(S)N = twelve (12) digit number length, where:
+       CC is the country code consisting of three (3) digits and
+       N(S)N is the National (Significant) Number consisting of nine (9) digits.
+       In Malawi, the N(S)N is the same as the subscriber number (SN).
+
+
+Description of introduction of a new number resources in the National Numbering Plan (NNP) for country
+code +265:
+
+               N(S)N                                       window of deployment                         Proposed
+                                          Usage of                                                       wording
+     Current           Additional                            Begins          Ends        Operator
+                                       E.164 Number                                                        of
+     number             number                            (local time)   (local time)                 announcement
+ (0)88 XXX XXXX                      Non-geographic                                     Telekom      Not Applicable
+                                     number                                             Networks
+                                     SIM based services                                 Malawi Plc
+                                                                                        (TNM Plc)
+                   (0)31 XXX XXXX    Non-geographic       01.XI.2017,    30.XI.2017,    Telekom      Not Applicable
+                                     number               at             at             Networks
+                                     VOIP, non-SIM        00:00          23:59          Malawi Plc
+                                     based services       hours          hours          (TNM Plc)
+
+
+For any additional information, please contact:
+       The Director General
+       Malawi Communications Regulatory Authority (MACRA)
+       MACRA House
+       Salmin Amour Road
+       Private Bag 261.
+       BLANTYRE
+       Malawi
+       Tel:     +265 1 883 611
+       Fax:     +265 1 883 890
+       E-mail: dg-macra@macra.org.mw; info@macra.org.mw
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                        Call – Back
+               and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                     AMENDMENTS TO SERVICE PUBLICATIONS
+                                                Abbreviations used
+
+                                  ADD   Insert                        PAR   paragraph
+                                  COL   Column                        REP   replace
+                                  LIR   Read                          SUP   Delete
+                                  P     page(s)
+
+
+
+
+                          List of Issuer Identifier Numbers for
+                  the International Telecommunication Charge Card
+            (in accordance with ITU-T Recommendation E.118 (05/2006))
+                            (Position on 15 November 2015)
+                            (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                             (Amendment No. 32)
+
+
+Australian External Territories         LIR
+      Country/        Company                     Issuer Identifier    Contact
+ geographical area    Name/Address                    Number
+ Australian           Norfolk Telecom                89 672 10         Mr Michael Donohoe
+ External             P.O. Box 469,                                    Norfolk Telecom
+ Territories          New Cascade Road                                 P.O. Box 95
+                      NORFOLK ISLAND 2899                              9 New Cascade Road
+                                                                       NORFOLK ISLAND 2899
+                                                                       Tel:    +672 3 22468
+                                                                       Fax:    +672 3 22499
+                                                                       E-mail: mick@telecom.gov.nf
+
+Australia      LIR
+     Country/        Company Name/Address         Issuer Identifier    Contact
+  geographical                                        Number
+       area
+ Australia           AAPT Ltd                        89 61 14          Mr Brad Stoltenberg
+                     30 Ross street                                    AAPT Ltd
+                     GLEBE, NSW 2037                                   30 Ross street
+                                                                       GLEBE, NSW 2037
+                                                                       Tel:    +61 2 9162 6219
+                                                                       E-mail: brad.stoltenberg@tpgtelecom.com.au
+
+Australia      SUP
+     Country/         Company                     Issuer Identifier    Contact                  Effective
+ geographical area    Name/Address                    Number                                    date of
+                                                                                                cancellation
+ Australia            EZI Phonecard Pty. Ltd.        89 61 88          Mal Sharpe               06.VII.2008
+                      106-108 Quary Street                             106-108 Quarry Street
+                      ULTIMO NSW 2007                                  ULTIMO NSW 2007
+                                                                       Tel: +61 2 9518 7903
+                                                                       Fax: +61 2 9692 0347
+
+
+
+
+Finland         LIR
+     Country/         Company Name/Address          Issuer Identifier   Contact
+   geographical                                         Number
+       area
+ Finland              Ålands Telekommunikation Ab      89 358 07        Mr Thomas Lax
+                      P.O. Box 233                                      Ålands Telekommunikation Ab
+                      22100 MARIEHAMN                                   P.O. Box 233
+                                                                        22100 MARIEHAMN
+                                                                        Tel:     +358 18 23 500
+                                                                        E-mail: lax@alcom.ax
+ Finland              DNA Oyj                          89 358 04        Ami Mutikainen
+                      P.O. Box 10                                       DNA Oyj
+                      01044 DNA                                         P.O. Box 10
+                                                                        01044 DNA
+                                                                        Tel:     +358 44 0440/+358 44 044 1063
+                                                                        Fax:     +358 44 220 2292
+                                                                        E-mail: ami.mutikainen@dna.fi
+ Finland              DNA Oyj                          89 358 06        Ami Mutikainen
+                      P.O. Box 10                                       DNA Oyj
+                      01044 DNA                                         P.O. Box 10
+                                                                        01044 DNA
+                                                                        Tel:     +358 44 0440/+358 44 044 1063
+                                                                        Fax:     +358 44 220 2292
+                                                                        E-mail: ami.mutikainen@dna.fi
+ Finland              Elisa Corporation                89 358 02        Jari Jokela
+                      P.O. Box 1                                        Elisa Corporation
+                      00061 ELISA                                       P.O. Box 1
+                                                                        00061 ELISA
+                                                                        Tel:     +358 102 6000/+358 50 506 6070
+                                                                        Fax:     +358 102 6060/+358 50 8506 6070
+                                                                        E-mail: jari.jokela@elisa.fi
+ Finland              Elisa Corporation                                 Jari Jokela
+                                                       89 358 03
+                      P.O. Box 1                                        Elisa Corporation
+                      00061 ELISA                                       P.O. Box 1
+                                                                        00061 ELISA
+                                                                        Tel:     +358 102 6000/+358 50 506 6070
+                                                                        Fax:     +358 102 6060/+358 50 8506 6070
+                                                                        E-mail: jari.jokela@elisa.fi
+ Finland              Elisa Corporation                                 Jari Jokela
+                                                       89 358 05
+                      P.O. Box 1                                        Elisa Corporation
+                      00061 ELISA                                       P.O. Box 1
+                                                                        00061 ELISA
+                                                                        Tel:     +358 102 6000/+358 50 506 6070
+                                                                        Fax:     +358 102 6060/+358 50 8506 6070
+                                                                        E-mail: jari.jokela@elisa.fi
+ Finland              Elisa Corporation                                 Jari Jokela
+                                                       89 358 09
+                      P.O. Box 1                                        Elisa Corporation
+                      00061 ELISA                                       P.O. Box 1
+                                                                        00061 ELISA
+                                                                        Tel:     +358 102 6000/+358 50 506 6070
+                                                                        Fax:     +358 102 6060/+358 50 8506 6070
+                                                                        E-mail: jari.jokela@elisa.fi
+
+
+
+
+     Country/        Company Name/Address                 Issuer Identifier   Contact
+   geographical                                               Number
+       area
+ Finland             Telia Finland Oyj                       89 358 01        Meeri Puttonen
+                     P.O. Box 106                                             Telia Finland Oyj
+                     00051 TELIA                                              P.O. Box 106
+                                                                              00051 TELIA
+                                                                              Tel:     +358 20401/+358 400 673231
+                                                                              E-mail: telia-email@telia.fi;
+                                                                              meeri.puttonen@teliacompany.com
+ Finland             Suomen Virveverkko Oy                   89 358 12        Antti Kauppinen
+                     P.O. Box 357                                             Suomen Virveverkko Oy
+                     02151 ESPOO                                              P.O. Box 357
+                                                                              02151 ESPOO
+                                                                              Tel:     +358 294 440 500/
+                                                                                       +358 40 8668 582
+                                                                              Fax:     +358 294 440 501/
+                                                                                       +358 207 400 606
+                                                                              E-mail: antti.kauppinen@erillisverkot.fi
+ Finland             Ukkoverkot Oy                           89 358 11        Kari Lehtinen
+                     Itämerentori 2                                           Ukkoverkot Oy
+                     00180 HELSINKI                                           Itämerentori 2
+                                                                              00180 HELSINKI
+                                                                              Tel:     +358 30 514 210/
+                                                                                       +358 440 777 553
+                                                                              E-mail: kari.lehtinen@ukkoverkot.fi
+
+Georgia        SUP
+     Country/         Company                   Issuer Identifier   Contact                                Effective
+ geographical area    Name/Address                  Number                                                 date of
+                                                                                                           cancellatio
+                                                                                                           n
+ Georgia              Magticom Ltd.                89 995 02        Mr Irakli Mzhavanadze                  14.XI.2017
+                      7.A. Politkovskaya str.                       Magticom Ltd.
+                      0186 TBILISI                                  7.A. Politkovskaya str.
+                                                                    0186 TBILISI
+                                                                    E-mail:
+                                                                    irakli.mzhavanadze@magticom.ge
+
+Greece         LIR
+     Country/         Company Name/Address               Issuer Identifier    Contact
+ geographical area                                           Number
+ Greece               COSMOTE                                89 30 01         Vassiliki Papadaki
+                      99, Kifissias Avenue                                    99, Kifissias Avenue
+                      GR-MAROUSSI 15181                                       GR-MAROUSSI 15124
+                                                                              Tel:     +30 21-06177777
+                                                                              Fax:     +30 21-06177384
+                                                                              Email: vpapadak@cosmote.gr
+ Greece               OTE S.A                                  89 30 02       Christina Kelaidi
+                      99, Kifissias Avenue                                    99, Kifissias Avenue
+                      GR-MAROUSSI 15124                                       GR-MAROUSSI 15124
+                                                                              Tel:     +30-21-06115011
+                                                                              Fax:     +30-21-06117456
+                                                                              Email: Kelaidi@ote.gr
+
+
+
+
+     Country/          Company Name/Address   Issuer Identifier   Contact
+ geographical area                                Number
+ Greece                Vodafone                   89 30 05        Katerina Maneli
+                       1-3 Tzavella                               1-3 Tzavella
+                       15231 HALANDRI                             15231 HALANDRI
+                                                                  Tel:     +30 21-06702000
+                                                                  Fax:     +30 21-06703200
+                                                                  Email: katerina.maneli1@vodafone.com
+ Greece                WIND Hellas                                WIND Hellas
+                                                 89 30 09
+                       66 Kifissias Avenue                        Vassilios Gkatsos
+                       151 25 MAROUSSI                            66, Kifissias Avenue
+                                                                  151 25 MAROUSSI
+                                                                  Tel:     +30 21 0615 8000
+                                                                  Fax:     +30 2105100001
+                                                                  Email: v.gkatsos@wind.gr
+ Greece                WIND Hellas               89 30 10         WIND Hellas
+                       66 Kifissias Avenue                        Vassilios Gkatsos
+                       151 25 MAROUSSI                            66, Kifissias Avenue
+                                                                  151 25 MAROUSSI
+                                                                  Tel:     +30 21 0615 8000
+                                                                  Fax:     +30 2105100001
+                                                                  Email: v.gkatsos@wind.gr
+
+
+Lithuania        LIR
+      Country/         Company Name/Address   Issuer Identifier     Contact
+ geographical area                                Number
+ Lithuania             Telia Lietuva, AB         89 370 01          Inga Volungevičiūtė
+                       Lvovo g. 25                                  Lvovo g. 25
+                       LT-03501 VILNIUS                             LT-03501 VILNIUS
+                                                                    Tel:     +370 5 262 1511
+                                                                    Fax:     +370 5 212 6665
+                                                                    E-mail: info@telia.lt
+ Lithuania             UAB “Bitė Lietuva”        89 370 02          Vitalijus Kirvaitis
+                       Žemaitės g. 15                               Žemaitės g. 15
+                       LT-03504 VILNIUS                             LT-03504 VILNIUS
+                                                                    Tel:     +370 656 00 656
+                                                                    Fax:     +370 699 00 111
+                                                                    E-mail: bendraukime@bite.lt
+ Lithuania             UAB “Tele2”               89 370 03          Evaldas Stankevičius
+                       Upės g. 23,                                  Upės g. 23
+                       LT-08128 VILNIUS                             LT-08128 VILNIUS
+                                                                    Tel:     +370 5 236 6300
+                                                                    Fax:     +370 5 236 6302
+                                                                    E-mail: tele2@tele2.lt
+
+
+
+
+Montenegro     LIR
+     Country/         Company Name/Address                Issuer Identifier     Contact
+ geographical area                                            Number
+ Montenegro           Crnogorski Telekom A.D.                89 382 00          Nikola Ljushev
+                      Moskovska 29                                              Moskovska 29
+                      81000 PODGORICA                                           81000 PODGORICA
+                                                                                Tel:    +382 20 433 709
+                                                                                Fax:    +382 20 432 400
+                                                                                E-mail: nikola.ljushev@telekom.me
+ Montenegro           Telenor d.o.o. Podgorica                  89 382 01       Ms Sandra Štajner
+                      Rimski trg 4                                              Rimski trg 4
+                      81000 PODGORICA                                           81000 PODGORICA
+                                                                                Tel:    +382 20 235 000
+                                                                                Fax:    +382 20 235 022
+                                                                                E-mail: Sandra.Stajner@telenor.me
+ Montenegro           MTEL d.o.o. Podgorica                     89 382 03       Mr Vladimir Lučić
+                      Kralja Nikole 27 A                                        Kralja Nikole 27 A
+                      81000 PODGORICA                                           81000 PODGORICA
+                                                                                Tel:    +382 78 100 508
+                                                                                Fax     +382 20 633 846
+                                                                                E-mail: vladimir.lucic@mtel.me
+
+New Zealand LIR
+     Country/        Company Name/Address                 Issuer Identifier     Contact
+   geographical                                               Number
+       area
+ New Zealand         Spark NZ Limited                           89 64 00        Spark NZ Limited
+                     Telecom House                                              Tel: +64 44985624
+                     Level 2, 68-86 Jervois Quay                                Fax: +64 44730637
+                     WELLINGTON
+
+New Zealand SUP
+    Country/         Company                         Issuer         Contact                           Effective date
+  geographical       Name/Address                  Identifier                                         of
+      area                                          Number                                            cancellation
+ New Zealand         Pacific Funds                 89 64 01         David F. Stubbs                   17.III.2015
+                     Transfers Group Ltd                            1/8 Braemar Rd., Rothesay Bay
+                     1/8 Braemar Rd.,                               AUCKLAND 13LL
+                     Rothesay Bay                                   Tel: +64 9 415 5322
+                     AUCKLAND 13LL                                  Fax: +64 9 262 2409
+
+
+
+
+Serbia           LIR
+     Country/          Company Name/Address                 Issuer Identifier     Contact
+   geographical                                                 Number
+       area
+ Serbia                TELENOR d.o.o.                          89 381 01          Sonja Lukic
+                       Omladinskih Brigada 90                                     Omladinskih Brigada 90
+                       11070 BELGRADE                                             11070 BELGRADE
+                                                                                  Tel:    +381 63 530045
+                                                                                  Fax:    +381 63 4400504
+                                                                                  E-mail: sonja.lukic@telenor.rs
+ Serbia                Preduzece za                            89 381 03          Slobodan Terzić
+                       telekomunicacije "Telekom                                  Takovska 2
+                       Srbija' a.d.                                               11000 BELGRADE
+                       Takovska 2                                                 Tel:    +381 64 610 5407
+                       11000 BELGRADE                                             Fax:    +381 11 324 2426
+                                                                                  E-mail: terzic@telekom.rs
+ Serbia                Vip mobile d.o.o.                       89 381 05          Marko Jović
+                       Milutina Milankovića 1ž                                    Milutina Milankovića 1ž
+                       11070 BELGRADE                                             11070 BELGRADE
+                                                                                  Tel:    +381 60 000 4011
+                                                                                  Fax:    +381 11 225 3002
+                                                                                  E-mail: m.jovic@vipmobile.rs
+
+Singapore        ADD
+     Country/          Company                 Issuer         Contact                                        Effective
+   geographical        Name/Address          Identifier                                                       date of
+       area                                   Number                                                           usage
+ Singapore             TPG TELECOM PTE.      89 65 10         Mr Wayne Springer                              1.III.2017
+                       LTD                                    150 Beach Road
+                       150 Beach Road                         #07-05/08
+                       #07-05/08                              Gateway West
+                       Gateway West                           SINGAPORE 189720
+                       SINGAPORE 189720                       Tel: +65 6817 9070
+                                                              E-mail: wayne.springer@tpgtelecom.com.au
+
+Spain            LIR
+     Country/          Company Name/Address                 Issuer      Contact
+   geographical                                           Identifier
+       area                                                Number
+ Spain                 Telefónica Móviles España,         89 34 03      Mr. Pablo de Carvajal Gonzalez
+                       SAU                                              Distrito C, Edificio Sur 3, Planta 2
+                       Distrito C, Edificio Sur 3,                      28050 MADRID
+                       Planta 2                                         Tel: +34 914820767
+                       28050 MADRID                                     Fax: +34 914820766
+                                                                        E-mail: pablo.decarvajalgonzalez@telefonica.com
+
+
+
+
+United Kingdom      ADD
+     Country/         Company                            Issuer       Contact                                  Effective date
+  geographical        Name/Address                     Identifier                                                 of usage
+       area                                             Number
+ United Kingdom       Truphone Limited                 89 44 47       Mr Ian Jones                              27.XI.2017
+                      25 Canada Square                                Truphone Limited
+                      LONDON E14 5LQ                                  25 Canada Square
+                                                                      LONDON E14 5LQ
+                                                                      Tel: +44 7408 849048
+                                                                      E-mail: legal@truphone.com
+
+
+
+
+       Mobile Network Codes (MNC) for the international identification plan
+                      for public networks and subscriptions
+              (According to Recommendation ITU-T E.212 (09/2016))
+                        (Position on 1st November 2016)
+
+
+                         (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                            (Amendment No. 27)
+
+
+     Country/Geographical area          MCC+MNC *            Operator/Network
+
+     Iran (Islamic Republic of) ADD
+
+                                              432 08         Shatel Mobile
+
+                                              432 50         Arya Resaneh Tadbir (Shatel)
+
+     Slovenia ADD
+
+                                              293 20         Compatel Limited
+
+
+ ____________
+
+ *        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                           List of ITU Carrier Codes
+            (According to Recommendation ITU-T M.1400 (03/2013))
+                       (Position on 15 September 2014)
+                      (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                       (Amendment No. 54)
+
+ Country or area/ISO code                       Company Code      Contact
+  Company Name/Address                           (carrier code)
+
+Germany (Federal Republic of) / DEU SUP
+
+ Stadtwerke Konstanz GmbH                          DESWKN         Mr Roland Stader
+ Max-Stromeyer-Strasse 21 - 29                                    Tel:    +49 7531 803 343
+ 78467 KONSTANZ                                                   Fax:    +49 7531 803 77343
+                                                                  E-mail: r.stader@stadtwerke.konstanz.de
+
+Germany (Federal Republic of) / DEU       LIR
+
+ Equada GmbH                                       EQUADA         Mr Bernd Buedenbender
+ Am Neuen Berg 3                                                  Tel:    +49 6023 96741 0
+ 63755 ALZENAU                                                    Fax:    +49 6023 96741 11
+                                                                  E-mail: nummernverwaltung@equada.de
+
+ Open Numbers GmbH                               ON               Mr Bernd Buedenbender
+ Am Neuen Berg 3                                                  Tel:    +49 6023 70688 0
+ 63755 ALZENAU                                                    Fax:    +49 6023 70688 11
+                                                                  E-mail: pda@opennumbers.de
+
+Germany (Federal Republic of) / DEU       ADD
+
+ FAKS, Frankfurter Antennen- und                      TCFAKS      Mr Andreas Gaertig
+ Kommunikationsservice GmbH                                       Tel:    +49 341 60 952 445
+ Karl-Marx-Strasse 193                                            Fax:    +49 341 60 952 903
+ 15230 FRANKFURT (Oder)                                           E-mail: andreas.gaertig@pyur.com
+
+ Kabelcom Rheinhessen GmbH                            TCKABE      Mr Andreas Gaertig
+ Dieselstrasse 1                                                  Tel:    +49 341 60 952 445
+ 85774 UNTERFOEHRING                                              Fax:    +49 341 60 952 903
+                                                                  E-mail: andreas.gaertig@pyur.com
+
+ KKG Kabelkommunikation Guestrow GmbH               TCKKGG        Mr Andreas Gaertig
+ Goldberger Str. 13                                               Tel:    +49 341 60 952 445
+ 18273 GUESTROW                                                   Fax:    +49 341 60 952 903
+                                                                  E-mail: andreas.gaertig@pyur.com
+
+ Kabelfernsehen Muenchen Servicenter GmbH           TCKMSG        Mr Andreas Gaertig
+ & Co. KG                                                         Tel:    +49 341 60 952 445
+ Medienallee 24                                                   Fax:    +49 341 60 952 903
+ 85774 UNTERFOEHRING                                              E-mail: andreas.gaertig@pyur.com
+
+
+
+
+ Country or area/ISO code                     Company Code      Contact
+  Company Name/Address                         (carrier code)
+
+Germany (Federal Republic of) / DEU     ADD
+
+ MEDIACOM Kabelservice GmbH                       TCMEDI        Mr Andreas Gaertig
+ Dieselstrasse 1                                                Fax:    +49 341 60 952 903
+ 85774 UNTERFOEHRING                                            Tel:    +49 341 60 952 445
+                                                                E-mail: andreas.gaertig@pyur.com
+
+ NEFtv GmbH                                       TCNEFT        Mr Andreas Gaertig
+ Allersberger Strasse 185,                                      Tel:    +49 341 60 952 445
+ Gebaeude G                                                     Fax:    +49 341 60 952 903
+ 90461 NUERNBERG                                                E-mail: andreas.gaertig@pyur.com
+
+ pepcom GmbH                                      TCPEPC        Mr Andreas Gaertig
+ Dieselstrasse 1                                                Tel:    +49 341 60 952 445
+ 85774 UNTERFOEHRING                                            Fax:    +49 341 60 952 903
+                                                                E-mail: andreas.gaertig@pyur.com
+
+ REKA Regionalservice Kabelfernsehen GmbH         TCREKA        Mr Andreas Gaertig
+ Friedensstrasse 30                                             Tel:    +49 341 60 952 445
+ 01917 KAMENZ                                                   Fax:    +49 341 60 952 903
+                                                                E-mail: andreas.gaertig@pyur.com
+
+ TKN Telekabel - Nord GmbH                        TCTKNG        Mr Andreas Gaertig
+ Perleberger Strasse 15                                         Tel:    +49 341 60 952 445
+ 19322 WITTENBERGE                                              Fax:    +49 341 60 952 903
+                                                                E-mail: andreas.gaertig@pyur.com
+
+ Tele-System Harz GmbH                            TCTSHG        Mr Andreas Gaertig
+ Muehlenstrasse 50a                                             Tel:    +49 341 60 952 445
+ 38889 BLANKENBURG                                              Fax:    +49 341 60 952 903
+                                                                E-mail: andreas.gaertig@pyur.com
+
+ WTC Wohnen & TeleCommunication GmbH             TCWTCG         Mr Andreas Gaertig
+ & Co. KG                                                       Tel:    +49 341 60 952 445
+ Medienallee 24                                                 Fax:    +49 341 60 952 903
+ 85774 UNTERFOEHRING                                            E-mail: andreas.gaertig@pyur.com
+
+
+
+

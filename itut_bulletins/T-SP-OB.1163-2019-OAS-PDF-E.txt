@@ -1,0 +1,521 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1163             1.I.2019                    (Information received by 12 December 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)) ................                                                           5
+Telephone Service:
+     Jordan (Telecommunications Regulatory Commission (TRC), Amman) ....................................................                                           6
+     Mauritius (Information and Communication Technologies Authority (ICTA), Port-Louis) ........................                                                  6
+     Sao Tome and Principe (Autoridade Geral de Regulação (AGER), São Tomé) ..........................................                                             7
+Service Restrictions ........................................................................................................................................      8
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                    8
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .........................................                                          9
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               11
+List of ITU Carrier Codes .................................................................................................................................       12
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                      13
+List of International Signalling Point Codes (ISPC) .........................................................................................                     14
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1164              15.I.2019            31.XII.2018
+               1165              1.II.2019             15.I.2019
+               1166             15.II.2019              1.II.2019
+               1167              1.III.2019            15.II.2019
+               1168             15.III.2019            1.III.2019
+               1169              1.IV.2019             15.III.2019
+               1170             15.IV.2019             1.IV.2019
+               1171              1.V.2019              12.IV.2019
+               1172             15.V.2019              26.IV.2019
+               1173              1.VI.2019             15.V.2019
+               1174             15.VI.2019             31.V.2019
+               1175             1.VII.2019             14.VI.2019
+               1176             15.VII.2019            28.VI.2019
+               1177             1.VIII.2019           15.VII.2019
+               1178            15.VIII.2019           31.VII.2019
+               1179              1.IX.2019            16.VIII.2019
+               1180             15.IX.2019            30.VIII.2019
+               1181              1.X.2019              16.IX.2019
+               1182             15.X.2019               1.X.2019
+               1183              1.XI.2019             15.X.2019
+               1184             15.XI.2019             1.XI.2019
+               1185             1.XII.2019             15.XI.2019
+               1186             15.XII.2019            2.XII.2019
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                              Approval of ITU-T Recommendations
+By AAP-49, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+– ITU-T G.875 (12/2018): Optical transport network: Protocol-neutral management information model for the
+network element view
+– ITU-T G.8052/Y.1346 (12/2018): Protocol-neutral management information model for the Ethernet transport
+capable network element
+– ITU-T G.8152/Y.1375 (12/2018): Protocol-neutral management information model for the MPLS-TP network
+element
+– ITU-T Q.4042.1 (12/2018): Cloud interoperability testing about web application - part 1: Interoperability testing
+between CSC and CSP
+– ITU-T X.609.6 (12/2018): Managed P2P communications: Content distribution signalling requirements
+– ITU-T X.609.7 (12/2018): Managed P2P communications: Content distribution peer protocol
+– ITU-T Y.2242 (12/2018): Service function chaining in mobile network
+– ITU-T Y.2323 (12/2018): Requirements and capabilities of orchestration in next generation network evolution
+– ITU-T Y.2815 (12/2018): Mobility supporting architecture for mobile Peer to Peer service in heterogeneous
+wireless networks
+– ITU-T Y.3053 (2018) Amd. 1 (12/2018): Trustworthy networking deployment architecture and procedures
+– ITU-T Y.3104 (12/2018): Architecture of the IMT-2020 network
+– ITU-T Y.3105 (12/2018): Requirements of capability exposure in the IMT-2020 network
+– ITU-T Y.3112 (12/2018): Framework for the support of network slicing in the IMT-2020 network
+– ITU-T Y.3324 (12/2018): Requirements and Architectural Framework for Autonomic Management and Control
+of IMT-2020 Networks
+– ITU-T Y.3507 (12/2018): Cloud computing - Functional requirements of physical machine
+– ITU-T Y.3514 (2017) Cor. 1 (12/2018)
+– ITU-T Y.3517 (12/2018): Cloud computing - Overview of inter-cloud trust management
+– ITU-T Y.3518 (12/2018): Cloud computing - functional requirements of inter-cloud data management
+– ITU-T Y.3519 (12/2018): Cloud computing - Functional architecture of Big Data as a Service
+– ITU-T Y.3602 (12/2018): Big data - Functional requirements for data provenance
+– ITU-T Y.3651 (12/2018): Big-data-driven networking - mobile network traffic management and planning
+
+
+
+
+                    Assignment of Signalling Area/Network Codes (SANC)
+                          (Recommendation ITU-T Q.708 (03/99))
+
+Note from TSB
+At the request of the Administration of Ireland, the Director of TSB has assigned the following signalling
+area/network code (SANC) for use in the international part of the signalling system No. 7 network of this
+country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+
+ Country/geographical area or signalling network                        SANC
+         Ireland                                                        5-214
+
+
+
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                       Telephone Service
+                                  (Recommendation ITU-T E.164)
+                                       url: www.itu.int/itu-t/inr/nnp
+
+Jordan (country code +962)
+Communication of 6.XII.2018:
+The Telecommunications Regulatory Commission (TRC), Amman, announces the allocation of new number
+ranges as follows:
+
+       Service                  Operator             Number ranges            Governorate         Activation
+                                                                                                    date
+ Fixed / Geographic           Al Bahrainia          +962 6 222 XXXX              Amman            Immediate
+ telecommunications            Al Urdunia
+                              Liltaknia Wa
+                                Alitisalat
+
+Contact:
+      Eng. Hala Kharbat
+        Telecommunications Services and Networks Regulation Department
+        Telecommunications Regulatory Commission (TRC)
+        Shmeisani - Abdel Hamid Sharaf Street,
+        Building No. 90
+        AMMAN 11194
+        Jordan
+        Tel:         +962 6 5501120 ext: 2330
+        Fax:         +962 6 5690830
+        E-mail:      hala.kharbat@trc.gov.jo
+
+
+Mauritius (country code +230)
+Communication of 7.XII.2018:
+The Information and Communication Technologies Authority (ICTA), Port-Louis, announces that number block
++230 583X XXXX is allocated to the operator "Cellplus Mobile Communications Ltd" for Mobile services since 1
+January 2013.
+All Administrations, recognized operating agencies and service providers are kindly requested to ensure access
+to this number block.
+Contact:
+           Mr Nikhil JORAI
+           Information and Communication Technologies Authority (ICTA)
+           Level 12 The Celicourt
+           6, Sir Celicourt Antelme Street
+           PORT LOUIS
+           Mauritius
+           Tel: +230 217 2222
+           Fax : +230 217 7777
+           E-mail: icta@intnet.mu
+           URL: www.icta.mu
+
+
+
+
+Sao Tome and Principe (country code +239)
+Communication of 11.XII.2018:
+The Autoridade Geral de Regulação (AGER), São Tomé, announces the following dialling procedures and Legal
+Time:
+
+Country Code:          239
+International Prefix: 00
+National Prefix:       Not available
+Length of national (significant) number (excluding the national prefix):   minimum 3 digits
+                                                                           maximum 7 digits
+Universal Time Coordinated/Summer Time: UTC+00
+
+Remarks: Legal Time that is currently UTC+01, will be set from 1st January 2019 at 02:00H AM to UTC according
+to the Government Decree no. 34/2018 of 11th December 2018.
+
+Contact:
+           Eng. Candido Frota
+           President
+           Autoridade Geral de Regulação (AGER)
+           Avenida 12 de Julho N° 54
+           SÃO TOMÉ
+           Sao Tome and Principe
+           Tel: +239 2224995
+           Email: candidofrota1963@gmail.com
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                           Abbreviations used
+
+                             ADD    Insert                    PAR   paragraph
+                             COL    Column                    REP   replace
+                             LIR    Read                      SUP   Delete
+                             P      page(s)
+
+
+
+
+                        List of Ship Stations and Maritime Mobile
+                                Service Identity Assignments
+                                           (List V)
+                                       Edition of 2018
+
+                                              Section VI
+
+ADD
+
+      DP12     Airbus Defence and Space GmbH, Willy-Messerschmitt-Strasse 1, 82024, Taufkirchen.
+               E-Mail: stefan.gramolla@airbus.com, Tel: +49 89 31 79 51 82,
+               Fax: +49 89 31 79 64 50, URL: www.airbus.com,
+               Contact person: Stefan Gramolla.
+
+      DP15     GESAT GmbH, Hanauer Landstrasse 121a, 60314, Frankfurt Germany.
+               E-Mail: einetter@gestat.com, Tel: +49 69 96 21 80 13,
+               Fax: +49 69 96 21 80 99, URL: www.gesat.com,
+               Contact person: Hubert Einetter
+
+      GR12     RADIOHELLENIC MANAGEMENT AND EXPLOITATION COMPAGNY Single
+               Member P.C Posidonos 26, GR 175 61 P Faliro, Athens, Greece.
+
+
+
+
+REP
+
+      DP04      DH-INTERCOM GmbH & Co. KG, Lauenburger Landstrasse 11,
+                21039 Boernsen, Germany.
+                E-Mail: info.de@speedcast.com, Tel: +49 40 53 797-8290,
+                URL: www.dh-intercom.de,
+                Contact Person: Stefan Alberts.
+
+      DP05      DH-INTERCOM GmbH & Co. KG, Lauenburger Landstrasse 11,
+                21039 Boernsen, Germany.
+                E-Mail: info.de@speedcast.com, Tel: +49 40 53 797-8290,
+                URL: www.dh-intercom.de,
+                Contact Person: Stefan Alberts.
+
+      DP16      Pro Nautas B.V. GmbH, Hafenstrasse 2a, 26789 Leer, Germany.
+                E-Mail: SListewnik@pro-nautas.de, Tel: +49 17 49 09 91 99,
+                URL: www.pro-nautas.com,
+                Contact Person: Stephan Listewnik.
+SUP
+
+      DP09      MoBillan GmbH, P.O. Box 31 01 23, D-53201 Bonn, Germany.
+                E-Mail: info@mobillan.com, Tel: +49 228 422690,
+                Fax: +49 228 4226916, URL: www.mobillan.com.
+
+
+      DP10      Satellution Gesellschaft für Satellitenkommunikation mbH, Heinrich-Böcking Str. 7,
+                D-66121 Saarbrücken, Germany.
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                              (Amendment No. 2)
+
+
+Hong Kong, China SUP
+
+Country/Geographical        Company Name/Address              Issuer       Contact                           Effective
+        area                                                Identifier                                        date of
+                                                             Number                                        cancellation
+Hong Kong, China            Tai Tung Mobile Phone          89 852 33       Pong Yip Nam                    31.XII.2018
+                            Company Limited                                Room 1223A, 12/F
+                            Room 405,                                      Star House, 3 Salisbury Road,
+                            Tung Ning Building,                            Tsim Sha Tsui
+                            249-253 Des Voeux Road                         Kowloon, Hong Kong
+                            Central                                        Tel:     +852 3161 5057
+                            Hong Kong                                      E-mail: yn.pong@mvne.asia
+
+
+Hong Kong, China LIR
+
+Country/Geographical        Company Name/Address           Issuer Identifier   Contact
+        area                                                   Number
+Hong Kong, China            21Vianet Group Limited            89 852 21        Ms Karen Hsu
+                            37/F, Tower 1, MetroPlaza                          37/F, Tower 1, MetroPlaza,
+                            223 Hing Fong Road                                 223 Hing Fong Road,
+                            Kwai Fong, New Territories                         Kwai Fong, New Territories,
+                            Hong Kong                                          Hong Kong
+                                                                               Tel: +852 3568 9956
+                                                                               Fax: +852 3565 4903
+                                                                               E-mail: karen.hsu@21vianet.com
+
+
+
+
+                           List of ITU Carrier Codes
+            (According to Recommendation ITU-T M.1400 (03/2013))
+                       (Position on 15 September 2014)
+                      (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                       (Amendment No. 71)
+
+ Country or area/ISO code                        Company Code      Contact
+  Company Name/Address                            (carrier code)
+
+
+Germany (Federal Republic of) / DEU      ADD
+
+ EWR Aktiengesellschaft                             EWRAG          Mr Thorsten Volz
+ Lutherring 5                                                      Tel.:    +49 6241 848 328
+ 67547 WORMS                                                       Fax:     +49 6241 848 500
+                                                                   E-mail: volz@ewr.de
+ FairNetz GmbH                                      FNETRT         Mr Erwin Romeser
+ Hauffstrasse 89                                                   Tel.:    +49 7121 5823250
+ 72762 REUTLINGEN                                                  Fax:     +49 7121 5823114
+                                                                   E-mail: erwin.romeser@fairnetzgmbh.de
+ LWLcom GmbH                                       LWLCOM          Mr Simon Frerichs
+ Ladestrasse 35a                                                   Tel.:    +49 421 9888878
+ 28197 BREMEN                                                      Fax:     +49 421 9888899
+                                                                   E-mail : support@lwlcom.com
+ nvb Nordhorner Versorgungsbetriebe GmbH            130010         Mr Frank Beernink
+ Gildkamp 10                                                       Tel.:    +49 5921 301 254
+ 48529 NORDHORN                                                    E-mail : frank.beernink@nvb.de
+
+ Stadtwerke Rostock AG                              SWRAG          Mr Hubert Enders
+ Schmarler Damm 5                                                  Tel.:    +49 381 805 1765
+ 18069 ROSTOCK                                                     Fax:     +49 381 805 2701
+                                                                   E-mail : provider@swrag.de
+
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                 (Position on 1 June 2017)
+
+                                 (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                  (Amendment No. 5)
+
+
+
+ Numerical order        ADD
+               5-214        Ireland
+
+
+
+ Alphabetical order ADD
+               5-214        Ireland
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                    List of International Signalling Point Codes (ISPC)
+                 (According to Recommendation ITU-T Q.708 (03/1999))
+                                (Position on 1 October 2016)
+                             (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                             (Amendment No. 48)
+
+
+Country/              Unique name of the signalling point         Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+
+Azerbaijan LIR
+4-070-0    8752       BAKU_INT_N7                                 Aztelekom LLC
+4-070-1    8753       BAKU_INT_N7_                                Aztelekom LLC
+4-070-2    8754       BAKU_INT_N7_1                               Aztelekom LLC
+4-070-3    8755       Nakhchivan Toll                             Ministry of Communications and New Technologies
+                                                                  of the Nakhchivan Autonomous Republic of
+                                                                  Azerbaijan
+4-070-4    8756       MSOFTX3000_2                                AzerTelecom LLC
+4-070-5    8757       GWMSG-1                                     Azercell Telecom LLC
+4-070-6    8758       GWMSG-2                                     Azercell Telecom LLC
+4-070-7    8759       MSOFTX3000_1                                AzerTelecom LLC
+4-071-0    8760       STP BTC_1E                                  Azerfon LLC
+4-071-1    8761       STPCS3_2E                                   Azerfon LLC
+4-071-2    8762       STP BHQ_1                                   Bakcell LLC
+4-071-3    8763       STP BHQ_2                                   Bakcell LLC
+4-071-4    8764       Class-4 IGW Network                         AzInTelecom MMC
+4-071-5    8765       BAKU_INT_N7_2                               Aztelekom MMC
+4-071-6    8766       STP-1                                       Azercell Telecom LLC
+4-071-7    8767       STP-2                                       Azercell Telecom LLC
+
+Ireland ADD
+5-216-4    11972      TB0M5581                                    Three Ireland (Hutchison) Limited
+5-216-5    11973      TB01M5582                                   Three Ireland (Hutchison) Limited
+5-216-6    11974      TB0MGW01                                    Three Ireland (Hutchison) Limited
+5-216-7    11975      TB0MGW02                                    Three Ireland (Hutchison) Limited
+
+Ireland LIR
+6-225-3    14091      CPWPC01                                     Carphone Warehouse
+6-225-4    14092      CPWPC02                                     Carphone Warehouse
+6-225-5    14093      CPWPC03                                     Carphone Warehouse
+6-246-6    14262      W30                                         Three Ireland (Hutchison) Limited
+
+Panama SUP
+7-029-0    14568      ISC4                                        Cable and Wireless Panama S.A.
+
+Zimbabwe SUP
+6-097-6    13070      Aptics Trading                              Aptics Trading (Pvt) ltd
+
+
+
+
+ Country/                   Unique name of the signalling point   Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Zimbabwe LIR
+ 6-095-1       13049        Econet Pockets Hill STP               Econet
+ 6-095-2       13050        Econet Willowvale STP                 Econet
+ 6-095-3       13051        HRE-ZTE-MSC1-2                        NetOne (Pvt) Ltd
+ 6-096-5       13061        Econet Pockets Hill GMSC              Econet Wireless
+ 6-097-0       13064        Econet Willowvale GMSC                Econet Wireless
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+

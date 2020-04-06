@@ -1,0 +1,1197 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1128             15.VII.2017                 (Information received by 30 June 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ................................................................................................5
+     Egypt (National Telecommunication Regulatory Authority (NTRA), Cairo) ........................................................6
+     Kiribati (Communications Commission of Kiribati (CCK), Betio, Tarawa) ...........................................................6
+     Malta (Malta Communications Authority (MCA), Floriana) ...............................................................................9
+     Swaziland (Swaziland Communications Commission, Mbabane).....................................................................10
+Service Restrictions ........................................................................................................................................     11
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   11
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Coast Stations and Special Service Stations (List IV) ...........................................................................                         12
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .........................................                                         25
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               25
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         26
+List of International Signalling Point Codes (ISPC) .........................................................................................                     27
+National Numbering Plan ...............................................................................................................................           28
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By TSB Circular 31 of 20 June 2017, it was announced that the following ITU-T Recommendations were approved,
+in accordance with the procedures outlined in Resolution 1:
+–     ITU-T K.44 (05/2017): Resistibility tests for telecommunication equipment exposed to overvoltages and
+      overcurrents - Basic Recommendation
+–     ITU-T L.1315 (05/2017): Standardization terms and trends in energy efficiency
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+
+Denmark (country code +45)
+Communication of 30.VI.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+
+•           assignment – M2M-communication services
+
+                Provider                                Numbering series                 Date of assignment
+
+SimService A/S                       37100125ijkl                                            22.VI.2017
+
+
+•           assignment – Mobile communication services
+
+                Provider                                Numbering series                 Date of assignment
+
+Telenor A/S                          344defgh, 4740efgh, 4741efgh, 4742efgh, 4743efgh        1.VII.2017
+                                     and 4744efgh
+
+
+•           assignment – Fixed communication services
+
+                Provider                                Numbering series                 Date of assignment
+
+Telus ApS                            70407fgh, 70507fgh, 70607fgh and 70907fgh               1.VII.2017
+
+
+•           withdrawal – Fixed communication services
+
+                Provider                                Numbering series                 Date of withdrawal
+
+Telus ApS                            57570fgh, 57571fgh, 57572fgh, 57573fgh, 57574fgh,       30.VI.2017
+                                     57576fgh, 72720fgh, 72721fgh, 72722fgh, 72723fgh,
+                                     72724fgh, 72725fgh, 72726fgh, 72728fgh and
+                                     72729fgh
+
+Contact:
+         Danish Energy Agency
+         Amaliegade 44
+         1256 COPENHAGEN K
+         Denmark
+         Tel:    +45 33 92 67 00
+         Fax:    +45 33 11 47 43
+         E-mail: ens@ens.dk
+         URL:    www.ens.dk
+
+
+
+
+   Egypt (country code +20)
+   Communication of 19.VI.2017:
+   The National Telecommunication Regulatory Authority (NTRA), Cairo, announces the following updates to the
+   National Numbering Plan for Egypt:
+   •        assignment of number series:
+
+       NDC (national
+     destination code) N(S)N number length
+     or leading digits of                          Usage of
+                                                                                          Additional information
+      N(S)N (national     Maximum Minimum    ITU-T  E.164 number
+         (significant)     length  length
+           number)
+       1550 XXX XXX          10      10    Non-geographic number -                 4G licence issued to Telecom Egypt
+                                           Mobile telephony service
+       1555 XXX XXX          10      10    Non-geographic number -                 4G licence issued to Telecom Egypt
+                                           Mobile telephony service
+
+
+
+   Contact:
+              Ms Yasmina Alaa
+              Manager, numbering management
+              National Telecommunication Regulatory Authority (NTRA)
+              Smart Village, Building No. 4
+              Alex Desert Road, Kilo 28
+              6th of October Governorate
+              CAIRO
+              Egypt
+              Tel:     +20 2 3534 4239
+              Fax:     +20 2 3534 4155
+              E-mail: yasminaa@tra.gov.eg
+              URL:     www.ntra.gov.eg
+
+   Kiribati (country code +686)
+   Communication of 27.VI.2017:
+   The Communications Commission of Kiribati (CCK), Betio, Tarawa, announces updates to the National Numbering
+   Plan of Kiribati.
+
+                      Table  Description of number change for national ITU-T E.164 numbering plan
+                                               for country code 686: Kiribati
+
+Communicated                  N(S)N                                  Parallel running
+                                             Usage of E.164                                              Proposed wording
+time and date          Old         New                                                       Operator
+                                                number            Begins         Ends                    of announcement
+  of change          number       number
+1 Mar 2014                      30000000-    Overseas                                      Epcatem
+                                30009999     Operator                                      Telecom
+1 Mar 2014                      30010000-    Overseas                                      Phone
+                                30019999     Operator                                      Group
+1 July 2016                     30121100-    Overseas                                      Concerotel
+                                30122099     Operator
+1 July 2016                     72000000-    Post-paid,                                    ATHKL         ATHKL Post-paid,
+                                72001999     IPVPN, MBB                                                  IPVPN & MBB.
+1 July 2016         31XXX-      75300000-    Gilbert Island,    1 July 16    1 July 18     ATHKL         Gilbert Island,
+                    49XXX       75300999     Outer Island Fix                                            Outer Island fix
+1 July 2016         5XXXX                    Fix wireless                                  ATHKL         Invalid number
+
+
+Communicated               N(S)N                                    Parallel running
+                                            Usage of E.164                                           Proposed wording
+time and date       Old           New                                                    Operator
+                                               number            Begins         Ends                 of announcement
+  of change       number         number
+1 July 2016      6XXXX                      GSM 2G                                      ATHKL        Invalid number
+1 July 2016      7XXXXXXX       73000000-   Cellular Mobile    1 July 16    1 July 18   ATHKL        ATHKL Cellular
+                                73059999    Services                                                 Mobile Services.
+1 July 2016      20000-         73100000-   ATHKL office Fix   1 July 16    1 July 18   ATHKL        ATHKL office fix.
+                 20999          73100999
+1 July 2017                     73140000-   ATHKL Staff                                 ATHKL        ATHKL Staff mobile
+                                73140999    mobile
+1 July 2017                     74020000-   ATHKL SIP                                   ATHKL        ATHKL IPVPN
+                                74021999    IPVPN
+1 July 2016      21000-         75021000-   Bairiki zone       1 July 16    1 July 18   ATHKL        ATHKL South
+                 29999          75022999                                                             Tarawa. FIX
+                                75125000-   Betio zone
+                                75126999
+                                75228000-   Bikenibeu zone
+                                75229999
+1 July 2016      80XXX-         75481000-   Line Island Fix    1 July 16    1 July 18   ATHKL        ATHKL
+                 84XXX          75481999                                                             Line Island Fix
+1 July 2016      85XXX          75500000-   Phoenix Island     1 July 16    1 July 18   ATHKL        ATHKL
+                                75500999    Fix                                                      Phoenix Island Fix
+1 July 2016      9XXXX                      GSM 2G                                      ATHKL        Invalid number
+
+
+1 June 2017                     62000000-   Post paid                                   Ocean Link   Ocean Link
+                                62001999    wireless                                                 Post paid services
+1 June 2017                     63000000-   Cellular Mobile                             Ocean Link   Ocean Link
+                                63019999    Services                                                 mobile services
+1 June 2017                     65021000-   Bairiki zone Fix                            Ocean Link   Ocean Link
+                                65022999                                                             South Tarawa Fix
+                                65125000-   Betio zone Fix
+                                65126999
+                                65228000-   Bikenibeu zone
+                                65229999    Fix
+1 June 2017                     65300000-   Outer Island Fix                            Ocean Link   Ocean Link Fix
+                                65300999    (Gilbert)                                                Gilbert Islands
+1 June 2017                     65400000-   Line Islands Fix                            Ocean Link   Ocean Link Fix
+                                65400999                                                             Line Islands
+1 June 2017                     65500000-   Phoenix Islands                             Ocean Link   Ocean Link Fix
+                                65500999    Fix                                                      Phoenix Islands
+
+   Additional information for Gilbert Islands Outer Island fix numbering plan 31XXX – 49XXX these numbers will
+   migrate to 75300000 – 75300999 as in the table above.
+
+                    Island                               PSTN Prefix
+     North Tarawa                                       31XXX-32XXX
+     Abaiang                                               33XXX
+     Marakei                                               34XXX
+     Butaritari                                            35XXX
+     Makin                                                 36XXX
+     Banaba                                                37XXX
+     Maiana                                                38XXX
+     Kuria                                                 39XXX
+
+
+
+                Island                              PSTN Prefix
+ Aranuka                                              40XXX
+ Abemama                                              41XXX
+ Nonouti                                              42XXX
+ Tabiteuea North                                      43XXX
+ Tabiteuea South                                      44XXX
+ Onotoa                                               45XXX
+ Beru                                                 46XXX
+ Nikunau                                              47XXX
+ Tamana                                               48XXX
+ Arorae                                               49XXX
+
+Short Code:
+ International direct dial                                          00
+ Faults and Service Difficulties                                   100
+ Police (Child abuse & domestic against violence)                  188
+ Police                                                            192
+ Fire                                                              193
+ Ambulance Bikenibeu                                               194
+ Ambulance Betio                                                   195
+ Shipping information                                             1050
+ Weather information                                              1055
+ Airport information                                              1059
+ Time announcement (language 1)                                   1051
+ Time announcement (language 2)                                   1052
+
+Contact:
+      Mr Itaaka Tebaka
+      Manager Engineering
+      Communications Commission of Kiribati (CCK)
+      P.O. Box 529
+      BETIO, TARAWA
+      Kiribati
+      Tel: +686 25488; Cell: +686 73004920
+      E-mail: itaaka.tebaka@cck.ki
+      URL: www.cck.ki
+
+
+
+
+Malta (country code +356)
+Communication of 20.VI.2017:
+The Malta Communications Authority (MCA), Floriana, announces an update of the National Numbering Plan
+(NNP) of Malta. The main numbering ranges are:
+
+  Service         Operator              Numbering Ranges
+                                               2100 - 2399 XXXX
+                     GO
+                                               2500 - 2599 XXXX
+                   Melita                      2700 - 2799 XXXX
+                                               2010 - 2019 XXXX
+  Fixed                                              2060 XXXX
+                   Ozone
+                                                     2065 XXXX
+                                                     2069 XXXX
+                   Vanilla                     2031 - 2034 XXXX
+                  Vodafone                     2090 - 2099 XXXX
+                                               7900 - 7999 XXXX
+                 GO Mobile                           9889 XXXX
+                                                     7210 XXXX
+                                               9900 - 9999 XXXX
+                                                     9897 XXXX
+  Mobile          Vodafone
+                                               9210 - 9211 XXXX
+                                                      9231 XXXX
+                Melita Mobile                  7700 - 7799 XXXX
+               Redtouch fone                   9811 - 9813 XXXX
+                    YOM                        9696 - 9697 XXXX
+
+All Administrations and Recognized Operating Agencies (ROAs) are requested to urgently programme their
+switches to enable immediate access to these numbering ranges.
+Furthermore, the National Numbering Plan is updated in real-time and is made available on the MCA website at
+the following link:
+http://www.mca.org.mt/regulatory/numbering/numbering-plans
+
+
+Contact:
+      Deborah Pisani / Claude Azzopardi
+      Malta Communications Authority (MCA)
+      Valletta Waterfront
+      Pinto Wharf
+      Floriana FRN1913
+      Malta
+      Tel:     +356 2133 6840
+      E-mail: numbering@mca.org.mt
+      URL:     www.mca.org.mt
+
+
+
+
+Swaziland (country code +268)
+Communications of 20.VI.2017 and 5.VII.2017:
+The Swaziland Communications Commission, Mbabane, announces the introduction of new numbering
+ressources in the national numbering plan of Swaziland:
+
+   NDC (national
+ destination code) N(S)N number length
+ or leading digits of                                Usage of
+                                                                          Time and date of introduction
+  N(S)N (national     Maximum Minimum          ITU-T E.164 number
+     (significant)     length  length
+       number)
+          79              8       8    Non-geographic number for               2017-05-01-00:00
+                                       GSM network
+                                       Operator: Swazi Mobile
+          26              8       8    Fixed geographic number                 2017-07-21-00:00
+                                       for Hhohho region
+                                       for Fixed network operator Swazi
+                                       Mobile
+          27              8       8    Fixed geographic number                 2017-07-21-00:00
+                                       for Manzini region
+                                       for Fixed network operator Swazi
+                                       Mobile
+          28              8       8    Fixed geographic number                 2017-07-21-00:00
+                                       for Lubombo region
+                                       for Fixed network operator Swazi
+                                       Mobile
+          29              8       8    Fixed geographic number                 2017-07-21-00:00
+                                       for Shiselweni region
+                                       for Fixed network operator Swazi
+                                       Mobile
+
+
+Contact:
+      Thulani Fakudze
+      General Manager Technical Services
+      Swaziland Communications Commission
+      P.O. Box 7811
+      MBABANE, H100
+      Swaziland
+      Tel:     +268 24067000
+      E-mail: thulani.fakudze@sccom.org.sz
+      URL:     www.sccom.org.sz
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                           AMENDMENTS TO SERVICE PUBLICATIONS
+                                                           Abbreviations used
+
+                                        ADD       Insert                           PAR      paragraph
+                                        COL       Column                           REP      replace
+                                        LIR       Read                             SUP      Delete
+                                        P         page(s)
+
+
+
+                           List of Coast Stations and Special Service Stations
+                                                 (List IV)
+
+                                                          Edition of 2015
+
+                                                    (Amendment No. 3)*
+
+BEL          Belgium
+
+Note A          LIR
+A        Accounting authority: Ministère de la Défense, Forces Armées belges, Services Radiomaritimes,
+Graaf Jansdijk 1, 8380 Zeebrugge (Belgium).
+         TF: +32 59 255493
+         FAX: +32 59 255467
+
+                                                     (Amendment No. 4)
+GRC          Greece
+
+Notes        CES-CP         LIR
+CS1      Land earth station (or CES - Coast earth station) operated by the Hellenic Telecommunications
+Organization as part of the Inmarsat Fleet 77/55/33 systems covering the Indian Ocean Region and the Atlantic
+Ocean-East Region.
+CS2      Accounting authority: Satellite and Maritime Telecommunications S.A. (Otesat-Maritel), 8 Aegaleo Str.,
+GR 185-45 Piraeus (Greece).
+CS3      Fleet 77/55/33.
+CS4      Inmarsat-C: Land earth station Burum operated by Inmarsat/Stratos.
+         Accounting Authority: Satellite and Maritime Telecommunications S.A. (Otesat-Maritel), 8 Aegaleo Str.,
+GR 185-45 Piraeus (Greece).
+CS5      Charge band details: Please check latest tariffs and zones, applicable by Hellenic Telecommunications
+Organization and Otesat-Maritel.
+
+Notes   AAIC        LIR
+A       Accounting authority: Hellenic Telecommunications Organization S.A. (OTE), 99, Kifissias avenue,
+GR-151-24 Maroussi Athens (Greece).
+B       Radiotelegrams: Supplemented by communication category G or H below.
+G       Radiotelex calls (minimum 1 min: Coast station and landline charge is applicable).
+H       Radiotelephone calls
+        a) Manual operation (minimum 1 min.: Coast station and landline charge is applicable).
+        b) Automatic operation (minimum 1 min.: Coast station and landline charge is applicable).
+____________
+*     All the notes in List IV are published exclusively in English. Therefore, this amendment is presented only in English.
+
+
+
+                                         (Amendment No. 5)
+
+SNG      Singapore
+
+
+Notes    CES-CP      LIR
+CS1       Coast earth station operated by the Infocomm Media Development Authority of Singapore (IMDA) as
+part of the Inmarsat system covering the Pacific, Atlantic and Indian Ocean Regions.
+CS2      Inmarsat–C/Mini-C
+         Charges applicable in the maritime mobile-satellite service via Burum coast earth station.
+         1. Telex and fax
+            a) Mobile-to-shore
+
+                                                   SDR/256 bits
+                                                            Multiple addresses
+           Text to fax      Telex
+                                              st
+                                             1 address                          2nd address
+                                                                             0.05 except
+              0.17          0.17                   0.17               DNK FIN G ISL NOR S SNG
+
+
+             b) Mobile-to-mobile
+
+                                                                            SDR/256 bits
+                              Services
+                                                                  Text to fax              Telex
+           Inmarsat–C to Inmarsat–C (POR/IOR)                          –                   0.17
+           Inmarsat–C to Inmarsat–C (AORE/AORW)                        –                   0.30
+           Inmarsat–C to Inmarsat–F77                                0.54                    –
+           Inmarsat–C to BGAN and FleetBroadband                     0.57                    –
+
+
+         2. PSDN (mobile-to-shore)
+            a) Singapore: 0.17 SDR/256 bits.
+            b) Other countries: 0.18 SDR/256 bits.
+         3. CPLUS charges
+            a) Shore-to-mobile
+               – Messaging: 0.16 SDR/256 bits.
+               – SafetyNET: 0.09 SDR/256 bits.
+               – FleetNET: 0.42 SDR/256 bits.
+               – Polling with text: 0.42 SDR/256 bits.
+               – Polling without text: 0.21 SDR/poll.
+            b) Mobile-to-shore (charged to mobile)
+               Data reporting: 0.032 SDR/packet (landline charges applicable to automatic delivery).
+
+
+
+
+  CS3      Inmarsat–Fleet F77 (Charging duration is per block of 15 seconds) and Fleet F77 (ISDN) (per 10 seconds)
+           Charges applicable in the maritime mobile-satellite service via Burum and Perth coast earth stations.
+           a) Shore to Mobile
+                                                                                     SDR/min.
+                                Services                                    Voice                  ISDN
+             Inmarsat – Fleet (voice) Global                                3.07
+             Inmarsat – Fleet (ISDN) Global                                                        7.08
+
+
+           b) Mobile-to-shore
+
+                                                          SDR/min.
+                              Voice                                      Fax/Data
+                                                                                                          ISDN
+                Peak hours*        Off-peak hours*            2.4 kbps              9.6 kbps
+                    3.73                   2.71                2.30                   5.35             16.34
+
+           Fleet F77 (MPDS): 7.56 SDR/Mbit. (MPDS service will cease with effect from 31st December 2017)
+
+           c) Mobile-to-mobile
+
+                                                                         SDR/min.
+                                        Voice                                       Fax/Data
+        Services                                                             2.4 kbps
+                                Peak           Off-peak                                                              ISDN
+                               hours*           hours*                                Off-peak        9.6 kbps
+                                                               Peak hours*
+                                                                                       hours*
+Fleet 77 to Inmarsat–F77        8.71              7.54               9.45               8.18           12.16        25.27
+Fleet 77 to F77 (ISDN)          14.34             13.90                       15.56                    18.16        32.32
+Fleet 77 to Iridium                     13.12                                 14.23                    14.53        44.32
+Fleet 77 to BGAN                 6.–              4.83                        4.52                     8.11         21.63
+Fleet 77 to FB                   6.–              4.83                        4.52                     8.11         21.63
+Fleet 77 to BGAN (ISDN)                 13.55                                 12.70                    16.46        33.64
+Fleet 77 to FB (ISDN)                   13.55                                 12.70                    16.46        33.64
+
+     _______________
+     * See note CS14.
+
+
+
+
+  CS4      Inmarsat–Fleet F55 (Charging duration is per block of 15 seconds) and Fleet F55 (ISDN) (per 10 seconds)
+           Charges applicable in the maritime mobile-satellite service via Burum and Perth coast earth stations.
+           a) Shore to Mobile
+                                                                                     SDR/min.
+                                Services                                    Voice                  ISDN
+             Inmarsat – Fleet (voice) Global                                3.07
+             Inmarsat – Fleet (ISDN) Global                                                        7.08
+
+
+
+
+         b) Mobile-to-shore
+
+                                                         SDR/min.
+                                       Voice
+                                                                           Fax/Data            ISDN
+                Peak hours*                    Off-peak hours*
+                     3.73                           2.71                      5.35             16.34
+
+
+         Fleet F55 (MPDS): 7.56 SDR/Mbit (MPDS service will cease with effect from 31st December 2017)
+
+         c) Mobile-to-mobile
+
+                                                                            SDR/min.
+                            Services
+                                                           Voice           Fax/Data           ISDN
+           Fleet 55 to Inmarsat–F77/F55/F33                8.71              12.16            25.27
+           Fleet 55 to Inmarsat F77/55 (ISDN)              14.34             18.16            32.32
+           Fleet 55 to Iridium                             13.12             14.53            44.32
+           Fleet 55 to BGAN                                 6.–               8.11            21.63
+           Fleet 55 to FB                                   6.–               8.11            21.63
+           Fleet 55 to BGAN (ISDN)                         13.55             16.46            33.64
+           Fleet 55 to FB (ISDN)                           13.55             16.46            33.64
+
+  _______________
+  * See note CS14.
+
+
+
+
+CS5      Inmarsat–Fleet F33 (Charging duration is per block of 15 seconds)
+         Charges applicable in the maritime mobile-satellite service via Burum and Perth coast earth stations.
+         a) Shore to Mobile
+                                                                                  SDR/min.
+                                 Services                                 Voice              ISDN
+           Inmarsat – Fleet (voice) Global                                3.07
+           Inmarsat – Fleet (ISDN) Global                                                    7.08
+
+
+
+         b) Mobile-to-shore
+
+                                                         SDR/min.
+                                                 Voice
+                                                                                             Fax/Data
+                  Peak hours*                              Off-peak hours*
+                       3.73                                        2.71                        5.35
+
+         Fleet F33 (MPDS): 7.56 SDR/Mbit (MPDS service will cease with effect from 31st December 2017)
+
+
+
+
+        c) Mobile-to-mobile
+
+                                                                        SDR/min.
+                             Services
+                                                                Voice               Fax/Data
+          Fleet 33 to Inmarsat–F77/F55/F33                      8.71                  12.16
+          Fleet 33 to Inmarsat F77/F55 (ISDN)                   14.34                 18.16
+          Fleet 33 to Iridium                                   13.12                 14.53
+          Fleet 33 to BGAN                                       6.–                  8.11
+          Fleet 33 to FB                                         6.–                  8.11
+          Fleet 33 to BGAN (ISDN)                               13.55                 16.46
+          Fleet 33 to FB (ISDN)                                 13.55                 16.46
+  _______________
+  * See note CS14.
+
+
+CS6     Inmarsat–BGAN (Charging duration is per block of 15 seconds)
+        Charges applicable in the maritime mobile-satellite service via INMARSAT.
+        a) Shore-to-mobile
+
+                                                                        SDR/min.
+                             Services                           Voice                 ISDN
+         BGAN Voice                                              3.07
+         BGAN ISDN                                                                    7.08
+
+
+        b) Mobile-to-shore
+
+                                        Services                           SDR
+                     Monthly Subscription fee                              66.–
+                     Monthly Inbundle Dollar Allowance                     29.–
+
+
+                             Services                        Charge Unit              SDR
+          Voice (Mobile to Fixed)                                min.                 0.73
+          Voice (Mobile to Cellular)                             min.                 0.95
+          Voicemail                                              min.                 0.58
+          BGAN Voice                                             min.                 0.55
+          FleetBroadband Voice                                   min.                 0.55
+          SwiftBroadband Voice                                   min.                 0.55
+          Inmarsat Fleet/Swift Voice                             min.                 1.82
+          Aero Voice                                             min.                 3.57
+          Satellite Phone Service (SPS) Voice                    min.                 1.46
+          IsatPhone Pro (GSPS) Voice                             min.                 0.55
+          Iridium Voice                                          min.                 8.02
+          Globalstar Voice                                       min.                 5.83
+          Thuraya Voice                                          min.                 3.64
+          Other MSS Carriers                                     min.                 5.03
+          SMS (per SMS)                                         MSG                   0.36
+          Standard IP (per MB)                                  Mbyte                 5.83
+                                                                                             ...(Cont.)
+
+
+
+
+                               Services                       Charge Unit            SDR
+           ...(Cont.)
+           32kbps Streaming IP                                    min.               2.62
+           64kbps Streaming IP                                    min.               5.03
+           128kbps Streaming IP                                   min.               8.75
+           176kbps Streaming IP                                   min.               12.39
+           256kbps Streaming IP                                   min.               15.09
+           X-Stream Streaming IP                                  min.               21.14
+           BGAN HRD Half Channel/64K                              min.               15.09
+           BGAN HRD Half Channel Symmetric                        min.               20.41
+           BGAN HRD Full Channel/64K                              min.               23.33
+           BGAN HRD Full Channel Symmetric                        min.               27.70
+           ISDN / 3.5 kHz Audio                                   min.               5.10
+           FleetBroadband ISDN                                    min.               5.10
+           BGAN ISDN                                              min.               5.10
+           Inmarsat Fleet/Swift HSD                               min.               11.66
+           Satellite Phone Service (SPS) ISDN                     min.               5.10
+           IsatPhone Pro (GSPS) ISDN                              min.               5.10
+           Iridium ISDN                                           min.               11.66
+           Globalstar ISDN                                        min.               11.66
+           Thuraya ISDN                                           min.               11.66
+           Other MSS Carriers ISDN                                min.               11.66
+           Inmarsat Fleet Voice ISDN                              min.               11.66
+           Aero Voice ISDN                                        min.               11.66
+           SwiftBroadband ISDN                                    min.               5.10
+
+
+CS7      Inmarsat–FleetBroadband (Charging duration is per block of 15 seconds)
+         Charges applicable in the maritime mobile-satellite service via INMARSAT.
+         a) Shore-to-mobile
+                                                                         SDR/min.
+                               Services                          Voice               ISDN
+           FleetBroadband Voice                                   3.07
+           FleetBroadband ISDN                                                       7.08
+
+
+
+         b) Mobile-to-shore
+
+                                          Services                          SDR/MB
+                        Monthly Subscription fee (SDR)                       306.–
+                        Monthly Inbundle MB Allowance                         25.–
+
+
+
+
+                            Services                         Charge Unit              SDR
+         Voice (Mobile to Fixed)                                 min.                 0.71
+         Voice (Mobile to Cellular)                              min.                 0.71
+         FB Voice                                                min.                 0.79
+         BGAN Voice                                              min.                 0.64
+         SwiftBroadband Voice                                    min.                 0.64
+         Aero Voice                                              min.                 3.28
+         Inmarsat Fleet                                          min.                 1.68
+         Globalstar Voice                                        min.                 5.22
+         Iridium Voice                                           min.                 7.17
+         Thuraya Voice                                           min.                 3.28
+         Inmarsat Satellite Phone Voice (SPS)                    min.                 1.31
+         Inmarsat IsatPhone Pro (GSPS)                           min.                 0.51
+         Other MSS Carriers Voice                                min.                 4.52
+         Voicemail                                               min.                 0.57
+         SMS (per SMS)                                           SMS                  0.36
+         Standard IP (per MB)                                    MB                   17.74
+         ISDN (Mobile to Fixed)                                  min.                 4.59
+         Inmarsat Fleet HSD (ISDN)                               min.                 10.28
+         FB ISDN                                                 min.                 4.59
+         BGAN ISDN                                               min.                 4.59
+         Iridium ISDN                                            min.                 10.28
+         Globalstar ISDN                                         min.                 10.28
+         Thuraya ISDN                                            min.                 10.28
+         Satellite Phone Voice (SPS)                             min.                 4.59
+         IsatPhone Pro (GSPS)                                    min.                 4.59
+         Other MSS Carriers ISDN                                 min.                 10.28
+         Fleet ISDN                                              min.                 10.28
+         Aero Voice ISDN                                         min.                 10.28
+         SwiftBroadband Voice ISDN                               min.                 4.59
+         IP Streaming 8                                          min.                 0.51
+         IP Streaming 16                                         min.                 1.02
+         IP Streaming 24                                         min.                 1.68
+         IP Streaming 32                                         min.                 3.28
+         IP Streaming 64                                         min.                 4.59
+         IP Streaming 128                                        min.                 13.12
+         IP Streaming 256                                        min.                 26.24
+
+
+CS8     Inmarsat–Fleet One (Charging duration is per block of 15 seconds)
+        Charges applicable in the maritime mobile-satellite service via INMARSAT.
+        a) Shore-to-mobile
+
+                                       Services                         SDR/min.
+                    Fleet One Voice                                         3.07
+
+
+
+
+         b) Mobile-to-shore
+
+                                         Services                           SDR/MB
+                     Monthly Subscription fee (SDR)                         116.64
+                     Monthly MB Allowance                                    10.–
+
+
+
+                              Services                        Charge Unit            SDR
+           Voice (Mobile to Fixed)                                min.               0.55
+           Voice (Mobile to Cellular)                             min.               0.55
+           FB Voice                                               min.               0.55
+           BGAN Voice                                             min.               0.55
+           SwiftBroadband Voice                                   min.               0.55
+           Aero Voice                                             min.               3.57
+           Inmarsat Fleet                                         min.               1.82
+           Globalstar Voice                                       min.               5.83
+           Iridium Voice                                          min.               8.02
+           Thuraya Voice                                          min.               3.64
+           Satellite Phone Voice (SPS)                            min.               1.46
+           IsatPhone Pro (GSPS)                                   min.               0.55
+           Other MSS Carriers Voice                               min.               5.03
+           Voicemail                                              min.               0.55
+           SMS (per SMS)                                          SMS                0.36
+           Standard IP (per MB)                                   MB                 11.66
+
+         Fleet One Notes:
+         1. Services not supported on Fleet One:
+             – Streaming IP
+             – Multi Voice
+             – ISDN
+         2. Fleet One Global SIMs cannot be mixed with Fleet One Coastal SIMs.
+         3. Vessels provisioned on Fleet One SIMs:
+             – must have a Maritime Mobile Security Identity (MMSI) (provided upon provisioning),
+             – must receive the service using an Inmarsat type approved Fleet One Satellite Terminal, and
+             – must not be Floating, Fixed Platform or Rig.
+         4. Fleet One Global is a single SIM plan, available for all vessels operating globally.
+
+
+CS9      Inmarsat–Isatphone Pro (Charging duration is per block of 15 seconds)
+         Charges applicable in the maritime mobile-satellite service via INMARSAT.
+         a) Shore-to-mobile
+
+
+                                         Services                        SDR/min.
+                     ISATphone Voice                                         3.07
+
+
+
+
+        b) Mobile-to-shore
+
+
+                                        Services                           SDR/min.
+                    Monthly Subscription fee (SDR)                            28.46
+                    Monthly Allowance (min.)                                   10.–
+
+
+
+                             Services                          Charge Unit              SDR
+          Fixed v/f/d                                              min.                 0.66
+          Cellular v/f/d                                           min.                 0.79
+          Voicemail                                                min.                 0.66
+          SMS (per SMS)                                            SMS                  0.33
+          BGAN Voice                                               min.                 0.73
+          FleetBroadband Voice                                     min.                 0.73
+          SwiftBroadband Voice                                     min.                 0.73
+          GSPS or SPS Voice                                        min.                 0.82
+          Fleet/Swift Voice                                        min.                 1.82
+          Aero Voice                                               min.                 3.57
+          Iridium Voice                                            min.                 8.02
+          Globalstar Voice                                         min.                 5.83
+          Thuraya Voice                                            min.                 3.64
+          Other MSS Carriers                                       min.                 5.03
+
+
+CS10    Iridium Plan (Charging duration is per block of 20 seconds)
+        Charges applicable in the maritime mobile-satellite service via Iridium.
+        a) Shore-to-mobile
+
+                                        Services                           SDR/min.
+                    Iridium - Voice                                           3.07
+                    Iridium 2 Stage Dialing Data                              1.45
+                    Iridium 2 Stage Dialing Voice                             1.45
+
+
+
+        b) Mobile-to-shore
+
+                                        Services                             SDR/MB
+                    Monthly Subscription fee (SDR)                            34.99
+                    Monthly MB Allowance                                       NA
+
+
+
+
+                              Services                          Charge Unit            SDR
+           Iridium - PSTN Data                                      min.               1.06
+           Iridium - PSTN Voice                                     min.               1.06
+           Iridium - PSTN (direct Internet)                         min.               1.06
+           Iridium - Iridium Data                                   min.               1.06
+           Iridium - Iridium Voice                                  min.               0.69
+           Iridium - SMS (per SMS)                                  SMS                0.36
+           Iridium - Personal Mailbox Access                        min.               0.60
+           Iridium - Other Satellite Data                           min.               9.55
+           Iridium - Other Satellite Voice                          min.               9.55
+
+
+CS11     Iridium Open Port (Charging duration is per block of 20 seconds)
+         Charges applicable in the maritime mobile-satellite service via Iridium.
+         a) Shore-to-mobile
+
+                                            Services                        SDR/min
+                     Shore to Iridium Voice (+1 Number to Iridium)            0.84
+                     Shore to Iridium Voice (Two-Stage to Iridium)            0.84
+                     Iridium to Other Satellite Voice                         8.53
+
+
+         b) Mobile-to-shore
+
+                              Services                                      SDR/kbps
+           Data Rate (kbps)                                     32.–          64.–       128.–
+           Monthly Data Subscription fee (SDR)                  40.–          40.–       40.–
+           Data Run-On Charges (SDR)                            10.93         11.55      12.15
+
+
+                              Services                                      SDR/kbps
+           Voice (Iridium to Fixed)                                 min.               0.84
+           Voice (Iridium to Iridium)                               min.               0.58
+           Voice Mail (Iridium to Voicemail)                        min.               0.58
+
+
+CS12     Global Express (Charging duration is per block of 15 seconds)
+         Charges applicable in the maritime mobile-satellite service via IOR SAS – Fucino, Italy and Nemea,
+         Greece; AOR SAS – Winnipeg, Canada, Lino Lakes, Minnesota, USA;
+         POR SAS – Warkworth and Auckand, New Zealand
+         a) Shore-to-mobile
+
+                                            Services                        SDR/min
+                     Shore to GX/FX Voice                                     0.13
+
+
+
+
+            b) Mobile-to-shore
+
+
+                   Services                        Destinations                           SDR/min.
+                                    Zone 1                                                  0.33
+                                    Zone 2                                                  0.73
+                                    Zone 3                                                  1.46
+GX Voice to International Numbers
+                                    Zone 4                                                  2.37
+                                    Zone 5                                                  5.83
+                                    Zone 6                                                  12.76
+                                    FX/GX Voice                                             0.36
+                                    FB Voice                                                0.55
+                                    BGAN Voice                                              0.55
+                                    Inmarsat IsatPhone Pro (GSPS)                           0.55
+                                    SwiftBroadband Voice                                    0.55
+                                    Aero Voice                                              3.57
+GX Voice to Other Satellites
+                                    Fleet Voice                                             1.82
+                                    Swift 64 Voice                                          1.82
+                                    Other MSS Carriers Voice                                5.03
+                                    Globalstar Voice                                        5.83
+                                    Iridium Voice                                           8.02
+                                    Thuraya Voice                                           3.64
+                                    Voice (Mobile to Fixed)                                 0.31
+                                    Voice (Mobile to Cellular)                              0.42
+                                    Inmarsat FB Voice                                       0.55
+                                    BGAN Voice                                              0.55
+                                    FleetOne Voice                                          0.55
+                                    SwiftBroadband Voice                                    0.55
+                                    Aero Voice                                              3.57
+FB Voice (from GX ship)             Inmarsat Fleet                                          1.82
+                                    Globalstar Voice                                        5.83
+                                    Iridium Voice                                           8.02
+                                    Thuraya Voice                                           3.64
+                                    Inmarsat IsatPhone Pro (GSPS)                           0.55
+                                    Other MSS Carriers Voice                                5.03
+                                    Voicemail                                               0.31
+                                    Swift 64 Voice                                          1.82
+                                    International Networks-Fixed (88239)                    0.09
+Additional Call Service             International Networks-Fixed (883120)                   0.12
+                                    Un-Fixed (888)                                          0.16
+
+
+
+
+CS13     Composition of destination zones
+         Voice for GX/FX
+
+
+
+
+CS14     Peak and off peak hours
+         Inmarsat–Fleet (voice only)
+
+
+                Ocean Region                Peak hours (UTC)         Off-peak hours (UTC)
+                     POR                      0301 – 1859                 1900 – 0300
+                     IOR                      0301 – 1859                 1900 – 0300
+                    AORE                      0601 – 2159                 2200 – 0600
+                    AORW                      0701 – 2259                 2300 – 0700
+
+
+CS15     Inmarsat-C/Fleet77/Fleet33/FleetBroadband/Fleet One/Isatphone Pro/Iridium Legacy/Iridium Open
+Port.
+
+
+
+
+                                               (Amendment No. 6)
+
+  VTN         Viet Nam
+
+  Note        CS1     LIR
+
+
+  CS1         Charges applicable in the maritime mobile-satellite service via HAIPHONG coast earth station.
+              Access code Inmarsat–C: 330.
+
+
+                                                                              Destination
+                         Service
+                                                   Fixed station          Inmarsat–B/Mini-M             Inmarsat–C
+               Telex*, facsimile*, data         0.117 SDR/256 bits         0.288 SDR/256 bits         117 SDR/256 bits
+Inmarsat–C
+               * Additional                     0.073 SDR/256 bits                  –                           –
+
+                                                                                   Destination
+                              Service
+                                                                   Viet Nam                       Other countries
+              Email, messaging to MES, mailbox                0.117 SDR/256 bits                       Global
+              SMS from MES                                    0.117 SDR/256 bits                 0.2875 SDR/256 bits
+              SMS to MES                                      0.117 SDR/256 bits                       Global
+  Cplus
+              PDN to mobile phone                              0.117 SDR/PDN                      0.0750 SDR/PDN
+              PDN to MES                                       0.117 SDR/PDN                             –
+              Email: SAC 67 and SMS: SAC 68
+
+
+  Notes       AAIC     LIR
+  A        Accounting authority: Viet Nam Maritime Communication and Electronics Company of Socialist
+  Republic of Viet Nam (Viet Nam).
+  H           Radiotelephone calls (minimum 1 min.)
+              a) Foreign ship to all destinations: 1.38 SDR/min.
+              b) Vietnamese ship to:
+
+                                          Destination zones              SDR/min.
+                                   Same province                           0.063
+                                   Other provinces                         0.092
+                                   Mobile network                          0.095
+                                   Other countries                         0.222
+
+              Method of charging: 2 min. + 1, the fraction with less than 1 min., the last min., is rounded up to 1 min.
+  L           Value-added services:
+              1. Radio message: 0.047 SDR/letter, increment per 7 letters + 1.
+              2. Inmarsat–C message:
+                  a) fixed device to mobile unit: 0.207 SDR/block (= 256 bits), increment per 7 blocks + 1;
+                  b) mobile unit to fixed device: 1.113 SDR/message.
+              3. Weather forecast on request: 0.636 SDR/forecast.
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2017
+
+                                             Section VI
+REP
+
+      DZ14        ALGERIE TELECOM SATELLITE, Cyber Parc Sidi Abdallah,
+                  Immeuble Multilocataire, Rahmania, Zeralda, Alger, Algérie.
+                  Tel.: +213 (0) 23 202 155, Tlx: +213 (0) 23 202 229, E-Mail: inmarsat@ats.dz,
+                  Contact Person: Mr Benabdelouahad Mohamed Anouar, Président Directeur Général.
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with ITU-T Recommendation E.118 (05/2006))
+                           (Position on 15 November 2015)
+                       (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                        (Amendment No. 24)
+
+United States ADD
+   Country/      Company Name/Address        Issuer     Contact                                Effective
+ geographical                              Identifier                                           date of
+      area                                  Number                                              usage
+ United States   Qualcomm                  89 1 047     Mr Alfredo Ruvalcaba                  23.VI.2017
+                 5775 Morehouse Drive                   5775 Morehouse Drive
+                 SAN DIEGO, CA 92121                    SAN DIEGO, CA 92121
+                                                        Tel:    +1 858 651 1598
+                                                        E-mail: jruvalca@qti.qualcomm.com
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                    for public networks and subscriptions
+            (According to Recommendation ITU-T E.212 (09/2016))
+                       (Position on 1st November 2016)
+                              (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                              (Amendment No. 16)
+
+Country/Geographical area              MCC+MNC *         Operator/Network
+Chile ADD
+                                           730 20        Inversiones Santa Fe Limitada
+Singapore ADD
+                                           525 09        Liberty Wireless Pte Ltd
+                                           525 10        TPG Telecom Pte Ltd
+Swaziland ADD
+                                           653 02        Swazi Mobile Limited
+Sweden ADD
+                                           240 07        Tele2 Sverige AB
+Sweden LIR
+                                           240 01        Telia Sverige AB
+                                           240 02        Hi3G Access AB
+                                           240 20        Wireless Maingate Messaging Services AB
+____________
+*   MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+    MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 17)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point        Name of the signalling point operator
+
+
+ Spain SUP
+ 2-028-6       4326                                                    Orbitel Comunicaciones Latinoamericanas, S.A.
+
+ Swaziland ADD
+ 6-106-3       13139        SZM MBA                                    Swazi Mobile Limited
+ 6-106-5       13141        EZ MSC                                     Swazi MTN Limited
+ 6-106-6       13142        MA MSC                                     Swazi MTN Limited
+
+ United States ADD
+ 3-022-3       6323         Chicago, IL                                Syniverse Technologies
+ 3-022-4       6324         Dallas, TX                                 Syniverse Technologies
+ 3-022-5       6325         Dallas (1), TX                             Syniverse Technologies
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                 National Numbering Plan
+                  (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.VI.2017, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                       Country/ Geographical area                    Country Code (CC)
+                 Armenia                                                    +374
+                 Burkina Faso                                               +226
+
+
+
+

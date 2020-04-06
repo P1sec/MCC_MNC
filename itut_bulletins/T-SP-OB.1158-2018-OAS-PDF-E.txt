@@ -1,0 +1,573 @@
+                       ITU Operational Bulletin
+                                                         www.itu.int/itu-t/bulletin
+
+       No. 1158              15.X.2018                   (Information received by 28 September 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                Standardization Bureau (TSB)                                           Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                               Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                               Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                              E-mail: brmail@itu.int
+
+
+
+
+                                                                 Table of Contents
+                                                                                                                                                                     Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                     3
+Approval of ITU-T Recommendations ............................................................................................................                          4
+Telephone Service:
+     Botswana (Botswana Communications Regulatory Authority (BOCRA), Gaborone) ................................                                                         4
+Other communications:
+     Ukraine .....................................................................................................................................................      8
+     Secretary-General of ITU ..........................................................................................................................                9
+Service Restrictions ........................................................................................................................................          10
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                        10
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .........................................                                              11
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                    11
+List of International Signalling Point Codes (ISPC) .........................................................................................                          13
+National Numbering Plan ...............................................................................................................................                13
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+               1163              1.I.2019             12.XII.2018
+               1164              15.I.2019            31.XII.2018
+               1165              1.II.2019             15.I.2019
+               1166             15.II.2019              1.II.2019
+               1167              1.III.2019            15.II.2019
+               1168             15.III.2019            1.III.2019
+               1169              1.IV.2019             15.III.2019
+               1170             15.IV.2019             1.IV.2019
+               1171              1.V.2019              12.IV.2019
+               1172             15.V.2019              26.IV.2019
+               1173              1.VI.2019             15.V.2019
+               1174             15.VI.2019             31.V.2019
+               1175             1.VII.2019             14.VI.2019
+               1176             15.VII.2019            28.VI.2019
+               1177             1.VIII.2019           15.VII.2019
+               1178            15.VIII.2019           31.VII.2019
+               1179              1.IX.2019            16.VIII.2019
+               1180             15.IX.2019            30.VIII.2019
+               1181              1.X.2019              16.IX.2019
+               1182             15.X.2019               1.X.2019
+               1183              1.XI.2019             15.X.2019
+               1184             15.XI.2019             1.XI.2019
+               1185             1.XII.2019             15.XI.2019
+               1186             15.XII.2019            2.XII.2019
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                        Approval of ITU-T Recommendations
+A.     By AAP-44, it was announced that the following ITU-T Recommendations were approved, in accordance
+with the procedures outlined in Recommendation ITU-T A.8:
+–            ITU-T L.1450 (09/2018): Methodologies for the assessment of the environmental impact of the ICT
+             sector
+B.    By TSB Circular 114 of 18 September 2018, it was announced that the following ITU-T Recommendations
+were approved, in accordance with the procedures outlined in Resolution 1:
+–            Recommendation ITU-T X.1361 (09/2018): Security framework for Internet of Things based on the
+             gateway model
+
+
+
+
+                                                  Telephone Service
+                                             (Recommendation ITU-T E.164)
+                                                  url: www.itu.int/itu-t/inr/nnp
+
+Botswana (country code +267)
+Communication of 27.IX.2018:
+The Botswana Communications Regulatory Authority (BOCRA), Gaborone, announces the updated national
+numbering pan of Botswana.
+                                                   National Numbering Plan (NNP)
+
+    First digit                                                    Second digit
+                      0             1         2          3         4        5      6     7         8           9
+                            (a)
+         0          Int’l         Short international dialling in region
+         1         Short codes
+         2          NG(b)         Geographic numbering (Francistown region)
+         3           NG           Geographic numbering (Gaborone)
+         4           NG           Geographic numbering (Palapye region)
+         5           NG           Geographic numbering (south-east region)
+         6           NG           Geographic numbering (north and west regions)
+         7         Personal and mobile numbering
+         8         Non-geographic numbering (freephone, etc.)
+         9          PRS(c)        Reserved                                                                 Em(d)
+(a)     Int’l: international access code
+(b)     NG: non-geographic numbering
+(c)     PRS: premium rate services (non-geographic)
+(d)     Em: emergency code(s) (999, 998, 997)
+
+
+
+
+                             Geographic number ranges
+
+           Area            Number range           Test number   Number length
+Ramotswa Area                538 XXXX              539 0100        Seven
+                             539 XXXX                              Seven
+Mahalapye Area               471 XXXX              471 0100        Seven
+                             472 XXXX                              Seven
+                             476 XXXX                              Seven
+                             477 XXXX                              Seven
+Gantsi Area                  659 XXXX              659 6100        Seven
+Palapye Area                 490 XXXX              492 0100        Seven
+                             491 XXXX                              Seven
+                             492 XXXX                              Seven
+                             493 XXXX                              Seven
+                             494 XXXX                              Seven
+                             495 XXXX                              Seven
+Selebi-Phikwe Area           260 XXXX              261 0100        Seven
+                             261 XXXX                              Seven
+                             262 XXXX                              Seven
+                             264 XXXX                              Seven
+Francistown Area             240 XXXX              241 0100        Seven
+                             241 XXXX                              Seven
+                             242 XXXX                              Seven
+                             243 XXXX                              Seven
+                             244 XXXX                              Seven
+                             248 XXXX                              Seven
+Letlhakane/Orapa Area        290 XXXX              297 0100        Seven
+                             295 XXXX                              Seven
+                             297 XXXX                              Seven
+                             298 XXXX                              Seven
+Kgalagadi Area               651 XXXX              654 0100        Seven
+                             654 XXXX                              Seven
+Serowe Area                  460 XXXX              463 0100        Seven
+                             463 XXXX                              Seven
+Molepolole Area              590 XXXX              592 0100        Seven
+                             591 XXXX                              Seven
+                             592 XXXX                              Seven
+                             593 XXXX                              Seven
+                             594 XXXX                              Seven
+                             599 XXXX                              Seven
+Maun Area                    680 XXXX              686 0100        Seven
+                             686 XXXX                              Seven
+                             687 XXXX                              Seven
+Outer Gaborone Area          310 XXXX              310 2771        Seven
+Barolong/Ngwaketse Area      540 XXXX              544 0100        Seven
+                             544 XXXX                              Seven
+                             548 XXXX                              Seven
+                             549 XXXX                              Seven
+Mochudi Area                 571 XXXX              577 7100        Seven
+                             572 XXXX                              Seven
+                             573 XXXX                              Seven
+                             574 XXXX                              Seven
+                             577 XXXX                              Seven
+
+
+             Area                        Number range            Test number             Number length
+ Gaborone Area                             392 XXXX               395 8100                  Seven
+                                           394 XXXX                                         Seven
+                                           395 XXXX                                         Seven
+ Gaborone Area                             390 XXXX               355 1100                  Seven
+                                           391 XXXX                                         Seven
+                                           397 XXXX                                         Seven
+                                           355 XXXX                                         Seven
+ Gaborone Area                             312 XXXX               315 9095                  Seven
+                                           313 XXXX                                         Seven
+                                           315 XXXX                                         Seven
+                                           316 XXXX                                         Seven
+                                           317 XXXX                                         Seven
+                                           318 XXXX                                         Seven
+                                           319 XXXX                                         Seven
+ Lobatse Area                              530 XXXX               533 0100                  Seven
+                                           533 XXXX                                         Seven
+ Jwaneng Area                              588 XXXX               588 0100                  Seven
+ Gaborone Area                             36X XXXX               363 6400                  Seven
+                                           370 XXXX                                         Seven
+                                           371 XXXX                                         Seven
+                                           393 XXXX                                         Seven
+ Kasane Area                               621 XXXX               625 0250                  Seven
+                                           622 XXXX                                         Seven
+                                           623 XXXX                                         Seven
+                                           625 XXXX                                         Seven
+All fixed lines in Botswana are seven (7) digits long.
+
+                                     Mobile and VoIP number ranges assigned
+                            Operator                                      Mobile Number Range
+ Mascom Wireless                                                         71 000 000 – 71 999 999
+                                                                         74 000 000 – 74 299 999
+                                                                         74 500 000 – 74 799 999
+                                                                         75 400 000 – 75 699 999
+                                                                         75 900 000 – 75 999 999
+                                                                         76 000 000 – 76 299 999
+                                                                         76 600 000 – 76 799 999
+                                                                         77 000 000 – 77 199 999
+                                                                         77 600 000 – 77 799 999
+                                                                         77 800 000 – 77 899 999
+ Orange Botswana                                                         72 000 000 – 72 999 999
+                                                                         74 300 000 – 74 499 999
+                                                                         74 800 000 – 74 899 999
+                                                                         75 000 000 – 75 399 999
+                                                                         75 700 000 – 75 799 999
+                                                                         76 300 000 – 76 599 999
+                                                                         76 900 000 – 76 999 999
+                                                                         77 400 000 – 77 599 999
+ Botswana Telecommunications Corporation Limited (BTCL)                  73 000 000 – 73 999 999
+                                                                         74 900 000 – 74 999 999
+                                                                         75 800 000 – 75 899 999
+                                                                         76 800 000 – 76 899 999
+                                                                         77 200 000 – 77 200 999
+
+
+                          Operator                                         VoIP Number range
+ Virtual Business Network Services                                       79 100 000 – 79 100 999
+ AfriTel                                                                 79 101 000 – 79 101 999
+ Global Broadband Solutions                                              79 102 000 – 79 102 999
+ Business Solutions Consultants                                          79 103 000 – 79 103 999
+ Fourth Dimension                                                        79 104 000 – 79 104 999
+ OPQ Net                                                                 79 105 000 – 79 105 999
+ Mega Internet                                                           79 106 000 – 79 106 999
+ Stature (OpenVoice)                                                     79 107 000 – 79 107 999
+                                                                         79 113 000 – 79 113 999
+ Tsagae Communications                                                   79 108 000 – 79 108 999
+ MicroTeck Enterprises                                                   79 109 000 – 79 109 999
+ Microla Botswana                                                        79 110 000 – 79 110 999
+ Internet Options Botswana                                               79 111 000 – 79 111 999
+ FDI Foneworx                                                            79 112 000 – 79 112 999
+ MTN Business Solutions                                                  79 114 000 - 79 114 999
+ Abari Communications                                                    79 115 000 – 79 115 999
+ Mission Communications                                                  79 116 000 – 79 116 999
+ ConceroTel                                                              79 117 000 – 79 117 999
+ Paratus Africa                                                          79 118 000 – 79 118 999
+ Blue Pearl Communications T/A ROI                                       79 119 000 – 79 119 999
+ Dapit Ventures T/A GCSat Botswana                                       79 120 000 – 79 120 999
+ Orange Botswana                                                         79 200 000 – 79 209 999
+                                                                         79 220 000 – 79 229 999
+ Botswana Telecommunications Corporation Limited (BTCL)                  79 210 000 – 79 219 999
+
+All mobile and VoIP lines in Botswana are eight (8) digits long.
+
+
+                                                  National codes
+
+ Mobile Country Code (E.212 MCC)                                                                 652
+ Mascom Wireless (MNC – mobile network code)                                                       01
+ Orange Botswana (MNC – mobile network code)                                                       02
+ Botswana Telecommunications Corporation (BTCL) (MNC – mobile network code)                        04
+
+
+Administrations and Recognized Operating Agencies (ROAs) are requested to ensure the timely activation of the
+above number ranges.
+Contact:
+      Botswana Communications Regulatory Authority (BOCRA)
+      Plot 50671, Independence Avenue
+      Private Bag 00495
+      GABORONE
+      Botswana
+      Tel:     +267 395 7755
+      Fax:     +267 395 7976
+      E-mail: technical@bocra.org.bw
+      URL:     www.bocra.org.bw
+
+
+
+                                        Other communications
+Ukraine
+Communication of 21.IX.2018:
+Ukraine expresses its strong disagreement about inclusion, upon request of the Russian Federation, in the ITU
+Operational Bulletin No. 1127 dated 1 July 2017 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-OB.1127-
+2017-OAS-PDF-E.pdf) of illegal National Destination Codes “365” and “869” allocated by the Russian Federation
+under the Country Code “+7”, which is not Ukraine`s Country Code, for public telecommunication in the
+temporarily occupied part of the territory of Ukraine – the Autonomous Republic of Crimea and the city of
+Sevastopol (hereinafter “Crimea”).
+In this regard, it is necessary to recall that the UN General Assembly in its resolutions 68/262 of 27 March 2014,
+71/205 of 19 December 2016 and 72/190 of 19 December 2017 confirmed the sovereignty, political
+independence, unity and territorial integrity of Ukraine within its internationally recognized borders. By these
+resolutions, the UN General Assembly also condemned the ongoing temporary occupation of Crimea by the
+Russian Federation and reaffirmed the non-recognition of its annexation.
+It is also essential to recall the Agreed statement by the ITU Secretary-General at the 2014 Plenipotentiary
+Conference (Busan, 2014), published in Document PP-14/174, Annex B (https://www.itu.int/md/S14-PP-C-
+0174/en), through which the Union expressed its serious concerns about situation in Crimea and reaffirmed,
+inter alia, that the ITU should take into account the relevant provisions of the United Nations General Assembly
+resolution 68/262 of 27 March 2014 “Territorial integrity of Ukraine” calling upon all specialized agencies of the
+United Nations “not to recognize any alteration of the status of the Autonomous Republic of Crimea and the city
+of Sevastopol and to refrain from any action or dealing that might be interpreted as recognizing any such altered
+status”.
+In the above mentioned Agreed statement the ITU Secretary-General further confirmed that the same principles
+should also apply in respect of any actions that might be required of the General Secretariat and the three
+Bureaux in order to assist its Member States and, in particular, Ukraine to ensure the use of all its international
+telecommunication services and resources as well as of any actions that might be taken by future ITU conferences
+and assemblies pertaining to Ukraine`s requirements in regard to use of the frequency spectrum and numbering
+codes on its territory.
+Such unilateral actions by the Russian Federation aimed at changing the National Numbering Plan of Ukraine in
+the temporarily occupied part of the territory of Ukraine gravely violate international telecommunications law
+and create significant obstacles to the exercising by Ukraine of its sovereign right to regulate its
+telecommunication and to use its numbering resource within internationally recognized borders of Ukraine,
+including Crimea. They have also compromised the integrity of international public telecommunication
+numbering plan as defined by the ITU-T Recommendations E.164 (11/2010), E.212 (05/2008) and proper traffic
+routing by public telecommunication networks.
+In accordance with the provisions of the ITU Constitution and Convention (Geneva 1992), as amended by the
+Plenipotentiary Conferences (Kyoto 1994, Minneapolis 1998, Marrakesh 2002, Antalya 2006, Guadalajara 2010),
+as well as relevant ITU Recommendations on allocation and management of international numbering resource,
+the Country Code “+380” and Mobile Country or Geographical Area Code “255” shall be used for the
+identification of calling line and for the provision of international telecommunication services within
+internationally recognized borders of Ukraine, including temporarily occupied part of its territory. In this regard,
+Ukraine calls upon all telecommunication operators in their respective countries to refrain from routing in the
+telecommunication public networks of the outgoing / incoming international traffic, which can be received in the
+indices of numbers of the numbering plan of the Russian Federation, allocated for the use in the territory of
+Crimea, by telecommunications operators of the Russian Federation, and under the international mobile country
+identification code of land-based networks with radio access “250” (MCC) identification codes (MNC): 32; 33; 34;
+60.
+
+
+
+
+Secretary-General of ITU:
+Having considered the above communication of Ukraine, I wish to express my serious concern about the situation
+described in the above communication.
+As stated by my predecessor at the 16th plenary meeting of the 2014 Plenipotentiary Conference (Busan), I
+hereby reaffirm that all ITU Member States have to respect the fundamental principles set forth in the
+instruments of the Union, in particular the sovereign right of each Member State, amongst which is Ukraine, to
+regulate its telecommunications within its internationally recognized borders.
+As a Specialized Agency, the Union will fully continue, as it has always done it, to take into account requests
+handed down by the United Nations General Assembly; that includes the call addressed to Specialized Agencies
+in the UNGA Resolution 68/262 (2014) “not to recognize any alteration of the status of the Autonomous Republic
+of Crimea and the city of Sevastopol” and “to refrain from any action or dealing that might be interpreted as
+recognizing any such altered status”, as well as relevant provisions related to such status of the UNGA Resolutions
+71/205 (2016) and 72/190 (2017).
+The same principles shall also apply in respect of any actions that may be required of the General Secretariat and
+the three Bureaux, including the ITU publications and databases publishing, in order to assist Ukraine to ensure
+the use of all its international telecommunication services and resources as well as of any actions that may be
+taken by ITU conferences and assemblies pertaining to Ukraine’s requirement in regard to use of the frequency
+spectrum and numbering codes on its territory.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                     AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+
+                                ADD    Insert                    PAR    paragraph
+                                COL    Column                    REP    replace
+                                LIR    Read                      SUP    Delete
+                                P      page(s)
+
+
+
+                           List of Ship Stations and Maritime Mobile
+                                   Service Identity Assignments
+                                              (List V)
+                                          Edition of 2018
+
+                                                 Section VI
+REP
+      DP02       Marlink GmbH, Reeperbahn 1 - 16th floor, 20359 Hamburg, Germany.
+                 E-Mail: servicedesk@marlink.com, Tel:+33 5 61 28 89 99, Fax: +33 5 61 28 89 98
+                 Contact Person: Luc Feron.
+
+
+
+
+                        List of Issuer Identifier Numbers for
+                the International Telecommunication Charge Card
+          (in accordance with Recommendation ITU-T E.118 (05/2006))
+                          (Position on 15 November 2015)
+                          (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                           (Amendment No. 49)
+
+Canada              LIR
+    Country/        Company Name/Address                    Issuer     Contact
+  geographical                                            Identifier
+      area                                                 Number
+ Canada             Saskatchewan                          89 1 277     W.N. (Bill) Beckman
+                    Telecommunications                                 2121 Saskatchewan Drive,
+                    2121 Saskatchewan Drive,                           REGINA, SK S4P 3Y2
+                    REGINA, SK S4P 3Y2                                 Tel:   +1 306 777 4208
+                                                                       Email: document.control@sasktel.com
+ Canada             Saskatchewan                           89 1 727    W.N. (Bill) Beckman
+                    Telecommunications                                 2121 Saskatchewan Drive,
+                    2121 Saskatchewan Drive,                           REGINA, SK S4P 3Y2
+                    REGINA, SK S4P 3Y2                                 Tel:   +1 306 777 4208
+                                                                       Email: document.control@sasktel.com
+
+
+
+
+Italy             LIR
+
+      Country/          Company Name/Address           Issuer     Contact
+  geographical area                                  Identifier
+                                                      Number
+ Italy                  PostePay S.p.A.              89 39 33     Mr Alberto De Luca
+                        Viale Europa 190                          Viale Europa 190
+                        00144 ROMA                                00144 ROMA
+                                                                  Tel:     +39 377 1000068
+                                                                  Fax:     +39 06 98688251
+                                                                  E-mail: alberto.deluca@postepay.it
+
+
+United Kingdom    LIR
+ Country/          Company Name/Address                Issuer     Contact
+ Geographical                                        Identifier
+ area                                                 Number
+ United Kingdom    Vodafone plc                      89 44 10     Mr Paul Rosbotham
+                   Vodafone HQ,                                   Vodafone HQ,
+                   The Connection, Newbury                        The Connection, Newbury
+                   BERKSHIRE RG14 2FN                             BERKSHIRE RG14 2FN
+                                                                  Tel.:   +44 7957805573
+                                                                  E-mail: paul.rosbotham@vodafone.com
+ United Kingdom    Tesco Mobile Ltd                  89 44 28     Craig Russell
+                   Tesco House,                                   Shire Park, Kestrel Way
+                   Shire Park, Kestrel Way,                       Welwyn Garden City
+                   Welwyn Garden City                             HERTFORDSHIRE AL7 1GA
+                   HERTFORDSHIRE AL7 1GA                          Tel:    +44 (0)1992 632222
+                                                                  E-mail: craig.russell@tesco.com
+ United Kingdom    Tesco Mobile Communications Ltd   89 44 35     Craig Russell
+                   Tesco House,                                   Shire Park, Kestrel Way,
+                   Shire Park, Kestrel Way                        Welwyn Garden City
+                   Welwyn Garden City                             HERTFORDSHIRE AL7 1GA
+                   HERTFORDSHIRE AL7 1GA                          Tel:    +44 (0)1992 632222
+                                                                  E-mail: craig.russell@tesco.com
+ United Kingdom    Tesco Stores Ltd                  89 44 88     Craig Russell
+                   Tesco House,                                   Shire Park, Kestrel Way,
+                   Shire Park, Kestrel Way,                       Welwyn Garden City,
+                   Welwyn Garden City                             HERTFORDSHIRE AL7 1GA
+                   HERTFORDSHIRE AL7 1GA                          Tel:    +44 (0)1992 632222
+                                                                  E-mail: craig.russell@tesco.com
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 44)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+ Panama ADD
+ 7-031-1       14585        Skymond1 MSC                               Digicel (Panama), S.A.
+ 7-031-2       14586        Skymond2 MSC                               Digicel (Panama), S.A.
+
+ Switzerland ADD
+ 5-246-3       12211        Lausanne3                                  Comfone AG
+ 5-246-7       12215        Zürich7                                    Comfone AG
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                         Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.IX.2018, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                           Country/ Geographical area                     Country Code (CC)
+                  Israel                                                         +972
+                  Myanmar                                                         +95
+                  Vanuatu                                                        +678
+                  Zambia                                                         +260
+
+
+
+

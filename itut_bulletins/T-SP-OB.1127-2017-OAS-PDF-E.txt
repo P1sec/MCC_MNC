@@ -1,0 +1,998 @@
+                        ITU Operational Bulletin
+                                                         www.itu.int/itu-t/bulletin
+
+       No. 1127              1.VII.2017                   (Information received by 16 June 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                           Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                               Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                               Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                              E-mail: brmail@itu.int
+
+
+
+
+                                                                  Table of Contents
+                                                                                                                                                                      Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                      3
+Telephone Service:
+     Burkina Faso (Autorité de Régulation des Communications Electroniques et des Postes (ARCEP),
+        Ouagadougou) ....................................................................................................................................                4
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                                   4
+     Russian Federation (Ministry of Telecom and Mass Communications of the Russian
+        Federation, Moscow) ..........................................................................................................................                   5
+     Ukraine (State Service of Special Communication and Information Protection of Ukraine, Kyiv) ............                                                          12
+Issuer Identifier Number (IIN) Registration (TSB Circular 35 of 22 June 2017) ..............................................                                            15
+Universal International Freephone Number (UIFN) Registration (TSB Circular 36 of 22 June 2017) ............                                                             16
+Other communications:
+     Austria ......................................................................................................................................................     17
+     Republic of Azerbaijan ..............................................................................................................................              17
+     Secretary-General of ITU ..........................................................................................................................                17
+Service Restrictions ........................................................................................................................................           18
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                         18
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                              19
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                     19
+List of ITU Carrier Codes .................................................................................................................................             20
+National Numbering Plan ...............................................................................................................................                 21
+
+
+
+
+                                                                                                                                       www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                              Telephone Service
+                                         (Recommendation ITU-T E.164)
+                                                  url: www.itu.int/itu-t/inr/nnp
+
+ Burkina Faso (country code +226)
+ Communication of 7.VI.2017:
+ The Autorité de Régulation des Communications Electroniques et des Postes (ARCEP), Ouagadougou, announces
+ the following update to the National Numbering Plan of Burkina Faso.
+
+ •        assignment of new prefix AB=57:
+
+     NDC (national
+  destination code) or         N(S)N number length
+                                                               Usage of              Additional          Time and date of
+leading digits of N(S)N
+                           Maximum        Minimum         ITU-T E.164 number        information            introduction
+ (national (significant)
+        number)             length         length
+
+          57                     8            8        Non-geographic number -     Orange Burkina     2017-06-08-00:00(UTC)
+                                                       Mobile telephone service       Faso S.A.
+
+ Contact:
+            Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+            B.P. 6437
+            OUAGADOUGOU 01
+            Burkina Faso
+            Tel:     +226 25 37 53 60/61/62
+            Fax:     +226 25 37 53 64
+            E-mail: secretariat@arcep.bf
+            URL:    www.arcep.bf
+
+ Denmark (country code +45)
+ Communication of 15.VI.2017:
+ The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+ Denmark:
+
+       assignment – Fixed communication services
+
+                    Provider                                   Numbering series                        Date of assignment
+
+  TDC A/S                                   55503fgh and 55504fgh                                          15.VI.2017
+
+ Contact:
+            Danish Energy Agency
+            Amaliegade 44
+            1256 COPENHAGEN K
+            Denmark
+            Tel:    +45 33 92 67 00
+            Fax:    +45 33 11 47 43
+            E-mail: ens@ens.dk
+            URL:    www.ens.dk
+
+
+
+
+Russian Federation (country code +7)
+Communication of 26.X.2016:
+The Ministry of Telecom and Mass Communications of the Russian Federation, Moscow, announces the following
+National Numbering Plan (NNP).
+a)     Overview:
+       Minimum number length (excluding the country code):               10 (ten) digits
+       Maximum number length (excluding the country code):               10 (ten) digits
+b)     Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+       number plan:
+       https://www.rossvyaz.ru/activity/num_resurs/registerNum/ (in Russian)
+c)     Link to the real-time database reflecting ported ITU-T E.164 numbers:
+       http://www.zniis.ru/bdpn/check (in Russian)
+d)     Detail of numbering plan:
+Joint Communiqué of 11.VIII.2006:
+       The Ministry of Telecom and Mass Communications of the Russian Federation, Moscow (Russian
+Federation) and the Agency of the Republic of Kazakhstan for Informatization and Communication, Astana
+(Kazakhstan), announce in this joint communiqué that they have signed an Agreement on the use of the
+international E.164 numbering resource of the numbering zone “7”.
+        Under the Agreement, the Administrations of the Russian Federation and the Republic of Kazakhstan
+retain the numbering zone “7”, pursuant to the Table of assigned codes of the numbering zone “7”.
+     Table of codes of the numbering zone “7” of the international E.164 numbering resource assigned to
+                            the Russian Federation and the Republic of Kazakhstan
+
+          Administration of                         Administration of                    Joint use of codes by the
+        the Russian Federation                 the Republic of Kazakhstan             Administrations of the Russian
+                                                                                     Federation and the Republic of
+                                                                                                Kazakhstan
+             (code ranges)                            (code ranges)                            (code ranges)
+                                                                                   ABC = 000 – 009
+                                                                                   ABC = 100 – 199
+                                                                                   ABC = 200 – 299
+ ABC = 300 – 399
+ ABC = 400 – 499
+ ABC = 500 – 599
+                                          ABC = 600 – 699
+                                          ABC = 710 – 749
+                                          ABC = 760 – 799
+                                          DEF = 700 – 709
+                                          DEF = 750 – 759
+ ABC = 810 – 818, 820 – 821,                                                       DEF = 800 – 809
+ 831, 833 – 836, 840 – 848,                                                        DEF = 881 – 899
+ 850 – 851, 855 –857,
+ 860 – 863, 865 – 867, 869,
+ 871 – 873, 877 – 880*
+ DEF = 900 – 999
+* The ABC code resource is left undistributed with A=8 (26 codes – 819, 822 – 829, 830, 832, 837 – 839, 849, 852 – 854, 858
+– 859, 864, 868, 870, 874 – 876) and shall be retained in the common reserve.
+ABC – codes for geographic numbers
+DEF – codes for non-geographic numbers
+
+
+
+
+ National      N(S)N number length          Usage of                  Additional information
+destination    Maximum   Minimum       ITU-T E.164 number
+code (NDC)      length    length
+    301          10          10      Geographic number      Area code for the Republic of Buryatia (Ulan
+                                                            – Ude)
+    302          10          10      Geographic number      Area code for Chita region together with the
+                                                            Agin-Buryat autonomous region (Chita)
+    336          10          10      Geographic number      Area code for Baikonur
+    341          10          10      Geographic number      Area code for the Republic of Udmurtia
+                                                            (Izhevsk)
+    342          10          10      Geographic number      Area code for the Perm territory (Perm)
+    343          10          10      Geographic number      Area code for the Sverdlovsk region
+                                                            (Ekaterinburg)
+    345          10          10      Geographic number      Area code for the Tyumen region (Tyumen)
+    346          10          10      Geographic number      Area code for Khanty – Mansiysk
+                                                            autonomous region – Yugra (Surgut)
+    347          10          10      Geographic number      Area code of the Republic of Bashkortostan
+                                                            (Ufa)
+    349          10          10      Geographic number      Area code for the Yamalo-Nenets
+                                                            autonomous region (Salekhard)
+    351          10          10      Geographic number      Area code for the Chelyabinsk region
+                                                            (Chelyabinsk)
+    352          10          10      Geographic number      Area code for the Kurgan region (Kurgan)
+    353          10          10      Geographic number      Area code for the Orenburg region
+                                                            (Orenburg)
+    365          10          10      Geographic number      Area code for Republic of Crimea*
+                                                            (Simferopol)
+    381          10          10      Geographic number      Area code for the Omsk region (Omsk)
+    382          10          10      Geographic number      Area code for Tomsk region (Tomsk)
+    383          10          10      Geographic number      Area code for the Novosibirsk region
+                                                            (Novosibirsk)
+    384          10          10      Geographic number      Area code for the Kemerovo region
+                                                            (Kemerovo)
+    385          10          10      Geographic number      Area code for the Altai territory (Barnaul)
+    388          10          10      Geographic number      Area code for the Republic of Altai (Gorno-
+                                                            Altaisk)
+    390          10          10      Geographic number      Area code for the Republic of Khakassia
+                                                            (Abakan)
+    391          10          10      Geographic number      Area code for the Krasnoyarsk Territory in
+                                                            conjunction with the Evenk autonomous
+                                                            region and Taimyr (Dolgan-Nenets)
+                                                            autonomous region (Krasnoyarsk)
+    394          10          10      Geographic number      Area code for the Republic of Tyva (Kyzyl)
+    395          10          10      Geographic number      Area code for the Irkutsk region (Irkutsk)
+    401          10          10      Geographic number      Area code for the Kaliningrad region
+                                                            (Kaliningrad)
+
+
+
+ National       N(S)N number length          Usage of                  Additional information
+destination    Maximum     Minimum      ITU-T E.164 number
+code (NDC)      length      length
+    411            10         10      Geographic number      Area code for the Republic of Sakha
+                                                             (Yakutia) (Yakutsk)
+    413            10         10      Geographic number      Area code for the Magadan region
+                                                             (Magadan)
+    415            10         10      Geographic number      Area code for the Kamchatka region in
+                                                             conjunction with Koryak autonomous region
+                                                             (Petropavlovsk-Kamchatsky)
+    416            10         10      Geographic number      Area code for the Amur Region
+                                                             (Blagoveshchensk)
+    421            10         10      Geographic number      Area code for the Khabarovsk territory
+                                                             (Khabarovsk)
+    423            10         10      Geographic number      Area code for the Primorsky territory
+                                                             (Vladivostok)
+    424            10         10      Geographic number      Area code for Sakhalin Region (Yuzhno-
+                                                             Sakhalinsk)
+    426            10         10      Geographic number      Area code for the Jewish autonomous
+                                                             Region (Birobidzhan)
+    427            10         10      Geographic number      Area code for the Chukotka autonomous
+                                                             Okrug (Anadyr)
+    471            10         10      Geographic number      Area code for the Kursk region (Kursk)
+    472            10         10      Geographic number      Area code for the Belgorod region
+                                                             (Belgorod)
+    473            10         10      Geographic number      Area code for the Voronezh region
+                                                             (Voronezh)
+    474            10         10      Geographic number      Area code for the Lipetsk region (Lipetsk)
+    475            10         10      Geographic number      Area code for the Tambov region (Tambov)
+    481            10         10      Geographic number      Area code for the Smolensk region
+                                                             (Smolensk)
+    482            10         10      Geographic number      Area code for the Tver region (Tver)
+    483            10         10      Geographic number      Area code for the Bryansk region (Bryansk)
+    485            10         10      Geographic number      Area code for the Yaroslavl region
+                                                             (Yaroslavl)
+    486            10         10      Geographic number      Area code for the Orel region (Orel)
+    487            10         10      Geographic number      Area code for the Tula region (Tula)
+    491            10         10      Geographic number      Area code for Ryazan region (Ryazan)
+    492            10         10      Geographic number      Area code for Vladimir region (Vladimir)
+    493            10         10      Geographic number      Area code for the Ivanovo region (Ivanovo)
+    494            10         10      Geographic number      Area code for the Kostroma region
+                                                             (Kostroma)
+    495            10         10      Geographic number      Area code for Moscow (city)
+    496            10         10      Geographic number      Area code for Moscow region
+    498            10         10      Geographic number      Area code for Moscow region
+    499            10         10      Geographic number      Area code for Moscow (city)
+
+
+ National      N(S)N number length          Usage of                   Additional information
+destination    Maximum   Minimum       ITU-T E.164 number
+code (NDC)      length    length
+    800          10          10      Non-geographic number   Area code to the service “Freephone”
+    801          10          10      Non-geographic number   Access code to the service “Automatic
+                                                             Alternative Billing – AAB”
+    802          10          10      Non-geographic number   Access code to the service “Credit Card
+                                                             Calling – CCC”
+    803          10          10      Non-geographic number   Access code to the service “Televoting –
+                                                             VOT”
+    804          10          10      Non-geographic number   Access code to the service “Universal Access
+                                                             Number – UAN”
+    805          10          10      Non-geographic number   Access code to the service “Prepaid Card
+                                                             Calling – PCC”
+    806          10          10      Non-geographic number   Access code to the service “Account Card
+                                                             Calling – ACC”
+    807          10          10      Non-geographic number   Access code to the service “Virtual Private
+                                                             Network – VPN”
+    808          10          10      Non-geographic number   Access code to the service “Universal
+                                                             Personal Telecommunication – UPT”
+    809          10          10      Non-geographic number   Access code to the service “Premium Rate –
+                                                             PRM”
+    811          10          10      Geographic number       Area code for the Pskov region (Pskov)
+    812          10          10      Geographic number       Area code for Saint Petersburg (city)
+    813          10          10      Geographic number       Area code for Leningrad region
+    814          10          10      Geographic number       Area code for the Republic of Karelia
+                                                             (Petrozavodsk)
+    815          10          10      Geographic number       Area code for the Murmansk region
+                                                             (Murmansk)
+    816          10          10      Geographic number       Area code for the Novgorod region (Velikiy
+                                                             Novgorod)
+    817          10          10      Geographic number       Area code for the Vologda region (Vologda)
+    818          10          10      Geographic number       Area code for the Arkhangelsk region
+                                                             (Arkhangelsk)
+    820          10          10      Geographic number       Area code for the Vologda region
+                                                             (Cherepovets)
+    821          10          10      Geographic number       Area code for the Komi Republic (Syktyvkar)
+    831          10          10      Geographic number       Area code for the region of Nizhny
+                                                             Novgorod (Nizhny Novgorod)
+    833          10          10      Geographic number       Area code for the Kirov region (Kirov)
+    834          10          10      Geographic number       Area code for the Republic of Mordovia
+                                                             (Saransk)
+    835          10          10      Geographic number       Area code for the Chuvash Republic
+                                                             (Cheboksary)
+    836          10          10      Geographic number       Area code for the Republic of Mari El
+                                                             (Yoshkar-Ola)
+    841          10          10      Geographic number       Area code for the Penza region (Penza)
+
+
+ National       N(S)N number length          Usage of                   Additional information
+destination    Maximum     Minimum      ITU-T E.164 number
+code (NDC)      length      length
+    842            10         10      Geographic number       Area code for the Ulyanovsk region
+                                                              (Ulyanovsk)
+    843            10         10      Geographic number       Area code for the Republic of Tatarstan
+                                                              (Kazan)
+    844            10         10      Geographic number       Area code for the Volgograd region
+                                                              (Volgograd)
+    845            10         10      Geographic number       Area code for the Saratov region (Saratov)
+    846            10         10      Geographic number       Area code for the Samara region (Samara)
+    847            10         10      Geographic number       Area code for the Republic of Kalmykia
+                                                              (Elista)
+    848            10         10      Geographic number       Area code for the Samara Region (Tolyatti)
+    851            10         10      Geographic number       Area code for the Astrakhan region
+                                                              (Astrakhan)
+    855            10         10      Geographic number       Area code for the Republic of Tatarstan
+                                                              (Naberezhnye Chelny)
+    861            10         10      Geographic number       Area code for the Krasnodar territory
+                                                              (Krasnodar)
+    862            10         10      Geographic number       Area code for the Krasnodar territory
+                                                              (Sochi)
+    863            10         10      Geographic number       Area code for the Rostov region (Rostov-on
+                                                              Don)
+    865            10         10      Geographic number       Area code for the Stavropol region
+                                                              (Stavropol)
+    866            10         10      Geographic number       Area code for the Kabardino-Balkarian
+                                                              Republic (Nalchik)
+    867            10         10      Geographic number       Area code for the Republic of North Ossetia
+                                                              – Alania (Vladikavkaz)
+    869            10         10      Geographic number       Area code for Sevastopol* (city)
+    871            10         10      Geographic number       Area code for the Chechen Republic
+                                                              (Grozny)
+    872            10         10      Geographic number       Area code for the Republic of Dagestan
+                                                              (Makhachkala)
+    873            10         10      Geographic number       Area code for the Republic of Ingushetia
+                                                              (Nazran)
+    877            10         10      Geographic number       Area code for Republic of Adygea (Maikop)
+    878            10         10      Geographic number       Area code for the Karachayevo-Cherkessia
+                                                              Republic (Cherkessk)
+    879            10         10      Geographic number       Area code for the Stavropol territory
+                                                              (Mineralnye Vody)
+ 900 – 969,        10         10      Non-geographic number   Area codes for mobile networks
+except code
+    954
+    954            10         10      Non-geographic number   Area code for satellite operators
+    970            10         10      Non-geographic number   Access code to the telematic services
+
+
+   National          N(S)N number length             Usage of                      Additional information
+  destination        Maximum    Minimum         ITU-T E.164 number
+  code (NDC)          length     length
+      971               10          10        Non-geographic number      Access code to the communication services
+                                                                         for data
+  972 – 999             10          10        Non-geographic number      Area codes for mobile networks
+
+Note*: Information published upon request of Russian Federation. This does not imply the expression of any
+opinion on the part of ITU or its secretariat on the status of these territories. Please see also section 7 of
+Document PP-14/174 (https://www.itu.int/md/S14-PP-C-0174/en).
+
+
+
+
+    Presentation of important numbers related to emergency services and other services of social value
+ Country: the Russian Federation
+ Important            Service      Allocated or assigned   ITU-T E.164 number or                      Note
+  number                                                    national-only number
+    112       Emergency            Allocated in the NNP    National-only number    112 cover the following emergency
+              service                                                              services:
+                                                                                   Fire, Police, Ambulance, Gas network and
+                                                                                   other rescue services
+  01, 101     Fire                 Allocated in the NNP    National-only number    Runs in parallel with 112
+  02, 102     Police               Allocated in the NNP    National-only number    Runs in parallel with 112
+  03, 103     Ambulance            Allocated in the NNP    National-only number    Runs in parallel with 112
+  04, 104     Pipeline and         Allocated in the NNP    National-only number    Runs in parallel with 112
+              Utility Safety
+
+
+
+
+               Description of implementation of number portability (NP) of ITU-T E.164 numbers
+                                    in the national numbering plan (NNP)
+ Country: the Russian Federation
+                                          Geographic   Non-geographic                        Mobile numbers
+                                           numbers     numbers other than
+                                                       mobile numbers
+                                                       (e.g. premium rate
+                                                       services, freephone
+                                                       services)
+ (1)   State of number portability (NP)      No                 No           Implemented since December, 1, 2013
+ (2)   Regulatory obligation for             No                 No           Yes
+       operators to implement NP
+ (3)   Type of NP implementation                                             Central reference database for mobile numbers
+                                                                             with ACQ and OR
+ (4)   NP database solution                                                  Solution C – Centralized database approach
+ (5)   Limitations                                                           Within the region of the Russian Federation,
+                                                                             numbering area coverage
+ (6)   Specification available on                                            http://www.zniis.ru/bdpn/check
+       website                                                               (in Russian)
+ (7)   Contact information for                                               Federal Communications Agency
+       national                                                              Nikoloyamskaya, 3A, 2,
+       administration/numbering plan                                         Moscow, 109289, Russia
+       administration (NPA)                                                  mail@rossvyaz.ru
+ (8)   Central reference database                                            http://www.zniis.ru/bdpn/check
+       (CRDB) managed/operated by                                            (in Russian)
+                                                                             FSUE ZNIIS
+                                                                             1-st proezd Perova polya, 8,
+                                                                             Moscow, 111141, Russia
+                                                                             info@zniis.ru
+
+Contact:
+       Ministry of Telecom and Mass Communications of the Russian Federation
+       Department for International Cooperation
+       7, Tverskaya Street
+       125375 MOSCOW
+       Russian Federation
+       Tel: +7 495 771 8000
+       Fax: +7 495 771 8002
+       E-mail: office@minsvyaz.ru / intcoop@minsvyaz.ru
+       URL: www.minsvyaz.ru
+
+
+
+
+Ukraine (country code +380)
+Communication of 6.II.2017:
+The State Service of Special Communication and Information Protection of Ukraine, Kyiv, announces the
+following updated list of National Destination Code (NDC) for the mobile service in Ukraine:
+a)   Overview:
+     Minimum number length (excluding the country code):        9 digits
+     Maximum number length (excluding the country code):        9 digits
+b) Details of numbering scheme:
+     NDC (National        N(S)N number length
+  Destination Code) or   Maximum     Minimum                   Usage of                 Additional information
+    leading digits of     length       length               E.164 Number
+    N(S)N (National
+ (Significant) Number)
+                                                  Non-geographic number –
+       50 (NDC)               9           9                                         PrJSC “MTS Ukraine”
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       63 (NDC)               9           9                                         Lifecell LLC
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       66 (NDC)               9           9                                         PrJSC “MTS Ukraine”
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       67 (NDC)               9           9                                         JSC “Kyivstar”
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       68 (NDC)               9           9                                         JSC “Kyivstar”
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       73 (NDC)               9           9                                         Lifecell LLC
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       91 (NDC)               9           9                                         TryMob LTD
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       92 (NDC)               9           9                                         Telesystems of Ukraine LTD
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       93 (NDC)               9           9                                         Lifecell LLC
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       94 (NDC)               9           9                                         JSC “Intertelecom”
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       95 (NDC)               9           9                                         PrJSC “MTS Ukraine”
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       96 (NDC)               9           9                                         JSC “Kyivstar”
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       97 (NDC)               9           9                                         JSC “Kyivstar”
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       98 (NDC)               9           9                                         JSC “Kyivstar
+                                                  mobile services assigned
+                                                  Non-geographic number –
+       99 (NDC)               9           9                                         PrJSC “MTS Ukraine”
+                                                  mobile services assigned
+                                                  Non-geographic number –
+      891 (NDC)               9           9                                         PrJSC “Datagroup”
+                                                  mobile services assigned
+                                                  Non-geographic number –
+      892 (NDC)               9           9                                         Ukrtelecom JSC
+                                                  mobile services assigned
+                                                  Non-geographic number –
+      893 (NDC)               9           9                                         "T.R. Communicatio" LTD
+                                                  mobile services assigned
+                                                  Non-geographic number –
+      894 (NDC)               9           9                                         LTD “Atlantic Telecom”
+                                                  mobile services assigned
+                                                  Non-geographic number –
+      895 (NDC)               9           9                                         LTD “Lincom-300”
+                                                  mobile services assigned
+
+
+
+
+     NDC (National          N(S)N number length
+  Destination Code) or     Maximum     Minimum                   Usage of                 Additional information
+    leading digits of       length       length               E.164 Number
+    N(S)N (National
+ (Significant) Number)
+                                                    Non-geographic number –
+      897 (NDC)               9               9                                       JSC “Kyivstar”
+                                                    mobile services assigned
+                                                    Non-geographic number –
+      899 (NDC)               9               9                                       LTD “Velton Telecom”
+                                                    mobile services assigned
+
+
+The State Service of Special Communication and Information Protection of Ukraine, Kyiv, announces the
+following update of the fixed service in the National Numbering Plan (NNP) of Ukraine:
+a) Overview:
+       Minimum number length (excluding the country code): nine (9) digits
+       Maximum number length (excluding the country code): nine (9) digits
+
+b) Details of numbering scheme:
+Fixed service
+     NDC (National          N(S)N number length
+  Destination Code) or     Maximum    Minimum                 Usage of                  Additional information
+ leading digits of N(S)N    length     length              E.164 Number
+ (National (Significant)
+        Number)
+                                                  Geographic number for fixed      Area code for Zakarpattia
+       31 (NDC)                9          9
+                                                  telephony services (area code)   region
+                                                  Geographic number for fixed      Area code for Lviv region
+       32 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Volyn region
+       33 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Ivano-Frankivsk
+       34 (NDC)                9          9
+                                                  telephony services (area code)   region
+                                                  Geographic number for fixed      Area code for Ternopil region
+       35 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Rivne region
+       36 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Chernivtsi region
+       37 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Khmelnytskyi
+       38 (NDC)                9          9
+                                                  telephony services (area code)   region
+                                                  Geographic number for fixed      Area code for Zhytomyr region
+       41 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Vinnytsia region
+       43 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Kyiv city
+       44 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Kyiv region
+       45 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Chernihiv region
+       46 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Cherkasy region
+       47 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Odesa region
+       48 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Mykolayiv region
+       51 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Kirovohrad region
+       52 (NDC)                9          9
+                                                  telephony services (area code)
+
+
+     NDC (National          N(S)N number length
+  Destination Code) or     Maximum    Minimum                 Usage of                    Additional information
+ leading digits of N(S)N    length     length              E.164 Number
+ (National (Significant)
+        Number)
+                                                  Geographic number for fixed      Area code for Poltava region
+       53 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Sumy region
+       54 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Kherson region
+       55 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Dnipropetrovsk
+       56 (NDC)                9          9
+                                                  telephony services (area code)   region
+                                                  Geographic number for fixed      Area code for Kharkiv region
+       57 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Zaporizhzhia
+       61 (NDC)                9          9
+                                                  telephony services (area code)   region
+                                                  Geographic number for fixed      Area code for Donetsk region
+       62 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Luhansk region
+       64 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Crimea region
+       65 (NDC)                9          9
+                                                  telephony services (area code)
+                                                  Geographic number for fixed      Area code for Sevastopol city
+       69 (NDC)                9          9
+                                                  telephony services (area code)
+
+Contact:
+           State Service of Special Communication and Information Protection of Ukraine
+           13 Solomianska Street,
+           03110 KYIV
+           Ukraine
+           Tel/ Fax: +380 44 281 91 96
+           E-mail: doz_kom@dsszzi.gov.ua
+
+
+
+
+                               Issuer Identifier Number (IIN) Registration
+                                    (TSB Circular 35 of 22 June 2017)
+1         ITU-T Study Group 2 has developed Recommendation ITU-T E.118 “The international
+telecommunication charge card”. This recommendation specifies the structure of the visible card number
+(primary account number) and the Issuer Identifier Number (IIN) assignment and registration procedure. The
+Issuer Identifier Number is a part of the visible card number with a maximum length of 19 characters. The IIN
+follows the Major Industry Identifier (MII) “89” for telecommunication purpose and then the E.164 Country Code.
+The structure is as follows:
+
+
+
+
+2         The IIN is used to distinguish among multiple Operating Agencies (OAs) who issue cards within a given
+country; or to distinguish individual countries sharing the same country code, or to distinguish both countries
+and issuers. One of the typical uses is to identify an issuer of SIM (Subscriber Identity Module) cards.
+3         The IIN register is maintained by the ITU-TSB. Under point 4.2 d) of Recommendation ITU-T E.118, the
+TSB shall collect a one-time fee for the assignment and registration of each new IIN. This fee has been 80 Swiss
+Francs since 1993 (ITU Operational Bulletin No. 542 (18.III.1993)).
+4         At its 2017 session, ITU Council decided to continue collecting fees for IIN Registration and to establish
+the registration fee at 150 Swiss francs per number issued, and for non ITU-T and ITU-R Sector Members
+implement an annual maintenance fee at 100 Swiss francs per number starting from 1 January 2018 (Decision
+601, ITU Council, 2017 session).
+5          The annual fee will be collected based on the status of IINs and the membership of the assignees at
+00h00 (Geneva time) of 1 January of each year from 2018. The newly assigned and registered IINs during the
+year 2018 and afterwards will also be charged an annual maintenance fee for that year. In case of cancellation,
+there will be no refund.
+6         For further information on IIN, please see: http://www.itu.int/en/ITU-T/inr/forms/Pages/iin.aspx. For
+issues relevant to membership status, please see: http://www.itu.int/online/mm/scripts/gensel8. A Sector
+Member is marked with an “X” under columns “ITU-T” and/or “ITU-R”.
+7           Please address your comments to:
+             Operational Bulletin and Numbering Administration
+             International Telecommunication Union
+             Telecommunication Standardization Bureau
+             Place des Nations CH - 1211 GENEVA 20, Switzerland
+             Tel:     +41 22 730 5211
+             Fax:     +41 22 730 5853
+             E-mail: tsbtson@itu.int
+
+
+            For membership issues, please contact itu-tmembership@itu.int.
+
+
+           Universal International Freephone Number (UIFN) Registration
+                          (TSB Circular 36 of 22 June 2017)
+1          ITU-T Study Group 2 has developed Recommendation ITU-T E.169.1 “Application of Recommendation
+E.164 numbering plan for universal international freephone numbers for international freephone service” and
+Recommendation ITU-T E.152 ”International freephone service”. A Universal International Freephone Number
+(UIFN) enables an International Freephone Service (IFS) customer to be allocated a unique freephone number(s)
+that is the same throughout the world and all service and call-related charges are paid by the IFS customer. One
+of the typical uses of a UIFN is to reach customer services via, for example, a call center for a company’s global
+customers or potential customers.
+2         A UIFN is composed of a three-digit country code for global service application, i.e. 800, followed by an
+8-digit Global Subscriber Number (GSN), resulting in an 11-digit fixed format. (An IFS caller must dial an
+international prefix prior to the UIFN.)
+3          The ITU-TSB has been requested to perform the task of Registrar for UIFNs, responsible for processing
+registration requests and assignment of the GSN portion of the UIFN in accordance with Recommendation ITU-
+T E.169.1 and Recommendation ITU-T E.152, "International Freephone Service". At its June 1996 session, ITU
+Council established the UIFN application fee at 200 Swiss francs per UIFN number issued (Decision 464, ITU
+Council, 1996 session).
+4         At its 2017 session, ITU Council decided to continue collecting fees for Universal International
+Freephone Number (UIFN) Registration and to establish the registration fee at 300 Swiss francs per number
+issued, and for non ITU-T and ITU-R Sector Members implement an annual maintenance fee at 100 Swiss francs
+per number starting from 1 January 2018 (Decision 600, ITU Council, 2017 session).
+5         The annual fee will be collected based on the status of UIFNs and the membership of the primary
+service providers at 00h00 (Geneva time) of 1 January of each year from 2018. The newly reserved UIFNs during
+the year 2018 and afterwards will also be charged an annual maintenance fee for that year. In case of
+cancellation, there will be no refund.
+6         For further information on UIFNs reserved or assigned, please see: http://www.itu.int/en/ITU-
+T/inr/unum/Pages/uifndb.aspx.      In addition, for general information on UIFN, please see:
+http://www.itu.int/en/ITU-T/inr/unum/Pages/uifn.aspx. For issues relevant to membership status, please see:
+http://www.itu.int/online/mm/scripts/gensel8. A Sector Member is marked with an “X” under columns “ITU-T”
+and/or “ITU-R”.
+7         Please address your comments to:
+           UIFN Registrar
+           International Telecommunication Union
+           Telecommunication Standardization Bureau
+           Place des Nations CH - 1211 GENEVA 20, Switzerland
+           Tel: +41 22 730 6220
+           Fax: +41 22 730 6200
+           E-mail: universalnumbers@itu.int
+
+          For membership issues, please contact itu-tmembership@itu.int.
+
+
+
+
+                                        Other communications
+
+Austria
+Communication of 1.VI.2017:
+On the occasion of the FIVB Beach Volleyball World Championships 2017 in Vienna, the Austrian Administration
+authorizes an Austrian amateur station to use the special call sign OE17BEACH from 28 July to 6 August 2017.
+
+
+Republic of Azerbaijan
+Communication of 29.V.2017:
+The Republic of Azerbaijan expresses its grave concern over the activities of the so-called “Karabakh Telecom”
+(“K-Telecom”) company, which has been illegally established in the Nagorno-Karabakh region and other occupied
+territories of Azerbaijan. In particular, the above-mentioned company is provided with roaming services using
+Azerbaijan’s radio frequencies without prior legal authorization of the Government of Azerbaijan, and has been
+using the national country code (+374), which is not the Azerbaijan’s national country code, in the occupied
+territories of Azerbaijan for fixed and mobile networks.
+The Republic of Azerbaijan considers that the above-mentioned on-going illegal practices carried out in the
+occupied territories of Azerbaijan also gravely violate the provisions of the ITU Constitution and Convention
+(Geneva 1992), as amended by the Plenipotentiary Conferences (Kyoto 1994, Minneapolis 1998, Marrakesh 2002,
+Antalya 2006, Guadalajara 2010), as well as ITU Recommendation E.164 on the international public
+telecommunication numbering plan.
+These actions also create significant obstacles to the implementation by Azerbaijan of its exclusive sovereign
+right to regulate its telecommunications and to use its numbering resource within its entire internationally
+recognized territory, to ensure the integrity of its telecommunication infrastructure, and to use radio frequencies
+in its territory in accordance with the provisions of the legal instruments of ITU.
+In this regards it is necessary to recall that the UN Security Council Resolutions 822, 853, 874 and 884 of 1993
+have reaffirmed sovereignty and territorial integrity of Azerbaijan and demanded immediate, complete and
+unconditional withdrawal of the Armenian occupying forces from the Nagorno-Karabakh region and other
+occupied territories of Azerbaijan, and that the UN General Assembly Resolution 62/243 of 2008 has called on
+the UN Member States not to recognize as lawful the situation resulting from the occupation of the territories
+of the Republic of Azerbaijan, nor render aid or assistance in maintaining this situation. The ITU as a specialized
+Agency of the UN and its Member States have to take the above-mentioned UN documents into account.
+
+
+Secretary-General of ITU
+ITU is a Specialized Agency of the United Nations whose priority objectives include, through the development of
+telecommunications, to preserve peace and foster economic and social development of all its Member States.
+Having considered the above communication of the Republic of Azerbaijan, I wish to express my serious concern
+about the situation described in the above communication.
+In that respect, I wish to reaffirm that all Member States in accordance with their relevant obligations have to
+respect the fundamental principles set forth in the legal instruments of the Union, in particular the sovereign
+right of each Member State to regulate its telecommunications within its internationally recognized borders.
+Finally, as a Specialized Agency of the United Nations, the Union is mindful of the relevant UN General Assembly
+Resolutions and is fully taking into account the relevant UN Security Council Resolutions.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+
+                                ADD    Insert                    PAR      paragraph
+                                COL    Column                    REP      replace
+                                LIR    Read                      SUP      Delete
+                                P      page(s)
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2017
+
+                                                 Section VI
+ADD
+      BM05         Myanmar Navy MRCC (Ayeryyarwady), Monkey Point Streetm,
+                   Botahtaung Township, Yangon Division, Myanmar.
+REP
+      CL03         Dirección General del Territorio Marítimo y de Marina Mercante,
+                   (Departamento de Tecnologías Marítimas), Calle Prat Nº 681, Valparaíso,
+                   V Región, Chile.
+                   Tel.: +56 32 2208402, +56 32 2208499, E-Mail: frectecmar@directemar.cl
+                   Contact Person: Marcelo Albarrán Mora
+
+
+
+
+                            List of Issuer Identifier Numbers for
+                    the International Telecommunication Charge Card
+              (in accordance with Recommendation ITU-T E.118 (05/2006))
+                              (Position on 15 November 2015)
+                            (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                             (Amendment No. 23)
+
+Switzerland      ADD
+    Country/       Company                         Issuer       Contact                            Effective
+  geographical     Name/Address                  Identifier                                         date of
+      area                                        Number                                            usage
+ Switzerland       STMicroelectronics            89 41 30       Mr. Salvatore Acunto              1.VII.2017
+                   International NV                             39 Chemin du Champ-des-Filles
+                   39 Chemin du                                 Plan-les Ouates
+                   Champ-des-Filles                             1228 GENEVE
+                   Plan-les Ouates                              Tel:    +41 78 744 7909
+                   1228 GENEVE                                  Fax:    +41 22 929 2988
+                                                                E-mail: salvatore.acunto@st.com
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                          (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                           (Amendment No. 45)
+
+ Country or area/ISO code                           Company Code         Contact
+  Company Name/Address                               (carrier code)
+
+Germany (Federal Republic of) / DEU         ADD
+
+ 3U TELECOM GmbH                                      3UNET           Mr Sascha Rosenhaeger
+ Frauenbergstrasse 31 - 39                                            Tel:    +49 6421 999 2202
+ 35039 MARBURG                                                        Fax:    +49 6421 999 1400
+                                                                      E-mail: portierungen@3u.net
+
+ Felkatec Software GmbH & Co.KG                       FELKAT          Mr Benedikt Richter
+ Friedrichstrasse 7                                                   Tel:    +49 9092 211932
+ 86709 WOLFERSTADT                                                    Fax:    +49 9092 911068
+                                                                      E-mail: portierung@felkatec.de
+
+ INCAS GmbH                                           INCAS           Mr Roland Janke
+ Europark Fichtenhain A 15                                            Tel:    +49 2151 6201221
+ 47807 KREFELD                                                        Fax:    +49 2151 6201010
+                                                                      E-mail: info@incas.de
+
+ KSP-Kabelservice Prenzlau GmbH                       KSP01           Mr Andreas Gaertig
+ Freyschmidtstrasse 20                                                Tel:    +49 341 60952 445
+ 17291 PRENZLAU                                                       Fax:    +49 341 60952 903
+                                                                      E-mail: andreas.gaertig@telecolumbus.de
+
+ RS Gesellschaft für Informationstechnik mbH           RGFI           Mrs Denise Lieth
+  & Co.KG                                                             Tel:    +49 2191 909446
+ Auf dem Knapp 35                                                     Fax:    +49 2191 90950446
+ 42855 REMSCHEID                                                      E-mail: info@rgi.net
+
+ Servario Networks GmbH                                SNET           Mr Daniel Demmer
+ Bentheimer Strasse 239                                               Tel:    +49 5921 8111027
+ 48529 NORDHORN                                                       Fax:    +49 5921 7111581
+                                                                      E-mail: d.demmer@servario-networks.de
+
+ telkodata GmbH                                       TELKOD          Mr Reinhold Laurich
+ Vredenerstrasse 119                                                  Tel:    +49 2563 930567 80
+ 48703 STADTLOHN                                                      Fax:    +49 2563 930567 99
+                                                                      E-mail: info@telkodata.de
+
+
+
+
+ Country or area/ISO code                            Company Code      Contact
+  Company Name/Address                                (carrier code)
+
+Germany (Federal Republic of) / DEU           ADD
+
+ WINatNet Provider und Netze GmbH                        WINANT        Mr Marcel Winter
+ Ohrestrasse 50a                                                       Tel:    +49 391 555538 53
+ 39124 MAGDEBURG                                                       Fax:    +49 391 555538 54
+                                                                       E-mail: info@winatnet.de
+
+
+Switzerland (Confederation of) / CHE         ADD
+
+ ACONEL AG                                                  ACO        Mr. Bruno Thomann
+ Bernstrasse 42                                                        Tel.:   +41 31 511 3011 / 0848 226635
+ CH-3037 HERRENSCHWANDEN                                               Email: aconel@aconel.com
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                    Web:www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that
+the information, which will be made available freely to all administrations/ROAs and service providers, can be
+posted on the ITU-T website.
+
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+
+From 1.VI.2017 the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                        Country/ Geographical area                     Country Code (CC)
+               Israel                                                        +972
+               Kuwait                                                        +965
+
+
+
+

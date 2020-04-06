@@ -1,0 +1,656 @@
+                        ITU Operational Bulletin
+                                                         www.itu.int/itu-t/bulletin
+
+       No. 1119              1.III.2017                   (Information received by 15 February 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                           Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                               Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                               Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                              E-mail: brmail@itu.int
+
+
+
+
+                                                                  Table of Contents
+                                                                                                                                                                      Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                      3
+Telephone Service:
+     Afghanistan (Afghanistan Telecommunication Regulatory Authority (ATRA), Kabul) .............................                                                        4
+     Albania (Postal and Electronic Communications Authority - AKEP) .........................................................                                           5
+Other communications:
+     Austria ......................................................................................................................................................     10
+Changes in Administrations/ROAs and other entities or Organizations:
+     Andorre (Ministère de l'Administration publique, des Transports et des Télécommunications,
+     Andorra la Vella): Change of name ..........................................................................................................                       10
+     Tuvalu (Ministry of Communications, Transport and Tourism, Funafuti): Change of name ....................                                                          10
+Service Restrictions ........................................................................................................................................           11
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                         11
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                              12
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                     13
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................            14
+List of International Signalling Point Codes (ISPC) .........................................................................................                           14
+National Numbering Plan ...............................................................................................................................                 15
+
+
+
+
+                                                                                                                                       www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1120             15.III.2017            1.III.2017
+               1121              1.IV.2017             17.III.2017
+               1122             15.IV.2017             31.III.2017
+               1123              1.V.2017              14.IV.2017
+               1124             15.V.2017               1.V.2017
+               1125              1.VI.2017             16.V.2017
+               1126             15.VI.2017             1.VI.2017
+               1127             1.VII.2017             16.VI.2017
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+     (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+     E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+     subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+     (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+     Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1066 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+     (Position on 15 December 2014)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+     2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+     optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+     Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+     (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+     to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+     (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+     operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+     accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+     (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+     T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+     (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+     series Recommendations) (Position on 15 February 2011)
+972 List of terrestrial trunk radio mobile country codes (Complement to ITU-T Recommendation E.218
+     (05/2004)) (Position on 15 January 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+     on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+     Recommendation F.1 (03/1998))
+B.   The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+
+
+Afghanistan (country code +93)
+Communication of 7.II.2017:
+The Afghanistan Telecommunication Regulatory Authority (ATRA), Kabul, announces the following update to
+the ITU-T E.164 National Numbering Plan for Afghanistan:
+
+
+                             Table  Description of introduction of new resource for
+                           national ITU-T E.164 numbering plan for country code +93 :
+
+              (1)                          (2)                              (3)                       (4)
+
+       NDC (national            N(S)N number length
+    destination code) or                                                                           Time and
+                                                                         Usage of
+      leading digits of       Maximum            Minimum                                            date of
+                                                                   ITU-T E.164 number
+      N(S)N (national          length             length                                         introduction
+   (significant) number)
+  72 8XXXXXX                    9 digits         9 digits   ROSHAN – Cellular mobile             15/07/2015
+                                                            network
+  76 4XXXXXX                    9 digits         9 digits   MTN – Cellular mobile network        15/07/2015
+  74 9XXXXXX                    9 digits         9 digits   Afghan telecom Salaam – Cellular     16/11/2016
+                                                            mobile network
+  74 8XXXXXX                    9 digits         9 digits   Afghan telecom Salaam – Cellular     02/06/2015
+                                                            mobile network
+  73 0XXXXXX                    9 digits         9 digits   Etisalat – Cellular mobile network   16/11/2016
+
+
+Contact:
+           Mr Mohammad Azim Sahbani
+           Standardization Manager
+           Afghanistan Telecommunication Regulatory Authority (ATRA)
+           Ministry of Communication & Information Technology
+           MCIT Building, 10th Floor
+           KABUL
+           Afghanistan
+           Tel:     +93 (0) 20 2105968
+           E-mail: azim.sahbani@atra.gov.af
+           URL:     www.atra.gov.af
+
+
+
+
+Albania (country code +355)
+Communication of 13.II.2017:
+The Postal and Electronic Communications Authority - AKEP, announces the introduction of a new National
+Numbering Plan (NNP) in Albania.
+General features of the new numbering plan:
+       •    The Albanian Numbering Plan is a closed numbering plan. The new numbering plan passed from 12
+            Regions to a single Region (removed geographical constraints completely from the numbering plan)
+            of the territory of Albania.
+       •     Effects on dialling:
+             a caller can call a number in the territory of Albania using the full length number with the prefix
+                 “0”.
+             calling Albania from abroad does not change. When dialling from abroad to Albania:
+                 international access code (international prefix) followed by the country code of Albania (355)
+                 followed by the National (Significant) Number (N(S)N).
+Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+numbering plan: http://akep.al/images/stories/AKEP/plani-numracionit/1.NumraAlokuar.rar
+
+Link to the real-time database reflecting ITU-T E.164 ported numbers: http://www.portabiliteti.al/.
+
+                              Table 8-1 − Presentation of national numbering plan
+                                             for country code +355
+
+            (1)                         (2)                              (3)                            (4)
+                              Length of number
+NUMBERING RANGE
+(First part of number,
+                                                                                                    Additional
+short number and prefix.      Minimum         Maximum          Usage of E.164 number
+                                                                                                   information
+Complete number, short
+number);
+0                                                       National prefix
+00                                                      International prefix
+10 X1X2                          4              4       Carrier-selection codes                 X1, X2 = 0 ÷ 9
+99 X1X2                          4              4       Routing prefix phone number             X1, X2 = 0 ÷ 9
+                                                        portability
+4 S1S2S3S4S5S6S7                 8              8       Geographic number - for the provision   S1=2 ÷6;
+                                                        of Fixed telephone service.             S2 ÷S7 = 0 ÷9;
+22-25 S1S2S3S4S5S6               8              8       Geographic number - for the provision   S1=2 ÷9;
+                                                        of Fixed telephone service.             S2 ÷ S6 = 0 ÷9
+27-29 S1S2S3S4S5S6               8              8       Geographic number - for the provision   S1=2 ÷9;
+                                                        of Fixed telephone service.             S2 ÷ S6 =0 ÷9
+32-35 S1S2S3S4S5S6               8              8       Geographic number - for the provision   S1=2 ÷9;
+                                                        of Fixed telephone service.             S2 ÷ S6=0 ÷9
+37-39 S1S2S3S4S5S6               8              8       Geographic number - for the provision   S1=2 ÷9;
+                                                        of Fixed telephone service.             S2 ÷ S6=0 ÷9
+42-45 S1S2S3S4S5S6               8              8       Geographic number - for the provision   S1=2 ÷9;
+                                                        of Fixed telephone service.             S2 ÷ S6=0 ÷9
+47-49 S1S2S3S4S5S6               8              8       Geographic number - for the provision   S1=2 ÷9;
+                                                        of Fixed telephone service.             S2 ÷ S6=0 ÷9
+
+
+
+
+           (1)                       (2)                              (3)                            (4)
+                           Length of number
+NUMBERING RANGE
+(First part of number,
+                                                                                                 Additional
+short number and prefix.   Minimum         Maximum          Usage of E.164 number
+                                                                                                information
+Complete number, short
+number);
+52-55 S1S2S3S4S5S6           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S6=0 ÷9
+57-59 S1S2S3S4S5S6           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S6=0 ÷9
+82-85 S1S2S3S4S5S6           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S6=0 ÷9
+87-89 S1S2S3S4S5S6           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S6=0 ÷9
+210-219 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+260-269 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+270-279 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+280-289 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+290-299 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+310-319 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+360-369 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+370-379 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+380-389 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+390-399 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+510-519 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+560-569 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+570-579 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+580-589 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+590-599 S1S2S3S4S5           8               8       Geographic number - for the provision   S1=2 ÷9;
+                                                     of Fixed telephone service.             S2 ÷ S5=0 ÷9
+
+
+
+
+             (1)                      (2)                               (3)                                (4)
+                            Length of number
+NUMBERING RANGE
+(First part of number,
+                                                                                                     Additional
+short number and prefix.    Minimum         Maximum          Usage of E.164 number
+                                                                                                    information
+Complete number, short
+number);
+810-819 S1S2S3S4S5            8               8       Geographic number - for the provision      S1=2 ÷9;
+                                                      of Fixed telephone service.                S2 ÷ S5=0 ÷9
+860-869 S1S2S3S4S5            8               8       Geographic number - for the provision      S1=2 ÷9;
+                                                      of Fixed telephone service.                S2 ÷ S5=0 ÷9
+870-879 S1S2S3S4S5            8               8       Geographic number - for the provision      S1=2 ÷9;
+                                                      of Fixed telephone service.                S2 ÷ S5=0 ÷9
+880-889 S1S2S3S4S5            8               8       Geographic number - for the provision      S1=2 ÷9;
+                                                      of Fixed telephone service.                S2 ÷ S5=0 ÷9
+890-899 S1S2S3S4S5            8               8       Geographic number - for the provision      S1=2 ÷9;
+                                                      of Fixed telephone service.                S2 ÷ S5=0 ÷9
+62-69 S1S2S3S4S5S6 S7         9               9       Non Geographic number - for the            S1=2 ÷9;
+                                                      provision of Mobile telephone service.     S2 ÷ S7=0 ÷9
+11X and 19X                   3               3       Service short number                       X==0 ÷9
+                                                      European Harmonisation Short
+                                                      Codes(HESC)
+112, 125, 126, 127, 128,      3               3       Emergency number
+129
+116 000 – 116 999             6               6       Service number for the provision of
+                                                      harmonised social service
+118 X1X2 -118 X1X2            5               5       Telephone number for the provision         X1, X2 = 1 ÷9
+                                                      of information service
+122, 123, 124,                                        Short code for operator service
+130-139,
+140-149
+165
+1891, 1892
+700 S1S2S3S4S5                8               8       Personal number are designated for         S1=2 ÷9
+                                                      use at any fixed location or for           S2 ÷ S5=0 ÷9
+                                                      nomadic use
+717 X1X2X3X4                  7               7       Dial-up number are designated for          X1=1 ÷9
+                                                      dial-up access to the Internet or other    X2, X3, X4 =0 ÷9
+                                                      data services via the public telephone
+                                                      network.
+800 X1X2X3X4                  7               7       Green numbers are designated for           X1, X2, X3, X4 =0 ÷9
+                                                      services that can be called free of
+                                                      charge.
+801 X1X2X3                    6               6       Number for calling cards are               X1=1 ÷9
+                                                      designated for dial-up to a calling card   X2, X3 =0 ÷9
+                                                      service.
+808 X1X2X3                    6               6       Blue number For services that can be       X1=1 ÷9
+                                                      called with low retail tariff.             X2, X3 =0 ÷9
+
+
+
+
+             (1)                     (2)                               (3)                             (4)
+                           Length of number
+NUMBERING RANGE
+(First part of number,
+                                                                                                   Additional
+short number and prefix.   Minimum         Maximum          Usage of E.164 number
+                                                                                                  information
+Complete number, short
+number);
+900 X1X2X3                   6               6       Numbers for value added services are      X1=1 ÷9
+                                                     designated for services, where the        X2, X3 =0 ÷9
+                                                     service provider receives a part of the
+                                                     paid retail charges.
+5 X1X2X3X4                   5               5       Short codes for value added SMS           X1, X2, X3, X4 =0 ÷9
+                                                     services are designated for value
+                                                     added services based on text
+                                                     messages (SMS) or multimedia
+                                                     messages (MMS), where the service
+                                                     provider receives a part of the paid
+                                                     retail charge.
+
+
+
+
+Table B.1 − Description of implementation of number portability (NP) of ITU-T E.164 numbers in the national
+                                          numbering plan (NNP)
+
+                       Geographic numbers                             Non-      Mobile numbers
+                                                                   geographic
+                                                                    numbers
+                                                                     other
+                                                                      than
+                                                                     mobile
+                                                                    numbers
+ State of NP           Implemented since 2010                         No        Implemented since 2010
+ Regulatory            yes                                                      yes
+ obligation for
+ operators to
+ implement
+ Type of NP            Central Reference database                               Central Reference database
+ implementation        with all call query                                      with all call query
+ Limitations           Numbering area coverage                                  -
+ Specifications        www.akep.al                                              www.akep.al
+ available on
+ website
+ Contact               Numbering Department                                     Numbering Department
+ information           Tel:   + 35542 259571                                    Tel:   + 35542 259571
+ national              Fax:   + 35542 259106                                    Fax:   + 35542 259106
+ Administration        Email: numeracioni@akep.al                               Email: numeracioni@akep.al
+ numbering plan
+ administrator (NPA)
+ Central Reference     Infosoft Systems Sh.p.k.                                 Infosoft Systems Sh.p.k.
+ Database managed      Tel:    + 355 4 2251180                                  Tel:    + 355 4 2251180
+ and operated by       Fax:    + 355 4 2232990                                  Fax:    + 355 4 2232990
+                       Email: portabiliteti@infosoftgroup.com.al                Email: portabiliteti@infosoftgroup.com.al
+
+Contact
+       Aferdita Gjongecaj
+       Specialist for National Numbering Plan
+       Electronic and Postal Communications Authority
+       Str. “Reshit Çollaku”, Tirana
+       Albania
+       Tel:     +355 4 2259571
+       Fax:     +355 4 2259106
+       E-mail: aferdita.gjongecaj@akep.al;
+                numeracioni@akep.al
+       URL:     www.akep.al
+
+
+
+
+                                       Other communications
+
+Austria
+Communication of 8.II.2017:
+On the occasion of the International Marconi-Day, the Austrian Administration authorizes an Austrian amateur
+station to use the special call sign OE17M from 21 to 23 April 2017.
+Communication of 10.II.2017:
+On the occasion of the 20th anniversary of an Austrian Radio Amateur Club, the Austrian Administration
+authorizes an Austrian amateur station to use the special call sign OE20XMF from 8 to 9 April 2017.
+
+
+
+
+                    Changes in Administrations/ROAs and other entities
+                                    or Organizations
+
+
+Andorre
+Communication of 10.II.2017:
+                                               Change of name
+
+
+The Ministère de l'Administration publique, des Transports et des Télécommunications, Andorra la Vella,
+announces that it has changed its name. It is now called: « Ministère de l'Aménagement du Territoire ».
+
+                 Ministère de l'Aménagement du Territoire
+                 Camí de la Grau
+                 Edifici Administratiu Prat del Rull
+                 AD500 ANDORRA LA VELLA
+                 Andorre
+                 Tel.:    +376 875600
+                 E-mail comunicacio@govern.ad
+                 URL:     www.govern.ad
+
+
+Tuvalu
+Communication of 10.II.2017:
+                                               Change of name
+
+The Ministry of Communications, Transport and Tourism, Funafuti, announces that it has changed its name. It is
+now called: « Ministry of Communications and Transport ».
+
+                 Ministry of Communications and Transport
+                 Government Building, Vaiaku Private Mail Bag
+                 FUNAFUTI
+                 Tuvalu
+                 Tel.:   +688 20051
+                 Fax:    +688 20722
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                            Abbreviations used
+
+                               ADD   Insert                    PAR   paragraph
+                               COL   Column                    REP   replace
+                               LIR   Read                      SUP   Delete
+                               P     page(s)
+
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2016
+
+                                               Section VI
+REP
+
+      CN03   Beijing Marine Communication and Navigation Company Limited,
+             No. 1 Wai Guan Hou Shen, An Wai, Beijing, China 100011.
+             Tel.: +86 10 65293827, Fax: +86 10 65299985, E-Mail: cs@bjles.cn
+             Contact Person: Chen Yan
+
+      HX01   The Government of Hong Kong Special Administrative Region,
+             c/o Office of the Communications Authority, 29/F, Wu Chung House,
+             213 Queen's Road East, Wanchai, Hong Kong.
+             Tel.: +852 29616608, Fax: +852 28035113, E-Mail: maritime@ofta.gov.hk
+
+      HX04   Yick Fung Shipping & Enterprises Co. Ltd., c/o Cosco (H.K.) Shipping Co. Ltd.,
+             50-51/F., Cosco Tower, 183 Queen's Road, Central, Hong Kong, Hong Kong.
+             Tel.: +86 755 83297954, Fax: +86 755 83299125, E-Mail: linxh@coscochs.com.hk
+             Contact Person: Y.W. Ching
+
+      HX05   Ocean Tramping Co. Ltd., c/o Cosco (H.K.) Shipping Co. Ltd., 50-51/F.,
+             Cosco Tower, 183 Queen's Road, Central, Hong Kong, Hong Kong.
+             Tel.: +86 755 83297954, Fax: +86 755 83299125, E-Mail: linxh@coscochs.com.hk
+             Contact Person: C.Y. Wai
+
+      HX08   Marine Radio Systems Ltd., 6/F., Henan Electric Development Bldg.,
+             389 King's Road, North Point, Hong Kong, Hong Kong.
+             Tel.: +852 25786289, Fax: +852 28879144,
+             E-Mail: psa3013@hx08.com, svgmafe@netvigator.com
+             Contact Person: Victor Hui
+
+      HX13   Hostmost Engineering Ltd., Unit F & G, 12/F., Yan's Tower,
+             27 Wong Chuk Hang Road, Hong Kong, Hong Kong.
+             Tel.: +852 25549207, Fax: +852 25545152, E-Mail: sales@hostmost.com.hk
+             Contact Persons: Tony Ho, Alex Fung or K.S. Shum
+
+
+
+
+    KE01      Communications Authority of Kenya, 14448 00800, Nairobi, Kenya.
+              Tel.: +254 (020) 4242000/445, +254 703042000/445, Fax: +254 2 330435,
+              E-Mail: olwero@ca.go.ke
+              Contact Person: Tom M. OLWERO, Director Frequency Spectrum Management
+
+    TN19      Office de la Marine Marchande et des Ports, Direction du Port de Commerce,
+              7000, Bizerte, Tunisie.
+              Tel.: +216 72436455, Fax: +216 72433686
+              Contact Person: Dali Nabil Ben Abdelmajid.
+
+    TN26      Sonotrak, Avenue Med Hedi Kefacha, Imm. Fourati, App.5, Sfax, Tunisie.
+
+    TN27      Société MEDI CRUISE, 57, rue Abdelrazzek Cheraibi, 1001 Tunis, Tunisie.
+
+    TR01      Directorate General of Coastal Safety , Kiyi Emniyeti Genel Müdürlügü,
+              Telsiz Isletme Müdürlügü Besyol Mah. Inönü Cad. No: 3/1,
+              34295 Safaköy Istanbul, Turkey.
+              Tel.: +90 212 580 98 98 / 138, Fax: +90 212 580 91 91
+              Contact Person: Esma Pervin KESER
+
+    US07      Network Innovations US, Inc., 8300 Greensboro DR., Suite 1200, McLean,
+              VA 22102, United States.
+              Tel.: +1 703 584 8670, Fax: +1 703 584 8694, E-Mail: schernoff@fcclaw.com
+              Contact Person: John Spronk, Tel: +1 (954) 973 3100,
+              E-mail: John.spronk@networkinv.com.
+
+
+
+
+                       List of Issuer Identifier Numbers for
+               the International Telecommunication Charge Card
+         (in accordance with Recommendation ITU-T E.118 (05/2006))
+                         (Position on 15 November 2015)
+                        (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                         (Amendment No. 17)
+
+Kenya   ADD
+    Country/      Company Name/Address             Issuer     Contact                             Effective
+  geographical                                   Identifier                                        date of
+      area                                        Number                                           usage
+ Kenya            Jamii Telecommunications       89 254 10    Mr John Kamau                      18.X.2016
+                  Limited                                     Jamii Telecommunications Limited
+                  AdHouse, Korosho Road,                      P.O. Box 47419-00100
+                  Off Gitanga Road,                           NAIROBI
+                  Valley Arcade                               Tel.:     +254 711054109
+                  NAIROBI                                     E-mail: kamau@jtl.co.ke
+
+
+
+
+        Mobile Network Codes (MNC) for the international identification plan
+                      for public networks and subscriptions
+              (According to Recommendation ITU-T E.212 (09/2016))
+                         (Position on 1st November 2016)
+
+                            (Annex to ITU Operational Bulletin No. 1111 - 1.XI.2016)
+                                             (Amendment No. 8)
+
+   Country/Geographical area                MCC+MNC *             Operator/Network
+   Switzerland ADD
+                                                   228 55         WeMobile SA
+                                                   228 59         Mundio Mobile Limited
+                                                   228 61         Compatel Ltd
+   Tokelau ADD
+                                                   554 01         Teletok/LTE 4G
+
+
+ ____________
+ *        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+             MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                   List of International Signalling Point Codes (ISPC)
+                 (According to Recommendation ITU-T Q.708 (03/1999))
+                               (Position on 1 October 2016)
+
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 10)
+
+
+ Country/                   Unique name of the signalling point             Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Germany ADD
+ 2-125-6       5102         Frankfurt                                       MTT OY
+
+ Germany LIR
+ 2-036-5       4389         Frankfurt                                       TelcoVillage GmbH
+ 3-243-7       8095         Frankfurt                                       TelcoVillage GmbH
+
+ Hungary ADD
+ 4-243-4       10140        Debrecen-DIGIMOBIL-01                           DIGI Telecommunication Ltd
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                  National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web:www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that
+the information, which will be made available freely to all administrations/ROAs and service providers, can be
+posted on the ITU-T website.
+
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+
+From 1.II.2017 the following countries have updated their national numbering plan on our site:
+
+                                  Country                              Country Code (CC)
+               Mozambique                                                    +258
+               United Kingdom                                                 +44
+
+
+
+

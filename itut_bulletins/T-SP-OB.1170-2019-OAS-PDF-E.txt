@@ -1,0 +1,959 @@
+                       ITU Operational Bulletin
+                                                         www.itu.int/itu-t/bulletin
+
+       No. 1170              15.IV.2019                  (Information received by 1 April 2019) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                Standardization Bureau (TSB)                                           Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                               Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                               Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                              E-mail: brmail@itu.int
+
+
+
+
+                                                                 Table of Contents
+                                                                                                                                                                      Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ................................................................................3
+Approval of ITU-T Recommendations ......................................................................................................................4
+Telephone Service
+     Kenya (Communications Authority of Kenya (CA), Nairobi) ...............................................................................5
+     Mongolia (Communications Regulatory Commission of Mongolia, Ulaanbaatar) .............................................9
+     Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) ............................11
+Other communications:
+     Serbia ................................................................................................................................................................17
+Service Restrictions ................................................................................................................................................18
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) ...............................................................18
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .....................................19
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ....................................................................................................................................................21
+List of ITU Carrier Codes ........................................................................................................................................22
+List of International Signalling Point Codes (ISPC) .................................................................................................23
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1171              1.V.2019              12.IV.2019
+               1172             15.V.2019              26.IV.2019
+               1173              1.VI.2019             15.V.2019
+               1174             15.VI.2019             31.V.2019
+               1175             1.VII.2019             14.VI.2019
+               1176             15.VII.2019            28.VI.2019
+               1177             1.VIII.2019           15.VII.2019
+               1178            15.VIII.2019           31.VII.2019
+               1179              1.IX.2019            16.VIII.2019
+               1180             15.IX.2019            30.VIII.2019
+               1181              1.X.2019              16.IX.2019
+               1182             15.X.2019               1.X.2019
+               1183              1.XI.2019             15.X.2019
+               1184             15.XI.2019             1.XI.2019
+               1185             1.XII.2019             15.XI.2019
+               1186             15.XII.2019            2.XII.2019
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+                              Approval of ITU-T Recommendations
+By AAP-55, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+– ITU-T G.709/Y.1331 (2016) Amd. 3 (03/2019)
+– ITU-T G.997.2 (03/2019): Physical layer management for G.fast transceivers
+– ITU-T G.9701 (03/2019): Fast access to subscriber terminals (G.fast) - Physical layer specification
+– ITU-T G.9991 (03/2019): High speed indoor visible light communication transceiver - System architecture,
+physical layer and data link layer specification
+– ITU-T G.9992 (03/2019): Indoor optical camera communication transceivers - System architecture, physical
+layer and data link layer specification
+– ITU-T J.298 (03/2019): Requirements and technical specifications of cable TV hybrid set-top box that has the
+compatibility with terrestrial and satellite TV transport
+– ITU-T X.894 (2018) Cor. 1 (03/2019)
+– ITU-T X.1043 (03/2019): Security framework and requirements for service function chaining based on software-
+defined networking
+– ITU-T X.1094 (03/2019): Telebiometric authentication using biosignals
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+
+Kenya (country code +254)
+Communication of 29.III.2019:
+The Communications Authority of Kenya (CA), Nairobi, announces the following updated National Numbering
+Plan of Kenya.
+            Description of Updated National E.164 Numbering Plan for Kenya, Country Code 254:
+a)   Overview:
+     Minimum number length (excluding the country code):          seven (7) digits
+     Maximum number length (excluding the country code):          twelve (12) digits
+
+b) Detail of numbering plan:
+
+ NDC (national              N(S)N number length
+ destination code)
+ or leading digits of                                        Usage of
+                        Minimum        Maximum                                         Additional information
+ N(S)N (national                                        ITU-T E.164 number
+ (significant)           length         length
+ number
+ 100 to 102 (NDC)       Nine (9)      Nine (9)      Non Geographical number        Mobile Telephony Services
+                                                    for mobile telephony           assigned to Airtel Networks
+                                                    services                       Kenya Ltd
+ 110 to 111 (NDC)       Nine (9)      Nine (9)      Non Geographical number        Mobile Telephony Services
+                                                    for mobile telephony           assigned to Safaricom PLC
+                                                    services
+ 20 (NDC)               Eight (8)     Nine (9)      Geographical number for        Area Code for Nairobi
+                                                    fixed telephony services
+ 30 (NDC)               Twelve        Twelve (12)   M2M numbers                    300 00X XXX XXX Assigned
+                        (12)                                                       to Safaricom PLC
+ 40 (NDC)               Eight (8)     Nine (9)      Geographical number for        Area Code for Kwale
+                                                    fixed telephony services
+ 41 (NDC)               Nine (9)      Nine (9)      Geographical number for        Area Code for Mombasa
+                                                    fixed telephony services
+ 42 (NDC)               Seven (7)     Nine (9)      Geographical number for        Area Code for Malindi,
+                                                    fixed telephony services       Lamu and Garsen
+ 43 (NDC)               Nine (9)      Nine (9)      Geographical number for        Area Code for Kwale
+                                                    fixed telephony services
+ 44 (NDC)               Seven (7)     Nine (9)      Geographical number for        Area Code for Machakos,
+                                                    fixed telephony services       Makueni and Kitui
+ 45 (NDC)               Seven (7)     Nine (9)      Geographical number for        Area Code for Athi-River,
+                                                    fixed telephony services       Kajiado and Loitokitok
+ 46 (NDC)               Nine (9)      Nine (9)      Geographical number for        Area Code for Garissa,
+                                                    fixed telephony services       Wajir and Mandera
+ 50 (NDC)               Nine (9)      Nine (9)      Geographical number for        Area Code for Naivasha,
+                                                    fixed telephony services       Gilgil and Narok of Nakuru
+                                                                                   region
+
+
+
+
+NDC (national            N(S)N number length
+destination code)
+or leading digits of                                   Usage of
+                       Minimum      Maximum                                 Additional information
+N(S)N (national                                   ITU-T E.164 number
+(significant)           length       length
+number
+51 (NDC)               Eight (8)   Nine (9)    Geographical number for    Area Code for Nakuru,
+                                               fixed telephony services   Njoro, Molo areas of
+                                                                          Nakuru
+52(NDC)                Seven (7)   Nine (9)    Geographical number for    Area Code for Kericho and
+                                               fixed telephony services   Bomet
+53(NDC)                Seven (7)   Nine (9)    Geographical number for    Area Code for Eldoret,
+                                               fixed telephony services   Turbo, Kapsabet, Iten and
+                                                                          Kabarnet
+54 (NDC)               Seven (7)   Nine (9)    Geographical number for    Area Code for Kitale,
+                                               fixed telephony services   Moisbridge, Kapenguria
+                                                                          and Lodwar
+55 (NDC)               Seven (7)   Nine (9)    Geographical number for    Area Code for Bungoma
+                                               fixed telephony services   and Busia
+56 (NDC)               Seven (7)   Nine (9)    Geographical number for    Area Code for Kakamega,
+                                               fixed telephony services   and Vihiga regions
+57 (NDC)               Seven (7)   Nine (9)    Geographical number for    Area Code for Kisumu, and
+                                               fixed telephony services   Siaya regions
+58 (NDC)               Nine (9)    Nine (9)    Geographical number for    Area Code for Kisii, Kilgoris,
+                                               fixed telephony services   Oyugis and Nyamira
+59 (NDC)               Seven (7)   Nine (9)    Geographical number for    Area Code for Homabay
+                                               fixed telephony services   and Migori
+60 (NDC)               Seven (7)   Nine (9)    Geographical number for    Area Code for Muranga
+                                               fixed telephony services   and Kirinyaga
+61 (NDC)               Seven (7)   Nine (9)    Geographical number for    Area Code for Nyeri
+                                               fixed telephony services
+62 (NDC)               Nine (9)    Nine (9)    Geographical number for    Area Code for Nanyuki
+                                               fixed telephony services
+64 (NDC)               Seven       Nine (9)    Geographical number for    Area Code for Meru, Maua
+                                               fixed telephony services   and Chuka
+66 (NDC)               Eight (8)   Nine (9)    Geographical number for    Area Code for Thika and
+                                               fixed telephony services   Ruiru
+67 (NDC)               Seven (7)   Nine (9)    Geographical number for    Area Code for Kiambu and
+                                               fixed telephony services   Kikuyu towns
+68 (NDC)               Nine (9)    Nine (9)    Geographical number for    Area Code for Embu
+                                               fixed telephony services
+69 (NDC)               Seven (7)   Nine (9)    Geographical number for    Area Code for Marsabit
+                                               fixed telephony services   and Moyale
+700 to 709 (NDC)       Nine (9)    Nine (9)    Non Geographical number    Mobile Telephony Services
+710 to 719 (NDC)                               for mobile telephony       assigned to Safaricom PLC
+                                               services
+720 to 729 (NDC)
+
+730 to 739 (NDC)       Nine (9)    Nine (9)    Non Geographical number    Mobile Telephony Services
+                                               for mobile telephony       assigned to Airtel Networks
+                                               services                   Kenya Ltd
+
+NDC (national              N(S)N number length
+destination code)
+or leading digits of                                     Usage of
+                       Minimum        Maximum                                Additional information
+N(S)N (national                                     ITU-T E.164 number
+(significant)           length         length
+number
+740 to 743(NDC)        Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Safaricom PLC
+                                                 services
+744 (NDC)              Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Homeland
+                                                 services                  Media Ltd
+745 to 746(NDC)        Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Safaricom PLC
+                                                 services
+747 (NDC)              Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Jamii Telecoms
+                                                 services                  Ltd
+748 (NDC)              Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Safaricom PLC
+                                                 services
+749 (NDC)              Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony
+                                                 services
+750 to 756 (NDC)       Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Airtel Networks
+                                                 services                  Kenya Ltd
+757 to 759(NDC)        Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Safaricom PLC
+                                                 services
+760 (NDC)              Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Mobile Pay Ltd
+                                                 services
+761(NDC)               Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Eferio Kenya
+                                                 services                  Ltd
+762 (NDC)              Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Airtel Networks
+                                                 services                  Kenya Ltd
+763 to 766 (NDC)       Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Finserve Africa
+                                                 services                  Ltd
+767 (NDC)              Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Airtel Networks
+                                                 services                  Kenya Ltd
+768 to 769(NDC)        Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Safaricom PLC
+                                                 services
+770 to 779 (NDC)       Nine (9)      Nine (9)    Non Geographical number   Mobile Telephony Services
+                                                 for mobile telephony      assigned to Telkom Kenya
+                                                 services                  Ltd
+
+ NDC (national            N(S)N number length
+ destination code)
+ or leading digits of                                       Usage of
+                         Minimum     Maximum                                  Additional information
+ N(S)N (national                                       ITU-T E.164 number
+ (significant)            length      length
+ number
+ 780 to 789 (NDC)       Nine (9)     Nine (9)    Non Geographical number    Mobile Telephony Services
+                                                 for mobile telephony       assigned to Airtel Networks
+                                                 services                   Kenya Ltd
+ 790 to 799 (NDC)       Nine (9)     Nine (9)    Non Geographical number    Mobile Telephony Services
+                                                 for mobile telephony       assigned to Safaricom PLC
+                                                 services
+
+Contact:
+           Mr Peter Nyongesa
+           Communications Authority of Kenya (CA)
+           Waiyaki Way, Nairobi.
+           P.O. Box 14448
+           NAIROBI 00800
+           Kenya
+           Tel:      +254 20 4242000/+254 703 042000
+           E-mail: nyongesa@ca.go.ke; info@ca.go.ke
+           URL:      www.ca.go.ke
+
+
+
+
+Mongolia (country code +976)
+Communication of 22.III.2019:
+The Communications Regulatory Commission of Mongolia, Ulaanbaatar, announces the following updated
+National Numbering Plan of Mongolia:
+                            Presentation of national ITU-T E.164 numbering plan
+                                           for country code +976
+a)    Overview:
+      The minimum number length (excluding the country code) is           8   digits.
+      The maximum number length (excluding the country code) is           8   digits.
+
+b)    Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+         numbering plan (if any): http://crc.gov.mn/en/k/2n5/1O
+
+c)    Link to the real-time database reflecting ported ITU-T E.164 numbers (if any):
+      n/a
+
+d)    Detail of numbering plan
+
+      NDC (national          N(S)N number length
+   destination code) or
+                                                                        Usage of                    Additional
+ leading digits of N(S)N    Maximum         Minimum
+                                                                  ITU-T E.164 number               information
+  (national (significant)    length          length
+         number)
+                                                         Mobile Telephone Service
+ 99000000 – 99999999             8              8
+                                                         Operator: MOBICOM - Mongolia
+                                                         Mobile Telephone Service
+ 95000000 – 95999999             8              8
+                                                         Operator: MOBICOM - Mongolia
+                                                         Mobile Telephone Service
+ 94000000 – 94999999             8              8
+                                                         Operator: MOBICOM - Mongolia
+                                                         Mobile Telephone Service
+ 85000000 – 85999999             8              8
+                                                         Operator: MOBICOM - Mongolia
+                                                         Mobile Telephone Service
+ 91000000 – 91999999             8              8
+                                                         Operator: SKYTEL - Mongolia
+                                                         Mobile Telephone Service
+ 90000000 – 90999999             8              8
+                                                         Operator: SKYTEL - Mongolia
+                                                         Mobile Telephone Service
+ 96000000 – 96999999             8              8
+                                                         Operator: SKYTEL - Mongolia
+                                                         Mobile Telephone Service
+ 88000000 – 88999999             8              8
+                                                         Operator: UNITEL - Mongolia
+                                                         Mobile Telephone Service
+ 86000000 – 86999999             8              8
+                                                         Operator: UNITEL - Mongolia
+                                                         Mobile Telephone Service
+ 80000000 – 80999999             8              8
+                                                         Operator: UNITEL - Mongolia
+                                                         Mobile Telephone Service
+ 89000000 – 89999999             8              8
+                                                         Operator: UNITEL - Mongolia
+                                                         Mobile Telephone Service
+ 98000000 – 98999999             8              8
+                                                         Operator: G-MOBILE - Mongolia
+                                                         Mobile Telephone Service
+ 93000000 – 93499999             8              8
+                                                         Operator: G-MOBILE - Mongolia
+                                                         Mobile Telephone Service
+ 97000000 – 97199999             8              8
+                                                         Operator: G-MOBILE - Mongolia
+                                                         Mobile Telephone Service
+ 83000000 – 83199999             8              8
+                                                         Operator: G-MOBILE - Mongolia
+
+
+
+      NDC (national           N(S)N number length
+   destination code) or
+                                                                    Usage of                   Additional
+ leading digits of N(S)N    Maximum       Minimum
+                                                              ITU-T E.164 number              information
+  (national (significant)    length        length
+         number)
+                                                      Fixed Telephone Service
+ 70000000 – 70599999            8             8       Operator: Mongolia Telecom
+                                                      Company - Mongolia
+                                                      Fixed Telephone Service
+ 11 300000 – 11 399999          8             8       Operator: Mongolia Telecom
+                                                      Company - Mongolia
+ 11 450000 – 11 459999                                Fixed Telephone Service
+ 11 460000 – 11 469999          8             8       Operator: MONGOLIA TELECOM
+ 11 480000 – 11 489999                                COMPANY - Mongolia
+ 75750000 – 75759999
+ 75850000 – 75859999
+ 75950000 – 75959999
+ 75550000 – 75559999
+ 75770000 – 75779999
+ 75110000 – 75119999
+ 75100000 – 75109999                                  VoIP Service
+                                8             8
+ 75000000 – 75009999                                  Operator: MOBINET - Mongolia
+ 75050000 – 75059999
+ 75070000 – 75079999
+ 75090000 – 75099999
+ 75150000 – 75159999
+ 75350000 – 75359999
+ 75570000 – 75579999
+ 76000000 – 76199999                                  VoIP Service
+                                8             8
+ 76600000 – 76799999                                  Operator: SKYMEDIA - Mongolia
+                                                      VoIP Service
+ 77000000 – 77999999            8             8
+                                                      Operator: UNIVISION - Mongolia
+                                                      VoIP Service
+ 78000000 – 78199999            8             8
+                                                      Operator: GMOBILENET - Mongolia
+                                                      VoIP Service
+ 71000000 – 71009999            8             8       Operator: MONVSAT NETWORK -
+                                                      Mongolia
+
+Contact:
+           Communications Regulatory Commission of Mongolia
+           Mr Murun Ganbold
+           Expert of Numbering Regulation
+           Metro Business Center, 5th Floor,
+           Sukhbaatar Street-13, Sukhbaatar District,
+           ULAANBAATAR, 14201
+           Mongolia
+           Tel:     +976 11 304 258
+           Fax:    +976 11 327720
+           E-mail: regulation@crc.gov.mn; murun@crc.gov.mn
+           URL:    www.crc.gov.mn
+
+
+
+
+Morocco (country code +212)
+Communication of 22.III.2019:
+The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the update of the
+national telephone-numbering plan of Morocco, a closed ten-digit plan with the following format: CC N(S)N
+Where:
+          CC (country code) = 212
+          N(S)N (national (significant) number) consisting of nine digits = ZABPQMCDU
+International Prefix: "00"
+National Prefix: "0" for national calls must be dialled before all telephone numbers except for short numbers
+(Composed by 2, 3, 4 or 5 digits)
+The list of 0ZABPQMCDU numbers currently allocated is as follows:
+Detail of numbering plan (except for short numbers):
+
+
+         NDC (national         N(S)N number length
+      destination code) or
+                                                                  Usage of
+    leading digits of N(S)N                                                             Additional information
+                               Maximum      Minimum         ITU-T E.164 number
+     (national (significant)
+            number)             length       length
+
+              520                 9              9        Fixed telephone networks         Médi Telecom1
+              521                 9              9        Fixed telephone networks          Médi Telecom
+             5222                 9              9        Fixed telephone networks       Itissalat Al-Maghrib2
+             5223                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5224                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5225                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5226                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5227                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5228                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5229                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5232                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5233                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5234                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5235                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5237                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5242                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5243                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5244                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5246                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5247                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+             5248                 9              9        Fixed telephone networks       Itissalat Al-Maghrib
+              525                 9              9        Fixed telephone networks          Médi Telecom
+
+
+
+
+1   ORANGE
+2   MAROC TELECOM
+         NDC (national         N(S)N number length
+      destination code) or
+                                                             Usage of
+    leading digits of N(S)N                                                     Additional information
+                               Maximum    Minimum      ITU-T E.164 number
+     (national (significant)
+            number)             length     length
+
+              526                 9           9      Mobile services 2G/3G/4G      Wana Corporate3
+              527                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+             5282                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5283                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5285                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5286                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5287                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5288                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5289                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5290                 9           9      Fixed telephone networks      Wana Corporate
+            52980                 9           9      Fixed telephone networks      Wana Corporate
+            52990                 9           9      Fixed telephone networks      Wana Corporate
+              530                 9           9      Fixed telephone networks       Médi Telecom
+              532                 9           9      Fixed telephone networks       Médi Telecom
+              533                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+              534                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+             5352                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5353                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5354                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5355                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5356                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5357                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5358                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5359                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5362                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5363                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5365                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5366                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5367                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5368                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5372                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5373                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5374                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5375                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+             5376                 9           9      Fixed telephone networks     Itissalat Al-Maghrib
+
+
+
+3   INWI
+     NDC (national         N(S)N number length
+  destination code) or
+                                                         Usage of
+leading digits of N(S)N                                                     Additional information
+                           Maximum    Minimum      ITU-T E.164 number
+ (national (significant)
+        number)             length     length
+
+         5377                 9           9      Fixed telephone networks    Itissalat Al-Maghrib
+         5378                 9           9      Fixed telephone networks    Itissalat Al-Maghrib
+         5379                 9           9      Fixed telephone networks    Itissalat Al-Maghrib
+         5380                 9           9      Fixed telephone networks      Wana Corporate
+        53880                 9           9      Fixed telephone networks      Wana Corporate
+        53890                 9           9      Fixed telephone networks      Wana Corporate
+         5393                 9           9      Fixed telephone networks    Itissalat Al-Maghrib
+         5394                 9           9      Fixed telephone networks    Itissalat Al-Maghrib
+         5395                 9           9      Fixed telephone networks    Itissalat Al-Maghrib
+         5396                 9           9      Fixed telephone networks    Itissalat Al-Maghrib
+         5397                 9           9      Fixed telephone networks    Itissalat Al-Maghrib
+         5398                 9           9      Fixed telephone networks    Itissalat Al-Maghrib
+         5399                 9           9      Fixed telephone networks    Itissalat Al-Maghrib
+          540                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          546                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          547                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          550                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          553                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+        59240                 9           9               VSAT                    Cimecom
+        59241                 9           9               VSAT                    Spacecom
+          60                  9           9      Mobile services 2G/3G/4G      Wana Corporate
+          610                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          611                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          612                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          613                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          614                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          615                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          616                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          617                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          618                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          619                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          620                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          621                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          622                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          623                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          624                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          625                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+
+     NDC (national         N(S)N number length
+  destination code) or
+                                                         Usage of
+leading digits of N(S)N                                                     Additional information
+                           Maximum    Minimum      ITU-T E.164 number
+ (national (significant)
+        number)             length     length
+
+          626                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          627                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          628                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          629                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          630                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          631                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          632                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          633                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          634                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          635                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          636                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          637                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          638                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          639                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          640                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          641                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          642                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          643                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          644                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          645                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          646                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          647                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          648                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          649                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          650                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          651                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          652                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          653                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          654                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          655                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          656                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          657                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          658                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          659                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          660                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          661                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+          662                 9           9      Mobile services 2G/3G/4G     Itissalat Al-Maghrib
+
+     NDC (national         N(S)N number length
+  destination code) or
+                                                         Usage of
+leading digits of N(S)N                                                     Additional information
+                           Maximum    Minimum      ITU-T E.164 number
+ (national (significant)
+        number)             length     length
+
+          663                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          664                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          665                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          666                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          667                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          668                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          669                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          670                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          671                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          672                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          673                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          674                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          675                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          676                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          677                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          678                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          679                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          680                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          681                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          682                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          684                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          687                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          688                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          689                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          690                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          691                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+         6921                 9           9              GMPCS                Al Hourria Telecom
+         6922                 9           9              GMPCS                Al Hourria Telecom
+          693                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          694                 9           9      Mobile services 2G/3G/4G       Médi Telecom
+          695                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          696                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          697                 9           9      Mobile services 2G/3G/4G    Itissalat Al-Maghrib
+          698                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          699                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          700                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+          706                 9           9      Mobile services 2G/3G/4G      Wana Corporate
+
+      NDC (national          N(S)N number length
+   destination code) or
+                                                              Usage of
+ leading digits of N(S)N                                                         Additional information
+                            Maximum      Minimum        ITU-T E.164 number
+  (national (significant)
+         number)             length       length
+
+            707                 9            9       Mobile services 2G/3G/4G       Wana Corporate
+            708                 9            9       Mobile services 2G/3G/4G       Wana Corporate
+            761                 9            9       Mobile services 2G/3G/4G      Itissalat Al-Maghrib
+            762                 9            9       Mobile services 2G/3G/4G      Itissalat Al-Maghrib
+            766                 9            9       Mobile services 2G/3G/4G      Itissalat Al-Maghrib
+            767                 9            9       Mobile services 2G/3G/4G      Itissalat Al-Maghrib
+            770                 9            9       Mobile services 2G/3G/4G        Médi Telecom
+            771                 9            9       Mobile services 2G/3G/4G        Médi Telecom
+            772                 9            9       Mobile services 2G/3G/4G        Médi Telecom
+            777                 9            9       Mobile services 2G/3G/4G        Médi Telecom
+           8080                 9            9            VoIP (Centrex IP)        Itissalat Al-Maghrib
+           8081                 9            9                  VoIP                Wana Corporate
+           8082                 9            9                  VoIP                 Médi Telecom
+           8083                 9            9                  VoIP               Itissalat Al-Maghrib
+           8084                 9            9                  VoIP               Itissalat Al-Maghrib
+           8085                 9            9                  VoIP               Itissalat Al-Maghrib
+                                                      Publiphones à cartes via
+           89293                9            9                                     Itissalat Al-Maghrib
+                                                              VSAT
+
+Contact:
+           Motiaa Abdelhay
+           Agence Nationale de Réglementation des Télécommunications (ANRT)
+           Centre d'affaires
+           Address: Boulevard Ar-Riad, Hay Riad
+           B.P. 2939
+           RABAT 10100
+           Morocco
+           Tel:    +212 5 37 71 85 64
+           E-mail: numerotation@anrt.ma
+           URL:    www.anrt.ma
+
+
+
+
+                                      Other communications
+Serbia
+Communication of 21.III.2019:
+On the occasion of the 74th anniversary of the Victory Day “Dan Pobede”, the Serbian Administration authorizes
+the Amateur Radio Union of Serbia to use the special call sign YT74DP from 5 to 9 May 2019.
+Communication of 27.III.2019:
+On the occasion of the 10th anniversary of the foundation of the World Castles Award (WCA) Organization, the
+Serbian Administration authorizes the Serbian section “WCA-Serbia” to use the special call sign YU10WCA from
+1 to 31 July 2019.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+
+                                 ADD   Insert                        PAR     paragraph
+                                 COL   Column                        REP     replace
+                                 LIR   Read                          SUP     Delete
+                                 P     page(s)
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+                          (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                           (Amendment No. 8)
+
+Moldova (Republic of)      SUP
+
+    Country/      Company Name/Address             Issuer     Contact                                    Date of
+  geographical                                   Identifier                                            cancellation
+      area                                        Number
+ Moldova          I.M. Eventis Mobile s.r.l.     89 373 04    Oleg Primak                              16.VIII.2013
+ (Republic of)    Str. Sadoveanu M.2 Off 5                    b.125 off.5, 31 August Str.
+                  mum.                                        CHISINAU MD-2012
+                  MD-2044 CHISINAU                            Tel: +373 2223 4845
+                                                              Fax: +373 2223 4851
+                                                              E-mail: o.primak@eventismobile.md
+
+New Caledonia              LIR
+     Country/        Company Name/Address                     Issuer Identifier      Contact
+   geographical                                                   Number
+       area
+ New Caledonia       Office des Postes et des                    89 687 01           Olivier Amat
+                     Télécommunications (OPT)                                        2, rue Monchovet
+                     2 Rue Paul Monchovet                                            98841 NOUMEA Cedex
+                     Port Plaisance                                                  Tel: +687 268282
+                     98841 NOUMEA CEDEX                                              Fax: +687 289090
+                                                                                     E-mail: olivier.amat@opt.nc
+
+Portugal                   LIR
+    Country/        Company Name/Address                  Issuer           Contact
+  geographical                                          Identifier
+      area                                               Number
+ Portugal         Lycamobile Portugal, Lda              89 351 04          António Maria Spínola Brito Mendes
+                  Rua José Carlos dos Santos, 14                           Arnaut
+                  1700-257 LISBOA                                          Rua José Carlos dos Santos, 14
+                                                                           1700-257 LISBOA
+                                                                           Tel: +351 211 941 036
+                                                                           Fax:
+                                                                           E-mail: antonio.arnaut@lycamobile.pt
+
+
+
+
+Singapore        LIR
+    Country/     Company Name/Address                Issuer     Contact
+  geographical                                     Identifier
+      area                                          Number
+ Singapore       M1 Limited                        89 65 03     Matthias Foo
+                 10 International Business Park                 10 International Business Park
+                 SINGAPORE 609928                               SINGAPORE 609928
+                                                                Tel:     +65 6655 1837
+                                                                Fax:     +65 6655 1977
+                                                                E-mail: matthiasf@m1.com.sg
+ Singapore       StarHub Ltd                       89 65 05     Sarah Tay
+                 67 Ubi Avenue 1,                               67 Ubi Avenue 1,
+                 #05-01 StarHub Green                           #05-01 StarHub Green
+                 SINGAPORE 408942                               SINGAPORE 408942
+                                                                Tel:     +65 6825 6504
+                                                                Fax:     +65 6821 7002
+                                                                E-mail: saraht@starhub.com
+
+
+United Kingdom   LIR
+    Country/     Company Name/Address                Issuer     Contact
+  Geographical                                     Identifier
+      area                                          Number
+ United          Lycamobile UK Limited             89 44 84     Richard Hohenstein
+ Kingdom         3rd Floor Walbrook Building,                   3rd Floor, Walbrook Building,
+                 195 Marsh Wall                                 195 Marsh Wall,
+                 LONDON E14 9SG                                 LONDON E14 9SG
+                                                                Tel: +44 20 7536 6450 (ext 6585)
+                                                                Fax: +44 20 7536 6581
+                                                                Email: richard.hohenstein@lycatel.com
+ United          Lycatel Distribution UK Limited    89 44 85    Richard Hohenstein
+ Kingdom         3rd Floor Walbrook Building,                   3rd Floor, Walbrook Building,
+                 195 Marsh Wall                                 195 Marsh Wall,
+                 LONDON E14 9SG                                 LONDON E14 9SG
+                                                                Tel: +44 20 7536 6450 (ext 6585)
+                                                                Fax: +44 20 7536 6581
+                                                                Email: richard.hohenstein@lycatel.com
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                    for public networks and subscriptions
+            (According to Recommendation ITU-T E.212 (05/2008))
+                       (Position on 15 December 2018)
+                               (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                                       (Amendment No.7)
+
+
+
+
+    Country/Geographical area              MCC+MNC *              Operator/Network
+
+    Hungary SUP
+                                                 216 04           Invitech ICT Services Ltd.
+
+    Kenya SUP
+                                                 639 08           Sema Mobile Services Limited
+
+
+____________
+*       MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+        MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                           (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                            (Amendment No. 76)
+
+
+ Country or area/ISO code                             Company Code        Contact
+  Company Name/Address                                (carrier code)
+
+
+
+
+Germany (Federal Republic of) / DEU          ADD
+
+
+ Avacon Connect GmbH                                 AVAC         Mr Heiko Kusch
+ Peiner Str. 47                                                   Tel.:    +49 151 5259 7663
+ D-30880 LAATZEN                                                  E-mail : heiko.kusch@avacon.de
+
+ Jörg Weber Kommunikation KG                        JOWEKG        Mr Jörg Weber
+ Am Hasensprung 2                                                 Tel.:    +49 33056 413530
+ D-16567 MUEHLENBECK                                              Fax:     +49 33056 41359
+                                                                  E-mail : info@jowekom.de
+
+ linefinity GmbH & Co.KG                             LFTYDE       Tel.:    +49 32 222011011
+ Schwalbenweg 4                                                   Fax:     +49 32 222011019
+ D-74229 OEDHEIM                                                  E-mail : info@linefinity.com
+ Wwcon Waerme-Wohnen-Contracting GmbH               WWCON         Mrs Corinna Jaehneke
+ Kaiserin-Augusta-Allee 108                                       Tel.:    +49 30 3388 1029
+ D-10553 BERLIN                                                   E-mail : corinna.jaehneke@pyur.com
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (09/2016))
+                                    (Position on 1 October 2016)
+
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 54)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+ Belgium LIR
+ 2-098-6       4886         Nethys 1                                   Nethys SA
+ 2-098-7       4887         Nethys 2                                   Nethys SA
+
+ Sweden SUP
+ 6-229-2       14122        STPVanso1 (Linköping)                      VANSO GmbH
+
+ Sweden LIR
+ 6-238-3       14195        RWC-ISPC-1 (Stockholm)                     Netmore Group AB
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+

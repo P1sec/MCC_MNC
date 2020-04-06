@@ -1,0 +1,1023 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1123             1.V.2017                    (Information received by 14 April 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)) ................                                                           6
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                             6
+     Kosovo* (Regulatory Authority of Electronic and Postal Communications (ARKEP)) ...............................                                                9
+     Kuwait (Ministry of Communications, Safat) ............................................................................................                      11
+     Poland (Ministry of Digital Affairs, Warsaw) ............................................................................................                    14
+Service Restrictions ........................................................................................................................................     19
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   19
+AMENDMENTS TO SERVICE PUBLICATIONS
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         20
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                      21
+List of International Signalling Point Codes (ISPC) .........................................................................................                     21
+National Numbering Plan ...............................................................................................................................           22
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration
+of independence.
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1124             15.V.2017               1.V.2017
+               1125              1.VI.2017             16.V.2017
+               1126             15.VI.2017             1.VI.2017
+               1127             1.VII.2017             16.VI.2017
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+     (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+     E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+     subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+     (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+     Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1066 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+     (Position on 15 December 2014)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+     2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+     optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+     Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+     (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+     to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+     (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+     operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+     accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+     (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+     T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+     (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+     series Recommendations) (Position on 15 February 2011)
+972 List of terrestrial trunk radio mobile country codes (Complement to ITU-T Recommendation E.218
+     (05/2004)) (Position on 15 January 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+     on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+     Recommendation F.1 (03/1998))
+B.   The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-10, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.994.1 (2012) Amd. 8 (04/2017)
+–     ITU-T G.997.2 (2015) Amd. 3 (04/2017)
+–     ITU-T G.9701 (2014) Amd. 3 (04/2017)
+–     ITU-T G.9701 (2014) Cor. 3 (04/2017)
+–     ITU-T H.264 (V12) (04/2017): Advanced video coding for generic audiovisual services
+–     ITU-T H.821 (04/2017): Conformance of ITU-T H.810 personal health system: Healthcare information
+      system interface
+–     ITU-T H.830.1 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part 1:
+      Web services interoperability: Health & Fitness Service Sender
+–     ITU-T H.830.2 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part 2:
+      Web services interoperability: Health & Fitness Service Receiver
+–     ITU-T H.830.3 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part 3:
+      SOAP/ATNA: Health & Fitness Service Sender
+–     ITU-T H.830.4 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part 4:
+      SOAP/ATNA: Health & Fitness Service Receiver
+–     ITU-T H.830.5 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part 5:
+      PCD-01 HL7 Messages: Health & Fitness Service Sender
+–     ITU-T H.830.6 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part 6:
+      PCD-01 HL7 Messages: Health & Fitness Service Receiver
+–     ITU-T H.830.7 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part 7:
+      Consent Management: Health & Fitness Service Sender
+–     ITU-T H.830.8 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part 8:
+      Consent Management: Health & Fitness Service Receiver
+–     ITU-T H.830.9 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part 9:
+      hData Observation Upload: Health & Fitness Service Sender
+–     ITU-T H.830.10 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part
+      10: hData Observation Upload: Health & Fitness Service Receiver
+–     ITU-T H.830.11 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part
+      11: Questionnaires: Health & Fitness Service Sender
+–     ITU-T H.830.12 (04/2017): Conformance of ITU-T H.810 personal health system: Services interface Part
+      12: Questionnaires: Health & Fitness Service Receiver
+–     ITU-T H.840 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface: USB host
+–     ITU-T H.841 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface Part 1: Optimized Exchange Protocol: Personal Health Device
+–     ITU-T H.842 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface Part 2: Optimized Exchange Protocol: Personal Health Gateway
+–     ITU-T H.843 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface Part 3: Continua Design Guidelines: Personal Health Device
+–     ITU-T H.844 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface Part 4: Continua Design Guidelines: Personal Health Gateway
+
+
+
+–        ITU-T H.845.1 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5A: Weighing scale
+–        ITU-T H.845.2 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5B: Glucose meter
+–        ITU-T H.845.3 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5C: Pulse oximeter
+–        ITU-T H.845.4 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5D: Blood pressure monitor
+–        ITU-T H.845.5 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5E: Thermometer
+–        ITU-T H.845.6 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5F: Cardiovascular fitness and activity monitor
+–        ITU-T H.845.7 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5G: Strength fitness equipment
+–        ITU-T H.845.8 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5H: Independent living activity hub
+–        ITU-T H.845.9 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5I: Adherence monitor
+–        ITU-T H.845.10 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5I: Insulin Pump
+–        ITU-T H.845.11 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5K: Peak expiratory flow monitor
+–        ITU-T H.845.12 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5L: Body composition analyser
+–        ITU-T H.845.13 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5M: Basic electrocardiograph
+–        ITU-T H.845.14 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5N: International normalized ratio
+–        ITU-T H.845.15 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5O: Sleep apnoea breathing therapy equipment
+–        ITU-T H.845.16 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5P: Continuous glucose monitor
+–        ITU-T H.847 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 7: Continua Design Guidelines for Bluetooth Low Energy: Personal Health Devices
+–        ITU-T H.848 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 8: Continua Design Guidelines for Bluetooth Low Energy: Personal Health Gateway
+–        ITU-T L.1331 (04/2017): Assessment of mobile network energy efficiency
+
+
+
+
+                     Assignment of Signalling Area/Network Codes (SANC)
+                           (Recommendation ITU-T Q.708 (03/99))
+
+Note from TSB
+At the request of the Administrations of the Republic of Mali and the Republic of Serbia, the Director of TSB has
+assigned the following signalling area/network code (SANC) for use in the international part of the signalling
+system No. 7 network of these countries/geographical areas, in accordance with Recommendation ITU-T Q.708
+(03/99):
+                 Country/geographical area or signalling network                            SANC
+                    Mali (Republic of)                                                                           6-183
+                    Kosovo*                                                                                      7-213
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo
+declaration of independence.
+
+
+
+
+                                              Telephone Service
+                                         (Recommendation ITU-T E.164)
+                                                   url: www.itu.int/itu-t/inr/nnp
+
+Denmark (country code +45)
+Communication of 7.IV.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     assignment – Mobile communication services
+            Provider                             Numbering series                                                Date of assignment
+LINK Mobile A/S                 5251efgh                                                                              4.IV.2017
+
+
+•    Withdrawal – Fixed communication services
+           Provider                             Numbering series                                                 Date of withdrawal
+TDC A/S                         Please see below list of number series                                               28.III.2017
+
+    33194fgh         33195fgh            33196fgh            33197fgh            33198fgh            33199fgh            35520fgh
+    35521fgh         35522fgh            35523fgh            35524fgh            35525fgh            36100fgh            36101fgh
+    36105fgh         36106fgh            36107fgh            36108fgh            39120fgh            39121fgh            39122fgh
+    39123fgh         39124fgh            39125fgh            39684fgh            39685fgh            39686fgh            39687fgh
+    39688fgh         39689fgh            45562fgh            45563fgh            45564fgh            45567fgh            45568fgh
+    45569fgh         45574fgh            45575fgh            45576fgh            45577fgh            45578fgh            45579fgh
+    47102fgh         47103fgh            47104fgh            47105fgh            47106fgh            47109fgh            47354fgh
+    47355fgh         47356fgh            47357fgh            47358fgh            47359fgh            48472fgh            48473fgh
+    48474fgh         48477fgh            48478fgh            48479fgh            48780fgh            48781fgh            48782fgh
+    48787fgh         48788fgh            48789fgh            49204fgh            49205fgh            49206fgh            49207fgh
+    49208fgh         49209fgh            54734fgh            54735fgh            54736fgh            54737fgh            54738fgh
+    54739fgh         54912fgh            54913fgh            54916fgh            54917fgh            54918fgh            54919fgh
+    54980fgh         54981fgh            54982fgh            54983fgh            54984fgh            54985fgh            54990fgh
+    54991fgh         54992fgh            54993fgh            54994fgh            54995fgh            55400fgh            55401fgh
+
+
+
+55402fgh       55403fgh    55404fgh   55405fgh   55493fgh   55494fgh   55495fgh
+55496fgh       55497fgh    55498fgh   55520fgh   55521fgh   55522fgh   55523fgh
+55524fgh       55525fgh    55703fgh   55704fgh   55705fgh   55706fgh   55708fgh
+55709fgh       55853fgh    55854fgh   55856fgh   55857fgh   55858fgh   55859fgh
+55940fgh       55944fgh    55946fgh   55947fgh   55948fgh   55949fgh   56261fgh
+56262fgh       56263fgh    56264fgh   56265fgh   56269fgh   56291fgh   56294fgh
+56295fgh       56296fgh    56298fgh   56299fgh   56391fgh   56392fgh   56393fgh
+56394fgh       56395fgh    56396fgh   56520fgh   56523fgh   56524fgh   56525fgh
+56526fgh       56527fgh    56722fgh   56723fgh   56724fgh   56727fgh   56728fgh
+56729fgh       56823fgh    56824fgh   56825fgh   56826fgh   56827fgh   56829fgh
+57530fgh       57531fgh    57532fgh   57535fgh   57536fgh   57539fgh   57893fgh
+57895fgh       57896fgh    57897fgh   57898fgh   57899fgh   58110fgh   58114fgh
+58115fgh       58116fgh    58117fgh   58119fgh   58142fgh   58144fgh   58146fgh
+58147fgh       58148fgh    58149fgh   58251fgh   58252fgh   58254fgh   58256fgh
+58258fgh       58259fgh    58312fgh   58313fgh   58314fgh   58315fgh   58316fgh
+58317fgh       59112fgh    59113fgh   59114fgh   59115fgh   59116fgh   59117fgh
+59164fgh       59165fgh    59166fgh   59167fgh   59168fgh   59169fgh   59201fgh
+59202fgh       59203fgh    59204fgh   59205fgh   59206fgh   59491fgh   59492fgh
+59494fgh       59495fgh    59496fgh   59497fgh   59580fgh   59581fgh   59582fgh
+59583fgh       59584fgh    59585fgh   59623fgh   59624fgh   59625fgh   59626fgh
+59627fgh       59629fgh    59933fgh   59934fgh   59935fgh   59936fgh   59938fgh
+59939fgh       59960fgh    59964fgh   59966fgh   59967fgh   59968fgh   59969fgh
+62520fgh       62525fgh    62526fgh   62527fgh   62528fgh   62529fgh   62590fgh
+62592fgh       62593fgh    62594fgh   62595fgh   62596fgh   64450fgh   64452fgh
+64453fgh       64454fgh    64455fgh   64456fgh   64470fgh   64475fgh   64476fgh
+64477fgh       64478fgh    64479fgh   64740fgh   64743fgh   64744fgh   64745fgh
+64748fgh       64749fgh    64760fgh   64765fgh   64766fgh   64767fgh   64768fgh
+64769fgh       64780fgh    64782fgh   64783fgh   64784fgh   64785fgh   64786fgh
+64800fgh       64802fgh    64803fgh   64807fgh   64808fgh   64809fgh   64810fgh
+64815fgh       64816fgh    64817fgh   64818fgh   64819fgh   65153fgh   65155fgh
+65156fgh       65157fgh    65158fgh   65159fgh   65401fgh   65402fgh   65403fgh
+65405fgh       65406fgh    65407fgh   65442fgh   65443fgh   65445fgh   65446fgh
+65448fgh       65449fgh    73243fgh   73244fgh   73245fgh   73246fgh   73248fgh
+73249fgh       73400fgh    73401fgh   73402fgh   73406fgh   73408fgh   73409fgh
+73572fgh       73573fgh    73574fgh   73576fgh   73577fgh   73578fgh   73682fgh
+73683fgh       73684fgh    73686fgh   73688fgh   73689fgh   73781fgh   73784fgh
+73785fgh       73786fgh    73787fgh   73788fgh   74200fgh   74201fgh   74206fgh
+74207fgh       74208fgh    74209fgh   74360fgh   74361fgh   74366fgh   74367fgh
+74368fgh       74369fgh    74400fgh   74401fgh   74402fgh   74406fgh   74408fgh
+74409fgh       74443fgh    74444fgh   74445fgh   74446fgh   74447fgh   74448fgh
+74500fgh       74501fgh    74502fgh   74503fgh   74508fgh   74509fgh   74570fgh
+74572fgh       74573fgh    74574fgh   74577fgh   74578fgh   74580fgh   74581fgh
+74586fgh       74587fgh    74588fgh   74589fgh   74634fgh   74635fgh   74636fgh
+74637fgh       74638fgh    74639fgh   74740fgh   74741fgh   74742fgh   74746fgh
+74748fgh       74749fgh    75110fgh   75111fgh   75112fgh   75113fgh   75114fgh
+75118fgh       75182fgh    75183fgh   75184fgh   75185fgh   75186fgh   75189fgh
+75440fgh       75442fgh    75444fgh   75447fgh   75448fgh   75449fgh   75544fgh
+75545fgh       75546fgh    75547fgh   75548fgh   75549fgh   75762fgh   75764fgh
+75765fgh       75766fgh    75768fgh   75769fgh   75950fgh   75951fgh   75952fgh
+75953fgh       75955fgh    75956fgh   76230fgh   76231fgh   76235fgh   76236fgh
+76238fgh       76239fgh    76364fgh   76365fgh   76366fgh   76367fgh   76368fgh
+76369fgh       76490fgh    76491fgh   76492fgh   76493fgh   76494fgh   76495fgh
+76730fgh       76734fgh    76735fgh   76737fgh   76738fgh   76739fgh   79150fgh
+79152fgh       79153fgh    79154fgh   79155fgh   79158fgh   79210fgh   79214fgh
+79216fgh       79217fgh    79218fgh   79219fgh   79260fgh   79263fgh   79265fgh
+
+
+ 79267fgh       79268fgh        79269fgh   79290fgh   79291fgh   79293fgh      79294fgh
+ 79298fgh       79299fgh        79880fgh   79881fgh   79882fgh   79883fgh      79884fgh
+ 79889fgh       79940fgh        79941fgh   79943fgh   79944fgh   79945fgh      79949fgh
+ 86302fgh       86304fgh        86305fgh   86306fgh   86307fgh   86308fgh      86310fgh
+ 86311fgh       86312fgh        86313fgh   86314fgh   86315fgh   86353fgh      86354fgh
+ 86355fgh       86357fgh        86358fgh   86359fgh   86660fgh   86663fgh      86664fgh
+ 86665fgh       86666fgh        86669fgh   86744fgh   86745fgh   86746fgh      86747fgh
+ 86748fgh       86749fgh        87230fgh   87232fgh   87233fgh   87237fgh      87238fgh
+ 87239fgh       87561fgh        87563fgh   87564fgh   87567fgh   87568fgh      87569fgh
+ 87920fgh       87924fgh        87926fgh   87927fgh   87928fgh   87929fgh      87960fgh
+ 87961fgh       87962fgh        87963fgh   87967fgh   87968fgh   89132fgh      89133fgh
+ 89134fgh       89136fgh        89137fgh   89139fgh   89280fgh   89284fgh      89285fgh
+ 89286fgh       89287fgh        89289fgh   89500fgh   89504fgh   89506fgh      89507fgh
+ 89508fgh       89509fgh        89990fgh   89994fgh   89995fgh   89996fgh      89997fgh
+ 89998fgh       96220fgh        96224fgh   96226fgh   96227fgh   96228fgh      96229fgh
+ 96901fgh       96902fgh        96903fgh   96904fgh   96905fgh   96906fgh      96931fgh
+ 96933fgh       96936fgh        96937fgh   96938fgh   96939fgh   97260fgh      97261fgh
+ 97262fgh       97263fgh        97264fgh   97265fgh   97380fgh   97383fgh      97385fgh
+ 97387fgh       97388fgh        97389fgh   97431fgh   97433fgh   97434fgh      97436fgh
+ 97437fgh       97439fgh        97460fgh   97462fgh   97463fgh   97466fgh      97467fgh
+ 97469fgh       97470fgh        97474fgh   97475fgh   97477fgh   97478fgh      97479fgh
+ 97824fgh       97825fgh        97826fgh   97827fgh   97828fgh   97829fgh      97844fgh
+ 97845fgh       97846fgh        97847fgh   97848fgh   97849fgh   97913fgh      97914fgh
+ 97915fgh       97916fgh        97917fgh   97918fgh   97980fgh   97983fgh      97984fgh
+ 97987fgh       97988fgh        97989fgh   98270fgh   98273fgh   98274fgh      98275fgh
+ 98276fgh       98278fgh        98320fgh   98321fgh   98324fgh   98325fgh      98328fgh
+ 98329fgh       98513fgh        98514fgh   98515fgh   98516fgh   98517fgh      98518fgh
+ 98680fgh       98684fgh        98685fgh   98687fgh   98688fgh   98689fgh      98782fgh
+ 98784fgh       98786fgh        98787fgh   98788fgh   98789fgh   98860fgh      98862fgh
+ 98863fgh       98865fgh        98866fgh   98868fgh   98970fgh   98972fgh      98973fgh
+ 98974fgh       98976fgh        98979fgh   99190fgh   99193fgh   99194fgh      99196fgh
+ 99197fgh       99198fgh        99210fgh   99214fgh   99216fgh   99217fgh      99218fgh
+ 99219fgh       99240fgh        99242fgh   99244fgh   99246fgh   99247fgh      99249fgh
+ 99670fgh       99673fgh        99674fgh   99675fgh   99678fgh   99679fgh      99740fgh
+ 99744fgh       99745fgh        99747fgh   99748fgh   99749fgh   99760fgh      99764fgh
+ 99765fgh       99766fgh        99768fgh   99769fgh   99880fgh   99882fgh      99883fgh
+ 99884fgh       99885fgh        99886fgh   99892fgh   99893fgh   99894fgh      99895fgh
+ 99896fgh       99899fgh
+
+Contact:
+   Danish Energy Agency
+   Amaliegade 44
+   1256 COPENHAGEN K
+   Denmark
+   Tel:       +45 33 92 67 00
+   Fax:       +45 33 11 47 43
+   E-mail:    ens@ens.dk
+   URL:       www.ens.dk
+
+
+
+
+Kosovo (country code +383)
+Communication of 15.III.2017:
+The Regulatory Authority of Electronic and Postal Communications (ARKEP), announces the following National
+Numbering Plan of Kosovo*.
+
+                               Presentation of national ITU-T E.164 numbering plan
+                                              for country code: 383
+a)       Overview:
+         The minimum number length (excluding the country code) is 8 digits.
+         The maximum number length (excluding the country code) is 9 digits.
+b)       Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+         numbering plan (if any):
+         (http://www.arkep-rks.org/?cid=1,50)
+c)       Link to the real-time          database     reflecting   ported    ITU-T     E.164   numbers     (if   any):
+         (N/A)
+d)       Detail of numbering plan:
+
+
+
+
+    NDC (national          N(S)N number length
+ destination code) or
+                                                                                                     Additional
+   leading digits of      Maximum       Minimum             Usage of E.164 number
+                                                                                                    information
+   N(S)N (national         length        length
+(significant) number)
+                                                     Geographic numbers for Fixed
+        28 (NDC)               8            8        Telephony Services – Mitrovica
+                                                     Region
+                                                     Geographic numbers for Fixed
+        29 (NDC)               8            8
+                                                     Telephony Services – Prizreni Region
+                                                     Geographic numbers for Fixed
+        38 (NDC)               8            8        Telephony Services – Prishtina
+                                                     Region
+                                                     Geographic numbers for Fixed
+        39 (NDC)               8            8
+                                                     Telephony Services – Peja Region
+                                                     Geographic numbers for Fixed
+       280 (NDC)               9            8
+                                                     Telephony Services – Gjilani Region
+                                                     Geographic numbers for Fixed
+       290 (NDC)               9            8
+                                                     Telephony Services – Ferizaj Region
+                                                     Geographic numbers for Fixed
+       390 (NDC)               9            8
+                                                     Telephony Services – Gjakova Region
+                                                     Non-Geographic numbers for Mobile
+        41 (NDC)               8            8        Telephony Services – At National          Not Allocated
+                                                     Level
+                                                     Non-Geographic numbers for Mobile
+        42 (NDC)               8            8        Telephony Services – At National          Not Allocated
+                                                     Level
+
+
+
+
+ This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion
+on the Kosovo declaration of independence.
+
+    NDC (national       N(S)N number length
+ destination code) or
+                                                                                        Additional
+   leading digits of    Maximum   Minimum           Usage of E.164 number
+                                                                                       information
+   N(S)N (national       length    length
+(significant) number)
+                                                                                   Numbering Blocks 43
+                                              Non-Geographic numbers for Mobile    2xx xxx, 43 3xx xxx
+                                              Telephony Services – At National     and 43 4xx xxx are
+      43 (NDC)             8          8       Level                                allocated for usage
+                                              Operator: IPKO Telecommunications    by MVNO Dukagjini
+                                              LLC                                  Telecommunications
+                                                                                   LLC
+                                              Non-Geographic numbers for Mobile
+                                              Telephony Services – At National
+      44 (NDC)             8          8
+                                              Level
+                                              Operator: Telecom of Kosovo J.S.C.
+                                                                                   Numbering Blocks 45
+                                              Non-Geographic numbers for Mobile
+                                                                                   5xx xxx and 45 6xx
+                                              Telephony Services – At National
+      45 (NDC)             8          8                                            xxx are allocated for
+                                              Level
+                                                                                   usage by MVNO
+                                              Operator: Telecom of Kosovo J.S.C.
+                                                                                   Dardafon.Net LLC
+                                              Non-Geographic numbers for Mobile
+      46 (NDC)             8          8       Telephony Services – At National     Not Allocated
+                                              Level
+                                                                                   Numbering block 47
+                                                                                   100 000 – 159 999 is
+                                                                                   allocated for usage
+                                              Non-Geographic numbers for Mobile
+                                                                                   by operator mts
+      47 (NDC)             8          8       Telephony Services – At National
+                                                                                   D.O.O. with limited
+                                              Level
+                                                                                   infrastructure and
+                                                                                   operation in the
+                                                                                   ground
+                                              Non-Geographic numbers for Mobile
+      48 (NDC)             8          8       Telephony Services – At National     Not Allocated
+                                              Level
+                                              Non-Geographic numbers for Mobile
+                                              Telephony Services – At National
+      49 (NDC)             8          8       Level
+                                              Operator: IPKO Telecommunications
+                                              LLC
+
+
+
+
+       Description of important numbers related to emergency services and other services of social value:
+
+
+
+
+ Important number                 Service         Allocated or       E.164 number or             Note
+                                                    assigned           national-only
+                                                                         number
+ 112                     Emergency Services    Allocated in the     National only
+                                               NNP                  number
+ 192                     Police                Allocated in the     National only
+                                               NNP                  number
+ 193                     Fire                  Allocated in the     National only
+                                               NNP                  number
+ 194                     Medical               Allocated in the     National only
+                                               NNP                  number
+
+
+Contact:
+        Regulatory Authority of Electronic and Postal Communications (ARKEP)
+        Kreshnik Gashi, Chairman of the Board
+        Str. Bedri Pejani No.23, Prishtina 10000
+        Tel:     +381 38 212 345
+        E-mail: info@arkep-rks.org
+        URL:     www.arkep-rks.org
+
+
+Kuwait (country code +965)
+Communication of 11.IV.2017:
+The Ministry of Communications, Safat, announces the national numbering plan of Kuwait.
+I. Fixed network subscribers ranges operated by Ministry of Communications:
+Note: The range 18XX XXX is maximum 10 digits with the country code
+
+
+        SN.             SUBSCRIBERS RANGES
+         1               1800 000 – 1899 999
+         2              2200 0000 – 2299 9999
+         3              2300 0000 – 2399 9999
+         4              2410 0000 – 2439 9999
+         5              2450 0000 – 2499 9999
+         6              244 44400 – 244 44499
+         7              2500 0000 – 2500 9999
+         8              2503 0000 – 2504 9999
+         9              2520 0000 – 2549 9999
+        10              2551 0000 – 2553 9999
+        11              2560 0000 – 2569 9999
+        12              2571 0000 – 2577 9999
+
+
+
+
+II. Mobile network subscriber ranges operated by mobile operator, OOREDOO Telecom:
+
+      SN.            SUBSCRIBERS RANGES
+      1             6000 0000 – 6009 9999
+      2             6030 0000 – 6039 9999
+      3             6040 0000 – 6049 9999
+      4             6060 0000 – 6069 9999
+      5             6070 0000 – 6079 9999
+      6             6090 0000 – 6099 9999
+      7             6500 0000 – 6500 9999
+      8             6501 0000 – 6502 9999
+      9             6503 0000 – 6503 9999
+      10            6504 0000 – 6504 9999
+      11            6505 0000 – 6509 9999
+      12            6510 0000 – 6519 9999
+      13            6550 0000 – 6550 9999
+      14            6551 0000 – 6551 9999
+      15            6552 0000 – 6552 9999
+      16            6553 0000 – 6553 9999
+      17            6554 0000 – 6559 9999
+      18            6560 0000 – 6569 9999
+      19            6570 0000 – 6570 9999
+      20            6571 0000 – 6577 9999
+      21            6578 0000 – 6579 9999
+      22            6580 0000 – 6599 9999
+      23            6600 0000 – 6699 9999
+      24            6700 0000 – 6701 9999
+      25            6703 0000 – 6709 9999
+      26            6760 0000 – 6769 9999
+      27            6770 0000 – 6776 9999
+      28            6778 0000 – 6779 9999
+      29            6777 0000 – 6777 9999
+      30            6900 0000 – 6909 9999
+      31            6960 0000 – 6969 9999
+      32            6990 0000 – 6999 9999
+      33            6930 0000 – 6930 9999
+      34            6933 0000 – 6933 9999
+      35            6939 0000 – 6939 9999
+
+
+
+
+III. Mobile network subscriber ranges operated by mobile operator, ZAIN:
+
+      SN.             SUBSCRIBERS RANGES
+       1             9000 0000 – 9009 9999
+       2             9090 0000 – 9099 9999
+       3             9220 0000 – 9229 9999
+       4             9400 0000 – 9409 9999
+       5             9440 0000 – 9449 9999
+       6             9410 0000 – 9419 9999
+       7             9470 0000 – 9479 9999
+       8             9490 0000 – 9499 9999
+      9              9550 0000 – 9559 9999
+      10             9600 0000 – 9609 9999
+      11             9660 0000 – 9660 9999
+      12             9690 0000 – 9699 9999
+      13             9670 0000 – 9679 9999
+      14             9702 0000 – 9702 9999
+      15             9710 0000 – 9769 9999
+      16             9770 0000 – 9779 9999
+      17             9780 0000 – 9799 9999
+      18             9870 0000 – 9879 9999
+      19             9800 0000 – 9809 9999
+      20             9850 0000 – 9859 9999
+      21             9880 0000 – 9889 9999
+      22             9900 0000 – 9999 9999
+
+IV. Mobile network subscriber ranges operated by mobile operator, VIVA:
+
+      SN.             SUBSCRIBERS RANGES
+       1             5000 0000 – 5009 9999
+       2             501 00000 – 501 99999
+       3              502 00000 - 502 99999
+       4             503 00000 – 503 99999
+       5             504 00000 – 504 99999
+       6             505 00000 – 505 99999
+       7             506 00000 – 506 99999
+       8             507 00000 – 507 99999
+       9             508 00000 – 508 99999
+      10             509 00000 – 509 99999
+      11             550 00000 – 559 99999
+      12             510 00000 – 510 99999
+      13             511 00000 – 511 99999
+      14             512 00000 – 512 99999
+      15             513 00000 – 513 99999
+      16             514 00000 – 514 99999
+      17             515 00000 – 515 99999
+
+
+
+        SN.            SUBSCRIBERS RANGES
+        18             516 00000 – 516 99999
+        19             517 00000 – 517 99999
+        20             522 20000 – 522 29999
+        21             525 20000 – 525 29999
+        22             525 50000 – 525 59999
+        23             565 00000 – 565 99999
+        24             566 00000 – 566 99999
+
+
+Note:
+The underlined range was recently defined at our international gateway.
+The 3-digit fixed network subscriber numbers (100-179), operated by Ministry of Communications, will remain
+unchanged.
+Contact:
+        Network Operation Center (NOC)
+        Ministry of Communications
+        P.O. Box 318
+        11111 SAFAT
+        Kuwait
+        Tel:     +965 2241 6565/ +965 2246 6621
+        Fax:     +965 2245 9797
+        E-mail: igw-noc@moc.kw
+        URL:     www.moc.kw
+
+
+
+Poland (country code +48)
+Communication of 3.IV.2017:
+The Ministry of Digital Affairs, Warsaw, announces the following telephone numbering plan for Poland:
+
+                    Presentation of E.164 national numbering for country code +48 (Poland)
+a)      Overview:
+        The minimum number length (excluding the country code) is: five (5) digits
+        The maximum number length (excluding the country code) is: nine (9) digits
+
+
+
+
+b)     Detail of numbering scheme:
+
+
+
+  NDC (National        N(S)N number length
+Destination Code)
+or leading digits of
+                       Maximum    Minimum    Usage of E.164 number         Additional information
+ N(S)N (National
+     Significant        length     length
+      Number)
+116 (NDC)                   6        6       Non-geographic number   Harmonized European Short Codes
+                                                                     for harmonized services of social
+                                                                     value
+118 (NDC)                   6        6       Non-geographic number   Directory Enquiry Services
+12 (NDC)                    9        9       Geographic number       Area code for Krakow numbering
+                                                                     zone
+13 (NDC)                    9        9       Geographic number       Area code for Krosno numbering
+                                                                     zone
+14 (NDC)                    9        9       Geographic number       Area code for Tarnow numbering
+                                                                     zone
+15 (NDC)                    9        9       Geographic number       Area code for Tarnobrzeg
+                                                                     numbering zone
+16 (NDC)                    9        9       Geographic number       Area code for Przemysl numbering
+                                                                     zone
+17 (NDC)                    9        9       Geographic number       Area code for Rzeszow numbering
+                                                                     zone
+18 (NDC)                    9        9       Geographic number       Area code for Nowy Sacz
+                                                                     numbering zone
+19 (NDC)                    5        5                               Customer services
+20 (NDC)                    6        6       Non-geographic number   Data networks (Dial-up access)
+22 (NDC)                    9        9       Geographic number       Area code for Warszawa
+                                                                     numbering zone
+23 (NDC)                    9        9       Geographic number       Area code for Ciechanow
+                                                                     numbering zone
+24 (NDC)                    9        9       Geographic number       Area code for Plock numbering
+                                                                     zone
+25 (NDC)                    9        9       Geographic number       Area code for Siedlce numbering
+                                                                     zone
+26 (NDC)                    9        9                               Ministry of National Defence
+29 (NDC)                    9        9       Geographic number       Area code for Ostroleka numbering
+                                                                     zone
+32 (NDC)                    9        9       Geographic number       Area code for Katowice numbering
+                                                                     zone
+33 (NDC)                    9        9       Geographic number       Area code for Bielsko Biala
+                                                                     numbering zone
+34 (NDC)                    9        9       Geographic number       Area code for Czestochowa
+                                                                     numbering zone
+39 (NDC)                    9        9       Non-geographic number   Services based on IP
+41 (NDC)                    9        9       Geographic number       Area code for Kielce numbering
+                                                                     zone
+
+
+
+  NDC (National        N(S)N number length
+Destination Code)
+or leading digits of
+                       Maximum    Minimum    Usage of E.164 number         Additional information
+ N(S)N (National
+     Significant        length     length
+      Number)
+42 (NDC)                  9          9       Geographic number       Area code for Lodz numbering zone
+43 (NDC)                  9          9       Geographic number       Area code for Sieradz numbering
+                                                                     zone
+44 (NDC)                  9          9       Geographic number       Area code for Piotrkow Trybunalski
+                                                                     numbering zone
+45 (NDC)                  9          9       Non-geographic number   Mobile telephony service
+
+46 (NDC)                  9          9       Geographic number       Area code for Skierniewice
+                                                                     numbering zone
+48 (NDC)                  9          9       Geographic number       Area code for Radom numbering
+                                                                     zone
+50 (NDC)                  9          9       Non-geographic number   Mobile telephony service
+51 (NDC)                  9          9       Non-geographic number   Mobile telephony service
+52 (NDC)                  9          9       Geographic number       Area code for Bydgoszcz
+                                                                     numbering zone
+53 (NDC)                  9          9       Non-geographic number   Mobile telephony service
+54 (NDC)                  9          9       Geographic number       Area code for Wloclawek
+                                                                     numbering zone
+55 (NDC)                  9          9       Geographic number       Area code for Elblag numbering
+                                                                     zone
+56 (NDC)                  9          9       Geographic number       Area code for Torun numbering
+                                                                     zone
+57 (NDC)                  9          9       Non-geographic number   Mobile telephony service
+58 (NDC)                  9          9       Geographic number       Area code for Gdansk numbering
+                                                                     zone
+59 (NDC)                  9          9       Geographic number       Area code for Slupsk numbering
+                                                                     zone
+60 (NDC)                  9          9       Non-geographic number   Mobile telephony service
+61 (NDC)                  9          9       Geographic number       Area code for Poznan numbering
+                                                                     zone
+62 (NDC)                  9          9       Geographic number       Area code for Kalisz numbering
+                                                                     zone
+63 (NDC)                  9          9       Geographic number       Area code for Konin numbering
+                                                                     zone
+64 (NDC)                  9          6       Non-geographic number   Paging
+65 (NDC)                  9          9       Geographic number       Area code for Leszno numbering
+                                                                     zone
+66 (NDC)                  9          9       Non-geographic number   Mobile telephony service
+67 (NDC)                  9          9       Geographic number       Area code for Pila numbering zone
+68 (NDC)                  9          9       Geographic number       Area code for Zielona Gora
+                                                                     numbering zone
+69 (NDC)                  9          9       Non-geographic number   Mobile telephony service
+
+
+  NDC (National        N(S)N number length
+Destination Code)
+or leading digits of
+                       Maximum     Minimum       Usage of E.164 number         Additional information
+ N(S)N (National
+     Significant        length      length
+      Number)
+70 (NDC)                    9          9        Non-geographic number    Access to services of intelligent
+                                                                         network
+71 (NDC)                    9          9        Geographic number        Area code for Wroclaw
+72 (NDC)                    9          9        Non-geographic number    Mobile telephony service
+73 (NDC)                    9          9        Non-geographic number    Mobile telephony service
+74 (NDC)                    9          9        Geographic number        Area code for Walbrzych
+                                                                         numbering zone
+75 (NDC)                    9          9        Geographic number        Area code for Jelenia Gora
+                                                                         numbering zone
+76 (NDC)                    9          9        Geographic number        Area code for Legnica numbering
+                                                                         zone
+77 (NDC)                    9          9        Geographic number        Area code for Opole numbering
+                                                                         zone
+78 (NDC)                    9          9        Non-geographic number    Mobile telephony service
+79 (NDC)                    9          9        Non-geographic number    Mobile telephony service
+80 (NDC)                    9          9        Non-geographic number    Access to services of intelligent
+                                                                         network
+81 (NDC)                    9          9        Geographic number        Area code for Lublin numbering
+                                                                         zone
+82 (NDC)                    9          9        Geographic number        Area code for Chelm numbering
+                                                                         zone
+83 (NDC)                    9          9        Geographic number        Area code for Biala Podlaska
+                                                                         numbering zone
+84 (NDC)                    9          9        Geographic number        Area code for Zamosc numbering
+                                                                         zone
+85 (NDC)                    9          9        Geographic number        Area code for Bialystok numbering
+                                                                         zone
+86 (NDC)                    9          9        Geographic number        Area code for Lomza numbering
+                                                                         zone
+87 (NDC)                    9          9        Geographic number        Area code for Suwalki numbering
+                                                                         zone
+88 (NDC)                    9          9        Non-geographic number    Mobile telephony service
+89 (NDC)                    9          9        Geographic number        Area code for Olsztyn numbering
+                                                                         zone
+91 (NDC)                    9          9        Geographic number        Area code for Szczecin numbering
+                                                                         zone
+94 (NDC)                    9          9        Geographic number        Area code for Koszalin numbering
+                                                                         zone
+95 (NDC)                    9          9        Geographic number        Area code for Gorzow Wielkopolski
+                                                                         numbering zone
+
+
+c)     Details of allocation: www.uke.gov.pl/tablice
+
+
+d)    There also exist three digits short codes for emergency calls:
+      112 – Common emergency number,
+      984 – River rescue service,
+      985 – Mountain/sea rescue service,
+      986 – Municipal police,
+      987 – Crisis management centers
+      991 – Power stations brigade,
+      992 – Gas brigade,
+      993 – Heating brigade,
+      994 – Waterworks brigade,
+      995 – Child Alert,
+      996 – Anti-terrorist emergency number
+      997 – Police,
+      998 – Fire brigade,
+      999 – Ambulance.
+Contact:
+      Mr Przemysław Ołowski
+      Ministry of Digital Affairs
+      Department of Telecommunications
+      Królewska 27
+      00-060 WARSAW
+      Poland
+      Tel:     +48 22 2455856
+      E-mail: przemyslaw.olowski@mc.gov.pl
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                                     Abbreviations used
+
+                                   ADD     Insert                        PAR     paragraph
+                                   COL     Column                        REP     replace
+                                   LIR     Read                          SUP     Delete
+                                   P       page(s)
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                     for public networks and subscriptions
+             (According to Recommendation ITU-T E.212 (09/2016))
+                       (Position on 1st November 2016)
+
+                              (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                              (Amendment No. 12)
+
+
+
+Country/Geographical area                MCC+MNC          Operator/Network
+Kosovo* ADD
+                                           221 01         Telecom of Kosovo J.S.C.
+                                           221 02         IPKO Telecommunications LLC
+                                           221 06         Dardafon.Net LLC
+
+____________
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the
+Kosovo declaration of independence.
+
+
+Spain SUP
+                                            214 10        Operadora de Telecomunicaciones Opera SL
+                                            214 11        France Telecom España, SA
+                                            214 12        Contacta Servicios Avanzados de Telecomunicaciones SL
+                                            214 13        Incotel Ingeniera y Consultaria SL
+                                            214 14        Incotel Servicioz Avanzados SL
+                                                          BT España Compañia de Servicios Globales de
+                                            214 15
+                                                          Telecomunicaciones, SAU
+                                            214 20        Fonyou Telecom, SL
+
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                             (Position on 15 December 2014)
+                              (Annex to ITU Operational Bulletin No. 1066 – 15.XII.2014)
+                                               (Amendment No. 25)
+
+
+
+ Numerical order        ADD
+               6-183      Mali (Republic of)
+               7-213      Kosovo*
+
+
+
+ Alphabetical order ADD
+               7-213      Kosovo*
+               6-183      Mali (Republic of)
+
+____________
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the
+Kosovo declaration of independence.
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                               (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                               (Amendment No. 13)
+
+
+ Country/                 Unique name of the signalling point            Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+ Australia ADD
+ 5-122-6    11222         Sydney                                         Stephen Dalmeida (Globetouch Inc)
+ 5-122-7       11223      Melbourne                                      Stephen Dalmeida (Globetouch Inc)
+
+ Kosovo* ADD
+ 7-214-0       16048      TK01 (SP)                                      Telecom of Kosovo J.S.C
+ 7-214-1       16049      TK02 (GMSC)                                    Telecom of Kosovo J.S.C
+ 7-214-2       16050      TK03 (GMSC)                                    Telecom of Kosovo J.S.C
+ 7-214-3       16051      MSCS91                                         IPKO Telecommunications LLC
+ 7-214-4       16052      MGW91                                          IPKO Telecommunications LLC
+ 7-214-5       16053      EIMOB1                                         IPKO Telecommunications LLC
+ 7-214-6       16054      KNET-Prishtinë                                 Kujtesa.Net LLC
+ * This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the
+   Kosovo declaration of independence.
+
+
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC         DEC
+
+ Mali ADD
+ 6-020-0  12448             MSC1-Huawei (Site ACI2000)                 SOTELMA SA
+ 6-020-1      12449         Plateforme Roaming Halys( Site ACI2000)    SOTELMA SA
+ 6-020-2      12450         CTI NGN HUAWEI à Bamako-Coura              SOTELMA SA
+ 6-020-4      12452         ATEL-GMSC                                  ATEL SA
+ 6-020-5      12453         ATEL-STP                                   ATEL SA
+ 6-020-6      12454         SCCPGW                                     Orange Mali SA
+ 6-020-7      12455         GMSC1                                      Orange Mali SA
+ 6-183-0      13752         GMSC2                                      Orange Mali SA
+ 6-183-1      13753         STP1                                       Orange Mali SA
+ 6-183-2      13754         STP2                                       Orange Mali SA
+
+ Mali LIR
+ 6-020-3      12451         CTI NGN ALU au Halles de Bamako            SOTELMA SA
+
+___________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+                                   National Numbering Plan
+                    (According to Recommendation ITU-T E.129 (01/2013))
+                                          Web:www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.IV.2017 the following countries have updated their national numbering plan on our site:
+
+
+                              Country                                            Country Code (CC)
+ Burkina Faso                                                                           +226
+ Congo                                                                                  +242
+ Ghana                                                                                  +233
+ Iran (Islamic Republic of)                                                             +98
+
+
+
+

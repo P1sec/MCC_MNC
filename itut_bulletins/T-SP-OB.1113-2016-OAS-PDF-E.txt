@@ -1,0 +1,1012 @@
+                        ITU Operational Bulletin
+                                                          www.itu.int/itu-t/bulletin
+
+       No. 1113              1.XII.2016                   (Information received by 16 November 2016) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                             Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                                 Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                                 Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                                E-mail: brmail@itu.int
+
+
+
+
+                                                                   Table of Contents
+                                                                                                                                                                         Page
+
+
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ................................................................................3
+Approval of ITU-T Recommendations ......................................................................................................................4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)):
+     Italy .....................................................................................................................................................................6
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ................................................................................................7
+     Kenya (Communications Authority of Kenya (CA), Nairobi) ...............................................................................8
+     Guinea-Bissau (Autoridade Reguladora Nacional das Tecnologias de Informação e Comunicação (ARN),
+        Bissau) ...........................................................................................................................................................9
+Other communication:
+     Autria ................................................................................................................................................................12
+Service Restrictions ................................................................................................................................................13
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) ...............................................................13
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .................................................14
+List of International Monitoring Stations (List VIII) ................................................................................................15
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .............................................................................................................................................16
+List of Signalling Area/Network Codes (SANC) .......................................................................................................16
+List of International Signalling Point Codes (ISPC) .................................................................................................17
+National Numbering Plan .......................................................................................................................................25
+
+
+
+
+                                                                                                                                         www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1114             15.XII.2016            1.XII.2016
+               1115              1.I.2017             12.XII.2016
+               1116              15.I.2017              2.I.2017
+               1117              1.II.2017             16.I.2017
+               1118             15.II.2017              1.II.2017
+               1119              1.III.2017            15.II.2017
+               1120             15.III.2017            1.III.2017
+               1121              1.IV.2017             17.III.2017
+               1122             15.IV.2017             31.III.2017
+               1123              1.V.2017              14.IV.2017
+               1124             15.V.2017               1.V.2017
+               1125              1.VI.2017             16.V.2017
+               1126             15.VI.2017             1.VI.2017
+               1127             1.VII.2017             16.VI.2017
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+     subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+     (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+     Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1066 List of Signalling Area/Network Codes (SANC) (Complement to ITU-T Recommendation Q.708 (03/99))
+     (Position on 15 December 2014)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+     2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+     optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+     Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+     (Position on 1 November 2012)
+1005 List of mobile country or geographical area codes (Complement to ITU-T Recommendation E.212
+     (05/2008)) (Position on 1 June 2012).
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+     to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+     (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+     operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+     accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 List of ITU-T Recommendation E.164 assigned country codes (Complement to ITU-T Recommendation
+     E.164 (11/2010)) (Position on 1 November 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+     (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+     T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+     (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+     series Recommendations) (Position on 15 February 2011)
+972 List of terrestrial trunk radio mobile country codes (Complement to ITU-T Recommendation E.218
+     (05/2004)) (Position on 15 January 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+     on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+     Recommendation F.1 (03/1998))
+B.   The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                             Approval of ITU-T Recommendations
+By AAP-01, it was announced that the following ITU-T Recommendations were approved, in
+accordance with the procedures outlined in Recommendation ITU-T A.8:
+– ITU-T G.8272.1/Y.1367.1 (11/2016): Timing characteristics of enhanced primary reference time clocks
+– ITU-T G.652 (11/2016): Characteristics of a single-mode optical fibre and cable
+– ITU-T G.654 (11/2016): Characteristics of a cut-off shifted single-mode optical fibre and cable
+– ITU-T G.657 (11/2016): Characteristics of a bending-loss insensitive single-mode optical fibre and cable for
+  the access network
+– ITU-T G.697 (11/2016): Optical monitoring for dense wavelength division multiplexing systems
+– ITU-T G.709/Y.1331 (2016) Amd. 1 (11/2016)
+– ITU-T G.808 (11/2016): Terminology for protection and restoration
+– ITU-T G.813 (2003) Cor. 2 (11/2016)
+– ITU-T G.870/Y.1352 (11/2016): Terms and definitions for optical transport networks
+– ITU-T G.874.1 (11/2016): Optical transport network: Protocol-neutral management information model for
+  the network element view
+– ITU-T G.971 (11/2016): General features of optical fibre submarine cable systems
+– ITU-T G.972 (11/2016): Definition of terms relevant to optical fibre submarine cable systems
+– ITU-T G.973 (11/2016): Characteristics of repeaterless optical fibre submarine cable systems
+– ITU-T G.979 (11/2016): Characteristics of monitoring systems for optical submarine cable systems
+– ITU-T G.989.3 (2015) Amd.1 (11/2016)
+– ITU-T G.993.2 (2015) Cor.1 (11/2016)
+– ITU-T G.993.5 (2015) Cor. 1 (11/2016)
+– ITU-T G.997.1 (2012) Cor. 1 (11/2016)
+– ITU-T G.7701 (11/2016): Common Control Aspects
+– ITU-T G.7710/Y.1701 (2012) Amd. 1 (11/2016)
+– ITU-T G.8011/Y.1307 (11/2016): Ethernet service characteristics
+– ITU-T G.8012/Y.1308 (2004) Amd. 2 (11/2016)
+– ITU-T G.8021/Y.1341 (11/2016): Characteristics of Ethernet transport network equipment functional blocks
+– ITU-T G.8032/Y.1344 (2015) Amd. 1 (11/2016)
+– ITU-T G.8052/Y.1346 (11/2016): Protocol-neutral management information model for the Ethernet
+  transport capable network element
+– ITU-T G.8101/Y.1355 (11/2016): Terms and definitions for MPLS transport profile
+– ITU-T G.8113.1/Y.1372.1 (2016) Cor. 1 (11/2016)
+– ITU-T G.8121/Y.1381 (2016) Cor. 1 (11/2016)
+– ITU-T G.8121.1/Y.1381.1 (2016) Cor. 1 (11/2016)
+– ITU-T G.8121.2/Y.1381.2 (2016) Cor. 1 (11/2016)
+– ITU-T G.8131/Y.1382 (2014) Amd. 2 (11/2016)
+– ITU-T G.8262/Y.1362 (2015) Cor. 1 (11/2016)
+
+
+
+
+– ITU-T G.8266/Y.1376 (11/2016): Timing characteristics of telecom grandmaster clocks for frequency
+  synchronization
+– ITU-T G.9905 (2013) Amd. 1 (11/2016)
+– ITU-T G.9960 (2015) Cor. 3 (11/2016)
+– ITU-T G.9961 (2015) Cor. 3 (11/2016)
+– ITU-T G.9962 (2014) Cor. 1 (11/2016)
+– ITU-T J.297 (11/2016): Requirements and functional specification of cable set top box for 4K ultra high
+  definition television
+– ITU-T L.155 (11/2016): Low impact trenching technique for FTTx networks
+– ITU-T L.162 (11/2016): Microduct technology and its applications
+– ITU-T M.3371 (10/2016): Requirements for service management in cloud-aware telecommunication
+  management system
+
+
+
+
+                    Assignment of Signalling Area/Network Codes (SANC)
+                          (Recommendation ITU-T Q.708 (03/99))
+Note from TSB
+      At the request of the Administration of Italy, the Director of TSB has assigned the following signalling
+area/network code (SANC) for use in the international part of the signalling system No. 7 network of this
+country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                   Country/geographical area or signalling network                       SANC
+
+                   Italy                                                                5-225
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                          Telephone Service
+                                     (Recommendation ITU-T E.164)
+                                          url: www.itu.int/itu-t/inr/nnp
+
+
+Denmark (country code +45)
+Communication of 17.XI.2016:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+
+     On 24 June 2016 the numbering series 9390efgh was assigned to Brandtel ApS. Unfortunately, Hi3G
+      Denmark ApS has already been assigned the numbering series 939defgh (1 May 2013). Consequently, on 9
+      September 2016 Brandtel ApS has returned the numbering series 9390efgh. Hence, Hi3G Denmark ApS is
+      assigned the complete 939defgh series.
+
+
+     assignment – Fixed communication services
+                Provider                               Numbering series               Date of assignment
+Tel42 ApS                              9777efgh                                            8.IX.2016
+
+
+     assignment – Mobile communication services
+                Provider                               Numbering series               Date of assignment
+Tel42 ApS                              9370efgh                                           23.IX.2016
+
+
+Contact:
+           Danish Energy Agency
+           Amaliegade 44
+           1256 COPENHAGEN K
+           Denmark
+           Tel:    +45 33 92 67 00
+           Fax:    +45 33 11 47 43
+           E-mail: ens@ens.dk
+           URL:    www.ens.dk
+
+
+
+
+Kenya (country code +254)
+Communication of 16.XI.2016:
+The Communications Authority of Kenya (CA), Nairobi, announces the following update to the National
+Numbering Plan of Kenya.
+
+            Description of introduction of new resource for national E.164 numbering plan for Kenya
+                                               (country code 254)
+
+            (1)                      (2)                           (3)                         (4)
+      NDC (national          N(S)N number length
+   destination code) or
+                                                                                     Time and date of
+     leading digits of     Maximum       Minimum         Usage of E.164 number
+                                                                                     introduction
+     N(S)N (national        length        length
+  (significant) number)
+  20 NDC with Leading           9            9        Geographical number for         12th October 2016
+  Digits 768                                          fixed telephony services –
+  (+254 20 768)                                       WiAfrica Kenya Limited
+  20 NDC with Leading           9            9        Geographical number for         8th November 2016
+  Digits 764                                          fixed telephony services –
+  (+254 20 764)                                       Wananchi Telecom Ltd
+  20 NDC with Leading           9            9        Geographical number for         8th November 2016
+  Digits 765                                          fixed telephony services –
+  (+254 20 765)                                       SimbaNet Com Ltd
+  747 (NDC)                     9            9        Non Geographical number for     17th October 2016
+                                                      mobile telephony services –
+                                                      Jamii Telecom Ltd for Kenya
+  749 (NDC)                     9            9        Non Geographical number for     15th November 2016
+                                                      mobile telephony services –
+                                                      WiAfrica Kenya Limited
+
+Contact:
+           Mr Peter Nyongesa
+           Communications Authority of Kenya
+           Waiyaki Way, Nairobi.
+           P.O. Box 14448
+           NAIROBI 00800
+           Kenya
+           Tel:      +254 20 4242000/+254 703 042000
+           Fax:      No Fax
+           E-mail: nyongesa@ca.go.ke; info@ca.go.ke
+           URL:      www.ca.go.ke
+
+
+
+
+Guinea-Bissau (country code +245)
+Communication of 14.XI.2016:
+La Autoridade Reguladora Nacional das Tecnologias de Informação e Comunicação (ARN), Bissau, announces
+the following update of the National Numbering Plan (NNP) for telephony in Guinea-Bissau.
+The NNP is a closed, nine-digit plan with the following format:
+              CC (Country Code) = +245
+              N(S)N (National (Significant) Number) comprising nine digits: SABPQMCDU
+              N(S)N: NDC (National Destination Code) + SN (Subscriber Number)
+
+Incoming International calls:
+International numbering format: CC (245) + N(S)N (nine digits)
+
+
+1.   Fixed telephony numbers
+The blocks of numbers for which “S” is “4” are reserved for the fixed telephony networks.
+The list of numbers SABPQMCDU currently allocated to the operator Guiné Telecom for its fixed telephony
+network is as follows:
+
+            N(S)N* (NDC +SN)          N(S)N number length
+                                                                       Usage of              Additional
+     Prefix              BP          Maximum     Minimum          ITU-T E.164 Number        information
+                                      length      length
+       44             30X XXXX          9            9             Fixed telephony
+       44             31X XXXX          9            9             Fixed telephony
+       44             32X XXXX          9            9             Fixed telephony
+       44             33X XXXX          9            9             Fixed telephony
+       44             34X XXXX          9            9             Fixed telephony
+                                                                                         Guiné Telecom
+       44             35X XXXX          9            9             Fixed telephony
+       44             36X XXXX          9            9             Fixed telephony
+       44             37X XXXX          9            9             Fixed telephony
+       44             38X XXXX          9            9             Fixed telephony
+       44             39X XXXX          9            9             Fixed telephony
+
+
+
+
+2.   Mobile telephony numbers
+The blocks of numbers for which “S” is “9” are reserved for the mobile telephony networks.
+The list of numbers SABPQMCDU currently allocated to the operator Orange Bissau for its mobile phone
+network is as follows:
+
+         N(S)N* (NDC +SN)          N(S)N number length
+                                                                   Usage of                   Additional
+                                  Maximum     Minimum         ITU-T E.164 Number             information
+      Prefix            BP
+                                   length      length
+       95           50X XXXX         9            9              Mobile GSM
+       95           51X XXXX         9            9              Mobile GSM
+       95           52X XXXX         9            9              Mobile GSM
+       95           53X XXXX         9            9              Mobile GSM
+       95           54X XXXX         9            9              Mobile GSM
+       95           55X XXXX         9            9              Mobile GSM
+       95           56X XXXX         9            9              Mobile GSM            Orange Bissau
+       95           57X XXXX         9            9              Mobile GSM
+       95           58X XXXX         9            9              Mobile GSM
+       95           59X XXXX         9            9              Mobile GSM
+       95           60X XXXX         9            9              Mobile GSM
+       95           61X XXXX         9            9              Mobile GSM
+       95           62X XXXX         9            9              Mobile GSM
+
+
+
+The list of numbers SABPQMCDU currently allocated to the operator Spacetel Guiné-Bissau for its mobile
+phone network is as follows:
+
+         N(S)N* (NDC +SN)          N(S)N number length
+                                                                   Usage of                   Additional
+                                  Maximum     Minimum         ITU-T E.164 Number             information
+      Prefix            BP
+                                   length      length
+       96           60X XXXX         9            9              Mobile GSM
+       96           61X XXXX         9            9              Mobile GSM
+       96           62X XXXX         9            9              Mobile GSM
+       96           63X XXXX         9            9              Mobile GSM
+       96           64X XXXX         9            9              Mobile GSM
+       96           65X XXXX         9            9              Mobile GSM
+       96           66X XXXX         9            9              Mobile GSM
+       96           67X XXXX         9            9              Mobile GSM            Spacetel Guiné-
+       96           68X XXXX         9            9              Mobile GSM            Bissau
+       96           69X XXXX         9            9              Mobile GSM
+       96           50X XXXX         9            9              Mobile GSM
+       96           51X XXXX         9            9              Mobile GSM
+       96           52X XXXX         9            9              Mobile GSM
+       96           90X XXXX         9            9              Mobile GSM
+       96           91X XXXX         9            9              Mobile GSM
+       96           92X XXXX         9            9              Mobile GSM
+
+
+
+
+The list of numbers SABPQMCDU currently allocated to the operator Guinétel for its mobile phone network is
+as follows:
+
+           N(S)N* (NDC +SN)         N(S)N number length
+                                                                   Usage of              Additional
+                                  Maximum      Minimum          E.164 Number            information
+     Prefix               BP
+                                   length       length
+      97              70X XXXX        9            9            Mobile GSM
+      97              71X XXXX        9            9            Mobile GSM
+      97              72X XXXX        9            9            Mobile GSM
+      97              73X XXXX        9            9            Mobile GSM
+      97              74X XXXX        9            9            Mobile GSM
+                                                                                          Guinétel
+      97              75X XXXX        9            9            Mobile GSM
+      97              76X XXXX        9            9            Mobile GSM
+      97              77X XXXX        9            9            Mobile GSM
+      97              78X XXXX        9            9            Mobile GSM
+      97              79X XXXX        9            9            Mobile GSM
+
+Contact:
+           Mr Téofilo Lopes
+           Autoridade Reguladora Nacional das Tecnologias de Informação e Comunicação (ARN)
+           Caixa Postal 1372
+           BISSAU
+           Guinea-Bissau
+           Tel:    +245 966 88 23 53
+                   +245 955 29 60 70
+                   +245 966 00 40 49
+           E-mail: teofilo.lopes@arn.gw; info@arn.gw; lopesteofilo@yahoo.com
+           URL:    www.arn.gw
+
+
+
+
+                                      Other communication
+
+Austria
+Communication of 4.XI.2016:
+On the occasion of the "YOTA (Youngsters on the Air) December Month", the Austrian Administration authorizes
+an Austrian amateur station to use the special call sign OE16YOTA from 1 to 31 December 2016.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                 AMENDMENTS TO SERVICE PUBLICATIONS
+                                          Abbreviations used
+
+                            ADD    Insert                    PAR   paragraph
+                            COL    Column                    REP   replace
+                            LIR    Read                      SUP   Delete
+                            P      page(s)
+
+
+
+
+                  List of Ship Stations and Maritime Mobile
+                        Service Identity Assignments
+                                    (List V)
+                                Edition of 2016
+
+                                             Section VI
+
+REP
+
+
+  PL03     NSSL Global Sp. z.o.o., Klaudyny 21/9, 01-684 Warsaw, Poland,
+           Tel.: +48 22 404 78 64, Tlx: +48 22 119 29 60,
+           E-Mail: piotr.kubiak@nssglobal.com, URL: www.nssglobal.com
+
+
+
+
+                                          List of International
+                                          Monitoring Stations
+                                                (List VIII)
+                                             Edition of 2016
+                                              (Amendment No. 2)
+
+
+                                                    PART I
+                     STATIONS IN THE TERRESTRIAL RADIOCOMMUNICATION SERVICES
+
+
+QAT   Qatar
+
+P 10 REP
+
+   Name of the station                       Postal address                     Telephone, Telefax, Electronic-mail
+                              Communications Regulatory Authority (CRA)
+                              Al Nasr Tower-B
+                                                                            TF : +974 44995374
+                              Corniche Road
+ Doha (Sumaismah) (IMS)                                                     FAX : +974 44830630
+                              P.O.Box 23404
+                                                                            EMAIL : msadeq@cra.gov.qa
+                              Doha
+                              Qatar
+
+                                                     Ranges of             Hours
+ Geographical
+                  Types of measurements         frequencies for each        of                    Remarks
+ coordinates
+                                                   measurement            service
+   51°29'40''E                                                                          Automated spectrum
+                 Frequency measurements        10 kHz - 3 GHz             H24
+  025°33'40''N                                                                          monitoring system.
+   51°29'40''E   Field strength or power                                                Automated spectrum
+                                               10 kHz - 3 GHz             H24
+  025°33'40''N   flux-density measurements                                              monitoring system.
+                                                                                        Automated spectrum
+                                                                                        monitoring system.
+
+                                                                                        For HF: monopole
+   51°29'40''E   Direction-finding
+                                               300 kHz - 3 GHz            H24           (9 elements) antenna array.
+  025°33'40''N   measurements
+
+                                                                                        For VHF/UHF: antenna
+                                                                                        mounted on top of a
+                                                                                        35 meters tower.
+   51°29'40''E                                                                          Automated spectrum
+                 Bandwidth measurements        10 kHz - 3 MHz             H24
+  025°33'40''N                                                                          monitoring system.
+   51°29'40''E   Automatic spectrum                                                     Automated spectrum
+                                               10 kHz - 3 GHz             H24
+  025°33'40''N   occupancy surveys                                                      monitoring system.
+
+
+
+
+        Mobile Network Codes (MNC) for the international identification plan
+                       for public networks and subscriptions
+               (According to Recommendation ITU-T E.212 (09/2016))
+                         (Position on 1st November 2016)
+                            (Annex to ITU Operational Bulletin No. 1111 - 1.XI.2016)
+                                                  (Amendment No. 2)
+
+
+     Country/Geographical area              MCC+MNC *        Operator/Network
+
+     Kiribati ADD
+
+                                                  545 01     ATHKL
+
+                                                  545 02     OceanLink
+
+     International Mobile, shared
+     code LIR
+                                                  901 27     Monaco Telecom
+
+
+ ____________
+
+ *            MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+              MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                      List of Signalling Area/Network Codes (SANC)
+                 (Complement to Recommendation ITU-T Q.708 (03/1999))
+                              (Position on 15 December 2014)
+
+                                (Annex to ITU Operational Bulletin No. 1066 – 15.XII.2014)
+                                                 (Amendment No. 20)
+
+
+
+ Numerical order         ADD
+               5-225         Italy
+
+
+
+ Alphabetical order ADD
+               5-225         Italy
+
+____________
+SANC:    Signalling Area/Network Code.
+         Code de zone/réseau sémaphore (CZRS).
+         Código de zona/red de señalización (CZRS).
+
+
+
+
+                     List of International Signalling Point Codes (ISPC)
+                  (According to Recommendation ITU-T Q.708 (03/1999))
+                                 (Position on 1 October 2016)
+                           (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                            (Amendment No. 4)
+Country/               Unique name of the signalling point      Name of the signalling point operator
+Geographical Area
+ISPC        DEC
+
+
+Finland SUP
+2-255-6     6142       Helsinki (TELE5)                         Tele 5 Worldwide Oy
+
+Finland ADD
+4-231-0     10040      Lahti (Alborada)                         Alborada Oy
+
+France SUP
+2-151-1     5305       Telecom Italia - POP Bordeaux 1          Telecom Italia
+
+France ADD
+2-018-6     4246       Vue Tel – Saint Denis                    Vue Tel
+2-151-0     5304       SAP France – Courbevoie 1 bis            SAP France
+2-151-1     5305       SAP France – Courbevoie 2 bis            SAP France
+
+Italy SUP
+2-003-3     4123       Venezia (VE) Via Breo, 2 Fosso           Openline S.p.A.
+2-003-7     4127       Bologna Via Silvani 2                    Elinet S.p.A.
+2-041-0     4424       Milano/Via Montalbino 4                  Policom S.p.A.
+2-042-2     4434       Legnago (VR)/Via San Salvaro             Net Business S.p.A.
+2-042-3     4435       Milano/Via Alcide de Gasperi, 2          Primus Telecommunications srl
+2-042-4     4436       Milano/Via Mecenate 90                   Elinet S.p.A.
+2-042-5     4437       Padova/Via Savelli 88                    Elinet S.p.A.
+2-043-0     4440       Milano/Via Visconti di Modrone 12        Attiway
+2-043-2     4442       Milano/via Caldera 21                    Teleunit S.p.A.
+2-043-3     4443       Milano/Viale Montenero 63                Aexis Telecom S.p.A.
+2-043-4     4444       Roma/Via Monserrato 25                   Aexis Telecom S.p.A.
+2-043-5     4445       Torino/Corso Vittorio Emanuele II 90     Aexis Telecom S.p.A.
+2-043-6     4446       Napoli/CentroDirezionale Isola G1        Aexis Telecom S.p.A.
+2-043-7     4447       Brescia/Via della Volta                  Infracom Italia S.p.A.
+2-044-7     4455       Milano/Via Caldera 21                    Grapes Network Services S.p.A.
+2-047-6     4478       Milano/Via G. Murat 23                   Teleque Communications S.p.A.
+2-047-7     4479       Roma/Via Bruxelles 79                    Teleque Communications S.p.A.
+2-048-2     4482       Milano/Via Archimede 10                  Metropol Access Italia
+2-049-3     4491       Milano/Cormano/Vía Prealpi 8             Wavecrest Italia S.p.A.
+2-049-4     4492       Roma/Vía Livenza 4                       Elinet S.p.A.
+2-050-0     4496       Milano/Via Statuto, 4                    Grapes Network Services S.p.A.
+2-050-1     4497       Milano/Via Viviani 8                     Wavecrest Italia S.p.A.
+2-050-2     4498       Milano/Cormano/Via Prealpi 8             Wavecrest Italia S.p.A.
+
+
+
+Country/            Unique name of the signalling point              Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+2-050-4    4500     Milano/Via E. Jenner 33                          Carrier 1 Italia Network srl
+2-050-5    4501     Avezzano/Via G. Galilei                          Elsacom S.p.A.
+2-050-7    4503     Udine/Via Marcello snc. Palmanova                Elinet S.p.A.
+2-051-0    4504     Verona/Piazzale Europa 12                        Infracom Italia S.p.A.
+2-051-1    4505     Padova/Via San Marco                             Infracom Italia S.p.A.
+2-051-2    4506     Milano/Via Rombon 11                             GTN Italia S.p.A.
+2-051-4    4508     Milano/Via Caldera 21                            Grapes Network Services S.p.A.
+2-051-5    4509     Trieste/Via Lochi 19                             Elinet S.p.A.
+2-051-6    4510     Firenze/Via Calzaiuoli 3                         GSC Global System Communications S.p.A.
+2-051-7    4511     Milano/Vía Caldera 21                            Metropol Access Italia
+2-093-0    4840     Parma Via Goito 14                               Elinet S.p.A.
+2-093-7    4847     Milano/Via C. Gluk, 35                           Kast Telecom S.r.l.
+2-094-2    4850     Roma/Via Bernardino Alimena, 105                 LTS Le Telecomunicazioni Siciliane S.p.A.
+2-094-3    4851     Palermo/Via Igo La Malfa, 28-30                  LTS Le Telecomunicazioni Siciliane S.p.A.
+2-094-4    4852     Sassari/via Nulvi 25                             Fonia.com
+2-094-5    4853     Milano/via Caldera 21                            T-Systems S.p.A.
+2-094-6    4854     Firenze-D.G. Autostrade FI Nord A1               Infracom Italia S.p.A.
+2-095-4    4860     Roma/ Via Maroso, 150                            Elinet S.p.A.
+2-095-5    4861     Roma /Via Maroso, 150                            Elinet S.p.A.
+2-095-7    4863     Verona/Via del Perlar, 24                        Teleque Communications S.p.A.
+2-157-7    5359     Porcari (LU)/Via Puccini, 2                      Vanguard S.r.L.
+2-158-0    5360     Milano Via Farini, 79/81                         Publitel S.p.A.
+2-158-1    5361     Roma Via del Tempio 1/A                          Publitel S.p.A.
+2-158-5    5365     Roma Incrocio di via D. Modugmo e M.             Calcatel Rete S.p.A.
+                    Mastroianni
+2-159-4    5372     Milano/Via Caldera, 21                           GSC Global System Communications S.p.A.
+2-159-7    5375     Pescara/Via Aterno, 34                           Elinet S.p.A.
+2-181-4    5548     Ronciglione (VT)/Via del Crocefisso, 15          Thunder S.p.A.
+2-183-3    5563     Trezzano sul Naviglio/Via Benvenuto Cellini, 1   Rete Italiana Assicurativa di TLC. S.r.l.
+2-183-4    5564     Roma/Via G. Bona, 67                             Progetel Distribuzione Italia S.p.A.
+2-183-5    5565     Milano/Via Ugo Bassi, 2                          Progetel Distribuzione Italia S.p.A.
+2-183-6    5566     Calenzano (FI)/Via V. Emanuele, 14               Openline S.p.A.
+2-207-1    5753     Milano/Via Caldera, 21                           GTN Italia S.p.A.
+2-207-2    5754     Cagliari/Via dei Grilli 1/3                      Qtel S.p.A.
+2-207-7    5759     Pisa/via Malagoli 12                             CS Info S.p.A.
+2-216-0    5824     Roma/Via F. Depero, 70                           Ipse 2000 S.p.A.
+2-216-1    5825     Milano/Via U. Bassi, 2                           Ipse 2000 S.p.A.
+2-216-7    5831     Cerasolo(Rimini)/Via Ausa, 70                    Trans World Communications Italia S.p.A.
+5-255-1    12281    Statale del Lario SS 340 - Loc. Plan di Spagna   Telespazio S.p.A.
+                    Gera Lario (CO)
+5-255-2    12282    Vía Caldera 21 - Milano                          Elinet S.p.A.
+5-255-3    12283    Milano - Vía Caldera 21                          Netscalibur S.r.l.
+6-245-0    14248    Statale del Lario SS 340 - Loc. Plan di Spagna   Telespazio S.p.A.
+                    Gera Lario (CO)
+
+
+
+Country/              Unique name of the signalling point          Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+
+Italy ADD
+2-003-3    4123       Mialno\Via Caldera, 21                       Enter s.r.l.
+2-003-7    4127       Milano/Via Caldera, 21 - c\o Netscalibur     Go Mobile S.r.l.
+2-041-0    4424       Milano/Via Viviani, 8 - DTM1                 Daily Telecom Mobile S.r.l.
+2-042-2    4434       Milano/Via Bensi 1/8 Liberty B - VOMI1       Vodafone Italia S.p.A.
+2-042-3    4435       Via Bellafino 35 - Bergamo                   Planetel s.r.l.
+2-042-4    4436       Via Cornelia 498 - 00166 ROMA                B4 S.r.l.
+2-042-5    4437       Via Caldera 71 - MILANO                      Agile Telecom S.r.l.
+2-043-0    4440       Milano/Via Caldera, 21                       Carrefour Italia Mobile
+2-043-2    4442       Milano - via F.lli Rosselli 68               H3G S.p.A.
+2-043-3    4443       Firenze\Via Quintino Sella, 36               Momax
+2-043-4    4444       via Montramito 431 Massarosa                 Welcome Italia S.p.A.
+2-043-5    4445       Bolzano via Pacinotti 12                     Brennercom S.p.A.
+2-043-6    4446       via E Giannesi 14 Montacchillo               Welcome Italia S.p.A.
+2-043-7    4447       MILANO VIA LANCETTI - PMMI1                  Poste Mobile S.p.A.
+2-044-7    4455       Milano\Via Cappuccini, 8                     NewVAS S.p.A.
+2-047-6    4478       Via Viviani, 8 Milano - PLMI1                Planetel s.r.l.
+2-047-7    4479       Via Viviani, 8 Milano - PLMI2                Planetel s.r.l.
+2-048-2    4482       Bologna/Via Ca Dell'orbo, 34/9 Castenaso     Vodafone Italia S.p.A.
+2-049-3    4491       Via Caldera 21/A - Milano                    Bellnet International S.r.l.
+2-049-4    4492       Roma/Via del Fosso di Santa Maura, 26 -      Vodafone Italia S.p.A.
+                      VORM2
+2-050-0    4496       Napoli/Strada Nazionale delle Puglie, 63 -   Vodafone Italia S.p.A.
+                      San Vitaliano
+2-050-1    4497       Milano\Viale F. Testi, 7                     Planetel s.r.l.
+2-050-2    4498       Milano\Via Caldera, 21                       Planetel s.r.l.
+2-050-4    4500       Via Tucidide 56 Torre 2 - 20134 Milano       Orange Business Italy S.p.A.
+2-050-5    4501       Milano/Via Viviani, 8 - DTM2                 Daily Telecom Mobile S.r.l.
+2-050-7    4503       Via Caldera 21 Milano - ATMI2                Agile Telecom S.r.l.
+2-051-0    4504       MILANO VIA LANCETTI - PMMI2                  Poste Mobile S.p.A.
+2-051-1    4505       MILANO VIA LANCETTI - PMMI3                  Poste Mobile S.p.A.
+2-051-2    4506       Cremona/Via Persico, 31A                     LINEA COM S.r.l
+2-051-4    4508       Via Caldera 21 20153 Milano                  Digitel Italia S.p.A.
+2-051-5    4509       Milano/Via Lancetti Martini, 23              Daily Telecom Mobile S.r.l.
+2-051-6    4510       Roma/Via della Valle dei Fontanili, 29       Noverca S.r.l.
+2-051-7    4511       Milano/Viale De Gasperi, 2 (S. Donato        Noverca S.r.l.
+                      Milanese)
+2-093-0    4840       Via Caldera 21 - Milano                      Messagenet S.p.A.
+2-093-7    4847       Milano/Via Caldera, 21                       Itelsi S.r.l.
+2-094-2    4850       Via Boccanelli 21, ROMA - WTRM1              Wind Telecomunicazioni S.p.A.
+2-094-3    4851       Via Boccanelli 21, ROMA - WTRM2              Wind Telecomunicazioni S.p.A.
+2-094-4    4852       MILANO VIA LANCETTI - PMMI4                  Poste Mobile S.p.A.
+2-094-5    4853       Trento via Ernesto Sestan 5                  Digitel Mobile Srl
+
+
+
+
+Country/            Unique name of the signalling point          Name of the signalling point operator
+Geographical Area
+ISPC        DEC
+2-094-6     4854    MILANO VIA LANCETTI - PMMI5                  Poste Mobile S.p.A.
+2-095-4     4860    Via Cavriana, 14 MILANO                      Wind Telecomunicazioni S.p.A.
+2-095-5     4861    Via Caldera 21 - 20153 Milano                Alena ICT S.R.L
+2-095-7     4863    VIA LANCETTI MARTINI 23 - 20159 MILANO       Colt Technology Services S.p.A.
+2-157-7     5359    MILANO VIA LANCETTI - PMMI6                  Poste Mobile S.p.A.
+2-158-0     5360    via caldera milano                           Teslatel
+2-158-1     5361    Via Bernina - MILANO                         H3G S.p.A.
+2-158-5     5365    Via Anagnina, 203 - ROMA                     H3G S.p.A.
+2-159-4     5372    Via del Lavoro, 85 - Casalecchio sul Reno    H3G S.p.A.
+                    (BO)
+2-159-7     5375    Via G. Ferraris, 40/D - NAPOLI               H3G S.p.A.
+2-181-4     5548    TORINO C.SO TAZZOLI - PMTO1                  Poste Mobile S.p.A.
+2-183-3     5563    TORINO C.SO TAZZOLI - PMTO2                  Poste Mobile S.p.A.
+2-183-4     5564    TORINO C.SO TAZZOLI - PMTO3                  Poste Mobile S.p.A.
+2-183-5     5565    TORINO C.SO TAZZOLI - PMTO4                  Poste Mobile S.p.A.
+2-183-6     5566    TORINO C.SO TAZZOLI - PMTO5                  Poste Mobile S.p.A.
+2-207-1     5753    TORINO C.SO TAZZOLI - PMTO6                  Poste Mobile S.p.A.
+2-207-2     5754    MILANO VIA CALDERA 21                        SMS Italia
+2-207-7     5759    Milano/Via Caldera 21 - ATMI1                Agile Telecom S.r.l.
+2-216-0     5824    Torino corso Tazzoli - PMTO7                 Poste Mobile S.p.A.
+2-216-1     5825    MILANO VIA LANCETTI - PMMI7                  Poste Mobile S.p.A.
+2-216-7     5831    Milano via caldera - DYMI2                   Digi Italy S.r.l.
+5-244-0     12192   Milano\Via Caldera, 21                       Uno Communications S.p.A.
+5-244-1     12193   Roma\Piazza Bologna                          Fastweb S.p.A.
+5-244-2     12194   Via Luca Marenzio 18 - 50127 Firenze         U - Compagnia Italiana di Telecomunicazioni
+5-244-3     12195   MILANO via Caldera 21 acr ITM/MI             Intermatica S.p.A.
+5-244-4     12196   Via Bellafino 35 24126 - Bergamo             Qcom Interactive S.p.A.
+5-244-5     12197   Milano via caldera - DYMI3                   Digi Italy S.r.l.
+5-244-6     12198   Milano via caldera - DYMI4                   Digi Italy S.r.l.
+5-244-7     12199   Milano/Via Caldera 21 - ATMI3                Agile Telecom S.r.l.
+5-255-1     12281   Milano/Via Caldera 21 - ATMI4                Agile Telecom S.r.l.
+5-255-2     12282   Milano/Via Caldera 21 - ATMI5                Agile Telecom S.r.l.
+5-255-3     12283   Roma - via Alessandro Severo 246 - HGRM3     H3G S.p.A.
+6-245-0     14248   Trento via Ernesto Sestan 5                  Digitel Mobile Srl
+
+Italy LIR
+2-001-0     4104    Roma/via T. Mestrelli                        BT Italia S.p.A.
+2-001-1     4105    Milano/via A.De Gaspari S. Donato Milanese   BT Italia S.p.A.
+2-001-2     4106    Trento/via Gilli 2                           Mc Link S.p.A.
+2-001-5     4109    Firenze/via Italo Piccagli 24                Clouditalia Telecomunicazioni S.p.A.
+2-001-7     4111    Roma/via G. Donizetti 7                      Intermatica S.p.A.
+2-003-0     4120    Genova/via De Marini 1- Torre WTC            Clouditalia Telecomunicazioni S.p.A.
+2-003-2     4122    Torino/via Cristoforo Colombo 24             Vodafone Italia S.p.A.
+2-003-4     4124    Cagliari/via Efisio Melis 26 - TICA1         Tiscali Italia S.p.A.
+
+
+
+Country/              Unique name of the signalling point              Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+2-041-1    4425       Roma/via Ercolano Salvi 12                       Tiscali Italia S.p.A.
+2-041-2    4426       Milano/via Caldera 21/F - TIMI1                  Tiscali Italia S.p.A.
+2-041-6    4430       Via Caldera 21 - Milano                          Intermatica S.p.A.
+2-041-7    4431       Torino via Livorno 60                            Colt Technology Services S.p.A.
+2-042-0    4432       Torino/via Issigno 62                            BT Italia S.p.A.
+2-042-1    4433       Milano/strada5, palazzo N, Fiori Rozzano         BT Italia S.p.A.
+2-042-6    4438       Torino/Corso Svizzera 185                        Clouditalia Telecomunicazioni S.p.A.
+2-042-7    4439       Bolzano/via Lungo Isarco Sinistro                Brennercom S.p.A.
+2-043-1    4441       Lucca viale Puccini,134                          ElsyNet S.r.l.
+2-045-1    4457       Milano1/via jenner 56                            Colt Technology Services S.p.A.
+2-045-5    4461       Milano/Via Benzi, 1/8                            Vodafone Italia S.p.A.
+2-045-6    4462       Milano/Via Kuliscioff, 32                        Vodafone Italia S.p.A.
+2-046-3    4467       Trezzano sul Naviglio (MI)/via L.Da Vinci, 1 -   H3G S.p.A.
+                      HGMI1
+2-046-5    4469       Milano/DMS-1                                     Orange Business Italy S.p.A.
+2-046-6    4470       Milano/MI01                                      BT Italia S.p.A.
+2-046-7    4471       Roma/RM01                                        BT Italia S.p.A.
+2-047-3    4475       Milano/MI-MSC                                    Telecom Italia S.p.A. - TIM
+2-047-4    4476       Roma/Ro-CTRL                                     Telecom Italia S.p.A. - TIM
+2-047-5    4477       Milano San Simpliciano ITZ                       Verizon Italia S.p.A.
+2-048-1    4481       Milano/Via Caldera,21                            Vodafone Italia S.p.A.
+2-048-4    4484       Segrate/via Cassanese 210                        Vodafone Italia S.p.A.
+2-048-5    4485       Roma/viale di Porta Ardeatina 129                BT Italia S.p.A.
+2-048-6    4486       Milano/Via Kulishoff, 5                          Vodafone Italia S.p.A.
+2-048-7    4487       Milano/via Bensi 12/9, Liberty A - VOMI2         Vodafone Italia S.p.A.
+2-049-0    4488       Roma/Via del Fosso di Santa Maura, 26 -          Vodafone Italia S.p.A.
+                      VORM1
+2-049-1    4489       L'Aquila(Ortuccio)/Fucino1                       Telecom Italia S.p.A.
+2-049-2    4490       L'Aquila(Ortuccio)/Fucino2                       Telecom Italia S.p.A.
+2-049-5    4493       Roma/Via del Fosso di S.Maura ^                  Vodafone Italia S.p.A.
+                      Torrespaccata
+2-049-6    4494       Milano/via Rombon 11                             Clouditalia Telecomunicazioni S.p.A.
+2-049-7    4495       Milano/corso S. Gottardo 39                      TWT S.p.A.
+2-050-3    4499       Roma/vicolo Colle della Strega 41                Vodafone Italia S.p.A.
+2-050-6    4502       Roma/via A. Severo, 246 - HGRM1                  H3G S.p.A.
+2-051-3    4507       Trezzano sul Naviglio (MI)/via L.Da Vinci, 1 -   H3G S.p.A.
+                      HGMI2
+2-093-4    4844       Milano/via Ugo Bassi 2                           Clouditalia Telecomunicazioni S.p.A.
+2-093-5    4845       L'Aquila(Ortucchio)/Fucino - TSAQ1               Telespazio S.p.A.
+2-093-6    4846       Milano/via Caldera 21/F - TIMI2                  Tiscali Italia S.p.A.
+2-094-0    4848       Roma/via S. Martini 127/129                      Colt Technology Services S.p.A.
+2-094-1    4849       Roma/viale Lincoln 18                            BT Italia S.p.A.
+2-094-7    4855       L'Aquila(Ortucchio)/Fucino - TSAQ2               Telespazio S.p.A.
+2-095-0    4856       Milano/via Bensi 12/9, Liberty A - VOMI3         Vodafone Italia S.p.A.
+
+
+
+Country/            Unique name of the signalling point           Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+2-095-1    4857     Roma/via Fosse di S.Maura angolo via di       Vodafone Italia S.p.A.
+                    Torre Spaccata
+2-095-2    4858     Milano/via Caldera 21                         Vuelle Elettronica S.r.l.
+2-095-3    4859     Pozzuoli(Na)/via Antiniana 2/A                Vuelle Elettronica S.r.l.
+2-095-6    4862     Treviolo(BG)/V.le Europa 17/B                 Qcom Interactive S.p.A.
+2-157-1    5353     Rozzano 20089 Milanofiori, strada 4 edif. Q   Clouditalia Telecomunicazioni S.p.A.
+2-157-2    5354     Prato(FI)/via di Grignano 11                  Estracom S.p.A.
+2-157-3    5355     Milano/ viale Ortles 70                       Wind Telecomunicazioni S.p.A.
+2-157-4    5356     Roma/ via Idrovore della Magliana 163 -       Wind Telecomunicazioni S.p.A.
+                    WTRM3
+2-157-5    5357     Milano/viale Ortles 70                        Wind Telecomunicazioni S.p.A.
+2-157-6    5358     Roma/ via Idrovore della Magliana 163 -       Wind Telecomunicazioni S.p.A.
+                    WTRM4
+2-158-2    5362     Pisa/via A.Bellatalla 1                       ElsyNet S.r.l.
+2-158-3    5363     Casalecchio sul Reno BO via Bertocchi,97      ElsyNet S.r.l.
+2-158-4    5364     Roma/via G.V. Bona 67 Ed. B - CTRM1           Clouditalia Telecomunicazioni S.p.A.
+2-158-6    5366     Torino/via Nizza 262 int. 58 c/o Centro       Pagine Gialle Phone Service S.R.L.
+                    Lingotto
+2-158-7    5367     Siena/viale Toselli 9/a                       TERRECABLATE Reti e Servizi srl
+2-159-0    5368     Milano/via E. Jenner 33                       TWT S.p.A.
+2-159-1    5369     Cagliari/SS 195 Km 6 Loc. 'Sa Illetta'        Tiscali Italia S.p.A.
+2-159-2    5370     Roma/via di Tor Pagnotta 68 - TIRM1           Telecom Italia S.p.A. - TIM
+2-159-3    5371     Milano/via Giacosa 19 - TIMI1                 Telecom Italia S.p.A. - TIM
+2-159-6    5374     Padova/via Longhin 97                         Vodafone Italia S.p.A.
+2-181-1    5545     Firenze/via Slataper 2                        Vodafone Italia S.p.A.
+2-181-2    5546     Roma/via di Tor Pagnotta 68 - TIRM2           Telecom Italia S.p.A. - TIM
+2-181-3    5547     Segrate (MI)/via Cassanese 210                Vodafone Italia S.p.A.
+2-181-5    5549     Rimini/via Circonvallazione Meridionale 54    Go Mobile S.r.l.
+2-181-6    5550     Roma/via di Tor Pagnotta 68 - TIRM3           Telecom Italia S.p.A. - TIM
+2-181-7    5551     Roma/via di Tor Pagnotta 68 - TIRM4           Telecom Italia S.p.A. - TIM
+2-183-0    5560     Torino/via Bologna 220                        Clouditalia Telecomunicazioni S.p.A.
+2-183-1    5561     Napoli/cento direziona napoli Isola B5        Vodafone Italia S.p.A.
+2-183-2    5562     Modena/via Ganceto 154                        Digitel Italia S.p.A.
+2-207-0    5752     Palermo/via A. De Gasperi 50                  Decatel S.R.L.
+2-207-3    5755     Bari/via Nickman 19                           Vodafone Italia S.p.A.
+2-207-4    5756     Catania/via Conte di Torino 64                Vodafone Italia S.p.A.
+2-207-6    5758     Cagliari/via Efisio Melis 26 - TICA2          Tiscali Italia S.p.A.
+2-215-0    5816     Roma/Via Casilina Vecchia, 84 c/o Staz.       Rete Ferroviaria Italiana S.p.A.
+                    Tuscolana
+2-215-2    5818     Verona\via del perlar, 26                     Infracom Italia S.p.A.
+2-215-3    5819     Roma/via A. Severo, 246 - HGRM2               H3G S.p.A.
+2-215-5    5821     Milano/via Giacosa 19 - TIMI2                 Telecom Italia S.p.A. - TIM
+2-215-6    5822     Milano/via Giacosa 19 - TIMI3                 Telecom Italia S.p.A. - TIM
+2-215-7    5823     Milano/via Giacosa 19 - TIMI4                 Telecom Italia S.p.A. - TIM
+2-216-2    5826     Milano/via Tortona 26                         Cable & Wireless S.p.A.
+
+
+Country/              Unique name of the signalling point            Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+2-216-3    5827       Roma/via G.V. Bona 67 Ed. B - CTRM2            Clouditalia Telecomunicazioni S.p.A.
+2-216-4    5828       Roma/via G.V. Bona 67 Ed. B - CTRM3            Clouditalia Telecomunicazioni S.p.A.
+2-216-5    5829       Milano/via Ugo Bassi 2                         Clouditalia Telecomunicazioni S.p.A.
+5-255-0    12280      Milano/Via Breda, 28 c/o Stazione G. Pirelli   Rete Ferroviaria Italiana S.p.A.
+5-255-4    12284      Milano\Via delle Azzalee, 19 Buccinasco        Vodafone Italia S.p.A.
+5-255-5    12285      Roma/Via del Fosso di Santa Maura, 26 -        Vodafone Italia S.p.A.
+                      VORM3
+5-255-6    12286      Milano/Via Bensi 1/8 Liberty B - VOMI4         Vodafone Italia S.p.A.
+5-255-7    12287      Roma/Via del Fosso di Santa Maura, 26 -        Vodafone Italia S.p.A.
+                      VORM4
+
+New Zealand SUP
+5-060-2    10722      …                                              RSLCom Australia
+5-060-4    10724      …                                              Newcall International
+5-060-5    10725      …                                              Newcall International
+5-061-4    10732      …                                              Airnet NZ
+5-063-0    10744      …                                              TelstraClear
+5-063-7    10751      …                                              Compass Communications
+5-065-0    10760      …                                              TelstraClear
+5-065-3    10763      …                                              TelstraClear
+5-065-4    10764      …                                              Global One
+5-065-5    10765      …                                              Global One
+5-067-0    10776      …                                              Vodafone NZ
+5-067-3    10779      …                                              Quest Communications
+5-067-4    10780      …                                              TelstraClear
+5-067-5    10781      …                                              TelstraClear
+
+New Zealand ADD
+5-062-0    10736      WCS09 (Model)                                  Spark New Zealand Mobile
+5-062-1    10737      MGW2 (Model)                                   Spark New Zealand Mobile
+5-062-2    10738      WCS02 (Mayoral Drive)                          Spark New Zealand Mobile
+5-062-3    10739      MGW02 (Mayoral Drive)                          Spark New Zealand Mobile
+5-062-4    10740      WCS02 (Christchurch)                           Spark New Zealand Mobile
+5-062-5    10741      MGW02 (Christchurch)                           Spark New Zealand Mobile
+5-062-6    10742      FTMG3                                          Vodafone NZ
+5-062-7    10743      FTMS1                                          Vodafone NZ
+5-063-7    10751      2DMSC2                                         Two Degrees Mobile Limited
+5-067-5    10781      WCS05                                          Spark New Zealand Mobile
+
+New Zealand LIR
+5-060-0    10720      GTY5 (Mayoral Drive)                           Spark New Zealand
+5-060-1    10721      GTY6 (Takapuna)                                Spark New Zealand
+5-060-3    10723      2DMSC1                                         Two Degrees Mobile Limited
+5-060-6    10726      Easycall                                       Spark New Zealand
+5-060-7    10727      GTY7 (Mayoral Drive)                           TNZI New Zealand Ltd
+
+
+
+ Country/                   Unique name of the signalling point   Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+ 5-061-0       10728        COMPI                                 Compass Communications
+ 5-061-1       10729        AKP1                                  Vodafone NZ (TCL)
+ 5-061-2       10730        2DSTP1                                Two Degrees Mobile Limited
+ 5-061-3       10731        2DSTP2                                Two Degrees Mobile Limited
+ 5-061-5       10733        ACS1 (Mayoral Drive STP)              TNZI New Zealand Ltd
+ 5-061-6       10734        CPA2                                  Vocus (CallPlus)
+ 5-061-7       10735        ACS2 (Takapuna STP)                   TNZI New Zealand Ltd
+ 5-063-1       10745        LDMG3                                 Vodafone NZ
+ 5-063-2       10746        MSC3                                  Vodafone NZ
+ 5-063-3       10747        WLNX                                  Vodafone NZ (TCL)
+ 5-063-4       10748        AUCX (A100)                           Vodafone NZ (TCL)
+ 5-063-5       10749        Mayoral Drive STP                     TNZI New Zealand Ltd
+ 5-063-6       10750        GTY8 (Takapuna)                       TNZI New Zealand Ltd
+ 5-065-1       10761        AUCS (ASTP)                           Vodafone NZ (TCL)
+ 5-065-2       10762        WLNS (WSTP)                           Vodafone NZ (TCL)
+ 5-065-6       10766        WCS01 (Mayoral Drive)                 Spark New Zealand Mobile
+ 5-065-7       10767        WCS201 (Christchurch)                 Spark New Zealand Mobile
+ 5-067-1       10777        LDMS1                                 Vodafone NZ
+ 5-067-2       10778        WXCI                                  VNGS (WXC)
+ 5-067-6       10782        Mobile Lab                            Spark New Zealand Mobile
+ 5-067-7       10783        Mobile Lab                            Spark New Zealand Mobile
+
+ Sweden SUP
+ 2-082-7       4759         STHTELINT-1 (Stockholm)               IP-Only Telecommunication Networks AB
+ 2-194-0       5648         SOLTELINT-1 (Sollefteå)               IP-Only Telecommunication Networks AB
+
+ United States SUP
+ 3-195-5       7709         Worcester, MA                         CTC Communications Corp
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                      National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web:www.itu.int/itu-t/inr/nnp/index.html
+
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+
+
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+
+
+From 1.XI.2016 the following countries have updated their national numbering plan on our site:
+
+
+                                  Country                              Country Code (CC)
+               Trinidad and Tobago                                           +1 868
+
+
+
+

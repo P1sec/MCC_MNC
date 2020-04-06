@@ -1,0 +1,1167 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1132             15.IX.2017                  (Information received by 1 September 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)) ................                                                           4
+Telephone Service
+     Bahamas (Utilities Regulation and Competition Authority (URCA), Nassau) ...........................................                                           5
+     China (Ministry of Industry and Information Technology, Beijing) ...........................................................                                  6
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                             7
+     Finland (Finnish Communications Regulatory Authority (FICORA), Helsinki) ...........................................                                          8
+     Uganda (Uganda Communications Commission (UCC), Kampala) ...........................................................                                         14
+Service Restrictions ........................................................................................................................................     17
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   17
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               18
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         19
+List of ITU Carrier Codes .................................................................................................................................       20
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                      21
+List of International Signalling Point Codes (ISPC) .........................................................................................                     21
+National Numbering Plan ...............................................................................................................................           22
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                  Approval of ITU-T Recommendations
+By AAP-19, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T G.781 (08/2017): Synchronization layer functions
+
+–       ITU-T G.8264/Y.1364 (08/2017): Distribution of timing information through packet networks
+
+–       ITU-T G.8275.1/Y.1369.1 (2016) Amd. 1 (08/2017)
+
+–       ITU-T G.8275.2/Y.1369.2 (2016) Amd. 1 (08/2017)
+
+–       ITU-T X.609.3 (08/2017): Managed P2P communications: Multimedia streaming signalling requirements
+
+–       ITU-T Y.4805 (08/2017): Identifier service requirements for the interoperability of Smart City applications
+
+
+
+
+                    Assignment of Signalling Area/Network Codes (SANC)
+                          (Recommendation ITU-T Q.708 (03/99))
+
+Note from TSB
+At the request of the Administration of the Republic of Honduras, the Director of TSB has assigned the following
+signalling area/network code (SANC) for use in the international part of the signalling system No. 7 network of
+this country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                   Country/geographical area or signalling network                           SANC
+
+                   Honduras (Republic of)                                                    7-019
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                       Telephone Service
+                                  (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+
+Bahamas (country code +1 242)
+Communication of 29.VIII.2017:
+The Utilities Regulation and Competition Authority (URCA), Nassau, announces the following update to the
+Bahamas national numbering plan.
+
+             Description of number change for national numbering plan for country code + 1 242:
+
+  Communicated       National (significant) number       Usage of                                          Proposed
+                                                                          Parallel running
+ time and date of               (N(S)N)                ITU-T E.164                           Operator      wording of
+     change          Old Number      New Number          number           Begins   Ends                  announcement
+                                                                                                         Amendment to
+      15:00                                                                                               The Bahamas
+                    242 889 XXXX     242 899 XXXX     Mobile Service       N/A      N/A        ALIV
+    2017-08-29                                                                                              National
+                                                                                                          Number Plan
+
+Contact:
+      Stephen Bereaux
+      Chief Executive Officer
+      Electronic Communications
+      Utilities Regulation and Competition Authority (URCA)
+      Frederick House, Frederick Street
+      P. O. Box N-4860
+      Nassau, Bahamas
+      Tel:      +1 242 393 0234
+      Fax:      +1 242 393 0153
+      E-mail: info@urcabahamas.bs
+      URL:      www.urcabahamas.bs
+
+
+
+
+China (country code +86)
+Communication of 30.VIII.2017:
+The Ministry of Industry and Information Technology, Beijing, announces the following update to the national
+numbering plan of China.
+
+     Description of introduction of new resources for national E.164 numbering plan for country code 86:
+
+     NDC (national          N(S)N number length
+  destination code) or                                                        Time and date
+                                                             Usage of                               Additional
+    leading digits of       Maximum      Minimum                                    of
+                                                       ITU-T E.164 number                          information
+    N(S)N (national          length       length                               introduction
+ (significant) number)
+ 199 (NDC)                     11           11       Non-geographic number,     2017-09-01      China Telecom Co.,
+                                                     Mobile                                     Ltd.
+ 17400~17405 (NDC)             11           11       Non-geographic number,     2017-09-01      China Telecom Co.,
+                                                     Mobile                                     Ltd.
+ 166 (NDC)                     11           11       Non-geographic number,     2017-09-01      China United
+                                                     Mobile                                     Network
+                                                                                                Communications
+                                                                                                Group Co., Ltd.
+ 146 (NDC)                     11           11       Non-geographic number,     2017-09-01      China United
+                                                     Mobile                                     Network
+                                                     (IoT dedicated)                            Communications
+                                                                                                Group Co., Ltd.
+ 175 (NDC)                     11           11       Non-geographic number,     2014-11-24      China United
+                                                     Mobile                                     Network
+                                                                                                Communications
+                                                                                                Group Co., Ltd.
+ 171 (NDC)                     11           11       Non-geographic number,     2015-07-24      China United
+                                                     Mobile                                     Network
+                                                     (Virtual Operators                         Communications
+                                                     dedicated)                                 Group Co., Ltd.
+
+Contact:
+           Ministry of Industry and Information Technology (MIIT)
+           13, West Chang'an Avenue
+           100804 BEIJING
+           China
+           Tel:    +86 10 62303486
+           Fax:    +86 10 62304735
+           E-mail: itu-t@caict.ac.cn
+           URL:    www.miit.gov.cn
+
+
+
+
+Denmark (country code +45)
+Communication of 30.VIII.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•        assignment – Fixed communication services
+
+
+                Provider                             Numbering series                    Date of assignment
+
+ipnordic A/S                         70602fgh                                               30.VIII.2017
+
+
+Communication of 22.VIII.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•        assignment – Fixed communication services
+
+
+                Provider                             Numbering series                    Date of assignment
+
+TDC A/S                              62190fgh, 62191fgh, 62192fgh, 62193fgh, 64820fgh,        1.I.2017
+                                     74660fgh, 89290fgh, 99290fgh and 99830fgh
+
+Contact:
+           Danish Energy Agency
+           Amaliegade 44
+           1256 COPENHAGEN K
+           Denmark
+           Tel:    +45 33 92 67 00
+           Fax:    +45 33 11 47 43
+           E-mail: ens@ens.dk
+           URL:    www.ens.dk
+
+
+
+
+Finland (country code +358)
+Communication of 23.VIII.2017:
+The Finnish Communications Regulatory Authority (FICORA), Helsinki, announces the following information about
+the national numbering plan in Finland.
+         PRESENTATION OF NATIONAL E.164 NUMBERING PLAN FOR COUNTRY CODE 358 (FINLAND)
+Additional information:
+https://www.viestintavirasto.fi/en/internettelephone/numberingoftelecommunicationsnetworks.html
+Number length information is valid for new assignments. Minimum N(S)N length of 5 digits is still in use for old
+assignments.
+
+     NDC                N(S)N
+  or leading       Number length                    Usage of
+                                                                                       Additional Information
+    digits      Maximum Minimum                ITU-T E.164 number
+   of N(S)N      length       length
+
+ 0                                     "00" is the international prefix
+
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number - Service
+ 1 0 0             9             7                                         hone/numberingoftelecommunicationsnetworks
+                                       Numbers
+                                                                           /servicenumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+ 1 0 1             10            8                                         hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+ 1 0 2             10            8                                         hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+ 1 0 3             10            8                                         hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+ 1 0 4             10            8                                         hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+ 1 0 5             10            8                                         hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+ 1 0 6             10            8                                         hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+ 1 0 7             10            8                                         hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+ 1 0 8             10            8                                         hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+ 1 0 9             10            8                                         hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+
+ 1 1                                   not allocated
+ 1 2                                   not allocated
+
+                                                                           Subscriber numbers begin with 1 to 8, e.g.
+                                                                           (0)13X, X=1-8
+                                       Geographic number -
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+ 1 3 (NDC)         9             7     NDC for Pohjois-Karjala numbering
+                                                                           hone/numberingoftelecommunicationsnetworks
+                                       area (013)
+                                                                           /localcallsandtelecommunicationsareas/numberr
+                                                                           angesforfixedtelephonenetwork.html
+
+
+
+
+    NDC                 N(S)N
+ or leading        Number length                   Usage of
+                                                                                       Additional Information
+   digits       Maximum Minimum               ITU-T E.164 number
+  of N(S)N       length       length
+                                                                           Subscriber numbers begin with 1 to 8
+                                       Geographic number -                 https://www.viestintavirasto.fi/en/internettelep
+1 4 (NDC)          9           7       NDC for Keski-Suomi numbering       hone/numberingoftelecommunicationsnetworks
+                                       area (014)                          /localcallsandtelecommunicationsareas/numberr
+                                                                           angesforfixedtelephonenetwork.html
+
+                                                                           Subscriber numbers begin with 1 to 8
+                                       Geographic number -                 https://www.viestintavirasto.fi/en/internettelep
+1 5 (NDC)          9           7       NDC for Mikkeli numbering area      hone/numberingoftelecommunicationsnetworks
+                                       (015)                               /localcallsandtelecommunicationsareas/numberr
+                                                                           angesforfixedtelephonenetwork.html
+
+                                                                           Subscriber numbers begin with 1 to 8
+                                       Geographic number -                 https://www.viestintavirasto.fi/en/internettelep
+1 6     (NDC)      9           7       NDC for Lappi numbering area        hone/numberingoftelecommunicationsnetworks
+                                       (016)                               /localcallsandtelecommunicationsareas/numberr
+                                                                           angesforfixedtelephonenetwork.html
+
+                                                                           Subscriber numbers begin with 1 to 8
+                                       Geographic number -                 https://www.viestintavirasto.fi/en/internettelep
+1 7     (NDC)      9           7       NDC for Kuopio numbering area       hone/numberingoftelecommunicationsnetworks
+                                       (017)                               /localcallsandtelecommunicationsareas/numberr
+                                                                           angesforfixedtelephonenetwork.html
+
+                                                                           Subscriber numbers begin with 1 to 8
+                                       Geographic number -                 https://www.viestintavirasto.fi/en/internettelep
+1 8     (NDC)      9           7       NDC for Åland (Aaland) islands      hone/numberingoftelecommunicationsnetworks
+                                       numbering area (018)                /localcallsandtelecommunicationsareas/numberr
+                                                                           angesforfixedtelephonenetwork.html
+
+                                                                           Subscriber numbers begin with 1 to 8
+                                       Geographic number -                 https://www.viestintavirasto.fi/en/internettelep
+1 9     (NDC)      9           7       NDC for Uusimaa II numbering area   hone/numberingoftelecommunicationsnetworks
+                                       (019)                               /localcallsandtelecommunicationsareas/numberr
+                                                                           angesforfixedtelephonenetwork.html
+
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number - Service
+2 0 0              9           7                                           hone/numberingoftelecommunicationsnetworks
+                                       Numbers
+                                                                           /servicenumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+2 0 1              10          8                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number - Service
+2 0 2 0            9           8                                           hone/numberingoftelecommunicationsnetworks
+                                       Numbers
+                                                                           /servicenumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+2 0 2 1            10          8                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number - Service
+2 0 2 2            9           8                                           hone/numberingoftelecommunicationsnetworks
+                                       Numbers
+                                                                           /servicenumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number - Service
+2 0 2 3            9           8                                           hone/numberingoftelecommunicationsnetworks
+                                       Numbers
+                                                                           /servicenumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+2 0 2 4-9          10          8                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+
+
+
+
+    NDC                 N(S)N
+ or leading        Number length                   Usage of
+                                                                                      Additional Information
+   digits       Maximum Minimum               ITU-T E.164 number
+  of N(S)N       length       length
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+2 0 3              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+2 0 4              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+2 0 5              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+2 0 6              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+2 0 7              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+2 0 8              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+2 0 9 0-7          10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number - Service
+2 0 9 8-9          10          5                                          hone/numberingoftelecommunicationsnetworks
+                                       Numbers
+                                                                          /servicenumbers.html
+
+                                                                          Subscriber numbers begin with 1 to 8
+                                       Geographic number -                https://www.viestintavirasto.fi/en/internettelep
+2 (NDC)            9           7       NDC for Turku and Pori numbering   hone/numberingoftelecommunicationsnetworks
+                                       area (02)                          /localcallsandtelecommunicationsareas/numberr
+                                                                          angesforfixedtelephonenetwork.html
+
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+2 9                10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number - Service
+3 0 0              10          6                                          hone/numberingoftelecommunicationsnetworks
+                                       Numbers
+                                                                          /servicenumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+3 0 1              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+3 0 2              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+3 0 3              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+3 0 4              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+3 0 5              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+3 0 6              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+                                                                          https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+3 0 7              10          8                                          hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                          /businessnumbers.html
+
+
+
+    NDC               N(S)N
+ or leading      Number length                   Usage of
+                                                                                     Additional Information
+   digits     Maximum Minimum               ITU-T E.164 number
+  of N(S)N     length       length
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Non-geographic number -
+3 0 8            10          8                                           hone/numberingoftelecommunicationsnetworks
+                                     Nationwide Subscriber Numbers
+                                                                         /businessnumbers.html
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Non-geographic number -
+3 0 9            10          8                                           hone/numberingoftelecommunicationsnetworks
+                                     Nationwide Subscriber Numbers
+                                                                         /businessnumbers.html
+
+                                                                         Subscriber numbers begin with 1 to 8
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Geographic number -
+3 (NDC)          9           7                                           hone/numberingoftelecommunicationsnetworks
+                                     NDC for Häme numbering area (03)
+                                                                         /localcallsandtelecommunicationsareas/numberr
+                                                                         angesforfixedtelephonenetwork.html
+
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Non-geographic number -
+3 9              10          8                                           hone/numberingoftelecommunicationsnetworks
+                                     Nationwide Subscriber Numbers
+                                                                         /businessnumbers.html
+
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Non-geographic number - Mobile
+4 0-8            10          8                                           hone/numberingoftelecommunicationsnetworks
+                                     Networks
+                                                                         /mobilenetworks/mobilenetworkareacodes.html
+                                     Non-geographic number - Mobile
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Networks;
+4 9              11         11                                           hone/numberingoftelecommunicationsnetworks
+                                     Special usage: Machine-to-Machine
+                                                                         /mobilenetworks/mobilenetworkareacodes.html
+                                     (M2M) numbers
+
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Non-geographic number - Mobile
+5 0 (NDC)        10          8                                           hone/numberingoftelecommunicationsnetworks
+                                     Networks
+                                                                         /mobilenetworks/mobilenetworkareacodes.html
+                                                                         Subscriber numbers begin with 1 to 8
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Geographic number -
+5 (NDC)          9           7                                           hone/numberingoftelecommunicationsnetworks
+                                     NDC for Kymi numbering area (05)
+                                                                         /localcallsandtelecommunicationsareas/numberr
+                                                                         angesforfixedtelephonenetwork.html
+
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Non-geographic number -
+6 0 0            9           8                                           hone/numberingoftelecommunicationsnetworks
+                                     Nationwide service numbers
+                                                                         /servicenumbers.html
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Non-geographic number -
+6 0 1            9           8                                           hone/numberingoftelecommunicationsnetworks
+                                     Nationwide service numbers
+                                                                         /servicenumbers.html
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Non-geographic number -
+6 0 2            9           8                                           hone/numberingoftelecommunicationsnetworks
+                                     Nationwide service numbers
+                                                                         /servicenumbers.html
+6 0 3                                not allocated
+6 0 4                                not allocated
+6 0 5                                not allocated
+                                                                         https://www.viestintavirasto.fi/en/internettelep
+                                     Non-geographic number -
+6 0 6            10         10                                           hone/numberingoftelecommunicationsnetworks
+                                     Nationwide service numbers
+                                                                         /servicenumbers.html
+6 0 7                                not allocated
+6 0 8                                not allocated
+6 0 9                                not allocated
+
+
+
+
+    NDC                 N(S)N
+ or leading        Number length                   Usage of
+                                                                                       Additional Information
+   digits       Maximum Minimum               ITU-T E.164 number
+  of N(S)N       length       length
+                                                                           Subscriber numbers begin with 1 to 8
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Geographic number -
+6 (NDC)            9           7                                           hone/numberingoftelecommunicationsnetworks
+                                       NDC for Vaasa numbering area (06)
+                                                                           /localcallsandtelecommunicationsareas/numberr
+                                                                           angesforfixedtelephonenetwork.html
+
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+7 0 0              9           8                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide service numbers
+                                                                           /servicenumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+7 0 1              12          8       Routing numbers                     hone/numberingoftelecommunicationsnetworks
+                                                                           /servicenumbers.html
+7 0 2              12          8       Routing numbers
+7 0 3              12          8       Routing numbers
+7 0 4              12          8       Routing numbers
+7 0 5              12          8       Routing numbers
+7 0 6                                  not allocated
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+7 0 7              10         10                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide service numbers
+                                                                           /servicenumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+7 0 8              10         10                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide service numbers
+                                                                           /servicenumbers.html
+7 0 9 0-8                              not allocated
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+7 0 9 9            9           8                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide service numbers
+                                                                           /servicenumbers.html
+
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+7 1 (NDC)          9           9                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+7 2                                    not allocated
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+7 3 (NDC)          10         10                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+7 4                                    not allocated
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+7 5 0 (NDC)        9           8                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+7 5 1              5           5                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide service numbers
+                                                                           /servicenumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+7 5 2              5           5                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide service numbers
+                                                                           /servicenumbers.html
+                                                                           https://www.viestintavirasto.fi/en/internettelep
+                                       Non-geographic number -
+7 5 3-9            9           8                                           hone/numberingoftelecommunicationsnetworks
+                                       Nationwide Subscriber Numbers
+                                                                           /businessnumbers.html
+7 6                                    not allocated
+7 7                                    not allocated
+7 8                                    not allocated
+7 9                                    not allocated
+
+
+
+
+     NDC                 N(S)N
+  or leading        Number length                      Usage of
+                                                                                             Additional Information
+    digits       Maximum Minimum                  ITU-T E.164 number
+   of N(S)N       length       length
+                                           Non-geographic number -              https://www.viestintavirasto.fi/en/internettelep
+ 8 0 0                9           8        Nationwide service numbers           hone/numberingoftelecommunicationsnetworks
+                                           (freephone)                          /servicenumbers.html
+ 8 0 1                                     not allocated
+ 8 0 2                                     not allocated
+ 8 0 3                                     not allocated
+ 8 04                                      not allocated
+ 8 0 5                                     not allocated
+ 8 0 6                                     not allocated
+ 8 0 7                                     not allocated
+ 8 0 8                                     not allocated
+ 8 0 9                                     not allocated
+                                                                                Subscriber numbers begin with 1 to 8
+                                                                                https://www.viestintavirasto.fi/en/internettelep
+                                           Geographic number -
+ 8 (NDC)              9           7                                             hone/numberingoftelecommunicationsnetworks
+                                           NDC for Oulu numbering area (08)
+                                                                                /localcallsandtelecommunicationsareas/numberr
+                                                                                angesforfixedtelephonenetwork.html
+
+                                                                                Subscriber numbers begin with 1 to 8
+                                           Geographic number -                  https://www.viestintavirasto.fi/en/internettelep
+ 9 (NDC)              9           7        NDC for Uusimaa I numbering area     hone/numberingoftelecommunicationsnetworks
+                                           (09)                                 /localcallsandtelecommunicationsareas/numberr
+                                                                                angesforfixedtelephonenetwork.html
+
+
+   DESCRIPTION OF IMPLEMENTATION OF NUMBER PORTABILITY OF E.164 NUMBERS, COUNTRY CODE 358 (FINLAND)
+
+                                Geographic numbers              Non-geographic numbers other       Mobile numbers
+                                                                than mobile numbers
+ State of NP                    Implemented since 1998          Implemented since 2005             Implemented since 2003
+ Regulatory obligation for
+                                yes                             yes                                yes
+ operators to implement
+                                Central Reference database      Central Reference database         Central Reference database
+ Type of NP implementation
+                                with all call query             with all call query                with all call query
+ Limitations                    Numbering area coverage
+ Specifications available on
+ website                        www.ficora.fi                   www.ficora.fi                      www.ficora.fi
+ Contact information
+ national Administration        www.ficora.fi                   www.ficora.fi                      www.ficora.fi
+ Central Reference Database     Suomen numerot NUMPAC           Suomen numerot NUMPAC Oy           Suomen numerot NUMPAC
+ managed and operated by        Oy www.numpac.fi                www.numpac.fi                      Oy www.numpac.fi
+
+Contact:
+         Mr Jukka Rakkolainen
+         Communications Network Specialist
+         Finnish Communications Regulatory Authority (FICORA)
+         Itämerenkatu 3 A
+         00181 HELSINKI
+         Finland
+         Tel:      +358 295 390 361
+         Fax:      +358 295 390 270
+         Email: jukka.rakkolainen@ficora.fi
+         URL:      www.ficora.fi
+
+
+
+Uganda (country code +256)
+Communication of 22.VIII.2017:
+The Uganda Communications Commission (UCC), Kampala, announces the National Numbering Plan of Uganda.
+                        ITU-T E.164 NATIONAL NUMBERING PLAN FOR COUNTRY CODE 256
+
+a)     Overview
+       The minimum number length (excluding the country code) is 9 digits
+       The maximum number length (excluding the country code) is 9 digits
+
+b)     Details of numbering scheme
+
+       NDC (National           N(S)N Number Length         Usage of E.164 Number            Additional information
+    Destination Code) or
+  leading digits of N(S)N    Maximum       Minimum
+   (National (Significant)    Length        Length
+          Number)
+ 200                             9             9        Fixed telephony services for      Network fully operational
+ 201                                                    Airtel Uganda Limited
+ 20240                           9             9        Fixed telephony services for      Network fully operational
+                                                        Altech Infocom Limited
+ 20300,                          9             9        Fixed telephony services for      Network fully operational
+ 20301                                                  Afrimax Uganda Limited
+ 20302
+ 20303
+ 20304
+ 20320,                          9             9        Fixed telephony services for      Network fully operational
+ 20321                                                  Iway Afrida (U) Limited
+ 20322
+ 20323
+ 20324
+ 2036                            9             9        Fixed telephony services for      Network fully operational
+ 2037                                                   Sombha Solutions store
+                                                        Limited
+ 204                             9             9        Fixed telephony services for      Network fully operational
+                                                        Africell Uganda Limited
+
+ 2050                            9             9        Fixed telephony services for      Network fully operational
+ 2051                                                   Roke Investment International
+ 2052                                                   Limited
+ 2053
+ 2054
+ 206000                          9             9        Fixed telephony services for      Network fully operational
+ 206001                                                 Datanet
+ 206002
+ 2061                            9             9        Fixed telephony services for      Network not operational
+                                                        Hamilton Telecom
+
+ 206300                          9             9        Fixed telephony services for      Network fully operational
+ 206301                                                 Simbanet Uganda Limited
+ 206302
+ 206303
+ 206304
+
+
+
+
+      NDC (National          N(S)N Number Length      Usage of E.164 Number          Additional information
+   Destination Code) or
+ leading digits of N(S)N    Maximum      Minimum
+  (National (Significant)    Length       Length
+         Number)
+2065                           9             9     Fixed telephony services for    Network fully operational
+2066                                               Suretelcom Uganda Limited
+2067
+2068
+2069
+207                            9             9     Fixed telephony services for    Network fully operational
+                                                   Airtel Uganda Limited
+
+3                              9             9     Fixed telephony services for    Network is fully operational
+                                                   MTN Uganda Limited
+4                              9             9     Fixed telephony services for    Network is fully operational
+                                                   Uganda Telecom Limited
+700                            9             9     Mobile telephony services for   Network is fully operational
+701                                                Airtel Uganda Limited
+702
+703
+704
+705
+706
+710                            9             9     Mobile telephony services for   Network is fully operational
+711                                                Uganda Telecom Limited
+712
+713
+714
+715
+716
+717
+718
+719
+720                            9             9     Mobile telephony services for   Network is fully operational
+                                                   Smile Communications (U) Ltd
+723                            9             9     Mobile telephony services for   Network is fully operational
+                                                   Afrimax Uganda Limited
+7260                           9             9     Mobile telephony services for   Network is fully operational
+                                                   Tangerine Limited
+730                            9             9     Mobile telephony services for   Network is fully operational
+                                                   K2 Telecom Limited
+7330                           9             9     Mobile telephony services for   Network not operational
+7331                                               Lycamobile Network Services
+7332                                               Limited
+736                            9             9     Mobile telephony services for   Network not operational
+                                                   Hamilton Telecom
+740                            9             9     Mobile telephony services for   Network is fully operational
+741                                                Suretelcom (U) Limited
+742
+743
+744
+
+
+
+
+       NDC (National          N(S)N Number Length      Usage of E.164 Number            Additional information
+    Destination Code) or
+  leading digits of N(S)N    Maximum      Minimum
+   (National (Significant)    Length       Length
+          Number)
+ 750                            9             9     Mobile telephony services for     Network is fully operational
+ 751                                                Airtel Uganda Limited
+ 752
+ 753
+ 754
+ 755
+ 756
+ 757
+ 758
+ 759
+ 770                            9             9     Mobile telephony services for     Network is fully operational
+ 771                                                MTN Uganda Limited
+ 772
+ 773
+ 774
+ 775
+ 776
+ 777
+ 778
+ 779
+ 780                            9             9     Mobile telephony services for     Network is fully operational
+ 781                                                MTN Uganda Limited
+ 782
+ 783
+ 784
+ 785
+ 786
+ 787
+ 788
+ 789
+ 790                            9             9     Mobile telephony services for     Network is fully operational
+ 791                                                Africell Uganda Limited
+ 792
+ 793
+ 794
+ 795
+ 796
+ 7974
+
+Contact:
+       Mr Godfrey Mutabazi
+       Executive Director
+       Uganda Communications Commission (UCC)
+       Plot 42-44 Spring Road, Bugolobi
+       P.O. Box 7376, Kampala, Uganda
+       Tel:     +256 41 433 9000
+       Fax:     +256 41 434 8832
+       E-mail: ucc@ucc.co.ug
+       URL:     www.ucc.co.ug
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+
+                                ADD    Insert                        PAR    paragraph
+                                COL    Column                        REP    replace
+                                LIR    Read                          SUP    Delete
+                                P      page(s)
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                           (Position on 15 November 2015)
+                            (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                             (Amendment No. 26)
+
+
+Hong Kong, China ADD
+
+     Country/         Company Name/Address                Issuer                        Contact                Effective
+  geographical                                          Identifier                                              date of
+       area                                              Number                                                  usage
+ Hong Kong,         Webbing Hong Kong Ltd.              89 852 35          Noam Lando                          1.IX.2017
+ China              17/F., Yue Hing Building                               Webbing Hong Kong Ltd.
+                    103 Hennessy Road                                      17/F., Yue Hing Building
+                    WANCHAI                                                103 Hennessy Road
+                                                                           WANCHAI
+                                                                           Tel:      +1 650 338 7457
+                                                                           Fax:      +972 3 5469218
+                                                                           E-mail: noam@iamwebbing.com
+
+
+
+Japan   ADD
+
+     Country/       Company Name/Address                  Issuer           Contact                                 Effective
+   geographical                                         Identifier                                                  date of
+       area                                              Number                                                     usage
+ Japan              SAKURA Internet Inc.                89 81 04           Mr Hiroyuki Kawabata                    1.X.2017
+                    Sumitomofudosan                                        SAKURA Internet Inc.
+                    Nishishinjuku Building 33F, 7-                         Sumitomofudosan Nishishinjuku
+                    20-1,                                                  Building 33F, 7-20-1,
+                    Nishi-shinjuku,                                        Nishi-shinjuku, Shinjuku-Ward,
+                    Shinjuku-Ward,                                         TOKYO
+                    TOKYO                                                  Tel:     +81 3 5332 7070
+                                                                           Fax:     +81 3 5332 7080
+                                                                           E-mail: sakura-iot@sakura.ad.jp
+
+
+
+
+Mobile Network Codes (MNC) for the international identification plan
+               for public networks and subscriptions
+       (According to Recommendation ITU-T E.212 (09/2016))
+                 (Position on 1st November 2016)
+                       (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                        (Amendment No.20)
+
+ Country/Geographical area            MCC+MNC *           Operator/Network
+ Australia LIR
+                                           505 41         Aqura Technologies Pty
+ Czech Rep. ADD
+                                           230 05         PODA a.s.
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                         (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                          (Amendment No. 49)
+ Country or area/ISO code                           Company Code       Contact
+  Company Name/Address                               (carrier code)
+
+Germany (Federal Republic of) / DEU         ADD
+ comjoo business solutions GmbH                         COMJOO         Mr Marcus Eitel
+ Kurfuerstendamm 132 a                                                 Tel:    +49 160 8066755
+ 10711 BERLIN                                                          Fax:    +49 30 216059 99
+                                                                       E-mail: marcus.eitel@comjoo.com
+
+ DAMOVO Deutschland GmbH & Co.KG                       DAMOVO          Mr Udo Fahjen
+ Heerdter Lohweg 35                                                    Tel:    +49 6102 704 259
+ 40549 DUESSELDORF                                                     Fax:    +49 6102 704 177
+                                                                       E-mail: udo.fahjen@damovo.com
+ StarDSL GmbH                                           DESDSL         Mr Niko Rimarzik
+ Grosse Elbstrasse 47                                                  Tel:     +49 40 30606210
+ 22767 HAMBURG                                                         Fax:     +49 40 30606131
+                                                                       E-mail: technik@h3-netservice.de
+ eins energie in sachsen GmbH & Co.KG                   EINSTK        Mrs Romy Ketscher
+ Augustusburger Strasse 1                                             Tel:    +49 371 525 1352
+ 09111 CHEMNITZ                                                       Fax:    +49 371 525 1350
+                                                                      E-mail: romy.ketscher@eins.de
+ Francotyp-Postalia Vertrieb und Service GmbH           FPVSG         Mrs Lieselotte Schuler
+ Prenzlauer Promenade 28                                              Tel:     +49 30 220660 324
+ 13089 BERLIN                                                         Fax:     +49 30 220660 389
+                                                                      E-mail: l.schuler@francotyp.com
+ GBC Kommunikationssysteme GmbH                        GBCNGN         Mr Ingo Goebel
+ Leibnizstrasse 2                                                     Tel:     +49 7631 172293
+ 79379 MUELLHEIM                                                      Fax:     +49 7631 172294
+                                                                      E-mail: ingo.goebel@gbc-systeme.de
+ Hightel GmbH                                           INNO1         Mr Guido Hoersken
+ Vestische Strasse 165                                                Tel:    +49 208 970429 16
+ 46117 OBERHAUSEN                                                     Fax:    +49 208 970429 29
+                                                                      E-mail: guido.hoersken@hightel.de
+ Web + Phone GmbH                                      WPHONE         Mr Vladimir Schulz
+ IT-Systeme und Kommunikationslösungen                                Tel:    +49 3437 701770
+ Wurzener Strasse 91                                                  Fax:    +49 3437 701926
+ 04668 GRIMMA                                                         E-mail: service@wp-traffic.de
+
+
+ Stadtwerke Teterow GmbH                                SWTET         Mr Edgar Martens
+ Gasstrasse 26                                                        Tel:    +49 3996 1533 73
+ 17166 TETEROW                                                        Fax:    +49 3996 1533 15
+                                                                      E-mail: e.martens@sw-teterow.de
+
+
+
+
+                   List of Signalling Area/Network Codes (SANC)
+               (Complement to Recommendation ITU-T Q.708 (03/1999))
+                              (Position on 1 June 2017)
+
+                                 (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                  (Amendment No. 1)
+
+
+
+ Numerical order         ADD
+               7-019        Honduras (Republic of)
+
+
+
+ Alphabetical order ADD
+               7-019        Honduras (Republic of)
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 21)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+ Cyprus ADD
+ 5-215-0       11960        FEBO, Limassol                             FEBO TELECOM LTD
+
+ Palau ADD
+ 5-110-0       11120        Palau Communication & Electronics          Palau Communication & Electronics Company
+                            Company
+
+ Singapore ADD
+ 5-144-1       11393        NGT-IMG1                                   NGT Networks Pte Ltd
+ 5-144-2       11394        NGT-TMG1                                   NGT Networks Pte Ltd
+ 5-144-3       11395        NGT-SMSC1                                  NGT Networks Pte Ltd
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                  National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                   Web: www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.VIII.2017, the following countries/geographical areas have updated their national numbering plan on
+our site:
+
+
+                    Country/ Geographical area                         Country Code (CC)
+           Bahamas                                                          +1 242
+           Egypt                                                               +20
+           Iran (Islamic Republic of)                                          +98
+           Uganda                                                            +256
+
+
+
+

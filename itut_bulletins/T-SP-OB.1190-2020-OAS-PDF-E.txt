@@ -1,0 +1,1254 @@
+                       ITU Operational Bulletin
+                                                        www.itu.int/itu-t/bulletin
+
+       No. 1190             15.II.2020                  (Information received by 31 January 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                         Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                             Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                             Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                            E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                  Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                     3
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164
+   (11/2010)): Identification codes for international non-commercial trials ................................................                                            4
+The International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+   (09/2016)): Identification codes for international non-commercial trials ................................................                                            4
+Terrestrial trunk radio Mobile Country Codes (Recommendation ITU-T E.218 (05/2004)): Identification
+   codes for International Terrestrial trunk radio Networks .........................................................................                                   5
+Telephone Service:
+     Botswana (Botswana Communications Regulatory Authority (BOCRA), Gaborone) ......................................                                                   6
+     Denmark (Danish Energy Agency, Copenhagen) ............................................................................................ 10
+     Iran (Islamic Republic of) (Communications Regulatory Authority (CRA), Tehran) ........................................ 13
+     Jordan (Telecommunications Regulatory Commission (TRC), Amman) .......................................................... 16
+     Monaco (Direction du Développement des Usages Numériques, Monaco) ................................................... 16
+     Mongolia (Communications Regulatory Commission of Mongolia, Ulaanbaatar) ......................................... 17
+     Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) .......................... 18
+     Palau (Division of Communication under the Ministry of Public Infrastructure, Industries and Commerce,
+        Koror) ........................................................................................................................................................ 18
+Service Restrictions ........................................................................................................................................         22
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                    22
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .........................................                                             23
+List of Recommendation ITU-T E.164 assigned Country Codes .....................................................................                                       23
+List of Terrestrial trunk radio Mobile Country Codes.....................................................................................                             24
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................             24
+List of ITU Carrier Codes .................................................................................................................................           25
+National Numbering Plan ...............................................................................................................................               26
+
+
+
+
+                                                                                                                                   www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1191              1.III.2020            14.II.2020
+               1192             15.III.2020            2.III.2020
+               1193              1.IV.2020             16.III.2020
+               1194             15.IV.2020             1.IV.2020
+               1195              1.V.2020              15.IV.2020
+               1196             15.V.2020               1.V.2020
+               1197              1.VI.2020             15.V.2020
+               1198             15.VI.2020             1.VI.2020
+               1199             1.VII.2020             15.VI.2020
+               1200             15.VII.2020            1.VII.2020
+               1201             1.VIII.2020           15.VII.2020
+               1202            15.VIII.2020           31.VII.2020
+               1203              1.IX.2020            14.VIII.2020
+               1204             15.IX.2020             1.IX.2020
+               1205              1.X.2020              15.IX.2020
+               1206             15.X.2020               1.X.2020
+               1207              1.XI.2020             15.X.2020
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021             11.XII.2020
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+              The International Public Telecommunication Numbering Plan
+                       (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+                          Identification codes for international non-commercial trials
+Associated with shared country code 991 (CC), for trial, the three-digit trial identification code (TIC) “001” has
+been temporarily assigned until 14 January 2021 to World’s Global Telecom (WGT) for the trial to test “BAC-TVT
+(Global Mobile Bot-Assisted Conference with Text-to-Voice-to-Text PLMN/PSTN for People with Disabilities)”.
+The temporary assignment of the E.164 shared CC and TIC 991 001 is effective from 15 January 2020.
+
+
+                                              Country Code and              Effective date of     Reclamation date
+  Applicant                                                                    assignment
+                                           Trial Identification Code
+
+  World’s Global Telecom                          +991 001                     15.I.2020             15.I.2021
+
+
+
+
+  The International Identification Plan for Public Networks and Subscriptions
+                  (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                          Identification codes for international non-commercial trials
+Associated with shared mobile country code 991 (MCC), for trial, the two-digit trial mobile network code (MNC)
+“01” has been temporarily assigned until 14 January 2021 to World’s Global Telecom (WGT) for the trial to test
+“BAC-TVT (Global Mobile Bot-Assisted Conference with Text-to-Voice-to-Text PLMN/PSTN for People with
+Disabilities)”. The temporary assignment of the E.212 shared MCC and trial-MNC 991 01 is effective from 15
+January 2020.
+
+                                Mobile Country Code (MCC) and          Effective date of        Reclamation date
+           Applicant
+                               trial-Mobile Network Code (MNC)            assignment
+   World’s Global Telecom                    991 01                       15.I.2020                15.I.2021
+
+
+
+
+                             Terrestrial trunk radio Mobile Country Codes
+                              (Recommendation ITU-T E.218 (05/2004))
+
+Note from TSB
+                          Identification codes for International Terrestrial trunk radio Networks
+
+Associated with shared Terrestrial trunk radio Mobile Country Code 944 ((T)MCC, the following four-digit
+Terrestrial trunk radio Mobile Network Code ((T)MNC) has been assigned.
+
+                                                Terrestrial trunk radio Mobile Country Code ((T)MCC)* and                 Date of
+           Applicant / Network
+                                                 Terrestrial trunk radio Mobile Network Code ((T)MNC)**                 assignment
+Vattenfall Vindkraft A/S                                                   944 0002                                      21.I.2020
+______________
+*      (T)MCC: Terrestrial trunk radio Mobile Country Code / indicatif de pays du mobile de radiocommunication de Terre à ressources
+               partagées / Indicativo de país para el servicio móvil de radiocomunicación con concentración de enlaces terrenales
+**     (T)MNC: Terrestrial trunk radio Mobile Network Code / code de réseau du mobile de radiocommunication de Terre à ressources
+               partagées / Indicativo de red para el servicio móvil de radiocomunicación con concentración de enlaces terrenales
+
+
+
+
+                                           Telephone Service
+                                      (Recommendation ITU-T E.164)
+                                             url: www.itu.int/itu-t/inr/nnp
+Botswana (country code +267)
+Communication of 16.I.2020:
+The Botswana Communications Regulatory Authority (BOCRA), Gaborone, announces the updated national
+numbering pan of Botswana. The main changes are highlighted in red text.
+1. National Numbering Plan (NNP)
+
+ First digit                                                Second digit
+                   0         1         2          3         4         5          6   7         8         9
+      0         Int’l(a)   Short international dialling in region
+      1        Short codes
+      2         NG(b)      Geographic numbering (Francistown region)
+      3          NG        Geographic numbering (Gaborone)
+      4          NG        Geographic numbering (Palapye region)
+      5          NG        Geographic numbering (south-east region)
+      6          NG        Geographic numbering (north and west regions)
+      7        Personal and mobile numbering
+      8        Non-geographic numbering (freephone, etc.)
+      9         PRS(c)     Reserved                                                                    Em(d)
+(a)   Int’l: international access code
+(b)   NG: non-geographic numbering
+(c)   PRS: premium rate services (non-geographic)
+(d)   Em: emergency code(s) (999, 998, 997)
+
+2. Geographic number ranges
+
+           Area                            Number range              Test number         Number length
+  Ramotswa Area                              538 XXXX                 539 0100              Seven
+                                             539 XXXX                                       Seven
+  Mahalapye Area                             471 XXXX                 471 0100              Seven
+                                             472 XXXX                                       Seven
+                                             476 XXXX                                       Seven
+                                             477 XXXX                                       Seven
+  Gantsi Area                                659 XXXX                 659 6100              Seven
+  Palapye Area                               490 XXXX                 492 0100              Seven
+                                             491 XXXX                                       Seven
+                                             492 XXXX                                       Seven
+                                             493 XXXX                                       Seven
+                                             494 XXXX                                       Seven
+                                             495 XXXX                                       Seven
+  Selebi-Phikwe Area                         260 XXXX                 261 0100              Seven
+                                             261 XXXX                                       Seven
+                                             262 XXXX                                       Seven
+                                             264 XXXX                                       Seven
+  Francistown Area                           240 XXXX                 241 0100              Seven
+                                             241 XXXX                                       Seven
+                                             242 XXXX                                       Seven
+                                             243 XXXX                                       Seven
+                                             244 XXXX                                       Seven
+                                             248 XXXX                                       Seven
+           Area                      Number range             Test number   Number length
+Letlhakane/Orapa Area                  290 XXXX                297 0100        Seven
+                                       295 XXXX                                Seven
+                                       297 XXXX                                Seven
+                                       298 XXXX                                Seven
+Kgalagadi Area                         651 XXXX                654 0100        Seven
+                                       654 XXXX                                Seven
+Serowe Area                            460 XXXX                463 0100        Seven
+                                       463 XXXX                                Seven
+Molepolole Area                        590 XXXX                592 0100        Seven
+                                       591 XXXX                                Seven
+                                       592 XXXX                                Seven
+                                       593 XXXX                                Seven
+                                       594 XXXX                                Seven
+                                       599 XXXX                                Seven
+Maun Area                              680 XXXX                686 0100        Seven
+                                       686 XXXX                                Seven
+                                       687 XXXX                                Seven
+Outer Gaborone Area                    310 XXXX                310 2771        Seven
+Barolong/Ngwaketse Area                540 XXXX                544 0100        Seven
+                                       544 XXXX                                Seven
+                                       548 XXXX                                Seven
+                                       549 XXXX                                Seven
+Mochudi Area                           571 XXXX                577 7100        Seven
+                                       572 XXXX                                Seven
+                                       573 XXXX                                Seven
+                                       574 XXXX                                Seven
+                                       577 XXXX                                Seven
+Gaborone Area                          392 XXXX                395 8100        Seven
+                                       394 XXXX                                Seven
+                                       395 XXXX                                Seven
+Gaborone Area                          390 XXXX                355 1100        Seven
+                                       391 XXXX                                Seven
+                                       397 XXXX                                Seven
+                                       355 XXXX                                Seven
+Gaborone Area                          312 XXXX                315 9095        Seven
+                                       313 XXXX                                Seven
+                                       315 XXXX                                Seven
+                                       316 XXXX                                Seven
+                                       317 XXXX                                Seven
+                                       318 XXXX                                Seven
+                                       319 XXXX                                Seven
+Lobatse Area                           530 XXXX                533 0100        Seven
+                                       533 XXXX                                Seven
+Jwaneng Area                           588 XXXX                588 0100        Seven
+Gaborone Area                          36X XXXX                363 6400        Seven
+                                       370 XXXX                                Seven
+                                       371 XXXX                                Seven
+                                       393 XXXX                                Seven
+Kasane Area                            621 XXXX                625 0250        Seven
+                                       622 XXXX                                Seven
+                                       623 XXXX                                Seven
+                                       625 XXXX                                Seven
+
+     All fixed lines in Botswana are seven (7) digits long.
+
+
+
+
+3. Mobile, VoIP and M2M number ranges assigned
+
+                           Operator                                 Mobile Number Range
+  Mascom Wireless                                                  71 000 000 – 71 999 999
+                                                                   74 000 000 – 74 299 999
+                                                                   74 500 000 – 74 799 999
+                                                                   75 400 000 – 75 699 999
+                                                                   75 900 000 – 75 999 999
+                                                                   76 000 000 – 76 299 999
+                                                                   76 600 000 – 76 799 999
+                                                                   77 000 000 – 77 199 999
+                                                                   77 600 000 – 77 799 999
+                                                                   77 800 000 – 77 899 999
+  Orange Botswana                                                  72 000 000 – 72 999 999
+                                                                   74 300 000 – 74 499 999
+                                                                   74 800 000 – 74 899 999
+                                                                   75 000 000 – 75 399 999
+                                                                   75 700 000 – 75 799 999
+                                                                   76 300 000 – 76 599 999
+                                                                   76 900 000 – 76 999 999
+                                                                   77 400 000 – 77 599 999
+                                                                   77 900 000 – 77 999 999
+                                                                   77 300 000 – 77 399 999
+  Botswana Telecommunications Corporation Limited                  73 000 000 – 73 999 999
+  (BTCL)                                                           74 900 000 - 74 999 999
+                                                                   75 800 000 – 75 899 999
+                                                                   76 800 000 – 76 899 999
+                                                                   77 200 000 – 77 200 999
+
+                          Operator                                   VoIP Number range
+
+  Virtual Business Network Services                                79 100 000 – 79 100 999
+  AfriTel                                                          79 101 000 – 79 101 999
+  Global Broadband Solutions                                       79 102 000 – 79 102 999
+  Business Solutions Consultants                                   79 103 000 – 79 103 999
+  Fourth Dimension                                                 79 104 000 – 79 104 999
+  OPQ Net                                                          79 105 000 – 79 105 999
+  Mega Internet                                                    79 106 000 – 79 106 999
+  Stature (OpenVoice)                                              79 107 000 – 79 107 999
+                                                                   79 113 000 – 79 113 999
+  Tsagae Communications                                            79 108 000 – 79 108 999
+  MicroTeck Enterprises                                            79 109 000 – 79 109 999
+  Microla Botswana                                                 79 110 000 – 79 110 999
+  Internet Options Botswana                                        79 111 000 – 79 111 999
+  FDI Foneworx                                                     79 112 000 – 79 112 999
+  MTN Business Solutions                                           79 114 000 - 79 114 999
+  Abari Communications                                             79 115 000 – 79 115 999
+  Mission Communications                                           79 116 000 – 79 116 999
+  ConceroTel                                                       79 117 000 – 79 117 999
+  Paratus Africa                                                   79 118 000 – 79 118 999
+  Blue Pearl Communications T/A ROI                                79 119 000 – 79 119 999
+  Dapit Ventures T/A GCSat Botswana                                79 120 000 – 79 120 999
+  Orange Botswana                                                  79 200 000 – 79 209 999
+                                                                   79 220 000 – 79 229 999
+  Botswana Telecommunications Corporation Limited                  79 210 000 – 79 219 999
+  (BTCL)
+
+All mobile and VoIP lines in Botswana are eight (8) digits long.
+                            Operator                                     M2M Number range
+  Orange Botswana                                                    890 000 0000 – 890 000 9999
+
+
+All Machine to Machine (M2M) Communications numbers Botswana are ten (10) digits long.
+
+
+4. National Codes
+ Mobile Country Code (E.212 MCC)                                                            652
+ Mascom Wireless (MNC – mobile network code)                                                 01
+ Orange Botswana (MNC – mobile network code)                                                 02
+ Botswana Telecommunications Corporation (BTCL) MNC – mobile network code                    04
+
+
+Administrations and Recognized Operating Agencies (ROAs) are requested to ensure the timely activation of the
+above number ranges.
+Contact:
+      Botswana Communications Regulatory Authority (BOCRA)
+      Plot 50671, Independence Avenue
+      Private Bag 00495
+      GABORONE
+      Botswana
+      Tel:     +267 395 7755
+      Fax:     +267 395 7976
+      E-mail: technical@bocra.org.bw
+      URL:     www.bocra.org.bw
+
+
+
+
+Denmark (country code +45)
+Communication of 31.I.2020:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     Withdrawal – Fixed communication services
+    Provider                             Numbering series                           Date of withdrawal
+TDC Netco A/S    32342fgh, 32343fgh, 32345fgh, 32647fgh, 32696fgh, 32839fgh,            31.XII.2019
+                 32872fgh, 32879fgh, 32899fgh, 33285fgh, 33292fgh, 33415fgh,
+                 33467fgh, 33469fgh, 33486fgh, 33520fgh, 33521fgh, 33522fgh,
+                 33524fgh, 33525fgh, 33544fgh, 33545fgh, 33640fgh, 33671fgh,
+                 33674fgh, 33675fgh, 33678fgh, 33698fgh, 33700fgh, 33742fgh,
+                 33754fgh, 33756fgh, 33761fgh, 33763fgh, 33772fgh, 33776fgh,
+                 33784fgh, 33857fgh, 33859fgh, 33865fgh, 33866fgh, 33867fgh,
+                 33875fgh, 33877fgh, 33878fgh, 33879fgh, 33897fgh, 33975fgh,
+                 33976fgh, 33985fgh, 35281fgh, 35284fgh, 35288fgh, 35292fgh,
+                 35295fgh, 35296fgh, 35297fgh, 35313fgh, 35318fgh, 35469fgh,
+                 35526fgh, 35862fgh, 35871fgh, 35872fgh, 35873fgh, 35876fgh,
+                 36104fgh, 36124fgh, 36190fgh, 36191fgh, 36195fgh, 36311fgh,
+                 36322fgh, 36328fgh, 36329fgh, 36353fgh, 36355fgh, 36373fgh,
+                 36375fgh, 36381fgh, 36389fgh, 36391fgh, 36733fgh, 36734fgh,
+                 36735fgh, 36736fgh, 36791fgh, 36792fgh, 36795fgh, 36796fgh,
+                 36864fgh, 36865fgh, 36866fgh, 36881fgh, 36887fgh, 38125fgh,
+                 38126fgh, 38127fgh, 38128fgh, 38129fgh, 38151fgh, 38172fgh,
+                 38183fgh, 38189fgh, 38216fgh, 38218fgh, 38219fgh, 38236fgh,
+                 38255fgh, 38276fgh, 38277fgh, 38386fgh, 38389fgh, 38480fgh,
+                 38486fgh, 38834fgh, 39112fgh, 39113fgh, 39114fgh, 39115fgh,
+                 39116fgh, 39117fgh, 39118fgh, 39132fgh, 39140fgh, 39144fgh,
+                 39145fgh, 39152fgh, 39170fgh, 39259fgh, 39468fgh, 39475fgh,
+                 39476fgh, 39477fgh, 39483fgh, 39486fgh, 39489fgh, 39543fgh,
+                 39571fgh, 39583fgh, 39758fgh, 39759fgh, 39779fgh, 39967fgh,
+                 39975fgh, 39976fgh, 39979fgh, 43222fgh, 43248fgh, 43256fgh,
+                 43257fgh, 43259fgh, 43264fgh, 43275fgh, 43277fgh, 43294fgh,
+                 43307fgh, 43337fgh, 43351fgh, 43355fgh, 43356fgh, 43357fgh,
+                 43358fgh, 43359fgh, 43380fgh, 43382fgh, 43383fgh, 43386fgh,
+                 43387fgh, 43388fgh, 43389fgh, 43392fgh, 43397fgh, 43417fgh,
+                 43481fgh, 43506fgh, 43507fgh, 43586fgh, 43593fgh, 43594fgh,
+                 43597fgh, 43680fgh, 43684fgh, 43820fgh, 43822fgh, 43825fgh,
+                 43829fgh, 43842fgh, 43843fgh, 43844fgh, 43845fgh, 43846fgh,
+                 43847fgh, 43848fgh, 43948fgh, 44274fgh, 44275fgh, 44359fgh,
+                 44374fgh, 44375fgh, 44376fgh, 44379fgh, 44395fgh, 44397fgh,
+                 44398fgh, 44399fgh, 44519fgh, 44572fgh, 44701fgh, 44706fgh,
+                 44708fgh, 44709fgh, 44732fgh, 44733fgh, 44735fgh, 44739fgh,
+                 44782fgh, 44783fgh, 44785fgh, 44789fgh, 44806fgh, 44807fgh,
+                 44825fgh, 44826fgh, 44829fgh, 44834fgh, 44837fgh, 44863fgh,
+                 44872fgh, 44876fgh, 44886fgh, 44893fgh, 44895fgh, 44899fgh,
+                 45113fgh, 45171fgh, 45231fgh, 45233fgh, 45234fgh, 45274fgh,
+                 45276fgh, 45478fgh, 45509fgh, 45573fgh, 45583fgh, 45673fgh,
+                 45674fgh, 45677fgh, 45719fgh, 45742fgh, 45840fgh, 45841fgh,
+                 45842fgh, 45843fgh, 45846fgh, 45847fgh, 45848fgh, 45909fgh,
+                 45923fgh, 45928fgh, 45947fgh, 45958fgh, 45965fgh, 45966fgh,
+                 45967fgh, 45971fgh, 45972fgh, 45975fgh, 45977fgh, 45978fgh,
+                 45979fgh, 45991fgh, 45994fgh, 45996fgh, 46128fgh, 46179fgh,
+                 46319fgh, 46439fgh, 46489fgh, 46576fgh, 46764fgh, 46779fgh,
+                 46799fgh, 47195fgh, 47196fgh, 47197fgh, 47198fgh, 47391fgh,
+                 47392fgh, 47394fgh, 47395fgh, 47396fgh, 47397fgh, 47398fgh,
+                 47534fgh, 47567fgh, 47589fgh, 47595fgh, 47780fgh, 47783fgh,
+                 47786fgh, 47788fgh, 47789fgh, 47973fgh, 47976fgh, 47977fgh,
+   Provider                              Numbering series                      Date of withdrawal
+                 47979fgh, 48109fgh, 48121fgh, 48122fgh, 48123fgh, 48124fgh,
+                 48136fgh, 48198fgh, 48199fgh, 48202fgh, 48223fgh, 48226fgh,
+                 48305fgh, 48381fgh, 48382fgh, 48389fgh, 48403fgh, 48407fgh,
+                 48409fgh, 48774fgh, 48775fgh, 48776fgh, 49115fgh, 49116fgh,
+                 49117fgh, 49119fgh, 49157fgh, 49159fgh, 49189fgh, 49277fgh,
+                 49278fgh, 49752fgh, 49753fgh, 49771fgh, 49773fgh, 49774fgh,
+                 49775fgh, 49776fgh, 49777fgh, 49778fgh, 49779fgh, 54419fgh,
+                 54448fgh, 54495fgh, 54658fgh, 54673fgh, 54678fgh, 54679fgh,
+                 54694fgh, 54764fgh, 54765fgh, 54793fgh, 54794fgh, 54795fgh,
+                 54796fgh, 54797fgh, 54799fgh, 54889fgh, 54972fgh, 54973fgh,
+                 54974fgh, 54975fgh, 54976fgh, 54977fgh, 54978fgh, 54979fgh,
+                 54986fgh, 55356fgh, 55384fgh, 55499fgh, 55713fgh, 55784fgh,
+                 55988fgh, 56185fgh, 56187fgh, 56201fgh, 56205fgh, 56293fgh,
+                 56372fgh, 56374fgh, 56375fgh, 56376fgh, 56377fgh, 56378fgh,
+                 56379fgh, 56438fgh, 56568fgh, 56644fgh, 56673fgh, 56735fgh,
+                 56780fgh, 56785fgh, 56908fgh, 57655fgh, 57656fgh, 57686fgh,
+                 57859fgh, 57872fgh, 57889fgh, 58113fgh, 58118fgh, 58229fgh,
+                 58270fgh, 58301fgh, 58304fgh, 58305fgh, 58309fgh, 58557fgh,
+                 58576fgh, 58577fgh, 58599fgh, 59123fgh, 59219fgh, 59249fgh,
+                 59289fgh, 59299fgh, 59367fgh, 59368fgh, 59579fgh, 59647fgh,
+                 59649fgh, 59980fgh, 59982fgh, 59987fgh, 59988fgh, 59989fgh,
+                 62173fgh, 62174fgh, 63149fgh, 63165fgh, 63175fgh, 63179fgh,
+                 63182fgh, 63187fgh, 63226fgh, 63248fgh, 63249fgh, 63258fgh,
+                 63259fgh, 63276fgh, 63277fgh, 63278fgh, 63319fgh, 63325fgh,
+                 63327fgh, 63332fgh, 63339fgh, 63354fgh, 63355fgh, 63359fgh,
+                 63384fgh, 63385fgh, 63386fgh, 63387fgh, 63388fgh, 63389fgh,
+                 63403fgh, 63426fgh, 63428fgh, 63429fgh, 63435fgh, 63437fgh,
+                 63438fgh, 63439fgh, 63443fgh, 63451fgh, 63453fgh, 63454fgh,
+                 63455fgh, 63458fgh, 63459fgh, 63462fgh, 63463fgh, 63467fgh,
+                 63468fgh, 63469fgh, 63475fgh, 63477fgh, 63479fgh, 63483fgh,
+                 63518fgh, 63519fgh, 63528fgh, 63529fgh, 63541fgh, 63542fgh,
+                 63543fgh, 63544fgh, 63545fgh, 63546fgh, 63547fgh, 63548fgh,
+                 63549fgh, 63551fgh, 63552fgh, 63553fgh, 63554fgh, 63558fgh,
+                 63559fgh, 63561fgh, 63562fgh, 63563fgh, 63564fgh, 63603fgh,
+                 63605fgh, 63608fgh, 63609fgh, 63627fgh, 63629fgh, 63638fgh,
+                 63672fgh, 63673fgh, 63674fgh, 63675fgh, 63676fgh, 63677fgh,
+                 63678fgh, 63679fgh, 63716fgh, 63717fgh, 63719fgh, 63724fgh,
+                 63725fgh, 63726fgh, 63728fgh, 63729fgh, 63731fgh, 63734fgh,
+                 63735fgh, 63736fgh, 63739fgh, 63747fgh, 63748fgh, 63749fgh,
+                 63764fgh, 63765fgh, 63782fgh, 63783fgh, 63784fgh, 63785fgh,
+                 63786fgh, 63787fgh, 63789fgh, 63813fgh, 63819fgh, 63823fgh,
+                 63825fgh, 63826fgh, 63827fgh, 63829fgh, 63833fgh, 63834fgh,
+                 63836fgh, 63837fgh, 63839fgh, 63853fgh, 63854fgh, 63856fgh,
+                 63857fgh, 63858fgh, 63859fgh, 63883fgh, 63884fgh, 63885fgh,
+                 63886fgh, 63887fgh, 63888fgh, 63889fgh, 63897fgh, 63898fgh,
+                 63899fgh, 63928fgh, 63931fgh, 63932fgh, 63933fgh, 63934fgh,
+                 63935fgh, 63936fgh, 63937fgh, 63938fgh, 63942fgh, 63943fgh,
+                 63944fgh, 63945fgh, 63947fgh, 63948fgh, 63949fgh, 63957fgh,
+                 63964fgh, 63968fgh, 63971fgh, 63975fgh, 63976fgh, 63977fgh,
+                 63978fgh, 63979fgh, 63982fgh, 63983fgh, 63984fgh, 63985fgh,
+                 63986fgh, 63987fgh, 63988fgh, 63989fgh, 65154fgh, 65204fgh,
+                 65253fgh, 65254fgh, 65258fgh, 65400fgh, 65409fgh, 65410fgh,
+                 65428fgh, 65456fgh, 65457fgh, 65474fgh, 65475fgh, 65476fgh,
+                 65562fgh, 65566fgh, 65573fgh, 65584fgh, 65657fgh, 65659fgh,
+                 73155fgh, 73227fgh, 73228fgh, 73230fgh, 73304fgh, 73332fgh,
+                 73357fgh, 73403fgh, 73472fgh, 73475fgh, 73634fgh, 73635fgh,
+                 73900fgh, 73991fgh, 74122fgh, 74182fgh, 74184fgh, 74222fgh,
+                 74224fgh, 74227fgh, 74273fgh, 74305fgh, 74362fgh, 74363fgh,
+   Provider                             Numbering series                           Date of withdrawal
+                74364fgh, 74921fgh, 75433fgh, 75729fgh, 75919fgh, 76233fgh,
+                76335fgh, 76423fgh, 76503fgh, 76506fgh, 76543fgh, 76645fgh,
+                76702fgh, 76717fgh, 76723fgh, 76732fgh, 76955fgh, 76987fgh,
+                79118fgh, 79119fgh, 79126fgh, 79144fgh, 79159fgh, 79171fgh,
+                79207fgh, 79233fgh, 79240fgh, 79251fgh, 79254fgh, 79261fgh,
+                79262fgh, 79264fgh, 79270fgh, 79271fgh, 79273fgh, 79274fgh,
+                79325fgh, 79327fgh, 79334fgh, 79335fgh, 79336fgh, 79414fgh,
+                79417fgh, 79437fgh, 79503fgh, 79602fgh, 79680fgh, 79681fgh,
+                79682fgh, 79683fgh, 79684fgh, 79711fgh, 79722fgh, 79757fgh,
+                79871fgh, 79886fgh, 86609fgh, 86716fgh, 86727fgh, 86775fgh,
+                86809fgh, 87252fgh, 87253fgh, 87326fgh, 87351fgh, 87352fgh,
+                87354fgh, 87377fgh, 87407fgh, 87462fgh, 87473fgh, 87487fgh,
+                87497fgh, 87512fgh, 87674fgh, 87742fgh, 87858fgh, 87911fgh,
+                87964fgh, 87973fgh, 89103fgh, 89107fgh, 89126fgh, 89130fgh,
+                89197fgh, 89211fgh, 89213fgh, 89214fgh, 89222fgh, 89225fgh,
+                89251fgh, 89253fgh, 89262fgh, 89306fgh, 89312fgh, 89314fgh,
+                89315fgh, 89323fgh, 89330fgh, 89347fgh, 89349fgh, 89350fgh,
+                89353fgh, 89356fgh, 89357fgh, 89358fgh, 89367fgh, 89369fgh,
+                89371fgh, 89374fgh, 89379fgh, 89384fgh, 89388fgh, 89390fgh,
+                89395fgh, 89411fgh, 89431fgh, 89436fgh, 89442fgh, 89446fgh,
+                89463fgh, 89464fgh, 89465fgh, 89468fgh, 89473fgh, 89475fgh,
+                89479fgh, 89481fgh, 89491fgh, 89492fgh, 89493fgh, 89494fgh,
+                89495fgh, 89496fgh, 89497fgh, 89498fgh, 89499fgh, 89543fgh,
+                89544fgh, 89548fgh, 89549fgh, 89640fgh, 89748fgh, 89991fgh,
+                89993fgh, 96120fgh, 96171fgh, 96176fgh, 96225fgh, 96279fgh,
+                96336fgh, 96427fgh, 96458fgh, 96501fgh, 96532fgh, 96545fgh,
+                96578fgh, 96595fgh, 96611fgh, 96633fgh, 96752fgh, 96754fgh,
+                96803fgh, 96850fgh, 96971fgh, 96995fgh, 97163fgh, 97200fgh,
+                97201fgh, 97202fgh, 97203fgh, 97204fgh, 97205fgh, 97206fgh,
+                97207fgh, 97519fgh, 97869fgh, 98195fgh, 98196fgh, 98197fgh,
+                98377fgh, 98419fgh, 98627fgh, 98629fgh, 98709fgh, 98908fgh,
+                99100fgh, 99104fgh, 99125fgh, 99126fgh, 99142fgh, 99177fgh,
+                99202fgh, 99205fgh, 99208fgh, 99211fgh, 99213fgh, 99221fgh,
+                99224fgh, 99225fgh, 99232fgh, 99241fgh, 99243fgh, 99263fgh,
+                99265fgh, 99266fgh, 99267fgh, 99272fgh, 99274fgh, 99277fgh,
+                99286fgh, 99288fgh, 99305fgh, 99309fgh, 99321fgh, 99322fgh,
+                99323fgh, 99326fgh, 99328fgh, 99338fgh, 99344fgh, 99345fgh,
+                99346fgh, 99347fgh, 99348fgh, 99356fgh, 99370fgh, 99371fgh,
+                99373fgh, 99375fgh, 99377fgh, 99385fgh, 99471fgh, 99484fgh,
+                99522fgh, 99549fgh, 99607fgh, 99623fgh, 99624fgh, 99644fgh,
+                99645fgh, 99646fgh, 99666fgh, 99671fgh, 99677fgh, 99731fgh,
+                99734fgh, 99739fgh, 99751fgh, 99755fgh, 99763fgh, 99767fgh,
+                99791fgh, 99795fgh, 99861fgh, 99863fgh, 99865fgh, 99867fgh,
+                99961fgh, 99962fgh
+
+
+
+
+•            Assignment – Mobile communication services
+              Provider                              Numbering series                        Date of assignment
+Telenor Connexion AB          466defgh and 468defgh                                              28.I.2020
+
+Contact:
+             Danish Energy Agency
+             43 Carsten Niebuhrs Gade
+             1577 COPENHAGEN V
+             Denmark
+             Tel:    +45 33 92 67 00
+             Fax:    +45 33 11 47 43
+             E-mail: ens@ens.dk
+             URL:    www.ens.dk
+
+Iran (Islamic Republic of) (country code +98)
+Communication of 26.I.2020:
+The Communications Regulatory Authority (CRA), Tehran, announces the following updated National
+Numbering Plan of the Islamic Republic of Iran.
+                                     Presentation of the Iran E.164 numbering plan
+1- General Information
+The E.164 numbering Plan of Iran:
+     Country Code: +98
+     International Prefix: "00"
+     National Prefix: "0"
+        For national calls, it must be dialled before all telephone numbers except short numbers.
+        It must not be dialled from abroad.
+     National destination Code: 2 digits.
+2- Detail of Numbering Scheme
+              NDC: National Destination Code
+              NSN: National Significant Number (NDC + SN)
+The minimum number length (excluding the country code) is               5 digits
+The maximum number length (excluding the country code) is              10 digits
+
+                                                  Numbering Scheme
+
+                    NSN Number length              Usage of
+         NDC                                                       Additional Information
+                   Minimum Maximum              E.164 number
+    11                 5         10             Fixed Phone            Area Code (Geographic Number for Fixed
+                                                                          telephony Numbers- Mazandaran)
+    13                   5         10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                                               telephony Numbers- Gilan)
+    17                   5         10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                                            telephony Numbers- Golestan)
+    21                   5         10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                                              telephony Numbers- Tehran)
+    23                   5         10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                                             telephony Numbers- Semnan)
+    24                   5         10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                                              telephony Numbers- Zanjan)
+    25                   5         10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                                                telephony Numbers-Qom)
+    26                   5         10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                                               telephony Numbers-Alborz)
+
+            NSN Number length      Usage of
+     NDC                                          Additional Information
+           Minimum Maximum      E.164 number
+28             5         10     Fixed Phone         Area Code (Geographic Number for Fixed
+                                                             telephony Numbers-Ghazvin )
+31              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                             telephony Numbers- Isfahan)
+34              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                             telephony Numbers- Kerman)
+35              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                               telephony Numbers-Yazd)
+38              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                        telephony Numbers- Chahar Mahal
+                                                                      vaBakhtiari)
+41              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers- East Azarbayjan)
+44              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                      telephony Numbers- West Azarbayjan)
+45              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                             telephony Numbers- Ardabil)
+51              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                     telephony Numbers – Razavi Khorasan)
+54              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                   telephony Numbers – SistanvaBalochestan)
+56              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                      telephony Numbers – South Khorasan)
+58              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                      telephony Numbers - North Khorasan)
+61              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                          telephony Numbers -Khuzestan)
+66              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                           telephony Numbers - Lorestan)
+71              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                               telephony Numbers - Fars)
+74              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                    telephony Numbers –Kohgiluoyeva Boyer
+                                                                        Ahmad)
+76              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                         telephony Numbers - Hormozgan)
+77              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                            telephony Numbers - Bushehr)
+81              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                          telephony Numbers – Hamadan)
+83              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                      telephony Numbers – Kermanshahan)
+84              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                               telephony Numbers- Ilam)
+86              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                             telephony Numbers-Markazi)
+87              5       10       Fixed Phone        Area Code (Geographic Number for Fixed
+                                                           telephony Numbers-Kurdestan)
+901             10      10      Mobile services
+902             10      10      Mobile services
+903             10      10      Mobile services
+9044            10      10      Mobile services
+905             10      10      Mobile services
+91              10      10      Mobile services
+920             10      10      Mobile services
+921             10      10      Mobile services
+922             10      10      Mobile services
+93              10      10      Mobile services
+942121          5       10       Fixed Phone                   Non geographical
+94220           5       10       Fixed Phone                   Non geographical
+              NSN Number length             Usage of
+   NDC                                                        Additional Information
+             Minimum Maximum             E.164 number
+ 94260           5         10             Fixed Phone                       Non geographical
+ 94280           5         10             Fixed Phone                       Non geographical
+ 94290           5         10             Fixed Phone                       Non geographical
+ 9430000         5         10             Fixed Phone                       Non geographical
+ 94301           5         10             Fixed Phone                       Non geographical
+ 94302           5         10             Fixed Phone                       Non geographical
+ 940000         10         10        Fixed Phone (fibber)                   Non geographical
+ 940009         10         10        Fixed Phone (fibber)                   Non geographical
+ 944111          5         10         Fixed Phone (Fixed                Just Originating from Iran
+                                       wireless Access)
+ 94440           5          10        Fixed Phone (Fixed      Just Originating from Iran
+                                       wireless Access)
+ 96             5           6           Services Codes
+ 990            10          10          Mobile services
+ 991            10          10          Mobile services
+ 992            10          10          Mobile services
+ 993            10          10         Satellite Services
+ 9944           10          10          Mobile services
+ 9945           10          10          Mobile services
+ 9950           5           10            Public Trunk
+ 99510          10          10          Mobile services
+ 99550          10          10          Mobile services
+ 99810          10          10          Mobile services
+ 99811          10          10          Mobile services
+ 99812          10          10          Mobile services
+ 99813          10          10          Mobile services
+ 99814          10          10          Mobile services
+ 99815          10          10          Mobile services
+ 99888          10          10          Mobile services
+ 99900          10          10          Mobile services
+ 99901          10          10          Mobile services
+ 99903          10          10          Mobile services
+ 99910          10          10          Mobile services
+ 99911          10          10          Mobile services
+ 99913          10          10          Mobile services
+ 99914          10          10          Mobile services
+ 99921          10          10          Mobile services
+ 99977          10          10          Mobile services
+ 99996          10          10          Mobile services
+ 99997          10          10          Mobile services
+ 99998          10          10          Mobile services
+ 99999          10          10          Mobile services
+Contact:
+      Alireza Darvishi
+      Director General, International Organizations Bureau,
+      Communications Regulatory Authority (CRA)
+      Ministry of Information and Communication Technology
+      15598 TEHRAN
+      Iran (Islamic Republic of)
+      Tel:      +98 21 89662201
+      Fax:      +98 21 88468999
+      E-mail: darvishi@cra.ir
+      URL:      www.cra.ir
+
+
+
+
+Jordan (country code +962)
+Communication of 21.I.2020:
+The Telecommunications Regulatory Commission (TRC), Amman, announces the allocation of new number
+range as follows:
+
+       Service                         Licensee                      Number range             Activation date
+ Mobile Services             Petra Jordanian Mobile                  0771 XX XX XX              Immediate
+                         Telecommunication Company –
+                                 Orange Mobile
+
+Contact:
+      Eng. Hala Kharbat
+      Telecommunications Services and Networks Regulation Directorate
+      Telecommunications Regulatory Commission (TRC)
+      Bayader Wadi Al Seer District
+      Deir ghbar Area
+      Extension of Alshaheed Mohamad Al Zoghoul Street.
+      Building No (13)
+      P.O.Box: 850967
+      AMMAN 11185
+      Jordan
+      Tel:     +962 6 5501120 ext: 2330
+      Fax:     +962 6 5690830
+      E-mail: hala.kharbat@trc.gov.jo
+
+Monaco (country code +377)
+Communication of 20.I.2020:
+The Direction du Développement des Usages Numériques, Monaco, announces the following update to the
+national numbering plan of Monaco.
+                                 Description of introduction of new resource for
+                              national E.164 numbering plan for country code 377:
+
+     NDC (national           N(S)N number length
+  destination code) or
+                                                                                              Time and date
+    leading digits of    Maximum          Minimum             Usage of E.164 number
+                                                                                              of introduction
+     N(S)N (national      length           length
+ (significant) number)
+
+           46                  8              8         Mobile telecommunications service
+
+
+Contact:
+      Direction du Développement des Usages Numériques
+      Division Ressources
+      19 Avenue des Castelans
+      98000 MONACO
+      Monaco
+      Tel:     +377 98 98 88 00
+      Fax:     +377 97 98 56 57
+      E-mail: ddun@gouv.mc
+      URL:     www.gouv.mc
+
+
+
+
+Mongolia (country code +976)
+Communication of 28.I.2020:
+The Communications Regulatory Commission of Mongolia, Ulaanbaatar, announces the following update to the
+National Numbering Plan of Mongolia:
+
+
+•        Description of introduction of new resource for national E.164 numbering plan for country code +976:
+
+        NDC (national          N(S)N number length
+     destination code) or
+                                                                    Usage of                    Time and date
+       leading digits of       Maximum    Minimum              ITU-T E.164 number               of introduction
+        N(S)N (national         length     length
+    (significant) number)
+    71280000 - 71289999           8          8       Fixed Telephone Service                      15.X.2019
+                                                     Operator: Mongolia Telecom Company -
+                                                     Mongolia
+    50000000 - 50999999           8          8       Mobile Telephone Service                     01.I.2020
+                                                     Operator: UNITEL - Mongolia
+    55000000 - 55999999           8          8       Mobile Telephone Service                     01.I.2020
+                                                     Operator: UNITEL - Mongolia
+
+Contact:
+         Communications Regulatory Commission of Mongolia
+         Mr Murun Ganbold
+         Officer of telecommunication service and numbering regulation
+         Metro Business Center, 5th Floor,
+         Sukhbaatar Street-13, Sukhbaatar District,
+         ULAANBAATAR, 14201
+         Mongolia
+         Tel:       +976 11 304 258
+         Fax:       +976 11 327720
+         E-mail: regulation@crc.gov.mn; murun@crc.gov.mn
+         URL:       www.crc.gov.mn
+
+
+
+
+Morocco (country code +212)
+Communication of 28.I.2020:
+The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following
+update of the national telephone-numbering plan of Morocco.
+
+      Description of introduction of new resource for national E.164 numbering plan for country code +212:
+
+        NDC (national          N(S)N number length
+     destination code) or
+       leading digits of     Maximum         Minimum         Usage of E.164 number         Additional information
+       N(S)N (national        length          length
+    (significant) number)
+           52915                  9              9          Fixed telephone networks      Wana Corporate 1
+           52922                  9              9          Fixed telephone networks      Wana Corporate
+           52930                  9              9          Fixed telephone networks      Wana Corporate
+           52931                  9              9          Fixed telephone networks      Wana Corporate
+           52985                  9              9          Fixed telephone networks      Wana Corporate
+           52995                  9              9          Fixed telephone networks      Wana Corporate
+           53885                  9              9          Fixed telephone networks      Wana Corporate
+           53895                  9              9          Fixed telephone networks      Wana Corporate
+
+1
+: INWI
+
+Contact:
+         Motiaa Abdelhay
+         Agence Nationale de Réglementation des Télécommunications (ANRT)
+         Centre d'affaires
+         Boulevard Ar-Riad, Hay Riad
+         B.P. 2939
+         RABAT 10100
+         Morocco
+         Tel:    +212 5 37 71 85 64
+         E-mail: numerotation@anrt.ma
+         URL:    www.anrt.ma
+
+
+Palau (country code +680)
+Communication of 29.I.2020:
+The Division of Communication under the Ministry of Public Infrastructure, Industries and Commerce, Koror,
+announces the following national numbering plan of Palau:
+                     Presentation of national ITU-T E.164 numbering plan for country code 680
+a)       Overview:
+         The minimum number length (excluding the country code) is           7 digits.
+         The maximum number length (excluding the country code) is           7 digits.
+b)       Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+         numbering plan (if any): none
+c)       Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): none
+
+
+
+
+d)    Detail of numbering plan:
+
+    NDC (national           N(S)N number length
+ destination code) or
+   leading digits of                                       Usage of
+                        Maximum        Minimum                                   Additional information
+   N(S)N (national                                    ITU-T E.164 number
+     (significant)       length         length
+       number)
+         544                  7            7      Geographic number for Fixed   PNCC/Aimeliik State
+                                                  telephony services (Area
+                                                  code)
+         587                  7            7      Geographic number for Fixed   PNCC/Airai State
+                                                  telephony services (Area
+                                                  code)
+         277                  7            7      Geographic number for Fixed   PNCC/Angaur State
+                                                  telephony services (Area
+                                                  code)
+         876                  7            7      Geographic number for Fixed   PNCC/Kayangel State
+                                                  telephony services (Area
+                                                  code)
+         488                  7            7      Geographic number for Fixed   PNCC/Koror State
+                                                  telephony services (Area
+                                                  code)
+         654                  7            7      Geographic number for Fixed   PNCC/Melekeok State
+                                                  telephony services (Area
+                                                  code)
+         824                  7            7      Geographic number for Fixed   PNCC/Ngaraard State
+                                                  telephony services (Area
+                                                  code)
+         855                  7            7      Geographic number for Fixed   PNCC/Ngarchelong State
+                                                  telephony services (Area
+                                                  code)
+         747                  7            7      Geographic number for Fixed   PNCC/Ngardmau State
+                                                  telephony services (Area
+                                                  code)
+         535                  7            7      Geographic number for Fixed   PNCC/Ngatpang State
+                                                  telephony services (Area
+                                                  code)
+         622                  7            7      Geographic number for Fixed   PNCC/Ngchesar State
+                                                  telephony services (Area
+                                                  code)
+         733                  7            7      Geographic number for Fixed   PNCC/Ngaremlengui
+                                                  telephony services (Area      State
+                                                  code)
+         679                  7            7      Geographic number for Fixed   PNCC/Ngiwal State
+                                                  telephony services (Area
+                                                  code)
+         345                  7            7      Geographic number for Fixed   PNCC/Peleliu State
+                                                  telephony services (Area
+                                                  code)
+         255                  7            7      Geographic number for Fixed   PNCC/Sonsorol State and
+                                                  telephony services (Area      Hatohobei State
+                                                  code)
+         900                  7            7      Geographic number for Fixed   PNCC/Operator Services
+                                                  telephony services (Area
+                                                  code)
+
+
+
+   NDC (national       N(S)N number length
+destination code) or
+  leading digits of                                    Usage of
+                       Maximum    Minimum                                Additional information
+  N(S)N (national                                 ITU-T E.164 number
+    (significant)       length     length
+      number)
+        770               7           7      Non-geographic            PNCC Wireless/Palau Cel
+                                             number– Digital mobile
+                                             telephony services
+        771               7           7      Non-geographic            PNCC Wireless/Palau Cel
+                                             number – Digital mobile
+                                             telephony services
+        772               7           7      Non-geographic            PNCC Wireless/Palau Cel
+                                             number – Digital mobile
+                                             telephony services
+        773               7           7      Non-geographic            PNCC Wireless/Palau Cel
+                                             number – Digital mobile
+                                             telephony services
+        774               7           7      Non-geographic            PNCC Wireless/Palau Cel
+                                             number – Digital mobile
+                                             telephony services
+        775               7           7      Non-geographic            PNCC Wireless/ Palau Cel
+                                             number – Digital mobile
+                                             telephony services
+        776               7           7      Non-geographic            PNCC Wireless/Palau Cel
+                                             number – Digital mobile
+                                             telephony services
+        777               7           7      Non-geographic            PNCC Wireless/Palau Cel
+                                             number – Digital mobile
+                                             telephony services
+        778               7           7      Non-geographic            PNCC Wireless/Palau Cel
+                                             number – Digital mobile
+                                             telephony services
+        779               7           7      Non-geographic            PNCC Wireless/Palau Cel
+                                             number – Digital mobile
+                                             telephony services
+        880               7           7      Non-geographic            PECI / PalauTel
+                                             number – Digital mobile
+                                             telephony services
+        881               7           7      Non-geographic            PECI / PalauTel
+                                             number – Digital mobile
+                                             telephony services
+        882               7           7      Non-geographic            PECI / PalauTel
+                                             number – Digital mobile
+                                             telephony services
+        883               7           7      Non-geographic            PECI / PalauTel
+                                             number – Digital mobile
+                                             telephony services
+        884               7           7      Non-geographic            PECI / PalauTel
+                                             number – Digital mobile
+                                             telephony services
+        885               7           7      Non-geographic            PECI / PalauTel
+                                             number – Digital mobile
+                                             telephony services
+        886               7           7      Non-geographic            PECI / PalauTel
+                                             number – Digital mobile
+                                             telephony services
+
+
+    NDC (national           N(S)N number length
+ destination code) or
+   leading digits of                                        Usage of
+                        Maximum        Minimum                                Additional information
+   N(S)N (national                                     ITU-T E.164 number
+     (significant)       length         length
+       number)
+         887                  7            7      Non-geographic            PECI / PalauTel
+                                                  number – Digital mobile
+                                                  telephony services
+           888                7            7      Non-geographic            PECI / PalauTel
+                                                  number – Digital mobile
+                                                  telephony services
+           889                7            7      Non-geographic            PECI / PalauTel
+                                                  number – Digital mobile
+                                                  telephony services
+           450                7            7      Non-geographic            PMCI
+                                                  number – Digital mobile
+                                                  telephony services
+           451                7            7      Non-geographic            PMCI
+                                                  number – Digital mobile
+                                                  telephony services
+           452                7            7      Non-geographic            PMCI
+                                                  number – Digital mobile
+                                                  telephony services
+           453                7            7      Non-geographic            PMCI
+                                                  number – Digital mobile
+                                                  telephony services
+           454                7            7      Non-geographic            PMCI
+                                                  number – Digital mobile
+                                                  telephony services
+           455                7            7      Non-geographic            PMCI
+                                                  number – Digital mobile
+                                                  telephony services
+
+
+Contact:
+      Hon. Charles I. Obichang
+      Minister, MPIIC
+      Ministry of Public Infrastructure, Industries and Commerce
+      Mr Jonathan Temol
+      Chief, Bureau of Communication
+      Ministry of Public Infrastructure, Industries and Commerce
+      P.O. Box 1471
+      KOROR, Palau 96940
+      Tel:     +680 587 1171
+      Fax:     +680 767 3207
+      E-mail: dot@palaunet.com; jngiwal@gmail.com
+      URL:     www.palaugov.pw/bureau-of-commercial-development/
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                         AMENDMENTS TO SERVICE PUBLICATIONS
+                                                          Abbreviations used
+
+                                       ADD      Insert                       PAR    paragraph
+                                       COL      Column                       REP    replace
+                                       LIR      Read                         SUP    Delete
+                                       P        page(s)
+
+
+
+
+                                List of Ship Stations and Maritime Mobile
+                                        Service Identity Assignments
+                                                   (List V)
+                                               Edition of 2019
+
+                                                             Section VI
+
+SUP
+
+         DK05           www.DitlevDitlevsen.com, Hasseløvej 117, 4873 Vaeggerloese, Denmark.
+                        E-mail: AAIC@DitlevDitlevsen.com, Tel: +45 7070 1686,
+                        URL: www.DitlevDitlevsen.com, Contact Person: Ditlev Ditlevsen.
+
+
+
+
+                List of Recommendation ITU-T E.164 assigned Country Codes
+                  (Complement to Recommendation ITU-T E.164 (11/2010))
+                             (Position on 15 December 2016)
+                                 (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016))
+                                                   (Amendment No. 14)
+
+ Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+ADD Notes
+
+s        Associated with shared country code 991, the following three-digit trial identification code has been
+         temporarily assigned for the international non-commercial trials of:
+
+                                                    Country Code and               Effective date of   Reclamation date
+                Applicant                                                             assignment
+                                                 Trial Identification Code
+
+    World’s Global Telecom                               +991 001                     15.I.2020           15.I.2021
+
+
+__________
+
+See page 4 of the present Operational Bulletin No. 1190 of 15.II.2020.
+
+
+
+
+   Mobile Network Codes (MNC) for the international identification plan
+                 for public networks and subscriptions
+         (According to Recommendation ITU-T E.212 (09/2016))
+                    (Position on 15 December 2018)
+
+                           (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                            (Amendment No. 26)
+
+   Country/Geographical area                                  MCC+MNC *            Operator/Network
+   Estonia ADD
+                                                                     248 17        Baltergo OÜ
+   Turks and Caicos Islands SUP
+                                                                    376 352        IslandCom Communication Ltd.
+                                                                    376 360        IslandCom Communication Ltd
+   Turks and Caicos Islands ADD
+                                                                    376 351        Digicel TCI Ltd
+   Trial of a proposed new international
+   telecommunication service, shared code LIR
+                                                                                   World's Global Telecom
+                                                                     991 01        (temporary assignment for trial
+                                                                                   until 14.I.2021)
+____________
+*       MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+        MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+See page 4 of the present Operational Bulletin No. 1190 of 15.II.2020.
+
+
+
+                     List of Terrestrial trunk radio Mobile Country Codes
+                  (Complement to Recommendation ITU-T E.218 (05/2004))
+                                   (Position on 1 June 2017)
+                                  (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                   (Amendment No. 2)
+
+                                  Notes common to Numerical and Alphabetical lists of
+                              Recommendation ITU-T E.218 mobile country codes ((T)MCCs)
+
+d. Associated with shared Terrestrial trunk radio Mobile Country Code 944 ((T)MCC, the following
+four-digit Terrestrial trunk radio Mobile Network Code ((T)MNC) have been assigned:
+
+Note d)       944 0002 ADD
+
+             Applicant / Network                   Terrestrial trunk radio Mobile Country Code ((T)MCC)* and         Date of
+                                                    Terrestrial trunk radio Mobile Network Code ((T)MNC)**         assignment
+ Vattenfall Vindkraft A/S                                                     944 0002                              21.I.2020
+
+__________
+
+See page 5 of the present Operational Bulletin No. 1190 of 15.II.2020.
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 92)
+
+ Country or area/ISO code                           Company Code         Contact
+  Company Name/Address                               (carrier code)
+
+Germany (Federal Republic of) / DEU           ADD
+
+ Glasfaser Nordwest GmbH & Co.KG                        GFNW             Mr Sebastian Kummer
+ Am Küstenkanal 8                                                        Email: sebastian.kummer@glasfaser-nordwest.de
+ D-26131 OLDENBURG
+
+
+ Jens Heilmann e.K.                                    PHONE             Mr Jens Heilmann
+ Parkstrasse 4                                                           Tel.: +49 7255 90000
+ D-76676 GRABEN-NEUDORF                                                  Fax: +49 7255 900029
+                                                                         Email: jh@phonegmbh
+
+ Novostream GmbH                                        NOVO             Mr Frank Naisar
+ Maiwiese 29                                                             Tel.: +49 651 99989089
+ D-54340 LONGUICH                                                        Fax: +49 6502 6044996
+                                                                         Email: info@novostream.de
+
+ Breitbandzweckverband Probstei                        BZVPRO            Mr Soenke Koerber
+ Knuell 4                                                                Tel.: +49 4344 3061600
+ D-24217 SCHOENBERG                                                      Fax: +49 4344 3062700
+                                                                         Email: info@amt-probstei.de
+
+
+Germany (Federal Republic of) / DEU           LIR
+
+ Stadtnetze Nord GmbH                                    SNN             Mrs Dorrit Knoop
+ Am Kiel-Kanal 1                                                         Tel.: +49 431 53055200
+ D-24106 KIEL                                                            Email: info@stadtnetze-nord.de
+
+
+
+
+                                  National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                       Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.I.2020, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                 Country/ Geographical area                                            Country Code (CC)
+ Bonaire, Sint Eustatius and Saba                                                              +599
+                                                                                              +383
+ Kosovo
+ Myanmar                                                                                       +95
+
+
+
+
+ This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo
+
+declaration of independence.
+
+

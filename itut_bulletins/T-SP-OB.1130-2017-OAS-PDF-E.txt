@@ -1,0 +1,1416 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1130             15.VIII.2017                (Information received by 1 August 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164 (11/2010)):
+   Identification codes for international networks .......................................................................................                         5
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Identification codes for International Mobile Networks .......................................................                                     5
+Telephone Service
+     Bahamas (Utilities Regulation and Competition Authority (URCA), Nassau) ...........................................                                           6
+     Egypt (National Telecommunication Regulatory Authority (NTRA), Cairo) ..............................................                                         15
+     Iran (Communications Regulatory Authority (CRA), Tehran)....................................................................                                 15
+     Uganda (Uganda Communications Commission (UCC), Kampala) ...........................................................                                         18
+Other communication: Serbia ........................................................................................................................              21
+Service Restrictions ........................................................................................................................................     22
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   22
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                        23
+List of Recommendation ITU-T E.164 assigned Country Codes .....................................................................                                   24
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         24
+List of ITU Carrier Codes .................................................................................................................................       25
+List of International Signalling Point Codes (ISPC) .........................................................................................                     26
+National Numbering Plan ...............................................................................................................................           30
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                             Approval of ITU-T Recommendations
+By AAP-17, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+
+– ITU-T J.1106 (07/2017): Requirement for Radio over IP transmission system
+
+– ITU-T K.20 (07/2017): Resistibility of telecommunication equipment installed in a telecommunication centre to
+overvoltages and overcurrents
+
+– ITU-T K.21 (07/2017): Resistibility of telecommunication equipment installed in customer premises to
+overvoltages and overcurrents
+
+– ITU-T K.45 (07/2017): Resistibility of telecommunication equipment installed in the access and trunk networks
+to overvoltages and overcurrents
+
+– ITU-T K.56 (2010) Cor. 1 (07/2017)
+
+– ITU-T K.91 (07/2017): Guidance for assessment, evaluation and monitoring of human exposure to radio
+frequency electromagnetic fields
+
+– ITU-T K.99 (07/2017): Surge protective component application guide - Gas discharge tubes
+
+– ITU-T K.100 (07/2017): Measurement of radio frequency electromagnetic fields to determine compliance with
+human exposure limits when a base station is put into service
+
+– ITU-T K.125 (07/2017): Dangerous effects and protective measures against electromagnetic disturbances when
+internet data centre is co-sited with high-voltage substation
+
+– ITU-T K.126 (07/2017): Surge protective component application guide - High frequency signal isolation
+transformers
+
+– ITU-T K.127 (07/2017): Immunity requirements for telecommunication equipment in close proximity use of
+wireless devices
+
+– ITU-T L.1206 (07/2017): Impact on ICT equipment architecture of multiple AC, -48VDC or up to 400 VDC power
+inputs
+
+– ITU-T L.1310 (07/2017): Energy efficiency metrics and measurement methods for telecommunication
+equipment
+
+
+
+
+                  The International Public Telecommunication Numbering Plan
+                           (Recommendation ITU-T E.164 (11/2010))
+     Note from TSB
+
+                                            Identification codes for international networks
+
+     Associated with shared country code 883 for international networks, the following three-digit identification code
+     has been assigned.
+
+
+                                                                                          Country Code and          Date of assignment
+                  Applicant                               Network
+                                                                                         Identification Code
+
+      BICS SA                                 BICS SA                                          +883 240                25.VII.2017
+
+
+
+
+          International Identification Plan for Public Networks and Subscriptions
+                         (Recommendation ITU-T E.212 (09/2016))
+
+     Note from TSB
+                                       Identification codes for International Mobile Networks
+     Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has
+     been assigned on 25 July 2017:
+
+                                                                                   Mobile Country Code (MCC)* and Mobile Network
+                                    Network
+                                                                                                   Code (MNC)**
+      BICS SA                                                                                              901 58
+
+     ______________
+*         MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+**        MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+Bahamas (country code +1 242)
+Communication of 28.VII.2017:
+The Utilities Regulation and Competition Authority (URCA), Nassau, announces the updated national numbering
+plan for the Bahamas.
+1.        INTRODUCTION
+The Communications Act, 2009 (Comms Act) prescribes the law applicable to the Electronic Communications
+Sector (ECS). It empowers the Utilities Regulation and Competition Authority (URCA) as the independent
+regulator of the sector. The Comms Act charges URCA with the responsibility for implementing the Electronic
+Communications Sector Policy (ECSP) and enforcing the provisions of the Comms Act, which includes a duty to
+manage state assets such as numbering resources. In accordance with that duty, Section 79 of the Comms Act
+requires URCA to:
+i.        Publish a numbering plan for The Bahamas that is in compliance with applicable international numbering
+          standards including the North American Numbering Plan Administration (NANPA); and
+ii.       Make rules for the allocation and assignment of numbers to licensees.
+OBJECTIVES OF THIS DOCUMENT
+Pursuant to its duties under the Comms Act, URCA has prepared this document to advise interested parties
+regarding the current allocation of numbering resources under The Bahamas National Numbering Plan (the NNP).
+This document, therefore, has the following objectives:
+i.        To advise interested parties that URCA has published the NNP;
+ii.       To present a brief overview of the NNP; and
+iii.      To update interested parties on the allocation of resources under the NNP.
+STRUCTURE OF THE REMAINDER OF THIS DOCUMENT
+The remainder of this consultation document is structured as follows:
+     Section 2 provides information about the publication of the NNP;
+     Section 3 outlines the structure of the NNP; and
+     Section 4 provides an update about the allocations of numberings resources.
+2.      PUBLICATION OF THE NUMBERING PLAN
+This section provides information about the publication of the NNP, how to obtain a copy of the NNP and
+application forms for requesting numbering resources.
+
+Pursuant to its duties under Section 79 of the Comms Act, URCA published The Bahamas National Numbering
+Plan (the NNP) on 12 August 2011. The NNP sets out the policy and general guidelines that URCA will use to
+manage and allocate The Bahamas’ numbering resources.
+
+Interested parties may obtain a copy of the NNP and application forms for issuance of numbering resources from
+URCA’s      website       at      http://www.urcabahamas.bs/publications-library.php?cmd=view&id=89&pre=y.
+Additionally, a detailed listing of the Bahamas’ central office codes are included in Table 4 in section 4 below.
+
+
+
+
+3.    NUMBERING PLAN STRUCTURE
+This Section outlines the structure of the Numbering Plan.
+
+The Bahamas is a member of the North American Numbering Plan (NANP), which is the basic numbering scheme
+for the public switched telephone network (PSTN) in countries under Country Code 1. These countries include
+The Bahamas, the United States of America, Canada, Bermuda, and fifteen (15) Caribbean nations1. The structure
+and format for the international public telecommunications numbering plan conform with NANP administration
+practices and the relevant International Telecommunication Union’s (ITU) Recommendations, such as E.164 and
+E.212. The specifics are outlined below.
+
+The NANP structure is in the format:
+      NXX – NXX – XXXX               where: N = 2 to 9 and X = 0 to 9
+      (ABC – DEF – GHIJ)
+
+The 10-digit format is named as follows:
+• The first group of three (3) characters, the ABC digits (NXX format), is the Numbering Plan Area (NPA) Code;
+• The second group of three (3) characters, the DEF digits (NXX format), is the Central Office (CO) Code (CO
+    Code); and
+• The third group of characters, the GHIJ digits (XXXX format), is the Subscriber’s Line Number.
+
+DIALLING PLAN
+The country code for The Bahamas is: "1"
+The Numbering Plan Area (NPA) Code for The Bahamas is: "242". This code is commonly referred to as the area
+code.
+Local number dialling (intra-island) is standardised in the seven (7) digit format as follows:
+       NXX – XXXX
+Domestic Long Distance calls are processed with eleven (11) digits:
+       1 (242) NXX – XXXX
+       (The access prefix + NPA + NXX-XXXX).2
+International Long Distance calls, within the NANP, are dialled using eleven (11) digits:
+       1 (NPA) NXX – XXXX
+       (The access prefix + NPA + NXX-XXXX)
+
+International long distance calls terminating outside of the NANP are dialled using the format required by the
+terminating country. The prefix 01 or 011 may be used depending on the level of assistance required to complete
+the call.
+
+The prefix "01" is used for operator assisted calls. These calls would be in the format:
+      01 + Country Code + Area Code + Telephone Number
+
+The prefix "011" is used for direct dial calls. These calls would be in the format:
+      011 + Country Code + Area Code + Telephone Number
+
+Directory assistance for international calls (within and outside the NANP) may be obtained by dialling "0".
+
+
+
+
+1    The NANP Caribbean countries are shown with their NPAs: Anguilla: 264; Antigua & Barbuda: 268; Barbados: 246;
+     Bermuda: 441; British Virgin Islands (the): 284; Cayman Islands (the): 345; Dominica: 767; Dominican Republic (the):
+     809/829/849; Grenada: 473; Jamaica: 876; Montserrat: 664; St. Kitts and Nevis: 869; St. Lucia: 758; St. Vincent and the
+     Grenadines: 784; Trinidad and Tobago: 868; and Turks & Caicos: 649. Canada and the United States each have multiple
+     NPA codes.
+2    In the NANP, the digit "1" is used interchangeably as the country code as well as an access digit.
+
+
+4.      ALLOCATIONS OF NUMBERINGS RESOURCES
+Section 4 presents an update on the allocations of numberings resources. The NNP sets the management of all
+numbering resources in The Bahamas as its principle objective. The following is the current Allocation Table for
+Central Office Codes under the 242 NPA in The Bahamas.
+
+
+                                                Table 1: CO CODE ALLOCATION
+                 CO Codes                                                Current Allocations
+                   0XX                    Reserved for Access/Prefix Codes
+                   1XX                    Reserved for Access/Prefix Codes
+                   2XX                    Reserved for Growth3
+                   3XX                    Fixed Services
+                                          Cellular Mobile Services
+                    4XX                   Cellular Mobile Services4
+                    5XX                   Cellular Mobile5
+                                          555 reserved for Information Services
+                    6XX                   Fixed Services6
+                    7XX                   Reserved for Growth7
+                    8XX                    Cellular Mobile Service
+                    9XX                   Short Codes and Growth
+
+CODES RESERVED FOR SPECIAL SERVICES
+The following CO Codes are allocated or reserved for special services:
+
+•         Any N11: Reserved for Service Codes (i.e., 211, 311, 411, 511, 611, 711, 811, and 911)
+•         Any N00: Reserved as Service Codes (i.e., 200, 300, 400, 500, 600, 700, 800, and 900)
+•         Any codes allocated or assigned for special purposes e.g. 555 reserved for information services
+•         950 for future services
+•         976 for future services
+•         Local Plant Test Codes (e.g., 958 and 959)
+•         Easily Recognizable Codes (ERC): Any NYY Codes that have the same numerical value in each position;
+          222, 333, 444, etc.
+
+
+
+
+3     2XX is reserved for future growth although one block has already been assigned to fixed Vanity Code services and fixed
+      wire line services. No further assignments will be made in this range until further notice.
+4     The 4XX block is allocated to Cellular Mobile Services, although one CO code has been assigned to fixed services. No
+      additional fixed services will be assigned in this code block.
+5     5XX block is assigned to cellular mobile services although there is one block already assigned to fixed services. The CO
+      code 555 is reserved for special services. No other fixed services will be assigned in 5XX.
+6     6XX is assigned to fixed services although there are two blocks already assigned to cellular mobile services. No other
+      cellular mobile services will be assigned in 6XX.
+7     This block is reserved for future although there is two blocks assigned to fixed services and two blocks assigned to cellular
+      mobile services. No further assignments will be made in this range until further notice.
+
+
+ACTIVATION OF NEW CENTRAL OFFICE CODES
+URCA announces the activation of new central office codes as follows:
+
+                                      Table 2: New Central Office Codes
+      NPA             Co Code           Service                 Services                     Issue Date
+                                       Provider
+      242               601              CBL                 Fixed Services                 4 April, 2014
+      242               602              CBL                 Fixed Services                 4 April, 2014
+      242               603              CBL                 Fixed Services                 4 April, 2014
+      242               604              CBL                 Fixed Services                 4 April, 2014
+      242               620              TGL                 Fixed Services               24 October 2014
+      242               640            JAZZTEL               Fixed Services              6 December, 2010
+      242               650             PEACE                Fixed Services              12 December 2014
+      242               738            NEWCO           Cellular Mobile Services             30 June 2016
+      242               788              CBL                 Fixed Services                20 June, 2014
+      242               801            NEWCO           Cellular Mobile Services             30 June 2016
+      242               802            NEWCO           Cellular Mobile Services             30 June 2016
+      242               803            NEWCO           Cellular Mobile Services             30 June 2016
+      242               804            NEWCO           Cellular Mobile Services             30 June 2016
+      242               805            NEWCO           Cellular Mobile Services             30 June 2016
+      242               806            NEWCO           Cellular Mobile Services             30 June 2016
+      242               807            NEWCO           Cellular Mobile Services             30 June 2016
+      242               808            NEWCO           Cellular Mobile Services             30 June 2016
+      242               809            NEWCO           Cellular Mobile Services             30 June 2016
+      242               810            NEWCO           Cellular Mobile Services             30 June 2016
+      242               812            NEWCO           Cellular Mobile Services             30 June 2016
+      242               813            NEWCO           Cellular Mobile Services             30 June 2016
+      242               814            NEWCO           Cellular Mobile Services             30 June 2016
+      242               815            NEWCO           Cellular Mobile Services             30 June 2016
+      242               816            NEWCO           Cellular Mobile Services             30 June 2016
+      242               817            NEWCO           Cellular Mobile Services             30 June 2016
+      242               818            NEWCO           Cellular Mobile Services             30 June 2016
+      242               819            NEWCO           Cellular Mobile Services             30 June 2016
+      242               820            NEWCO           Cellular Mobile Services             30 June 2016
+      242               821            NEWCO           Cellular Mobile Services             30 June 2016
+      242               822            NEWCO           Cellular Mobile Services             30 June 2016
+      242               823            NEWCO           Cellular Mobile Services             30 June 2016
+      242               824            NEWCO           Cellular Mobile Services             30 June 2016
+      242               825            NEWCO           Cellular Mobile Services             30 June 2016
+      242               826            NEWCO           Cellular Mobile Services             30 June 2016
+      242               827            NEWCO           Cellular Mobile Services             30 June 2016
+      242               828            NEWCO           Cellular Mobile Services             30 June 2016
+      242               829            NEWCO           Cellular Mobile Services             30 June 2016
+      242               889            NEWCO           Cellular Mobile Services             30 June 2016
+      242               889            NEWCO           Cellular Mobile Services             30 June 2016
+
+
+The complete list of active central office codes is shown in Table 4: Detailed CO Code Assignment Table.
+
+
+
+
+SUMMARY OF ASSIGNED CODES
+
+                               Table 3: Summary of Assigned Central Office Codes
+                                                   QUANTITY OF ASSIGNED             TELEPHONE NUMBER
+            CO SERVICE ASSIGNMENTS
+                                                          CODES                          CAPACITY
+    Assigned Codes For Fixed Services                       81                            810,000
+    Assigned Codes For Cellular Mobile Services            105                           1,050,000
+    Total Assigned Codes                                   186                           1,860,000
+    Reserved Codes For Fixed Services                       19                             19,000
+    Available Codes Capacity                               586                           5,860,000
+
+CENTRAL OFFICE CODE DETAILED ASSIGNMENT TABLE
+
+                                            Table 4: Assigned CO Codes
+Index      NXX code       Service                       Operator         Location             Thousand Group
+
+1          225            DID ( "0-4", "6-9" thousand   BTC              New Providence       225, 0-4, 6-9
+                          block )
+2          225            Vanity Code ( "5" -           Numbering        Bahamas              225, 5
+                          thousand block )              Admin.
+3          300            Domestic Toll-Free            BTC/Shared       Bahamas
+4          302            Fixed Telephony               BTC              New Providence
+5          321            Fixed Telephony               BTC              New Providence
+6          322            Fixed Telephony               BTC              New Providence
+7          323            Fixed Telephony               BTC              New Providence
+8          324            Fixed Telephony               BTC              New Providence
+9          325            Fixed Telephony               BTC              New Providence
+10         326            Fixed Telephony               BTC              New Providence
+11         327            Fixed Telephony               BTC              New Providence
+12         328            Fixed Telephony               BTC              New Providence
+13         329            Fixed Telephony               BTC              Andros
+14         331            Fixed Telephony               BTC              Rum Cay              331, 2
+14         331            Fixed Telephony               BTC              San Salvador         331, 2, 3
+15         332            Fixed Telephony               BTC              Eleuthera
+16         333            Fixed Telephony               BTC              Eleuthera
+17         334            Fixed Telephony               BTC              Eleuthera
+18         335            Fixed Telephony               BTC              Eleuthera
+19         336            Fixed Telephony               BTC              Exuma
+20         337            Fixed Telephony               BTC              Long Island
+21         338            Fixed Telephony               BTC              Long Island
+22         339            Fixed Telephony               BTC              Inagua               339, 1, 2
+22         339            Fixed Telephony               BTC              Mayaguana            339, 3, 4
+23         340            Fixed Telephony               BTC              New Providence
+24         341            Fixed Telephony               BTC              New Providence
+25         342            Fixed Telephony               BTC              Cat Island
+26         344            Fixed Telephony               BTC              Ragged Island        344,1
+26         344            Fixed Telephony               BTC              Crooked Island       344, 2
+26         344            Fixed Telephony               BTC              Acklins              344, 3
+27         345            Fixed Telephony               BTC              Exuma
+28         346            Fixed Telephony               BTC              Grand Bahama
+29         347            Fixed Telephony               BTC              Bimini and Cat Cay   347, 0-5
+30         348            Fixed Telephony               BTC              Grand Bahama
+31         349            Fixed Telephony               BTC              Grand Bahama
+
+
+Index    NXX code       Service            Operator   Location         Thousand Group
+32       350            Fixed Telephony    BTC        Grand Bahama
+33       351            Fixed Telephony    BTC        Grand Bahama
+34       352            Fixed Telephony    BTC        Grand Bahama
+35       353            Fixed Telephony    BTC        Grand Bahama
+36       354            Fixed Telephony    BTC        Cat Island
+37       355            Fixed Telephony    BTC        Exuma
+38       356            Fixed Telephony    BTC        New Providence
+39       357            Mobile Telephony   BTC        National
+40       358            Fixed Telephony    BTC        Exuma
+41       359            Mobile Telephony   BTC        National
+42       361            Fixed Telephony    BTC        New Providence
+43       362            Fixed Telephony    BTC        New Providence
+44       363            Fixed Telephony    BTC        New Providence
+45       364            Fixed Telephony    BTC        New Providence
+46       365            Fixed Telephony    BTC        Abaco
+47       366            Fixed Telephony    BTC        Abaco
+48       367            Fixed Telephony    BTC        Abaco            367,
+                                                                       0,1,2,3,4,5,6,7,8,9
+49       368            Fixed Telephony    BTC        Andros
+50       369            Fixed Telephony    BTC        Andros
+51       373            Fixed Telephony    BTC        Grand Bahama
+52       374            Fixed Telephony    BTC        Grand Bahama
+53       375            Mobile Telephony   BTC        National
+54       376            Mobile Telephony   BTC        National
+55       377            Fixed Telephony    BTC        New Providence
+56       380            Fixed Telephony    BTC        New Providence
+57       381            Fixed Telephony    BTC        New Providence
+58       382            Fixed Telephony    BTC        New Providence
+59       383            Fixed Telephony    BTC        New Providence
+60       384            Fixed Telephony    BTC        New Providence
+61       392            Fixed Telephony    BTC        New Providence
+62       393            Fixed Telephony    BTC        New Providence
+63       394            Fixed Telephony    BTC        New Providence
+64       395            Mobile Telephony   BTC        National
+65       396            Fixed Telephony    BTC        New Providence
+66       397            Fixed Telephony    BTC        New Providence
+67       421            Mobile Telephony   BTC        National
+68       422            Mobile Telephony   BTC        National
+69       423            Mobile Telephony   BTC        National
+70       424            Mobile Telephony   BTC        National
+71       425            Mobile Telephony   BTC        National
+72       426            Mobile Telephony   BTC        National
+73       427            Mobile Telephony   BTC        National
+74       428            Mobile Telephony   BTC        National
+75       429            Mobile Telephony   BTC        National
+76       431            Mobile Telephony   BTC        National
+77       432            Mobile Telephony   BTC        National
+78       433            Mobile Telephony   BTC        National
+79       434            Mobile Telephony   BTC        National
+80       435            Mobile Telephony   BTC        National
+81       436            Mobile Telephony   BTC        National
+82       437            Mobile Telephony   BTC        National
+83       438            Mobile Telephony   BTC        National
+84       439            Mobile Telephony   BTC        National
+
+
+Index   NXX code   Service            Operator   Location          Thousand Group
+85      441        Mobile Telephony   BTC        National
+86      442        Mobile Telephony   BTC        National
+87      443        Mobile Telephony   BTC        National
+88      445        Mobile Telephony   BTC        National
+89      446        Mobile Telephony   BTC        National
+90      447        Mobile Telephony   BTC        National
+91      448        Mobile Telephony   BTC        National
+92      449        Mobile Telephony   BTC        National
+93      451        Mobile Telephony   BTC        National
+94      452        Mobile Telephony   BTC        National
+95      453        Mobile Telephony   BTC        National
+96      454        Mobile Telephony   BTC        National
+97      455        Mobile Telephony   BTC        National
+98      456        Mobile Telephony   BTC        National
+99      457        Mobile Telephony   BTC        National
+100     458        Mobile Telephony   BTC        National
+101     461        Fixed Telephony    BTC        New Providence
+102     462        Mobile Telephony   BTC        National
+103     463        Mobile Telephony   BTC        National
+104     464        Mobile Telephony   BTC        National
+105     465        Mobile Telephony   BTC        National
+106     466        Mobile Telephony   BTC        National
+107     467        Mobile Telephony   BTC        National
+108     468        Mobile Telephony   BTC        National
+109     470        Mobile Telephony   BTC        National
+110     471        Mobile Telephony   BTC        National
+111     472        Mobile Telephony   BTC        National
+112     473        Mobile Telephony   BTC        National
+113     474        Mobile Telephony   BTC        National
+114     475        Mobile Telephony   BTC        National
+115     476        Mobile Telephony   BTC        National
+116     477        Mobile Telephony   BTC        National
+117     478        Mobile Telephony   BTC        National
+118     479        Mobile Telephony   BTC        National
+119     481        Mobile Telephony   BTC        National
+120     502        Fixed Telephony    BTC        New Providence
+121     524        Mobile Telephony   BTC        National
+122     525        Mobile Telephony   BTC        National
+123     533        Mobile Telephony   BTC        National
+124     535        Mobile Telephony   BTC        National
+125     544        Mobile Telephony   BTC        National
+126     551        Mobile Telephony   BTC        National
+127     552        Mobile Telephony   BTC        National
+128     553        Mobile Telephony   BTC        National
+129     554        Mobile Telephony   BTC        National
+130     556        Mobile Telephony   BTC        National
+131     557        Mobile Telephony   BTC        National
+132     558        Mobile Telephony   BTC        National
+133     559        Mobile Telephony   BTC        National
+134     565        Mobile Telephony   BTC        National
+135     577        Mobile Telephony   BTC        National
+136     601        Fixed Telephony    CBL        New Providence
+137     602        Fixed Telephony    CBL        Grand Bahama
+138     603        Fixed Telephony    CBL        National
+
+
+Index    NXX code       Service            Operator   Location             Thousand Group
+139      604            Fixed Telephony    CBL        National
+140      612            Fixed Telephony    IPSI       National
+141      620            Fixed Telephony    TGL        National
+142      621            Fixed Telephony    ADL        National
+143      623            Fixed Telephony    LMC        National
+144      636            Mobile Telephony   BTC        National
+146      646            Mobile Telephony   BTC        National
+147      650            Fixed Telephony    PEACE      National
+148      676            Fixed Telephony    SRG        New Providence
+149      677            Fixed Telephony    SRG        New Providence
+150      687            Fixed Telephony    SRG        Grand Bahama
+151      688            Fixed Telephony    SRG        Grand Bahama
+152      698            Fixed Telephony    SRG        New Providence
+153      699            Fixed Telephony    SRG        Abaco                699, 0, 1, 2, 3 ,4
+153      699            Fixed Telephony    SRG        Eleuthera            699, 5, 6
+154      702            Fixed Telephony    BTC        New Providence
+155      727            Mobile Telephony   BTC        National
+156      738            Mobile Telephony   NEWCO      National
+157      788            Fixed Telephony    CBL        National
+158      801            Mobile Telephony   NEWCO      National
+159      802            Mobile Telephony   NEWCO      National
+160      803            Mobile Telephony   NEWCO      National
+161      804            Mobile Telephony   NEWCO      National
+162      805            Mobile Telephony   NEWCO      National
+163      806            Mobile Telephony   NEWCO      National
+164      807            Mobile Telephony   NEWCO      National
+165      808            Mobile Telephony   NEWCO      National
+166      809            Mobile Telephony   NEWCO      National
+167      810            Mobile Telephony   NEWCO      National
+168      812            Mobile Telephony   NEWCO      National
+169      813            Mobile Telephony   NEWCO      National
+170      814            Mobile Telephony   NEWCO      National
+171      815            Mobile Telephony   NEWCO      National
+172      816            Mobile Telephony   NEWCO      National
+173      817            Mobile Telephony   NEWCO      National
+174      818            Mobile Telephony   NEWCO      National
+175      819            Mobile Telephony   NEWCO      National
+176      820            Mobile Telephony   NEWCO      National
+177      821            Mobile Telephony   NEWCO      National
+178      822            Mobile Telephony   NEWCO      National
+179      823            Mobile Telephony   NEWCO      National
+180      824            Mobile Telephony   NEWCO      National
+181      825            Mobile Telephony   NEWCO      National
+182      826            Mobile Telephony   NEWCO      National
+183      827            Mobile Telephony   NEWCO      National
+184      828            Mobile Telephony   NEWCO      National
+185      829            Mobile Telephony   NEWCO      National
+186      889            Mobile Telephony   NEWCO      National (roaming)
+
+
+
+
+Notes: Definition of Acronyms
+The acronyms used in the tables for licensed electronic communications service providers that have been
+allocated numbering resources are defined below:
+
+    •   BTC:         The Bahamas Telecommunications Company Limited
+    •   SRG:         Systems Resource Group Limited
+    •   IPSI:        IP Solutions International Limited
+    •   NewCo:       NewCo2015 Limited
+    •   TGL:         Tycoon Global Limited
+    •   ALD:         Andros Lakeside Development Company Limited
+    •   LMC:         Last Mile Communications Limited
+    •   JazzTel:     JazzTel Bahamas Limited
+    •   Peace:       Peace Holdings Communications Limited
+
+NOTICE OF SUBSEQUENT UPDATES
+URCA will update this record on an ongoing basis such that accurate information about the assignment of
+numbering resources under the NNP is available to interested parties at all times.
+
+For additional information related to the NNP, please contact the Numbering Administrator at the following
+address:
+
+Contact:
+      Stephen Bereaux
+      Chief Executive Officer
+      Electronic Communications
+      Utilities Regulation and Competition Authority (URCA)
+      Frederick House, Frederick Street
+      P. O. Box N-4860
+      Nassau, Bahamas
+      Tel:      +1 242 393 0234
+      Fax:      +1 242 393 0153
+      E-mail: info@urcabahamas.bs
+      URL:      www.urcabahamas.bs
+
+
+
+
+Egypt (country code +20)
+Communication of 18.VII.2017:
+The National Telecommunication Regulatory Authority (NTRA), Cairo, announces the following updates to the
+National Numbering Plan for Egypt:
+
+     assignment of number series:
+
+  NDC (national
+destination code) N(S)N number length
+ or leading digits                            Usage of
+                                                                     Additional information
+of N(S)N (national Maximum Minimum      ITU-T E.164 number
+   (significant)    length   length
+     number)
+  15 XX XX XX XX      10        10    Non-geographic number - 4G licence issued to Telecom Egypt
+                                      Mobile telephony service
+
+Contact:
+          Ms Yasmina Alaa
+          Manager, numbering management
+          National Telecommunication Regulatory Authority (NTRA)
+          Smart Village, Building No. 4
+          Alex Desert Road, Kilo 28
+          6th of October Governorate
+          CAIRO
+          Egypt
+          Tel:       +20 2 3534 4239
+          Fax:       +20 2 3534 4155
+          E-mail: yasminaa@tra.gov.eg
+          URL:       www.ntra.gov.eg
+
+
+Iran (Islamic Republic of) (country code +98)
+Communication of 25.VII.2017:
+The Communications Regulatory Authority (CRA), Tehran, announces the following updated National Numbering
+Plan of the Islamic Republic of Iran.
+                                 Presentation of the Iran E.164 numbering plan
+1- General Information
+The E.164 numbering Plan of Iran:
+     Country Code: +98
+     International Prefix: "00"
+     National Prefix: "0"
+        For national calls, it must be dialled before all telephone numbers except short numbers.
+        It must not be dialled from abroad.
+     National destination Code: 2 digits.
+2- Detail of Numbering Scheme
+          NDC: National Destination Code
+          NSN: National Significant Number (NDC + SN)
+The minimum number length (excluding the country code) is           5 digits
+The maximum number length (excluding the country code) is          10 digits
+
+
+
+
+                                     Numbering Scheme
+
+            NSN Number length
+  NDC                           Usage of E.164      Additional Information
+           Minimum Maximum
+   11          5         10     Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- Mazandaran)
+   13           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- Gilan)
+   17           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- Golestan)
+   21           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- Tehran)
+   23           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- Semnan)
+   24           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- Zanjan)
+   25           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers-Qom)
+   26           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers-Alborz)
+   28           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers-Ghazvin )
+   31           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- Isfahan)
+   34           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- Kerman)
+   35           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers-Yazd)
+   38           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- Chahar Mahal va
+                                                    Bakhtiari)
+   41           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- East Azarbayjan)
+   44           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- West Azarbayjan)
+   45           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers- Ardabil)
+   51           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers – Razavi Khorasan)
+   54           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers – Sistan va Balochestan)
+   56           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers – South Khorasan)
+   58           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers - North Khorasan)
+   61           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers -Khuzestan)
+   66           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers - Lorestan)
+   71           5       10      Fixed Phone         Area Code (Geographic Number for Fixed
+                                                    telephony Numbers - Fars)
+
+
+
+            NSN Number length
+     NDC                        Usage of E.164         Additional Information
+           Minimum Maximum
+     74        5         10     Fixed Phone            Area Code (Geographic Number for Fixed
+                                                       telephony Numbers –Kohgiluoye va Boyer
+                                                       Ahmad)
+     76         5          10   Fixed Phone            Area Code (Geographic Number for Fixed
+                                                       telephony Numbers - Hormozgan)
+     77         5          10   Fixed Phone            Area Code (Geographic Number for Fixed
+                                                       telephony Numbers - Bushehr)
+     81         5          10   Fixed Phone            Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Hamadan)
+     83         5          10   Fixed Phone            Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Kermanshahan)
+84              5          10   Fixed Phone            Area Code (Geographic Number for Fixed
+                                                       telephony Numbers- Ilam)
+86              5          10   Fixed Phone            Area Code (Geographic Number for Fixed
+                                                       telephony Numbers-Markazi)
+87              5          10   Fixed Phone            Area Code (Geographic Number for Fixed
+                                                       telephony Numbers-Kurdestan)
+901            10          10   Mobile services
+902            10          10   Mobile services
+903            10          10   Mobile services
+9044           10          10   Mobile services
+91             10          10   Mobile services
+920            10          10   Mobile services
+921            10          10   Mobile services
+922            10          10   Mobile services
+93             10          10   Mobile services
+94000          10          10   Fixed Phone (fibber)   Non geographical
+94110           5          10   Fixed Phone (Fixed     Just Originating from Iran
+                                wireless Access)
+94111           5          10   Fixed Phone (Fixed     Just Originating from Iran
+                                wireless Access)
+94112           5          10   Fixed Phone (Fixed     Just Originating from Iran
+                                wireless Access)
+94113           5          10   Fixed Phone (Fixed     Just Originating from Iran
+                                wireless Access)
+94114           5          10   Fixed Phone (Fixed     Just Originating from Iran
+                                wireless Access)
+94115           5          10   Fixed Phone (Fixed     Just Originating from Iran
+                                wireless Access)
+94116           5          10   Fixed Phone (Fixed     Just Originating from Iran
+                                wireless Access)
+94117           5          10   Fixed Phone (Fixed     Just Originating from Iran
+                                wireless Access)
+942             5          10   Fixed Phone            Non geographical
+943016          5          10   Fixed Phone            Non geographical
+94440           5          10   Fixed Phone (Fixed     Just Originating from Iran
+                                wireless Access)
+96              5          6    Services Codes
+
+
+
+                NSN Number length
+     NDC                                  Usage of E.164              Additional Information
+               Minimum Maximum
+ 990              10         10           Mobile services
+ 9944             10         10           Mobile services
+ 993              10         10           Satellite Services
+ 99810            10         10           Mobile services
+ 99900            10         10           Mobile services
+ 99911            10         10           Mobile services
+ 99913            10         10           Mobile services
+ 99998            10         10           Mobile services
+ 99999            10         10           Mobile services
+
+Contact:
+           Alireza Darvishi
+           Director, International Specialized Organizations Bureau,
+           Communications Regulatory Authority (CRA)
+           Ministry of Information and Communication Technology
+           15598 TEHRAN
+           Iran (Islamic Republic of)
+           Tel: +98 21 89662201
+           Fax: +98 21 88468999
+           URL: www.cra.ir
+
+
+
+Uganda (country code +256)
+Communication of 21.VII.2017:
+The Uganda Communications Commission (UCC), Kampala, announces the National Numbering Plan of Uganda.
+                        ITU-T E.164 NATIONAL NUMBERING PLAN FOR COUNTRY CODE 256
+
+a)       Overview
+         The minimum number length (excluding the country code) is 9 digits
+         The maximum number length (excluding the country code) is 9 digits
+
+b)       Details of numbering scheme
+
+      NDC (National         N(S)N Number Length                Usage of E.164 Number           Additional information
+   Destination Code) or
+ leading digits of N(S)N    Maximum      Minimum
+  (National (Significant)    Length       Length
+         Number)
+ 200                            9           9        Fixed telephony services for Airtel     Network fully
+ 201                                                 Uganda Limited                          operational
+ 20240                          9           9        Fixed telephony services for Altech     Network fully
+                                                     Infocom Limited                         operational
+ 20300,                         9           9        Fixed telephony services for Afrimax    Network fully
+ 20301                                               Uganda Limited                          operational
+ 20302
+ 20303
+ 20304
+
+
+
+
+     NDC (National         N(S)N Number Length          Usage of E.164 Number            Additional information
+  Destination Code) or
+leading digits of N(S)N    Maximum    Minimum
+ (National (Significant)    Length     Length
+        Number)
+20320,                        9           9      Fixed telephony services for Iway       Network fully
+20321                                            Afrida (U) Limited                      operational
+20322
+20323
+20324
+2036                          9           9      Fixed telephony services for Sombha     Network fully
+2037                                             Solutions store Limited                 operational
+204                           9           9      Fixed telephony services for Africell   Network fully
+                                                 Uganda Limited                          operational
+
+2050                          9           9      Fixed telephony services for Roke       Network fully
+2051                                             Investment International Limited        operational
+2052
+2053
+2054
+206000                        9           9      Fixed telephony services for Datanet    Network fully
+206001                                                                                   operational
+206002
+2061                          9           9      Fixed telephony services for            Network not operational
+                                                 Hamilton Telecom
+
+206300                        9           9      Fixed telephony services for            Network fully
+206301                                           Simbanet Uganda Limited                 operational
+206302
+206303
+206304
+2065                          9           9      Fixed telephony services for            Network fully
+2066                                             Suretelecom Uganda Limited              operational
+2067
+2068
+2069
+207                           9           9      Fixed telephony services for Airtel     Network fully
+                                                 Uganda Limited                          operational
+
+3                             9           9      Fixed telephony services for MTN        Network is fully
+                                                 Uganda Limited                          operational
+4                             9           9      Fixed telephony services for Uganda     Network is fully
+                                                 Telecom Limited                         operational
+700                           9           9      Mobile telephony services for Airtel    Network is fully
+701                                              Uganda Limited                          operational
+702
+703
+704
+705
+706
+
+
+
+
+     NDC (National         N(S)N Number Length         Usage of E.164 Number              Additional information
+  Destination Code) or
+leading digits of N(S)N    Maximum    Minimum
+ (National (Significant)    Length     Length
+        Number)
+710                           9           9      Mobile telephony services for           Network is fully
+711                                              Uganda Telecom Limited                  operational
+712
+713
+714
+715
+716
+717
+718
+719
+720                           9           9      Mobile telephony services for Smile     Network is fully
+                                                 Communications (U) Ltd                  operational
+723                           9           9      Mobile telephony services for           Network is fully
+                                                 Afrimax Uganda Limited                  operational
+7260                          9           9      Mobile telephony services for           Network is fully
+                                                 Tangerine Limited                       operational
+730                           9           9      Mobile telephony services for K2        Network is fully
+                                                 Telecom Limited                         operational
+7330                          9           9      Mobile telephony services for           Network not operational
+7331                                             Lycamobile Network Services Uganda
+7332                                             Limited
+736                           9           9      Mobile telephony services for           Network not operational
+                                                 Hamilton Telecom
+740                           9           9      Mobile telephony services for Sure      Network is fully
+741                                              Telecom (U) Limited                     operational
+742
+743
+744
+750                           9           9      Mobile telephony services for Airtel    Network is fully
+751                                              Uganda Limited                          operational
+752
+753
+754
+755
+756
+757
+758
+759
+770                           9           9      Mobile telephony services for MTN       Network is fully
+771                                              Uganda Limited                          operational
+772
+773
+774
+775
+776
+777
+778
+779
+
+
+
+
+      NDC (National         N(S)N Number Length         Usage of E.164 Number              Additional information
+   Destination Code) or
+ leading digits of N(S)N    Maximum    Minimum
+  (National (Significant)    Length     Length
+         Number)
+ 780                           9           9      Mobile telephony services for MTN        Network is fully
+ 781                                              Uganda Limited                           operational
+ 782
+ 783
+ 784
+ 785
+ 786
+ 787
+ 788
+ 789
+ 790                           9           9      Mobile telephony services for Africell   Network is fully
+ 791                                              Uganda Limited                           operational
+ 792
+ 793
+ 794
+
+Contact:
+         Mr Godfrey Mutabazi
+         Executive Director
+         Uganda Communications Commission (UCC)
+         Plot 42-44 Spring Road, Bugolobi
+         P.O. Box 7376, Kampala, Uganda
+         Tel:     +256 41 433 9000
+         Fax:     +256 41 434 8832
+         E-mail: ucc@ucc.co.ug
+         URL:     www.ucc.co.ug
+
+
+
+
+                                        Other communication
+
+Serbia
+Communication of 27.VII.2017:
+On the occasion of the 70th anniversary of the Radio Club "KOSMOS" from Paracin, the Serbian Administration
+authorizes a number of Serbian amateur radio stations to use the special call sign YU70GUV from 15 August to
+31 December 2017.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                            Abbreviations used
+
+                               ADD   Insert                    PAR   paragraph
+                               COL   Column                    REP   replace
+                               LIR   Read                      SUP   Delete
+                               P     page(s)
+
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2017
+
+                                               Section VI
+ADD
+
+
+      BM06        Information Technology and Cyber Securtiy Department. Office No (2), Naypyitaw,
+                  Ottarathiri Township, Naypyitaw City, Myanmar.
+
+
+
+REP
+
+
+      CY05        TOTOTHEO MARITIME LTD, 89, Omonia Avenue, 3048 Limassol, Cyprus.
+                  Tel.: +357 25 576037, Fax: +357 25 570868, E-Mail: satlink@satlink.com.cy
+                  Contact Persons: Natalia Benrendakova, Constantinos Spyrou,
+                  Despina Panayiotou Theodossiou.
+
+
+
+
+                List of Recommendation ITU-T E.164 assigned Country Codes
+                  (Complement to Recommendation ITU-T E.164 (11/2010))
+                             (Position on 15 December 2016)
+                              (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                (Amendment No. 4)
+
+Notes common to Numerical and Alphabetical lists of Recommendation ITU-T E.164 assigned country codes
+
+
+Associated with shared country code 883, the following three-digit identification code assignment has been
+made for the international networks of:
+P 18 Note p) +883 240          ADD*
+
+                                                                                     Country Code and
+                  Applicant                               Network                                                 Status
+                                                                                    Identification Code
+
+ BICS SA                                     BICS SA                                    +883 240                 Assigned
+
+* 25.VII.2017
+
+
+
+
+       Mobile Network Codes (MNC) for the international identification plan
+                      for public networks and subscriptions
+              (According to Recommendation ITU-T E.212 (09/2016))
+                        (Position on 1st November 2016)
+                              (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                              (Amendment No. 18)
+
+
+     Country/Geographical area         MCC+MNC *            Operator/Network
+
+     Chile ADD
+
+                                             730 21         WILL S.A.
+
+     Uganda ADD
+
+                                             641 20         Hamilton Telecom Limited
+
+     International Mobile, shared
+     code ADD
+                                             901 58         BICS SA
+
+
+ ____________
+
+ *          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+            MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                        (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                         (Amendment No. 47)
+
+
+ Country or area/ISO code                          Company Code      Contact
+  Company Name/Address                              (carrier code)
+Germany (Federal Republic of) / DEU        ADD
+
+ C&S Breitband GmbH                                     CUSB         Mr Fabian Caspers
+ Luebecker Strasse 56                                                Tel:    +49 4531 162920
+ 23843 BAD OLDESLOE                                                  Fax:    +49 4531 16277920
+                                                                     E-mail: fcaspers@cs-breitband.de
+
+ NYNEX satellite OHG                                   NYNEX         Tel:    +49 6151 500 74 090
+ Robert-Bosch-Strasse 20                                             E-mail: noc@nynex.de
+ 64293 DARMSTADT
+
+
+ Office-ED Computer GmbH                               OFFICE        Dr Martin Fritz
+ Dessauer Strasse 60                                                 Tel:    +49 208 375760
+ 45472 MUELHEIM / RUHR                                               Fax:    +49 208 3757627
+                                                                     E-mail: fritz@office-ed.de
+
+ Stadtwerke Merseburg GmbH                             SWMER         Mrs Anja Bente
+ Grosse Ritterstrasse 9                                              Tel:    +49 3461 454 236
+ 06217 MERSEBURG                                                     Fax:    +49 3461 454 170
+                                                                     E-mail: a.bente@sw-merseburg.de
+
+ weissblau-breitband UG (haftungsbeschraenkt)         WBBAND         Mr Wolfgang Schlichtner
+ Heraklithstrasse 1a                                                 Tel:    +49 8571 983430
+ 84359 SIMBACH                                                       Fax:    +49 8571 9834317
+                                                                     E-mail: office@weissblau-breitband.de
+
+ Wolf                                 Lindenthal       SPIKOM        Mr Wolf Lindenthal
+ SPIEKEROOGkom                                                       Tel:    +49 4976 267969
+ Westerloog 20 b                                                     Fax:    +49 4976 706749
+ 26474 SPIEKEROOG                                                    E-mail: buero@spiekeroogkom.de
+
+
+
+
+                    List of International Signalling Point Codes (ISPC)
+                 (According to Recommendation ITU-T Q.708 (03/1999))
+                                (Position on 1 October 2016)
+                           (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                           (Amendment No. 19)
+
+
+Country/              Unique name of the signalling point       Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+
+Portugal SUP
+2-223-6    5886      Lisboa                                   Telsocomm - Telecomunicações, Marketing e
+                                                              Informática Ltda
+
+Portugal ADD
+2-223-6    5886      ALF1FS                                   Vodafone Portugal - Comunicações Pessoais, S.A.
+2-223-7    5887      BOA1FS                                   Vodafone Portugal - Comunicações Pessoais, S.A.
+
+United Kingdom SUP
+2-068-0    4640      UK_SS01                                  Cable & Wireless UK
+2-068-6    4646      Auckland Land Earth Station              Stratos Global Ltd
+2-075-0    4696      London                                   Xtec Communications Ltd
+2-153-4    5324      Stratos Netherlands                      Stratos Global Ltd
+2-154-2    5330      Webstar Switch1                          Webstar Limited
+2-155-2    5338      Euro Star 1                              Startec Global Communications UK Ltd
+2-155-7    5343      SMILE 1                                  Smile Telecommunications Limited
+2-161-1    5385      CIRPACK-1 London                         n-Tel Communications LTD
+2-162-4    5396      LONDON EC2A                              Dumerton International Inc.
+2-163-6    5406      London Poplar                            PTGI International Carrier Services Ltd
+2-164-4    5412      VOEX-UK-2                                Network Brokers Ltd
+2-165-4    5420      Eurostar 1                               Startec Global Communications UK Ltd
+2-165-6    5422      iCard1                                   iCard European Telecommunications (Ireland) Ltd
+2-170-2    5458      RACS-1 London                            n-Tel Communications LTD
+2-174-1    5489      ANS-1 London                             n-Tel Communications LTD
+2-174-6    5494      BTL Lon 1                                Neural Telecommunications (UK) Limited
+2-175-0    5496      PROTEI-CAMEL GW                          n-Tel Communications LTD
+2-177-0    5512      PROTEI-SMSC                              n-Tel Communications LTD
+2-177-4    5516      PROTEI-VLR                               n-Tel Communications LTD
+2-177-5    5517      CISCO 7204 (Main STP gateway)            n-Tel Communications LTD
+2-179-7    5535      CISCO 7204 (back up STP)                 n-Tel Communications LTD
+2-185-2    5578      PROTEI-SMS GW                            n-Tel Communications LTD
+2-185-7    5583      LONDON 1                                 Scala Telecom Limited
+2-186-3    5587      Vital 2                                  Vital Phone Limited
+2-188-3    5603      Goonhilly Inmarsat 2                     Stratos Global Ltd
+2-188-4    5604      LDNSTP1                                  Global Networks Switzerland Inc.
+2-188-5    5605      LDNSTP2                                  Global Networks Switzerland Inc.
+2-188-6    5606      LDNMSC1                                  Global Networks Switzerland Inc.
+
+
+
+Country/              Unique name of the signalling point     Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+2-190-4    5620      Squire 1                               m2m Wholesale Limited
+2-209-1    5769      Southern Transit                       Virgin Media Wholesale Limited
+2-209-4    5772      Yorkshire Transit                      Virgin Media Wholesale Limited
+2-210-6    5782      London                                 Falcon Telecomms Limited
+2-211-4    5788      ICard2                                 iCard European Telecommunications (Ireland) Ltd
+2-211-5    5789      Vital 1                                Vital Phone Limited
+2-211-6    5790      LONDON 1                               Willaf Limited
+3-230-4    7988      HEX-IMG                                Onyx Innovation Uk Ltd
+3-230-7    7991      IMG1                                   JSC Ingenium (UK) Limited
+3-236-0    8032      42London1                              42 Telecom Limited
+3-237-4    8044      London Telehouse                       Inspired Sales Ltd
+3-237-5    8045      42London2                              42 Telecom Limited
+4-240-2    10114     London 1                               iHub UK Ltd
+4-254-2    10226     Expo 1                                 SpiriTel Technologies Limited
+4-254-3    10227     Expo 2                                 SpiriTel Technologies Limited
+5-226-0    12048     FAREHAM1                               SSE Energy Supply Limited
+5-248-1    12225     London                                 TRA (UK) Ltd
+5-248-4    12228     LONDON 1                               Vivodi Telecom S.A.
+6-254-6    14326     VOEX-UK-1                              Network Brokers Ltd
+6-254-7    14327     CW-London 1                            Callworld UK Ltd
+6-255-4    14332     London                                 Global Quest Communications Ltd
+7-229-2    16170     IMG2                                   JSC Ingenium (UK) Limited
+7-234-2    16210     Hextel London 1                        Hextel Communications Limited
+
+United Kingdom ADD
+2-068-1    4641      ZZ5                                    Vodafone Ltd (C&W)
+2-068-3    4643      ZZ6                                    Vodafone Ltd (C&W)
+2-068-4    4644      EGH-G41SCCP                            Epsilon Telecommunications Ltd
+2-069-7    4655      The-G41SCCP                            Epsilon Telecommunications Ltd
+2-071-4    4668      Jersey Airtel 2                        Jersey Airtel Limited
+2-073-0    4680      th-prd-itp3                            Cloud9 Mobile Communications Ltd
+2-073-1    4681      th-prd-itp4                            Cloud9 Mobile Communications Ltd
+2-074-0    4688      Nokia 1                                Core Communication Services Ltd
+2-147-2    5274      London                                 Reliance Jio Infocomm UK Ltd
+2-147-3    5275      GBS2                                   Verizon UK Ltd
+2-147-4    5276      C20 Manchester                         Sky UK Limited
+2-153-0    5320      C20 Hayes                              Sky UK Limited
+2-153-1    5321      ISG_TS_AM3                             Telesign Mobile Limited
+2-154-7    5335      MTLJE02                                Marathon Telecom Limited
+2-161-2    5386      London Docklands 2                     Globetouch AB
+2-161-3    5387      London Docklands 1                     Globetouch AB
+2-162-0    5392      Isle of Man                            Manx Telecom Trading Limited
+2-163-3    5403      Isle of Man                            Manx Telecom Trading Limited
+2-163-4    5404      Fareham01                              Gamma Telecom Holdings Ltd
+
+
+Country/             Unique name of the signalling point     Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+2-163-5    5405     Teles MGC CLUSTER EGH                  VueTel Italia S.p.A.
+2-164-1    5409     MW UK POP 1                            MOBIWEB TELECOM LIMITED
+2-164-2    5410     TRIAx01                                Triaxcess
+2-164-3    5411     SOUT-STP                               Virgin Mobile Telecoms Limited
+2-164-4    5412     BAGU-STP                               Virgin Mobile Telecoms Limited
+2-164-5    5413     CMIV01                                 China Mobile International (UK) Limited
+2-164-7    5415     CMIS05                                 China Mobile International (UK) Limited
+2-165-1    5417     L/CWX/1                                CFL Communications Limited
+2-166-2    5426     BHXGSX1                                COLT Technology Services
+2-166-4    5428     HTUKSMS1                               Hutchison Global Communications (UK) Limited
+2-167-7    5439     Hanhaa-STP1                            Hanhaa Limited
+2-169-0    5448     HTUKSMS2                               Hutchison Global Communications (UK) Limited
+2-169-3    5451     Hanhaa-STP2                            Hanhaa Limited
+2-169-4    5452     DC1-STP                                AEROMOBILE COMMUNICATIONS LIMITED
+2-169-6    5454     DC2-STP                                AEROMOBILE COMMUNICATIONS LIMITED
+2-169-7    5455     STPCY1                                 Vodafone Uk Ltd
+2-174-5    5493     STPER1                                 Vodafone Uk Ltd
+2-175-7    5503     STPGL1                                 Vodafone Uk Ltd
+2-176-7    5511     STPSN1                                 Vodafone Uk Ltd
+2-177-1    5513     STPRM1                                 Vodafone Uk Ltd
+2-177-6    5518     STPOM1                                 Vodafone Uk Ltd
+2-178-0    5520     STPPH1                                 Vodafone Uk Ltd
+2-178-3    5523     TELES                                  Sama S.A.L Offshore
+2-179-2    5530     STPPH2                                 Vodafone Uk Ltd
+2-179-3    5531     LNC2                                   Verizon UK Ltd
+2-179-6    5534     DDCLZTE1                               Docklands Data Centre Ltd
+2-187-6    5598     DDCLZTE1                               Docklands Data Centre Ltd
+2-188-4    5604     LDNSTP1                                SMSRelay AG
+2-188-5    5605     LDNSTP2                                SMSRelay AG
+2-188-6    5606     MSC1                                   SMSRelay AG
+2-209-1    5769     Southern Transit                       Virgin Media Limited
+2-209-4    5772     Yorkshire Transit                      Virgin Media Limited
+2-210-0    5776     DDCLZTE1                               Docklands Data Centre Ltd
+2-210-1    5777     DDCLZTE1                               Docklands Data Centre Ltd
+4-240-5    10117    DDCLVERAZ1                             Docklands Data Centre Ltd
+5-226-0    12048    Islay                                  Gamma Telecom Holdings Ltd
+
+United Kingdom LIR
+2-074-4    4692     London 1                               GCI Network Solutions Limited
+2-075-1    4697     Bristol AVN2046-E10                    EE Limited (Orange)
+2-075-5    4701     Croydon GMSC 2 (CN9)                   EE Limited ( TM)
+2-075-6    4702     JE/W/STP                               JT (Jersey) Limited
+2-075-7    4703     Jersey Central                         JT (Jersey) Limited
+2-154-4    5332     STK2                                   EE Limited ( TM)
+
+
+ Country/                   Unique name of the signalling point     Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+ 2-162-7       5399        Mansfield M89                          EE Limited (Orange)
+ 2-163-0       5400        MR9                                    EE Limited ( TM)
+ 2-165-2       5418        Fareham HAM6040-E16                    EE Limited (Orange)
+ 2-166-7       5431        Luton BED6000-E17                      EE Limited (Orange)
+ 2-167-2       5434        Manchester GMN0901-E18                 EE Limited (Orange)
+ 2-169-5       5453        Luton BED6000-E19                      EE Limited (Orange)
+ 2-170-3       5459        Fareham HAM6040-E20                    EE Limited (Orange)
+ 2-170-4       5460        Manchester GMN0901-E21                 EE Limited (Orange)
+ 2-174-2       5490        Greenwich-K59                          EE Limited (Orange)
+ 2-175-2       5498        Birmingham K-58                        EE Limited (Orange)
+ 2-175-3       5499        Tannochside STR4003-E22                EE Limited (Orange)
+ 2-176-1       5505        Tannochside STR4003-E23                EE Limited (Orange)
+ 2-176-2       5506        Croydon-T13                            EE Limited (Orange)
+ 2-176-3       5507        Park Royal-T04                         EE Limited (Orange)
+ 2-176-5       5509        Cs2k Basingstoke                       Sky UK Limited
+ 2-176-6       5510        Cs2k Reading                           Sky UK Limited
+ 2-178-1       5521        STC2                                   EE Limited ( TM)
+ 2-186-0       5584        JE/TXD                                 JT (Jersey) Limited
+ 2-186-1       5585        JE/E                                   JT (Jersey) Limited
+ 2-186-2       5586        Jersey TRS                             JT (Jersey) Limited
+ 2-189-4       5612        Radlett GMSC (RA9)                     EE Limited ( TM)
+ 2-189-5       5613        Sunbury GMSC (SU9)                     EE Limited ( TM)
+ 2-191-6       5630        JE/N/STP                               JT (Jersey) Limited
+ 2-211-1       5785        Reading-M64                            EE Limited (Orange)
+ 2-211-7       5791        Beckton GMSC1 (KT9)                    EE Limited ( TM)
+ 3-230-5       7989        TNZUK London 2                         TNZI UK Ltd
+ 3-236-3       8035        Birmingham WMD0900-T52                 EE Limited (Orange)
+ 3-236-4       8036        Acton GLN1070-T53                      EE Limited (Orange)
+ 3-236-5       8037        Leicester LEC5090-T54                  EE Limited (Orange)
+ 3-236-6       8038        Manchester GMN0901-T55                 EE Limited (Orange)
+ 3-237-0       8040        LON STP1                               TNZI UK Ltd
+ 4-229-1       10025       LON STP2                               TNZI UK Ltd
+ 4-254-4       10228       Manchester-M66                         EE Limited (Orange)
+ 4-254-5       10229       Birmingham-M67                         EE Limited (Orange)
+ 5-248-6       12230       Greenwich T49                          EE Limited (Orange)
+ 6-255-1       14329       MComXL1                                Vectone Mobile Limited
+ 6-255-2       14330       Greenwich M79                          EE Limited (Orange)
+ 6-255-3       14331       Greenwich M82                          EE Limited (Orange)
+ 7-232-3       16195       JE/W/ITP2                              JT (Jersey) Limited
+ 7-232-6       16198       JE/N/ITP2                              JT (Jersey) Limited
+ 7-251-2       16346       Birmingham M0S                         EE Limited (Orange)
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                 National Numbering Plan
+                  (According to Recommendation ITU-T E.129 (01/2013))
+                                     Web: www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+
+
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.VII.2017, the following countries/geographical areas have updated their national numbering plan on
+our site:
+
+
+                            Country/ Geographical area                 Country Code (CC)
+                 Egypt                                                           +20
+                 Kiribati                                                        +686
+                 Malta                                                           +356
+                 Swaziland                                                       +268
+
+
+
+

@@ -1,0 +1,837 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1112             15.XI.2016                  (Information received by 1 November 2016) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                               Table of Contents
+                                                                                                                                                                Page
+
+
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ................................................................................3
+Approval of ITU-T Recommendations ......................................................................................................................4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)):
+     Nepal (Federal Democratic Republic of) .............................................................................................................4
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ................................................................................................5
+     Luxembourg (Institut Luxembourgeois de Régulation (ILR), Luxembourg).........................................................5
+     Somalia (Ministry of Post, ICT and Telecommunications, Mogadishu) ..............................................................6
+Changes in Administrations/ROAs and other entities or Organizations:
+     Cabo Verde (Ministério das Infra-estruturas e Economia Marítima, Praia): Change of name ...........................8
+     South Sudan (Ministry of Telecommunications and Postal Services, Juba): Change of name ............................8
+     Croatia (Ministry of Maritime Affairs, Transport and Infrastructure, Zagreb): Change of name .......................8
+Service Restrictions ..................................................................................................................................................9
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .................................................................9
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .................................................10
+List of International Monitoring Stations (List VIII) ................................................................................................11
+Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions ..12
+List of ITU Carrier Codes .........................................................................................................................................17
+List of Signalling Area/Network Codes (SANC) .......................................................................................................18
+List of International Signalling Point Codes (ISPC) .................................................................................................18
+National Numbering Plan .......................................................................................................................................19
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1113             1.XII.2016             16.XI.2016
+               1114             15.XII.2016            1.XII.2016
+               1115              1.I.2017             12.XII.2016
+               1116              15.I.2017              2.I.2017
+               1117              1.II.2017             16.I.2017
+               1118             15.II.2017              1.II.2017
+               1119              1.III.2017            15.II.2017
+               1120             15.III.2017            1.III.2017
+               1121              1.IV.2017             17.III.2017
+               1122             15.IV.2017             31.III.2017
+               1123              1.V.2017              14.IV.2017
+               1124             15.V.2017               1.V.2017
+               1125              1.VI.2017             16.V.2017
+               1126             15.VI.2017             1.VI.2017
+               1127             1.VII.2017             16.VI.2017
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+     subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+     (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+     Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1066 List of Signalling Area/Network Codes (SANC) (Complement to ITU-T Recommendation Q.708 (03/99))
+     (Position on 15 December 2014)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+     2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+     optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+     Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+     (Position on 1 November 2012)
+1005 List of mobile country or geographical area codes (Complement to ITU-T Recommendation E.212
+     (05/2008)) (Position on 1 June 2012).
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+     to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+     (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+     operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+     accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 List of ITU-T Recommendation E.164 assigned country codes (Complement to ITU-T Recommendation
+     E.164 (11/2010)) (Position on 1 November 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+     (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+     T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+     (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+     series Recommendations) (Position on 15 February 2011)
+972 List of terrestrial trunk radio mobile country codes (Complement to ITU-T Recommendation E.218
+     (05/2004)) (Position on 15 January 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+     on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+     Recommendation F.1 (03/1998))
+B.   The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                  Approval of ITU-T Recommendations
+A.     By AAP-91, it was announced that the following ITU-T Recommendations were approved, in accordance
+with the procedures outlined in Recommendation ITU-T A.8:
+
+–       ITU-T G.994.1 (2012) Cor. 1 (10/2016)
+–       ITU-T H.265.1 (10/2016): Conformance specification for ITU-T H.265 high efficiency video coding
+–       ITU-T Z.100 Annex F3 (10/2016): Specification and Description Language - Overview of SDL-2010
+–       ITU-T Z.100 Annex F2 (10/2016): Specification and Description Language - Overview of SDL-2010
+–       ITU-T Z.100 Annex F1 (10/2016): Specification and Description Language - Overview of SDL-2010
+
+B.    By TSB Circular 254 of 17 October 2016, it was announced that the following ITU-T Recommendations
+were approved, in accordance with the procedures outlined in Resolution 1:
+–       ITU-T G.9700 (2014) Amd. 1 (09/2016)
+–       ITU-T G.9964 (2011) Amd. 2 (09/2016)
+
+      By TSB Circular 255 of 24 October 2016, it was announced that the following ITU-T Recommendation was
+approved, in accordance with the procedures outlined in Resolution 1:
+–       ITU-T E.212 (09/2016): The international identification plan for public networks and subscriptions
+
+
+
+                    Assignment of Signalling Area/Network Codes (SANC)
+                          (Recommendation ITU-T Q.708 (03/99))
+Note from TSB
+      At the request of the Administration of Nepal, the Director of TSB has assigned the following signalling
+area/network code (SANC) for use in the international part of the signalling system No. 7 network of this
+country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                   Country/geographical area or signalling network                          SANC
+
+                   Nepal (Federal Democratic Republic of)                                  4-217
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                          Telephone Service
+                                     (Recommendation ITU-T E.164)
+                                            url: www.itu.int/itu-t/inr/nnp
+Denmark (country code +45)
+Communication of 26.X.2016:
+The Danish Energy Agency, Copenhagen, announces the following changes to the Danish telephone numbering
+plan:
+     assignment – Mobile communication services
+
+                Provider                                 Numbering series              Date of assignment
+Uni-tel A/S                              9363efgh                                           4.X.2016
+SimService A/S                           9334efgh, 9335efgh and 9336efgh                   12.X.2016
+
+
+     withdrawal – Carrier select code
+
+                Provider                                 Carrier select code           Date of withdrawal
+Dialoga Servicios Interactivos, S.A. 1025                                                  31.XII.2016
+
+
+Contact:
+           Danish Energy Agency
+           Amaliegade 44
+           1256 COPENHAGEN K
+           Denmark
+           Tel:    +45 33 92 67 00
+           Fax:    +45 33 11 47 43
+           E-mail: ens@ens.dk
+           URL:    www.ens.dk
+
+
+Luxembourg (country code +352)
+Communication of 31.X.2016:
+The Institut Luxembourgeois de Régulation (ILR), Luxembourg, announces that, as of 1 February 2017, the new
+series of mobile numbers +352 651 XXXXXX and +352 658 XXXXXX, assigned to new mobile operator
+"ELTRONA Interdiffusion S.A.", will be in service in Luxembourg.
+Contact:
+           Institut Luxembourgeois de Régulation (ILR)
+           17, rue du Fossé
+           2922 LUXEMBOURG
+           Luxembourg
+           Tel:      +352 28 228 228
+           Fax:      +352 28 228 229
+           E-mail: info@ilr.lu
+           URL:      www.ilr.lu
+
+
+
+
+Somalia (country code +252)
+Communication of 21.X.2016
+The Ministry of Post, ICT and Telecommunications, Mogadishu, announces that the following numbering ranges
+are available in “Somali Network Telecom”:
+
+
+              Service              Country Code            Area Code/GSM Code
+ Fixed Line                            252            85 XXXX
+
+ Mobile GSM                            252            64X XXX XXX
+
+ Mobile GSM                            252            80X XXX XXX
+
+ Mobile GSM                            252            88X XXX XXX
+
+All Administrations and Recognized Operating Agencies (ROA) are requested to program their switches to enable
+access to these number series.
+Contacts:
+
+    Mr. Shukri Mohamed Jama                     Mr. Ahmed Abdi
+    CEO and Founder                             Director General
+    Somali Networks Telecom                     Ministry of Post, ICT and Telecommunications
+    MOGADISHU                                   Jamhuria Road
+    Somalia                                     MOGADISHU
+    Email: shukriwalker20@yahoo.co.uk           Somalia
+                                                Tel: +252 616342657
+                                                Email: dg.ahabdi@gmail.com
+Communication of 21.X.2016
+The Ministry of Post, ICT and Telecommunications, Mogadishu, announces that the following numbering ranges
+are available in “Somtel International Telecommunications”:
+
+            Service              Country Code            Area Code/GSM Code                     Zone
+ Fixed Line                          252            1XXXXX                                 Mogadishu
+ Fixed Line                          252            3XXXXX                                     Hargeisa
+ Fixed Line                          252            4XXXXX                                     Garowe
+ Mobile GSM                          252            79X XXX XXX                                Hargeisa
+ Mobile GSM                          252            62X XXX XXX                            Mogadishu
+ Mobile GSM                          252            65X XXX XXX                                Hargeisa
+ Mobile GSM                          252            66X XXX XXX                                Garowe
+
+All Administrations and Recognized Operating Agencies (ROA) are requested to program their switches to enable
+access to these number series.
+Contacts:
+    Mr. Nuh Saeed Dualeh                        Ministry of Post, ICT and Telecommunications
+    CEO of Somtel Somali                        Office of the Minister
+    MOGADISHU                                   Jamhuria Road
+    Somalia                                     MOGADISHU
+    Tel:     +252 628877003                     Somalia
+    E-mail: nsdualeh@somtelnetwork.net          Tel:    +252 612710000
+                                                Email: gelleh.mursal@gmail.com; dg.ahabdi@gmail.com
+
+
+
+
+Communication of 21.X.2016
+The Ministry of Post, ICT and Telecommunications, Mogadishu, announces that the following numbering ranges
+are available in “AirSom Communications”:
+              Service                Country Code             Area Code/GSM Code
+ Fixed Line                               252              81 XXXX
+
+ Fixed Line                               252              82 XXXX
+
+ Mobile GSM                               252              35X XXX XXX
+
+ Mobile GSM                               252              39X XXX XXX
+
+ Mobile GSM                               252              48X XXX XXX
+
+ Mobile GSM                               252              49X XXX XXX
+
+All Administrations and Recognized Operating Agencies (ROA) are requested to program their switches to enable
+access to these number series.
+Contacts:
+    Mr. Ibrahim Mohamed                         Mr. Ahmed Abdi
+    Managing Director                           Director General
+    AirSom Communications                       Ministry of Post, ICT and Telecommunications
+    Tel: +252 618121097                         Jamhuria Road
+    Fax: +252 690000908                         MOGADISHU
+    Email: info@airsom.com                      Somalia
+                                                Tel: +252 612244484
+                                                Email: dg.ahabdi@gmail.com
+
+
+
+
+                  Changes in Administrations/ROAs and other entities
+                                  or Organizations
+
+Cabo Verde
+Communication of 28.X.2016:
+                                               Change of name
+
+The Ministério das Infra-estruturas e Economia Marítima, Praia, announces that it has changed its name. It is
+now called: « Ministério da Economia e Emprego ».
+
+                 Ministério da Economia e Emprego
+                 P.O. Box 07
+                 PRAIA
+                 Cabo Verde
+                 Tel.: +238 2615699
+                 Fax: +238 2614141
+                 URL: www.governo.cv
+
+
+South Sudan
+Communication of 28.X.2016:
+                                               Change of name
+
+The Ministry of Telecommunications and Postal Services, Juba, announces that it has changed its name. It is
+now called: « Ministry of Information, Communication Technology and Postal Services ».
+
+                 Ministry of Information, Communication Technology and Postal Services
+                 P.O. Box 33
+                 JUBA
+                 South Sudan
+                 Tel.: +211 912394207
+                 Fax: +211 811820188
+                 Email: info@motps.goss.org
+
+
+Croatia
+Communication of 4.XI.2016:
+                                                  Change of name
+The Ministry of Maritime Affairs, Transport and Infrastructure, Zagreb, announces that it has changed its name.
+It is now called: « Ministry of the Sea, Transport and Infrastructure ».
+
+                 Ministry of the Sea, Transport and Infrastructure
+                 14 Prisavlje 14
+                 10000 ZAGREB
+                 Croatia
+                 Tel.: +385 16169110
+                 Fax: +385 16196662
+                 Email: el-kom@mppi.hr
+                 URL: www.mppi.hr
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                        Call – Back
+               and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                           Abbreviations used
+
+                               ADD   Insert                  PAR   paragraph
+                               COL   Column                  REP   replace
+                               LIR   Read                    SUP   Delete
+                               P     page(s)
+
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2016
+
+                                               Section VI
+ADD
+
+
+      IR18   RAAD BUSHEHR, NO. 9, Laleh Alley, Janbazan Avenue, Bushehr, IRAN.
+             Tel.: +98 773 3540020-21, Fax: +98 773 3540022,
+             E-Mail: info@raadbeco.com
+
+REP
+      DP01   Marlink GmbH, Konrad Adenauer Ufer 41-45, D-50668 Köln, Germany.
+             Tel.: +33 5 61 28 89 99, Fax: +33 5 61 28 89 98,
+             E-Mail: customcare@marlink.com
+             Contact Person: M. Luc Feron
+
+
+      DP02   Marlink Maritime GmbH, Johann-Mohr-Weg 2, D-22763 Hamburg, Germany.
+             Tel.: +33 5 61 28 89 99, Fax: +33 5 61 28 89 98,
+             E-Mail: customcare@marlink.com
+             Contact Person: M. Luc Feron
+
+
+      DP03   Marlink GmbH, Konrad Adenauer Ufer 41-45, D-50668 Köln, Germany.
+             Tel.: +33 5 61 28 89 99, Fax: +33 5 61 28 89 98,
+             E-Mail: customcare@marlink.com
+             Contact Person: M. Luc Feron
+
+
+      DP06   Marlink GmbH, Konrad Adenauer Ufer 41-45, D-50668 Köln, Germany.
+             Tel.: +33 5 61 28 89 99, Fax: +33 5 61 28 89 98,
+             E-Mail: customcare@marlink.com
+             Contact Person: M. Luc Feron
+
+
+      GR15     SHELECTRO-DRIVAKOS SHIPPING ELECTRONIC SYSTEMS,
+               Androutsou 154, 185 35 Piraeus.
+
+
+
+
+                                           List of International
+                                           Monitoring Stations
+                                                 (List VIII)
+                                              Edition of 2016
+                                               (Amendment No. 1)
+
+
+                                                      PART I
+                      STATIONS IN THE TERRESTRIAL RADIOCOMMUNICATION SERVICES
+
+
+HNG Hungary
+
+P 14 REP
+
+   Name of the station                        Postal address                    Telephone, Telefax, Electronic-mail
+                              Monitoring Station
+                              Sóskuti út                                    TF : +36 23 365405
+ Tárnok (IMS)
+                              2469 Tárnok                                   EMAIL : tarnok@ahrt.hu
+                              Hungary
+
+                                                        Ranges of          Hours
+ Geographical
+                   Types of measurements           frequencies for each     of                   Remarks
+ coordinates
+                                                      measurement         service
+    47°22'00''N
+                  Frequency measurements        10 kHz - 1000 MHz         H24
+   018°52'00''E
+                                                                                        Rod antenna.
+    47°22'00''N   Field strength or power
+                                                9 kHz - 30 MHz            H24
+   018°52'00''E   flux-density measurements
+                                                                                        Loop antenna.
+    47°22'00''N
+                  Bandwidth measurements        9 kHz - 30 MHz            H24
+   018°52'00''E
+    47°22'00''N   Automatic spectrum
+                                                9 kHz - 30 MHz            H24
+   018°52'00''E   occupancy surveys
+
+
+
+
+    Mobile Network Codes (MNC) for the international identification plan
+                   for public networks and subscriptions
+           (According to Recommendation ITU-T E.212 (09/2016))
+                     (Position on 1st November 2016)
+
+                       (Annex to ITU Operational Bulletin No. 1111 - 1.XI.2016)
+                                        (Amendment No. 1)
+
+
+   Country/Geographical area     MCC+MNC *                        Operator/Network
+
+ Australia ADD
+                                    505 40       CITIC PACIFIC MINING
+                                    505 41       OTOC Australia Pty Ltd
+ Bahamas ADD
+                                    364 39       Bahamas Telecommunications Company Limited
+ Bahamas LIR
+                                    364 49       NewCo2015 Limited
+ Denmark ADD
+                                    238 14       Monty UK Global Limited
+ Spain ADD
+                                    214 36       OPEN CABLE TELECOMUNICACIONES, S.L.
+ United States SUP
+                                    310 017      North Sight Communications Inc
+                                    310 330      AWCC
+                                                 High Plains Midwest LLC, dba Westlink
+                                    310 340
+                                                 Communications
+                                    310 420      Cincinnati Bell Wireless LLC
+                                    310 560      AT&T
+                                    310 810      LCFR LLC
+                                    310 870      Kaplan Telephone Company Inc.
+                                    310 980      Texas RSA 7B3 dba Peoples Wireless Services
+                                    311 130      Light Squared LP
+                                    311 160      Light Squared LP
+                                    311 210      Emery Telecom-Wireless Inc
+                                    311 460      Fisher Wireless Services Inc
+                                    311 520      Light Squared LP
+                                    311 540      Proximiti Mobility Inc
+                                    311 570      Bend Cable Communications LLC
+                                    311 600      Cox TMI Wireless LLC
+                                    311 760      Edigen Inc
+                                    312 110      Texas Energy Network LLC
+                                    312 200      Voyager Mobility LLC
+
+
+   Country/Geographical area   MCC+MNC *                    Operator/Network
+
+ United States ADD
+                                310 014    TEST IMSI HNI
+                                310 630    Agri-Valley Broadband, Inc
+                                311 400    TEST IMSI HNI
+                                311 790    Coleman County Telephone Cooperative, Inc.
+                                312 210    ASPENTA, LLC
+                                312 220    Chariton Valley Communications Corporation, Inc.
+                                312 230    SRT Communications Inc.
+                                312 240    Sprint
+                                312 250    Sprint
+                                312 260    Central LTE Holdings
+                                312 270    Cellular Network Partnership dba Pioneer Cellular
+                                312 280    Cellular Network Partnership dba Pioneer Cellular
+                                312 290    Uintah Basin Electronic Telecommunications
+                                312 300    Telecom North America Mobile Inc.
+                                312 310    Clear Stream Communications, LLC
+                                312 320    S and R Communications LLC
+                                312 330    Nemont Communications, Inc.
+                                312 340    MTA Communications dba MTA Wireless
+                                312 350    Triangle Communication System Inc.
+                                312 360    Wes-Tex Telecommunications, LTD
+                                312 370    Commnet Wireless
+                                312 380    Copper Valley Wireless
+                                312 390    FTC Communications LLC
+                                312 400    Mid-Rivers Telephone Cooperative
+                                312 410    Eltopia Communications, LLC
+                                312 420    Nex-Tech Wireless, LLC
+                                312 430    Silver Star Communications
+                                312 440    Consolidated Telcom
+                                312 450    Cable & Communications Corporation
+                                312 460    KPU Telecommunications Division
+                                312 470    Carolina West Wireless, Inc.
+                                312 480    Sagebrush Cellular, Inc.
+                                312 490    TrustComm, Inc
+                                312 510    Wue
+                                312 530    Sprint
+                                312 550    Great Plains Communications, Inc
+
+
+
+ Country/Geographical area   MCC+MNC *   Operator/Network
+                              312 570    Buffalo-Lake Erie Wireless Systems Co., LLC
+                              312 580    Morgan, Lewis & Bockius LLP
+                              312 590    Northern Michigan University
+                              312 600    Sagebrush Cellular, Inc.
+                              312 620    GlobeTouch Inc.
+                              312 630    NetGenuity, Inc.
+                              312 650    365 Wireless LLC
+                              312 670    AT&T Mobility
+                              312 680    AT&T Mobility
+                              312 690    Tecore Government Services, LLC
+                              312 700    Wireless Partners,LLC
+                              312 710    Great North Woods Wireless LLC
+                                         Southern Communications Services, Inc. D/B/A
+                              312 720
+                                         SouthernLINC Wireless
+                              312 730    Triangle Communication System Inc.
+                              312 740    KDDI America, Inc dba Locus Telecommunications
+                              312 750    Artemis
+                                         ARCTIC SLOPE TELEPHONE ASSOCIATION
+                              312 760
+                                         COOPERATIVE
+                              312 770    Verizon Wireless
+                              312 780    RedZone Wireless LLC
+                              312 790    Gila Electronics
+                              312 800    Cirrus Core Networks
+                              312 810    Bristol Bay Telephone Cooperative
+                              312 820    Santel Communications Cooperative, Inc.
+                              312 830    Kings County Office of Education
+                              312 840    South Georgia Regional Information Technology
+                              312 850    Onvoy Spectrum, LLC
+                              312 860    Flat Wireless, LLC
+                              312 870    GigSky Mobile, LLC
+                              312 880    Albemarle County Public Schools
+                              312 890    Circle Gx
+                              312 900    Flat West Wireless, LLC
+                                         East Kentucky Network LLC dba Appalachian
+                              312 910
+                                         Wireless
+                              312 920    Northeast Wireless Networks
+                              312 930    Hewlett-Packard Communication Services, LLC
+                              312 940    Webformix
+
+
+
+
+ Country/Geographical area   MCC+MNC *   Operator/Network
+                              312 950    Custer Telephone Cooperative, Inc
+                              312 960    M&A Technology, Inc.
+                              312 970    IOSAZ Intellectual Property LLC
+                              312 980    Mark Twain Communications Company
+                              312 990    Premier Holdings LLC DBA Premier Broadband
+                              313 000    Tennessee Wireless
+                              313 010    Cross Wireless LLC dba Sprocket Wireless
+                              313 020    CTC Telecom, INC. dba CTC Wireless
+                              313 030    Eagle Telephone System, INC dba Snake River PCS
+                              313 040    Nucla-Naturita Telephone Company
+                                         Manti Tele Communications Company, Inc. dba
+                              313 050
+                                         Breakaway Wireless
+                              313 060    Country Wireless
+                              313 070    Midwest Network Solutions Hub LLC
+                              313 080    Speedwavz LLP
+                              313 090    Vivint Wireless, Inc
+                              313 200    Mercury Network Corporation
+                              313 210    AT&T
+ United States LIR
+                              310 016    AT&T Mobility
+                              310 030    AT&T Mobility
+                              310 035    ETEX Communications, LP (d/b/a) ETEX Wireless
+                              310 050    Alaska Wireless Networks
+                              310 070    AT&T Mobility
+                              310 080    AT&T Mobility
+                              310 090    AT&T Mobility
+                              310 120    Sprint
+                              310 150    AT&T Mobility
+                              310 170    AT&T Mobility
+                              310 190    Alaska Wireless Networks
+                              310 280    AT&T Mobility
+                              310 350    Verizon Wireless
+                              310 380    AT&T Mobility
+                              310 410    AT&T Mobility
+                              310 470    Shentel
+                              310 480    Wave Runner LLC
+                              310 510    Nsight
+                              310 520    Transactions Network Services (TNS)
+
+
+ Country/Geographical area   MCC+MNC *   Operator/Network
+                              310 530    Iowa Wireless Services LLC dba | Wireless
+                              310 550    Syniverse Technologies
+                              310 600    NewCell dba Cellcom
+                              310 620    Nsight
+                              310 640    Numerex Corp
+                              310 650    JASPER TECHNOLOGIES INC.
+                              310 670    AT&T Mobility
+                              310 680    AT&T Mobility
+                              310 720    Syniverse Technologies
+                              310 740    Viaero Wireless
+                              310 820    Verizon Wireless
+                              310 830    Sprint
+                              310 860    West Central Wireless
+                              310 900    Mid-Rivers Telephone Cooperative
+                              310 950    AT&T Mobility
+                              311 000    West Central Wireless
+                              311 070    AT&T Mobility
+                              311 090    AT&T Mobility
+                              311 120    Wave Runner LLC
+                              311 170    Broadpoint, LLC
+                              311 180    AT&T Mobility
+                              311 190    AT&T Mobility
+                              311 260    Sprint
+                              311 420    Northwest Cell
+                              311 470    Vitelcom Cellular D/B/A Innovative Wireless
+                              311 490    Sprint
+                              311 580    U.S. Cellular
+                              311 590    Verizon Wireless
+                              311 630    Cellular South Inc.
+                              311 700    Aspenta International, Inc.
+                              311 750    Flat Wireless, LLC
+                              311 770    Altiostar Networks, Inc.
+                              311 820    Sonus Networks
+                              311 840    Nsight
+                              311 850    Nsight
+                              311 870    Sprint
+                              311 880    Sprint
+
+
+
+     Country/Geographical area            MCC+MNC *         Operator/Network
+                                             311 890        Globecomm Network Services Corporation
+                                             311 940        Sprint
+                                             312 090        AT&T Mobility
+                                             312 190        Sprint
+                                             313 100        First Responder Network Authority
+                                             316 010        Sprint
+
+
+ ____________
+
+ *          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+            MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                List of ITU Carrier Codes
+                (According to Recommendation ITU-T M.1400 (03/2013))
+                            (Position on 15 September 2014)
+                             (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                              (Amendment No. 34)
+
+
+ Country or area/ISO code                                      Company Code           Contact
+     Company Name/Address                                     (carrier code)
+
+
+Germany (Federal Republic of) / DEU               ADD
+
+
+ omnidat Gesellschaft für individuelle Netzwerk -
+                                                               OMNIDT             Mr Thomas Georg
+ und Kommunikationslösungen mbH
+                                                                                  Tel:    +49 7142 9895911
+ Haslacher Weg 8
+                                                                                  Fax:    +49 7142 9895919
+ 74321 BIETIGHEIM-BISSINGEN
+                                                                                  E-mail: Thomas.Georg@omnidat.de
+
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                             (Position on 15 December 2014)
+
+                               (Annex to ITU Operational Bulletin No. 1066 – 15.XII.2014)
+                                                (Amendment No. 19)
+
+ Numerical order        ADD
+               4-217        Nepal (Federal Democratic Republic of)
+
+
+
+ Alphabetical order ADD
+               4-217        Nepal (Federal Democratic Republic of)
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+
+                                 (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 3)
+
+
+ Country/                   Unique name of the signalling point       Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+ Australia SUP
+ 5-120-2       11202        CHIME-SSP-SYD                             Chime Communications
+ 5-120-3       11203        CHIME-SSP-SYD                             Chime Communications
+ 5-120-6       11206        CHIME-STP-SYD2                            Chime Communications
+
+ Bahamas ADD
+ 3-128-3       7171         Grand Bahama STP                          NEWCO 2015
+ 3-128-4       7172         Nassau STP                                NEWCO 2015
+
+ Comoros ADD
+ 6-108-4       13156        Moroni - MSC                              Telma Comores
+
+
+
+
+ Country/               Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC       DEC
+
+ Nepal ADD
+ 4-057-0    8648        NSTPL1                                     Nepal Satellite Telecom Pvt. Ltd.
+ 4-057-1    8649        MSC4                                       Ncell Pvt. Ltd
+ 4-057-2    8650        MSC5                                       Ncell Pvt. Ltd
+ 4-059-5    8669        SMART_INT_SP1                              Smart Telecom Pvt. Ltd.
+ 4-059-6    8670        Sundhara IGE                               Nepal Doorsanchar Company Ltd.
+ 4-059-7    8671        Butwal IGE                                 Nepal Doorsanchar Company Ltd.
+
+ Nepal LIR
+ 4-058-5    8661        STM Sanchar Nepal (Kathmandu)              C. G. Communications Pvt. Ltd.
+
+ United States ADD
+ 3-021-2    6314        Plattsburg, NY                             American International Networks LLC
+
+
+
+
+                                         National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                     Web:www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.X.2016 the following countries have updated their national numbering plan on our site:
+
+
+                                     Country                            Country Code (CC)
+               Gambia                                                           +220
+               Germany                                                          +49
+               Myanmar                                                          +95
+
+
+
+

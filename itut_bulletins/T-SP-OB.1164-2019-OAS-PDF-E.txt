@@ -1,0 +1,1291 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1164             15.I.2019                   (Information received by 31 December 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Telephone Service:
+     Kenya (Communications Authority of Kenya (CA), Nairobi) .....................................................................                                 4
+     Viet Nam (Ministry of Information and Communications (MIC), Hanoi) ..................................................                                         7
+     Zimbabwe (Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ), Harare) .....                                                              7
+Service Restrictions ........................................................................................................................................     19
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   19
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               20
+Mobile Network Codes (MNC) for the international identification plan for public networks
+   and subscriptions.....................................................................................................................................         25
+List of ITU Carrier Codes .................................................................................................................................       26
+List of International Signalling Point Codes (ISPC) .........................................................................................                     27
+National Numbering Plan ...............................................................................................................................           28
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1165              1.II.2019             15.I.2019
+               1166             15.II.2019              1.II.2019
+               1167              1.III.2019            15.II.2019
+               1168             15.III.2019            1.III.2019
+               1169              1.IV.2019             15.III.2019
+               1170             15.IV.2019             1.IV.2019
+               1171              1.V.2019              12.IV.2019
+               1172             15.V.2019              26.IV.2019
+               1173              1.VI.2019             15.V.2019
+               1174             15.VI.2019             31.V.2019
+               1175             1.VII.2019             14.VI.2019
+               1176             15.VII.2019            28.VI.2019
+               1177             1.VIII.2019           15.VII.2019
+               1178            15.VIII.2019           31.VII.2019
+               1179              1.IX.2019            16.VIII.2019
+               1180             15.IX.2019            30.VIII.2019
+               1181              1.X.2019              16.IX.2019
+               1182             15.X.2019               1.X.2019
+               1183              1.XI.2019             15.X.2019
+               1184             15.XI.2019             1.XI.2019
+               1185             1.XII.2019             15.XI.2019
+               1186             15.XII.2019            2.XII.2019
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                           Telephone Service
+                                      (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+Kenya (country code +254)
+Communication of 18.XII.2018:
+The Communications Authority of Kenya (CA), Nairobi, announces the following updated National Numbering
+Plan of Kenya.
+            Description of Updated National E.164 Numbering Plan for Kenya, Country Code 254:
+a)   Overview:
+     Minimum number length (excluding the country code):         seven (7) digits
+     Maximum number length (excluding the country code):         twelve (12) digits
+
+b) Detail of numbering plan:
+
+NDC (national                 N(S)N number length
+destination code) or
+                                                                 Usage of
+leading digits of N(S)N     Minimum       Maximum                                         Additional information
+                                                            ITU-T E.164 number
+(national (significant)      length        length
+number)
+20 (NDC)                  Eight (8)      Nine (9)      Geographical number for fixed     Area Code for Nairobi
+                                                       telephony services
+30                        Twelve (12)    Twelve (12)   M2M numbers                       300 00X XXX XXX Assigned to
+                                                                                         Safaricom PLC
+40 (NDC)                  Eight (8)      Nine (9)      Geographical number for fixed     Area Code for Kwale
+                                                       telephony services
+41 (NDC)                  Nine (9)       Nine (9)      Geographical number for fixed     Area Code for Mombasa
+                                                       telephony services
+42 (NDC)                  Seven (7)      Nine (9)      Geographical number for fixed     Area Code for Malindi,
+                                                       telephony services                Lamu and Garsen
+43 (NDC)                  Nine (9)       Nine (9)      Geographical number for fixed     Area Code for Kwale
+                                                       telephony services
+44 (NDC)                  Seven (7)      Nine (9)      Geographical number for fixed     Area Code for
+                                                       telephony services                Machakos, Makueni and
+                                                                                         Kitui
+45 (NDC)                  Seven (7)      Nine (9)      Geographical number for fixed     Area Code for Athi-
+                                                       telephony services                River, Kajiado and
+                                                                                         Loitokitok
+46 (NDC)                  Nine (9)       Nine (9)      Geographical number for fixed     Area Code for Garissa,
+                                                       telephony services                Wajir and Mandera
+50 (NDC)                  Nine (9)       Nine (9)      Geographical number for fixed     Area Code for Naivasha,
+                                                       telephony services                Gilgil and Narok of
+                                                                                         Nakuru region
+51 (NDC)                  Eight (8)      Nine (9)      Geographical number for fixed     Area Code for Nakuru,
+                                                       telephony services                Njoro, Molo areas of
+                                                                                         Nakuru
+52(NDC)                   Seven (7)      Nine (9)      Geographical number for fixed     Area Code for Kericho
+                                                       telephony services                and Bomet
+53(NDC)                   Seven (7)      Nine (9)      Geographical number for fixed     Area Code for Eldoret,
+                                                       telephony services                Turbo, Kapsabet, Iten
+                                                                                         and Kabarnet
+54 (NDC)                  Seven (7)      Nine (9)      Geographical number for fixed     Area Code for Kitale,
+                                                       telephony services                Moisbridge, Kapenguria
+                                                                                         and Lodwar
+55 (NDC)                  Seven (7)      Nine (9)      Geographical number for fixed     Area Code for Bungoma
+                                                       telephony services                and Busia
+
+
+NDC (national                 N(S)N number length
+destination code) or
+                                                              Usage of
+leading digits of N(S)N      Minimum      Maximum                                    Additional information
+                                                         ITU-T E.164 number
+(national (significant)       length       length
+number)
+56 (NDC)                  Seven (7)     Nine (9)    Geographical number for fixed   Area Code for
+                                                    telephony services              Kakamega, and Vihiga
+                                                                                    regions
+57 (NDC)                  Seven (7)     Nine (9)    Geographical number for fixed   Area Code for Kisumu,
+                                                    telephony services              and Siaya regions
+58 (NDC)                  Nine (9)      Nine (9)    Geographical number for fixed   Area Code for Kisii,
+                                                    telephony services              Kilgoris, Oyugis and
+                                                                                    Nyamira
+59 (NDC)                  Seven (7)     Nine (9)    Geographical number for fixed   Area Code for Homabay
+                                                    telephony services              and Migori
+60 (NDC)                  Seven (7)     Nine (9)    Geographical number for fixed   Area Code for Muranga
+                                                    telephony services              and Kirinyaga
+61 (NDC)                  Seven (7)     Nine (9)    Geographical number for fixed   Area Code for Nyeri
+                                                    telephony services
+62 (NDC)                  Nine (9)      Nine (9)    Geographical number for fixed   Area Code for Nanyuki
+                                                    telephony services
+64 (NDC)                  Seven         Nine (9)    Geographical number for fixed   Area Code for Meru,
+                                                    telephony services              Maua and Chuka
+66 (NDC)                  Eight (8)     Nine (9)    Geographical number for fixed   Area Code for Thika and
+                                                    telephony services              Ruiru
+67 (NDC)                  Seven (7)     Nine (9)    Geographical number for fixed   Area Code for Kiambu
+                                                    telephony services              and Kikuyu towns
+68 (NDC)                  Nine (9)      Nine (9)    Geographical number for fixed   Area Code for Embu
+                                                    telephony services
+69 (NDC)                  Seven (7)     Nine (9)    Geographical number for fixed   Area Code for Marsabit
+                                                    telephony services              and Moyale
+100 to 199 (NDC)          Nine (9)      Nine (9)    Non Geographical number for     Mobile Telephony
+                                                    mobile telephony services       Services
+700 to 709 (NDC)          Nine (9)      Nine (9)    Non Geographical number for     Mobile Telephony
+710 to 719 (NDC)                                    mobile telephony services       Services assigned to
+720 to 729 (NDC)                                                                    Safaricom PLC
+730 to 739 (NDC)          Nine (9)      Nine (9)    Non Geographical number for     Mobile Telephony
+                                                    mobile telephony services       Services assigned to
+                                                                                    Airtel Networks Kenya
+                                                                                    Ltd
+740 to 743(NDC)           Nine (9)      Nine (9)    Non Geographical number for     Mobile Telephony
+                                                    mobile telephony services       Services assigned to
+                                                                                    Safaricom PLC
+744 (NDC)                 Nine (9)      Nine (9)    Non Geographical number for     Mobile Telephony
+                                                    mobile telephony services       Services assigned to
+                                                                                    Homelands Media Ltd
+745 to 746(NDC)           Nine (9)      Nine (9)    Non Geographical number for     Mobile Telephony
+                                                    mobile telephony services       Services assigned to
+                                                                                    Safaricom PLC
+747 (NDC)                 Nine (9)      Nine (9)    Non Geographical number for     Mobile Telephony
+                                                    mobile telephony services       Services assigned to
+                                                                                    Jamii Telecoms Ltd
+748 (NDC)                 Nine (9)      Nine (9)    Non Geographical number for     Mobile Telephony
+                                                    mobile telephony services       Services assigned to
+                                                                                    Safaricom PLC
+749 (NDC)                 Nine (9)      Nine (9)    Non Geographical number for     Mobile Telephony
+                                                    mobile telephony services       Services
+
+
+
+NDC (national                 N(S)N number length
+destination code) or
+                                                                Usage of
+leading digits of N(S)N     Minimum       Maximum                                      Additional information
+                                                           ITU-T E.164 number
+(national (significant)      length        length
+number)
+750 to 756 (NDC)          Nine (9)      Nine (9)      Non Geographical number for     Mobile Telephony
+                                                      mobile telephony services       Services assigned to
+                                                                                      Airtel Networks Kenya
+                                                                                      Ltd
+757 to 759(NDC)           Nine (9)      Nine (9)      Non Geographical number for     Mobile Telephony
+                                                      mobile telephony services       Services assigned to
+                                                                                      Safaricom PLC
+760 (NDC)                 Nine (9)      Nine (9)      Non Geographical number for     Mobile Telephony
+                                                      mobile telephony services       Services assigned to
+                                                                                      Mobile Pay Ltd
+761(NDC)                  Nine (9)      Nine (9)      Non Geographical number for     Mobile Telephony
+                                                      mobile telephony services       Services assigned to
+                                                                                      Eferio Kenya Ltd
+762 (NDC)                 Nine (9)      Nine (9)      Non Geographical number for     Mobile Telephony
+                                                      mobile telephony services       Services assigned to
+                                                                                      Airtel Networks Kenya
+                                                                                      Ltd
+763 to 766 (NDC)          Nine (9)      Nine (9)      Non Geographical number for     Mobile Telephony
+                                                      mobile telephony services       Services assigned to
+                                                                                      Finserve Africa Ltd
+767 (NDC)                 Nine (9)      Nine (9)      Non Geographical number for     Mobile Telephony
+                                                      mobile telephony services       Services assigned to
+                                                                                      Sema Mobile Services
+                                                                                      Ltd
+768 to 769(NDC)           Nine (9)      Nine (9)      Non Geographical number for     Mobile Telephony
+                                                      mobile telephony services       Services assigned to
+                                                                                      Safaricom PLC
+770 to 779 (NDC)          Nine (9)      Nine (9)      Non Geographical number for     Mobile Telephony
+                                                      mobile telephony services       Services assigned to
+                                                                                      Telkom Kenya Ltd
+780 to 789 (NDC)          Nine (9)      Nine (9)      Non Geographical number for     Mobile Telephony
+                                                      mobile telephony services       Services assigned to
+                                                                                      Airtel Networks Kenya
+                                                                                      Ltd
+790 to 799 (NDC)          Nine (9)      Nine (9)      Non Geographical number for     Mobile Telephony
+                                                      mobile telephony services       Services assigned to
+                                                                                      Safaricom PLC
+
+Contact:
+           Mr Peter Nyongesa
+           Communications Authority of Kenya (CA)
+           Waiyaki Way, Nairobi.
+           P.O. Box 14448
+           NAIROBI 00800
+           Kenya
+           Tel:    +254 20 4242000/+254 703 042000
+           E-mail: nyongesa@ca.go.ke; info@ca.go.ke
+           URL:    www.ca.go.ke
+
+
+
+
+Viet Nam (country code +84)
+Communication of 18.XII.2018:
+The Ministry of Information and Communications (MIC), Hanoi, announces the following updates to the
+National Numbering Plan of Viet Nam.
+     Assignment – Mobile communications services
+                 Provider                    Numbering series                      Date of assignment
+        I-Telecom                            +84 87 9ABCDEF                             1.I.2017
+                                            (CC= +84; NDC=87)
+
+Contact:
+           Ministry of Information and Communications (MIC)
+           18 Nguyen Du Street
+           HA NOI 10000
+           Viet Nam
+           Tel: +84 43943 0204
+           Fax: +84 43822 6590
+           E-mail: dic@mic.gov.vn
+           URL: www.mic.gov.vn
+
+
+Zimbabwe (country code +263)
+Communication of 12.XII.2018:
+The Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ), Harare, announces updates to
+the national numbering plan of Zimbabwe.
+POTRAZ has approved the amendment and consolidation of National Geographical Area Codes on the Public
+Switched Telephone Network in Zimbabwe by TelOne (Pvt) Limited.
+POTRAZ has also assigned new subscriber number block of 078 6 XXX XXX and 078 7 XXX XXX to Econet
+Wireless Zimbabwe.
+The updated national numbering plan of Zimbabwe is as follows.
+1. Definitions
+Country Code (CC)
+Country Code (CC) is a digit or a combination of digits (one, two or three) identifying a specific country or
+countries.
+Dialling Plan
+A string or combination of decimal digits, symbols, that defines the method by which the numbering plan is used.
+A dialling plan includes the use of prefixes, suffixes, and additional information, supplementary to the numbering
+plan, required to complete the call.
+Geographic Area Code or Area Code (AC)
+This refers to an area code that has a defined geographic boundary. Geographic area codes are for conventional
+fixed-line (or land line) services terminating at fixed points.
+The Public Switched Telephone Network (PSTN) is divided into several geographic areas. Each of the geographic
+area is allocated an area code.
+International Access Prefix (IAP)
+A digit or combination of digits used to indicate that the number following is an international directory number.
+In Zimbabwe the International Dialling Access Prefix is ‘00’.
+National Access Prefix (NAP) or Trunk Prefix
+A digit or combination of digits used by a calling subscriber to make a call to another subscriber in his own
+country, but outside his own numbering area or network. It provides access to the automatic outgoing trunk
+equipment.
+
+In Zimbabwe, the digit zero (‘0’) is used as the National Access Prefix, indicating a call to another Geographic
+Area (fixed network) or a call from fixed to mobile network, mobile to mobile and any other network to VoIP
+network.
+National Destination Code (NDC)
+The NDC is a combination of digits identifying a different specific geographical area within a country or a different
+network or service group (Mobile or VoIP services).
+Subscriber Number (SN)
+The portion of the international E.164-number that identifies the subscriber in a network or numbering area is
+called the Subscriber Number (SN).
+X – The notation used in this plan to represent any digit from 0 to 9
+2. Structure of the international E.164-number
+The international E.164-number for geographic areas is composed of a variable number of decimal digits
+arranged in specific code fields. The international E.164-number code fields are the Country Code (CC) and the
+National Significant Number (NSN). National Significant Number (NSN) is the combination of the NDC and the
+SN.
+
+              Country Code                   National Destination Code (NDC)               Subscriber Number
+                  (CC)                              or Area Code (AC)                             (SN)
+
+              1-3 Digits(n)                                    National (Significant) Number N(S)N
+                                                                     Maximum (15-n) Digits
+
+                                      International E.164 Number for Geographic Areas
+                                                      Maximum 15 Digits
+
+3. Dialling Plan
+
+Local Dialling (PSTN)
+A subscriber in the same geographic area dials the Subscriber Number (SN) only.
+
+ Dialled digits for local PSTN call                  SN (XXXXXXXX)
+
+National Dialling
+A subscriber dialling a number in a geographical area that is outside own geographic area dials National Access
+Prefix, Area Code plus the subscriber number. A call from fixed to mobile, mobile to mobile or from any network
+to VoIP network within Zimbabwe is considered national.
+
+ Dialled digits for National Call (PSTN)                      NAP + AC + SN
+ Other Networks (MOBILE/VoIP)                                 NAP + NDC + SN
+
+
+International Dialling
+A subscriber dialling an international number dials the International Access Prefix, country Code, Area
+Code/Network Destination Code plus the subscriber number.
+The plus sign (+) can be used to indicate an international access prefix. (e.g. +263 for Zimbabwe).
+
+ Dialled digits (PSTN)                                        IAP + CC + AC + SN
+ Other Networks (MOBILE/VoIP)                                 IAP + CC + NDC + SN
+
+
+
+
+4. Special Codes and Access Prefixes
+
+      DIGITS                               SERVICE                                Comments/Remarks
+       "0"          National Access Prefix (Trunk Prefix)               This indicates a call to another
+                                                                        geographic area, Mobile Service Number
+                                                                        or VoIP Services number.
+       "00"         International Access Prefix                         The digits "00" are used as International
+                                                                        Access Prefix. This indicates an
+                                                                        international call or a call outside
+                                                                        Zimbabwe.
+
+        7X          Non-Geographical National Destination Codes (NDC)   71 – NetOne Cellular
+                    for Mobile Telephony Services                       73 – Telecel Zimbabwe
+                                                                        77 – Econet Wireless Zimbabwe
+                                                                        78 – Econet Wireless Zimbabwe
+       112          Emergency Services                                  NetOne, PowerTel Communications
+                                                                        Econet Wireless Zimbabwe
+                                                                        Telecel Zimbabwe
+       114          MARS Emergency Call Centre                          NetOne
+       116          Childline Help line                                 All Mobile Network Operators & Fixed
+                                                                        Network
+       119          Emergency Services                                  Telecel Zimbabwe
+       263          Country Code                                        Zimbabwe Country Code
+       904          Automatic Ringback                                  Fixed Network
+       908          Test Desk                                           Fixed Network
+       950          Fault Report -Telephone                             Fixed Network
+       952          Fault Report                                        Fixed Network
+       953          Fault Report - Data                                 Fixed Network
+       960          Time                                                Fixed Network
+       961          Childline                                           Fixed Network
+       962          Directory Enquiries                                 Fixed Network
+       965          International Directory Enquiries                   Fixed Network
+
+       966          International Telephone booking                     Fixed Network
+       967          Trunk Demand                                        Fixed Network
+       968          Trunk Enquiries                                     Fixed Network
+       969          Trunk Booking                                       Fixed Network
+       993          Fire                                                Emergency (Fixed Network)
+       994          Ambulance                                           Emergency (Fixed Network)
+       995          Police                                              Emergency (Fixed Network
+       999          General Emergency (Fire/ Ambulance/Police)          Emergency (Fixed Network)
+
+       86XX         Non-Geographical National Destination Codes (NDC)   VoIP Operators
+                    for VoIP Telephony Services
+
+
+      3XXXX         Premium Rate Short Code Services                    Mobile Operators
+
+       080x         Toll Free Numbers                                   All Operators
+
+
+
+
+ 5. International Signaling Point Codes Assignments in Zimbabwe
+
+
+            ISPC                   ISPC               Unique Name of the         Name of the Signalling Point
+          (Binary)               (Decimal)              Signalling Point                  Operator
+6-095-0                  13048                     Harare STP-202             Telecel Zimbabwe
+6-095-1                  13049                     Econet Pockets Hill STP    Econet
+6-095-2                  13050                     Econet Willowvale STP      Econet
+6-095-3                  13051                     HRE-ZTE-MSC1-2             NetOne (Pvt) Ltd
+6-096-0                  13056                     Harare TS (F150)           TelOne (Pvt) Ltd
+6-096-1                  13057                     Gweru ITSC (AXE10)         TelOne (Pvt) Ltd
+6-096-2                  13058                     ZWNET1A                    NetOne (Pvt) Ltd
+6-096-3                  13059                     ZWNET1B                    NetOne (Pvt) Ltd
+6-096-4                  13060                     Harare ISC (C&C08)         TelOne (Pvt) Ltd
+6-096-5                  13061                     Econet Pockets Hill GMSC   Econet Wireless
+6-096-6                  13062                     Gweru ITSC (C&C08)         TelOne (Pvt) Ltd
+6-096-7                  13063                     Liquid Telecom             Data Control Systems (1996) (Pvt)
+                                                                              Ltd
+6-097-0                  13064                     Econet Willowvale GMSC     Econet Wireless
+6-097-1                  13065                     PowerTel STP1              PowerTel Communications (Pvt) Ltd
+6-097-2                  13066                     Harare STP-148             Telecel Zimbabwe
+6-097-3                  13067                     Harare GMSC-148            Telecel Zimbabwe
+6-097-4                  13068                     Africom                    Africom (Pvt) Ltd
+6-097-5                  13069                     Aquiva Wireless            Aquiva Wireless (Pvt) Ltd
+6-097-7                  13071                     Pecus VoIP                 Pecus Enterprises
+
+
+
+
+6. Public Mobile Telecommunication Network Services
+National Subscriber Numbers for Public Mobile Telecommunication Network Services are non-geographic
+numbers and consists of the National Destination Code (NDC) and the Subscriber Number (SN).
+The National Destination Code for Mobile Telecommunications Networks is alternatively is also known and the
+Mobile Network Code (MNC).
+For Mobile to Mobile calls or mobile to PSTN /VoIP national calls, the national prefix “0” needs to be dialled first,
+followed by the complete national destination number. For International Calls, dial the international Access
+Prefix “00” followed by the country code and the National Number for the subscriber.
+
+
+  Mobile Network Operator            Mobile National                  National               National Significant
+          (MNO)                   Destination Code (NDC)       Subscriber Number (SN)       Number (N(S)N) length
+                                                             2 XXX XXX                                9
+                                                             3 XXX XXX                                9
+                                                             4 XXX XXX                                9
+                                                             5 XXX XXX                                9
+ NetOne Cellular                            71
+                                                             6 XXX XXX                                9
+                                                             7 XXX XXX                                9
+                                                             8 XXX XXX                                9
+                                                             9 XXX XXX                                9
+                                                             2 XXX XXX                                9
+                                                             3 XXX XXX                                9
+                                                             4 XXX XXX                                9
+                                                             5 XXX XXX                                9
+ Telecel Zimbabwe                           73
+                                                             6 XXX XXX                                9
+                                                             7 XXX XXX                                9
+                                                             8 XXX XXX                                9
+                                                             9 XXX XXX                                9
+                                                             1 XXX XXX                                9
+                                                             2 XXX XXX                                9
+                                                             3 XXX XXX                                9
+                                                             4 XXX XXX                                9
+                                            77               5 XXX XXX                                9
+                                                             6 XXX XXX                                9
+                                                             7 XXX XXX                                9
+ Econet Wireless Zimbabwe                                    8 XXX XXX                                9
+                                                             9 XXX XXX                                9
+                                                             2 XXX XXX                                9
+                                                             3 XXX XXX                                9
+                                                             4 XXX XXX                                9
+                                            78
+                                                             5 XXX XXX                                9
+                                                             6 XXX XXX                                9
+                                                             7 XXX XXX                                9
+
+
+7. Voice over Internet Telephony (VoIP) Services
+National Subscriber Numbers for VoIP services are non-geographic numbers and consists of the National
+Destination Code (NDC) and the Subscriber Number (SN). For VoIP national calls the national prefix “0” needs to
+be dialled first, followed by the national significant number (NSN).
+For international Calls, dial the international Access Prefix “00” followed by the country code and the National
+Significant Number.
+
+   VoIP Services operator      National Destination Code             National                 National Significant
+                                         (NDC)                Subscriber Number (SN)         Number (NSN) Length
+                                                                 000000 – 155999                      10
+                                                                 200000 – 280999                      10
+ Africom (Pvt) Ltd                       8644
+                                                                 800000 – 809999                      10
+                                                                 910000 – 999999                      10
+ Aquiva Wireless (Pvt) Ltd               8630                    000000 – 000499                      10
+ Dandemutande                            8612                    000000 – 009999                      10
+                                                                 000000 – 665999                      10
+ Liquid Telecoms Zimbabwe                8677                    700000 – 779999                      10
+                                                                 911000 – 912000                      10
+ Pecus Enterprises (Pvt) Ltd             8655                    000000 – 025000                      10
+ PowerTel                                8611                    200000 – 419999                      10
+ Telecontract (Pvt) Ltd                  8683                    000000 – 009999                      10
+ TelOne (Pvt) Ltd                        8688                    000000 – 009999                      10
+ ZARNet                                  8622                    000000 – 009999                      10
+
+
+8. Toll Free Numbers
+The following are toll free number allocations for Zimbabwe
+
+               Operator                            Toll Free Code                      Toll Free Numbers
+                                                                               0000 – 9999
+ TelOne (Pvt) Ltd                                      0800                    2231000 – 2234999
+                                                                               2239000 – 2239999
+ NetOne (Pvt) Ltd                                      0801                    0000 – 9999
+ PowerTel Communications                               0802                    0000 – 0999
+ Econet Wireless Zimbabwe                              0808                    0000 – 8999
+
+
+
+
+9. Public Switched Telephone Networks (PSTN)
+The National Subscriber Number for PSTN services is a geographic number. The Geographic Area Code or Area
+Code (AC) also known as Trunk Code (TC) defines each geographic area.
+•         For calls inside the same geographic numbering area (local calls), dial the Subscriber Number only.
+•         For national calls to other geographical areas, dial national prefix "0" followed by the National Significant
+          Number (AC+SN).
+•         For international calls, dial the international Access Prefix "00" followed by the country code and the
+          National Significant Number for the subscriber.
+** Some Geographical /Exchanges Areas will use dual Area Codes**
+
+9.1. Harare
+    No.     Exchange Name                Exchange      Start Number      End Number       Available Numbers
+                                           Code
+    1       Arcturus                        024          2142000           2142999                1000
+    2       Athlone                         024          2448000           2448999                1000
+    3       Athlone                         024          2492000           2492999                1000
+    4       Avondale Host                   024          2307000           2308999                2000
+    5       Avondale Host                   024          2371000           2379999                9000
+    6       Avondale Host                   024          2302000           2304999                3000
+    7       Avondale Host                   024          2339000           2339999                1000
+    8       Avondale Host                   024          2332000           2337999                6000
+    9       Avondale Host                   024          2326000           2329999                4000
+    10      Beatrice                        024          2150200           2150899                 700
+    11      Belvedere                       024          2740000           2741999                2000
+    12      Bluffhill                       024          2310000           2310999                1000
+    13      Bluffhill                       024          2331000           2331999                1000
+    14      Bluffhill                       024          2305000           2305999                1000
+    15      Borrowdale Host                 024          2850000           2855999                6000
+    16      Borrowdale Host                 024          2858000           2859999                2000
+    17      Borrowdale Host                 024          2870000           2870999                1000
+    18      Borrowdale Host                 024          2880000           2886999                7000
+    19      Braeside                        024          2782000           2782999                1000
+    20      Braeside                        024          2742000           2743999                2000
+    21      Chitungwiza                     024          2121000           2131999               11000
+    22      Dzivarasekwa                    024          2216000           2217999                2000
+    23      Eastlea                         024          2746000           2746999                1000
+    24      Eastlea                         024          2776000           2776999                1000
+    25      Eastlea                         024          2788000           2788999                1000
+    26      Epworth                         024          2577000           2577999                1000
+    27      Glen Norah                      024          2680000           2680999                1000
+    28      Glen Norah                      024          2613000           2613999                1000
+    29      Glen View Host                  024          2645000           2649999                5000
+    30      Glen View Host                  024          2682000           2688999                7000
+    31      Glen View Host                  024          2690000           2697999                8000
+    32      Gunhill                         024          2744000           2745999                2000
+    33      Gunhill                         024          2783000           2783999                1000
+    34      Harare Airport                  024          2575000           2575999                1000
+    35      Harare Airport                  024          2585000           2585999                1000
+    36      Harare Soft Client              024          2000000           2011199               11200
+    37      Hatfield Host                   024          2570000           2574999                5000
+    38      Hatfield Host                   024          2578000           2584999                7000
+    39      Hatfield Host                   024          2586000           2588999                3000
+    40      Hatfield Host                   024          2500000           2509999               10000
+No.    Exchange Name             Exchange   Start Number   End Number   Available Numbers
+                                   Code
+41     Highfield                    024       2689000       2689999           1000
+42     Highfield                    024       2611000       2612999           2000
+43     Highfield                    024       2616000       2616999           1000
+44     Highlands Host               024       2442000       2445999           4000
+45     Highlands Host               024       2437000       2439999           3000
+46     Highlands Host               024       2494000       2494499            500
+47     Highlands Host               024       2495000       2498999           4000
+48     Highlands Host               024       2480000       2484999           5000
+49     Highlands Host               024       2490000       2490999           1000
+50     Hillside                     024       2526000       2527499           1500
+51     Hillside                     024       2747000       2747999           1000
+52     Hillside                     024       2778000       2778999           1000
+53     Julius Nyerere Way Host      024       2748000       2759999          12000
+54     Julius Nyerere Way Host      024       2770000       2775999           6000
+55     Julius Nyerere Way Host      024       2710000       2719999          10000
+56     Julius Nyerere Way Host      024       2779000       2781999           3000
+57     Julius Nyerere Way Host      024       2785000       2789999           5000
+58     Julius Nyerere Way Host      024       2777000       2777999           1000
+59     Kambanje                     024       2494500       2494999            500
+60     Kambanje                     024       2499000       2499999           1000
+61     Kuwadzana Host               024       2230000       2239999          10000
+62     Kuwadzana Host               024       2218000       2219999           2000
+63     Kuwadzana Host               024       2207000       2219999          13000
+64     Mabvuku                      024       2493000       2493999           1000
+65     Mabvuku                      024       2491000       2491999           1000
+66     Mabvuku                      024       2459000       2462499           3500
+67     Mabvuku                      024       2488000       2489999           2000
+68     Marlborough                  024       2300000       2300999           1000
+69     Marlborough                  024       2309000       2309999           1000
+70     Marlborough                  024       2313000       2313999           1000
+71     Meyrick Park                 024       2310500       2312499           2000
+72     Meyrick Park                 024       2315000       2316999           2000
+73     Meyrick Park                 024       2306000       2306999           1000
+74     Msasa                        024       2446000       2447999           2000
+75     Msasa                        024       2485000       2487999           3000
+76     Mufakose                     024       2698000       2699999           2000
+77     Mufakose                     024       2681000       2681999           1000
+78     Northwood                    024       2301000       2301999           1000
+79     Northwood                    024       2369000       2369999           1000
+80     Northwood                    024       2338000       2338999           1000
+81     Norton                       024       2010600       2011099            500
+82     Norton/Knowe                 024       2152000       2155499           3500
+83     Ruwa                         024       2132000       2133699           1700
+84     Ruwa                         024       2134000       2136499           2500
+85     Seke                         024       2722000       2724999           3000
+86     Southerton                   024       2660000       2669999          10000
+87     Southerton                   024       2620000       2621999           2000
+88     Sunningdale                  024       2576000       2576999           1000
+89     Sunningdale                  024       2589000       2589999           1000
+90     Unit 3                       024       2700000       2709999          10000
+91     Unit 3                       024       2250000       2257999           8000
+92     Unit 4 C&C08                 024       2790000       2799999          10000
+93     Unit 4 C&C08                 024       2760000       2769999          10000
+
+ No.    Exchange Name       Exchange   Start Number   End Number   Available Numbers
+                              Code
+ 94     Unit 4 CDMA            024       2900000       2939999          40000
+ 95     Unit 6                 024       2730000       2739999          10000
+ 96     Warren Park            024       2220000       2229999          10000
+ 97     Waterfalls             024       2610000       2610999           1000
+ 98     Waterfalls             024       2617000       2618499           1500
+ 99     Waterfalls             024       2614000       2615999           2000
+ 100    Winchendon             024       2860000       2862999           3000
+
+9.2. Bulawayo
+ No.    Exchange Name       Exchange   Start Number   End Number   Available Numbers
+                              Code
+ 1      Bellevue               029        2460000       2479999          20000
+ 2      Bulawayo               029        2260000       2279999          20000
+ 3      Bulawayo               029        2320000       2321999           2000
+ 4      Bulawayo               029        2330000       2330999           1000
+ 5      Bulawayo               029        2360000       2360999           1000
+ 6      Bulawayo               029        2880000       2889999          10000
+ 7      Cowdray Park           029        2560000       2569999          10000
+ 8      Esigodini              029        2800200       2800899           700
+ 9      Figtree                029        2804000       2804899           900
+ 10     Hillside               029        2240000       2249999          10000
+ 11     Kezi                   029        2807200       2807899           700
+ 12     Killarney              029        2290000       2299999          10000
+ 13     Luveve                 029        2520000       2529999          10000
+ 14     Mabutweni              029        2400000       2419999          20000
+ 15     Matopos                029        2809200       2809899           700
+ 16     Nkulumane              029        2480000       2499999          20000
+ 17     Northend               029        2200000       2219999          20000
+ 18     Nyamandlovu            029        2821200       2821899           700
+ 19     Pumula                 029        2420000       2439999          20000
+ 20     Queensdale             029        2227000       2228999           2000
+ 21     Queensdale             029        2226000       2226999           1000
+ 22     Riverside              029        2280000       2289999          10000
+ 23     Shangani               029        2802200       2802899           700
+ 24     Surburbs               029        2250000       2259999          10000
+ 25     Surburbs               029        2230000       2239999          10000
+ 26     Tsholotsho             029        2861200       2861899           700
+ 27     Turkmine               029        2803200       2803899           700
+
+9.3    Mashonaland
+ No.    Exchange Name       Exchange   Start Number   End Number   Available Numbers
+                              Code
+ 1      Banket                 067        2142000       2143999           2000
+ 2      Bindura                066        2106000       2107999           2000
+ 3      Centenary              066        2102000       2102999           1000
+ 4      Chakari                068        2189200       2189899           700
+ 5      Chegutu                068        2152200       2155499           3300
+ 6      Chinhoyi               067        2121000       2129999           9000
+ 7      Chirundu               061        2140200       2140899           700
+ 8      Christon Bank          066        2195500       2196999           1500
+ 9      Concession             066        2192000       2192999           1000
+ 10     Darwendale             067        2192200       2192899           700
+
+ No.    Exchange Name   Exchange   Start Number   End Number   Available Numbers
+                          Code
+ 11     Glendale           066       2182000       2182899            900
+ 12     Guruve             066       2172000       2172999            1000
+ 13     Kadoma             068       2131000       2132999            2000
+ 14     Kadoma Ngezi       068       2134000       2134999            1000
+ 15     Kadoma Rimuka      068       2122000       2128999            7000
+ 16     Kariba             061       2145000       2146799            1800
+ 17     Karoi              061       2142000       2143699            1700
+ 18     Macheke            065       2080200       2080899            700
+ 19     Makuti             061       2141200       2141899            700
+ 20     Marondera          065       2320000       2328999            9000
+ 21     Marondera          065       2728000       2729999            2000
+ 22     Mazowe             066       2195000       2195499            500
+ 23     Mhangura           067       2145000       2145999            1000
+ 24     Mount Darwin       066       2122200       2124199            2000
+ 25     Murewa             065       2122000       2124999            3000
+ 26     Murombedzi         067       2152000       2152999            1000
+ 27     Mutoko             065       2132000       2132999            1000
+ 28     Mutorashanga       067       2196200       2196899            700
+ 29     Mvurwi             066       2162000       2162999            1000
+ 30     Raffingora         067       2198200       2198899            700
+ 31     Sanyati            068       2162000       2162999            1000
+ 32     Selous             068       2144000       2144999            1000
+ 33     Selous             068       2008500       2010599            2100
+ 34     Shamva             066       2137200       2137899            700
+ 35     Trelawney          067       2136200       2136899            700
+ 36     Wedza              065       2082000       2082999            1000
+
+9.4    Midlands
+ No.    Exchange Name   Exchange   Start Number   End Number   Available Numbers
+                          Code
+ 1      Battle Fields      055       2570000       2570999            1000
+ 2      Chivhu             054       2122000       2123999            2000
+ 3      Gokwe              055       2592000       2593999            2000
+ 4      Gweru Host         054       2220000       2233999           14000
+ 5      Kwekwe Main        055       2520000       2526999            7000
+ 6      Lalapanzi          054       2548200       2548899            700
+ 7      Mbizo 1 & 2        055       2540000       2547999            8000
+ 8      Mkoba 1            054       2250000       2253999            4000
+ 9      Mkoba 2            054       2255000       2258999            4000
+ 10     Munyati            055       2557200       2557899            700
+ 11     Mvuma              054       2532200       2532899            700
+ 12     Nkayi              055       2558200       2558899            700
+ 13     Redcliff           055       2562000       2563999            2000
+ 14     Redcliff           055       2568000       2569999            2000
+ 15     Senga              054       2260000       2262999            3000
+ 16     Shurugwi           054       2526000       2528999            3000
+
+
+
+
+9.5    Manicaland
+ No.    Exchange Name        Exchange   Start Number   End Number   Available Numbers
+                               Code
+ 1      Birchenough Bridge      027       2032000       2032999           1000
+ 2      Checheche               027       2317200       2317899            700
+ 3      Chikanga MSAN           020       2010000       2011599           1600
+ 4      Chimanimani             027       2052000       2053999           2000
+ 5      Chipangayi              027       2046200       2046899            700
+ 6      Chipinge                027       2045600       2045799            200
+ 7      Chipinge                027       2044400       2044599            200
+ 8      Chipinge                027       2042000       2043499           1500
+ 9      Dangamvura              020       2130000       2131999           2000
+ 10     Dangamvura MSAN         020       2030000       2032099           2100
+ 11     Hauna                   026       2092000       2092999           1000
+ 12     Headlands               025       2072000       2072999           1000
+ 13     Juliasdale              026       2082200       2084199           2000
+ 14     Murambinda              025       2062000       2062999           1000
+ 15     Murambinda              025       2058000       2058499            500
+ 16     Mutare Fetex            020       2060000       2069999          10000
+ 17     Mutare MSAN             020       2020000       2025999           6000
+ 18     Nyanga                  026       2098000       2098799            800
+ 19     Nyazura                 025       2055200       2055899            700
+ 20     Odzi                    020       2002000       2002999           1000
+ 21     Penhalonga              020       2422200       2422999            800
+ 22     Rusape MSAN             025       2050000       2054499           4500
+
+
+9.6    Masvingo
+ No.    Exchange Name        Exchange   Start Number   End Number   Available Numbers
+                               Code
+ 1      Chatsworth              039       2308200       2308899            700
+ 2      Chiredzi                031       2315000       2317499           2500
+ 3      Chiredzi                031       2312000       2314199           2200
+ 4      Gutu                    039       2302000       2303999           2000
+ 5      Jerera                  039       2342000       2342999           1000
+ 6      Mashava                 039       2452000       2452999           1000
+ 7      Masvingo                039       2277000       2277999           1000
+ 8      Masvingo                039       2260700       2269699           9000
+ 9      Mataga                  039       2366200       2366899            700
+ 10     Mberengwa               039       2360200       2360899            700
+ 11     Mucheke RSM             039       2252000       2255999           4000
+ 12     Ngundu                  031       2370200       2370899            700
+ 13     Nyaningwe               039       2380200       2381999           1800
+ 14     Nyika                   039       2323200       2323899            700
+ 15     Rutenga                 031       2337200       2337899            700
+ 16     Triangle                031       2335000       2336999           2000
+ 17     Zvishavane              039       2355500       2357999           2500
+ 18     Zvishavane              039       2352000       2354999           3000
+
+
+
+
+9.7    Matabeleland
+ No.       Exchange Name              Exchange   Start Number   End Number   Available Numbers
+                                        Code
+ 1         Baobab                        081       2830000       2834999             5000
+ 2         BeitBridge                    085       2322000       2323999             2000
+ 3         Binga                         081       2847200       2847899              700
+ 4         Collen Bawn (CBN)             084       2835000       2835199              200
+ 5         Dete                          081       2835200       2835899              700
+ 6         Filabusi                      084       2801000       2801999             1000
+ 7         Gwanda                        084       2829000       2829999             1000
+ 8         Gwanda                        084       2820000       2825999             6000
+ 9         Hwange                        081       2820000       2824999             5000
+ 10        Jotsholo                      081       2875000       2875999             1000
+ 11        Lupane                        081       2856000       2857999             2000
+ 12        Plumtree                      089       2805000       2807999             3000
+ 13        Victoria Falls (Airport)      083       2840000       2849999            10000
+ 14        West Nicholson                084       2808200       2808899              700
+
+Contact:
+       Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)
+       Block A, Emerald Business Park
+       30 The Chase, Mt. Pleasant
+       P. O. Box MP 843
+       HARARE
+       Zimbabwe
+       Tel:            +263 24 2333032
+       Fax:            +263 24 2333041
+       E-mail:         the.regulator@potraz.gov.zw
+       URL:            www.potraz.gov.zw
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+
+                                 ADD    Insert                     PAR       paragraph
+                                 COL    Column                     REP       replace
+                                 LIR    Read                       SUP       Delete
+                                 P      page(s)
+
+
+
+
+                        List of Issuer Identifier Numbers for
+                the International Telecommunication Charge Card
+          (in accordance with Recommendation ITU-T E.118 (05/2006))
+                           (Position on 1 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                              (Amendment No. 3)
+Austria          ADD
+    Country/       Company Name/Address                 Issuer         Contact                              Effective date
+  geographical                                        Identifier                                               of usage
+      area                                             Number
+ Austria           A1 Telekom Austria AG              89 43 12         Mag. Michael Seitlinger, LL.M.         1.IV.2005
+                   Lassallestraße 9                                    Lassallestraße 9
+                   A-1020 WIEN                                         A-1020 WIEN
+                                                                       Tel:    +43 50 664 24560
+                                                                       E-mail: regulierung@a1.at
+
+
+    Country/        Company Name/Address                      Issuer          Contact
+  geographical                                              Identifier
+       area                                                  Number
+ Austria            Hutchison Drei Austria GmbH             89 43 10          Dr Natalie Ségur-Cabanac
+                    Brünner Straße 52                                         Brünner Straße 52
+                    A-1210 WIEN                                               A-1210 WIEN
+                                                                              Tel: +43 5066063202
+                                                                              E-mail: natalie.segur-cabanac@drei.com
+
+
+Hong Kong, China         ADD
+
+    Country/           Company Name/Address                 Issuer         Contact                                Effective date
+  Geographical                                            Identifier                                                 of usage
+      area                                                 Number
+Hong Kong, China       CITIC TELECOM                     89 852 01         Sutton Cheung                              1.XII.2018
+                       INTERNATIONAL LIMITED                               25/F, CITIC Telecom Tower,
+                       25/F, CITIC Telecom Tower,                          93 Kwai Fuk Road
+                       93 Kwai Fuk Road                                    Kwai Chung, Hong Kong
+                       Kwai Chung, Hong Kong                               Tel: +852 237788334
+                                                                           E-mail: suttoncheung@citictel.com
+
+
+
+
+Japan           ADD
+   Country/      Company Name/Address          Issuer     Contact                                     Effective date
+ geographical                                Identifier                                                  of usage
+     area                                     Number
+ Japan           Rakuten Mobile Network,     89 81 09     Shigehiro Miyashita                          30.IV.2019
+                 Inc.                                     1-14-1, Tamagawa, Setagaya-ku
+                 1-14-1, Tamagawa,                        TOKYO
+                 Setagaya-ku, TOKYO                       Tel:    +81 50 5817 1360
+                                                          Fax: +81 3 6316 3420
+                                                          E-mail: rmn-sousetsu@mail.rakuten.com
+ Japan           Fujitsu Limited             89 81 11     Yoshinori Yuki                                1.V.2019
+                 4-1-1 Kamikodanaka,                      Fujitsu Limited
+                 Nakahara-ku,                             ShinKawasaki Technology Square,
+                 KAWASAKI 211-8588                        1-1 Shin-ogura, Saiwai-ku
+                                                          KAWASAKI 212-8510
+                                                          Tel:    +81 44 280 9862
+                                                          E-mail: fj-wls-mx@dl.jp.fujitsu.com
+
+
+Malaysia        ADD
+   Country/       Company                      Issuer         Contact                                    date of
+ geographical     Name/Address               Identifier                                                registration
+     area                                     Number
+ Malaysia         webe digital sdn bhd       89 60 153        Muhamad Hafiz Bin Senin                   5.X.2018
+                  159 Jalan Templer                           Regulatory Department, Level 8,
+                  46050 PETALING JAYA,                        159 Jalan Templer
+                  SELANGOR                                    46050 PETALING JAYA, SELANGOR
+                                                              Tel:    +60 11 1000 2000
+                                                              E-mail: muhamad.hafiz@webe.com.my
+
+
+
+Romania         SUP
+
+    Country/          Company Name/Address         Issuer        Contact                                    Effective date
+  Geographical                                   Identifier                                                 of cancellation
+      area                                        Number
+ Romania              2K TELECOM S.R.L.          89 40 15        Alexandru Ghita                               12.XI.2018
+                      10 Mihai Bravu Blvd                        Sos. Pipera-Tunari nr. 1/VI, Twin Towers
+                      PLOIESTI                                   Corp 1, Et. 8, Voluntari
+                                                                 Jud. Ilfov, 077190
+                                                                 Tel: +40 21 344 84 00
+                                                                 Fax: +40 21 344 84 02
+                                                                 E-mail: alex.ghita@2ktelecom.ro
+
+
+
+
+Spain            LIR
+
+    Country/           Company Name/Address            Issuer     Contact
+  Geographical                                       Identifier
+      area                                            Number
+ Spain                 ORANGE ESPAGNE, S.A.U.        89 34 01     Isabel Santaella García Royo
+                       Paseo Club Deportivo -                     Paseo Club Deportivo - P. E. La Finca 1 Edif. 5
+                       P. E. La Finca 1 Edif. 5                   28223 Pozuelo de Alarcón
+                       28223 Pozuelo de Alarcón                   MADRID
+                       MADRID                                     Tel:       +34 911839702
+                                                                  Fax:       +34 912521632
+                                                                  E-mail: isabel.santaella@orange.com;
+                                                                  carmen.luque@orange.com
+ Spain                 Euskaltel, SA                 89 34 02     Euskaltel, SA
+                       Parque Tecnológico 809                     Parque Tecnológico 809
+                       48160 DERIO-BIZKAIA                        48160 DERIO-BIZKAIA
+                                                                  Tel:       +34 94 401 1206
+                                                                  Fax:       +34 94 401 1028
+                                                                  E-mail: juridico@euskaltel.com
+ Spain                 Telefónica Móviles España,    89 34 03     Alberto Moreno Rebollo
+                       SAU                                        Distrito C, Edificio Sur 3, Planta 2
+                       Distrito C, Edificio Sur 3,                28050 MADRID
+                       Planta 2                                   Tel:       +34 914820767
+                       28050 MADRID                               Fax:       +34 914820766
+                                                                  E-mail: alberto.morenorebollo@telefonica.com
+ Spain                 Xfera Móviles, S.A.           89 34 04     Daniel Ruiz
+                       Avenida de la Vega 15                      Avenida de la Vega 15
+                       28108 MADRID                               28108 MADRID
+                                                                  Tel:       +34 91 131 5505
+                                                                  Fax:       +34 91 131 5684
+                                                                  E-mail: daniel.ruiz@masmovil.com
+ Spain                 Telecor SA                    89 34 05     D. José Eduardo Urquiza
+                       c/ Hermosilla 112                          c/ Hermosilla 112
+                       28009 MADRID                               28009 MADRID
+                                                                  Tel:       +34 91 597 2876
+                                                                  Fax:       +34 91 597 2876
+                                                                  E-mail: notificaciones@elcorteingles.es
+ Spain                 R Cable y                     89 34 06     Sr D. Alfredo Ramos González
+                       Telecomunicaciones Galicia,                Calle Real No. 85
+                       SA                                         A CORUÑA 15003
+                       CI Real 85                                 Tel:       +34 9 8191 1020
+                       15003 CORUNA A                             Fax:       +34 9 8191 1009
+                                                                  E-mail: rexistroentradar@mundo-r.net
+ Spain                 Telefónica Móviles España,    89 34 07     Alberto Moreno Rebollo
+                       SAU                                        Distrito C, Edificio Sur 3, Planta 2
+                       Distrito C, Edificio Sur 3,                28050 MADRID
+                       Planta 2                                   Tel:       +34 680 072 009
+                       28050 MADRID                               Fax:       +34 680 077 857
+                                                                  E-mail: alberto.morenorebollo@telefonica.com
+ Spain                 Ruzorange sl                  89 34 09     Sr. José Luis Garay Vicente
+                       Avda Juan Carlos I - JC1 55                Avda Juan Carlos I - JC1 55 planta 16
+                       planta 16                                  30100 MURCIA
+                       30100 MURCIA                               Tel:       +34 652 005 881
+                                                                  Fax:       +34 968 644 211
+                                                                  E-mail:
+
+
+
+
+  Country/       Company Name/Address            Issuer     Contact
+Geographical                                   Identifier
+    area                                        Number
+Spain            PROCONO S.A.                  89 34 12     Antonio Carrillo Baeza
+                 Calle Alderete 22                          Avenida de Cádiz, 58
+                 29013, MALAGA                              14013 CÓRDOBA
+                                                            Tel:       +34 662666970
+                                                            Fax:       +34 957760337
+                                                            E-mail: josecarrillo@ptvtelecom.com
+Spain            Vodafone ONO, SAU             89 34 18     Luisa Belda Cuesta
+                 Avenida de América 115                     Avenida de América 115
+                 28042 MADRID                               28042 MADRID
+                                                            Tel:       +34 91 180 9473
+                                                            Fax:       +34 91 180 9321
+                                                            E-mail:
+                                                            regulacionycompetencia@corp.vodafone.es
+Spain            ORANGE ESPAGNE, S.A.U.        89 34 21     Isabel Santaella García Royo
+                 Paseo Club Deportivo -                     Paseo Club Deportivo - P. E. La Finca 1 Edif. 5
+                 P. E. La Finca 1 Edif. 5                   28223 Pozuelo de Alarcón
+                 28223 Pozuelo de Alarcón                   MADRID
+                 MADRID                                     Tel:       +34 911839702
+                                                            Fax:       +34 912521632
+                                                            E-mail: isabel.santaella@orange.com;
+                                                            carmen.luque@orange.com
+Spain            R Cable y                     89 34 25     Sr D. Alfredo Ramos González
+                 Telecomunicaciones Galicia,                Calle Real No. 85
+                 SA                                         A CORUÑA 15003
+                 CI Real 85                                 Tel:       +34 9 8191 1020
+                 15003 CORUNA A                             Fax:       +34 9 8191 1009
+                                                            E-mail: rexistroentradar@mundo-r.net
+Spain            IBERFIBRA GESTIÓN DE          89 34 29     Enrique Chao Lumbreras
+                 REDES DE BANDA ANCHA,                      Glorieta de Cuatro Caminos 6/7. Planta 5 Centro
+                 S.A                                        28020 MADRID
+                 Glorieta de Cuatro Caminos                 Tel:       +34 911 440 160
+                 6/7. Planta 5 Centro                       Fax:       +34 911 440 203
+                 28020 MADRID                               E-mail: echao@iberfibra.com
+Spain            Telefónica de España S.A.     89 34 34     Alberto Moreno Rebollo
+                 Gran Vía 28                                Distrito C, Edificio Sur 3, Planta 2
+                 28013 MADRID                               28050 MADRID
+                                                            Tel:       +34 91 584 1808
+                                                            Fax:       +34 91 319 6087
+                                                            E-mail: alberto.morenorebollo@telefonica.com
+Spain            Vodafone España S.A.          89 34 56     Luisa Belda Cuesta
+                 Avenida de América 115                     Avenida de América 115
+                 28042 MADRID                               28042 MADRID
+                                                            Tel:       +34 91 587 6385
+                                                            Fax:       +34 91 587 6381
+                                                            E-mail:
+                                                            regulacionycompetencia@corp.vodafone.es
+Spain            Vodafone Enabler España,      89 34 57     Luisa Belda Cuesta
+                 S.L.                                       Avenida de América 115
+                 Avenida de América 115                     28042 MADRID
+                 28042 MADRID                               Tel:       +34 918 253 333
+                                                            E-mail:
+                                                            regulacionycompetencia@corp.vodafone.es
+
+
+
+Turkey           LIR
+
+  Country/       Company Name/Address                 Issuer Identifier   Contact
+Geographical                                              Number
+    area
+Turkey           Turkcell İletişim Hizmetleri AŞ         89 90 01         Semi Enis Morkoyun
+                 Aydınevler Mahallesi İnönü Caddesi                       Aydınevler Mahallesi İnönü Caddesi No:20
+                 No:20                                                    Maltepe ISTANBUL
+                 Maltepe ISTANBUL                                         Tel:      +90 532 210 48 45
+                                                                          E-mail: semi.morkoyun@turkcell.com.tr
+Turkey           Vodafone Telekomünikasyon AŞ            89 90 02         Atila Voyvat
+                 Büyükdere Caddesi No:251                                 Büyükdere Caddesi No:251
+                 34398 Maslak Şişli ISTANBUL                              34398 Maslak Şişli ISTANBUL
+                                                                          Tel:      +90 542 705 00 00
+                                                                          E-mail: atila.voyvat@vodafone.com
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                    for public networks and subscriptions
+            (According to Recommendation ITU-T E.212 (09/2016))
+                        (Position on 15 December 2018)
+                       (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                         (Amendment No. 1)
+
+  Country/Geographical area           MCC+MNC *           Operator/Network
+  Belgium SUP
+                                            206 40        Join Experience (Belgium)
+  Japan ADD
+                                            440 08        Panasonic Systems Solutions Japan Co., Ltd
+                                            440 09        Marubeni Wireless Communications Inc.
+                                            440 11        Rakuten Mobile Network, Inc.
+                                            440 12        CABLE MEDIA WAIWAI CORPORATION
+  Kenya SUP
+                                            639 11        WiAfrica Kenya Limited
+  Kenya LIR
+                                            639 01        Safaricom PLC
+                                            639 02        Safaricom PLC
+  Sweden LIR
+                                                          Telefonaktiebolaget LM Ericsson (MNC
+                                            240 60        assigned for test purpose. Temporary license
+                                                          until 2019-12-31)
+  Viet Nam SUP
+                                            452 03        S Telecom (CDMA)
+                                            452 06        EVN Telecom
+                                            452 08        EVN Telecom
+  Viet Nam ADD
+                                            452 05        Vietnamobile
+                                            452 08        I-Telecom
+  Viet Nam LIR
+                                            452 07        Gmobile
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                           List of ITU Carrier Codes
+            (According to Recommendation ITU-T M.1400 (03/2013))
+                       (Position on 15 September 2014)
+                      (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                       (Amendment No. 72)
+
+ Country or area/ISO code                        Company Code      Contact
+  Company Name/Address                            (carrier code)
+
+Germany (Federal Republic of) / DEU      ADD
+
+ DCC Duisburg CityCom GmbH                           DUCC          Mr Wolfgang Wagner
+ Gesellschaft für Telekommunikation                                Tel.: +49 203 604 2924
+ Bungerstraβe 27                                                   Fax: +49 203 604 4902924
+ 47053 DUISBURG                                                    E-mail : wolfgang.wagner@dcc-duisburg.de
+
+ QSC AG                                             QSCAG          Carrier Management
+ Matthias-Brueggen-Strasse 55                                      Tel.: +49 221 6698 000
+ 50829 COLOGNE                                                     Fax: +49 221 6698 009
+                                                                   E-mail : info@qsc.de
+
+ SUPERTEL A/S                                        SUPT          Mr Hugo Nielsen
+ Hoerskatten 3                                                     Tel.: +45 7730 3000
+ 2630 TAASTRUP                                                     Fax: +49 40 6558 9529
+ Denmark                                                           E-mail : order@supertel.dk
+
+ wirsNET Kabeldienstleistungen UG                    WIRS          Mr Michael Wirsig
+ (haftungsbeschraenkt)                                             Tel.: +49 351 3409404
+ Obere Bergstrasse 50                                              Fax: +49 351 46563641
+ 01445 RADEBEUL                                                    E-mail : info@wirsnet.de
+
+
+Germany (Federal Republic of) / DEU      LIR
+
+ Markus Seemann                                     MYNET          Mr Markus Seemann
+ my-netphone                                                       Tel.: +49 8034 7096030
+ Wiesenweg 2                                                       Fax: +49 8034 7096031
+ 83098 BRANNENBURG                                                 Email: manfred.dohmen@enghouse.com
+
+
+
+
+                   List of International Signalling Point Codes (ISPC)
+                 (According to Recommendation ITU-T Q.708 (03/1999))
+                               (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 49)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point        Name of the signalling point operator
+
+
+ Belgium SUP
+ 2-012-6       4198         Join Belgium 1                             Join Experience Belgique
+
+ Bosnia and Herzegovina SUP
+ 2-218-0       5840         IATC SA1/Sarajevo                          BH Telecom d.d. Sarajevo
+ 2-218-4       5844         Banjaluka MN1                              Telekomunikacije RS, a.d. Banja Luka
+ 2-218-5       5845         Banjaluka MN2                              Telekomunikacije RS, a.d. Banja Luka
+ 2-219-1       5849         AirABA/SA1 Sarajevo                        AirABA d.o.o. Sarajevo
+ 2-219-3       5851         CGBN1 Bijeljina                            Crumb Group d.o.o. Bijeljina
+
+ Bosnia and Herzegovina ADD
+ 3-239-4       8060         EK St1                                     ELTA-KABEL d.o.o. Doboj
+ 3-239-5       8061         ITM-Sa                                     Telemach d.o.o. Sarajevo
+ 3-239-6       8062         ABC Sarajevo                               SOFTNET d.o.o. Sarajevo
+
+ Bosnia and Herzegovina LIR
+ 2-218-3       5843         Siroki Brijeg                              JP Hrvatske telekomunikacije d.d. Mostar
+ 2-219-0       5848         T3/SA1 Sarajevo                            Teledigital d.d. Sarajevo
+ 2-219-6       5854         Aneks/BL1 Banjaluka                        Blicnet d.o.o. Banja Luka
+
+ Kenya SUP
+ 6-079-2       12922        Nairobi                                    WiAfrica Kenya Limited
+
+ Kenya LIR
+ 6-078-2       12914        Westlands                                  Safaricom PLC
+ 6-078-4       12916        Kasarani                                   Safaricom PLC
+
+ Sweden SUP
+ 2-081-7       4751         STO 001 GSX1 (Stockholm)                   Interoute Communications Limited
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                 National Numbering Plan
+                  (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.XII.2018, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                         Country/ Geographical area                     Country Code (CC)
+                 China                                                         +86
+                 Seychelles                                                   +248
+                 Trinidad and Tobago                                         +1 868
+
+
+
+

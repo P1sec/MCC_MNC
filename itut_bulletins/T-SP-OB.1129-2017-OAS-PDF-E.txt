@@ -1,0 +1,1015 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1129             1.VIII.2017                 (Information received by 17 July 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Data Transmission Service (Recommendation ITU-T X.121 (10/2000)): Japan (Telecommunications Bureau,
+   Ministry of Internal Affairs and Communications, Tokyo) ........................................................................                                4
+Telephone Service
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                             6
+     Gibraltar (Gibraltar Regulatory Authority) ...............................................................................................                    6
+     Greenland (Tele-Post, Nuuk) .....................................................................................................................             7
+Other communication: Austria ......................................................................................................................                9
+Service Restrictions ........................................................................................................................................     10
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   10
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Coast Stations and Special Service Stations (List IV) ...........................................................................                         11
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .........................................                                         12
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               13
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         14
+List of ITU Carrier Codes .................................................................................................................................       15
+List of International Signalling Point Codes (ISPC) .........................................................................................                     22
+List of Data Network Identification Codes (DNIC) ..........................................................................................                       23
+National Numbering Plan ...............................................................................................................................           23
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                               Approval of ITU-T Recommendations
+A.     By AAP-16, it was announced that the following ITU-T Recommendations were approved, in accordance
+with the procedures outlined in Recommendation ITU-T A.8:
+–        Recommendation ITU-T Y.3515 (07/2017): Cloud computing - Functional architecture of Network as a
+         Service
+–        Recommendation ITU-T Y.4114 (07/2017): Specific requirements and capabilities of the IoT for Big Data
+
+B.    By TSB Circular 40 of 12 July 2017, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+–        Recommendation ITU-T G.9700 (2014) Amd. 2 (06/2017)
+—        Recommendation ITU-T G.9901 (06/2017): Narrowband orthogonal frequency division multiplexing
+         power line communication transceivers – Power spectral density specification
+
+                                  Data Transmission Service
+                            (Recommendation ITU-T X.121 (10/2000))
+                               International numbering plan for public data networks
+
+Japan
+Communication of 12.VII.2017:
+The Telecommunications Bureau, Ministry of Internal Affairs and Communications, Tokyo, announces the
+following updates to the Data Network Identification Codes (DNICs).
+•        The DNICs 440 0, 440 3, 440 4, 440 6, 441 2, 441 3, 441 5, 441 6, 442 0, 442 2, 442 3, 442 6 and 442 7 have
+         been withdrawn:
+
+    Country/Geographical   DNIC No.                    Name of network to which a DNIC is withdrawn
+            area
+
+    JAPON                   440 0     GLOBALNET (Network of the Global VAN Japan Incorporation)
+    JAPAN                   440 3     JENSNET (JENS Corporation)
+    JAPÓN                   440 4     JAIS-NET (Japan Research Institute Ltd.)
+                            440 6     TYMNET-JAPAN (JAPAN TELECOM COMMUNICATIONS SERVICES CO., LTD.)
+                            441 2     Sprintnet (Global One Communications, INC.)
+                            441 3     KYODO NET (UNITED NET Corp)
+                            441 5     FENICS (FUJITSU LIMITED)
+                            441 6     HINET (HITACHI Information Network, Ltd.)
+                            442 0     Pana-Net (MATSUSHITA ELECTRIC INDUSTRIAL CO. LTD.)
+                            442 2     CTC-P (CHUBU TELECOMMUNICATIONS CO., INC.)
+                            442 3     JENSNET (JENS Corporation)
+                            442 6     ECHO-NET (HITAHC INFORMATION SYSTEMS LTD.)
+                            442 7     U-net (NIHON UNYSYS INFORMATION SYSTEMS LTD.)
+
+
+
+
+•        The DNIC 440 1 has been assigned:
+
+    Country/Geographical   DNIC No.                         Name of network to which a DNIC is allocated
+            area
+
+    JAPON                      440 1   DDX-P (NTT Communications Corporation)
+    JAPAN
+    JAPÓN
+
+
+•        The network names for DNICs 440 5 and 441 7 have been changed:
+
+    Country/Geographical   DNIC No.                         Name of network to which a DNIC is allocated
+            area
+
+    JAPON                      440 5   NCC-VAN (Nomura Research Institute, Ltd.)
+    JAPAN
+                               441 7   TIS-Net (TIS Inc.)
+    JAPÓN
+
+
+
+•        Accordingly, the following Data Network Identification Codes (DNIC) and network names are in use in
+         Japan:
+
+    Country/Geographical   DNIC No.                         Name of network to which a DNIC is allocated
+            area
+
+    JAPON                      440 1   DDX-P (NTT Communications Corporation)
+    JAPAN                      440 2   NEC-NET (NEC Corporation)
+    JAPÓN                      440 5   NCC-VAN (Nomura Research Institute, Ltd.)
+                               441 7   TIS-Net (TIS Inc.)
+                               441 8   TG-VAN (TOSHIBA Corporation)
+                               442 4   SITA NETWORK
+                               442 5   GLOBAL MANAGED DATA SERVICE (Cable & Wireless IDC-Si)
+
+
+For further information, please contact:
+         Numbering Plan Office, Telecommunication Systems Division,
+         Telecommunications Bureau
+         Ministry of Internal Affairs and Communications
+         2-1-2 Kasumigaseki, Chiyoda-ku
+         TOKYO 100-8926
+         Japan
+         Fax:     +81 3 5253 5863
+         E-mail: bango@soumu.go.jp
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+
+Denmark (country code +45)
+Communication of 12.VII.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+
+•           assignment – Mobile communication services
+
+                Provider                              Numbering series                   Date of assignment
+
+SimService A/S                        9376efg, 9377efgh, 9378efgh, 9379efgh, 9381efgh         12.VII.2017
+                                      and 9382efgh
+Contact:
+       Danish Energy Agency
+       Amaliegade 44
+       1256 COPENHAGEN K
+       Denmark
+       Tel:    +45 33 92 67 00
+       Fax:    +45 33 11 47 43
+       E-mail: ens@ens.dk
+       URL:    www.ens.dk
+
+Gibraltar (country code +350)
+Communication of 6.VII.2017:
+The Gibraltar Regulatory Authority, announces the following national numbering plan for Gibraltar.
+
+                   Presentation of national ITU-T E.164 numbering plan for country code 350
+a) Overview:
+The minimum number length (excluding the country code) is 8 digits.
+The maximum number length (excluding the country code) is 8 digits.
+
+b) Link to the Gibraltar Numbering Plan:
+http://www.gra.gi/communications/numbering-plan
+
+c) Detail of numbering plan :
+
+    NDC (national          N(S)N number length
+ destination code) or
+   leading digits of                                         Usage of
+   N(S)N (national         Maximum      Minimum                                    Additional information
+                                                       ITU-T E.164 number
+(significant) number)       length       length
+           N(s)N
+200                             8           8       Geographic number for      Assigned to Gibtelecom
+                                                    Fixed telephony services
+219                             8           8       Geographic number for      Assigned/Reserved to Limba
+                                                    Fixed telephony services
+222                             8           8       Geographic number for      Assigned/Reserved to U-Mee
+                                                    Fixed telephony services
+
+
+
+    NDC (national           N(S)N number length
+ destination code) or
+   leading digits of                                            Usage of
+   N(S)N (national       Maximum       Minimum                                     Additional information
+                                                          ITU-T E.164 number
+(significant) number)     length        length
+           N(s)N
+225                            8            8        Geographic number for      Assigned/Reserved to
+                                                     Fixed telephony services   Gibfibrespeed
+54                             8            8        Mobile services            Assigned to Gibtelecom
+56                             8            8        Mobile services            Assigned to Gibtelecom
+57                             8            8        Mobile services            Assigned to Gibtelecom
+58                             8            8        Mobile services            Assigned to Gibtelecom
+60                             8            8        Mobile services            Reserved to Gibtelecom
+62                             8            8        Mobile services            Assigned to Limba
+
+Contact:
+       Gibraltar Regulatory Authority
+       Mr Gavin Santos – Communications Regulatory Manager
+       gavin.santos@gra.gi
+       2nd Floor, Eurotowers 4,
+       1 Europort Road,
+       Gibraltar, GX11 1AA
+       Tel: +350 20074636
+       Fax: +350 20072166
+       E-mail: communications@gra.gi
+       URL: www.gra.gi
+
+Greenland (country code +299)
+Communication of 7.VII.2017:
+Tele-Post, Nuuk, announces the following numbering plan for Greenland.
+
+General information:
+•     The capital city of Greenland is Nuuk
+•     Local time: UTC –3 hours (Summer time: UTC –2 hours)
+•     The country code of Greenland is +299
+•     Subscriber number consist of six (6) digits
+
+Six-digit subscriber numbers for fixed and mobile network services:
+
+              Locality                  Six-digit subscriber numbers             Test numbers*
+       fixed network service
+  Nuuk                                          31 xxxx – 37 xxxx                   32 10 00
+  South                                         6 xxxxx                             64 26 29
+  West                                          8 xxxxx                             86 47 55
+  North/East                                    9 xxxxx                             94 33 00
+
+  Service numbers                               11x-18x
+
+
+
+
+    Non geographic numbers                   Six-digit subscriber numbers                      Test numbers*
+  Fixed                                              38 xxxx – 39 xxxx
+  V-SAT                                              19 91 xx – 19 92 xx
+  Mobile service                                     21 xxxx – 29 xxxx                           55 52 99
+                                                     42 xxxx – 49 xxxx
+                                                     51 xxxx – 59 xxxx
+
+* An 800 Hz tone will indicate that the call has been completed successfully.
+  (The level is 8 dB below test level (–8 dBm0)).
+
+Code screening and number lengths for routing to Greenland:
+
+Option 1:
+Code screening up to 1 digit after country code 299 and min/max number length screening
+(country code 299 is included in the number length)
+
+ Digit       0             1           2           3          4          5           6           7          8           9
+             Invalid       6/6         9/9         9/9        9/9        9/11        9/9         9/9        9/9         9/9
+
+
+Option 2:
+Code screening up to 2 digits after country code 299 and min/max number length screening
+(country code 299 is included in the number length)
+
+              Second digit
+ First
+ digit        0              1           2               3          4           5          6           7          8           9
+     0        Invalid *)     Invalid     Invalid         Invalid    Invalid     Invalid    Invalid     Invalid    Invalid     Invalid
+     1        Invalid        6/6         6/6             6/6        6/6         6/6        6/6         6/6        6/6         6/9
+     2        Invalid        9/9         9/9             9/9        9/9         9/9        9/9         9/9        9/9         9/9
+     3        Invalid        9/9         9/9             9/9        9/9         9/9        9/9         9/9        9/9         9/9
+     4        Invalid        Invalid     9/9             9/9        9/9         9/9        9/9         9/9        9/9         9/9
+     5        9/11 **)       9/9         9/9             9/9        9/9         9/9        9/9         9/9        9/9         9/9
+     6        Invalid        9/9         9/9             9/9        9/9         9/9        9/9         9/9        9/9         9/9
+     7        9/9            Invalid     Invalid         Invalid    Invalid     Invalid    Invalid     Invalid    Invalid     Invalid
+     8        Invalid        9/9         9/9             9/9        9/9         9/9        9/9         9/9        9/9         9/9
+     9        Invalid        9/9         9/9             9/9        9/9         9/9        9/9         9/9        9/9         9/9
+*) 00 is international prefix
+**) Mainly Voice Mail Routing GSM.
+
+Contact:
+         Tele-Post
+         Postboks 1002
+         3900 Nuuk
+         Tel: +299 341255
+         Fax: +299 322255
+         E-mail: roaming@telepost.gl
+         URL: www.tele.gl
+
+
+
+
+                                    Other communication
+
+Austria
+Communication of 19.VII.2017:
+On the occasion of the 500th Reformation anniversary, 2017/Martin Luther, the Austrian Administration
+authorizes an Austrian amateur station to use the special call sign OE500ML on 31 October 2017.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                           AMENDMENTS TO SERVICE PUBLICATIONS
+                                                           Abbreviations used
+
+                                        ADD       Insert                           PAR      paragraph
+                                        COL       Column                           REP      replace
+                                        LIR       Read                             SUP      Delete
+                                        P         page(s)
+
+
+
+                           List of Coast Stations and Special Service Stations
+                                                 (List IV)
+
+                                                          Edition of 2015
+
+                                                    (Amendment No. 7)*
+
+ROU          Romania
+
+Notes        AAIC           LIR
+A            Accounting authority: CNRN RADIONAV SA. AAIC: RM12
+             Head office: 3, Ecluzei Str., 907015 Agigea, Jud. Constanta, Romania.
+             FAX:    +40 241 737 103
+             E-mail: office@constanta-radio.ro
+
+
+H            Radiotelephone calls
+             1. Land station charge
+                 MF:    1.09 SDR/min.
+                 HF:    1.09 SDR/min.
+                 VHF: 0.67 SDR/min.
+
+
+
+
+____________
+*     All the notes in List IV are published exclusively in English. Therefore, this amendment is presented only in English.
+
+
+
+
+        2. Landline charge
+           a) Romania: the landline charge is included in the land station charge.
+
+
+                                                                                                                                               SDR/min.
+             b)   ALB, ALG, AUT, AZR, BEL, BUL, CNR, CVA, CYP, CZE, D, DNK, E, F, FRO, G, GRC, GRL,
+                  HNG, HOL, HRV, I, IRL, LBY, LIE, LUX, MKD, MLT, MNE, NOR, POL, POR, S, SRB, SUI,
+                  SVK, SVN, TUR, UKR .................................................................................................           0.22
+             c)   AND, BIH, BLR, CAN, EST, FIN, GIB, HWA, ISL, ISR, LTU, LVA, MCO, MRC, PSE, PTR,
+                  RUS, SMR, TUN, USA, VIR ........................................................................................               0.25
+             d)   AFS, AGL, ARG, AUS, AZE, B, BHR, BOL, CLM, CTR, GEO, HKG, J, JOR, KAZ, MEX, MLD,
+                  MOZ, OMA, PHL, PNR, PRG, QAT, SNG, SOM, SWZ, SYR, Taiwan (Province of China),
+                  THA, UAE .................................................................................................................     0.37
+             e)   ABW, ARM, ARS, ATN, BDI, BEN, CBG, CHL, CHN, CTI, EGY, EQA, ETH, FJI, GAB, GNE,
+                  INS, IRN, IRQ, KEN, KGZ, KOR, KRE, KWT, LBN, MAC, MDG, MNG, MTN, NCL, NIG,
+                  PAK, PNG, REU, SDN, SEN, SEY, SLM, TJK, TKM, TZA, UZB, VEN, VUT .....................                                          0.50
+             f)   AFG, AIA, ASC, ATG, BAH, BER, BFA, BGD, BLZ, BOT, BRB, BRM, BRU, BTN, CAF, CKH,
+                  CLN, CME, COD, COG, COM, CPV, CUB, Curacao, CYM, DGA, DJI, DMA, DOM, ERI,
+                  FLK, FSM, GDL, GHA, GMB, GNB, GRD, GTM, GUF, GUI, GUM, GUY, HND, HTI, IND,
+                  JMC, KIR, KNA, LAO, LBR, LCA, LSO, MAU, MHL, MLA, MLI, MRA, MRT, MSR, MWI,
+                  MYT, NCG, NFK, NGR, NIU, NMB, NPL, NRU, NZL, OCE, PLW, PRU, RRW, Saipan, SHN,
+                  SLV, SMA, SMO, SPM, SRL, STP, SUR, TCA, TCD, TGO, TKL, TON, TRD, TUV, UGA, URG,
+                  VCT, VRG, VTN, WAL, YEM, ZMB, ZWE ....................................................................                         0.60
+
+
+
+
+                             List of Ship Stations and Maritime Mobile
+                                     Service Identity Assignments
+                                                (List V)
+                                            Edition of 2017
+
+                                                              Section VI
+REP
+
+      PO19        MEO SA, Av. Fontes Pereira de Melo, 40, 1069 - 300 Lisboa, Portugal.
+                  Tel.: +351 215 007 616, E-Mail: smo@telecom.pt,
+                  Contact Person: José Albuquerque.
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                           (Position on 15 November 2015)
+                        (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                         (Amendment No. 25)
+Liechtenstein LIR
+
+    Country/      Company Name/Address         Issuer      Contact
+ geographical                                Identifier
+      area                                    Number
+ Liechtenstein    Swisscom (Schweiz) AG      89 423 01     Mr Marc Furrer
+                  Alte Tiefenaustrasse 6                   Alte Tiefenaustrasse 6
+                  CH-3050 BERN                             CH-3050 BERN (Switzerland)
+                  (Switzerland)                            Tel:     +41 79 394 03 50
+                                                           E-mail: marc.furrer@swisscom.com
+ Liechtenstein    Salt (Liechtenstein) AG    89 423 02     Mr Robert Eberle
+                  Neugrüt 7                                Neugrüt 7
+                  FL-9496 BALZERS                          FL-9496 BALZERS
+                                                           Tel:     +423 388 0924
+                                                           Fax:     +423 388 0907
+                                                           E-mail: robert.eberle@salt.li
+ Liechtenstein    Telecom Liechtenstein      89 423 05     Mr Mathias Maierhofer
+                  AG                                       Schaanerstrasse 1
+                  Schaanerstrasse 1                        FL-9490 VADUZ
+                  FL-9490 VADUZ                            Tel:     +423 235 56 70
+                                                           E-mail: mathias.maierhofer@telecom.li
+ Liechtenstein    Cubic AG                   89 423 06     Mr Phillipp Wanger
+                  Neugasse 17                              Neugasse 17
+                  FL-9490 VADUZ                            FL-9490 VADUZ
+                                                           Tel:     +423 232 27 00
+                                                           E-mail: office@tva.li
+ Liechtenstein    First Mobile AG            89 423 07     Mr Albert Villiger
+                  Landstrasse 123                          Landstrasse 123
+                  FL-9495 TRIESEN                          FL-9495 TRIESEN
+                                                           Tel:     +41 41 720 33 90
+                                                           Fax:     +41 41 720 33 94
+                                                           E-mail: a.villiger@vitop.ch
+ Liechtenstein    SORACOM LI, LTD.           89 423 10     Mr Manfred Schnetzer
+                  Vorarlberger Strasse 7                   Vorarlberger Strasse 7
+                  FL-9486 SCHAANWALD                       FL-9486 SCHAANWALD
+                                                           Tel:     +423 231 1288
+                                                           E-mail: schnetzer@wirtschaftskanzlei.com
+Netherlands LIR
+   Country/       Company Name/Address         Issuer     Contact
+ geographical                                Identifier
+     area                                     Number
+ Netherlands      Voiceworks B.V.            89 31 31     Mr Christian Bichbäumer
+                  Oplagestraat 1-3                        Voiceworks B.V.
+                  1321NK ALMERE                           Postbus 60281
+                                                          1320AH ALMERE
+                                                          Tel:    +31 36 7606600
+                                                          E-mail: christian.bichbaeumer@voiceworks.com
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                     for public networks and subscriptions
+             (According to Recommendation ITU-T E.212 (09/2016))
+                       (Position on 1st November 2016)
+                              (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                              (Amendment No. 17)
+
+Country/Geographical area            MCC+MNC *           Operator/Network
+Morocco ADD
+                                          604 02         Wana Corporate
+                                          604 04         Al Houria Telecom
+                                          604 05         Wana Corporate
+                                          604 06         Itissalat Al-Maghrib
+                                          604 99         Al Houria Telecom
+Morocco LIR
+                                          604 00         Médi Télécom
+                                          604 01         Itissalat Al-Maghrib
+____________
+*   MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+    MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                             List of ITU Carrier Codes
+             (According to Recommendation ITU-T M.1400 (03/2013))
+                         (Position on 15 September 2014)
+                      (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                       (Amendment No. 46)
+
+Country or area/ISO code                        Company Code      Contact
+ Company Name/Address                            (carrier code)
+
+Germany (Federal Republic of) / DEU       ADD
+
+42com Telecommunication GmbH                       42COM          Mr Thomas Reinig
+Strasse der Pariser Kommune 12 - 16                               Tel: +49 30 340 605 908
+10243 BERLIN                                                      Fax: +49 30 340 605 998
+                                                                  E-mail: portierung@42com.com
+AJE Consulting GmbH & Co.KG                        AJE1DE         Mr Thorsten Schwabenland
+Neustrasse 12                                                     Tel: +49 2672 9364 0
+56754 ROES                                                        Fax: +49 2672 9364 930
+                                                                  E-mail: ts@aje.de
+ansit-com GmbH                                      ANSIT         Mr Karsten Hampf
+Lückstrasse 72/73                                                 Tel: +49 30 2084779 60
+10317 BERLIN                                                      Fax: +49 30 2084779 68
+                                                                  E-mail: carrier@ansit-com.de
+ANT Granowski GmbH                                 ANTGRA         Tel: +49 3672 488080
+Schwarzburger Strasse 26                                          Fax: +49 3672 488088
+07407 RUDOLSTADT                                                  E-mail: info@ant-granowski.de
+
+
+ANTEC Servicepool GmbH                              ANTEC         Mrs Andrea Schramm
+Jathostrasse 11 b                                                 Tel: +49 511 270903 0
+30163 HANNOVER                                                    Fax: +49 511 270903 40
+                                                                  E-mail: info@antec-servicepool.de
+Bodo Thomas                                        ATBG01         Mr Michael Thomas
+Antennentechnik Thomas                                            Tel: +49 36461 21818
+Schmiedestrasse 4                                                 Fax: +49 36461 86963
+99518 GROSSHERINGEN                                               E-mail: buchhaltung@1a-online.net
+Business Phone Net GmbH & Co.KG                     BPNET         Mr Robin Foerster
+Simrockallee 2                                                    Tel: +49 221 177 32670
+53173 BONN                                                        Fax:
+                                                                  E-mail: support@business-phone-net.com
+D/W Elektrofunk GmbH                                EFUNK         Mrs Alexandra Kellner
+Bahnhofstrasse 48                                                 Tel: +49 3476 802 41
+06333 HETTSTEDT                                                   Fax: +49 3476 802 13
+                                                                  E-mail: alexandrakellner@elektrofunk.de
+Daten- und Telekommunikations- GmbH                 DATEL         Mr Nico Nierenberg
+Dessau                                                            Tel: +49 340 899 2702
+Albrechtstrasse 48                                                Fax: +49 340 899 2799
+06844 DESSAU                                                      E-mail: nico.nierenberg@datel-gmbh.de
+
+
+
+
+Country or area/ISO code                         Company Code      Contact
+ Company Name/Address                             (carrier code)
+
+Germany (Federal Republic of) / DEU        ADD
+
+DEK Telecom GmbH                                     DEK1          Mrs Nina Gluesenkamp
+Hakenbusch 1                                                       Tel: +49 541 33884 0
+49078 OSNABRUECK                                                   Fax: +49 541 33884 111
+                                                                   E-mail: info@dek.net
+Dieter Hartmann                                      ACSH          Mr Dieter Hartmann
+ACS Hartmann                                                       Tel: + 49 36481 22155
+Krautgasse 2                                                       Fax: + 49 36481 563894
+07806 NEUSTADT a.d. ORLA                                           E-mail: info@acs-hartmann.de
+Disquom Funktechnik GmbH                              DISQ         Mr Sven Habeck
+Vogtsgasse 20                                                      Tel: +49 2244 8799490
+53639 KOENIGSWINTER                                                Fax: +49 2244 8799491
+                                                                   E-mail: shabeck@disquom.de
+Elektrizitäts-Genossenschaft Tacherting-            EGTFEG         Mr Simon Renner
+Feichten eG                                                        Tel: +49 8621 80630 16
+Stefan-Floetzl-Strasse 4                                           Fax: +49 8621 80630 29
+83342 TACHERTING                                                   E-mail: renner@egtf.de
+ETN EmslandTel.Net GmbH & Co.KG                     ETNTEL         Mr Sebastian Hoogland
+Daimlerstrasse 1                                                   Tel: +49 5931 877997 13
+49716 MEPPEN                                                       Fax: +49 5931 877997 8
+                                                                   E-mail: sh@etn.group
+GETEC media AG                                      GMESYN         Mr Goetz Bittner
+Albert-Vater-Strasse 50                                            Tel: +49 391 50860 611
+39108 MAGDEBURG                                                    Fax: +49 391 50860 699
+                                                                   E-mail: goetz.bittner@getec.de
+Getinternet GmbH                                    GETTEL         Mr Marc Gutzeit
+Steindorfstrasse 2                                                 Tel: +49 5032 8942 432
+80538 MUNICH                                                       Fax: +49 5032 8942 440
+                                                                   E-mail: gutzeit@getinternet.de
+GlasCom Salzlandkreis GmbH                          GLASC1         Mr Friedrich Huelsenbeck
+Am Druschplatz 14                                                  Tel: +49 39291 745300
+39443 STASSFURT                                                    Fax: +49 39291 745310
+                                                                   E-mail: f.huelsenbeck@e-ms.de
+Glasfaser Hengersberg GmbH                          GFHENG         Mrs Edith Herboeck
+Passauer Strasse 1                                                 Tel: +49 9901 9308 80
+94491 HENGERSBERG                                                  Fax: +49 9901 9308 50
+                                                                   E-mail: info@glasfaser-hengersberg.de
+Global Village GmbH                                 GLOBAL         Mr Elmar Germann
+Mehrumer Strasse 16                                                Tel: +49 2855 9651 0
+46562 VOERDE                                                       Fax: +49 2855 9651 110
+                                                                   E-mail: germann@globvill.de
+gnTel GmbH                                          GNTEL1         Mr Patrick Schmitz
+Stadttor 1                                                         Tel: +49 211 36876100
+40219 DUESSELDORF                                                  Fax: +49 211 36876101
+                                                                   E-mail: p.schmitz@gntel.de
+
+
+
+
+Country or area/ISO code                             Company Code      Contact
+ Company Name/Address                                 (carrier code)
+
+Germany (Federal Republic of) / DEU            ADD
+
+GoeTel GmbH                                               GTEL         Mr Andre Heckmann
+Weender Landstrasse 59                                                 Tel: +49 551 38488 0
+37075 Goettingen                                                       Fax: +49 551 38488 88
+                                                                       E-mail: info@goetel.net
+GWS Stadtwerke Hameln GmbH                             GWSHAM          Mrs Susanne Treptow
+Hafenstrasse 14                                                        Tel: +49 5151 788 208
+31785 HAMELN                                                           Fax: +49 5151 788 120
+                                                                       E-mail: treptow@gws.de
+Hotzone GmbH                                            HOTZON         Mr Holger Boehm
+Oberer Mainkai 1                                                       Tel: +49 30 916845 10
+97070 WUERZBURG                                                        Fax: +49 30 916845 11
+                                                                       E-mail: info@hotzone.de
+imos Gesellschaft für Internet-Marketing und             IMOS          Mr Alfred Wallender
+Online-Services mbH                                                    Tel: +49 7161 93339 327
+Alfons-Feifel-Strasse 9                                                Fax: +49 7161 93339 99
+73037 GOEPPINGEN                                                       E-mail: aw@imos.net
+InSysCo Datensysteme GmbH                               INSYSC         Mr Alexander Langen
+Nürburgring Boulevard 2                                                Tel: +49 2691 45997 90
+53520 NÜRBURG                                                          Fax: +49 2691 45997 99
+                                                                       E-mail: alangen@insysco.de
+Kabel + Satellit Bergen Kommunikationstechnik            KASAT         Mr Daniel Hoffmann
+GmbH                                                                   Tel: +49 3838 20103 131
+Tilzower Weg 32                                                        Fax: +49 3838 20103 109
+18528 BERGEN                                                           E-mail: daniel.hoffmann@kabelsat.net
+Kadsoft Computer GmbH Freital                            KSNET         Mr Winfried Droll
+Poisentalstrasse 112                                                   Tel: +49 351 2124 9110
+01705 FREITAL                                                          Fax: +49 351 6472 443
+                                                                       E-mail: vdsl@ksnet.de
+KurpfalzTEL Gesellschaft für                             KPTEL         Mr Erdinc Bozal
+Telekommunikation mbH                                                  Tel: +49 6227 1715 0
+Eschenweg 6                                                            Fax: +49 6227 1715 99
+68789 ST. LEON - ROT                                                   E-mail: support@kurpfalztel.net
+LKG Lausitzer Kabelbetriebsgesellschaft mbH             LKGMBH         Mr Andreas Paul
+Am Buergerhaus 7                                                       Tel: +49 3574 8695512
+01979 LAUCHHAMMER                                                      Fax: +49 3574 493068
+                                                                       E-mail: andreas.paul@lks-lauchhammer.de
+LüneCom Kommunikationslösungen GmbH                     LC1995         Mr Michael Mollenhauer
+Volgerstrasse 4                                                        Tel: +49 4131 78964 18
+21335 LUENEBURG                                                        Fax: +49 4131 78964 25
+                                                                       E-mail: mm@luenecom.de
+Mandala Internet EDV-Service GmbH                      GERWMA          Mr Manfred Blum
+Wendenring 1                                                           Tel: +49 531 3489 0
+38114 BRAUNSCHWEIG                                                     Fax: +49 531 3489 500
+                                                                       E-mail: support@mandala.de
+
+
+
+
+Country or area/ISO code                    Company Code      Contact
+ Company Name/Address                        (carrier code)
+
+Germany (Federal Republic of) / DEU   ADD
+
+Manuel Kretschmar                                SLDC         Mr Manuel Kretschmar
+Speedloc Datacenter                                           Tel: +49 35822 61360
+Karl-Marx-Strasse 13/14                                       Fax: +49 1805 020225271
+02827 GOERLITZ                                                E-mail: kontakt@speedloc.de
+Markus Jobst                                   JOBSTD         Mr Markus Jobst
+JOBST DSL                                                     Tel: +49 9621 487666
+Bayreuther Strasse 33                                         Fax: +49 9621 487679
+92224 AMBERG                                                  E-mail: info@jobst-dsl.de
+Markus Plischke                               QMEXDE          Mr Markus Plischke
+Q-MEX Networks                                                Tel: +49 4202 953580
+Grenzstrasse 4                                                Fax: +49 4202 953581
+28832 ACHIM                                                   E-mail: info@q-mex.net
+Marten Beckel                                  WDSLOL         Mr Marten Beckel
+WDSL-Oberlausitz                                              Tel: +49 35873 369986
+Niedere Dorfstrasse 5                                         Fax: +49 35873 36879
+02747 STRAHWALDE                                              E-mail: info@wdsl-ol.de
+Median Telecom GmbH                            MEDIAN         Mr Norbert Falkenberg
+Ruhrstrasse 91                                                Tel: +49 2302 438993 20
+58452 WITTEN                                                  Fax: +49 2302 438993 21
+                                                              E-mail: norbert.falkenberg@median-telecom.de
+MEGA Communications GmbH                      MEGACO          Mr Ronny Seidel
+Friedrich-Krupp-Strasse 16 - 18                               Tel: +49 211 15924214
+41564 KAARST                                                  Fax: +49 211 15924211
+                                                              E-mail: ronny.seidel@mega-communications.de
+NetTask GmbH                                   NT6000         Mr Marco Rutzke
+Zillplatz 9-10                                                Tel: +49 3723 7693 20 444
+09337 HOHENSTEIN-ERNSTTHAL                                    Fax: +49 3723 7693 20 999
+                                                              E-mail: portierung@nettask.de
+Niels Rosenhahn                                BREHNA         Mr Niels Rosenhahn
+Brehna.Net                                                    Tel: +49 34954 52445
+Hallesche Strasse 15                                          Fax: +49 34954 52433
+06796 BREHNA                                                  E-mail: info@brehna.net
+Norbert Herter                                 REGION         Mr Norbert Herter
+regionetz.net                                                 Tel: +49 751 360314
+Tannenbergstrasse 12                                          Fax: +49 751 360329
+88214 RAVENSBURG                                              E-mail: norbert@herter.de
+Olfenkom GmbH                                   OLFEN         Mr Manfred Casper
+Robert-Bosch-Strasse 44                                       Tel: +49 2595 1313
+59399 OLFEN                                                   Fax: +49 2595 1315
+                                                              E-mail: manfred.casper@olfenkom.de
+oneCentral B.V.                                 ONEC          Mr Theo Belder
+Spaarne 17                                                    Tel: +31 881118 111
+2011CD HAARLEM (Netherlands)                                  Fax: +31 881118 118
+                                                              E-mail: theo.belder@onecentral.net
+
+
+
+
+Country or area/ISO code                        Company Code      Contact
+ Company Name/Address                            (carrier code)
+
+Germany (Federal Republic of) / DEU       ADD
+
+Orbitcom GmbH                                       ORBIT         Mr Marc Gutzeit
+Steindorfstrasse 2                                                Tel: +49 5032 8942 432
+80538 MUNICH                                                      Fax: +49 5032 8942 440
+                                                                  E-mail: gutzeit@getinternet.de
+oscon itk GmbH                                     OSCON          Mr Oliver Sachs
+Maugenharder Weg 14                                               Tel: +49 7628 301999 301
+79588 EFRINGEN-KIRCHEN                                            Fax: +49 7628 301999 999
+                                                                  E-mail: os@oscon.de
+Photonium NetSolutions GmbH                         PHOX          Mrs Yvonne Stenzel
+Hauptstrasse 81                                                   Tel: +49 6055 91951 0
+63594 HASSELROTH-GONDSROTH                                        Fax: +49 6055 91951 20
+                                                                  E-mail: auftragsbearbeitung@photonium.de
+RFT Kabel Brandenburg GmbH                           RFTK         Mr Thomas Rosenfeld
+Kurstrasse 14 - 15                                                Tel: +49 3381 5261 132
+14776 BRANDENBURG                                                 Fax: +49 3381 5261 319
+                                                                  E-mail: th.rosenfeld@rftkabel.de
+RST Datentechnik GmbH                               RSTDE         Mr Sascha Tobler
+Dr. Rudolf-Eberle-Strasse 36                                      Tel: +49 7753 92170
+79774 ALBBRUCK                                                    Fax: +49 7753 91015
+                                                                  E-mail: tobler@rst.de
+Sat Internet Services GmbH                          SISTEL        Mr Marc Gutzeit
+Justus-von-Liebig-Strasse 26                                      Tel: +49 5032 8942 432
+31535 NEUSTADT AM RBGE                                            Fax: +49 5032 8942 440
+                                                                  E-mail: gutzeit@satinternet.com
+Schiffel IT-Service GmbH                           SCHFFL         Mr Steffen Schiffel
+Portastrasse 73                                                   Tel: +49 571 730 725 8000
+32457 PORTA WESTFALICA                                            Fax: +49 571 730 725 8099
+                                                                  E-mail: portierung@schiffel.it
+schnell-im-netz.de GmbH & Co.KG                     SINETZ        Mr Stephan Hager
+Albrecht-Dürer-Platz 4                                            Tel: +49 9721 93293 00
+97421 SCHWEINFURT                                                 Fax: +49 9721 93293 99
+                                                                  E-mail: postkasten@schnell-im-netz.de
+S-IT Informationstechnologie Betreiber GmbH         SIT480        Mr Ingo Appuhn
+& Co.KG im Nordschwarzwald                                        Tel: +49 7051 599 200
+Marktstrasse 7 - 11                                               Fax: +49 7051 599 549
+75365 CALW                                                        E-mail: appuhn@sparkassen-it.de
+smart-DSL GmbH                                     SMART          Mr Hubert Heinle
+Weissen 1                                                         Tel: +49 8370 976515
+87487 WIGGENSBACH                                                 Fax: +49 8370 976514
+                                                                  E-mail: hubert.heinle@smartone.de
+SOCO Network Solutions GmbH                         SOCO          Mr Ali Calik
+Nordstrasse 102                                                   Tel: +49 2421 224444
+52353 DUEREN                                                      Fax: +49 2421 224488
+                                                                  E-mail: itu@soco.net
+
+
+
+
+Country or area/ISO code                       Company Code      Contact
+ Company Name/Address                           (carrier code)
+
+Germany (Federal Republic of) / DEU      ADD
+
+SOLIDAS Media GmbH                                SVOICE         Mr Sebastian Eppler
+Ploenzeile 17                                                    Tel: +49 30 501001 30
+12459 BERLIN                                                     Fax: +49 30 501001 39
+                                                                 E-mail: support@solidas-media.de
+Stadtnetz Bamberg Gesellschaft für                 STNB          Mr Volker Richter
+Telekommunikation mbH                                            Tel: +49 951 77 8320
+Margaretendamm 28                                                Fax: +49 951 77 8090
+96052 BAMBERG                                                    E-mail: volker.richter@stadtnetz-bamberg.de
+Stadtwerke Bad Reichenhall KU                     STWBR          Tel: +49 8651 705 0
+Hallgrafenstrasse 2                                              Fax: +49 8651 705 105
+83435 BAD REICHENHALL                                            E-mail: service@stwbr.de
+
+
+Stadtwerke Einbeck GmbH                            EININT        Mr Bernd Cranen
+Grimsehlstrasse 17                                               Tel: +49 5161 942 0
+37574 EINBECK                                                    Fax: +49 5161 942 211
+                                                                 E-mail: bcranen@stadtwerke-einbeck.de
+Stadtwerke Forchheim GmbH                         STWFO          Mr Christian Palla
+Haidfeldstrasse 8                                                Tel: +49 9191 613 229
+91301 FORCHHEIM                                                  Fax: +49 9191 613 26229
+                                                                 E-mail: c.palla@stadtwerke-forchheim.de
+Stadtwerke Neustrelitz GmbH                       SWMST          Mr Toni Jantschik
+Wilhelm-Stolte-Strasse 90                                        Tel: +49 3981 474 154
+17235 NEUSTRELITZ                                                Fax: +49 3981 474 299
+                                                                 E-mail: jantschik@stadtwerke-neustrelitz.de
+Stadtwerke Schwerin GmbH (SWS)                     SWSN          Mrs Ariana Koeppen
+Eckdrift 43 - 45                                                 Tel: +49 385 7552726
+19061 SCHWERIN                                                   Fax: +49 385 7552433
+                                                                 E-mail: koeppen@wemacom.de
+Stadtwerke Trostberg Telekommunikation            STWTBG         Mr Stefan Bratzdrum
+GmbH                                                             Tel: +49 8621 8060 11
+Friedrich-Ebert-Strasse 2                                        Fax: +49 8621 8060 19
+83308 TROSTBERG                                                  E-mail: info@stadtwerke-trostberg.de
+Surf-Paradies Internet Service GmbH               SURFPA         Mr Alexander Langen
+Nürburgring Boulevard 2                                          Tel: +49 2691 45997 90
+53520 NÜRBURG                                                    Fax: +49 2691 45997 99
+                                                                 E-mail: alangen@surf-paradies.de
+TEGRO KABELBAU GmbH                                TEGRO         Mr Tobias Weidler
+Arnulfstrasse 49                                                 Tel: +49 6331 71020
+66954 PIRMASENS                                                  Fax: +49 6331 141728
+                                                                 E-mail: info@tegronet.de
+Telekabel Bremen oHG                              TKBREM         Mr Stefan Jäger
+Alfred-Nobel-Strasse 4                                           Tel: +49 421 254640
+28207 BREMEN                                                     Fax: +49 421 255246
+                                                                 E-mail: info@telekabel-bremen.de
+
+
+
+
+Country or area/ISO code                        Company Code      Contact
+ Company Name/Address                            (carrier code)
+
+Germany (Federal Republic of) / DEU       ADD
+
+Telekabel Riesa GmbH                                TKRIE         Mr Roland Ledwa
+Klötzerstraße 24                                                  Tel: +49 3525 7 46650
+01587 RIESA                                                       Fax: +49 3525 733634
+                                                                  E-mail: info@telekabel-riesa.de
+Telenec Telekommunikation Neustadt GmbH             TNEC          Mr Michael Porzig
+Dieselstrasse 5                                                   Tel: +49 9568 852 81
+96465 NEUSTADT                                                    Fax: +49 9568 852 50
+                                                                  E-mail: mipo@telenec.de
+Television Bleicherode GmbH                         TVBLEI        Mrs Christin Hossbach
+Bahnhofstrasse 57                                                 Tel: +49 36338 451646
+99752 BLEICHERODE                                                 Fax: +49 36338 42941
+                                                                  E-mail: chossbach@tv-bleicherode-gmbh.de
+teutel GmbH                                        TEUTEL         Mr Gunnar Gühlstorf
+An der Mühlenbreede 4                                             Tel: +49 5481 800550000
+49525 LENGERICH                                                   Fax: +49 5481 800553333
+                                                                  E-mail: notification@teutel.de
+Thüga SmartService GmbH                            THUEGA         Dr Alexander Hassdenteufel
+Zum Kugelfang 2                                                   Tel: +49 9282 9999 256
+95119 NAILA                                                       Fax: +49 9282 9999 222
+                                                                  E-mail:
+                                                                  alexander.hassdenteufel@smartservice.de
+vio:networks GmbH                                  VIONET         Mr Sjoerd Girkes
+Oberschwaigstrasse 45                                             Tel: +49 30 2084701 0
+92237 SULZBACH-ROSENBERG                                          Fax: +49 30 2084701 99
+                                                                  E-mail: info@vionetworks.de
+VoiceON Telecom Services GmbH                       VOICE         Mr Evgeniy Ramich
+Pascalstrasse 10                                                  Tel: +49 30 39820500 25
+10587 BERLIN                                                      Fax: +49 30 39820500 99
+                                                                  E-mail: did@voice-on.net
+VPN Deutschland Ltd. & Co.KG                        VPND          Tel: +49 5731 4906926
+Osterweg 2                                                        Fax: +49 5731 4906999
+32549 BAD OEYNHAUSEN                                              E-mail: auftragsbearbeitung@vpn.de
+
+
+WEMACOM Telekommunikation GmbH                      WECT          Mrs Ramona Raff
+Medeweger Strasse 20                                              Tel: +49 385 7552317
+19057 SCHWERIN                                                    Fax: +49 385 7552433
+                                                                  E-mail: raff@wemacom.de
+Ziegelmeier GmbH & Co. Antennenservice KG         ZGMANT          Mrs Lisa Ziegelmeier
+Donauwoerther Strasse 228                                         Tel: +49 821 410670
+86154 AUGSBURG                                                    Fax: +49 821 4106723
+                                                                  E-mail: l.ziegelmeier@g-ziegelmeier.de
+Zweckverband Ostholstein                           ZVOSTH         Mr Torsten Hindenburg
+Wagrienring 3 - 13                                                Tel: +49 4561 399 278
+23730 SIERKSDORF                                                  Fax: +49 4561 399 9278
+                                                                  E-mail: t.hindenburg@zvo.com
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 18)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point        Name of the signalling point operator
+
+
+ Uruguay SUP
+ 7-096-0       15104        MSCURU01                                   AM Wireless Uruguay SA
+ 7-096-5       15109        AXE MSC                                    Abiatar SA
+
+ Uruguay ADD
+ 7-096-5       15109        MSCMV1                                     Telefónica Móviles del Uruguay S.A.
+ 7-096-6       15110        Central Victoria Plaza                     AMINET S.A.
+ 7-096-7       15111        UY-TELMEX                                  Telstar S.A.
+ 7-097-0       15112        Montevideo Softswitch NGN                  Administración Nacional de Telecomunicaciones
+                                                                       (ANTEL)
+ 7-097-2       15114        MSCMV2                                     Telefónica Móviles del Uruguay S.A.
+ 7-097-3       15115        STPBEL                                     Telefónica Móviles del Uruguay S.A.
+ 7-097-4       15116        STPSMA                                     Telefónica Móviles del Uruguay S.A.
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                    List of Data Network Identification Codes (DNIC)
+                 (According to Recommendation ITU-T X.121(10/2000))
+                                (Position on 1 April 2011)
+                              (Annex to ITU Operational Bulletin No. 977 – 1.IV.2011)
+                                              (Amendment No. 10)
+
+P 14   Japan   REP all information by:
+
+ Country/Geographical     DNIC No.                         Name of network to which a DNIC is allocated
+         area
+
+ JAPON                      440 1     DDX-P (NTT Communications Corporation)
+ JAPAN                      440 2     NEC-NET (NEC Corporation)
+ JAPÓN                      440 5     NCC-VAN (Nomura Research Institute, Ltd.)
+                            441 7     TIS-Net (TIS Inc.)
+                            441 8     TG-VAN (TOSHIBA Corporation)
+                            442 4     SITA NETWORK
+                            442 5     GLOBAL MANAGED DATA SERVICE (Cable & Wireless IDC-Si)
+
+
+See also pages 4-5 of this ITU Operational Bulletin No. 1129.
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                     Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.VII.2017, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                        Country/ Geographical area                          Country Code (CC)
+               Burkina Faso                                                        +226
+               Russian Federation                                                   +7
+               Ukraine                                                             +380
+
+
+
+

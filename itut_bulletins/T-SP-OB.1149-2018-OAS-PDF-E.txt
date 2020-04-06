@@ -1,0 +1,437 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1149             1.VI.2018                   (Information received by 16 May 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                             4
+     Myanmar (Ministry of Transport and Communications, Nay Pyi Taw) ....................................................                                          5
+Other communication:
+     Secretary-General of ITU ..........................................................................................................................           7
+Service Restrictions ........................................................................................................................................      8
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                    8
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                9
+Mobile Networks Code (MNC) .......................................................................................................................                10
+List of ITU Carrier Codes .................................................................................................................................       10
+List of International Signalling Point Codes (ISPC) .........................................................................................                     11
+National Numbering Plan ...............................................................................................................................           11
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1150             15.VI.2018             1.VI.2018
+               1151             1.VII.2018             15.VI.2018
+               1152             15.VII.2018            29.VI.2018
+               1153             1.VIII.2018           17.VII.2018
+               1154            15.VIII.2018            1.VIII.2018
+               1155              1.IX.2018            16.VIII.2018
+               1156             15.IX.2018            31.VIII.2018
+               1157              1.X.2018              14.IX.2018
+               1158             15.X.2018              28.IX.2018
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                             Approval of ITU-T Recommendations
+By AAP-35, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.984.5 (2014) Amd. 1 (05/2018)
+–     ITU-T G.993.2 (2015) Amd. 4 (05/2018)
+–     ITU-T L.1207 (05/2018): Progressive migration of a telecommunication/information and communication
+      technology site to 400 VDC sources and distribution
+–     ITU-T L.1222 (05/2018): Innovative energy storage technology for stationary use - Part 3: Supercapacitor
+      technology
+–     ITU-T X.680 (2015) Cor. 3 (05/2018)
+–     ITU-T X.680 (2015) Amd. 1 (05/2018)
+–     ITU-T X.681 (2015) Cor. 1 (05/2018)
+–     ITU-T X.682 (2015) Cor. 2 (05/2018)
+–     ITU-T X.683 (2015) Cor. 1 (05/2018)
+–     ITU-T X.696 (2015) Cor. 3 (05/2018)
+–     ITU-T X.1041 (05/2018): Security framework for voice-over-long-term-evolution (VoLTE) network
+      operation
+–     ITU-T X.1080.1 (05/2018): e-Health and world-wide telemedicines - Generic telecommunication protocol
+–     ITU-T X.1276 (05/2018): Authentication Step-Up Protocol and Metadata Version 1.0
+–     ITU-T Y.3601 (05/2018): Big data - framework and requirements for data exchange
+
+
+
+
+                                     Telephone Service
+                                (Recommendation ITU-T E.164)
+                                      url: www.itu.int/itu-t/inr/nnp
+
+Denmark (country code +45)
+Communication of 4.V.2018:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     Assignment – Mobile communications services
+           Provider                             Numbering series                         Date of assignment
+Telenor Connexion AB            4745efgh, 4746efgh, 4748efgh, 4749efgh and 4948efgh          24.IV.2018
+
+Contact:
+      Danish Energy Agency
+      Amaliegade 44
+      1256 COPENHAGEN K
+      Denmark
+      Tel:    +45 33 92 67 00
+      Fax:    +45 33 11 47 43
+      E-mail: ens@ens.dk
+      URL:    www.ens.dk
+
+
+Myanmar (country code +95)
+Communication of 11.V.2018:
+The Ministry of Transport and Communications, Nay Pyi Taw, announces that the following updated numbering
+scheme has been added to the national numbering plan of Myanmar:
+
+AUTO EXCHANGE NUMBERING (Geographic)
+
+                                                        Digit Length
+ Sr
+        Area Code    Number series            Area       (including                      Licensee
+ No.
+                                                        area code)
+ 1     1             424 xxxx        Yangon                  8         Fortune International Limited
+ 2     1             429 xxxx        Yangon                  8         Horizon Telecom International Limited
+ 3     1             462 xxxx        Yangon                  8         Golden TMH Telecom Co.,Ltd
+ 4     1             465 xxxx        Yangon                  8         AGB Communication Co.,Ltd
+ 5     1             468 xxxx        Yangon                  8         VoIP Myanmar Group Co.,Ltd
+ 6     1             470 xxxx        Yangon                  8         Telecom International Myanmar Co.,Ltd
+ 7     2             422 xxxx        Mandalay                8         Myanmar APN Co.,Ltd
+ 8     2             424 xxxx        Mandalay                8         Fortune International Limited
+ 9     2             462 xxxx        Mandalay                8         Golden TMH Telecom Co.,Ltd
+ 10    2             468 xxxx        Mandalay                8         VoIP Myanmar Group Co.,Ltd
+ 11    2             470 xxxx        Mandalay                8         Telecom International Myanmar Co.,Ltd
+ 12    42            480 xxxx        Pathein                 9         Telecom International Myanmar Co.,Ltd
+ 13    43            470 xxxx        Sittwe                  9         Telecom International Myanmar Co.,Ltd
+ 14    45            470 xxxx        Pyapon                  9         Telecom International Myanmar Co.,Ltd
+ 15    52            470 xxxx        Bago                    9         Telecom International Myanmar Co.,Ltd
+ 16    54            470 xxxx        taungoo                 9         Telecom International Myanmar Co.,Ltd
+ 17    57            480 xxxx        Mawlamyine /            9         Telecom International Myanmar Co.,Ltd
+                                     Thanbyuzayat
+ 18    58            470 xxxx        Hpa-An                  9         Telecom International Myanmar Co.,Ltd
+ 19    59            470 xxxx        Dawei                   9         Telecom International Myanmar Co.,Ltd
+ 20    63            470 xxxx        Magway                  9         Telecom International Myanmar Co.,Ltd
+ 21    67            460 xxxx        Naypyitaw               9         Myanmar APN Co.,Ltd
+ 22    67            470 xxxx        Naypyitaw               9         Telecom International Myanmar Co.,Ltd
+ 23    70            470 xxxx        Hakha                   9         Telecom International Myanmar Co.,Ltd
+ 24    71            470 xxxx        Monywa                  9         Telecom International Myanmar Co.,Ltd
+ 25    74            470 xxxx        Myitkyinar /            9         Telecom International Myanmar Co.,Ltd
+                                     Bahmaw
+ 26    75            470 xxxx        Shwebo                  9         Telecom International Myanmar Co.,Ltd
+ 27    81            470 xxxx        Taunggyi                9         Telecom International Myanmar Co.,Ltd
+ 28    83            470 xxxx        Loikaw                  9         Telecom International Myanmar Co.,Ltd
+
+
+
+
+Non-Geographic Number
+
+  Sr        Area                                                 Digit Length
+                     Number series             Area                                              Licensee
+  No.       Code                                            (including area code)
+ 1         11        5000 xxxx           non-geographic              10             Shwe Than Lwin Medis Co.,Ltd
+
+
+Mobile Numbering
+
+  Sr        Area                                                 Digit Length
+                      Number series            System                                            Operator
+  No.       Code                                            (including area code)
+ 1         9         75 (0~2)xx - xxxx    WCDMA / GSM                10             Telenor Myanmar Limited
+
+
+Tollfree Number
+
+  Sr        Area                                                 Digit Length
+                       Number series             Area                                             Licensee
+  No.       Code                                            (including area code)
+                                                                                    Myanma Posts and
+ 1          800      800 (1~9) xxx         non-geographic            10
+                                                                                    Telecommunications
+ 2          800      801 (1~9) xxx         non-geographic            10             Ooredoo Myanmar Limited
+
+
+Contact:
+        Ministry of Transport and Communications
+        Posts and Telecommunications Department (PTD)
+        Building No. 2,
+        NAY PYI TAW
+        Myanmar
+        Tel:     +95 67 407 225
+        Fax:     +95 67 407 216
+        E-mail: dg.ptd@mptmail.net.mm
+
+
+
+
+                                            Other communication
+Secretary-General of ITU
+Following the inquiry of the Administration of Serbia of 16 March 2018 regarding the use of Call Sign Series Z6
+by amateur radio stations of Kosovo*, I would like to provide the following statement:
+Pursuant to Article 19 of the Radio Regulations, notably its provisions Nos. 19.28B and 19.33, the management
+of international series of call signs is a prerogative of ITU. Call sign series can be allocated only to the
+administrations of the ITU Member States by world radiocommunication conferences or, between
+radiocommunication conferences, by the ITU Secretary-General. In this respect, the attention of the ITU
+administrations is drawn to the fact that ITU has not allocated call sign series Z6 to any of its Member States.
+Consequently, the utilization of call signs series Z6 by any entity without a formal allocation and consent of the
+ITU represents an unauthorized and illegal usage of this international numbering resource.
+* This designation is without prejudice to position on status, and is in line with UNSCR 1244 and the ICJ opinion on Kosovo
+  declaration of independence.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                  AMENDMENTS TO SERVICE PUBLICATIONS
+                                           Abbreviations used
+
+                            ADD    Insert                    PAR    paragraph
+                            COL    Column                    REP    replace
+                            LIR    Read                      SUP    Delete
+                            P      page(s)
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                           (Position on 15 November 2015)
+                        (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                         (Amendment No. 42)
+Netherlands      ADD
+    Country/     Company Name/Address          Issuer     Contact                                       Effective
+  geographical                               Identifier                                                  date of
+      area                                    Number                                                     usage
+ Netherlands     Wyless Nederlands B.V.      89 31 32     Mr Ward Mertens                              16.IV.2018
+                 Tjaskermolenlaan 1-7                     Wyless Nederlands B.V.
+                 3447GE WOERDEN                           Tjaskermolenlaan 1-7
+                                                          3447GE WOERDEN
+                                                          Tel:     +31 88 74 64 626
+                                                          E-mail: wmertens@korewireless.com
+ Netherlands     Greenet Netwerk B.V.        89 31 11     Mr Bart Heinink                              21.V.2018
+                 Maanlander 47, 3824 MN                   Greenet Netwerk B.V.
+                 AMERSFOORT                               Maanlander 47, 3824 MN
+                                                          AMERSFOORT
+                                                          Tel:     +31 628908201
+                                                          E-mail: bart@greenet.nl
+
+
+United States    ADD
+    Country/     Company Name/Address          Issuer     Contact                                         Effective
+  geographical                               Identifier                                                    date of
+      area                                    Number                                                       usage
+ United States   OptimERA Inc.               89 1 049     Mr Jester Purtteman                             7.V.2018
+                 132 Loop Road                            OptimERA Inc.
+                 UNALASKA                                 P.O. Box 921134
+                 AK 99685                                 DUTCH HARBOR
+                                                          AK 99692
+                                                          Tel:      +1 907 581 4983
+                                                          E-mail: jester@optimerawifi.com
+ United States   Dish Network                89 1 051     Siddhartha Chenumolu                            1.VI.2018
+                 9601 South Meridian                      Dish Network
+                 Boulevard                                1110 Vermont Avenue NW
+                 ENGLEWOOD, CO 80112                      Suite 750
+                                                          WASHINGTON DC 20005
+                                                          Tel:      +1 303 723 3714
+                                                          E-mail: siddhartha.chenumolu@dish.com
+
+
+
+ Mobile Network Codes (MNC) for the international identification plan
+                for public networks and subscriptions
+        (According to Recommendation ITU-T E.212 (09/2016))
+                  (Position on 1st November 2016)
+                        (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                        (Amendment No. 37)
+
+  Country/Geographical area           MCC+MNC *           Operator/Network
+  Myanmar ADD
+                                            414 20        Amara Communication Co.,Ltd
+                                            414 21        Amara Communication Co.,Ltd
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 62)
+
+
+ Country or area/ISO code                                  Company Code         Contact
+  Company Name/Address                                      (carrier code)
+
+
+Switzerland (Confederation of) / CHE ADD
+
+
+ Genza SA                                                 CH4141               Efe Demir
+ rue de Lausanne 37                                                            Tel:    +90 5322333262
+ CH-1201 Genève                                                                E-mail: ed@genza.ch
+
+
+
+
+                   List of International Signalling Point Codes (ISPC)
+                 (According to Recommendation ITU-T Q.708 (03/1999))
+                               (Position on 1 October 2016)
+
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 37)
+
+
+ Country/                   Unique name of the signalling point          Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Hungary SUP
+ 2-032-3       4355         BP MSTP1                                     Magyar Telekom Plc
+ 2-032-4       4356         BP MSTP2                                     Magyar Telekom Plc
+
+ Kosovo* ADD
+ 7-214-7       16055        IMS Severna Mitrovica                        mts D.O.O.
+ * This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the
+ Kosovo declaration of independence.
+
+ Spain ADD
+ 4-235-2       10074        Las Rozas (Madrid)                           NVÍA GESTIÓN DE DATOS, S.L.
+
+ Switzerland ADD
+ 2-059-0       4568         Pratteln                                     Fink Telecom Services
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                         Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.V.2018, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                                     Country/ Geographical area                       Country Code (CC)
+                  Burundi                                                                    +257
+
+
+
+

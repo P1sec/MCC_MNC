@@ -1,0 +1,1266 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1121             1.IV.2017                   (Information received by 17 March 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Telephone Service:
+     Burkina Faso (Autorité de Régulation des Communications Electroniques et des Postes (ARCEP),
+        Ouagadougou) ..............................................................................................................................................5
+     Congo (Agence de Régulation des Postes et des Communications Electroniques (ARPCE), Brazzaville) ............5
+     Denmark (Danish Energy Agency, Copenhagen) ................................................................................................6
+     Ghana (National Communications Authority (NCA), Accra) .............................................................................17
+     Iran (Islamic Republic of) (Communications Regulatory Authority (CRA), Tehran) ..........................................18
+Other communications: Serbia ......................................................................................................................               21
+Service Restrictions ........................................................................................................................................     22
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   22
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .........................................                                         23
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         24
+List of ITU Carrier Codes .................................................................................................................................       25
+National Numbering Plan ...............................................................................................................................           26
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1122             15.IV.2017             31.III.2017
+               1123              1.V.2017              14.IV.2017
+               1124             15.V.2017               1.V.2017
+               1125              1.VI.2017             16.V.2017
+               1126             15.VI.2017             1.VI.2017
+               1127             1.VII.2017             16.VI.2017
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+     (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+     E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+     subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+     (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+     Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1066 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+     (Position on 15 December 2014)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+     2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+     optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+     Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+     (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+     to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+     (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+     operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+     accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+     (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+     T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+     (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+     series Recommendations) (Position on 15 February 2011)
+972 List of terrestrial trunk radio mobile country codes (Complement to ITU-T Recommendation E.218
+     (05/2004)) (Position on 15 January 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+     on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+     Recommendation F.1 (03/1998))
+B.   The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-08, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T E.802 (2007) Amd. 1 (03/2017): New Annex A on guidelines on selection of representative samples
+–     ITU-T E.811 (03/2017): Quality measurement strategy in major events
+–     ITU-T E.847 (03/2017): Quality of service norms for time-division multiplexing interconnection between
+      telecom networks
+–     ITU-T F.743.4 (03/2017): Functional requirements for virtual content delivery networks
+–     ITU-T F.746.4 (03/2017): Requirements for deployment of information centric networks
+–     ITU-T F.747.9 (03/2017): Requirements and architecture for energy management services
+–     ITU-T F.749.2 (03/2017): Service requirements for vehicle gateway platforms
+–     ITU-T F.921 (03/2017): Audio-based network navigation system for persons with vision impairment
+–     ITU-T H.222.0 (2014) Cor. 2 (03/2017): STD buffr sizes for HEVC and miscellaneous editorial issues
+–     ITU-T H.222.0 (2014) Amd. 3 Cor. 1 (03/2017): Syntax correction for the green extension descriptor
+–     ITU-T H.222.0 (2014) Amd. 7 (03/2017): Virtual segmentation
+–     ITU-T H.222.0 (2014) Amd. 8 (03/2017): Signalling HDR and WCG video content in MPEG-2 systems
+–     ITU-T H.625 (03/2017): Architecture for network-based speech-to-speech translation services
+–     ITU-T H.627.1 (03/2017): Protocols for mobile visual surveillance
+–     ITU-T H.702 (2015) Cor. 1 (03/2017): Various corrections and clarifications
+–     ITU-T H.763.2 (03/2017): Scalable vector graphics for IPTV services
+–     ITU-T P.381 (03/2017): Technical requirements and test methods for the universal wired headset or
+      headphone interface of digital mobile terminals
+–     ITU-T P.501 (03/2017): Test signals for use in telephonometry
+–     ITU-T P.1100 (03/2017): Narrow-band hands-free communication in motor vehicles
+–     ITU-T P.1110 (03/2017): Wideband hands-free communication in motor vehicles
+–     ITU-T P.1120 (03/2017): Super-WideBand (SWB) and FullBand (FB) stereo hands-free communication in
+      motor vehicles
+–     ITU-T P.1140 (03/2017): Speech communication requirements for emergency calls originating from
+      vehicles
+–     ITU-T P.1310 (03/2017): Spatial audio meetings quality evaluation
+–     ITU-T T.621 (03/2017): File structure for interactive mobile comic and animation content
+–     ITU-T Y.1545.1 (03/2017): Framework for Monitoring the QoS of IP network services
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                          url: www.itu.int/itu-t/inr/nnp
+
+Burkina Faso (country code +226)
+Communication of 15.III.2017:
+The Autorité de Régulation des Communications Electroniques et des Postes (ARCEP), Ouagadougou, announces
+the following update to the National Numbering Plan of Burkina Faso.
+•        assignment of the following new number series:
+
+                                                                  Number series
+              Service                   Operator                                                  Date
+                                                                   AB PQ MC DU
+    Fixed telephone networks     Airtel Burkina Faso S.A.   2567 XXXX                     15.III.2017
+
+Contact:
+         Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+         B.P. 6437
+         OUAGADOUGOU 01
+         Burkina Faso
+         Tel:     +226 25 37 53 60/61/62
+         Fax:     +226 25 37 53 64
+         E-mail: secretariat@arcep.bf
+         URL:     www.arcep.bf
+
+Congo (country code +242)
+Communication of 6.III.2017:
+The Agence de Régulation des Postes et des Communications Electroniques (ARPCE), Brazzaville, announces the
+assignment of the following new number series in the national numbering plan of the Republic of the Congo.
+
+                                     Number series
+            Operator                                                  Service             Date of introduction
+                                       (9 digits)
+    Global Reach Telecom       +242 801 10 00 00 -             Value-added service             20.I.2017
+                                    801 11 99 99
+
+X= 0 to 9
+International dialling format:                             +242 XXX XX XX XX
+The minimum number length (excluding the country code) is: Nine (9) digits
+The maximum number length (excluding the country code) is: Nine (9) digits
+Contact:
+            Mr. Wilson Emery BOKATOLA
+            Agence de Régulation des Postes et des Communications Electroniques (ARPCE)
+            Immeuble ARPCE
+            91 bis, Avenue de l'Amitié
+            B.P. 2490
+            BRAZZAVILLE
+            Congo (Rép. du)
+            Tél:      +242 05 553 00 50
+            E-mail: wilson.bokatola@arpce.cg
+            URL:      www.arpce.cg
+
+
+
+
+Denmark (country code +45)
+Communication of 3.III.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•       Withdrawal – Fixed communication services
+
+
+               Provider                           Numbering series                    Date of withdrawal
+TDC                            3952efgh, 6211efgh, 6212efgh, 6337efgh, 6510efgh,           19.XII.2016
+                               6511efgh, 7413efgh, 7423efgh, 7494efgh
+                               and below list of number series (1000 numbers by
+                               serie)
+
+                    32440fgh    32441fgh       32442fgh      32443fgh       32444fgh          32446fgh
+    32447fgh        32448fgh    32449fgh       33100fgh      33102fgh       33103fgh          33104fgh
+    33105fgh        33106fgh    33107fgh       33108fgh      33109fgh       33309fgh          33390fgh
+    33391fgh        33392fgh    33395fgh       33396fgh      33397fgh       33398fgh          33709fgh
+    35221fgh        35222fgh    35223fgh       35224fgh      35225fgh       35226fgh          35227fgh
+    35228fgh        35229fgh    35244fgh       35449fgh      35842fgh       35843fgh          35844fgh
+    35845fgh        35846fgh    35847fgh       35848fgh      35849fgh       36111fgh          36112fgh
+    36113fgh        36114fgh    36115fgh       36116fgh      36117fgh       36118fgh          36119fgh
+    36120fgh        36127fgh    36128fgh       36129fgh      36431fgh       36870fgh          36871fgh
+    36872fgh        36873fgh    36875fgh       36876fgh      36877fgh       36878fgh          36879fgh
+    38230fgh        38231fgh    38232fgh       38233fgh      38234fgh       38235fgh          38238fgh
+    38239fgh        38260fgh    38263fgh       38265fgh      38266fgh       38267fgh          38268fgh
+    38269fgh        38324fgh    38327fgh       38328fgh      38329fgh       38521fgh          38522fgh
+    38523fgh        38524fgh    38525fgh       38526fgh      38527fgh       38528fgh          38529fgh
+    38750fgh        38751fgh    38752fgh       38753fgh      38754fgh       38755fgh          38756fgh
+    38757fgh        38758fgh    38762fgh       38763fgh      38764fgh       38766fgh          38767fgh
+    38768fgh        38769fgh    38830fgh       38832fgh      38835fgh       38836fgh          38837fgh
+    38838fgh        38839fgh    39164fgh       39187fgh      39188fgh       39189fgh          39190fgh
+    39191fgh        39192fgh    39194fgh       39195fgh      39196fgh       39197fgh          39198fgh
+    39199fgh        39531fgh    39532fgh       39533fgh      39534fgh       39552fgh          39553fgh
+    39554fgh        39566fgh    39567fgh       39568fgh      39569fgh       39580fgh          39581fgh
+    39584fgh        39586fgh    39587fgh       39588fgh      39589fgh       39659fgh          39753fgh
+    39963fgh        39964fgh    39981fgh       39989fgh      43315fgh       43317fgh          43318fgh
+    43319fgh        43406fgh    43407fgh       43408fgh      43409fgh       43412fgh          43413fgh
+    43554fgh        43569fgh    44233fgh       44234fgh      44235fgh       44236fgh          44237fgh
+    44238fgh        44239fgh    44313fgh       44314fgh      44315fgh       44316fgh          44317fgh
+    44318fgh        44319fgh    44343fgh       44344fgh      44352fgh       44353fgh          44354fgh
+    44362fgh        44363fgh    44364fgh       44365fgh      44367fgh       44368fgh          44369fgh
+    44381fgh        44382fgh    44384fgh       44385fgh      44386fgh       44387fgh          44388fgh
+    44389fgh        44549fgh    44566fgh       44567fgh      44568fgh       44569fgh          44573fgh
+    44833fgh        44864fgh    44869fgh       45283fgh      45291fgh       45292fgh          45293fgh
+    45294fgh        45295fgh    45296fgh       45297fgh      45298fgh       45332fgh          45334fgh
+    45338fgh        45339fgh    45426fgh       45427fgh      45428fgh       45429fgh          45462fgh
+    45463fgh        45467fgh    45468fgh       45500fgh      45501fgh       45502fgh          45503fgh
+    45504fgh        45506fgh    45507fgh       45508fgh      45543fgh       45544fgh          45656fgh
+    45657fgh        45658fgh    45659fgh       45746fgh      45749fgh       45952fgh          45953fgh
+    46120fgh        46121fgh    46122fgh       46123fgh      46124fgh       46125fgh          46126fgh
+    46127fgh        46133fgh    46135fgh       46143fgh      46144fgh       46157fgh          46158fgh
+    46159fgh        46171fgh    46172fgh       46173fgh      46174fgh       46175fgh          46176fgh
+    46177fgh        46178fgh    46182fgh       46183fgh      46184fgh       46196fgh          46197fgh
+    46198fgh        46199fgh    46329fgh       46411fgh      46415fgh       46416fgh          46417fgh
+
+
+
+46425fgh       46426fgh    46428fgh   46429fgh   46430fgh   46435fgh   46436fgh
+46440fgh       46441fgh    46442fgh   46443fgh   46444fgh   46445fgh   46446fgh
+46447fgh       46463fgh    46465fgh   46466fgh   46477fgh   46478fgh   46483fgh
+46484fgh       46485fgh    46486fgh   46490fgh   46493fgh   46494fgh   46495fgh
+46540fgh       46546fgh    46547fgh   46552fgh   46553fgh   46554fgh   46556fgh
+46758fgh       46759fgh    46765fgh   46766fgh   46780fgh   46784fgh   46785fgh
+46792fgh       46793fgh    46794fgh   46795fgh   46796fgh   46797fgh   46798fgh
+47121fgh       47122fgh    47123fgh   47124fgh   47126fgh   47127fgh   47128fgh
+47129fgh       47163fgh    47164fgh   47165fgh   47166fgh   47167fgh   47168fgh
+47169fgh       47509fgh    47537fgh   47538fgh   47539fgh   47564fgh   47568fgh
+47569fgh       47580fgh    47582fgh   47583fgh   47584fgh   47585fgh   47586fgh
+47587fgh       47588fgh    47596fgh   47597fgh   47598fgh   47740fgh   47741fgh
+47766fgh       47768fgh    47769fgh   47791fgh   47792fgh   47793fgh   47794fgh
+47795fgh       47796fgh    47797fgh   47798fgh   47921fgh   47922fgh   47925fgh
+47926fgh       47927fgh    47928fgh   47929fgh   47936fgh   47941fgh   47942fgh
+47943fgh       47944fgh    47945fgh   47946fgh   47947fgh   47948fgh   47949fgh
+47960fgh       47962fgh    47963fgh   47964fgh   47965fgh   47966fgh   47968fgh
+47969fgh       47989fgh    48120fgh   48128fgh   48129fgh   48137fgh   48138fgh
+48139fgh       48147fgh    48148fgh   48149fgh   48155fgh   48156fgh   48157fgh
+48158fgh       48162fgh    48164fgh   48178fgh   48179fgh   48182fgh   48185fgh
+48191fgh       48193fgh    48194fgh   48196fgh   48213fgh   48214fgh   48230fgh
+48239fgh       48273fgh    48274fgh   48275fgh   48276fgh   48282fgh   48314fgh
+48351fgh       48352fgh    48353fgh   48356fgh   48357fgh   48358fgh   48359fgh
+48364fgh       48366fgh    48367fgh   48395fgh   48396fgh   48397fgh   48486fgh
+48487fgh       48489fgh    48710fgh   48741fgh   48742fgh   48743fgh   48744fgh
+48745fgh       48746fgh    48747fgh   48748fgh   48766fgh   48768fgh   48769fgh
+49100fgh       49101fgh    49102fgh   49103fgh   49104fgh   49105fgh   49106fgh
+49107fgh       49108fgh    49137fgh   49152fgh   49153fgh   49154fgh   49164fgh
+49165fgh       49166fgh    49167fgh   49182fgh   49183fgh   49186fgh   49227fgh
+49228fgh       49229fgh    49254fgh   49257fgh   49267fgh   49268fgh   49269fgh
+49290fgh       49291fgh    49292fgh   49293fgh   49294fgh   49296fgh   49297fgh
+49705fgh       49706fgh    49756fgh   49757fgh   49764fgh   49768fgh   49769fgh
+49781fgh       49782fgh    49783fgh   49784fgh   49785fgh   49786fgh   49787fgh
+49788fgh       54120fgh    54121fgh   54122fgh   54123fgh   54124fgh   54125fgh
+54126fgh       54127fgh    54137fgh   54138fgh   54139fgh   54140fgh   54141fgh
+54142fgh       54143fgh    54144fgh   54145fgh   54146fgh   54165fgh   54168fgh
+54169fgh       54172fgh    54175fgh   54176fgh   54401fgh   54402fgh   54403fgh
+54404fgh       54405fgh    54406fgh   54407fgh   54408fgh   54409fgh   54410fgh
+54411fgh       54412fgh    54413fgh   54414fgh   54415fgh   54416fgh   54417fgh
+54420fgh       54421fgh    54422fgh   54423fgh   54424fgh   54425fgh   54426fgh
+54449fgh       54468fgh    54469fgh   54496fgh   54497fgh   54498fgh   54499fgh
+54620fgh       54640fgh    54641fgh   54642fgh   54643fgh   54644fgh   54645fgh
+54646fgh       54654fgh    54656fgh   54659fgh   54661fgh   54662fgh   54663fgh
+54664fgh       54665fgh    54666fgh   54667fgh   54668fgh   54669fgh   54703fgh
+54708fgh       54709fgh    54720fgh   54723fgh   54724fgh   54725fgh   54726fgh
+54727fgh       54728fgh    54729fgh   54740fgh   54741fgh   54766fgh   54767fgh
+54773fgh       54775fgh    54776fgh   54867fgh   54905fgh   54906fgh   54907fgh
+54962fgh       54964fgh    54969fgh   55310fgh   55314fgh   55315fgh   55316fgh
+55317fgh       55318fgh    55319fgh   55320fgh   55321fgh   55322fgh   55323fgh
+55324fgh       55325fgh    55326fgh   55327fgh   55328fgh   55347fgh   55348fgh
+55349fgh       55367fgh    55368fgh   55369fgh   55378fgh   55379fgh   55383fgh
+55390fgh       55391fgh    55392fgh   55393fgh   55394fgh   55397fgh   55398fgh
+55399fgh       55410fgh    55412fgh   55413fgh   55414fgh   55415fgh   55416fgh
+55417fgh       55418fgh    55419fgh   55420fgh   55422fgh   55423fgh   55424fgh
+55425fgh       55426fgh    55427fgh   55428fgh   55429fgh   55448fgh   55449fgh
+
+
+55463fgh       55503fgh   55504fgh   55507fgh   55508fgh   55510fgh      55513fgh
+55514fgh       55515fgh   55516fgh   55517fgh   55518fgh   55519fgh      55533fgh
+55534fgh       55535fgh   55536fgh   55537fgh   55538fgh   55539fgh      55542fgh
+55543fgh       55544fgh   55549fgh   55741fgh   55742fgh   55743fgh      55744fgh
+55745fgh       55746fgh   55747fgh   55749fgh   55759fgh   55864fgh      55865fgh
+55890fgh       55891fgh   55892fgh   55895fgh   55896fgh   55897fgh      55898fgh
+55899fgh       55900fgh   55901fgh   55902fgh   55903fgh   55904fgh      55905fgh
+55906fgh       55907fgh   55912fgh   55913fgh   55914fgh   55915fgh      55916fgh
+55917fgh       55918fgh   55919fgh   55931fgh   55932fgh   55933fgh      55934fgh
+55935fgh       55936fgh   55937fgh   55962fgh   55963fgh   55964fgh      55968fgh
+55970fgh       55971fgh   55972fgh   55973fgh   55974fgh   55976fgh      55977fgh
+55978fgh       55979fgh   56120fgh   56121fgh   56122fgh   56123fgh      56124fgh
+56125fgh       56126fgh   56127fgh   56128fgh   56132fgh   56133fgh      56134fgh
+56135fgh       56136fgh   56137fgh   56138fgh   56139fgh   56162fgh      56163fgh
+56164fgh       56166fgh   56210fgh   56211fgh   56212fgh   56240fgh      56241fgh
+56242fgh       56243fgh   56252fgh   56254fgh   56255fgh   56256fgh      56257fgh
+56258fgh       56259fgh   56270fgh   56271fgh   56272fgh   56273fgh      56277fgh
+56278fgh       56279fgh   56280fgh   56281fgh   56284fgh   56301fgh      56302fgh
+56304fgh       56305fgh   56306fgh   56307fgh   56308fgh   56309fgh      56318fgh
+56319fgh       56320fgh   56321fgh   56322fgh   56323fgh   56324fgh      56327fgh
+56328fgh       56329fgh   56366fgh   56367fgh   56368fgh   56369fgh      56382fgh
+56384fgh       56385fgh   56386fgh   56387fgh   56388fgh   56389fgh      56430fgh
+56431fgh       56432fgh   56433fgh   56434fgh   56435fgh   56436fgh      56437fgh
+56444fgh       56460fgh   56461fgh   56463fgh   56464fgh   56465fgh      56466fgh
+56467fgh       56468fgh   56469fgh   56473fgh   56474fgh   56475fgh      56476fgh
+56477fgh       56478fgh   56479fgh   56490fgh   56505fgh   56509fgh      56551fgh
+56552fgh       56553fgh   56554fgh   56555fgh   56556fgh   56557fgh      56558fgh
+56559fgh       56564fgh   56569fgh   56571fgh   56572fgh   56576fgh      56580fgh
+56581fgh       56582fgh   56583fgh   56584fgh   56585fgh   56586fgh      56587fgh
+56719fgh       56731fgh   56732fgh   56733fgh   56734fgh   56736fgh      56737fgh
+56738fgh       56739fgh   56760fgh   56764fgh   56765fgh   56770fgh      56772fgh
+56773fgh       56774fgh   56775fgh   56776fgh   56777fgh   56778fgh      56779fgh
+56790fgh       56793fgh   56794fgh   56795fgh   56796fgh   56797fgh      56798fgh
+56799fgh       56810fgh   56811fgh   56812fgh   56813fgh   56814fgh      56815fgh
+56816fgh       56817fgh   56818fgh   56936fgh   56937fgh   56938fgh      56939fgh
+56944fgh       56967fgh   56979fgh   56991fgh   56992fgh   56993fgh      56994fgh
+56995fgh       56996fgh   56997fgh   56998fgh   57510fgh   57511fgh      57512fgh
+57513fgh       57514fgh   57515fgh   57516fgh   57517fgh   57518fgh      57520fgh
+57524fgh       57562fgh   57563fgh   57564fgh   57565fgh   57566fgh      57567fgh
+57568fgh       57569fgh   57590fgh   57591fgh   57592fgh   57593fgh      57594fgh
+57595fgh       57596fgh   57597fgh   57598fgh   57620fgh   57621fgh      57622fgh
+57623fgh       57624fgh   57625fgh   57629fgh   57630fgh   57631fgh      57632fgh
+57633fgh       57634fgh   57635fgh   57636fgh   57637fgh   57639fgh      57664fgh
+57669fgh       57677fgh   57678fgh   57679fgh   57691fgh   57692fgh      57693fgh
+57694fgh       57695fgh   57696fgh   57697fgh   57698fgh   57699fgh      57810fgh
+57812fgh       57813fgh   57814fgh   57815fgh   57816fgh   57817fgh      57818fgh
+57823fgh       57824fgh   57825fgh   57826fgh   57827fgh   57828fgh      57829fgh
+57836fgh       57837fgh   57838fgh   57839fgh   57850fgh   57851fgh      57852fgh
+57867fgh       57868fgh   57869fgh   58120fgh   58121fgh   58122fgh      58123fgh
+58124fgh       58125fgh   58126fgh   58169fgh   58193fgh   58197fgh      58210fgh
+58211fgh       58212fgh   58213fgh   58214fgh   58215fgh   58216fgh      58217fgh
+58218fgh       58269fgh   58272fgh   58273fgh   58274fgh   58275fgh      58276fgh
+58277fgh       58278fgh   58279fgh   58280fgh   58281fgh   58282fgh      58283fgh
+58284fgh       58285fgh   58287fgh   58288fgh   58289fgh   58292fgh      58293fgh
+58294fgh       58295fgh   58296fgh   58297fgh   58298fgh   58299fgh      58378fgh
+
+
+58379fgh       58507fgh    58508fgh   58509fgh   58539fgh   58542fgh   58546fgh
+58564fgh       58569fgh    58578fgh   58801fgh   58802fgh   58803fgh   58804fgh
+58805fgh       58806fgh    58807fgh   58808fgh   58809fgh   58810fgh   58811fgh
+58812fgh       58813fgh    58814fgh   58815fgh   58816fgh   58817fgh   58818fgh
+58820fgh       58821fgh    58822fgh   58823fgh   58824fgh   58825fgh   58826fgh
+58827fgh       58828fgh    58830fgh   58831fgh   58832fgh   58833fgh   58834fgh
+58835fgh       58836fgh    58837fgh   58840fgh   58842fgh   58843fgh   58844fgh
+58845fgh       58846fgh    58847fgh   58848fgh   58849fgh   58861fgh   58871fgh
+58872fgh       58873fgh    58874fgh   58875fgh   58876fgh   58877fgh   58878fgh
+58879fgh       59124fgh    59125fgh   59126fgh   59127fgh   59174fgh   59176fgh
+59177fgh       59178fgh    59187fgh   59190fgh   59191fgh   59192fgh   59193fgh
+59195fgh       59196fgh    59197fgh   59198fgh   59199fgh   59217fgh   59222fgh
+59223fgh       59240fgh    59241fgh   59242fgh   59243fgh   59244fgh   59245fgh
+59246fgh       59247fgh    59281fgh   59282fgh   59283fgh   59284fgh   59285fgh
+59286fgh       59287fgh    59313fgh   59314fgh   59319fgh   59325fgh   59330fgh
+59331fgh       59332fgh    59333fgh   59334fgh   59335fgh   59336fgh   59337fgh
+59338fgh       59350fgh    59351fgh   59352fgh   59353fgh   59354fgh   59355fgh
+59356fgh       59358fgh    59359fgh   59364fgh   59369fgh   59401fgh   59402fgh
+59403fgh       59404fgh    59405fgh   59406fgh   59407fgh   59408fgh   59409fgh
+59412fgh       59413fgh    59414fgh   59415fgh   59416fgh   59417fgh   59418fgh
+59475fgh       59476fgh    59477fgh   59478fgh   59506fgh   59518fgh   59519fgh
+59528fgh       59530fgh    59532fgh   59533fgh   59536fgh   59537fgh   59538fgh
+59539fgh       59541fgh    59542fgh   59543fgh   59544fgh   59545fgh   59546fgh
+59547fgh       59548fgh    59558fgh   59559fgh   59567fgh   59568fgh   59569fgh
+59630fgh       59631fgh    59632fgh   59633fgh   59634fgh   59635fgh   59636fgh
+59637fgh       59638fgh    59644fgh   59680fgh   59681fgh   59682fgh   59683fgh
+59684fgh       59685fgh    59687fgh   59688fgh   59900fgh   59901fgh   59902fgh
+59903fgh       59904fgh    59905fgh   59906fgh   59907fgh   59908fgh   59915fgh
+59916fgh       59917fgh    62171fgh   62175fgh   62178fgh   62179fgh   62190fgh
+62191fgh       62192fgh    62193fgh   62194fgh   62195fgh   62196fgh   62197fgh
+62198fgh       62204fgh    62230fgh   62237fgh   62238fgh   62239fgh   62250fgh
+62255fgh       62256fgh    62270fgh   62273fgh   62274fgh   62275fgh   62276fgh
+62277fgh       62278fgh    62279fgh   62280fgh   62283fgh   62284fgh   62285fgh
+62286fgh       62287fgh    62288fgh   62289fgh   62290fgh   62293fgh   62294fgh
+62295fgh       62296fgh    62297fgh   62298fgh   62299fgh   62380fgh   62381fgh
+62382fgh       62384fgh    62385fgh   62386fgh   62387fgh   62388fgh   62389fgh
+62500fgh       62503fgh    62504fgh   62505fgh   62506fgh   62507fgh   62508fgh
+62509fgh       62530fgh    62534fgh   62535fgh   62536fgh   62537fgh   62538fgh
+62539fgh       62540fgh    62543fgh   62544fgh   62545fgh   62546fgh   62547fgh
+62548fgh       62549fgh    62550fgh   62553fgh   62554fgh   62555fgh   62556fgh
+62557fgh       62558fgh    62559fgh   62560fgh   62563fgh   62564fgh   62565fgh
+62566fgh       62567fgh    62568fgh   62569fgh   62570fgh   62573fgh   62574fgh
+62575fgh       62576fgh    62577fgh   62578fgh   62579fgh   62580fgh   62583fgh
+62584fgh       62585fgh    62586fgh   62587fgh   62588fgh   62589fgh   62630fgh
+62634fgh       62635fgh    62636fgh   62637fgh   62638fgh   62639fgh   62640fgh
+62642fgh       62643fgh    62644fgh   62645fgh   62646fgh   62647fgh   62648fgh
+62649fgh       62650fgh    62653fgh   62654fgh   62655fgh   62660fgh   62662fgh
+62663fgh       62664fgh    62666fgh   62667fgh   62668fgh   62669fgh   62670fgh
+62673fgh       62674fgh    62675fgh   62676fgh   62677fgh   62678fgh   62679fgh
+62680fgh       62683fgh    62684fgh   62685fgh   62686fgh   62687fgh   62688fgh
+62689fgh       62690fgh    62693fgh   62694fgh   62695fgh   62696fgh   62697fgh
+62698fgh       62699fgh    62801fgh   62802fgh   62803fgh   62804fgh   62805fgh
+62806fgh       62807fgh    62808fgh   62809fgh   63200fgh   63207fgh   63208fgh
+63209fgh       63480fgh    63481fgh   63482fgh   63485fgh   63486fgh   63487fgh
+63488fgh       63489fgh    63566fgh   63567fgh   63568fgh   63569fgh   63570fgh
+
+
+63572fgh        63573fgh   63574fgh   63575fgh   63576fgh   63577fgh      63578fgh
+63579fgh        63741fgh   63742fgh   63743fgh   63744fgh   63769fgh      63895fgh
+63921fgh        63922fgh   63923fgh   63924fgh   63925fgh   63926fgh      63927fgh
+63929fgh        64210fgh   64211fgh   64213fgh   64214fgh   64216fgh      64217fgh
+64218fgh        64219fgh   64220fgh   64221fgh   64223fgh   64224fgh      64225fgh
+64226fgh        64227fgh   64228fgh   64229fgh   64280fgh   64282fgh      64283fgh
+64284fgh        64285fgh   64286fgh   64287fgh   64288fgh   64289fgh      64290fgh
+64291fgh        64293fgh   64294fgh   64295fgh   64296fgh   64297fgh      64298fgh
+64299fgh        64405fgh   64407fgh   64408fgh   64409fgh   64420fgh      64424fgh
+64425fgh        64426fgh   64427fgh   64428fgh   64429fgh   64430fgh      64434fgh
+64435fgh        64436fgh   64437fgh   64438fgh   64439fgh   64440fgh      64443fgh
+64444fgh        64445fgh   64446fgh   64447fgh   64448fgh   64449fgh      64463fgh
+64464fgh        64465fgh   64466fgh   64467fgh   64468fgh   64469fgh      64480fgh
+64482fgh        64483fgh   64484fgh   64485fgh   64486fgh   64487fgh      64488fgh
+64489fgh        64490fgh   64493fgh   64494fgh   64495fgh   64496fgh      64497fgh
+64498fgh        64499fgh   64500fgh   64501fgh   64502fgh   64503fgh      64504fgh
+64506fgh        64507fgh   64508fgh   64509fgh   64720fgh   64724fgh      64725fgh
+64726fgh        64727fgh   64728fgh   64729fgh   64730fgh   64734fgh      64735fgh
+64736fgh        64737fgh   64738fgh   64739fgh   64750fgh   64753fgh      64754fgh
+64755fgh        64756fgh   64757fgh   64758fgh   64759fgh   64770fgh      64772fgh
+64773fgh        64774fgh   64775fgh   64776fgh   64777fgh   64778fgh      64779fgh
+64790fgh        64793fgh   64794fgh   64795fgh   64796fgh   64797fgh      64798fgh
+64799fgh        64820fgh   64829fgh   64830fgh   64832fgh   64833fgh      64834fgh
+64835fgh        64836fgh   64837fgh   64838fgh   64839fgh   64840fgh      64843fgh
+64844fgh        64845fgh   64846fgh   64847fgh   64848fgh   64849fgh      64850fgh
+64853fgh        64854fgh   64855fgh   64856fgh   64857fgh   64858fgh      64859fgh
+64860fgh        64862fgh   64863fgh   64864fgh   64865fgh   64866fgh      64867fgh
+64868fgh        64869fgh   64870fgh   64873fgh   64874fgh   64875fgh      64876fgh
+64877fgh        64878fgh   64879fgh   64880fgh   64883fgh   64884fgh      64885fgh
+64886fgh        64887fgh   64888fgh   64889fgh   64890fgh   64894fgh      64895fgh
+64896fgh        65190fgh   65192fgh   65193fgh   65194fgh   65195fgh      65196fgh
+65197fgh        65198fgh   65199fgh   65250fgh   65251fgh   65252fgh      65259fgh
+65300fgh        65304fgh   65305fgh   65306fgh   65307fgh   65308fgh      65309fgh
+65319fgh        65330fgh   65333fgh   65334fgh   65335fgh   65336fgh      65337fgh
+65338fgh        65339fgh   65340fgh   65344fgh   65345fgh   65346fgh      65350fgh
+65354fgh        65355fgh   65356fgh   65357fgh   65358fgh   65359fgh      65360fgh
+65363fgh        65364fgh   65365fgh   65366fgh   65367fgh   65368fgh      65369fgh
+65380fgh        65384fgh   65385fgh   65386fgh   65387fgh   65388fgh      65389fgh
+65390fgh        65392fgh   65393fgh   65394fgh   65395fgh   65396fgh      65397fgh
+65398fgh        65399fgh   65418fgh   65419fgh   65471fgh   65478fgh      65479fgh
+65482fgh        65489fgh   65490fgh   65491fgh   65492fgh   65493fgh      65495fgh
+65496fgh        65497fgh   65498fgh   65499fgh   65500fgh   65563fgh      65564fgh
+65568fgh        65569fgh   65570fgh   65571fgh   65574fgh   65575fgh      65576fgh
+65577fgh        65578fgh   65579fgh   65580fgh   65581fgh   65582fgh      65586fgh
+65587fgh        65588fgh   65589fgh   65651fgh   65658fgh   65660fgh      65662fgh
+65663fgh        65664fgh   65665fgh   65666fgh   65667fgh   65668fgh      65669fgh
+65681fgh        65682fgh   65685fgh   65686fgh   65687fgh   65688fgh      65689fgh
+65781fgh        65782fgh   65783fgh   65784fgh   65785fgh   65786fgh      65787fgh
+65900fgh        65922fgh   65924fgh   65928fgh   65929fgh   65936fgh      65937fgh
+65939fgh        65945fgh   65949fgh   65950fgh   65953fgh   65956fgh      65966fgh
+65969fgh        65970fgh   65971fgh   65979fgh   65980fgh   65983fgh      66600fgh
+66601fgh        66602fgh   66605fgh   66606fgh   66607fgh   66608fgh      66609fgh
+66615fgh        66616fgh   66619fgh   66688fgh   73110fgh   73111fgh      73112fgh
+73113fgh        73114fgh   73116fgh   73118fgh   73119fgh   73120fgh      73127fgh
+73128fgh        73129fgh   73150fgh   73152fgh   73153fgh   73154fgh      73156fgh
+
+
+73157fgh       73158fgh    73159fgh   73160fgh   73161fgh   73162fgh   73163fgh
+73165fgh       73166fgh    73167fgh   73168fgh   73169fgh   73210fgh   73211fgh
+73213fgh       73214fgh    73215fgh   73216fgh   73217fgh   73218fgh   73219fgh
+73220fgh       73229fgh    73237fgh   73238fgh   73239fgh   73260fgh   73262fgh
+73263fgh       73264fgh    73265fgh   73266fgh   73267fgh   73269fgh   73310fgh
+73311fgh       73315fgh    73316fgh   73317fgh   73318fgh   73319fgh   73320fgh
+73321fgh       73328fgh    73329fgh   73335fgh   73336fgh   73339fgh   73340fgh
+73341fgh       73342fgh    73344fgh   73345fgh   73347fgh   73348fgh   73349fgh
+73360fgh       73361fgh    73362fgh   73365fgh   73366fgh   73367fgh   73368fgh
+73369fgh       73370fgh    73372fgh   73373fgh   73374fgh   73375fgh   73376fgh
+73377fgh       73378fgh    73379fgh   73380fgh   73381fgh   73382fgh   73383fgh
+73384fgh       73385fgh    73386fgh   73388fgh   73389fgh   73410fgh   73411fgh
+73412fgh       73413fgh    73414fgh   73417fgh   73418fgh   73419fgh   73430fgh
+73431fgh       73432fgh    73433fgh   73437fgh   73438fgh   73439fgh   73443fgh
+73444fgh       73445fgh    73446fgh   73447fgh   73448fgh   73449fgh   73455fgh
+73457fgh       73459fgh    73460fgh   73462fgh   73463fgh   73464fgh   73466fgh
+73467fgh       73468fgh    73469fgh   73470fgh   73476fgh   73478fgh   73479fgh
+73480fgh       73481fgh    73482fgh   73483fgh   73484fgh   73486fgh   73487fgh
+73488fgh       73489fgh    73492fgh   73493fgh   73494fgh   73495fgh   73496fgh
+73497fgh       73498fgh    73499fgh   73500fgh   73501fgh   73502fgh   73503fgh
+73505fgh       73508fgh    73509fgh   73510fgh   73511fgh   73512fgh   73513fgh
+73515fgh       73516fgh    73517fgh   73518fgh   73536fgh   73537fgh   73538fgh
+73539fgh       73544fgh    73546fgh   73548fgh   73549fgh   73550fgh   73553fgh
+73554fgh       73555fgh    73556fgh   73557fgh   73558fgh   73559fgh   73560fgh
+73563fgh       73564fgh    73565fgh   73566fgh   73567fgh   73568fgh   73569fgh
+73580fgh       73581fgh    73583fgh   73585fgh   73586fgh   73587fgh   73588fgh
+73589fgh       73592fgh    73593fgh   73594fgh   73595fgh   73596fgh   73597fgh
+73598fgh       73599fgh    73600fgh   73601fgh   73602fgh   73603fgh   73604fgh
+73605fgh       73606fgh    73607fgh   73609fgh   73610fgh   73612fgh   73614fgh
+73615fgh       73616fgh    73618fgh   73619fgh   73636fgh   73637fgh   73638fgh
+73639fgh       73640fgh    73641fgh   73645fgh   73649fgh   73655fgh   73656fgh
+73657fgh       73658fgh    73660fgh   73667fgh   73677fgh   73679fgh   73690fgh
+73691fgh       73692fgh    73695fgh   73696fgh   73697fgh   73699fgh   73727fgh
+73728fgh       73729fgh    73730fgh   73731fgh   73732fgh   73733fgh   73735fgh
+73736fgh       73739fgh    73758fgh   73770fgh   73771fgh   73772fgh   73773fgh
+73774fgh       73776fgh    73778fgh   73779fgh   73822fgh   73823fgh   73824fgh
+73825fgh       73827fgh    73828fgh   73829fgh   73836fgh   73837fgh   73838fgh
+73839fgh       73850fgh    73851fgh   73852fgh   73853fgh   73854fgh   73856fgh
+73857fgh       73858fgh    73859fgh   73860fgh   73861fgh   73862fgh   73863fgh
+73864fgh       73865fgh    73866fgh   73868fgh   73869fgh   73870fgh   73872fgh
+73873fgh       73874fgh    73875fgh   73876fgh   73877fgh   73878fgh   73879fgh
+73901fgh       73902fgh    73904fgh   73905fgh   73906fgh   73907fgh   73908fgh
+73920fgh       73927fgh    73928fgh   73929fgh   73930fgh   73931fgh   73932fgh
+73933fgh       73934fgh    73935fgh   73936fgh   73937fgh   73938fgh   73941fgh
+73942fgh       73943fgh    73944fgh   73945fgh   73946fgh   73947fgh   73948fgh
+73949fgh       73950fgh    73952fgh   73954fgh   73955fgh   73956fgh   73957fgh
+73958fgh       73980fgh    73981fgh   73982fgh   73984fgh   73985fgh   73986fgh
+73987fgh       73988fgh    73989fgh   73990fgh   73992fgh   73993fgh   73994fgh
+73995fgh       73998fgh    73999fgh   74129fgh   74150fgh   74152fgh   74153fgh
+74154fgh       74155fgh    74156fgh   74157fgh   74158fgh   74159fgh   74220fgh
+74228fgh       74250fgh    74251fgh   74253fgh   74254fgh   74255fgh   74256fgh
+74257fgh       74258fgh    74259fgh   74270fgh   74271fgh   74274fgh   74275fgh
+74276fgh       74277fgh    74278fgh   74279fgh   74330fgh   74336fgh   74338fgh
+74339fgh       74390fgh    74391fgh   74392fgh   74394fgh   74395fgh   74396fgh
+74397fgh       74398fgh    74399fgh   74410fgh   74411fgh   74412fgh   74413fgh
+
+
+74417fgh        74418fgh   74419fgh   74438fgh   74439fgh   74455fgh      74457fgh
+74460fgh        74462fgh   74463fgh   74464fgh   74492fgh   74493fgh      74494fgh
+74495fgh        74496fgh   74497fgh   74498fgh   74499fgh   74510fgh      74511fgh
+74512fgh        74513fgh   74515fgh   74516fgh   74517fgh   74518fgh      74537fgh
+74538fgh        74539fgh   74544fgh   74546fgh   74548fgh   74549fgh      74550fgh
+74554fgh        74555fgh   74556fgh   74557fgh   74558fgh   74559fgh      74564fgh
+74565fgh        74569fgh   74592fgh   74593fgh   74594fgh   74595fgh      74596fgh
+74597fgh        74598fgh   74599fgh   74600fgh   74601fgh   74602fgh      74603fgh
+74604fgh        74605fgh   74606fgh   74607fgh   74609fgh   74640fgh      74641fgh
+74645fgh        74649fgh   74655fgh   74656fgh   74657fgh   74658fgh      74660fgh
+74663fgh        74667fgh   74668fgh   74679fgh   74682fgh   74683fgh      74684fgh
+74689fgh        74690fgh   74691fgh   74692fgh   74695fgh   74696fgh      74697fgh
+74699fgh        74712fgh   74713fgh   74714fgh   74715fgh   74717fgh      74718fgh
+74719fgh        74730fgh   74731fgh   74732fgh   74733fgh   74735fgh      74736fgh
+74737fgh        74739fgh   74758fgh   74759fgh   74760fgh   74763fgh      74764fgh
+74765fgh        74766fgh   74767fgh   74768fgh   74769fgh   74770fgh      74771fgh
+74772fgh        74773fgh   74774fgh   74776fgh   74778fgh   74779fgh      74780fgh
+74781fgh        74784fgh   74785fgh   74786fgh   74787fgh   74788fgh      74824fgh
+74825fgh        74827fgh   74828fgh   74836fgh   74837fgh   74838fgh      74839fgh
+74840fgh        74844fgh   74851fgh   74852fgh   74853fgh   74854fgh      74856fgh
+74857fgh        74858fgh   74859fgh   74860fgh   74861fgh   74862fgh      74863fgh
+74864fgh        74865fgh   74866fgh   74868fgh   74869fgh   74870fgh      74872fgh
+74873fgh        74874fgh   74875fgh   74876fgh   74877fgh   74878fgh      74879fgh
+74910fgh        74912fgh   74913fgh   74914fgh   74915fgh   74916fgh      74917fgh
+74918fgh        74919fgh   74920fgh   74922fgh   74923fgh   74924fgh      74925fgh
+74926fgh        74927fgh   74990fgh   74991fgh   74993fgh   74994fgh      74995fgh
+74996fgh        74998fgh   74999fgh   75100fgh   75103fgh   75104fgh      75105fgh
+75106fgh        75107fgh   75108fgh   75109fgh   75146fgh   75147fgh      75148fgh
+75149fgh        75193fgh   75194fgh   75197fgh   75199fgh   75213fgh      75214fgh
+75215fgh        75216fgh   75217fgh   75218fgh   75219fgh   75226fgh      75227fgh
+75228fgh        75229fgh   75240fgh   75242fgh   75248fgh   75249fgh      75252fgh
+75253fgh        75257fgh   75273fgh   75274fgh   75290fgh   75293fgh      75294fgh
+75295fgh        75311fgh   75312fgh   75313fgh   75314fgh   75315fgh      75316fgh
+75317fgh        75318fgh   75319fgh   75326fgh   75327fgh   75328fgh      75329fgh
+75340fgh        75346fgh   75349fgh   75350fgh   75351fgh   75352fgh      75356fgh
+75357fgh        75358fgh   75359fgh   75369fgh   75380fgh   75385fgh      75386fgh
+75387fgh        75412fgh   75413fgh   75414fgh   75415fgh   75416fgh      75417fgh
+75418fgh        75419fgh   75426fgh   75427fgh   75428fgh   75429fgh      75455fgh
+75462fgh        75463fgh   75464fgh   75465fgh   75466fgh   75467fgh      75469fgh
+75472fgh        75473fgh   75474fgh   75475fgh   75476fgh   75477fgh      75478fgh
+75479fgh        75511fgh   75512fgh   75516fgh   75570fgh   75576fgh      75578fgh
+75579fgh        75584fgh   75587fgh   75589fgh   75590fgh   75591fgh      75592fgh
+75593fgh        75595fgh   75596fgh   75597fgh   75599fgh   75600fgh      75603fgh
+75604fgh        75605fgh   75606fgh   75607fgh   75609fgh   75619fgh      75632fgh
+75633fgh        75634fgh   75635fgh   75636fgh   75637fgh   75638fgh      75639fgh
+75649fgh        75660fgh   75663fgh   75668fgh   75670fgh   75672fgh      75675fgh
+75677fgh        75680fgh   75686fgh   75710fgh   75713fgh   75714fgh      75715fgh
+75716fgh        75717fgh   75718fgh   75719fgh   75750fgh   75755fgh      75758fgh
+75759fgh        75774fgh   75776fgh   75783fgh   75784fgh   75785fgh      75786fgh
+75787fgh        75788fgh   75789fgh   75791fgh   75792fgh   75793fgh      75794fgh
+75795fgh        75796fgh   75797fgh   75798fgh   75799fgh   75804fgh      75807fgh
+75808fgh        75809fgh   75810fgh   75811fgh   75812fgh   75813fgh      75817fgh
+75818fgh        75819fgh   75842fgh   75844fgh   75845fgh   75846fgh      75847fgh
+75848fgh        75849fgh   75850fgh   75855fgh   75856fgh   75886fgh      75887fgh
+75888fgh        75889fgh   75894fgh   75898fgh   75916fgh   75917fgh      75918fgh
+
+
+75936fgh       75937fgh    75938fgh   75939fgh   75946fgh   75947fgh   75948fgh
+75949fgh       76113fgh    76120fgh   76128fgh   76130fgh   76137fgh   76139fgh
+76209fgh       76210fgh    76211fgh   76212fgh   76213fgh   76215fgh   76216fgh
+76217fgh       76218fgh    76219fgh   76220fgh   76229fgh   76242fgh   76243fgh
+76246fgh       76248fgh    76271fgh   76289fgh   76290fgh   76298fgh   76299fgh
+76328fgh       76349fgh    76370fgh   76371fgh   76372fgh   76374fgh   76375fgh
+76378fgh       76379fgh    76430fgh   76440fgh   76441fgh   76442fgh   76443fgh
+76447fgh       76448fgh    76449fgh   76510fgh   76512fgh   76513fgh   76514fgh
+76515fgh       76516fgh    76517fgh   76518fgh   76525fgh   76545fgh   76547fgh
+76548fgh       76563fgh    76565fgh   76583fgh   76584fgh   76586fgh   76588fgh
+76590fgh       76591fgh    76593fgh   76601fgh   76605fgh   76606fgh   76607fgh
+76622fgh       76623fgh    76624fgh   76625fgh   76626fgh   76627fgh   76628fgh
+76629fgh       76630fgh    76633fgh   76634fgh   76635fgh   76642fgh   76643fgh
+76644fgh       76647fgh    76650fgh   76651fgh   76661fgh   76662fgh   76663fgh
+76664fgh       76666fgh    76667fgh   76668fgh   76669fgh   76680fgh   76681fgh
+76682fgh       76683fgh    76684fgh   76685fgh   76686fgh   76718fgh   76747fgh
+76750fgh       76753fgh    76754fgh   76755fgh   76770fgh   76780fgh   76787fgh
+76800fgh       76802fgh    76803fgh   76804fgh   76805fgh   76808fgh   76809fgh
+76820fgh       76824fgh    76826fgh   76828fgh   76834fgh   76842fgh   76846fgh
+76891fgh       76892fgh    76893fgh   76894fgh   76895fgh   76896fgh   76897fgh
+76898fgh       76899fgh    76924fgh   76925fgh   76926fgh   76927fgh   76956fgh
+76957fgh       76959fgh    76965fgh   76969fgh   76990fgh   76994fgh   76995fgh
+76996fgh       76997fgh    76998fgh   76999fgh   79110fgh   79129fgh   79132fgh
+79143fgh       79148fgh    79160fgh   79162fgh   79163fgh   79164fgh   79165fgh
+79167fgh       79168fgh    79169fgh   79170fgh   79172fgh   79173fgh   79174fgh
+79175fgh       79176fgh    79178fgh   79179fgh   79186fgh   79188fgh   79220fgh
+79224fgh       79225fgh    79226fgh   79227fgh   79228fgh   79229fgh   79250fgh
+79256fgh       79258fgh    79259fgh   79275fgh   79276fgh   79278fgh   79279fgh
+79280fgh       79281fgh    79283fgh   79285fgh   79286fgh   79287fgh   79288fgh
+79289fgh       79309fgh    79326fgh   79328fgh   79329fgh   79338fgh   79339fgh
+79410fgh       79411fgh    79418fgh   79419fgh   79421fgh   79423fgh   79426fgh
+79430fgh       79438fgh    79439fgh   79440fgh   79441fgh   79442fgh   79443fgh
+79444fgh       79445fgh    79446fgh   79448fgh   79449fgh   79500fgh   79510fgh
+79512fgh       79513fgh    79514fgh   79515fgh   79516fgh   79517fgh   79518fgh
+79519fgh       79570fgh    79572fgh   79573fgh   79574fgh   79575fgh   79576fgh
+79577fgh       79578fgh    79579fgh   79600fgh   79603fgh   79604fgh   79605fgh
+79606fgh       79607fgh    79608fgh   79609fgh   79686fgh   79687fgh   79688fgh
+79689fgh       79740fgh    79742fgh   79743fgh   79744fgh   79745fgh   79746fgh
+79747fgh       79748fgh    79749fgh   79750fgh   79751fgh   79752fgh   79753fgh
+79754fgh       79758fgh    79759fgh   79830fgh   79831fgh   79832fgh   79834fgh
+79835fgh       79836fgh    79837fgh   79838fgh   79839fgh   79841fgh   79842fgh
+79843fgh       79844fgh    79846fgh   79847fgh   79848fgh   79849fgh   79872fgh
+79873fgh       79874fgh    79875fgh   79876fgh   79877fgh   79879fgh   79890fgh
+79891fgh       79892fgh    79893fgh   79894fgh   79895fgh   79896fgh   79897fgh
+79899fgh       79910fgh    79911fgh   79912fgh   79913fgh   79914fgh   79915fgh
+79916fgh       79917fgh    79919fgh   86111fgh   86200fgh   86218fgh   86233fgh
+86234fgh       86235fgh    86236fgh   86237fgh   86238fgh   86239fgh   86267fgh
+86268fgh       86269fgh    86328fgh   86329fgh   86330fgh   86333fgh   86335fgh
+86338fgh       86347fgh    86348fgh   86349fgh   86360fgh   86366fgh   86368fgh
+86369fgh       86374fgh    86375fgh   86378fgh   86380fgh   86385fgh   86388fgh
+86389fgh       86390fgh    86393fgh   86397fgh   86399fgh   86444fgh   86446fgh
+86449fgh       86460fgh    86465fgh   86482fgh   86513fgh   86514fgh   86526fgh
+86527fgh       86528fgh    86529fgh   86530fgh   86532fgh   86533fgh   86534fgh
+86535fgh       86536fgh    86537fgh   86539fgh   86548fgh   86549fgh   86555fgh
+86562fgh       86563fgh    86564fgh   86565fgh   86566fgh   86567fgh   86568fgh
+
+
+86569fgh        86574fgh   86575fgh   86576fgh   86578fgh   86616fgh      86617fgh
+86618fgh        86619fgh   86630fgh   86631fgh   86632fgh   86633fgh      86634fgh
+86635fgh        86636fgh   86640fgh   86641fgh   86648fgh   86649fgh      86650fgh
+86655fgh        86656fgh   86657fgh   86670fgh   86677fgh   86678fgh      86679fgh
+86687fgh        86689fgh   86693fgh   86698fgh   86710fgh   86711fgh      86712fgh
+86713fgh        86714fgh   86715fgh   86717fgh   86718fgh   86719fgh      86723fgh
+86724fgh        86730fgh   86731fgh   86732fgh   86736fgh   86737fgh      86738fgh
+86739fgh        86768fgh   86769fgh   86771fgh   86772fgh   86773fgh      86774fgh
+86780fgh        86781fgh   86788fgh   86807fgh   86808fgh   86830fgh      86831fgh
+86832fgh        86833fgh   86834fgh   86835fgh   86838fgh   86839fgh      86840fgh
+86842fgh        86843fgh   86850fgh   86852fgh   86857fgh   86858fgh      86860fgh
+86863fgh        86866fgh   86868fgh   86873fgh   86874fgh   86876fgh      86878fgh
+86885fgh        86887fgh   86920fgh   86925fgh   86935fgh   86940fgh      86955fgh
+86956fgh        86958fgh   86959fgh   86970fgh   86971fgh   86972fgh      86973fgh
+86976fgh        86977fgh   86978fgh   86984fgh   87116fgh   87121fgh      87127fgh
+87129fgh        87209fgh   87220fgh   87265fgh   87266fgh   87268fgh      87269fgh
+87277fgh        87280fgh   87319fgh   87330fgh   87337fgh   87339fgh      87359fgh
+87378fgh        87379fgh   87384fgh   87399fgh   87409fgh   87445fgh      87479fgh
+87481fgh        87492fgh   87494fgh   87495fgh   87496fgh   87510fgh      87516fgh
+87518fgh        87528fgh   87530fgh   87533fgh   87534fgh   87539fgh      87543fgh
+87544fgh        87548fgh   87549fgh   87556fgh   87557fgh   87558fgh      87570fgh
+87574fgh        87575fgh   87577fgh   87615fgh   87617fgh   87619fgh      87624fgh
+87626fgh        87644fgh   87645fgh   87647fgh   87649fgh   87650fgh      87651fgh
+87652fgh        87653fgh   87654fgh   87655fgh   87657fgh   87658fgh      87701fgh
+87707fgh        87709fgh   87710fgh   87711fgh   87712fgh   87713fgh      87715fgh
+87716fgh        87717fgh   87718fgh   87719fgh   87732fgh   87733fgh      87738fgh
+87744fgh        87745fgh   87747fgh   87749fgh   87750fgh   87751fgh      87752fgh
+87753fgh        87754fgh   87755fgh   87756fgh   87758fgh   87759fgh      87764fgh
+87765fgh        87810fgh   87811fgh   87820fgh   87821fgh   87822fgh      87829fgh
+87853fgh        87855fgh   87860fgh   87861fgh   87862fgh   87881fgh      87886fgh
+87889fgh        87890fgh   87891fgh   87892fgh   87893fgh   87894fgh      87895fgh
+87896fgh        87898fgh   87913fgh   87917fgh   87919fgh   87940fgh      87945fgh
+87970fgh        87971fgh   87974fgh   87975fgh   87976fgh   87977fgh      87978fgh
+87996fgh        87998fgh   89100fgh   89104fgh   89106fgh   89109fgh      89115fgh
+89116fgh        89119fgh   89120fgh   89127fgh   89128fgh   89129fgh      89140fgh
+89142fgh        89143fgh   89144fgh   89145fgh   89146fgh   89147fgh      89148fgh
+89149fgh        89200fgh   89204fgh   89210fgh   89216fgh   89218fgh      89219fgh
+89230fgh        89231fgh   89233fgh   89235fgh   89236fgh   89237fgh      89238fgh
+89239fgh        89250fgh   89254fgh   89259fgh   89290fgh   89291fgh      89293fgh
+89294fgh        89295fgh   89296fgh   89297fgh   89298fgh   89299fgh      89334fgh
+89339fgh        89342fgh   89345fgh   89387fgh   89400fgh   89408fgh      89418fgh
+89430fgh        89437fgh   89439fgh   89480fgh   89520fgh   89522fgh      89523fgh
+89524fgh        89526fgh   89527fgh   89528fgh   89529fgh   89530fgh      89533fgh
+89534fgh        89535fgh   89536fgh   89537fgh   89538fgh   89539fgh      89600fgh
+89601fgh        89602fgh   89603fgh   89604fgh   89605fgh   89607fgh      89608fgh
+89609fgh        89630fgh   89632fgh   89633fgh   89634fgh   89635fgh      89637fgh
+89638fgh        89639fgh   89647fgh   89648fgh   89649fgh   89706fgh      89708fgh
+89709fgh        89720fgh   89721fgh   89722fgh   89723fgh   89724fgh      89725fgh
+89726fgh        89728fgh   89729fgh   89740fgh   89741fgh   89742fgh      89743fgh
+89744fgh        89745fgh   89746fgh   89749fgh   89930fgh   96110fgh      96112fgh
+96118fgh        96131fgh   96138fgh   96146fgh   96163fgh   96196fgh      96197fgh
+96209fgh        96212fgh   96237fgh   96238fgh   96240fgh   96243fgh      96244fgh
+96245fgh        96250fgh   96257fgh   96295fgh   96297fgh   96298fgh      96339fgh
+96362fgh        96363fgh   96367fgh   96368fgh   96371fgh   96374fgh      96375fgh
+96379fgh        96404fgh   96414fgh   96417fgh   96428fgh   96429fgh      96430fgh
+
+
+96431fgh       96432fgh    96433fgh   96434fgh   96437fgh   96439fgh   96447fgh
+96448fgh       96449fgh    96451fgh   96457fgh   96463fgh   96466fgh   96469fgh
+96481fgh       96489fgh    96491fgh   96493fgh   96502fgh   96503fgh   96504fgh
+96509fgh       96510fgh    96516fgh   96536fgh   96537fgh   96538fgh   96539fgh
+96548fgh       96549fgh    96551fgh   96552fgh   96553fgh   96555fgh   96562fgh
+96579fgh       96580fgh    96581fgh   96582fgh   96610fgh   96615fgh   96616fgh
+96617fgh       96639fgh    96647fgh   96648fgh   96650fgh   96652fgh   96653fgh
+96654fgh       96655fgh    96656fgh   96657fgh   96665fgh   96669fgh   96677fgh
+96681fgh       96683fgh    96688fgh   96700fgh   96704fgh   96707fgh   96709fgh
+96713fgh       96726fgh    96736fgh   96759fgh   96785fgh   96787fgh   96789fgh
+96796fgh       96797fgh    96798fgh   96799fgh   96810fgh   96811fgh   96819fgh
+96823fgh       96824fgh    96831fgh   96838fgh   96846fgh   96847fgh   96851fgh
+96852fgh       96865fgh    96888fgh   96913fgh   96914fgh   96915fgh   96918fgh
+96920fgh       96927fgh    96928fgh   96929fgh   96948fgh   96953fgh   96960fgh
+96967fgh       96972fgh    96973fgh   96986fgh   96989fgh   97103fgh   97104fgh
+97105fgh       97106fgh    97107fgh   97108fgh   97109fgh   97110fgh   97111fgh
+97146fgh       97150fgh    97158fgh   97159fgh   97160fgh   97165fgh   97167fgh
+97169fgh       97185fgh    97186fgh   97189fgh   97190fgh   97193fgh   97197fgh
+97218fgh       97227fgh    97228fgh   97229fgh   97253fgh   97254fgh   97255fgh
+97256fgh       97257fgh    97258fgh   97259fgh   97327fgh   97328fgh   97329fgh
+97332fgh       97334fgh    97336fgh   97360fgh   97363fgh   97365fgh   97367fgh
+97370fgh       97377fgh    97378fgh   97379fgh   97400fgh   97409fgh   97444fgh
+97445fgh       97447fgh    97449fgh   97450fgh   97451fgh   97453fgh   97455fgh
+97457fgh       97458fgh    97459fgh   97493fgh   97494fgh   97499fgh   97515fgh
+97516fgh       97517fgh    97518fgh   97530fgh   97532fgh   97540fgh   97543fgh
+97546fgh       97562fgh    97567fgh   97569fgh   97570fgh   97573fgh   97575fgh
+97577fgh       97580fgh    97582fgh   97583fgh   97586fgh   97587fgh   97588fgh
+97589fgh       97590fgh    97594fgh   97598fgh   97599fgh   97712fgh   97713fgh
+97714fgh       97715fgh    97716fgh   97717fgh   97718fgh   97719fgh   97726fgh
+97727fgh       97728fgh    97729fgh   97730fgh   97733fgh   97734fgh   97735fgh
+97736fgh       97737fgh    97738fgh   97739fgh   97750fgh   97753fgh   97754fgh
+97755fgh       97756fgh    97757fgh   97758fgh   97759fgh   97760fgh   97763fgh
+97765fgh       97768fgh    97812fgh   97813fgh   97814fgh   97815fgh   97816fgh
+97817fgh       97818fgh    97819fgh   97830fgh   97833fgh   97838fgh   97839fgh
+97857fgh       97858fgh    97859fgh   97860fgh   97864fgh   97866fgh   97867fgh
+97880fgh       97882fgh    97883fgh   97886fgh   97890fgh   97892fgh   97894fgh
+97896fgh       97897fgh    97898fgh   97899fgh   97927fgh   97928fgh   97929fgh
+97932fgh       97940fgh    97943fgh   97947fgh   97949fgh   98105fgh   98106fgh
+98107fgh       98108fgh    98118fgh   98119fgh   98150fgh   98198fgh   98199fgh
+98200fgh       98201fgh    98202fgh   98203fgh   98205fgh   98206fgh   98207fgh
+98210fgh       98214fgh    98216fgh   98219fgh   98220fgh   98222fgh   98224fgh
+98226fgh       98227fgh    98228fgh   98229fgh   98237fgh   98239fgh   98263fgh
+98264fgh       98266fgh    98267fgh   98290fgh   98295fgh   98312fgh   98330fgh
+98334fgh       98340fgh    98344fgh   98345fgh   98346fgh   98347fgh   98348fgh
+98349fgh       98354fgh    98356fgh   98358fgh   98359fgh   98376fgh   98386fgh
+98388fgh       98411fgh    98412fgh   98413fgh   98414fgh   98415fgh   98416fgh
+98417fgh       98418fgh    98437fgh   98440fgh   98447fgh   98448fgh   98449fgh
+98452fgh       98453fgh    98470fgh   98471fgh   98472fgh   98474fgh   98476fgh
+98477fgh       98478fgh    98490fgh   98492fgh   98493fgh   98494fgh   98495fgh
+98496fgh       98497fgh    98526fgh   98528fgh   98529fgh   98540fgh   98543fgh
+98553fgh       98556fgh    98559fgh   98580fgh   98586fgh   98620fgh   98628fgh
+98630fgh       98635fgh    98637fgh   98639fgh   98640fgh   98644fgh   98646fgh
+98650fgh       98652fgh    98655fgh   98659fgh   98660fgh   98665fgh   98667fgh
+98668fgh       98670fgh    98751fgh   98752fgh   98755fgh   98756fgh   98757fgh
+98758fgh       98759fgh    98779fgh   98792fgh   98793fgh   98794fgh   98798fgh
+
+
+98803fgh        98804fgh   98805fgh   98806fgh   98807fgh   98808fgh      98809fgh
+98810fgh        98812fgh   98813fgh   98814fgh   98815fgh   98816fgh      98817fgh
+98818fgh        98819fgh   98826fgh   98827fgh   98828fgh   98829fgh      98830fgh
+98833fgh        98836fgh   98839fgh   98880fgh   98886fgh   98888fgh      98905fgh
+98906fgh        98907fgh   98912fgh   98913fgh   98914fgh   98915fgh      98916fgh
+98917fgh        98918fgh   98919fgh   98940fgh   98947fgh   98948fgh      98966fgh
+98993fgh        98997fgh   99105fgh   99106fgh   99108fgh   99109fgh      99120fgh
+99129fgh        99140fgh   99143fgh   99144fgh   99145fgh   99146fgh      99147fgh
+99148fgh        99150fgh   99154fgh   99158fgh   99159fgh   99200fgh      99201fgh
+99206fgh        99209fgh   99260fgh   99261fgh   99262fgh   99270fgh      99275fgh
+99278fgh        99279fgh   99280fgh   99281fgh   99284fgh   99285fgh      99290fgh
+99292fgh        99293fgh   99294fgh   99295fgh   99296fgh   99297fgh      99298fgh
+99310fgh        99320fgh   99327fgh   99330fgh   99350fgh   99358fgh      99360fgh
+99362fgh        99368fgh   99374fgh   99379fgh   99380fgh   99381fgh      99382fgh
+99383fgh        99386fgh   99387fgh   99388fgh   99389fgh   99390fgh      99401fgh
+99405fgh        99406fgh   99420fgh   99426fgh   99429fgh   99450fgh      99451fgh
+99452fgh        99453fgh   99456fgh   99457fgh   99458fgh   99459fgh      99470fgh
+99473fgh        99474fgh   99475fgh   99476fgh   99477fgh   99478fgh      99479fgh
+99480fgh        99481fgh   99485fgh   99486fgh   99487fgh   99488fgh      99489fgh
+99490fgh        99492fgh   99493fgh   99494fgh   99495fgh   99496fgh      99497fgh
+99498fgh        99499fgh   99500fgh   99501fgh   99502fgh   99503fgh      99504fgh
+99506fgh        99507fgh   99508fgh   99509fgh   99520fgh   99523fgh      99524fgh
+99526fgh        99527fgh   99528fgh   99529fgh   99530fgh   99531fgh      99532fgh
+99533fgh        99534fgh   99536fgh   99537fgh   99538fgh   99539fgh      99540fgh
+99541fgh        99542fgh   99543fgh   99544fgh   99546fgh   99547fgh      99548fgh
+99560fgh        99566fgh   99567fgh   99568fgh   99580fgh   99581fgh      99582fgh
+99583fgh        99584fgh   99586fgh   99587fgh   99588fgh   99589fgh      99608fgh
+99609fgh        99610fgh   99612fgh   99613fgh   99614fgh   99615fgh      99616fgh
+99617fgh        99618fgh   99619fgh   99620fgh   99621fgh   99622fgh      99625fgh
+99627fgh        99628fgh   99629fgh   99630fgh   99632fgh   99633fgh      99634fgh
+99635fgh        99637fgh   99638fgh   99639fgh   99640fgh   99647fgh      99648fgh
+99649fgh        99660fgh   99662fgh   99664fgh   99665fgh   99681fgh      99682fgh
+99689fgh        99700fgh   99701fgh   99702fgh   99703fgh   99704fgh      99705fgh
+99708fgh        99709fgh   99732fgh   99735fgh   99736fgh   99738fgh      99750fgh
+99756fgh        99758fgh   99780fgh   99781fgh   99782fgh   99784fgh      99785fgh
+99786fgh        99787fgh   99788fgh   99789fgh   99790fgh   99792fgh      99793fgh
+99794fgh        99796fgh   99798fgh   99799fgh   99800fgh   99802fgh      99803fgh
+99804fgh        99805fgh   99807fgh   99808fgh   99809fgh   99830fgh      99831fgh
+99832fgh        99833fgh   99834fgh   99835fgh   99836fgh   99837fgh      99839fgh
+99860fgh        99866fgh   99869fgh   99921fgh   99922fgh   99923fgh      99924fgh
+99925fgh        99926fgh   99927fgh   99928fgh   99940fgh   99943fgh      99945fgh
+99946fgh        99947fgh   99948fgh   99949fgh   99950fgh   99951fgh      99952fgh
+99953fgh        99954fgh   99955fgh   99956fgh   99957fgh   99958fgh      99960fgh
+99963fgh        99964fgh   99965fgh   99966fgh   99967fgh   99968fgh      99969fgh
+99980fgh        99981fgh   99982fgh   99983fgh   99984fgh   99985fgh      99986fgh
+99987fgh
+
+
+
+
+Communication of 10.III.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•    assignment – Mobile communication services
+           Provider                           Numbering series                      Date of assignment
+Benemen Oy                     9311efgh                                                     10.III.2017
+Maxtel.dk                      93100fgh and 93103fgh                                        10.III.2017
+
+
+Communication of 17.III.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     assignment – Mobile communication services
+            Provider                           Numbering series                     Date of assignment
+Telenor Connexion AB            356defgh                                                    1.IV.2017
+
+Contact:
+         Danish Energy Agency
+         Amaliegade 44
+         1256 COPENHAGEN K
+         Denmark
+         Tel:    +45 33 92 67 00
+         Fax:    +45 33 11 47 43
+         E-mail: ens@ens.dk
+         URL:    www.ens.dk
+
+Ghana (country code +233)
+Communication of 2.III.2017:
+The National Communications Authority (NCA), Accra, announces the assignment of new numbering blocks to an
+existing GSM/UMTS operator, Scancom Ghana Limited (MTN).
+a)       Overview:
+         The minimum number length (excluding the country code) is:     9 digits.
+         The maximum number length (excluding the country code) is:     9 digits.
+b)       Detail of numbering plan:
+
+
+        NDC (National          N(S)N number length
+     Destination Code) or
+                                                                                               Additional
+    leading digits of N(S)N    Maximum   Minimum           Usage of E.164 Number
+                                                                                              information
+    (National (Significant)     length    length
+           Number)
+       30 (NDC)                    9         9       Geographic number for fixed           Scancom Ghana
+       (30 800 XX XX)                                services in Greater Accra Region      Limited (MTN)
+       31 (NDC)                    9         9       Geographic number for fixed           Scancom Ghana
+       (31 800 XX XX)                                services in Western Region            Limited (MTN)
+       32 (NDC)                    9         9       Geographic number for fixed           Scancom Ghana
+       (32 800 XX XX)                                services in Ashanti Region            Limited (MTN)
+       33 (NDC)                    9         9       Geographic number for fixed           Scancom Ghana
+       (33 800 XX XX)                                services in Central Region            Limited (MTN)
+       34 (NDC)                    9         9       Geographic number for fixed           Scancom Ghana
+       (34 800 XX XX)                                services in Eastern Region            Limited (MTN)
+
+
+
+        NDC (National          N(S)N number length
+     Destination Code) or
+                                                                                                  Additional
+    leading digits of N(S)N   Maximum        Minimum           Usage of E.164 Number
+                                                                                                 information
+    (National (Significant)    length         length
+           Number)
+       35 (NDC)                   9              9        Geographic number for fixed         Scancom Ghana
+       (35 800 XX XX)                                     services in Brong Ahafo Region      Limited (MTN)
+       36 (NDC)                   9              9        Geographic number for fixed         Scancom Ghana
+       (36 800 XX XX)                                     services in Volta Region            Limited (MTN)
+       37 (NDC)                   9              9        Geographic number for fixed         Scancom Ghana
+       (37 800 XX XX)                                     services in Northern Region         Limited (MTN)
+       38 (NDC)                   9              9        Geographic number for fixed         Scancom Ghana
+       (38 800 XX XX)                                     services in Upper East Region       Limited (MTN)
+       39 (NDC)                   9              9        Geographic number for fixed         Scancom Ghana
+       (39 800 XX XX)                                     services in Upper West Region       Limited (MTN)
+       55Y (NDC)                  9              9        Non-geographic number for mobile    Scancom Ghana
+       Y=7&8                                              services                            Limited (MTN)
+       (55 7XX XXXX)
+       (55 8XX XXXX)
+       800 (NDC)                  9              9        Non-geographic number –             Allocated for
+                                                          National freephone                  national toll-free
+                                                                                              services
+
+Contact:
+         National Communications Authority (NCA)
+         Mr Paul Kofi Datsa
+         NCA Tower, No. 6 Airport City
+         P.O. Box CT 1568 Cantonments
+         ACCRA
+         Ghana
+         Tel:     +233 302 776 621
+         Fax:     +233 302 763 449
+         E-mail: info@nca.org.gh
+         URL:     www.nca.org.gh
+
+Iran (Islamic Republic of) (country code +98)
+Communication of 13.III.2017:
+The Communications Regulatory Authority (CRA), Tehran, announces the following updated National Numbering
+Plan of the Islamic Republic of Iran.
+                                      Presentation of the Iran E.164 numbering plan
+1- General Information
+The E.164 numbering Plan of Iran:
+•        Country Code: +98
+•        International Prefix: “00”
+•        National Prefix: ”0”
+         For national calls, it must be dialled before all telephone numbers except short numbers.
+         It must not be dialled from abroad.
+•        National destination Code: 2 digits.
+
+
+
+
+2- Detail of Numbering Scheme
+•         NDC: National Destination Code
+•         NSN: National Significant Number (NDC + SN)
+The minimum number length (excluding the country code) is          5 digits
+The maximum number length (excluding the country code) is          10 digits
+                                                Numbering Scheme
+               NSN Number length
+    NDC                                    Usage of E.164           Additional Information
+             Minimum   Maximum
+    11           5          10             Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- Mazandaran)
+    13           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- Gilan)
+    17           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- Golestan)
+    21           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- Tehran)
+    23           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- Semnan)
+    24           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- Zanjan)
+    25           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers-Qom)
+    26           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers-Alborz)
+    28           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers-Ghazvin )
+    31           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- Isfahan)
+    34           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- Kerman)
+    35           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers-Yazd)
+    38           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- Chahar Mahal va
+                                                                    Bakhtiari)
+    41           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- East Azarbayjan)
+    44           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- West Azarbayjan)
+    45           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers- Ardabil)
+    51           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Razavi Khorasan)
+    54           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Sistan va Balochestan)
+    56           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – South Khorasan)
+    58           5             10          Fixed Phone              Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers - North Khorasan)
+
+
+
+          NSN Number length
+NDC                           Usage of E.164         Additional Information
+        Minimum   Maximum
+61          5          10     Fixed Phone            Area Code (Geographic Number for Fixed
+                                                     telephony Numbers -Khuzestan)
+66          5         10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                     telephony Numbers - Lorestan)
+71          5         10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                     telephony Numbers - Fars)
+74          5         10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                     telephony Numbers –Kohgiluoye va Boyer
+                                                     Ahmad)
+76          5         10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                     telephony Numbers - Hormozgan)
+77          5         10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                     telephony Numbers - Bushehr)
+81          5         10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                     telephony Numbers – Hamadan)
+83          5         10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                     telephony Numbers – Kermanshahan)
+84          5         10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                     telephony Numbers- Ilam)
+86          5         10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                     telephony Numbers-Markazi)
+87          5         10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                     telephony Numbers-Kurdestan)
+901         10        10      Mobile services
+902         10        10      Mobile services
+903         10        10      Mobile services
+91          10        10      Mobile services
+920         10        10      Mobile services
+921         10        10      Mobile services
+922         10        10      Mobile services
+93          10        10      Mobile services
+94000       10        10      Fixed Phone (fibber)   Non geographical
+94111        5        10      Fixed Phone (Fixed     Just Originating from Iran
+                              wireless Access)
+94112       5         10      Fixed Phone (Fixed     Just Originating from Iran
+                              wireless Access)
+94113       5         10      Fixed Phone (Fixed     Just Originating from Iran
+                              wireless Access)
+94114       5         10      Fixed Phone (Fixed     Just Originating from Iran
+                              wireless Access)
+94115       5         10      Fixed Phone (Fixed     Just Originating from Iran
+                              wireless Access)
+94116       5         10      Fixed Phone (Fixed     Just Originating from Iran
+                              wireless Access)
+94117       5         10      Fixed Phone (Fixed     Just Originating from Iran
+                              wireless Access)
+942         5         10      Fixed Phone            Non geographical
+
+
+
+
+             NSN Number length
+ NDC                                   Usage of E.164              Additional Information
+           Minimum   Maximum
+ 94440         5          10           Fixed Phone (Fixed          Just Originating from Iran
+                                       wireless Access)
+ 96            5             6         Services Codes
+ 990          10            10         Mobile services
+ 993          10            10         Satellite Services
+ 99998        10            10         Mobile services
+ 99999        10            10         Mobile services
+
+
+Contact:
+       Alireza Darvishi
+       Director, International Specialized Organizations Bureau,
+       Communications Regulatory Authority (CRA)
+       Ministry of Information and Communication Technology
+       15598 TEHRAN
+       Iran (Islamic Republic of)
+       Tel:      +98 21 89662201
+       Fax:      +98 21 88468999
+       URL:      www.cra.ir
+
+
+
+
+                                       Other communications
+
+Serbia
+Communications of 13.III.2017:
+On the occasion of the 800 years of the coronation of the Serbian King Stefan Nemanjic, the Serbian
+Administration authorizes a number of Serbian amateur radio stations to use the special call sign YT800YU from
+1 April to 31 December 2017.
+
+On the occasion of the 72nd anniversary of the victory over fascism, the Serbian Administration authorizes a
+number of Serbian amateur radio stations to use the special call signs YU72LP and YT72AV from 3 to
+10 May 2017.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                             Abbreviations used
+
+                               ADD    Insert                     PAR    paragraph
+                               COL    Column                     REP    replace
+                               LIR    Read                       SUP    Delete
+                               P      page(s)
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2017
+
+                                                Section VI
+REP
+
+      GR11        Telefinos Co., G. FINOS Co., Kolokotroni 108 , 185 35 Piraeus, Greece.
+                  Tel.: +30 210 4112214, Fax: +30 210 4227047, E-Mail: telfinos@otenet.gr,
+                  Contact Person: Finos George.
+
+      PH02        Business Process Outsourcing International, Inc. 30 th floor, Citibank Tower,
+                  8741 Valeros Street, 1200 Makati City, Philippines.
+                  Tel.: +632 286 6700 loc. 6832, +632 286 6700 loc. 6878, +632 286 6700 loc. 6931,
+                  Fax: +632 234 1208, E-Mail: pgyap@bposerve.com,
+                  Ms. Pamela Iris Yap, Operations Manager.
+
+      PH04        Nemo Technical & Telecommunications Services, Inc., Unit 2012,
+                  Cityland Pasong Tamo Tower, 2210 Don Chino Roces Ave.,
+                  Makati City, Philippines.
+                  Tel.: +632 8135971, +632 8928028, Fax: +632 892 2028,
+                  E-Mail: teodoro_sorilla@yahoo.com, tusorilla@hotmail.com,
+                  Contact Person: Teodoro U. Sorilla.
+
+      US03        Marlink Inc., 11707 South Sam Houston Parkway West, Suite A,
+                  Houston, TX 77031, United States.
+                  Tel.: +33 5 61 28 89 99, Fax: +33 5 61 28 89 98,
+                  E-Mail: asbc.customercare@astrium.eads.net,
+                  Contact Person: Luc Feron.
+SUP
+
+      TN03        Office national des pêches, B.P. 13, 2060 Port Lagoulette, Tunisie.
+
+      TN06        Société Hannibal Marine Tankers, 10, Rue 8161, Cité Olympique, 1003 Tunis, Tunisie.
+
+      TN08        Gabès Marine Tankers, Immeuble Setcar, Ezzahra 2034, Tunisie.
+                  Tel.: +216 1 454644, Fax: +216 1 454650, Tlx: 13235 gmt, 14198 gmt,
+                  Contact Person: Cdt Bousrih M.S.
+
+      TN10        Société Maritime Amira, Rue Ibn Bassem, 2034 Ezzahra, Tunis Tunisie.
+                  Tel.: + 216 1 331544, Fax: +216 1 332124.
+
+      TN12        Ecole des pêches, Rue d'Espagne prolongée, Bizerte, Tunisie.
+
+
+
+      TN16         Société Petronav, B.P. 85, 2080 Tunis Ariana, Tunisie.
+
+      TN17         Société Promo Pêche, Ali Mezghani, Rue Hédi Kefacha, Sfax, Tunisie.
+
+      TN20         Société Le Cosoup, 50, Rue Patrice Lumumba, Sfax, Tunisie.
+
+      TN22         Société industrielle et commerciale de pêche SICOPECHE,
+                   Route de Madagascar, B.P. 01, Sfax 3018, Tunisie.
+
+      TN28         Younsi Faouzi Jamaa, El Haoua 1008, Tunis, Tunisie.
+
+      TN30         Société Imem El Mezri, Rue Ibn Khaldoun, Teboulba, Tunisie.
+
+
+
+
+  Mobile Network Codes (MNC) for the international identification plan
+                for public networks and subscriptions
+        (According to Recommendation ITU-T E.212 (09/2016))
+                   (Position on 1st November 2016)
+                          (Annex to ITU Operational Bulletin No. 1111 - 1.XI.2016)
+                                          (Amendment No.10)
+
+ Country/Geographical area           MCC+MNC *           Operator/Network
+
+ Australia ADD
+                                           505 42        Groote Eylandt Mining Company Pty Ltd
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                       (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                        (Amendment No. 40)
+
+ Country or area/ISO code                         Company Code      Contact
+  Company Name/Address                             (carrier code)
+
+Germany (Federal Republic of) / DEU       ADD
+
+ CNT AG                                                CNT          Mrs Birgit Braun
+ Ludwig-Erhard-Allee 20                                             Tel:     +49 721 669 1230
+ 76131 KARLSRUHE                                                    Fax:     +49 721 669 2000
+                                                                    E-mail: order-admin@cnt.net
+
+
+
+ fonial GmbH                                          FONIAL        Mr Wolfram Lueders
+ Venioer Str. 47-53                                                 Tel:    +49 22166951100
+ 50672 KOELN                                                        Fax:    +49 22166951199
+                                                                    E-mail: info@fonial.de
+
+
+
+ intersaar GmbH                                       INTERS        Mr Volker Musebrink
+ Heinrich-Barth-Strasse 23                                          Tel:    +49 681 94819 0
+ 66115 SAARBRÜCKEN                                                  Fax:    +49 681 94819 88
+                                                                    E-mail: noc@intersaar.net
+
+
+
+ Nick Schieferdecker                                 NTCMAS         Mr Nick Schieferdecker
+ NetCom Access Gesellschaft für                                     Tel:     +49 5634 850998 2
+ Telekommunikation                                                  Fax:     +49 5634 850998 1
+ Kirchstrasse 12                                                    E-mail: n.schieferdecker@netcomaccess.de
+ 34513 WALDECK-HOERINGHAUSEN
+
+
+
+
+                                National Numbering Plan
+                 (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web:www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.III.2017 the following countries have updated their national numbering plan on our site:
+
+
+                        Country                                            Country Code (CC)
+ Afghanistan                                                                      +93
+ Albania                                                                          +355
+
+
+
+

@@ -1,0 +1,686 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1191             1.III.2020                 (Information received by 14 February 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                              Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                               Table of Contents
+                                                                                                                                                               Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ................................................................................3
+Approval of ITU-T Recommendations ......................................................................................................................4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)):
+   Note from TSB.....................................................................................................................................................4
+Telephone Service
+     Ghana (National Communications Authority (NCA), Accra) ...............................................................................5
+     Malta (Malta Communications Authority (MCA), Floriana) ...............................................................................6
+     New Zealand (Ministry of Business, Innovation and Employment, Wellington).................................................7
+Service Restrictions ................................................................................................................................................10
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ........................................................................10
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .....................................11
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .............................................................................................................................................12
+List of ITU Carrier Codes .......................................................................................................................................13
+List of Signalling Area/Network Codes (SANC) .......................................................................................................14
+List of International Signalling Point Codes (ISPC) .................................................................................................15
+National Numbering Plan .......................................................................................................................................17
+
+
+
+
+                                                                                                                               www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1192             15.III.2020            2.III.2020
+               1193              1.IV.2020             16.III.2020
+               1194             15.IV.2020             1.IV.2020
+               1195              1.V.2020              15.IV.2020
+               1196             15.V.2020               1.V.2020
+               1197              1.VI.2020             15.V.2020
+               1198             15.VI.2020             1.VI.2020
+               1199             1.VII.2020             15.VI.2020
+               1200             15.VII.2020            1.VII.2020
+               1201             1.VIII.2020           15.VII.2020
+               1202            15.VIII.2020           31.VII.2020
+               1203              1.IX.2020            14.VIII.2020
+               1204             15.IX.2020             1.IX.2020
+               1205              1.X.2020              15.IX.2020
+               1206             15.X.2020               1.X.2020
+               1207              1.XI.2020             15.X.2020
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021             11.XII.2020
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                               Approval of ITU-T Recommendations
+By AAP-75, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T G.807 (02/2020): Generic functional architecture of the optical media network
+–       ITU-T G.9960 (2018) Amd. 1 (02/2020)
+–       ITU-T G.9961 (2018) Amd. 1 (02/2020)
+–       ITU-T M.3041 (02/2020): Framework of smart operation, management and maintenance
+–       ITU-T M.3363 (02/2020): Requirements for Data Management in the TMN
+–       ITU-T M.3364 (02/2020): Requirements for on-site telecommunication smart maintenance management
+        function
+–       ITU-T Y.1540 (2019) Amd. 1 (02/2020)
+–       ITU-T Y.3173 (02/2020): Framework for evaluating intelligence level of future networks including
+        IMT-2020
+–       ITU-T Y.3174 (02/2020): Framework for data handling to enable machine learning in future networks
+        including IMT-2020
+–       ITU-T Y.3604 (02/2020): Big data - Overview and requirements for data preservation
+
+
+
+
+                    Assignment of Signalling Area/Network Codes (SANC)
+                          (Recommendation ITU-T Q.708 (03/99))
+
+
+Note from TSB
+At the request of the Administration of Australia, the Director of TSB has assigned the following signalling
+area/network code (SANC) for use in the international part of the signalling system No. 7 network of this
+country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+        Country/geographical area or signalling network                          SANC
+
+        Australia                                                                5-123
+
+____________
+
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                       Telephone Service
+                                  (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+
+
+
+Ghana (country code +233)
+Communication of 10.II.2020:
+The National Communications Authority (NCA), Accra, announces the assignment of new numbering blocks to an
+existing Fixed, GSM/UMTS operator, Scancom PLC (MTN Ghana).
+a)    Overview:
+The minimum number length (excluding the country code) is:        9 digits.
+The maximum number length (excluding the country code) is:        9 digits.
+
+b)    Detail of numbering plan:
+
+
+  NDC (National Destination       N(S)N number length
+  Code) or leading digits of                                                                Additional
+                                  Maximum     Minimum          Usage of E.164 Number
+ N(S)N (National (Significant)                                                             information
+          Number)                  length      length
+
+ 30 (NDC)                            9             9       Geographic number for fixed   Scancom PLC
+ (30 801 XXXX – 30 825 XXXX)                               services in Greater Accra     (MTN Ghana)
+                                                           Region
+ 31 (NDC)                            9             9       Geographic number for fixed   Scancom PLC
+ (31 801 XXXX – 31 803 XXXX)                               services in Western Region    (MTN Ghana)
+ 32 (NDC)                            9             9       Geographic number for fixed   Scancom PLC
+ (32 801 XXXX – 32 804 XXXX)                               services in Ashanti Region    (MTN Ghana)
+
+
+Contact:
+      National Communications Authority (NCA)
+      Mr Paul Kofi Datsa
+      NCA Tower, No. 6 Airport City
+      Kotoka International Airport
+      P.O. Box CT 1568, Cantonments
+      ACCRA
+      Ghana
+      Tel:     +233 302 776 621
+      Fax:     +233 302 763 449
+      E-mail: info@nca.org.gh
+      URL:     www.nca.org.gh
+
+
+
+
+Malta (country code +356)
+Communication of 13.II.2020:
+The Malta Communications Authority (MCA), Floriana, announces an update of the National Numbering Plan
+(NNP) of Malta. The main numbering ranges are:
+
+
+                        Service                                 Operator         Numbering Ranges
+                                                                                       2100 - 2399 XXXX
+                                                                   GO
+                                                                                       2500 - 2599 XXXX
+                                                                 Melita                2700 - 2799 XXXX
+                                                                                       2010 - 2019 XXXX
+                         Fixed                                                                2060 XXXX
+                                                                 Ozone
+                                                                                              2065 XXXX
+                                                                                              2069 XXXX
+                                                                 Vanilla               2031 - 2034 XXXX
+                                                               Vodafone                2090 - 2099 XXXX
+                                                                                       7900 - 7999 XXXX
+                                                               GO Mobile                      9889 XXXX
+                                                                                              7210 XXXX
+                                                                                       9900 - 9999 XXXX
+                                                                                              9897 XXXX
+                        Mobile                                 Vodafone
+                                                                                       9210 – 9211 XXXX
+                                                                                              9231 XXXX
+                                                                                       7700 - 7799 XXXX
+                                                              Melita Mobile
+                                                                                       9811 - 9813 XXXX
+                                                                  YOM                  9696 - 9697 XXXX
+      M2M/IoT Connectivity Services and other                    Melita                     40005 XXXXX
+     Non-Interpersonal Communications Services                     GO                       40079 XXXXX
+All Administrations and Recognized Operating Agencies (ROAs) are requested to urgently programme their
+switches to enable immediate access to these numbering ranges. Furthermore, the National Numbering Plan is
+updated in real-time and is made available on the MCA website at the following link:
+https://www.mca.org.mt/regulatory/numbering/numbering-plans
+Contact:
+      Alistair Farrugia / Deborah Pisani / Claude Azzopardi
+      Malta Communications Authority (MCA)
+      Valletta Waterfront
+      Pinto Wharf
+      Floriana FRN1913
+      Malta
+      Tel:      +356 2133 6840
+      E-mail: numbering@mca.org.mt
+      URL:      www.mca.org.mt
+
+
+
+
+New Zealand (country code +64)
+Communication of 10.II.2020:
+The Ministry of Business, Innovation and Employment, Wellington, announces the dialling plan for New Zealand
+telephone numbers, in conformity with Recommendation ITU-T E.129:
+–        Minimum number length (excluding the country code):       three (3) digits.
+–        Maximum number length (excluding the country code):       fourteen (14) digits.
+The table below includes only those number groups that can be dialled from outside New Zealand.
+This update of the dialling plan is dated 10 February 2020.
+The main updates to this schedule are as follows:
+NDC 29 – N(S)N max length is now 10 digits
+NDC 85 – N(S)N max length is now 13 digits
+                                        Details of the numbering scheme
+      NDC (National       N(S)N number length
+    Destination Code)
+     or leading digits
+                                                             Usage of                       Additional
+          of N(S)N       Maximum     Minimum
+                                                          E.164 Number                     information
+         (National        length      length
+       (Significant)
+         Number)
+             10                3         3                                         Gateway switch test
+                                                                                   numbers
+           11                  14        10         Value-added services           New Zealand direct service
+                                                                                   where provided
+           12                  8         6                                         NZ direct service where
+                                                                                   provided
+           20                  10        9          Non-geographic service         Mobile service
+                                                    numbers
+           21                  10        8          Non-geographic service         Mobile service
+                                                    numbers
+           22                  10        9          Non-geographic service         Mobile service
+                                                    numbers
+           240                 8         8          Non-geographic service         Scott Base
+                                                    numbers                        Antarctica
+           26                  9         8          Non-geographic service         Paging service
+                                                    numbers
+           27                  10        9          Non-geographic service         Mobile service
+                                                    numbers
+           28                  10        9          Non-geographic service         Mobile service
+                                                    numbers
+           29                  10        9          Non-geographic service         Mobile service
+                                                    numbers
+           32                  8         8          Geographic numbers for
+                                                    fixed services
+           33                  8         8          Geographic numbers for
+                                                    fixed services
+           34                  8         8          Geographic numbers for
+                                                    fixed services
+           35                  8         8          Geographic numbers for
+                                                    fixed services
+           36                  8         8          Geographic numbers for
+                                                    fixed services
+           37                  8         8          Geographic numbers for
+                                                    fixed services
+           39                  8         8          Geographic numbers for
+                                                    fixed services
+  NDC (National       N(S)N number length
+Destination Code)
+ or leading digits
+                                                     Usage of                 Additional
+      of N(S)N       Maximum     Minimum
+                                                  E.164 Number               information
+     (National        length      length
+   (Significant)
+     Number)
+         42             8            8      Geographic numbers for
+                                            fixed services
+       43               8            8      Geographic numbers for
+                                            fixed services
+       44               8            8      Geographic numbers for
+                                            fixed services
+       45               8            8      Geographic numbers for
+                                            fixed services
+       46               8            8      Geographic numbers for
+                                            fixed services
+       47               8            8      Geographic numbers for
+                                            fixed services
+       48               8            8      Geographic numbers for
+                                            fixed services
+       49               8            8      Geographic numbers for
+                                            fixed services
+       50               7            7      Nation-Wide Service       Excludes 508 free phone
+                                                                      codes
+       60               4            4                                Directory assistance
+                                                                      operator only
+       62               8            8      Geographic numbers for
+                                            fixed services
+       63               8            8      Geographic numbers for
+                                            fixed services
+       65               8            8      Geographic numbers for
+                                            fixed services
+       66               8            8      Geographic numbers for
+                                            fixed services
+       67               8            8      Geographic numbers for
+                                            fixed services
+       68               8            8      Geographic numbers for
+                                            fixed services
+       69               8            8      Geographic numbers for
+                                            fixed services
+       70               9            9      Personal Number Service   Some Personal Number
+                                                                      service codes are
+                                                                      internationally dialable
+                                                                      where arrangements are in
+                                                                      place
+       72               8            8      Geographic numbers for
+                                            fixed services
+       73               8            8      Geographic numbers for
+                                            fixed services
+       74               8            8      Geographic numbers for
+                                            fixed services
+       75               8            8      Geographic numbers for
+                                            fixed services
+       77               8            8      Geographic numbers for
+                                            fixed services
+       78               8            8      Geographic numbers for
+                                            fixed services
+   NDC (National       N(S)N number length
+ Destination Code)
+  or leading digits
+                                                       Usage of                    Additional
+       of N(S)N       Maximum     Minimum
+                                                    E.164 Number                  information
+      (National        length      length
+    (Significant)
+      Number)
+          79                8         8      Geographic numbers for
+                                             fixed services
+           80               10        8      Value-added services         International 0800 service
+                                                                          where agreed
+            83              10        5      Value-added services         Enhanced voice services
+           840               8        5      Value-added services         Some Value-added services
+                                                                          are internationally dialable
+                                                                          where agreed.
+           85               13        8      Value-added services         International 0800 and
+                                                                          calling card (HCD) service
+                                                                          where agreed
+           86               9         8      Value-added services         Enhanced paging services,
+                                                                          and NZ direct services
+                                                                          where required
+           87                8        4      Value-added services         PSTN access to data services
+           90               11        9      Premium-Rate services        Some Premium Rate service
+                                                                          codes are internationally
+                                                                          dialable where
+                                                                          arrangements are in place.
+           92               8         8      Geographic numbers for
+                                             fixed services
+           93               8         8      Geographic numbers for
+                                             fixed services
+           94               8         8      Geographic numbers for
+                                             fixed services
+           95               8         8      Geographic numbers for
+                                             fixed services
+           96               8         8      Geographic numbers for
+                                             fixed services
+           97               8         8      Geographic numbers for
+                                             fixed services
+           98               8         8      Geographic numbers for
+                                             fixed services
+           99               8         8      Geographic numbers for
+                                             fixed services
+More information on the New Zealand telephone numbering scheme can be found at the following web site:
+http://www.nad.org.nz
+Contact:
+      Number Administrator
+      NAD
+      P.O. Box 302 469
+      North Harbour
+      AUCKLAND
+      New Zealand
+      Tel:     +64 9 475 0201
+      Fax:     +64 9 479 4530
+      E-mail: admin@nad.org.nz
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                                Abbreviations used
+
+                                ADD    Insert                     PAR     paragraph
+                                COL    Column                     REP     replace
+                                LIR    Read                       SUP     Delete
+                                P      page(s)
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+
+
+                            (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                             (Amendment No. 22)
+
+
+
+Mexico    ADD
+   Country/       Company Name/Address               Issuer     Contact                              Effective
+ geographical                                      Identifier                                         date of
+     area                                           Number                                            usage
+ Mexico           OXIO MOBILE, S.A. DE C.V.        89 52 04     Nicolas Girard                      10.II.2020
+                  San Francisco 1838, Eje 8 y                   San Francisco 1838, Int 202,
+                  Rodriguez Saro, 03104,                        Col. Del Valle Sur,
+                  CDMX                                          C.P. 03104, Benito Juárez, CDMX
+                                                                Tel:     +1 917 284 8331
+                                                                E-mail: itu-poc@oxio.com
+
+
+
+
+        Mobile Network Codes (MNC) for the international identification plan
+                      for public networks and subscriptions
+              (According to Recommendation ITU-T E.212 (09/2016))
+                         (Position on 15 December 2018)
+                                 (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                                  (Amendment No.27)
+
+
+Country/Geographical area                       MCC+MNC *                  Operator/Network
+
+Canada ADD
+                                                        302 150            Cogeco Connexion Inc.
+
+Ireland ADD
+                                                         272 21            Net Feasa Limited
+
+__________
+*          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 93)
+
+ Country or area/ISO code                       Company Code           Contact
+  Company Name/Address                           (carrier code)
+
+
+Germany (Federal Republic of) / DEU           ADD
+
+
+ Kabelshop KVS GmbH                                 KVSNET             Mr. Juergen Kempf
+ Oberer Markt 3                                                        Tel.: +49 6821 3090444
+ D-66538 NEUNKIRCHEN                                                   Fax: +49 6821 3090445
+                                                                       Email: portierung@kabelshop-kvs.de
+
+ Stadtwerke Meerane GmbH                          SWMEER               Mrs Katja Braun
+ Obere Bahnstrasse 10                                                  Tel.: +49 3764 7917 47
+ D-08393 MEERANE                                                       Fax: +49 3764 7917 19
+                                                                       Email: katja.braun@sw-meerane.de
+
+ telekommtec Kohlmann e.K.                          TKTEC              Mr Ralf Kohlmann
+ Grafingerstrasse 4                                                    Tel.: +49 8092 2558459
+ D-85567 GRAFING                                                       Email: info@telekommtec.de
+
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                 (Position on 1 June 2017)
+
+                                 (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                 (Amendment No. 10)
+
+
+
+ Numerical order        ADD
+               5-123        Australia
+
+
+
+ Alphabetical order ADD
+               5-123        Australia
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                    List of International Signalling Point Codes (ISPC)
+                 (According to Recommendation ITU-T Q.708 (03/1999))
+                                (Position on 1 October 2016)
+                           (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                           (Amendment No. 69)
+
+Country/              Unique name of the signalling point        Name of the signalling point operator
+Geographical Area
+ISPC       DEC
+
+AUSTRALIA SUP
+5-012-1    10337      Melbourne switch ID = S3MA                 PowerTel Ltd
+
+Australia ADD
+5-015-2    10362      SYD/PCT                                    Pacific Teleports Pty Ltd
+
+Australia LIR
+5-011-0    10328      Sydney, SYFx                               Optus Networks Ltd
+5-012-4    10340      Melbourne-Australia-IPSystems-SLT1         IP Systems
+5-012-5    10341      Melbourne-Australia-IPSystems-SLT2         IP Systems
+5-014-3    10355      Norfolk Island-GSMC                        Norfolk Telecom
+5-014-4    10356      Norfolk Island-International switch PSTN   Norfolk Telecom
+                      gateway
+5-015-1    10361      Sydney                                     Primus
+5-017-0    10376      SYF6                                       Optus Ltd
+5-017-1    10377      SYF7                                       Optus Ltd
+5-017-2    10378      SYF8                                       Optus Ltd
+5-018-0    10384      1-Syd                                      Telstra Corporation Ltd
+5-018-1    10385      SGX-Sydney, Australia                      Tata Communications (Australia) Pty Ltd
+5-116-1    11169      C2CA                                       TransACT Ltd
+5-116-2    11170      EPS1 (Sydney 1)                            Mibroadband Pty Ltd
+5-116-3    11171      EPS2 (Sydney 2)                            Mibroadband Pty Ltd
+5-116-4    11172      EPM1 (Melbourne 1)                         Mibroadband Pty Ltd
+5-116-5    11173      EPM2 (Melbourne 2)                         Mibroadband Pty Ltd
+5-117-0    11176      Sydney                                     Primus Telecommunications Pty Ltd
+5-117-1    11177      Prodigy Sydney Switch                      Prodigy Telecom Pty Ltd
+5-117-2    11178      Prodigy Melbourne Switch                   Prodigy Telecom Pty Ltd
+5-117-3    11179      AlphaSydney 01-05                          Alpha Telecom Pty
+5-117-4    11180      HI-Tel                                     HiTech Telecom Pty Ltd
+5-118-1    11185      GSX-Sydney, Australia                      Tata Communications (Australia) Pty Ltd
+5-119-6    11198      Sydney-Australia-IPSystems-SLT1            IP Systems
+5-119-7    11199      Sydney-Australia-IPSystems-SLT1            IP Systems
+5-120-1    11201      MelbVzbIMG-2                               Tel.Pacific Pty Ltd (Telpacific)
+5-121-0    11208      SYDNEY SGX - AUSTRALIA                     Tata Communications (Australia) Pty Ltd
+5-121-1    11209      SYDNEY GSX - AUSTRALIA                     Tata Communications (Australia) Pty Ltd
+5-121-7    11215      SYM-IMG-WS-02-MAS-AU                       Symbio Networks P/L
+5-122-0    11216      P2SC                                       Primus
+5-122-2    11218      Pivotel Sydney 3                           Pivotel Satellite Limited
+
+
+
+ Germany SUP
+ 2-037-7       4399         Frankfurt                             Wavecrest Communications Deutschland GmbH
+ 2-127-4       5116         Frankfurt                             European Telco Exchange AG
+ 2-129-1       5129         Frankfurt                             AmEurotel GmbH
+ 3-243-1       8089         Frankfurt                             BerMosCom GmbH
+ 5-245-3       12203        Frankfurt                             Ecoway GmbH
+
+ Germany ADD
+ 5-245-4       12204        Telecom26 Frankfurt FR5 STP1          Telecom 26 AG
+
+ Germany LIR
+ 2-034-6       4374         Stuttgart                             Vodafone BW GmbH
+ 2-129-6       5134         Frankfurt                             DOCOMO Digital Germany GmbH
+ 2-222-4       5876         Berlin                                01051 Telecom GmbH
+ 2-244-4       6052         Frankfurt                             GTT GmbH
+ 2-247-2       6074         Frankfurt                             GTT GmbH
+ 2-248-5       6085         Düsseldorf                            Westend Management GmbH
+ 2-251-5       6109         Duesseldorf                           DOCOMO Digital Germany GmbH
+ 2-252-7       6119         Stuttgart                             Vodafone BW GmbH
+ 3-252-4       8164         Frankfurt                             Belcotel GmbH
+ 3-252-7       8167         Stuttgart                             Vodafone BW GmbH
+ 4-244-5       10149        Hannover                              Limitless Mobile GmbH
+ 4-246-1       10161        Frankfurt                             01058 Telecom GmbH
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.II.2020, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                        Country/ Geographical area                      Country Code (CC)
+               French Polynesia                                               +689
+               Guinea                                                         +224
+               Trinidad and Tobago                                           +1 868
+
+
+
+

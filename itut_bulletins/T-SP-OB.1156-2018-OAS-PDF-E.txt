@@ -1,0 +1,1114 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1156             15.IX.2018                  (Information received by 31 August 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Mobile Country or Geographical Area Codes: Notes from TSB ......................................................................                                   5
+Terrestrial trunk radio Mobile Country Codes: Notes from TSB ....................................................................                                  6
+Telephone Service:
+     Israel (Ministry of Communications, Jerusalem) ......................................................................................                         7
+     Myanmar (Ministry of Transport and Communications, Nay Pyi Taw) ....................................................                                          8
+     Vanuatu (Telecommunications and Radiocommunications Regulator, Port-Vila) ...................................                                                14
+     Zambia (Zambia Information & Communications Technology Authority (ZICTA), Lusaka) ......................                                                     14
+Other communications: Republic of Armenia ................................................................................................                        15
+                      Secretary-General of ITU .........................................................................................                          15
+Service Restrictions ........................................................................................................................................     16
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   16
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               17
+List of Mobile Country or Geographical Area Codes ......................................................................................                          21
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         22
+List of Terrestrial trunk radio Mobile Country Codes .....................................................................................                        23
+List of ITU Carrier Codes .................................................................................................................................       24
+National Numbering Plan ...............................................................................................................................           24
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1157              1.X.2018              14.IX.2018
+               1158             15.X.2018              28.IX.2018
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-42, it was announced that the following ITU-T Recommendations were approved, in accordance with
+      the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T F.743.5 (08/2018): Framework and interfaces for multimedia content delivery network
+–     ITU-T F.743.6 (08/2018): Service requirements for next generation content delivery networks
+–     ITU-T F.746.7 (08/2018): Metadata for intelligent question answering service
+–     ITU-T F.746.8 (08/2018): Requirements for unified status monitoring of networks and services
+–     ITU-T F.791 (08/2018): Accessibility terms and definitions
+–     ITU-T F.921 (V2) (08/2018): Audio-based network navigation system for persons with vision impairment
+–     ITU-T G.722.2 Annex C (2017) Cor. 1 (08/2018): Corrections to Table C.5
+–     ITU-T G.798 (2017) Amd. 1 (08/2018)
+–     ITU-T H.222.0 (08/2018): Information technology – Generic coding of moving pictures and associated
+      audio information: Systems
+–     ITU-T H.845.17 (08/2018): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface Part 5Q: Power status monitor
+–     ITU-T H.430.1 (08/2018): Requirements for immersive live experience (ILE) services
+–     ITU-T H.430.2 (08/2018): Architectural framework for immersive live experience (ILE) services
+–     ITU-T H.430.3 (08/2018): Service scenario of immersive live experience (ILE)
+–     ITU-T H.626.3 (08/2018): Architecture for visual surveillance system interworking
+–     ITU-T H.626.4 (08/2018): Architecture for a point-to-point visual surveillance system
+–     ITU-T H.766 (08/2018): Lua for IPTV services
+–     ITU-T H.783 (08/2018): Digital signage: Audience measurement services
+–     ITU-T H.785.1 (08/2018): Digital signage: Service requirements and a reference model on information
+      services in public places via an interoperable service platform
+–     ITU-T H.820 (08/2018): Conformance of ITU-T H.810 personal health system: Conformity assessment
+      test plan
+–     ITU-T H.830.13 (08/2018): Conformance of ITU-T H.810 personal health system: Services interface Part
+      13: Capability Exchange: Health & Fitness Service sender (New)
+–     ITU-T H.830.14 (08/2018): Conformance of ITU-T H.810 personal health system: Services interface Part
+      14: Capability Exchange: Health & Fitness Service receiver (New)
+–     ITU-T H.830.15 (08/2018): Conformance of ITU-T H.810 personal health system: Services interface Part
+      15: FHIR Observation Upload: Health & Fitness Service sender
+–     ITU-T H.830.16 (08/2018): Conformance of ITU-T H.810 personal health system: Services interface Part
+      16: FHIR Observation Upload: Health & Fitness Service receiver (New)
+–     ITU-T H.841 (08/2018): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface Part 1: Optimized Exchange Protocol: Personal Health Device
+–     ITU-T H.842 (08/2018): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface Part 2: Optimized Exchange Protocol: Personal Health Gateway
+–     ITU-T H.843 (08/2018): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface Part 3: Continua Design Guidelines: Personal Health Device
+–     ITU-T H.844 (08/2018): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface Part 4: Continua Design Guidelines: Personal Health Gateway
+
+
+–        ITU-T H.845.2 (08/2018): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 5B: Glucose meter
+–        ITU-T H.846 (08/2018): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 6: Personal Health Gateway
+–        ITU-T H.849 (08/2018): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+         interface Part 9: Transcoding for Bluetooth Low Energy: Personal Health Devices
+–        ITU-T H.870 (08/2018): Guidelines for safe listening devices/systems
+–        ITU-T L.1351 (08/2018): Base station site energy parameter measurement methodology
+–        ITU-T L.1460 (08/2018): Connect 2020 greenhouse gases emissions - Guidelines
+–        ITU-T M.3372 (08/2018): Requirements for resource management in cloud-aware telecommunication
+         management system
+–        ITU-T T.88 (08/2018): Information technology – Lossy/lossless coding of bi-level images
+
+
+
+                               Mobile Country or Geographical Area Codes
+                                (Recommendation ITU-T E.212 (09/2016))
+Note from TSB
+
+Following the agreement on the Appendix to Recommendation ITU-T E.212 on “shared E.212 MCC 999 for
+internal use within a private network” at the closing plenary of ITU-T SG2 meeting of 4 to 13 July 2018, upon the
+advice of ITU-T Study Group 2, the Director of TSB has assigned the Mobile Country Code (MCC) “999” for
+internal use within a private network. Mobile Network Codes (MNCs) under this MCC are not subject to
+assignment and therefore may not be globally unique. No interaction with ITU is required for using a MNC value
+under this MCC for internal use within a private network. Any MNC value under this MCC used in a network has
+significance only within that network. The MNCs under this MCC are not routable between networks. The MNCs
+under this MCC shall not be used for roaming. For purposes of testing and examples using this MCC, it is
+encouraged to use MNC value 99 or 999. MNCs under this MCC cannot be used outside of the network for which
+they apply. MNCs under this MCC may be 2- or 3-digit.
+
+Note from TSB
+
+Following the decisions reached at ITU-T Study Group 2 meeting in July 2018, Geneva, the Director of the TSB
+has assigned the Mobile Country Code (MCC) (ITU-T Recommendation E.212) 902 as a shared MCC.
+
+
+Note from TSB
+Associated with shared mobile country code 902 (MCC), the following two-digit mobile network code (MNC)
+has been assigned.
+
+                                                  Mobile Country Code (MCC)* and                            Date of assignment
+       Applicant/Network
+                                                  Mobile Network Code (MNC)**
+MulteFire Alliance                                                 902 01                                       6.IX.2018
+______________
+*      MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+**     MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                             Terrestrial trunk radio Mobile Country Codes
+                              (Recommendation ITU-T E.218 (05/2004))
+Note from TSB
+
+Following the decisions reached at ITU-T Study Group 2 meeting in July 2018, Geneva, the Director of the TSB
+has assigned the Terrestrial trunk radio Mobile Country Code ((T)MCC) (ITU-T Recommendation E.218) 944 as a
+shared ((T)MCC).
+
+
+Note from TSB
+                          Identification codes for International Terrestrial trunk radio Networks
+
+Associated with shared Terrestrial trunk radio Mobile Country Code 944 ((T)MCC, the following four-digit
+Terrestrial trunk radio Mobile Network Code ((T)MNC) has been assigned.
+
+                                                Terrestrial trunk radio Mobile Country Code ((T)MCC)* and                 Date of
+           Applicant / Network
+                                                 Terrestrial trunk radio Mobile Network Code ((T)MNC)**                 assignment
+European Union / European Parliament                                       944 0001                                      6.IX.2018
+______________
+*      (T)MCC: Terrestrial trunk radio Mobile Country Code / indicatif de pays du mobile de radiocommunication de Terre à ressources
+               partagées / Indicativo de país para el servicio móvil de radiocomunicación con concentración de enlaces terrenales
+**     (T)MNC: Terrestrial trunk radio Mobile Network Code / code de réseau du mobile de radiocommunication de Terre à ressources
+               partagées / Indicativo de red para el servicio móvil de radiocomunicación con concentración de enlaces terrenales
+
+
+
+
+                                      Telephone Service
+                                 (Recommendation ITU-T E.164)
+                                        url: www.itu.int/itu-t/inr/nnp
+
+Israel (country code +972)
+Communication of 27.VIII.2018:
+The Ministry of Communications, Jerusalem, announces the assignment of NDCs or leading digits of N(S)N for
+mobile and fixed services in Israel.
+1. Assigned non-geographic prefix +972-55-24XXXXX, +972-55-25XXXXX and +972-55-91XXXXX for Telzar Ltd. for
+mobile telephony services in Israel.
+2. Assigned non-geographic prefix +972-55-50XXXXX for LB Annatel Ltd. for mobile telephony services in Israel.
+3. Reserved non-geographic prefix +972-55-51XXXXX for LB Annatel Ltd. for mobile telephony services in Israel.
+4. Assigned non-geographic prefix +972-55-72XXXXX for Cellact Communication Ltd. for mobile telephony
+services in Israel.
+5. Assigned non-geographic prefix +972-79-3XXXXXX for LB Annatel Ltd. for fixed telephony services in Israel.
+6. Assigned non-geographic prefix +972-79-5XXXXXX for Hashikma N.G.N International Communications 015
+Ltd. for fixed telephony services in Israel.
+7. Assigned non-geographic prefix +972-79-7XXXXXX for Cellact Communication Ltd. for fixed telephony services
+in Israel.
+8. Assigned non-geographic prefix +972-79-8XXXXXX for LB Annatel Ltd. for fixed telephony services in Israel.
+9. Assigned non-geographic prefix +972-79-9XXXXXX for Binat Business Ltd. for fixed telephony services in Israel.
+Contact:
+       Asaf Avraham
+       Head of Emergency and Numbering Section
+       Communication Engineering Division
+       Ministry of Communications
+       23 Jaffa Street
+       9199900 JERUSALEM
+       Israel
+       Tel:     +972 3 519 8155
+       Fax:     +972 3 519 8244
+       E-mail: AsafA@moc.gov.il
+
+
+
+
+Myanmar (country code +95)
+Communication of 17.VIII.2018:
+The Ministry of Transport and Communications, Nay Pyi Taw, announces that the following updated numbering
+scheme has been added to the national numbering plan of Myanmar:
+
+
+AUTO EXCHANGE NUMBERING (Geographic)
+
+                                                                              Digit Length
+ Sr     Trunk                                                     Type Of
+                    Number series                Area                          (including          Licensee
+ No.    Code                                                     Exchange
+                                                                              area code)
+ 1        1       218 000~218 999          Alone DMS RSU           DMS              7        Myanma Posts and
+                                                                                             Telecommunications
+ 2        1      350 0000~350 9999       Hanthawaddy MSAN          ZTE SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 3        1      351 0000~35 29999       Hanthawaddy MSAN          ZTE SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 4        1      353 0000~353 9999       Hanthawaddy MSAN          ZTE SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 5        1      358 8000~358 8999        Bayintnaung MSAN         ZTE SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 6        1      359 2000~359 2999      Dagon Seikkan MSAN         ZTE SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 7        1      359 3000~359 3999          Yuzana MSAN            ZTE SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 8        1      361 0000~361 4999       Shwepyithar MSAN          ZTE SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 9        1      361 7000~361 8999       Shwepyithar MSAN          ZTE SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 10       1      364 0000~364 7999           Insein MSAN           ZTE SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 11       1      368 0000~368 9999       Bayintnaung MSAN          ZTE SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 12       1        401 000~401 999           Kyaik Kasan           TWD             7         Myanma Posts and
+                                                                                             Telecommunications
+ 13       1       430 000~430 999             Bahan S12             S 12           7         Myanma Posts and
+                                                                                             Telecommunications
+ 14       1       450 000~450 999        Thakaeta Post office       S 12           7         Myanma Posts and
+                                                                                             Telecommunications
+ 15       1      471 0000 ~ 471 9999           Yangon                              8         Frontiir Co.,Ltd
+ 16       1       540 000~549 999            Bahan DMS             DMS             7         Myanma Posts and
+                                                                                             Telecommunications
+ 17       1        550 000~559 999            Bahan S12             S 12           7         Myanma Posts and
+                                                                                             Telecommunications
+ 18       1       570 000~573 999          Thingangyun SS       CS 1500 SS         7         Myanma Posts and
+                                                                                             Telecommunications
+ 19       1       577 000~579 999          Thingangyun SS       CS 1500 SS         7         Myanma Posts and
+                                                                                             Telecommunications
+ 20       1        583 000~584 999        North Dagon DMS          DMS             7         Myanma Posts and
+                                                                                             Telecommunications
+ 21       1      824 0000~825 9999         Ministers' office    HUAWEI SS          8         Myanma Posts and
+                                                MSAN                                         Telecommunications
+ 22       1      837 0000~839 9999         Ministers' office    HUAWEI SS          8         Myanma Posts and
+                                                MSAN                                         Telecommunications
+ 23       1      862 8000~862 9999          Hlegu MSAN          HUAWEI SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 24       1      900 0000~900 0999        Pazundaung MSAN       HUAWEI SS          8         Myanma Posts and
+                                                                                             Telecommunications
+ 25       2      200 0000~200 9999       Mingalar Mandalay         ZTE SS          8         Myanma Posts and
+                                               MSAN                                          Telecommunications
+
+
+                                                                        Digit Length
+Sr     Trunk                                                 Type Of
+                    Number series            Area                        (including          Licensee
+No.    Code                                                 Exchange
+                                                                        area code)
+26       2       283 2000~283 2999    Mandalay MSAN          ZTE SS           8        Myanma Posts and
+                                                                                       Telecommunications
+27       2       284 4000~284 4999     Mandalay MSAN          ZTE SS         8         Myanma Posts and
+                                                                                       Telecommunications
+28       2       2847000~28 47999      Mandalay MSAN          ZTE SS         8         Myanma Posts and
+                                                                                       Telecommunications
+29       2       2848000~28 48999      Mandalay MSAN          ZTE SS         8         Myanma Posts and
+                                                                                       Telecommunications
+30       2       402 1000~402 5999     Mandalay MSAN          ZTE SS         8         Myanma Posts and
+                                                                                       Telecommunications
+31       2       402 7000~402 7999    Tada-U Intl Airport    ZTE SS          8         Myanma Posts and
+                                            MSAN                                       Telecommunications
+32       2       403 0000~403 6999     Mandalay MSAN         ZTE SS          8         Myanma Posts and
+                                                                                       Telecommunications
+33       2       403 9000~403 9999    Mandalay MSAN          ZTE SS          8         Myanma Posts and
+                                                                                       Telecommunications
+34       2       405 6000~405 6999    Amarapura MSAN         ZTE SS          8         Myanma Posts and
+                                                                                       Telecommunications
+35       2       405 9000~405 9999    Amarapura MSAN          ZTE SS         8         Myanma Posts and
+                                                                                       Telecommunications
+36       2       406 0000~406 1999    Mandalay MSAN          ZTE SS          8         Myanma Posts and
+                                                                                       Telecommunications
+37       2       406 3000~406 9999    Mandalay MSAN          ZTE SS          8         Myanma Posts and
+                                                                                       Telecommunications
+38       2       407 0000~407 0999    Amarapura MSAN          ZTE SS         8         Myanma Posts and
+                                                                                       Telecommunications
+39       2       407 1000~407 3999    Mandalay MSAN          ZTE SS          8         Myanma Posts and
+                                                                                       Telecommunications
+40       2       407 5000~407 6999    Mandalay MSAN          ZTE SS          8         Myanma Posts and
+                                                                                       Telecommunications
+41       2       408 6000~408 6999    Zegyo Plaza MSAN        ZTE SS         8         Myanma Posts and
+                                                                                       Telecommunications
+42       2       471 0000~471 9999        Mandalay                           8         Frontiir Co.,Ltd
+43       2       515 2000~515 4999     Industrial Zone       ZTE SS                    Myanma Posts and
+                                           Huawei                            8         Telecommunications
+                                           MSAN
+44      42       204 2000~204 2999    Chaung Tha MSAN       HUAWEI SS        9         Myanma Posts and
+                                                                                       Telecommunications
+45      42       204 4000~204 4999    Ngaputaw MSAN         HUAWEI SS        9         Myanma Posts and
+                                                                                       Telecommunications
+46      42       208 0000~208 0999      Laputta MSAN        HUAWEI SS        9         Myanma Posts and
+                                                                                       Telecommunications
+47      42       208 3000~208 3999   Laputta 3 mile MSAN    HUAWEI SS        9         Myanma Posts and
+                                                                                       Telecommunications
+48      42         21 000~21 999      Pathein DMS-100         DMS            7         Myanma Posts and
+                                                                                       Telecommunications
+49      42         22 000~22 999      Pathein DMS-100         DMS            7         Myanma Posts and
+                                                                                       Telecommunications
+50      42         23 000~23 999      Pathein DMS-100         DMS            7         Myanma Posts and
+                                                                                       Telecommunications
+51      42         24 000~24 999      Pathein DMS-100         DMS            7         Myanma Posts and
+                                                                                       Telecommunications
+52      42         25 000~25 999      Pathein DMS-100         DMS            7         Myanma Posts and
+                                                                                       Telecommunications
+53      42         29 000~29 999       Myetto TL-6500         DMS            7         Myanma Posts and
+                                                                                       Telecommunications
+
+
+
+
+                                                                      Digit Length
+Sr     Trunk                                               Type Of
+                  Number series            Area                        (including          Licensee
+No.    Code                                               Exchange
+                                                                      area code)
+54      42        43 000~43 999     Thapaung JSY-2000        JSY            7        Myanma Posts and
+                                                                                     Telecommunications
+55      42        45 000~45 999     Kangyidaung KY-1000    KY-1000         9         Myanma Posts and
+                                                                                     Telecommunications
+56      43      202 1000~202 4999      Sittway MSAN       HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+57      43      206 5000~206 5999     Thandwe MSAN        HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+58      43      202 7000~202 7999   Ponnagyun KY-1000      KY-1000         9         Myanma Posts and
+                                                                                     Telecommunications
+59      43      202 8000~202 8999    Pauktaw KY-1000       KY-1000         9         Myanma Posts and
+                                                                                     Telecommunications
+60      43      202 9000~202 9999     Myebon KY-1000       KY-1000         9         Myanma Posts and
+                                                                                     Telecommunications
+61      43      204 2000~204 2999      Ngapali MSAN       HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+62      43      206 3000~206 3999   Mannaung KY-1000       KY-1000         9         Myanma Posts and
+                                                                                     Telecommunications
+63      43      206 4000~206 4999    Kyeintali KY-1000     KY-1000         9         Myanma Posts and
+                                                                                     Telecommunications
+64      43        70 000~70 999      Kyauktaw KY-1000      KY-1000         7         Myanma Posts and
+                                                                                     Telecommunications
+65      43        75 000~75 999       Minbya KY-1000       KY-1000         7         Myanma Posts and
+                                                                                     Telecommunications
+66      44      202 1000~202 2999     Hinthada MSAN       HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+67      52      220 0000~220 9999     Bago ZTE MSAN        ZTE SS          9         Myanma Posts and
+                                                                                     Telecommunications
+68      52      275 0000~275 0999   Nyaunglebin MSAN      HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+69      52        65 000~65 999      Phayargyi JSY-2000      JSY           7         Myanma Posts and
+                                                                                     Telecommunications
+70      53        39 000~39 999       Paunde KY-1000       KY-1000         7         Myanma Posts and
+                                                                                     Telecommunications
+71      54        23 000~23 999        Taungoo S-12          S 12          7         Myanma Posts and
+                                                                                     Telecommunications
+72      54        24 000~24 999        Taungoo S-12          S 12          7         Myanma Posts and
+                                                                                     Telecommunications
+73      54        25 000~25 999        Taungoo S-12          S 12          7         Myanma Posts and
+                                                                                     Telecommunications
+74      54        26 000~26 999        Taungoo S-12          S 12          7         Myanma Posts and
+                                                                                     Telecommunications
+75      54        27 000~27 999     Kaytumadi TWD-06        TWD            7         Myanma Posts and
+                                                                                     Telecommunications
+76      54      286 0000~286 0999    Kyauktaga Keymile      ZTE SS         9         Myanma Posts and
+                                          MSAN                                       Telecommunications
+77      54        44 000~44 999     Thandaung KX-TD500      PABX           7         Myanma Posts and
+                                                                                     Telecommunications
+78      54        45 000~45 999      Thandaunggyi KX-       PABX           7         Myanma Posts and
+                                           TD500                                     Telecommunications
+79      55      223 0000~223 1999   Tharyarwaddy MSAN     HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+80      56        22 000~22 999       Thanlyin DMS-10       DMS            7         Myanma Posts and
+                                                                                     Telecommunications
+81      57      202 1000~202 7999   Mawlamyine MSAN       HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+82      57      203 0000~203 0999    Mawlamyine IndZ      HUAWEI SS        9         Myanma Posts and
+                                         MSAN                                        Telecommunications
+
+
+
+                                                                      Digit Length
+Sr     Trunk                                               Type Of
+                    Number series           Area                       (including            Licensee
+No.    Code                                               Exchange
+                                                                      area code)
+83      57       206 0000~206 0999      Kyaikto MSAN      HUAWEI SS         9        Myanma Posts and
+                                                                                     Telecommunications
+84      58       207 0000~207 0999    Pharpon KY-1000      KY-1000         9         Myanma Posts and
+                                                                                     Telecommunications
+85      59       202 1000~202 4999      Dawei MSAN        HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+86      59         33 000~33 999      Lounglon TWD-06      TWD-09          7         Myanma Posts and
+                                                                                     Telecommunications
+87      59         42 000~42 999           Myeik            S-12           7         Myanma Posts and
+                                                                                     Telecommunications
+88      59         52 000~52 999         Kawthoung          S-12           7         Myanma Posts and
+                                                                                     Telecommunications
+89      60       882 1000~882 1999   Yenangyoung MSAN     HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+90      60       880 0000~880 0999      Yenangyoung       HUAWEI SS        9         Myanma Posts and
+                                       Industrial Zone                               Telecommunications
+                                           MSAN
+91      61       246 0000~246 1999     Nyaung U MSAN       ZTE-SS          9         Myanma Posts and
+                                                                                     Telecommunications
+92      61       246 2000~246 2999    Nyaung U Keymile      ZTE SS         9         Myanma Posts and
+                                            MSAN                                     Telecommunications
+93      61       246 4000~246 4999   Bagan Keymile MSAN    ZTE SS          9         Myanma Posts and
+                                                                                     Telecommunications
+94      61         22 000~22 999       Chauk DMS-10         DMS            7         Myanma Posts and
+                                                                                     Telecommunications
+95      62         24 000~24 999      Pakokku DMS-10        DMS            7         Myanma Posts and
+                                                                                     Telecommunications
+96      63       202 3000~202 7999     Magway MSAN        HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+97      63       205 0000~205 1999   Taungdwingyi MSAN    HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+98      63       205 0000~205 1999   Taungdwingyi MSAN    HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+99      64       20 5000~20 50999      Wundwin MSAN        ZTE SS          8         Myanma Posts and
+                                                                                     Telecommunications
+100     64       206 0000~206 0999     Mahlaing MSAN       ZTE SS          9         Myanma Posts and
+                                                                                     Telecommunications
+101     64       206 9000~206 9999       Thazi MSAN         ZTE SS         9         Myanma Posts and
+                                                                                     Telecommunications
+102     64       208 7000~208 7999   Shaw Bin ZTE MSAN      ZTE SS         9         Myanma Posts and
+                                                                                     Telecommunications
+103     64        230 000~239 999      Meiktila ZXJ-10       ZTE           8         Myanma Posts and
+                                                                                     Telecommunications
+104     64        240 000~249 999      Meiktila ZXJ-10       ZTE           8         Myanma Posts and
+                                                                                     Telecommunications
+105     64        250 000~259 999      Meiktila ZXJ-10       ZTE           8         Myanma Posts and
+                                                                                     Telecommunications
+106     64        260 000~269 999      Meiktila ZXJ-10       ZTE           8         Myanma Posts and
+                                                                                     Telecommunications
+107     65        250 000~259 999      Ngape TWD-06         TWD            8         Myanma Posts and
+                                                                                     Telecommunications
+108     65       202 7000~202 7999    Saytottara MSAN     HUAWEI SS        9         Myanma Posts and
+                                                                                     Telecommunications
+109     66       202 1000~202 2999     Myingyan MSAN        ZTE SS         9         Myanma Posts and
+                                                                                     Telecommunications
+110     66       203 0000~203 0999   Myingyan IndZ MSAN    ZTE SS          9         Myanma Posts and
+                                                                                     Telecommunications
+
+
+
+
+                                                                     Digit Length
+Sr     Trunk                                              Type Of
+                  Number series            Area                       (including          Licensee
+No.    Code                                              Exchange
+                                                                     area code)
+111     66      204 2000~204 2999      Palate MSAN        ZTE SS           9        Myanma Posts and
+                                                                                    Telecommunications
+112     66      205 0000~205 0999     Kyaukse MSAN         ZTE SS         9         Myanma Posts and
+                                                                                    Telecommunications
+113     67      340 1000~340 1999    Naypyitaw MSAN      HUAWEI SS        9         Myanma Posts and
+                                                                                    Telecommunications
+114     67      340 3000~340 9999    Naypyitaw MSAN      HUAWEI SS        9         Myanma Posts and
+                                                                                    Telecommunications
+115     67      341 0000~341 9999    Naypyitaw MSAN      HUAWEI SS        9         Myanma Posts and
+                                                                                    Telecommunications
+116     67      342 0000~342 3999    Naypyitaw MSAN      HUAWEI SS        9         Myanma Posts and
+                                                                                    Telecommunications
+117     67      343 0000~343 5999    Naypyitaw MSAN      HUAWEI SS        9         Myanma Posts and
+                                                                                    Telecommunications
+118     67       500 000~509 999     Pobbathiri ZXJ-10      ZTE           8         Myanma Posts and
+                                                                                    Telecommunications
+119     67       510 000~519 999     Pobbathiri ZXJ-10      ZTE           8         Myanma Posts and
+                                                                                    Telecommunications
+120     67       550 000~550 999     Pyan-ka-pyay TL-      DMS            8         Myanma Posts and
+                                           6500                                     Telecommunications
+121     67      807 0000~807 1999     Tatkon MSAN        HUAWEI SS        9         Myanma Posts and
+                                                                                    Telecommunications
+122     67      810 0000~810 9999    Dekkhina CS-1500      DMS            9         Myanma Posts and
+                                                                                    Telecommunications
+123     67      810 2000~810 9999    Dekkhina CS-1500      DMS            9         Myanma Posts and
+                                           RSU                                      Telecommunications
+124     67      840 3000~840 9999     Naypyitaw IAD      HUAWEI SS        9         Myanma Posts and
+                                                                                    Telecommunications
+125     67      841 0000~841 2999     Naypyitaw IAD      HUAWEI SS        9         Myanma Posts and
+                                                                                    Telecommunications
+126     67      842 0000~843 9999     Naypyitaw IAD      HUAWEI SS        9         Myanma Posts and
+                                                                                    Telecommunications
+127     67      859 0000~859 1999     Naypyitaw IAD      HUAWEI SS        9         Myanma Posts and
+                                                                                    Telecommunications
+128     67      898 5000~898 5999   Pyisanaung HUAWEI    HUAWEI SS        9         Myanma Posts and
+                                           MSAN                                     Telecommunications
+129     69       201 000~201 999     Aunglan TWD-09        TWD            8         Myanma Posts and
+                                                                                    Telecommunications
+130     71      202 5000~202 5999   Monywa IndZ MSAN      ZTE SS          9         Myanma Posts and
+                                                                                    Telecommunications
+131     74      252 0000~252 4999    Myitkyina MSAN        ZTE SS         9         Myanma Posts and
+                                                                                    Telecommunications
+132     74      252 6000~252 6999     Panmati MSAN        ZTE SS          9         Myanma Posts and
+                                                                                    Telecommunications
+133     74      252 8000~252 8999    Myitkyina Market      ZTE SS         9         Myanma Posts and
+                                          MSAN                                      Telecommunications
+134     74      252 9000~252 9999    Myitkyina MSAN       ZTE SS          9         Myanma Posts and
+                                                                                    Telecommunications
+135     74        51 000~51 999       Bhamo KY-1000       KY-1000         7         Myanma Posts and
+                                                                                    Telecommunications
+136     75      202 5000~202 6999      Katha MSAN          ZTE SS         9         Myanma Posts and
+                                                                                    Telecommunications
+137     75      966 4000~966 4999    Banmauk TWD-06        TWD            9         Myanma Posts and
+                                                                                    Telecommunications
+138     81      212 1000~212 5999   Taunggyi ZTE MSAN     ZTE SS          9         Myanma Posts and
+                                                                                    Telecommunications
+139     81      212 7000~212 7999     Ayetharyar ZTE      ZTE SS          9         Myanma Posts and
+                                          MSAN                                      Telecommunications
+
+
+
+                                                                                   Digit Length
+ Sr        Trunk                                                     Type Of
+                        Number series             Area                              (including            Licensee
+ No.       Code                                                     Exchange
+                                                                                   area code)
+ 140        81       213 0000~213 0999      Thittaw Yat ZTE            ZTE SS            9         Myanma Posts and
+                                                 MSAN                                              Telecommunications
+ 141        82       220 2000~224 9999      Lashio KeyMile             ZTE SS           9          Myanma Posts and
+                                                 MSAN                                              Telecommunications
+ 142        82       292 0000~292 1999       Lashio MSAN               ZTE SS           9          Myanma Posts and
+                                                                                                   Telecommunications
+ 143        82       292 5000~292 6999       Lashio MSAN               ZTE SS           9          Myanma Posts and
+                                                                                                   Telecommunications
+ 144        82       292 8000~292 8999       Lashio MSAN               ZTE SS           9          Myanma Posts and
+                                                                                                   Telecommunications
+ 145        82       293 0000~293 1999       Lashio MSAN               ZTE SS           9          Myanma Posts and
+                                                                                                   Telecommunications
+ 146        83       222 1000~2224999        Loikaw MSAN           HUAWEI SS            9          Myanma Posts and
+                                                                                                   Telecommunications
+ 147        85       202 1000~202 3999     Pyinoolwin MSAN             ZTE SS           9          Myanma Posts and
+                                                                                                   Telecommunications
+ 148        85       202 8000~202 8999     Pyinoolwin MSAN             ZTE SS           9          Myanma Posts and
+                                                                                                   Telecommunications
+ 149        85       202 9000~202 9999     Padaythar MSAN              ZTE SS           9          Myanma Posts and
+                                                                                                   Telecommunications
+ 150        85       205 0000~205 0999    Anesakhan Keymile            ZTE SS           9          Myanma Posts and
+                                                MSAN                                               Telecommunications
+
+
+
+
+Tollfree Number
+
+                                                              Digit Length
+ Sr        Area
+                      Number series          Area              (including                   Licensee
+ No.       Code
+                                                              area code)
+                                                                             Telecom International Myanmar
+ 1         800     802 xxxx              Non-geographic           10
+                                                                             Co.,Ltd
+
+
+
+Contact:
+       Ministry of Transport and Communications
+       Posts and Telecommunications Department (PTD)
+       Building No. 2,
+       NAY PYI TAW
+       Myanmar
+       Tel:     +95 67 407 225
+       Fax:     +95 67 407 216
+       E-mail: dg.ptd@mptmail.net.mm
+
+
+
+
+ Vanuatu (country code +678)
+ Communication of 24.VIII.2018:
+ The Telecommunications and Radiocommunications Regulator, Port-Vila, announces the introduction of new
+ nomadic Voice over Internet protocol (VoIP) number ranges as follows in the Vanuatu National Numbering
+ Plan:
+                                   Description of introduction of new resource for
+                                national E.164 numbering plan for country code 678:
+NDC (national destination N(S)N number length
+code) or leading digits of                                                                    Time and date of
+                           Maximum Minimum             Usage of E.164 number
+     N(S)N (national                                                                            introduction
+                            length    length
+  (significant) number)
+   901 xxxx – 909 xxxx      Seven     Seven Nomadic/Voice over IP                            1 September 2018
+                                              Assigned to WanTok Networks Limited
+   91 xxxxx – 99 xxxxx      Invalid  Invalid Invalid                                                 Invalid
+
+ Contact:
+        Ms Dalsie Baniala
+        Telecommunications and Radiocommunications Regulator
+        P.O. Box 3547
+        PORT-VILA
+        Vanuatu
+        Tel:     +678 27621
+        Fax:     +678 27440
+        E-mail: enquiries@trr.vu
+        URL:     www.trr.vu
+
+ Zambia (country code +260)
+ Communication of 28.VIII.2018:
+ The Zambia Information & Communications Technology Authority (ZICTA), Lusaka, announces the following
+ update to the national numbering plan of Zambia:
+                                   Description of introduction of new resource for
+                                national E.164 numbering plan for country code 260:
+
+   NDC (national destination      N(S)N number length
+   code) or leading digits of                                                         Time and date        Additional
+                                 Maximum     Minimum       Usage of E.164 number
+        N(S)N (national                                                               of introduction     Information
+     (significant) number)        length      length
+
+   76                                9            9       Non-geographic number -     08:00 am CAT        Assigned to
+                                                          Mobile telephony services   28/08/2018          MTN Zambia
+                                                                                                          Limited
+ Contact:
+        Mr Patrick Mutimushi
+        Zambia Information & Communications Technology Authority (ZICTA)
+        Plot 4909
+        Corner of Independence and United Nations Avenues
+        LUSAKA
+        Zambia
+        Tel:     +260 211 378200
+        Fax:     +260 211 246701
+        E-mail: pmutimushi@zicta.zm
+        URL:     www.zicta.zm
+
+
+
+                                        Other communications
+
+Republic of Armenia
+Communication of 20.VIII.2018:
+This communication is in response to Communication of 29.V.2017 from the Republic of Azerbaijan, published in
+ITU Operational Bulletin No. 1127.
+"Karabakh Telecom" is developing its activities on the ground in accordance with the legislation of the Republic
+of Artsakh (Nagorno Karabakh) with the aim to ensure free and unimpeded communication of the people of
+Nagorno Karabakh with the outer world. Armenia considers that the activities of the company don’t contradict
+ITU Constitution and relevant recommendations. The ITU Constitution and Convention specifically define the
+objective of facilitating peaceful relations, international cooperation among peoples and economic and social
+development by means of efficient telecommunication services.
+According to the international instruments, in particular Universal Declaration of Human Rights and the UN
+Covenants on Human Rights, the realization of the individual and collective human rights and fundamental
+freedoms including economic and social rights must not be dependent on the status of the territory where
+peoples live. The UN Covenant on Political and Civil Rights and the UN Covenant on Economic, Social and
+Cultural Rights empower people to pursue their economic, social and cultural development by the virtue of the
+right to self-determination. Article 19 of the ICCPR specifically establishes that "everyone shall have the right
+to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of
+all kinds, regardless of frontiers”
+Armenia reiterates its position that the platform of the ITU should not be misused in order to promote any
+conflict perception, with the aim to undermine the basic and inalienable human rights of the people of Nagorno
+Karabakh and claim any putative sovereign rights over Nagorno Karabakh, its people and resources. The selective
+reference to the UN Security Council Resolutions by Azerbaijan is misleading, since their primary requirement
+was immediate cessation of all hostilities, which was continuously violated by Azerbaijan itself. Furthermore, the
+same resolutions have recognized Nagorno-Karabakh as direct and immediate party to the conflict and called for
+opening of all communications. The Minsk Group Co-Chairmen of the Organization for Security and Cooperation
+in Europe, which have an international mandate of mediating the conflict resolution, have recognized the role of
+the people of Nagorno Karabakh in deciding their future. The Minsk Group Co-Chairmen have consistently
+referred to the equal rights and self- determination of peoples as one of the principle of the conflict resolution.
+Armenia strongly believes that issues, which belong to the conflict resolution, should be addressed within their
+respective formats and should not be used for blame games and thus impede international cooperation. Armenia
+stands ready to facilitate the dialogue between the concerned parties.
+
+
+Secretary-General of ITU
+Having considered the above communication, I wish to express my serious concern about the situation referred
+to therein and encourage the sides to reach a peaceful negotiated settlement of the Nagorno-Karabakh conflict.
+In this respect and like the Secretary-General of the United Nations, I fully support the efforts of the OSCE Minsk
+Group Co-Chairs to help the sides to achieve a peaceful negotiated settlement. In this respect and in light of the
+above communication and the communication of 29.V.2017 from the Republic of Azerbaijan I call on the sides
+to address all the issues related to the conflict within OSCE Minsk Group Co-Chairs format.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                  AMENDMENTS TO SERVICE PUBLICATIONS
+                                              Abbreviations used
+
+                             ADD    Insert                       PAR     paragraph
+                             COL    Column                       REP     replace
+                             LIR    Read                         SUP     Delete
+                             P      page(s)
+
+
+
+                           List of Issuer Identifier Numbers for
+                   the International Telecommunication Charge Card
+             (in accordance with ITU-T Recommendation E.118 (05/2006))
+                             (Position on 15 November 2015)
+                       (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                        (Amendment No. 47)
+Australia        ADD
+    Country/      Company Name/Address             Issuer      Contact                                   Effective
+  geographical                                   Identifier                                               date of
+      area                                        Number                                                  usage
+ Australia       Pivotel Group Pty Limited       89 61 50      Mr Robert Sakker                          1.I.2018
+                 75 Nerang Street                              75 Nerang Street
+                 SOUTHPORT QLD 4215                            SOUTHPORT QLD 4215
+                                                               Tel:    +61 414 207 050
+                                                               Fax:    +612 9473 9650
+                                                               E-mail: robert.sakker@pivotel.com.au
+ Australia       Pivotel Group Pty Limited       89 61 88      Mr Robert Sakker                          3.I.2003
+                 75 Nerang Street                              75 Nerang Street
+                 SOUTHPORT QLD 4215                            SOUTHPORT QLD 4215
+                                                               Tel:    +61 414 207 050
+                                                               Fax:    +612 9473 9650
+                                                               E-mail: robert.sakker@pivotel.com.au
+
+Malaysia         ADD
+   Country/       Company Name/Address              Issuer       Contact                                  Effective
+ geographical                                     Identifier                                               date of
+     area                                          Number                                               registration
+ Malaysia        U Mobile Sdn. Bhd.               89 60 18       Mr Ng Cheong Chong                     30.VIII.2018
+                 Lot 11.01, Level 11,                            Lot 11.01, Level 11,
+                 East, Berjaya Times Square                      East, Berjaya Times Square
+                 1, Jalan Imbi                                   1, Jalan Imbi
+                 55100 KUALA LUMPUR                              55100 KUALA LUMPUR
+                                                                 Tel:     +60 3 2117 9888
+                                                                 Fax:     +60 3 2141 6511
+                                                                 E-mail: cheongchong.ng@u.com.my
+
+
+
+
+Malaysia           SUP
+  Country/         Company Name/Address              Issuer      Contact                               Effective date
+ geographica                                       Identifier                                          of cancellation
+    l area                                          Number
+ Malaysia        U Mobile Sdn. Bhd.                89 60 20      Mr Ng Cheong Chong                     30.VIII.2018
+                 Lot 11.01, Level 11,                            U Mobile Sdn. Bhd.
+                 East, Berjaya Times Square 1,                   Lot 11.01, Level 11,
+                 Jalan Imbi                                      East, Berjaya Times Square
+                 55100 KUALA LUMPUR                              1, Jalan Imbi
+                                                                 55100 KUALA LUMPUR
+                                                                 Tel:    +60 3 2117 9888
+                                                                 Fax: +60 3 2141 6511
+                                                                 E-mail: cheongchong.ng@u.com.my
+
+United Kingdom     SUP
+
+    Country/                                       Issuer
+                                                                                                           Date of
+  Geographical     Company Name/Address          Identifier                   Contact
+                                                                                                         cancellation
+      area                                        Number
+
+ United            OnePhone (UK) Ltd             89 44 09       Magnus Kelly                              8.III.2016
+ Kingdom           11 Murray Street                             Langbaurgh Hall, Great Ayton
+                   LONDON NW1 9RE                               NORTH YORKSHIRE TS9 6QQ
+                                                                Tel: +44 77 1159 0311
+                                                                Fax:
+                                                                E-mail: peter.scrope@onephone.org.uk
+ United            Mobile By Sainsbury's         89 44 16       Adrian Digby                              6.VII.2017
+ Kingdom           Limited                                      33 Holborn
+                   33 Holborn                                   London EC1N 2HT
+                   London EC1N 2HT                              Tel: +44 747 2900 92
+                                                                Fax:
+                                                                E-mail: adrian.digby@
+                                                                         mobilebysainsburys.co.uk
+ United            Dolphin Telecom plc           89 44 21       Hamish Macleod                            5.VII.2016
+ Kingdom           The Crescent, Jays Close                     The Cresent, Jays Close
+                   BASINGSTOKE, HANTS                           BASINGSTOKE, HANTS RG22 4BS
+                   RG22 4BS                                     Tel:     +44 1256 367050
+                                                                Fax:     +44 1256 7135
+                                                                E-mail:
+ United            Stanhope                      89 44 25       Ken Prenty                                1.II.2013
+ Kingdom           Communications Plc                           Aerofone, Manton Lane
+                   Aerofone, Mantone Lane                       BEDFORD MK41 7TL
+                   BEDFORD MK41 7TL                             Tel:     +44 845 330 5704
+                                                                Fax:     +44 845 330 7701
+                                                                E-mail: info@aerofone.co.uk
+ United            Unitel Communications         89 44 26       Christine Kennelwell                      26.I.2016
+ Kingdom           Ltd                                          Wealo House, 88 Main Road
+                   Wealo House, 88 Main                         SUNDRIDGE, KENT TN14 6ER
+                   Road                                         Tel:     +44 195 956 5300
+                   SUNDRIDGE, KENT TN14                         Fax:     +44 195 956 8301
+                   6ER                                          E-mail: ckennelwell@unitel.co.uk
+
+
+
+
+  Country/                                    Issuer
+                                                                                                     Date of
+Geographical     Company Name/Address       Identifier                  Contact
+                                                                                                   cancellation
+    area                                     Number
+
+United           Televoice UK Ltd           89 44 27     P.M. Errington                             8.III.2016
+Kingdom          14 Hanover Square                       213 Penn Road
+                 LONDON W1SIHP                           BEACONFIELD, BUCKS HP9 2PD
+                                                         Tel:     +44 870 750 7080
+                                                         Fax:     +44 870 750 7030
+                                                         E-mail: adbwy@televoiceservices.com
+United           Keygold.com Ltd            89 44 31     Warren Lee Richards                        21.X.2014
+Kingdom          10 Stoke Road, Walton-                  10 Stoke Road, Walton-on Thames
+                 on Thames                               SURREY KT12 3DD
+                 SURREY KT12 3DD                         Tel:     +44 1932 267 715
+                                                         Fax:     +44 1932 269 663
+                                                         E-mail: warren@keygold.com
+United           Vanilla Vouchers Ltd       89 44 32     Brian Tagg                                 18.II.2014
+Kingdom          1638 Parkway, Solent                    1638 Parkway, Solent Business Park
+                 Business Park                           WHITELEY, HAMPSHIRE PO15 7AH
+                 WHITELEY, HAMPSHIRE                     Tel:     +44 1489 556 700
+                 PO15 7AH                                Fax:     +44 1489 588 498
+                                                         E-mail: btagg@incomm-europe.com
+United           Disney Mobile UK Ltd       89 44 75     Daniel Lerner-Ellis                        29.X.2013
+Kingdom          3 Queen Caroline Street,                3 Queen Caroline Street, Hammersmith
+                 Hammersmith                             LONDON W6 9PE
+                 LONDON W6 9PE                           Tel:     +44 208 222 1537
+                                                         Fax:     +44 208 222 1038
+                                                         E-mail: daniel.x.lerner-llis.nd@dig.com
+United           BLYK Limited               89 44 80     David Wilkinson                           25.XI.2016
+Kingdom          Amadeus House, Floral                   Amadeus House, Floral Street
+                 Street                                  LONDON WC26 9DP
+                 LONDON WC26 9DP                         Tel:     +44 207 812 7146
+                                                         Fax:     +44 207 812 6495
+                                                         E-mail: david@blyk.com
+United           Use Your Noodle Ltd        89 44 82     Edward Warr                                7.X.2011
+Kingdom          8 - 10 Dean Park                        8 - 10 Dean Park Crescent
+                 Crescent                                BOURNEMOUTH BH1 1HL, LONDON
+                 BOURNEMOUTH BH1                         Tel:     +44 208 114 1002
+                 1HL, LONDON                             Fax:     +44 1202 370 001
+                                                         E-mail: edward.warr@useyournoodle.eu
+
+
+
+
+Venezuela (Bolivarian Republic of)   LIR
+
+     Country/        Company Name/Address          Issuer                          Contact
+   geographical                                  Identifier
+       area                                       Number
+ Venezuela          Corporación Digitel C.A.     89 58 02     Ileanora Rondón Blanco
+ (Bolivarian        Torre Digitel, Piso 22.                   Torre Digitel, Piso 22.
+ Republic of)       Av. Eugenio Mendoza con                   Av. Eugenio Mendoza con Av. Blandín
+                    Av. Blandín                               La Castellana, Edo.
+                    La Castellana, Edo.                       MIRANDA 1060
+                    MIRANDA 1060                              Tel:      +58 212 318 94 43 Ext: 5443
+                                                              E-mail: ileanora_rondon@digitel.com.ve
+                                                                         Gcia_AsuntosRegulatorios@digitel.com.ve
+ Venezuela          Telecommunications           89 58 06     Aivil Silva
+ (Bolivarian        Movilnet C.A.                             Av. Libertador. Edificio CANTV NEA. Piso 7
+ Republic of)       Av. Libertador.                           CANTV-Movilnet
+                    Edificio CANTV NEA. Piso 7                CARACAS 1050
+                    CANTV-Movilnet                            Tel:      +58 212 5004255
+                    CARACAS 1050                              E-mail: asilva08@cantv.com.ve
+
+
+
+
+                     List of Mobile Country or Geographical Area Codes
+                  (Complement to Recommendation ITU-T E.212 (09/2016)
+                               (Position on 1 February 2017)
+                                  (Annex to ITU Operational Bulletin No. 1117 – 1.II.2017)
+                                                   (Amendment No. 1)
+
+ Code (MCC)          Country or Geographical Area                                                     Note
+
+Numerical Order             ADD
+
+ 902                 shared code                                                                       e
+ 999                 internal use within a private network, shared code                                 f
+
+Alphabetical Order          ADD
+
+ 999                 internal use within a private network, shared code                                 f
+ 902                 shared code                                                                       e
+
+                           Notes common to Numerical and Alphabetical Lists of
+                 Recommendation ITU-T E.212 Mobile Country or Geographical Area Codes (MCCs)
+
+ADD Notes
+
+e. Associated with shared mobile country code 902 (MCC), the following two-digit mobile network code
+(MNC) has been assigned:
+
+                                                 Mobile Country Code (MCC)* and              Date of assignment
+     Applicant / Network
+                                                 Mobile Network Code (MNC)**
+MulteFire Alliance                                                902 01                         6.IX.2018
+
+
+f. For purposes of testing and examples using this MCC, it is encouraged to use MNC value 99 or 999. MNCs
+under this MCC cannot be used outside of the network for which they apply. MNCs under this MCC may be 2-
+or 3-digit.
+__________
+
+See page 5 of the present Operational Bulletin No. 1156 of 15.IX.2018.
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                     for public networks and subscriptions
+             (According to Recommendation ITU-T E.212 (09/2016))
+                       (Position on 1st November 2016)
+                              (Annex to ITU Operational Bulletin No. 1111 - 1.XI.2016)
+                                              (Amendment No. 44)
+
+Country/Geographical area            MCC+MNC *           Operator/Network
+Myanmar ADD
+                                           414 22        Fortune Telecom Co., Ltd
+                                           414 23        Global Technology Co., Ltd
+
+
+Country/Geographical area            MCC+MNC *           Applicant/Network
+shared code ADD
+                                           902 01        MulteFire Alliance
+
+____________
+*    MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+     MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                    List of Terrestrial trunk radio Mobile Country Codes
+                 (Complement to Recommendation ITU-T E.218 (05/2004))
+                                  (Position on 1 June 2017)
+                              (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                               (Amendment No. 1)
+
+
+ Code ((T)MCC)             Country or Geographical Area                                                          Note
+
+Numerical Order           ADD
+
+ 944                       International Terrestrial trunk radio Networks, shared code                             d
+
+Alphabetical Order ADD
+
+ 944                       International Terrestrial trunk radio Networks, shared code                             d
+
+
+
+
+                                 Notes common to Numerical and Alphabetical lists of
+                             Recommendation ITU-T E.218 mobile country codes ((T)MCCs)
+
+ADD Notes
+
+d. Associated with shared Terrestrial trunk radio Mobile Country Code 944 ((T)MCC, the following
+four-digit Terrestrial trunk radio Mobile Network Code ((T)MNC) has been assigned:
+
+             Applicant / Network                  Terrestrial trunk radio Mobile Country Code ((T)MCC)* and      Date of
+                                                   Terrestrial trunk radio Mobile Network Code ((T)MNC)**      assignment
+  European Union / European Parliament                                   944 0001                              6.IX.2018
+
+
+__________
+
+See page 6 of the present Operational Bulletin No. 1156 of 15.IX.2018.
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 67)
+
+ Country or area/ISO code                               Company Code       Contact
+  Company Name/Address                                   (carrier code)
+
+Germany (Federal Republic of) / DEU            ADD
+
+ Emden Digital GmbH                                        EMDDIG          Mr Joachim Ehmen
+ Martin-Faber-Strasse 11                                                   Tel.:   +49 4921 83209
+ 26725 EMDEN                                                               Fax:    +49 4921 8384606
+                                                                           E-mail: j.ehmen@emden-digital.de
+
+ voip2gsm s.r.o.                                           V2GSM           Mr Alexander Maydorf
+ Hlavni 216                                                                Tel.:    +420 2340 93851
+ 43163 PERSTEJN                                                            Fax:     +49 351 3125 60113
+ Czech Republic                                                            E-mail : dw@voip2gsm.eu
+
+ Stadtwerke Velbert GmbH                                   STWVEL          Mrs. Dr. Beate Rickert (KPR CAPITAL GmbH)
+ Kettwiger Strasse 2                                                       Tel.:   +49 69 1534894 50
+ 42549 VELBERT                                                             Fax:    +49 69 1534894 70
+                                                                           E-mail: beate.rickert@kpr-capital.com
+
+
+
+
+                                 National Numbering Plan
+                  (According to Recommendation ITU-T E.129 (01/2013))
+                                     Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.VIII.2018, the following countries/geographical areas have updated their national numbering plan on
+our site:
+
+                       Country/ Geographical area                     Country Code (CC)
+                 Estonia                                                    +372
+                 Ireland                                                    +353
+                 Slovenia                                                   +386
+
+
+
+

@@ -1,0 +1,3038 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1111             1.XI.2016                   (Information received by 18 October 2016) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .....................................................................                                 3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Identification codes for International Mobile Networks .......................................................                                     5
+Telephone Service:
+     Trinidad and Tobago (Telecommunications Authority of Trinidad and Tobago (TATT), Barataria) .........                                                         6
+Changes in Administrations/ROAs and other entities or Organizations:
+     Gabon (Ministère de l'Economie Numérique et de la Poste, Libreville): Change of name ........................                                                 7
+     Vanuatu (Office of the Government Chief Information Officer, Port Vila): Change of name ...................                                                   7
+Service Restrictions ........................................................................................................................................      8
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                    8
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                9
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................      10
+List of ITU Carrier Codes .................................................................................................................................       11
+List of International Signalling Point Codes (ISPC) .........................................................................................                     11
+National Numbering Plan ...............................................................................................................................           12
+Annex
+Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+(According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+
+
+
+
+                                                                                                                                 www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1112             15.XI.2016             1.XI.2016
+               1113             1.XII.2016             16.XI.2016
+               1114             15.XII.2016            1.XII.2016
+               1115              1.I.2017             12.XII.2016
+               1116              15.I.2017              2.I.2017
+               1117              1.II.2017             16.I.2017
+               1118             15.II.2017              1.II.2017
+               1119              1.III.2017            15.II.2017
+               1120             15.III.2017            1.III.2017
+               1121              1.IV.2017             17.III.2017
+               1122             15.IV.2017             31.III.2017
+               1123              1.V.2017              14.IV.2017
+               1124             15.V.2017               1.V.2017
+               1125              1.VI.2017             16.V.2017
+               1126             15.VI.2017             1.VI.2017
+               1127             1.VII.2017             16.VI.2017
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+     subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+     (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+     Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1066 List of Signalling Area/Network Codes (SANC) (Complement to ITU-T Recommendation Q.708 (03/99))
+     (Position on 15 December 2014)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+     2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+     optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+     Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+     (Position on 1 November 2012)
+1005 List of mobile country or geographical area codes (Complement to ITU-T Recommendation E.212
+     (05/2008)) (Position on 1 June 2012).
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+     to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+     (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+     operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+     accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 List of ITU-T Recommendation E.164 assigned country codes (Complement to ITU-T Recommendation
+     E.164 (11/2010)) (Position on 1 November 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+     (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+     T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+     (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+     series Recommendations) (Position on 15 February 2011)
+972 List of terrestrial trunk radio mobile country codes (Complement to ITU-T Recommendation E.218
+     (05/2004)) (Position on 15 January 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+     on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+     Recommendation F.1 (03/1998))
+B.   The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-90, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T H.264 (V11) (10/2016): Advanced video coding for generic audiovisual services
+–     ITU-T J.94 (10/2016): Service information for digital broadcasting in cable television systems
+–     ITU-T J.196.2 (10/2016): Physical layer specification of second generation HiNoC
+–     ITU-T J.196.3 (10/2016): Media Access Control (MAC) layer specification of second generation HiNoC
+–     ITU-T J.223.2 (10/2016): Cabinet DOCSIS (C-DOCSIS) System Specification
+–     ITU-T J.230 (10/2016): Requirements for platform functionalities on the integration of cable STB and
+      mobile second screen devices
+–     ITU-T J.302 (10/2016): System Specifications of Augmented Reality Smart Television Service
+–     ITU-T J.1006 (10/2016): Specification of IP-VOD DRM for cable television multiscreen system in Multi-DRM
+      environment
+–     ITU-T J.1104 (10/2016): Control specification for IP-based switched digital video using data over cable
+      service interface specifications
+–     ITU-T J.1105 (10/2016): Requirement of channel switching service over Hybrid fiber and coaxial based
+      network
+–     ITU-T L.1002 (10/2016): External universal power adapter solutions for portable information and
+      communication technology devices
+–     ITU-T L.1350 (10/2016): Energy efficiency metrics of base station site
+–     ITU-T Y.4903/L.1603 (10/2016): Key performance indicators for smart sustainable cities to assess the
+      achievement of sustainable development goals
+–     ITU-T X.500 (10/2016): Information technology – Open Systems Interconnection – The Directory:
+      Overview of concepts, models and services
+–     ITU-T X.501 (10/2016): Information technology – Open Systems Interconnection – The Directory: Models
+–     ITU-T X.509 (2012) Cor. 3 (10/2016)
+–     ITU-T X.509 (10/2016): Information technology – Open Systems Interconnection – The Directory: Public-
+      key and attribute certificate frameworks
+–     ITU-T X.511 (10/2016): Information technology – Open Systems Interconnection – The Directory: Abstract
+      service definition
+–     ITU-T X.518 (10/2016): Information technology – Open Systems Interconnection – The Directory:
+      Procedures for distributed operation
+–     ITU-T X.519 (10/2016): Information technology – Open Systems Interconnection – The Directory: Protocol
+      specifications
+–     ITU-T X.520 (10/2016): Information technology – Open Systems Interconnection – The Directory: Selected
+      attribute types
+–     ITU-T X.521 (10/2016): Information technology – Open Systems Interconnection – The Directory: Selected
+      object classes
+–     ITU-T X.525 (10/2016): Information technology – Open Systems Interconnection – The Directory:
+      Replication
+–     ITU-T X.691 (2015) Cor. 1 (10/2016)
+–     ITU-T X.1038 (10/2016): Security requirements and reference architecture for software-defined
+      networking
+
+
+–        ITU-T X.1039 (10/2016): Technical security measures for implementation of ITU-T X.805 security
+         dimensions
+–        ITU-T X.1085 (10/2016): Information technology – Security techniques – Telebiometric authentication
+         framework using biometric hardware security module
+–        ITU-T X.1087 (10/2016): Technical and operational countermeasures for telebiometric applications using
+         mobile devices
+–        ITU-T Z.109 (10/2016): Specification and Description Language – Unified modeling language profile for
+         SDL-2010
+–        ITU-T Z.161 (10/2016): Testing and Test Control Notation version 3: TTCN-3 core language
+–        ITU-T Z.164 (10/2016): Testing and Test Control Notation version 3: TTCN-3 operational semantics
+–        ITU-T Z.166 (10/2016): Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)
+–        ITU-T Z.169 (10/2016): Testing and Test Control Notation version 3: Using XML schema with TTCN-3
+
+
+
+
+       International Identification Plan for Public Networks and Subscriptions
+                      (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                                    Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has
+been assigned on 5 October 2016:
+
+                                                                                Mobile Country Code (MCC)* and Mobile Network
+                                 Network
+                                                                                                Code (MNC)**
+    Deutsche Telekom AG                                                                                 901 53
+
+______________
+*      MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+**     MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                            url: www.itu.int/itu-t/inr/nnp
+
+Trinidad and Tobago (country code +1 868)
+Communication of 30.IX.2016:
+
+The Telecommunications Authority of Trinidad and Tobago (TATT), Barataria, announces that the following
+Central Office codes (NXX) have been assigned to operators within the North American Numbering Plan (NPA –
+868) for Trinidad and Tobago.
+•        Fixed network
+
+
+                                                             Central office code
+                   Name of operator                                                        Service
+                                                                   (NXX)
+    Digicel (Trinidad and Tobago) Limited                            230                    Fixed
+                                                                     236
+                                                                     237
+                                                                     238
+                                                                     239
+
+
+International dialling format: +1 868 NXX XXXX
+Contact:
+         Ms Cynthia Reddock-Downes
+         Chief Executive Officer (Ag.)
+         Telecommunications Authority of Trinidad and Tobago (TATT)
+         5, Eight Avenue Extension, off Twelfth Street
+         BARATARIA
+         Trinidad and Tobago
+         Tel:      +1 868 675 8288
+         Fax:      +1 868 674 1055
+         E-mail: info@tatt.org.tt
+         URL:      www.tatt.org.tt
+
+
+
+
+                     Changes in Administrations/ROAs and other entities
+                                     or Organizations
+
+Gabon
+Communication of 5.X.2016:
+
+                                                Change of name
+
+The Ministère de l'Economie Numérique et de la Poste, Libreville, announces that it has changed its name. It is
+now called: « Ministère de l'Economie Numérique, de la Communication, de la Culture et des Arts, Porte-Parole
+du Gouvernement ».
+       Ministère de l'Economie Numérique, de la Communication, de la Culture et des Arts,
+       Porte-Parole du Gouvernement
+       Immeuble de la Poste
+       Boulevard de l'Indépendance
+       B.P. 2280
+       LIBREVILLE
+       Gabon
+       Tel:    +241 1763435
+       Fax:    +241 1760109
+       E-mail: info-mencp@gouv.ga
+
+Vanuatu
+Communication of 14.X.2016:
+
+                                                Change of name
+
+The Office of the Government Chief Information Officer, Port Vila, announces that it has changed its name. It is
+now called: « Office of the Government Chief Information Officer (OGCIO) ».
+       Office of the Government Chief Information Officer (OGCIO)
+       Prime Minister's Office, Government of the Republic of Vanuatu
+       PMB 9108
+       PORT VILA
+       Vanuatu
+       Tel:     +678 33380
+       Fax:     +678 26301
+       E-mail: ictpolicy@vanuatu.gov.vu
+       URL:     www.ogcio.gov.vu
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                        Call – Back
+               and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+
+                                ADD    Insert                     PAR    paragraph
+                                COL    Column                     REP    replace
+                                LIR    Read                       SUP    Delete
+                                P      page(s)
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                           (Position on 15 November 2015)
+                            (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                              (Amendment No. 12)
+
+United Kingdom    ADD
+   Country/                                Issuer                                                    Effective
+                     Company
+ geographica                             Identifier                     Contact                       date of
+                   Name/Address
+    l area                                Number                                                      usage
+ United          Home Office             89 44 19     Mr Ari Toivonen                               15.IX.2016
+ Kingdom         2 Marsham Street                     ESMCP, 2 Marsham Street
+                 LONDON, SW1P 4DF                     LONDON, SW1P 4DF
+                                                      Tel: +44 7795 222 961
+                                                      E-mail: ari.toivonen@homeoffice.gsi.gov.uk
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                    for public networks and subscriptions
+            (According to Recommendation ITU-T E.212 (05/2008))
+                         (Position on 15 October 2015)
+                              (Annex to ITU Operational Bulletin No. 1086 - 15.X.2015)
+                                               (Amendment No. 22)
+
+Country/Geographical area                           MCC+MNC *          Operator/Network
+Australia ADD
+                                                        505 39         Telstra Corporation Ltd.
+Comoros ADD
+                                                        654 02         TELMA / TELCO SA
+Comoros LIR
+                                                        654 01         HURI / Comores Telecom
+Norway SUP
+                                                        242 04         Tele2 Norge AS
+                                                        242 22         Network Norway AS
+                                                        242 24         Mobile Norway AS
+Norway ADD
+                                                        242 06         ICE Norge AS
+                                                        242 14         ICE Communication Norge AS
+                                                        242 99         Tampnet AS
+Norway LIR
+                                                        242 02         Telia Norge AS
+                                                        242 05         Telia Norge AS
+                                                        242 07         Phonero AS
+                                                        242 10         Norwegian Communications Authority
+South Africa ADD
+                                                        655 46         SMS Cellular Services (Pty) Ltd
+International Mobile, shared code ADD
+                                                        901 53         Deutsche Telekom AG
+____________
+*    MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+     MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                  List of ITU Carrier Codes
+                  (According to Recommendation ITU-T M.1400 (03/2013))
+                              (Position on 15 September 2014)
+                                (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                                 (Amendment No. 33)
+
+
+ Country or area/ISO code                                         Company Code         Contact
+  Company Name/Address                                             (carrier code)
+
+Germany (Federal Republic of) / DEU              ADD
+
+ mobilcom-debitel GmbH                                               MD8000            Ms Swantje Nietzert
+ Hollerstrasse 126                                                                     Tel: +49 4331 69 1525
+ 24782 BUEDELSDORF                                                                     Fax: +49 4331 69 2010
+                                                                                       E-mail: swantje.neitzert@md.de
+
+
+
+
+                   List of International Signalling Point Codes (ISPC)
+                 (According to Recommendation ITU-T Q.708 (03/1999))
+                               (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                   (Amendment No. 2)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point               Name of the signalling point operator
+
+
+ Comoros ADD
+ 6-108-0       13152        CT-HURI                                           Comores Telecom
+ 6-108-1       13153        CTA-HURI                                          Comores Telecom
+
+ Hungary LIR
+ 4-243-2       10138        MGWG                                              Magyar Telekom Plc
+ 4-243-3       10139        MGWF                                              Magyar Telekom Plc
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                National Numbering Plan
+                 (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web:www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.X.2016 the following countries have updated their national numbering plan on our site:
+
+
+                            Country                                            Country Code (CC)
+ Chile                                                                          +56
+
+
+
+
+                          Annex to ITU Operational Bulletin
+
+
+
+
+          INTERNATIONAL TELECOMMUNICATION UNION
+
+
+
+
+    TSB
+    TELECOMMUNICATION
+    STANDARDIZATION BUREAU
+    OF ITU
+
+
+
+    __________________________________________________________________
+
+
+
+
+    Mobile Network Codes (MNC) for the international
+    identification plan for public networks and subscriptions
+    (According to Recommendation ITU-T E.212 (09/2016))
+
+    (POSITION ON 1 NOVEMBER 2016)
+
+
+
+
+    __________________________________________________________________
+
+
+
+
+Geneva, 2016
+Mobile Network Codes (MNC) for the international identification plan
+                for public networks and subscriptions
+
+Note from TSB
+
+1.      A centralized List of Mobile Network Codes (MNC) for the international identification plan
+for public networks and subscriptions has been created within TSB.
+
+2.      This List of Mobile Network Codes (MNC) is published as an annex to ITU Operational
+Bulletin No. 1111 of 1.XI.2016. Administrations are requested to verify the information in this List
+and to inform ITU on any modifications that they wish to make. The notification form can be found
+on the ITU website at www.itu.int/itu-t/inr/forms/mnc.html .
+
+3.     This List will be updated by numbered series of amendments published in the ITU
+Operational Bulletin. Furthermore, the information contained in this Annex is also available on the
+ITU website at www.itu.int/itu-t/bulletin/annex.html .
+
+4.     Please address any comments or suggestions concerning this List to the Director of TSB:
+
+                              International Telecommunication Union (ITU)
+                              Director of TSB
+                              Tel:    +41 22 730 5211
+                              Fax: +41 22 730 5853
+                              E-mail: tsbtson@itu.int
+
+5.     The designations employed and the presentation of material in this List do not imply the
+expression of any opinion whatsoever on the part of ITU concerning the legal status of any country
+or geographical area, or of its authorities.
+
+
+
+
+Mobile Network Codes (MNC) under geographic Mobile Country Codes (MCC)
+
+Country or
+Geographical Area        Networks                                            MCC + MNC codes *
+Afghanistan
+                         AWCC                                                    412 01
+                         Roshan                                                  412 20
+                         Areeba Afghanistan                                      412 40
+                         Etisalat                                                412 50
+                         Afghan Telecom                                          412 80
+                         Afghan Telecom                                          412 88
+Albania
+                         Albanian Mobile Communications (AMC)                    276 01
+                         Vodafone Albania                                        276 02
+                         Eagle Mobile                                            276 03
+                         Mobile 4 AL                                             276 04
+Algeria
+                         Algérie Telecom                                         603 01
+                         Orascom Telecom Algérie                                 603 02
+Andorra
+                         Mobiland                                                213 03
+Angola
+                         Unitel                                                  631 02
+                         Movicel                                                 631 04
+Anguilla
+                         Weblinks Limited                                        365 010
+                         Cable and Wireless (Anguilla) Ltd trading as Lime       365 840
+Antigua and Barbuda
+                         APUA PCS                                                344 030
+                         Cable & Wireless (Antigua) trading as Lime              344 920
+                         AT&T Wireless (Antigua)                                 344 930
+Argentina
+                         Compañia de Radiocomunicaciones Moviles S.A.            722 010
+                         Nextel Argentina srl                                    722 020
+                         Telefónica Comunicaciones Personales S.A.               722 070
+                         CTI PCS S.A.                                            722 310
+                         Compañia de Telefonos del Interior Norte S.A.           722 320
+                         Compañia de Telefonos del Interior S.A.                 722 330
+                         Telecom Personal S.A.                                   722 341
+
+
+Country or
+Geographical Area        Networks                                         MCC + MNC codes *
+Aruba
+                         SETAR N.V.                                           363 01
+                         DIGICEL ARUBA                                        363 02
+Australia
+                         Telstra Corporation Ltd.                             505 01
+                         Optus Mobile Pty. Ltd.                               505 02
+                         Vodafone Network Pty. Ltd.                           505 03
+                         Department of Defence                                505 04
+                         The Ozitel Network Pty. Ltd.                         505 05
+                         Hutchison 3G Australia Pty. Ltd.                     505 06
+                         Vodafone Network Pty. Ltd.                           505 07
+                         One.Tel GSM 1800 Pty. Ltd.                           505 08
+                         Airnet Commercial Australia Ltd.                     505 09
+                         Norfolk Telecom                                      505 10
+                         Telstra Corporation Ltd.                             505 11
+                         Hutchison Telecommunications (Australia) Pty.
+                                                                              505 12
+                         Ltd.
+                         Railcorp                                             505 13
+                         AAPT Ltd                                             505 14
+                         3GIS Pty Ltd. (Telstra & Hutchison 3G)               505 15
+                         Victorian Rail Track                                 505 16
+                         Vivid Wireless Pty Ltd                               505 17
+                         Pactel International Pty Ltd                         505 18
+                         Lycamobile Pty Ltd                                   505 19
+                         Ausgrid Corporation                                  505 20
+                         Queensland Rail Limited                              505 21
+                         iiNet Ltd                                            505 22
+                         Challenge Networks Pty Ltd                           505 23
+                         Advanced Communications Technologies Pty. Ltd.       505 24
+                         Pilbara Iron Company Services Pty Ltd                505 25
+                         Dialogue Communications Pty Ltd                      505 26
+                         Nexium Telecommunications                            505 27
+                         RCOM International Pty Ltd                           505 28
+                         Compatel Limited                                     505 30
+                         BHP Billiton                                         505 31
+                         Thales Australia                                     505 32
+                         CLX Networks Pty Ltd                                 505 33
+
+Country or
+Geographical Area        Networks                       MCC + MNC codes *
+                         Santos Ltd                         505 34
+                         MessageBird Pty Ltd                505 35
+                         Optus Mobile Pty. Ltd.             505 36
+                         Yancoal Australia Ltd              505 37
+                         Truphone Pty Ltd                   505 38
+                         Telstra Corporation Ltd.           505 39
+                         NBNCo Limited                      505 62
+                         NBNCo Limited                      505 68
+                         Telstra Corporation Ltd.           505 71
+                         Telstra Corporation Ltd.           505 72
+                         Localstar Holding Pty. Ltd.        505 88
+                         Optus Ltd.                         505 90
+                         One.Tel GSM 1800 Pty. Ltd.         505 99
+Austria
+                         A1 Telekom Austria AG              232 01
+                         A1 Telekom Austria AG              232 02
+                         T-Mobile Austria GmbH              232 03
+                         T-Mobile Austria GmbH              232 04
+                         Hutchison Drei Austria GmbH        232 05
+                         T-Mobile Austria GmbH              232 07
+                         Lycamobile Austria Ltd             232 08
+                         A1 Telekom Austria AG              232 09
+                         Hutchison Drei Austria GmbH        232 10
+                         A1 Telekom Austria AG              232 11
+                         A1 Telekom Austria AG              232 12
+                         UPC Austria Services GmbH          232 13
+                         Hutchison Drei Austria GmbH        232 14
+                         Mundio Mobile (Austria) Ltd        232 15
+                         Hutchison Drei Austria GmbH        232 16
+                         MASS Response Service GmbH         232 17
+                         smartspace GmbH                    232 18
+                         Tele2 Telecommunication GmbH       232 19
+                         Mtel Austrija GmbH                 232 20
+                         ÖBB - Infrastruktur AG             232 91
+
+
+
+
+Country or
+Geographical Area        Networks                                              MCC + MNC codes *
+Azerbaijan
+                         "Azercell Telecom" LLC                                    400 01
+                         "Bakcell" LLC                                             400 02
+                         "Catel" LLC                                               400 03
+                         "Azerfon" LLC                                             400 04
+                         Special State Protection Service of the Republic of
+                                                                                   400 05
+                         Azerbaijan
+                         "Nakhtel" LLC                                             400 06
+Bahamas
+                         NEWCO2015                                                 364 49
+Bahrain
+                         Bahrain Telecommunications Company
+                                                                                   426 01
+                         (BATELCO)
+                         Zain Bahrain                                              426 02
+                         Civil Aviation Authority                                  426 03
+                         STC Bahrain                                               426 04
+                         Royal Court                                               426 05
+Bangladesh
+                         GramenPhone                                               470 01
+                         Aktel                                                     470 02
+                         Mobile 2000                                               470 03
+Barbados
+                         Cable & Wireless (Barbados) Ltd. trading as Lime          342 600
+                         Sunbeach Communications                                   342 820
+Belarus
+                         MDC Velcom                                                257 01
+                         MTS                                                       257 02
+                         BelCel Joint Venture (JV)                                 257 03
+                         Closed joint-stock company "Belarusian
+                                                                                   257 04
+                         telecommunication network"
+                         Republican Unitary Telecommunication
+                         Enterprise (RUE) Beltelecom (National
+                                                                                   257 05
+                         Telecommunications Operator of the Republic of
+                         Belarus)
+                         Belorussian Cloud Technologies                            257 06
+
+
+
+
+Country or
+Geographical Area                  Networks                                        MCC + MNC codes *
+Belgium
+                                   Proximus                                            206 00
+                                   Proximus                                            206 01
+                                   N.M.B.S                                             206 02
+                                   Telenet nv                                          206 05
+                                   Lycamobile sprl                                     206 06
+                                   Mundio Mobile Belgium nv                            206 07
+                                   Mobistar sa                                         206 10
+                                   Base Company nv                                     206 20
+                                   Join Experience (Belgium)                           206 40
+Belize
+                                   Belize Telecommunications Ltd., GSM 1900            702 67
+                                   SMART/Speednet Communications Ltd.                  702 69
+Benin
+                                   Libercom                                            616 01
+                                   Telecel                                             616 02
+                                   Spacetel Benin                                      616 03
+Bermuda
+                                   Bermuda Digital Communications Ltd (CellOne)        350 000
+Bhutan
+                                   Bhutan Telecom Ltd                                  402 11
+                                   B-Mobile of Bhutan Telecom                          402 17
+Bolivia (Plurinational State of)
+                                   Nuevatel S.A.                                       736 01
+                                   ENTEL S.A.                                          736 02
+                                   Telecel S.A.                                        736 03
+Bosnia and Herzegovina
+                                   Eronet Mobile Communications Ltd.                   218 03
+                                   MOBI'S (Mobilina Srpske)                            218 05
+                                   GSMBIH                                              218 90
+Botswana
+                                   Mascom Wireless (Pty) Ltd                           652 01
+                                   Orange Botswana (Pty) Ltd                           652 02
+                                   Botswana Telecommunications Corporation (BTC)       652 04
+
+
+
+
+Country or
+Geographical Area        Networks                                     MCC + MNC codes *
+Brazil
+                         NEXTEL                                           724 00
+                         SISTEER DO BRASIL TELECOMUNICAÇÔES (MVNO)        724 01
+                         TIM REGIÂO I                                     724 02
+                         TIM REGIÂO III                                   724 03
+                         TIM REGIÂO III                                   724 04
+                         CLARO                                            724 05
+                         VIVO REGIÂO II                                   724 06
+                         VIVO REGIÂO III                                  724 10
+                         VIVO REGIÂO I                                    724 11
+                         SERCOMTEL                                        724 15
+                         BRT CELULAR                                      724 16
+                         DATORA (MVNO)                                    724 18
+                         TELEMIG CELULAR                                  724 23
+                         AMAZONIA CELULAR                                 724 24
+                         TNL PCS Oi                                       724 30
+                         TNL PCS Oi                                       724 31
+                         CTBC CELULAR R III                               724 32
+                         CTBC CELULAR R II                                724 33
+                         CTBC CELULAR R I                                 724 34
+                         TELCOM                                           724 35
+                         OPTIONS                                          724 36
+                         UNICEL                                           724 37
+                         CLARO                                            724 38
+                         NEXTEL (SMP)                                     724 39
+                         PORTO SEGURO TELECOMUNICAÇÔES (MVNO)             724 54
+                         LOCAL (STFC)                                     724 99
+British Virgin Islands
+                         Cable & Wireless (BVI) Ltd trading as lime       348 170
+                         BVI Cable TV Ltd                                 348 370
+                         Caribbean Cellular Telephone Ltd.                348 570
+                         Digicel (BVI) Ltd                                348 770
+Brunei Darussalam
+                         DST Com                                          528 11
+Bulgaria
+                         Mobiltel EAD                                     284 01
+                         Globul                                           284 05
+
+Country or
+Geographical Area        Networks                             MCC + MNC codes *
+Burkina Faso
+                         Celtel                                   613 02
+                         Telecel                                  613 03
+Burundi
+                         Econet                                   642 01
+                         Africell                                 642 02
+                         ONAMOB                                   642 03
+                         LACELL                                   642 07
+                         U.COM                                    642 82
+Cabo Verde
+                         Cabo Verde Telecom                       625 01
+                         T+Telecomunicações                       625 02
+Cambodia
+                         Mobitel (Cam GSM)                        456 01
+                         Hello                                    456 02
+                         S Telecom (CDMA)                         456 03
+                         Cadcomms                                 456 04
+                         Starcell                                 456 05
+                         Smart                                    456 06
+                         Viettel                                  456 08
+                         Mfone                                    456 18
+Cameroon
+                         Mobile Telephone Networks Cameroon       624 01
+                         Orange Cameroun                          624 02
+                         NEXTTEL (ex VIETTEL CAMEROON)            624 04
+Canada
+                         Telus Mobility                           302 220
+                         Telus Mobility                           302 221
+                         Telus Mobility                           302 222
+                         ALO Mobile Inc                           302 250
+                         Bragg Communications                     302 270
+                         Airtel Wireless                          302 290
+                         ECOTEL inc.                              302 300
+                         Dave Wireless                            302 320
+                         Execulink                                302 340
+                         Telus Mobility                           302 360
+                         Microcell                                302 370
+
+Country or
+Geographical Area        Networks                                    MCC + MNC codes *
+                         Dryden Mobility                                 302 380
+                         Dryden Mobility                                 302 390
+                         Globalive Wireless                              302 490
+                         Videotron Ltd                                   302 500
+                         Videotron Ltd                                   302 510
+                         Keewatinook Okimacinac                          302 530
+                         Lynx Mobility                                   302 560
+                         Light Squared                                   302 570
+                         Quadro Communication                            302 590
+                         Bell Mobility                                   302 610
+                         Ice Wireless                                    302 620
+                         Aliant Mobility                                 302 630
+                         Bell Mobility                                   302 640
+                         Tbay Mobility                                   302 656
+                         MTS Mobility                                    302 660
+                         CityTel Mobility                                302 670
+                         Sask Tel Mobility                               302 680
+                         Bell Mobility                                   302 690
+                         Globalstar                                      302 710
+                         Rogers Wireless                                 302 720
+                         TerreStar Solutions                             302 730
+                         Shaw Telecom G.P.                               302 740
+                         Public Mobile Inc                               302 760
+                         Rural Com                                       302 770
+                         Sask Tel Mobility                               302 780
+                         Telus Mobility                                  302 860
+                         Telus/Bell shared                               302 880
+                         Wightman Telecom                                302 940
+                         Test                                            302 990
+Cayman Islands
+                         Cable & Wireless (Cayman) trading as Lime       346 140
+Central African Rep.
+                         Centrafrique Telecom Plus (CTP)                 623 01
+                         Telecel Centrafrique (TC)                       623 02
+                         Celca (Socatel)                                 623 03
+
+
+
+
+Country or
+Geographical Area        Networks                                     MCC + MNC codes *
+Chad
+                         Celtel                                           622 01
+                         Tchad Mobile                                     622 02
+Chile
+                         Entel Telefónica Móvil                           730 01
+                         Telefónica Móvil                                 730 02
+                         Smartcom                                         730 03
+                         Centennial Cayman Corp. Chile S.A.               730 04
+                         Multikom S.A.                                    730 05
+                         Blue Two Chile SA                                730 06
+                         Telefónica Móviles Chile S.A.                    730 07
+                         VTR Móvil S.A.                                   730 08
+                         Centennial Cayman Corp. Chile S.A.               730 09
+                         Entel                                            730 10
+                         Celupago S.A.                                    730 11
+                         Telestar Móvil S.A.                              730 12
+                         TRIBE Mobile Chile SPA                           730 13
+                         Netline Telefónica Móvil Ltda                    730 14
+                         CIBELES TELECOM S.A.                             730 15
+                         Nomade Telecomunicaciones S.A.                   730 16
+                         COMPATEL Chile Limitada                          730 17
+                         Empresas Bunker S.A.                             730 18
+                         Sociedad Falabella Móvil SPA                     730 19
+China
+                         China Mobile                                     460 00
+                         China Unicom                                     460 01
+                         China Unicom CDMA                                460 03
+                         China Satellite Global Star Network              460 04
+Colombia
+                         Colombia Telecomunicaciones S.A. - Telecom       732 001
+                         Edatel S.A.                                      732 002
+                         Emtelsa                                          732 020
+                         Emcali                                           732 099
+                         Comcel S.A. Occel S.A./Celcaribe                 732 101
+                         Bellsouth Colombia S.A.                          732 102
+                         Colombia Móvil S.A.                              732 103
+                         Colombia Móvil S.A.                              732 111
+
+Country or
+Geographical Area        Networks                                        MCC + MNC codes *
+                         Telefónica Móviles Colombia S.A.                    732 123
+                         Avantel                                             732 130
+Comoros
+                         HURI / Comores Telecom                              654 01
+                         TELMA / TELCO SA                                    654 02
+Congo
+                         Celtel                                              629 01
+                         Libertis Telecom                                    629 10
+Cook Islands
+                         Telecom Cook                                        548 01
+Costa Rica
+                         Instituto Costarricense de Electricidad - ICE       712 01
+                         Instituto Costarricense de Electricidad - ICE       712 02
+                         CLARO CR Telecomunicaciones S.A.                    712 03
+                         Telefónica de Costa Rica TC, S.A.                   712 04
+                         Virtualis                                           712 20
+Côte d'Ivoire
+                         Atlantique Cellulaire                               612 02
+                         Orange Côte d'Ivoire                                612 03
+                         Comium Côte d'Ivoire                                612 04
+                         Loteny Telecom                                      612 05
+                         Oricel Côte d'Ivoire                                612 06
+                         Aircomm Côte d'Ivoire                               612 07
+Croatia
+                         T-Mobile Hrvatska d.o.o./T-Mobile Croatia LLC       219 01
+                         Tele2/Tele2 d.o.o.                                  219 02
+                         VIPnet/VIPnet d.o.o.                                219 10
+Cuba
+                         ETECSA                                              368 01
+Curaçao
+                         TELCELL GSM                                         362 51
+                         CT GSM                                              362 69
+                         SETEL GSM                                           362 91
+
+
+
+
+Country or
+Geographical Area        Networks                                    MCC + MNC codes *
+Cyprus
+                         CYTA                                            280 01
+                         Scancom (Cyprus) Ltd.                           280 10
+                         PrimeTel PLC                                    280 20
+                         Lemontel Ltd                                    280 22
+                         Mundio Mobile Cyprus Ltd                        280 23
+Czech Rep.
+                         T-Mobile Czech Republic a.s.                    230 01
+                         Telefónica O2 Czech Republic a.s.               230 02
+                         Vodafone Czech Republic a.s.                    230 03
+                         Air Telecom a.s.                                230 04
+                         Compatel s.r.o                                  230 08
+                         Mundio Distribution Czech Republic s.r.o.       230 09
+                         Sprava Zeleznicni Dopravni Cesty                230 98
+Dem. Rep. of the Congo
+                         Vodacom Congo RDC sprl                          630 01
+                         AIRTEL sprl                                     630 02
+                         Supercell Sprl                                  630 05
+                         Congo-Chine Telecom s.a.r.l.                    630 86
+                         YOZMA TIMETURNS sprl                            630 88
+                         OASIS sprl                                      630 89
+                         Africell RDC                                    630 90
+Denmark
+                         TDC Mobil                                       238 01
+                         Sonofon                                         238 02
+                         MIGway A/S                                      238 03
+                         NextGen Mobile Ltd T/A CardBoardFish            238 04
+                         Hi3G                                            238 06
+                         Mundio Mobile (Denmark) Limited                 238 07
+                         Nordisk Mobiltelefon Danmark A/S                238 08
+                         TDC Mobil                                       238 10
+                         Dansk Beredskabskommunikation A/S               238 11
+                         Lycamobile Denmark                              238 12
+                         Compatel Limited                                238 13
+                         Ice Danmark ApS                                 238 15
+                         Tismi B.V.                                      238 16
+                         Naka AG                                         238 17
+
+Country or
+Geographical Area        Networks                                        MCC + MNC codes *
+                         Cubic Telecom                                       238 18
+                         Telia                                               238 20
+                         CoolTEL                                             238 28
+                         Interactive Digital Media GmbH                      238 30
+                         Brandtel ApS                                        238 42
+                         MobiWeb Limited                                     238 43
+                         TT-Netvaerket P/S                                   238 66
+                         Tele2                                               238 77
+Djibouti
+                         Evatis                                              638 01
+Dominica
+                         Cable & Wireless Dominica Ltd trading as Lime       366 110
+Dominican Rep.
+                         Orange Dominicana, S.A.                             370 01
+                         Verizon Dominicana S.A.                             370 02
+                         Tricom S.A.                                         370 03
+                         CentennialDominicana                                370 04
+Ecuador
+                         Otecel S.A. - Bellsouth                             740 00
+                         Porta GSM                                           740 01
+                         Telecsa S.A.                                        740 02
+Egypt
+                         Mobinil                                             602 01
+                         Vodafone                                            602 02
+                         Etisalat                                            602 03
+El Salvador
+                         CTE Telecom Personal, S.A. de C.V.                  706 01
+                         Digicel, S.A. de C.V.                               706 02
+                         Telemóvil El Salvador, S.A.                         706 03
+Equatorial Guinea
+                         Guinea Ecuatorial de Telecomunicaciones
+                                                                             627 01
+                         Sociedad Anónima (GETESA)
+Estonia
+                         AS Eesti Telekom                                    248 01
+                         RLE                                                 248 02
+                         Tele2                                               248 03
+                         OY Top Connect                                      248 04
+
+Country or
+Geographical Area             Networks                                  MCC + MNC codes *
+                              Televõrgu AS                                  248 07
+                              Vivex OÜ                                      248 08
+                              Siseministeerium (Ministry of Interior)       248 71
+Ethiopia
+                              ETH MTN                                       636 01
+Falkland Islands (Malvinas)
+                              Touch                                         750 001
+Faroe Islands
+                              P/F Kall, reg. No 2868 (Vodafone FO)          274 02
+                              Faroese Telecom - GSM                         288 01
+                              Kall GSM                                      288 02
+Fiji
+                              Vodafone (Fiji) Ltd                           542 01
+                              Digicel (Fiji) Ltd                            542 02
+                              Telecom Fiji Ltd (CDMA)                       542 03
+Finland
+                              DNA Oy                                        244 03
+                              DNA Oy                                        244 04
+                              Elisa Oyj                                     244 05
+                              Elisa Oyj                                     244 06
+                              Nokia Solutions and Networks Oy               244 07
+                              Nokia Solutions and Networks Oy               244 08
+                              Nokia Solutions and Networks Oy               244 09
+                              Viestintävirasto                              244 10
+                              Viestintävirasto                              244 11
+                              DNA Oy                                        244 12
+                              DNA Oy                                        244 13
+                              Ålands Telekommunikation Ab                   244 14
+                              Satakunnan ammattikorkeakoulu Oy              244 15
+                              Liikennevirasto                               244 17
+                              Elisa Oyj                                     244 21
+                              EXFO Oy                                       244 22
+                              EXFO Oy                                       244 23
+                              TTY-säätiö                                    244 24
+                              Compatel Limited                              244 26
+                              Teknologian tutkimuskeskus VTT Oy             244 27
+                              Kuiri Mobile Oy                               244 31
+
+Country or
+Geographical Area        Networks                              MCC + MNC codes *
+                         Voxbone S.A.                              244 32
+                         Virve Tuotteet ja Palvelut Oy             244 33
+                         Bittium Wireless Oy                       244 34
+                         Ukkoverkot Oy                             244 35
+                         TeliaSonera Finland Oyj                   244 36
+                         Tismi BV                                  244 37
+                         Nokia Solutions and Networks Oy           244 38
+                         Nokia Solutions and Networks Oy           244 39
+                         Nokia Solutions and Networks Oy           244 40
+                         Nokia Solutions and Networks Oy           244 41
+                         TeliaSonera Finland Oyj                   244 91
+                         TeliaSonera Finland Oyj                   244 92
+France
+                         Orange                                    208 01
+                         Orange                                    208 02
+                         MobiquiThings                             208 03
+                         Sisteer                                   208 04
+                         Globalstar Europe                         208 05
+                         Globalstar Europe                         208 06
+                         Globalstar Europe                         208 07
+                         Completel                                 208 08
+                         S.F.R.                                    208 09
+                         Société Française du Radiotéléphone       208 10
+                         S.F.R.                                    208 11
+                         Hewlett-Packard France                    208 12
+                         S.F.R.                                    208 13
+                         RFF                                       208 14
+                         Free Mobile                               208 15
+                         Free Mobile                               208 16
+                         Legos                                     208 17
+                         Voxbone                                   208 18
+                         Bouygues Telecom                          208 20
+                         Bouygues Telecom                          208 21
+                         Transatel                                 208 22
+                         Omea Telecom                              208 23
+                         MobiquiThings                             208 24
+                         Lycamobile                                208 25
+
+Country or
+Geographical Area             Networks                                     MCC + MNC codes *
+                              Euro-Information telecom                         208 26
+                              Afone                                            208 27
+                              Airbus defense ans space SAS                     208 28
+                              Symacom                                          208 30
+                              Mundio Mobile                                    208 31
+                              Bouygues Telecom                                 208 88
+                              Images & Réseaux                                 208 90
+                              Orange                                           208 91
+                              Plate-forme telecom                              208 92
+                              Halys                                            208 94
+French Departments and
+Territories in the Indian Ocean Orange La Réunion                              647 00
+                              BJT Partners                                     647 01
+                              Telco OI                                         647 02
+                              Société Réunionnaise du Radiotéléphone           647 10
+French Guiana
+                              Guyane Téléphone Mobile                          340 11
+French Polynesia
+                              VITI                                             547 05
+                              Mara Telecom                                     547 10
+                              Pacific Mobile Telecom                           547 15
+                              Tikiphone                                        547 20
+Gabon
+                              LIBERTIS                                         628 01
+                              MOOV                                             628 02
+                              CELTEL                                           628 03
+                              USAN GABON                                       628 04
+                              Réseau de l’Administration Gabonaise (RAG)       628 05
+Gambia
+                              Gamcel                                           607 01
+                              Africell                                         607 02
+                              COMIUM                                           607 03
+                              Qcell                                            607 04
+                              GAMTEL-Ecowan                                    607 05
+                              NETPAGE                                          607 06
+
+
+
+
+Country or
+Geographical Area        Networks                                        MCC + MNC codes *
+Georgia
+                         Geocell Ltd.                                        282 01
+                         Magti GSM Ltd.                                      282 02
+                         Iberiatel Ltd.                                      282 03
+                         Mobitel Ltd.                                        282 04
+                         Silknet JSC                                         282 05
+                         JSC Compatel                                        282 06
+                         GLOBALCELL LTD                                      282 07
+                         Silknet GSC                                         282 08
+                         Gmobile LTD                                         282 09
+Germany
+                         Telekom Deutschland GmbH                            262 01
+                         Vodafone GmbH                                       262 02
+                         E-Plus Mobilfunk GmbH & Co. KG                      262 03
+                         Vodafone GmbH                                       262 04
+                         E-Plus Mobilfunk GmbH & Co. KG                      262 05
+                         Telekom Deutschland GmbH                            262 06
+                         Telefonica Germany GmbH & Co. oHG                   262 07
+                         Telefonica Germany GmbH & Co. oHG                   262 08
+                         Vodafone GmbH                                       262 09
+                         DB Netz AG                                          262 10
+                         Telefonica Germany GmbH & Co. oHG                   262 11
+                         E-Plus Mobilfunk GmbH & Co. KG                      262 12
+                         AirData AG                                          262 15
+                         E-Plus Mobilfunk GmbH & Co. KG                      262 16
+                         E-Plus Mobilfunk GmbH & Co. KG                      262 17
+                         NetCologne Gesellschaft für Telekommunikation
+                                                                             262 18
+                         mbH
+                         Inquam Deutschland GmbH                             262 19
+                         E-Plus Mobilfunk GmbH & Co. KG                      262 20
+                         Multiconnect GmbH                                   262 21
+                         sipgate Wireless GmbH                               262 22
+                         Vodafone GmbH                                       262 42
+                         Vodafone GmbH                                       262 43
+                         Ericsson GmbH                                       262 72
+                         Xantaro Deutschland GmbH                            262 73
+                         Qualcomm CDMA Technologies GmbH                     262 74
+
+Country or
+Geographical Area        Networks                                       MCC + MNC codes *
+                         Core Network Dynamics GmbH                         262 75
+                         E-Plus Mobilfunk GmbH & Co. KG                     262 77
+                         Telekom Deutschland GmbH                           262 78
+Ghana
+                         Spacefon                                           620 01
+                         Ghana Telecom Mobile                               620 02
+                         Mobitel                                            620 03
+                         Kasapa Telecom Ltd.                                620 04
+                         Netafriques Dot Com Ltd                            620 11
+Gibraltar
+                         Gibtelecom GSM                                     266 01
+                         Eazi Telecom Limited                               266 09
+Greece
+                         Cosmote AE                                         202 01
+                         Cosmote AE                                         202 02
+                         OTE AE                                             202 03
+                         OTE AE                                             202 04
+                         Vodafone - Panafon                                 202 05
+                         AMD TELECOM AE                                     202 07
+                         WIND HELLAS TELECOMMUNICATIONS                     202 09
+                         WIND HELLAS TELECOMMUNICATIONS                     202 10
+                         INTERCONNECT                                       202 11
+                         YUBOTO                                             202 12
+                         COMPATEL LIMITED                                   202 13
+                         CYTA (HELLAS)                                      202 14
+                         BWS                                                202 15
+                         INTER TELECOM                                      202 16
+Greenland
+                         Tele Greenland                                     290 01
+                         inu:it a/s                                         290 02
+Grenada
+                         Cable & Wireless Grenada ltd trading as lime       352 110
+Guadeloupe
+                         Orange Caraïbe                                     340 01
+                         Outremer Telecom                                   340 02
+                         United telecommunications services Caraïbe         340 03
+                         Dauphin Telecom                                    340 08
+
+Country or
+Geographical Area        Networks                                       MCC + MNC codes *
+                         Guadeloupe Téléphone Mobile                        340 10
+                         Bouygues Telecom                                   340 20
+Guatemala
+                         Servicios de Comunicaciones Personales
+                                                                            704 01
+                         Inalámbricas, S.A. (SERCOM, S.A
+                         Comunicaciones Celulares S.A.                      704 02
+                         Telefónica Centroamérica Guatemala S.A.            704 03
+Guinea
+                         Orange Guinée                                      611 01
+                         Sotelgui                                           611 02
+                         Cellcom Guinée SA                                  611 05
+Guinea-Bissau
+                         Guinétel S.A.                                      632 01
+                         Spacetel Guiné-Bissau S.A.                         632 02
+Guyana
+                         Guyana Telephone & Telegraph Company Limited
+                                                                            738 002
+                         (Cellink)
+                         Quark Communications Inc.                          738 003
+                         U-Mobile (Cellular) Inc.                           738 01
+                         eGovernment Unit, Ministry of the Presidency       738 05
+Haiti
+                         Comcel                                             372 01
+                         Digicel                                            372 02
+                         Rectel                                             372 03
+Honduras
+                         Megatel                                            708 001
+                         Celtel                                             708 002
+                         Digicel Honduras                                   708 040
+Hong Kong, China
+                         Hong Kong Telecommunications (HKT) Ltd             454 00
+                         CITIC Telecom International Ltd                    454 01
+                         Hong Kong Telecommunications (HKT) Ltd             454 02
+                         Hutchison Telephone Company Ltd                    454 03
+                         Hutchison Telephone Company Ltd                    454 04
+                         Hutchison Telephone Company Ltd                    454 05
+                         SmarTone Mobile Communications Ltd                 454 06
+                         China Unicom (Hong Kong) Operations Ltd            454 07
+                         Truphone (Hong Kong) Ltd                           454 08
+Country or
+Geographical Area        Networks                                 MCC + MNC codes *
+                         China Motion Telecom (HK) Ltd                454 09
+                         Hong Kong Telecommunications (HKT) Ltd       454 10
+                         China-Hongkong Telecom Ltd                   454 11
+                         China Mobile Hong Kong Co Ltd                454 12
+                         China Mobile Hong Kong Co Ltd                454 13
+                         Hutchison Telephone Company Ltd              454 14
+                         SmarTone Mobile Communications Ltd           454 15
+                         Hong Kong Telecommunications (HKT) Ltd       454 16
+                         SmarTone Mobile Communications Ltd           454 17
+                         Hong Kong Telecommunications (HKT) Ltd       454 18
+                         Hong Kong Telecommunications (HKT) Ltd       454 19
+                         Hong Kong Telecommunications (HKT) Ltd       454 20
+                         21Vianet Mobile Ltd                          454 21
+                         Delcom (HK) Ltd                              454 22
+                         Lycamobile Hong Kong Ltd                     454 23
+                         Public Mobile Networks/Reserved              454 24
+                         Public Mobile Networks/Reserved              454 25
+                         Public Mobile Networks/Reserved              454 26
+                         Government use                               454 27
+                         Government use                               454 28
+                         Hong Kong Telecommunications (HKT) Ltd       454 29
+Hungary
+                         Telenor Hungary Ltd                          216 01
+                         MVM NET Ltd.                                 216 02
+                         DIGI Telecommunication Ltd.                  216 03
+                         Magyar Telecom Plc                           216 30
+                         Vodafone                                     216 70
+                         UPC Hungary Ltd                              216 71
+                         MÁV Co.                                      216 99
+Iceland
+                         Iceland Telecom Ltd.                         274 01
+                         Og fjarskipti hf (Vodafone Iceland)          274 02
+                         Og fjarskipti hf (Vodafone Iceland)          274 03
+                         IMC Islande ehf                              274 04
+                         IceCell ehf                                  274 07
+
+
+
+
+Country or
+Geographical Area        Networks                                     MCC + MNC codes *
+India
+                         Dishnet Wireless Ltd, Madhya Pradesh             404 00
+                         Aircell Digilink India Ltd., Haryana             404 01
+                         Bharti Airtel Ltd., Punjab                       404 02
+                         Bharti Airtel Ltd., H.P.                         404 03
+                         Idea Cellular Ltd., Delhi                        404 04
+                         Fascel Ltd., Gujarat                             404 05
+                         Bharti Airtel Ltd., Karnataka                    404 06
+                         Idea Cellular Ltd., Andhra Pradesh               404 07
+                         Reliance Telecom Ltd., Assam                     404 09
+                         Bharti Airtel Ltd., Delhi                        404 10
+                         Hutchison Essar Mobile Services Ltd, Delhi       404 11
+                         Idea Mobile Communications Ltd., Haryana         404 12
+                         Hutchison Essar South Ltd., Andhra Pradesh       404 13
+                         Spice Communications PVT Ltd., Punjab            404 14
+                         Aircell Digilink India Ltd., UP (East)           404 15
+                         Bharti Airtel Ltd, North East                    404 16
+                         Dishnet Wireless Ltd, West Bengal                404 17
+                         Reliance Telecom Ltd., H.P.                      404 18
+                         Idea Mobile Communications Ltd., Kerala          404 19
+                         Hutchison Essar Ltd, Mumbai                      404 20
+                         BPL Mobile Communications Ltd., Mumbai           404 21
+                         Idea Cellular Ltd., Maharashtra                  404 22
+                         Idea Cellular Ltd, Maharashtra                   404 23
+                         Idea Cellular Ltd., Gujarat                      404 24
+                         Dishnet Wireless Ltd, Bihar                      404 25
+                         Hutchison Essar Cellular Ltd., Maharashtra       404 27
+                         Dishnet Wireless Ltd, Assam                      404 29
+                         Hutchison Telecom East Ltd, Kolkata              404 30
+                         Bharti Airtel Ltd., Kolkata                      404 31
+                         Dishnet Wireless Ltd, North East                 404 33
+                         BSNL, Haryana                                    404 34
+                         Dishnet Wireless Ltd, Himachal Pradesh           404 35
+                         Reliance Telecom Ltd., Bihar                     404 36
+                         Dishnet Wireless Ltd, J&K                        404 37
+                         BSNL, Assam                                      404 38
+                         Bharti Airtel Ltd., Chennai                      404 40
+
+Country or
+Geographical Area        Networks                                     MCC + MNC codes *
+                         Aircell Cellular Ltd, Chennai                    404 41
+                         Aircel Ltd., Tamil Nadu                          404 42
+                         Hutchison Essar Cellular Ltd., Tamil Nadu        404 43
+                         Spice Communications PVT Ltd., Karnataka         404 44
+                         Hutchison Essar Cellular Ltd., Kerala            404 46
+                         Dishnet Wireless Ltd, UP (West)                  404 48
+                         Bharti Airtel Ltd., Andra Pradesh                404 49
+                         Reliance Telecom Ltd., North East                404 50
+                         BSNL, H.P.                                       404 51
+                         Reliance Telecom Ltd., Orissa                    404 52
+                         BSNL, Punjab                                     404 53
+                         BSNL, UP (West)                                  404 54
+                         BSNL, UP (East)                                  404 55
+                         Idea Mobile Communications Ltd., UP (West)       404 56
+                         BSNL, Gujarat                                    404 57
+                         BSNL, Madhya Pradesh                             404 58
+                         BSNL, Rajasthan                                  404 59
+                         Aircell Digilink India Ltd., Rajasthan           404 60
+                         Dishnet Wireless Ltd, Punjab                     404 61
+                         BSNL, J&K                                        404 62
+                         Dishnet Wireless Ltd, Haryana                    404 63
+                         BSNL, Chennai                                    404 64
+                         Dishnet Wireless Ltd, UP (East)                  404 65
+                         BSNL, Maharashtra                                404 66
+                         Reliance Telecom Ltd., Madhya Pradesh            404 67
+                         MTNL, Delhi                                      404 68
+                         MTNL, Mumbai                                     404 69
+                         Bharti Hexacom Ltd, Rajasthan                    404 70
+                         BSNL, Karnataka                                  404 71
+                         BSNL, Kerala                                     404 72
+                         BSNL, Andhra Pradesh                             404 73
+                         BSNL, West Bengal                                404 74
+                         BSNL, Bihar                                      404 75
+                         BSNL, Orissa                                     404 76
+                         BSNL, North East                                 404 77
+                         BTA Cellcom Ltd., Madhya Pradesh                 404 78
+                         BSNL, Andaman & Nicobar                          404 79
+
+Country or
+Geographical Area        Networks                                       MCC + MNC codes *
+                         BSNL, Tamil Nadu                                   404 80
+                         BSNL, Kolkata                                      404 81
+                         Idea Telecommunications Ltd, H.P.                  404 82
+                         Reliable Internet Services Ltd., Kolkata           404 83
+                         Hutchison Essar South Ltd., Chennai                404 84
+                         Reliance Telecom Ltd., W.B. & A.N.                 404 85
+                         Hutchison Essar South Ltd., Karnataka              404 86
+                         Idea Telecommunications Ltd, Rajasthan             404 87
+                         Hutchison Essar South Ltd, Punjab                  404 88
+                         Idea Telecommunications Ltd, UP (East)             404 89
+                         Bharti Airtel Ltd., Maharashtra                    404 90
+                         Dishnet Wireless Ltd, Kolkata                      404 91
+                         Bharti Airtel Ltd., Mumbai                         404 92
+                         Bharti Airtel Ltd., Madhya Pradesh                 404 93
+                         Bharti Airtel Ltd., Tamil Nadu                     404 94
+                         Bharti Airtel Ltd., Kerala                         404 95
+                         Bharti Airtel Ltd., Haryana                        404 96
+                         Bharti Airtel Ltd., UP (West)                      404 97
+                         Bharti Airtel Ltd., Gujarat                        404 98
+                         Dishnet Wireless Ltd, Kerala                       404 99
+                         Shyam Telelink Ltd, Rajasthan                      405 000
+                         Reliance Communications Ltd/GSM, Delhi             405 005
+                         Reliance Communications Ltd/GSM, Gujarat           405 006
+                         Reliance Communications Ltd/GSM, Haryana           405 007
+                         Reliance Communications Ltd/GSM, J&K               405 009
+                         Reliance Communications Ltd,/GSM Karnataka         405 010
+                         Reliance Communications Ltd/GSM, Kerala            405 011
+                         Reliance Infocomm Ltd, Andhra Pradesh              405 012
+                         Reliance Communications Ltd/GSM, Maharashtra       405 013
+                         Reliance Communications Ltd/GSM, Madhya
+                                                                            405 014
+                         Pradesh
+                         Reliance Communications Ltd/GSM, Punjab            405 018
+                         Reliance Communications Ltd/GSM, Tamilnadu         405 020
+                         Reliance Communications Ltd/GSM, UP (East)         405 021
+                         Reliance Communications Ltd/GSM, UP (West)         405 022
+                         Tata Teleservices Ltd/GSM, Andhra Pradesh          405 025
+                         Tata Teleservices Ltd,/GSM Bihar                   405 027
+
+Country or
+Geographical Area        Networks                                      MCC + MNC codes *
+                         Tata Teleservices Ltd/GSM, Delhi                  405 029
+                         Tata Teleservices Ltd/GSM, Gujarat                405 030
+                         Tata Teleservices Ltd/GSM, Haryana                405 031
+                         Tata Teleservices Ltd/GSM, Himachal Pradesh       405 032
+                         Reliance Infocomm Ltd, Bihar                      405 033
+                         Tata Teleservices Ltd/GSM, Kamataka               405 034
+                         Tata Teleservices Ltd/GSM, Kerala                 405 035
+                         Tata Teleservices Ltd/GSM, Kolkata                405 036
+                         Tata Teleservices Ltd/GSM, Maharashtra            405 037
+                         Tata Teleservices Ltd/GSM, Madhya Pradesh         405 038
+                         Tata Teleservices Ltd/GSM, Mumbai                 405 039
+                         Reliance Infocomm Ltd, Chennai                    405 040
+                         Tata Teleservices Ltd/GSM, Orissa                 405 041
+                         Tata Teleservices Ltd/GSM, Punjab                 405 042
+                         Tata Teleservices Ltd/GSM, Rajasthan              405 043
+                         Tata Teleservices Ltd/GSM, Tamilnadu              405 044
+                         Tata Teleservices Ltd/GSM, UP (East)              405 045
+                         Tata Teleservices Ltd/GSM, UP (West)              405 046
+                         Tata Teleservices Ltd/GSM, West Bengal            405 047
+                         Reliance Infocomm Ltd, Himachal Pradesh           405 08
+                         Reliance Infocomm Ltd, Kolkata                    405 12
+                         Reliance Infocomm Ltd, Mumbai                     405 15
+                         Reliance Infocomm Ltd, Orissa                     405 17
+                         Reliance Infocomm Ltd, West bengal                405 23
+                         Tata Teleservices Ltd, Chennai                    405 28
+                         Bharti Airtel Ltd, Bihar                          405 52
+                         Bharti Airtel Ltd, Orissa                         405 53
+                         Bharti Airtel Ltd, UP (East)                      405 54
+                         Bharti Airtel Ltd, J&K                            405 55
+                         Bharti Airtel Ltd, Assam                          405 56
+                         Hutchison Essar South Ltd, UP (West)              405 66
+                         Hutchison Essar South Ltd, Orissa                 405 67
+                         Vodaphone/Hutchison, Madhya Pradesh               405 68
+                         Aditya Birla Telecom Ltd, Bihar                   405 70
+                         Essar Spacetel Ltd, Himachal Pradesh              405 71
+                         Essar Spacetel Ltd, North East                    405 72
+                         Essar Spacetel Ltd, Assam                         405 73
+
+Country or
+Geographical Area        Networks                                        MCC + MNC codes *
+                         Essar Spacetel Ltd, J&K                             405 74
+                         Vodafone Essar Spacetel Ltd, J&K                    405 750
+                         Vodafone Essar Spacetel Ltd, Assam                  405 751
+                         Vodafone Essar Spacetel Ltd, Bihar                  405 752
+                         Vodafone Essar Spacetel Ltd, Orissa                 405 753
+                         Vodafone Essar Spacetel Ltd, Himachal Pradesh       405 754
+                         Vodafone Essar Spacetel Ltd, North East             405 755
+                         Essar Spacetel Ltd, Orissa                          405 76
+                         Essar Spacetel Ltd, Maharashtra                     405 77
+                         Idea Cellular Ltd, MUMBAI                           405 799
+                         Aircell Ltd, Delhi                                  405 800
+                         Aircell Ltd, Andhra Pradesh                         405 801
+                         Aircell Ltd, Gujarat                                405 802
+                         Aircell Ltd, Kamataka                               405 803
+                         Aircell Ltd, Maharashtra                            405 804
+                         Aircell Ltd, Mumbai                                 405 805
+                         Aircell Ltd, Rajasthan                              405 806
+                         Dishnet Wireless Ltd, Haryana                       405 807
+                         Dishnet Wireless Ltd, Madhya Pradesh                405 808
+                         Dishnet Wireless Ltd, Kerala                        405 809
+                         Aircell Ltd, Delhi                                  405 81
+                         Aircell Ltd, Andhra Pradesh                         405 82
+                         Aircell Ltd, Gujarat                                405 83
+                         Aircell Ltd, Maharashtra                            405 84
+                         Aircell Ltd, Mumbai                                 405 85
+                         Aircell Ltd, Rajasthan                              405 86
+Indonesia
+                         PSN                                                 510 00
+                         Satelindo                                           510 01
+                         Natrindo (Lippo Telecom)                            510 08
+                         Telkomsel                                           510 10
+                         Excelcomindo                                        510 11
+                         Indosat - M3                                        510 21
+                         Komselindo                                          510 28
+
+
+
+
+Country or
+Geographical Area            Networks                                         MCC + MNC codes *
+Iran (Islamic Republic of)
+                             Telecommunication Company of Iran (TCI)              432 11
+                             Telecommunication Kish Co. (KIFZO)                   432 14
+                             Telecommunication Company of Iran (TCI) -
+                                                                                  432 19
+                             Isfahan Celcom GSM
+Iraq
+                             Asia Cell                                            418 05
+                             Zain Iraq (previously Atheer)                        418 20
+                             Zain Iraq (previously Iraqna)                        418 30
+                             Korek Telecom                                        418 40
+                             Iraq Central Cooperative Association for
+                                                                                  418 47
+                             Communication and Transportation
+                             ITC Fanoos                                           418 48
+                             Iraqtel                                              418 49
+                             Itisaluna                                            418 62
+                             Kalimat                                              418 70
+                             Iraqi Telecommunications & Post Company (ITPC)       418 80
+                             ITPC (Al-Mazaya)                                     418 81
+                             ITPC (Sader Al-Iraq)                                 418 83
+                             ITPC (Eaamar Albasrah)                               418 84
+                             ITPC (Anwar Yagotat Alkhalee)                        418 85
+                             ITPC (Furatfone)                                     418 86
+                             ITPC (Al-Seraj)                                      418 87
+                             ITPC (High Link)                                     418 88
+                             ITPC (Al-Shams)                                      418 89
+                             ITPC (Belad Babel)                                   418 91
+                             ITPC (Al Nakheel)                                    418 92
+                             ITPC (Iraqcell)                                      418 93
+                             ITPC (Shaly)                                         418 94
+Ireland
+                             Vodafone Ireland Plc                                 272 01
+                             Telefonica Ltd                                       272 02
+                             Meteor Mobile Communications Ltd.                    272 03
+                             Eircom                                               272 07
+                             Clever Communications Ltd.                           272 09
+
+
+
+
+Country or
+Geographical Area        Networks                             MCC + MNC codes *
+Israel
+                         Partner Communications Co. Ltd.          425 01
+                         Cellcom Israel Ltd                       425 02
+                         Pelephone Communications Ltd             425 03
+                         Globalsim Ltd                            425 04
+                         Wataniya                                 425 06
+                         Mirs Ltd                                 425 07
+                         Golan Telecom Ltd                        425 08
+                         365 Telecom (MVNO)                       425 11
+                         Free Telecom (MVNO)                      425 12
+                         Ituran Cellular Communications           425 13
+                         Alon Cellular Ltd.                       425 14
+                         Home Cellular (MVNO)                     425 15
+                         Rami Levi (MVNO)                         425 16
+                         Gale Phone (MVNO)                        425 17
+                         Cellact Communications Ltd (MVNO)        425 18
+                         Azi Communications Ltd                   425 19
+                         Bezeq Ltd                                425 20
+                         B.I.P Communications Ltd.                425 21
+                         Beezz Communication Solutions Ltd.       425 23
+                         012 Telecom Ltd.                         425 24
+                         IMOD                                     425 25
+                         PHI Networks                             425 28
+Italy
+                         Telecom Italia Mobile (TIM)              222 01
+                         Elsacom                                  222 02
+                         Omnitel Pronto Italia (OPI)              222 10
+                         IPSE 2000                                222 77
+                         Wind                                     222 88
+                         Blu                                      222 98
+                         H3G                                      222 99
+Jamaica
+                         Cable & Wireless Jamaica Ltd.            338 020
+                         Digicel (Jamaica) Ltd.                   338 050
+                         Cable & Wireless Jamaica Ltd.            338 110
+
+
+
+
+Country or
+Geographical Area        Networks                             MCC + MNC codes *
+Japan
+                         SoftBank Corp.                           440 00
+                         UQ Communications Inc.                   440 01
+                         Hanshin Cable Engineering Co.,Ltd.       440 02
+                         Wireless City Planning Inc.              440 05
+                         NTT DOCOMO, INC.                         440 10
+                         SoftBank Corp.                           440 20
+                         SoftBank Corp.                           440 21
+                         KDDI Corporation                         440 50
+                         KDDI Corporation                         440 51
+                         KDDI Corporation                         440 52
+                         KDDI Corporation                         440 53
+                         KDDI Corporation                         440 54
+                         KDDI Corporation                         440 70
+                         KDDI Corporation                         440 71
+                         KDDI Corporation                         440 72
+                         KDDI Corporation                         440 73
+                         KDDI Corporation                         440 74
+                         KDDI Corporation                         440 75
+                         KDDI Corporation                         440 76
+                         Okinawa Cellular Telephone Company       440 78
+                         Wireless City Planning Inc.              441 00
+                         SoftBank Corp.                           441 01
+                         UQ Communications Inc.                   441 10
+Jordan
+                         Fastlink                                 416 01
+                         Xpress                                   416 02
+                         Umniah                                   416 03
+                         MobileCom                                416 77
+Kazakhstan
+                         Kar-Tel llc                              401 01
+                         TSC Kazak Telecom                        401 02
+Kenya
+                         Safaricom Limited                        639 02
+                         Kencell Communications Ltd.              639 03
+
+
+
+
+Country or
+Geographical Area        Networks                         MCC + MNC codes *
+Korea (Rep. of)
+                         KT Freetel                           450 02
+                         SK Telecom                           450 03
+                         LG UPLUS                             450 06
+Kuwait
+                         ZAIN                                 419 02
+                         Wataniya Telecom                     419 03
+                         Viva                                 419 04
+Kyrgyzstan
+                         Bitel GSM                            437 01
+Lao P.D.R.
+                         Lao Telecommunications               457 01
+                         ETL Mobile                           457 02
+                         Millicom                             457 08
+Latvia
+                         Latvijas Mobilais Telefons SIA       247 01
+                         Tele2                                247 02
+                         Telekom Baltija                      247 03
+                         Beta Telecom                         247 04
+                         Bite Mobile                          247 05
+                         Rigatta                              247 06
+                         Master Telecom                       247 07
+                         IZZI                                 247 08
+                         SIA "Camel Mobile"                   247 09
+Lebanon
+                         Ogero Telecom                        415 05
+                         Cellis                               415 32
+                         Cellis                               415 33
+                         Cellis                               415 34
+                         Cellis                               415 35
+                         Libancell                            415 36
+                         Libancell                            415 37
+                         Libancell                            415 38
+                         Libancell                            415 39
+Lesotho
+                         Vodacom Lesotho (pty) Ltd.           651 01
+                         Econet Ezin-cel                      651 02
+
+Country or
+Geographical Area        Networks                                  MCC + MNC codes *
+Liberia
+                         Comium Liberia                                618 04
+Liechtenstein
+                         Swisscom Schweiz AG                           228 01
+                         Swisscom Schweiz AG                           295 01
+                         Salt (Liechtenstein) AG                       295 02
+                         Telecom Liechtenstein AG                      295 05
+                         Cubic AG                                      295 06
+                         First Mobile AG                               295 07
+                         Emnify GmbH                                   295 09
+                         SORACOM LI, LTD.                              295 10
+Lithuania
+                         Omnitel                                       246 01
+                         Bité GSM                                      246 02
+                         Tele2                                         246 03
+Luxembourg
+                         P&T Luxembourg                                270 01
+                         MTX Connect S.à r.l.                          270 02
+                         BLUE COMMUNICATIONS                           270 10
+                         Tango                                         270 77
+                         Interactive Digital Media (IDM)               270 78
+                         Voxmobile S.A.                                270 99
+Macao, China
+                         SmarTone – Comunicações Móveis, S.A.          455 00
+                         Companhia de Telecomunicações de Macau,
+                                                                       455 01
+                         S.A.R.L.
+                         China Telecom (Macau) Limitada                455 02
+                         Hutchison – Telefone (Macau), Limitada        455 03
+                         Companhia de Telecomunicações de Macau,
+                                                                       455 04
+                         S.A.R.L.
+                         Hutchison – Telefone (Macau), Limitada        455 05
+                         SmarTone – Comunicações Móveis, S.A.          455 06
+                         China Telecom (Macau) Limitada                455 07
+Madagascar
+                         Celtel Madagascar (Zain), GSM                 646 01
+                         Orange Madagascar, GSM                        646 02
+                         Telecom Malagasy Mobile, GSM                  646 04
+
+
+Country or
+Geographical Area        Networks                               MCC + MNC codes *
+Malawi
+                         Telekom Network Ltd.                       650 01
+                         Celtel ltd.                                650 10
+Malaysia
+                         DIGI Telecommunications                    502 10
+                         Malaysian Mobile Services Sdn Bhd          502 12
+                         Celcom (Malaysia) Berhad                   502 13
+                         Telekom Malaysia Berhad                    502 14
+                         DIGI Telecommunications                    502 16
+                         Malaysian Mobile Services Sdn Bhd          502 17
+                         U Mobile Sdn. Bhd.                         502 18
+                         Celcom (Malaysia) Berhad                   502 19
+                         Electcoms Wireless Sdn Bhd                 502 20
+Maldives
+                         DhiMobile                                  472 01
+Mali
+                         Malitel                                    610 01
+Malta
+                         Vodafone Malta                             278 01
+                         YOM                                        278 11
+                         go mobile                                  278 21
+                         GO Mobile                                  278 30
+                         3G Telecommunications Ltd                  278 77
+Martinique
+                         Martinique Téléphone Mobile                340 12
+Mauritania
+                         Mattel S.A.                                609 01
+                         Chinguitel S.A.                            609 02
+                         Mauritel Mobiles                           609 10
+Mauritius
+                         Cellplus                                   617 01
+                         Mahanagar Telephone (Mauritius) Ltd.       617 02
+                         Mahanagar Telephone (Mauritius) Ltd.       617 03
+                         Emtel                                      617 10
+
+
+
+
+Country or
+Geographical Area        Networks                                        MCC + MNC codes *
+Mexico
+                         COMUNICACIONES DIGITALES DEL NORTE, S.A. DE
+                                                                             334 001
+                         C.V
+                         NII DIGITAL, S. DE R.L. DE C.V.                     334 010
+                         RADIOMOVIL DIPSA, S.A. DE C.V.                      334 020
+                         PEGASO COMUNICACIONES Y SISTEMAS, S.A. DE
+                                                                             334 030
+                         C.V.
+                         IUSACELL PCS DE MEXICO, S.A. DE C.V.                334 040
+                         5 operators: 1-COMUNICACIONES CELULARES DE
+                         OCCIDENTE, S.A. DE C.V.| 2-SISTEMAS
+                         TELEFÓNICOS PORTÁTILES CELULARES, S.A. DE
+                                                                             334 050
+                         C.V.| 3-TELECOMUNICACIONES DEL GOLFO, S.A.
+                         DE C.V.| 4-SOS TELECOMUNICACIONES, S.A. DE
+                         C.V.| 5-PORTATEL DEL SURESTE, S.A. DE C.V.
+                         SERVICIOS DE ACCESO INALAMBRICO, S.A DE C.V.        334 060
+                         TELÉFONOS DE MÉXICO, S.A.B. DE C.V                  334 066
+                         OPERADORA UNEFON, S. A. DE C.V.                     334 070
+                         OPERADORA UNEFON, S. A. DE C.V.                     334 080
+                         NII DIGITAL, S. DE R.L. DE C.V.                     334 090
+Micronesia
+                         FSM Telecom                                         550 01
+Moldova (Republic of)
+                         Orange Moldova GSM                                  259 01
+                         Moldcell GSM                                        259 02
+                         J.S.C. Moldtelecom/3G UMTS (W-CDMA)                 259 05
+                         J.S.C. Moldtelecom                                  259 99
+Monaco
+                         Orange/Monaco Télécom                               208 01
+                         Société Française du Radiotéléphone                 208 10
+                         Bouygues Telecom                                    208 20
+Mongolia
+                         Mobicom                                             428 99
+Montenegro
+                         Telenor Montenegro                                  297 01
+                         Crnogorski Telekom                                  297 02
+                         Mtel Montenegro                                     297 03
+Montserrat
+                         Cable & Wireless (West Indies) Ltd trading as
+                                                                             354 860
+                         Lime
+
+Country or
+Geographical Area        Networks                                    MCC + MNC codes *
+Morocco
+                         Méditélécom (GSM)                               604 00
+                         Ittissalat Al Maghrid                           604 01
+Mozambique
+                         T.D.M. GSM                                      643 01
+                         Movitel                                         643 03
+                         VM Sarl                                         643 04
+Myanmar
+                         Myanmar Post and Telecommunication              414 01
+Namibia
+                         Mobile Telecommunications Ltd.                  649 01
+                         Telecom Namibia                                 649 02
+                         Powercom Pty Ltd (leo)                          649 03
+                         Paratus Telecommunications (Pty)                649 04
+                         Demshi Investments CC                           649 05
+Nauru
+                         Digicel (Fiji) Ltd                              542 02
+Nepal
+                         Nepal Telecommunications                        429 01
+Netherlands
+                         RadioAccess Network Services B.V.               204 01
+                         Tele2 Nederland B.V.                            204 02
+                         Voiceworks B.V.                                 204 03
+                         Vodafone Libertel B.V.                          204 04
+                         Elephant Talk Communications Premium Rate
+                                                                         204 05
+                         Services
+                         Mundio Mobile (Netherlands) Ltd                 204 06
+                         Teleena holding B.V.                            204 07
+                         KPN Mobile The Netherlands B.V.                 204 08
+                         Lycamobile Netherlands Limited                  204 09
+                         KPN B.V.                                        204 10
+                         KPN B.V.                                        204 12
+                         Unica Installatietechniek B.V.                  204 13
+                         Ziggo B.V.                                      204 15
+                         T-Mobile Netherlands B.V.                       204 16
+                         Intercity Mobile Communications B.V.            204 17
+                         UPC Nederland B.V.                              204 18
+
+Country or
+Geographical Area        Networks                                      MCC + MNC codes *
+                         Mixe Communication Solutions B.V.                 204 19
+                         T-Mobile Netherlands B.V.                         204 20
+                         ProRail B.V.                                      204 21
+                         Ministerie van Defensie                           204 22
+                         ASpider Solutions Nederland B.V.                  204 23
+                         Private Mobility Nederland B.V.                   204 24
+                         CAPX B.V.                                         204 25
+                         SpeakUp B.V.                                      204 26
+                         Lancelot B.V.                                     204 28
+                         Private Mobile Ltd                                204 29
+                         Nextgen Mobile Ltd                                204 60
+                         BodyTrace Netherlands B.V.                        204 61
+                         Zetacom B.V.                                      204 64
+                         AGMS Netherlands B.V.                             204 65
+                         Utility Connect B.V.                              204 66
+                         RadioAccess B.V.                                  204 67
+                         Roamware (Netherlands) B.V.                       204 68
+                         KPN Mobile The Netherlands B.V.                   204 69
+New Caledonia
+                         OPT Mobilis                                       546 01
+New Zealand
+                         Reserved for AMPS MIN based IMSI's                530 00
+                         Vodafone New Zealand GSM Network                  530 01
+                         Teleom New Zealand CDMA Network                   530 02
+                         Woosh Wireless - CDMA Network                     530 03
+                         TelstraClear - GSM Network                        530 04
+                         Telecom New Zealand - UMTS Ntework                530 05
+                         FX Networks Ltd                                   530 06
+                         Bluereach Limited                                 530 07
+                         NZ Communications - UMTS Network                  530 24
+Nicaragua
+                         Empresa Nicaragüense de Telecomunicaciones,
+                                                                           710 21
+                         S.A. (ENITEL)
+                         Servicios de Comunicaciones, S.A. (SERCOM)        710 73
+
+
+
+
+Country or
+Geographical Area        Networks                                    MCC + MNC codes *
+Niger
+                         Sahel.Com                                       614 01
+                         Celtel                                          614 02
+                         Telecel                                         614 03
+Nigeria
+                         Econet Wireless Nigeria Ltd.                    621 20
+                         MTN Nigeria Communications                      621 30
+                         MTEL                                            621 40
+                         Globacom                                        621 50
+                         EMTS                                            621 60
+Niue
+                         Telecom Niue                                    555 01
+Norway
+                         Telenor Norge AS                                242 01
+                         Telia Norge AS                                  242 02
+                         Teletopia Gruppen AS                            242 03
+                         Telia Norge AS                                  242 05
+                         ICE Norge AS                                    242 06
+                         Phonero AS                                      242 07
+                         TDC AS                                          242 08
+                         Com4 AS                                         242 09
+                         Norwegian Communications Authority              242 10
+                         Systemnet AS                                    242 11
+                         Telenor Norge AS                                242 12
+                         ICE Communication Norge AS                      242 14
+                         Jernbaneverket                                  242 20
+                         Jernbaneverket                                  242 21
+                         Lycamobile Norway Ltd                           242 23
+                         Tampnet AS                                      242 99
+Oman
+                         Oman Mobile Telecommunications Company
+                                                                         422 02
+                         (Oman Mobile)
+                         Oman Qatari Telecommunications Company
+                                                                         422 03
+                         (Nawras)
+                         Oman Telecommunications Company (Omantel)       422 04
+
+
+
+
+Country or
+Geographical Area        Networks                                      MCC + MNC codes *
+Pakistan
+                         Mobilink                                          410 01
+                         PAK Telecom Mobile Ltd. (UFONE)                   410 03
+                         CMPak                                             410 04
+                         Telenor Pakistan                                  410 06
+                         Warid Telecom                                     410 07
+Palau
+                         Palau National Communications Corp. (a.k.a.
+                                                                           552 01
+                         PNCC)
+Panama
+                         Cable & Wireless Panama S.A.                      714 01
+                         BSC de Panama S.A.                                714 02
+                         Telefónica Móviles Panamá S.A.                    714 020
+                         Claro Panamá, S.A.                                714 03
+                         Digicel (Panamá), S.A.                            714 04
+Papua New Guinea
+                         Bmobile                                           537 01
+                         Telikom PNG Ltd                                   537 02
+                         Digicel Ltd                                       537 03
+Paraguay
+                         Hóla Paraguay S.A.                                744 01
+                         Hutchison Telecom S.A.                            744 02
+                         Compañia Privada de Comunicaciones S.A.           744 03
+Peru
+                         TIM Peru                                          716 10
+Philippines
+                         Islacom                                           515 01
+                         Globe Telecom                                     515 02
+                         Smart Communications                              515 03
+                         Digitel                                           515 05
+Poland
+                         Plus / Polkomtel S.A.                             260 01
+                         T-Mobile / PTC S.A.                               260 02
+                         Orange / PTK Centertel Sp. z o.o.                 260 03
+                         LTE / CenterNet S.A.                              260 04
+                         Orange(UMTS) / PTK Centertel Sp. z o.o.           260 05
+                         Play / P4 Sp. z o.o.                              260 06
+
+Country or
+Geographical Area        Networks                                         MCC + MNC codes *
+                         Netia / Netia S.A.                                   260 07
+                         E-Telko / E-Telko Sp. z o.o.                         260 08
+                         Lycamobile / Lycamobile Sp. z o.o.                   260 09
+                         Sferia / Sferia S.A.                                 260 10
+                         Nordisk Polska / Nordisk Polska Sp. z o.o.           260 11
+                         Cyfrowy Polsat / Cyfrowy Polsat S.A.                 260 12
+                         Sferia / Sferia S.A.                                 260 13
+                         Sferia / Sferia S.A.                                 260 14
+                         CenterNet / CenterNet S.A.                           260 15
+                         Mobyland / Mobyland Sp. z o.o.                       260 16
+                         Aero 2 / Aero 2 Sp. z o.o.                           260 17
+                         AMD Telecom / AMD Telecom S.A.                       260 18
+                         Teleena / Teleena Holding BV                         260 19
+                         Mobile.Net / Mobile.Net Sp. z o.o.                   260 20
+                         Exteri / Exteri Sp. z o.o.                           260 21
+                         Arcomm / Arcomm Sp. z o.o.                           260 22
+                         Amicomm / Amicomm Sp. z o.o.                         260 23
+                         WideNet / WideNet Sp. z o.o.                         260 24
+                         BS&T / Best Solutions & Technology Sp. z o.o.        260 25
+                         ATE / ATE-Advanced Technology & Experience Sp.
+                                                                              260 26
+                         z o.o.
+                         Intertelcom / Intertelcom Sp. z o.o.                 260 27
+                         PhoneNet / PhoneNet Sp. z o.o.                       260 28
+                         Interfonica / Interfonica Sp. z o.o.                 260 29
+                         GrandTel / GrandTel Sp. z o.o.                       260 30
+                         Phone IT / Phone IT Sp. z o.o.                       260 31
+                         Compatel Ltd / COMPATEL LIMITED                      260 32
+                         Truphone Poland / Truphone Poland Sp. Z o.o.         260 33
+                         T-Mobile / PTC S.A.                                  260 34
+                         Play (testowy) / P4 Sp. z o.o.                       260 98
+Portugal
+                         Vodafone Telecel - Comunicaçôes Pessoais, S.A.       268 01
+                         Optimus - Telecomunicaçôes, S.A.                     268 03
+                         Oniway - Inforcomunicaçôes, S.A.                     268 05
+                         TMN - Telecomunicaçôes Movéis Nacionais, S.A.        268 06
+
+
+
+
+Country or
+Geographical Area        Networks                                  MCC + MNC codes *
+Qatar
+                         QATARNET                                      427 01
+                         Ooredoo Q.S.C./MOI LTE                        427 06
+Romania
+                         Vodafone                                      226 01
+                         Romtelecom                                    226 02
+                         Cosmote                                       226 03
+                         Cosmote                                       226 04
+                         Digi.Mobil                                    226 05
+                         Cosmote                                       226 06
+                         Orange                                        226 10
+                         Enigma-System                                 226 11
+Russian Federation
+                         Mobile Telesystems                            250 01
+                         Megafon                                       250 02
+                         Nizhegorodskaya Cellular Communications       250 03
+                         Sibchallenge                                  250 04
+                         Mobile Comms System                           250 05
+                         BM Telecom                                    250 07
+                         Don Telecom                                   250 10
+                         Orensot                                       250 11
+                         Baykal Westcom                                250 12
+                         Kuban GSM                                     250 13
+                         New Telephone Company                         250 16
+                         Ermak RMS                                     250 17
+                         Volgograd Mobile                              250 19
+                         ECC                                           250 20
+                         Extel                                         250 28
+                         Uralsvyazinform                               250 39
+                         Stuvtelesot                                   250 44
+                         Printelefone                                  250 92
+                         Telecom XXI                                   250 93
+                         Beeline                                       250 99
+
+
+
+
+Country or
+Geographical Area             Networks                                           MCC + MNC codes *
+Rwanda
+                              MTN Rwandacell                                         635 10
+                              TIGO RWANDA LTD                                        635 13
+                              AIRTEL RWANDA Ltd                                      635 14
+                              Olleh Rwanda Networks (ORN)                            635 17
+Saint Helena, Ascension and
+Tristan da Cunha              Sure South Atlantic Ltd. (Ascension)                   658 01
+Saint Kitts and Nevis
+                              Cable & Wireless St Kitts & Nevis Ltd trading as
+                                                                                     356 110
+                              Lime
+Saint Lucia
+                              Cable & Wireless (St Lucia) Ltd trading as Lime        358 110
+Saint Pierre and Miquelon
+                              SAS SPM Telecom                                        308 01
+                              Globaltel                                              308 02
+Saint Vincent and the
+Grenadines                    Cable & Wireless St Vincent and the Grenadines
+                                                                                     360 110
+                              Ltd trading as lime
+Samoa
+                              Telecom Samoa Cellular Ltd.                            549 01
+                              GoMobile SamoaTel Ltd                                  549 27
+San Marino
+                              Prima San Marino / San Marino Telecom                  292 01
+Sao Tome and Principe
+                              Companhia Santomese de Telecomunicações                626 01
+Saudi Arabia
+                              Saudi Telecom                                          420 01
+                              Etihad Etisalat Company (Mobily)                       420 03
+Senegal
+                              Sonatel (Orange)                                       608 01
+                              Sentel GSM (Tigo)                                      608 02
+                              Expresso Sénégal                                       608 03
+                              CSU                                                    608 04
+
+
+
+
+Country or
+Geographical Area        Networks                             MCC + MNC codes *
+Serbia
+                         Telenor d.o.o.                           220 01
+                         Telekom Srbija a.d.                      220 03
+                         Vip mobile d.o.o.                        220 05
+                         Orion telekom d.o.o.                     220 07
+                         MUNDIO MOBILE d.o.o.                     220 09
+                         GLOBALTEL d.o.o.                         220 11
+Seychelles
+                         Cable & Wireless (Seychelles) Ltd.       633 01
+                         Airtel (Seychelles) Ltd                  633 10
+Sierra Leone
+                         Celtel                                   619 01
+                         Millicom                                 619 02
+                         Africell                                 619 03
+                         Comium (Sierra Leone) Ltd                619 04
+                         Lintel (Sierra Leone) Ltd.               619 05
+                         INTERGROUP TELECOM                       619 09
+                         Mobitel                                  619 25
+                         Datatel (SL) Ltd GSM                     619 40
+                         Datatel (SL) Ltd CDMA                    619 50
+Singapore
+                         Singtel ST GSM900                        525 01
+                         Singtel ST GSM1800                       525 02
+                         M1                                       525 03
+                         StarHub                                  525 05
+                         StarHub                                  525 08
+                         Digital Trunked Radio Network            525 12
+Slovakia
+                         Orange, GSM                              231 01
+                         Eurotel, GSM & NMT                       231 02
+                         Eurotel, UMTS                            231 04
+                         Orange, UMTS                             231 05
+Slovenia
+                         SI Mobil                                 293 40
+                         Mobitel                                  293 41
+                         T-2 d.o.o.                               293 64
+                         Tusmobil d.o.o.                          293 70
+
+Country or
+Geographical Area        Networks                                   MCC + MNC codes *
+Solomon Islands
+                         Bemobile (BMobile (SI) Ltd)                    540 02
+South Africa
+                         Vodacom (Pty) Ltd.                             655 01
+                         Telkom SA Ltd                                  655 02
+                         Sasol (Pty) Ltd                                655 04
+                         Sentech (Pty) Ltd.                             655 06
+                         Cell C (Pty) Ltd.                              655 07
+                         Mobile Telephone Networks (MTN) Pty Ltd        655 10
+                         SAPS Gauteng                                   655 11
+                         Mobile Telephone Networks (MTN) Pty Ltd        655 12
+                         Neotel Pty Ltd                                 655 13
+                         Neotel Pty Ltd                                 655 14
+                         Sishen Iron Ore Company (Ltd) Pty              655 17
+                         Wireless Business Solutions (iBurst)           655 19
+                         Cape Town Metropolitan Council                 655 21
+                         SMS Portal (Pty) Ltd                           655 24
+                         Wirels Connect                                 655 25
+                         A to Z Vaal Industrial Supplies Pty Ltd        655 27
+                         Hymax Talking Solutions (Pty) Ltd              655 28
+                         Bokamoso Consortium Pty Ltd                    655 30
+                         Karabo Telecoms (Pty) Ltd.                     655 31
+                         Ilizwi Telecommunications Pty Ltd              655 32
+                         Thinta Thinta Telecommunications Pty Ltd       655 33
+                         Bokone Telecoms Pty Ltd                        655 34
+                         Kingdom Communications Pty Ltd                 655 35
+                         Amatole Telecommunication Pty Ltd              655 36
+                         Wireless Business Solutions (Pty) Ltd          655 38
+                         South African Police Service                   655 41
+                         SMS Cellular Services (Pty) Ltd                655 46
+                         Ericsson South Africa (Pty) Ltd                655 50
+                         Integrat (Pty) Ltd                             655 51
+                         Wireless Business Solutions (Pty) Ltd          655 73
+                         Wireless Business Solutions (Pty) Ltd          655 74
+
+
+
+
+Country or
+Geographical Area        Networks                                          MCC + MNC codes *
+South Sudan
+                         Sudani/Sudatel                                        659 12
+                         Zain-South Sudan                                      659 91
+                         MTN-South Sudan                                       659 92
+                         Vivacel/NOW                                           659 95
+                         Gemtel                                                659 97
+Spain
+                         Vodafone España, SAU                                  214 01
+                         France Telecom España, SA                             214 03
+                         Xfera Móviles, S.A.                                   214 04
+                         Telefónica Móviles España, SAU                        214 05
+                         Vodafone España, SAU                                  214 06
+                         Telefónica Móviles España, SAU                        214 07
+                         Euskaltel, SA                                         214 08
+                         France Telecom España, SA                             214 09
+                         Operadora de Telecomunicaciones Opera SL              214 10
+                         France Telecom España, SA                             214 11
+                         Contacta Servicios Avanzados de
+                                                                               214 12
+                         Telecomunicaciones SL
+                         Incotel Ingeniera y Consultaria SL                    214 13
+                         Incotel Servicioz Avanzados SL                        214 14
+                         BT España Compañia de Servicios Globales de
+                                                                               214 15
+                         Telecomunicaciones, SAU
+                         Telecable de Asturias, SAU                            214 16
+                         R Cable y Telecomunicaciones Galicia, SA              214 17
+                         Cableuropa, SAU                                       214 18
+                         E-Plus Móviles, SL                                    214 19
+                         Fonyou Telecom, SL                                    214 20
+                         ORANGE ESPAGNE, S.A. UNIPERSONAL                      214 21
+                         Best Spain Telecom, SL                                214 22
+                         Vizzavi España, S.L.                                  214 24
+                         Lycamobile, SL                                        214 25
+                         Lleida Networks Serveis Telemátics, SL                214 26
+                         SCN Truphone SL                                       214 27
+                         Consorcio de Telecomunicaciones Avanzadas, S.A.       214 28
+                         NEO-SKY 2002, S.A.                                    214 29
+                         Compatel Limited                                      214 30
+                         Red Digital De Telecomunicaciones de las Islas        214 31
+Country or
+Geographical Area        Networks                                 MCC + MNC codes *
+                         Baleares, S.L.
+                         TUENTI TECHNOLOGIES, S.L.                    214 32
+                         EURONA WIRELESS TELECOM, S.A.                214 33
+                         AIRE NETWORKS DEL MEDITERRÁNEO, S.L.
+                                                                      214 34
+                         UNIPERSONAL
+                         INGENIUM OUTSOURCING SERVICES, S.L.          214 35
+Sri Lanka
+                         MTN Network Ltd.                             413 02
+                         Celtel Lanka Ltd.                            413 03
+Sudan
+                         SD Mobitel                                   634 01
+                         Areeba-Sudan                                 634 02
+                         MTN Sudan                                    634 03
+                         Network of the World Ltd (NOW)               634 05
+                         Zain Sudan                                   634 06
+                         MTN Sudan                                    634 99
+Suriname
+                         Telesur                                      746 02
+                         Digicel                                      746 03
+                         Intelsur                                     746 04
+                         Telesur (CDMA)                               746 05
+Swaziland
+                         SPTC                                         653 01
+                         Swazi MTN                                    653 10
+Sweden
+                         Telia Sonera Sverige AB                      240 01
+                         H3G Access AB                                240 02
+                         Netett Sverige AB                            240 03
+                         3G Infrastructure Services AB                240 04
+                         Svenska UMTS-Nät AB                          240 05
+                         Telenor Sverige AB                           240 06
+                         Telenor Sverige AB                           240 08
+                         Communication for Devices in Sweden AB       240 09
+                         Tele2 Sverige AB                             240 10
+                         ComHem AB                                    240 11
+                         Lycamobile Sweden Limited                    240 12
+                         Alltele Företag Sverige AB                   240 13
+
+Country or
+Geographical Area        Networks                                          MCC + MNC codes *
+                         TDC Sverige AB                                        240 14
+                         Wireless Maingate Nordic AB                           240 15
+                         42 Telecom AB                                         240 16
+                         Götalandsnätet AB                                     240 17
+                         Generic Mobile Systems Sweden AB                      240 18
+                         Mundio Mobile Sweden Ltd                              240 19
+                         iMEZ AB                                               240 20
+                         Trafikverket ICT                                      240 21
+                         EuTel AB                                              240 22
+                         Infobip LTD (UK)                                      240 23
+                         Net4Mobility HB                                       240 24
+                         Monty UK Global Limited                               240 25
+                         Beepsend A.B.                                         240 26
+                         GlobeTouch AB                                         240 27
+                         CoolTEL Aps                                           240 28
+                         Mercury International Carrier Services                240 29
+                         NextGen Mobile Ltd                                    240 30
+                         RebTel Networks AB                                    240 31
+                         Compatel Ltd.                                         240 32
+                         Mobile Arts AB                                        240 33
+                         Pro Net Telecommunications Services Ltd.              240 34
+                         42 Telecom LTD                                        240 35
+                         Interactive Digital Media GmbH                        240 36
+                         CLX Networks AB                                       240 37
+                         Voxbone SA                                            240 38
+                         Borderlight AB                                        240 39
+                         ReWiCom Scandinavia AB                                240 40
+                         Shyam Telecom UK Ltd                                  240 41
+                         Telenor Connexion AB                                  240 42
+                         MobiWeb Ltd.                                          240 43
+                         Limitless Mobile AB                                   240 44
+                         Spirius AB                                            240 45
+                         Telefonaktiebolaget LM Ericsson (MNC assigned
+                         for test purpose. Temporary license until 2018-       240 60
+                         12-31)
+                         shared use for closed networks                        240 65
+                         shared use for closed networks                        240 66
+                         shared use for test purpose                           240 67
+Country or
+Geographical Area        Networks                                       MCC + MNC codes *
+                         shared use for test purpose                        240 68
+                         crisis management after determination by the
+                                                                            240 69
+                         Swedish Post- and Telecom Authority
+Switzerland
+                         Swisscom Schweiz AG                                228 01
+                         Sunrise Communications AG                          228 02
+                         Salt Mobile SA                                     228 03
+                         Comfone AG                                         228 05
+                         SBB AG                                             228 06
+                         TelCommunication Services AG                       228 08
+                         Comfone AG                                         228 09
+                         Sunrise Communications AG                          228 12
+                         Bebbicell AG                                       228 51
+                         upc Cablecom GmbH                                  228 53
+                         Lycamobile AG                                      228 54
+                         Mitto AG                                           228 57
+                         Beeone Communications SA                           228 58
+Syrian Arab Republic
+                         Syriatel                                           417 01
+                         Spacetel Syria                                     417 02
+                         Syrian Telecom                                     417 09
+Tajikistan
+                         JC Somoncom                                        436 01
+                         CJSC Indigo Tajikistan                             436 02
+                         TT mobile                                          436 03
+                         Josa Babilon-T                                     436 04
+                         CTJTHSC Tajik-tel                                  436 05
+Tanzania
+                         MIC Tanzania Limited (Tigo)                        640 02
+                         Zanzibar Telecom Limited (Zantel)                  640 03
+                         Vodacom Tanzania Limited                           640 04
+                         Airtel Tanzania Limited                            640 05
+                         Tanzania Telecommunications Company Limited        640 07
+                         Benson Informatics Limited (Smart)                 640 08
+                         Viettel Tanzania Limited (Halotel)                 640 09
+                         Smile Communications Tanzania Ltd                  640 11
+                         Wiafrica Tanzania Limited (Cootel)                 640 13
+
+Country or
+Geographical Area           Networks                                     MCC + MNC codes *
+Thailand
+                            CAT CDMA                                         520 00
+                            AIS GSM                                          520 01
+                            CAT CDMA                                         520 02
+                            Advanced Wireless Network Company Limited        520 03
+                            Real Future Company Limited                      520 04
+                            DTAC Network Company Limite                      520 05
+                            TOT Public Company Limited                       520 15
+                            Total Access Communications Public Company
+                                                                             520 18
+                            Limited
+                            ACes Regional Services Company Limited           520 20
+                            Digital Phone Company Limited                    520 23
+                            TOT Public Company Limited                       520 47
+                            True Move Company Limited                        520 99
+The Former Yugoslav Republic
+of Macedonia                 T-Mobile                                        294 01
+                            Cosmofon                                         294 02
+                            Nov Operator                                     294 03
+                            Company for telecommunications LYCAMOBILE
+                                                                             294 04
+                            LLC-Skopje
+                            WTI Macedonia                                    294 10
+                            MOBIK TELEKOMUNIKACII DOOEL- Skopje              294 11
+Timor-Leste
+                            Telin Timor-Leste                                514 01
+                            Timor Telecom                                    514 02
+                            Viettel Timor-Leste                              514 03
+Togo
+                            Togo Telecom                                     615 01
+Tonga
+                            Tonga Communications Corporation                 539 01
+                            Digicel                                          539 43
+                            Digicel (Tonga) Ltd                              539 88
+Trinidad and Tobago
+                            TSTT Mobile                                      374 12
+                            Digicel Trinidad and Tobago Ltd.                 374 130
+                            LaqTel Ltd.                                      374 140
+
+
+
+Country or
+Geographical Area          Networks                                     MCC + MNC codes *
+Tunisia
+                           Tunisie Telecom                                  605 02
+                           Orascom Telecom                                  605 03
+Turkey
+                           Turkcell                                         286 01
+                           Telsim GSM                                       286 02
+                           Aria                                             286 03
+                           Aycell                                           286 04
+Turkmenistan
+                           Barash Communication Technologies (BCTI)         438 01
+                           TM-Cell                                          438 02
+Turks and Caicos Islands
+                           Cable & Wireless (TCI) Ltd trading asLime        376 350
+                           IslandCom Communications Ltd.                    376 352
+                           IslandCom Communication Ltd                      376 360
+Tuvalu
+                           Tuvalu Telecommunications Corporation            553 01
+Uganda
+                           Celtel Uganda                                    641 01
+                           MTN Uganda Ltd.                                  641 10
+                           Uganda Telecom Ltd.                              641 11
+                           House of Integrated Technology and Systems
+                                                                            641 14
+                           Uganda Ltd (HiTs Telecom)
+                           Sure Telecom Uganda Limited                      641 18
+                           Warid Telecom Uganda Ltd.                        641 22
+                           Anupam Global Soft Uganda Limited                641 30
+                           Smile Communications Uganda Limited              641 33
+                           Civil Aviation Authority (CAA)                   641 40
+                           K2 Telecom Ltd                                   641 44
+                           i-Tel Ltd                                        641 66
+
+
+
+
+Country or
+Geographical Area        Networks                                 MCC + MNC codes *
+Ukraine
+                         Ukrainian Mobile Communication, UMC          255 01
+                         Ukranian Radio Systems, URS                  255 02
+                         Kyivstar GSM                                 255 03
+                         International Telecommunications Ltd.        255 04
+                         Golden Telecom                               255 05
+                         Astelit                                      255 06
+                         Ukrtelecom                                   255 07
+                         CJSC - Telesystems of Ukraine                255 21
+United Arab Emirates
+                         Etisalat                                     424 02
+United Kingdom
+                         British Telecom                              234 00
+                         Mundio Mobile Limited                        234 01
+                         Telefonica UK Limited                        234 02
+                         Jersey Airtel Limited                        234 03
+                         FMS Solutions Limited                        234 04
+                         COLT Mobile Telecommunications Limited       234 05
+                         Internet Computer Bureau Limited             234 06
+                         Vodafone Ltd (C&W)                           234 07
+                         BT OnePhone Limited                          234 08
+                         Tismi BV                                     234 09
+                         Telefonica UK Limited                        234 10
+                         Telefonica UK Limited                        234 11
+                         Network Rail Infrastructure Limited          234 12
+                         Network Rail Infrastructure Limited          234 13
+                         HAY SYSTEMS LIMITED                          234 14
+                         Vodafone Uk Ltd                              234 15
+                         TalkTalk Communications Limited              234 16
+                         FleXtel Limited                              234 17
+                         Cloud9 Communications Limited                234 18
+                         TeleWare PLC                                 234 19
+                         Hutchison 3G UK Ltd                          234 20
+                         Telesign Mobile Limited                      234 22
+                         Icron Network Limited                        234 23
+                         Stour Marine Limited                         234 24
+                         Truphone Ltd                                 234 25
+
+Country or
+Geographical Area        Networks                              MCC + MNC codes *
+                         Lycamobile UK Limited                     234 26
+                         Teleena UK Limited                        234 27
+                         Marathon Telecom Limited                  234 28
+                         (aq) Limited trading as aql               234 29
+                         EE Limited ( TM)                          234 30
+                         EE Limited ( TM)                          234 31
+                         EE Limited ( TM)                          234 32
+                         Orange                                    234 33
+                         Orange                                    234 34
+                         Sure (Isle of Man) Limited                234 36
+                         Synectiv Ltd                              234 37
+                         Virgin Mobile Telecoms Limited            234 38
+                         Gamma Telecom Holdings Ltd                234 39
+                         Jersey Telecom                            234 50
+                         UK Broadband Limited                      234 51
+                         Shyam Telecom UK Ltd                      234 52
+                         Limitless Mobile Ltd                      234 53
+                         The Carphone Warehouse Limited            234 54
+                         Sure (Guernsey) Limited                   234 55
+                         CESG                                      234 56
+                         Sky UK Limited                            234 57
+                         Manx Telecom                              234 58
+                         Limitless Mobile Ltd                      234 59
+                         AMSUK Limited                             234 70
+                         British Telecom                           234 76
+                         Airwave Solutions Ltd                     234 78
+                         EE Limited ( TM)                          234 86
+                         Mundio Mobile Limited                     235 00
+                         EE Limited ( TM)                          235 01
+                         EE Limited ( TM)                          235 02
+                         UK Broadband Limited                      235 03
+                         British Telecom                           235 77
+                         Vodafone Uk Ltd                           235 91
+                         Vodafone Ltd (C&W)                        235 92
+                         Hutchison 3G UK Ltd                       235 94
+                         Network Rail Infrastructure Limited       235 95
+
+
+Country or
+Geographical Area        Networks                                 MCC + MNC codes *
+United States
+                         Verizon Wireless                             310 010
+                         Verizon Wireless                             310 012
+                         Verizon Wireless                             310 013
+                         Cricket Communications                       310 016
+                         North Sight Communications Inc               310 017
+                         Union Telephone Company                      310 020
+                         Centennial Communications                    310 030
+                         ETEX Communications dba ETEX Wireless        310 035
+                         MTA Communications dba MTA Wireless          310 040
+                         Alaska Communications                        310 050
+                         Consolidated Telcom                          310 060
+                         AT&T                                         310 070
+                         Corr Wireless Communications LLC             310 080
+                         Cricket Communications                       310 090
+                         New Mexico RSA 4 East Ltd. Partnership       310 100
+                         Pacific Telecom Inc                          310 110
+                         Sprintcom Inc                                310 120
+                         Carolina West Wireless                       310 130
+                         GTA Wireless LLC                             310 140
+                         Cingular Wireless                            310 150
+                         T-Mobile USA                                 310 160
+                         Cingular Wireless                            310 170
+                         West Central Wireless                        310 180
+                         Alaska Wireless Communications LLC           310 190
+                         T-Mobile USA                                 310 200
+                         T-Mobile USA                                 310 210
+                         T-Mobile USA                                 310 220
+                         T-Mobile USA                                 310 230
+                         T-Mobile USA                                 310 240
+                         T-Mobile USA                                 310 250
+                         T-Mobile USA                                 310 260
+                         T-Mobile USA                                 310 270
+                         Contennial Puerto Rio License Corp.          310 280
+                         NEP Cellcorp Inc.                            310 290
+                         Blanca Telephone Company                     310 300
+                         T-Mobile USA                                 310 310
+
+Country or
+Geographical Area        Networks                                            MCC + MNC codes *
+                         Smith Bagley Inc, dba Cellular One                      310 320
+                         AWCC                                                    310 330
+                         High Plains Midwest LLC, dba Westlink
+                                                                                 310 340
+                         Communications
+                         Mohave Cellular L.P.                                    310 350
+                         Cellular Network Partnership dba Pioneer Cellular       310 360
+                         Docomo Pacific Inc                                      310 370
+                         New Cingular Wireless PCS, LLC                          310 380
+                         TX-11 Acquistion LLC                                    310 390
+                         Wave Runner LLC                                         310 400
+                         Cingular Wireless                                       310 410
+                         Cincinnati Bell Wireless LLC                            310 420
+                         GCI Communications Corp                                 310 430
+                         Numerex Corp                                            310 440
+                         North East Cellular Inc.                                310 450
+                         Newcore Wireless                                        310 460
+                         nTELOS Communications Inc                               310 470
+                         Choice Phone LLC                                        310 480
+                         T-Mobile USA                                            310 490
+                         Public Service Cellular, Inc.                           310 500
+                         Nsighttel Wireless Inc                                  310 510
+                         Transactions Network Services                           310 520
+                         Iowa Wireless Services LLC                              310 530
+                         Oklahoma Western Telephone Company                      310 540
+                         Wireless Solutions International                        310 550
+                         AT&T                                                    310 560
+                         MTPCS LLC                                               310 570
+                         Inland Cellular Telephone Company                       310 580
+                         Verizon Wireless                                        310 590
+                         New Cell Inc. dba Cellcom                               310 600
+                         Elkhart Telephone Co. Inc. dba Epic Touch Co.           310 610
+                         Nsighttel Wireless Inc                                  310 620
+                         Airadigm Communications                                 310 640
+                         Jasper Wireless Inc.                                    310 650
+                         T-Mobile USA                                            310 660
+                         AT&T Mobility Vanguard Services                         310 670
+                         AT&T                                                    310 680
+
+Country or
+Geographical Area        Networks                                         MCC + MNC codes *
+                         Keystone Wireless LLC                                310 690
+                         Cross Valiant Cellular Partnership                   310 700
+                         Arctic Slope Telephone Association Cooperative       310 710
+                         Wireless Solutions International Inc.                310 720
+                         US Cellular                                          310 730
+                         Convey Communications Inc                            310 740
+                         East Kentucky Network LLC dba Appalachian
+                                                                              310 750
+                         Wireless
+                         Lynch 3G Communications Corporation                  310 760
+                         Iowa Wireless Services LLC dba I Wireless            310 770
+                         D.D. Inc                                             310 780
+                         PinPoint Communications Inc.                         310 790
+                         T-Mobile USA                                         310 800
+                         LCFR LLC                                             310 810
+                         South Canaan Cellular Communications Co. LP          310 820
+                         Clearwire Corporation                                310 830
+                         Telecom North America Mobile Inc                     310 840
+                         Aeris Communications, Inc.                           310 850
+                         TX RSA 15B2, LP dba Five Star Wireless               310 860
+                         Kaplan Telephone Company Inc.                        310 870
+                         Advantage Cellular Systems, Inc.                     310 880
+                         Verizon Wireless                                     310 890
+                         Cable & Communications Corporation dba Mid-
+                                                                              310 900
+                         Rivers Wireless
+                         Verizon Wireless                                     310 910
+                         James Valley Wireless LLC                            310 920
+                         Copper Valley Wireless                               310 930
+                         Iris Wireless LLC                                    310 940
+                         Texas RSA 1 dba XIT Wireless                         310 950
+                         UBET Wireless                                        310 960
+                         Globalstar USA                                       310 970
+                         Texas RSA 7B3 dba Peoples Wireless Services          310 980
+                         Worldcall Interconnect                               310 990
+                         Mid-Tex Cellular Ltd.                                311 000
+                         Chariton Valley Communications Corp., Inc.           311 010
+                         Missouri RSA No. 5 Partnership                       311 020
+                         Indigo Wireless, Inc.                                311 030
+                         Commnet Wireless LLC                                 311 040
+Country or
+Geographical Area        Networks                                             MCC + MNC codes *
+                         Thumb Cellular Limited Partnership                       311 050
+                         Space Data Corporation                                   311 060
+                         Wisconsin RSA #7 Limited Partnership                     311 070
+                         Pine Telephone Company dba Pine Cellular                 311 080
+                         LongLines Wireless                                       311 090
+                         Nex-Tech Wireless LLC                                    311 100
+                         Verizon Wireless                                         311 110
+                         Choice Phone LLC                                         311 120
+                         Light Squared LP                                         311 130
+                         Cross Telephone Company                                  311 140
+                         Wilkes Cellular Inc.                                     311 150
+                         Light Squared LP                                         311 160
+                         PetroCom LLC                                             311 170
+                         Cingular Wireless, Licensee Pacific Telesis Mobile
+                                                                                  311 180
+                         Services, LLC
+                         Cellular Properties Inc.                                 311 190
+                         ARINC                                                    311 200
+                         Emery Telecom-Wireless Inc                               311 210
+                         United States Cellular                                   311 220
+                         Cellular South Inc                                       311 230
+                         Cordova Wireless Communications Inc                      311 240
+                         Wave Runner LLC                                          311 250
+                         Clearwire Corporation                                    311 260
+                         Verizon Wireless                                         311 270
+                         Verizon Wireless                                         311 271
+                         Verizon Wireless                                         311 272
+                         Verizon Wireless                                         311 273
+                         Verizon Wireless                                         311 274
+                         Verizon Wireless                                         311 275
+                         Verizon Wireless                                         311 276
+                         Verizon Wireless                                         311 277
+                         Verizon Wireless                                         311 278
+                         Verizon Wireless                                         311 279
+                         Verizon Wireless                                         311 280
+                         Verizon Wireless                                         311 281
+                         Verizon Wireless                                         311 282
+                         Verizon Wireless                                         311 283
+
+Country or
+Geographical Area        Networks                                          MCC + MNC codes *
+                         Verizon Wireless                                      311 284
+                         Verizon Wireless                                      311 285
+                         Verizon Wireless                                      311 286
+                         Verizon Wireless                                      311 287
+                         Verizon Wireless                                      311 288
+                         Verizon Wireless                                      311 289
+                         Pinpoint Wireless Inc.                                311 290
+                         Nexus Communications Inc                              311 300
+                         Leaco Rural Telephone Company Inc                     311 310
+                         Commnet Wireless LLC                                  311 320
+                         Bug Tussel Wireless LLC                               311 330
+                         Illinois Valley Cellular                              311 340
+                         Sagebrush Cellular Inc dba Nemont                     311 350
+                         Stelera Wireless LLC                                  311 360
+                         GCI Communications Corp                               311 370
+                         New Dimension Wireless Ltd                            311 380
+                         Verizon Wireless                                      311 390
+                         Iowa RSA No. 2 Limited Partnership                    311 410
+                         Northwest Missouri Cellular Limited Partnership       311 420
+                         RSA 1 Limited Partnership dba Cellular 29 Plus        311 430
+                         Bluegrass Cellular LLC                                311 440
+                         Panhandle Telecommunication Systems Inc.              311 450
+                         Fisher Wireless Services Inc                          311 460
+                         Vitelcom Cellular Inc dba Innovative Wireless         311 470
+                         Verizon Wireless                                      311 480
+                         Verizon Wireless                                      311 481
+                         Verizon Wireless                                      311 482
+                         Verizon Wireless                                      311 483
+                         Verizon Wireless                                      311 484
+                         Verizon Wireless                                      311 485
+                         Verizon Wireless                                      311 486
+                         Verizon Wireless                                      311 487
+                         Verizon Wireless                                      311 488
+                         Verizon Wireless                                      311 489
+                         Sprintcom Inc                                         311 490
+                         Mosaic Telecom Inc                                    311 500
+                         Light Squared LP                                      311 510
+
+Country or
+Geographical Area        Networks                                        MCC + MNC codes *
+                         Light Squared LP                                    311 520
+                         Newcore Wireless LLC                                311 530
+                         Proximiti Mobility Inc                              311 540
+                         Commnet Midwest LLC                                 311 550
+                         OTZ Communications Inc                              311 560
+                         Bend Cable Communications LLC                       311 570
+                         United States Cellular                              311 580
+                         California RSA No3 Ltd Partnership dba Golden
+                                                                             311 590
+                         State Cellular
+                         Cox TMI Wireless LLC                                311 600
+                         North Dakota Network Co.                            311 610
+                         Terrestar Networks Inc                              311 620
+                         Corr Wireless Communications                        311 630
+                         Standing Rock Telecommunications                    311 640
+                         United Wireless Inc                                 311 650
+                         Metro PCS Wireless Inc                              311 660
+                         Pine Belt Cellular Inc dba Pine Belt Wireless       311 670
+                         GreenFly LLC                                        311 680
+                         TeleBeeper of New Mexico Inc                        311 690
+                         TotalSolutions Telecom LLC                          311 700
+                         Northeast Wireless Networks LLC                     311 710
+                         Maine PCS LLC                                       311 720
+                         Proximiti Mobility Inc                              311 730
+                         Telalaska Cellular                                  311 740
+                         NetAmerica Alliance LLC                             311 750
+                         Edigen Inc                                          311 760
+                         Radio Mobile Access Inc                             311 770
+                         Bluegrass Cellular LLC                              311 800
+                         Blegrass Cellular LLC                               311 810
+                         Kineto Wireless Inc                                 311 820
+                         Thumb Cellular LLC                                  311 830
+                         Nsight Spectrum LLC                                 311 840
+                         Nsight Spectrum LLC                                 311 850
+                         Uintah Basin Electronic Telecommunications          311 860
+                         Sprintcom Inc                                       311 870
+                         Sprintcom Inc                                       311 880
+                         Globecom Network Services Corporation               311 890
+
+Country or
+Geographical Area        Networks                                        MCC + MNC codes *
+                         Gigsky Inc.                                         311 900
+                         SI Wireless LLC                                     311 910
+                         Missouri RSA No 5 Partnership dba Charlton
+                                                                             311 920
+                         Valley Wireless Services
+                         Clearwire Corporation                               311 940
+                         Sunman Telecommunications corp.                     311 950
+                         Lycamobile USA Inc                                  311 960
+                         Big River Broadband LLC                             311 970
+                         LigTel Communications                               311 980
+                         VTel Wireless                                       311 990
+                         Charlton Valley Communication Corporation Inc       312 010
+                         Infrastructure Networks LLC                         312 020
+                         Cross Wireless                                      312 030
+                         Custer Telephone Cooperative Inc                    312 040
+                         Fuego Wireless LLC                                  312 050
+                         CoverageCo                                          312 060
+                         Adams Networks Inc                                  312 070
+                         South Georgia Regional Information Technology
+                                                                             312 080
+                         Authority
+                         Allied Wireless Communications Corporation          312 090
+                         ClearSky Technologies Inc                           312 100
+                         Texas Energy Network LLC                            312 110
+                         East Kentucky Network LLC dba Appalachian
+                                                                             312 120
+                         Wireless
+                         East Kentucky Network LLC dba Appalachian
+                                                                             312 130
+                         Wireless
+                         Cleveland Unlimited Inc                             312 140
+                         Northwest Cell                                      312 150
+                         RSA1 Limited Partnership dba Chat Mobility          312 160
+                         Iowa RSA No. 2 Limited Partnership                  312 170
+                         Keystone Wireless LLC                               312 180
+                         Sprint-Nextel Communications Inc                    312 190
+                         Voyager Mobility LLC                                312 200
+                         Assigned to Public Safety                           313 100
+                         Sprint-Nextel Communications Inc                    316 010
+                         Southern Communications Services Inc.               316 011
+
+
+
+
+Country or
+Geographical Area              Networks                                 MCC + MNC codes *
+Uruguay
+                               Ancel - TDMA                                 748 00
+                               Ancel - GSM                                  748 01
+                               Ancel                                        748 03
+                               Movistar                                     748 07
+                               CTI Móvil                                    748 10
+Uzbekistan
+                               Buztel                                       434 01
+                               Uzmacom                                      434 02
+                               Daewoo Unitel                                434 04
+                               Coscom                                       434 05
+                               Uzdunrobita                                  434 07
+Vanuatu
+                               SMILE                                        541 01
+                               Digicel Vanuatu                              541 05
+                               WANTOK                                       541 07
+Venezuela (Bolivarian Republic
+of)                            Corporación Digitel                          734 02
+                               GALAXY ENTERTAINMENT DE VENEZUELA C.A.       734 03
+                               Telcel, C.A.                                 734 04
+                               Telecomunicaciones Movilnet, C.A.            734 06
+Viet Nam
+                               Mobifone                                     452 01
+                               Vinaphone                                    452 02
+                               S Telecom (CDMA)                             452 03
+                               Viettel                                      452 04
+                               EVN Telecom                                  452 06
+                               Beeline VN/GTEL Mobile JSC                   452 07
+                               EVN Telecom                                  452 08
+Wallis and Futuna
+                               Manuia                                       543 01
+Yemen
+                               Yemen Mobile Phone Company                   421 01
+                               Spacetel Yemen                               421 02
+                               Y-Telecom                                    421 04
+
+
+
+
+Country or
+Geographical Area                      Networks                                                              MCC + MNC codes *
+Zambia
+                                       Celtel Zambia Ltd.                                                        645 01
+                                       Telecel Zambia Ltd.                                                       645 02
+                                       Zamtel                                                                    645 03
+Zimbabwe
+                                       Net One                                                                   648 01
+                                       Telecel                                                                   648 03
+                                       Econet                                                                    648 04
+____________
+*       MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+        MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+Shared Mobile Country Codes (MCC) for networks and their respective Mobile Network
+Codes (MNC)
+                             Networks                       MCC + MNC codes *
+Iridium Communications Inc                                       901 03
+Thuraya RMSS Network                                             901 05
+Thuraya Satellite Telecommunications Company                     901 06
+Inmarsat Ltd.                                                    901 11
+Maritime Communications Partner AS (MCP network)                 901 12
+BebbiCell AG (Formerly Global Networks Switzerland AG)           901 13
+AeroMobile AS                                                    901 14
+OnAir N.V. (Formerly SITA on behalf of Onair)                    901 15
+Jasper Technologies Inc. [formerly Jasper Wireless, Inc]         901 16
+Jersey Telecom                                                   901 17
+Cingular Wireless                                                901 18
+Vodafone Malta (Vodafone Group)                                  901 19
+Intermatica                                                      901 20
+Wins Limited (Formerly Seanet Maritime Communications AB)        901 21
+MediaLincc Ltd                                                   901 22
+Voxbone SA                                                       901 24
+Telecom Italia                                                   901 26
+OnAir N.V. (Formerly SITA on behalf of Onair)                    901 27
+Vodafone Group                                                   901 28
+Telenor Connexion AB                                             901 29
+Orange [formerly France Telecom Orange]                          901 31
+MegaFon                                                          901 32
+Smart Communications , Inc                                       901 33
+Tyntec Limited                                                   901 34
+Globecomm Network Services                                       901 35
+Azerfon LLC                                                      901 36
+TRANSATEL                                                        901 37
+Multiregional TransitTelecom (MTT)                               901 38
+MTX Connect Ltd                                                  901 39
+Deutsche Telekom AG                                              901 40
+BodyTrace Netherlands B.V.                                       901 41
+DCN Hub ehf                                                      901 42
+EMnify GmbH                                                      901 43
+AT&T, Inc.                                                       901 44
+Advanced Wireless Network Company Limited                        901 45
+Telecom26 AG                                                     901 46
+Ooredoo                                                          901 47
+
+                                    Networks                                             MCC + MNC codes *
+Communication for Devices in Sweden AB                                                            901 48
+Zain Kuwait                                                                                       901 49
+Sawatch Limited/EchoStar Mobile Limited                                                           901 50
+VisionNG                                                                                          901 51
+Manx Telecom Trading Ltd.                                                                         901 52
+Deutsche Telekom AG                                                                               901 53
+UN Office for the Coordination of Humanitarian Affairs (OCHA)                                     901 88
+____________
+*       MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+        MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+Extra-territorial use* of MCC/MNC, Annex E to Recommendation ITU-T E.212
+Country or
+                           MCC + MNC**           MSIN range                          Operator/Network
+Geographical Area
+France - Country A         208 01                0000000000-0099999999;
+                                                                        Orange
+                                                 0200000000-9999999999
+Monaco - Country B         208 01                0100000000-0199999999               Orange/Monaco Télécom
+France - Country A         208 10                0000000000 - 2654099999;
+                                                 2654200000 - 2654299999;
+                                                 2654400000 - 2754099999; Société Française du Radiotéléphone
+                                                 2754200000 - 2754299999;
+                                                 2754400000 - 9999999999
+Monaco - Country B         208 10                2654100000 - 2654199999;
+                                                 2654300000 - 2654399999;
+                                                                          Société Française du Radiotéléphone
+                                                 2754100000 - 2754199999;
+                                                 2754300000 - 2754399999
+France - Country A         208 20                0000000000 - 0055499999;
+                                                 0055600000 - 2007199999; Bouygues Telecom
+                                                 2007300000 - 9999999999
+Monaco - Country B         208 20                0055500000 - 0055599999;
+                                                                          Bouygues Telecom
+                                                 2007200000 - 2007299999
+Switzerland -              228 01                20-35, 38, 40-44, 47, 52,
+                                                                                     Swisscom Schweiz AG
+Country A                                        59, 60-62, 72, 77, 80
+Liechtenstein -            228 01                37XXXXXXXX
+                                                                                     Swisscom Schweiz AG
+Country B
+Iceland - Country A        274 02                0-8                                 Og fjarskipti hf (Vodafone Iceland)
+Faroe Islands -            274 02                9
+                                                                                     P/F Kall, reg. No 2868 (Vodafone FO)
+Country B
+Fiji - Country A           542 02                00xxxxxxxx                          Digicel (Fiji) Ltd
+Nauru - Country B          542 02                0840xxxxxx                          Digicel (Fiji) Ltd
+____________
+*       As defined in Annex E to Recommendation ITU-T E.212, extra-territorial use of an MCC+MNC is the term used to describe
+        the situation where a MCC+MNC that has been assigned to an operator in one country, Country A, is used in another country,
+        Country B, through a base station established in Country B.
+
+**       MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+         MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+To be returned to ITU/TSB Fax No. +41 22 730 5853 / E-mail: tsbtson@itu.int
+
+
+       Notification of assignment or withdrawal of Mobile Network Code (MNC) for the
+            international identification plan for public networks and subscriptions
+                           (According to Recommendation ITU-T E.212)
+
+This form should be used to notify the Director of TSB of MNC that have been assigned or withdrawn by a
+Member State since the last notification.
+
+Country/Area: __________________________________________________________________
+Member State Organisation: _______________________________________________________
+Member State contact-person:
+                    Name:        ________________________________________________
+                    Address:     ________________________________________________
+                                 ________________________________________________
+                    Tel.:        ___________________     Fax : ____________________
+                    E-mail :     ___________________
+
+
+        MCC + MNC                               Name of Network / Operator
+
+
+
+
+MCC: Mobile Country Code
+MNC: Mobile Network Code
+
+
+
+
+To be returned to ITU/TSB Fax No. +41 22 730 5853 / E-mail: tsbtson@itu.int
+
+
+
+
+                         Notification of the use or cancellation of use of
+                                  an MCC/MNC extra-territorially
+                       (According to Recommendation ITU-T E.212, annex E)
+
+This form should be used by each of the Administrations to notify the Director of TSB that the
+Administration has agreed that an operator can use/can cancel the use of an MCC+MNC of
+Country A in Country B.
+
+MCC/MNC: _____________________________________________________________________
+
+Administration Contact-Person Name: _____________________________________________
+
+Address:
+        _______________________________________________________________________
+
+Tel: ______________________ Fax: ___________________ E-mail: ______________________
+
+
+MCC/MNC        Operator(s) Name        Country B – Where        MSIN range to    MSIN range to
+                                       the MCC/MNC is to        be used in       be used in
+                                       be used                  Country A        Country B
+                                       extra-territorially
+
+
+
+
+                                      Amendments
+
+     Amendment No.       Operational Bulletin No.    Country/area
+
+            1
+            2
+            3
+            4
+            5
+            6
+            7
+            8
+            9
+           10
+           11
+           12
+           13
+           14
+           15
+           16
+           17
+           18
+           19
+           20
+           21
+           22
+           23
+           24
+           25
+           26
+           27
+           28
+           29
+           30
+
+
+
+

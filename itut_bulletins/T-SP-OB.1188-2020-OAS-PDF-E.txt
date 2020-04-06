@@ -1,0 +1,627 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1188             15.I.2020                   (Information received by 31 December 2019) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                               3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)):
+   Note from TSB ..........................................................................................................................................       4
+Telephone Service:
+     Bonaire, Sint Eustatius and Saba (Autoriteit Consument & Markt) ..........................................................                                   5
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                            7
+                *
+     Kosovo (Regulatory Authority of Electronic and Postal Communications (ARKEP)) ................................                                               7
+     Myanmar (Ministry of Transport and Communications, Nay Pyi Taw) ....................................................                                         8
+Service Restrictions ........................................................................................................................................    10
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                  10
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                       11
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                               12
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................     13
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                     14
+List of International Signalling Point Codes (ISPC) .........................................................................................                    15
+National Numbering Plan ...............................................................................................................................          16
+
+
+
+
+*    This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the
+     Kosovo declaration of independence.
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1189              1.II.2020             15.I.2020
+               1190             15.II.2020             31.I.2020
+               1191              1.III.2020            14.II.2020
+               1192             15.III.2020            2.III.2020
+               1193              1.IV.2020             16.III.2020
+               1194             15.IV.2020             1.IV.2020
+               1195              1.V.2020              15.IV.2020
+               1196             15.V.2020               1.V.2020
+               1197              1.VI.2020             15.V.2020
+               1198             15.VI.2020             1.VI.2020
+               1199             1.VII.2020             15.VI.2020
+               1200             15.VII.2020            1.VII.2020
+               1201             1.VIII.2020           15.VII.2020
+               1202            15.VIII.2020           31.VII.2020
+               1203              1.IX.2020            14.VIII.2020
+               1204             15.IX.2020             1.IX.2020
+               1205              1.X.2020              15.IX.2020
+               1206             15.X.2020               1.X.2020
+               1207              1.XI.2020             15.X.2020
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021              11.XII.2020
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                  Approval of ITU-T Recommendations
+By TSB Circular 222 of 20 December 2019, it was announced that the following ITU-T Recommendation was
+approved, in accordance with the procedures outlined in Resolution 1:
+–       Recommendation ITU-T E.102 (12/2019): Terms and definitions for disaster relief systems, network
+        resilience and recovery
+
+
+
+
+                    Assignment of Signalling Area/Network Codes (SANC)
+                          (Recommendation ITU-T Q.708 (03/99))
+
+Note from TSB
+       At the request of the Administration of the Republic of Colombia, the Director of TSB has assigned the
+following signalling area/network code (SANC) for use in the international part of the signalling system No. 7
+network of this country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                   Country/geographical area or signalling network                      SANC
+
+                   Colombia (Republic of)                                               7-111
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                          Telephone Service
+                                     (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+  Bonaire, Sint Eustatius and Saba (country code +599)
+  Communication 3.IX.2019:
+  The Autoriteit Consument & Markt, announces the following updated numbering plan for Bonaire, Sint Eustatius
+  and Saba:
+       Dialling plan
+
+                Bonaire                          +599 7XX XXXX
+                Saba                             +599 4XX XXXX
+                Sint Eustatius                   +599 3XX XXXX
+
+       Details:
+
+         Locality                Number ranges                  Service type                     Operator
+Bonaire (+599)            715 XXXX                     Fixed service                Telbo N.V.
+                          717 XXXX                     Fixed service                Telbo N.V.
+                          718 XXXX                     Fixed service                Telbo N.V.
+                          750 XXXX                     Fixed service                Flamingo TV
+                                                                                    Bonaire B.V.
+                          700 XXXX                     Mobile service               Antilliano Por N.V.
+                          701 XXXX                     Mobile service               Antilliano Por N.V.
+                          770 XXXX                     Mobile service               Telbo N.V.
+                          777 XXXX                     Mobile service               Telbo N.V.
+                          78X XXXX                     Mobile service               Antilliano Por N.V.
+                          790 XXXX                     Mobile service               Setel N.V.
+                          795 XXXX                     Mobile service               Setel N.V.
+                          796 XXXX                     Mobile service               Setel N.V.
+                          720 XXXX                     Long distance service        Flamigno TV
+                                                                                    Bonaire B.V.
+                          725 XXXX                     Long distance service        Antilliano Por N.V.
+Saba (+599)               416 0XXX                     Fixed service                Satel N.V.
+                          416 2XXX                     Fixed service                Satel N.V.
+                          416 3XXX                     Fixed service                Satel N.V.
+                          417 0XXX                     Fixed service                Satel N.V.
+                          416 1XXX                     Mobile service               Satel N.V.
+                          416 4XXX                     Mobile service               WICC N.V.
+                          416 5XXX                     Mobile service               WICC N.V.
+                          416 6XXX                     Mobile service               WICC N.V.
+                          416 7XXX                     Mobile service               WICC N.V.
+                          416 8XXX                     Mobile service               WICC N.V.
+                          416 9XXX                     Mobile service               Satel N.V.
+
+       Locality              Number ranges                   Service type            Operator
+Sint Eustatius (+599)   318 0XXX                     Fixed service          Eutel N.V.
+                        318 2XXX                     Fixed service          Eutel N.V.
+                        318 3XXX                     Fixed service          Eutel N.V.
+                        318 1XXX                     Mobile service         Eutel N.V.
+                        318 4XXX                     Mobile service         Eutel N.V.
+                        318 5XXX                     Mobile service         Eutel N.V.
+                        318 6XXX                     Mobile service         Eutel N.V.
+                        318 7XXX                     Mobile service         Eutel N.V.
+                        318 8XXX                     Mobile service         Eutel N.V.
+                        319 1XXX                     Mobile service         WICC N.V.
+                        319 3XXX                     Mobile service         WICC N.V.
+                        319 4XXX                     Mobile service         WICC N.V.
+                        319 5XXX                     Mobile service         WICC N.V.
+                        319 7XXX                     Mobile service         WICC N.V.
+                        319 8XXX                     Mobile service         WICC N.V.
+
+  Contact:
+         Ms Melanie Oderwald
+         Authority for Consumers and Markets (ACM)
+         Muzenstraat 41
+         2511 WB THE HAGUE
+         Netherlands
+         Tel:    +31 70 7222667
+         E-mail: Melanie.Oderwald@acm.nl
+         URL:    www.acm.nl
+
+
+
+
+     Denmark (country code +45)
+     Communication of 19.XII.2019:
+     The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+     Denmark:
+          Assignment – Mobile Communication services
+                    Provider                                   Numbering series                              Date of assignment
+      Greenwave Mobile IoT ApS 91300fgh and 91303fgh                                                              10.XII.2019
+
+          Assignment – 4-digit service number
+                    Provider                                   Numbering series                              Date of assignment
+      TDC A/S                           1888                                                                      10.XII.2019
+
+     Contact:
+              Danish Energy Agency
+              43 Carsten Niebuhrs Gade
+              1577 COPENHAGEN V
+              Denmark
+              Tel:    +45 33 92 67 00
+              Fax:    +45 33 11 47 43
+              E-mail: ens@ens.dk
+              URL:    www.ens.dk
+     Kosovo (country code +383)
+     Communication of 31.X.2019:
+     The Regulatory Authority of Electronic and Postal Communications (ARKEP), announces the following National
+     Numbering Plan of Kosovo*.
+                           Presentation of national ITU-T E.164 numbering plan for country code: 383
+     a)          Overview:
+                 The minimum number length (excluding the country code) is 8 digits.
+                 The maximum number length (excluding the country code) is 9 digits.
+
+     b)          Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the
+                 national numbering plan (if any):
+                 (http://www.arkep-rks.org/?cid=1,50)
+
+     c)          Link to the real-time database reflecting ported ITU-T E.164 numbers (if any):
+                 (N/A)
+
+     d)          Detail of numbering plan:
+
+     NDC (national              N(S)N number length
+  destination code) or
+leading digits of N(S)N        Maximum         Minimum                 Usage of E.164 number                    Additional information
+ (national (significant)        length          length
+        number)
+                                                             Geographic numbers for Fixed
+         28 (NDC)                   8              8
+                                                             Telephony Services – Mitrovica Region
+                                                             Geographic numbers for Fixed
+         29 (NDC)                   8              8
+                                                             Telephony Services – Prizreni Region
+
+
+      This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo
+
+     declaration of independence.
+     NDC (national            N(S)N number length
+  destination code) or
+leading digits of N(S)N     Maximum         Minimum                Usage of E.164 number                  Additional information
+ (national (significant)     length          length
+        number)
+                                                          Geographic numbers for Fixed
+       38 (NDC)                  8              8
+                                                          Telephony Services – Prishtina Region
+                                                          Geographic numbers for Fixed
+       39 (NDC)                  8              8
+                                                          Telephony Services – Peja Region
+                                                          Geographic numbers for Fixed
+      280 (NDC)                  9              8
+                                                          Telephony Services – Gjilani Region
+                                                          Geographic numbers for Fixed
+      290 (NDC)                  9              8
+                                                          Telephony Services – Ferizaj Region
+                                                          Geographic numbers for Fixed
+      390 (NDC)                  9              8
+                                                          Telephony Services – Gjakova Region
+                                                          Non-Geographic numbers for Mobile
+       41 (NDC)                  8              8                                                               Not Allocated
+                                                          Telephony Services – At National Level
+                                                          Non-Geographic numbers for Mobile
+       42 (NDC)                  8              8                                                               Not Allocated
+                                                          Telephony Services – At National Level
+                                                                                                         Operator: IPKO
+                                                                                                         Telecommunications LLC
+                                                                                                         Numbering Blocks
+                                                                                                         43 2xx xxx,
+                                                          Non-Geographic numbers for Mobile
+       43 (NDC)                  8              8                                                        43 3xx xxx and
+                                                          Telephony Services – At National Level
+                                                                                                         43 4xx xxx
+                                                                                                         are allocated for usage
+                                                                                                         by MVNO Dukagjini
+                                                                                                         Telecommunications LLC
+                                                          Non-Geographic numbers for Mobile              Operator: Telecom of
+       44 (NDC)                  8              8
+                                                          Telephony Services – At National Level         Kosovo* J.S.C.
+                                                          Non-Geographic numbers for Mobile              Operator: Telecom of
+       45 (NDC)                  8              8
+                                                          Telephony Services – At National Level         Kosovo* J.S.C.
+                                                          Non-Geographic numbers for Mobile              Operator: Telecom of
+       46 (NDC)                  8              8
+                                                          Telephony Services – At National Level         Kosovo* J.S.C.
+                                                                                                         Numbering block 47 100
+                                                                                                         000 – 159 999 is
+                                                                                                         allocated for usage by
+                                                          Non-Geographic numbers for Mobile
+       47 (NDC)                  8              8                                                        operator mts D.O.O.
+                                                          Telephony Services – At National Level
+                                                                                                         with limited
+                                                                                                         infrastructure and
+                                                                                                         operation in the ground
+                                                          Non-Geographic numbers for Mobile              Operator: IPKO
+       48 (NDC)                  8              8
+                                                          Telephony Services – At National Level         Telecommunications LLC
+                                                          Non-Geographic numbers for Mobile              Operator: IPKO
+       49 (NDC)                  8              8
+                                                          Telephony Services – At National Level         Telecommunications LLC
+
+
+
+
+     ____________
+     * This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the
+     Kosovo declaration of independence.
+
+       Description of important numbers related to emergency services and other services of social value:
+
+  Important                    Service                   Allocated or           E.164 number or               Note
+   number                                                  assigned          national-only number
+ 112              Emergency Services                Allocated in the NNP     National only number       Assigned
+ 192              Police                            Allocated in the NNP     National only number       Assigned
+ 193              Fire                              Allocated in the NNP     National only number       Assigned
+ 194              Medical                           Allocated in the NNP     National only number       Assigned
+ 19xx             Services of social value (e.g.    Allocated in the NNP     National only number
+                  Traffic)
+ 116 000          Hotline for missing children      Allocated in the NNP     National only number       Not assigned
+ 116 006          Helpline for victims of crime     Allocated in the NNP     National only number       Not assigned
+ 116 111          Child helplines                   Allocated in the NNP     National only number       Not assigned
+ 116 117          Non-emergency medical on-call     Allocated in the NNP     National only number       Not assigned
+                  service
+ 116 123          Emotional support helplines       Allocated in the NNP     National only number       Not assigned
+
+Contact:
+           Regulatory Authority of Electronic and Postal Communications (ARKEP)
+           Kreshnik Gashi, Chairman of the Board
+           Str. Bedri Pejani No.23, Prishtina 10000
+           Tel:     +383 38 212 345
+           E-mail: info@arkep-rks.org
+           URL:     www.arkep-rks.org
+Myanmar (country code +95)
+Communication of 30.XII.2019:
+The Ministry of Transport and Communications, Nay Pyi Taw, announces that the following updated numbering
+scheme has been added to the national numbering plan of Myanmar:
+                                Description of introduction of new resources for
+                              national E.164 numbering plan for country code + 95:
+Mobile Numbering
+
+ Sr      Area                                                     Digit Length
+                      Number series           System                                 Operator
+ No.     Code                                                (including area code)
+ 1         9           663-xxx-xxx        WCDMA / GSM                 10             Telecom International Myanmar Co.,Ltd
+ 2         9           664-xxx-xxx        WCDMA / GSM                 10             Telecom International Myanmar Co.,Ltd
+ 3         9           665-xxx-xxx        WCDMA / GSM                 10             Telecom International Myanmar Co.,Ltd
+ 4         9           666-xxx-xxx        WCDMA / GSM                 10             Telecom International Myanmar Co.,Ltd
+ 5         9           884-xxx-xxx        WCDMA / GSM                 10             Myanma Posts and Telecommunications
+ 6         9           885-xxx-xxx        WCDMA / GSM                 10             Myanma Posts and Telecommunications
+ 7         9           886-xxx-xxx        WCDMA / GSM                 10             Myanma Posts and Telecommunications
+
+Contact:
+           Ministry of Transport and Communications
+           Posts and Telecommunications Department (PTD)
+           Building No. 2,
+           NAY PYI TAW
+           Myanmar
+           Tel:     +95 67 3407 225
+           Fax:     +95 67 3407 216
+           E-mail: dg.ptd@mptmail.net.mm
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                           Abbreviations used
+
+                             ADD    Insert                    PAR   paragraph
+                             COL    Column                    REP   replace
+                             LIR    Read                      SUP   Delete
+                             P      page(s)
+
+
+
+
+                             List of Ship Stations and Maritime Mobile
+                                Service Identity Assignments
+                                            (List V)
+                                        Edition of 2019
+
+                                              Section VI
+
+REP
+      JP04 BS Japan Co., Ltd., 3-8, Nihonbashi 1-Chome, Chuo-Ward, Tokyo 103, Japan.
+           E-mail: service_bsj@eagle.ocn.ne.jp, Tel: +81 3 3281-5261, Fax: +81 3 3281-5263,
+           Contact Persons: Eikoh Wada, Ryuichi Tsuhako.
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+                         (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                          (Amendment No. 20)
+
+
+
+
+Japan    ADD
+
+    Country/     Company Name/Address           Issuer                    Contact                    Effective date
+  geographical                                Identifier                                                of usage
+      area                                     Number
+ Japan           BB Backbone Corp.            89 81 13      Hoshito Ueyama                             1.I.2020
+                 1-9-1, Higashi-Shimbashi,                  Business Planning Department,
+                 Minato-ku,                                 Product Planning Section 1
+                 TOKYO 105-7304                             1-9-1, Higashi-Shimbashi, Minato-ku,
+                                                            TOKYO 105-7304
+                                                            Tel:    +81 3 6889 1255
+                                                            Fax: +81 3 6215 5256
+                                                            E-mail: SBMGRP-bbb-seido-
+                                                            syougai@g.softbank.co.jp
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                     for public networks and subscriptions
+             (According to Recommendation ITU-T E.212 (09/2016))
+                        (Position on 15 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                              (Amendment No. 24)
+
+
+
+
+Country/Geographical area            MCC+MNC              Operator/Network
+
+Australia ADD
+                                           505 47         Woodside Energy Limited
+
+Brazil LIR
+                                           724 54         TIM S.A.
+
+Kosovo* ADD
+
+                                           221 07         Dukagjini Telecommunications LLC
+
+
+____________
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the
+Kosovo declaration of independence.
+
+
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                (Position on 1 June 2017)
+
+                                 (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                  (Amendment No. 8)
+
+
+
+ Numerical order        ADD
+           7-111          Colombia (Republic of)
+
+
+
+ Alphabetical order ADD
+           7-111     Colombia (Republic of)
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 67)
+ Country/ Geographical Area        Unique name of the signalling point   Name of the signalling point operator
+ ISPC          DEC
+
+ Colombia ADD
+ 7-110-0       15216               XIUS-HLR-INTL-01 - BOGOTA             LIBRE TECNOLOGIAS S.A.S
+ 7-110-1       15217               SETROCOMVINTERNACION - BOGOTA         SETROC MOBILE GROUP SAS
+ 7-110-2       15218               SETROCOMVINTREDUNDAN- BOGOTA          SETROC MOBILE GROUP SAS
+ 7-216-7       16071               XIUS-HL-INTL-02 - BOGOTA              LIBRE TECNOLOGIAS S.A.S
+ Colombia LIR
+ 7-065-2       14858               MD_INT_SS_ORB- MEDELLIN               ORBITEL S.A. ESP
+ 7-065-3       14859               BOGOENTST01- BOGOTA                   COLOMBIA TELECOMUNICACIONES S.A. ESP
+ 7-065-4       14860               CALICOLST01- CALI                     COLOMBIA TELECOMUNICACIONES S.A. ESP
+ 7-065-5       14861               AVANTEL ROAMING -BOGOTA               AVANTEL S.A.S
+ 7-065-6       14862               CSMS-AVANTEL- BOGOTA                  AVANTEL S.A.S
+ 7-065-7       14863               HLR-AVANTEL- BOGOTA                   AVANTEL S.A.S
+ 7-066-0       14864               MGW01ZFB- BOGOTA                      INFRAESTRUCTURA CELULAR COLOMBIANA S A ESP
+ 7-066-1       14865               SFS01ZFB- BOGOTA                      INFRAESTRUCTURA CELULAR COLOMBIANA S A ESP
+ 7-066-2       14866               CALLE 72- BOGOTA                      TELMEX TELECOMUNICACIONES S.A. ESP
+ 7-066-3       14867               NETUNO GW STP/ITP SS7- BOGOTA         COMVOZ COMUNICACIONES DE COLOMBIA S.A. E.S.P.
+ 7-066-4       14868               AVANTEL- BOGOTA                       AVANTEL S.A.S
+ 7-066-5       14869               CASTELLANA- BOGOTA                    COLOMBIA MOVIL S.A. E.S.P.
+ 7-066-6       14870               AUTOPISTA- BOGOTA                     COLOMBIA MOVIL S.A. E.S.P.
+ 7-066-7       14871               TABOR- BARRANQUILLA                   COLOMBIA MOVIL S.A. E.S.P.
+ 7-067-0       14872               BARRTABST02 - BARRANQUILLA            COLOMBIA TELECOMUNICACIONES S.A. ESP
+ 7-067-1       14873               GW-LDI- BOGOTA                        AVANTEL LD SA ESP
+ 7-067-2       14874               TELINTEL BOGOTA - BOGOTA              GRUPO TELINTEL SA EMPRESA DE SERVICIOS PUBLICOS
+ 7-067-3       14875               BOGOENTST03 - BOGOTA                  COLOMBIA TELECOMUNICACIONES S.A. ESP
+ 7-067-4       14876               TyS-001- BOGOTA                       TECHNOLOGY SA ESP
+ 7-067-5       14877               EIR AVANTEL- BOGOTA                   AVANTEL S.A.S
+ 7-067-6       14878               MEDEPABST02- MEDELLIN                 COLOMBIA TELECOMUNICACIONES S.A. ESP
+ 7-067-7       14879               HLR02AVA- BOGOTA                      AVANTEL S.A.S
+ 7-216-0       16064               CESG- BOGOTA                          EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. ESP.
+ 7-216-1       16065               COSG- BOGOTA                          EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. ESP.
+ 7-216-2       16066               LLEIDA_CO- BOGOTA                     LLEIDA S.A.S.
+ 7-216-3       16067               STP01VEN- BOGOTA                      COMUNICACION CELULAR S.A.
+ 7-216-4       16068               STP01BUC- BUCARAMANGA                 COMUNICACION CELULAR S.A.
+ 7-216-5       16069               STP02AVA- BOGOTA                      AVANTEL S.A.S
+ 7-216-6       16070               STP02AVAINT02 - BOGOTA                AVANTEL S.A.S
+ United States SUP
+ 3-043-6       6494                Boston, MA                            Elephant Talk Inc
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                National Numbering Plan
+                 (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.XII.2019, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                         Country/ Geographical area                     Country Code (CC)
+               Gambia                                                         +220
+               Morocco                                                        +212
+
+
+
+

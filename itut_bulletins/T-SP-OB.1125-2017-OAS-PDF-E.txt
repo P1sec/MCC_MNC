@@ -1,0 +1,3650 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1125             1.VI.2017                   (Information received by 16 May 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Identification codes for International Mobile Networks .......................................................                                     5
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                             5
+     Israel (Ministry of Communications, Jerusalem) ......................................................................................                         6
+     Kuwait (Ministry of Communications, Safat) ............................................................................................                       7
+Other communication: Serbia ........................................................................................................................               7
+Service Restrictions ........................................................................................................................................      8
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                    8
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                         9
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               10
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         10
+List of ITU Carrier Codes .................................................................................................................................       11
+List of International Signalling Point Codes (ISPC) .........................................................................................                     13
+National Numbering Plan ...............................................................................................................................           14
+Annexes
+
+List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+(Position on 1 June 2017)
+
+List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+(Position on 1 June 2017)
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1126             15.VI.2017             1.VI.2017
+               1127             1.VII.2017             16.VI.2017
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+A.     By AAP-12, it was announced that the following ITU-T Recommendations were approved, in accordance
+with the procedures outlined in Recommendation ITU-T A.8:
+
+–     ITU-T H.846 (04/2017): Conformance of ITU-T H.810 personal health devices: PAN/LAN/TAN interface
+      Part 6: Device specializations: Manager
+
+–     ITU-T H.849 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface Part 9: Transcoding for Bluetooth Low Energy: Personal Health Devices
+
+–     ITU-T H.850 (04/2017): Conformance of ITU-T H.810 personal health system: Personal Health Devices
+      interface Part 10: Transcoding for Bluetooth Low Energy: Personal Health Gateway
+
+–     ITU-T X.680 (2015) Cor. 1 (05/2017)
+
+–     ITU-T X.696 (2015) Cor. 1 (05/2017)
+
+–     ITU-T X.1145 (05/2017): Security framework and requirements for open capabilities of
+      telecommunication services
+
+–     ITU-T Y.4115 (04/2017): Reference architecture for IoT device capabilities exposure
+
+B.    By TSB Circular 23 of 1 May 2017, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+
+–     ITU-T X.1058 (03/2017): Information technology - Security techniques - Code of practice for Personally
+      Identifiable Information protection
+
+–     ITU-T X.1080.0 (03/2017): Access control for telebiometrics data protection
+
+–     ITU-T X.1126 (03/2017): Guidelines on mitigating the negative effects of infected terminals in mobile
+      networks
+
+–     ITU-T X.1212 (03/2017): Design considerations for improved end-user perception of trustworthiness
+      indicators
+
+–     ITU-T X.1362 (03/2017): Simple encryption procedure for Internet of things (IoT) environments
+
+–     ITU-T X.1373 (03/2017): Secure software update capability for intelligent transportation system
+      communication devices
+
+–     ITU-T X.1550 (03/2017): - Access control models for incident exchange networks
+
+
+
+
+        International Identification Plan for Public Networks and Subscriptions
+                       (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                                     Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has
+been assigned on 15 May 2017:
+
+                                                                                 Mobile Country Code (MCC)* and Mobile Network
+                                  Network
+                                                                                                 Code (MNC)**
+    European Telecommunications Standards Institute (ETSI)                                               901 56
+
+______________
+*       MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+**      MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                                Telephone Service
+                                           (Recommendation ITU-T E.164)
+                                                    url: www.itu.int/itu-t/inr/nnp
+Denmark (country code +45)
+Communication of 16.V.2017:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     withdrawal – Fixed communication services
+             Provider                                                Numbering series                             Date of withdrawal
+Justfone A/S                     69883fgh                                                                              2.V.2017
+
+
+•     withdrawal – Mobile communication services
+             Provider                            Numbering series                Date of withdrawal
+Justfone A/S                    7192efgh, 9290efgh, 9310efgh, 9320efgh, 9330efgh      2.V.2017
+                                and 9340efgh
+
+
+•      assignment – Fixed communication services
+             Provider                                                Numbering series                             Date of assignment
+Fullrate A/S                      69883fgh                                                                             2.V.2017
+
+
+•      assignment – Mobile communication services
+             Provider                             Numbering series                Date of assignment
+Fullrate A/S                     7192efgh, 9290efgh, 9310efgh, 9320efgh, 9330efgh      2.V.2017
+                                 and 9340efgh
+SimService A/S                   9367efgh, 9368efgh, 9369efgh, 9371efgh, 9372efgh     11.V.2017
+                                 and 9373efgh
+
+
+
+
+Contact:
+      Danish Energy Agency
+      Amaliegade 44
+      1256 COPENHAGEN K
+      Denmark
+      Tel:    +45 33 92 67 00
+      Fax: +45 33 11 47 43
+      E-mail: ens@ens.dk
+      URL: www.ens.dk
+
+
+
+Israel (country code +972)
+Communication of 16.V.2017:
+The Ministry of Communications, Jerusalem, announces the assignment of prefix +972 51 XXXXXXX for
+Marathon 018 Xphone Ltd. for mobile services.
+
+            (1)                   (2)                          (3)                              (4)
+      NDC (national       N(S)N number length
+   destination code) or
+     leading digits of    Maximum     Minimum         Usage of E.164 number           Additional Information
+     N(S)N (national       length      length
+  (significant) number)
+  51 (NDC)                      9         9        Non-geographic number for     Assigned to
+                                                   mobile telephony services     Marathon 018 Xphone Ltd.
+
+Contact:
+      Eti Shmueli
+      Head of Communication Engineering Division
+      Ministry of Communications
+      23 Jaffa Street
+      9199900 JERUSALEM
+      Israel
+      Tel:     +972 3 519 8225/242
+      Fax:     +972 3 519 8244
+      E-mail: etis@moc.gov.il
+
+
+
+
+Kuwait (country code +965)
+Communication of 5.V.2017:
+The Ministry of Communications, Safat, announces the following additional range (6222 XXXX) for the mobile
+operator OOREDOO.
+
+
+            (1)                     (2)                          (3)                              (4)
+      NDC (national         N(S)N number length
+   destination code) or
+     leading digits of      Maximum    Minimum         Usage of E.164 number            Additional Information
+     N(S)N (national         length     length
+  (significant) number)
+  6222                         8           8       Mobile telephony services       OOREDOO
+
+
+Contact:
+      Network Operation Center (NOC)
+      Ministry of Communications
+      P.O. Box 318
+      11111 SAFAT
+      Kuwait
+      Tel:     +965 2241 6565/ +965 2246 6621
+      Fax:     +965 2245 9797
+      E-mail: igw-noc@moc.gov.kw
+
+
+
+
+                                       Other communication
+
+Serbia
+Communication of 27.IV.2017:
+On the occasion of the 180th anniversary of Sokobanja, the Serbian Administration authorizes a number of
+Serbian amateur radio stations to use the special call sign YU180SB from 1 to 30 June 2017.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                        Call – Back
+               and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                          Abbreviations used
+
+                              ADD   Insert                 PAR   paragraph
+                              COL   Column                 REP   replace
+                              LIR   Read                   SUP   Delete
+                              P     page(s)
+
+
+
+
+                           List of Ship Stations and Maritime Mobile
+                                   Service Identity Assignments
+                                              (List V)
+                                          Edition of 2017
+
+                                              Section VI
+REP
+
+
+      VT01       VNPT International (VNPT-I), 97 Nguyen Chi Thanh, Dong Da, Hanoi, Viet Nam.
+                 Tel.: +84 4 3 8410028, Fax: +84 4 3 8357393,
+                 E-Mail: buiquangvinh@vnpt.vn, tranthihanh@vnpt.vn
+                 URL: www.vnpt.com.vn, www.vnpti.vn,
+                 Contact Person: Tran Thi Hanh (Ms.) Bui Quang Vinh (Mr.)
+
+      VT02       Vietnam Maritime Communication and Electronics Single-Member
+                 Limited Liability Company,
+                 (VISHIPEL) 02, Nguyen Thuong Hien, Hong Bang, Haiphong, Vietnam.
+                 Tel.: +84 225 3569330, Fax: +84 225 3842073,
+                 E-Mail: customercare@vishipel.com.vn,
+                 URL: www.vishipel.com.vn,
+                 Contact Person: Mr. Nguyen Viet Hoang
+
+
+
+
+                            List of Issuer Identifier Numbers for
+                    the International Telecommunication Charge Card
+              (in accordance with Recommendation ITU-T E.118 (05/2006))
+                              (Position on 15 November 2015)
+                         (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                          (Amendment No. 21)
+
+Switzerland     ADD
+   Country/       Company Name/Address              Issuer         Contact                              Effective date
+ geographical                                     Identifier                                               of usage
+     area                                          Number
+ Switzerland      Telecom26 AG                    89 883 06        Mr Mike Ashdown                       12.V.2017
+                  Bahnhofstrasse 10                                Bahnhofstrasse 10
+                  6300 ZUG                                         6300 ZUG
+                                                                   Tel: +41 43 500 42 44
+                                                                   E-mail:
+                                                                   mashdown@telecom26.ch
+
+
+
+
+     Mobile Network Codes (MNC) for the international identification plan
+                    for public networks and subscriptions
+            (According to Recommendation ITU-T E.212 (09/2016))
+                      (Position on 1st November 2016)
+                       (Annex to ITU Operational Bulletin No. 1111 - 1.XI.2016)
+                                       (Amendment No.14)
+
+  Country/Geographical area           MCC+MNC *           Operator/Network
+  Gibraltar LIR
+                                           266 01         Gibtel
+  International Mobile, shared
+  code ADD
+                                                          European Telecommunications Standards
+                                           901 56
+                                                          Institute (ETSI)
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                         (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                          (Amendment No. 43)
+
+ Country or area/ISO code                         Company Code      Contact
+  Company Name/Address                             (carrier code)
+
+Germany (Federal Republic of) / DEU         SUP
+
+ Comulus AG                                            COMULU       Mr. Dirk Walla
+ Roesnerstrasse 8                                                   Tel: +49 251 29793 506
+ 48155 Muenster                                                     Fax: +49 251 29793 500
+                                                                    E-mail: dirk.walla@comulus.de
+
+Germany (Federal Republic of) / DEU         ADD
+
+ AEP Plückhahn Netze GmbH                              AEP18B       Mrs Rohde
+ Breite Strasse 18 b                                                Tel: +49 38362 77720
+ 17438 WOLGAST                                                      Fax: +49 38362 77787
+                                                                    E-mail: vertrieb@aepservice.de
+
+ Comulus AG                                             CMLS        Mr Fabian Kroeger
+ Max-Dohm-Strasse 8 - 10                                            Tel: +49 30 921056 444
+ 10589 BERLIN                                                       Fax: +49 30 921056 8444
+                                                                    E-mail: fabian.kroeger@comulus.de
+
+ Dolphin IT-Systeme e.K.                               DOLPH        Mr Olaf Famers
+ Peterstr. 69                                                       Tel: +49 2192 8549 140
+ 42499 HUECKESWAGEN                                                 Fax: +49 2192 8549 29
+                                                                    E-mail: olaf.famers@dolphin-it.de
+
+ FNOH-DSL Südheide GmbH                                 FNOH        Mr Marc Blechschmidt
+ Alte Bahnhofstrasse 28                                             Tel: +49 5147 3089900
+ 31311 UETZE                                                        Fax: +49 5147 3089903
+                                                                    E-mail: support@fnoh.de
+
+ Freikom GmbH                                          FREIKM       Mr Stefan Frech
+ Augsburger Weg 19 a                                                Tel: +49 4841 964990 0
+ 25813 SCHWESING                                                    Fax: +49 4841 964990 49
+                                                                    E-mail: immeronline@freikom.net
+
+ GP-Elektronik                                          GPISP       Mr Klemens Pohl
+ Inh. Klemens Pohl e.K                                              Tel: +49 37423 48972
+ Elsterstrasse 22                                                   Fax: +49 37423 48982
+ 08626 ADORF                                                        E-mail: info@gpelektronik.de
+
+ Hofnetz und IT Services GmbH                          HOFNET       Tel: +49 30 440123 166
+ Geneststrasse 5                                                    Fax: +49 30 440123 299
+ 10829 BERLIN                                                       E-mail: portierung@hofnetz.de
+
+
+
+
+ Country or area/ISO code                      Company Code      Contact
+  Company Name/Address                          (carrier code)
+
+ ip-fabric GmbH                                       IPF        Mr Martin Born
+ Oetztaler Strasse 1                                             Tel: +49 89 21231900
+ 81373 MUNICH                                                    Fax: +49 89 21231901
+                                                                 E-mail: portierung@ip-fabric.net
+
+ Martens Deutsche Telekabel GmbH                     MART        Mr Andreas Gaertig
+ Papenreye 31                                                    Tel: +49 341 60952 445
+ 22453 HAMBURG                                                   Fax: +49 341 60952 903
+                                                                 E-mail: andreas.gaertig@telecolumbus.de
+
+ MDDSL Mitteldeutsche Gesellschaft für              MDDSL        Tel: +49 391 6366708
+ Kommunikation mbH                                               Fax: +49 391 5334499
+ Carnotstrasse 33                                                E-mail: info@mddsl.eu
+ 39120 MAGDEBURG
+
+ MK Netzdienste GmbH & Co.KG                         MKN         Mr Tobias Helbig
+ Marienwall 27                                                   Tel: +49 571 38859 39
+ 32423 MINDEN                                                    Fax: +49 571 38859 99
+                                                                 E-mail: the@mk.de
+
+ PrimaCom Berlin GmbH                               PRIMA        Mr Andreas Gaertig
+ Messeallee 2                                                    Tel: +49 341 60952 445
+ 04356 LEIPZIG                                                   Fax: +49 341 60952 903
+                                                                 E-mail: andreas.gaertig@telecolumbus.de
+
+
+
+ Stefan Englhardt                                   GENIAS       Mr Thomas Giechau
+ Genias Internet                                                 Tel: +49 941 942798 0
+ Dr.-Gessler-Strasse 20                                          Fax: +49 941 942798 9
+ 93051 REGENSBURG                                                E-mail: info@genias.net
+
+ TeamFON GmbH                                        TFON        Mr Thomas Weiss
+ Stahlgruberring 11                                              Tel: +49 89 42700525
+ 81820 MUNICH                                                    Fax: +49 89 42700555
+                                                                 E-mail: twe@teamfon.com
+
+ ZEAG Energie AG                                     ZEAG        Tel: +49 7131 610 1300
+ Weipertstrasse 41                                               Fax: +49 7131 610 1350
+ 74076 HEILBRONN                                                 E-mail: horst.markl@zeag-energie.de
+
+
+Germany (Federal Republic of) / DEU      LIR
+
+ CNS Network GmbH                                   CNSNET       Mr Frank Roeske
+ Alte Ziegelei 4                                                 Tel: +49 355 486970
+ 03099 KOLKWITZ                                                  Fax: +49 355 533395
+                                                                 E-mail: telefonie@cns-network.de
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 15)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Sweden ADD
+ 7-207-2       15994        viahubSTP1                                 SMS Provider Corp.
+
+ Switzerland SUP
+ 2-062-0       4592         Genève                                     Télésonique SA
+ 2-062-1       4593         Zürich                                     Télésonique SA
+ 2-063-2       4602         Zürich                                     Datatrade Managed AG
+ 7-228-0       16160        Altendorf                                  Datatrade Managed AG
+ 7-228-1       16161        Altendorf                                  Datatrade Managed AG
+ 7-228-5       16165        Zürich                                     Datatrade Managed AG
+ 7-228-6       16166        Equinix                                    Datatrade Managed AG
+
+ Switzerland ADD
+ 2-062-0       4592         Zürich 2                                   MITTO AG
+ 2-062-1       4593         Zug 2                                      MITTO AG
+ 7-247-4       16316        Zürich 2                                   Horisen AG
+
+ Switzerland LIR
+ 2-054-4       4532         Zurich                                     Level 3 Communications Switzerland
+ 2-054-7       4535         Zürich_1                                   UPC Schweiz GmbH
+ 2-061-3       4587         Zürich_2                                   UPC Schweiz GmbH
+ 2-062-7       4599         Zurich_3                                   UPC Schweiz GmbH
+ 7-247-6       16318        Zürich_4                                   UPC Schweiz GmbH
+ 7-247-7       16319        Zürich_5                                   UPC Schweiz GmbH
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                        Web:www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that
+the information, which will be made available freely to all administrations/ROAs and service providers, can be
+posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.V.2017 the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                             Country/Geographical area                  Country Code (CC)
+                                                                             +383
+                    Kosovo
+                    Kuwait                                                    +965
+                    Poland                                                    +48
+
+
+
+
+
+ This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion
+on the Kosovo declaration of independence.
+
+                        Annex to ITU Operational Bulletin
+
+
+
+
+          INTERNATIONAL TELECOMMUNICATION UNION
+
+
+
+
+    ITU-T
+    TELECOMMUNICATION
+    STANDARDIZATION SECTOR
+    OF ITU
+
+
+    COMPLEMENT TO RECOMMENDATION ITU-T Q.708 (03/99)
+
+    ___________________________________________________________________
+
+
+
+
+    LIST OF SIGNALLING AREA/NETWORK
+    CODES (SANC)
+    (POSITION ON 1 JUNE 2017)
+
+
+
+
+    ___________________________________________________________________
+
+
+
+
+Geneva, 2017
+             List of Signalling Area/Network Codes (SANC)
+
+
+Note by TSB
+
+
+1.    This List of Signalling Area/Network Codes (SANC) replaces the previous one published as
+Annex to the ITU Operational Bulletin No. 1066 of 15.XII.2014. Since then, various new assignments
+have been made and they have been published separately in various issues of the ITU Operational
+Bulletin. The present List contains all the amendments that have been published up to Operational
+Bulletin No. 1125 of 1.VI.2017.
+
+2.   The present List includes:
+          - a list of SANC codes in numerical order
+          - a list of SANC codes in alphabetical order of names of countries/geographical areas.
+
+3.    Recommendation ITU-T Q.708 (03/99) states that the assignment of signalling area/network
+codes (SANC) is to be administered by the TSB. The assignment/withdrawal of international
+signalling point codes (ISPC) will be made by each country who will then notify the TSB.
+
+4.   A request for a SANC is to be made by the Administration in writing to the Director of the
+TSB. In order to request an additional SANC an Administration must provide the Director of the
+TSB notification of the current assignment of ISPCs by that Administration.
+
+5.    For information, this List will be updated by numbered series of amendments published in the
+ITU Operational Bulletin. Furthermore, the information contained in this Annex is also available on
+the ITU website www.itu.int/ITU-T/bulletin/annex.html .
+
+6.    Countries who wish to take part in the international signalling network or require an additional
+signalling area/network code (SANC) should ask the Director of the TSB for the assignment of an
+available SANC code. In their request they may indicate the available SANC code preferred. Please
+address any comments to the Director of the TSB:
+
+            International Telecommunication Union
+            Director of the TSB
+            Place des Nations
+            CH-1211 GENEVA 20
+            Switzerland
+            Tel:         +41 22 730 5887
+            Fax:         +41 22 730 5853
+            E-mail:      tsbmail@itu.int
+
+7.   The designations employed and the presentation of material in this List do not imply the
+expression of any opinion whatsoever on the part of the ITU concerning the legal status of any
+country or geographical area, or of its authorities.
+
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                  (Complement to Recommendation ITU-T Q.708 (03/99))
+                                (Position on 1 June 2017)
+
+                                 (Annex to ITU Operational Bulletin No. 1125 - 1.VI.2017)
+
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 2-000    Liechtenstein (Principality of)
+ 2-001    Italy
+ 2-002    Netherlands (Kingdom of the)
+ 2-003    Italy
+ 2-004    Greece
+ 2-005    Greece
+ 2-006    Netherlands (Kingdom of the)
+ 2-007    Netherlands (Kingdom of the)
+ 2-008    Netherlands (Kingdom of the)
+ 2-009    Netherlands (Kingdom of the)
+ 2-010    Netherlands (Kingdom of the)
+ 2-011    Netherlands (Kingdom of the)
+ 2-012    Belgium
+ 2-013    Belgium
+ 2-014    Belgium
+ 2-015    Belgium
+ 2-016    France
+ 2-017    France
+ 2-018    France
+ 2-019    France
+ 2-020    France
+ 2-021    France
+ 2-022    France
+ 2-023    France
+ 2-024    Monaco (Principality of)
+ 2-025    Austria
+ 2-026    Austria
+ 2-027    Spain
+ 2-028    Spain
+ 2-029    Spain
+ 2-030    Spain
+ 2-031    Spain
+ 2-032    Hungary
+ 2-033    Germany (Federal Republic of)
+ 2-034    Germany (Federal Republic of)
+ 2-035    Germany (Federal Republic of)
+ 2-036    Germany (Federal Republic of)
+ 2-037    Germany (Federal Republic of)
+ 2-038    Germany (Federal Republic of)
+ 2-039    Germany (Federal Republic of)
+ 2-040    Serbia (Republic of)
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 2-041    Italy
+ 2-042    Italy
+ 2-043    Italy
+ 2-044    Italy
+ 2-045    Italy
+ 2-046    Italy
+ 2-047    Italy
+ 2-048    Italy
+ 2-049    Italy
+ 2-050    Italy
+ 2-051    Italy
+ 2-052    Romania
+ 2-053    Switzerland (Confederation of)
+ 2-054    Switzerland (Confederation of)
+ 2-055    Switzerland (Confederation of)
+ 2-056    Switzerland (Confederation of)
+ 2-057    Switzerland (Confederation of)
+ 2-058    Switzerland (Confederation of)
+ 2-059    Switzerland (Confederation of)
+ 2-060    Czech Republic
+ 2-061    Switzerland (Confederation of)
+ 2-062    Switzerland (Confederation of)
+ 2-063    Switzerland (Confederation of)
+ 2-064    Austria
+ 2-065    Austria
+ 2-066    Austria
+ 2-067    Austria
+ 2-068    United Kingdom of Great Britain and Northern Ireland
+ 2-069    United Kingdom of Great Britain and Northern Ireland
+ 2-070    United Kingdom of Great Britain and Northern Ireland
+ 2-071    United Kingdom of Great Britain and Northern Ireland
+ 2-072    United Kingdom of Great Britain and Northern Ireland
+ 2-073    United Kingdom of Great Britain and Northern Ireland
+ 2-074    United Kingdom of Great Britain and Northern Ireland
+ 2-075    United Kingdom of Great Britain and Northern Ireland
+ 2-076    Denmark
+ 2-077    Denmark
+ 2-078    Denmark
+ 2-079    Denmark
+ 2-080    Sweden
+ 2-081    Sweden
+ 2-082    Sweden
+ 2-083    Sweden
+ 2-084    Norway
+ 2-085    Norway
+ 2-086    Norway
+ 2-087    Norway
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 2-088    Finland
+ 2-089    Finland
+ 2-090    Finland
+ 2-091    Finland
+ 2-092    Estonia (Republic of)
+ 2-093    Italy
+ 2-094    Italy
+ 2-095    Italy
+ 2-096    Latvia (Republic of)
+ 2-097    Belgium
+ 2-098    Belgium
+ 2-099    Belgium
+ 2-100    Russian Federation
+ 2-101    Russian Federation
+ 2-102    Russian Federation
+ 2-103    Russian Federation
+ 2-104    Russian Federation
+ 2-105    Russian Federation
+ 2-106    Russian Federation
+ 2-107    Russian Federation
+ 2-108    Russian Federation
+ 2-109    Russian Federation
+ 2-110    Russian Federation
+ 2-111    Russian Federation
+ 2-112    Russian Federation
+ 2-113    Russian Federation
+ 2-114    Russian Federation
+ 2-115    Russian Federation
+ 2-116    Russian Federation
+ 2-117    Russian Federation
+ 2-118    Russian Federation
+ 2-119    Russian Federation
+ 2-120    Poland (Republic of)
+ 2-121    Germany (Federal Republic of)
+ 2-122    Germany (Federal Republic of)
+ 2-123    Germany (Federal Republic of)
+ 2-124    Germany (Federal Republic of)
+ 2-125    Germany (Federal Republic of)
+ 2-126    Germany (Federal Republic of)
+ 2-127    Germany (Federal Republic of)
+ 2-128    Germany (Federal Republic of)
+ 2-129    Germany (Federal Republic of)
+ 2-130    Germany (Federal Republic of)
+ 2-131    Germany (Federal Republic of)
+ 2-132    Gibraltar
+ 2-133    Austria
+ 2-134    Poland (Republic of)
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 2-135    Luxembourg
+ 2-136    Portugal
+ 2-137    Portugal
+ 2-138    Portugal
+ 2-139    Portugal
+ 2-140    Luxembourg
+ 2-141    Luxembourg
+ 2-142    Netherlands (Kingdom of the)
+ 2-143    Netherlands (Kingdom of the)
+ 2-144    Ireland
+ 2-145    Ireland
+ 2-146    Ireland
+ 2-147    United Kingdom of Great Britain and Northern Ireland
+ 2-148    Iceland
+ 2-149    France
+ 2-150    France
+ 2-151    France
+ 2-152    Albania (Republic of)
+ 2-153    United Kingdom of Great Britain and Northern Ireland
+ 2-154    United Kingdom of Great Britain and Northern Ireland
+ 2-155    United Kingdom of Great Britain and Northern Ireland
+ 2-156    Malta
+ 2-157    Italy
+ 2-158    Italy
+ 2-159    Italy
+ 2-160    Cyprus (Republic of)
+ 2-161    United Kingdom of Great Britain and Northern Ireland
+ 2-162    United Kingdom of Great Britain and Northern Ireland
+ 2-163    United Kingdom of Great Britain and Northern Ireland
+ 2-164    United Kingdom of Great Britain and Northern Ireland
+ 2-165    United Kingdom of Great Britain and Northern Ireland
+ 2-166    United Kingdom of Great Britain and Northern Ireland
+ 2-167    United Kingdom of Great Britain and Northern Ireland
+ 2-168    Bulgaria (Republic of)
+ 2-169    United Kingdom of Great Britain and Northern Ireland
+ 2-170    United Kingdom of Great Britain and Northern Ireland
+ 2-171    Turkey
+ 2-172    Turkey
+ 2-173    Turkey
+ 2-174    United Kingdom of Great Britain and Northern Ireland
+ 2-175    United Kingdom of Great Britain and Northern Ireland
+ 2-176    United Kingdom of Great Britain and Northern Ireland
+ 2-177    United Kingdom of Great Britain and Northern Ireland
+ 2-178    United Kingdom of Great Britain and Northern Ireland
+ 2-179    United Kingdom of Great Britain and Northern Ireland
+ 2-180    Croatia (Republic of)
+ 2-181    Italy
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 2-182    Slovenia (Republic of)
+ 2-183    Italy
+ 2-184    San Marino (Republic of)
+ 2-185    United Kingdom of Great Britain and Northern Ireland
+ 2-186    United Kingdom of Great Britain and Northern Ireland
+ 2-187    United Kingdom of Great Britain and Northern Ireland
+ 2-188    United Kingdom of Great Britain and Northern Ireland
+ 2-189    United Kingdom of Great Britain and Northern Ireland
+ 2-190    United Kingdom of Great Britain and Northern Ireland
+ 2-191    United Kingdom of Great Britain and Northern Ireland
+ 2-192    Sweden
+ 2-193    Sweden
+ 2-194    Sweden
+ 2-195    Sweden
+ 2-196    Andorra (Principality of)
+ 2-197    Andorra (Principality of)
+ 2-198    Netherlands (Kingdom of the)
+ 2-199    Estonia (Republic of)
+ 2-200    Armenia (Republic of)
+ 2-201    France
+ 2-202    France
+ 2-203    France
+ 2-204    Belarus (Republic of)
+ 2-205    Sweden
+ 2-206    Greece
+ 2-207    Italy
+ 2-208    Georgia
+ 2-209    United Kingdom of Great Britain and Northern Ireland
+ 2-210    United Kingdom of Great Britain and Northern Ireland
+ 2-211    United Kingdom of Great Britain and Northern Ireland
+ 2-212    Hungary
+ 2-213    Georgia
+ 2-214    Ukraine
+ 2-215    Italy
+ 2-216    Italy
+ 2-217    Denmark
+ 2-218    Bosnia and Herzegovina
+ 2-219    Bosnia and Herzegovina
+ 2-220    The Former Yugoslav Republic of Macedonia
+ 2-221    France
+ 2-222    Germany (Federal Republic of)
+ 2-223    Portugal
+ 2-224    Moldova (Republic of)
+ 2-225    Germany (Federal Republic of)
+ 2-226    Germany (Federal Republic of)
+ 2-227    Romania
+ 2-228    Czech Republic
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 2-229    Czech Republic
+ 2-230    Czech Republic
+ 2-231    Czech Republic
+ 2-232    Slovak Republic
+ 2-233    Slovak Republic
+ 2-234    Slovak Republic
+ 2-235    Slovak Republic
+ 2-236    Lithuania (Republic of)
+ 2-237    Spain
+ 2-238    Spain
+ 2-239    Spain
+ 2-240    Spain
+ 2-241    Spain
+ 2-242    Germany (Federal Republic of)
+ 2-243    Germany (Federal Republic of)
+ 2-244    Germany (Federal Republic of)
+ 2-245    Germany (Federal Republic of)
+ 2-246    Germany (Federal Republic of)
+ 2-247    Germany (Federal Republic of)
+ 2-248    Germany (Federal Republic of)
+ 2-249    Germany (Federal Republic of)
+ 2-250    Germany (Federal Republic of)
+ 2-251    Germany (Federal Republic of)
+ 2-252    Germany (Federal Republic of)
+ 2-253    Netherlands (Kingdom of the)
+ 2-254    Finland
+ 2-255    Finland
+ 3-004    Canada
+ 3-005    Canada
+ 3-006    Canada
+ 3-007    Canada
+ 3-008    Canada
+ 3-009    Canada
+ 3-010    Canada
+ 3-011    Canada
+ 3-012    Canada
+ 3-013    Canada
+ 3-016    Saint Pierre and Miquelon (Collectivité territoriale de la République française)
+ 3-017    Moldova (Republic of)
+ 3-018    Greenland (Denmark)
+ 3-020    United States of America
+ 3-021    United States of America
+ 3-022    United States of America
+ 3-023    United States of America
+ 3-024    United States of America
+ 3-025    United States of America
+ 3-026    United States of America
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 3-027    United States of America
+ 3-028    United States of America
+ 3-029    United States of America
+ 3-030    United States of America
+ 3-031    United States of America
+ 3-032    United States of America
+ 3-033    United States of America
+ 3-034    United States of America
+ 3-035    United States of America
+ 3-036    United States of America
+ 3-037    United States of America
+ 3-038    United States of America
+ 3-039    United States of America
+ 3-040    United States of America
+ 3-041    United States of America
+ 3-042    United States of America
+ 3-043    United States of America
+ 3-044    United States of America
+ 3-045    United States of America
+ 3-046    United States of America
+ 3-047    United States of America
+ 3-048    United States of America
+ 3-049    United States of America
+ 3-050    United States of America
+ 3-051    United States of America
+ 3-052    United States of America
+ 3-053    United States of America
+ 3-054    United States of America
+ 3-055    United States of America
+ 3-056    United States of America
+ 3-057    United States of America
+ 3-058    United States of America
+ 3-059    United States of America
+ 3-060    Puerto Rico
+ 3-064    United States Virgin Islands
+ 3-068    Mexico
+ 3-069    Mexico
+ 3-070    Mexico
+ 3-071    Mexico
+ 3-072    Mexico
+ 3-073    Mexico
+ 3-074    Mexico
+ 3-075    Mexico
+ 3-076    Jamaica
+ 3-077    Jamaica
+ 3-078    Jamaica
+ 3-079    Jamaica
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 3-084    Barbados
+ 3-085    Barbados
+ 3-086    Barbados
+ 3-088    Antigua and Barbuda
+ 3-089    Antigua and Barbuda
+ 3-092    Cayman Islands
+ 3-093    Cayman Islands
+ 3-096    British Virgin Islands
+ 3-097    British Virgin Islands
+ 3-100    Bermuda
+ 3-104    Grenada
+ 3-108    Montserrat
+ 3-112    Saint Kitts and Nevis
+ 3-116    Saint Lucia
+ 3-120    Saint Vincent and the Grenadines
+ 3-124    Curaçao
+ 3-125    Curaçao
+ 3-126    Curaçao
+ 3-128    Bahamas (Commonwealth of the)
+ 3-132    Dominica (Commonwealth of)
+ 3-136    Cuba
+ 3-137    Cuba
+ 3-140    Dominican Republic
+ 3-141    Dominican Republic
+ 3-142    Dominican Republic
+ 3-144    Haiti (Republic of)
+ 3-148    Trinidad and Tobago
+ 3-149    Trinidad and Tobago
+ 3-150    Trinidad and Tobago
+ 3-152    Turks and Caicos Islands
+ 3-153    Turks and Caicos Islands
+ 3-154    Turks and Caicos Islands
+ 3-156    Guadeloupe (French Department of)
+ 3-160    Martinique (French Department of)
+ 3-164    Aruba
+ 3-165    Faroe Islands
+ 3-168    Anguilla
+ 3-169    Anguilla
+ 3-172    Mexico
+ 3-173    Mexico
+ 3-174    Mexico
+ 3-175    Mexico
+ 3-176    Mexico
+ 3-177    Mexico
+ 3-178    Mexico
+ 3-179    Faroe Islands
+ 3-180    United States of America
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 3-181    United States of America
+ 3-182    United States of America
+ 3-183    United States of America
+ 3-184    United States of America
+ 3-185    United States of America
+ 3-186    United States of America
+ 3-187    United States of America
+ 3-188    United States of America
+ 3-189    United States of America
+ 3-190    United States of America
+ 3-191    United States of America
+ 3-192    United States of America
+ 3-193    United States of America
+ 3-194    United States of America
+ 3-195    United States of America
+ 3-196    United States of America
+ 3-197    United States of America
+ 3-198    United States of America
+ 3-199    United States of America
+ 3-200    United States of America
+ 3-201    United States of America
+ 3-202    United States of America
+ 3-203    United States of America
+ 3-204    United States of America
+ 3-210    Saint Helena, Ascension and Tristan da Cunha
+ 3-215    Mexico
+ 3-216    Mexico
+ 3-227    Latvia (Republic of)
+ 3-228    Albania (Republic of)
+ 3-229    Sweden
+ 3-230    United Kingdom of Great Britain and Northern Ireland
+ 3-231    Bulgaria (Republic of)
+ 3-232    France
+ 3-233    Albania (Republic of)
+ 3-234    Latvia (Republic of)
+ 3-235    United Kingdom of Great Britain and Northern Ireland
+ 3-236    United Kingdom of Great Britain and Northern Ireland
+ 3-237    United Kingdom of Great Britain and Northern Ireland
+ 3-238    Romania
+ 3-239    Bosnia and Herzegovina
+ 3-240    Cambodia (Kingdom of)
+ 3-241    Montenegro
+ 3-242    Spain
+ 3-243    Germany (Federal Republic of)
+ 3-244    Estonia (Republic of)
+ 3-245    Croatia (Republic of)
+ 3-246    Georgia
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 3-247    Turkey
+ 3-248    Cyprus (Republic of)
+ 3-249    Portugal
+ 3-250    Romania
+ 3-251    Poland (Republic of)
+ 3-252    Germany (Federal Republic of)
+ 3-253    Poland (Republic of)
+ 3-254    Germany (Federal Republic of)
+ 3-255    Germany (Federal Republic of)
+ 4-003    Israel (State of)
+ 4-004    Israel (State of)
+ 4-005    India (Republic of)
+ 4-006    India (Republic of)
+ 4-007    India (Republic of)
+ 4-008    India (Republic of)
+ 4-009    India (Republic of)
+ 4-010    India (Republic of)
+ 4-011    India (Republic of)
+ 4-012    India (Republic of)
+ 4-013    India (Republic of)
+ 4-014    India (Republic of)
+ 4-015    India (Republic of)
+ 4-016    India (Republic of)
+ 4-017    India (Republic of)
+ 4-018    India (Republic of)
+ 4-019    Pakistan (Islamic Republic of)
+ 4-020    Pakistan (Islamic Republic of)
+ 4-021    Pakistan (Islamic Republic of)
+ 4-022    Pakistan (Islamic Republic of)
+ 4-023    Pakistan (Islamic Republic of)
+ 4-024    Afghanistan
+ 4-025    Afghanistan
+ 4-026    Sri Lanka (Democratic Socialist Republic of)
+ 4-027    Sri Lanka (Democratic Socialist Republic of)
+ 4-028    Myanmar (Republic of the Union of)
+ 4-029    Bangladesh (People's Republic of)
+ 4-030    Lebanon
+ 4-031    Jordan (Hashemite Kingdom of)
+ 4-032    Jordan (Hashemite Kingdom of)
+ 4-033    Jordan (Hashemite Kingdom of)
+ 4-034    Syrian Arab Republic
+ 4-036    Iraq (Republic of)
+ 4-038    Kuwait (State of)
+ 4-039    Saudi Arabia (Kingdom of)
+ 4-040    Saudi Arabia (Kingdom of)
+ 4-041    Saudi Arabia (Kingdom of)
+ 4-042    Yemen (Republic of)
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 4-043    Saudi Arabia (Kingdom of)
+ 4-044    Oman (Sultanate of)
+ 4-045    Oman (Sultanate of)
+ 4-046    Yemen (Republic of)
+ 4-048    United Arab Emirates
+ 4-049    United Arab Emirates
+ 4-050    Israel (State of)
+ 4-051    Israel (State of)
+ 4-052    Bahrain (Kingdom of)
+ 4-053    Bahrain (Kingdom of)
+ 4-054    Qatar (State of)
+ 4-055    Qatar (State of)
+ 4-056    Mongolia
+ 4-057    Nepal (Federal Democratic Republic of)
+ 4-058    Nepal (Federal Democratic Republic of)
+ 4-059    Nepal (Federal Democratic Republic of)
+ 4-060    United Arab Emirates
+ 4-061    United Arab Emirates
+ 4-062    United Arab Emirates
+ 4-064    Iran (Islamic Republic of)
+ 4-065    Iran (Islamic Republic of)
+ 4-070    Azerbaijan (Republic of)
+ 4-071    Azerbaijan (Republic of)
+ 4-072    Bhutan (Kingdom of)
+ 4-074    Kazakhstan (Republic of)
+ 4-075    Kazakhstan (Republic of)
+ 4-076    Kazakhstan (Republic of)
+ 4-077    Kazakhstan (Republic of)
+ 4-078    Kyrgyz Republic
+ 4-079    Kyrgyz Republic
+ 4-080    Japan
+ 4-081    Japan
+ 4-082    Japan
+ 4-083    Japan
+ 4-084    Japan
+ 4-085    Japan
+ 4-086    Japan
+ 4-087    Japan
+ 4-088    Bahrain (Kingdom of)
+ 4-089    Bahrain (Kingdom of)
+ 4-090    Japan
+ 4-100    Korea (Republic of)
+ 4-101    Korea (Republic of)
+ 4-102    Korea (Republic of)
+ 4-103    Viet Nam (Socialist Republic of)
+ 4-104    Viet Nam (Socialist Republic of)
+ 4-105    Hong Kong, China
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 4-106    Hong Kong, China
+ 4-107    Hong Kong, China
+ 4-108    Hong Kong, China
+ 4-109    Hong Kong, China
+ 4-110    Macao, China
+ 4-111    Hong Kong, China
+ 4-112    Cambodia (Kingdom of)
+ 4-113    Cambodia (Kingdom of)
+ 4-114    Lao People's Democratic Republic
+ 4-119    Macao, China
+ 4-120    China (People's Republic of)
+ 4-121    China (People's Republic of)
+ 4-122    China (People's Republic of)
+ 4-123    China (People's Republic of)
+ 4-124    China (People's Republic of)
+ 4-125    China (People's Republic of)
+ 4-126    China (People's Republic of)
+ 4-127    China (People's Republic of)
+ 4-128    China (People's Republic of)
+ 4-129    China (People's Republic of)
+ 4-130    China (People's Republic of)
+ 4-135    Democratic People's Republic of Korea
+ 4-136    Afghanistan
+ 4-137    Afghanistan
+ 4-138    Afghanistan
+ 4-139    Bangladesh (People's Republic of)
+ 4-140    Bangladesh (People's Republic of)
+ 4-141    Bangladesh (People's Republic of)
+ 4-142    Bangladesh (People's Republic of)
+ 4-143    Bangladesh (People's Republic of)
+ 4-144    Maldives (Republic of)
+ 4-145    Korea (Republic of)
+ 4-147    Korea (Republic of)
+ 4-148    Korea (Republic of)
+ 4-149    Korea (Republic of)
+ 4-150    Korea (Republic of)
+ 4-151    Korea (Republic of)
+ 4-152    Korea (Republic of)
+ 4-153    Korea (Republic of)
+ 4-154    Korea (Republic of)
+ 4-157    Tajikistan (Republic of)
+ 4-158    Tajikistan (Republic of)
+ 4-159    Tajikistan (Republic of)
+ 4-160    Turkmenistan
+ 4-164    Uzbekistan (Republic of)
+ 4-165    Uzbekistan (Republic of)
+ 4-167    Kyrgyz Republic
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 4-170    Taiwan, China
+ 4-171    Taiwan, China
+ 4-172    Taiwan, China
+ 4-173    Taiwan, China
+ 4-174    Taiwan, China
+ 4-175    Reserved
+ 4-176    Hong Kong, China
+ 4-177    Hong Kong, China
+ 4-178    Hong Kong, China
+ 4-179    Hong Kong, China
+ 4-180    Hong Kong, China
+ 4-181    Hong Kong, China
+ 4-182    Hong Kong, China
+ 4-183    Hong Kong, China
+ 4-184    Hong Kong, China
+ 4-185    Hong Kong, China
+ 4-190    Sri Lanka (Democratic Socialist Republic of)
+ 4-191    Sri Lanka (Democratic Socialist Republic of)
+ 4-195    Jordan (Hashemite Kingdom of)
+ 4-196    Jordan (Hashemite Kingdom of)
+ 4-200    Kuwait (State of)
+ 4-205    Viet Nam (Socialist Republic of)
+ 4-206    Viet Nam (Socialist Republic of)
+ 4-211    Maldives (Republic of)
+ 4-217    Nepal (Federal Democratic Republic of)
+ 4-224    India (Republic of)
+ 4-225    Myanmar (Republic of the Union of)
+ 4-226    Myanmar (Republic of the Union of)
+ 4-227    Albania (Republic of)
+ 4-228    France
+ 4-229    United Kingdom of Great Britain and Northern Ireland
+ 4-230    Netherlands (Kingdom of the)
+ 4-231    Finland
+ 4-232    Slovenia (Republic of)
+ 4-233    Armenia (Republic of)
+ 4-234    Greece
+ 4-235    Spain
+ 4-236    Lithuania (Republic of)
+ 4-237    Latvia (Republic of)
+ 4-238    Netherlands (Kingdom of the)
+ 4-239    United Kingdom of Great Britain and Northern Ireland
+ 4-240    United Kingdom of Great Britain and Northern Ireland
+ 4-241    Ireland
+ 4-242    Ukraine
+ 4-243    Hungary
+ 4-244    Germany (Federal Republic of)
+ 4-245    Greece
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 4-246    Germany (Federal Republic of)
+ 4-247    United Kingdom of Great Britain and Northern Ireland
+ 4-248    Serbia (Republic of)
+ 4-249    Croatia (Republic of)
+ 4-250    Poland (Republic of)
+ 4-251    Slovak Republic
+ 4-252    Romania
+ 4-253    United Kingdom of Great Britain and Northern Ireland
+ 4-254    United Kingdom of Great Britain and Northern Ireland
+ 4-255    United Kingdom of Great Britain and Northern Ireland
+ 5-001    Malaysia
+ 5-002    Malaysia
+ 5-003    Malaysia
+ 5-004    Malaysia
+ 5-005    Malaysia
+ 5-006    Malaysia
+ 5-007    Malaysia
+ 5-008    Malaysia
+ 5-009    Malaysia
+ 5-010    Australia
+ 5-011    Australia
+ 5-012    Australia
+ 5-013    Australia
+ 5-014    Australia
+ 5-015    Australia
+ 5-016    Australia
+ 5-017    Australia
+ 5-018    Australia
+ 5-019    Australia
+ 5-020    Indonesia (Republic of)
+ 5-021    Indonesia (Republic of)
+ 5-022    Indonesia (Republic of)
+ 5-023    Indonesia (Republic of)
+ 5-024    Indonesia (Republic of)
+ 5-025    Indonesia (Republic of)
+ 5-030    Philippines (Republic of the)
+ 5-031    Philippines (Republic of the)
+ 5-032    Philippines (Republic of the)
+ 5-033    Philippines (Republic of the)
+ 5-034    Philippines (Republic of the)
+ 5-035    Philippines (Republic of the)
+ 5-036    Philippines (Republic of the)
+ 5-037    Philippines (Republic of the)
+ 5-038    Philippines (Republic of the)
+ 5-039    Thailand
+ 5-040    Thailand
+ 5-041    Thailand
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 5-042    Thailand
+ 5-043    Thailand
+ 5-044    Thailand
+ 5-045    Singapore (Republic of)
+ 5-046    Singapore (Republic of)
+ 5-047    Singapore (Republic of)
+ 5-048    Singapore (Republic of)
+ 5-049    Singapore (Republic of)
+ 5-050    Singapore (Republic of)
+ 5-051    Singapore (Republic of)
+ 5-052    Singapore (Republic of)
+ 5-053    Singapore (Republic of)
+ 5-054    Singapore (Republic of)
+ 5-055    Singapore (Republic of)
+ 5-056    Brunei Darussalam
+ 5-057    Brunei Darussalam
+ 5-060    New Zealand
+ 5-061    New Zealand
+ 5-062    New Zealand
+ 5-063    New Zealand
+ 5-065    New Zealand
+ 5-067    New Zealand
+ 5-070    Guam
+ 5-072    Nauru (Republic of)
+ 5-074    Papua New Guinea
+ 5-075    Papua New Guinea
+ 5-078    Tonga (Kingdom of)
+ 5-080    Solomon Islands
+ 5-082    Vanuatu (Republic of)
+ 5-084    Fiji (Republic of)
+ 5-085    Fiji (Republic of)
+ 5-086    Wallis and Futuna (Territoire français d'outre-mer)
+ 5-088    American Samoa
+ 5-090    Niue
+ 5-092    New Caledonia (Territoire français d'outre-mer)
+ 5-094    French Polynesia (Territoire français d'outre-mer)
+ 5-096    Cook Islands
+ 5-098    Samoa (Independent State of)
+ 5-100    Kiribati (Republic of)
+ 5-102    Tuvalu
+ 5-105    Marshall Islands (Republic of the)
+ 5-107    Micronesia (Federated States of)
+ 5-110    Palau (Republic of)
+ 5-113    Northern Mariana Islands (Commonwealth of the)
+ 5-115    Australia
+ 5-116    Australia
+ 5-117    Australia
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 5-118    Australia
+ 5-119    Australia
+ 5-120    Australia
+ 5-121    Australia
+ 5-122    Australia
+ 5-130    Timor-Leste (Democratic Republic of)
+ 5-131    Timor-Leste (Democratic Republic of)
+ 5-135    Thailand
+ 5-140    Singapore (Republic of)
+ 5-141    Singapore (Republic of)
+ 5-142    Singapore (Republic of)
+ 5-143    Singapore (Republic of)
+ 5-144    Singapore (Republic of)
+ 5-215    Cyprus (Republic of)
+ 5-216    Ireland
+ 5-217    Bulgaria (Republic of)
+ 5-218    Hungary
+ 5-220    The Former Yugoslav Republic of Macedonia
+ 5-221    The Former Yugoslav Republic of Macedonia
+ 5-225    Italy
+ 5-226    United Kingdom of Great Britain and Northern Ireland
+ 5-227    United Kingdom of Great Britain and Northern Ireland
+ 5-228    Ireland
+ 5-229    Poland (Republic of)
+ 5-230    Estonia (Republic of)
+ 5-231    The Former Yugoslav Republic of Macedonia
+ 5-232    Croatia (Republic of)
+ 5-233    Georgia
+ 5-234    Armenia (Republic of)
+ 5-235    Malta
+ 5-236    Greece
+ 5-237    Cyprus (Republic of)
+ 5-238    Montenegro
+ 5-239    Netherlands (Kingdom of the)
+ 5-240    Germany (Federal Republic of)
+ 5-241    Turkey
+ 5-242    Romania
+ 5-243    United Kingdom of Great Britain and Northern Ireland
+ 5-244    Italy
+ 5-245    Germany (Federal Republic of)
+ 5-246    Switzerland (Confederation of)
+ 5-247    Slovenia (Republic of)
+ 5-248    United Kingdom of Great Britain and Northern Ireland
+ 5-249    Latvia (Republic of)
+ 5-250    Slovenia (Republic of)
+ 5-251    Germany (Federal Republic of)
+ 5-252    Latvia (Republic of)
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 5-253    Poland (Republic of)
+ 5-254    Greece
+ 5-255    Italy
+ 6-003    Egypt (Arab Republic of)
+ 6-004    Egypt (Arab Republic of)
+ 6-005    Egypt (Arab Republic of)
+ 6-006    Algeria (People's Democratic Republic of)
+ 6-007    Algeria (People's Democratic Republic of)
+ 6-008    Morocco (Kingdom of)
+ 6-009    Morocco (Kingdom of)
+ 6-010    Tunisia
+ 6-011    Libya
+ 6-012    Libya
+ 6-013    Libya
+ 6-014    Gambia (Republic of the)
+ 6-015    Gambia (Republic of the)
+ 6-016    Senegal (Republic of)
+ 6-017    Senegal (Republic of)
+ 6-018    Mauritania (Islamic Republic of)
+ 6-019    Mauritania (Islamic Republic of)
+ 6-020    Mali (Republic of)
+ 6-021    Guinea (Republic of)
+ 6-022    Guinea (Republic of)
+ 6-023    Guinea (Republic of)
+ 6-024    Côte d'Ivoire (Republic of)
+ 6-025    Côte d'Ivoire (Republic of)
+ 6-026    Burkina Faso
+ 6-028    Niger (Republic of the)
+ 6-029    Niger (Republic of the)
+ 6-030    Togolese Republic
+ 6-031    Benin (Republic of)
+ 6-032    Benin (Republic of)
+ 6-033    Mauritius (Republic of)
+ 6-034    Mauritius (Republic of)
+ 6-035    Mauritius (Republic of)
+ 6-036    Liberia (Republic of)
+ 6-038    Sierra Leone
+ 6-039    Sierra Leone
+ 6-040    Ghana
+ 6-041    Nigeria (Federal Republic of)
+ 6-042    Nigeria (Federal Republic of)
+ 6-043    Nigeria (Federal Republic of)
+ 6-044    Chad (Republic of)
+ 6-046    Central African Republic
+ 6-047    Central African Republic
+ 6-048    Cameroon (Republic of)
+ 6-049    Cameroon (Republic of)
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 6-050    Cabo Verde (Republic of)
+ 6-051    Cabo Verde (Republic of)
+ 6-052    Sao Tome and Principe (Democratic Republic of)
+ 6-054    Equatorial Guinea (Republic of)
+ 6-055    Gabonese Republic
+ 6-056    Gabonese Republic
+ 6-057    Gabonese Republic
+ 6-058    Congo (Republic of the)
+ 6-059    Democratic Republic of the Congo
+ 6-060    Democratic Republic of the Congo
+ 6-061    Democratic Republic of the Congo
+ 6-062    Angola (Republic of)
+ 6-063    Angola (Republic of)
+ 6-064    Guinea-Bissau (Republic of)
+ 6-066    Seychelles (Republic of)
+ 6-067    Seychelles (Republic of)
+ 6-068    Sudan (Republic of the)
+ 6-069    Sudan (Republic of the)
+ 6-070    Rwanda (Republic of)
+ 6-071    Rwanda (Republic of)
+ 6-072    Ethiopia (Federal Democratic Republic of)
+ 6-073    Rwanda (Republic of)
+ 6-074    Somalia (Federal Republic of)
+ 6-076    Djibouti (Republic of)
+ 6-077    Rwanda (Republic of)
+ 6-078    Kenya (Republic of)
+ 6-079    Kenya (Republic of)
+ 6-080    Tanzania (United Republic of)
+ 6-081    Tanzania (United Republic of)
+ 6-082    Uganda (Republic of)
+ 6-083    Uganda (Republic of)
+ 6-084    Burundi (Republic of)
+ 6-085    Burundi (Republic of)
+ 6-086    Mozambique (Republic of)
+ 6-087    Mozambique (Republic of)
+ 6-088    Congo (Republic of the)
+ 6-089    Congo (Republic of the)
+ 6-090    Zambia (Republic of)
+ 6-092    Madagascar (Republic of)
+ 6-093    Madagascar (Republic of)
+ 6-094    French Departments and Territories in the Indian Ocean
+ 6-095    Zimbabwe (Republic of)
+ 6-096    Zimbabwe (Republic of)
+ 6-097    Zimbabwe (Republic of)
+ 6-098    Namibia (Republic of)
+ 6-099    Namibia (Republic of)
+ 6-100    Malawi
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 6-102    Lesotho (Kingdom of)
+ 6-104    Botswana (Republic of)
+ 6-105    Botswana (Republic of)
+ 6-106    Swaziland (Kingdom of)
+ 6-108    Comoros (Union of the)
+ 6-109    South Africa (Republic of)
+ 6-110    South Africa (Republic of)
+ 6-111    South Africa (Republic of)
+ 6-112    South Africa (Republic of)
+ 6-113    South Africa (Republic of)
+ 6-114    Eritrea
+ 6-116    Saint Helena, Ascension and Tristan da Cunha
+ 6-118    French Departments and Territories in the Indian Ocean
+ 6-120    Diego Garcia
+ 6-123    Tanzania (United Republic of)
+ 6-130    Uganda (Republic of)
+ 6-131    Uganda (Republic of)
+ 6-132    Uganda (Republic of)
+ 6-135    Nigeria (Federal Republic of)
+ 6-140    Angola (Republic of)
+ 6-145    South Africa (Republic of)
+ 6-150    Morocco (Kingdom of)
+ 6-160    Ghana
+ 6-168    Cameroon (Republic of)
+ 6-170    Sudan (Republic of the)
+ 6-173    South Sudan (Republic of)
+ 6-174    South Sudan (Republic of)
+ 6-175    Equatorial Guinea (Republic of)
+ 6-176    Equatorial Guinea (Republic of)
+ 6-177    Cameroon (Republic of)
+ 6-178    Democratic Republic of the Congo
+ 6-179    Democratic Republic of the Congo
+ 6-180    Algeria (People's Democratic Republic of)
+ 6-183    Mali (Republic of)
+ 6-220    The Former Yugoslav Republic of Macedonia
+ 6-221    The Former Yugoslav Republic of Macedonia
+ 6-224    Armenia (Republic of)
+ 6-225    Ireland
+ 6-226    Sweden
+ 6-227    Estonia (Republic of)
+ 6-228    Lithuania (Republic of)
+ 6-229    Sweden
+ 6-230    Sweden
+ 6-231    Cyprus (Republic of)
+ 6-232    Sweden
+ 6-233    France
+ 6-234    Czech Republic
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 6-235    Slovenia (Republic of)
+ 6-236    Poland (Republic of)
+ 6-237    Germany (Federal Republic of)
+ 6-238    Sweden
+ 6-239    Bulgaria (Republic of)
+ 6-240    Monaco (Principality of)
+ 6-241    Ukraine
+ 6-242    United Kingdom of Great Britain and Northern Ireland
+ 6-243    Iceland
+ 6-244    Spain
+ 6-245    Italy
+ 6-246    Ireland
+ 6-247    Bulgaria (Republic of)
+ 6-248    Latvia (Republic of)
+ 6-249    Netherlands (Kingdom of the)
+ 6-250    Bulgaria (Republic of)
+ 6-251    Hungary
+ 6-252    United Kingdom of Great Britain and Northern Ireland
+ 6-253    Slovenia (Republic of)
+ 6-254    United Kingdom of Great Britain and Northern Ireland
+ 6-255    United Kingdom of Great Britain and Northern Ireland
+ 7-004    Belize
+ 7-005    Belize
+ 7-008    Guatemala (Republic of)
+ 7-009    Guatemala (Republic of)
+ 7-010    Guatemala (Republic of)
+ 7-012    El Salvador (Republic of)
+ 7-013    El Salvador (Republic of)
+ 7-014    El Salvador (Republic of)
+ 7-015    El Salvador (Republic of)
+ 7-016    Honduras (Republic of)
+ 7-017    Honduras (Republic of)
+ 7-018    Honduras (Republic of)
+ 7-020    Nicaragua
+ 7-021    Nicaragua
+ 7-023    Costa Rica
+ 7-024    Costa Rica
+ 7-025    Costa Rica
+ 7-026    Panama (Republic of)
+ 7-027    Panama (Republic of)
+ 7-028    Panama (Republic of)
+ 7-029    Panama (Republic of)
+ 7-030    Panama (Republic of)
+ 7-031    Panama (Republic of)
+ 7-032    Peru
+ 7-033    Peru
+ 7-034    Peru
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 7-035    Peru
+ 7-036    Peru
+ 7-037    Peru
+ 7-038    Peru
+ 7-039    Peru
+ 7-040    Argentine Republic
+ 7-041    Argentine Republic
+ 7-042    Argentine Republic
+ 7-043    Argentine Republic
+ 7-044    Argentine Republic
+ 7-045    Argentine Republic
+ 7-046    Argentine Republic
+ 7-047    Argentine Republic
+ 7-048    Brazil (Federative Republic of)
+ 7-049    Brazil (Federative Republic of)
+ 7-050    Brazil (Federative Republic of)
+ 7-051    Brazil (Federative Republic of)
+ 7-052    Brazil (Federative Republic of)
+ 7-053    Brazil (Federative Republic of)
+ 7-054    Brazil (Federative Republic of)
+ 7-055    Brazil (Federative Republic of)
+ 7-056    Brazil (Federative Republic of)
+ 7-057    Brazil (Federative Republic of)
+ 7-059    Chile
+ 7-060    Chile
+ 7-061    Chile
+ 7-062    Chile
+ 7-063    Chile
+ 7-064    Colombia (Republic of)
+ 7-065    Colombia (Republic of)
+ 7-066    Colombia (Republic of)
+ 7-067    Colombia (Republic of)
+ 7-068    Venezuela (Bolivarian Republic of)
+ 7-069    Venezuela (Bolivarian Republic of)
+ 7-070    Venezuela (Bolivarian Republic of)
+ 7-071    Venezuela (Bolivarian Republic of)
+ 7-072    Bolivia (Plurinational State of)
+ 7-073    Bolivia (Plurinational State of)
+ 7-074    Bolivia (Plurinational State of)
+ 7-075    Bolivia (Plurinational State of)
+ 7-076    Guyana
+ 7-077    Guyana
+ 7-080    Ecuador
+ 7-081    Ecuador
+ 7-082    Ecuador
+ 7-084    French Guiana (French Department of)
+ 7-088    Paraguay (Republic of)
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 7-089    Paraguay (Republic of)
+ 7-090    Paraguay (Republic of)
+ 7-092    Suriname (Republic of)
+ 7-093    Suriname (Republic of)
+ 7-096    Uruguay (Eastern Republic of)
+ 7-097    Uruguay (Eastern Republic of)
+ 7-099    Falkland Islands (Malvinas)
+ 7-100    Venezuela (Bolivarian Republic of)
+ 7-110    Colombia (Republic of)
+ 7-150    Bolivia (Plurinational State of)
+ 7-151    Bolivia (Plurinational State of)
+ 7-152    Bolivia (Plurinational State of)
+ 7-153    Bolivia (Plurinational State of)
+ 7-160    Peru
+ 7-161    Peru
+ 7-203    Netherlands (Kingdom of the)
+ 7-205    Luxembourg
+ 7-206    Poland (Republic of)
+ 7-207    Sweden
+ 7-210    Liechtenstein (Principality of)
+ 7-213    Kosovo*
+ 7-214    Kosovo*
+ 7-215    Croatia (Republic of)
+ 7-216    Colombia (Republic of)
+ 7-217    Norway
+ 7-218    Romania
+ 7-219    Albania (Republic of)
+ 7-220    Luxembourg
+ 7-221    Bulgaria (Republic of)
+ 7-222    Malta
+ 7-223    France
+ 7-224    United Kingdom of Great Britain and Northern Ireland
+ 7-225    Netherlands (Kingdom of the)
+ 7-226    Greece
+ 7-227    Serbia (Republic of)
+ 7-228    Switzerland (Confederation of)
+ 7-229    United Kingdom of Great Britain and Northern Ireland
+ 7-230    Lithuania (Republic of)
+ 7-231    Norway
+ 7-232    United Kingdom of Great Britain and Northern Ireland
+ 7-233    Bosnia and Herzegovina
+ 7-234    United Kingdom of Great Britain and Northern Ireland
+ 7-235    Croatia (Republic of)
+ 7-236    Spain
+ 7-237    United Kingdom of Great Britain and Northern Ireland
+ 7-238    France
+ 7-239    Slovak Republic
+
+ Code     Geographical Area or Signalling Network – numerical order
+ 7-240    Norway
+ 7-241    Spain
+ 7-242    Ukraine
+ 7-243    United Kingdom of Great Britain and Northern Ireland
+ 7-244    Poland (Republic of)
+ 7-245    Latvia (Republic of)
+ 7-246    Poland (Republic of)
+ 7-247    Switzerland (Confederation of)
+ 7-248    Romania
+ 7-249    Germany (Federal Republic of)
+ 7-250    Latvia (Republic of)
+ 7-251    United Kingdom of Great Britain and Northern Ireland
+ 7-252    Lithuania (Republic of)
+ 7-253    United Kingdom of Great Britain and Northern Ireland
+ 7-254    Spain
+ 7-255    Liechtenstein (Principality of)
+
+
+
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 4-024    Afghanistan
+ 4-025    Afghanistan
+ 4-136    Afghanistan
+ 4-137    Afghanistan
+ 4-138    Afghanistan
+ 2-152    Albania (Republic of)
+ 3-228    Albania (Republic of)
+ 3-233    Albania (Republic of)
+ 4-227    Albania (Republic of)
+ 7-219    Albania (Republic of)
+ 6-006    Algeria (People's Democratic Republic of)
+ 6-007    Algeria (People's Democratic Republic of)
+ 6-180    Algeria (People's Democratic Republic of)
+ 5-088    American Samoa
+ 2-196    Andorra (Principality of)
+ 2-197    Andorra (Principality of)
+ 6-062    Angola (Republic of)
+ 6-063    Angola (Republic of)
+ 6-140    Angola (Republic of)
+ 3-168    Anguilla
+ 3-169    Anguilla
+ 3-088    Antigua and Barbuda
+ 3-089    Antigua and Barbuda
+ 7-040    Argentine Republic
+ 7-041    Argentine Republic
+ 7-042    Argentine Republic
+ 7-043    Argentine Republic
+ 7-044    Argentine Republic
+ 7-045    Argentine Republic
+ 7-046    Argentine Republic
+ 7-047    Argentine Republic
+ 2-200    Armenia (Republic of)
+ 4-233    Armenia (Republic of)
+ 5-234    Armenia (Republic of)
+ 6-224    Armenia (Republic of)
+ 3-164    Aruba
+ 5-010    Australia
+ 5-011    Australia
+ 5-012    Australia
+ 5-013    Australia
+ 5-014    Australia
+ 5-015    Australia
+ 5-016    Australia
+ 5-017    Australia
+ 5-018    Australia
+ 5-019    Australia
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 5-115    Australia
+ 5-116    Australia
+ 5-117    Australia
+ 5-118    Australia
+ 5-119    Australia
+ 5-120    Australia
+ 5-121    Australia
+ 5-122    Australia
+ 2-025    Austria
+ 2-026    Austria
+ 2-064    Austria
+ 2-065    Austria
+ 2-066    Austria
+ 2-067    Austria
+ 2-133    Austria
+ 4-070    Azerbaijan (Republic of)
+ 4-071    Azerbaijan (Republic of)
+ 3-128    Bahamas (Commonwealth of the)
+ 4-052    Bahrain (Kingdom of)
+ 4-053    Bahrain (Kingdom of)
+ 4-088    Bahrain (Kingdom of)
+ 4-089    Bahrain (Kingdom of)
+ 4-029    Bangladesh (People's Republic of)
+ 4-139    Bangladesh (People's Republic of)
+ 4-140    Bangladesh (People's Republic of)
+ 4-141    Bangladesh (People's Republic of)
+ 4-142    Bangladesh (People's Republic of)
+ 4-143    Bangladesh (People's Republic of)
+ 3-084    Barbados
+ 3-085    Barbados
+ 3-086    Barbados
+ 2-204    Belarus (Republic of)
+ 2-012    Belgium
+ 2-013    Belgium
+ 2-014    Belgium
+ 2-015    Belgium
+ 2-097    Belgium
+ 2-098    Belgium
+ 2-099    Belgium
+ 7-004    Belize
+ 7-005    Belize
+ 6-031    Benin (Republic of)
+ 6-032    Benin (Republic of)
+ 3-100    Bermuda
+ 4-072    Bhutan (Kingdom of)
+ 7-072    Bolivia (Plurinational State of)
+ 7-073    Bolivia (Plurinational State of)
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 7-074    Bolivia (Plurinational State of)
+ 7-075    Bolivia (Plurinational State of)
+ 7-150    Bolivia (Plurinational State of)
+ 7-151    Bolivia (Plurinational State of)
+ 7-152    Bolivia (Plurinational State of)
+ 7-153    Bolivia (Plurinational State of)
+ 2-218    Bosnia and Herzegovina
+ 2-219    Bosnia and Herzegovina
+ 3-239    Bosnia and Herzegovina
+ 7-233    Bosnia and Herzegovina
+ 6-104    Botswana (Republic of)
+ 6-105    Botswana (Republic of)
+ 7-048    Brazil (Federative Republic of)
+ 7-049    Brazil (Federative Republic of)
+ 7-050    Brazil (Federative Republic of)
+ 7-051    Brazil (Federative Republic of)
+ 7-052    Brazil (Federative Republic of)
+ 7-053    Brazil (Federative Republic of)
+ 7-054    Brazil (Federative Republic of)
+ 7-055    Brazil (Federative Republic of)
+ 7-056    Brazil (Federative Republic of)
+ 7-057    Brazil (Federative Republic of)
+ 3-096    British Virgin Islands
+ 3-097    British Virgin Islands
+ 5-056    Brunei Darussalam
+ 5-057    Brunei Darussalam
+ 2-168    Bulgaria (Republic of)
+ 3-231    Bulgaria (Republic of)
+ 5-217    Bulgaria (Republic of)
+ 6-239    Bulgaria (Republic of)
+ 6-247    Bulgaria (Republic of)
+ 6-250    Bulgaria (Republic of)
+ 7-221    Bulgaria (Republic of)
+ 6-026    Burkina Faso
+ 6-084    Burundi (Republic of)
+ 6-085    Burundi (Republic of)
+ 6-050    Cabo Verde (Republic of)
+ 6-051    Cabo Verde (Republic of)
+ 3-240    Cambodia (Kingdom of)
+ 4-112    Cambodia (Kingdom of)
+ 4-113    Cambodia (Kingdom of)
+ 6-048    Cameroon (Republic of)
+ 6-049    Cameroon (Republic of)
+ 6-168    Cameroon (Republic of)
+ 6-177    Cameroon (Republic of)
+ 3-004    Canada
+ 3-005    Canada
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 3-006    Canada
+ 3-007    Canada
+ 3-008    Canada
+ 3-009    Canada
+ 3-010    Canada
+ 3-011    Canada
+ 3-012    Canada
+ 3-013    Canada
+ 3-092    Cayman Islands
+ 3-093    Cayman Islands
+ 6-046    Central African Republic
+ 6-047    Central African Republic
+ 6-044    Chad (Republic of)
+ 7-059    Chile
+ 7-060    Chile
+ 7-061    Chile
+ 7-062    Chile
+ 7-063    Chile
+ 4-120    China (People's Republic of)
+ 4-121    China (People's Republic of)
+ 4-122    China (People's Republic of)
+ 4-123    China (People's Republic of)
+ 4-124    China (People's Republic of)
+ 4-125    China (People's Republic of)
+ 4-126    China (People's Republic of)
+ 4-127    China (People's Republic of)
+ 4-128    China (People's Republic of)
+ 4-129    China (People's Republic of)
+ 4-130    China (People's Republic of)
+ 7-064    Colombia (Republic of)
+ 7-065    Colombia (Republic of)
+ 7-066    Colombia (Republic of)
+ 7-067    Colombia (Republic of)
+ 7-110    Colombia (Republic of)
+ 7-216    Colombia (Republic of)
+ 6-108    Comoros (Union of the)
+ 6-058    Congo (Republic of the)
+ 6-088    Congo (Republic of the)
+ 6-089    Congo (Republic of the)
+ 5-096    Cook Islands
+ 7-023    Costa Rica
+ 7-024    Costa Rica
+ 7-025    Costa Rica
+ 6-024    Côte d'Ivoire (Republic of)
+ 6-025    Côte d'Ivoire (Republic of)
+ 2-180    Croatia (Republic of)
+ 3-245    Croatia (Republic of)
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 4-249    Croatia (Republic of)
+ 5-232    Croatia (Republic of)
+ 7-215    Croatia (Republic of)
+ 7-235    Croatia (Republic of)
+ 3-136    Cuba
+ 3-137    Cuba
+ 3-124    Curaçao
+ 3-125    Curaçao
+ 3-126    Curaçao
+ 2-160    Cyprus (Republic of)
+ 3-248    Cyprus (Republic of)
+ 5-215    Cyprus (Republic of)
+ 5-237    Cyprus (Republic of)
+ 6-231    Cyprus (Republic of)
+ 2-060    Czech Republic
+ 2-228    Czech Republic
+ 2-229    Czech Republic
+ 2-230    Czech Republic
+ 2-231    Czech Republic
+ 6-234    Czech Republic
+ 4-135    Democratic People's Republic of Korea
+ 6-059    Democratic Republic of the Congo
+ 6-060    Democratic Republic of the Congo
+ 6-061    Democratic Republic of the Congo
+ 6-178    Democratic Republic of the Congo
+ 6-179    Democratic Republic of the Congo
+ 2-076    Denmark
+ 2-077    Denmark
+ 2-078    Denmark
+ 2-079    Denmark
+ 2-217    Denmark
+ 6-120    Diego Garcia
+ 6-076    Djibouti (Republic of)
+ 3-132    Dominica (Commonwealth of)
+ 3-140    Dominican Republic
+ 3-141    Dominican Republic
+ 3-142    Dominican Republic
+ 7-080    Ecuador
+ 7-081    Ecuador
+ 7-082    Ecuador
+ 6-003    Egypt (Arab Republic of)
+ 6-004    Egypt (Arab Republic of)
+ 6-005    Egypt (Arab Republic of)
+ 7-012    El Salvador (Republic of)
+ 7-013    El Salvador (Republic of)
+ 7-014    El Salvador (Republic of)
+ 7-015    El Salvador (Republic of)
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 6-054    Equatorial Guinea (Republic of)
+ 6-175    Equatorial Guinea (Republic of)
+ 6-176    Equatorial Guinea (Republic of)
+ 6-114    Eritrea
+ 2-092    Estonia (Republic of)
+ 2-199    Estonia (Republic of)
+ 3-244    Estonia (Republic of)
+ 5-230    Estonia (Republic of)
+ 6-227    Estonia (Republic of)
+ 6-072    Ethiopia (Federal Democratic Republic of)
+ 7-099    Falkland Islands (Malvinas)
+ 3-165    Faroe Islands
+ 3-179    Faroe Islands
+ 5-084    Fiji (Republic of)
+ 5-085    Fiji (Republic of)
+ 2-088    Finland
+ 2-089    Finland
+ 2-090    Finland
+ 2-091    Finland
+ 2-254    Finland
+ 2-255    Finland
+ 4-231    Finland
+ 2-016    France
+ 2-017    France
+ 2-018    France
+ 2-019    France
+ 2-020    France
+ 2-021    France
+ 2-022    France
+ 2-023    France
+ 2-149    France
+ 2-150    France
+ 2-151    France
+ 2-201    France
+ 2-202    France
+ 2-203    France
+ 2-221    France
+ 3-232    France
+ 4-228    France
+ 6-233    France
+ 7-223    France
+ 7-238    France
+ 6-094    French Departments and Territories in the Indian Ocean
+ 6-118    French Departments and Territories in the Indian Ocean
+ 7-084    French Guiana (French Department of)
+ 5-094    French Polynesia (Territoire français d'outre-mer)
+ 6-055    Gabonese Republic
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 6-056    Gabonese Republic
+ 6-057    Gabonese Republic
+ 6-014    Gambia (Republic of the)
+ 6-015    Gambia (Republic of the)
+ 2-208    Georgia
+ 2-213    Georgia
+ 3-246    Georgia
+ 5-233    Georgia
+ 2-033    Germany (Federal Republic of)
+ 2-034    Germany (Federal Republic of)
+ 2-035    Germany (Federal Republic of)
+ 2-036    Germany (Federal Republic of)
+ 2-037    Germany (Federal Republic of)
+ 2-038    Germany (Federal Republic of)
+ 2-039    Germany (Federal Republic of)
+ 2-121    Germany (Federal Republic of)
+ 2-122    Germany (Federal Republic of)
+ 2-123    Germany (Federal Republic of)
+ 2-124    Germany (Federal Republic of)
+ 2-125    Germany (Federal Republic of)
+ 2-126    Germany (Federal Republic of)
+ 2-127    Germany (Federal Republic of)
+ 2-128    Germany (Federal Republic of)
+ 2-129    Germany (Federal Republic of)
+ 2-130    Germany (Federal Republic of)
+ 2-131    Germany (Federal Republic of)
+ 2-222    Germany (Federal Republic of)
+ 2-225    Germany (Federal Republic of)
+ 2-226    Germany (Federal Republic of)
+ 2-242    Germany (Federal Republic of)
+ 2-243    Germany (Federal Republic of)
+ 2-244    Germany (Federal Republic of)
+ 2-245    Germany (Federal Republic of)
+ 2-246    Germany (Federal Republic of)
+ 2-247    Germany (Federal Republic of)
+ 2-248    Germany (Federal Republic of)
+ 2-249    Germany (Federal Republic of)
+ 2-250    Germany (Federal Republic of)
+ 2-251    Germany (Federal Republic of)
+ 2-252    Germany (Federal Republic of)
+ 3-243    Germany (Federal Republic of)
+ 3-252    Germany (Federal Republic of)
+ 3-254    Germany (Federal Republic of)
+ 3-255    Germany (Federal Republic of)
+ 4-244    Germany (Federal Republic of)
+ 4-246    Germany (Federal Republic of)
+ 5-240    Germany (Federal Republic of)
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 5-245    Germany (Federal Republic of)
+ 5-251    Germany (Federal Republic of)
+ 6-237    Germany (Federal Republic of)
+ 7-249    Germany (Federal Republic of)
+ 6-040    Ghana
+ 6-160    Ghana
+ 2-132    Gibraltar
+ 2-004    Greece
+ 2-005    Greece
+ 2-206    Greece
+ 4-234    Greece
+ 4-245    Greece
+ 5-236    Greece
+ 5-254    Greece
+ 7-226    Greece
+ 3-018    Greenland (Denmark)
+ 3-104    Grenada
+ 3-156    Guadeloupe (French Department of)
+ 5-070    Guam
+ 7-008    Guatemala (Republic of)
+ 7-009    Guatemala (Republic of)
+ 7-010    Guatemala (Republic of)
+ 6-021    Guinea (Republic of)
+ 6-022    Guinea (Republic of)
+ 6-023    Guinea (Republic of)
+ 6-064    Guinea-Bissau (Republic of)
+ 7-076    Guyana
+ 7-077    Guyana
+ 3-144    Haiti (Republic of)
+ 7-016    Honduras (Republic of)
+ 7-017    Honduras (Republic of)
+ 7-018    Honduras (Republic of)
+ 4-105    Hong Kong, China
+ 4-106    Hong Kong, China
+ 4-107    Hong Kong, China
+ 4-108    Hong Kong, China
+ 4-109    Hong Kong, China
+ 4-111    Hong Kong, China
+ 4-176    Hong Kong, China
+ 4-177    Hong Kong, China
+ 4-178    Hong Kong, China
+ 4-179    Hong Kong, China
+ 4-180    Hong Kong, China
+ 4-181    Hong Kong, China
+ 4-182    Hong Kong, China
+ 4-183    Hong Kong, China
+ 4-184    Hong Kong, China
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 4-185    Hong Kong, China
+ 2-032    Hungary
+ 2-212    Hungary
+ 4-243    Hungary
+ 5-218    Hungary
+ 6-251    Hungary
+ 2-148    Iceland
+ 6-243    Iceland
+ 4-005    India (Republic of)
+ 4-006    India (Republic of)
+ 4-007    India (Republic of)
+ 4-008    India (Republic of)
+ 4-009    India (Republic of)
+ 4-010    India (Republic of)
+ 4-011    India (Republic of)
+ 4-012    India (Republic of)
+ 4-013    India (Republic of)
+ 4-014    India (Republic of)
+ 4-015    India (Republic of)
+ 4-016    India (Republic of)
+ 4-017    India (Republic of)
+ 4-018    India (Republic of)
+ 4-224    India (Republic of)
+ 5-020    Indonesia (Republic of)
+ 5-021    Indonesia (Republic of)
+ 5-022    Indonesia (Republic of)
+ 5-023    Indonesia (Republic of)
+ 5-024    Indonesia (Republic of)
+ 5-025    Indonesia (Republic of)
+ 4-064    Iran (Islamic Republic of)
+ 4-065    Iran (Islamic Republic of)
+ 4-036    Iraq (Republic of)
+ 2-144    Ireland
+ 2-145    Ireland
+ 2-146    Ireland
+ 4-241    Ireland
+ 5-216    Ireland
+ 5-228    Ireland
+ 6-225    Ireland
+ 6-246    Ireland
+ 4-003    Israel (State of)
+ 4-004    Israel (State of)
+ 4-050    Israel (State of)
+ 4-051    Israel (State of)
+ 2-001    Italy
+ 2-003    Italy
+ 2-041    Italy
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 2-042    Italy
+ 2-043    Italy
+ 2-044    Italy
+ 2-045    Italy
+ 2-046    Italy
+ 2-047    Italy
+ 2-048    Italy
+ 2-049    Italy
+ 2-050    Italy
+ 2-051    Italy
+ 2-093    Italy
+ 2-094    Italy
+ 2-095    Italy
+ 2-157    Italy
+ 2-158    Italy
+ 2-159    Italy
+ 2-181    Italy
+ 2-183    Italy
+ 2-207    Italy
+ 2-215    Italy
+ 2-216    Italy
+ 5-225    Italy
+ 5-244    Italy
+ 5-255    Italy
+ 6-245    Italy
+ 3-076    Jamaica
+ 3-077    Jamaica
+ 3-078    Jamaica
+ 3-079    Jamaica
+ 4-080    Japan
+ 4-081    Japan
+ 4-082    Japan
+ 4-083    Japan
+ 4-084    Japan
+ 4-085    Japan
+ 4-086    Japan
+ 4-087    Japan
+ 4-090    Japan
+ 4-031    Jordan (Hashemite Kingdom of)
+ 4-032    Jordan (Hashemite Kingdom of)
+ 4-033    Jordan (Hashemite Kingdom of)
+ 4-195    Jordan (Hashemite Kingdom of)
+ 4-196    Jordan (Hashemite Kingdom of)
+ 4-074    Kazakhstan (Republic of)
+ 4-075    Kazakhstan (Republic of)
+ 4-076    Kazakhstan (Republic of)
+ 4-077    Kazakhstan (Republic of)
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 6-078    Kenya (Republic of)
+ 6-079    Kenya (Republic of)
+ 5-100    Kiribati (Republic of)
+ 4-100    Korea (Republic of)
+ 4-101    Korea (Republic of)
+ 4-102    Korea (Republic of)
+ 4-145    Korea (Republic of)
+ 4-147    Korea (Republic of)
+ 4-148    Korea (Republic of)
+ 4-149    Korea (Republic of)
+ 4-150    Korea (Republic of)
+ 4-151    Korea (Republic of)
+ 4-152    Korea (Republic of)
+ 4-153    Korea (Republic of)
+ 4-154    Korea (Republic of)
+ 7-213    Kosovo*
+ 7-214    Kosovo*
+ 4-038    Kuwait (State of)
+ 4-200    Kuwait (State of)
+ 4-078    Kyrgyz Republic
+ 4-079    Kyrgyz Republic
+ 4-167    Kyrgyz Republic
+ 4-114    Lao People's Democratic Republic
+ 2-096    Latvia (Republic of)
+ 3-227    Latvia (Republic of)
+ 3-234    Latvia (Republic of)
+ 4-237    Latvia (Republic of)
+ 5-249    Latvia (Republic of)
+ 5-252    Latvia (Republic of)
+ 6-248    Latvia (Republic of)
+ 7-245    Latvia (Republic of)
+ 7-250    Latvia (Republic of)
+ 4-030    Lebanon
+ 6-102    Lesotho (Kingdom of)
+ 6-036    Liberia (Republic of)
+ 6-011    Libya
+ 6-012    Libya
+ 6-013    Libya
+ 2-000    Liechtenstein (Principality of)
+ 7-210    Liechtenstein (Principality of)
+ 7-255    Liechtenstein (Principality of)
+ 2-236    Lithuania (Republic of)
+ 4-236    Lithuania (Republic of)
+ 6-228    Lithuania (Republic of)
+ 7-230    Lithuania (Republic of)
+ 7-252    Lithuania (Republic of)
+ 2-135    Luxembourg
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 2-140    Luxembourg
+ 2-141    Luxembourg
+ 7-205    Luxembourg
+ 7-220    Luxembourg
+ 4-110    Macao, China
+ 4-119    Macao, China
+ 6-092    Madagascar (Republic of)
+ 6-093    Madagascar (Republic of)
+ 6-100    Malawi
+ 5-001    Malaysia
+ 5-002    Malaysia
+ 5-003    Malaysia
+ 5-004    Malaysia
+ 5-005    Malaysia
+ 5-006    Malaysia
+ 5-007    Malaysia
+ 5-008    Malaysia
+ 5-009    Malaysia
+ 4-144    Maldives (Republic of)
+ 4-211    Maldives (Republic of)
+ 6-020    Mali (Republic of)
+ 6-183    Mali (Republic of)
+ 2-156    Malta
+ 5-235    Malta
+ 7-222    Malta
+ 5-105    Marshall Islands (Republic of the)
+ 3-160    Martinique (French Department of)
+ 6-018    Mauritania (Islamic Republic of)
+ 6-019    Mauritania (Islamic Republic of)
+ 6-033    Mauritius (Republic of)
+ 6-034    Mauritius (Republic of)
+ 6-035    Mauritius (Republic of)
+ 3-068    Mexico
+ 3-069    Mexico
+ 3-070    Mexico
+ 3-071    Mexico
+ 3-072    Mexico
+ 3-073    Mexico
+ 3-074    Mexico
+ 3-075    Mexico
+ 3-172    Mexico
+ 3-173    Mexico
+ 3-174    Mexico
+ 3-175    Mexico
+ 3-176    Mexico
+ 3-177    Mexico
+ 3-178    Mexico
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 3-215    Mexico
+ 3-216    Mexico
+ 5-107    Micronesia (Federated States of)
+ 2-224    Moldova (Republic of)
+ 3-017    Moldova (Republic of)
+ 2-024    Monaco (Principality of)
+ 6-240    Monaco (Principality of)
+ 4-056    Mongolia
+ 3-241    Montenegro
+ 5-238    Montenegro
+ 3-108    Montserrat
+ 6-008    Morocco (Kingdom of)
+ 6-009    Morocco (Kingdom of)
+ 6-150    Morocco (Kingdom of)
+ 6-086    Mozambique (Republic of)
+ 6-087    Mozambique (Republic of)
+ 4-028    Myanmar (Republic of the Union of)
+ 4-225    Myanmar (Republic of the Union of)
+ 4-226    Myanmar (Republic of the Union of)
+ 6-098    Namibia (Republic of)
+ 6-099    Namibia (Republic of)
+ 5-072    Nauru (Republic of)
+ 4-057    Nepal (Federal Democratic Republic of)
+ 4-058    Nepal (Federal Democratic Republic of)
+ 4-059    Nepal (Federal Democratic Republic of)
+ 4-217    Nepal (Federal Democratic Republic of)
+ 2-002    Netherlands (Kingdom of the)
+ 2-006    Netherlands (Kingdom of the)
+ 2-007    Netherlands (Kingdom of the)
+ 2-008    Netherlands (Kingdom of the)
+ 2-009    Netherlands (Kingdom of the)
+ 2-010    Netherlands (Kingdom of the)
+ 2-011    Netherlands (Kingdom of the)
+ 2-142    Netherlands (Kingdom of the)
+ 2-143    Netherlands (Kingdom of the)
+ 2-198    Netherlands (Kingdom of the)
+ 2-253    Netherlands (Kingdom of the)
+ 4-230    Netherlands (Kingdom of the)
+ 4-238    Netherlands (Kingdom of the)
+ 5-239    Netherlands (Kingdom of the)
+ 6-249    Netherlands (Kingdom of the)
+ 7-203    Netherlands (Kingdom of the)
+ 7-225    Netherlands (Kingdom of the)
+ 5-092    New Caledonia (Territoire français d'outre-mer)
+ 5-060    New Zealand
+ 5-061    New Zealand
+ 5-062    New Zealand
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 5-063    New Zealand
+ 5-065    New Zealand
+ 5-067    New Zealand
+ 7-020    Nicaragua
+ 7-021    Nicaragua
+ 6-028    Niger (Republic of the)
+ 6-029    Niger (Republic of the)
+ 6-041    Nigeria (Federal Republic of)
+ 6-042    Nigeria (Federal Republic of)
+ 6-043    Nigeria (Federal Republic of)
+ 6-135    Nigeria (Federal Republic of)
+ 5-090    Niue
+ 5-113    Northern Mariana Islands (Commonwealth of the)
+ 2-084    Norway
+ 2-085    Norway
+ 2-086    Norway
+ 2-087    Norway
+ 7-217    Norway
+ 7-231    Norway
+ 7-240    Norway
+ 4-044    Oman (Sultanate of)
+ 4-045    Oman (Sultanate of)
+ 4-019    Pakistan (Islamic Republic of)
+ 4-020    Pakistan (Islamic Republic of)
+ 4-021    Pakistan (Islamic Republic of)
+ 4-022    Pakistan (Islamic Republic of)
+ 4-023    Pakistan (Islamic Republic of)
+ 5-110    Palau (Republic of)
+ 7-026    Panama (Republic of)
+ 7-027    Panama (Republic of)
+ 7-028    Panama (Republic of)
+ 7-029    Panama (Republic of)
+ 7-030    Panama (Republic of)
+ 7-031    Panama (Republic of)
+ 5-074    Papua New Guinea
+ 5-075    Papua New Guinea
+ 7-088    Paraguay (Republic of)
+ 7-089    Paraguay (Republic of)
+ 7-090    Paraguay (Republic of)
+ 7-032    Peru
+ 7-033    Peru
+ 7-034    Peru
+ 7-035    Peru
+ 7-036    Peru
+ 7-037    Peru
+ 7-038    Peru
+ 7-039    Peru
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 7-160    Peru
+ 7-161    Peru
+ 5-030    Philippines (Republic of the)
+ 5-031    Philippines (Republic of the)
+ 5-032    Philippines (Republic of the)
+ 5-033    Philippines (Republic of the)
+ 5-034    Philippines (Republic of the)
+ 5-035    Philippines (Republic of the)
+ 5-036    Philippines (Republic of the)
+ 5-037    Philippines (Republic of the)
+ 5-038    Philippines (Republic of the)
+ 2-120    Poland (Republic of)
+ 2-134    Poland (Republic of)
+ 3-251    Poland (Republic of)
+ 3-253    Poland (Republic of)
+ 4-250    Poland (Republic of)
+ 5-229    Poland (Republic of)
+ 5-253    Poland (Republic of)
+ 6-236    Poland (Republic of)
+ 7-206    Poland (Republic of)
+ 7-244    Poland (Republic of)
+ 7-246    Poland (Republic of)
+ 2-136    Portugal
+ 2-137    Portugal
+ 2-138    Portugal
+ 2-139    Portugal
+ 2-223    Portugal
+ 3-249    Portugal
+ 3-060    Puerto Rico
+ 4-054    Qatar (State of)
+ 4-055    Qatar (State of)
+ 4-175    Reserved
+ 2-052    Romania
+ 2-227    Romania
+ 3-238    Romania
+ 3-250    Romania
+ 4-252    Romania
+ 5-242    Romania
+ 7-218    Romania
+ 7-248    Romania
+ 2-100    Russian Federation
+ 2-101    Russian Federation
+ 2-102    Russian Federation
+ 2-103    Russian Federation
+ 2-104    Russian Federation
+ 2-105    Russian Federation
+ 2-106    Russian Federation
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 2-107    Russian Federation
+ 2-108    Russian Federation
+ 2-109    Russian Federation
+ 2-110    Russian Federation
+ 2-111    Russian Federation
+ 2-112    Russian Federation
+ 2-113    Russian Federation
+ 2-114    Russian Federation
+ 2-115    Russian Federation
+ 2-116    Russian Federation
+ 2-117    Russian Federation
+ 2-118    Russian Federation
+ 2-119    Russian Federation
+ 6-070    Rwanda (Republic of)
+ 6-071    Rwanda (Republic of)
+ 6-073    Rwanda (Republic of)
+ 6-077    Rwanda (Republic of)
+ 3-210    Saint Helena, Ascension and Tristan da Cunha
+ 6-116    Saint Helena, Ascension and Tristan da Cunha
+ 3-112    Saint Kitts and Nevis
+ 3-116    Saint Lucia
+ 3-016    Saint Pierre and Miquelon (Collectivité territoriale de la République française)
+ 3-120    Saint Vincent and the Grenadines
+ 5-098    Samoa (Independent State of)
+ 2-184    San Marino (Republic of)
+ 6-052    Sao Tome and Principe (Democratic Republic of)
+ 4-039    Saudi Arabia (Kingdom of)
+ 4-040    Saudi Arabia (Kingdom of)
+ 4-041    Saudi Arabia (Kingdom of)
+ 4-043    Saudi Arabia (Kingdom of)
+ 6-016    Senegal (Republic of)
+ 6-017    Senegal (Republic of)
+ 2-040    Serbia (Republic of)
+ 4-248    Serbia (Republic of)
+ 7-227    Serbia (Republic of)
+ 6-066    Seychelles (Republic of)
+ 6-067    Seychelles (Republic of)
+ 6-038    Sierra Leone
+ 6-039    Sierra Leone
+ 5-045    Singapore (Republic of)
+ 5-046    Singapore (Republic of)
+ 5-047    Singapore (Republic of)
+ 5-048    Singapore (Republic of)
+ 5-049    Singapore (Republic of)
+ 5-050    Singapore (Republic of)
+ 5-051    Singapore (Republic of)
+ 5-052    Singapore (Republic of)
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 5-053    Singapore (Republic of)
+ 5-054    Singapore (Republic of)
+ 5-055    Singapore (Republic of)
+ 5-140    Singapore (Republic of)
+ 5-141    Singapore (Republic of)
+ 5-142    Singapore (Republic of)
+ 5-143    Singapore (Republic of)
+ 5-144    Singapore (Republic of)
+ 2-232    Slovak Republic
+ 2-233    Slovak Republic
+ 2-234    Slovak Republic
+ 2-235    Slovak Republic
+ 4-251    Slovak Republic
+ 7-239    Slovak Republic
+ 2-182    Slovenia (Republic of)
+ 4-232    Slovenia (Republic of)
+ 5-247    Slovenia (Republic of)
+ 5-250    Slovenia (Republic of)
+ 6-235    Slovenia (Republic of)
+ 6-253    Slovenia (Republic of)
+ 5-080    Solomon Islands
+ 6-074    Somalia (Federal Republic of)
+ 6-109    South Africa (Republic of)
+ 6-110    South Africa (Republic of)
+ 6-111    South Africa (Republic of)
+ 6-112    South Africa (Republic of)
+ 6-113    South Africa (Republic of)
+ 6-145    South Africa (Republic of)
+ 6-173    South Sudan (Republic of)
+ 6-174    South Sudan (Republic of)
+ 2-027    Spain
+ 2-028    Spain
+ 2-029    Spain
+ 2-030    Spain
+ 2-031    Spain
+ 2-237    Spain
+ 2-238    Spain
+ 2-239    Spain
+ 2-240    Spain
+ 2-241    Spain
+ 3-242    Spain
+ 4-235    Spain
+ 6-244    Spain
+ 7-236    Spain
+ 7-241    Spain
+ 7-254    Spain
+ 4-026    Sri Lanka (Democratic Socialist Republic of)
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 4-027    Sri Lanka (Democratic Socialist Republic of)
+ 4-190    Sri Lanka (Democratic Socialist Republic of)
+ 4-191    Sri Lanka (Democratic Socialist Republic of)
+ 6-068    Sudan (Republic of the)
+ 6-069    Sudan (Republic of the)
+ 6-170    Sudan (Republic of the)
+ 7-092    Suriname (Republic of)
+ 7-093    Suriname (Republic of)
+ 6-106    Swaziland (Kingdom of)
+ 2-080    Sweden
+ 2-081    Sweden
+ 2-082    Sweden
+ 2-083    Sweden
+ 2-192    Sweden
+ 2-193    Sweden
+ 2-194    Sweden
+ 2-195    Sweden
+ 2-205    Sweden
+ 3-229    Sweden
+ 6-226    Sweden
+ 6-229    Sweden
+ 6-230    Sweden
+ 6-232    Sweden
+ 6-238    Sweden
+ 7-207    Sweden
+ 2-053    Switzerland (Confederation of)
+ 2-054    Switzerland (Confederation of)
+ 2-055    Switzerland (Confederation of)
+ 2-056    Switzerland (Confederation of)
+ 2-057    Switzerland (Confederation of)
+ 2-058    Switzerland (Confederation of)
+ 2-059    Switzerland (Confederation of)
+ 2-061    Switzerland (Confederation of)
+ 2-062    Switzerland (Confederation of)
+ 2-063    Switzerland (Confederation of)
+ 5-246    Switzerland (Confederation of)
+ 7-228    Switzerland (Confederation of)
+ 7-247    Switzerland (Confederation of)
+ 4-034    Syrian Arab Republic
+ 4-170    Taiwan, China
+ 4-171    Taiwan, China
+ 4-172    Taiwan, China
+ 4-173    Taiwan, China
+ 4-174    Taiwan, China
+ 4-157    Tajikistan (Republic of)
+ 4-158    Tajikistan (Republic of)
+ 4-159    Tajikistan (Republic of)
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 6-080    Tanzania (United Republic of)
+ 6-081    Tanzania (United Republic of)
+ 6-123    Tanzania (United Republic of)
+ 5-039    Thailand
+ 5-040    Thailand
+ 5-041    Thailand
+ 5-042    Thailand
+ 5-043    Thailand
+ 5-044    Thailand
+ 5-135    Thailand
+ 2-220    The Former Yugoslav Republic of Macedonia
+ 5-220    The Former Yugoslav Republic of Macedonia
+ 5-221    The Former Yugoslav Republic of Macedonia
+ 5-231    The Former Yugoslav Republic of Macedonia
+ 6-220    The Former Yugoslav Republic of Macedonia
+ 6-221    The Former Yugoslav Republic of Macedonia
+ 5-130    Timor-Leste (Democratic Republic of)
+ 5-131    Timor-Leste (Democratic Republic of)
+ 6-030    Togolese Republic
+ 5-078    Tonga (Kingdom of)
+ 3-148    Trinidad and Tobago
+ 3-149    Trinidad and Tobago
+ 3-150    Trinidad and Tobago
+ 6-010    Tunisia
+ 2-171    Turkey
+ 2-172    Turkey
+ 2-173    Turkey
+ 3-247    Turkey
+ 5-241    Turkey
+ 4-160    Turkmenistan
+ 3-152    Turks and Caicos Islands
+ 3-153    Turks and Caicos Islands
+ 3-154    Turks and Caicos Islands
+ 5-102    Tuvalu
+ 6-082    Uganda (Republic of)
+ 6-083    Uganda (Republic of)
+ 6-130    Uganda (Republic of)
+ 6-131    Uganda (Republic of)
+ 6-132    Uganda (Republic of)
+ 2-214    Ukraine
+ 4-242    Ukraine
+ 6-241    Ukraine
+ 7-242    Ukraine
+ 4-048    United Arab Emirates
+ 4-049    United Arab Emirates
+ 4-060    United Arab Emirates
+ 4-061    United Arab Emirates
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 4-062    United Arab Emirates
+ 2-068    United Kingdom of Great Britain and Northern Ireland
+ 2-069    United Kingdom of Great Britain and Northern Ireland
+ 2-070    United Kingdom of Great Britain and Northern Ireland
+ 2-071    United Kingdom of Great Britain and Northern Ireland
+ 2-072    United Kingdom of Great Britain and Northern Ireland
+ 2-073    United Kingdom of Great Britain and Northern Ireland
+ 2-074    United Kingdom of Great Britain and Northern Ireland
+ 2-075    United Kingdom of Great Britain and Northern Ireland
+ 2-147    United Kingdom of Great Britain and Northern Ireland
+ 2-153    United Kingdom of Great Britain and Northern Ireland
+ 2-154    United Kingdom of Great Britain and Northern Ireland
+ 2-155    United Kingdom of Great Britain and Northern Ireland
+ 2-161    United Kingdom of Great Britain and Northern Ireland
+ 2-162    United Kingdom of Great Britain and Northern Ireland
+ 2-163    United Kingdom of Great Britain and Northern Ireland
+ 2-164    United Kingdom of Great Britain and Northern Ireland
+ 2-165    United Kingdom of Great Britain and Northern Ireland
+ 2-166    United Kingdom of Great Britain and Northern Ireland
+ 2-167    United Kingdom of Great Britain and Northern Ireland
+ 2-169    United Kingdom of Great Britain and Northern Ireland
+ 2-170    United Kingdom of Great Britain and Northern Ireland
+ 2-174    United Kingdom of Great Britain and Northern Ireland
+ 2-175    United Kingdom of Great Britain and Northern Ireland
+ 2-176    United Kingdom of Great Britain and Northern Ireland
+ 2-177    United Kingdom of Great Britain and Northern Ireland
+ 2-178    United Kingdom of Great Britain and Northern Ireland
+ 2-179    United Kingdom of Great Britain and Northern Ireland
+ 2-185    United Kingdom of Great Britain and Northern Ireland
+ 2-186    United Kingdom of Great Britain and Northern Ireland
+ 2-187    United Kingdom of Great Britain and Northern Ireland
+ 2-188    United Kingdom of Great Britain and Northern Ireland
+ 2-189    United Kingdom of Great Britain and Northern Ireland
+ 2-190    United Kingdom of Great Britain and Northern Ireland
+ 2-191    United Kingdom of Great Britain and Northern Ireland
+ 2-209    United Kingdom of Great Britain and Northern Ireland
+ 2-210    United Kingdom of Great Britain and Northern Ireland
+ 2-211    United Kingdom of Great Britain and Northern Ireland
+ 3-230    United Kingdom of Great Britain and Northern Ireland
+ 3-235    United Kingdom of Great Britain and Northern Ireland
+ 3-236    United Kingdom of Great Britain and Northern Ireland
+ 3-237    United Kingdom of Great Britain and Northern Ireland
+ 4-229    United Kingdom of Great Britain and Northern Ireland
+ 4-239    United Kingdom of Great Britain and Northern Ireland
+ 4-240    United Kingdom of Great Britain and Northern Ireland
+ 4-247    United Kingdom of Great Britain and Northern Ireland
+ 4-253    United Kingdom of Great Britain and Northern Ireland
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 4-254    United Kingdom of Great Britain and Northern Ireland
+ 4-255    United Kingdom of Great Britain and Northern Ireland
+ 5-226    United Kingdom of Great Britain and Northern Ireland
+ 5-227    United Kingdom of Great Britain and Northern Ireland
+ 5-243    United Kingdom of Great Britain and Northern Ireland
+ 5-248    United Kingdom of Great Britain and Northern Ireland
+ 6-242    United Kingdom of Great Britain and Northern Ireland
+ 6-252    United Kingdom of Great Britain and Northern Ireland
+ 6-254    United Kingdom of Great Britain and Northern Ireland
+ 6-255    United Kingdom of Great Britain and Northern Ireland
+ 7-224    United Kingdom of Great Britain and Northern Ireland
+ 7-229    United Kingdom of Great Britain and Northern Ireland
+ 7-232    United Kingdom of Great Britain and Northern Ireland
+ 7-234    United Kingdom of Great Britain and Northern Ireland
+ 7-237    United Kingdom of Great Britain and Northern Ireland
+ 7-243    United Kingdom of Great Britain and Northern Ireland
+ 7-251    United Kingdom of Great Britain and Northern Ireland
+ 7-253    United Kingdom of Great Britain and Northern Ireland
+ 3-020    United States of America
+ 3-021    United States of America
+ 3-022    United States of America
+ 3-023    United States of America
+ 3-024    United States of America
+ 3-025    United States of America
+ 3-026    United States of America
+ 3-027    United States of America
+ 3-028    United States of America
+ 3-029    United States of America
+ 3-030    United States of America
+ 3-031    United States of America
+ 3-032    United States of America
+ 3-033    United States of America
+ 3-034    United States of America
+ 3-035    United States of America
+ 3-036    United States of America
+ 3-037    United States of America
+ 3-038    United States of America
+ 3-039    United States of America
+ 3-040    United States of America
+ 3-041    United States of America
+ 3-042    United States of America
+ 3-043    United States of America
+ 3-044    United States of America
+ 3-045    United States of America
+ 3-046    United States of America
+ 3-047    United States of America
+ 3-048    United States of America
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 3-049    United States of America
+ 3-050    United States of America
+ 3-051    United States of America
+ 3-052    United States of America
+ 3-053    United States of America
+ 3-054    United States of America
+ 3-055    United States of America
+ 3-056    United States of America
+ 3-057    United States of America
+ 3-058    United States of America
+ 3-059    United States of America
+ 3-180    United States of America
+ 3-181    United States of America
+ 3-182    United States of America
+ 3-183    United States of America
+ 3-184    United States of America
+ 3-185    United States of America
+ 3-186    United States of America
+ 3-187    United States of America
+ 3-188    United States of America
+ 3-189    United States of America
+ 3-190    United States of America
+ 3-191    United States of America
+ 3-192    United States of America
+ 3-193    United States of America
+ 3-194    United States of America
+ 3-195    United States of America
+ 3-196    United States of America
+ 3-197    United States of America
+ 3-198    United States of America
+ 3-199    United States of America
+ 3-200    United States of America
+ 3-201    United States of America
+ 3-202    United States of America
+ 3-203    United States of America
+ 3-204    United States of America
+ 3-064    United States Virgin Islands
+ 7-096    Uruguay (Eastern Republic of)
+ 7-097    Uruguay (Eastern Republic of)
+ 4-164    Uzbekistan (Republic of)
+ 4-165    Uzbekistan (Republic of)
+ 5-082    Vanuatu (Republic of)
+ 7-068    Venezuela (Bolivarian Republic of)
+ 7-069    Venezuela (Bolivarian Republic of)
+ 7-070    Venezuela (Bolivarian Republic of)
+ 7-071    Venezuela (Bolivarian Republic of)
+ 7-100    Venezuela (Bolivarian Republic of)
+
+ Code     Geographical Area or Signalling Network – alphabetical order
+ 4-103    Viet Nam (Socialist Republic of)
+ 4-104    Viet Nam (Socialist Republic of)
+ 4-205    Viet Nam (Socialist Republic of)
+ 4-206    Viet Nam (Socialist Republic of)
+ 5-086    Wallis and Futuna (Territoire français d'outre-mer)
+ 4-042    Yemen (Republic of)
+ 4-046    Yemen (Republic of)
+ 6-090    Zambia (Republic of)
+ 6-095    Zimbabwe (Republic of)
+ 6-096    Zimbabwe (Republic of)
+ 6-097    Zimbabwe (Republic of)
+
+
+
+
+                                Notes common to Numerical and Alphabetical Lists of
+                                 ITU-T Q.708 Signalling Area/Network Codes (SANCs)
+
+Notes
+
+* This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on
+  the Kosovo declaration of independence.
+
+
+
+
+                        Number of spare ITU-T Q.708 Signalling Area Network Codes (SANCs)
+
+                        Signalling Area Network Codes,               Number of spare codes
+                                numbering range
+                                0-000 to 0-255                             reserved
+                                1-000 to 1-255                             reserved
+                                2-000 to 2-255                                 0
+                                3-000 to 3-255                                86
+                                4-000 to 4-255                                67
+                                5-000 to 5-255                                122
+                                6-000 to 6-255                                97
+                                7-000 to 7-255                                120
+                   Percentage of SANCs assigned = 67.97 %
+
+
+
+
+                                    AMENDMENTS
+
+
+
+             Amendment No.   Operational Bulletin No.   Country
+
+
+                   1
+
+                   2
+
+                   3
+
+                   4
+
+                   5
+
+                   6
+
+                   7
+
+                   8
+
+                   9
+
+                  10
+
+                  11
+
+                  12
+
+                  13
+
+                  14
+
+                  15
+
+                  16
+
+                  17
+
+                  18
+
+                  19
+
+                  20
+
+                  21
+
+                  22
+
+                  23
+
+                  24
+
+                  25
+
+                  26
+
+                  27
+
+                  28
+
+                  29
+
+                  30
+
+
+
+
+                        Annex to ITU Operational Bulletin
+
+
+
+
+         INTERNATIONAL TELECOMMUNICATION UNION
+
+
+
+
+    ITU-T
+    TELECOMMUNICATION
+    STANDARDIZATION SECTOR
+    OF ITU
+
+
+    COMPLEMENT TO RECOMMENDATION ITU-T E.218 (05/2004)
+
+    _________________________________________________________________
+
+
+
+
+    LIST OF TERRESTRIAL TRUNK RADIO MOBILE
+    COUNTRY CODES
+    (POSITION ON 1 JUNE 2017)
+
+
+
+
+    _________________________________________________________________
+
+
+
+
+Geneva, 2017
+         List of terrestrial trunk radio mobile country Codes
+
+Note from TSB
+
+1.  This is the List of terrestrial trunk radio mobile country codes according to
+Recommendation ITU-T E.218.
+
+2.   This List includes :
+     - a list of terrestrial trunk radio mobile country codes - in numerical order;
+     - a list of terrestrial trunk radio mobile country codes - in alphabetical order.
+
+3.   This List will be updated by numbered series of amendments published in the ITU
+Operational Bulletin. Furthermore, the information contained in this Annex is also available on the
+ITU website www.itu.int/itu-t/bulletin/annex.html .
+
+4.   Please address any comments concerning this publication to the Director of TSB:
+
+           Tel:          +41 22 730 5887
+           Fax:          +41 22 730 5853
+           Email:        tsbmail@itu.int
+
+5.   The designations employed and the presentation of material in this List do not imply the
+expression of any opinion whatsoever on the part of ITU concerning the legal status of any country
+or geographical area, or of its authorities.
+
+
+
+
+        List of terrestrial trunk radio mobile country codes - numerical order
+ Code (TMCC)      Country or Geographical Area                               Note
+      0XX         Reserved                                                       a
+      1XX         Reserved                                                       a
+      202         Greece
+      204         Netherlands (Kingdom of the)
+      206         Belgium
+      208         France
+      212         Monaco (Principality of)
+      213         Andorra (Principality of)
+      214         Spain
+      216         Hungary
+      218         Bosnia and Herzegovina
+      219         Croatia (Republic of)
+      220         Serbia (Republic of)
+      221         Kosovo*                                                        c
+      222         Italy
+      225         Vatican City State
+      226         Romania
+      228         Switzerland (Confederation of)
+      230         Czech Republic
+      231         Slovak Republic
+      232         Austria
+      234         United Kingdom of Great Britain and Northern Ireland
+      235         United Kingdom of Great Britain and Northern Ireland
+      238         Denmark
+      240         Sweden
+      242         Norway
+      244         Finland
+      246         Lithuania (Republic of)
+      247         Latvia (Republic of)
+      248         Estonia (Republic of)
+      250         Russian Federation
+      255         Ukraine
+      257         Belarus (Republic of)
+      259         Moldova (Republic of)
+      260         Poland (Republic of)
+      262         Germany (Federal Republic of)
+      266         Gibraltar
+      268         Portugal
+      270         Luxembourg
+      272         Ireland
+      274         Iceland
+      276         Albania (Republic of)
+      278         Malta
+      280         Cyprus (Republic of)
+
+        List of terrestrial trunk radio mobile country codes - numerical order
+ Code (TMCC)      Country or Geographical Area                                            Note
+      282         Georgia
+      283         Armenia (Republic of)
+      284         Bulgaria (Republic of)
+      286         Turkey
+      288         Faroe Islands
+      290         Greenland (Denmark)
+      292         San Marino (Republic of)
+      293         Slovenia (Republic of)
+      294         The Former Yugoslav Republic of Macedonia
+      295         Liechtenstein (Principality of)
+      297         Montenegro
+      302         Canada
+      308         Saint Pierre and Miquelon (Collectivité territoriale de la République
+                  française)
+      310         United States of America
+      311         United States of America
+      312         United States of America
+      313         United States of America
+      314         United States of America
+      315         United States of America
+      316         United States of America
+      330         Puerto Rico
+      332         United States Virgin Islands
+      334         Mexico
+      338         Jamaica
+      340         Guadeloupe (French Department of)
+      340         Martinique (French Department of)
+      342         Barbados
+      344         Antigua and Barbuda
+      346         Cayman Islands
+      348         British Virgin Islands
+      350         Bermuda
+      352         Grenada
+      354         Montserrat
+      356         Saint Kitts and Nevis
+      358         Saint Lucia
+      360         Saint Vincent and the Grenadines
+      362         Curaçao
+      362         Sint Maarten (Dutch part)
+      362         Bonaire, Sint Eustatius and Saba
+      363         Aruba
+      364         Bahamas (Commonwealth of the)
+      365         Anguilla
+      366         Dominica (Commonwealth of)
+      368         Cuba
+
+        List of terrestrial trunk radio mobile country codes - numerical order
+ Code (TMCC)      Country or Geographical Area                               Note
+      370         Dominican Republic
+      372         Haiti (Republic of)
+      374         Trinidad and Tobago
+      376         Turks and Caicos Islands
+      400         Azerbaijan (Republic of)
+      401         Kazakhstan (Republic of)
+      402         Bhutan (Kingdom of)
+      404         India (Republic of)
+      405         India (Republic of)
+      406         India (Republic of)
+      410         Pakistan (Islamic Republic of)
+      412         Afghanistan
+      413         Sri Lanka (Democratic Socialist Republic of)
+      414         Myanmar (the Republic of the Union of)
+      415         Lebanon
+      416         Jordan (Hashemite Kingdom of)
+      417         Syrian Arab Republic
+      418         Iraq (Republic of)
+      419         Kuwait (State of)
+      420         Saudi Arabia (Kingdom of)
+      421         Yemen (Republic of)
+      422         Oman (Sultanate of)
+      424         United Arab Emirates
+      425         Israel (State of)
+      426         Bahrain (Kingdom of)
+      427         Qatar (State of)
+      428         Mongolia
+      429         Nepal (Federal Democratic Republic of)
+      430         United Arab Emirates                                           b
+      431         United Arab Emirates                                           b
+      432         Iran (Islamic Republic of)
+      434         Uzbekistan (Republic of)
+      436         Tajikistan (Republic of)
+      437         Kyrgyz Republic
+      438         Turkmenistan
+      440         Japan
+      441         Japan
+      450         Korea (Republic of)
+      452         Viet Nam (Socialist Republic of)
+      454         Hong Kong, China
+      455         Macao, China
+      456         Cambodia (Kingdom of)
+      457         Lao People's Democratic Republic
+      460         China (People's Republic of)
+
+
+        List of terrestrial trunk radio mobile country codes - numerical order
+ Code (TMCC)      Country or Geographical Area                               Note
+      461         China (People's Republic of)
+      466         Taiwan, China
+      467         Democratic People's Republic of Korea
+      470         Bangladesh (People's Republic of)
+      472         Maldives (Republic of)
+      502         Malaysia
+      505         Australia
+      510         Indonesia (Republic of)
+      514         Timor-Leste (Democratic Republic of)
+      515         Philippines (Republic of the)
+      520         Thailand
+      525         Singapore (Republic of)
+      528         Brunei Darussalam
+      530         New Zealand
+      536         Nauru (Republic of)
+      537         Papua New Guinea
+      539         Tonga (Kingdom of)
+      540         Solomon Islands
+      541         Vanuatu (Republic of)
+      542         Fiji (Republic of)
+      543         Wallis and Futuna (Territoire français d'outre-mer)
+      544         American Samoa
+      545         Kiribati (Republic of)
+      546         New Caledonia (Territoire français d'outre-mer)
+      547         French Polynesia (Territoire français d'outre-mer)
+      548         Cook Islands
+      549         Samoa (Independent State of)
+      550         Micronesia (Federated States of)
+      551         Marshall Islands (Republic of the)
+      552         Palau (Republic of)
+      553         Tuvalu
+      554         Tokelau
+      555         Niue
+      602         Egypt (Arab Republic of)
+      603         Algeria (People's Democratic Republic of)
+      604         Morocco (Kingdom of)
+      605         Tunisia
+      606         Libya
+      607         Gambia (Republic of the)
+      608         Senegal (Republic of)
+      609         Mauritania (Islamic Republic of)
+      610         Mali (Republic of)
+      611         Guinea (Republic of)
+      612         Côte d'Ivoire (Republic of)
+
+
+        List of terrestrial trunk radio mobile country codes - numerical order
+ Code (TMCC)      Country or Geographical Area                               Note
+      613         Burkina Faso
+      614         Niger (Republic of the)
+      615         Togolese Republic
+      616         Benin (Republic of)
+      617         Mauritius (Republic of)
+      618         Liberia (Republic of)
+      619         Sierra Leone
+      620         Ghana
+      621         Nigeria (Federal Republic of)
+      622         Chad (Republic of)
+      623         Central African Republic
+      624         Cameroon (Republic of)
+      625         Cabo Verde (Republic of)
+      626         Sao Tome and Principe (Democratic Republic of)
+      627         Equatorial Guinea (Republic of)
+      628         Gabonese Republic
+      629         Congo (Republic of the)
+      630         Democratic Republic of the Congo
+      631         Angola (Republic of)
+      632         Guinea-Bissau (Republic of)
+      633         Seychelles (Republic of)
+      634         Sudan (Republic of the)
+      635         Rwanda (Republic of)
+      636         Ethiopia (Federal Democratic Republic of)
+      637         Somalia (Federal Republic of)
+      638         Djibouti (Republic of)
+      639         Kenya (Republic of)
+      640         Tanzania (United Republic of)
+      641         Uganda (Republic of)
+      642         Burundi (Republic of)
+      643         Mozambique (Republic of)
+      645         Zambia (Republic of)
+      646         Madagascar (Republic of)
+      647         French Departments and Territories in the Indian Ocean
+      648         Zimbabwe (Republic of)
+      649         Namibia (Republic of)
+      650         Malawi
+      651         Lesotho (Kingdom of)
+      652         Botswana (Republic of)
+      653         Swaziland (Kingdom of)
+      654         Comoros (Union of the)
+      655         South Africa (Republic of)
+      657         Eritrea
+      658         Saint Helena, Ascension and Tristan da Cunha
+
+
+        List of terrestrial trunk radio mobile country codes - numerical order
+ Code (TMCC)      Country or Geographical Area                               Note
+      659         South Sudan (Republic of)
+      702         Belize
+      704         Guatemala (Republic of)
+      706         El Salvador (Republic of)
+      708         Honduras (Republic of)
+      710         Nicaragua
+      712         Costa Rica
+      714         Panama (Republic of)
+      716         Peru
+      722         Argentine Republic
+      724         Brazil (Federative Republic of)
+      730         Chile
+      732         Colombia (Republic of)
+      734         Venezuela (Bolivarian Republic of)
+      736         Bolivia (Plurinational State of)
+      738         Guyana
+      740         Ecuador
+      742         French Guiana (French Department of)
+      744         Paraguay (Republic of)
+      746         Suriname (Republic of)
+      748         Uruguay (Eastern Republic of)
+      750         Falkland Islands (Malvinas)
+      8XX         Reserved                                                       a
+      901         Not allocated
+
+
+
+
+       List of terrestrial trunk radio mobile country codes - alphabetical order
+ Code (TMCC)      Country or Geographical Area                                Note
+      412         Afghanistan
+      276         Albania (Republic of)
+      603         Algeria (People's Democratic Republic of)
+      544         American Samoa
+      213         Andorra (Principality of)
+      631         Angola (Republic of)
+      365         Anguilla
+      344         Antigua and Barbuda
+      722         Argentine Republic
+      283         Armenia (Republic of)
+      363         Aruba
+      505         Australia
+      232         Austria
+      400         Azerbaijan (Republic of)
+      364         Bahamas (Commonwealth of the)
+      426         Bahrain (Kingdom of)
+      470         Bangladesh (People's Republic of)
+      342         Barbados
+      257         Belarus (Republic of)
+      206         Belgium
+      702         Belize
+      616         Benin (Republic of)
+      350         Bermuda
+      402         Bhutan (Kingdom of)
+      736         Bolivia (Plurinational State of)
+      362         Bonaire, Sint Eustatius and Saba
+      218         Bosnia and Herzegovina
+      652         Botswana (Republic of)
+      724         Brazil (Federative Republic of)
+      348         British Virgin Islands
+      528         Brunei Darussalam
+      284         Bulgaria (Republic of)
+      613         Burkina Faso
+      642         Burundi (Republic of)
+      625         Cabo Verde (Republic of)
+      456         Cambodia (Kingdom of)
+      624         Cameroon (Republic of)
+      302         Canada
+      346         Cayman Islands
+      623         Central African Republic
+      622         Chad (Republic of)
+      730         Chile
+      460         China (People's Republic of)
+
+
+       List of terrestrial trunk radio mobile country codes - alphabetical order
+ Code (TMCC)      Country or Geographical Area                                Note
+      461         China (People's Republic of)
+      732         Colombia (Republic of)
+      654         Comoros (Union of the)
+      629         Congo (Republic of the)
+      548         Cook Islands
+      712         Costa Rica
+      612         Côte d'Ivoire (Republic of)
+      219         Croatia (Republic of)
+      368         Cuba
+      362         Curaçao
+      280         Cyprus (Republic of)
+      230         Czech Republic
+      467         Democratic People's Republic of Korea
+      630         Democratic Republic of the Congo
+      238         Denmark
+      638         Djibouti (Republic of)
+      366         Dominica (Commonwealth of)
+      370         Dominican Republic
+      740         Ecuador
+      602         Egypt (Arab Republic of)
+      706         El Salvador (Republic of)
+      627         Equatorial Guinea (Republic of)
+      657         Eritrea
+      248         Estonia (Republic of)
+      636         Ethiopia (Federal Democratic Republic of)
+      750         Falkland Islands (Malvinas)
+      288         Faroe Islands
+      542         Fiji (Republic of)
+      244         Finland
+      208         France
+      647         French Departments and Territories in the Indian Ocean
+      742         French Guiana (French Department of)
+      547         French Polynesia (Territoire français d'outre-mer)
+      628         Gabonese Republic
+      607         Gambia (Republic of the)
+      282         Georgia
+      262         Germany (Federal Republic of)
+      620         Ghana
+      266         Gibraltar
+      202         Greece
+      290         Greenland (Denmark)
+      352         Grenada
+      340         Guadeloupe (French Department of)
+      704         Guatemala (Republic of)
+
+
+       List of terrestrial trunk radio mobile country codes - alphabetical order
+ Code (TMCC)      Country or Geographical Area                                Note
+      611         Guinea (Republic of)
+      632         Guinea-Bissau (Republic of)
+      738         Guyana
+      372         Haiti (Republic of)
+      708         Honduras (Republic of)
+      454         Hong Kong, China
+      216         Hungary
+      274         Iceland
+      404         India (Republic of)
+      406         India (Republic of)
+      405         India (Republic of)
+      510         Indonesia (Republic of)
+      432         Iran (Islamic Republic of)
+      418         Iraq (Republic of)
+      272         Ireland
+      425         Israel (State of)
+      222         Italy
+      338         Jamaica
+      440         Japan
+      441         Japan
+      416         Jordan (Hashemite Kingdom of)
+      401         Kazakhstan (Republic of)
+      639         Kenya (Republic of)
+      545         Kiribati (Republic of)
+      450         Korea (Republic of)
+      221         Kosovo*                                                      c
+      419         Kuwait (State of)
+      437         Kyrgyz Republic
+      457         Lao People's Democratic Republic
+      247         Latvia (Republic of)
+      415         Lebanon
+      651         Lesotho (Kingdom of)
+      618         Liberia (Republic of)
+      606         Libya
+      295         Liechtenstein (Principality of)
+      246         Lithuania (Republic of)
+      270         Luxembourg
+      455         Macao, China
+      646         Madagascar (Republic of)
+      650         Malawi
+      502         Malaysia
+      472         Maldives (Republic of)
+      610         Mali (Republic of)
+      278         Malta
+
+
+       List of terrestrial trunk radio mobile country codes - alphabetical order
+ Code (TMCC)      Country or Geographical Area                                Note
+      551         Marshall Islands (Republic of the)
+      340         Martinique (French Department of)
+      609         Mauritania (Islamic Republic of)
+      617         Mauritius (Republic of)
+      334         Mexico
+      550         Micronesia (Federated States of)
+      259         Moldova (Republic of)
+      212         Monaco (Principality of)
+      428         Mongolia
+      297         Montenegro
+      354         Montserrat
+      604         Morocco (Kingdom of)
+      643         Mozambique (Republic of)
+      414         Myanmar (the Republic of the Union of)
+      649         Namibia (Republic of)
+      536         Nauru (Republic of)
+      429         Nepal (Federal Democratic Republic of)
+      204         Netherlands (Kingdom of the)
+      546         New Caledonia (Territoire français d'outre-mer)
+      530         New Zealand
+      710         Nicaragua
+      614         Niger (Republic of the)
+      621         Nigeria (Federal Republic of)
+      555         Niue
+      242         Norway
+      901         Not allocated
+      422         Oman (Sultanate of)
+      410         Pakistan (Islamic Republic of)
+      552         Palau (Republic of)
+      714         Panama (Republic of)
+      537         Papua New Guinea
+      744         Paraguay (Republic of)
+      716         Peru
+      515         Philippines (Republic of the)
+      260         Poland (Republic of)
+      268         Portugal
+      330         Puerto Rico
+      427         Qatar (State of)
+      0XX         Reserved                                                     a
+      1XX         Reserved                                                     a
+      8XX         Reserved                                                     a
+      226         Romania
+      250         Russian Federation
+      635         Rwanda (Republic of)
+
+
+       List of terrestrial trunk radio mobile country codes - alphabetical order
+ Code (TMCC)      Country or Geographical Area                                            Note
+      658         Saint Helena, Ascension and Tristan da Cunha
+      356         Saint Kitts and Nevis
+      358         Saint Lucia
+      308         Saint Pierre and Miquelon (Collectivité territoriale de la République
+                  française)
+      360         Saint Vincent and the Grenadines
+      549         Samoa (Independent State of)
+      292         San Marino (Republic of)
+      626         Sao Tome and Principe (Democratic Republic of)
+      420         Saudi Arabia (Kingdom of)
+      608         Senegal (Republic of)
+      220         Serbia (Republic of)
+      633         Seychelles (Republic of)
+      619         Sierra Leone
+      525         Singapore (Republic of)
+      362         Sint Maarten (Dutch part)
+      231         Slovak Republic
+      293         Slovenia (Republic of)
+      540         Solomon Islands
+      637         Somalia (Federal Republic of)
+      655         South Africa (Republic of)
+      659         South Sudan (Republic of)
+      214         Spain
+      413         Sri Lanka (Democratic Socialist Republic of)
+      634         Sudan (Republic of the)
+      746         Suriname (Republic of)
+      653         Swaziland (Kingdom of)
+      240         Sweden
+      228         Switzerland (Confederation of)
+      417         Syrian Arab Republic
+      466         Taiwan, China
+      436         Tajikistan (Republic of)
+      640         Tanzania (United Republic of)
+      520         Thailand
+      294         The Former Yugoslav Republic of Macedonia
+      514         Timor-Leste (Democratic Republic of)
+      615         Togolese Republic
+      554         Tokelau
+      539         Tonga (Kingdom of)
+      374         Trinidad and Tobago
+      605         Tunisia
+      286         Turkey
+      438         Turkmenistan
+      376         Turks and Caicos Islands
+      553         Tuvalu
+
+       List of terrestrial trunk radio mobile country codes - alphabetical order
+ Code (TMCC)      Country or Geographical Area                                Note
+      641         Uganda (Republic of)
+      255         Ukraine
+      430         United Arab Emirates                                         b
+      431         United Arab Emirates                                         b
+      424         United Arab Emirates
+      234         United Kingdom of Great Britain and Northern Ireland
+      235         United Kingdom of Great Britain and Northern Ireland
+      316         United States of America
+      315         United States of America
+      314         United States of America
+      313         United States of America
+      312         United States of America
+      311         United States of America
+      310         United States of America
+      332         United States Virgin Islands
+      748         Uruguay (Eastern Republic of)
+      434         Uzbekistan (Republic of)
+      541         Vanuatu (Republic of)
+      225         Vatican City State
+      734         Venezuela (Bolivarian Republic of)
+      452         Viet Nam (Socialist Republic of)
+      543         Wallis and Futuna (Territoire français d'outre-mer)
+      421         Yemen (Republic of)
+      645         Zambia (Republic of)
+      648         Zimbabwe (Republic of)
+
+
+
+
+                         Notes common to Numerical and Alphabetical Lists of
+                      Recommendation ITU-T E.218 mobile country codes ((T)MCCs)
+
+Notes
+
+a.      Mobile country codes ((T)MCCs) that begin with the digits 0, 1 and 8 are reserved for future use.
+
+b.      United Arab Emirates, Dubai: 431; Abu Dhabi: 430.
+
+c.      This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ
+        Opinion on the Kosovo declaration of independence.
+
+
+
+
+                                    AMENDMENTS
+
+
+           Amendment No.   Operational Bulletin No.   Country
+
+                  1
+
+                  2
+
+                  3
+
+                  4
+
+                  5
+
+                  6
+
+                  7
+
+                  8
+
+                  9
+
+                 10
+
+                 11
+
+                 12
+
+                 13
+
+                 14
+
+                 15
+
+                 16
+
+                 17
+
+                 18
+
+                 19
+
+                 20
+
+                 21
+
+                 22
+
+                 23
+
+                 24
+
+                 25
+
+                 26
+
+                 27
+
+                 28
+
+                 29
+
+                 30
+
+
+
+

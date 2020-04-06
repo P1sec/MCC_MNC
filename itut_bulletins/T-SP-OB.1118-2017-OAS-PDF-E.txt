@@ -1,0 +1,775 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1118             15.II.2017                  (Information received by 1 February 2017) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Identification codes for International Mobile Networks .......................................................                                     4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)): ...............                                                           4
+Telephone Service:
+     Burkina Faso (Autorité de Régulation des Communications Electroniques et des Postes (ARCEP),
+        Ouagadougou) ....................................................................................................................................          5
+     Costa Rica (Superintendencia de Telecomunicaciones (SUTEL), San José) ...............................................                                         8
+     Haiti (Conseil National des Télécommunications (CONATEL)) ..................................................................                                 10
+Other communications ..................................................................................................................................           12
+Service Restrictions ........................................................................................................................................     13
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   13
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                        14
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................      15
+List of ITU Carrier Codes .................................................................................................................................       16
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                      17
+List of International Signalling Point Codes (ISPC) .........................................................................................                     18
+National Numbering Plan ...............................................................................................................................           19
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1119              1.III.2017            15.II.2017
+               1120             15.III.2017            1.III.2017
+               1121              1.IV.2017             17.III.2017
+               1122             15.IV.2017             31.III.2017
+               1123              1.V.2017              14.IV.2017
+               1124             15.V.2017               1.V.2017
+               1125              1.VI.2017             16.V.2017
+               1126             15.VI.2017             1.VI.2017
+               1127             1.VII.2017             16.VI.2017
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+     (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+     E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+     subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+     (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+     Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1066 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+     (Position on 15 December 2014)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+     2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+     optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+     Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+     (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+     to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+     (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+     operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+     accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+     (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+     T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+     (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+     series Recommendations) (Position on 15 February 2011)
+972 List of terrestrial trunk radio mobile country codes (Complement to ITU-T Recommendation E.218
+     (05/2004)) (Position on 15 January 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+     on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+     Recommendation F.1 (03/1998))
+B.   The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+      International Identification Plan for Public Networks and Subscriptions
+                     (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                                   Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has
+been assigned on 1 February 2017:
+
+                                                                            Mobile Country Code (MCC)* and Mobile Network
+                              Network
+                                                                                            Code (MNC)**
+ Teleena Holding B.V.                                                                               901 54
+
+______________
+*    MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+**   MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                     Assignment of Signalling Area/Network Codes (SANC)
+                           (Recommendation ITU-T Q.708 (03/99))
+
+Note from TSB
+      At the request of the Administration of China, the Director of TSB has assigned the following signalling
+area/network code (SANC) for use in the international part of the signalling system No. 7 network of this
+country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                    Country/geographical area or signalling network                                           SANC
+
+                    Hong Kong, China                                                                          4-185
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                           Telephone Service
+
+Burkina Faso (country code +226)
+Communication of 27.I.2017:
+The Autorité de Régulation des Communications Electroniques et des Postes (ARCEP), Ouagadougou, announces
+the National Numbering Plan of Burkina Faso.
+                   Presentation of the ITU-T E.164 numbering plan for country code 226
+a) Overview:
+ The minimum number length (excluding the country code) is 8 digits.
+ The maximum number length (excluding the country code) is 8 digits.
+b) Detail of numbering plan:
+
+
+    NDC (national
+                            N(S)N number length
+ destination code) or
+   leading digits of                                       Usage of
+                                                                                Additional information
+    N(S)N (national     Maximum        Minimum        ITU-T E.164 number
+     (significant)       length         length
+       number)
+          20                   8          8       Geographic Number –        Zone code West
+                                                  Fixed telephone service
+          24                   8          8       Geographic Number –        Zone code North and East
+                                                  Fixed telephone service
+          25                   8          8       Geographic Number –        Zone code Centre
+                                                  Fixed telephone service
+          51                   8          8       Non Geographic Number -    Telemob (ONATEL S.A.)
+                                                  Mobile telephone service
+          55                   8          8       Non Geographic Number -    Airtel Burkina S.A.
+                                                  Mobile telephone service
+          60                   8          8       Non Geographic Number -    Telemob (ONATEL S.A.)
+                                                  Mobile telephone service
+          61                   8          8       Non Geographic Number -    Telemob (ONATEL S.A.)
+                                                  Mobile telephone service
+          62                   8          8       Non Geographic Number -    Telemob (ONATEL S.A.)
+                                                  Mobile telephone service
+          63                   8          8       Non Geographic Number -    Telemob (ONATEL S.A.)
+                                                  Mobile telephone service
+          64                   8          8       Non Geographic Number -    Airtel Burkina S.A.
+                                                  Mobile telephone service
+          65                   8          8       Non Geographic Number -    Airtel Burkina S.A.
+                                                  Mobile telephone service
+          66                   8          8       Non Geographic Number -    Airtel Burkina S.A.
+                                                  Mobile telephone service
+          67                   8          8       Non Geographic Number -    Airtel Burkina S.A.
+                                                  Mobile telephone service
+
+
+
+
+   NDC (national
+                       N(S)N number length
+destination code) or
+  leading digits of                                  Usage of
+                                                                           Additional information
+   N(S)N (national     Maximum    Minimum       ITU-T E.164 number
+    (significant)       length     length
+      number)
+        68                8          8       Non Geographic Number -    Telecel Faso S.A.
+                                             Mobile telephone service
+        69                8          8       Non Geographic Number -    Telecel Faso S.A.
+                                             Mobile telephone service
+        70                8          8       Non Geographic Number -    Telemob (ONATEL S.A.)
+                                             Mobile telephone service
+        71                8          8       Non Geographic Number -    Telemob (ONATEL S.A.)
+                                             Mobile telephone service
+        72                8          8       Non Geographic Number -    Telemob (ONATEL S.A.)
+                                             Mobile telephone service
+        73                8          8       Non Geographic Number -    Telemob (ONATEL S.A.)
+                                             Mobile telephone service
+        74                8          8       Non Geographic Number -    Airtel Burkina S.A.
+                                             Mobile telephone service
+        75                8          8       Non Geographic Number -    Airtel Burkina S.A.
+                                             Mobile telephone service
+        76                8          8       Non Geographic Number -    Airtel Burkina S.A.
+                                             Mobile telephone service
+        77                8          8       Non Geographic Number -    Airtel Burkina S.A.
+                                             Mobile telephone service
+        78                8          8       Non Geographic Number -    Telecel Faso S.A.
+                                             Mobile telephone service
+        79                8          8       Non Geographic Number -    Telecel Faso S.A.
+                                             Mobile telephone service
+
+
+
+
+                                          National Numbering Plan
+                                       Number allocations to operators:
+
+A. Mobile telephone networks
+
+                                                                            New numbers
+                       Operators
+                                                                            AB PQ MC DU
+
+ Telmob (ONATEL S.A.)                                                  7000 XXXX – 7099 XXXX
+                                                                       7100 XXXX – 7199 XXXX
+                                                                       7200 XXXX – 7299 XXXX
+                                                                       7300 XXXX – 7399 XXXX
+                                                                       6000 XXXX – 6099 XXXX
+                                                                       6100 XXXX – 6199 XXXX
+                                                                       6200 XXXX – 6299 XXXX
+                                                                       6300 XXXX – 6399 XXXX
+                                                                       5100 XXXX – 5199 XXXX
+ Airtel Burkina S.A.                                                   7600 XXXX – 7699 XXXX
+                                                                       7500 XXXX – 7599 XXXX
+                                                                       7400 XXXX – 7499 XXXX
+                                                                       7700 XXXX – 7799 XXXX
+                                                                       6600 XXXX – 6699 XXXX
+                                                                       6500 XXXX – 6599 XXXX
+                                                                       6400 XXXX – 6499 XXXX
+                                                                       6700 XXXX – 6799 XXXX
+                                                                       5500 XXXX – 5599 XXXX
+ Telecel Faso S.A.                                                     7800 XXXX – 7899 XXXX
+                                                                       7900 XXXX – 7999 XXXX
+                                                                       6800 XXXX – 6899 XXXX
+                                                                       6900 XXXX – 6999 XXXX
+
+
+B. Fixed telephone networks
+Three trunk codes are used for the three areas into which the national territory has been divided for the
+purpose. The fixed network subscriber numbers format is indicated in the following table:
+
+                                                                                    New numbers
+    Areas                            Operators
+                                                                                    AB PQ MC DU
+       1         ONATEL S.A.                                          2049 XXXX
+       1                                                              2052 XXXX – 2053 XXXX
+       1                                                              2090 XXXX – 2091 XXXX
+       1                                                              2096 XXXX – 2099 XXXX
+       2                                                              2530 XXXX – 2550 XXXX
+       3                                                              2445 XXXX – 2446 XXXX
+       3                                                              2449 XXXX
+       3                                                              2454 XXXX – 2456 XXXX
+       3                                                              2470 XXXX – 2471 XXXX
+       3                                                              2477 XXXX
+       3                                                              2479 XXXX
+
+
+
+
+                                                                                       New numbers
+    Areas                              Operators
+                                                                                       AB PQ MC DU
+
+
+       1         Airtel Burkina S.A.                                     2065 XXXX – 2066 XXXX
+       3                                                                 2465 XXXX – 2466 XXXX
+       2                                                                 2565 XXXX – 2566 XXXX
+
+
+Contact:
+      Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+      B.P. 6437
+      OUAGADOUGOU 01
+      Burkina Faso
+      Tel:    +226 25 37 53 60/61/62
+      Fax:    +226 25 37 53 64
+      E-mail: secretariat@arcep.bf
+      URL: www.arcep.bf
+
+Costa Rica (country code +506)
+Communication of 19.I.2017:
+The Superintendencia de Telecomunicaciones (SUTEL), San José, which under Executive Decree N°35187-MINAET
+(National Numbering Plan) is in charge of the control and administration of Numbering resources in Costa Rica,
+acting in accordance with the provisions of Recommendation ITU-T E.129, presents the:
+             Modification to the ITU-T E.164 National Numbering Plan (NNP) for country code 506
+      Table 1 – Description of introduction of new resource in the ITU-T E.164 National Numbering Plan
+                                             for country code 506
+
+
+NDC (National Destination Code)    N(S)N number length
+                                                                     Usage of                   Date and time of
+   or leading digits of N(S)N      Maximum     Minimum          ITU-T E.164 Number                introduction
+(National (Significant) Number))    length      length
+
+           4703-0000                8 digits   8 digits   IP telephone service              2016 – 12 – 14 – 13:30
+              to                                          Televisora de Costa Rica, S.A.      In conformance with
+           4705-9999                                                                        resolution RCS-294-2016
+
+           4300-0000                8 digits   8 digits   IP telephone service                    2016-10-12
+              to                                          Servicios Technologicos             In conformance with
+           4300-4999                                      Antares de Costa Rica S.A.        resolution RCS-223-2016
+
+           4090-0000                8 digits   8 digits   IP telephone service                    2016-04-13
+              to                                          Servicios Technologicos             In conformance with
+           4090-4999                                      Itellum Limitada S.A.             resolution RCS-075-2016
+
+           40815000                 8 digits   8 digits   IP telephone service                    2013-04-24
+              to                                          Servicios TELECABLE S.A.            In conformance with
+           40824999                                                                         resolution RCS-150-2013
+
+           4032-0000                8 digits   8 digits   IP telephone service                    2015-05-20
+              to                                          Servicios AMNET S.A.                In conformance with
+           4037-9999                                                                        resolution RCS-085-2015
+
+
+
+
+NDC (National Destination Code)    N(S)N number length
+                                                                    Usage of            Date and time of
+   or leading digits of N(S)N      Maximum     Minimum         ITU-T E.164 Number         introduction
+(National (Significant) Number))    length      length
+
+           4010-4000                8 digits   8 digits   IP telephone service            2016-08-31
+              to                                          Servicios R&H                In conformance with
+           4010-7999                                      INTERNATIONAL S.A.         resolution RCS-174-2016
+
+           4001-0000                8 digits   8 digits   IP telephone service            2013-04-24
+              to                                          Servicios CALL MY WAY NY     In conformance with
+           4002-9999                                      S.A.                       resolution RCS-145-2013
+
+           5720-0000                8 digits   8 digits   Mobile telephone service        2013-12-20
+              to                                          TELEVISORA DE COSTA          In conformance with
+           5739-9999                                      RICA, S.A.                 resolution RCS-346-2013
+
+
+
+Contact:
+      Ing. Pedro Arce Villalobos
+      Superintendencia de Telecomunicaciones (SUTEL)
+      Apartado Postal 151-1200
+      SAN JOSÉ, Costa Rica
+      Tel:     +506 4000 0000
+      Fax:     +506 2215 6821
+      Email: pedro.arce@sutel.go.cr
+      URL:     www.sutel.go.cr
+
+
+
+
+Haiti (country code +509)
+Communication of 20.I.2017:
+The Conseil National des Télécommunications (CONATEL), announces the number blocks of the National
+Telephone Numbering Plan of the Republic of Haiti as assigned to telecommunication service operators.
+
+                SERVICE                         NUMBER BLOCK                            OPERATOR
+ International access code             00                                     All operators
+ Special services                      1XX                                    All operators
+                                       22XX XXXX                              NATCOM
+                                       281X XXXX                              DIGICEL
+ Fixed telephony                       291X XXXX                              DIGICEL
+                                       294X XXXX                              DIGICEL
+                                       299X XXXX                              DIGICEL
+                                       30XX XXXX                              DIGICEL
+                                       31XX XXXX                              DIGICEL
+                                       34XX XXXX                              DIGICEL
+                                       36XX XXXX                              DIGICEL
+                                       37XX XXXX                              DIGICEL
+                                       38XX XXXX                              DIGICEL
+                                       390X XXXX                              DIGICEL
+                                       391X XXXX                              DIGICEL
+                                       392X XXXX                              DIGICEL
+                                       393X XXXX                              DIGICEL
+                                       394X XXXX                              DIGICEL
+                                       399X XXXX                              DIGICEL
+ Mobile telephony
+                                       40XX XXXX                              NATCOM
+                                       41XX XXXX                              NATCOM
+                                       42XX XXXX                              NATCOM
+                                       43XX XXXX                              NATCOM
+                                       44XX XXXX                              DIGICEL
+                                       46XX XXXX                              DIGICEL
+                                       47XX XXXX                              DIGICEL
+                                       490X XXXX                              DIGICEL
+                                       491X XXXX                              DIGICEL
+                                       492X XXXX                              DIGICEL
+                                       493X XXXX                              DIGICEL
+                                       494X XXXX                              DIGICEL
+ Value-added service and               8XX X XXXX                             All operators
+ freephone numbers
+                                       995X XXXX                              ACCESS HAITI
+                                       996X XXXX                              ACCESS HAITI
+                                       997X XXXX                              ACCESS HAITI
+                                       998X XXXX                              ACCESS HAITI
+                                       999X XXXX                              ACCESS HAITI
+ VoIP
+                                       990X XXXX                              MULTILINK S.A.
+                                       991X XXXX                              MULTILINK S.A.
+                                       992X XXXX                              MULTILINK S.A.
+                                       993X XXXX                              MULTILINK S.A.
+                                       994X XXXX                              MULTILINK S.A.
+
+
+               SERVICE                        NUMBER BLOCK               OPERATOR
+                                     980X XXXX               HAINET
+                                     981X XXXX               HAINET
+                                     982X XXXX               HAINET
+                                     983X XXXX               HAINET
+                                     985X XXXX               HAINET
+                                     970X XXXX               HDN
+                                     971X XXXX               HDN
+                                     972X XXXX               HDN
+                                     973X XXXX               HDN
+                                     974X XXXX               HDN
+                                     960X XXXX               LC2K S.A.
+                                     961X XXXX               LC2K S.A.
+                                     962X XXXX               LC2K S.A.
+                                     963X XXXX               LC2K S.A.
+                                     964X XXXX               LC2K S.A.
+                                     989X XXXX               ACN
+
+Contact:
+      Conseil National des Télécommunications (CONATEL)
+      4, Avenue Christophe
+      HT6110 PORT-AU-PRINCE
+      Haiti
+      Tel:     +509 25113940
+      Fax:     +509 22440500
+      E-mail: info@conatel.gouv.ht
+      URL:     www.conatel.gouv.ht
+
+
+
+
+                                       Other communications
+
+Austria
+Communication of 20.I.2017:
+
+On the occasion of the World Winter Games of the Special Olympics, the Austrian Administration authorizes
+some Austrian amateur stations to use the special call signs OE11SO, OE11WG, OE40SO and OE40WG from 14
+to 26 March 2017.
+
+
+Communication of 30.I.2017:
+
+On the occasion of the World Winter Games of the Special Olympics in Styria/Austria, the Austrian Administration
+authorizes Austrian amateur stations to use the special call signs OE2017xxx/OE2017xx from 14 to 26 March
+2017.
+
+
+Communication of 6.II.2017:
+
+On the occasion of the World Championship Biathlon in Hochfilzen/Austria, the Austrian Administration
+authorizes an Austrian amateur station to use the special call sign OE17WCB from 8 to 19 February 2017.
+
+
+Communication of 8.II.2017:
+
+The Austrian Administration authorizes an Austrian amateur station to use the following special call signs:
+OE78REF, on the occasion of the 78th REF-contest from 25 February, 06:00 UTC to 26 February 2017,
+18:00-UTC.
+OE17IOTA, on the occasion of the IOTA-contest from 29 July 2017, 12:00 UTC to 30 July 2017, 12:00 UTC.
+OE200TS, on the occasion of the 200th anniversary of the birth of the poet Theodor Storm on 14 September
+2017.
+OE17WAE, on the occasion of the WAE (Worked All Europe)-contest (also WAEDC-contest) from 10 September
+2017, 00:00 UTC to 11 September 2017, 23:59 UTC.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                             Abbreviations used
+
+                               ADD   Insert                      PAR    paragraph
+                               COL   Column                      REP    replace
+                               LIR   Read                        SUP    Delete
+                               P     page(s)
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2016
+
+                                                Section VI
+REP
+
+      CS01        Ceská telekomunikacní infrastruktura a.s., international billing, Olsanská 2681/6,
+                  1300 00 Praha 3, The Czech Republic.
+                  Tel.: +420 238 462 029, E-Mail: pavla.bacinova@cetin.cz,
+                  Contact Person: Pavla Bacinova.
+
+      IR01        Ports & Maritime Organization, No.1, Shahidi Avenue, haghghani Avenue,
+                  Vanak Square, Tehran.
+                  Tel.: +98 21 88651116, 84931, Fax: +98 21 84932675, E-Mail: foroughi@pmo.ir,
+                  URL: www.maritimeaffairs.pmo.ir,
+                  Contact Person: A. Foroughi.
+
+      IR18        RAAD BUSHEHR, No.100, Raad Building, Laleh 9 Alley, Janbazan (Bisim) Avenue,
+                  Bushehr, IRAN.
+                  Tel.: +98 7733540020-21, Fax: +98 773 3540022, E-Mail: info@raadbeco.com.
+
+      SK02        Softel s.r.o., Mariánske námestie 29/6, Zilina, Slovak Republic.
+                  Tel.: +421 417631861, Fax: +421 417645214, E-Mail: softel@softel.sk,
+                  Contact Person: Vladimir Vidra.
+
+
+SUP
+
+
+      BG01        Bulgarian Telecommunications Company, Plc., 8, Totleben Blvd., 1606 Sofia, Bulgaria.
+                  Tel.: +359 2 9879225, Fax: +359 2 9515590, E-Mail: stgalev.fin@btc.bg,
+                  Contact Persons: Mr. Stefan Galev or Mrs. Daniela Todorova.
+
+      SK01        Slovak Telecommunications, Telecom International Slovakia, Námestie Slobody 6,
+                  817 62 Bratislava, Slovakia.
+                  Tel.: +421 7 391011, Fax: +421 7 391006, Tlx: 66 91180 tis sk,
+                  Contact Person: Alena Königbauerova.
+
+
+
+
+     Mobile Network Codes (MNC) for the international identification plan
+                    for public networks and subscriptions
+            (According to Recommendation ITU-T E.212 (09/2016))
+                      (Position on 1st November 2016)
+
+                           (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                            (Amendment No. 7)
+
+Country/Geographical area        MCC+MNC *         Operator/Network
+Algeria ADD
+                                      603 03       Wataniya Télécom Algérie « WTA » / GSM/public
+                                      603 07       Algérie Télécom « AT » / WLL / public
+                                      603 09       Algérie Télécom « AT » / LTE Fixe / public
+Algeria LIR
+                                      603 01       Algérie Télécom Mobile « ATM » / GSM/public
+                                      603 02       Optimum Télécom Algérie « OTA » / GSM/public
+Hong Kong, China    ADD
+                                      454 30       China Data Enterprises Ltd
+                                      454 31       China Telecom Global Limited
+                                      454 32       Hong Kong Broadband Network Ltd
+Hong Kong, China    LIR
+                                      454 09       CMMobile Global Communications Ltd
+                                      454 22       263 Mobile Communications (HongKong) Limited
+                                      454 24       Multibyte Info Technology Ltd
+                                      454 25       Government use
+                                      454 26       Government use
+Korea (Rep. of)    SUP
+                                      450 03       SK Telecom
+Korea (Rep. of)    ADD
+                                      450 01       Globalstar Asia Pacific / Satellite network
+                                      450 04       KT / IoT network
+                                      450 05       SK Telecom / 3G, 4G network
+                                      450 07       KT Powertel / 3G network
+                                      450 08       KT / 3G, 4G network
+                                      450 11       SK Telecom / 3G, 4G network
+                                      450 12       SK Telecom / IoT network
+
+
+
+
+Country/Geographical area           MCC+MNC *            Operator/Network
+
+Korea (Rep. of)      LIR
+                                          450 02         KT / 5G test bed
+                                          450 06         LGU+ / 3G, 4G network
+International Mobile, shared
+code     ADD
+                                          901 54         Teleena Holding B.V.
+____________
+* MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+   MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                             (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                              (Amendment No. 38)
+
+ Country or area/ISO code                            Company Code        Contact
+  Company Name/Address                                (carrier code)
+
+Germany (Federal Republic of) / DEU              ADD
+
+ A+U Baumann OHG                                         KBBAUU           Mr Stephen Engel
+ Ludwig-Tjoma-Str. 20                                                     Tel:    +49 921 5161 - 180
+ 95448 BAYREUTH                                                           Fax:    +49 921 5161 - 101
+                                                                          E-mail: info@kabel-baumann.de
+
+ Dimension Data Germany AG & Co. KG                      DIDATA           Mrs Sevilay Seelmann
+ Horexstr. 7                                                              Tel:    +49 6172 6806 311
+ 61352 BAD HOMBURG                                                        Fax: +49 6172 6806 150
+                                                                          E-mail: sevilay.seelmann@dimensiondata.com
+
+ GmuendCOM GmbH                                          GDCOM           Mr Dirk Jentzsch
+ Buergerstrasse 5                                                        Tel:     +49 7171104160
+ 73525 SCHWAEBISCH GMUEND                                                Fax:     +49 7171104162146
+                                                                         E-mail: dirk.jentzsch@ropa.de
+
+ MEGA Monheimer Elektrizitäts-und                       DEMEGA           Mrs Annebelle Gerhold
+ Gasversorgung GmbH                                                      Tel:    +49 2173 9520 361
+ Rheinpromenade 3 A                                                      Fax:    +49 2173 9520 350
+ 40789 MONHEIM AM RHEIN                                                  E-mail: annabelle.gerhold@mega-monheim.de
+
+ tenios GmbH                                             TENIOS          Mr Uemit Oeztuerk
+ Josef-Lammerting-Allee 16                                               Tel:    +49 221 55400300
+ 50933 COLOGNE                                                           E-mail: uo@tenios.de
+
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                             (Position on 15 December 2014)
+                               (Annex to ITU Operational Bulletin No. 1066 – 15.XII.2014)
+                                                (Amendment No. 22)
+
+
+
+ Numerical order        ADD
+               4-185        Hong Kong, China
+
+
+
+ Alphabetical order ADD
+               4-185        Hong Kong, China
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                   (Amendment No. 9)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Czech Rep. SUP
+ 2-060-7       4583         Voinet CZ                                  J.S.tel s.r.o
+
+ Hong Kong, China SUP
+ 4-111-3       9083         Voice Exchange Ltd                         Voice Exchange Ltd
+ 4-111-4       9084         KWHK                                       KeyWest Communications (HK) Ltd
+ 4-181-6       9646         HK-ISC                                     Bangla Trac Communications Limited
+
+ Hong Kong, China ADD
+ 4-107-0       9048         HKT ISC1                                   Hong Kong Telecommunications (HKT) Ltd
+ 4-107-1       9049         HKT ISC2                                   Hong Kong Telecommunications (HKT) Ltd
+ 4-111-3       9083         HKGCH1                                     China-Hongkong Telecom Ltd
+ 4-177-0       9608         HKLS                                       HK Langsen International Communication Ltd
+ 4-180-6       9638         NTTCA-ISC-HKG01                            NTT Com Asia Ltd
+
+ Hong Kong, China LIR
+ 4-106-3       9043         Tung Chung/HKG1                            HKBN Enterprise Solutions Limited
+ 4-106-4       9044         Kwai Chung/HKG2                            HKBN Enterprise Solutions Limited
+ 4-106-5       9045         HKT ISGW1                                  Hong Kong Telecommunications (HKT) Ltd
+ 4-178-4       9620         HKT ISGW2                                  Hong Kong Telecommunications (HKT) Ltd
+ 4-178-6       9622         HKGSTP1                                    Telenor Global Services Hong Kong Limited
+ 4-180-7       9639         Kwai Chung/HKG3                            HKBN Enterprise Solutions Limited
+ 4-181-2       9642         C&C08#2                                    HKBN Enterprise Solutions Limited
+ 4-183-6       9662         CMTHK01                                    CMMobile Global Communications Ltd
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web:www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.I.2017 the following countries have updated their national numbering plan on our site:
+
+                                  Country                              Country Code (CC)
+               Burkina Faso                                                   +226
+
+
+
+

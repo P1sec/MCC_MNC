@@ -1,0 +1,1206 @@
+                       ITU Operational Bulletin
+                                                         www.itu.int/itu-t/bulletin
+
+       No. 1192              15.III.2020                 (Information received by 2 March 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                Standardization Bureau (TSB)                                           Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                               Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                               Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                              E-mail: brmail@itu.int
+
+
+
+
+                                                                 Table of Contents
+                                                                                                                                                                      Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ................................................................................3
+Telephone Service
+     Georgia (Georgian National Communications Commission, Tbilisi) ...................................................................4
+     Sierra Leone (National Telecommunications Commission (NATCOM), Freetown) .............................................8
+     Thailand (Office of the National Broadcasting and Telecommunication Commission
+        (the Office of NBTC), Bangkok) .....................................................................................................................9
+Other communication
+     Serbia ................................................................................................................................................................22
+Service Restrictions ................................................................................................................................................23
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ........................................................................23
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .................................................24
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .............................................................................................................................................25
+List of International Signalling Point Codes (ISPC) .................................................................................................26
+National Numbering Plan .......................................................................................................................................27
+
+
+
+
+                                                                                                                                    www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1193              1.IV.2020             16.III.2020
+               1194             15.IV.2020             1.IV.2020
+               1195              1.V.2020              15.IV.2020
+               1196             15.V.2020               1.V.2020
+               1197              1.VI.2020             15.V.2020
+               1198             15.VI.2020             1.VI.2020
+               1199             1.VII.2020             15.VI.2020
+               1200             15.VII.2020            1.VII.2020
+               1201             1.VIII.2020           15.VII.2020
+               1202            15.VIII.2020           31.VII.2020
+               1203              1.IX.2020            14.VIII.2020
+               1204             15.IX.2020             1.IX.2020
+               1205              1.X.2020              15.IX.2020
+               1206             15.X.2020               1.X.2020
+               1207              1.XI.2020             15.X.2020
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021             11.XII.2020
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                    Telephone Service
+                               (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+
+Georgia (country code +995)
+Communication of 19.II.2020:
+The Georgian National Communications Commission, Tbilisi, announces the following national numbering plan
+for Georgia:
+
+ Locality         NDC            National (Significant)     Usage E.164 number    Additional information
+ or                                 Number N(S)N
+ operator
+                                  Max.         Min.
+ Batumi           422               9            9        Geographic number
+ Tbilisi          32                9            9        Geographic number
+ Rustavi          341               9            9        Geographic number
+ Kobuleti         426               9            9        Geographic number
+ Samtredia        411               9            9        Geographic number
+ Abasha           412               9            9        Geographic number
+ Senaki           413               9            9        Geographic number
+ Zugdidi          415               9            9        Geographic number
+ Tsalendjikha     416               9            9        Geographic number
+ Chkhorotskhu     417               9            9        Geographic number
+ Martvili         418               9            9        Geographic number
+ Kutaisi          431               9            9        Geographic number
+ Vani             432               9            9        Geographic number
+ Kharagauli       433               9            9        Geographic number
+ Sachkhere        435               9            9        Geographic number
+ Lentekhi         437               9            9        Geographic number
+ Ambrolauri       439               9            9        Geographic number
+ Tskaltubo        436               9            9        Geographic number
+ Akhalgori        342               9            9        Geographic number
+ Tskhinvali       344               9            9        Geographic number
+ Stefanstminda    345               9            9        Geographic number
+ (Kazbegi)
+ Dusheti          346               9            9        Geographic number
+ Djava            347               9            9        Geographic number
+ Tianeti          348               9            9        Geographic number
+ Akhmeta          349               9            9        Geographic number
+ Telavi           350               9            9        Geographic number
+ Sagaredjo        351               9            9        Geographic number
+ Kvareli          352               9            9        Geographic number
+ Gurdjaani        353               9            9        Geographic number
+ Lagodekhi        354               9            9        Geographic number
+ Signagi          355               9            9        Geographic number
+ DedoplisTskaro   356               9            9        Geographic number
+ Marneuli         357               9            9        Geographic number
+ Bolnisi          358               9            9        Geographic number
+
+Locality          NDC          National (Significant)     Usage E.164 number      Additional information
+or                                Number N(S)N
+operator
+                                Max.         Min.
+TetriTskaro       359             9            9        Geographic number
+Dmanisi           360             9            9        Geographic number
+Ninotsminda       361             9            9        Geographic number
+Akhalkalaki       362             9            9        Geographic number
+Tsalka            363             9            9        Geographic number
+Aspindza          364             9            9        Geographic number
+Akhaltsikhe       365             9            9        Geographic number
+Adigeni           366             9            9        Geographic number
+Bordjomi          367             9            9        Geographic number
+Khashuri          368             9            9        Geographic number
+Kareli            369             9            9        Geographic number
+Gori              370             9            9        Geographic number
+Kaspi             371             9            9        Geographic number
+Gardabani         372             9            9        Geographic number
+Mtskheta          373             9            9        Geographic number
+Tigvi             374             9            9        Geographic number
+Chiatura          479             9            9        Geographic number
+Terdjola          491             9            9        Geographic number
+Zestafoni         492             9            9        Geographic number
+Poti              493             9            9        Geographic number
+Khoni             495             9            9        Geographic number
+Ozurgeti          496             9            9        Geographic number
+Tkibuli           497             9            9        Geographic number
+lanchxuti         494             9            9        Geographic number
+Tsageri           472             9            9        Geographic number
+Oni               473             9            9        Geographic number
+Mestia            410             9            9        Geographic number
+Xobi              414             9            9        Geographic number
+Xulo              423             9            9        Geographic number
+Shuaxevi          424             9            9        Geographic number
+Qeda              425             9            9        Geographic number
+Choxatauri        419             9            9        Geographic number
+Bagdati           434             9            9        Geographic number
+xelvachauri       427             9            9        Geographic number
+Sukhumi           442             9            9        Geographic number
+Gagra             443             9            9        Geographic number
+Gulripshi         448             9            9        Geographic number
+Gudauta           444             9            9        Geographic number
+Gali              447             9            9        Geographic number
+Ochamchire        445             9            9        Geographic number
+Tkvarcheli        446             9            9        Geographic number
+Mobilaive         500000000-      9            9        Non-geographic number   Mobile network operator
+                  500009999
+
+Locality            NDC          National (Significant)     Usage E.164 number      Additional information
+or                                  Number N(S)N
+operator
+                                  Max.         Min.
+Magticom            500500000-      9            9        Non-geographic number   Mobile network operator
+                    500509999
+Magticom            505555000-      9            9        Non-geographic number   Mobile network operator
+                    505559999
+Magticom            511100000-      9            9        Non-geographic number   Mobile network operator
+                    511199999
+Geo Cell            514             9            9        Non-geographic number   Mobile network operator
+Magticom            522220000-      9            9        Non-geographic number   Mobile network operator
+                    522224999
+Magticom            533330000-      9            9        Non-geographic number   Mobile network operator
+                    533334999
+Magticom            544440000-      9            9        Non-geographic number   Mobile network operator
+                    544449999
+Geo Cell            550000000-      9            9        Non-geographic number   Mobile network operator
+                    550009999
+Geo Cell            550050000-      9            9        Non-geographic number   Mobile network operator
+                    550059999
+Geo Cell            550500000-      9            9        Non-geographic number   Mobile network operator
+                    550509999
+Datacom             550550000-      9            9        Non-geographic number   Mobile network operator
+                    550559999
+Magticom            551             9            9        Non-geographic number   Mobile network operator
+Premium Net         552000000-      9            9        Non-geographic number   Mobile network operator
+International SRL   552009999
+Asanet              552220000-      9            9        Non-geographic number   Mobile network operator
+                    552224999
+Geo Cell            555             9            9        Non-geographic number   Mobile network operator
+Geo Cell            557             9            9        Non-geographic number   Mobile network operator
+Geo Cell            558             9            9        Non-geographic number   Mobile network operator
+Global Cell         559000000-      9            9        Non-geographic number   Mobile network operator
+                    559009999
+Datahouse global    559995000-      9            9        Non-geographic number   Mobile network operator
+                    559999999
+Veon Georgia        568             9            9        Non-geographic number   Mobile network operator
+Silknet             570             9            9        Non-geographic number   Mobile network operator
+Veon Georgia        571             9            9        Non-geographic number   Mobile network operator
+Veon Georgia        574             9            9        Non-geographic number   Mobile network operator
+Asanet              575000000-      9            9        Non-geographic number   Mobile network operator
+                    575004999
+Magticom            575777000-      9            9        Non-geographic number   Mobile network operator
+                    575781999
+Geo Cell            577             9            9        Non-geographic number   Mobile network operator
+Veon Georgia        579             9            9        Non-geographic number   Mobile network operator
+Magticom            585888000-      9            9        Non-geographic number   Mobile network operator
+                    585892999
+
+
+
+ Locality             NDC             National (Significant)     Usage E.164 number       Additional information
+ or                                      Number N(S)N
+ operator
+                                       Max.         Min.
+ Geo Cell             588880000-         9            9        Non-geographic number   Mobile network operator
+                      588889999
+ Magticom             591                9            9        Non-geographic number   Mobile network operator
+ Veon Georgia         592                9            9        Non-geographic number   Mobile network operator
+ Geo Cell             593                9            9        Non-geographic number   Mobile network operator
+ Magticom             595                9            9        Non-geographic number   Mobile network operator
+ Magticom             596                9            9        Non-geographic number   Mobile network operator
+ Veon Georgia         597                9            9        Non-geographic number   Mobile network operator
+ Magticom             598                9            9        Non-geographic number   Mobile network operator
+ Magticom             599                9            9        Non-geographic number   Mobile network operator
+                      706-707            9            9        Non-geographic number   For service with VOIP –
+                                                                                       Voice over Internet Protocol
+ Magticom             708000000-         9            9        Non-geographic number   M2M/IoT services
+                      708049999
+ Veon Georgia         708270000-         9            9        Non-geographic number   M2M/IoT services
+                      708274999
+ Silknet              711000000-         9            9        Non-geographic number   M2M/IoT services
+                      711019999
+ Magticom             790                9            9        Non-geographic number   Digital fix(CDMA) telephony
+                                                                                       services
+
+Contact:
+            Georgian National Communications Commission
+            50/18 Ketevan Tsamebuli-Bochorma Str.
+            TBILISI 0144
+            Georgia
+            Tel:     +995 32 2921667
+            Fax:     +995 32 2921625
+            E-mail: post@gncc.ge
+            URL:     www.gncc.ge
+
+
+
+
+Sierra Leone (country code +232)
+Communication of 24.II.2020:
+The National Telecommunications Commission (NATCOM), Freetown, announces the following update to the
+national numbering plan of Sierra Leone:
+
+                                 Description of introduction of new resource for
+                               national E.164 numbering plan for country code 232:
+
+   NDC (national         N(S)N number length
+  destination code)
+ or leading digits of                                          Usage of                     Time and date of
+   N(S)N (national      Maximum      Minimum              ITU-T E.164 number                  introduction
+     (significant)       length       length
+       number)
+ 74 (NDC)                  8             8       Non geographic number for Orange SL     10:00AM, 21-02-2020
+
+
+International dialling format: +232 74 XXX XXX where XXX XXX is the subscriber number assigned.
+
+Contact:
+           Mr Abdul Bah
+           National Telecommunications Commission (NATCOM)
+           13 Regent Road
+           Hill Station, FREETOWN
+           Sierra Leone
+           Tel:      +232 88 600 003 or +232 78 333 444
+           E-mail: abah@natcom.gov.sl
+           URL:      www.natcom.gov.sl
+
+
+
+
+Thailand (country code +66)
+Communication of 28.II.2020:
+The Office of the National Broadcasting and Telecommunication Commission (the Office of NBTC), Bangkok,
+announces that the new numbering plan, which will change fixed line numbering structure from 9 to 10 digits,
+has already been implemented since 21 January 2020. However, several adjustments have been made in this
+new numbering plan. The details are as follows:
+1.     The time frame for changing the fixed line numbering structure, from 9 digits to 10 digits, is postponed
+from 1 January 2021 to 1 January 2025. Furthermore, there will be three additional mobile numbering categories
+which will be implemented on 1 January 2025.
+2.   During the transition period, from 21 January 2020 to 31 December 2024, the four additional fixed line
+numbering categories of 9 digits are applied.
+
+
+Current and future national numbering plans, as per Rec. ITU-T E.129 format presentation, are available below.
+
+
+                 National numbering plan applied from 21 January 2020 to 31 December 2024:
+a)     Overview:
+       The minimum number length (excluding country code) is: eight (8) digits
+       The maximum number length (excluding country code) is: nine (9) digits
+b)     Detail of numbering scheme:
+
+     NDC (National         N(S)N Number Length
+  Destination Code) or
+ leading digits of N(S)N   Maximum    Minimum        Usage of E.164 number           Additional Information
+ (National (Significant)    length     length
+        Number)
+ 10                           8          8       Geographic number for fixed     Area code for Bangkok and
+                                                 telephony services              vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 16                           8          8       Geographic number for fixed     Area code for Bangkok and
+                                                 telephony services              vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 18                           8          8       Geographic number for fixed     Area code for Bangkok and
+                                                 telephony services              vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 19                           8          8       Geographic number for fixed     Area code for Bangkok and
+                                                 telephony services              vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 20                           8          8       Geographic number for fixed     Area code for Bangkok and
+                                                 telephony services              vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 21                           8          8       Geographic number for fixed     Area code for Bangkok and
+                                                 telephony services              vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 22                           8          8       Geographic number for fixed     Area code for Bangkok and
+                                                 telephony services              vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 23                           8          8       Geographic number for fixed     Area code for Bangkok and
+                                                 telephony services              vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 24                           8          8       Geographic number for fixed     Area code for Bangkok and
+                                                 telephony services              vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+
+
+    NDC (National         N(S)N Number Length
+ Destination Code) or
+leading digits of N(S)N   Maximum    Minimum        Usage of E.164 number         Additional Information
+(National (Significant)    length     length
+       Number)
+25                           8          8       Geographic number for fixed   Area code for Bangkok and
+                                                telephony services            vicinity: Nonthaburi, Pathum
+                                                                              Thani and Samut Prakarn
+26                           8          8       Geographic number for fixed   Area code for Bangkok and
+                                                telephony services            vicinity: Nonthaburi, Pathum
+                                                                              Thani and Samut Prakarn
+27                           8          8       Geographic number for fixed   Area code for Bangkok and
+                                                telephony services            vicinity: Nonthaburi, Pathum
+                                                                              Thani and Samut Prakarn
+28                           8          8       Geographic number for fixed   Area code for Bangkok and
+                                                telephony services            vicinity: Nonthaburi, Pathum
+                                                                              Thani and Samut Prakarn
+29                           8          8       Geographic number for fixed   Area code for Bangkok and
+                                                telephony services            vicinity: Nonthaburi, Pathum
+                                                                              Thani and Samut Prakarn
+30                           8          8       Geographic number for fixed   Reserve for central region,
+                                                telephony services            eastern region and western
+                                                                              region (except Bangkok and
+                                                                              vicinity: Nonthaburi, Pathum
+                                                                              Thani and Samut Prakarn)
+31                           8          8       Geographic number for fixed   Reserve for central region,
+                                                telephony services            eastern region and western
+                                                                              region (except Bangkok and
+                                                                              vicinity: Nonthaburi, Pathum
+                                                                              Thani and Samut Prakarn)
+32                           8          8       Geographic number for fixed   Area code for central region:
+                                                telephony services            Ratchaburi, Phetchaburi and
+                                                                              Prachuap Khirikhan
+33                           8          8       Geographic number for fixed   Area code for eastern region:
+                                                telephony services            Chacheongsao, Rayong and
+                                                                              Chon Buri
+34                           8          8       Geographic number for fixed   Area code for central region:
+                                                telephony services            Nakhon Pathom, Samut
+                                                                              Sakhon, Kanchanaburi and
+                                                                              Samut Songkhram
+35                           8          8       Geographic number for fixed   Area code for central region:
+                                                telephony services            Pranakhon Sri Ayutthaya,
+                                                                              Suphan Buri and Ang Thong
+36                           8          8       Geographic number for fixed   Area code for central region:
+                                                telephony services            Saraburi, Lopburi and Singburi
+37                           8          8       Geographic number for fixed   Area code for eastern region:
+                                                telephony services            Prachin Buri, Sa Kaeo and
+                                                                              Nakhon Nayok
+38                           8          8       Geographic number for fixed   Area code for eastern region:
+                                                telephony services            Chacheongsao, Rayong and
+                                                                              Chon Buri
+39                           8          8       Geographic number for fixed   Area code for eastern region:
+                                                telephony services            Chanthaburi and Trat
+40                           8          8       Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+41                           8          8       Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+
+
+    NDC (National         N(S)N Number Length
+ Destination Code) or
+leading digits of N(S)N   Maximum    Minimum        Usage of E.164 number         Additional Information
+(National (Significant)    length     length
+       Number)
+42                           8          8       Geographic number for fixed   Area code for north-eastern
+                                                telephony services            region: Udon Thani, Bueng
+                                                                              Kan, Nhongbua Lamphu, Nong
+                                                                              Khai, Nakhon Phanom,
+                                                                              Mukdahan, Sakon Nakhon and
+                                                                              Loei
+43                           8          8       Geographic number for fixed   Area code for north-eastern
+                                                telephony services            region: Khon Kean, Roi Et,
+                                                                              Maha Sarakham and Kalasin
+44                           8          8       Geographic number for fixed   Area code for north-eastern
+                                                telephony services            region: Nakhon Ratchasima,
+                                                                              Surin, Buriram and
+                                                                              Chaiyaphum
+45                           8          8       Geographic number for fixed   Area code for north-eastern
+                                                telephony services            region: Ubon Ratchathani,
+                                                                              Amnat Charoen, Srisaket and
+                                                                              Yasothon
+46                           8          8       Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+47                           8          8       Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+48                           8          8       Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+49                           8          8       Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+50                           8          8       Geographic number for fixed   Reserve for northern region
+                                                telephony services
+51                           8          8       Geographic number for fixed   Reserve for northern region
+                                                telephony services
+52                           8          8       Geographic number for fixed   Area code for northern region:
+                                                telephony services            Chiang Mai, Lamphun, Mae
+                                                                              Hong Son and Chiang Rai
+53                           8          8       Geographic number for fixed   Area code for northern region:
+                                                telephony services            Chiang Mai, Lamphun, Mae
+                                                                              Hong Son and Chiang Rai
+54                           8          8       Geographic number for fixed   Area code for northern region:
+                                                telephony services            Lampang, Phayao, Phrae and
+                                                                              Nan
+55                           8          8       Geographic number for fixed   Area code for northern region:
+                                                telephony services            Phitsanulok, Uttaradit, Tak,
+                                                                              Sukhothai and Kamphaeng
+                                                                              Phet
+56                           8          8       Geographic number for fixed   Area code for northern region:
+                                                telephony services            Nakhon Sawan, Uthai Thani,
+                                                                              Phichit Chainat and
+                                                                              Phetchabun
+57                           8          8       Geographic number for fixed   Reserve for northern region
+                                                telephony services
+58                           8          8       Geographic number for fixed   Reserve for northern region
+                                                telephony services
+59                           8          8       Geographic number for fixed   Reserve for northern region
+                                                telephony services
+
+    NDC (National         N(S)N Number Length
+ Destination Code) or
+leading digits of N(S)N   Maximum    Minimum         Usage of E.164 number         Additional Information
+(National (Significant)    length     length
+       Number)
+60                           9          9       Non-geographic number for      Nationwide
+                                                Voice over Internet Protocol
+                                                (VoIP)
+70                           8          8       Geographic number for fixed    Reserve for southern region
+                                                telephony services
+71                           8          8       Geographic number for fixed    Reserve for southern region
+                                                telephony services
+72                           8          8       Geographic number for fixed    Reserve for southern region
+                                                telephony services
+73                           8          8       Geographic number for fixed    Area code for southern region:
+                                                telephony services             Yala, Pattani and Narathiwat
+74                           8          8       Geographic number for fixed    Area code for southern region:
+                                                telephony services             Songkla, Phattalung and Satun
+75                           8          8       Geographic number for fixed    Area code for southern region:
+                                                telephony services             Trang, Nakhon Sri Thammarat
+                                                                               and Krabi
+76                           8          8       Geographic number for fixed    Area code for southern region:
+                                                telephony services             Phuket and Phang-nga
+77                           8          8       Geographic number for fixed    Area code for southern region:
+                                                telephony services             Surat Thani, Chumpon and
+                                                                               Ranong
+78                           8          8       Geographic number for fixed    Reserve for southern region
+                                                telephony services
+79                           8          8       Geographic number for fixed    Reserve for southern region
+                                                telephony services
+80                           9          9       Non-geographic number for      Nationwide
+                                                mobile telephony services
+81                           9          9       Non-geographic number for      Nationwide
+                                                mobile telephony services
+82                           9          9       Non-geographic number for      Nationwide
+                                                mobile telephony services
+83                           9          9       Non-geographic number for      Nationwide
+                                                mobile telephony services
+84                           9          9       Non-geographic number for      Nationwide
+                                                mobile telephony services
+85                           9          9       Non-geographic number for      Nationwide
+                                                mobile telephony services
+86                           9          9       Non-geographic number for      Nationwide
+                                                mobile telephony services
+87                           9          9       Non-geographic number for      Nationwide
+                                                mobile telephony services
+88                           9          9       Non-geographic number for      Nationwide
+                                                mobile telephony services
+89                           9          9       Non-geographic number for      Nationwide
+                                                Voice over Internet Protocol
+                                                (VoIP)
+90                           9          9       Non-geographic number for      Nationwide
+                                                mobile telephony services
+91                           9          9       Non-geographic number for      Nationwide
+                                                mobile telephony services
+
+     NDC (National         N(S)N Number Length
+  Destination Code) or
+ leading digits of N(S)N   Maximum    Minimum        Usage of E.164 number              Additional Information
+ (National (Significant)    length     length
+        Number)
+ 92                           9          9       Non-geographic number for           Nationwide
+                                                 mobile telephony services
+ 93                           9          9       Non-geographic number for           Nationwide
+                                                 mobile telephony services
+ 94                           9          9       Non-geographic number for           Nationwide
+                                                 mobile telephony services
+ 95                           9          9       Non-geographic number for           Nationwide
+                                                 mobile telephony services
+ 96                           9          9       Non-geographic number for           Nationwide
+                                                 mobile telephony services
+ 97                           9          9       Non-geographic number for           Nationwide
+                                                 mobile telephony services
+ 98                           9          9       Non-geographic number for           Nationwide
+                                                 mobile telephony services
+ 99                           9          9       Non-geographic number for           Nationwide
+                                                 mobile telephony services
+
+Length of National (Significant) Numbers for fixed numbers:       eight (8) digits
+Length of National (Significant) Numbers for mobile and VoIP:     nine (9) digits
+
+
+
+
+                           National numbering plan applied from 1 January 2025 onwards:
+a)     Overview:
+       The minimum number length (excluding country code) is: nine (9) digits
+       The maximum number length (excluding country code) is: nine (9) digits
+b)     Detail of numbering scheme:
+
+     NDC (National           N(S)N Number Length
+  Destination Code) or
+ leading digits of N(S)N    Maximum     Minimum        Usage of E.164 number         Additional Information
+ (National (Significant)     length      length
+        Number)
+ 100                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 101                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 102                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 103                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 104                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 105                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 106                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 107                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 108                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 109                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 110                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 111                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 112                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 113                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+ 114                            9           9      Geographic number for fixed   Area code for Bangkok and
+                                                   telephony services            vicinity: Nonthaburi, Pathum
+                                                                                 Thani and Samut Prakarn
+
+    NDC (National          N(S)N Number Length
+ Destination Code) or
+leading digits of N(S)N   Maximum     Minimum        Usage of E.164 number         Additional Information
+(National (Significant)    length      length
+       Number)
+115                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+116                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+117                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+118                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+119                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+120                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+121                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+122                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+123                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+124                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+125                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+126                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+127                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+128                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+129                          9            9      Geographic number for fixed   Area code for Bangkok and
+                                                 telephony services            vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn
+130                          9            9      Geographic number for fixed   Reserve for central region,
+                                                 telephony services            eastern region and western
+                                                                               region (except Bangkok and
+                                                                               vicinity: Nonthaburi, Pathum
+                                                                               Thani and Samut Prakarn)
+
+
+
+
+    NDC (National         N(S)N Number Length
+ Destination Code) or
+leading digits of N(S)N   Maximum    Minimum        Usage of E.164 number         Additional Information
+(National (Significant)    length     length
+       Number)
+131                          9           9      Geographic number for fixed   Reserve for central region,
+                                                telephony services            eastern region and western
+                                                                              region (except Bangkok and
+                                                                              vicinity: Nonthaburi, Pathum
+                                                                              Thani and Samut Prakarn)
+132                          9           9      Geographic number for fixed   Area code for Ratchaburi,
+                                                telephony services            Phetchaburi and Prachuap
+                                                                              Khirikhan
+133                          9           9      Geographic number for fixed   Area code for Chacheongsao,
+                                                telephony services            Rayong and Chon Buri
+134                          9           9      Geographic number for fixed   Area code for Nakhon Pathom,
+                                                telephony services            Samut Sakhon, Kanchanaburi
+                                                                              and Samut Songkhram
+135                          9           9      Geographic number for fixed   Area code for Pranakhon Sri
+                                                telephony services            Ayutthaya, Suphan Buri and
+                                                                              Ang Thong
+136                          9           9      Geographic number for fixed   Area code for Saraburi, Lopburi
+                                                telephony services            and Singburi
+137                          9           9      Geographic number for fixed   Area code for Prachin Buri, Sa
+                                                telephony services            Kaeo and Nakhon Nayok
+138                          9           9      Geographic number for fixed   Area code for Chacheongsao,
+                                                telephony services            Rayong and Chon Buri
+139                          9           9      Geographic number for fixed   Area code for Chanthaburi and
+                                                telephony services            Trat
+140                          9           9      Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+141                          9           9      Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+142                          9           9      Geographic number for fixed   Area code for Udon Thani,
+                                                telephony services            Bueng Kan, Nhongbua Lamphu,
+                                                                              Nong Khai, Nakhon Phanom,
+                                                                              Mukdahan, Sakon Nakhon and
+                                                                              Loei
+143                          9           9      Geographic number for fixed   Area code for Khon Kean, Roi
+                                                telephony services            Et, Maha Sarakham and Kalasin
+144                          9           9      Geographic number for fixed   Area code for Nakhon
+                                                telephony services            Ratchasima, Surin, Buriram and
+                                                                              Chaiyaphum
+145                          9           9      Geographic number for fixed   Area code for Ubon
+                                                telephony services            Ratchathani, Amnat Charoen,
+                                                                              Srisaket and Yasothon
+146                          9           9      Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+147                          9           9      Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+148                          9           9      Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+149                          9           9      Geographic number for fixed   Reserve for north-eastern
+                                                telephony services            region
+150                          9           9      Geographic number for fixed   Reserve for northern region
+                                                telephony services
+
+    NDC (National          N(S)N Number Length
+ Destination Code) or
+leading digits of N(S)N   Maximum     Minimum        Usage of E.164 number         Additional Information
+(National (Significant)    length      length
+       Number)
+151                          9            9      Geographic number for fixed   Reserve for northern region
+                                                 telephony services
+152                          9            9      Geographic number for fixed   Area code for Chiang Mai,
+                                                 telephony services            Lamphun, Mae Hong Son and
+                                                                               Chiang Rai
+153                          9            9      Geographic number for fixed   Area code for Chiang Mai,
+                                                 telephony services            Lamphun, Mae Hong Son and
+                                                                               Chiang Rai
+154                          9            9      Geographic number for fixed   Area code for Lampang,
+                                                 telephony services            Phayao, Phrae and Nan
+155                          9            9      Geographic number for fixed   Area code for Phitsanulok,
+                                                 telephony services            Uttaradit, Tak, Sukhothai and
+                                                                               Kamphaeng Phet
+156                          9            9      Geographic number for fixed   Area code for Nakhon Sawan,
+                                                 telephony services            Uthai Thani, Phichit Chainat
+                                                                               and Phetchabun
+157                          9            9      Geographic number for fixed   Reserve for northern region
+                                                 telephony services
+158                          9            9      Geographic number for fixed   Reserve for northern region
+                                                 telephony services
+159                          9            9      Geographic number for fixed   Reserve for northern region
+                                                 telephony services
+160                          9            9      Geographic number for fixed   Reserve for nationwide
+                                                 telephony services
+161                          9            9      Geographic number for fixed   Reserve for nationwide
+                                                 telephony services
+162                          9            9      Geographic number for fixed   Reserve for nationwide
+                                                 telephony services
+163                          9            9      Geographic number for fixed   Reserve for nationwide
+                                                 telephony services
+164                          9            9      Geographic number for fixed   Reserve for nationwide
+                                                 telephony services
+165                          9            9      Geographic number for fixed   Reserve for nationwide
+                                                 telephony services
+166                          9            9      Geographic number for fixed   Reserve for nationwide
+                                                 telephony services
+167                          9            9      Geographic number for fixed   Reserve for nationwide
+                                                 telephony services
+168                          9            9      Geographic number for fixed   Reserve for nationwide
+                                                 telephony services
+169                          9            9      Geographic number for fixed   Reserve for nationwide
+                                                 telephony services
+170                          9            9      Geographic number for fixed   Reserve for southern region
+                                                 telephony services
+171                          9            9      Geographic number for fixed   Reserve for southern region
+                                                 telephony services
+172                          9            9      Geographic number for fixed   Reserve for southern region
+                                                 telephony services
+173                          9            9      Geographic number for fixed   Area code for Yala, Pattani and
+                                                 telephony services            Narathiwat
+
+    NDC (National         N(S)N Number Length
+ Destination Code) or
+leading digits of N(S)N   Maximum    Minimum        Usage of E.164 number         Additional Information
+(National (Significant)    length     length
+       Number)
+174                          9           9      Geographic number for fixed   Area code for Songkla,
+                                                telephony services            Phattalung and Satun
+175                          9           9      Geographic number for fixed   Area code for Trang, Nakhon Sri
+                                                telephony services            Thammarat and Krabi
+176                          9           9      Geographic number for fixed   Area code for Phuket and
+                                                telephony services            Phang-nga
+177                          9           9      Geographic number for fixed   Area code for Surat Thani,
+                                                telephony services            Chumpon and Ranong
+178                          9           9      Geographic number for fixed   Reserve for southern region
+                                                telephony services
+179                          9           9      Geographic number for fixed   Reserve for southern region
+                                                telephony services
+180                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+181                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+182                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+183                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+184                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+185                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+186                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+187                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+188                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+189                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+190                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+191                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+192                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+193                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+194                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+195                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+196                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+197                          9           9      Geographic number for fixed   Reserve for nationwide
+                                                telephony services
+
+
+
+    NDC (National          N(S)N Number Length
+ Destination Code) or
+leading digits of N(S)N   Maximum     Minimum        Usage of E.164 number          Additional Information
+(National (Significant)    length      length
+       Number)
+198                          9            9      Geographic number for fixed    Reserve for nationwide
+                                                 telephony services
+199                          9            9      Geographic number for fixed    Reserve for nationwide
+                                                 telephony services
+40                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+41                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+42                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+43                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+44                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+45                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+46                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+47                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+48                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+49                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+50                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+51                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+52                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+53                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+54                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+55                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+56                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+57                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+58                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+59                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+60                           9            9      Non-geographic number for      Nationwide
+                                                 Voice over Internet Protocol
+                                                 (VoIP)
+61                           9            9      Non-geographic number for      Nationwide
+                                                 mobile telephony services
+
+
+    NDC (National         N(S)N Number Length
+ Destination Code) or
+leading digits of N(S)N   Maximum    Minimum        Usage of E.164 number       Additional Information
+(National (Significant)    length     length
+       Number)
+62                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+63                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+64                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+65                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+66                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+70                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+71                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+72                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+73                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+74                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+75                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+76                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+77                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+78                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+79                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+80                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+81                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+82                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+83                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+84                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+85                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+86                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+87                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+88                           9           9      Non-geographic number for   Nationwide
+                                                mobile telephony services
+
+
+
+     NDC (National          N(S)N Number Length
+  Destination Code) or
+ leading digits of N(S)N   Maximum     Minimum        Usage of E.164 number             Additional Information
+ (National (Significant)    length      length
+        Number)
+ 89                           9            9      Non-geographic number for         Nationwide
+                                                  mobile telephony services
+ 90                           9            9      Non-geographic number for         Nationwide
+                                                  mobile telephony services
+ 91                           9            9      Non-geographic number for         Nationwide
+                                                  mobile telephony services
+ 92                           9            9      Non-geographic number for         Nationwide
+                                                  mobile telephony services
+ 93                           9            9      Non-geographic number for         Nationwide
+                                                  mobile telephony services
+ 94                           9            9      Non-geographic number for         Nationwide
+                                                  mobile telephony services
+ 95                           9            9      Non-geographic number for         Nationwide
+                                                  mobile telephony services
+ 96                           9            9      Non-geographic number for         Nationwide
+                                                  mobile telephony services
+ 97                           9            9      Non-geographic number for         Nationwide
+                                                  mobile telephony services
+ 98                           9            9      Non-geographic number for         Nationwide
+                                                  mobile telephony services
+ 99                           9            9      Non-geographic number for         Nationwide
+                                                  mobile telephony services
+
+
+Length of National (Significant) Numbers for fixed numbers:       nine (9) digits
+Length of National (Significant) Numbers for mobile and VoIP:     nine (9) digits
+
+
+Contact:
+       National Broadcasting and Telecommunications Commission (NBTC)
+       87 Soi Sailom, Phahonyothin Road
+       Phayathai
+       10400 BANGKOK
+       Thailand
+       Tel:     +66 2 670 8888 (ext. 7714)
+       Fax:     +66 2 616 9988
+       E-mail: numbering@nbtc.go.th
+       URL:     www.nbtc.go.th
+
+
+
+
+ BE No. 1192             (15.III.2020)
+
+                                       Other communication
+
+
+Serbia
+Communication of 26.II.2020:
+In honor of the contribution of youth and young radio-amateurs in their efforts to be a relevant part of the
+Serbian radio-amateur community, knowing that the Amateur Radio Union of Serbia is supporting the active role
+of newcomers and encourages young radio-amateurs to join many forthcoming workshops, such as the "Radio-
+amateur youth camp" (December 2020), the "Month of young radio-amateur activity" and so on. The Serbian
+Administration authorizes the Amateur Radio Union of Serbia to use the special call sign YT20YOTA from 1 April
+to 31 December 2020.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                            Abbreviations used
+
+                             ADD    Insert                     PAR   paragraph
+                             COL    Column                     REP   replace
+                             LIR    Read                       SUP   Delete
+                             P      page(s)
+
+
+
+
+                        List of Ship Stations and Maritime Mobile
+                                Service Identity Assignments
+                                           (List V)
+                                       Edition of 2020
+
+                                              Section VI
+
+
+REP
+
+      HX01      The Government of the Hong Kong Special Administrative Region c/o Office of
+                the Communications Authority, 29/F, Wu Chung House, 213 Queen's Road East,
+                Wan Chai, Hong Kong.
+                E-mail: maritime@ofca.gov.hk,
+                Tel: +852 2961 6608, Fax: +852 2803 5113.
+
+
+      HX08      Marine Radio Systems Ltd., 6/F., Henan Electric Development Bldg., 389 King's Road,
+                North Point, Hong Kong.
+                E-mail: psa3013@hx08.com, svgmafe@netvigator.com,
+                Tel: +852 2578 6289, Fax: +852 2887 9144,
+                Contact Person: Victor Hui.
+
+
+      HX13      Hostmost Engineering Limited., Unit F & G, 12/F., Yan's Tower, 27, Wong Chuk Hang Road,
+                Hong Kong.
+                E-mail: sales@hostmost.com.hk,
+                Tel: +852 2554 9207, Fax: +852 2554 5152,
+                Contact Person: Thomas Pang.
+
+
+
+
+        Mobile Network Codes (MNC) for the international identification plan
+                      for public networks and subscriptions
+              (According to Recommendation ITU-T E.212 (09/2016))
+                         (Position on 15 December 2018)
+                                 (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                                  (Amendment No.28)
+
+
+Country/Geographical area                       MCC+MNC *                  Operator/Network
+
+Georgia ADD
+
+                                                         282 14            "Datahouseglobal” LTD
+
+Sri Lanka LIR
+
+                                                                           Hutchison Telecommunications Lanka (Pvt) Ltd. (Valid
+                                                         413 03
+                                                                           until 12 September 2021)
+
+__________
+*          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 70)
+
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+ Georgia ADD
+ 2-208-7       5767         Tbilisi, Mobile Switching Centre           Datahouse global Ltd
+
+
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                   Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.II.2020, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                         Country/ Geographical area                     Country Code (CC)
+               Botswana                                                        +267
+               Iran (Islamic Republic of)                                      +98
+               Jordan                                                          +962
+               Monaco                                                          +377
+               Mongolia                                                        +976
+               Morocco                                                         +212
+               Palau                                                           +680
+
+
+
+

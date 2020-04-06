@@ -1,0 +1,1064 @@
+                        ITU Operational Bulletin
+                                                          www.itu.int/itu-t/bulletin
+
+       No. 1142              15.II.2018                   (Information received by 1 February 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                            Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                                Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                                Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                               E-mail: brmail@itu.int
+
+
+
+
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin ...............................................................................................                             3
+Telephone Service:
+     Azerbaijan (Ministry of Transport, Communications and High Technologies, Baku) ...............................                                                       4
+     Belgium (Belgian Institute for Postal services and Telecommunications, Brussels) .................................                                                  10
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                                   11
+     Iran (Islamic Republic of) (Communications Regulatory Authority (CRA), Tehran) ..................................                                                   11
+     Sao Tome and Principe (Autoridade Geral de Regulação (AGER), São Tomé) ..........................................                                                   15
+     Tuvalu (Tuvalu Telecommunications Corporation (TTC), Funafuti) ..........................................................                                           15
+Other communications:
+     Autria ........................................................................................................................................................     17
+     Serbia ........................................................................................................................................................     17
+Service Restrictions ........................................................................................................................................            18
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                          18
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Coast Stations and Special Service Stations (List IV) ...........................................................................                                19
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                      20
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................             21
+List of International Signalling Point Codes (ISPC) .........................................................................................                            22
+National Numbering Plan ...............................................................................................................................                  23
+
+
+
+
+                                                                                                                                        www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1143              1.III.2018            15.II.2018
+               1144             15.III.2018            1.III.2018
+               1145              1.IV.2018             16.III.2018
+               1146             15.IV.2018             30.III.2018
+               1147              1.V.2018              13.IV.2018
+               1148             15.V.2018               1.V.2018
+               1149              1.VI.2018             16.V.2018
+               1150             15.VI.2018             1.VI.2018
+               1151             1.VII.2018             15.VI.2018
+               1152             15.VII.2018            29.VI.2018
+               1153             1.VIII.2018           17.VII.2018
+               1154            15.VIII.2018            1.VIII.2018
+               1155              1.IX.2018            16.VIII.2018
+               1156             15.IX.2018            31.VIII.2018
+               1157              1.X.2018              14.IX.2018
+               1158             15.X.2018              28.IX.2018
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                          Telephone Service
+                                     (Recommendation ITU-T E.164)
+                                             url: www.itu.int/itu-t/inr/nnp
+
+   Azerbaijan (country code +994)
+   Communication of 24.I.2018:
+   The Ministry of Transport, Communications and High Technologies, Baku, announces the updating National
+   numbering plan of the Republic of Azerbaijan as follows:
+                                     Numbering plan of the Republic of Azerbaijan
+   General Information
+            Capital: Baku
+            Official Language: Azerbaijani
+            Total area: 86600 sq. km.
+            Population: 2017 – 9 810 000
+            Currency: Manat (AZN)
+            Time zone: UTC +04.00
+            Internet TLD: az
+   International dialing format: 00 (for outgoing calls from Azerbaijan)
+   Country Code: +994
+   a)   Overview:
+            The minimum number length (excluding the country code) is 9 digits
+            The maximum number length (excluding the country code) is 9 digits
+   b)   Detail of numbering scheme:
+
+    NDC (National                 N(S)N number
+ Destination Code) or                 length                                                  Additional information
+leading digits of N(S)N                                         Usage of E.164 number          (regions and service
+(National (Significant)     Maximum          Minimum                                                  types)
+       Number)               length           length
+       12 (NDC)                  9               9        Geographic number for PSTN         Baku
+       18 (NDC)                  9               9        Geographic number for PSTN         Sumgayit
+     2020 (NDC)                  9               9        Geographic number for PSTN         Barda
+     2021 (NDC)                  9               9        Geographic number for PSTN         Ujar
+     2022 (NDC)                  9               9        Geographic number for PSTN         Agsu
+     2023 (NDC)                  9               9        Geographic number for PSTN         Agdash
+     2024 (NDC)                  9               9        Geographic number for PSTN         Gobustan
+     2025 (NDC)                  9               9        Geographic number for PSTN         Kurdamir
+     2026 (NDC)                  9               9        Geographic number for PSTN         Shamakhi
+     2027 (NDC)                  9               9        Geographic number for PSTN         Goychay
+     2028 (NDC)                  9               9        Geographic number for PSTN         Ismayilli
+     2029 (NDC)                  9               9        Geographic number for PSTN         Zardab
+  2120, 21428 (NDC)              9               9        Geographic number for PSTN         Hajigabul
+     2121 (NDC)                  9               9        Geographic number for PSTN         Shirvan
+     2122 (NDC)                  9               9        Geographic number for PSTN         Beylagan
+     2123 (NDC)                  9               9        Geographic number for PSTN         Sabirabad
+     2124 (NDC)                  9               9        Geographic number for PSTN         Imishli
+     2125 (NDC)                  9               9        Geographic number for PSTN         Salyan
+
+
+     NDC (National              N(S)N number
+  Destination Code) or              length                                     Additional information
+ leading digits of N(S)N                             Usage of E.164 number      (regions and service
+ (National (Significant)    Maximum    Minimum                                         types)
+        Number)              length     length
+       2126 (NDC)               9          9     Geographic number for PSTN   Neftchala
+       2127 (NDC)               9          9     Geographic number for PSTN   Agjabadi
+       2128 (NDC)               9          9     Geographic number for PSTN   Saatli
+2225, 2226, 22428 (NDC)         9          9     Geographic number for PSTN   Ganja
+     2220 (NDC)                 9          9     Geographic number for PSTN   Goygol
+     2221 (NDC)                 9          9     Geographic number for PSTN   Dashkasan
+  2222, 22428 (NDC)             9          9     Geographic number for PSTN   Agstafa
+     2223 (NDC)                 9          9     Geographic number for PSTN   Tartar
+     2224 (NDC)                 9          9     Geographic number for PSTN   Goranboy
+     2227 (NDC)                 9          9     Geographic number for PSTN   Samukh
+     2229 (NDC)                 9          9     Geographic number for PSTN   Gazakh
+     2230 (NDC)                 9          9     Geographic number for PSTN   Shamkir
+     2231 (NDC)                 9          9     Geographic number for PSTN   Tovuz
+     2232 (NDC)                 9          9     Geographic number for PSTN   Gadabay
+  2233, 22428 (NDC)             9          9     Geographic number for PSTN   Yevlakh
+     2235 (NDC)                 9          9     Geographic number for PSTN   Naftalan
+     2330 (NDC)                 9          9     Geographic number for PSTN   Siyazan
+     2331 (NDC)                 9          9     Geographic number for PSTN   Khizi
+     2332 (NDC)                 9          9     Geographic number for PSTN   Khachmaz
+     2333 (NDC)                 9          9     Geographic number for PSTN   Guba
+     2335 (NDC)                 9          9     Geographic number for PSTN   Shabran
+     2338 (NDC)                 9          9     Geographic number for PSTN   Gusar
+     2420 (NDC)                 9          9     Geographic number for PSTN   Gabala
+     2421 (NDC)                 9          9     Geographic number for PSTN   Oguz
+     2422 (NDC)                 9          9     Geographic number for PSTN   Zagatala
+     2424 (NDC)                 9          9     Geographic number for PSTN   Shaki
+     2425 (NDC)                 9          9     Geographic number for PSTN   Gakh
+     2427 (NDC)                 9          9     Geographic number for PSTN   Mingachevir
+     2429 (NDC)                 9          9     Geographic number for PSTN   Balakan
+     2520 (NDC)                 9          9     Geographic number for PSTN   Yardimli
+     2521 (NDC)                 9          9     Geographic number for PSTN   Masalli
+     2522 (NDC)                 9          9     Geographic number for PSTN   Astara
+     2524 (NDC)                 9          9     Geographic number for PSTN   Jalilabad
+     2525 (NDC)                 9          9     Geographic number for PSTN   Lankaran
+     2527 (NDC)                 9          9     Geographic number for PSTN   Lerik
+     2529 (NDC)                 9          9     Geographic number for PSTN   Bilasuvar
+     2620 (NDC)                 9          9     Geographic number for PSTN   * Khojali
+     2621 (NDC)                 9          9     Geographic number for PSTN   *Lachin
+     2622 (NDC)                 9          9     Geographic number for PSTN   * Khankandi
+     2623 (NDC)                 9          9     Geographic number for PSTN   *Qubadli
+     2624 (NDC)                 9          9     Geographic number for PSTN   *Askaran
+     2625 (NDC)                 9          9     Geographic number for PSTN   * Zangilan
+
+
+
+    NDC (National                    N(S)N number
+ Destination Code) or                    length                                                          Additional information
+leading digits of N(S)N                                              Usage of E.164 number                (regions and service
+(National (Significant)       Maximum          Minimum                                                           types)
+       Number)                 length           length
+      2626 (NDC)                   9                9          Geographic number for PSTN               * Shusha
+      2627 (NDC)                   9                9          Geographic number for PSTN               * Kalbajar
+      2628 (NDC)                   9                9          Geographic number for PSTN               *Agdara
+      2629 (NDC)                   9                9          Geographic number for PSTN               * Khojavand
+      2630 (NDC)                   9                9          Geographic number for PSTN               *Hadrut
+      2631(NDC)                    9                9          Geographic number for PSTN               Fuzuli
+      2632 (NDC)                   9                9          Geographic number for PSTN               Agdam
+      2638(NDC)                    9                9          Geographic number for PSTN               Jabrayil
+     36 544 (NDC)                                              Geographic number for PSTN               Nakhchivan city
+                                   9                9
+     36 550 (NDC)
+     36554 (NDC)                   9                9          Geographic number for PSTN               Naxtel network
+     36541 (NDC)                   9                9          Geographic number for PSTN               Babek
+  36542, 36552 (NDC)               9                9          Geographic number for PSTN               Sharur
+     36543 (NDC)                   9                9          Geographic number for PSTN               Shahbuz
+     36546 (NDC)                   9                9          Geographic number for PSTN               Julfa
+     36547 (NDC)                   9                9          Geographic number for PSTN               Ordubad
+     36548 (NDC)                   9                9          Geographic number for PSTN               Kangarli
+     36549 (NDC)                   9                9          Geographic number for PSTN               Sadarak
+                                                               Non-geographic number for                Aztelekom LLC
+         44 (NDC)                  9                9
+                                                               fixed CDMA
+                                                               Non-geographic number                    Azercell Telecom LLC
+       50, 51 (NDC)                9                9
+                                                               for mobile GSM
+                                                               Non-geographic number                    Bakcell LLC
+         55 (NDC)                  9                9
+                                                               for mobile GSM
+                                                               Non-geographic number                    Azerfon LLC
+       70, 77 (NDC)                9                9
+                                                               for mobile GSM
+                                                               Non-geographic number                    Catel LLC
+         40 (NDC)                  9                9
+                                                               for mobile CDMA
+                                                               Non-geographic number                    Naxtel LLC
+         60 (NDC)                  9                9
+                                                               for mobile CDMA, GSM
+                                                               Non-geographic number
+         88 (NDC)                  9                9                                                   Avirtel LLC
+                                                               for PSTN
+         46 (NDC)                  9                9          Non-geographic number for PSTN           “Delta Telecom Ltd” LLC
+
+       12109 (NDC)                 9                9          Non-geographic number for PSTN           Information Operator
+                                                                                                        Assistance
+
+   * The access to these occupied territories via Aztelekom LLC facilities is temporarily unavailable.1
+
+
+
+
+   1
+      Information published upon request of Azerbaijan. This does not imply the expression of any opinion on the part of ITU or
+   its secretariat on the status of these territories.
+
+
+                                         Test numbers:
+
+                      Name                                 Test numbers
+
+
+                                         BAKU CITY- 12
+                                    + 994 12 370 21 99
+                                    + 994 12 440 21 99
+  1       Baku                      + 994 12 564 21 99
+                                    + 994 88 555 55 55
+                                    +994 12 200 00 24
+  2       Absheron                  + 994 12 342 21 99
+
+
+                                      SUMGAYIT CITY- 18
+  1       Sumgayit                  +994 18 644 21 99
+
+
+                             REGION CONNECTED TO BAKU SWITCH - 20
+  1       Barda                     + 994 20 205 21 99
+  2       Ujar                      + 994 20 213 21 99
+  3       Aghsu                     + 994 20 226 21 99
+  4       Aghdash                   + 994 20 235 21 99
+  5       Gobustan                  + 994 20 245 21 99
+  6       Kurdamir                  + 994 20 255 21 99
+  7       Shamakhi                  + 994 20 265 21 99
+  8       Goychay                   + 994 20 274 21 99
+  9       Ismayilli                 + 994 20 285 10 00
+  10      Zardab                    + 994 20 296 42 99
+
+
+                                     SHİRVAN REGION - 21
+                                    + 994 21 204 21 99
+  1       Hajigabul
+                                    + 994 21 428 00 20
+  2       Shirvan                   + 994 21 215 21 99
+  3       Beylagan                  + 994 21 225 21 99
+  4       Sabirabad                 + 994 21 235 69 99
+  5       İmishli                   + 994 21 246 60 01
+  6       Salyan                    + 994 21 255 21 99
+  7       Neftchala                 + 994 21 263 21 99
+  8       Agjabedi                  + 994 21 275 21 99
+  9       Saatlı                    + 994 21 285 21 99
+
+
+                                      GANJA REGION - 22
+                                    + 994 22 257 21 99
+  1       Ganja
+                                    + 994 22 428 70 99
+  2       Goygol                    + 994 22 205 24 19
+  3       Dashkasan                 + 994 22 215 55 99
+
+
+                        + 994 22 225 21 99
+  4       Akstafa
+                        + 994 22 428 33 13
+  5       Tartar        + 994 22 236 21 99
+  6       Goranboy      + 994 22 245 21 99
+  7       Samukh        + 994 22 275 21 99
+  8       Gazakh        + 994 22 295 21 99
+  9       Shamkir       + 994 22 305 21 90
+  10      Tovuz         + 994 22 315 00 00
+  11      Gadabay       + 994 22 326 01 71
+                        + 994 22 336 21 99
+  12      Yevlakh
+                        + 994 22 428 26 41
+  13      Naftalan      + 994 22 352 21 99
+
+
+                           GUBA REGION- 23
+  1       Siyazan       + 994 23 304 21 99
+  2       Khızı         + 994 23 315 00 00
+  3       Khachmaz      + 994 23 325 21 99
+  4       Guba          + 994 23 335 21 99
+  5       Shabran       + 994 23 353 21 99
+  6       Gusar         + 994 23 385 21 99
+
+
+                           SHAKİ REGION - 24
+  1       Gabala        + 994 24 205 21 99
+  2       Oguz          + 994 24 215 12 99
+  3       Zagatala      + 994 24 225 21 99
+  4       Shaki         + 994 24 244 21 99
+  6       Gakh          + 994 24 255 21 99
+  5       Mingechevir   + 994 24 274 21 99
+  7       Balaken       + 994 24 295 21 99
+                        LANKARAN REGION - 25
+  1       Yardımlı      + 994 25 206 21 99
+  2       Masallı       + 994 25 215 21 99
+  3       Astara        + 994 25 225 21 99
+  4       Jalilabad     + 994 25 245 21 99
+  5       Lankaran      + 994 25 255 21 99
+  6       Lerik         + 994 25 274 60 30
+  7       Bilasuvar     + 994 25 295 21 99
+
+
+                         SHUSHA REGION - 26
+  1       Fuzuli        + 994 26 315 50 00
+  2       Agdam         + 994 26 325 06 32
+  3       Jebrayil      + 994 26 384 37 99
+
+
+
+                                       NAKHCHIVAN REGION - 36
+                                       + 994 36 544 63 00
+    1        Nakhchıvan
+                                       + 994 36 550 99 19
+    2        Nakhtel network           + 994 36 554 00 32
+    3        Babek                     + 994 36 541 30 99
+                                       + 994 36 542 25 99
+    4        Sherur
+                                       + 994 36 552 44 00
+    5        Shahbuz                   + 994 36 543 00 99
+    6        Julfa                     + 994 36 546 01 99
+    7        Ordubad                   + 994 36 547 00 99
+    8        Kangarli                  + 994 36 548 07 00
+    9        Sederek                   + 994 36 549 00 00
+
+
+                                          MOBILE operators:
+
+
+
+            Mobile operator               Country code      Mobile code          Test number
+
+        1   AZERCELL_GSM                      994                 50, 51   +994 50 225 1111
+                                                                           +994 50 680 00 01
+                                                                           +994 50 211 04 98
+        2   BAKCELL_GSM                       994                  55      +994 55 210 0001
+                                                                           +994 55 590 9027
+        3   AZERFON_GSM                       994                 70,77    +994 70 200 0613
+                                                                           +994 70 201 0877
+
+
+        4   CATEL_CDMA                        994                  40
+        5   NAKHTEL _CDMA                     994                  60      +994 60 540 00 24
+        6   NAKHTEL_GSM                       994                  60      +994 60 220 00 20
+
+
+                                                CDMA:
+
+
+        1   REGİON_CDMA                       994                  44      +994 44 201 2199
+
+                                            REGİON- PSTN
+
+     1      “Delta Telecom Ltd” LLC            994                 46      +994 46 450 40 10
+
+Contact:
+    Ministry of Transport, Communications and High Technologies
+    77, Zarifa Aliyeva Str.,
+    AZ 1000 BAKU
+    Azerbaijan
+    Tel:       +994 12 498 5838    +994 12 598 0753
+    Fax:       +994 12 498 7912    +994 12 493 7363
+    E-mail: mincom@mincom.gov.az
+    URL:       www.mincom.gov.az
+
+
+
+Belgium (country code +32)
+Communication of 1.II.2018:
+The Belgian Institute for Postal services and Telecommunications, Brussels, announces the following changes to
+the national numbering plan of Belgium:
+
+
+1.   The existing range for M2M- communications +32 77 followed by 11 digits can also be used for eCall-
+     services (see Decision of the BIPT Council of 10 January 2018 relating to the determination of the
+     numbering plan for IoT and Ecall communication:
+     http://bipt.be/en/operators/telecommunication/Numbering/regulation/decision-of-the-bipt-council-of-
+     10-january-2018-relating-to-the-determination-of-the-numbering-plan-for-iot-and-ecall-communication)
+
+2.   The range +32 45AB XXXXX will also be designated for mobile services (besides the existing ranges +32 46,
+     +32 47, +32 48 +32 49).
+
+
+Additional information
+
+Assignment for mobile communication services:
+
+
+            Provider                                   Numbering series                   Date of assignment
+Unleashed N.V.                      +32 456 XX XX XX                                          11.II.2018
+
+
+The database with all reserved and assigned numbers can be found on the following URL:
+http://bipt.be/en/operators/telecommunication/Numbering/Database/database-with-reserved-and-allocated-
+numbers
+Contact:
+       Belgian Institute for Postal services and Telecommunications
+       Ellipse Building
+       Boulevard du Roi Albert II, 35
+       1030 Brussels
+       Belgium
+       Tel. :   +32 2 226 88 88
+       Fax:     +32 2 226 88 77
+       E-mail: numbering@bipt.be
+       URL:     www.bipt.be
+
+
+
+
+Denmark (country code +45)
+Communication of 16.I.2018:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+
+        Withdrawal – Fixed communication services
+                   Provider                                  Numbering series                  Date of withdrawal
+Benemen Oy                               35522fgh                                                   9.I.2018
+
+Contact:
+      Danish Energy Agency
+      Amaliegade 44
+      1256 COPENHAGEN K
+      Denmark
+      Tel:    +45 33 92 67 00
+      Fax:    +45 33 11 47 43
+      E-mail: ens@ens.dk
+      URL:    www.ens.dk
+
+Iran (Islamic Republic of) (country code +98)
+Communication of 27.I.2018:
+The Communications Regulatory Authority (CRA), Tehran, announces the following updated National Numbering
+Plan of the Islamic Republic of Iran.
+                                     Presentation of the Iran E.164 numbering plan
+1- General Information
+The E.164 numbering Plan of Iran:
+     Country Code: +98
+     International Prefix: "00"
+     National Prefix: "0"
+        For national calls, it must be dialled before all telephone numbers except short numbers.
+        It must not be dialled from abroad.
+     National destination Code: 2 digits.
+2- Detail of Numbering Scheme
+              NDC: National Destination Code
+              NSN: National Significant Number (NDC + SN)
+The minimum number length (excluding the country code) is               5 digits
+The maximum number length (excluding the country code) is              10 digits
+                                                  Numbering Scheme
+
+                     NSN Number length
+         NDC                                    Usage of E.164        Additional Information
+                   Minimum     Maximum
+    11                 5           10       Fixed Phone               Area Code (Geographic Number for Fixed
+                                                                      telephony Numbers- Mazandaran)
+    13                 5           10       Fixed Phone               Area Code (Geographic Number for Fixed
+                                                                      telephony Numbers- Gilan)
+    17                 5           10       Fixed Phone               Area Code (Geographic Number for Fixed
+                                                                      telephony Numbers- Golestan)
+    21                 5           10       Fixed Phone               Area Code (Geographic Number for Fixed
+                                                                      telephony Numbers- Tehran)
+
+
+                NSN Number length
+     NDC                              Usage of E.164   Additional Information
+           Minimum       Maximum
+23                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers- Semnan)
+24                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers- Zanjan)
+25                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers-Qom)
+26                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers-Alborz)
+28                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers-Ghazvin )
+31                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers- Isfahan)
+34                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers- Kerman)
+35                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers-Yazd)
+38                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers- Chahar Mahal va Bakhtiari)
+41                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers- East Azarbayjan)
+44                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers- West Azarbayjan)
+45                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers- Ardabil)
+51                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Razavi Khorasan)
+54                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Sistan va Balochestan)
+56                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – South Khorasan)
+58                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers - North Khorasan)
+61                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers -Khuzestan)
+66                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers - Lorestan)
+71                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers - Fars)
+74                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers –Kohgiluoye va Boyer
+                                                       Ahmad)
+76                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers - Hormozgan)
+77                5         10      Fixed Phone        Area Code (Geographic Number for Fixed
+                                                       telephony Numbers - Bushehr)
+
+
+
+
+             NSN Number length
+     NDC                                Usage of E.164      Additional Information
+            Minimum        Maximum
+81              5            10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                            telephony Numbers – Hamadan)
+83              5            10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                            telephony Numbers – Kermanshahan)
+84              5            10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                            telephony Numbers- Ilam)
+86              5            10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                            telephony Numbers-Markazi)
+87              5            10      Fixed Phone            Area Code (Geographic Number for Fixed
+                                                            telephony Numbers-Kurdestan)
+901            10            10      Mobile services
+902            10            10      Mobile services
+903            10            10      Mobile services
+9044           10            10      Mobile services
+905            10            10      Mobile services
+91             10            10      Mobile services
+920            10            10      Mobile services
+921            10            10      Mobile services
+922            10            10      Mobile services
+93             10            10      Mobile services
+94000          10            10      Fixed Phone (fibber)   Non geographical
+94110           5            10      Fixed Phone (Fixed     Just Originating from Iran
+                                     wireless Access)
+94111           5            10      Fixed Phone (Fixed     Just Originating from Iran
+                                     wireless Access)
+94112           5            10      Fixed Phone (Fixed     Just Originating from Iran
+                                     wireless Access)
+94113           5            10      Fixed Phone (Fixed     Just Originating from Iran
+                                     wireless Access)
+94114           5            10      Fixed Phone (Fixed     Just Originating from Iran
+                                     wireless Access)
+94115           5            10      Fixed Phone (Fixed     Just Originating from Iran
+                                     wireless Access)
+94116           5            10      Fixed Phone (Fixed     Just Originating from Iran
+                                     wireless Access)
+94117           5            10      Fixed Phone (Fixed     Just Originating from Iran
+                                     wireless Access)
+942             5            10      Fixed Phone            Non geographical
+94300           5            10      Fixed Phone            Non geographical
+94301           5            10      Fixed Phone            Non geographical
+944111          5            10      Fixed Phone (Fixed     Just Originating from Iran
+                                     wireless Access)
+
+
+
+
+                  NSN Number length
+      NDC                                     Usage of E.164        Additional Information
+                Minimum      Maximum
+ 94440               5           10        Fixed Phone (Fixed       Just Originating from Iran
+                                           wireless Access)
+ 96                  5            6        Services Codes
+ 990                10           10        Mobile services
+ 991                10           10        Mobile services
+ 9944               10           10        Mobile services
+ 993                10           10        Satellite Services
+ 99810              10           10        Mobile services
+ 99888              10           10        Mobile services
+ 99900              10           10        Mobile services
+ 99901              10           10        Mobile services
+ 99903              10           10        Mobile services
+ 99911              10           10        Mobile services
+ 99913              10           10        Mobile services
+ 99914              10           10        Mobile services
+ 99921              10           10        Mobile services
+ 99998              10           10        Mobile services
+ 99999              10           10        Mobile services
+
+Contact:
+            Alireza Darvishi
+            Director, International Specialized Organizations Bureau,
+            Communications Regulatory Authority (CRA)
+            Ministry of Information and Communication Technology
+            15598 TEHRAN
+            Iran (Islamic Republic of)
+            Tel: +98 21 89662201
+            Fax: +98 21 88468999
+            URL: www.cra.ir
+
+
+
+
+Sao Tome and Principe (country code +239)
+Communication of 19.I.2018:
+The Autoridade Geral de Regulação (AGER), São Tomé, announces the following dialling procedures and Legal
+Time:
+
+Country Code:          239
+International Prefix: 00
+National Prefix:       Not available
+Length of national (significant) number (excluding the national prefix):   minimum 3 digits
+                                                                           maximum 7 digits
+Universal Time Coordinated/Summer Time: UTC+01
+
+Remarks: Legal Time has been changed from UTC to UTC+01 since 1st January 2018 by Government Decision,
+Decree no. 25/2017
+
+Contact:
+           Eng. Candido Frota
+           President
+           Autoridade Geral de Regulação (AGER)
+           Avenida 12 de Julho N° 54
+           SÃO TOMÉ
+           Sao Tome and Principe
+           Tel: +239 2224995
+           Email: candidofrota1963@gmail.com
+
+Tuvalu (country code +688)
+Communication of 2.II.2018:
+The Tuvalu Telecommunications Corporation (TTC), Funafuti, announces the following updated numbering plan
+for Tuvalu, as from 2nd February 2018:
+a)   Overview
+     The minimum number length (excluding the country code) is Five digits
+     The maximum number length (excluding the country code) is Seven digits
+
+b) Detail of Numbering scheme:
+
+ Leading digits of       N(S)N number length            Usage of E.164 number            Additional Information
+ National
+ (Significant)          Maximum       Minimum
+ Number (N(S)N)          length        length
+           20            5 digits      5 digits    Geographical Number for fixed     Area code for Funafuti
+                                                   telephony service                 International dialling format:
+                                                                                     +688 20XXX
+           22            5 digits      5 digits    Geographical Number for fixed     Area code for Niulakita
+                                                   telephony service                 International dialling format:
+                                                                                     +688 22XXX
+           23            5 digits      5 digits    Geographical Number for fixed     Area code for Nui
+                                                   telephony service                 International dialling format:
+                                                                                     +688 23XXX
+           24            5 digits      5 digits    Geographical Number for fixed     Area code for Nukufetau
+                                                   telephony service                 International dialling format:
+                                                                                     +688 24XXX
+           25            5 digits      5 digits    Geographical Number for fixed     Area code for Nukulaelae
+                                                   telephony service                 International dialling format:
+                                                                                     +688 25XXX
+
+
+ Leading digits of       N(S)N number length         Usage of E.164 number           Additional Information
+ National
+ (Significant)          Maximum      Minimum
+ Number (N(S)N)          length       length
+           26            5 digits     5 digits   Geographical Number for fixed   Area code for Nanumea
+                                                 telephony service               International dialling format:
+                                                                                 +688 26XXX
+           27            5 digits     5 digits   Geographical Number for fixed   Area code for Nanumaga
+                                                 telephony service               International dialling format:
+                                                                                 +688 27XXX
+           28            5 digits     5 digits   Geographical Number for fixed   Area code for Niutao
+                                                 telephony service               International dialling format:
+                                                                                 +688 28XXX
+           29            5 digits     5 digits   Geographical Number for fixed   Area code for Vaitupu
+                                                 telephony service               International dialling format:
+                                                                                 +688 29XXX
+           90            6 digits     6 digits   Non-geographical number         Digital Mobile 2G (GSM).
+                                                                                 Assigned to Tuvalu Telecom
+                                                                                 International dialling format:
+                                                                                 +688 90XXXX
+           70            7 digits     7 digits   Non-geographical number         Digital Mobile 3G (UMTS).
+                                                                                 Assigned to Tuvalu Telecom
+                                                                                 International dialling format:
+                                                                                 +688 70XXXXX
+           71            7 digits     7 digits   Non-geographical number         Digital Mobile 4G (LTE).
+                                                                                 Assigned to Tuvalu Telecom
+                                                                                 International dialling format:
+                                                                                 +688 71XXXXX
+
+
+Contact:
+           Mr Simeti Lopati
+           CEO
+           Tuvalu Telecommunications Corporation (TTC)
+           Private Bag 14
+           Vaiaku
+           FUNAFUTI
+           Tuvalu
+           Tel:     +688 20688
+           Fax:     +688 20800
+           E-mail: simeti@tuvalutelecom.tv
+
+
+
+
+                                      Other communications
+
+Austria
+Communication of 18.I.2018:
+On the occasion of the activities of "Young Helpers on the Air ", the Austrian Administration authorizes an
+Austrian amateur station to use the special call sign OE6YHOTA from 12 to 13 May 2018 and
+from 29 to 30 September 2018.
+
+
+Communication of 26.I.2018:
+On the occasion of the "Antarctic Activity Week", the Austrian Administration authorizes an Austrian amateur
+station to use the special call sign OE89ANT from 17 to 25 February 2018.
+
+
+
+Serbia
+Communication of 18.I.2018:
+On the occasion of the 100th anniversary of the end of the World War I and 100th anniversary since the
+breakthrough of the Salonika Front, the Serbian Administration authorizes a number of Serbian amateur radio
+stations to use the special call signs YU100WWI and YT100SF from 15 February to 31 December 2018.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                             AMENDMENTS TO SERVICE PUBLICATIONS
+                                                               Abbreviations used
+
+                                          ADD       Insert                                 PAR    paragraph
+                                          COL       Column                                 REP    replace
+                                          LIR       Read                                   SUP    Delete
+                                          P         page(s)
+
+                             List of Coast Stations and Special Service Stations
+                                                   (List IV)
+
+                                                             Edition of 2017
+
+                                                       (Amendment No. 1)*
+
+
+NOR          Norway
+
+Notes        AAIC            LIR
+A            Accounting authority: Telenor Norge AS, Snaroyveien 30, 1331 Fornebu (Norway).
+             TF: +47 67 893200
+             E-mail: lisens@telenor.com
+B            Radiotelegrams are charged, handled and delivered as for radiomaritime letters = SLT = (see note C).
+C            Radiomaritime letters = SLT =: 15.– SDR (fixed charge per A4 paper sheet). They are delivered by
+             facsimile, telex or e-mail if bearing this service indication.
+H            Radiotelephone calls (minimum 1 min.)
+             1. Total charge
+
+
+                                                                                                          SDR/min.
+
+                                                                                                 VHF1         VHF2             MF/HF1
+                        a) Norway .....................................................          0.30         0.60              1.50
+                        b) Europe ......................................................         1.20         1.50              1.90
+                        c) Rest of the world ......................................              1.80         2.10              2.40
+
+
+                        e) Inmarsat–B/M ..........................................               4.–          4.–               4.–
+                        f)    Ship-to-ship (via Norway) .........................                0.30         0.60              1.50
+
+
+             2. Ship-to-ship calls via one/two Norwegian coast stations: one charge (see table above).
+                Ship-to-ship calls via one Norwegian and one foreign coast station: one charge for each station.
+
+
+____________
+*     All the notes in List IV are published exclusively in English. Therefore, this amendment is presented only in English.
+
+
+
+
+              3. Surcharges
+                 a) Personal calls
+                     i) Norway: 1.20 SDR.
+                     ii) Other countries: 2.40 SDR.
+                 b) Collect calls between Norwegian ships and Norway: charge in local currency.
+_______________
+
+1
+      Manual operation.
+2
+      Arctic: calls via SVALBARD, JAN MAYEN and BJORNOYA geographical sites.
+
+
+L             Special charges
+              1. Notifications of arrival and navigation in Norwegian territorial waters: 15.– SDR per notification.
+              2. Weather forecasts (gale, storm, ice) and navigational warnings transmitted on request: 3.– SDR.
+              3. Short text-message via Norwegian coast stations to ship delivered by satellite (Eik coast earth
+                  station): 2.– SDR.
+
+
+
+
+                              List of Issuer Identifier Numbers for
+                      the International Telecommunication Charge Card
+                (in accordance with ITU-T Recommendation E.118 (05/2006))
+                                (Position on 15 November 2015)
+                             (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                              (Amendment No. 35)
+
+
+Ukraine             LIR
+
+       Country/           Company                     Issuer Identifier   Contact
+     geographical         Name/Address                    Number
+          area
+    Ukraine               PrJSC "VF-UKRAINE"             89 380 01        Olga Ustinova
+                          15 Leyptsyzka St.                               15 Leyptsyzka St.
+                          KYIV, 01601                                     KYIV, 01601
+                                                                          Tel:      +380 44 389 58 00
+                                                                          Fax:      +380 44 389 58 06
+                                                                          E-mail: vodafone@vodafone.ua
+    Ukraine               "Kyivstar" PJSC                89 380 02        Alexey Logvinenko
+                          53 Degtyarivska St.                             53 Degtyarivska St.
+                          KYIV, 03113                                     KYIV, 03113
+                                                                          Tel:      +380 67 220 75 59
+                                                                          E-mail: Alexey.Logvinenko@kyivstar.net
+    Ukraine               "Kyivstar" PJSC                89 380 03        Alexey Logvinenko
+                          53 Degtyarivska St.                             53 Degtyarivska St.
+                          KYIV, 03113                                     KYIV, 03113
+                                                                          Tel:      +380 67 220 75 59
+                                                                          E-mail: Alexey.Logvinenko@kyivstar.net
+
+
+
+
+        Mobile Network Codes (MNC) for the international identification plan
+                      for public networks and subscriptions
+              (According to Recommendation ITU-T E.212 (09/2016))
+                         (Position on 1st November 2016)
+
+                        (Annex to ITU Operational Bulletin No. 1111 - 1.XI.2016)
+                                            (Amendment No.30)
+
+
+    Country/Geographical area          MCC+MNC *           Operator/Network
+
+    Belgium SUP
+
+                                            206 00         Proximus
+
+    Belgium ADD
+
+                                            206 08         Nethys
+
+                                            206 25         Voyacom
+
+                                            206 28         BICS
+
+                                            206 30         Unleashed
+
+                                            206 33         Ericsson *test use only*
+
+                                            206 50         IP Nexia
+
+    Belgium LIR
+
+                                            206 05         Telenet
+
+                                            206 10         Orange Belgium
+
+                                            206 20         Telenet Group
+
+    Canada ADD
+
+                                            302 491        Freedom Mobile Inc.
+
+    Israel ADD
+
+                                            425 29         CG Networks
+
+
+____________
+
+*          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 30)
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+ Belgium SUP
+ 2-012-4       4196         Brussel                                    Verizon Business
+ 2-013-6       4206         Nextgen Belgium 1                          Nextgen Mobile Ltd.
+ 2-013-7       4207         Nextgen Belgium 2                          Nextgen Mobile Ltd.
+ 2-015-5       4221         WorldCom Brussels - Site II                Verizon Business
+ 2-099-1       4889                                                    Wind International Services
+
+ Belgium ADD
+ 2-014-2       4210         Unleashed 1                                Unleashed
+ 2-014-3       4211         Unleashed 2                                Unleashed
+ 2-014-5       4213         IPNexia 1                                  IP Nexia
+ 2-099-7       4895         Voyacom 1                                  Voyacom
+
+ Belgium LIR
+ 2-012-5       4197         Orange 4                                   Orange Belgium
+ 2-014-4       4212         T2 Antwerpen 1                             Orange Belgium
+ 2-015-6       4222         BMSCA/Brussel-N                            Telenet Group
+ 2-097-0       4872         Mobistar STP T02 BRU                       Orange Belgium
+ 2-097-1       4873         Mobistar STP T03 ANT                       Orange Belgium
+ 2-097-3       4875         BMSC2/Brussels                             Telenet Group
+ 2-097-4       4876         ZMSC1                                      Telenet Group
+ 2-097-5       4877         GMSC3                                      Telenet Group
+ 2-098-3       4883         BSTP1/Brussels STP                         Telenet Group
+ 2-098-4       4884         ASTP1/Antwerp STP                          Telenet Group
+ 2-098-6       4886         STP/MECHELEN                               Nethys
+ 2-098-7       4887         STP/Hoboken                                Nethys
+ 2-099-4       4892         MSC-S/MGW Intl1                            Orange Belgium
+ 2-099-5       4893         MSC-S/MGW Intl2                            Orange Belgium
+
+ South Africa SUP
+ 6-110-6       13174        Vodacom Cellular Network                   Vodacom (Pty) Ltd
+ 6-111-3       13179        JBA GMSC                                   Vodacom (Pty) Ltd
+ 6-111-4       13180        SJD STP                                    Vodacom (Pty) Ltd
+ 6-112-0       13184        SPP STP                                    Vodacom (Pty) Ltd
+
+ Ukraine SUP
+ 4-242-1       10129        INATO                                      Telesystems of Ukraine Ltd
+
+ Ukraine ADD
+ 4-242-7       10135        ETTUA                                      Eurotranstelecom LLC
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                  National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+
+From 15.I.2018, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                               Country/ Geographical area                      Country Code (CC)
+               Kenya                                                                 +254
+               Kuwait                                                                +965
+
+
+
+

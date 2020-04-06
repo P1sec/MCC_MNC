@@ -1,0 +1,734 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1151             1.VII.2018                  (Information received by 15 June 2018) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin ...............................................................................................                      3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Telephone Service:
+     Mexico (Instituto Federal de Telecomunicaciones (IFETEL), Ciudad de Mexico) ......................................                                            5
+Changes in Administrations/ROAs and other entities or Organizations:
+     Sudan (National Telecommunications Corporation (NTC), Khartoum): Change of name ........................                                                     13
+Service Restrictions ........................................................................................................................................     14
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                   14
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                        15
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               16
+List of Recommendation ITU-T E.164 assigned Country Codes .....................................................................                                   18
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         18
+List of International Signalling Point Codes (ISPC) .........................................................................................                     19
+National Numbering Plan ...............................................................................................................................           19
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1152             15.VII.2018            29.VI.2018
+               1153             1.VIII.2018           17.VII.2018
+               1154            15.VIII.2018            1.VIII.2018
+               1155              1.IX.2018            16.VIII.2018
+               1156             15.IX.2018            31.VIII.2018
+               1157              1.X.2018              14.IX.2018
+               1158             15.X.2018              28.IX.2018
+               1159              1.XI.2018             16.X.2018
+               1160             15.XI.2018             1.XI.2018
+               1161             1.XII.2018             15.XI.2018
+               1162             15.XII.2018            30.XI.2018
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+      T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                             Approval of ITU-T Recommendations
+By AAP-37, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T E.802 (2007) Amd. 2 (06/2018): Updates and additional information on the degree of variability
+      function in support of E.802
+–     ITU-T E.840 (06/2018): Statistical framework for end to end network-performance benchmark scoring and
+      ranking
+–     ITU-T G.709/Y.1331 (2016) Amd. 2 (06/2018)
+–     ITU-T G.1070 (06/2018): Opinion model for video-telephony applications
+–     ITU-T G.8021/Y.1341 (06/2018): Characteristics of Ethernet transport network equipment functional
+      blocks
+–     ITU-T G.8023 (06/2018): Characteristics of equipment functional blocks supporting Ethernet physical layer
+      and FlexE interfaces
+–     ITU-T L.1030 (06/2018): E-Waste management framework for countries
+–     ITU-T P.501 (2017) Amd. 1 (06/2018): AM-FM test signal for super-wideband and fullband applications
+–     ITU-T P.570 (06/2018): Artificial noise-fields in laboratory conditions
+–     ITU-T P.808 (06/2018): Subjective evaluation of speech quality with a crowdsourcing approach
+–     ITU-T P.809 (06/2018): Subjective evaluation methods for gaming quality
+–     ITU-T Y.1543 (06/2018): Measurements in IP networks for inter-domain performance assessment
+–     ITU-T Y.1546 (2014) Amd. 1 (06/2018): IP-Based Service Availability Function
+–     ITU-T Y.4118 (06/2018): Internet of Things requirements and technical capabilities for support of
+      accounting and charging
+
+
+
+
+                                     Telephone Service
+                                (Recommendation ITU-T E.164)
+                                     url: www.itu.int/itu-t/inr/nnp
+
+Mexico (country code: +52)
+Communication of 12.VI.2018
+                                       Telephone numbering plan
+The Basic Technical Numbering Plan (“Numbering Plan”) was published in the Official Gazette of the
+Federation on 21 June 1996. It lays the foundation for proper administration and use of national
+numbering in that it allocates the available resources efficiently, fairly, equitably and in a non-
+discriminatory fashion. Its adoption enabled the country to increase its numbering resources, re-
+organize existing allocations, harmonize the criteria for allocating long-distance codes and comply with
+the relevant international recommendations.
+On 12 November 2014, the Official Gazette of the Federation published the Agreement of the Plenum
+of the Federal Institute of Telecommunications issuing number portability rules and modifying the
+Basic Technical Numbering Plan, the Basic Technical Signalling Plan and the operational requirements
+for the introduction of geographic and non-geographic number portability.
+On 11 May 2018, the Official Gazette of the Federation published the Agreement of the Plenum of
+the Federal Institute of Telecommunications approving and issuing the Basic Technical Numbering
+Plan, the Basic Technical Signalling Plan and modification of the number portability rules published
+on 12 November 2014. These new plans will enter into force on 3 August 2019.
+In particular, the new Numbering Plan envisages replacing the concepts of local and geographic
+numbers with that of national numbers; eliminates the concept of regional codes to delimit geographic
+areas for the purposes of number assignment and use, adopting in their stead a geographic division of
+8 (eight) areas; establishes the need to accredit 85 per cent (eighty five per cent) usage of numbers
+previously assigned to a specific mode of use and inside one area in order to allocate additional
+numbering resources to telecommunication service providers (“Providers”).
+Additionally, it establishes electronic procedures for the handling and management of procedures
+related to numbering resources and clear, detailed and concise assessment criteria for their sources;
+eliminates long-distance originating operator identification codes (ABC) and maintains the
+assignments of long-distance destination operator identification codes (BCD) — however, these will
+be used as identification codes for the local originating and destination network (IDO/IDD); requires
+all fixed and/or mobile service providers to have an administrative identification code (IDA); and
+incorporates the mobile network code (MNC) assignment procedure.
+The new Numbering Plan also requires the submission of bimonthly disaggregated reports on the use
+of national numbers/non-geographic numbers assigned directly and monthly disaggregated reports on
+the use of numbers provided by other licensees; it establishes a procedure for the return of numbering
+resources where the use of one or more national number blocks is not required, their use is not
+initiated within the set period, a usage of less than 51 per cent (fifty one per cent) is reported for six
+successive two-month periods, in cases of public interest or national security, as well as pursuant to
+any legal provision, administrative decision or regulation issued for that purpose.
+Furthermore, it establishes a uniform 10-digit dialling procedure for the entire national territory,
+whether for fixed-line or mobile calls; eliminates the prefixes: 01, 02, 044 and 045; eliminates the prefix
+1 in dialling procedures for incoming international calls to mobile numbers in the “calling party pays”
+mode; and eliminates groups of special service codes and the selection by prior subscription service.
+
+
+
+
+Areas
+For the purposes of number assignment and administration, the national territory is divided into eight
+areas. Thus, all national numbers beginning with the same digit belong to the same area.
+The areas are as follows:
+
+                        Area                                         Area number
+                         East                                              2
+                        West                                               3
+                        North                                              4
+                       Central                                             5
+                   North-West                                              6
+                   South-West                                              7
+                      North-East                                           8
+                      South-East                                           9
+With the division of the national territory into areas, for the purposes of number assignment and
+administration, resources currently allocated to Providers, and those to be assigned, may be used in
+any population centre that the Provider considers appropriate, bound only by the geographic limits of
+the area.
+National numbering
+Structure of national numbering
+National numbers shall comprise 10 digits and take the following form:
+
+                                            National numbers
+                Area number (1 digit)                                       9 digits
+                            A                                            bcdefghij
+Where:
+A = 2, 3, 4, …, 9
+b = 1, 2, 3, …, 9
+c, d, e, f, g, h, i, j = 0, 1, 2, 3, …, 9
+No national number shall begin with the sequence 9-1-1.
+Dialling procedures
+The dialling procedure for domestic calls originating from numbers in fixed-line, CPP mobile and MPP
+mobile (called party pays) modes is as follows:
+
+         Destination number modes of use                              Dialling procedure
+                       Fixed-line
+                      MPP mobile                                   10-digit national number
+                      CPP mobile
+
+
+
+
+Non-geographic numbering
+Structure of non-geographic numbers
+Non-geographic numbers shall comprise 10 digits and take the following form:
+
+                                                                  Geographic numbers
+                                                                            10 digits
+                    Non-geographic service code                                                                 User number
+                                   (3 digits)                                                                        (7 digits)
+                                       A0N                                                                           defghij
+Where:
+A = 2, 3, …, 9
+N = 0, 1, 2, …, 9
+d, e, f, g, h, i, j = 0, 1, 2, …, 9
+
+
+Dialling procedure
+The dialling procedure for calls to non-geographic numbers is as follows:
+
+
+                                                               Non-geographic numbers
+                                                                            10 digits
+
+
+Non-geographic service keys
+The keys assigned for non-geographic services are as follows:
+
+      Non-geographic service key                                                                   Description
+                        200                           Mobile or fixed satellite telephone service with payment at the point
+                                                      of origin (geostationary systems)
+                        201                           Mobile or fixed satellite telephone service with payment at the point
+                                                      of origin (low-orbit systems)
+                        300                           Services with charges shared between the points of origin and
+                                                      destination
+                        500                           Personal numbers with call transfer; the user making the call pays the
+                                                      local access tariff and the user receiving the call pays the difference
+                       7001                           Access numbers for each operator’s virtual private network
+                        800                           Non-geographic numbers with reverse charging
+                        900                           Non-geographic numbers with surcharge for the service provided
+
+
+
+1
+    The non-geographic numbers corresponding to this service shall be independently administered by each operator.
+
+
+
+A0N combinations not defined in the table above remain available for other non-geographic services,
+which must follow the procedures for the creation of new keys.
+
+
+Special service codes
+Structure of special service codes
+Special services may be provided by Providers or government entities.
+Special service codes use the following structure:
+
+                                       Special service codes (3 digits)
+                                                      0NX
+Where:
+N= generic for special service provided = 1, 2, 3, …,9
+X= 0, 1, …,9
+Any numbering sequence of two or more digits other than those already established or the sequence
+used as prefix for access to the long-distance international service (00) may be used by Providers as
+long as they do not clash with the national and non-geographic numbering assigned by the Institute.
+For the services they provide their users directly or via third parties, Providers may use “#”, “*” and
+other non-numeric characters, except for the structures “*0NX” and “#0NX”, which are reserved.
+Under no circumstances should the sequence “911” be used, or any other sequence which might cause
+confusion with the national emergency services number, 911, such as *911, #911, etc.
+Dialling procedures
+The dialling procedures for calls to special service codes are as follows:
+
+
+                                            Special service codes
+                                                     3 digits
+
+
+Established special service codes
+The established special service codes are as follows:
+
+            Code assigned                       Special service                  Special service provider
+ 010- 019                             Available
+ 020                                  Operator call assistance service       Telecommunication service
+                                                                             providers
+ 021-029                              Available
+ 030                                  Exact time                             Telecommunication service
+                                                                             providers
+ 031                                  Alarm clock                            Telecommunication service
+                                                                             providers
+ 032-039                              Available
+
+
+ 040                                  Information on national             Telecommunication service
+                                      telephone numbers                   providers
+ 041-049                              Available
+ 050                                  Complaint reception and             Telecommunication service
+                                      processing                          providers
+ 051                                  Generation of PINs                  Telecommunication service
+                                                                          providers
+ 052-069                              Available
+ 070                                  Community information               Government entities
+ 071                                  Electricity services                Government entities
+ 072                                  Public service reports and          Government entities
+                                      complaints
+ 073                                  Drinking water and sewage           Government entities
+                                      system
+ 074                                  Traffic information                 Government entities
+ 075                                  Guidance and support for            Government entities
+                                      personal safety
+ 076                                  Available
+ 077                                  Federal entity and election         Government entities
+                                      bodies
+ 078                                  Tourist information                 Government entities
+ 079                                  Available
+ 080-087                              Available
+ 088                                  Federal public security services    Government entities
+ 089                                  Whistle-blowing service             Government entities
+ 090                                  International long-distance         Telecommunication service
+                                      service via operator                providers
+ 091-099                              Available
+The single number used throughout the country for emergency services comprises three digits and
+takes the following form: 911 (nine, one, one).
+Special service codes should be available for dialling from any national line. To that end, all Providers
+must follow up the changes in the corresponding routing matrices and update their systems
+accordingly in order to ensure access and correct routing for calls made to the special service
+numbers.
+Providers must provide free and unrestricted access to the following services, including for, but not
+limited to, telephones of users without credit or with restricted service and public telephones: receipt
+and processing of complaints (050), generation of PINs (051), federal public security services (088),
+whistle-blowing service (089), single emergency service number (911).
+
+
+
+Dialling procedure for international long-distance services
+Access prefix for international long-distance service
+The access prefix for the international long-distance service to be used by all Providers is as follows:
+                    Prefix                                           Purpose
+                     00              Automatic international long-distance call
+
+Dialling procedures for outgoing international calls
+The dialling procedures for calls to international users’ numbers and non-geographic numbers of
+other countries are as follows:
+
+                                      International long-distance calls
+                                         00 + International number
+
+
+                              Calls to international non-geographic numbers
+                                 00 + International non-geographic number
+The international non-geographic number includes the country code. International non-geographic
+number services may be restricted by international agreements between operators.
+
+
+Telecommunication service provider identification codes
+Providers must have the necessary identification codes for performing billing, call routing and
+portability functions. To that end, the Institute shall assign to each Provider the identification code
+required for its activities, except for the code 000, which will be held in reserve.
+
+
+Originating network identification code (IDO)
+Public telecommunication networks originating traffic must have an IDO code so that there is
+sufficient information in the signalling exchanged regarding to whom the traffic’s interconnection
+charges should be billed.
+The IDO code comprises 3 digits and takes the following form:
+
+                                  Originating network identification code
+                                                IDO (3 digits)
+
+
+Where:
+I = 0, 1, 2, …, 9
+D = 0, 1, 2, …, 9
+O = 0, 1, 2, …, 9
+
+
+
+
+Destination network identification code (IDD)
+Public telecommunication networks carrying out traffic termination activities must have an IDD code
+so that there is sufficient information in the signalling exchanged for the user’s destination network to
+be identified in order to ensure delivery.
+The IDD code comprises 3 digits and takes the following form:
+
+                                  Destination network identification code
+                                                IDD (3 digits)
+Where:
+I = 0, 1, 2, …, 9
+D = 0, 1, 2, …, 9
+D = 0, 1, 2, …, 9
+Administrative identification code (IDA)
+Companies must have an IDA code in order to be identified as a Provider with numbering assigned by
+the Institute or provided by another licensee and used under any commercial agreement.
+The IDA code comprises 3 digits and takes the following form:
+
+
+                                     Administrative identification code
+                                                IDA (3 digits)
+
+Where:
+I = 0, 1, 2, …, 9
+D = 0, 1, 2, …, 9
+A = 0, 1, 2, …, 9
+No IDA code used by a company may be the same as an IDO/IDD code assigned to a licensee.
+Mobile network codes
+IMSI structure
+The International Mobile Subscription Identity (IMSI) serves to identify a single subscription. It
+comprises 15 digits, grouped into three fields, and takes the following form.
+
+                                                                                 Mobile Subscription
+        Mobile Country Code                Mobile Network Code
+                                                                                Identification Number
+                    (MCC)                          (MNC)
+                                                                                        (MSIN)
+                3 digits                           3 digits
+                                                                                        9 digits
+|___________________________________MSI__________________________________________|
+
+
+
+
+Where:
+The MCC is the first three digits of the IMSI and represents the mobile country code. The MCC
+assigned to Mexico by ITU is 334.
+The MNC is the next three digits of the IMSI and represents the mobile network code. It is
+administered by the Institute and assigned to mobile service providers.
+The MSIN makes up the last nine digits of the IMSI and represents the mobile subscription
+identification number. The MSIN is administered directly by the mobile providers that have an MNC
+assigned by the Institute.
+Providers requiring IMSI resources must apply to the Institute for the assignment of an MNC allowing
+them to clearly identify the mobile network in such a way that they can administer the MSINs of the
+entire IMSI block.
+Contacts:
+   Rafael Eslava Herrada
+   Head of the Licenses and Services Unit.
+   Federal Institute of Telecommunications
+   Insurgentes Sur #838, piso 7
+   Col. Del Valle
+   Delegación Benito Juárez, México, D.F. 03100
+   Tel.     +52 55 5015 4158
+   E-mail: rafael.eslava@ift.org.mx
+
+   Gerardo López Moctezuma
+   Director General of Authorizations and Services.
+   Federal Institute of Telecommunications
+   Insurgentes Sur #838, piso 6
+   Col. Del Valle
+   Delegación Benito Juárez, México, D.F. 03100
+   Tel.     +52 55 5015 4077
+   E-mail: gerardo.lopez@ift.org.mx
+
+   Rodolfo Galván Saracho
+   Director of Telecommunication Analysis, Codes and Numbering
+   Federal Institute of Telecommunications
+   Insurgentes Sur #838, piso 6
+   Col. Del Valle
+   Delegación Benito Juárez, México, D.F. 03100
+   Tel.:    +52 55 5015 4296
+   E-mail: rodolfo.galvan@ift.org.mx
+
+
+
+
+                 Changes in Administrations/ROAs and other entities
+                                 or Organizations
+Sudan
+Communication of 13.VI.2018:
+
+                                              Change of name
+
+The National Telecommunications Corporation (NTC), Khartoum, announces that it has changed its name. It is
+now called: « Telecommunications and Post Regulatory Authority ».
+      Telecommunications and Post Regulatory Authority
+      NTC Tower - Buri - North to Manshya Bridge
+      P.O. Box 2869
+      KHARTOUM 11111
+      Sudan
+      Tel:     +249 187171110
+      Fax:     +249 183562356
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                 AMENDMENTS TO SERVICE PUBLICATIONS
+                                           Abbreviations used
+
+                            ADD     Insert                     PAR    paragraph
+                            COL     Column                     REP    replace
+                            LIR     Read                       SUP    Delete
+                            P       page(s)
+
+
+
+
+                       List of Ship Stations and Maritime Mobile
+                               Service Identity Assignments
+                                          (List V)
+                                      Edition of 2018
+
+                                              Section VI
+REP
+
+      JP03      Kyoritsu Radio Service Co. Ltd., 3rd Floor, Imagawa Bldg., 2-6,
+                Kanda Izumi-Cho, Chiyoda-ku, Tokyo 101-0024, Japan.
+                President: Mr Yuzuru Takayama
+                E-Mail: maritime@kyoritsuradio.com, Tel: +81 3 4531 2330,
+                Fax: +81 3 4531 2345
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with ITU-T Recommendation E.118 (05/2006))
+                           (Position on 15 November 2015)
+                        (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                         (Amendment No. 43)
+
+Estonia           LIR
+     Country/      Company Name/Address             Issuer Identifier   Contact
+   geographical                                         Number
+       area
+ Estonia           Telia Eesti AS                      89 372 01        Mr Dan Olov Strömberg
+                   Mustamäe tee 3                                       Mustamäe tee 3
+                   15033 TALLINN                                        15033 TALLINN
+                                                                        Tel:      +372 639 7130
+                                                                        Fax:      +372 640 2551
+                                                                        E-mail: info@telia.ee
+ Estonia           Elisa Eesti AS                      89 372 02        Mr Sami Jussi Petteri Seppänen
+                   Sõpruse pst 145                                      Sõpruse pst 145
+                   13417 TALLINN                                        13417 TALLINN
+                                                                        Tel:      +372 681 1963
+                                                                        Fax:      +372 681 1968
+                                                                        E-mail: elisa@elisa.ee
+ Estonia           Tele2 Eesti AS                      89 372 03        Mr Ardi Aolaid
+                   Jõe 2a                                               Jõe 2a
+                   10151 TALLINN                                        10151 TALLINN
+                                                                        Tel:      +372 686 6230
+                                                                        Fax:      +372 686 6231
+                                                                        E-mail: info@tele2.ee
+ Estonia           Top Connect OÜ                      89 372 04        Mr Vladislav Sobolev
+                   Väike-Paala 1                                        Väike-Paala 1
+                   11415 TALLINN                                        11415 TALLINN
+                                                                        Tel:      +372 606 2500
+                                                                        Fax:      +372 606 2501
+                                                                        E-mail: info@topconnect.com
+
+
+
+
+Luxembourg         LIR
+     Country/          Company Name/Address   Issuer Identifier   Contact
+   geographical                                   Number
+       area
+ Luxembourg            POST Luxembourg           89 352 00        Mr Gaston Bohnenberger
+                       20, rue de Reims                           POST Technologies
+                       L-2417 LUXEMBOURG                          2, rue Emile Bian
+                                                                  L-2999 LUXEMBOURG
+                                                                  Tel:     +352 4991 5740
+                                                                  Fax:     +352 480448
+                                                                  E-mail: gaston.bohnenberger@post.lu
+ Luxembourg            POST Luxembourg           89 352 01        Mr Gaston Bohnenberger
+                       20, rue de Reims                           POST Technologies
+                       L-2417 LUXEMBOURG                          2, rue Emile Bian
+                                                                  L-2999 LUXEMBOURG
+                                                                  Tel:     +352 4991 5740
+                                                                  Fax:     +352 480448
+                                                                  E-mail: gaston.bohnenberger@post.lu
+
+Suriname         SUP
+
+    Country/       Company Name/Address       Issuer Identifier   Contact                    Effective date
+  geographical                                    Number                                     of cancellation
+      area
+ Suriname          International                 89 597 01        Ms Susan Patterson            6.II.2018
+                   Communication                                  Brokopondolaan No. 9
+                   Management & Services                          PO Box 12667
+                   Ltd.                                           PARAMARIBO
+                   Brokopondolaan No. 9                           Tel: +597 490271
+                   PO Box 12667                                   Fax: +597 433350
+                   PARAMARIBO                                     E-mail: cins@ce-link.sr
+
+United States ADD
+    Country/           Company Name/Address   Issuer Identifier   Contact                    Effective date
+  geographical                                    Number                                        of usage
+      area
+ United States     Tampnet INC                    89 1 170        Oyvind Skjervik              15.VI.2018
+                   309 Apollo Road                                Tampnet AS
+                   SCOTT, LA 70583                                Hinna Park
+                                                                  Stadionblokk C
+                                                                  Jåttåvågveien 7
+                                                                  4020 STAVANGER
+                                                                  Norway
+                                                                  Tel.: +47 400 60 725
+                                                                  E-mail: os@tampnet.com
+
+
+
+
+             List of Recommendation ITU-T E.164 assigned Country Codes
+               (Complement to Recommendation ITU-T E.164 (11/2010))
+                          (Position on 15 December 2016)
+                            (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                              (Amendment No. 6)
+
+Notes common to Numerical and Alphabetical lists of Recommendation ITU-T E.164 assigned country codes
+P 18 Note p) +883 110         LIR
+
+                                                                        Country Code and
+            Applicant                          Network                                                  Status
+                                                                       Identification Code
+
+   Syniverse Technologies, LLC      Syniverse Technologies, LLC             +883 110                  Assigned
+
+
+
+
+ Mobile Network Codes (MNC) for the international identification plan
+               for public networks and subscriptions
+       (According to Recommendation ITU-T E.212 (09/2016))
+                  (Position on 1st November 2016)
+                        (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                         (Amendment No.39)
+
+   Country/Geographical area              MCC+MNC *           Operator/Network
+   Spain ADD
+                                               214 37         VODAFONE ESPAÑA, S.A.U.
+
+
+ ____________
+ *        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 39)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Panama SUP
+ 7-026-1       14545        Digicel MG INT                             Digicel Panamá S.A.
+ 7-026-2       14546        Digicel MG INT                             Digicel Panamá S.A.
+ 7-027-0       14552        Digicel MG INT                             Digicel Panamá S.A.
+
+ Spain SUP
+ 2-239-5       6013         Madrid                                     Teleconnect Comunicaciones, S.A.
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                         Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.VI.2018, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                             Country/ Geographical area                     Country Code (CC)
+                  Myanmar                                                            +95
+
+
+
+

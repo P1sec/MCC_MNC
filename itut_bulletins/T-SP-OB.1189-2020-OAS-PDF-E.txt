@@ -1,0 +1,677 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1189             1.II.2020                   (Information received by 15 January 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/1999)):
+   Note from TSB...........................................................................................................................................        5
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                             6
+     French Polynesia (Direction générale de l’économie numérique (DGEN), Papeete) .................................                                               7
+     Guinea (Autorité de Régulation des Postes et Télécommunications (ARPT), Conakry) ............................                                                 8
+     Trinidad and Tobago (Telecommunications Authority of Trinidad and Tobago (TATT), Barataria) .........                                                        10
+Other communication: Serbia ........................................................................................................................              10
+Service Restrictions ........................................................................................................................................     11
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                11
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               12
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................      13
+List of ITU Carrier Codes .................................................................................................................................       13
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                      14
+List of International Signalling Point Codes (ISPC) .........................................................................................                     15
+National Numbering Plan ...............................................................................................................................           16
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1190             15.II.2020             31.I.2020
+               1191              1.III.2020            14.II.2020
+               1192             15.III.2020            2.III.2020
+               1193              1.IV.2020             16.III.2020
+               1194             15.IV.2020             1.IV.2020
+               1195              1.V.2020              15.IV.2020
+               1196             15.V.2020               1.V.2020
+               1197              1.VI.2020             15.V.2020
+               1198             15.VI.2020             1.VI.2020
+               1199             1.VII.2020             15.VI.2020
+               1200             15.VII.2020            1.VII.2020
+               1201             1.VIII.2020           15.VII.2020
+               1202            15.VIII.2020           31.VII.2020
+               1203              1.IX.2020            14.VIII.2020
+               1204             15.IX.2020             1.IX.2020
+               1205              1.X.2020              15.IX.2020
+               1206             15.X.2020               1.X.2020
+               1207              1.XI.2020             15.X.2020
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021             11.XII.2020
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-73, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T E.475 (01/2020): Guidelines for intelligent network analytics and diagnostics
+–     ITU-T G.107.1 (2019) Cor. 1 (01/2020)
+–     ITU-T G.1034 (01/2020): QoE metrics for mobile telephony communication during rail travel
+–     ITU-T G.1072 (01/2020): Opinion model predicting gaming QoE for cloud gaming services
+–     ITU-T L.1210 (12/2019): Sustainable power feeding solutions for 5G networks
+–     ITU-T L.1470 (01/2020): GHG emissions trajectories for the ICT sector compatible with the UNFCCC Paris
+      Agreement
+–     ITU-T P.565 (01/2020): Framework for creation and performance testing of machine learning based
+      models for the assessment of transmission network impact on speech quality for mobile packet-switched
+      voice services
+–     ITU-T P.918 (01/2020): Dimension-based subjective quality evaluation for video content
+–     ITU-T P.1150 (01/2020): In-Car communication audio specification
+–     ITU-T P.1204 (01/2020): Video quality assessment of streaming services over reliable transport for
+      resolutions up to 4K
+–     ITU-T P.1204.3 (01/2020): Video quality assessment of streaming services over reliable transport for
+      resolutions up to 4K with access to full bitstream information
+–     ITU-T P.1204.4 (01/2020): Video quality assessment of streaming services over reliable transport for
+      resolutions up to 4K with access to full and reduced reference pixel information
+–     ITU-T P.1204.5 (01/2020): Video quality assessment of streaming services over reliable transport for
+      resolutions up to 4K with access to transport and received pixel information
+–     ITU-T P.1401 (01/2020): Methods, metrics and procedures for statistical evaluation, qualification and
+      comparison of objective quality prediction models
+–     ITU-T P.1502 (01/2020): Methodology for QoE testing of digital financial services
+–     ITU-T Q.3055 (12/2019): Signalling protocol for Heterogeneous IoT gateways
+–     ITU-T Q.3056 (12/2019): Signalling procedures of the probes to be used for remote testing of network
+      parameters
+–     ITU-T Q.3644 (12/2019): Requirements for signalling network analyses and optimization in VoLTE
+–     ITU-T Q.3719 (12/2019): Signalling requirements for the separation of control plane and user plane in
+      vBNG (Broadband Network Gateway)
+–     ITU-T Q.3916 (12/2019): Signalling requirements and architecture for the Internet service quality
+      monitoring system
+–     ITU-T Q.5002 (12/2019): Signalling requirement and architecture for media service entity attachment
+–     ITU-T X.609.8 (12/2019): Managed P2P communications: Management protocol for live data sources
+–     ITU-T Y.2244 (12/2019): Service model for the Cultivation Plan Service at the pre-production stage
+–     ITU-T Y.2324 (12/2019): Functional architecture of orchestration in NGNe
+–     ITU-T Y.2342 (12/2019): Scenarios and Capability Requirements of Blockchain in Next Generation Network
+      Evolution
+–     ITU-T Y.3108 (12/2019): Capability exposure function in the IMT-2020 networks
+–     ITU-T Y.3132 (12/2019): Mobility management for fixed mobile convergence in IMT-2020 networks
+–     ITU-T Y.3133 (12/2019): Capability Exposure enhancement for supporting FMC in IMT-2020 networks
+
+–        ITU-T Y.3153 (12/2019): Network slice orchestration and management for providing network services to
+         3rd party in the IMT-2020 network
+–        ITU-T Y.3509 (12/2019): Cloud computing - Functional architecture for data storage federation
+–        ITU-T Y.3524 (12/2019): Cloud computing maturity requirements and framework
+–        ITU-T Y.3603 (12/2019): Big data - Requirements and conceptual model of metadata for data catalogue
+–        ITU-T Y.4208 (01/2020): IoT requirements for support of edge computing
+–        ITU-T Y.4459 (01/2020): An architecture for IoT interoperability
+–        ITU-T Y.4461 (01/2020): Framework of open data in smart cities
+–        ITU-T Y.4462 (01/2020): Requirements and functional architecture of open IoT identity correlation service
+–        ITU-T Y.4463 (01/2020): Framework of delegation service for IoT devices
+–        ITU-T Y.4464 (01/2020): Framework of blockchain of things as decentralized service platform
+–        ITU-T Y.4465 (01/2020): Framework of IoT services based on visible light communications
+–        ITU-T Y.4466 (01/2020): Framework of smart greenhouse service
+–        ITU-T Y.4467 (01/2020): Minimum set of data structure for automotive emergency response system
+–        ITU-T Y.4468 (01/2020): Minimum set of data transfer protocol for automotive emergency response
+         system
+–        ITU-T Y.4807 (01/2020): Agility by design for Telecommunications/ICT Systems Security used in the
+         Internet of Things
+
+
+
+
+                     Assignment of Signalling Area/Network Codes (SANC)
+                          (Recommendation ITU-T Q.708 (03/1999))
+Note from TSB
+At the request of the Administrations of Burkina Faso and the Republic of Seychelles, the Director of TSB has
+assigned the following signalling area/network code (SANC) for use in the international part of the signalling
+system No. 7 network of this country/geographical area, in accordance with Recommendation ITU-T Q.708
+(03/1999):
+
+            Country/geographical area or signalling network                            SANC
+            Burkina Faso                                                               6-027
+            Seychelles (Republic of)                                                   6-155
+
+____________
+
+SANC:     Signalling Area/Network Code.
+          Code de zone/réseau sémaphore (CZRS).
+          Código de zona/red de señalización (CZRS).
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                          url: www.itu.int/itu-t/inr/nnp
+Denmark (country code +45)
+Communication of 9.I.2020:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+      Withdrawal – Carrier select code
+             Provider                               Numbering series                     Date of withdrawal
+Supertel A/S                    1020                                                          2.XII.2019
+      Withdrawal – Fixed communication services
+             Provider                               Numbering series                     Date of withdrawal
+Supertel A/S                    70303fgh, 7087efgh, 7088efgh, 7089efgh, 7871efgh,             2.XII.2019
+                                7872efgh, 7873efgh, 7874efgh, 7875efgh, 7876efgh,
+                                7877efgh, 7878efgh and 7879efgh
+      Withdrawal – Freephone numbers
+             Provider                               Numbering series                     Date of withdrawal
+Supertel A/S                    80705fgh, 8083efgh, 80901fgh and 809900gh                     2.XII.2019
+      Withdrawal – Premium rate
+             Provider                               Numbering series                     Date of withdrawal
+Supertel A/S                    901010gh 901090gh, 901111gh, 90515fgh, 909900gh,              2.XII.2019
+                                909910gh and 909911gh
+      Assignment – Carrier select code
+             Provider                               Numbering series                     Date of assignment
+GlobalConnect A/S               1020                                                          3.XII.2019
+      Assignment – Fixed communication services
+             Provider                               Numbering series                     Date of assignment
+GlobalConnect A/S               70303fgh, 7087efgh, 7088efgh, 7089efgh, 7871efgh,             3.XII.2019
+                                7872efgh, 7873efgh, 7874efgh, 7875efgh, 7876efgh,
+                                7877efgh, 7878efgh and 7879efgh
+      Assignment – Freephone numbers
+             Provider                               Numbering series                     Date of assignment
+GlobalConnect A/S               80705fgh, 8083efgh, 80901fgh and 809900gh                     3.XII.2019
+      Assignment – Premium rate
+             Provider                               Numbering series                     Date of assignment
+GlobalConnect A/S               901010gh 901090gh, 901111gh, 90515fgh, 909900gh,              3.XII.2019
+                                909910gh and 909911gh
+
+Contact:
+      Danish Energy Agency
+      43 Carsten Niebuhrs Gade
+      1577 COPENHAGEN V
+      Denmark
+      Tel:      +45 33 92 67 00
+      Fax:      +45 33 11 47 43
+      E-mail: ens@ens.dk
+      URL:      www.ens.dk
+
+French Polynesia (country code +689)
+Communication of 2.I.2020:
+The Direction générale de l’économie numérique (DGEN), Papeete, announces the following update to the
+numbering plan for French Polynesia.
+Closed plan at 8 digits
+A – PSTN/ISDN network:
+            Service                  Type                  Area                  Numbers           Tests numbers
+                                                                               AB PQ MC DU
+            Fixed                PSTN/ISDN       Windward Islands              40 4Q MC DU
+            Fixed                PSTN/ISDN       Windward Islands              40 5Q MC DU
+            Fixed                PSTN/ISDN       Windward Islands              40 8Q MC DU
+        Payphones (1)            PSTN/ISDN       French Polynesia              40 88 MC DU
+            Fixed                PSTN/ISDN       Leeward Islands               40 6Q MC DU
+            Fixed                PSTN/ISDN       Remote islands                40 9Q MC DU
+       Voice servers (2)         PSTN/ISDN       Windward Islands               44 MC DU
+            Fixed                   ToIP         French Polynesia              49 4Q MC DU         49 40 06 00
+            Fixed                   ToIP         French Polynesia              49 5Q MC DU         49 50 06 00
+            Fixed                   ToIP         French Polynesia              49 6Q MC DU         49 60 06 00
+            Fixed                   ToIP         French Polynesia              49 8Q MC DU         49 80 06 00
+           ViniBox                  ToIP         French Polynesia              49 9Q MC DU
+B – Mobile network (3):
+  Service                             Type                        Area                         Numbers
+                                                                                               AB PQ MC DU
+  Postpaid/prepaid VINI               GSM / UMTS                  French Polynesia             87 PQ MC DU
+  MSRN VINI                           GSM / UMTS                  French Polynesia             87 41 1C DU
+  Postpaid/prepaid                    GSM / UMTS                  French Polynesia             89 PQ MC DU
+  PMT/VODAFONE
+  MSRN PMT/VODAFONE                   GSM / UMTS                  French Polynesia             89 41 1C DU
+  Postpaid/prepaid VITI               GSM / UMTS                  French Polynesia             88 PQ MC DU
+  MSRN VITI                           GSM / UMTS                  French Polynesia             88 41 1C DU
+
+Important note:
+(1)     All collect calls to payphones has to be blocked by the originating country carrier.
+(2)     All calls to the following numbers 44 XX XX has to be blocked by the originating country carrier.
+        These numbers are reserved for AUDIOTEXT.
+(3)     All collect calls to GSM/UMTS/LTE VOICE mobile numbers has to be blocked by the originating country
+        carrier.
+        All other type of calls has to be authorized by the originating country carrier to all GSM/UMTS/LTE
+        VOICE mobile number ranges.
+        Any collect calls received on these numbers will not be included in the international repayments.
+
+
+
+
+Contacts:
+       Direction générale de l’économie numérique (DGEN)
+       Immeuble TORIKI
+       rue Dumont d’Urville
+       98714 Papeete
+       TAHITI
+       French Polynesia
+       Tél:       +689 40 54 48 60
+       E-mail: contact@dgen.gov.pf
+       URL:       www.service-public.pf/dgen/
+
+       ONATi S.A.S. DETM-DED
+       Mr William KIMCHOU
+       Tel:      +689 40 41 46 72
+       Fax:      +689 40 45 25 00
+       E-mail: william.kimchou@onati.pf
+
+       For tests:
+       Mr Beky TUIAIHO
+       Tel:       +689 40 41 42 40
+       GSM:       +689 87 77 00 76
+       E-mail: beky.tuiaiho@onati.pf
+
+Guinea (country code +224)
+Communication of 8.I.2020:
+The Autorité de Régulation des Postes et Télécommunications (ARPT), Conakry, announces the following update
+to the national numbering plan for Guinea.
+Pursuant to Article 94 of Law N°/2015/018/AN on telecommunications and information technologies in the
+Republic of Guinea, the Posts and Telecommunications Regulatory Authority (ARPT) is the entity responsible for
+establishing and managing the national numbering plan. These are scarce resources, and are managed in an
+objective, transparent and non-discriminatory manner.
+The national numbering plan resource is understood to comprise all numbers used to identify the fixed and
+mobile termination points in electronic communication networks and services, route calls, and access resources
+internal to networks. It corresponds to a segment of the global numbering plan (Recommendation ITU-T E.164).
+A. Allocation of national numbering plan
+The national numbering plan is updated regularly as part of structuring the numbering system and allowing it to
+evolve over time.
+The Republic of Guinea’s numbering plan is a closed nine-digit plan, as reflected in the table below.
+
+
+
+
+                                   NATIONAL NUMBERING PLAN (NNP)
+ SERVICES                         PQ            RESOURCE CODE       SEGMENT
+ FREEPHONE NUMBERS FOR            11            11x                 11x (x from 0 to 9)
+ SPECIAL SERVICES                 12            12x                 12x
+                                  13                                13x
+                                  …             ….                  …
+                                  19            19x                 19x
+
+                                  20            20                  200 000 000 - 200 999 999
+                                  …             …                   ….
+                                  29            29                  290 000 000 - 290 999 999
+
+                                                                    600 000 000 - 600 999 999 to
+ GSM MOBILE SERVICES              60            600 to 609
+                                                                    609 000 000 - 609 999 999
+                                                                    610 000 000 - 610 999 999 to
+                                  61            610 to 619
+                                                                    619 000 000 - 619 999 999
+                                  …             …                   …
+                                                                    690 000 000 - 690 999 999 to
+                                  69
+                                                                    690 000 000 - 699 999 999
+                                  30            30                  300 000 000 - 309 999 999
+ FIXED NUMBERS                    …             …                   …
+                                  39            39                  390 000 000 - 390 999 999
+
+                                  50            50                  500 000 000 - 509 999 999
+ NEXT GENERATION NUMBERS          …             …                   …
+                                  79            79                  790 000 000 - 799 999 999
+
+                                  80            80xx                80xx (xx from 0 to 9)
+                                  81            81xx                81xx
+ VALUE-ADDED SERVICES
+                                  …             …                   …
+                                  89            89xx
+
+                                  40            40                  400 000 000 - 400 999 999
+ SPARE FREE NUMBERS               …             …
+                                  99            99                  990 000 000 - 990 999 999
+B. Updated allocation of numbering resources to mobile telephone operators
+ Mobile telephone operator         PQ             Resource code       Segment
+                                                  653                 653 000 000 – 653 999 999
+                                                  654                 654 000 000 – 654 999 999
+ CELLCOM                           65             655                 655 000 000 – 655 999 999
+                                                  656                 656 000 000 – 656 999 999
+                                                  657                 657 000 000 – 657 999 999
+                                                  660                 660 000 000 – 660 999 999
+                                                  661                 661 000 000 – 661 999 999
+                                                  662                 662 000 000 – 662 999 999
+ MTN                               66
+                                                  664                 664 000 000 – 664 999 999
+                                                  666                 666 000 000 – 666 999 999
+                                                  668                 668 000 000 – 668 999 999
+
+
+
+
+    Mobile telephone operator          PQ          Resource code       Segment
+                                                   620                 620 000 000 – 620 999 999
+                                                   621                 621 000 000 – 621 999 999
+                                                   622                 622 000 000 – 622 999 999
+                                                   623                 623 000 000 – 623 999 999
+                                                   624                 624 000 000 – 624 999 999
+    ORANGE                             62
+                                                   625                 625 000 000 – 625 999 999
+                                                   626                 626 000 000 – 626 999 999
+                                                   627                 627 000 000 – 627 999 999
+                                                   628                 628 000 000 – 628 999 999
+                                                   629                 629 000 000 – 629 999 999
+Contact:
+      Autorité de Régulation des Postes et Télécommunications (ARPT)
+      BP: 1500
+      CONAKRY
+      Guinea
+      Tel:      +224 657 66 66 31
+      E-mail: contact@arpt.gov.gn
+      URL:      www.arpt.gov.gn
+
+Trinidad and Tobago (country code +1 868)
+Communication of 8.I.2020:
+The Telecommunications Authority of Trinidad and Tobago (TATT), Barataria, announces that the following
+Central Office codes (CO) have been assigned to an operator in Trinidad and Tobago.
+      Mobile network
+
+                    Name of operator                  Central office code              Service
+    Digicel Trinidad and Tobago Limited                      265                       Mobile
+
+Contact:
+         Ms Cynthia Reddock-Downes
+         Chief Executive Officer (Ag)
+         Telecommunications Authority of Trinidad and Tobago (TATT)
+         5, Eight Avenue Extension, off Twelfth Street
+         BARATARIA
+         Trinidad and Tobago
+         Tel:       +1 868 675 8288
+         Fax:       +1 868 674 1055
+         E-mail: info@tatt.org.tt
+         URL:       www.tatt.org.tt
+
+
+
+                                            Other communication
+
+Serbia
+Communication of 27.XII.2019:
+On the occasion of the jubilee of the foundation of the Amateur Radio Union "Nikola Tesla" from Leskovac, the
+Serbian Administration authorizes radio stations of the Amateur Radio Union "Nikola Tesla" to use the special
+call sign YU70HFG from 1 January to 31 December 2020.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                        AMENDMENTS TO SERVICE PUBLICATIONS
+                                                Abbreviations used
+
+                                 ADD     Insert                    PAR     paragraph
+                                 COL     Column                    REP     replace
+                                 LIR     Read                      SUP     Delete
+                                 P       page(s)
+
+
+
+
+                              List of Issuer Identifier Numbers for
+                      the International Telecommunication Charge Card
+                (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                 (Position on 1 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                              (Amendment No. 21)
+
+   Austria        ADD
+   Country/      Company Name/Address        Issuer Identifier   Contact                                Effective date
+ geographical                                    Number                                                    of usage
+     area
+Austria          Citycom                           89 43 25      Bernd Stockinger                         1.III.2020
+                 Telekommunikation                               Gadollaplatz 1
+                 GmbH                                            8010 GRAZ
+                 Gadollaplatz 1                                  Tel:     +43 316 887 6211
+                 8010 GRAZ                                       Fax:     +43 316 887 6212
+                                                                 E-mail: bernd.stockinger@
+                                                                          citycom-austria.com
+
+   Germany        ADD
+   Country/       Company Name/Address       Issuer Identifier   Contact                                Effective date
+ geographical                                    Number                                                    of usage
+     area
+Germany           Workz Technology GmbH            89 49 39      Benedikt Leisten                          1.I.2020
+                  Konrad-Zuse-Platz 5                            Konrad-Zuse-Platz 5
+                  81829 MUNCHEN                                  81829 MUNCHEN
+                                                                 Tel:     +49 89 3090977 0
+                                                                 Fax:     +49 89 3090977 99
+                                                                 E-mail: accounting-de@
+                                                                          workz.com
+
+   Palau          ADD
+   Country/      Company Name/Address        Issuer Identifier   Contact                                Effective date
+ geographical                                    Number                                                    of usage
+     area
+Palau            Palau Mobile                   89 680 99        Billy Takamine                           1.III.2020
+                 Communications Inc.                             P.O. Box 401461
+                 P.O. Box 401461                                 KOROR, PW 96940
+                 KOROR, PW 96940                                 Tel:      +680 4881189
+                                                                 E-mail: info@pmci.pw
+
+
+
+
+        Mobile Network Codes (MNC) for the international identification plan
+                       for public networks and subscriptions
+               (According to Recommendation ITU-T E.212 (09/2016))
+                          (Position on 15 December 2018)
+                               (Annex to ITU Operational Bulletin No. 1162 – 15.XII.2018)
+                                                (Amendment No. 25)
+
+
+
+
+Country/Geographical area             MCC+MNC *           Operator/Network
+Australia ADD
+                                            505 48        Titan ICT Pty Ltd
+Spain ADD
+                                            214 37        VODAFONE ESPAÑA, S.A.U.
+____________
+
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+         MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                               List of ITU Carrier Codes
+                (According to Recommendation ITU-T M.1400 (03/2013))
+                           (Position on 15 September 2014)
+                               (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                                (Amendment No. 91)
+
+    Country or area/ISO code                                Company Code           Contact
+     Company Name/Address                                    (carrier code)
+
+Germany (Federal Republic of) / DEU                ADD
+
+    New Fiber Networks GmbH                                     LYTENF             Mr Rolf Tresch
+    Gontardstrasse 11                                                              Tel.:    +49 800 6008100
+    D-10178 BERLIN                                                                 Email: info@lyte.net
+
+
+    1N Telecom GmbH                                              1NTE              Mr Philipp Hoffmann
+    Prinzenallee 7                                                                 Tel:     +49 211 73511000
+    40549 DUESSELDORF                                                              E-mail: phoffmann@1n.de
+
+
+
+Germany (Federal Republic of) / DEU                SUP
+
+    1N Telecom GmbH                                             DEU1N              Mr Philipp Hoffmann
+    Prinzenallee 7                                                                 E-mail: p.hoffmann@1n.de
+    40549 DUESSELDORF
+
+
+
+
+                   List of Signalling Area/Network Codes (SANC)
+               (Complement to Recommendation ITU-T Q.708 (03/1999))
+                              (Position on 1 June 2017)
+                                 (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                  (Amendment No. 9)
+
+
+
+ Numerical order             ADD
+               6-027        Burkina Faso
+               6-155        Seychelles (Republic of)
+
+
+
+ Alphabetical order          ADD
+               6-027        Burkina Faso
+               6-155        Seychelles (Republic of)
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                    List of International Signalling Point Codes (ISPC)
+                  (According to Recommendation ITU-T Q.708 (03/1999))
+                                (Position on 1 October 2016)
+                                   (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                   (Amendment No. 68)
+
+
+ Country/                    Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Burkina Faso         ADD
+ 6-026-0       12496         ZAD                                        ONATEL S.A.
+ 6-026-1       12497         CTI_JLC                                    ONATEL S.A.
+ 6-026-2       12498         OUMSS1                                     ORANGE BURKINA FASO SA
+ 6-026-3       12499         OUMSC01                                    TELECEL FASO
+
+ Seychelles        ADD
+ 6-067-4       12828         HLR1                                       Intelvision Ltd
+ 6-067-5       12829         HLR2                                       Intelvision Ltd
+ 6-067-6       12830         MSC1                                       Intelvision Ltd
+ 6-067-7       12831         MSC2                                       Intelvision Ltd
+
+ Spain       SUP
+ 2-031-2       4346          Madrid                                     ADENET SYSTEMS, S.L.
+
+____________
+ISPC:    International Signalling Point Codes.
+         Codes de points sémaphores internationaux (CPSI).
+         Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                 National Numbering Plan
+                  (According to Recommendation ITU-T E.129 (01/2013))
+                                    Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.I.2020, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                           Country/ Geographical area                   Country Code (CC)
+                 Azerbaijan                                                     +994
+                 Colombia                                                       +57
+                 Morocco                                                        +212
+                 Palau                                                          +680
+
+
+
+

@@ -1,0 +1,423 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1115             1.I.2017                    (Information received by 12 December 2016) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Telephone Service:
+     Costa Rica (Superintendencia de Telecomunicaciones (SUTEL), San José) ...............................................                                         5
+     Trinidad and Tobago (Telecommunications Authority of Trinidad and Tobago (TATT), Barataria) .........                                                         6
+Service Restrictions ........................................................................................................................................      7
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .......................................................                                    7
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                8
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................          9
+List of ITU Carrier Codes .................................................................................................................................        9
+List of International Signalling Point Codes (ISPC) .........................................................................................                     10
+National Numbering Plan ...............................................................................................................................           11
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1116              15.I.2017              2.I.2017
+               1117              1.II.2017             16.I.2017
+               1118             15.II.2017              1.II.2017
+               1119              1.III.2017            15.II.2017
+               1120             15.III.2017            1.III.2017
+               1121              1.IV.2017             17.III.2017
+               1122             15.IV.2017             31.III.2017
+               1123              1.V.2017              14.IV.2017
+               1124             15.V.2017               1.V.2017
+               1125              1.VI.2017             16.V.2017
+               1126             15.VI.2017             1.VI.2017
+               1127             1.VII.2017             16.VI.2017
+               1128             15.VII.2017            30.VI.2017
+               1129             1.VIII.2017           17.VII.2017
+               1130            15.VIII.2017            1.VIII.2017
+               1131              1.IX.2017            16.VIII.2017
+               1132             15.IX.2017             1.IX.2017
+               1133              1.X.2017              15.IX.2017
+               1134             15.X.2017              29.IX.2017
+               1135              1.XI.2017             16.X.2017
+               1136             15.XI.2017             31.X.2017
+               1137             1.XII.2017             15.XI.2017
+               1138             15.XII.2017            1.XII.2017
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+     E.164 (11/2010)) (Position on 15 December 2016)
+1111 Mobile Network Codes (MNC) for the international identification plan for public networks and
+     subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 1 November 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+     (Position on 1 October 2016)
+1096 Legal time 2016
+1088 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+     Recommendation ITU-T E.118 (05/2006)) (Position on 15 November 2015)
+1066 List of Signalling Area/Network Codes (SANC) (Complement to ITU-T Recommendation Q.708 (03/99))
+     (Position on 15 December 2014)
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+     2014)
+1055 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+     optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+     Administration to its Amateur and Experimental Stations (Position on 1 July 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+     (Position on 1 November 2012)
+1005 List of mobile country or geographical area codes (Complement to ITU-T Recommendation E.212
+     (05/2008)) (Position on 1 June 2012).
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+     to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+     (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+     operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+     accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+     (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-
+     T Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+     (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+     series Recommendations) (Position on 15 February 2011)
+972 List of terrestrial trunk radio mobile country codes (Complement to ITU-T Recommendation E.218
+     (05/2004)) (Position on 15 January 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+     on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+     Recommendation F.1 (03/1998))
+B.   The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-03, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T K.20 (12/2016): Resistibility of telecommunication equipment installed in a telecommunication
+      centre to overvoltages and overcurrents
+
+–     ITU-T K.21 (12/2016): Resistibility of telecommunication equipment installed in customer premises to
+      overvoltages and overcurrents
+
+–     ITU-T K.45 (12/2016): Resistibility of telecommunication equipment installed in the access and trunk
+      networks to overvoltages and overcurrents
+–     ITU-T K.50 (12/2016): Safe limits for operating voltages and currents of telecommunication systems
+      powered over the network
+–     ITU-T K.52 (12/2016): Guidance on complying with limits for human exposure to electromagnetic fields
+–     ITU-T K.93 (12/2016): Immunity of home network devices to electromagnetic disturbances
+–     ITU-T K.117 (12/2016): Primary protector parameters for the surge protection of equipment Ethernet
+      ports
+–     ITU-T K.118 (12/2016): Requirements for Lightning Protection of Fibre To The distribution point (FTTdp)
+      Equipment
+–     ITU-T K.119 (12/2016): Conformance Assessment of Radio Base Stations Regarding Lightning Protection
+      and Earthing
+–     ITU-T K.120 (12/2016): Lightning protection and earthing of miniature base station
+–     ITU-T K.121 (12/2016): Guidance on the environmental management for compliance with radio Frequency
+      EMF limits for radiocommunication base stations
+–     ITU-T K.122 (12/2016): Exposure levels in the close proximity of the radiocommunication antennas
+–     ITU-T K.123 (12/2016): EMC requirements for electrical equipment in telecommunication facilities
+–     ITU-T K.124 (12/2016): Overview of particle radiation effects on telecommunications systems
+–     ITU-T L.1006 (12/2016): Test suites for assessment of the external universal power adapter solutions for
+      stationary information and communication technology devices
+–     ITU-T L.1007 (12/2016): Test suites for assessment of the External universal power adapter solutions for
+      portable information and communication technology devices
+–     ITU-T L.1205 (12/2016): Interfacing of renewable energy or distributed power sources to up to 400 VDC
+      power feeding systems
+–     ITU-T L.1325 (12/2016): Green ICT solutions for telecom network facilities
+–     ITU-T L.1360 (12/2016): Energy control of SDN architecture
+–     ITU-T L.1504 (12/2016): ICT and adaptation of agriculture to the effects of climate change
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+
+Costa Rica (country code +506)
+Communication of 4.XII.2016:
+The Superintendencia de Telecomunicaciones (SUTEL), San José, which under Executive Decree N°35187-MINAET
+(National Numbering Plan) is in charge of the control and administration of Numbering resources in Costa Rica,
+acting in accordance with the provisions of Recommendation ITU-T E.129, presents the:
+             Modification to the ITU-T E.164 National Numbering Plan (NNP) for country code 506
+      Table 1 – Description of introduction of new resource in the ITU-T E.164 National Numbering Plan
+                                             for country code 506
+
+
+ NDC (National Destination Code)     N(S)N number length
+                                                                     Usage of                   Date and time of
+    or leading digits of N(S)N      Maximum      Minimum        ITU-T E.164 Number                introduction
+ (National (Significant) Number))    length       length
+
+ 6400-0000                           8 digits     8 digits   Mobile telephone service       2016 – 11– 02 – 17:15
+ to                                                          Telefónica de Costa Rica TC,   In conformance with
+ 6499-9999                                                   S.A.                           resolution RCS-241-2016
+
+
+Contact:
+      Ing. Pedro Arce Villalobos
+      Superintendencia de Telecomunicaciones (SUTEL)
+      Apartado Postal 151-1200
+      SAN JOSÉ, Costa Rica
+      Tel:     +506 4000 0000
+      Fax:     +506 2215 6821
+      Email: pedro.arce@sutel.go.cr
+      URL:     www.sutel.go.cr
+
+
+
+
+Trinidad and Tobago (country code +1 868)
+Communication of 7.XII.2016:
+The Telecommunications Authority of Trinidad and Tobago (TATT), Barataria, announces that the following
+Central Office codes (NXX) have been assigned to operators within the North American Numbering Plan (NPA –
+868) for Trinidad and Tobago.
+•        Fixed network
+
+
+                                                      Central office code
+                 Name of operator                                                    Service
+                                                            (NXX)
+    Columbus Communications Trinidad Limited                 220                      Fixed
+                                                             227
+                                                             228
+                                                             229
+
+
+International dialling format: +1 868 NXX XXXX
+Contact:
+         Ms Cynthia Reddock-Downes
+         Chief Executive Officer (Ag.)
+         Telecommunications Authority of Trinidad and Tobago (TATT)
+         5, Eight Avenue Extension, off Twelfth Street
+         BARATARIA
+         Trinidad and Tobago
+         Tel:      +1 868 675 8288
+         Fax:      +1 868 674 1055
+         E-mail: info@tatt.org.tt
+         URL:      www.tatt.org.tt
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+
+
+
+
+                                        Call – Back
+               and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+
+                                ADD    Insert                    PAR      paragraph
+                                COL    Column                    REP      replace
+                                LIR    Read                      SUP      Delete
+                                P      page(s)
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with ITU-T Recommendation E.118 (05/2006))
+                           (Position on 15 November 2015)
+                            (Annex to ITU Operational Bulletin No. 1088 – 15.XI.2015)
+                                             (Amendment No. 14)
+Sweden LIR
+
+
+   Country/      Company Name/Address                 Issuer        Contact
+ geographical                                       Identifier
+     area                                            Number
+ Sweden          Com4 Sweden AB                     89 46 09        Mr Henning Solberg
+                 c/o Adv. Firman Lindberg &                         Com4 Sweden AB
+                 Saxon AB                                           c/o Adv. Firman Lindberg & Saxon AB
+                 Cardellgatan 1                                     Cardellgatan 1
+                 SE-114 36 STOCKHOLM                                SE-114 36 STOCKHOLM
+                                                                    Tel:      +46 8 5620 8013
+                                                                    E-mail: hso@com4.se
+
+
+
+   Country/      Company Name/Address                 Issuer        Contact
+ geographical                                       Identifier
+     area                                            Number
+ Sweden          Tele2 Business AB                  89 46 14        Mr Carl-Johan Rydén
+                 Box 799                                            Tele2 Business AB
+                 SE-191 27 SOLLENTUNA                               Box 799
+                                                                    SE-191 27 SOLLENTUNA
+                                                                    Tel:     +46 70 426 41 33
+                                                                    E-mail: carljohan.ryden@tele2.com
+
+
+   Country/      Company Name/Address                 Issuer        Contact
+ geographical                                       Identifier
+     area                                            Number
+ Sweden          Com4 Sweden AB                     89 883 04       Mr Henning Solberg
+                 c/o Adv. Firman Lindberg &                         Com4 Sweden AB
+                 Saxon AB                                           c/o Adv. Firman Lindberg & Saxon AB
+                 Cardellgatan 1                                     Cardellgatan 1
+                 SE-114 36 STOCKHOLM                                SE-114 36 STOCKHOLM
+                                                                    Tel:      +46 8 5620 8013
+                                                                    E-mail: hso@com4.se
+
+
+ Mobile Network Codes (MNC) for the international identification plan
+               for public networks and subscriptions
+       (According to Recommendation ITU-T E.212 (09/2016))
+                  (Position on 1st November 2016)
+                        (Annex to ITU Operational Bulletin No. 1111 – 1.XI.2016)
+                                         (Amendment No.4)
+
+  Country/Geographical area                   MCC+MNC *           Operator/Network
+  Sweden LIR
+                                                    240 09        Com4 Sweden AB
+                                                    240 14        Tele2 Business AB
+   International Mobile, shared code LIR
+                                                    901 48        Com4 Sweden AB
+
+
+ ____________
+ *        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                               List of ITU Carrier Codes
+               (According to Recommendation ITU-T M.1400 (03/2013))
+                           (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 36)
+
+
+ Country or area/ISO code                                  Company Code         Contact
+  Company Name/Address                                      (carrier code)
+
+Germany (Federal Republic of) / DEU             ADD
+
+ QuaeroSys UG (haftungsbeschraenkt)                               QS            Mr Johannes Braun
+ Nobelstrasse 13a                                                               Tel:    +49 6044 96698 0
+ 70569 STUTTGART                                                                Fax:    +49 6044 96698 100
+                                                                                E-mail: mail@quaerosys.com
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                   (Amendment No. 6)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Cyprus ADD
+ 6-231-2       14138        MTNCYMGCF1                                 MTN Cyprus Ltd
+ 6-231-3       14139        MTNCYMGCF2                                 MTN Cyprus Ltd
+ 6-231-4       14140        MTNCYIMGW1                                 MTN Cyprus Ltd
+ 6-231-5       14141        MTNCYIMGW2                                 MTN Cyprus Ltd
+ 6-231-6       14142        MTNCYSPS1                                  MTN Cyprus Ltd
+ 6-231-7       14143        MTNCYSPS2                                  MTN Cyprus Ltd
+
+ Hungary ADD
+ 2-032-6       4358         TTI INT 01                                 Türk Telekom International HU Ltd.
+ 6-251-6       14302        TTI INT 02                                 Türk Telekom International HU Ltd.
+
+ Spain SUP
+ 2-027-1       4313         Zamudio (Vizcaya)                          Euskaltel, S.A.
+ 2-027-2       4314         Vitoria (Álava)                            Euskaltel, S.A.
+ 2-027-3       4315         Miramón-PTS                                Euskaltel, S.A.
+ 2-027-4       4316         Zamudio-PTS                                Euskaltel, S.A.
+ 2-028-0       4320         Jundiz-Central                             Euskaltel, S.A.
+ 2-031-6       4350         Jundiz (Alava)                             Euskaltel, S.A.
+ 7-241-5       16269        Jundiz (Alava)                             Euskaltel, S.A.
+ 7-241-6       16270        Zamudio (Vizcaya)                          Euskaltel, S.A.
+
+ Spain ADD
+ 2-241-5       6029         Manresa                                    ALTA TECNOLOGIA EN COMUNICACIONS, S.L.
+
+ Sweden LIR
+ 2-081-5       4749         SNVH1-INT (Stockholm)                      Tele2 Business AB
+ 2-081-6       4750         SNKT1-INT (Stockholm)                      Tele2 Business AB
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web:www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that
+the information, which will be made available freely to all administrations/ROAs and service providers, can be
+posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.XII.2016 the following countries have updated their national numbering plan on our site:
+
+
+                                  Country                              Country Code (CC)
+               Kenya                                                         +254
+               Guinea-Bissau                                                 +245
+
+
+
+

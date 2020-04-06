@@ -1,0 +1,525 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1169             1.IV.2019                   (Information received by 15 March 2019) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                               Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ................................................................................3
+Approval of ITU-T Recommendations ......................................................................................................................4
+Maritime Identification Digits (MID) ........................................................................................................................4
+Assignment of Signalling Area/Network Codes (SANC) (Recommendation ITU-T Q.708 (03/99)) ..........................4
+Telephone Service:
+     Burkina Faso (Autorité de Régulation des Communications Electroniques et des Postes (ARCEP),
+        Ouagadougou) ..............................................................................................................................................5
+     Kiribati (Communications Commission of Kiribati (CCK), Betio, Tarawa) ...........................................................6
+     Mauritius (Information and Communication Technologies Authority (ICTA), Port-Louis) ..................................7
+Service Restrictions ..................................................................................................................................................8
+Call – Back and alternative calling procedures (Res. 21 Rev. PP – 2006) .................................................................8
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ....................................................9
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.................................... 10
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ................................................................................................................................................... 12
+List of Signalling Area/Network Codes (SANC) ...................................................................................................... 12
+List of International Signalling Point Codes (ISPC) ................................................................................................ 13
+National Numbering Plan ...................................................................................................................................... 14
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1170             15.IV.2019             1.IV.2019
+               1171              1.V.2019              12.IV.2019
+               1172             15.V.2019              26.IV.2019
+               1173              1.VI.2019             15.V.2019
+               1174             15.VI.2019             31.V.2019
+               1175             1.VII.2019             14.VI.2019
+               1176             15.VII.2019            28.VI.2019
+               1177             1.VIII.2019           15.VII.2019
+               1178            15.VIII.2019           31.VII.2019
+               1179              1.IX.2019            16.VIII.2019
+               1180             15.IX.2019            30.VIII.2019
+               1181              1.X.2019              16.IX.2019
+               1182             15.X.2019               1.X.2019
+               1183              1.XI.2019             15.X.2019
+               1184             15.XI.2019             1.XI.2019
+               1185             1.XII.2019             15.XI.2019
+               1186             15.XII.2019            2.XII.2019
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/99))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In
+      accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21.PP-2006)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/98)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))    www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+                                  Approval of ITU-T Recommendations
+By TSB Circular 153 of 11 March 2019, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+–       Amendment 1 to Recommendation ITU-T E.118 (03/2019): The international telecommunication charge
+        card – revised registration form
+–       Revised Recommendation ITU-T E.169.1 (03/2019): Application of Recommendation E.164 numbering
+        plan for universal international freephone numbers for international freephone service
+–       Revised Recommendation ITU-T E.217 (03/2019): Maritime communications – Ship station identity
+
+
+
+
+                                   Maritime Identification Digits (MID)
+In accordance with No. 19.35 of the Radio Regulations, the Maritime Identification Digit (MID) "550" has been
+allocated to Timor-Leste (Democratic Republic of).
+
+
+
+
+                    Assignment of Signalling Area/Network Codes (SANC)
+                          (Recommendation ITU-T Q.708 (03/99))
+
+Note from TSB
+At the request of the Administration of Sweden, the Director of TSB has assigned the following signalling
+area/network code (SANC) for use in the international part of the signalling system No. 7 network of this
+country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                   Country/geographical area or signalling network                      SANC
+
+                      Sweden                                                            7-208
+
+
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                     Telephone Service
+                                (Recommendation ITU-T E.164)
+                                       url: www.itu.int/itu-t/inr/nnp
+
+Burkina Faso (country code +226)
+Communication of 4.III.2019:
+The Autorité de Régulation des Communications Electroniques et des Postes (ARCEP), Ouagadougou, announces
+the following update to the National Numbering Plan of Burkina Faso.
+•     assignment of the following new number series format from 07 00 MCDU to 07 99 MCDU to ORANGE
+Burkina Faso for mobile service:
+
+  NDC (national
+destination code) N(S)N number length
+or leading digits of                              Usage of                 Additional    Time and date of
+ N(S)N (national Maximum Minimum             ITU-T E.164 number           information      introduction
+    (significant)    length  length
+      number)
+           07               8      8        Non-geographic              ORANGE Burkina     2019-03-01-
+                                            number – Mobile                 Faso              00:00
+                                            telephone service                                 (UTC)
+
+Contact:
+      Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+      B.P. 6437
+      OUAGADOUGOU 01
+      Burkina Faso
+      Tel:     +226 25 37 53 60/61/62
+      Fax:     +226 25 37 53 64
+      E-mail: secretariat@arcep.bf
+      URL:     www.arcep.bf
+
+
+
+
+Kiribati (country code +686)
+Communication of 15.III.2019:
+The Communications Commission of Kiribati (CCK), Betio, Tarawa, announces updates to the National Numbering
+Plan of Kiribati.
+
+                                  Description of introduction of new resource
+                         for national ITU-T E.164 numbering plan for country code 686:
+
+     NDC (national             N(S)N number length
+  destination code) or
+                                                                   Usage of               Time and date of
+    leading digits of       Maximum        Minimum            ITU-T E.164 number            introduction
+     N(S)N (national         length         length
+ (significant) number)
+ 740 22 000 to                   8             8        ATHKL SIP IPVPN                  13/03/2019
+ 740 29 999
+ 740 81 000 to                   8             8        ATHKL SIP IPVPN                  13/03/2019
+ 740 81 999
+
+The first range of numbers will expand the current existing number range allocations of (74020000-74021999)
+2000 range to a 10000 range (74020000-74029999). So only an additional of another 8000 numbers is needed
+hence the first 2000 have already existed.
+The second range of numbers is a new introduction of numbers to the ATHKL number allocations.
+Contact:
+      Mr Tiare Erekana
+      CEO
+      Communications Commission of Kiribati (CCK)
+      Temakin
+      BETIO, TARAWA
+      Kiribati
+      Tel:     +686 75125488
+      E-mail: ceo@cck.ki
+      URL:     www.cck.ki
+
+
+
+
+Mauritius (country code +230)
+Communication of 7.III.2019:
+The Information and Communication Technologies Authority (ICTA), Port-Louis, announces that new non-
+geographic fixed-mobile converged numbers range has been opened in the Republic of Mauritius by the
+following mobile operators since 31 January 2019.
+
+
+ Operator             Usage of ITU-T E.164 number                        Dialling Format
+
+ Emtel Ltd            Non-geographic fixed-mobile converged numbers      +230 5430 XXXX
+                                                                         to
+                                                                         +230 5439 XXXX
+Contact:
+           Mr J. Louis
+           Information and Communication Technologies Authority (ICTA)
+           Level 12 The Celicourt
+           6, Sir Celicourt Antelme Street
+           PORT LOUIS
+           Mauritius
+           Tel:        +230 217 2222
+           Fax:        +230 217 7777
+           E-mail: icta@intnet.mu
+           URL:        www.icta.mu
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call – Back
+              and alternative calling procedures (Res. 21 Rev. PP – 2006)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                           Abbreviations used
+
+                             ADD    Insert                   PAR    paragraph
+                             COL    Column                   REP    replace
+                             LIR    Read                     SUP    Delete
+                             P      page(s)
+
+
+
+                        List of Ship Stations and Maritime Mobile
+                                Service Identity Assignments
+                                           (List V)
+                                       Edition of 2018
+
+                                              Section VI
+
+ADD
+
+      BR08 Satcom Direct Comunicações Ltda. Av. Vereador José Diniz, 3561 - 11o andar,
+           São Paulo - SP Brazil.
+           E-Mail: elibanio@satcomdirect.com, Tel: +55 11 25389068,
+           Contact Person: Ewerton Libanio Pereira.
+
+      HX14 YUANTONG MARINE SERVICE CO. LIMITED Room 3-9, Level 27, Tower 2,
+           Kowloon Commerce Centre, 51 Kwai Cheong Road, Kwai Chung, Hong Kong.
+           E-Mail: cora@ytmsc.com, E-Mail: general@ytmsc.com,
+           Tel: +852 2851 2011, Tel: +852 3610 4882,
+           Fax: +852 2850 6003, Fax: +852 2850 6144,
+           Contact Person: Miss Cora Lam.
+
+      PG18 BRIGHTNORTH CORP., Bldg. 0750-D Williamson Place, La Boca, Balboa,
+           Panamá, Rep. de Panamá.
+           E-Mail: info@brightnorth.net, Tel: +507 314 1752, Tel: +507 314 1756,
+           Contact Person: Maria Gabriela Cedeno.
+
+      SA03 Blue Sky Satellite Communications, Postnet Suite 2 Private Bag X4,
+           Bedfordview 2008, South Africa.
+           E-Mail: info@blueskysat.com, Tel: +2711 432 0075, Fax: +2711 432 0502,
+           Contact person: Pedro Camacho.
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+                          (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                           (Amendment No. 7)
+
+Faroe Islands       LIR
+
+    Country/     Company Name/Address               Issuer       Contact
+  Geographical                                    Identifier
+      area                                         Number
+ Faroe Islands   P/F Hey                          89 298 02      Erland Simonsen
+                 Smyrilsvegur 5, PO Box 109                      Smyrilsvegur 5, PO Box 109
+                 FO-110 TORSHAVN                                 FO-110 TORSHAVN
+                                                                 Tel:     +298 202020
+                                                                 Fax:     +298 202021
+                                                                 E-mail: hey@hey.fo
+
+Japan               ADD
+    Country/     Company Name/Address               Issuer       Contact                            Effective
+  geographical                                    Identifier                                         date of
+      area                                         Number                                            usage
+ Japan           NTT Communications               89 81 12       Hiroshi Ootsubo                   26.IV.2019
+                 Corporation                                     2-3-1 Otemachi, Chiyoda-ku
+                 2-3-1 Otemachi, Chiyoda-ku                      TOKYO 100-8019
+                 TOKYO 100-8019                                  Tel:     +81 3 6700 8320
+                                                                 Fax:     +81 3 5202 5043
+                                                                 E-mail: mt-ns@ntt.com
+
+Samoa               LIR
+
+ Country/Geogr   Company Name/Address            Issuer Identifier   Contact
+  aphical area                                       Number
+ Samoa           Office of the Regulator            89 685 02        Lefaoali’i Unutoa Auelua-Fonoti
+                 Private Bag                                         Regulator
+                 APIA                                                Private Bag
+                                                                     Mulinuu
+                                                                     APIA
+                                                                     Tel:    +685 30282
+                                                                     Fax:    +685 30281
+                                                                     E-mail: SpecTech@regulator.gov.ws
+
+
+
+
+Sweden                ADD
+    Country/      Company Name/Address            Issuer        Contact                            Effective
+  geographical                                  Identifier                                          date of
+      area                                       Number                                              usage
+ Sweden           Fink Telecom Services         89 46 12        Andreas Fink                       8.III.2019
+                  Paradieshofstrasse 101                        Paradieshofstrasse 101
+                  4054 BASEL                                    4054 BASEL
+                  (Switzerland)                                 (Switzerland)
+                                                                Tel:    +41 78 6677333
+                                                                E-mail: afink@fink-telecom.com
+
+Sweden                SUP
+    Country/      Company Name/Address            Issuer        Contact                             Date of
+  geographical                                  Identifier                                        cancellation
+      area                                       Number
+ Sweden           Abbla Mobile S.A.             89 46 06        Detlef Stube                       22.I.2008
+                  c/Saturno,                                    c/Saturno,
+                  1 Pozuelo de Alarcón                          1 Poluezo de Alarcón
+                  E-28224 MADRID                                E-28224 MADRID
+                  (Spain)                                       (Spain)
+                                                                Tel:    +34 678 52 6699
+                                                                Fax:    +34 913 51 8074
+                                                                E-mail: dstuebe@abbla.com
+
+Viet Nam              LIR
+
+   Country/       Company Name/Address                Issuer Identifier   Contact
+ Geographical                                             Number
+     area
+ Viet Nam         MOBIFONE CORPORATION                       89 84 01     Nguyen Duy Binh
+                  (MOBIFONE)                                              MobiFone Building, Lot VP1,
+                  MobiFone Building, Lot VP1,                             Yen Hoa Ward, Cau Giay District,
+                  Yen Hoa Ward, Cau Giay                                  Hanoi
+                  District, Hanoi                                         Tel:   +84 24 37831766
+                                                                          Fax: +84 24 37831767
+                                                                          Email: binh.nguyen@mobifone.vn
+ Viet Nam         VIETNAM POSTS AND                          89 84 02     Dao Viet Chien
+                  TELECOMMUNICATIONS                                      57 Huynh Thuc Khang,
+                  GROUP (VNPT)                                            Hanoi
+                  57 Huynh Thuc Khang,                                    Tel:   +84 24 37741215
+                  Hanoi                                                   Fax:   +84 24 37741205
+                                                                          Email: chiendv@vnpt.vn
+
+
+
+
+ Mobile Network Codes (MNC) for the international identification plan
+               for public networks and subscriptions
+       (According to Recommendation ITU-T E.212 (05/2008))
+                   (Position on 15 December 2018)
+                          (Annex to ITU Operational Bulletin No. 1162 – 15.XII.2018)
+                                            (Amendment No.6)
+
+  Country/Geographical area                MCC+MNC *          Operator/Network
+  Sweden SUP
+                                                     240 30   NextGen Mobile Ltd.
+  Sweden ADD
+                                                     240 63   Fink Telecom Services
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+            MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                (Position on 1 June 2017)
+                                 (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                  (Amendment No. 7)
+
+
+
+ Numerical order        ADD
+               7-208        Sweden
+
+
+
+ Alphabetical order ADD
+               7-208        Sweden
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (09/2016))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 53)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+ Hungary SUP
+ 2-032-1       4353         Budapest BP1                               Magyar Telekom Plc
+ 2-212-3       5795         W-INT-GW1                                  Magyar Telekom Plc
+ 2-212-4       5796         W-INT-GW2                                  Magyar Telekom Plc
+ 4-243-3       10139        Bp. MGWF                                   Magyar Telekom Plc
+
+ Panama SUP
+ 7-029-4       14572        MSS01PAN                                   Claro Panamá S.A.
+
+ Panama ADD
+ 7-029-4       14572        STP01DAV01                                 Claro Panamá, S.A.
+
+ Singapore ADD
+ 5-145-2       11402        ARS                                        StarHub Ltd
+ 5-145-3       11403        TSS                                        StarHub Ltd
+
+ Sweden ADD
+ 7-207-6       15998        FTS-SW1                                    Fink Telecom Services
+ 7-207-7       15999        FTS-SW2                                    Fink Telecom Services
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                National Numbering Plan
+                 (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.III.2019, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                      Country/ Geographical area                      Country Code (CC)
+               Cuba                                                          +53
+               French Polynesia                                             +689
+
+
+
+
