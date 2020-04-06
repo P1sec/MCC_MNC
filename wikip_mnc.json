@@ -2460,9 +2460,9 @@
         "country_url": "https://en.wikipedia.org/wiki/Spain",
         "mcc": "214",
         "mnc": "32",
-        "notes": "MNC withdrawn, replaced by MNC 05.",
+        "notes": "MNC withdrawn, replaced by MNC 05",
         "operator": "Telef\u00f3nica M\u00f3viles Espa\u00f1a",
-        "status": "operational"
+        "status": "unknown"
       },
       {
         "bands": "WiMAX",
@@ -3600,7 +3600,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Switzerland",
         "mcc": "228",
         "mnc": "03",
-        "notes": "[34][2][26][177]  Former Orange",
+        "notes": "[34][2][26][178]  Former Orange",
         "operator": "Salt Mobile SA",
         "status": "operational"
       },
@@ -3900,7 +3900,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Switzerland",
         "mcc": "228",
         "mnc": "61",
-        "notes": "SMS relay only",
+        "notes": "SMS relay only;",
         "operator": "Compatel Ltd.",
         "status": "unknown"
       },
@@ -28925,7 +28925,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600",
+        "bands": "UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600 / 5G 3500",
         "brand": "3",
         "codes_alpha_2": [
           "HK"
@@ -29060,7 +29060,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 1800 / LTE 1800 / TD-LTE 2300 / LTE 2600",
+        "bands": "GSM 1800 / LTE 1800 / TD-LTE 2300 / LTE 2600 / 5G 3500",
         "brand": "CMCC HK",
         "codes_alpha_2": [
           "HK"
@@ -29180,7 +29180,7 @@
         "status": "operational"
       },
       {
-        "bands": "LTE 1800 / LTE 2600",
+        "bands": "LTE 1800 / LTE 2600 / 5G 3500",
         "brand": "PCCW Mobile (4G)",
         "codes_alpha_2": [
           "HK"
@@ -32227,7 +32227,7 @@
         "status": "operational"
       },
       {
-        "bands": "LTE 900 / TD-LTE 2300",
+        "bands": "LTE 900 / TD-LTE 2300 / TD-LTE 2500",
         "brand": "",
         "codes_alpha_2": [
           "SG"

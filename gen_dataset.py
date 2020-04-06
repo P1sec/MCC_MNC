@@ -125,6 +125,70 @@ def gen_dict_mnc():
 MNC = gen_dict_mnc()
 
 
+def mnc_txtn(mccmnc, inf):
+    mno = {
+        'country'   : inf[0],
+        'bands'     : '',       # no info on bands
+        'ope'       : True,     # consider the MNO as operational (?)
+        }
+    #
+    # add set of CC2
+    mcc  = mccmnc[:3]
+    cc2s = set()
+    for r in WIKIP_MCC:
+        if r['mcc'] == mcc:
+            cc2s.add(r['code_alpha_2'])
+    if not cc2s:
+        print('> no country info found for %s, %s' % (mccmnc, inf[0]))
+    mno['cc2s'] = list(sorted(cc2s))
+    #
+    # handle operator / brand info
+    for mccmnc_ex, mno_ex in MNC.items():
+        if mccmnc_ex[:3] != mccmnc[:3]:
+            continue
+        #
+        if isinstance(mno_ex, list):
+            # this is dirty
+            mno_ex = mno_ex[0]
+        if mno_ex['brand'].lower() == inf[1].lower():
+            mno['brand']    = mno_ex['brand']
+            mno['operator'] = mno_ex['operator']
+            break
+        elif mno_ex['operator'].lower() == inf[1].lower():
+            mno['brand']    = mno_ex['brand']
+            mno['operator'] = mno_ex['operator']
+            break
+    if 'brand' not in mno:
+        #print('> no existing brand / operator found for %s (%s), %s' % (mccmnc, inf[1], inf[0]))
+        mno['brand']    = inf[1]
+        mno['operator'] = ''
+    #
+    return mno
+
+
+def gen_dict_mnc_compl():
+    #
+    R = {}
+    #
+    # 2) complete MNC dict with new MNC from txtNation
+    for mccmnc, inf in sorted(CSV_TXTN_MCCMNC.items()):
+        if mccmnc not in MNC:
+            if isinstance(inf, list):
+                infs = inf
+                mno  = []
+                for inf in infs:
+                    mno.append( mnc_txtn(mccmnc, inf) )
+            else:
+                mno = mnc_txtn(mccmnc, inf)
+            #
+            print('> adding MNO from txtNation with MCC-MNC %s' % mccmnc)
+            R[mccmnc] = mno
+    #
+    return R
+
+MNC.update( gen_dict_mnc_compl() )
+
+
 #------------------------------------------------------------------------------#
 # MCC dict
 #------------------------------------------------------------------------------#
@@ -433,7 +497,7 @@ def gen_dict_terr():
     print('[+] generate TERR dict')
     R = {}
     #
-    # EGAL_MIN_DIST, COUNTRY_SPEC
+    # CSV_EGAL_MIN_DIST, COUNTRY_SPEC
     #
     # 1) initialize R and set sovereignity
     for name, inf in CNTR.items():
@@ -491,9 +555,9 @@ def gen_dict_terr():
                     print('> %s, cs has additional borders: %s' % (name, ', '.join(sorted(bnew))))
                 break
         #
-        # 2.4) EGAL_MIN_DIST
-        if name in EGAL_MIN_DIST:
-            mdist = EGAL_MIN_DIST[name]
+        # 2.4) CSV_EGAL_MIN_DIST
+        if name in CSV_EGAL_MIN_DIST:
+            mdist = CSV_EGAL_MIN_DIST[name]
             mdb = set()
             for n, dist in mdist.items():
                 if dist == 0.0:

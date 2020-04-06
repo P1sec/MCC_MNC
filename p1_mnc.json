@@ -719,6 +719,16 @@
       "ope": false,
       "operator": "KPN Mobile The Netherlands B.V."
     },
+    "20498": {
+      "bands": "",
+      "brand": "T-Mobile B.V.",
+      "cc2s": [
+        "NL"
+      ],
+      "country": "Netherlands",
+      "ope": true,
+      "operator": ""
+    },
     "20600": {
       "bands": [
         "Unknown"
@@ -950,6 +960,16 @@
       "country": "Belgium",
       "ope": false,
       "operator": "IP Nexia"
+    },
+    "20800": {
+      "bands": "",
+      "brand": "Tel/Tel",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": true,
+      "operator": ""
     },
     "20801": {
       "bands": [
@@ -1581,6 +1601,28 @@
       "ope": false,
       "operator": "Soci\u00e9t\u00e9 Air France"
     },
+    "21201": [
+      {
+        "bands": "",
+        "brand": "Vala / Dardafone LLC (Post and Telecommunications of Kosovo JSC (PTK))",
+        "cc2s": [
+          "MC"
+        ],
+        "country": "Kosovo",
+        "ope": true,
+        "operator": ""
+      },
+      {
+        "bands": "",
+        "brand": "Office des Telephones",
+        "cc2s": [
+          "MC"
+        ],
+        "country": "Monaco",
+        "ope": true,
+        "operator": "Monaco Telecom"
+      }
+    ],
     "21210": {
       "bands": [
         "GSM 1800",
@@ -2018,7 +2060,7 @@
         "ES"
       ],
       "country": "Spain",
-      "ope": true,
+      "ope": false,
       "operator": "Telef\u00f3nica M\u00f3viles Espa\u00f1a"
     },
     "21433": {
@@ -2158,6 +2200,16 @@
       "country": "Hungary",
       "ope": false,
       "operator": "Invitech ICT Services Ltd."
+    },
+    "21620": {
+      "bands": "",
+      "brand": "Pannon/Telenor",
+      "cc2s": [
+        "HU"
+      ],
+      "country": "Hungary",
+      "ope": true,
+      "operator": ""
     },
     "21630": {
       "bands": [
@@ -2706,6 +2758,16 @@
       "country": "Italy",
       "ope": true,
       "operator": "Telecom Italia S.p.A."
+    },
+    "22244": {
+      "bands": "",
+      "brand": "WIND (Blu) -",
+      "cc2s": [
+        "IT"
+      ],
+      "country": "Italy",
+      "ope": true,
+      "operator": ""
     },
     "22247": {
       "bands": [
@@ -3651,6 +3713,16 @@
       "ope": false,
       "operator": "HMZ R\u00c1DIOKOMUNIK\u00c1CIE, spol. s r.o."
     },
+    "23115": {
+      "bands": "",
+      "brand": "Orange",
+      "cc2s": [
+        "SK"
+      ],
+      "country": "Slovakia",
+      "ope": true,
+      "operator": "Orange Slovensko"
+    },
     "23199": {
       "bands": [
         "GSM-R"
@@ -3662,6 +3734,16 @@
       "country": "Slovakia",
       "ope": true,
       "operator": "\u017deleznice Slovenskej Republiky"
+    },
+    "23200": {
+      "bands": "",
+      "brand": "Fix Line",
+      "cc2s": [
+        "AT"
+      ],
+      "country": "Austria",
+      "ope": true,
+      "operator": ""
     },
     "23201": {
       "bands": [
@@ -4892,6 +4974,19 @@
         "operator": "Bluewave Communications Ltd"
       }
     ],
+    "23475": {
+      "bands": "",
+      "brand": "Inquam Telecom Ltd",
+      "cc2s": [
+        "GB",
+        "GG",
+        "IM",
+        "JE"
+      ],
+      "country": "United Kingdom",
+      "ope": true,
+      "operator": ""
+    },
     "23476": {
       "bands": [
         "GSM 900",
@@ -4900,6 +4995,19 @@
       "brand": "BT",
       "cc2s": [
         "GB"
+      ],
+      "country": "United Kingdom",
+      "ope": true,
+      "operator": "BT Group"
+    },
+    "23477": {
+      "bands": "",
+      "brand": "BT",
+      "cc2s": [
+        "GB",
+        "GG",
+        "IM",
+        "JE"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4928,6 +5036,32 @@
       "country": "United Kingdom",
       "ope": false,
       "operator": "EE"
+    },
+    "23494": {
+      "bands": "",
+      "brand": "Hutchinson 3G",
+      "cc2s": [
+        "GB",
+        "GG",
+        "IM",
+        "JE"
+      ],
+      "country": "United Kingdom",
+      "ope": true,
+      "operator": ""
+    },
+    "23499": {
+      "bands": "",
+      "brand": "Lycamobile (through O2)",
+      "cc2s": [
+        "GB",
+        "GG",
+        "IM",
+        "JE"
+      ],
+      "country": "United Kingdom",
+      "ope": true,
+      "operator": ""
     },
     "23500": {
       "bands": [
@@ -5471,6 +5605,16 @@
       "country": "Denmark",
       "ope": false,
       "operator": "Telia Danmark"
+    },
+    "24000": {
+      "bands": "",
+      "brand": "Compatel / EUTel",
+      "cc2s": [
+        "SE"
+      ],
+      "country": "Sweden",
+      "ope": true,
+      "operator": ""
     },
     "24001": {
       "bands": [
@@ -6101,6 +6245,56 @@
       "country": "Sweden",
       "ope": true,
       "operator": "Fink Telecom Services"
+    },
+    "24065": {
+      "bands": "",
+      "brand": "shared use for closed networks",
+      "cc2s": [
+        "SE"
+      ],
+      "country": "Sweden",
+      "ope": true,
+      "operator": ""
+    },
+    "24066": {
+      "bands": "",
+      "brand": "shared use for closed networks",
+      "cc2s": [
+        "SE"
+      ],
+      "country": "Sweden",
+      "ope": true,
+      "operator": ""
+    },
+    "24067": {
+      "bands": "",
+      "brand": "shared use for test purpose",
+      "cc2s": [
+        "SE"
+      ],
+      "country": "Sweden",
+      "ope": true,
+      "operator": ""
+    },
+    "24068": {
+      "bands": "",
+      "brand": "shared use for test purpose",
+      "cc2s": [
+        "SE"
+      ],
+      "country": "Sweden",
+      "ope": true,
+      "operator": ""
+    },
+    "24069": {
+      "bands": "",
+      "brand": "crisis management after determination by the Swedish Post- and Telecom Authority",
+      "cc2s": [
+        "SE"
+      ],
+      "country": "Sweden",
+      "ope": true,
+      "operator": ""
     },
     "24201": {
       "bands": [
@@ -7017,6 +7211,16 @@
       "country": "Finland",
       "ope": false,
       "operator": "Aalto-korkeakoulus\u00e4\u00e4ti\u00f6 sr"
+    },
+    "24482": {
+      "bands": "",
+      "brand": "ID-Mobile",
+      "cc2s": [
+        "FI"
+      ],
+      "country": "Finland",
+      "ope": true,
+      "operator": ""
     },
     "24491": {
       "bands": [
@@ -8121,6 +8325,16 @@
       "ope": false,
       "operator": "Telecom XXI"
     },
+    "25098": {
+      "bands": "",
+      "brand": "Baykal Westcom",
+      "cc2s": [
+        "RU"
+      ],
+      "country": "Russia",
+      "ope": true,
+      "operator": ""
+    },
     "25099": {
       "bands": [
         "GSM 900",
@@ -8324,6 +8538,46 @@
       "ope": false,
       "operator": "PRJSC \u201cTelesystems of Ukraine\""
     },
+    "25539": {
+      "bands": "",
+      "brand": "Golden Telecom",
+      "cc2s": [
+        "UA"
+      ],
+      "country": "Ukraine",
+      "ope": true,
+      "operator": ""
+    },
+    "25550": {
+      "bands": "",
+      "brand": "UMC/MTS",
+      "cc2s": [
+        "UA"
+      ],
+      "country": "Ukraine",
+      "ope": true,
+      "operator": ""
+    },
+    "25567": {
+      "bands": "",
+      "brand": "Kyivstar",
+      "cc2s": [
+        "UA"
+      ],
+      "country": "Ukraine",
+      "ope": true,
+      "operator": "PRJSC \u201cKyivstar\""
+    },
+    "25568": {
+      "bands": "",
+      "brand": "Beeline",
+      "cc2s": [
+        "UA"
+      ],
+      "country": "Ukraine",
+      "ope": true,
+      "operator": ""
+    },
     "25599": {
       "bands": [
         "LTE 800"
@@ -8416,6 +8670,16 @@
       "country": "Belarus",
       "ope": true,
       "operator": "Belorussian Cloud Technologies"
+    },
+    "257501": {
+      "bands": "",
+      "brand": "BelJel JV",
+      "cc2s": [
+        "BY"
+      ],
+      "country": "Belarus",
+      "ope": true,
+      "operator": ""
     },
     "25901": {
       "bands": [
@@ -10315,6 +10579,16 @@
       "ope": true,
       "operator": "Iceland Telecom"
     },
+    "27409": {
+      "bands": "",
+      "brand": "Amitelo",
+      "cc2s": [
+        "IS"
+      ],
+      "country": "Iceland",
+      "ope": true,
+      "operator": ""
+    },
     "27411": {
       "bands": [
         "UMTS 2100",
@@ -10883,6 +11157,16 @@
       "ope": true,
       "operator": "Telenor (Bulgaria)"
     },
+    "28406": {
+      "bands": "",
+      "brand": "BTC Mobile EOOD (vivatel)",
+      "cc2s": [
+        "BG"
+      ],
+      "country": "Bulgaria",
+      "ope": true,
+      "operator": ""
+    },
     "28407": {
       "bands": [
         "GSM-R"
@@ -10930,6 +11214,16 @@
       "country": "Bulgaria",
       "ope": true,
       "operator": "Ti.com JSC"
+    },
+    "28471": {
+      "bands": "",
+      "brand": "Siseministeerium (Ministry of Interior)",
+      "cc2s": [
+        "BG"
+      ],
+      "country": "Estonia",
+      "ope": true,
+      "operator": ""
     },
     "28601": {
       "bands": [
@@ -11053,6 +11347,16 @@
       "country": "Abkhazia",
       "ope": true,
       "operator": "Aquafon JSC"
+    },
+    "28968": {
+      "bands": "",
+      "brand": "A-Mobile",
+      "cc2s": [
+        "AB"
+      ],
+      "country": "Abkhazia",
+      "ope": true,
+      "operator": "A-Mobile LLSC"
     },
     "28988": {
       "bands": [
@@ -11284,6 +11588,16 @@
       "ope": false,
       "operator": "MOBIK TELEKOMUNIKACII DOOEL Skopje"
     },
+    "29475": {
+      "bands": "",
+      "brand": "One MTS/Cosmofone",
+      "cc2s": [
+        "MK"
+      ],
+      "country": "North Macedonia",
+      "ope": true,
+      "operator": ""
+    },
     "29501": {
       "bands": [
         "GSM 900",
@@ -11441,6 +11755,16 @@
       "country": "Montenegro",
       "ope": true,
       "operator": "MTEL CG"
+    },
+    "29704": {
+      "bands": "",
+      "brand": "T-Mobile",
+      "cc2s": [
+        "ME"
+      ],
+      "country": "Montenegro",
+      "ope": true,
+      "operator": "T-Mobile Montenegro LLC"
     },
     "302100": {
       "bands": [
@@ -11955,6 +12279,16 @@
       "ope": true,
       "operator": "Thunder Bay Telephone"
     },
+    "302651": {
+      "bands": "",
+      "brand": "Bell",
+      "cc2s": [
+        "CA"
+      ],
+      "country": "Canada",
+      "ope": true,
+      "operator": "Bell Mobility"
+    },
     "302652": {
       "bands": [
         "CDMA2000"
@@ -11979,6 +12313,16 @@
       "country": "Canada",
       "ope": false,
       "operator": "Telus Mobility"
+    },
+    "302654": {
+      "bands": "",
+      "brand": "Sask Tel Mobility",
+      "cc2s": [
+        "CA"
+      ],
+      "country": "Canada",
+      "ope": true,
+      "operator": ""
     },
     "302655": {
       "bands": [
@@ -12347,6 +12691,18 @@
       "ope": true,
       "operator": "GLOBALTEL"
     },
+    "310003": {
+      "bands": "",
+      "brand": "Unknown (Verizon Wireless)",
+      "cc2s": [
+        "GU",
+        "MP",
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": ""
+    },
     "310004": {
       "bands": [
         "Unknown"
@@ -12395,6 +12751,18 @@
       "country": "United States",
       "ope": false,
       "operator": "Verizon Wireless"
+    },
+    "310011": {
+      "bands": "",
+      "brand": "Northstar",
+      "cc2s": [
+        "GU",
+        "MP",
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": ""
     },
     "310012": {
       "bands": [
@@ -12756,6 +13124,18 @@
       "ope": true,
       "operator": "Carolina West Wireless"
     },
+    "31014": {
+      "bands": "",
+      "brand": "Testing",
+      "cc2s": [
+        "GU",
+        "MP",
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": ""
+    },
     "310140": [
       {
         "bands": [
@@ -12788,6 +13168,18 @@
         "operator": "Teleguam Holdings, LLC"
       }
     ],
+    "31015": {
+      "bands": "",
+      "brand": "Unknown",
+      "cc2s": [
+        "GU",
+        "MP",
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": ""
+    },
     "310150": {
       "bands": [
         "GSM 850",
@@ -13121,6 +13513,18 @@
         "operator": "NTT DoCoMo Pacific"
       }
     ],
+    "31038": {
+      "bands": "",
+      "brand": "USA 3650 AT&T",
+      "cc2s": [
+        "GU",
+        "MP",
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": ""
+    },
     "310380": {
       "bands": [
         "GSM 850",
@@ -13247,6 +13651,18 @@
       "country": "United States",
       "ope": true,
       "operator": "Viaero Wireless"
+    },
+    "31046": {
+      "bands": "",
+      "brand": "SIMMETRY",
+      "cc2s": [
+        "GU",
+        "MP",
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": ""
     },
     "310460": {
       "bands": [
@@ -13460,6 +13876,18 @@
       "country": "United States",
       "ope": false,
       "operator": "Verizon Wireless"
+    },
+    "31060": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "GU",
+        "MP",
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": "Consolidated Telcom"
     },
     "310600": {
       "bands": [
@@ -14617,6 +15045,17 @@
       "country": "United States",
       "ope": false,
       "operator": "Leaco Rural Telephone Company Inc."
+    },
+    "311311": {
+      "bands": "",
+      "brand": "Farmers",
+      "cc2s": [
+        "GU",
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": ""
     },
     "311320": {
       "bands": [
@@ -17379,6 +17818,16 @@
       "ope": false,
       "operator": "Southern Communications Services"
     },
+    "33000": {
+      "bands": "",
+      "brand": "Open Mobile",
+      "cc2s": [
+        "PR"
+      ],
+      "country": "Puerto Rico",
+      "ope": true,
+      "operator": "PR Wireless"
+    },
     "330000": {
       "bands": [
         "CDMA 1900"
@@ -17419,6 +17868,58 @@
       "ope": true,
       "operator": "PR Wireless"
     },
+    "33020": {
+      "bands": "",
+      "brand": "Sprint",
+      "cc2s": [
+        "PR"
+      ],
+      "country": "Puerto Rico",
+      "ope": true,
+      "operator": ""
+    },
+    "33030": {
+      "bands": "",
+      "brand": "AT&T Mobility",
+      "cc2s": [
+        "PR"
+      ],
+      "country": "Puerto Rico",
+      "ope": true,
+      "operator": ""
+    },
+    "330490": {
+      "bands": "",
+      "brand": "T-mobile (Suncom)",
+      "cc2s": [
+        "PR"
+      ],
+      "country": "Puerto Rico",
+      "ope": true,
+      "operator": ""
+    },
+    "33400": [
+      {
+        "bands": "",
+        "brand": "Axtel",
+        "cc2s": [
+          "MX"
+        ],
+        "country": "Mexico",
+        "ope": true,
+        "operator": ""
+      },
+      {
+        "bands": "",
+        "brand": "SAI PCS",
+        "cc2s": [
+          "MX"
+        ],
+        "country": "Mexico",
+        "ope": true,
+        "operator": ""
+      }
+    ],
     "334001": {
       "bands": [
         "Unknown"
@@ -17431,6 +17932,16 @@
       "ope": false,
       "operator": "Comunicaciones Digitales Del Norte, S.A. de C.V."
     },
+    "33401": {
+      "bands": "",
+      "brand": "NEXTEL (Nii Holdings)",
+      "cc2s": [
+        "MX"
+      ],
+      "country": "Mexico",
+      "ope": true,
+      "operator": ""
+    },
     "334010": {
       "bands": [
         "iDEN 800"
@@ -17442,6 +17953,16 @@
       "country": "Mexico",
       "ope": true,
       "operator": "AT&T Mexico"
+    },
+    "33402": {
+      "bands": "",
+      "brand": "TelCel/America Movil",
+      "cc2s": [
+        "MX"
+      ],
+      "country": "Mexico",
+      "ope": true,
+      "operator": ""
     },
     "334020": {
       "bands": [
@@ -17459,6 +17980,16 @@
       "ope": true,
       "operator": "Am\u00e9rica M\u00f3vil"
     },
+    "33403": {
+      "bands": "",
+      "brand": "Movistar/Pegaso",
+      "cc2s": [
+        "MX"
+      ],
+      "country": "Mexico",
+      "ope": true,
+      "operator": ""
+    },
     "334030": {
       "bands": [
         "MVNO"
@@ -17470,6 +18001,16 @@
       "country": "Mexico",
       "ope": true,
       "operator": "Telef\u00f3nica"
+    },
+    "33404": {
+      "bands": "",
+      "brand": "IUSACell/UneFon",
+      "cc2s": [
+        "MX"
+      ],
+      "country": "Mexico",
+      "ope": true,
+      "operator": ""
     },
     "334040": {
       "bands": [
@@ -17635,6 +18176,16 @@
       "country": "Mexico",
       "ope": true,
       "operator": "Ultravisi\u00f3n, S.A. de C.V."
+    },
+    "33450": {
+      "bands": "",
+      "brand": "IUSACell/UneFon",
+      "cc2s": [
+        "MX"
+      ],
+      "country": "Mexico",
+      "ope": true,
+      "operator": ""
     },
     "338020": {
       "bands": [
@@ -17928,6 +18479,16 @@
       "ope": true,
       "operator": "DIGICEL Antilles Fran\u00e7aise Guyane"
     },
+    "342050": {
+      "bands": "",
+      "brand": "Digicel",
+      "cc2s": [
+        "BB"
+      ],
+      "country": "Barbados",
+      "ope": true,
+      "operator": "Digicel (Barbados) Limited"
+    },
     "342600": {
       "bands": [
         "GSM 1900",
@@ -17971,6 +18532,16 @@
       "ope": false,
       "operator": "Ozone Wireless Inc."
     },
+    "342810": {
+      "bands": "",
+      "brand": "Cingular Wireless (AT&T)",
+      "cc2s": [
+        "BB"
+      ],
+      "country": "Barbados",
+      "ope": true,
+      "operator": ""
+    },
     "342820": {
       "bands": [
         "CDMA"
@@ -18009,6 +18580,16 @@
       "country": "Antigua and Barbuda",
       "ope": true,
       "operator": "Antigua Wireless Ventures Limited"
+    },
+    "344066": {
+      "bands": "",
+      "brand": "TEL\u00c9FONOS DE M\u00c9XICO, S.A.B. DE C.V",
+      "cc2s": [
+        "AG"
+      ],
+      "country": "Mexico",
+      "ope": true,
+      "operator": ""
     },
     "344920": {
       "bands": [
@@ -18050,6 +18631,16 @@
       "ope": false,
       "operator": "WestTel Ltd."
     },
+    "346006": {
+      "bands": "",
+      "brand": "Digicel Ltd.",
+      "cc2s": [
+        "KY"
+      ],
+      "country": "Cayman Islands",
+      "ope": true,
+      "operator": ""
+    },
     "346050": {
       "bands": [
         "GSM 900",
@@ -18080,6 +18671,26 @@
       "country": "Cayman Islands",
       "ope": true,
       "operator": "Cable & Wireless (Cayman Islands) Limited"
+    },
+    "346380": {
+      "bands": "",
+      "brand": "Cingular Wireless (AT&T)",
+      "cc2s": [
+        "KY"
+      ],
+      "country": "Cayman Islands",
+      "ope": true,
+      "operator": ""
+    },
+    "346998": {
+      "bands": "",
+      "brand": "Wireless Ventures Cayman Islands",
+      "cc2s": [
+        "KY"
+      ],
+      "country": "Cayman Islands",
+      "ope": true,
+      "operator": ""
     },
     "348170": {
       "bands": [
@@ -18155,6 +18766,16 @@
       "ope": true,
       "operator": "Bermuda Digital Communications Ltd."
     },
+    "350000": {
+      "bands": "",
+      "brand": "Bermuda Digital Communications Ltd (CellOne)",
+      "cc2s": [
+        "BM"
+      ],
+      "country": "Bermuda",
+      "ope": true,
+      "operator": ""
+    },
     "35001": {
       "bands": [
         "GSM 1900"
@@ -18180,6 +18801,16 @@
       "ope": true,
       "operator": "M3 Wireless"
     },
+    "35003": {
+      "bands": "",
+      "brand": "CellOne Ltd",
+      "cc2s": [
+        "BM"
+      ],
+      "country": "Bermuda",
+      "ope": true,
+      "operator": ""
+    },
     "35005": {
       "bands": [
         "Unknown"
@@ -18191,6 +18822,16 @@
       "country": "Bermuda",
       "ope": false,
       "operator": "Telecom Networks"
+    },
+    "35010": {
+      "bands": "",
+      "brand": "DigiCel / Cingular",
+      "cc2s": [
+        "BM"
+      ],
+      "country": "Bermuda",
+      "ope": true,
+      "operator": ""
     },
     "35011": {
       "bands": [
@@ -18231,6 +18872,16 @@
       "ope": true,
       "operator": "Digicel Grenada Ltd."
     },
+    "352050": {
+      "bands": "",
+      "brand": "Digicel",
+      "cc2s": [
+        "GD"
+      ],
+      "country": "Grenada",
+      "ope": true,
+      "operator": "Digicel Grenada Ltd."
+    },
     "352110": {
       "bands": [
         "GSM 850",
@@ -18243,6 +18894,16 @@
       "country": "Grenada",
       "ope": true,
       "operator": "Cable & Wireless Grenada Ltd."
+    },
+    "352130": {
+      "bands": "",
+      "brand": "Digicel",
+      "cc2s": [
+        "GD"
+      ],
+      "country": "Grenada",
+      "ope": true,
+      "operator": "Digicel Grenada Ltd."
     },
     "354860": {
       "bands": [
@@ -18296,6 +18957,26 @@
       "ope": true,
       "operator": "Cable & Wireless St. Kitts & Nevis Ltd"
     },
+    "358030": {
+      "bands": "",
+      "brand": "Cingular Wireless (AT&T)",
+      "cc2s": [
+        "LC"
+      ],
+      "country": "Saint Lucia",
+      "ope": true,
+      "operator": ""
+    },
+    "358050": {
+      "bands": "",
+      "brand": "Digicel (St Lucia) Limited",
+      "cc2s": [
+        "LC"
+      ],
+      "country": "Saint Lucia",
+      "ope": true,
+      "operator": ""
+    },
     "358110": {
       "bands": [
         "GSM 850",
@@ -18316,6 +18997,16 @@
         "GSM 1900",
         "LTE 700"
       ],
+      "brand": "Digicel",
+      "cc2s": [
+        "VC"
+      ],
+      "country": "Saint Vincent and the Grenadines",
+      "ope": true,
+      "operator": "Digicel (St. Vincent and the Grenadines) Limited"
+    },
+    "360070": {
+      "bands": "",
       "brand": "Digicel",
       "cc2s": [
         "VC"
@@ -18451,6 +19142,18 @@
       "ope": false,
       "operator": "CSC N.V."
     },
+    "362630": {
+      "bands": "",
+      "brand": "Cingular Wireless (AT&T)",
+      "cc2s": [
+        "BQ",
+        "CW",
+        "SX"
+      ],
+      "country": "Netherlands Antilles",
+      "ope": true,
+      "operator": ""
+    },
     "36268": {
       "bands": [
         "UMTS 2100",
@@ -18572,6 +19275,18 @@
       "ope": false,
       "operator": "E.O.C.G. Wireless"
     },
+    "362951": {
+      "bands": "",
+      "brand": "UTS Wireless",
+      "cc2s": [
+        "BQ",
+        "CW",
+        "SX"
+      ],
+      "country": "Netherlands Antilles",
+      "ope": true,
+      "operator": ""
+    },
     "36301": {
       "bands": [
         "GSM 900",
@@ -18604,6 +19319,26 @@
       "ope": true,
       "operator": "Digicel Aruba"
     },
+    "36320": {
+      "bands": "",
+      "brand": "Digicel / New Millenium Telecom Services (NMTS)",
+      "cc2s": [
+        "AW"
+      ],
+      "country": "Aruba",
+      "ope": true,
+      "operator": ""
+    },
+    "36430": {
+      "bands": "",
+      "brand": "Bahamas Telco. Comp.",
+      "cc2s": [
+        "BS"
+      ],
+      "country": "The Bahamas",
+      "ope": true,
+      "operator": ""
+    },
     "36439": {
       "bands": [
         "GSM 850",
@@ -18619,6 +19354,16 @@
       "country": "The Bahamas",
       "ope": true,
       "operator": "The Bahamas Telecommunications Company Ltd (BaTelCo)"
+    },
+    "364390": {
+      "bands": "",
+      "brand": "Bahamas Telco. Comp.",
+      "cc2s": [
+        "BS"
+      ],
+      "country": "The Bahamas",
+      "ope": true,
+      "operator": ""
     },
     "36449": {
       "bands": [
@@ -18648,6 +19393,16 @@
       "country": "Anguilla",
       "ope": true,
       "operator": "Digicel"
+    },
+    "365050": {
+      "bands": "",
+      "brand": "Digicell",
+      "cc2s": [
+        "AI"
+      ],
+      "country": "Anguilla",
+      "ope": true,
+      "operator": ""
     },
     "365840": {
       "bands": [
@@ -18681,6 +19436,16 @@
       "ope": true,
       "operator": "Digicel Group Limited"
     },
+    "366050": {
+      "bands": "",
+      "brand": "Wireless Ventures (Dominica) Ltd (Digicel Dominica)",
+      "cc2s": [
+        "DM"
+      ],
+      "country": "Dominica",
+      "ope": true,
+      "operator": ""
+    },
     "366110": {
       "bands": [
         "GSM 850",
@@ -18694,6 +19459,16 @@
       "country": "Dominica",
       "ope": true,
       "operator": "Cable & Wireless"
+    },
+    "366998": {
+      "bands": "",
+      "brand": "Orange Dominica",
+      "cc2s": [
+        "DM"
+      ],
+      "country": "Dominica",
+      "ope": true,
+      "operator": ""
     },
     "36801": {
       "bands": [
@@ -18778,6 +19553,16 @@
       "ope": true,
       "operator": "WIND Telecom, S.A"
     },
+    "37200": {
+      "bands": "",
+      "brand": "Haitel",
+      "cc2s": [
+        "HT"
+      ],
+      "country": "Haiti",
+      "ope": true,
+      "operator": ""
+    },
     "37201": {
       "bands": [
         "GSM 850"
@@ -18817,6 +19602,16 @@
       "ope": true,
       "operator": "NATCOM S.A."
     },
+    "37250": {
+      "bands": "",
+      "brand": "Digicel",
+      "cc2s": [
+        "HT"
+      ],
+      "country": "Haiti",
+      "ope": true,
+      "operator": "Unigestion Holding S.A."
+    },
     "37412": {
       "bands": [
         "GSM 850",
@@ -18834,6 +19629,16 @@
       "country": "Trinidad and Tobago",
       "ope": true,
       "operator": "TSTT"
+    },
+    "374129": {
+      "bands": "",
+      "brand": "Bmobile/TSTT",
+      "cc2s": [
+        "TT"
+      ],
+      "country": "Trinidad and Tobago",
+      "ope": true,
+      "operator": ""
     },
     "37413": {
       "bands": [
@@ -18879,6 +19684,16 @@
       "country": "Trinidad and Tobago",
       "ope": false,
       "operator": "LaqTel Ltd."
+    },
+    "376050": {
+      "bands": "",
+      "brand": "Digicel TCI Ltd",
+      "cc2s": [
+        "TC"
+      ],
+      "country": "Turks and Caicos Islands",
+      "ope": true,
+      "operator": ""
     },
     "376350": {
       "bands": [
@@ -18929,6 +19744,16 @@
       "country": "Turks and Caicos Islands",
       "ope": false,
       "operator": "Cable & Wireless West Indies Ltd (Turks & Caicos)"
+    },
+    "37650": {
+      "bands": "",
+      "brand": "Digicel",
+      "cc2s": [
+        "TC"
+      ],
+      "country": "United States Virgin Islands",
+      "ope": true,
+      "operator": "Digicel (Turks & Caicos) Limited"
     },
     "40001": {
       "bands": [
@@ -19101,6 +19926,16 @@
       "ope": true,
       "operator": "B-Mobile / Bhutan Telecom Ltd."
     },
+    "40217": {
+      "bands": "",
+      "brand": "Bhutan Telecom Ltd (BTL)",
+      "cc2s": [
+        "BT"
+      ],
+      "country": "Bhutan",
+      "ope": true,
+      "operator": ""
+    },
     "40277": {
       "bands": [
         "GSM 900",
@@ -19115,6 +19950,16 @@
       "country": "Bhutan",
       "ope": true,
       "operator": "Tashi InfoComm Limited"
+    },
+    "40400": {
+      "bands": "",
+      "brand": "Dishnet Wireless Ltd, Madhya Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "40401": {
       "bands": [
@@ -19175,6 +20020,16 @@
       "country": "India",
       "ope": true,
       "operator": "Gujarat"
+    },
+    "40406": {
+      "bands": "",
+      "brand": "Bharti Airtel Limited, Karnataka",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "40407": {
       "bands": [
@@ -19361,6 +20216,16 @@
       "ope": true,
       "operator": "Maharashtra & Goa"
     },
+    "40423": {
+      "bands": "",
+      "brand": "Idea Cellular Ltd., Maharashtra",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "40424": {
       "bands": [
         "GSM 900"
@@ -19446,6 +20311,16 @@
       "country": "India",
       "ope": true,
       "operator": "Kolkata"
+    },
+    "40433": {
+      "bands": "",
+      "brand": "Aircel / Dishnet Wireless Ltd, North East",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "40434": {
       "bands": [
@@ -19760,6 +20635,16 @@
       "ope": true,
       "operator": "Rajasthan"
     },
+    "40461": {
+      "bands": "",
+      "brand": "Dishnet Wireless Ltd, Punjab",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "40462": {
       "bands": [
         "GSM 900",
@@ -19773,6 +20658,16 @@
       "ope": true,
       "operator": "Jammu & Kashmir"
     },
+    "40463": {
+      "bands": "",
+      "brand": "Dishnet Wireless Ltd, Haryana",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "40464": {
       "bands": [
         "GSM 900",
@@ -19785,6 +20680,16 @@
       "country": "India",
       "ope": true,
       "operator": "Chennai"
+    },
+    "40465": {
+      "bands": "",
+      "brand": "Dishnet Wireless Ltd, Uttar Predesh East",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "40466": {
       "bands": [
@@ -19993,6 +20898,16 @@
       "ope": true,
       "operator": "Kolkata"
     },
+    "404818": {
+      "bands": "",
+      "brand": "Uninor Uttar Predesh West",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "40482": {
       "bands": [
         "Unknown"
@@ -20128,6 +21043,16 @@
       "ope": true,
       "operator": "Mumbai"
     },
+    "404927": {
+      "bands": "",
+      "brand": "Uninor Gujarat",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "40493": {
       "bands": [
         "GSM 1800"
@@ -20200,6 +21125,66 @@
       "ope": true,
       "operator": "Gujarat"
     },
+    "40499": {
+      "bands": "",
+      "brand": "Dishnet Wireless Ltd, Kerala",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405000": {
+      "bands": "",
+      "brand": "Shyam Telelink Ltd, Rajasthan",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405005": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd/GSM, Delhi",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405006": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd/GSM, Gujarat",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405007": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd/GSM, Haryana",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405009": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd/GSM, J&K",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "40501": {
       "bands": [
         "GSM 1800"
@@ -20211,6 +21196,96 @@
       "country": "India",
       "ope": true,
       "operator": "Andhra Pradesh and Telangana"
+    },
+    "405010": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd,/GSM Karnataka",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405011": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd/GSM, Kerala",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405012": {
+      "bands": "",
+      "brand": "Reliance Infocomm Ltd, Andhra Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405013": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd/GSM, Maharashtra",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405014": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd/GSM, Madhya Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405018": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd/GSM, Punjab",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405020": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd/GSM, Tamilnadu",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405021": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd/GSM, Uttar Predesh East",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405022": {
+      "bands": "",
+      "brand": "Reliance Communications Ltd/GSM, Uttar Predesh West",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405025": {
       "bands": [
@@ -20435,6 +21510,16 @@
       "country": "India",
       "ope": true,
       "operator": "Chennai"
+    },
+    "405040": {
+      "bands": "",
+      "brand": "Reliance Infocomm Ltd, Chennai",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405041": {
       "bands": [
@@ -20748,6 +21833,26 @@
       "ope": true,
       "operator": "West Bengal"
     },
+    "40524": {
+      "bands": "",
+      "brand": "Ping",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "40528": {
+      "bands": "",
+      "brand": "Tata Teleservices Ltd, Chennai",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "40551": {
       "bands": [
         "GSM 900"
@@ -20847,6 +21952,16 @@
       "ope": true,
       "operator": "West Bengal"
     },
+    "40568": {
+      "bands": "",
+      "brand": "Vodafone / Hutchison, Madhya Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "40570": {
       "bands": [
         "GSM 1800"
@@ -20858,6 +21973,46 @@
       "country": "India",
       "ope": true,
       "operator": "Bihar & Jharkhand"
+    },
+    "40571": {
+      "bands": "",
+      "brand": "Essar Spacetel Ltd, Himachal Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "40572": {
+      "bands": "",
+      "brand": "Essar Spacetel Ltd, North East",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "40573": {
+      "bands": "",
+      "brand": "Essar Spacetel Ltd, Assam",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "40574": {
+      "bands": "",
+      "brand": "Essar Spacetel Ltd, J&K",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405750": {
       "bands": [
@@ -20942,6 +22097,26 @@
       "country": "India",
       "ope": true,
       "operator": "Madhya Pradesh & Chhattisgarh"
+    },
+    "40576": {
+      "bands": "",
+      "brand": "Essar Spacetel Ltd, Orissa",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "40577": {
+      "bands": "",
+      "brand": "Essar Spacetel Ltd, Maharashtra",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405799": {
       "bands": [
@@ -21076,6 +22251,16 @@
       "ope": true,
       "operator": "Kerala"
     },
+    "40581": {
+      "bands": "",
+      "brand": "Aircell Ltd, Delhi",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "405810": {
       "bands": [
         "GSM 1800"
@@ -21112,6 +22297,56 @@
       "ope": false,
       "operator": "Punjab"
     },
+    "405813": {
+      "bands": "",
+      "brand": "Uninor Haryana",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405814": {
+      "bands": "",
+      "brand": "Uninor Himachal Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405815": {
+      "bands": "",
+      "brand": "Uninor Jammu & Kashmir",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405816": {
+      "bands": "",
+      "brand": "Uninor Punjab",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405817": {
+      "bands": "",
+      "brand": "Uninor Rajasthan",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "405818": {
       "bands": [
         "GSM"
@@ -21135,6 +22370,16 @@
       "country": "India",
       "ope": true,
       "operator": "Andhra Pradesh and Telangana"
+    },
+    "40582": {
+      "bands": "",
+      "brand": "Aircell Ltd, Andhra Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405820": {
       "bands": [
@@ -21172,6 +22417,16 @@
       "ope": true,
       "operator": "Kolkata"
     },
+    "405823": {
+      "bands": "",
+      "brand": "Videocon Andhra Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "405824": {
       "bands": [
         "GSM 1800"
@@ -21183,6 +22438,26 @@
       "country": "India",
       "ope": false,
       "operator": "Assam"
+    },
+    "405825": {
+      "bands": "",
+      "brand": "Videocon Bihar",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405826": {
+      "bands": "",
+      "brand": "Videocon Delhi",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405827": {
       "bands": [
@@ -21196,6 +22471,76 @@
       "ope": true,
       "operator": "Gujarat"
     },
+    "405828": {
+      "bands": "",
+      "brand": "Videocon Haryana",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405829": {
+      "bands": "",
+      "brand": "Videocon Himachal Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "40583": {
+      "bands": "",
+      "brand": "Aircell Ltd, Gujarat",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405830": {
+      "bands": "",
+      "brand": "Videcon Jammu & Kashmir",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405831": {
+      "bands": "",
+      "brand": "Videocon Karnataka",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405832": {
+      "bands": "",
+      "brand": "Videocon Kerala",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405833": {
+      "bands": "",
+      "brand": "Videocon Kolkata",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "405834": {
       "bands": [
         "GSM 1800"
@@ -21207,6 +22552,66 @@
       "country": "India",
       "ope": false,
       "operator": "Madhya Pradesh"
+    },
+    "405835": {
+      "bands": "",
+      "brand": "Videocon Maharashtra",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405836": {
+      "bands": "",
+      "brand": "Videocon Mumbai",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405837": {
+      "bands": "",
+      "brand": "Videocon North East",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405838": {
+      "bands": "",
+      "brand": "Videocon Orissa",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405839": {
+      "bands": "",
+      "brand": "Videocon Rajasthan",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "40584": {
+      "bands": "",
+      "brand": "Aircell Ltd, Maharashtra",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405840": {
       "bands": [
@@ -21221,6 +22626,36 @@
       "country": "India",
       "ope": true,
       "operator": "West Bengal"
+    },
+    "405841": {
+      "bands": "",
+      "brand": "Videocon Uttar Predesh East",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405842": {
+      "bands": "",
+      "brand": "Videocon Uttar Predesh West",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405843": {
+      "bands": "",
+      "brand": "Videocon West Bengal",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405844": {
       "bands": [
@@ -21294,6 +22729,16 @@
       "country": "India",
       "ope": true,
       "operator": "North East"
+    },
+    "40585": {
+      "bands": "",
+      "brand": "Aircell Ltd, Mumbai",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405850": {
       "bands": [
@@ -21426,6 +22871,16 @@
       "country": "India",
       "ope": true,
       "operator": "Himachal Pradesh"
+    },
+    "40586": {
+      "bands": "",
+      "brand": "Aircell Ltd, Rajasthan",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405860": {
       "bands": [
@@ -21649,6 +23104,46 @@
       "ope": false,
       "operator": "Assam"
     },
+    "405876": {
+      "bands": "",
+      "brand": "Uninor Bihar",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405877": {
+      "bands": "",
+      "brand": "Uninor North East",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405878": {
+      "bands": "",
+      "brand": "Uninor Orissa",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405879": {
+      "bands": "",
+      "brand": "Uninor Uttar Predesh East",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "405880": {
       "bands": [
         "GSM 1800"
@@ -21672,6 +23167,266 @@
       "country": "India",
       "ope": false,
       "operator": "Assam"
+    },
+    "405882": {
+      "bands": "",
+      "brand": "S Tel",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": "Assam"
+    },
+    "405883": {
+      "bands": "",
+      "brand": "S Tel",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": "Assam"
+    },
+    "405884": {
+      "bands": "",
+      "brand": "S Tel",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": "Assam"
+    },
+    "405885": {
+      "bands": "",
+      "brand": "S Tel",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": "Assam"
+    },
+    "405886": {
+      "bands": "",
+      "brand": "S Tel",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": "Assam"
+    },
+    "405887": {
+      "bands": "",
+      "brand": "MTS Andhra Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405888": {
+      "bands": "",
+      "brand": "MTS Assam",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405889": {
+      "bands": "",
+      "brand": "MTS Bihar",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405890": {
+      "bands": "",
+      "brand": "MTS Delhi",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405891": {
+      "bands": "",
+      "brand": "MTS Gujarat",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405892": {
+      "bands": "",
+      "brand": "MTS Haryana",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405893": {
+      "bands": "",
+      "brand": "MTS Himachal Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405894": {
+      "bands": "",
+      "brand": "MTS Jammu & Kashmir",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405895": {
+      "bands": "",
+      "brand": "MTS Karnataka",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405896": {
+      "bands": "",
+      "brand": "MTS Kerala",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405897": {
+      "bands": "",
+      "brand": "MTS Kolkata",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405898": {
+      "bands": "",
+      "brand": "MTS Madhya Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405899": {
+      "bands": "",
+      "brand": "MTS Maharashtra",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405900": {
+      "bands": "",
+      "brand": "MTS Mumbai",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405901": {
+      "bands": "",
+      "brand": "MTS North East",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405902": {
+      "bands": "",
+      "brand": "MTS Orissa",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405903": {
+      "bands": "",
+      "brand": "MTS Punjab",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405904": {
+      "bands": "",
+      "brand": "MTS Tamil Nadu",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405905": {
+      "bands": "",
+      "brand": "MTS Uttar Predesh East",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405906": {
+      "bands": "",
+      "brand": "MTS Uttar Predesh West",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405907": {
+      "bands": "",
+      "brand": "MTS West Bengal",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405908": {
       "bands": [
@@ -21757,6 +23512,26 @@
       "ope": false,
       "operator": "Gujarat"
     },
+    "405915": {
+      "bands": "",
+      "brand": "Etisalat DB - Cheers Haryana",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405916": {
+      "bands": "",
+      "brand": "Etisalat DB - Cheers Karnataka",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "405917": {
       "bands": [
         "GSM 1800"
@@ -21768,6 +23543,96 @@
       "country": "India",
       "ope": false,
       "operator": "Kerala"
+    },
+    "405918": {
+      "bands": "",
+      "brand": "Etisalat DB - Cheers Maharashtra",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405919": {
+      "bands": "",
+      "brand": "Etisalat DB - Cheers Mumbai",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405920": {
+      "bands": "",
+      "brand": "Etisalat DB - Cheers Punjab",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405921": {
+      "bands": "",
+      "brand": "Etisalat DB - Cheers Rajasthan",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405922": {
+      "bands": "",
+      "brand": "Etisalat DB - Cheers Tamil Nadu",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405923": {
+      "bands": "",
+      "brand": "Etisalat DB - Cheers Uttar Predesh East",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405924": {
+      "bands": "",
+      "brand": "Etisalat DB - Cheers Uttar Predesh West",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405925": {
+      "bands": "",
+      "brand": "Uninor",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": "Karnataka"
+    },
+    "405926": {
+      "bands": "",
+      "brand": "Uninor Mumbai",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "405927": {
       "bands": [
@@ -21781,6 +23646,16 @@
       "ope": true,
       "operator": "Gujarat"
     },
+    "405928": {
+      "bands": "",
+      "brand": "Uninor Madhya Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
     "405929": {
       "bands": [
         "GSM 1800"
@@ -21792,6 +23667,26 @@
       "country": "India",
       "ope": true,
       "operator": "Maharashtra"
+    },
+    "405930": {
+      "bands": "",
+      "brand": "Etisalat DB - Cheers Bihar",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
+    },
+    "405931": {
+      "bands": "",
+      "brand": "Etisalat DB - Cheers Madhya Pradesh",
+      "cc2s": [
+        "IN"
+      ],
+      "country": "India",
+      "ope": true,
+      "operator": ""
     },
     "41001": {
       "bands": [
@@ -21940,6 +23835,16 @@
       "country": "Afghanistan",
       "ope": true,
       "operator": "Telecom Development Company Afghanistan Ltd."
+    },
+    "41230": {
+      "bands": "",
+      "brand": "Etisalat",
+      "cc2s": [
+        "AF"
+      ],
+      "country": "Afghanistan",
+      "ope": true,
+      "operator": "Etisalat Afghanistan"
     },
     "41240": {
       "bands": [
@@ -22339,6 +24244,86 @@
       "ope": false,
       "operator": "Ogero Telecom"
     },
+    "41532": {
+      "bands": "",
+      "brand": "Cellis",
+      "cc2s": [
+        "LB"
+      ],
+      "country": "Lebanon",
+      "ope": true,
+      "operator": ""
+    },
+    "41533": {
+      "bands": "",
+      "brand": "Cellis",
+      "cc2s": [
+        "LB"
+      ],
+      "country": "Lebanon",
+      "ope": true,
+      "operator": ""
+    },
+    "41534": {
+      "bands": "",
+      "brand": "FTML Cellis",
+      "cc2s": [
+        "LB"
+      ],
+      "country": "Lebanon",
+      "ope": true,
+      "operator": ""
+    },
+    "41535": {
+      "bands": "",
+      "brand": "Cellis",
+      "cc2s": [
+        "LB"
+      ],
+      "country": "Lebanon",
+      "ope": true,
+      "operator": ""
+    },
+    "41536": {
+      "bands": "",
+      "brand": "MIC2/LibanCell",
+      "cc2s": [
+        "LB"
+      ],
+      "country": "Lebanon",
+      "ope": true,
+      "operator": ""
+    },
+    "41537": {
+      "bands": "",
+      "brand": "MIC2/LibanCell",
+      "cc2s": [
+        "LB"
+      ],
+      "country": "Lebanon",
+      "ope": true,
+      "operator": ""
+    },
+    "41538": {
+      "bands": "",
+      "brand": "MIC2/LibanCell",
+      "cc2s": [
+        "LB"
+      ],
+      "country": "Lebanon",
+      "ope": true,
+      "operator": ""
+    },
+    "41539": {
+      "bands": "",
+      "brand": "MIC2/LibanCell",
+      "cc2s": [
+        "LB"
+      ],
+      "country": "Lebanon",
+      "ope": true,
+      "operator": ""
+    },
     "41601": {
       "bands": [
         "GSM 900",
@@ -22518,6 +24503,36 @@
       "ope": true,
       "operator": "Mobitel Co. Ltd."
     },
+    "41847": {
+      "bands": "",
+      "brand": "Iraq Central Cooperative Association for Communication and Transportation",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41848": {
+      "bands": "",
+      "brand": "ITC Fanoos",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41849": {
+      "bands": "",
+      "brand": "Iraqtel",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
     "41862": {
       "bands": [
         "CDMA 800",
@@ -22531,6 +24546,126 @@
       "ope": true,
       "operator": "Itisaluna Wireless CO."
     },
+    "41870": {
+      "bands": "",
+      "brand": "Kalimat",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41880": {
+      "bands": "",
+      "brand": "Iraqi Telecommunications & Post Company (ITPC)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41881": {
+      "bands": "",
+      "brand": "ITPC (Al-Mazaya)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41882": {
+      "bands": "",
+      "brand": "Korek",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": "Telecom Ltd"
+    },
+    "41883": {
+      "bands": "",
+      "brand": "ITPC (Sader Al-Iraq)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41884": {
+      "bands": "",
+      "brand": "ITPC (Eaamar Albasrah)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41885": {
+      "bands": "",
+      "brand": "ITPC (Anwar Yagotat Alkhalee)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41886": {
+      "bands": "",
+      "brand": "ITPC (Furatfone)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41887": {
+      "bands": "",
+      "brand": "ITPC (Al-Seraj)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41888": {
+      "bands": "",
+      "brand": "ITPC (High Link)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41889": {
+      "bands": "",
+      "brand": "ITPC (Al-Shams)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41891": {
+      "bands": "",
+      "brand": "ITPC (Belad Babel)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
     "41892": {
       "bands": [
         "CDMA"
@@ -22542,6 +24677,26 @@
       "country": "Iraq",
       "ope": true,
       "operator": "Omnnea Wireless"
+    },
+    "41893": {
+      "bands": "",
+      "brand": "ITPC (Iraqcell)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
+    },
+    "41894": {
+      "bands": "",
+      "brand": "ITPC (Shaly)",
+      "cc2s": [
+        "IQ"
+      ],
+      "country": "Iraq",
+      "ope": true,
+      "operator": ""
     },
     "41902": {
       "bands": [
@@ -22610,6 +24765,16 @@
       "ope": true,
       "operator": "Saudi Telecom Company"
     },
+    "42002": {
+      "bands": "",
+      "brand": "Mobily \u0096 Etihad Etisalat",
+      "cc2s": [
+        "SA"
+      ],
+      "country": "Saudi Arabia",
+      "ope": true,
+      "operator": ""
+    },
     "42003": {
       "bands": [
         "GSM 900",
@@ -22670,6 +24835,16 @@
       "country": "Saudi Arabia",
       "ope": true,
       "operator": "Lebara Mobile"
+    },
+    "42007": {
+      "bands": "",
+      "brand": "Zain",
+      "cc2s": [
+        "SA"
+      ],
+      "country": "Saudi Arabia",
+      "ope": true,
+      "operator": ""
     },
     "42021": {
       "bands": [
@@ -23178,6 +25353,17 @@
       "ope": false,
       "operator": "CG Networks"
     },
+    "42577": {
+      "bands": "",
+      "brand": "Hot Mobile/Mirs",
+      "cc2s": [
+        "IL",
+        "PS"
+      ],
+      "country": "Israel",
+      "ope": true,
+      "operator": ""
+    },
     "42601": {
       "bands": [
         "GSM 900",
@@ -23310,6 +25496,16 @@
       "ope": true,
       "operator": "Ministry of Interior"
     },
+    "42800": {
+      "bands": "",
+      "brand": "Skytel Co. Ltd",
+      "cc2s": [
+        "MN"
+      ],
+      "country": "Mongolia",
+      "ope": true,
+      "operator": ""
+    },
     "42888": {
       "bands": [
         "GSM 900",
@@ -23422,6 +25618,26 @@
       "country": "Nepal",
       "ope": true,
       "operator": "Smart Telecom Pvt. Ltd. (STPL)"
+    },
+    "43002": {
+      "bands": "",
+      "brand": "Etisalat",
+      "cc2s": [
+        "AE"
+      ],
+      "country": "United Arab Emirates",
+      "ope": true,
+      "operator": ""
+    },
+    "43102": {
+      "bands": "",
+      "brand": "Etisalat",
+      "cc2s": [
+        "AE"
+      ],
+      "country": "United Arab Emirates",
+      "ope": true,
+      "operator": ""
     },
     "43201": {
       "bands": [
@@ -24201,6 +26417,76 @@
       "ope": false,
       "operator": "Cable media waiwai Co., Ltd."
     },
+    "44013": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44014": {
+      "bands": "",
+      "brand": "NTT Docomo Tohoku",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44015": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44016": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44017": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44018": {
+      "bands": "",
+      "brand": "NTT Docomo Tokai",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44019": {
+      "bands": "",
+      "brand": "NTT Docomo Hokkaido",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
     "44020": {
       "bands": [
         "UMTS 900",
@@ -24238,6 +26524,286 @@
       "country": "Japan",
       "ope": true,
       "operator": "SoftBank Corp."
+    },
+    "44022": {
+      "bands": "",
+      "brand": "NTT Docomo Kansai",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44023": {
+      "bands": "",
+      "brand": "NTT Docomo Tokai",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44024": {
+      "bands": "",
+      "brand": "NTT Docomo Chugoku",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44025": {
+      "bands": "",
+      "brand": "NTT Docomo Hokkaido",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44026": {
+      "bands": "",
+      "brand": "NTT Docomo Kyushu",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44027": {
+      "bands": "",
+      "brand": "NTT Docomo Tohoku",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44028": {
+      "bands": "",
+      "brand": "NTT Docomo Shikoku",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44029": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44030": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44031": {
+      "bands": "",
+      "brand": "NTT Docomo Kansai",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44032": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44033": {
+      "bands": "",
+      "brand": "NTT Docomo Tokai",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44034": {
+      "bands": "",
+      "brand": "NTT Docomo Kyushu",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44035": {
+      "bands": "",
+      "brand": "NTT Docomo Kansai",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44036": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44037": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44038": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44039": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44040": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44041": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44042": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44043": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44044": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44045": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44046": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44047": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44048": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44049": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
     },
     "44050": {
       "bands": [
@@ -24328,6 +26894,136 @@
       "country": "Japan",
       "ope": true,
       "operator": "KDDI Corporation"
+    },
+    "44055": {
+      "bands": "",
+      "brand": "au",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "KDDI Corporation"
+    },
+    "44056": {
+      "bands": "",
+      "brand": "au",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "KDDI Corporation"
+    },
+    "44058": {
+      "bands": "",
+      "brand": "NTT Docomo Kansai",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44060": {
+      "bands": "",
+      "brand": "NTT Docomo Kansai",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44061": {
+      "bands": "",
+      "brand": "NTT Docomo Chugoku",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44062": {
+      "bands": "",
+      "brand": "NTT Docomo Kyushu",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44063": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44064": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44065": {
+      "bands": "",
+      "brand": "NTT Docomo Shikoku",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44066": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44067": {
+      "bands": "",
+      "brand": "NTT Docomo Tohoku",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44068": {
+      "bands": "",
+      "brand": "NTT Docomo Kyushu",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44069": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
     },
     "44070": {
       "bands": [
@@ -24455,6 +27151,16 @@
       "ope": true,
       "operator": "KDDI Corporation"
     },
+    "44077": {
+      "bands": "",
+      "brand": "au",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "KDDI Corporation"
+    },
     "44078": {
       "bands": [
         "CDMA2000 850",
@@ -24468,6 +27174,126 @@
       "ope": true,
       "operator": "Okinawa Cellular Telephone"
     },
+    "44079": {
+      "bands": "",
+      "brand": "au",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "KDDI Corporation"
+    },
+    "44080": {
+      "bands": "",
+      "brand": "TU-KA Cellular Tokyo Inc.",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44081": {
+      "bands": "",
+      "brand": "TU-KA Cellular Tokyo Inc.",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44082": {
+      "bands": "",
+      "brand": "TU-KA Phone Kansai Inc.",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44083": {
+      "bands": "",
+      "brand": "TU-KA Cellular Tokai Inc.",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44084": {
+      "bands": "",
+      "brand": "TU-KA Phone Kansai Inc.",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44085": {
+      "bands": "",
+      "brand": "TU-KA Cellular Tokai Inc.",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44086": {
+      "bands": "",
+      "brand": "TU-KA Cellular Tokyo Inc.",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44087": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
+    },
+    "44088": {
+      "bands": "",
+      "brand": "au",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "KDDI Corporation"
+    },
+    "44089": {
+      "bands": "",
+      "brand": "au",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "KDDI Corporation"
+    },
+    "44090": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
     "44091": {
       "bands": [
         "Unknown"
@@ -24479,6 +27305,86 @@
       "country": "Japan",
       "ope": false,
       "operator": "Tokyo Organising Committee of the Olympic and Paralympic Games"
+    },
+    "44092": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44093": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44094": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44095": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44096": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44097": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44098": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp (Formerly Vodafone K. K.)",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44099": {
+      "bands": "",
+      "brand": "NTT docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": "NTT DoCoMo, Inc."
     },
     "44100": {
       "bands": [
@@ -24523,6 +27429,216 @@
       "country": "Japan",
       "ope": true,
       "operator": "UQ Communications Inc."
+    },
+    "44140": {
+      "bands": "",
+      "brand": "NTT Docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44141": {
+      "bands": "",
+      "brand": "NTT Docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44142": {
+      "bands": "",
+      "brand": "NTT Docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44143": {
+      "bands": "",
+      "brand": "NTT Docomo Kansai",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44144": {
+      "bands": "",
+      "brand": "NTT Docomo Chugoku",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44145": {
+      "bands": "",
+      "brand": "NTT Docomo Shikoku",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44150": {
+      "bands": "",
+      "brand": "TU-KA Cellular Tokyo Inc.",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44151": {
+      "bands": "",
+      "brand": "TU-KA Phone Kansai Inc.",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44161": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44162": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44163": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44164": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44165": {
+      "bands": "",
+      "brand": "SoftBank Mobile Corp",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44170": {
+      "bands": "",
+      "brand": "KDDI Corporation",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44190": {
+      "bands": "",
+      "brand": "NTT Docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44191": {
+      "bands": "",
+      "brand": "NTT Docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44192": {
+      "bands": "",
+      "brand": "NTT Docomo",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44193": {
+      "bands": "",
+      "brand": "NTT Docomo Hokkaido",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44194": {
+      "bands": "",
+      "brand": "NTT Docomo Tohoku",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44198": {
+      "bands": "",
+      "brand": "NTT Docomo Kyushu",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
+    },
+    "44199": {
+      "bands": "",
+      "brand": "NTT Docomo Kyushu",
+      "cc2s": [
+        "JP"
+      ],
+      "country": "Japan",
+      "ope": true,
+      "operator": ""
     },
     "45001": {
       "bands": [
@@ -24814,7 +27930,8 @@
         "UMTS 2100",
         "LTE 900",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "3",
       "cc2s": [
@@ -24933,7 +28050,8 @@
         "GSM 1800",
         "LTE 1800",
         "LTE 2600",
-        "TD-LTE 2300"
+        "TD-LTE 2300",
+        "5G 3500"
       ],
       "brand": "CMCC HK",
       "cc2s": [
@@ -25032,7 +28150,8 @@
     "45420": {
       "bands": [
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "PCCW Mobile (4G)",
       "cc2s": [
@@ -25173,6 +28292,26 @@
       "country": "Hong Kong",
       "ope": true,
       "operator": "Webbing Hong Kong Ltd"
+    },
+    "45440": {
+      "bands": "",
+      "brand": "shared by private TETRA systems",
+      "cc2s": [
+        "HK"
+      ],
+      "country": "Hong Kong",
+      "ope": true,
+      "operator": ""
+    },
+    "45447": {
+      "bands": "",
+      "brand": "shared by private TETRA systems",
+      "cc2s": [
+        "HK"
+      ],
+      "country": "Hong Kong",
+      "ope": true,
+      "operator": ""
     },
     "45500": {
       "bands": [
@@ -26006,6 +29145,16 @@
       ],
       "country": "Bangladesh",
       "ope": false,
+      "operator": "Pacific Bangladesh Telecom Limited"
+    },
+    "47006": {
+      "bands": "",
+      "brand": "Citycell",
+      "cc2s": [
+        "BD"
+      ],
+      "country": "Bangladesh",
+      "ope": true,
       "operator": "Pacific Bangladesh Telecom Limited"
     },
     "47007": {
@@ -27303,6 +30452,16 @@
       "ope": true,
       "operator": "Viettel Timor-Leste"
     },
+    "51500": {
+      "bands": "",
+      "brand": "Fix Line",
+      "cc2s": [
+        "PH"
+      ],
+      "country": "Philippines",
+      "ope": true,
+      "operator": ""
+    },
     "51501": {
       "bands": [
         "GSM 900"
@@ -27708,7 +30867,8 @@
     "52510": {
       "bands": [
         "LTE 900",
-        "TD-LTE 2300"
+        "TD-LTE 2300",
+        "TD-LTE 2500"
       ],
       "brand": "",
       "cc2s": [
@@ -27917,6 +31077,26 @@
       "ope": true,
       "operator": "2degrees"
     },
+    "53028": {
+      "bands": "",
+      "brand": "2degrees",
+      "cc2s": [
+        "NZ"
+      ],
+      "country": "New Zealand",
+      "ope": true,
+      "operator": "2degrees"
+    },
+    "53601": {
+      "bands": "",
+      "brand": "Digicell",
+      "cc2s": [
+        "NR"
+      ],
+      "country": "Nauru",
+      "ope": true,
+      "operator": ""
+    },
     "53602": {
       "bands": [
         "GSM 900",
@@ -28041,6 +31221,16 @@
       "ope": true,
       "operator": "BMobile (SI) Ltd"
     },
+    "54010": {
+      "bands": "",
+      "brand": "BREEZE",
+      "cc2s": [
+        "SB"
+      ],
+      "country": "Solomon Islands",
+      "ope": true,
+      "operator": "Our Telekom"
+    },
     "54100": {
       "bands": [
         "GSM 900"
@@ -28164,6 +31354,16 @@
       "country": "American Samoa",
       "ope": true,
       "operator": "Bluesky"
+    },
+    "544998": {
+      "bands": "",
+      "brand": "American Samoa Telecom",
+      "cc2s": [
+        "AS"
+      ],
+      "country": "American Samoa",
+      "ope": true,
+      "operator": ""
     },
     "54501": {
       "bands": [
@@ -29302,6 +32502,16 @@
       "ope": true,
       "operator": "Moov Togo"
     },
+    "61600": {
+      "bands": "",
+      "brand": "Bell Benin/BBCOM",
+      "cc2s": [
+        "BJ"
+      ],
+      "country": "Benin",
+      "ope": true,
+      "operator": ""
+    },
     "61601": {
       "bands": [
         "GSM 900",
@@ -29454,6 +32664,16 @@
       "country": "Liberia",
       "ope": false,
       "operator": "Atlantic Wireless (Liberia) Inc."
+    },
+    "61803": {
+      "bands": "",
+      "brand": "Celcom",
+      "cc2s": [
+        "LR"
+      ],
+      "country": "Liberia",
+      "ope": true,
+      "operator": ""
     },
     "61804": {
       "bands": [
@@ -29864,6 +33084,16 @@
       "ope": false,
       "operator": "Capcom"
     },
+    "62101": {
+      "bands": "",
+      "brand": "Visafone",
+      "cc2s": [
+        "NG"
+      ],
+      "country": "Nigeria",
+      "ope": true,
+      "operator": "Visafone Communications Ltd."
+    },
     "62120": {
       "bands": [
         "GSM 900",
@@ -30000,6 +33230,56 @@
       "ope": true,
       "operator": "Emerging Markets Telecommunication Services Ltd."
     },
+    "62196": {
+      "bands": "",
+      "brand": "Starcomms",
+      "cc2s": [
+        "NG"
+      ],
+      "country": "Nigeria",
+      "ope": true,
+      "operator": ""
+    },
+    "62199": {
+      "bands": "",
+      "brand": "Starcomms",
+      "cc2s": [
+        "NG"
+      ],
+      "country": "Nigeria",
+      "ope": true,
+      "operator": ""
+    },
+    "621996": {
+      "bands": "",
+      "brand": "Visafone",
+      "cc2s": [
+        "NG"
+      ],
+      "country": "Nigeria",
+      "ope": true,
+      "operator": "Visafone Communications Ltd."
+    },
+    "621997": {
+      "bands": "",
+      "brand": "Multi-Links",
+      "cc2s": [
+        "NG"
+      ],
+      "country": "Nigeria",
+      "ope": true,
+      "operator": ""
+    },
+    "621998": {
+      "bands": "",
+      "brand": "Starcomms",
+      "cc2s": [
+        "NG"
+      ],
+      "country": "Nigeria",
+      "ope": true,
+      "operator": ""
+    },
     "62201": {
       "bands": [
         "GSM 900",
@@ -30041,6 +33321,16 @@
       "country": "Chad",
       "ope": true,
       "operator": "Millicom"
+    },
+    "62204": {
+      "bands": "",
+      "brand": "Salam/Sotel",
+      "cc2s": [
+        "TD"
+      ],
+      "country": "Chad",
+      "ope": true,
+      "operator": ""
     },
     "62207": {
       "bands": [
@@ -30329,6 +33619,16 @@
       "ope": true,
       "operator": "Celtel Congo"
     },
+    "62902": {
+      "bands": "",
+      "brand": "Zain/Celtel",
+      "cc2s": [
+        "CG"
+      ],
+      "country": "Republic of the Congo",
+      "ope": true,
+      "operator": ""
+    },
     "62907": {
       "bands": [
         "GSM 900"
@@ -30468,6 +33768,16 @@
       "ope": true,
       "operator": "UNITEL S.a.r.l."
     },
+    "63103": {
+      "bands": "",
+      "brand": "Angola Telecom (AKA MoviCel)",
+      "cc2s": [
+        "AO"
+      ],
+      "country": "Angola",
+      "ope": true,
+      "operator": ""
+    },
     "63104": {
       "bands": [
         "GSM 900",
@@ -30577,6 +33887,16 @@
       "ope": true,
       "operator": "Telecom Seychelles Ltd"
     },
+    "63400": {
+      "bands": "",
+      "brand": "canar",
+      "cc2s": [
+        "SD"
+      ],
+      "country": "Sudan",
+      "ope": true,
+      "operator": "Canar Telecom"
+    },
     "63401": {
       "bands": [
         "GSM 900",
@@ -30629,6 +33949,16 @@
       "ope": true,
       "operator": "Canar Telecom"
     },
+    "63406": {
+      "bands": "",
+      "brand": "ZAIN/Mobitel",
+      "cc2s": [
+        "SD"
+      ],
+      "country": "Sudan",
+      "ope": true,
+      "operator": ""
+    },
     "63407": {
       "bands": [
         "GSM 1800",
@@ -30644,6 +33974,16 @@
       "ope": true,
       "operator": "Sudatel Group"
     },
+    "63408": {
+      "bands": "",
+      "brand": "Vivacell",
+      "cc2s": [
+        "SD"
+      ],
+      "country": "Sudan",
+      "ope": true,
+      "operator": ""
+    },
     "63409": {
       "bands": [
         "GSM 900",
@@ -30657,6 +33997,36 @@
       "country": "Sudan",
       "ope": true,
       "operator": "NEC"
+    },
+    "63415": {
+      "bands": "",
+      "brand": "Sudani One",
+      "cc2s": [
+        "SD"
+      ],
+      "country": "Sudan",
+      "ope": true,
+      "operator": "Sudatel Group"
+    },
+    "63422": {
+      "bands": "",
+      "brand": "MTN (Areeba)",
+      "cc2s": [
+        "SD"
+      ],
+      "country": "Sudan",
+      "ope": true,
+      "operator": ""
+    },
+    "63499": {
+      "bands": "",
+      "brand": "MTN",
+      "cc2s": [
+        "SD"
+      ],
+      "country": "Sudan",
+      "ope": true,
+      "operator": "MTN Sudan"
     },
     "63510": {
       "bands": [
@@ -30793,6 +34163,16 @@
       "ope": true,
       "operator": "NationLink Telecom"
     },
+    "63719": {
+      "bands": "",
+      "brand": "HorTel",
+      "cc2s": [
+        "SO"
+      ],
+      "country": "Somalia",
+      "ope": true,
+      "operator": ""
+    },
     "63720": {
       "bands": [
         "GSM 900",
@@ -30807,6 +34187,16 @@
       "country": "Somalia",
       "ope": true,
       "operator": "SOMNET"
+    },
+    "63725": {
+      "bands": "",
+      "brand": "Hormuud Telecom Somalia",
+      "cc2s": [
+        "SO"
+      ],
+      "country": "Somalia",
+      "ope": true,
+      "operator": ""
     },
     "63730": {
       "bands": [
@@ -31970,6 +35360,16 @@
       "ope": false,
       "operator": "Vodacom Lesotho (Pty) Ltd"
     },
+    "65200": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "BW"
+      ],
+      "country": "Botswana",
+      "ope": true,
+      "operator": ""
+    },
     "65201": {
       "bands": [
         "GSM 900",
@@ -32596,6 +35996,16 @@
       "ope": false,
       "operator": "Network of the World (NOW)"
     },
+    "65905": {
+      "bands": "",
+      "brand": "Vivacell",
+      "cc2s": [
+        "SS"
+      ],
+      "country": "South Sudan",
+      "ope": true,
+      "operator": "Network of the World (NOW)"
+    },
     "65906": {
       "bands": [
         "GSM 900",
@@ -32620,6 +36030,56 @@
       "country": "South Sudan",
       "ope": true,
       "operator": "Sudani"
+    },
+    "65912": {
+      "bands": "",
+      "brand": "Sudani/Sudatel",
+      "cc2s": [
+        "SS"
+      ],
+      "country": "South Sudan",
+      "ope": true,
+      "operator": ""
+    },
+    "65991": {
+      "bands": "",
+      "brand": "Zain-South Sudan",
+      "cc2s": [
+        "SS"
+      ],
+      "country": "South Sudan",
+      "ope": true,
+      "operator": ""
+    },
+    "65992": {
+      "bands": "",
+      "brand": "MTN-South Sudan",
+      "cc2s": [
+        "SS"
+      ],
+      "country": "South Sudan",
+      "ope": true,
+      "operator": ""
+    },
+    "65995": {
+      "bands": "",
+      "brand": "Vivacel/NOW",
+      "cc2s": [
+        "SS"
+      ],
+      "country": "South Sudan",
+      "ope": true,
+      "operator": ""
+    },
+    "65997": {
+      "bands": "",
+      "brand": "Gemtel",
+      "cc2s": [
+        "SS"
+      ],
+      "country": "South Sudan",
+      "ope": true,
+      "operator": "Gemtel"
     },
     "70267": {
       "bands": [
@@ -32819,6 +36279,16 @@
       "ope": true,
       "operator": "Celtel"
     },
+    "70802": {
+      "bands": "",
+      "brand": "Telefonica/CELTEL",
+      "cc2s": [
+        "HN"
+      ],
+      "country": "Honduras",
+      "ope": true,
+      "operator": ""
+    },
     "708030": {
       "bands": [
         "GSM 1900",
@@ -32843,6 +36313,16 @@
       "country": "Honduras",
       "ope": false,
       "operator": "Digicel de Honduras"
+    },
+    "70830": {
+      "bands": "",
+      "brand": "Hondutel",
+      "cc2s": [
+        "HN"
+      ],
+      "country": "Honduras",
+      "ope": true,
+      "operator": "Empresa Hondure\u00f1a de Telecomunicaciones"
     },
     "71021": {
       "bands": [
@@ -33030,6 +36510,26 @@
       "ope": true,
       "operator": "Digicel Group"
     },
+    "71601": {
+      "bands": "",
+      "brand": "GlobalStar",
+      "cc2s": [
+        "PE"
+      ],
+      "country": "Peru",
+      "ope": true,
+      "operator": ""
+    },
+    "71602": {
+      "bands": "",
+      "brand": "GlobalStar",
+      "cc2s": [
+        "PE"
+      ],
+      "country": "Peru",
+      "ope": true,
+      "operator": ""
+    },
     "71606": {
       "bands": [
         "GSM 850",
@@ -33103,6 +36603,16 @@
       "country": "Peru",
       "ope": true,
       "operator": "Entel Per\u00fa S.A."
+    },
+    "71620": {
+      "bands": "",
+      "brand": "Claro /Amer.Mov./TIM (Telecom Italia)",
+      "cc2s": [
+        "PE"
+      ],
+      "country": "Peru",
+      "ope": true,
+      "operator": ""
     },
     "722010": {
       "bands": [
@@ -33213,6 +36723,16 @@
       "country": "Argentina",
       "ope": true,
       "operator": "AMX Argentina S.A."
+    },
+    "722340": {
+      "bands": "",
+      "brand": "Personal",
+      "cc2s": [
+        "AR"
+      ],
+      "country": "Argentina",
+      "ope": true,
+      "operator": "Telecom Personal S.A."
     },
     "722341": {
       "bands": [
@@ -33364,6 +36884,26 @@
       "ope": true,
       "operator": "Telef\u00f4nica Brasil S.A."
     },
+    "72407": {
+      "bands": "",
+      "brand": "CTBC/Triangulo",
+      "cc2s": [
+        "BR"
+      ],
+      "country": "Brazil",
+      "ope": true,
+      "operator": ""
+    },
+    "72408": {
+      "bands": "",
+      "brand": "TIM (Telecom Italia)",
+      "cc2s": [
+        "BR"
+      ],
+      "country": "Brazil",
+      "ope": true,
+      "operator": ""
+    },
     "72410": {
       "bands": [
         "GSM 850",
@@ -33399,6 +36939,16 @@
       "country": "Brazil",
       "ope": true,
       "operator": "Telef\u00f4nica Brasil S.A."
+    },
+    "72412": {
+      "bands": "",
+      "brand": "Claro/Albra/America Movil",
+      "cc2s": [
+        "BR"
+      ],
+      "country": "Brazil",
+      "ope": true,
+      "operator": ""
     },
     "72415": {
       "bands": [
@@ -33450,6 +37000,16 @@
       "country": "Brazil",
       "ope": true,
       "operator": "Datora (Vodafone)"
+    },
+    "72419": {
+      "bands": "",
+      "brand": "Vivo S.A./Telemig",
+      "cc2s": [
+        "BR"
+      ],
+      "country": "Brazil",
+      "ope": true,
+      "operator": ""
     },
     "72423": {
       "bands": [
@@ -33651,6 +37211,16 @@
         "BR"
       ],
       "country": "Brazil",
+      "ope": true,
+      "operator": ""
+    },
+    "73000": {
+      "bands": "",
+      "brand": "TESAM SA",
+      "cc2s": [
+        "CL"
+      ],
+      "country": "Chile",
       "ope": true,
       "operator": ""
     },
@@ -34417,6 +37987,16 @@
       "ope": true,
       "operator": "U-Mobile (Cellular) Inc."
     },
+    "73802": {
+      "bands": "",
+      "brand": "GT&T Cellink Plus (Guyana Telephone & Telegraph Co.)",
+      "cc2s": [
+        "GY"
+      ],
+      "country": "Guyana",
+      "ope": true,
+      "operator": ""
+    },
     "73805": {
       "bands": [
         "Unknown"
@@ -34568,6 +38148,16 @@
       "country": "Paraguay",
       "ope": true,
       "operator": "Copaco S.A."
+    },
+    "74601": {
+      "bands": "",
+      "brand": "Telesur",
+      "cc2s": [
+        "SR"
+      ],
+      "country": "Suriname",
+      "ope": true,
+      "operator": "Telecommunications Company Suriname (Telesur)"
     },
     "74602": {
       "bands": [

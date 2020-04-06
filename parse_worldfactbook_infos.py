@@ -4,11 +4,7 @@
 import sys
 import argparse
 import urllib.request
-import json
 import re
-
-from pprint import PrettyPrinter
-from lxml   import etree
 
 from parse_wikipedia_tables import (
     import_html_doc,

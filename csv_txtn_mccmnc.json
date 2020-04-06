@@ -1,0 +1,9260 @@
+[
+  {
+    "license": "https://clients.txtnation.com/hc/en-us/articles/218719768-MCCMNC-mobile-country-code-and-mobile-network-code-list",
+    "source": [
+      "https://clients.txtnation.com/hc/en-us/article_attachments/206752938/MCCMNCs_v2.csv"
+    ]
+  },
+  {
+    "20201": [
+      "Greece",
+      "Cosmote"
+    ],
+    "20202": [
+      "Greece",
+      "Cosmote"
+    ],
+    "20203": [
+      "Greece",
+      "OTE Hellenic Telecommunications Organization SA"
+    ],
+    "20204": [
+      "Greece",
+      "Organismos Sidirodromon Ellados (OSE)"
+    ],
+    "20205": [
+      "Greece",
+      "Vodafone"
+    ],
+    "20206": [
+      "Greece",
+      "Cosmoline"
+    ],
+    "20207": [
+      "Greece",
+      "AMD Telecom SA"
+    ],
+    "20209": [
+      "Greece",
+      "Tim (Telecom Italia) /Wind "
+    ],
+    "20210": [
+      "Greece",
+      "Tim (Telecom Italia) /Wind "
+    ],
+    "20401": [
+      "Netherlands",
+      "Scarlet / RadioAccess Network Services B.V."
+    ],
+    "20402": [
+      "Netherlands",
+      "Tele2"
+    ],
+    "20403": [
+      "Netherlands",
+      "Voiceworks Mobile BV"
+    ],
+    "20404": [
+      "Netherlands",
+      "Vodafone Libertel"
+    ],
+    "20405": [
+      "Netherlands",
+      "Elephant Talk Communications Premium Rate Services Netherlands BV"
+    ],
+    "20406": [
+      "Netherlands",
+      "Mundio/Vectone Mobile (AKA Barablu)"
+    ],
+    "20407": [
+      "Netherlands",
+      "Teleena Holding BV"
+    ],
+    "20408": [
+      "Netherlands",
+      "KPN Telecom B.V."
+    ],
+    "20409": [
+      "Netherlands",
+      "Lycamobile Ltd"
+    ],
+    "20410": [
+      "Netherlands",
+      "KPN Telecom B.V."
+    ],
+    "20412": [
+      "Netherlands",
+      "KPN/Telfort"
+    ],
+    "20413": [
+      "Netherlands",
+      "Unica Installatietechniek B.V."
+    ],
+    "20414": [
+      "Netherlands",
+      "6GMOBILE BV"
+    ],
+    "20415": [
+      "Netherlands",
+      "Ziggo BV"
+    ],
+    "20416": [
+      "Netherlands",
+      "T-Mobile B.V."
+    ],
+    "20417": [
+      "Netherlands",
+      "Intercity Mobile Communications BV"
+    ],
+    "20418": [
+      "Netherlands",
+      "UPC Nederland BV"
+    ],
+    "20419": [
+      "Netherlands",
+      "Mixe Communication Solutions BV"
+    ],
+    "20420": [
+      "Netherlands",
+      "Orange/T-mobile"
+    ],
+    "20421": [
+      "Netherlands",
+      "NS Railinfrabeheer B.V."
+    ],
+    "20422": [
+      "Netherlands",
+      "Ministerie van Defensie"
+    ],
+    "20423": [
+      "Netherlands",
+      "Aspider Solutions"
+    ],
+    "20424": [
+      "Netherlands",
+      "Private Mobility Nederland BV"
+    ],
+    "20425": [
+      "Netherlands",
+      "CAPX B.V. / Private Mobile"
+    ],
+    "20426": [
+      "Netherlands",
+      "SpeakUp B.V."
+    ],
+    "20427": [
+      "Netherlands",
+      "Breezz Nederland"
+    ],
+    "20428": [
+      "Netherlands",
+      "Lancelot BV"
+    ],
+    "20429": [
+      "Netherlands",
+      "Teleware / Private Mobile Ltd"
+    ],
+    "20460": [
+      "Netherlands",
+      "Nextgen Mobile Ltd"
+    ],
+    "20461": [
+      "Netherlands",
+      "BodyTrace Netherlands B.V."
+    ],
+    "20464": [
+      "Netherlands",
+      "Zetacom B.V."
+    ],
+    "20465": [
+      "Netherlands",
+      "AGMS Netherlands B.V."
+    ],
+    "20466": [
+      "Netherlands",
+      "Utility Connect B.V."
+    ],
+    "20467": [
+      "Netherlands",
+      "RadioAccess B.V."
+    ],
+    "20468": [
+      "Netherlands",
+      "Unify Mobile"
+    ],
+    "20469": [
+      "Netherlands",
+      "KPN Telecom B.V."
+    ],
+    "20498": [
+      "Netherlands",
+      "T-Mobile B.V."
+    ],
+    "20601": [
+      "Belgium",
+      "Belgacom/Proximus"
+    ],
+    "20602": [
+      "Belgium",
+      "SNCT/NMBS"
+    ],
+    "20605": [
+      "Belgium",
+      "Telenet BidCo NV"
+    ],
+    "20606": [
+      "Belgium",
+      "Lycamobile (MVNO under Mobistar)"
+    ],
+    "20607": [
+      "Belgium",
+      "Mundio Mobile Belgium"
+    ],
+    "20610": [
+      "Belgium",
+      "Mobistar/Orange"
+    ],
+    "20615": [
+      "Belgium",
+      "Elephant Talk Communications Schweiz"
+    ],
+    "20620": [
+      "Belgium",
+      "Base/KPN"
+    ],
+    "20640": [
+      "Belgium",
+      "Join Experience (Belgium)"
+    ],
+    "20800": [
+      "France",
+      "Tel/Tel"
+    ],
+    "20801": [
+      "France",
+      "Orange"
+    ],
+    "20802": [
+      "France",
+      "Orange"
+    ],
+    "20803": [
+      "France",
+      "MobiquiThings"
+    ],
+    "20804": [
+      "France",
+      "SISTEER"
+    ],
+    "20805": [
+      "France",
+      "GlobalStar"
+    ],
+    "20806": [
+      "France",
+      "GlobalStar"
+    ],
+    "20807": [
+      "France",
+      "GlobalStar"
+    ],
+    "20809": [
+      "France",
+      "S.F.R."
+    ],
+    "20810": [
+      "France",
+      "S.F.R."
+    ],
+    "20811": [
+      "France",
+      "S.F.R."
+    ],
+    "20813": [
+      "France",
+      "S.F.R."
+    ],
+    "20814": [
+      "France",
+      "Lliad/FREE Mobile"
+    ],
+    "20815": [
+      "France",
+      "Lliad/FREE Mobile"
+    ],
+    "20816": [
+      "France",
+      "Lliad/FREE Mobile"
+    ],
+    "20820": [
+      "France",
+      "Bouygues Telecom"
+    ],
+    "20821": [
+      "France",
+      "Bouygues Telecom"
+    ],
+    "20822": [
+      "France",
+      "Transatel SA"
+    ],
+    "20823": [
+      "France",
+      "Omer/Virgin Mobile"
+    ],
+    "20824": [
+      "France",
+      "MobiquiThings"
+    ],
+    "20825": [
+      "France",
+      "Lycamobile SARL"
+    ],
+    "20826": [
+      "France",
+      "NRJ"
+    ],
+    "20827": [
+      "France",
+      "AFONE SA"
+    ],
+    "20828": [
+      "France",
+      "Astrium"
+    ],
+    "20829": [
+      "France",
+      "Orange"
+    ],
+    "20831": [
+      "France",
+      "Mundio Mobile (France) Ltd"
+    ],
+    "20888": [
+      "France",
+      "Bouygues Telecom"
+    ],
+    "20889": [
+      "France",
+      "Omer/Virgin Mobile"
+    ],
+    "20891": [
+      "France",
+      "Orange"
+    ],
+    "20892": [
+      "France",
+      "Association Plate-forme Telecom"
+    ],
+    "21201": [
+      [
+        "Kosovo",
+        "Vala / Dardafone LLC (Post and Telecommunications of Kosovo JSC (PTK))"
+      ],
+      [
+        "Monaco",
+        "Monaco Telecom"
+      ]
+    ],
+    "21210": [
+      "Monaco",
+      "Monaco Telecom"
+    ],
+    "21303": [
+      "Andorra",
+      "Mobiland (Servei De Tele. Dandorra) (Andorra Telecom)"
+    ],
+    "21401": [
+      "Spain",
+      "Vodafone (Also MVNOs Eroski, Hits, Lebara & PepePhone)"
+    ],
+    "21403": [
+      "Spain",
+      "Orange2 (Also MVNOs Dia, CABLE, CarrefourOnline, Hualong, Llamaya, MasMovil & The Phone House)"
+    ],
+    "21404": [
+      "Spain",
+      "Yoigo"
+    ],
+    "21405": [
+      "Spain",
+      "Movistar"
+    ],
+    "21406": [
+      "Spain",
+      "Vodafone Enabler Espana SL (MVNO Pepephone)"
+    ],
+    "21407": [
+      "Spain",
+      "Movistar (Telephonica Spain)"
+    ],
+    "21408": [
+      "Spain",
+      "Euskaltel SA"
+    ],
+    "21409": [
+      "Spain",
+      "Orange"
+    ],
+    "21410": [
+      "Spain",
+      "Operadora de Telecomunicaciones Opera SL"
+    ],
+    "21411": [
+      "Spain",
+      "Orange"
+    ],
+    "21412": [
+      "Spain",
+      "Contacta Servicios Avanzados de Telecomunicaciones SL"
+    ],
+    "21413": [
+      "Spain",
+      "Incotel Ingeniera y Consultaria SL"
+    ],
+    "21414": [
+      "Spain",
+      "Incotel Servicioz Avanzados SL"
+    ],
+    "21415": [
+      "Spain",
+      "BT Espana Compania de Servicios Globales de Telecomunicaciones SAU"
+    ],
+    "21416": [
+      "Spain",
+      "Telecable de Asturias SA"
+    ],
+    "21417": [
+      "Spain",
+      "Mobile R (Cable y Telecomunicaciones Galicia SA)"
+    ],
+    "21418": [
+      "Spain",
+      "Cableuropa SAU (ONO)"
+    ],
+    "21419": [
+      "Spain",
+      "Simyo/KPN"
+    ],
+    "21420": [
+      "Spain",
+      "fonYou Wireless SL"
+    ],
+    "21421": [
+      "Spain",
+      "Jazz Telecom SAU"
+    ],
+    "21422": [
+      "Spain",
+      "DigiMobil (Movistar)"
+    ],
+    "21423": [
+      "Spain",
+      "Barablu / Lycamobile SL"
+    ],
+    "21424": [
+      "Spain",
+      "Vodafone (includes MVNOs / Vizzavi Espa\u00f1a, S.L. / Eroski M\u00f3vil Espa\u00f1a)"
+    ],
+    "21425": [
+      "Spain",
+      "Lycamobile SL"
+    ],
+    "21426": [
+      "Spain",
+      "Lleida"
+    ],
+    "21427": [
+      "Spain",
+      "Truphone"
+    ],
+    "21428": [
+      "Spain",
+      "Consorcio de Telecomunicaciones Avanzadas, S.A."
+    ],
+    "21429": [
+      "Spain",
+      "NEO-SKY 2002, S.A."
+    ],
+    "21430": [
+      "Spain",
+      "Compatel Limited"
+    ],
+    "21431": [
+      "Spain",
+      "Red Digital De Telecomunicaciones de las Islas Baleares, S.L."
+    ],
+    "21432": [
+      "Spain",
+      "TUENTI TECHNOLOGIES, S.L."
+    ],
+    "21601": [
+      "Hungary",
+      "Pannon/Telenor"
+    ],
+    "21602": [
+      "Hungary",
+      "MVM NET Ltd."
+    ],
+    "21620": [
+      "Hungary",
+      "Pannon/Telenor"
+    ],
+    "21630": [
+      "Hungary",
+      "T-mobile/Magyar"
+    ],
+    "21670": [
+      "Hungary",
+      "Vodafone"
+    ],
+    "21671": [
+      "Hungary",
+      "UPC Magyarorszag Kft."
+    ],
+    "21699": [
+      "Hungary",
+      "Mav Co."
+    ],
+    "21803": [
+      "Bosnia & Herzegov.",
+      "Eronet Mobile / Public Enterprise Croation Telecom"
+    ],
+    "21805": [
+      "Bosnia & Herzegov.",
+      "M-Tel / RS Telecommunications JSC Banja Luka"
+    ],
+    "21890": [
+      "Bosnia & Herzegov.",
+      "BH Mobile"
+    ],
+    "21901": [
+      "Croatia",
+      "T-Mobile/Cronet"
+    ],
+    "21902": [
+      "Croatia",
+      "Tele2"
+    ],
+    "21910": [
+      "Croatia",
+      "VIPnet d.o.o."
+    ],
+    "22001": [
+      "Serbia",
+      "Telenor/Mobtel"
+    ],
+    "22002": [
+      "Serbia",
+      "Telenor/Mobtel"
+    ],
+    "22003": [
+      "Serbia",
+      "MTS/Telekom Srbija"
+    ],
+    "22005": [
+      "Serbia",
+      "VIP Mobile"
+    ],
+    "22201": [
+      "Italy",
+      "TIM (Telecom Italia)"
+    ],
+    "22202": [
+      "Italy",
+      "Elsacom"
+    ],
+    "22204": [
+      "Italy",
+      "Intermatica"
+    ],
+    "22205": [
+      "Italy",
+      "Telespazio"
+    ],
+    "22206": [
+      "Italy",
+      "Vodafone"
+    ],
+    "22207": [
+      "Italy",
+      "Noverca Italia Srl"
+    ],
+    "22210": [
+      "Italy",
+      "Vodafone"
+    ],
+    "22230": [
+      "Italy",
+      "RFI Rete Ferroviaria Italiana SpA"
+    ],
+    "22233": [
+      "Italy",
+      "Hi3G"
+    ],
+    "22234": [
+      "Italy",
+      "BT Italia SpA"
+    ],
+    "22235": [
+      "Italy",
+      "Lycamobile Srl (MVNO under Vodafone)"
+    ],
+    "22243": [
+      "Italy",
+      "Telecom Italia Mobile SpA"
+    ],
+    "22244": [
+      "Italy",
+      "WIND (Blu) -"
+    ],
+    "22248": [
+      "Italy",
+      "Telecom Italia Mobile SpA"
+    ],
+    "22277": [
+      "Italy",
+      "IPSE 2000"
+    ],
+    "22288": [
+      "Italy",
+      "WIND"
+    ],
+    "22298": [
+      "Italy",
+      "Blu"
+    ],
+    "22299": [
+      "Italy",
+      "Hi3G"
+    ],
+    "22601": [
+      "Romania",
+      "Vodafone"
+    ],
+    "22602": [
+      "Romania",
+      "Romtelecom SA"
+    ],
+    "22603": [
+      "Romania",
+      "Telekom (formerly Cosmote)"
+    ],
+    "22604": [
+      "Romania",
+      "Telemobil/Zapp"
+    ],
+    "22605": [
+      "Romania",
+      "RCS&RDS Digi Mobile"
+    ],
+    "22606": [
+      "Romania",
+      "Telemobil/Zapp"
+    ],
+    "22610": [
+      "Romania",
+      "Orange"
+    ],
+    "22611": [
+      "Romania",
+      "Enigma Systems"
+    ],
+    "22801": [
+      "Switzerland",
+      "Swisscom"
+    ],
+    "22802": [
+      "Switzerland",
+      "TDC Sunrise"
+    ],
+    "22803": [
+      "Switzerland",
+      "Orange"
+    ],
+    "22805": [
+      "Switzerland",
+      "Togewanet AG (Comfone)"
+    ],
+    "22807": [
+      "Switzerland",
+      "TDC Sunrise / in&phone)"
+    ],
+    "22808": [
+      "Switzerland",
+      "TDC Sunrise (Tele4u; formally tele2)"
+    ],
+    "22809": [
+      "Switzerland",
+      "Comfone AG"
+    ],
+    "22812": [
+      "Switzerland",
+      "TDC Sunrise"
+    ],
+    "22850": [
+      "Switzerland",
+      "3G Mobile AG"
+    ],
+    "22851": [
+      "Switzerland",
+      "BebbiCell AG"
+    ],
+    "22852": [
+      "Switzerland",
+      "Mundio Mobile (MVNO under Orange)"
+    ],
+    "22853": [
+      "Switzerland",
+      "upc cablecom GmbH"
+    ],
+    "22854": [
+      "Switzerland",
+      "Lycamobile AG (MNVO under Orange)"
+    ],
+    "22856": [
+      "Switzerland",
+      "SMSRelay AG"
+    ],
+    "23001": [
+      "Czech Republic",
+      "T-Mobile / RadioMobil"
+    ],
+    "23002": [
+      "Czech Republic",
+      "O2"
+    ],
+    "23003": [
+      "Czech Republic",
+      "Vodafone (formerly Oskar Mobil (formlerly Cesky))"
+    ],
+    "23004": [
+      "Czech Republic",
+      "Ufone"
+    ],
+    "23005": [
+      "Czech Republic",
+      "Travel Telekommunikation s.r.o."
+    ],
+    "23007": [
+      "Czech Republic",
+      "Astelnet"
+    ],
+    "23008": [
+      "Czech Republic",
+      "Compatel s.r.o."
+    ],
+    "23098": [
+      "Czech Republic",
+      "Spr\u00e1va \u009eelezni?n\u00ed dopravn\u00ed cesty (Railway)"
+    ],
+    "23099": [
+      "Czech Republic",
+      "Vodafone"
+    ],
+    "23101": [
+      "Slovakia",
+      "Orange"
+    ],
+    "23102": [
+      "Slovakia",
+      "Slovak Telekom (T-Mobile)"
+    ],
+    "23104": [
+      "Slovakia",
+      "Slovak Telekom (T-Mobile)"
+    ],
+    "23105": [
+      "Slovakia",
+      "Orange"
+    ],
+    "23106": [
+      "Slovakia",
+      "O2"
+    ],
+    "23115": [
+      "Slovakia",
+      "Orange"
+    ],
+    "23199": [
+      "Slovakia",
+      "Zeleznice Slovenskej republiky (ZSR)"
+    ],
+    "23200": [
+      "Austria",
+      "Fix Line"
+    ],
+    "23201": [
+      "Austria",
+      "A1 MobilKom"
+    ],
+    "23202": [
+      "Austria",
+      "A1 MobilKom"
+    ],
+    "23203": [
+      "Austria",
+      "T-Mobile"
+    ],
+    "23204": [
+      "Austria",
+      "T-Mobile"
+    ],
+    "23205": [
+      "Austria",
+      "Orange/One Connect (Drei/Three)"
+    ],
+    "23206": [
+      "Austria",
+      "Orange/One Connect"
+    ],
+    "23207": [
+      "Austria",
+      "T-Mobile/Telering"
+    ],
+    "23208": [
+      "Austria",
+      "Telefonica"
+    ],
+    "23209": [
+      "Austria",
+      "A1 MobilKom"
+    ],
+    "23210": [
+      "Austria",
+      "H3G"
+    ],
+    "23211": [
+      "Austria",
+      "A1 MobilKom"
+    ],
+    "23212": [
+      "Austria",
+      "yesss! (Orange/One Connect)"
+    ],
+    "23214": [
+      "Austria",
+      "H3G"
+    ],
+    "23215": [
+      "Austria",
+      "T-Mobile/Telering"
+    ],
+    "23216": [
+      "Austria",
+      "H3G"
+    ],
+    "23400": [
+      "United Kingdom",
+      "BT group"
+    ],
+    "23401": [
+      "United Kingdom",
+      "Vectone by Mundio Mobile (MNVO under EE, formerly Orange/T-Mobile) (formerly Mapesbury C. Ltd)"
+    ],
+    "23402": [
+      "United Kingdom",
+      "O2 (Telefonica)"
+    ],
+    "23403": [
+      "United Kingdom",
+      "Jersey Airtel/Vodafone"
+    ],
+    "23404": [
+      "United Kingdom",
+      "FMS Solutions"
+    ],
+    "23405": [
+      "United Kingdom",
+      "COLT Mobile Telecommunications Limited"
+    ],
+    "23406": [
+      "United Kingdom",
+      "Internet Computer Bureau Ltd"
+    ],
+    "23407": [
+      "United Kingdom",
+      "Vodafone (Cable and Wireless)"
+    ],
+    "23408": [
+      "United Kingdom",
+      "BT OnePhone"
+    ],
+    "23409": [
+      "United Kingdom",
+      "Tismi"
+    ],
+    "23410": [
+      "United Kingdom",
+      "O2 (Telefonica)"
+    ],
+    "23411": [
+      "United Kingdom",
+      "O2 (Telefonica)"
+    ],
+    "23412": [
+      "United Kingdom",
+      "Railtrack Plc (Network Rail Infrastructure Ltd)"
+    ],
+    "23413": [
+      "United Kingdom",
+      "Railtrack Plc (Network Rail Infrastructure Ltd)"
+    ],
+    "23414": [
+      "United Kingdom",
+      "HaySystems"
+    ],
+    "23415": [
+      "United Kingdom",
+      "Vodafone"
+    ],
+    "23416": [
+      "United Kingdom",
+      "Talk Talk (formerly Opal Telecom) (Vodafone)"
+    ],
+    "23417": [
+      "United Kingdom",
+      "FlexTel"
+    ],
+    "23418": [
+      "United Kingdom",
+      "Cloud9/wire9 Tel."
+    ],
+    "23419": [
+      "United Kingdom",
+      "PMN/Teleware"
+    ],
+    "23420": [
+      "United Kingdom",
+      "Hutchinson 3G"
+    ],
+    "23421": [
+      "United Kingdom",
+      "LogicStar Ltd"
+    ],
+    "23422": [
+      "United Kingdom",
+      "Routotelecom / Telesign Mobile Ltd"
+    ],
+    "23423": [
+      "United Kingdom",
+      "Vectofone Mobile Wifi / Icron Network Ltd"
+    ],
+    "23424": [
+      "United Kingdom",
+      "Stour Marine"
+    ],
+    "23425": [
+      "United Kingdom",
+      "Truphone (MNVO under Vodafone)"
+    ],
+    "23426": [
+      "United Kingdom",
+      "Lycamobile (through O2)"
+    ],
+    "23427": [
+      "United Kingdom",
+      "Vodafone (Taleena)"
+    ],
+    "23428": [
+      "United Kingdom",
+      "Marthon Telecom"
+    ],
+    "23429": [
+      "United Kingdom",
+      "AQL / AQ"
+    ],
+    "23430": [
+      "United Kingdom",
+      "EE (Everything Everywhere) / T-Mobile"
+    ],
+    "23431": [
+      "United Kingdom",
+      "EE (Everything Everywhere) / T-Mobile"
+    ],
+    "23432": [
+      "United Kingdom",
+      "EE (Everything Everywhere) / T-Mobile"
+    ],
+    "23433": [
+      "United Kingdom",
+      "EE (Everything Everywhere) / Orange"
+    ],
+    "23434": [
+      "United Kingdom",
+      "EE (Everything Everywhere) / Orange"
+    ],
+    "23435": [
+      "United Kingdom",
+      "JSC Ingenicum"
+    ],
+    "23436": [
+      "United Kingdom",
+      "Sure Isle of Man (C&W)"
+    ],
+    "23437": [
+      "United Kingdom",
+      "Synectiv Ltd."
+    ],
+    "23438": [
+      "United Kingdom",
+      "EE (Everything Everywhere) / Virgin"
+    ],
+    "23439": [
+      "United Kingdom",
+      "SSE Energy Supply Limited / Gamma telecom Holdings Ltd"
+    ],
+    "23450": [
+      "United Kingdom",
+      "Jersey Telecom"
+    ],
+    "23451": [
+      "United Kingdom",
+      "UK Broadband Ltd"
+    ],
+    "23452": [
+      "United Kingdom",
+      "Shyham Telecom"
+    ],
+    "23453": [
+      "United Kingdom",
+      "Limitless Mobile Ltd"
+    ],
+    "23454": [
+      "United Kingdom",
+      "The Carphone Warehouse Ltd."
+    ],
+    "23455": [
+      "United Kingdom",
+      "Sure (Guernsey Telecoms)"
+    ],
+    "23456": [
+      "United Kingdom",
+      "CESG"
+    ],
+    "23458": [
+      "United Kingdom",
+      "Manx Telecom"
+    ],
+    "23475": [
+      "United Kingdom",
+      "Inquam Telecom Ltd"
+    ],
+    "23476": [
+      "United Kingdom",
+      "O2 (formerly BT Group)"
+    ],
+    "23477": [
+      "United Kingdom",
+      "BT Group"
+    ],
+    "23478": [
+      "United Kingdom",
+      "Airwave Solutions"
+    ],
+    "23486": [
+      "United Kingdom",
+      "EE (Everything Everywhere)"
+    ],
+    "23494": [
+      "United Kingdom",
+      "Hutchinson 3G"
+    ],
+    "23499": [
+      "United Kingdom",
+      "Lycamobile (through O2)"
+    ],
+    "23500": [
+      "United Kingdom",
+      "Mundio Mobile"
+    ],
+    "23501": [
+      "United Kingdom",
+      "EE (Everything Everywhere)"
+    ],
+    "23502": [
+      "United Kingdom",
+      "EE (Everything Everywhere)"
+    ],
+    "23503": [
+      "United Kingdom",
+      "UK Broadband Ltd"
+    ],
+    "23577": [
+      "United Kingdom",
+      "O2 (formlery BT Group)"
+    ],
+    "23591": [
+      "United Kingdom",
+      "Vodafone"
+    ],
+    "23592": [
+      "United Kingdom",
+      "Vodafone (Cable & Wireless)"
+    ],
+    "23594": [
+      "United Kingdom",
+      "Hutchinson 3G"
+    ],
+    "23595": [
+      "United Kingdom",
+      "Network Rail Infrastucture Ltd"
+    ],
+    "23801": [
+      "Denmark",
+      "TDC Denmark"
+    ],
+    "23802": [
+      "Denmark",
+      "Telenor (former Sonofon)"
+    ],
+    "23803": [
+      "Denmark",
+      "Mach Connectivity ApS"
+    ],
+    "23804": [
+      "Denmark",
+      "NextGen Mobile Ltd (CardBoardFish)"
+    ],
+    "23806": [
+      "Denmark",
+      "Hi3G"
+    ],
+    "23807": [
+      "Denmark",
+      "Barablu Denmark"
+    ],
+    "23808": [
+      "Denmark",
+      "Nordisk Mobiltelefon Danmark A/S"
+    ],
+    "23810": [
+      "Denmark",
+      "TDC Denmark"
+    ],
+    "23812": [
+      "Denmark",
+      "Lycamobile Ltd"
+    ],
+    "23813": [
+      "Denmark",
+      "Compatel Limited"
+    ],
+    "23815": [
+      "Denmark",
+      "Ice Darmark ApS"
+    ],
+    "23820": [
+      "Denmark",
+      "Telia"
+    ],
+    "23823": [
+      "Denmark",
+      "Banedanmark"
+    ],
+    "23828": [
+      "Denmark",
+      "CoolTEL ApS"
+    ],
+    "23830": [
+      "Denmark",
+      "Telia"
+    ],
+    "23843": [
+      "Denmark",
+      "MobiWeb Limited"
+    ],
+    "23866": [
+      "Denmark",
+      "TT-Netvaerket P/S"
+    ],
+    "23877": [
+      "Denmark",
+      "Telenor (former Tele2)"
+    ],
+    "24000": [
+      "Sweden",
+      "Compatel / EUTel"
+    ],
+    "24001": [
+      "Sweden",
+      "Telia Mobile"
+    ],
+    "24002": [
+      "Sweden",
+      "H3G Access AB"
+    ],
+    "24003": [
+      "Sweden",
+      "Orange"
+    ],
+    "24004": [
+      "Sweden",
+      "H3G Access AB and Telenor (aquired Vodafone)"
+    ],
+    "24005": [
+      "Sweden",
+      "Sweden 3G (Tele2 Sverige AB & Telia Mobile)"
+    ],
+    "24006": [
+      "Sweden",
+      "Telenor (Vodafone)"
+    ],
+    "24007": [
+      "Sweden",
+      "Tele2 Sverige AB"
+    ],
+    "24008": [
+      "Sweden",
+      "Telenor (Vodafone) / Timepiece Servicos De Consultoria LDA (Universal Telecom)"
+    ],
+    "24009": [
+      "Sweden",
+      "Telenor Mobile Sverige AS"
+    ],
+    "24010": [
+      "Sweden",
+      "Spring Mobil AB"
+    ],
+    "24011": [
+      "Sweden",
+      "Lindholmen Science Park AB"
+    ],
+    "24012": [
+      "Sweden",
+      "Lycamobile Ltd"
+    ],
+    "24013": [
+      "Sweden",
+      "Ventelo Sverige AB"
+    ],
+    "24014": [
+      "Sweden",
+      "TDC Sverige AB"
+    ],
+    "24015": [
+      "Sweden",
+      "Wireless Maingate Nordic AB"
+    ],
+    "24016": [
+      "Sweden",
+      "42 Telecom AB"
+    ],
+    "24017": [
+      "Sweden",
+      "Gotalandsnatet AB"
+    ],
+    "24018": [
+      "Sweden",
+      "Generic Mobile Systems Sweden AB"
+    ],
+    "24019": [
+      "Sweden",
+      "Vectone Mobile (Delight Mobile / Mundio Mobile, MVNO under Telia)"
+    ],
+    "24020": [
+      "Sweden",
+      "Wireless Maingate AB"
+    ],
+    "24021": [
+      "Sweden",
+      "Trafikverket ICT"
+    ],
+    "24022": [
+      "Sweden",
+      "Eu Tel AB"
+    ],
+    "24023": [
+      "Sweden",
+      "Infobip Ltd."
+    ],
+    "24024": [
+      [
+        "Sweden",
+        "Tele2 Sverige AB"
+      ],
+      [
+        "Sweden",
+        "Telenor (Vodafone)"
+      ]
+    ],
+    "24025": [
+      "Sweden",
+      "Digitel Mobile Srl"
+    ],
+    "24026": [
+      "Sweden",
+      "Beepsend"
+    ],
+    "24027": [
+      "Sweden",
+      "Fogg Mobile AB"
+    ],
+    "24028": [
+      "Sweden",
+      "CoolTEL Aps"
+    ],
+    "24029": [
+      "Sweden",
+      "Mercury International Carrier Services"
+    ],
+    "24030": [
+      "Sweden",
+      "NextGen Mobile Ltd"
+    ],
+    "24032": [
+      "Sweden",
+      "Compatel Ltd."
+    ],
+    "24033": [
+      "Sweden",
+      "Mobile Arts AB"
+    ],
+    "24034": [
+      "Sweden",
+      "Pro Net Telecommunications Services Ltd."
+    ],
+    "24035": [
+      "Sweden",
+      "42 Telecom AB"
+    ],
+    "24036": [
+      "Sweden",
+      "ID Mobile"
+    ],
+    "24037": [
+      "Sweden",
+      "Jupiter Networks TXT"
+    ],
+    "24038": [
+      "Sweden",
+      "Voxbone SA"
+    ],
+    "24039": [
+      "Sweden",
+      "Borderlight AB"
+    ],
+    "24040": [
+      "Sweden",
+      "ReWiCom Scandinavia AB"
+    ],
+    "24041": [
+      "Sweden",
+      "Shyam Telecom UK Ltd"
+    ],
+    "24042": [
+      "Sweden",
+      "Telenor Connexion AB"
+    ],
+    "24043": [
+      "Sweden",
+      "MobiWeb Ltd."
+    ],
+    "24044": [
+      "Sweden",
+      "Limitless Mobile AB"
+    ],
+    "24045": [
+      "Sweden",
+      "Spirius AB"
+    ],
+    "24065": [
+      "Sweden",
+      "shared use for closed networks"
+    ],
+    "24066": [
+      "Sweden",
+      "shared use for closed networks"
+    ],
+    "24067": [
+      "Sweden",
+      "shared use for test purpose"
+    ],
+    "24068": [
+      "Sweden",
+      "shared use for test purpose"
+    ],
+    "24069": [
+      "Sweden",
+      "crisis management after determination by the Swedish Post- and Telecom Authority"
+    ],
+    "24201": [
+      "Norway",
+      "Telenor"
+    ],
+    "24202": [
+      "Norway",
+      "Netcom"
+    ],
+    "24203": [
+      "Norway",
+      "Teletopia"
+    ],
+    "24204": [
+      "Norway",
+      "Tele2"
+    ],
+    "24205": [
+      "Norway",
+      "Network Norway AS"
+    ],
+    "24206": [
+      "Norway",
+      "Ice / Nordisk Mobiltelefon"
+    ],
+    "24207": [
+      "Norway",
+      "Ventelo AS"
+    ],
+    "24208": [
+      "Norway",
+      "TDC Mobil A/S"
+    ],
+    "24209": [
+      "Norway",
+      "Com4 AS"
+    ],
+    "24212": [
+      "Norway",
+      "Telenor"
+    ],
+    "24220": [
+      "Norway",
+      "Jernbaneverket (GSM-R)"
+    ],
+    "24221": [
+      "Norway",
+      "Jernbaneverket (GSM-R)"
+    ],
+    "24222": [
+      "Norway",
+      "Network Norway AS"
+    ],
+    "24223": [
+      "Norway",
+      "Lycamobile (MVNO under Netcom / TeliaSonera)"
+    ],
+    "24224": [
+      "Norway",
+      "Mobile Norway AS"
+    ],
+    "24403": [
+      "Finland",
+      "DNA/Finnet"
+    ],
+    "24404": [
+      "Finland",
+      "DNA/Finnet"
+    ],
+    "24405": [
+      "Finland",
+      "Elisa/Saunalahti"
+    ],
+    "24409": [
+      "Finland",
+      "Nokia Oyj"
+    ],
+    "24410": [
+      "Finland",
+      "TDC Oy Finland"
+    ],
+    "24411": [
+      "Finland",
+      "Mundio Mobile (Finland) Ltd"
+    ],
+    "24412": [
+      "Finland",
+      "DNA/Finnet"
+    ],
+    "24413": [
+      "Finland",
+      "DNA/Finnet"
+    ],
+    "24414": [
+      "Finland",
+      "Alands"
+    ],
+    "24415": [
+      "Finland",
+      "Samk Student Test Network"
+    ],
+    "24416": [
+      "Finland",
+      "Oy Finland Tele2 AB"
+    ],
+    "24421": [
+      "Finland",
+      "Elisa/Saunalahti"
+    ],
+    "24426": [
+      "Finland",
+      "Compatel Ltd"
+    ],
+    "24429": [
+      "Finland",
+      "SCNL TRUPHONE"
+    ],
+    "24430": [
+      "Finland",
+      "Vectone Mobile/ Mundio Mobile"
+    ],
+    "24431": [
+      "Finland",
+      "Ukko Mobile"
+    ],
+    "24432": [
+      "Finland",
+      "Voxbone SA"
+    ],
+    "24482": [
+      "Finland",
+      "ID-Mobile"
+    ],
+    "24491": [
+      "Finland",
+      "TeliaSonera"
+    ],
+    "24601": [
+      "Lithuania",
+      "Omnitel"
+    ],
+    "24602": [
+      "Lithuania",
+      "Bite"
+    ],
+    "24603": [
+      "Lithuania",
+      "Tele2"
+    ],
+    "24701": [
+      "Latvia",
+      "Latvian Mobile Phone"
+    ],
+    "24702": [
+      "Latvia",
+      "Tele2"
+    ],
+    "24703": [
+      "Latvia",
+      "TRIATEL/Telekom Baltija"
+    ],
+    "24704": [
+      "Latvia",
+      "Beta Telecom"
+    ],
+    "24705": [
+      "Latvia",
+      "Bite Latvija"
+    ],
+    "24706": [
+      "Latvia",
+      "SIA Rigatta"
+    ],
+    "24707": [
+      "Latvia",
+      "SIA Master Telecom / Bite / MTS"
+    ],
+    "24708": [
+      "Latvia",
+      "SIA IZZI"
+    ],
+    "24709": [
+      "Latvia",
+      "SIA Camel Mobile"
+    ],
+    "24801": [
+      "Estonia",
+      "AS Easti Telekom EMT GSM"
+    ],
+    "24802": [
+      "Estonia",
+      "Elisa / Radiolinja Eesti (RLE)"
+    ],
+    "24803": [
+      "Estonia",
+      "Tele2 Eesti AS"
+    ],
+    "24804": [
+      "Estonia",
+      "Top Connect OU (OY Top Connect)"
+    ],
+    "24805": [
+      "Estonia",
+      "AS Bravocom Mobiil"
+    ],
+    "24806": [
+      "Estonia",
+      "ProGroup Holding OY"
+    ],
+    "24807": [
+      "Estonia",
+      "Telev\u00f5rgu AS"
+    ],
+    "24808": [
+      "Estonia",
+      "Vivex O\u00dc"
+    ],
+    "24809": [
+      "Estonia",
+      "Bravo Telecom O\u00dc"
+    ],
+    "25001": [
+      "Russia",
+      "MTS (Mobile Telesystems)"
+    ],
+    "25002": [
+      "Russia",
+      "Megafon"
+    ],
+    "25003": [
+      "Russia",
+      "NCC (Nizhegorodskaya Cellular Communications"
+    ],
+    "25004": [
+      "Russia",
+      "Sibchallenge"
+    ],
+    "25005": [
+      "Russia",
+      "Yenisey Telecom (Mobile Comms System)"
+    ],
+    "25006": [
+      "Russia",
+      "Moscow Cellular Comm (Skylink)"
+    ],
+    "25007": [
+      "Russia",
+      "ZAO SMARTS (BM Telecom)"
+    ],
+    "25008": [
+      "Russia",
+      "Personnal Communicational"
+    ],
+    "25009": [
+      "Russia",
+      "Siberian Cellular Systems"
+    ],
+    "25010": [
+      "Russia",
+      "DTC/Don Telecom"
+    ],
+    "25011": [
+      "Russia",
+      "Orensot"
+    ],
+    "25012": [
+      "Russia",
+      "Baykal Westcom"
+    ],
+    "25013": [
+      "Russia",
+      "Kuban GSM"
+    ],
+    "25014": [
+      "Russia",
+      "Megafon"
+    ],
+    "25015": [
+      "Russia",
+      "ZAO SMARTS"
+    ],
+    "25016": [
+      "Russia",
+      "NTC (New Telephone Company)"
+    ],
+    "25017": [
+      "Russia",
+      "JSC/UralTel/U-Tel/Ermak RMS"
+    ],
+    "25019": [
+      "Russia",
+      "Tele2 (INDIGO / OJSC Altaysvyaz / Volgograd Mobile)"
+    ],
+    "25020": [
+      [
+        "Russia",
+        "JSC Rostov Cellular Communications"
+      ],
+      [
+        "Russia",
+        "LLC Personal Communication Systems in the Region"
+      ],
+      [
+        "Russia",
+        "Tele2/ECC/Volgogr."
+      ]
+    ],
+    "25022": [
+      "Russia",
+      "Megafon (JT)"
+    ],
+    "25023": [
+      "Russia",
+      "Mobicon-Nosibirsk"
+    ],
+    "25028": [
+      "Russia",
+      "Bee Line GSM / Extel"
+    ],
+    "25035": [
+      "Russia",
+      "Motiv LLC Ekaterinburg-2000"
+    ],
+    "25038": [
+      "Russia",
+      "Tambov GSM"
+    ],
+    "25039": [
+      "Russia",
+      "UralTel/U-Tel/Ermak RMS"
+    ],
+    "25044": [
+      "Russia",
+      "StavTelesot / Stuvtelesot"
+    ],
+    "25050": [
+      "Russia",
+      "MTS / Bezlimitno.ru"
+    ],
+    "25092": [
+      "Russia",
+      "Printelefone"
+    ],
+    "25093": [
+      "Russia",
+      "Telecom XXI"
+    ],
+    "25098": [
+      "Russia",
+      "Baykal Westcom"
+    ],
+    "25099": [
+      "Russia",
+      "Beeline / OJSC Vimpel-Communications (VimpelCom)"
+    ],
+    "25501": [
+      "Ukraine",
+      "UMC/MTS"
+    ],
+    "25502": [
+      "Ukraine",
+      "Beeline"
+    ],
+    "25503": [
+      "Ukraine",
+      "KyivStar"
+    ],
+    "25504": [
+      "Ukraine",
+      "Intertelecom Ltd (IT)"
+    ],
+    "25505": [
+      "Ukraine",
+      "Golden Telecom"
+    ],
+    "25506": [
+      "Ukraine",
+      "Astelit/LIFE :)"
+    ],
+    "25507": [
+      "Ukraine",
+      "TriMob LLC (3Mob) (formerly Utel)"
+    ],
+    "25521": [
+      "Ukraine",
+      "PEOPLEnet / Telesystems Of Ukraine CJSC (TSU)"
+    ],
+    "25523": [
+      "Ukraine",
+      "CDMA Ukraine / Intertelecom"
+    ],
+    "25539": [
+      "Ukraine",
+      "Golden Telecom"
+    ],
+    "25550": [
+      "Ukraine",
+      "UMC/MTS"
+    ],
+    "25567": [
+      "Ukraine",
+      "KyivStar"
+    ],
+    "25568": [
+      "Ukraine",
+      "Beeline"
+    ],
+    "25701": [
+      "Belarus",
+      "Velcom (Mobile Digital Communications)"
+    ],
+    "25702": [
+      "Belarus",
+      "MTS"
+    ],
+    "25703": [
+      "Belarus",
+      "BelCel JV"
+    ],
+    "25704": [
+      "Belarus",
+      "\"Life :)\" (Formlery BeST)"
+    ],
+    "25705": [
+      "Belarus",
+      "Republican Unitary Telecommunication Enterprise (RUE) Beltelecom (National Telecommunications Operator of the Republic of Belarus)"
+    ],
+    "25706": [
+      "Belarus",
+      "Belorussian Cloud Technologies"
+    ],
+    "257501": [
+      "Belarus",
+      "BelJel JV"
+    ],
+    "25901": [
+      "Moldova",
+      "Orange/Voxtel"
+    ],
+    "25902": [
+      "Moldova",
+      "Moldcell"
+    ],
+    "25903": [
+      "Moldova",
+      "IDC/Unite"
+    ],
+    "25904": [
+      "Moldova",
+      "Eventis Mobile"
+    ],
+    "25905": [
+      "Moldova",
+      "IDC/Unite"
+    ],
+    "25999": [
+      "Moldova",
+      "IDC/Unite"
+    ],
+    "26001": [
+      "Poland",
+      "Polkomtel/Plus"
+    ],
+    "26002": [
+      "Poland",
+      "T-Mobile/ERA"
+    ],
+    "26003": [
+      "Poland",
+      "Orange/IDEA/Centertel"
+    ],
+    "26004": [
+      "Poland",
+      "Tele2"
+    ],
+    "26005": [
+      "Poland",
+      "Orange/IDEA/Centertel"
+    ],
+    "26006": [
+      "Poland",
+      "Play/P4"
+    ],
+    "26007": [
+      "Poland",
+      "Play/P4"
+    ],
+    "26008": [
+      "Poland",
+      "e-Telko"
+    ],
+    "26009": [
+      "Poland",
+      "Lycamobile (MVNO under Polkomtel)"
+    ],
+    "26010": [
+      "Poland",
+      "Sferia"
+    ],
+    "26011": [
+      "Poland",
+      "NORDISK Polska"
+    ],
+    "26012": [
+      "Poland",
+      "Cyfrowy POLSAT S.A."
+    ],
+    "26013": [
+      "Poland",
+      "Sferia"
+    ],
+    "26014": [
+      "Poland",
+      "Sferia"
+    ],
+    "26015": [
+      "Poland",
+      "CenterNet (MVNO)"
+    ],
+    "26016": [
+      "Poland",
+      "Mobyland"
+    ],
+    "26017": [
+      "Poland",
+      "Aero2 SP."
+    ],
+    "26018": [
+      "Poland",
+      "AMD Telecom."
+    ],
+    "26019": [
+      "Poland",
+      "Teleena / Teleena Holding BV"
+    ],
+    "26020": [
+      "Poland",
+      "Mobile.Net / Mobile.Net Sp. z o.o."
+    ],
+    "26021": [
+      "Poland",
+      "Exteri / Exteri Sp. z o.o."
+    ],
+    "26022": [
+      "Poland",
+      "Arcomm / Arcomm Sp. z o.o."
+    ],
+    "26023": [
+      "Poland",
+      "Amicomm / Amicomm Sp. z o.o."
+    ],
+    "26024": [
+      "Poland",
+      "WideNet / WideNet Sp. z o.o."
+    ],
+    "26025": [
+      "Poland",
+      "BS&T / Best Solutions & Technology Sp. z o.o."
+    ],
+    "26026": [
+      "Poland",
+      "ATE / ATE-Advanced Technology & Experience Sp. z o.o."
+    ],
+    "26027": [
+      "Poland",
+      "Intertelcom / Intertelcom Sp. z o.o."
+    ],
+    "26028": [
+      "Poland",
+      "PhoneNet / PhoneNet Sp. z o.o."
+    ],
+    "26029": [
+      "Poland",
+      "Interfonica / Interfonica Sp. z o.o."
+    ],
+    "26030": [
+      "Poland",
+      "GrandTel / GrandTel Sp. z o.o."
+    ],
+    "26031": [
+      "Poland",
+      "Phone IT / Phone IT Sp. z o.o."
+    ],
+    "26032": [
+      "Poland",
+      "Compatel Ltd / COMPATEL LIMITED"
+    ],
+    "26033": [
+      "Poland",
+      "Truphone Poland / Truphone Poland Sp. Z o.o."
+    ],
+    "26034": [
+      "Poland",
+      "T-Mobile/ERA"
+    ],
+    "26035": [
+      "Poland",
+      "PKP Polskie Linie Kolejowe S.A."
+    ],
+    "26036": [
+      "Poland",
+      "Mundio Mobile Sp. z o.o."
+    ],
+    "26038": [
+      "Poland",
+      "CallFreedom Sp. z o.o."
+    ],
+    "26098": [
+      "Poland",
+      "Play/P4"
+    ],
+    "26201": [
+      "Germany",
+      "Telekom/T-mobile"
+    ],
+    "26202": [
+      "Germany",
+      "Vodafone D2"
+    ],
+    "26203": [
+      "Germany",
+      "E-Plus"
+    ],
+    "26204": [
+      "Germany",
+      "Vodafone D2"
+    ],
+    "26205": [
+      "Germany",
+      "E-Plus"
+    ],
+    "26206": [
+      "Germany",
+      "Telekom/T-mobile"
+    ],
+    "26207": [
+      "Germany",
+      "O2"
+    ],
+    "26208": [
+      "Germany",
+      "O2"
+    ],
+    "26209": [
+      "Germany",
+      "Vodafone D2"
+    ],
+    "26210": [
+      "Germany",
+      "O2"
+    ],
+    "26211": [
+      "Germany",
+      "O2"
+    ],
+    "26212": [
+      "Germany",
+      "O2"
+    ],
+    "26213": [
+      "Germany",
+      "Mobilcom"
+    ],
+    "26214": [
+      "Germany",
+      "Group 3G UMTS"
+    ],
+    "26216": [
+      "Germany",
+      "Telogic/ViStream"
+    ],
+    "26217": [
+      "Germany",
+      "E-Plus"
+    ],
+    "26220": [
+      "Germany",
+      "OnePhone (E-Plus)"
+    ],
+    "26243": [
+      "Germany",
+      "Lycamobile"
+    ],
+    "26277": [
+      "Germany",
+      "E-Plus"
+    ],
+    "262n/a": [
+      [
+        "Germany",
+        "Debitel"
+      ],
+      [
+        "Germany",
+        "Talkline"
+      ]
+    ],
+    "26601": [
+      "Gibraltar",
+      "Gibtel GSM"
+    ],
+    "26606": [
+      "Gibraltar",
+      "CTS Mobile"
+    ],
+    "26609": [
+      "Gibraltar",
+      "eazi telecom"
+    ],
+    "26801": [
+      "Portugal",
+      "Vodafone"
+    ],
+    "26803": [
+      "Portugal",
+      "Optimus"
+    ],
+    "26804": [
+      "Portugal",
+      "Lycamobile / CTT - Correios de Portugal SA"
+    ],
+    "26806": [
+      "Portugal",
+      "TMN"
+    ],
+    "26807": [
+      "Portugal",
+      "Optimus"
+    ],
+    "26821": [
+      "Portugal",
+      "Zapp Portugal"
+    ],
+    "27001": [
+      "Luxembourg",
+      "P+T LUXGSM"
+    ],
+    "27002": [
+      "Luxembourg",
+      "MTX Connect S.\u00e0 r.l."
+    ],
+    "27010": [
+      "Luxembourg",
+      "Blue Communications"
+    ],
+    "27077": [
+      "Luxembourg",
+      "Millicom Tango GSM"
+    ],
+    "27078": [
+      "Luxembourg",
+      "IDM"
+    ],
+    "27099": [
+      "Luxembourg",
+      "Orange (formerly VOXmobile S.A.)"
+    ],
+    "27201": [
+      "Ireland",
+      "Vodafone Eircell"
+    ],
+    "27202": [
+      "Ireland",
+      "O2/Digifone"
+    ],
+    "27203": [
+      "Ireland",
+      "Meteor Mobile Ltd."
+    ],
+    "27204": [
+      "Ireland",
+      "Access Telecom Ltd."
+    ],
+    "27205": [
+      "Ireland",
+      "H3G"
+    ],
+    "27207": [
+      "Ireland",
+      "Emobile (Eircom Ltd /Meteor)"
+    ],
+    "27209": [
+      "Ireland",
+      "Clever Communications Ltd"
+    ],
+    "27211": [
+      "Ireland",
+      "Tesco Mobile / Liffey Telecom"
+    ],
+    "27213": [
+      "Ireland",
+      "Lycamobile (MVNO of O2)"
+    ],
+    "27401": [
+      "Iceland",
+      "Landssiminn"
+    ],
+    "27402": [
+      "Iceland",
+      "Vodafone/Tal hf (Formerly Islandssimi)"
+    ],
+    "27403": [
+      "Iceland",
+      "Vodafone/Tal hf (Formerly Islandssimi)"
+    ],
+    "27404": [
+      "Iceland",
+      "VIKING/IMC"
+    ],
+    "27405": [
+      "Iceland",
+      "Vodafone/Tal hf (Formerly Islandssimi)"
+    ],
+    "27406": [
+      "Iceland",
+      "Nuii Niu Ehf"
+    ],
+    "27407": [
+      "Iceland",
+      "IceCell"
+    ],
+    "27408": [
+      "Iceland",
+      "Landssiminn"
+    ],
+    "27409": [
+      "Iceland",
+      "Amitelo"
+    ],
+    "27411": [
+      "Iceland",
+      "NOVA"
+    ],
+    "27412": [
+      "Iceland",
+      "Landssiminn"
+    ],
+    "27601": [
+      "Albania",
+      "AMC Mobil"
+    ],
+    "27602": [
+      "Albania",
+      "Vodafone"
+    ],
+    "27603": [
+      "Albania",
+      "Eagle Mobile"
+    ],
+    "27604": [
+      "Albania",
+      "PLUS Communication Sh.a"
+    ],
+    "27801": [
+      "Malta",
+      "Vodafone"
+    ],
+    "27821": [
+      "Malta",
+      "GO/Mobisle"
+    ],
+    "27830": [
+      "Malta",
+      "GO Mobile"
+    ],
+    "27877": [
+      "Malta",
+      "Melita"
+    ],
+    "28001": [
+      "Cyprus",
+      "Vodafone/CyTa"
+    ],
+    "28010": [
+      "Cyprus",
+      "MTN/Areeba"
+    ],
+    "28020": [
+      "Cyprus",
+      "PrimeTel PLC"
+    ],
+    "28022": [
+      "Cyprus",
+      "Lemontel Ltd"
+    ],
+    "28201": [
+      "Georgia",
+      "Geocell Ltd."
+    ],
+    "28202": [
+      "Georgia",
+      "Magti GSM Ltd."
+    ],
+    "28203": [
+      "Georgia",
+      "Iberiatel Ltd. And/or Magticom"
+    ],
+    "28204": [
+      "Georgia",
+      "MobiTel/Beeline"
+    ],
+    "28205": [
+      "Georgia",
+      "Silknet"
+    ],
+    "28206": [
+      "Georgia",
+      "JSC Compatel"
+    ],
+    "28207": [
+      "Georgia",
+      "Globalcell Ltd"
+    ],
+    "28208": [
+      "Georgia",
+      "Silknet"
+    ],
+    "28209": [
+      "Georgia",
+      "Gmobile Ltd"
+    ],
+    "28301": [
+      "Armenia",
+      "Beeline/ArmenTel (Armenia Telephone Company)"
+    ],
+    "28304": [
+      "Armenia",
+      "Karabakh Telecom"
+    ],
+    "28305": [
+      "Armenia",
+      "Vivacell (K Telecom CJSC)"
+    ],
+    "28310": [
+      "Armenia",
+      "Orange"
+    ],
+    "28401": [
+      "Bulgaria",
+      "MobilTel AD"
+    ],
+    "28403": [
+      "Bulgaria",
+      "BTC Mobile EOOD (vivatel)"
+    ],
+    "28405": [
+      "Bulgaria",
+      "Cosmo Mobile EAD/Globul"
+    ],
+    "28406": [
+      "Bulgaria",
+      "BTC Mobile EOOD (vivatel)"
+    ],
+    "28471": [
+      "Estonia",
+      "Siseministeerium (Ministry of Interior)"
+    ],
+    "28601": [
+      "Turkey",
+      "Turkcell"
+    ],
+    "28602": [
+      "Turkey",
+      "Vodafone-Telsim"
+    ],
+    "28603": [
+      "Turkey",
+      "AVEA/Aria/Aycell"
+    ],
+    "28604": [
+      "Turkey",
+      "AVEA/Aria/Aycell"
+    ],
+    "28801": [
+      "Faroe Islands",
+      "Faroese Telecom"
+    ],
+    "28802": [
+      "Faroe Islands",
+      "Kall GSM"
+    ],
+    "28803": [
+      "Faroe Islands",
+      "Edge Mobile Sp/F"
+    ],
+    "28967": [
+      "Abkhazia",
+      "Aquafon"
+    ],
+    "28968": [
+      "Abkhazia",
+      "A-Mobile"
+    ],
+    "28988": [
+      "Abkhazia",
+      "A-Mobile"
+    ],
+    "29001": [
+      "Greenland",
+      "Tele Greenland"
+    ],
+    "29201": [
+      "San Marino",
+      "Prima (San Marino Telecom)"
+    ],
+    "29310": [
+      "Slovenia",
+      "Slovenske zeleznice d.o.o."
+    ],
+    "29340": [
+      "Slovenia",
+      "SI.Mobil"
+    ],
+    "29341": [
+      [
+        "Slovenia",
+        "Dukagjini Telecommunications Sh.P.K."
+      ],
+      [
+        "Slovenia",
+        "Ipko Telecommunications d. o. o."
+      ],
+      [
+        "Slovenia",
+        "Mobitel D. D."
+      ]
+    ],
+    "29364": [
+      "Slovenia",
+      "T-2 d.o.o."
+    ],
+    "29370": [
+      "Slovenia",
+      "TusMobil/VEGA"
+    ],
+    "29401": [
+      "Macedonia",
+      "T-Mobile/Mobimak"
+    ],
+    "29402": [
+      "Macedonia",
+      "One / MTS/Cosmofone"
+    ],
+    "29403": [
+      "Macedonia",
+      "VIP Mobile"
+    ],
+    "29475": [
+      "Macedonia",
+      "One MTS/Cosmofone"
+    ],
+    "29501": [
+      "Liechtenstein",
+      "Swisscom FL AG"
+    ],
+    "29502": [
+      "Liechtenstein",
+      "Orange"
+    ],
+    "29505": [
+      "Liechtenstein",
+      "Mobilkom AG"
+    ],
+    "29506": [
+      "Liechtenstein",
+      "CUBIC (Liechtenstein"
+    ],
+    "29507": [
+      "Liechtenstein",
+      "First Mobile AG"
+    ],
+    "29577": [
+      "Liechtenstein",
+      "Alpmobile/Tele2"
+    ],
+    "29701": [
+      "Montenegro",
+      "Telenor (formerly Promonte GSM)"
+    ],
+    "29702": [
+      "Montenegro",
+      "Monet/T-mobile"
+    ],
+    "29703": [
+      "Montenegro",
+      "Mtel"
+    ],
+    "29704": [
+      "Montenegro",
+      "T-Mobile Montenegro LLC"
+    ],
+    "302220": [
+      "Canada",
+      "Telus Mobility"
+    ],
+    "302221": [
+      "Canada",
+      "Telus Mobility"
+    ],
+    "302222": [
+      "Canada",
+      "Telus Mobility"
+    ],
+    "302250": [
+      "Canada",
+      "ALO Mobile Inc"
+    ],
+    "302270": [
+      "Canada",
+      "Bragg Communications"
+    ],
+    "302290": [
+      "Canada",
+      "Airtel Wireless"
+    ],
+    "302320": [
+      "Canada",
+      "Mobilicity / Dave Wireless"
+    ],
+    "302340": [
+      "Canada",
+      "Execulink"
+    ],
+    "302350": [
+      "Canada",
+      "FIRST Networks Operations"
+    ],
+    "302360": [
+      "Canada",
+      "Telus Mobility (Clearnet)"
+    ],
+    "302370": [
+      "Canada",
+      "FIDO (Rogers AT&T/ Microcell)"
+    ],
+    "302380": [
+      "Canada",
+      "DMTS Mobility  / Dryden Moblility / Keewaytinook Okimakinak"
+    ],
+    "302390": [
+      "Canada",
+      "DMTS Mobility  / Dryden Moblility"
+    ],
+    "302480": [
+      "Canada",
+      "SSi Connexions"
+    ],
+    "302490": [
+      "Canada",
+      "WIND (Globalive Wireless)"
+    ],
+    "302500": [
+      "Canada",
+      "Videotron"
+    ],
+    "302510": [
+      "Canada",
+      "Videotron"
+    ],
+    "302520": [
+      "Canada",
+      "Videotron"
+    ],
+    "302530": [
+      "Canada",
+      "Keewatinook Okimakinak"
+    ],
+    "302560": [
+      "Canada",
+      "Lynx Mobility"
+    ],
+    "302570": [
+      "Canada",
+      "LightSquared"
+    ],
+    "302590": [
+      "Canada",
+      "Quadro Communication"
+    ],
+    "302610": [
+      "Canada",
+      "Bell Mobility"
+    ],
+    "302620": [
+      "Canada",
+      "Ice Wireless"
+    ],
+    "302630": [
+      "Canada",
+      "Bell Aliant"
+    ],
+    "302640": [
+      "Canada",
+      "Bell Mobility / Latitude Wireless"
+    ],
+    "302651": [
+      "Canada",
+      "Bell Mobility"
+    ],
+    "302652": [
+      "Canada",
+      "BC Tel Mobility"
+    ],
+    "302653": [
+      "Canada",
+      "Telus Mobility"
+    ],
+    "302654": [
+      "Canada",
+      "Sask Tel Mobility"
+    ],
+    "302655": [
+      "Canada",
+      "MTS Mobility"
+    ],
+    "302656": [
+      "Canada",
+      "Tbay Mobility"
+    ],
+    "302657": [
+      "Canada",
+      "Quebectel Mobility"
+    ],
+    "302660": [
+      "Canada",
+      "MTS Mobility"
+    ],
+    "302670": [
+      "Canada",
+      "CityWest/CityTel Mobility"
+    ],
+    "302680": [
+      "Canada",
+      "Sask Tel Mobility"
+    ],
+    "302690": [
+      "Canada",
+      "Bell Mobility"
+    ],
+    "302701": [
+      "Canada",
+      "NB Tel Mobility"
+    ],
+    "302702": [
+      "Canada",
+      "MT&T Mobility"
+    ],
+    "302703": [
+      "Canada",
+      "New Tel Mobility"
+    ],
+    "302710": [
+      "Canada",
+      "Globalstar Canada"
+    ],
+    "302720": [
+      "Canada",
+      "Rogers AT&T Wireless"
+    ],
+    "302730": [
+      "Canada",
+      "TerreStar Solutions"
+    ],
+    "302740": [
+      "Canada",
+      "Shaw Telecom"
+    ],
+    "302750": [
+      "Canada",
+      "Sask Tel Mobility"
+    ],
+    "302760": [
+      "Canada",
+      "Public Mobile"
+    ],
+    "302770": [
+      "Canada",
+      "Rural Com"
+    ],
+    "302780": [
+      "Canada",
+      "Sask Tel Mobility"
+    ],
+    "302790": [
+      "Canada",
+      "NetSet Communications"
+    ],
+    "302860": [
+      "Canada",
+      "Telus Mobility"
+    ],
+    "302880": [
+      "Canada",
+      "Telus Communications company (possibly others too)"
+    ],
+    "302940": [
+      "Canada",
+      "Wrightman Telecom"
+    ],
+    "302990": [
+      "Canada",
+      "Test"
+    ],
+    "30801": [
+      "Saint Pierre & Miquelon",
+      "Ameris"
+    ],
+    "310003": [
+      "United States",
+      "Unknown (Verizon Wireless)"
+    ],
+    "310004": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "310010": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "310011": [
+      "United States",
+      "Northstar"
+    ],
+    "310012": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "310013": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "310016": [
+      "United States",
+      "Denali Spectrum License / LCW Wireless Operations / Leap Wireless (Cricket Communications)"
+    ],
+    "310017": [
+      "United States",
+      "North Sight Communications Inc"
+    ],
+    "310020": [
+      "United States",
+      "Union Telephone Co."
+    ],
+    "310030": [
+      "United States",
+      "AT&T Wireless (formerly Centennial Wireless)"
+    ],
+    "310032": [
+      "Guam",
+      "IT&E OverSeas"
+    ],
+    "310033": [
+      "Guam",
+      "Guam Teleph. Auth."
+    ],
+    "310034": [
+      "United States",
+      "Airpeak (formerly Nevada Wireless)"
+    ],
+    "310035": [
+      "United States",
+      "ETEX Communications dba ETEX Wireless"
+    ],
+    "310040": [
+      "United States",
+      "Matanuska Tel. Assn. Inc. (MTA Communications/Wireless)"
+    ],
+    "310050": [
+      "United States",
+      "Alaska Communications"
+    ],
+    "310060": [
+      "United States",
+      "Consolidated Telcom"
+    ],
+    "310070": [
+      "United States",
+      "AT&T Wireless Inc. (formlery Alltel)"
+    ],
+    "310080": [
+      "United States",
+      "Corr Wireless Communications LLC"
+    ],
+    "310090": [
+      "United States",
+      "Edge Wireless LLC / Cricket Communications"
+    ],
+    "310100": [
+      "United States",
+      "Plateau Telecommunications Inc. / New Mexico RSA 4 East Ltd. Partnetship"
+    ],
+    "310110": [
+      "United States",
+      "Pacific Telecom Inc"
+    ],
+    "310120": [
+      "United States",
+      "Sprint Spectrum (Virgin Mobile US) /  Sprintcom"
+    ],
+    "310130": [
+      "United States",
+      "North Carolina RSA 3 Cellular Tel. Co."
+    ],
+    "31014": [
+      "United States",
+      "Testing"
+    ],
+    "310140": [
+      [
+        "Guam",
+        "GTA Wireless"
+      ],
+      [
+        "United States",
+        "GTA Wireless LLC"
+      ]
+    ],
+    "31015": [
+      "United States",
+      "Unknown"
+    ],
+    "310150": [
+      "United States",
+      "AT&T Wireless Inc. / Cingular"
+    ],
+    "310160": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310170": [
+      "United States",
+      "AT&T Wireless Inc. / Cingular"
+    ],
+    "310180": [
+      "United States",
+      "Cingular Wireless (AT&T) / West Central Wireless"
+    ],
+    "310190": [
+      "United States",
+      "Alaska Wireless Communications LLC"
+    ],
+    "310200": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310210": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310220": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310230": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310240": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310250": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310260": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310270": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310280": [
+      "United States",
+      "Contennial Puerto Rio License Corp. / T-Mobile"
+    ],
+    "310290": [
+      "United States",
+      "NEP Cellcorp Inc."
+    ],
+    "310300": [
+      "United States",
+      "T-Mobile / Blanca Telephone Company"
+    ],
+    "310310": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310320": [
+      "United States",
+      "Smith Bagley Inc. / Cellular One"
+    ],
+    "310330": [
+      "United States",
+      "T-Mobile / AWCC"
+    ],
+    "310340": [
+      "United States",
+      "High Plains Midwest LLC, dba Westlink Communications, LLC"
+    ],
+    "310350": [
+      "United States",
+      "Mohave Cellular LP"
+    ],
+    "310360": [
+      "United States",
+      "Cellular Network Partnership LLC"
+    ],
+    "310370": [
+      [
+        "Guam",
+        "Docomo (formerly Guamcell)"
+      ],
+      [
+        "United States",
+        "Docomo Pacific, Inc"
+      ]
+    ],
+    "31038": [
+      "United States",
+      "USA 3650 AT&T"
+    ],
+    "310380": [
+      "United States",
+      "AT&T Wireless Inc. / New Cingular Wireless PCS, LLC"
+    ],
+    "310390": [
+      "United States",
+      "Yorkville Telephone Cooperative / TX-11 Acquisition LLC"
+    ],
+    "310400": [
+      "United States",
+      "Minnesota South. Wirel. Co. / Hickory / Wave Runner LLC"
+    ],
+    "310410": [
+      "United States",
+      "AT&T Wireless Inc. / Cingular Wireless"
+    ],
+    "310420": [
+      "United States",
+      "Cincinnati Bell Wireless LLC"
+    ],
+    "310430": [
+      "United States",
+      "GCI Communication Corp."
+    ],
+    "310440": [
+      "United States",
+      "Dobson Cellular Systems / Numerex Corp"
+    ],
+    "310450": [
+      "United States",
+      "Northeast Colorado Cellular Inc."
+    ],
+    "31046": [
+      "United States",
+      "SIMMETRY"
+    ],
+    "310460": [
+      "United States",
+      "TMP Corporation / Newcore Wireless"
+    ],
+    "310470": [
+      [
+        "Guam",
+        "Docomo (formerly Guamcell (formerly HafaTEL))"
+      ],
+      [
+        "United States",
+        "nTELOS Communications Inc"
+      ]
+    ],
+    "310480": [
+      [
+        "Guam",
+        "Choice Phone LLC"
+      ],
+      [
+        "United States",
+        "Choice Phone LLC"
+      ]
+    ],
+    "310490": [
+      "United States",
+      "T-Mobile (formerly Suncom (formerly Triton PCS))"
+    ],
+    "310500": [
+      "United States",
+      "Verizon / Alltel (formerly Public Service Cellular Inc.)"
+    ],
+    "310510": [
+      "United States",
+      "Airtel Wireless LLC / Nsighttel Wirelss Inc"
+    ],
+    "310520": [
+      "United States",
+      "VeriSign / Transactions Network Services"
+    ],
+    "310530": [
+      "United States",
+      "West Virginia Wireless / Iowa Wireless Services LLC"
+    ],
+    "310540": [
+      "United States",
+      "Oklahoma Western Telephone Company"
+    ],
+    "310550": [
+      "United States",
+      "Wireless Solutions International"
+    ],
+    "310560": [
+      "United States",
+      "AT&T Wireless Inc."
+    ],
+    "310570": [
+      "United States",
+      "MTPCS LLC"
+    ],
+    "310580": [
+      "United States",
+      "T-Mobile (formerly PCS ONE)"
+    ],
+    "31059": [
+      "Bermuda",
+      "CellularOne Bermuda"
+    ],
+    "310590": [
+      "United States",
+      "Verizon Wireless (formerly Alltel)"
+    ],
+    "31060": [
+      "United States",
+      "Consolidated Telcom"
+    ],
+    "310600": [
+      "United States",
+      "New-Cell Inc. dba Cellcom"
+    ],
+    "310610": [
+      "United States",
+      "Elkhart TelCo. / Epic Touch Co."
+    ],
+    "310620": [
+      "United States",
+      "Coleman County Telco / Trans TX / Nsighttel Wireless Inc"
+    ],
+    "310630": [
+      "United States",
+      "CellularOne of Texoma"
+    ],
+    "310640": [
+      "United States",
+      "Airadigm Communications"
+    ],
+    "310650": [
+      "United States",
+      "Jasper"
+    ],
+    "310660": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310670": [
+      "United States",
+      "Northstar / AT&T Moblitiy Vanguagd Services"
+    ],
+    "310680": [
+      "United States",
+      "AT&T Wireless Inc."
+    ],
+    "310690": [
+      "United States",
+      "Keystone Wireless LLC"
+    ],
+    "310700": [
+      "United States",
+      "Cross Valliant Cellular Partnership"
+    ],
+    "310710": [
+      "United States",
+      "Arctic Slope Telephone Association Cooperative Inc."
+    ],
+    "310720": [
+      "United States",
+      "Wireless Solutions International"
+    ],
+    "310730": [
+      "United States",
+      "United States Cellular Corp."
+    ],
+    "310740": [
+      [
+        "United States",
+        "Convey Communications Inc"
+      ],
+      [
+        "United States",
+        "OTZ Cellular"
+      ],
+      [
+        "United States",
+        "Telemetrix Inc."
+      ]
+    ],
+    "310750": [
+      "United States",
+      "East Kentucky Network LLC (Bluegrass Wireless)"
+    ],
+    "310760": [
+      "United States",
+      "Panhandle Telephone Cooperative Inc. / Lynch   3G Communications Co. LP"
+    ],
+    "310770": [
+      "United States",
+      "Iowa Wireless Services LLC"
+    ],
+    "310780": [
+      "United States",
+      "Message Express Co. / Airlink PCS / D. D. Inc"
+    ],
+    "310790": [
+      "United States",
+      "PinPoint Communications Inc"
+    ],
+    "310800": [
+      "United States",
+      "T-Mobile"
+    ],
+    "310810": [
+      "United States",
+      "LCFR LLC"
+    ],
+    "310820": [
+      "United States",
+      "South Canadian Cellular Communications Co. LP"
+    ],
+    "310830": [
+      "United States",
+      "Clearwire Corporation / Caprock Cellular Ltd."
+    ],
+    "310840": [
+      "United States",
+      "Telecom North America Mobile Inc"
+    ],
+    "310850": [
+      "United States",
+      "Aeris Comm. Inc."
+    ],
+    "310860": [
+      "United States",
+      "Texas RSA 15B2 Limited Partnership dba Five Star Wireless"
+    ],
+    "310870": [
+      "United States",
+      "Kaplan Telephone Company Inc."
+    ],
+    "310880": [
+      "United States",
+      "Advantage Cellular Systems"
+    ],
+    "310890": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "310900": [
+      "United States",
+      "Cable & Communications Corp. dba Mid-Rivers Wireless"
+    ],
+    "310910": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "310920": [
+      "United States",
+      "Get Mobile Inc. / James Valley Wireless LLC"
+    ],
+    "310930": [
+      "United States",
+      "Copper Valley Wireless"
+    ],
+    "310940": [
+      "United States",
+      "Poka Lambro Telco Ltd. / IRIS Wireless LLC"
+    ],
+    "310950": [
+      "United States",
+      "Texas RSA 1 dba XIT Wireless"
+    ],
+    "310960": [
+      "United States",
+      "Uintah Basin Electronics Telecommunications Inc."
+    ],
+    "310970": [
+      "United States",
+      "Globalstar USA"
+    ],
+    "310980": [
+      "United States",
+      "AT&T Wireless Inc./ Texas RSA 7B3 dba Peoples Wireless Services"
+    ],
+    "310990": [
+      "United States",
+      "E.N.M.R. Telephone Coop."
+    ],
+    "311000": [
+      "United States",
+      "Mid-Tex Cellular Ltd."
+    ],
+    "311010": [
+      "United States",
+      "Missouri RSA No 5 Partnership / Chariton Valley Communications Corp., Inc."
+    ],
+    "311020": [
+      "United States",
+      "Missouri RSA No 5 Partnership"
+    ],
+    "311030": [
+      [
+        "United States",
+        "Indigo Wireless, Inc."
+      ],
+      [
+        "United States",
+        "Americell PA3 LP"
+      ],
+      [
+        "United States",
+        "Sagir Inc."
+      ]
+    ],
+    "311040": [
+      "United States",
+      "Commnet Wireless"
+    ],
+    "311050": [
+      "United States",
+      "Thumb Cellular Limited Partnership"
+    ],
+    "311060": [
+      "United States",
+      "Farmers Cellular / Space Data Corporation"
+    ],
+    "311070": [
+      "United States",
+      "Wisconsin RSA #7 Limited Partnership"
+    ],
+    "311080": [
+      "United States",
+      "Pine Telephone Company dba Pine Cellular"
+    ],
+    "311090": [
+      "United States",
+      "LongLines Wireless"
+    ],
+    "311100": [
+      "United States",
+      "Nex-Tech Wireless LLC"
+    ],
+    "311110": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311120": [
+      "United States",
+      "Choice Phone LLC"
+    ],
+    "311130": [
+      "United States",
+      "Light Squared LP"
+    ],
+    "311140": [
+      "United States",
+      "Cross Wireless Telephone Co."
+    ],
+    "311150": [
+      "United States",
+      "Wilkes Cellular Inc."
+    ],
+    "311160": [
+      "United States",
+      "Cellular One DCS (Dobson / EMW) / Light Squared LP"
+    ],
+    "311170": [
+      "United States",
+      "PetroCom"
+    ],
+    "311180": [
+      "United States",
+      "Cingular Wireless (AT&T), Licensee Pacific Telesis Mobile Services, LLC"
+    ],
+    "311190": [
+      "United States",
+      "Cellular One of East Central Illinois / Cellular Properties Inc"
+    ],
+    "311200": [
+      "United States",
+      "ARINC"
+    ],
+    "311210": [
+      "United States",
+      "Emery Telecom-Wireless Inc"
+    ],
+    "311220": [
+      "United States",
+      "United States Cellular Corp."
+    ],
+    "311230": [
+      [
+        "United States",
+        "Cellular South Licenses Inc."
+      ],
+      [
+        "United States",
+        "Cellular South Inc"
+      ]
+    ],
+    "311240": [
+      [
+        "United States",
+        "Cordova Wireless Communications Inc"
+      ],
+      [
+        "United States",
+        "Cordova Wireless Communications Inc"
+      ]
+    ],
+    "311250": [
+      [
+        "Guam",
+        "Wave Runner LLC"
+      ],
+      [
+        "United States",
+        "i CAN_GSM / Wave Runner LLC"
+      ]
+    ],
+    "311260": [
+      "United States",
+      "SLO Cellular Inc / Cellular One of San Luis / Clearwire"
+    ],
+    "311270": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311271": [
+      "United States",
+      "Verizon Wireless (alltel)"
+    ],
+    "311272": [
+      "United States",
+      "Verizon Wireless (alltel)"
+    ],
+    "311273": [
+      "United States",
+      "Verizon Wireless (alltel)"
+    ],
+    "311274": [
+      "United States",
+      "Verizon Wireless (alltel)"
+    ],
+    "311275": [
+      "United States",
+      "Verizon Wireless (alltel)"
+    ],
+    "311276": [
+      "United States",
+      "Verizon Wireless (alltel)"
+    ],
+    "311277": [
+      "United States",
+      "Verizon Wireless (alltel)"
+    ],
+    "311278": [
+      "United States",
+      "Verizon Wireless (alltel)"
+    ],
+    "311279": [
+      "United States",
+      "Verizon Wireless (alltel)"
+    ],
+    "311280": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311281": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311282": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311283": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311284": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311285": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311286": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311287": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311288": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311289": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311290": [
+      "United States",
+      "Pinpoint Wireless Inc."
+    ],
+    "311300": [
+      "United States",
+      "Nexus Communications Inc."
+    ],
+    "311310": [
+      "United States",
+      "Lamar County Cellular / Leaco Rural Telephone Company Inc"
+    ],
+    "311311": [
+      "United States",
+      "Farmers"
+    ],
+    "311320": [
+      "United States",
+      "Commnet Wireless LLC"
+    ],
+    "311330": [
+      "United States",
+      "Michigan Wireless LLC / Bug Tussel Wireless LLC"
+    ],
+    "311340": [
+      "United States",
+      "Illinois Valley Cellular RSA 2 Partnership"
+    ],
+    "311350": [
+      "United States",
+      "Sagebrush Cellular Inc. dba Nemont"
+    ],
+    "311360": [
+      "United States",
+      "Stelera Wireless Corp."
+    ],
+    "311370": [
+      "United States",
+      "GCI Communication Corp."
+    ],
+    "311380": [
+      "United States",
+      "New Dimension Wireless Ltd"
+    ],
+    "311390": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311410": [
+      "United States",
+      "Iowa RSA No. 2 Limited Partnership"
+    ],
+    "311420": [
+      "United States",
+      "Northwest Missouri Cellular Limited Partnership"
+    ],
+    "311430": [
+      "United States",
+      "RSA 1 Limited Partnership dba Cellular 29 Plus"
+    ],
+    "311440": [
+      "United States",
+      "Bluegrass Wireless LLC (Cumberland Cellular Partnership, Kentucky RSA)"
+    ],
+    "311450": [
+      "United States",
+      "Panhandle Telecommunication Systems Inc."
+    ],
+    "311460": [
+      "United States",
+      "Fisher Wireless Services Inc."
+    ],
+    "311470": [
+      "United States",
+      "Vitelcom Cellular Inc dba Innovative Wireless"
+    ],
+    "311480": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311481": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311482": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311483": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311484": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311485": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311486": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311487": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311488": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311489": [
+      "United States",
+      "Verizon Wireless"
+    ],
+    "311490": [
+      "United States",
+      "Sprint Spectrum / Sprintcom"
+    ],
+    "311500": [
+      "United States",
+      "Cambridge Telephone Company Inc. / Mosaic Telecom Inc"
+    ],
+    "311510": [
+      "United States",
+      "Light Squared LP"
+    ],
+    "311520": [
+      "United States",
+      "Light Squared LP"
+    ],
+    "311530": [
+      "United States",
+      "New Core Wireless"
+    ],
+    "311540": [
+      "United States",
+      "Poximiti Mobility Inc"
+    ],
+    "311550": [
+      "United States",
+      "OTZ Communications Inc"
+    ],
+    "311560": [
+      "United States",
+      "Bend Cable Communications LLC"
+    ],
+    "311570": [
+      "United States",
+      "United States Cellular"
+    ],
+    "311580": [
+      "United States",
+      "California RSA No3 Ltd Partnership dba Golden State Cellular"
+    ],
+    "311590": [
+      "United States",
+      "California RSA No. 3 Limited Partnership"
+    ],
+    "311600": [
+      "United States",
+      "Cox TMI Wireless LLC"
+    ],
+    "311610": [
+      "United States",
+      "North Dakota Network Company"
+    ],
+    "311620": [
+      "United States",
+      "Terrestar Networks Inc"
+    ],
+    "311630": [
+      "United States",
+      "Corr Wireless Communications"
+    ],
+    "311640": [
+      "United States",
+      "Standing Rock Telecommunications"
+    ],
+    "311650": [
+      "United States",
+      "United Wireless Communications Inc."
+    ],
+    "311660": [
+      "United States",
+      "T-Mobile (Formerly Metro PCS Wireless)"
+    ],
+    "311670": [
+      "United States",
+      "Pine Belt Cellular, Inc. dba Pine Belt Wireless"
+    ],
+    "311680": [
+      "United States",
+      "GreenFly LLC"
+    ],
+    "311690": [
+      "United States",
+      "TeleBeeper of New Mexico Inc"
+    ],
+    "311700": [
+      "United States",
+      "TotalSolutions Telecom LLC"
+    ],
+    "311710": [
+      "United States",
+      "Northeast Wireless Networks LLC"
+    ],
+    "311720": [
+      "United States",
+      "Maine PCS LLC"
+    ],
+    "311730": [
+      "United States",
+      "Proximiti Mobility Inc"
+    ],
+    "311740": [
+      "United States",
+      "Telalaska Cellular"
+    ],
+    "311750": [
+      "United States",
+      "NetAmerica Alliance LLC"
+    ],
+    "311760": [
+      "United States",
+      "Edigen Inc"
+    ],
+    "311770": [
+      "United States",
+      "Radio Mobile Access Inc"
+    ],
+    "311800": [
+      "United States",
+      "Bluegrass Wireless LLC (Cumberland Cellular Partnership, Kentucky RSA)"
+    ],
+    "311810": [
+      "United States",
+      "Bluegrass Wireless LLC (Cumberland Cellular Partnership, Kentucky RSA)"
+    ],
+    "311820": [
+      "United States",
+      "Kineto Wireless Inc"
+    ],
+    "311830": [
+      "United States",
+      "Thumb Cellular Limited Partnership"
+    ],
+    "311840": [
+      "United States",
+      "Nsight Spectrum LLC"
+    ],
+    "311850": [
+      "United States",
+      "Nsight Spectrum LLC"
+    ],
+    "311860": [
+      "United States",
+      "Uintah Basin Electronics Telecommunications Inc."
+    ],
+    "311870": [
+      "United States",
+      "Sprint Spectrum"
+    ],
+    "311880": [
+      "United States",
+      "Sprint Spectrum"
+    ],
+    "311890": [
+      "United States",
+      "Globecom Network Services Corporation"
+    ],
+    "311900": [
+      "United States",
+      "Gigsky inc"
+    ],
+    "311910": [
+      "United States",
+      "SI Wireless LLC"
+    ],
+    "311920": [
+      "United States",
+      "Missouri RSA No 5 Partnership"
+    ],
+    "311940": [
+      "United States",
+      "Clearwire Corporation"
+    ],
+    "311950": [
+      "United States",
+      "Sunman Telecommunications corp."
+    ],
+    "311960": [
+      "United States",
+      "Lycamobile USA Inc"
+    ],
+    "311970": [
+      "United States",
+      "Big River Broadband LLC"
+    ],
+    "311980": [
+      "United States",
+      "LigTel Communications"
+    ],
+    "311990": [
+      "United States",
+      "VTel Wireless"
+    ],
+    "312010": [
+      "United States",
+      "Missouri RSA No 5 Partnership / Charlton Valley Communication Corporation Inc"
+    ],
+    "312020": [
+      "United States",
+      "Infrastructure Networks LLC"
+    ],
+    "312030": [
+      "United States",
+      "Cross Wireless Telephone Co."
+    ],
+    "312040": [
+      "United States",
+      "Custer Telephone Cooperative Inc."
+    ],
+    "312050": [
+      "United States",
+      "Fuego Wireless LLC"
+    ],
+    "312060": [
+      "United States",
+      "CoverageCo"
+    ],
+    "312070": [
+      "United States",
+      "Adams Networks Inc"
+    ],
+    "312080": [
+      "United States",
+      "South Georgia Regional Information Technology Authority"
+    ],
+    "312090": [
+      "United States",
+      "Allied Wireless Communications Corporation"
+    ],
+    "312100": [
+      "United States",
+      "ClearSky Technologies Inc"
+    ],
+    "312110": [
+      "United States",
+      "Texas Energy Network LLC"
+    ],
+    "312120": [
+      "United States",
+      "East Kentucky Network LLC (Bluegrass Wireless / Appalacian Wireless)"
+    ],
+    "312130": [
+      "United States",
+      "East Kentucky Network LLC (Bluegrass Wireless / Appalacian Wireless)"
+    ],
+    "312140": [
+      "United States",
+      "Cleveland Unlimited Inc"
+    ],
+    "312150": [
+      "United States",
+      "Northwest Cell"
+    ],
+    "312160": [
+      "United States",
+      "RSA 1 Limited Partnership"
+    ],
+    "312170": [
+      "United States",
+      "Iowa RSA No. 2 Limited Partnership"
+    ],
+    "312180": [
+      "United States",
+      "Keystone Wireless LLC"
+    ],
+    "312190": [
+      "United States",
+      "Sprint Spectrum / Sprint-Nextel Communications Inc."
+    ],
+    "312200": [
+      "United States",
+      "Voyager Mobility LLC"
+    ],
+    "312220": [
+      "United States",
+      "Missouri RSA No 5 Partnership"
+    ],
+    "312230": [
+      "United States",
+      "North Dakota Network Company"
+    ],
+    "312270": [
+      "United States",
+      "Cellular Network Partnership LLC"
+    ],
+    "312280": [
+      "United States",
+      "Cellular Network Partnership LLC"
+    ],
+    "312290": [
+      "United States",
+      "Uintah Basin Electronics Telecommunications Inc."
+    ],
+    "312380": [
+      "United States",
+      ""
+    ],
+    "313100": [
+      "United States",
+      "Assigned to public safety"
+    ],
+    "316010": [
+      "United States",
+      "Sprint Spectrum / Nextel / NII Holdings"
+    ],
+    "316011": [
+      "United States",
+      "Southern Communications Services Inc."
+    ],
+    "33000": [
+      "Puerto Rico",
+      "Open Mobile"
+    ],
+    "330110": [
+      "Puerto Rico",
+      "Claro / America Movil / Puerto Rico Telephone Company"
+    ],
+    "330120": [
+      "Puerto Rico",
+      "PR Wireless Inc (Open Mobile)"
+    ],
+    "33020": [
+      "Puerto Rico",
+      "Sprint"
+    ],
+    "33030": [
+      "Puerto Rico",
+      "AT&T Mobility"
+    ],
+    "330490": [
+      "Puerto Rico",
+      "T-mobile (Suncom)"
+    ],
+    "33400": [
+      [
+        "Mexico",
+        "Axtel"
+      ],
+      [
+        "Mexico",
+        "SAI PCS"
+      ]
+    ],
+    "334001": [
+      "Mexico",
+      "COMUNICACIONES DIGITALES DEL NORTE, S.A. DE C.V"
+    ],
+    "33401": [
+      "Mexico",
+      "NEXTEL (Nii Holdings)"
+    ],
+    "334010": [
+      "Mexico",
+      "NEXTEL (Nii Holdings)"
+    ],
+    "33402": [
+      "Mexico",
+      "TelCel/America Movil"
+    ],
+    "334020": [
+      "Mexico",
+      "TelCel/America Movil"
+    ],
+    "33403": [
+      "Mexico",
+      "Movistar/Pegaso"
+    ],
+    "334030": [
+      "Mexico",
+      "Movistar - Telefonica Moviles (formerly Pegaso)"
+    ],
+    "33404": [
+      "Mexico",
+      "IUSACell/UneFon"
+    ],
+    "334040": [
+      "Mexico",
+      "IUSACell/UneFon"
+    ],
+    "334050": [
+      "Mexico",
+      "IUSACell/UneFon"
+    ],
+    "334060": [
+      "Mexico",
+      "SAI PCS"
+    ],
+    "334070": [
+      "Mexico",
+      "Operadora Unefon SA de CV"
+    ],
+    "334080": [
+      "Mexico",
+      "Operadora Unefon SA de CV"
+    ],
+    "334090": [
+      "Mexico",
+      "NEXTEL (Nii Holdings)"
+    ],
+    "33450": [
+      "Mexico",
+      "IUSACell/UneFon"
+    ],
+    "338020": [
+      "Jamaica",
+      "LIME / Cable & Wireless"
+    ],
+    "338050": [
+      [
+        "Bermuda",
+        "Digicell Bermuda"
+      ],
+      [
+        "Jamaica",
+        "DIGICEL/Mossel"
+      ]
+    ],
+    "338070": [
+      "Jamaica",
+      "Claro / Oceanic  Digital Jamaica Limited"
+    ],
+    "338110": [
+      "Jamaica",
+      "LIME / Cable & Wireless"
+    ],
+    "338180": [
+      "Jamaica",
+      "LIME / Cable & Wireless"
+    ],
+    "34001": [
+      [
+        "Guadeloupe",
+        "Orange Caribe Mobiles"
+      ],
+      [
+        "Martinique (French Department of)",
+        "Orange Caribe Mobiles"
+      ]
+    ],
+    "34002": [
+      [
+        "Guadeloupe",
+        "Outremer Telecom Guadeloupe (AKA Only)"
+      ],
+      [
+        "Martinique (French Department of)",
+        "Outremer Telecom Martinique (AKA Only)"
+      ]
+    ],
+    "34003": [
+      "Guadeloupe",
+      "Telcel / United Telecommunications Services Caraibe SARL (UTS Caraibe, Guadeloupe Telephone Mobile) / Saint Martin et Saint Barthelemy Telcell Sarl"
+    ],
+    "34008": [
+      "Guadeloupe",
+      "Dauphin Telecom SU (Guadeloupe Telecom) (Guadeloupe"
+    ],
+    "34010": [
+      "Guadeloupe",
+      "Telcel / United Telecommunications Services Caraibe SARL (UTS Caraibe, Guadeloupe Telephone Mobile)"
+    ],
+    "34011": [
+      "French Guiana",
+      "TelCell GSM"
+    ],
+    "34012": [
+      "Martinique (French Department of)",
+      "Telcel / United Telecommunications Services Caraibe SARL (UTS Caraibe, Martinique Telephone Mobile)"
+    ],
+    "34020": [
+      [
+        "Guadeloupe",
+        "Digicel Antilles Francaises Guyane SA / Bouygues Telecom Cara\u00efbe"
+      ],
+      [
+        "Martinique (French Department of)",
+        "DIGICEL Antilles Fran\u00e7aise Guyane SA / Bouygues Telecom Cara\u00efbe"
+      ]
+    ],
+    "342050": [
+      "Barbados",
+      "Digicel"
+    ],
+    "342600": [
+      "Barbados",
+      "LIME (C & W BET Ltd.)"
+    ],
+    "342750": [
+      "Barbados",
+      "Digicel"
+    ],
+    "342810": [
+      "Barbados",
+      "Cingular Wireless (AT&T)"
+    ],
+    "342820": [
+      "Barbados",
+      "Sunbeach"
+    ],
+    "344030": [
+      "Antigua and Barbuda",
+      "APUA PCS  (Antigua Public Utilities Authority) / imobile"
+    ],
+    "344050": [
+      "Antigua and Barbuda",
+      "Digicel"
+    ],
+    "344066": [
+      "Mexico",
+      "TEL\u00c9FONOS DE M\u00c9XICO, S.A.B. DE C.V"
+    ],
+    "344920": [
+      "Antigua and Barbuda",
+      "LIME (C & W)"
+    ],
+    "344930": [
+      "Antigua and Barbuda",
+      "Cing. Wirel./Digicel"
+    ],
+    "346006": [
+      "Cayman Islands",
+      "Digicel Ltd."
+    ],
+    "346050": [
+      "Cayman Islands",
+      "Digicel Cayman Ltd"
+    ],
+    "346140": [
+      "Cayman Islands",
+      "LIME / Cable & Wirel."
+    ],
+    "346380": [
+      "Cayman Islands",
+      "Cingular Wireless (AT&T)"
+    ],
+    "346998": [
+      "Cayman Islands",
+      "Wireless Ventures Cayman Islands"
+    ],
+    "348170": [
+      "British Virgin Islands",
+      "LIME (Cable & Wireless)"
+    ],
+    "348570": [
+      "British Virgin Islands",
+      "Caribbean Cellular / CCT Boatphone"
+    ],
+    "348770": [
+      "British Virgin Islands",
+      "Digicel"
+    ],
+    "35000": [
+      "Bermuda",
+      "CellOne / Bermuda Digital Communications Ltd (BDC)"
+    ],
+    "350000": [
+      "Bermuda",
+      "Bermuda Digital Communications Ltd (CellOne)"
+    ],
+    "35001": [
+      "Bermuda",
+      "Telecommunications (Bermuda & West Indies) Ltd (Digicel Bermuda)"
+    ],
+    "35002": [
+      "Bermuda",
+      "M3 Wireless Ltd (Mobility Ltd)"
+    ],
+    "35003": [
+      "Bermuda",
+      "CellOne Ltd"
+    ],
+    "35010": [
+      "Bermuda",
+      "DigiCel / Cingular"
+    ],
+    "352030": [
+      "Grenada",
+      "Digicel"
+    ],
+    "352050": [
+      "Grenada",
+      "Digicel"
+    ],
+    "352110": [
+      "Grenada",
+      "Cable & Wireless"
+    ],
+    "352130": [
+      "Grenada",
+      "Digicel"
+    ],
+    "354860": [
+      "Montserrat",
+      "Cable & Wireless"
+    ],
+    "356050": [
+      "Saint Kitts and Nevis",
+      "Digicel"
+    ],
+    "356070": [
+      "Saint Kitts and Nevis",
+      "UTS Cariglobe"
+    ],
+    "356110": [
+      "Saint Kitts and Nevis",
+      "Cable & Wireless"
+    ],
+    "358030": [
+      "Saint Lucia",
+      "Cingular Wireless (AT&T)"
+    ],
+    "358050": [
+      "Saint Lucia",
+      "Digicel (St Lucia) Limited"
+    ],
+    "358110": [
+      "Saint Lucia",
+      "Cable & Wireless"
+    ],
+    "360050": [
+      "Saint Vincent & Grenadines",
+      "Digicel"
+    ],
+    "360070": [
+      "Saint Vincent & Grenadines",
+      "Digicel"
+    ],
+    "360100": [
+      "Saint Vincent & Grenadines",
+      "AT&T (formerly Cingular)"
+    ],
+    "360110": [
+      "Saint Vincent & Grenadines",
+      "C & W"
+    ],
+    "36251": [
+      [
+        "Netherlands Antilles",
+        "TELCELL GSM"
+      ],
+      [
+        "Sint Maarten (Netherlands)",
+        "TelCell NV (Sint Maarten"
+      ]
+    ],
+    "362630": [
+      "Netherlands Antilles",
+      "Cingular Wireless (AT&T)"
+    ],
+    "36269": [
+      [
+        "Curacao",
+        "Polycom N.V./ Curacao Telecom d.b.a. Digicel"
+      ],
+      [
+        "Netherlands Antilles",
+        "DigiCell"
+      ]
+    ],
+    "36291": [
+      [
+        "Bonaire, Sint Eustatius and Saba",
+        "United Telecommunications Services NV (UTS) (SETEL)"
+      ],
+      [
+        "Netherlands Antilles",
+        "SETEL GSM"
+      ],
+      [
+        "Sint Maarten (Netherlands)",
+        "UTS St. Maarten (Sint Maarten"
+      ]
+    ],
+    "36295": [
+      "Curacao",
+      "EOCG Wireless NV"
+    ],
+    "362951": [
+      "Netherlands Antilles",
+      "UTS Wireless"
+    ],
+    "36301": [
+      "Aruba",
+      "Setar GSM"
+    ],
+    "36302": [
+      "Aruba",
+      "Digicel"
+    ],
+    "36320": [
+      "Aruba",
+      "Digicel / New Millenium Telecom Services (NMTS)"
+    ],
+    "36430": [
+      "Bahamas",
+      "Bahamas Telco. Comp."
+    ],
+    "36439": [
+      "Bahamas",
+      "Bahamas Telco. Comp."
+    ],
+    "364390": [
+      "Bahamas",
+      "Bahamas Telco. Comp."
+    ],
+    "365010": [
+      "Anguilla",
+      "Digicell / Wireless Vent. Ltd / Weblinks"
+    ],
+    "365050": [
+      "Anguilla",
+      "Digicell"
+    ],
+    "365840": [
+      "Anguilla",
+      "Cable and Wireless"
+    ],
+    "366020": [
+      "Dominica",
+      "Cingular Wireless (AT&T) / Digicel"
+    ],
+    "366050": [
+      "Dominica",
+      "Wireless Ventures (Dominica) Ltd (Digicel Dominica)"
+    ],
+    "366110": [
+      "Dominica",
+      "C & W"
+    ],
+    "366998": [
+      "Dominica",
+      "Orange Dominica"
+    ],
+    "36801": [
+      "Cuba",
+      "C-COM (cubacel) / ETECSA"
+    ],
+    "37001": [
+      "Dominican Republic",
+      "Orange"
+    ],
+    "37002": [
+      "Dominican Republic",
+      "Claro (Compania Dominicana de Telefonos)"
+    ],
+    "37003": [
+      "Dominican Republic",
+      "TRIcom"
+    ],
+    "37004": [
+      "Dominican Republic",
+      "Trilogy Dominicana S. A."
+    ],
+    "37200": [
+      "Haiti",
+      "Haitel"
+    ],
+    "37201": [
+      "Haiti",
+      "Comcel"
+    ],
+    "37202": [
+      "Haiti",
+      "Digicel (Unigestion Holding S.A.)"
+    ],
+    "37203": [
+      "Haiti",
+      "National Telecom SA (NatCom)"
+    ],
+    "37250": [
+      "Haiti",
+      "Digicel"
+    ],
+    "37412": [
+      "Trinidad and Tobago",
+      "TSTT"
+    ],
+    "374129": [
+      "Trinidad and Tobago",
+      "Bmobile/TSTT"
+    ],
+    "374130": [
+      "Trinidad and Tobago",
+      "Digicel"
+    ],
+    "374140": [
+      "Trinidad and Tobago",
+      "LaqTel Ltd."
+    ],
+    "376050": [
+      "Turks and Caicos Islands",
+      "Digicel TCI Ltd"
+    ],
+    "376350": [
+      [
+        "Turks and Caicos Islands",
+        "Cable & Wireless (TCI) Ltd"
+      ],
+      [
+        "United States Virgin Islands",
+        "Cable & Wireless (Turks & Caicos)"
+      ]
+    ],
+    "376352": [
+      [
+        "Turks and Caicos Islands",
+        "IslandCom Communications Ltd."
+      ],
+      [
+        "United States Virgin Islands",
+        "IslandCom"
+      ]
+    ],
+    "376360": [
+      "Turks and Caicos Islands",
+      "IslandCom Communications Ltd."
+    ],
+    "37650": [
+      "United States Virgin Islands",
+      "Digicel"
+    ],
+    "40001": [
+      "Azerbaijan",
+      "Azercell Telekom B.M."
+    ],
+    "40002": [
+      "Azerbaijan",
+      "J.V. Bakcell GSM 2000"
+    ],
+    "40003": [
+      "Azerbaijan",
+      "Caspian American Telecommunications LLC (CATEL)"
+    ],
+    "40004": [
+      "Azerbaijan",
+      "Azerfon."
+    ],
+    "40005": [
+      "Azerbaijan",
+      "Special State Protection Service of the Republic of Azerbaijan"
+    ],
+    "40101": [
+      "Kazakhstan",
+      "Beeline/KaR-Tel LLP"
+    ],
+    "40102": [
+      "Kazakhstan",
+      "K-Cell / GSM Kazakstan"
+    ],
+    "40107": [
+      "Kazakhstan",
+      "Dalacom/Altel"
+    ],
+    "40108": [
+      "Kazakhstan",
+      "Kazakhtelecom"
+    ],
+    "40177": [
+      "Kazakhstan",
+      "NEO/MTS"
+    ],
+    "40211": [
+      "Bhutan",
+      "B-Mobile"
+    ],
+    "40217": [
+      "Bhutan",
+      "Bhutan Telecom Ltd (BTL)"
+    ],
+    "40277": [
+      "Bhutan",
+      "TashiCell"
+    ],
+    "40400": [
+      "India",
+      "Dishnet Wireless Ltd, Madhya Pradesh"
+    ],
+    "40401": [
+      "India",
+      "Aircell Digilink India Ltd., Haryana"
+    ],
+    "40402": [
+      "India",
+      "AirTel (Bharti-Televentures), Punjab"
+    ],
+    "40403": [
+      "India",
+      "AirTel (Bharti-Televentures), Himachal Pradesh"
+    ],
+    "40404": [
+      "India",
+      "Idea Cellular Ltd., Delhi"
+    ],
+    "40405": [
+      "India",
+      "Vodafone (formerly Hutch / Fascel), Gujarat"
+    ],
+    "40406": [
+      "India",
+      "Bharti Airtel Limited, Karnataka"
+    ],
+    "40407": [
+      "India",
+      "Idea Cellular Ltd., Andhra Pradesh"
+    ],
+    "40409": [
+      "India",
+      "Reliance Telecom, Assam"
+    ],
+    "40410": [
+      "India",
+      "Bharti Airtel Limited, Delhi"
+    ],
+    "40411": [
+      "India",
+      "Vodafone (formerly Sterling Cellular Ltd.) / Hutchison Essar Mobile Services Ltd, Delhi"
+    ],
+    "40412": [
+      "India",
+      "Escotel Mobile Communications / Idea Mobile Communications Ltd, Haryana"
+    ],
+    "40413": [
+      "India",
+      "Barakhamba Sales & Serv. / Hutchison Essar South Ltd., Andhra Pradesh"
+    ],
+    "40414": [
+      "India",
+      "Idea (Formerly Spice Telecom/Communications PVT Ltd.), Punjab"
+    ],
+    "40415": [
+      "India",
+      "Aircel Digilink India Ltd., Uttar Predesh East"
+    ],
+    "40416": [
+      "India",
+      "Hexcom India / Bharti Airtel Ltd, North East"
+    ],
+    "40417": [
+      "India",
+      "Aircel / Dishnet Wireless Ltd, West Bengal"
+    ],
+    "40418": [
+      "India",
+      "Reliance Telecom Private, H.P."
+    ],
+    "40419": [
+      "India",
+      "Escotel Mobile Communications / Idea Mobile Communications Ltd., Kerala"
+    ],
+    "40420": [
+      "India",
+      "Vodafone Essar (Ltd) (formerly Hutchison Essar Ltd), Mumbai"
+    ],
+    "40421": [
+      "India",
+      "Loop/Jio (formerly BPL), Mumbai"
+    ],
+    "40422": [
+      "India",
+      "Idea Cellular Ltd., Maharashtra"
+    ],
+    "40423": [
+      "India",
+      "Idea Cellular Ltd., Maharashtra"
+    ],
+    "40424": [
+      "India",
+      "Idea Cellular Ltd., Gujarat"
+    ],
+    "40425": [
+      "India",
+      "Aircel / Dishnet Wireless Ltd, Bihar"
+    ],
+    "40427": [
+      "India",
+      "Vodafone Essar (Hutchison Essar Cellular Ltd.), Maharashtra & Goa"
+    ],
+    "40428": [
+      "India",
+      "Aircel"
+    ],
+    "40429": [
+      "India",
+      "Aircel / Dishnet Wireless Ltd, Assam"
+    ],
+    "40430": [
+      "India",
+      "Vodafone (formerly Usha Martin Telecom / Command) / Hutchison Telecom East Ltd, Kolkata"
+    ],
+    "40431": [
+      "India",
+      "AirTel (Bharti-Televentures), Kolkata"
+    ],
+    "40433": [
+      "India",
+      "Aircel / Dishnet Wireless Ltd, North East"
+    ],
+    "40434": [
+      "India",
+      "BSNL, Haryana"
+    ],
+    "40435": [
+      "India",
+      "Aircel / Dishnet Wireless Ltd., Himachal Pradesh"
+    ],
+    "40436": [
+      "India",
+      "Reliance Telecom Private, Bihar"
+    ],
+    "40437": [
+      "India",
+      "Aircel / Dishnet Wireless Ltd, J&K"
+    ],
+    "40438": [
+      "India",
+      "BSNL, Assam"
+    ],
+    "40440": [
+      "India",
+      "AirTel (Bharti-Televentures), Chennai"
+    ],
+    "40441": [
+      "India",
+      "RPG Cellular / Aircell Cellular Ltd, Chennai"
+    ],
+    "40442": [
+      "India",
+      "Aircel, Tamil Nadu"
+    ],
+    "40443": [
+      "India",
+      "Vodafone Essar / Hutchison Essar Cellular Ltd., Tamil Nadu"
+    ],
+    "40444": [
+      "India",
+      "Idea (formerly Spice), Karnataka"
+    ],
+    "40445": [
+      "India",
+      "AirTel (Bharti-Televentures), Karnataka"
+    ],
+    "40446": [
+      "India",
+      "Vodafone Essar / Hutchison Essar Cellular Ltd., Kerala"
+    ],
+    "40448": [
+      "India",
+      "Dishnet Wireless Ltd, Uttar Predesh West"
+    ],
+    "40449": [
+      "India",
+      "AirTel (Bharti-Televentures), Andra Pradesh"
+    ],
+    "40450": [
+      "India",
+      "Reliance Telecom Private, North East"
+    ],
+    "40451": [
+      "India",
+      "BSNL, H.P."
+    ],
+    "40452": [
+      "India",
+      "Reliance Telecom Private, Orissa"
+    ],
+    "40453": [
+      "India",
+      "BSNL, Punjab"
+    ],
+    "40454": [
+      "India",
+      "BSNL, Uttar Predesh West"
+    ],
+    "40455": [
+      "India",
+      "BSNL, Uttar Predesh East"
+    ],
+    "40456": [
+      "India",
+      "Escotel Mobile Communications / Idea Mobile Communications Ltd., Uttar Predesh West"
+    ],
+    "40457": [
+      "India",
+      "BSNL, Gujarat"
+    ],
+    "40458": [
+      "India",
+      "BSNL, Madhya Pradesh"
+    ],
+    "40459": [
+      "India",
+      "BSNL, Rajasthan"
+    ],
+    "40460": [
+      "India",
+      "Aircel Digilink India, Rajasthan"
+    ],
+    "40461": [
+      "India",
+      "Dishnet Wireless Ltd, Punjab"
+    ],
+    "40462": [
+      "India",
+      "BSNL, J&K"
+    ],
+    "40463": [
+      "India",
+      "Dishnet Wireless Ltd, Haryana"
+    ],
+    "40464": [
+      "India",
+      "BSNL, Chennai"
+    ],
+    "40465": [
+      "India",
+      "Dishnet Wireless Ltd, Uttar Predesh East"
+    ],
+    "40466": [
+      "India",
+      "BSNL, Maharashtra"
+    ],
+    "40467": [
+      "India",
+      "Reliance Telecom Private, Madhya Pradesh"
+    ],
+    "40468": [
+      "India",
+      "Mahanagar Telephone Nigam / MTNL, Delhi"
+    ],
+    "40469": [
+      "India",
+      "Mahanagar Telephone Nigam / MTNL, Mumbai"
+    ],
+    "40470": [
+      "India",
+      "Bharti Hexacom, Rajasthan"
+    ],
+    "40471": [
+      "India",
+      "BSNL, Karnataka"
+    ],
+    "40472": [
+      "India",
+      "BSNL, Kerala"
+    ],
+    "40473": [
+      "India",
+      "BSNL, Andhra Pradesh"
+    ],
+    "40474": [
+      "India",
+      "BSNL, West Bengal"
+    ],
+    "40475": [
+      "India",
+      "BSNL, Bihar"
+    ],
+    "40476": [
+      "India",
+      "BSNL, Orissa"
+    ],
+    "40477": [
+      "India",
+      "BSNL, North East"
+    ],
+    "40478": [
+      "India",
+      "Idea Cellular Ltd. / BTA Cellcom Ltd., Madhya Pradesh"
+    ],
+    "40479": [
+      "India",
+      "CellOne A&N / BSNL, Andaman & Nicobar"
+    ],
+    "40480": [
+      "India",
+      "BSNL, Tamil Nadu"
+    ],
+    "40481": [
+      "India",
+      "BSNL, Kolkata"
+    ],
+    "404818": [
+      "India",
+      "Uninor Uttar Predesh West"
+    ],
+    "40482": [
+      "India",
+      "Idea (formerly Escorts Telecom Ltd.),  H.P"
+    ],
+    "40483": [
+      "India",
+      "Reliable Internet Services, Kolkata"
+    ],
+    "40484": [
+      "India",
+      "Vodafone / Hutchison Essar South Ltd., Chennai"
+    ],
+    "40485": [
+      "India",
+      "Reliance Telecom Private, W.B. & A.N."
+    ],
+    "40486": [
+      "India",
+      "Barakhamba Sales & Serv. / Hutchison Essar South Ltd., Karnataka"
+    ],
+    "40487": [
+      "India",
+      "Idea (formerly Escorts Telecom Ltd.),  Rajasthan"
+    ],
+    "40488": [
+      "India",
+      "Idea (formerly Escorts Telecom Ltd.) / Hutchison Essar South Ltd, Punjab"
+    ],
+    "40489": [
+      "India",
+      "Idea (formerly Escorts Telecom Ltd.), Uttar Predesh East"
+    ],
+    "40490": [
+      "India",
+      "AirTel (Bharti-Televentures), Maharashtra & Goa"
+    ],
+    "40491": [
+      "India",
+      "Aircel / Dishnet Wireless Ltd, Kolkata"
+    ],
+    "40492": [
+      "India",
+      "AirTel (Bharti-Televentures), Mumbai"
+    ],
+    "404927": [
+      "India",
+      "Uninor Gujarat"
+    ],
+    "40493": [
+      "India",
+      "AirTel (Bharti-Televentures), Madhya Pradesh"
+    ],
+    "40494": [
+      "India",
+      "AirTel (Bharti-Televentures), Tamil Nadu"
+    ],
+    "40495": [
+      "India",
+      "AirTel (Bharti-Televentures), Kerala"
+    ],
+    "40496": [
+      "India",
+      "AirTel (Bharti-Televentures), Haryana"
+    ],
+    "40497": [
+      "India",
+      "AirTel (Bharti-Televentures), Uttar Predesh West"
+    ],
+    "40498": [
+      "India",
+      "AirTel (Bharti-Televentures), Gujarat"
+    ],
+    "40499": [
+      "India",
+      "Dishnet Wireless Ltd, Kerala"
+    ],
+    "405000": [
+      "India",
+      "Shyam Telelink Ltd, Rajasthan"
+    ],
+    "405005": [
+      "India",
+      "Reliance Communications Ltd/GSM, Delhi"
+    ],
+    "405006": [
+      "India",
+      "Reliance Communications Ltd/GSM, Gujarat"
+    ],
+    "405007": [
+      "India",
+      "Reliance Communications Ltd/GSM, Haryana"
+    ],
+    "405009": [
+      "India",
+      "Reliance Communications Ltd/GSM, J&K"
+    ],
+    "40501": [
+      "India",
+      "RELIANCE TELECOM"
+    ],
+    "405010": [
+      "India",
+      "Reliance Communications Ltd,/GSM Karnataka"
+    ],
+    "405011": [
+      "India",
+      "Reliance Communications Ltd/GSM, Kerala"
+    ],
+    "405012": [
+      "India",
+      "Reliance Infocomm Ltd, Andhra Pradesh"
+    ],
+    "405013": [
+      "India",
+      "Reliance Communications Ltd/GSM, Maharashtra"
+    ],
+    "405014": [
+      "India",
+      "Reliance Communications Ltd/GSM, Madhya Pradesh"
+    ],
+    "405018": [
+      "India",
+      "Reliance Communications Ltd/GSM, Punjab"
+    ],
+    "405020": [
+      "India",
+      "Reliance Communications Ltd/GSM, Tamilnadu"
+    ],
+    "405021": [
+      "India",
+      "Reliance Communications Ltd/GSM, Uttar Predesh East"
+    ],
+    "405022": [
+      "India",
+      "Reliance Communications Ltd/GSM, Uttar Predesh West"
+    ],
+    "405025": [
+      "India",
+      "Tata DoCoMo, Andhra Pradesh"
+    ],
+    "405027": [
+      "India",
+      "Tata DoCoMo, Bihar"
+    ],
+    "405029": [
+      "India",
+      "Tata DoCoMo, Delhi"
+    ],
+    "405030": [
+      "India",
+      "Tata DoCoMo, Gujarat"
+    ],
+    "405031": [
+      "India",
+      "Tata DoCoMo, Haryana"
+    ],
+    "405032": [
+      "India",
+      "Tata DoCoMo, Himachal Pradesh"
+    ],
+    "405033": [
+      "India",
+      "Reliance Infocomm Ltd, Bihar"
+    ],
+    "405034": [
+      "India",
+      "Tata DoCoMo, Karnataka"
+    ],
+    "405035": [
+      "India",
+      "Tata DoCoMo, Kerala"
+    ],
+    "405036": [
+      "India",
+      "Tata DoCoMo, Kolkata"
+    ],
+    "405037": [
+      "India",
+      "Tata DoCoMo, Maharashtra & Goa"
+    ],
+    "405038": [
+      "India",
+      "Tata DoCoMo, Madhya Pradesh"
+    ],
+    "405039": [
+      "India",
+      "Tata DoCoMo, Mumbai"
+    ],
+    "405040": [
+      "India",
+      "Reliance Infocomm Ltd, Chennai"
+    ],
+    "405041": [
+      "India",
+      "Tata DoCoMo, Orissa"
+    ],
+    "405042": [
+      "India",
+      "Tata DoCoMo, Punjab"
+    ],
+    "405043": [
+      "India",
+      "Tata DoCoMo, Rajasthan"
+    ],
+    "405044": [
+      "India",
+      "Tata DoCoMo, Tamil Nadu"
+    ],
+    "405045": [
+      "India",
+      "Tata DoCoMo, Uttar Pradesh East"
+    ],
+    "405046": [
+      "India",
+      "Tata DoCoMo, Uttar Predesh West"
+    ],
+    "405047": [
+      "India",
+      "Tata DoCoMo, Ro West Bengal"
+    ],
+    "40508": [
+      "India",
+      "Reliance Infocomm Ltd, Himachal Pradesh"
+    ],
+    "40509": [
+      "India",
+      "RELIANCE TELECOM"
+    ],
+    "40512": [
+      "India",
+      "Reliance Infocomm Ltd, Kolkata"
+    ],
+    "40515": [
+      "India",
+      "Reliance Telecom Private, Mumbai"
+    ],
+    "40517": [
+      "India",
+      "Reliance Infocomm Ltd, Orissa"
+    ],
+    "40519": [
+      "India",
+      "Reliance Telecom Private"
+    ],
+    "40523": [
+      "India",
+      "Reliance Infocomm Ltd, West Bengal"
+    ],
+    "40524": [
+      "India",
+      "Ping"
+    ],
+    "40528": [
+      "India",
+      "Tata Teleservices Ltd, Chennai"
+    ],
+    "40551": [
+      "India",
+      "AirTel (Bharti-Televentures)"
+    ],
+    "40552": [
+      "India",
+      "AirTel (Bharti-Televentures), Bihar"
+    ],
+    "40553": [
+      "India",
+      "AirTel (Bharti-Televentures), Orissa"
+    ],
+    "40554": [
+      "India",
+      "AirTel (Bharti-Televentures), Uttar Predesh East"
+    ],
+    "40555": [
+      "India",
+      "AirTel (Bharti-Televentures), J&K"
+    ],
+    "40556": [
+      "India",
+      "AirTel (Bharati Mobile), Assam"
+    ],
+    "40566": [
+      "India",
+      "Vodafone / Hutchison Essar South Ltd, Uttar Predesh West"
+    ],
+    "40567": [
+      "India",
+      "Vodafone / Hutchison Essar South Ltd, Orissa"
+    ],
+    "40568": [
+      "India",
+      "Vodafone / Hutchison, Madhya Pradesh"
+    ],
+    "40570": [
+      "India",
+      "Idea (Aditya Birla Telecom Ltd), Bihar & Jharkhand"
+    ],
+    "40571": [
+      "India",
+      "Essar Spacetel Ltd, Himachal Pradesh"
+    ],
+    "40572": [
+      "India",
+      "Essar Spacetel Ltd, North East"
+    ],
+    "40573": [
+      "India",
+      "Essar Spacetel Ltd, Assam"
+    ],
+    "40574": [
+      "India",
+      "Essar Spacetel Ltd, J&K"
+    ],
+    "405750": [
+      "India",
+      "Vodafone Essar Spacetel, J&K"
+    ],
+    "405751": [
+      "India",
+      "Vodafone Essar Spacetel, Assam"
+    ],
+    "405752": [
+      "India",
+      "Vodafone Essar Spacetel, Bihar"
+    ],
+    "405753": [
+      "India",
+      "Vodafone Essar Spacetel, Orissa"
+    ],
+    "405754": [
+      "India",
+      "Vodafone Essar Spacetel, Himachal Pradesh"
+    ],
+    "405755": [
+      "India",
+      "Vodafone Essar Spacetel Ltd, North East"
+    ],
+    "405756": [
+      "India",
+      "Vodafone"
+    ],
+    "40576": [
+      "India",
+      "Essar Spacetel Ltd, Orissa"
+    ],
+    "40577": [
+      "India",
+      "Essar Spacetel Ltd, Maharashtra"
+    ],
+    "405799": [
+      "India",
+      "Idea Mumbai"
+    ],
+    "405800": [
+      "India",
+      "Aircel, Delhi"
+    ],
+    "405801": [
+      "India",
+      "Aircel, Andhra Pradesh"
+    ],
+    "405802": [
+      "India",
+      "Aircel, Gujarat"
+    ],
+    "405803": [
+      "India",
+      "Aircel, Kamataka"
+    ],
+    "405804": [
+      "India",
+      "Aircel, Maharashtra & Goa"
+    ],
+    "405805": [
+      "India",
+      "Aircel, Mumbai"
+    ],
+    "405806": [
+      "India",
+      "Aircel, Rajasthan"
+    ],
+    "405807": [
+      "India",
+      "Aircel / Dishnet Wireless, Haryana"
+    ],
+    "405808": [
+      "India",
+      "Aircel / Dishnet Wireless, Madhya Pradesh"
+    ],
+    "405809": [
+      "India",
+      "Aircel / Dishnet Wireless, Kerala"
+    ],
+    "40581": [
+      "India",
+      "Aircell Ltd, Delhi"
+    ],
+    "405810": [
+      "India",
+      "Aircel, Uttar Predesh East"
+    ],
+    "405811": [
+      "India",
+      "Aircel, Uttar Predesh West"
+    ],
+    "405812": [
+      "India",
+      "Aircel, Punjab"
+    ],
+    "405813": [
+      "India",
+      "Uninor Haryana"
+    ],
+    "405814": [
+      "India",
+      "Uninor Himachal Pradesh"
+    ],
+    "405815": [
+      "India",
+      "Uninor Jammu & Kashmir"
+    ],
+    "405816": [
+      "India",
+      "Uninor Punjab"
+    ],
+    "405817": [
+      "India",
+      "Uninor Rajasthan"
+    ],
+    "405818": [
+      "India",
+      "Uninor Uttar Pradesh (West)"
+    ],
+    "405819": [
+      "India",
+      "Uninor Andhra Pradesh"
+    ],
+    "40582": [
+      "India",
+      "Aircell Ltd, Andhra Pradesh"
+    ],
+    "405820": [
+      "India",
+      "Uninor Karnataka"
+    ],
+    "405821": [
+      "India",
+      "Uninor Kerala"
+    ],
+    "405822": [
+      "India",
+      "Uninor Kolkata"
+    ],
+    "405823": [
+      "India",
+      "Videocon Andhra Pradesh"
+    ],
+    "405824": [
+      "India",
+      "Videocon Assam"
+    ],
+    "405825": [
+      "India",
+      "Videocon Bihar"
+    ],
+    "405826": [
+      "India",
+      "Videocon Delhi"
+    ],
+    "405827": [
+      "India",
+      "Videocon Gujarat"
+    ],
+    "405828": [
+      "India",
+      "Videocon Haryana"
+    ],
+    "405829": [
+      "India",
+      "Videocon Himachal Pradesh"
+    ],
+    "40583": [
+      "India",
+      "Aircell Ltd, Gujarat"
+    ],
+    "405830": [
+      "India",
+      "Videcon Jammu & Kashmir"
+    ],
+    "405831": [
+      "India",
+      "Videocon Karnataka"
+    ],
+    "405832": [
+      "India",
+      "Videocon Kerala"
+    ],
+    "405833": [
+      "India",
+      "Videocon Kolkata"
+    ],
+    "405834": [
+      "India",
+      "Videocon Madhya Pradesh"
+    ],
+    "405835": [
+      "India",
+      "Videocon Maharashtra"
+    ],
+    "405836": [
+      "India",
+      "Videocon Mumbai"
+    ],
+    "405837": [
+      "India",
+      "Videocon North East"
+    ],
+    "405838": [
+      "India",
+      "Videocon Orissa"
+    ],
+    "405839": [
+      "India",
+      "Videocon Rajasthan"
+    ],
+    "40584": [
+      "India",
+      "Aircell Ltd, Maharashtra"
+    ],
+    "405840": [
+      "India",
+      "Videocon Tamil Nadu"
+    ],
+    "405841": [
+      "India",
+      "Videocon Uttar Predesh East"
+    ],
+    "405842": [
+      "India",
+      "Videocon Uttar Predesh West"
+    ],
+    "405843": [
+      "India",
+      "Videocon West Bengal"
+    ],
+    "405844": [
+      "India",
+      "Uninor Delhi"
+    ],
+    "405845": [
+      "India",
+      "Idea Assam"
+    ],
+    "405846": [
+      "India",
+      "Idea Jammu & Kashmir"
+    ],
+    "405847": [
+      "India",
+      "Idea Karnataja"
+    ],
+    "405848": [
+      "India",
+      "Idea Kolkata"
+    ],
+    "405849": [
+      "India",
+      "Idea North East"
+    ],
+    "40585": [
+      "India",
+      "Aircell Ltd, Mumbai"
+    ],
+    "405850": [
+      "India",
+      "Idea Orissa"
+    ],
+    "405851": [
+      "India",
+      "Idea Punjab"
+    ],
+    "405852": [
+      "India",
+      "Idea Tamil & Chennai"
+    ],
+    "405853": [
+      "India",
+      "Idea West Bengal"
+    ],
+    "405854": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405855": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405856": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405857": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405858": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405859": [
+      "India",
+      "Loop/Jio"
+    ],
+    "40586": [
+      "India",
+      "Aircell Ltd, Rajasthan"
+    ],
+    "405860": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405861": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405862": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405863": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405864": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405865": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405866": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405867": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405868": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405869": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405870": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405871": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405872": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405873": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405874": [
+      "India",
+      "Loop/Jio"
+    ],
+    "405875": [
+      "India",
+      "Uninor Assam"
+    ],
+    "405876": [
+      "India",
+      "Uninor Bihar"
+    ],
+    "405877": [
+      "India",
+      "Uninor North East"
+    ],
+    "405878": [
+      "India",
+      "Uninor Orissa"
+    ],
+    "405879": [
+      "India",
+      "Uninor Uttar Predesh East"
+    ],
+    "405880": [
+      "India",
+      "Uninor West bengal"
+    ],
+    "405881": [
+      "India",
+      "S Tel"
+    ],
+    "405882": [
+      "India",
+      "S Tel"
+    ],
+    "405883": [
+      "India",
+      "S Tel"
+    ],
+    "405884": [
+      "India",
+      "S Tel"
+    ],
+    "405885": [
+      "India",
+      "S Tel"
+    ],
+    "405886": [
+      "India",
+      "S Tel"
+    ],
+    "405887": [
+      "India",
+      "MTS Andhra Pradesh"
+    ],
+    "405888": [
+      "India",
+      "MTS Assam"
+    ],
+    "405889": [
+      "India",
+      "MTS Bihar"
+    ],
+    "405890": [
+      "India",
+      "MTS Delhi"
+    ],
+    "405891": [
+      "India",
+      "MTS Gujarat"
+    ],
+    "405892": [
+      "India",
+      "MTS Haryana"
+    ],
+    "405893": [
+      "India",
+      "MTS Himachal Pradesh"
+    ],
+    "405894": [
+      "India",
+      "MTS Jammu & Kashmir"
+    ],
+    "405895": [
+      "India",
+      "MTS Karnataka"
+    ],
+    "405896": [
+      "India",
+      "MTS Kerala"
+    ],
+    "405897": [
+      "India",
+      "MTS Kolkata"
+    ],
+    "405898": [
+      "India",
+      "MTS Madhya Pradesh"
+    ],
+    "405899": [
+      "India",
+      "MTS Maharashtra"
+    ],
+    "405900": [
+      "India",
+      "MTS Mumbai"
+    ],
+    "405901": [
+      "India",
+      "MTS North East"
+    ],
+    "405902": [
+      "India",
+      "MTS Orissa"
+    ],
+    "405903": [
+      "India",
+      "MTS Punjab"
+    ],
+    "405904": [
+      "India",
+      "MTS Tamil Nadu"
+    ],
+    "405905": [
+      "India",
+      "MTS Uttar Predesh East"
+    ],
+    "405906": [
+      "India",
+      "MTS Uttar Predesh West"
+    ],
+    "405907": [
+      "India",
+      "MTS West Bengal"
+    ],
+    "405908": [
+      "India",
+      "Spice Andhra Pradesh"
+    ],
+    "405909": [
+      "India",
+      "Spice Delhi"
+    ],
+    "405910": [
+      "India",
+      "Spice Haryana"
+    ],
+    "405911": [
+      "India",
+      "Spice Maharashtra"
+    ],
+    "405912": [
+      "India",
+      "Etisalat DB - Cheers Andhra Pradesh"
+    ],
+    "405913": [
+      "India",
+      "Etisalat DB - Cheers Delhi"
+    ],
+    "405914": [
+      "India",
+      "Etisalat DB - Cheers Gujarat"
+    ],
+    "405915": [
+      "India",
+      "Etisalat DB - Cheers Haryana"
+    ],
+    "405916": [
+      "India",
+      "Etisalat DB - Cheers Karnataka"
+    ],
+    "405917": [
+      "India",
+      "Etisalat DB - Cheers Kerala"
+    ],
+    "405918": [
+      "India",
+      "Etisalat DB - Cheers Maharashtra"
+    ],
+    "405919": [
+      "India",
+      "Etisalat DB - Cheers Mumbai"
+    ],
+    "405920": [
+      "India",
+      "Etisalat DB - Cheers Punjab"
+    ],
+    "405921": [
+      "India",
+      "Etisalat DB - Cheers Rajasthan"
+    ],
+    "405922": [
+      "India",
+      "Etisalat DB - Cheers Tamil Nadu"
+    ],
+    "405923": [
+      "India",
+      "Etisalat DB - Cheers Uttar Predesh East"
+    ],
+    "405924": [
+      "India",
+      "Etisalat DB - Cheers Uttar Predesh West"
+    ],
+    "405925": [
+      "India",
+      "Uninor"
+    ],
+    "405926": [
+      "India",
+      "Uninor Mumbai"
+    ],
+    "405927": [
+      "India",
+      "Uninor"
+    ],
+    "405928": [
+      "India",
+      "Uninor Madhya Pradesh"
+    ],
+    "405929": [
+      "India",
+      "Uninor Maharashtra"
+    ],
+    "405930": [
+      "India",
+      "Etisalat DB - Cheers Bihar"
+    ],
+    "405931": [
+      "India",
+      "Etisalat DB - Cheers Madhya Pradesh"
+    ],
+    "41001": [
+      "Pakistan",
+      "Mobilink"
+    ],
+    "41003": [
+      "Pakistan",
+      "UFONE/PAKTel"
+    ],
+    "41004": [
+      "Pakistan",
+      "ZONG/CMPak"
+    ],
+    "41005": [
+      "Pakistan",
+      "SCO Mobile"
+    ],
+    "41006": [
+      "Pakistan",
+      "Telenor"
+    ],
+    "41007": [
+      "Pakistan",
+      "Warid Telecom"
+    ],
+    "41008": [
+      "Pakistan",
+      "Instaphone"
+    ],
+    "41201": [
+      "Afghanistan",
+      "Afghan Wireless/AWCC"
+    ],
+    "41220": [
+      "Afghanistan",
+      "Roshan (Telecom Development Company Afghanistan)"
+    ],
+    "41230": [
+      "Afghanistan",
+      "Etisalat"
+    ],
+    "41240": [
+      "Afghanistan",
+      "Areeba (MTN)"
+    ],
+    "41250": [
+      "Afghanistan",
+      "Etisalat"
+    ],
+    "41280": [
+      "Afghanistan",
+      "Afghan Telecom Corp. (AT)"
+    ],
+    "41288": [
+      "Afghanistan",
+      "Afghan Telecom Corp. (AT)"
+    ],
+    "41301": [
+      "Sri Lanka",
+      "Mobitel Ltd."
+    ],
+    "41302": [
+      "Sri Lanka",
+      "MTN/Dialog"
+    ],
+    "41303": [
+      "Sri Lanka",
+      "Etisalat/Tigo"
+    ],
+    "41305": [
+      "Sri Lanka",
+      "Bharti Airtel"
+    ],
+    "41308": [
+      "Sri Lanka",
+      "H3G Hutchison"
+    ],
+    "41401": [
+      "Burma / Myanmar",
+      "Myanmar Post & Teleco."
+    ],
+    "41405": [
+      "Burma / Myanmar",
+      "Ooredoo"
+    ],
+    "41406": [
+      "Burma / Myanmar",
+      "Telenor Myanmar"
+    ],
+    "41501": [
+      "Lebanon",
+      "MIC1 (Alfa)"
+    ],
+    "41503": [
+      "Lebanon",
+      "MTC / MIC2 / LibanCell"
+    ],
+    "41505": [
+      "Lebanon",
+      "Ogero Telecom"
+    ],
+    "41532": [
+      "Lebanon",
+      "Cellis"
+    ],
+    "41533": [
+      "Lebanon",
+      "Cellis"
+    ],
+    "41534": [
+      "Lebanon",
+      "FTML Cellis"
+    ],
+    "41535": [
+      "Lebanon",
+      "Cellis"
+    ],
+    "41536": [
+      "Lebanon",
+      "MIC2/LibanCell"
+    ],
+    "41537": [
+      "Lebanon",
+      "MIC2/LibanCell"
+    ],
+    "41538": [
+      "Lebanon",
+      "MIC2/LibanCell"
+    ],
+    "41539": [
+      "Lebanon",
+      "MIC2/LibanCell"
+    ],
+    "41601": [
+      "Jordan",
+      "ZAIN /J.M.T.S (formerly Fastlink)"
+    ],
+    "41602": [
+      "Jordan",
+      "Xpress"
+    ],
+    "41603": [
+      "Jordan",
+      "Umniah Mobile Co."
+    ],
+    "41677": [
+      "Jordan",
+      "Orange/Petra (MobileCom)"
+    ],
+    "41701": [
+      "Syrian Arab Republic",
+      "Syriatel Holdings"
+    ],
+    "41702": [
+      "Syrian Arab Republic",
+      "MTN/Spacetel"
+    ],
+    "41709": [
+      "Syrian Arab Republic",
+      "Syriatel Holdings"
+    ],
+    "41805": [
+      "Iraq",
+      "Asia Cell"
+    ],
+    "41808": [
+      "Iraq",
+      "Sanatel"
+    ],
+    "41820": [
+      "Iraq",
+      "ZAIN (formerly Atheer)"
+    ],
+    "41830": [
+      "Iraq",
+      "Zain (formerly Orascom Telecom)"
+    ],
+    "41840": [
+      "Iraq",
+      "Korek"
+    ],
+    "41845": [
+      "Iraq",
+      "Mobitel (Iraq-Kurdistan) and Moutiny"
+    ],
+    "41847": [
+      "Iraq",
+      "Iraq Central Cooperative Association for Communication and Transportation"
+    ],
+    "41848": [
+      "Iraq",
+      "ITC Fanoos"
+    ],
+    "41849": [
+      "Iraq",
+      "Iraqtel"
+    ],
+    "41862": [
+      "Iraq",
+      "Itisaluna"
+    ],
+    "41870": [
+      "Iraq",
+      "Kalimat"
+    ],
+    "41880": [
+      "Iraq",
+      "Iraqi Telecommunications & Post Company (ITPC)"
+    ],
+    "41881": [
+      "Iraq",
+      "ITPC (Al-Mazaya)"
+    ],
+    "41882": [
+      "Iraq",
+      "Korek"
+    ],
+    "41883": [
+      "Iraq",
+      "ITPC (Sader Al-Iraq)"
+    ],
+    "41884": [
+      "Iraq",
+      "ITPC (Eaamar Albasrah)"
+    ],
+    "41885": [
+      "Iraq",
+      "ITPC (Anwar Yagotat Alkhalee)"
+    ],
+    "41886": [
+      "Iraq",
+      "ITPC (Furatfone)"
+    ],
+    "41887": [
+      "Iraq",
+      "ITPC (Al-Seraj)"
+    ],
+    "41888": [
+      "Iraq",
+      "ITPC (High Link)"
+    ],
+    "41889": [
+      "Iraq",
+      "ITPC (Al-Shams)"
+    ],
+    "41891": [
+      "Iraq",
+      "ITPC (Belad Babel)"
+    ],
+    "41892": [
+      "Iraq",
+      "Itisaluna and Kalemat / ITPC (Al Nakheel)"
+    ],
+    "41893": [
+      "Iraq",
+      "ITPC (Iraqcell)"
+    ],
+    "41894": [
+      "Iraq",
+      "ITPC (Shaly)"
+    ],
+    "41902": [
+      "Kuwait",
+      "Zain / MTC"
+    ],
+    "41903": [
+      "Kuwait",
+      "Wantaniya / National Mobile Telecommunications"
+    ],
+    "41904": [
+      "Kuwait",
+      "Viva / Kuwait Telecommunication Company"
+    ],
+    "42001": [
+      "Saudi Arabia",
+      "Saudi Telecoms Company/Al Jawal"
+    ],
+    "42002": [
+      "Saudi Arabia",
+      "Mobily \u0096 Etihad Etisalat"
+    ],
+    "42003": [
+      "Saudi Arabia",
+      "Etihad/Etisalat/Mobily"
+    ],
+    "42004": [
+      "Saudi Arabia",
+      "Zain"
+    ],
+    "42007": [
+      "Saudi Arabia",
+      "Zain"
+    ],
+    "42101": [
+      "Yemen",
+      "Sabaphone"
+    ],
+    "42102": [
+      "Yemen",
+      "MTN/Spacetel"
+    ],
+    "42103": [
+      "Yemen",
+      "Yemen Mob. CDMA"
+    ],
+    "42104": [
+      "Yemen",
+      "HITS/Y Unitel"
+    ],
+    "42202": [
+      "Oman",
+      "Oman Mobile/GTO"
+    ],
+    "42203": [
+      "Oman",
+      "Nawras (Omani Telecommunications Company)"
+    ],
+    "42402": [
+      "United Arab Emirates",
+      "Etisalat"
+    ],
+    "42403": [
+      "United Arab Emirates",
+      "DU (Emirates Integrated Telecommunications)"
+    ],
+    "42501": [
+      "Israel",
+      "Orange/Partner Co. Ltd."
+    ],
+    "42502": [
+      "Israel",
+      "Cellcom ltd."
+    ],
+    "42503": [
+      "Israel",
+      "Pelephone"
+    ],
+    "42504": [
+      "Israel",
+      "Globalsim Ltd"
+    ],
+    "42505": [
+      "Palestinian Territory",
+      "Jawwal"
+    ],
+    "42506": [
+      [
+        "Israel",
+        "Wataniya"
+      ],
+      [
+        "Palestinian Territory",
+        "Wataniya Mobile"
+      ]
+    ],
+    "42507": [
+      "Israel",
+      "Hot Mobile/Mirs"
+    ],
+    "42508": [
+      "Israel",
+      "Golan Telekom"
+    ],
+    "42511": [
+      "Israel",
+      "365 Telecom (MVNO)"
+    ],
+    "42512": [
+      "Israel",
+      "Orange"
+    ],
+    "42513": [
+      "Israel",
+      "Ituran Cellular Communications"
+    ],
+    "42514": [
+      "Israel",
+      "Alon Cellular Ltd (MVNO under Orange)"
+    ],
+    "42515": [
+      "Israel",
+      "Home Cellular Ltd (MVNO under Cellcom)"
+    ],
+    "42516": [
+      "Israel",
+      "Rami Levy Hashikma Marketing Communications Ltd"
+    ],
+    "42517": [
+      "Israel",
+      "Gale Phone (MVNO)"
+    ],
+    "42518": [
+      "Israel",
+      "Cellact Communications Ltd (MVNO)"
+    ],
+    "42519": [
+      "Israel",
+      "Azi Communications Ltd"
+    ],
+    "42520": [
+      "Israel",
+      "Bezeq Ltd"
+    ],
+    "42521": [
+      "Israel",
+      "B.I.P Communications Ltd."
+    ],
+    "42523": [
+      "Israel",
+      "Beezz Communication Solutions Ltd."
+    ],
+    "42524": [
+      "Israel",
+      "012 Telecom Ltd."
+    ],
+    "42525": [
+      "Israel",
+      "IMOD"
+    ],
+    "42577": [
+      "Israel",
+      "Hot Mobile/Mirs"
+    ],
+    "42601": [
+      "Bahrain",
+      "Batelco"
+    ],
+    "42602": [
+      "Bahrain",
+      "MTC Vodafone (Zain)"
+    ],
+    "42603": [
+      "Bahrain",
+      "Civil Aviation Authority"
+    ],
+    "42604": [
+      "Bahrain",
+      "VIVA (Saudi Telecom Company Group)"
+    ],
+    "42605": [
+      "Bahrain",
+      "Batelco / Royal Court"
+    ],
+    "42701": [
+      "Qatar",
+      "ooredoo (formlery Qtel / Qatar Telecom)"
+    ],
+    "42702": [
+      "Qatar",
+      "Vodafone"
+    ],
+    "42800": [
+      "Mongolia",
+      "Skytel Co. Ltd"
+    ],
+    "42888": [
+      "Mongolia",
+      "Unitel"
+    ],
+    "42891": [
+      "Mongolia",
+      "Skytel Co. Ltd"
+    ],
+    "42898": [
+      "Mongolia",
+      "G-Mobile Corporation Ltd"
+    ],
+    "42899": [
+      "Mongolia",
+      "Mobicom"
+    ],
+    "42901": [
+      "Nepal",
+      "NT Mobile / Namaste / Nepal Mobile"
+    ],
+    "42902": [
+      "Nepal",
+      "Ncell"
+    ],
+    "42903": [
+      "Nepal",
+      "Sky / C-Phone / Nepal Telecom"
+    ],
+    "42904": [
+      "Nepal",
+      "Smart Cell"
+    ],
+    "43002": [
+      "United Arab Emirates",
+      "Etisalat"
+    ],
+    "43102": [
+      "United Arab Emirates",
+      "Etisalat"
+    ],
+    "43211": [
+      "Iran",
+      "TCI / MCI"
+    ],
+    "43214": [
+      "Iran",
+      "TKC/KFZO"
+    ],
+    "43219": [
+      "Iran",
+      "Mobile Telecommunications Company of Esfahan JV-PJS (MTCE)"
+    ],
+    "43220": [
+      "Iran",
+      "Righttel"
+    ],
+    "43232": [
+      "Iran",
+      "Taliya / Rafsanjan Industrial Complex"
+    ],
+    "43235": [
+      "Iran",
+      "MTN/IranCell"
+    ],
+    "43270": [
+      "Iran",
+      "MTCE"
+    ],
+    "43401": [
+      "Uzbekistan",
+      "Buztel"
+    ],
+    "43402": [
+      "Uzbekistan",
+      "Uzmacom"
+    ],
+    "43404": [
+      "Uzbekistan",
+      "Bee Line/Unitel"
+    ],
+    "43405": [
+      "Uzbekistan",
+      "Ucell/Coscom"
+    ],
+    "43406": [
+      "Uzbekistan",
+      "Perfectum Mobile / Rubion wireless Communication"
+    ],
+    "43407": [
+      "Uzbekistan",
+      "MTS/Uzdunrobita"
+    ],
+    "43601": [
+      "Tajikistan",
+      "Tcell/JC Somoncom"
+    ],
+    "43602": [
+      "Tajikistan",
+      "CJSC Indigo Tajikistan"
+    ],
+    "43603": [
+      "Tajikistan",
+      "MLT/TT mobile"
+    ],
+    "43604": [
+      "Tajikistan",
+      "Babilon-M"
+    ],
+    "43605": [
+      "Tajikistan",
+      "Bee Line / Tacom"
+    ],
+    "43612": [
+      "Tajikistan",
+      "Tcell/JC Somoncom"
+    ],
+    "43701": [
+      "Kyrgyzstan",
+      "Beeline/Bitel"
+    ],
+    "43703": [
+      "Kyrgyzstan",
+      "AkTel LLC"
+    ],
+    "43705": [
+      "Kyrgyzstan",
+      "MEGACOM"
+    ],
+    "43709": [
+      "Kyrgyzstan",
+      "O!/NUR Telecom"
+    ],
+    "43801": [
+      "Turkmenistan",
+      "Barash Communication"
+    ],
+    "43802": [
+      "Turkmenistan",
+      "TM-Cell"
+    ],
+    "44000": [
+      "Japan",
+      "eMobile"
+    ],
+    "44001": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44002": [
+      "Japan",
+      "NTT Docomo Kansai"
+    ],
+    "44003": [
+      "Japan",
+      "NTT Docomo Hokuriku"
+    ],
+    "44004": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44006": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44007": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44008": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44009": [
+      "Japan",
+      "NTT Docomo Kansai"
+    ],
+    "44010": [
+      "Japan",
+      "NTT Docomo Kansai"
+    ],
+    "44011": [
+      "Japan",
+      "NTT Docomo Tokai"
+    ],
+    "44012": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44013": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44014": [
+      "Japan",
+      "NTT Docomo Tohoku"
+    ],
+    "44015": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44016": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44017": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44018": [
+      "Japan",
+      "NTT Docomo Tokai"
+    ],
+    "44019": [
+      "Japan",
+      "NTT Docomo Hokkaido"
+    ],
+    "44020": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.) / NTT Docomo Hokruiku"
+    ],
+    "44021": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44022": [
+      "Japan",
+      "NTT Docomo Kansai"
+    ],
+    "44023": [
+      "Japan",
+      "NTT Docomo Tokai"
+    ],
+    "44024": [
+      "Japan",
+      "NTT Docomo Chugoku"
+    ],
+    "44025": [
+      "Japan",
+      "NTT Docomo Hokkaido"
+    ],
+    "44026": [
+      "Japan",
+      "NTT Docomo Kyushu"
+    ],
+    "44027": [
+      "Japan",
+      "NTT Docomo Tohoku"
+    ],
+    "44028": [
+      "Japan",
+      "NTT Docomo Shikoku"
+    ],
+    "44029": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44030": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44031": [
+      "Japan",
+      "NTT Docomo Kansai"
+    ],
+    "44032": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44033": [
+      "Japan",
+      "NTT Docomo Tokai"
+    ],
+    "44034": [
+      "Japan",
+      "NTT Docomo Kyushu"
+    ],
+    "44035": [
+      "Japan",
+      "NTT Docomo Kansai"
+    ],
+    "44036": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44037": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44038": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44039": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44040": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44041": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44042": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44043": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44044": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44045": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44046": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44047": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44048": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44049": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44050": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44051": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44052": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44053": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44054": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44055": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44056": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44058": [
+      "Japan",
+      "NTT Docomo Kansai"
+    ],
+    "44060": [
+      "Japan",
+      "NTT Docomo Kansai"
+    ],
+    "44061": [
+      "Japan",
+      "NTT Docomo Chugoku"
+    ],
+    "44062": [
+      "Japan",
+      "NTT Docomo Kyushu"
+    ],
+    "44063": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44064": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44065": [
+      "Japan",
+      "NTT Docomo Shikoku"
+    ],
+    "44066": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44067": [
+      "Japan",
+      "NTT Docomo Tohoku"
+    ],
+    "44068": [
+      "Japan",
+      "NTT Docomo Kyushu"
+    ],
+    "44069": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44070": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44071": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44072": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44073": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44074": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44075": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44076": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44077": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44078": [
+      "Japan",
+      "Okinawa Cellular Telephone"
+    ],
+    "44079": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44080": [
+      "Japan",
+      "TU-KA Cellular Tokyo Inc."
+    ],
+    "44081": [
+      "Japan",
+      "TU-KA Cellular Tokyo Inc."
+    ],
+    "44082": [
+      "Japan",
+      "TU-KA Phone Kansai Inc."
+    ],
+    "44083": [
+      "Japan",
+      "TU-KA Cellular Tokai Inc."
+    ],
+    "44084": [
+      "Japan",
+      "TU-KA Phone Kansai Inc."
+    ],
+    "44085": [
+      "Japan",
+      "TU-KA Cellular Tokai Inc."
+    ],
+    "44086": [
+      "Japan",
+      "TU-KA Cellular Tokyo Inc."
+    ],
+    "44087": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44088": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44089": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44090": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44092": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44093": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44094": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44095": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44096": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44097": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44098": [
+      "Japan",
+      "SoftBank Mobile Corp (Formerly Vodafone K. K.)"
+    ],
+    "44099": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44140": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44141": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44142": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44143": [
+      "Japan",
+      "NTT Docomo Kansai"
+    ],
+    "44144": [
+      "Japan",
+      "NTT Docomo Chugoku"
+    ],
+    "44145": [
+      "Japan",
+      "NTT Docomo Shikoku"
+    ],
+    "44150": [
+      "Japan",
+      "TU-KA Cellular Tokyo Inc."
+    ],
+    "44151": [
+      "Japan",
+      "TU-KA Phone Kansai Inc."
+    ],
+    "44161": [
+      "Japan",
+      "SoftBank Mobile Corp"
+    ],
+    "44162": [
+      "Japan",
+      "SoftBank Mobile Corp"
+    ],
+    "44163": [
+      "Japan",
+      "SoftBank Mobile Corp"
+    ],
+    "44164": [
+      "Japan",
+      "SoftBank Mobile Corp"
+    ],
+    "44165": [
+      "Japan",
+      "SoftBank Mobile Corp"
+    ],
+    "44170": [
+      "Japan",
+      "KDDI Corporation"
+    ],
+    "44190": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44191": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44192": [
+      "Japan",
+      "NTT Docomo"
+    ],
+    "44193": [
+      "Japan",
+      "NTT Docomo Hokkaido"
+    ],
+    "44194": [
+      "Japan",
+      "NTT Docomo Tohoku"
+    ],
+    "44198": [
+      "Japan",
+      "NTT Docomo Kyushu"
+    ],
+    "44199": [
+      "Japan",
+      "NTT Docomo Kyushu"
+    ],
+    "45002": [
+      "Korea S, Republic of",
+      "KT Freetel Co. Ltd."
+    ],
+    "45003": [
+      "Korea S, Republic of",
+      "SK Telecom"
+    ],
+    "45004": [
+      "Korea S, Republic of",
+      "KT Freetel Co. Ltd."
+    ],
+    "45005": [
+      "Korea S, Republic of",
+      "SK Telecom Co. Ltd"
+    ],
+    "45006": [
+      "Korea S, Republic of",
+      "LG Telecom"
+    ],
+    "45008": [
+      "Korea S, Republic of",
+      "KT Freetel Co. Ltd."
+    ],
+    "45011": [
+      "Korea S, Republic of",
+      "SK Telecom"
+    ],
+    "45201": [
+      "Vietnam",
+      "Mobifone"
+    ],
+    "45202": [
+      "Vietnam",
+      "Vinaphone"
+    ],
+    "45203": [
+      "Vietnam",
+      "S-Fone/Telecom"
+    ],
+    "45204": [
+      "Vietnam",
+      "Viettel Mobile"
+    ],
+    "45205": [
+      "Vietnam",
+      "VietnaMobile"
+    ],
+    "45206": [
+      "Vietnam",
+      "Viettel Mobile (formerly EVNTelecom)"
+    ],
+    "45207": [
+      "Vietnam",
+      "Gmobile (formerly Beeline)"
+    ],
+    "45208": [
+      "Vietnam",
+      "Viettel Mobile (formerly EVNTelecom)"
+    ],
+    "45400": [
+      "Hong Kong",
+      "CSL Ltd."
+    ],
+    "45401": [
+      "Hong Kong",
+      "Citic Telecom Ltd."
+    ],
+    "45402": [
+      "Hong Kong",
+      "CSL Ltd."
+    ],
+    "45403": [
+      "Hong Kong",
+      "H3G/Hutchinson"
+    ],
+    "45404": [
+      "Hong Kong",
+      "H3G/Hutchinson"
+    ],
+    "45405": [
+      "Hong Kong",
+      "H3G/Hutchinson"
+    ],
+    "45406": [
+      "Hong Kong",
+      "Vodafone/SmarTone"
+    ],
+    "45407": [
+      "Hong Kong",
+      "China Unicom Ltd"
+    ],
+    "45408": [
+      "Hong Kong",
+      "Trident Telecom Ventures Ltd."
+    ],
+    "45409": [
+      "Hong Kong",
+      "China Motion"
+    ],
+    "45410": [
+      "Hong Kong",
+      "CSL/New World PCS Ltd."
+    ],
+    "45411": [
+      "Hong Kong",
+      "China-HongKong Telecom Ltd (CHKTL)"
+    ],
+    "45412": [
+      "Hong Kong",
+      "China Mobile/Peoples"
+    ],
+    "45413": [
+      "Hong Kong",
+      "China Mobile/Peoples"
+    ],
+    "45414": [
+      "Hong Kong",
+      "H3G/Hutchinson"
+    ],
+    "45415": [
+      "Hong Kong",
+      "Vodafone/SmarTone"
+    ],
+    "45416": [
+      "Hong Kong",
+      "HKT/PCCW"
+    ],
+    "45417": [
+      "Hong Kong",
+      "Vodafone/SmarTone"
+    ],
+    "45418": [
+      "Hong Kong",
+      "CSL Ltd."
+    ],
+    "45419": [
+      "Hong Kong",
+      "HKT/PCCW"
+    ],
+    "45420": [
+      "Hong Kong",
+      "HKT/PCCW"
+    ],
+    "45422": [
+      "Hong Kong",
+      "P Plus"
+    ],
+    "45429": [
+      "Hong Kong",
+      "HKT/PCCW"
+    ],
+    "45440": [
+      "Hong Kong",
+      "shared by private TETRA systems"
+    ],
+    "45447": [
+      "Hong Kong",
+      "shared by private TETRA systems"
+    ],
+    "45500": [
+      "Macao, China",
+      "Smartone Mobile"
+    ],
+    "45501": [
+      "Macao, China",
+      "C.T.M. TELEMOVEL+"
+    ],
+    "45502": [
+      "Macao, China",
+      "China Telecom"
+    ],
+    "45503": [
+      "Macao, China",
+      "Hutchison Telephone (Macau) Company Ltd"
+    ],
+    "45504": [
+      "Macao, China",
+      "C.T.M. TELEMOVEL+"
+    ],
+    "45505": [
+      "Macao, China",
+      "Hutchison Telephone (Macau) Company Ltd"
+    ],
+    "45506": [
+      "Macao, China",
+      "Smartone Mobile"
+    ],
+    "45601": [
+      "Cambodia",
+      "Mobitel/Cam GSM"
+    ],
+    "45602": [
+      "Cambodia",
+      "Smart Axiata (formerly Hello Axiata and Smart Mobile)/Malaysia Telcom"
+    ],
+    "45603": [
+      "Cambodia",
+      "QB/ Cambodia Advance Communications Co. Ltd (CADCOMMS)"
+    ],
+    "45604": [
+      "Cambodia",
+      "QB/ Cambodia Advance Communications Co. Ltd (CADCOMMS)"
+    ],
+    "45605": [
+      "Cambodia",
+      "Latelz Company Limited (Smart Mobile)"
+    ],
+    "45606": [
+      "Cambodia",
+      "Latelz Company Limited (Smart Mobile)"
+    ],
+    "45608": [
+      "Cambodia",
+      "Metfone"
+    ],
+    "45609": [
+      "Cambodia",
+      "Sotelco Ltd (Beeline Cambodia)"
+    ],
+    "45611": [
+      "Cambodia",
+      "Excell"
+    ],
+    "45618": [
+      "Cambodia",
+      "MFone/Camshin"
+    ],
+    "45701": [
+      "Laos P.D.R.",
+      "Lao Tel"
+    ],
+    "45702": [
+      "Laos P.D.R.",
+      "ETL Mobile"
+    ],
+    "45703": [
+      "Laos P.D.R.",
+      "UNITEL/LAT"
+    ],
+    "45708": [
+      "Laos P.D.R.",
+      "Tigo/Millicom"
+    ],
+    "46000": [
+      "China",
+      "China Mobile GSM"
+    ],
+    "46001": [
+      "China",
+      "China Unicom"
+    ],
+    "46002": [
+      "China",
+      "China Mobile GSM"
+    ],
+    "46003": [
+      "China",
+      "China Telecom"
+    ],
+    "46004": [
+      "China",
+      "China Space Mobile Satellite Telecommunications Co. Ltd (China Spacecom)"
+    ],
+    "46005": [
+      "China",
+      "China Telecom"
+    ],
+    "46006": [
+      "China",
+      "China Unicom"
+    ],
+    "46007": [
+      "China",
+      "China Mobile GSM"
+    ],
+    "46011": [
+      "China",
+      "China Unicom"
+    ],
+    "46601": [
+      "Taiwan",
+      "Far EasTone"
+    ],
+    "46602": [
+      "Taiwan",
+      "Far EasTone"
+    ],
+    "46603": [
+      "Taiwan",
+      "Far EasTone"
+    ],
+    "46605": [
+      "Taiwan",
+      "Asia Pacific Telecom Co. Ltd (APT)"
+    ],
+    "46606": [
+      "Taiwan",
+      "Far EasTone"
+    ],
+    "46607": [
+      "Taiwan",
+      "Far EasTone"
+    ],
+    "46609": [
+      "Taiwan",
+      "VMAX Telecom Co. Ltd"
+    ],
+    "46610": [
+      "Taiwan",
+      "Global Mobile Corp."
+    ],
+    "46611": [
+      "Taiwan",
+      "Chunghwa Telecom LDM"
+    ],
+    "46656": [
+      "Taiwan",
+      "International Telecom Co. Ltd (FITEL)"
+    ],
+    "46668": [
+      "Taiwan",
+      "ACeS Taiwan - ACeS Taiwan Telecommunications Co Ltd"
+    ],
+    "46688": [
+      "Taiwan",
+      "KG Telecom"
+    ],
+    "46689": [
+      "Taiwan",
+      "VIBO"
+    ],
+    "46692": [
+      "Taiwan",
+      "Chunghwa Telecom LDM"
+    ],
+    "46693": [
+      "Taiwan",
+      "Mobitai (aquired by Taiwan Mobile)"
+    ],
+    "46697": [
+      "Taiwan",
+      "Taiwan Cellular"
+    ],
+    "46699": [
+      "Taiwan",
+      "TransAsia"
+    ],
+    "46705": [
+      "Korea N., Dem. People's Rep.",
+      "Koryolink"
+    ],
+    "467193": [
+      "Korea N., Dem. People's Rep.",
+      "Sun Net"
+    ],
+    "47001": [
+      "Bangladesh",
+      "GrameenPhone"
+    ],
+    "47002": [
+      "Bangladesh",
+      "Robi/Axoata (formerly Aktel)"
+    ],
+    "47003": [
+      "Bangladesh",
+      "Banlalink / Orascom"
+    ],
+    "47004": [
+      "Bangladesh",
+      "TeleTalk"
+    ],
+    "47005": [
+      "Bangladesh",
+      "Citycell"
+    ],
+    "47006": [
+      "Bangladesh",
+      "Citycell"
+    ],
+    "47007": [
+      "Bangladesh",
+      "Airtel/Warid"
+    ],
+    "47201": [
+      "Maldives",
+      "Dhiraagu/C&W"
+    ],
+    "47202": [
+      "Maldives",
+      "Wataniya/WMOBILE"
+    ],
+    "50201": [
+      "Malaysia",
+      "Art900"
+    ],
+    "50210": [
+      "Malaysia",
+      "Digi Telecommunications"
+    ],
+    "50211": [
+      "Malaysia",
+      "MTX Utara"
+    ],
+    "50212": [
+      "Malaysia",
+      "Maxis"
+    ],
+    "50213": [
+      "Malaysia",
+      "CelCom"
+    ],
+    "50214": [
+      "Malaysia",
+      "Telekom Malaysia Berhad"
+    ],
+    "502150": [
+      "Malaysia",
+      "Tune Talk (MVNO under Celcom)"
+    ],
+    "502151": [
+      "Malaysia",
+      "Baraka Telecom Sdn Bhd (MVNO under Maxis)"
+    ],
+    "502152": [
+      "Malaysia",
+      "YES"
+    ],
+    "502153": [
+      "Malaysia",
+      "Packet One Networks (Malaysia) Sdn Bhd"
+    ],
+    "502154": [
+      "Malaysia",
+      "Talk Focus Sdn Bhd"
+    ],
+    "502155": [
+      "Malaysia",
+      "Samata Communications Sdn Bhd"
+    ],
+    "50216": [
+      "Malaysia",
+      "Digi Telecommunications"
+    ],
+    "50217": [
+      "Malaysia",
+      "Maxis"
+    ],
+    "50218": [
+      "Malaysia",
+      "U Mobile"
+    ],
+    "50219": [
+      "Malaysia",
+      "CelCom"
+    ],
+    "50220": [
+      "Malaysia",
+      "Electcoms Wireless Sdn Bhd"
+    ],
+    "50501": [
+      "Australia",
+      "Telstra Corp. Ltd."
+    ],
+    "50502": [
+      "Australia",
+      "Singtel Optus"
+    ],
+    "50503": [
+      "Australia",
+      "Vodafone"
+    ],
+    "50504": [
+      "Australia",
+      "Department of Defense"
+    ],
+    "50505": [
+      "Australia",
+      "The Ozitel Network Pty."
+    ],
+    "50506": [
+      "Australia",
+      "Vodafone Hutchinson Australia (AKA Crazy John's)"
+    ],
+    "50507": [
+      "Australia",
+      "Vodafone"
+    ],
+    "50508": [
+      "Australia",
+      "Railcorp/Vodafone"
+    ],
+    "50509": [
+      "Australia",
+      "Airnet Commercial Australia Ltd.."
+    ],
+    "50510": [
+      "Norfolk Island",
+      "Norfolk Telecom"
+    ],
+    "50511": [
+      "Australia",
+      "Telstra Corp. Ltd."
+    ],
+    "50512": [
+      "Australia",
+      "Vodafone Hutchinson Australia (AKA Crazy John's)"
+    ],
+    "50513": [
+      "Australia",
+      "Railcorp/Vodafone"
+    ],
+    "50514": [
+      "Australia",
+      "AAPT Ltd."
+    ],
+    "50516": [
+      "Australia",
+      "Victorian Rail Track Corp. (VicTrack)"
+    ],
+    "50519": [
+      "Australia",
+      "Lycamobile Pty Ltd"
+    ],
+    "50524": [
+      "Australia",
+      "Advanced Comm Tech Pty."
+    ],
+    "50526": [
+      "Australia",
+      "Dialogue Communications Pty Ltd"
+    ],
+    "50532": [
+      "Australia",
+      "Thales Australia"
+    ],
+    "50538": [
+      "Australia",
+      "Vodafone (previously Crazy John's)"
+    ],
+    "50571": [
+      "Australia",
+      "Telstra Corp. Ltd."
+    ],
+    "50572": [
+      "Australia",
+      "Telstra Corp. Ltd."
+    ],
+    "50588": [
+      "Australia",
+      "Localstar Holding Pty. Ltd"
+    ],
+    "50590": [
+      "Australia",
+      "Singtel Optus"
+    ],
+    "50599": [
+      "Australia",
+      "Railcorp/Vodafone"
+    ],
+    "51000": [
+      "Indonesia",
+      "PT Pasifik Satelit Nusantara (PSN)"
+    ],
+    "51001": [
+      "Indonesia",
+      "Indosat/Satelindo/M3"
+    ],
+    "51003": [
+      "Indonesia",
+      "PT Pasifik Satelit Nusantara (PSN)"
+    ],
+    "51007": [
+      "Indonesia",
+      "PT Telkom"
+    ],
+    "51008": [
+      "Indonesia",
+      "Axis/Natrindo (Lippo Telecom)"
+    ],
+    "51009": [
+      "Indonesia",
+      "PT Smartfren Telecom, Tbk (formerly PT Mobile-8 Telecom Tbk (Mobile-8) and PT Smart Telecom (Smart))"
+    ],
+    "51010": [
+      "Indonesia",
+      "Telkomsel"
+    ],
+    "51011": [
+      "Indonesia",
+      "PT. Excelcom"
+    ],
+    "51020": [
+      "Indonesia",
+      "Telkomsel / TELKOMMobile"
+    ],
+    "51021": [
+      "Indonesia",
+      "Indosat/Satelindo/M3"
+    ],
+    "51027": [
+      "Indonesia",
+      "PT Sampoerna Telekomunikasi Indonesia (STI)"
+    ],
+    "51028": [
+      "Indonesia",
+      "PT Smartfren Telecom, Tbk (formerly PT Mobile-8 Telecom Tbk (Mobile-8) and PT Smart Telecom (Smart))"
+    ],
+    "51089": [
+      "Indonesia",
+      "H3G CP"
+    ],
+    "51099": [
+      "Indonesia",
+      "Esia"
+    ],
+    "51401": [
+      "Timor-Leste",
+      "Telin/ Telkomcel"
+    ],
+    "51402": [
+      "Timor-Leste",
+      "Timor Telecom"
+    ],
+    "51403": [
+      "Timor-Leste",
+      "Viettel Timor-Leste"
+    ],
+    "51500": [
+      "Philippines",
+      "Fix Line"
+    ],
+    "51501": [
+      "Philippines",
+      "Globe Telecom"
+    ],
+    "51502": [
+      "Philippines",
+      "Globe Telecom"
+    ],
+    "51503": [
+      "Philippines",
+      "Smart"
+    ],
+    "51505": [
+      "Philippines",
+      "SUN/Digitel"
+    ],
+    "51511": [
+      "Philippines",
+      "PLDT / ACeS"
+    ],
+    "51518": [
+      "Philippines",
+      "RED Mobile/Cure"
+    ],
+    "51588": [
+      "Philippines",
+      "Next Mobile"
+    ],
+    "52000": [
+      "Thailand",
+      "Hutch/CAT CDMA (also True Move)"
+    ],
+    "52001": [
+      "Thailand",
+      "AIS/Advanced Info Service"
+    ],
+    "52002": [
+      "Thailand",
+      "True Move Co. Ltd.Move (CAT)"
+    ],
+    "52003": [
+      "Thailand",
+      "Advanced Wireless Networks/AWN"
+    ],
+    "52004": [
+      "Thailand",
+      "True Move/Orange"
+    ],
+    "52005": [
+      "Thailand",
+      "Total Access (DTAC)"
+    ],
+    "52015": [
+      "Thailand",
+      "ACT Mobile"
+    ],
+    "52018": [
+      "Thailand",
+      "Total Access (DTAC)"
+    ],
+    "52020": [
+      "Thailand",
+      "ACeS Thailand - ACeS Regional Services Co Ltd"
+    ],
+    "52023": [
+      "Thailand",
+      "Digital Phone Co."
+    ],
+    "52025": [
+      "Thailand",
+      "True Move"
+    ],
+    "52047": [
+      "Thailand",
+      "TOT Public Company Limited"
+    ],
+    "52099": [
+      "Thailand",
+      "True Move/Orange"
+    ],
+    "52501": [
+      "Singapore",
+      "Singtel"
+    ],
+    "52502": [
+      "Singapore",
+      "Singtel"
+    ],
+    "52503": [
+      "Singapore",
+      "MobileOne Ltd"
+    ],
+    "52505": [
+      "Singapore",
+      "Starhub"
+    ],
+    "52506": [
+      "Singapore",
+      "Starhub"
+    ],
+    "52507": [
+      "Singapore",
+      "Singtel"
+    ],
+    "52512": [
+      "Singapore",
+      "GRID Communications Pte Ltd"
+    ],
+    "52801": [
+      "Brunei Darussalam",
+      "Telekom Brunei Bhd (TelBru) (Jabatann Telekom Brunei)"
+    ],
+    "52802": [
+      "Brunei Darussalam",
+      "b-mobile"
+    ],
+    "52811": [
+      "Brunei Darussalam",
+      "Datastream (DTSCom)"
+    ],
+    "53000": [
+      "New Zealand",
+      "Telecom NZ"
+    ],
+    "53001": [
+      "New Zealand",
+      "Vodafone"
+    ],
+    "53002": [
+      "New Zealand",
+      "NZ Telecom CDMA"
+    ],
+    "53003": [
+      "New Zealand",
+      "Walker Wireless Ltd."
+    ],
+    "53004": [
+      "New Zealand",
+      "Telstra"
+    ],
+    "53005": [
+      "New Zealand",
+      "Telecom Mobile Ltd"
+    ],
+    "53006": [
+      "New Zealand",
+      "Telecom NZ"
+    ],
+    "53024": [
+      "New Zealand",
+      "Two Degrees Mobile Ltd"
+    ],
+    "53028": [
+      "New Zealand",
+      "2degrees"
+    ],
+    "53601": [
+      "Nauru",
+      "Digicell"
+    ],
+    "53602": [
+      "Nauru",
+      "Digicell"
+    ],
+    "53701": [
+      "Papua New Guinea",
+      "bemobile"
+    ],
+    "53702": [
+      "Papua New Guinea",
+      "GreenCom PNG Ltd"
+    ],
+    "53703": [
+      "Papua New Guinea",
+      "Digicel"
+    ],
+    "53901": [
+      "Tonga",
+      "Tonga Communications"
+    ],
+    "53943": [
+      "Tonga",
+      "Shoreline Communication"
+    ],
+    "53988": [
+      "Tonga",
+      "Digicel"
+    ],
+    "54001": [
+      "Solomon Islands",
+      "BREEZE"
+    ],
+    "54002": [
+      "Solomon Islands",
+      "bemobile"
+    ],
+    "54010": [
+      "Solomon Islands",
+      "BREEZE"
+    ],
+    "54101": [
+      "Vanuatu",
+      "SMILE"
+    ],
+    "54105": [
+      "Vanuatu",
+      "DigiCel"
+    ],
+    "54201": [
+      "Fiji",
+      "Vodafone"
+    ],
+    "54202": [
+      "Fiji",
+      "DigiCell"
+    ],
+    "54203": [
+      "Fiji",
+      "Telecom Fiji Ltd (CDMA)"
+    ],
+    "54411": [
+      "American Samoa",
+      "Blue Sky Communications"
+    ],
+    "544998": [
+      "American Samoa",
+      "American Samoa Telecom"
+    ],
+    "54501": [
+      "Kiribati",
+      "Kiribati TSKL / Telecom Services Kiribati Ltd"
+    ],
+    "54509": [
+      "Kiribati",
+      "Kiribati Frigate Net / Telecom Services Kiribati Ltd"
+    ],
+    "54601": [
+      "New Caledonia",
+      "OPT Mobilis"
+    ],
+    "54715": [
+      "French Polynesia",
+      "Pacific Mobile Telecom (PMT)"
+    ],
+    "54720": [
+      "French Polynesia",
+      "Tikiphone"
+    ],
+    "54801": [
+      "Cook Islands",
+      "Telecom Cook Islands"
+    ],
+    "54900": [
+      "Samoa",
+      "Digicel"
+    ],
+    "54901": [
+      "Samoa",
+      "Telecom Samoa Cellular Ltd."
+    ],
+    "54927": [
+      "Samoa",
+      "Samoatel Mobile"
+    ],
+    "55001": [
+      "Micronesia",
+      "FSM Telecom"
+    ],
+    "55101": [
+      "Marshall Islands",
+      "Marshall Islands National Telecommunications Authority (MINTA)"
+    ],
+    "55201": [
+      "Palau (Republic of)",
+      "Palau National Communications Corp. (PNCC)"
+    ],
+    "55280": [
+      "Palau (Republic of)",
+      "Palau Mobile Corp. (PMC)"
+    ],
+    "55301": [
+      "Tuvalu",
+      "Tuvalu Telecommunication Corporation (TTC)"
+    ],
+    "55501": [
+      "Niue",
+      "Niue Telecom"
+    ],
+    "60201": [
+      "Egypt",
+      "EMS - Mobinil"
+    ],
+    "60202": [
+      "Egypt",
+      "Vodafone (Misrfone Telecom)"
+    ],
+    "60203": [
+      "Egypt",
+      "ETISALAT"
+    ],
+    "60301": [
+      "Algeria",
+      "ATM Mobils"
+    ],
+    "60302": [
+      "Algeria",
+      "Orascom / DJEZZY"
+    ],
+    "60303": [
+      "Algeria",
+      "Wataniya / Nedjma"
+    ],
+    "60400": [
+      "Morocco",
+      "Medi Telecom"
+    ],
+    "60401": [
+      "Morocco",
+      "IAM / Itissallat / Maroc Telecom"
+    ],
+    "60402": [
+      "Morocco",
+      "WANA"
+    ],
+    "60405": [
+      "Morocco",
+      "INWI / Wana"
+    ],
+    "60501": [
+      "Tunisia",
+      "Orange"
+    ],
+    "60502": [
+      "Tunisia",
+      "Tunisie Telecom"
+    ],
+    "60503": [
+      "Tunisia",
+      "Tunisiana / Orascom Telecom"
+    ],
+    "60600": [
+      "Libya",
+      "Libyana"
+    ],
+    "60601": [
+      "Libya",
+      "Al-Madar"
+    ],
+    "60602": [
+      "Libya",
+      "Al-Madar"
+    ],
+    "60603": [
+      "Libya",
+      "Libyana"
+    ],
+    "60606": [
+      "Libya",
+      "Hatef"
+    ],
+    "60701": [
+      "Gambia",
+      "Gamcel"
+    ],
+    "60702": [
+      "Gambia",
+      "Africel"
+    ],
+    "60703": [
+      "Gambia",
+      "Comium"
+    ],
+    "60704": [
+      "Gambia",
+      "Q-Cell"
+    ],
+    "60801": [
+      "Senegal",
+      "Orange/Sonatel"
+    ],
+    "60802": [
+      "Senegal",
+      "Sentel GSM"
+    ],
+    "60803": [
+      "Senegal",
+      "Expresso/Sudatel"
+    ],
+    "60901": [
+      "Mauritania",
+      "Mattel"
+    ],
+    "60902": [
+      "Mauritania",
+      "Chinguitel SA"
+    ],
+    "60910": [
+      "Mauritania",
+      "Mauritel"
+    ],
+    "61001": [
+      "Mali",
+      "Malitel"
+    ],
+    "61002": [
+      "Mali",
+      "Orange/IKATEL"
+    ],
+    "61101": [
+      "Guinea",
+      "Orange/Spacetel"
+    ],
+    "61102": [
+      "Guinea",
+      "SotelGui"
+    ],
+    "61103": [
+      "Guinea",
+      "Intercel"
+    ],
+    "61104": [
+      "Guinea",
+      "Areeba - MTN"
+    ],
+    "61105": [
+      "Guinea",
+      "Celcom"
+    ],
+    "61201": [
+      "Ivory Coast",
+      "Comstar"
+    ],
+    "61202": [
+      "Ivory Coast",
+      "Atlantik Tel./Moov (Etisalat)"
+    ],
+    "61203": [
+      "Ivory Coast",
+      "Orange"
+    ],
+    "61204": [
+      "Ivory Coast",
+      "Comium"
+    ],
+    "61205": [
+      "Ivory Coast",
+      "MTN"
+    ],
+    "61206": [
+      "Ivory Coast",
+      "OriCell"
+    ],
+    "61207": [
+      "Ivory Coast",
+      "Aircomm SA"
+    ],
+    "61301": [
+      "Burkina Faso",
+      "TeleMob-OnaTel"
+    ],
+    "61302": [
+      "Burkina Faso",
+      "AirTel/ZAIN/CelTel"
+    ],
+    "61303": [
+      "Burkina Faso",
+      "TeleCel"
+    ],
+    "61401": [
+      "Niger",
+      "Orange/Sahelc."
+    ],
+    "61402": [
+      "Niger",
+      "Zain/CelTel"
+    ],
+    "61403": [
+      "Niger",
+      "Etisalat/TeleCel"
+    ],
+    "61404": [
+      "Niger",
+      "Orange/Sahelc."
+    ],
+    "61501": [
+      "Togo",
+      "Togo Telecom/TogoCELL"
+    ],
+    "61503": [
+      "Togo",
+      "Telecel/MOOV"
+    ],
+    "61600": [
+      "Benin",
+      "Bell Benin/BBCOM"
+    ],
+    "61601": [
+      "Benin",
+      "Libercom (Benin Telecoms Mobile)"
+    ],
+    "61602": [
+      "Benin",
+      "Etisalat/MOOV/Telecel Benin"
+    ],
+    "61603": [
+      "Benin",
+      "MTN/Spacetel"
+    ],
+    "61604": [
+      "Benin",
+      "Bell Benin/BBCOM"
+    ],
+    "61605": [
+      "Benin",
+      "GloMobile"
+    ],
+    "61701": [
+      "Mauritius",
+      "Orange/Cellplus"
+    ],
+    "61702": [
+      "Mauritius",
+      "Mahanagar Telephone"
+    ],
+    "61703": [
+      "Mauritius",
+      "Mahanagar Telephone"
+    ],
+    "61710": [
+      "Mauritius",
+      "Emtel Ltd"
+    ],
+    "61801": [
+      "Liberia",
+      "Lonestar"
+    ],
+    "61802": [
+      "Liberia",
+      "Libercell"
+    ],
+    "61803": [
+      "Liberia",
+      "Celcom"
+    ],
+    "61804": [
+      "Liberia",
+      "Comium BVI"
+    ],
+    "61807": [
+      "Liberia",
+      "Celcom"
+    ],
+    "61820": [
+      "Liberia",
+      "LibTelco"
+    ],
+    "61901": [
+      "Sierra Leone",
+      "Zain/Celtel"
+    ],
+    "61902": [
+      "Sierra Leone",
+      "Tigo/Millicom"
+    ],
+    "61903": [
+      "Sierra Leone",
+      "Africel"
+    ],
+    "61904": [
+      "Sierra Leone",
+      "Comium"
+    ],
+    "61905": [
+      "Sierra Leone",
+      "Africel"
+    ],
+    "61909": [
+      "Sierra Leone",
+      "Intergroup Telecom"
+    ],
+    "61925": [
+      "Sierra Leone",
+      "Mobitel"
+    ],
+    "61940": [
+      "Sierra Leone",
+      "Datatel (SL) Ltd GSM"
+    ],
+    "61950": [
+      "Sierra Leone",
+      "Datatel (SL) Ltd CDMA"
+    ],
+    "62001": [
+      "Ghana",
+      "MTN"
+    ],
+    "62002": [
+      "Ghana",
+      "Vodafone (formlery Onetouch)"
+    ],
+    "62003": [
+      "Ghana",
+      "Milicom/Tigo (former MOBITEL)"
+    ],
+    "62004": [
+      "Ghana",
+      "Expresso Ghana Ltd / Kasapa"
+    ],
+    "62006": [
+      "Ghana",
+      "Airtel (Zain)"
+    ],
+    "62007": [
+      "Ghana",
+      "Globacom / GloMobile"
+    ],
+    "62101": [
+      "Nigeria",
+      "Visafone"
+    ],
+    "62120": [
+      "Nigeria",
+      "Airtel/Econet (formerly V-Mobile/Zain)"
+    ],
+    "62125": [
+      "Nigeria",
+      "Visafone"
+    ],
+    "62130": [
+      "Nigeria",
+      "MTN"
+    ],
+    "62140": [
+      "Nigeria",
+      "M-Tel/Nigeria Telecom. Ltd."
+    ],
+    "62150": [
+      "Nigeria",
+      "Glo Mobile (Globacom)"
+    ],
+    "62160": [
+      "Nigeria",
+      "ETISALAT (ETSM)"
+    ],
+    "62196": [
+      "Nigeria",
+      "Starcomms"
+    ],
+    "62199": [
+      "Nigeria",
+      "Starcomms"
+    ],
+    "621996": [
+      "Nigeria",
+      "Visafone"
+    ],
+    "621997": [
+      "Nigeria",
+      "Multi-Links"
+    ],
+    "621998": [
+      "Nigeria",
+      "Starcomms"
+    ],
+    "62201": [
+      "Chad",
+      "Zain/Airtel/Celtel"
+    ],
+    "62202": [
+      "Chad",
+      "Tchad Mobile"
+    ],
+    "62203": [
+      "Chad",
+      "Tigo/Milicom/Tchad Mobile"
+    ],
+    "62204": [
+      "Chad",
+      "Salam/Sotel"
+    ],
+    "62207": [
+      "Chad",
+      "Salam/Sotel"
+    ],
+    "62301": [
+      "Central African Rep.",
+      "Centrafr. Telecom+"
+    ],
+    "62302": [
+      "Central African Rep.",
+      "Telecel Centraf."
+    ],
+    "62303": [
+      "Central African Rep.",
+      "Orange/Celca"
+    ],
+    "62304": [
+      "Central African Rep.",
+      "Nationlink"
+    ],
+    "62401": [
+      "Cameroon",
+      "MTN"
+    ],
+    "62402": [
+      "Cameroon",
+      "Orange"
+    ],
+    "62404": [
+      "Cameroon",
+      "Nextel (ex Viettel Cameroon)"
+    ],
+    "62501": [
+      "Cape Verde",
+      "CV Movel"
+    ],
+    "62502": [
+      "Cape Verde",
+      "T+ Telecom (Unitel)"
+    ],
+    "62601": [
+      "Sao Tome & Principe",
+      "CSTmovel"
+    ],
+    "62701": [
+      "Equatorial Guinea",
+      "ORANGE/GETESA"
+    ],
+    "62703": [
+      "Equatorial Guinea",
+      "HiTs-GE"
+    ],
+    "62801": [
+      "Gabon",
+      "Libertis S.A."
+    ],
+    "62802": [
+      "Gabon",
+      "MOOV/Telecel (Atlantique Telecom / Etisalat)"
+    ],
+    "62803": [
+      "Gabon",
+      "ZAIN/Celtel Gabon S.A."
+    ],
+    "62804": [
+      "Gabon",
+      "Azur/Usan S.A."
+    ],
+    "62901": [
+      "Congo, Republic",
+      "Airtel Congo SA (formery Celtel)"
+    ],
+    "62902": [
+      "Congo, Republic",
+      "Zain/Celtel"
+    ],
+    "62907": [
+      "Congo, Republic",
+      "Warid"
+    ],
+    "62910": [
+      "Congo, Republic",
+      "MTN/Libertis"
+    ],
+    "63001": [
+      "Congo, Dem. Rep.",
+      "Vodacom"
+    ],
+    "63002": [
+      "Congo, Dem. Rep.",
+      "ZAIN CelTel"
+    ],
+    "63005": [
+      "Congo, Dem. Rep.",
+      "SuperCell"
+    ],
+    "63086": [
+      "Congo, Dem. Rep.",
+      "Orange RDC sarl"
+    ],
+    "63088": [
+      "Congo, Dem. Rep.",
+      "Yozma Timeturns sprl (YTT)"
+    ],
+    "63089": [
+      "Congo, Dem. Rep.",
+      "TIGO/Oasis"
+    ],
+    "63090": [
+      "Congo, Dem. Rep.",
+      "Africell"
+    ],
+    "63102": [
+      "Angola",
+      "Unitel"
+    ],
+    "63103": [
+      "Angola",
+      "Angola Telecom (AKA MoviCel)"
+    ],
+    "63104": [
+      "Angola",
+      "MoviCel"
+    ],
+    "63201": [
+      "Guinea-Bissau",
+      "GuineTel"
+    ],
+    "63202": [
+      "Guinea-Bissau",
+      "SpaceTel"
+    ],
+    "63203": [
+      "Guinea-Bissau",
+      "Orange"
+    ],
+    "63207": [
+      "Guinea-Bissau",
+      "GuineTel"
+    ],
+    "63301": [
+      "Seychelles",
+      "Ipko Telecommunications d. o. o."
+    ],
+    "63302": [
+      "Seychelles",
+      "Smartcom (Mediatech International Limited)"
+    ],
+    "63310": [
+      "Seychelles",
+      "Airtel (Telecom Seychells Ltd.)"
+    ],
+    "63400": [
+      "Sudan",
+      "Canar Telecom"
+    ],
+    "63401": [
+      "Sudan",
+      "ZAIN (formlerly Mobitel) / Sudanese MTC"
+    ],
+    "63402": [
+      "Sudan",
+      "MTN (Areeba)"
+    ],
+    "63405": [
+      "Sudan",
+      "Vivacell"
+    ],
+    "63406": [
+      "Sudan",
+      "ZAIN/Mobitel"
+    ],
+    "63407": [
+      "Sudan",
+      "Sudani One"
+    ],
+    "63408": [
+      "Sudan",
+      "Vivacell"
+    ],
+    "63409": [
+      "Sudan",
+      "Privet Network / NEC"
+    ],
+    "63415": [
+      "Sudan",
+      "Sudani One"
+    ],
+    "63422": [
+      "Sudan",
+      "MTN (Areeba)"
+    ],
+    "63499": [
+      "Sudan",
+      "MTN"
+    ],
+    "63510": [
+      "Rwanda",
+      "MTN/Rwandacell"
+    ],
+    "63512": [
+      "Rwanda",
+      "Rwandatel"
+    ],
+    "63513": [
+      "Rwanda",
+      "TIGO"
+    ],
+    "63514": [
+      "Rwanda",
+      "Airtel Rwanda Ltd"
+    ],
+    "63601": [
+      "Ethiopia",
+      "ETH/MTN"
+    ],
+    "63701": [
+      "Somalia",
+      "Telesom"
+    ],
+    "63704": [
+      "Somalia",
+      "Somafone"
+    ],
+    "63710": [
+      "Somalia",
+      "Nationlink"
+    ],
+    "63719": [
+      "Somalia",
+      "HorTel"
+    ],
+    "63725": [
+      "Somalia",
+      "Hormuud Telecom Somalia"
+    ],
+    "63730": [
+      "Somalia",
+      "Golis"
+    ],
+    "63750": [
+      "Somalia",
+      "Hormuud Telecom Somalia"
+    ],
+    "63760": [
+      "Somalia",
+      "Nationlink"
+    ],
+    "63771": [
+      "Somalia",
+      "Somtel"
+    ],
+    "63782": [
+      "Somalia",
+      "Telcom Mobile Somalia"
+    ],
+    "63801": [
+      "Djibouti",
+      "Djibouti Telecom SA (Evatis)"
+    ],
+    "63902": [
+      "Kenya",
+      "Safaricom Ltd."
+    ],
+    "63903": [
+      "Kenya",
+      "Airtel / Zain / Celtel Ltd."
+    ],
+    "63905": [
+      "Kenya",
+      "Yu / Econet Wireless / Essar"
+    ],
+    "63907": [
+      "Kenya",
+      "Orange"
+    ],
+    "64001": [
+      "Tanzania",
+      "Tri Telecomm. Ltd."
+    ],
+    "64002": [
+      "Tanzania",
+      "TIGO/MIC"
+    ],
+    "64003": [
+      "Tanzania",
+      "Zantel/Zanzibar Telecom"
+    ],
+    "64004": [
+      "Tanzania",
+      "Vodacom Ltd"
+    ],
+    "64005": [
+      "Tanzania",
+      "Airtel (formerly ZAIN/Celtel)"
+    ],
+    "64006": [
+      "Tanzania",
+      "Dovetel (T) Ltd"
+    ],
+    "64007": [
+      "Tanzania",
+      "Tanzania Telecommunications Company Ltd (TTCL)"
+    ],
+    "64008": [
+      "Tanzania",
+      "Benson Informatics Ltd"
+    ],
+    "64009": [
+      "Tanzania",
+      "ExcellentCom (T) Ltd"
+    ],
+    "64011": [
+      "Tanzania",
+      "Smile Communications Tanzania Ltd"
+    ],
+    "64101": [
+      "Uganda",
+      "Airtel (formerly Zain/Celtel)"
+    ],
+    "64110": [
+      "Uganda",
+      "MTN Ltd."
+    ],
+    "64111": [
+      "Uganda",
+      "Uganda Telecom Ltd."
+    ],
+    "64114": [
+      "Uganda",
+      "Orange"
+    ],
+    "64118": [
+      "Uganda",
+      "Suretelecom Uganda Ltd"
+    ],
+    "64122": [
+      "Uganda",
+      "Airtel/Warid"
+    ],
+    "64130": [
+      "Uganda",
+      "K2 Telecom Ltd"
+    ],
+    "64133": [
+      "Uganda",
+      "Smile Communications Uganda Ltd"
+    ],
+    "64166": [
+      "Uganda",
+      "i-Tel Ltd"
+    ],
+    "64201": [
+      "Burundi",
+      "Spacetel / Econet"
+    ],
+    "64202": [
+      "Burundi",
+      "Africel / Safaris"
+    ],
+    "64203": [
+      "Burundi",
+      "Onatel / Telecel"
+    ],
+    "64207": [
+      "Burundi",
+      "Smart Mobile / LACELL"
+    ],
+    "64208": [
+      "Burundi",
+      "HiTs Telecom"
+    ],
+    "64282": [
+      "Burundi",
+      "Leo (formerly U-COM (formerly Telecel)) / Orascom Telecom"
+    ],
+    "64301": [
+      "Mozambique",
+      "mCel (Mocambique Celular)"
+    ],
+    "64303": [
+      "Mozambique",
+      "Movitel"
+    ],
+    "64304": [
+      "Mozambique",
+      "Vodacom Sarl"
+    ],
+    "64501": [
+      "Zambia",
+      "Zain/Celtel"
+    ],
+    "64502": [
+      "Zambia",
+      "MTN/Telecel"
+    ],
+    "64503": [
+      "Zambia",
+      "Cell Z/MTS/Zamtel"
+    ],
+    "64601": [
+      "Madagascar",
+      "Airtel (Formerly Zain / Celtel / MADACOM)"
+    ],
+    "64602": [
+      "Madagascar",
+      "Orange/Soci"
+    ],
+    "64603": [
+      "Madagascar",
+      "Sacel"
+    ],
+    "64604": [
+      "Madagascar",
+      "Telma"
+    ],
+    "64700": [
+      "Reunion",
+      "Orange la Reunion"
+    ],
+    "64702": [
+      "Reunion",
+      "Outremer Telecom"
+    ],
+    "64710": [
+      "Reunion",
+      "SFR / SRR (Soci\u00e9t\u00e9 R\u00e9unionnaise du Radiot\u00e9l\u00e9phone)"
+    ],
+    "64801": [
+      "Zimbabwe",
+      "Net One"
+    ],
+    "64803": [
+      "Zimbabwe",
+      "Telecel"
+    ],
+    "64804": [
+      "Zimbabwe",
+      "Econet"
+    ],
+    "64901": [
+      "Namibia",
+      "MTC"
+    ],
+    "64902": [
+      "Namibia",
+      "Switch/Nam. Telec."
+    ],
+    "64903": [
+      "Namibia",
+      "TN Mobile (Telecom Namibia)(formerly Leo / Orascom /Cell One / Powercom)"
+    ],
+    "65001": [
+      "Malawi",
+      "Tele Networks Malawi/Telekom Network Ltd."
+    ],
+    "65010": [
+      "Malawi",
+      "Zain/Celtel ltd."
+    ],
+    "65101": [
+      "Lesotho",
+      "Vodacom Lesotho"
+    ],
+    "65102": [
+      "Lesotho",
+      "Econet/Ezi-cel"
+    ],
+    "65200": [
+      "Botswana",
+      ""
+    ],
+    "65201": [
+      "Botswana",
+      "Mascom Wireless (Pty) Ltd."
+    ],
+    "65202": [
+      "Botswana",
+      "Orange"
+    ],
+    "65204": [
+      "Botswana",
+      "BTC Mobile / Botswana Telecommunications Corporation"
+    ],
+    "65301": [
+      "Swaziland",
+      "SwaziTelecom"
+    ],
+    "65310": [
+      "Swaziland",
+      "Swazi MTN"
+    ],
+    "65401": [
+      "Comoros",
+      "HURI - SNPT"
+    ],
+    "65501": [
+      "South Africa",
+      "Vodacom"
+    ],
+    "65502": [
+      "South Africa",
+      "8.ta"
+    ],
+    "65506": [
+      "South Africa",
+      "Sentech"
+    ],
+    "65507": [
+      "South Africa",
+      "Cell C"
+    ],
+    "65510": [
+      "South Africa",
+      "MTN"
+    ],
+    "65511": [
+      "South Africa",
+      "South African Police Service Gauteng"
+    ],
+    "65512": [
+      "South Africa",
+      "MTN"
+    ],
+    "65516": [
+      "South Africa",
+      "Phoenix Systems Integration (Pty) Ltd"
+    ],
+    "65519": [
+      "South Africa",
+      "Wireless Business Solutions (Pty) Ltd"
+    ],
+    "65521": [
+      "South Africa",
+      "Cape Town Metropolitan"
+    ],
+    "65530": [
+      "South Africa",
+      "Bokamoso Consortium"
+    ],
+    "65531": [
+      "South Africa",
+      "Karabo Telecoms"
+    ],
+    "65532": [
+      "South Africa",
+      "Ilizwi Telecommunications"
+    ],
+    "65533": [
+      "South Africa",
+      "Thinta Thinta Telecommunications"
+    ],
+    "65701": [
+      "Eritrea",
+      "Eritel"
+    ],
+    "65902": [
+      "South Sudan (Republic of)",
+      "MTN South Sudan (South Sudan"
+    ],
+    "65903": [
+      "South Sudan (Republic of)",
+      "Gemtel Ltd (South Sudan"
+    ],
+    "65904": [
+      "South Sudan (Republic of)",
+      "Network of The World Ltd (NOW) (South Sudan"
+    ],
+    "65905": [
+      "South Sudan (Republic of)",
+      "Vivacell"
+    ],
+    "65906": [
+      "South Sudan (Republic of)",
+      "Zain South Sudan (South Sudan"
+    ],
+    "65907": [
+      "South Sudan (Republic of)",
+      "Sudani"
+    ],
+    "65912": [
+      "South Sudan (Republic of)",
+      "Sudani/Sudatel"
+    ],
+    "65991": [
+      "South Sudan (Republic of)",
+      "Zain-South Sudan"
+    ],
+    "65992": [
+      "South Sudan (Republic of)",
+      "MTN-South Sudan"
+    ],
+    "65995": [
+      "South Sudan (Republic of)",
+      "Vivacel/NOW"
+    ],
+    "65997": [
+      "South Sudan (Republic of)",
+      "Gemtel"
+    ],
+    "70267": [
+      "Belize",
+      "DigiCell (Belize Telemedia Ltd.)"
+    ],
+    "70268": [
+      "Belize",
+      "International Telco (INTELCO)"
+    ],
+    "70299": [
+      "Belize",
+      "Speednet (Smart)"
+    ],
+    "70401": [
+      "Guatemala",
+      "Claro / SERCOM (Services de Comunicaciones Personales)"
+    ],
+    "70402": [
+      "Guatemala",
+      "TIGO / COMCEL"
+    ],
+    "70403": [
+      "Guatemala",
+      "Telefonica / Movistar"
+    ],
+    "70601": [
+      "El Salvador",
+      "CLARO/CTE"
+    ],
+    "70602": [
+      "El Salvador",
+      "Digicel"
+    ],
+    "70603": [
+      "El Salvador",
+      "Tigo (Telemovil)"
+    ],
+    "70604": [
+      "El Salvador",
+      "Movistar (Telefonica Moviles)"
+    ],
+    "70605": [
+      "El Salvador",
+      "INTELFON SA de CV"
+    ],
+    "708001": [
+      "Honduras",
+      "SERCOM/CLARO/Megatel"
+    ],
+    "708002": [
+      "Honduras",
+      "Telefonica/CELTEL"
+    ],
+    "70802": [
+      "Honduras",
+      "Telefonica/CELTEL"
+    ],
+    "708030": [
+      "Honduras",
+      "HonduTel"
+    ],
+    "708040": [
+      "Honduras",
+      "Digicel"
+    ],
+    "70830": [
+      "Honduras",
+      "HonduTel"
+    ],
+    "71021": [
+      "Nicaragua",
+      "Claro (Empresa Nicaraguense de Telecomunicaciones / SA ENITEL)"
+    ],
+    "71030": [
+      "Nicaragua",
+      "Movistar / Telefonica"
+    ],
+    "71073": [
+      "Nicaragua",
+      "Claro (Empresa Nicaraguense de Telecomunicaciones / SA ENITEL) (formally Sercom / Servicios de Comunicaciones)"
+    ],
+    "71201": [
+      "Costa Rica",
+      "ICE"
+    ],
+    "71202": [
+      "Costa Rica",
+      "ICE"
+    ],
+    "71203": [
+      "Costa Rica",
+      "Claro"
+    ],
+    "71204": [
+      "Costa Rica",
+      "Movistar (Telefonica Moviles Costa Rica)"
+    ],
+    "71220": [
+      "Costa Rica",
+      "Virtualis / fullmovil"
+    ],
+    "71401": [
+      "Panama",
+      "Cable & Wireless S.A."
+    ],
+    "71402": [
+      "Panama",
+      "BSC de Panama S.A. / Movistar (Telefonia Moviles Panama)"
+    ],
+    "714020": [
+      "Panama",
+      "Movistar (Telefonia Moviles Panama)"
+    ],
+    "71403": [
+      "Panama",
+      "Claro"
+    ],
+    "71404": [
+      "Panama",
+      "Digicel"
+    ],
+    "71601": [
+      "Peru",
+      "GlobalStar"
+    ],
+    "71602": [
+      "Peru",
+      "GlobalStar"
+    ],
+    "71606": [
+      "Peru",
+      "Movistar (Telefonia Moviles Panama)"
+    ],
+    "71607": [
+      "Peru",
+      "Nextel"
+    ],
+    "71610": [
+      "Peru",
+      "Claro /Amer.Mov./TIM (Telecom Italia)"
+    ],
+    "71615": [
+      "Peru",
+      "Viettel Mobile / Viettel Peru SAC"
+    ],
+    "71617": [
+      "Peru",
+      "Nextel"
+    ],
+    "71620": [
+      "Peru",
+      "Claro /Amer.Mov./TIM (Telecom Italia)"
+    ],
+    "722010": [
+      "Argentina Republic",
+      "Movistar (Compania De Radiocomunicaciones Moviles SA)"
+    ],
+    "722020": [
+      "Argentina Republic",
+      "Nextel /  NII Holdings Inc (AG)"
+    ],
+    "722040": [
+      "Argentina Republic",
+      "Globalstar"
+    ],
+    "722070": [
+      "Argentina Republic",
+      "Movistar/Telefonica"
+    ],
+    "722310": [
+      "Argentina Republic",
+      "Claro/ CTI/AMX"
+    ],
+    "722320": [
+      "Argentina Republic",
+      "Claro/ CTI/AMX"
+    ],
+    "722330": [
+      "Argentina Republic",
+      "Claro/ CTI/AMX"
+    ],
+    "722340": [
+      "Argentina Republic",
+      "Telecom Personal S.A."
+    ],
+    "722341": [
+      "Argentina Republic",
+      "Telecom Personal S.A."
+    ],
+    "722350": [
+      "Argentina Republic",
+      "PORT-HABLE (Hutchison Telecommunications Argentina)"
+    ],
+    "72400": [
+      "Brazil",
+      "Nextel (Telet) / NII Holdings, Inc."
+    ],
+    "72401": [
+      "Brazil",
+      "Vivo S.A./Telemig (Sisteer Do Brasil)"
+    ],
+    "72402": [
+      "Brazil",
+      "TIM (Telecom Italia)"
+    ],
+    "72403": [
+      "Brazil",
+      "TIM (Telecom Italia)"
+    ],
+    "72404": [
+      "Brazil",
+      "TIM (Telecom Italia)"
+    ],
+    "72405": [
+      "Brazil",
+      "Claro/Albra/America Movil"
+    ],
+    "72406": [
+      "Brazil",
+      "Vivo S.A./Telemig"
+    ],
+    "72407": [
+      "Brazil",
+      "CTBC/Triangulo"
+    ],
+    "72408": [
+      "Brazil",
+      "TIM (Telecom Italia)"
+    ],
+    "72410": [
+      "Brazil",
+      "Vivo S.A./Telemig"
+    ],
+    "72411": [
+      "Brazil",
+      "Vivo S.A./Telemig"
+    ],
+    "72412": [
+      "Brazil",
+      "Claro/Albra/America Movil"
+    ],
+    "72415": [
+      "Brazil",
+      "Sercomtel Cel"
+    ],
+    "72416": [
+      "Brazil",
+      "Brazil Telcom (BRT celular)"
+    ],
+    "72418": [
+      "Brazil",
+      "Datora (MVNO)"
+    ],
+    "72419": [
+      "Brazil",
+      "Vivo S.A./Telemig"
+    ],
+    "72423": [
+      "Brazil",
+      "Vivo S.A./Telemig /Amazonia"
+    ],
+    "72424": [
+      "Brazil",
+      "Amazonia Celular S/A"
+    ],
+    "72430": [
+      "Brazil",
+      "Oi (TNL PCS / Oi)"
+    ],
+    "72431": [
+      "Brazil",
+      "Oi (TNL PCS / Oi)"
+    ],
+    "72432": [
+      "Brazil",
+      "CTBC Celular SA (CTBC)"
+    ],
+    "72433": [
+      "Brazil",
+      "CTBC Celular SA (CTBC)"
+    ],
+    "72434": [
+      "Brazil",
+      "CTBC Celular SA (CTBC)"
+    ],
+    "72435": [
+      "Brazil",
+      "Telcom"
+    ],
+    "72436": [
+      "Brazil",
+      "Options"
+    ],
+    "72437": [
+      "Brazil",
+      "Unicel do Brasil Telecomunicacoes Ltda"
+    ],
+    "72438": [
+      "Brazil",
+      "Claro/Albra/America Movil"
+    ],
+    "72439": [
+      "Brazil",
+      "Nextel (Telet) / NII Holdings, Inc."
+    ],
+    "72454": [
+      "Brazil",
+      "Porto Seguro Telecomunicacoes (MVNO)"
+    ],
+    "72499": [
+      "Brazil",
+      "Local (STFC)"
+    ],
+    "73000": [
+      "Chile",
+      "TESAM SA"
+    ],
+    "73001": [
+      "Chile",
+      "Entel Telefonia Mov"
+    ],
+    "73002": [
+      "Chile",
+      "TELEFONICA"
+    ],
+    "73003": [
+      "Chile",
+      "Claro"
+    ],
+    "73004": [
+      "Chile",
+      "Nextel SA"
+    ],
+    "73005": [
+      "Chile",
+      "Nextel SA"
+    ],
+    "73006": [
+      "Chile",
+      "Blue Two Chile SA"
+    ],
+    "73007": [
+      "Chile",
+      "TELEFONICA"
+    ],
+    "73008": [
+      "Chile",
+      "VTR Banda Ancha SA"
+    ],
+    "73009": [
+      "Chile",
+      "Nextel SA"
+    ],
+    "73010": [
+      "Chile",
+      "Entel PCS"
+    ],
+    "73011": [
+      "Chile",
+      "Celupago SA"
+    ],
+    "73012": [
+      "Chile",
+      "Telestar Movil SA"
+    ],
+    "73013": [
+      "Chile",
+      "Tribe Mobile SPA"
+    ],
+    "73014": [
+      "Chile",
+      "Netline Telefonica Movil Ltda"
+    ],
+    "73015": [
+      "Chile",
+      "Cibeles Telecom SA"
+    ],
+    "732001": [
+      "Colombia",
+      "TIGO/Colombia Movil"
+    ],
+    "732002": [
+      "Colombia",
+      "Edatel S.A."
+    ],
+    "732020": [
+      "Colombia",
+      "UNE EPM Telecomunicaciones SA ESP"
+    ],
+    "732101": [
+      "Colombia",
+      "Comcel S.A. Occel S.A./Celcaribe"
+    ],
+    "732102": [
+      "Colombia",
+      "Movistar"
+    ],
+    "732103": [
+      "Colombia",
+      "TIGO/Colombia Movil"
+    ],
+    "732111": [
+      "Colombia",
+      "TIGO/Colombia Movil"
+    ],
+    "732123": [
+      "Colombia",
+      "Movistar (Telef\u00f3nica M\u00f3viles Colombia)"
+    ],
+    "732130": [
+      "Colombia",
+      "Avantel SAS"
+    ],
+    "732142": [
+      "Colombia",
+      "UNE EPM Telecomunicaciones SA ESP"
+    ],
+    "732154": [
+      "Colombia",
+      "Virgin Mobile Colombia SAS"
+    ],
+    "73401": [
+      "Venezuela",
+      "DigiTel C.A."
+    ],
+    "73402": [
+      "Venezuela",
+      "DigiTel C.A."
+    ],
+    "73403": [
+      "Venezuela",
+      "DigiTel C.A."
+    ],
+    "73404": [
+      "Venezuela",
+      "Movistar/TelCel"
+    ],
+    "73406": [
+      "Venezuela",
+      "Movilnet C.A."
+    ],
+    "73601": [
+      "Bolivia",
+      "Nuevatel"
+    ],
+    "73602": [
+      "Bolivia",
+      "Entel Pcs"
+    ],
+    "73603": [
+      "Bolivia",
+      "Tigo / TELECEL BOLIVIA"
+    ],
+    "738002": [
+      "Guyana",
+      "GT&T Cellink Plus (Guyana Telephone & Telegraph Co.)"
+    ],
+    "73801": [
+      "Guyana",
+      "DigiCel/ U-Mobile"
+    ],
+    "73802": [
+      "Guyana",
+      "GT&T Cellink Plus (Guyana Telephone & Telegraph Co.)"
+    ],
+    "74000": [
+      "Ecuador",
+      "MOVISTAR/OteCel"
+    ],
+    "74001": [
+      "Ecuador",
+      "Porta/Conecel"
+    ],
+    "74002": [
+      "Ecuador",
+      "Alegro/Telcsa"
+    ],
+    "74401": [
+      "Paraguay",
+      "Hola/VOX"
+    ],
+    "74402": [
+      "Paraguay",
+      "Claro/Hutchison"
+    ],
+    "74403": [
+      "Paraguay",
+      "Compa"
+    ],
+    "74404": [
+      "Paraguay",
+      "Tigo/Telecel"
+    ],
+    "74405": [
+      "Paraguay",
+      "TIM (Telecom Italia) /Nucleo/Personal"
+    ],
+    "74406": [
+      "Paraguay",
+      "Copaco"
+    ],
+    "74601": [
+      "Suriname",
+      "Telesur"
+    ],
+    "74602": [
+      "Suriname",
+      "Telecommunicatiebedrijf Suriname (TELESUR)"
+    ],
+    "74603": [
+      "Suriname",
+      "Digicel"
+    ],
+    "74604": [
+      "Suriname",
+      "UNIQA"
+    ],
+    "74800": [
+      "Uruguay",
+      "Ancel - TDMA"
+    ],
+    "74801": [
+      "Uruguay",
+      "Ancel/Antel"
+    ],
+    "74803": [
+      "Uruguay",
+      "Ancel/Antel"
+    ],
+    "74807": [
+      "Uruguay",
+      "MOVISTAR (telephonica Moviles)"
+    ],
+    "74810": [
+      "Uruguay",
+      "Claro / AM Wireless / CTI Movil"
+    ],
+    "750001": [
+      "Falkland Islands",
+      "Cable and Wireless South Atlantic Ltd (Falklands)"
+    ],
+    "90101": [
+      "International",
+      "ICO Global Communications"
+    ],
+    "90103": [
+      "International",
+      "Iridium Communications Inc"
+    ],
+    "90105": [
+      "International",
+      "Thuraya Satellite RMSS Network"
+    ],
+    "90106": [
+      "International",
+      "Thuraya Satellite Telecommunications Company"
+    ],
+    "90110": [
+      "International",
+      "Asia Cellular Satellite (AceS)"
+    ],
+    "90111": [
+      "International",
+      "InMarSAT"
+    ],
+    "90112": [
+      "International",
+      "Maritime Communications Partner AS (MCP network)"
+    ],
+    "90113": [
+      "International",
+      "BebbiCell AG (Formerly Global Networks Switzerland AG) / Antarctica"
+    ],
+    "90114": [
+      "International",
+      "Telenor / AeroMobile"
+    ],
+    "90115": [
+      "International",
+      "OnAir N.V. (Formerly SITA on behalf of Onair)"
+    ],
+    "90116": [
+      "International",
+      "Jasper Wireless, Inc"
+    ],
+    "90117": [
+      "International",
+      "Jersey Telecom"
+    ],
+    "90118": [
+      "International",
+      "Cingular Wireless / AWS Bermuda (Maritime Roaming)"
+    ],
+    "90119": [
+      "International",
+      "Vodafone Malta (Vodafone Group)"
+    ],
+    "90120": [
+      "International",
+      "Intermatica"
+    ],
+    "90121": [
+      "International",
+      "Wins Limited (Formerly Seanet Maritime Communications)"
+    ],
+    "90122": [
+      "International",
+      "MediaLincc Ltd"
+    ],
+    "90124": [
+      "International",
+      "Voxbone SA"
+    ],
+    "90126": [
+      "International",
+      "Telecom Italia"
+    ],
+    "90127": [
+      "International",
+      "OnAir N.V. (Formerly SITA on behalf of Onair)"
+    ],
+    "90128": [
+      "International",
+      "Vodafone Group"
+    ],
+    "90129": [
+      "International",
+      "Telenor Connexion AB"
+    ],
+    "90131": [
+      "International",
+      "France Telecom Orange"
+    ],
+    "90132": [
+      "International",
+      "MegaFon"
+    ],
+    "90133": [
+      "International",
+      "Smart Communications , Inc"
+    ],
+    "90134": [
+      "International",
+      "Tyntec GmbH"
+    ],
+    "90135": [
+      "International",
+      "Globecomm Network Services"
+    ],
+    "90136": [
+      "International",
+      "Azerfon LLC"
+    ],
+    "90137": [
+      "International",
+      "TRANSATEL"
+    ],
+    "90138": [
+      "International",
+      "Multiregional TransitTelecom (MTT)"
+    ],
+    "90139": [
+      "International",
+      "MTX Connect"
+    ],
+    "90140": [
+      "International",
+      "Deutsche Telekom AG"
+    ],
+    "90141": [
+      "International",
+      "BodyTrace Netherlands B.V."
+    ],
+    "90142": [
+      "International",
+      "DCN Hub ehf"
+    ],
+    "90188": [
+      "International",
+      "UN Office for the Coordination of Humanitarian Affairs (OCHA)"
+    ]
+  }
+]

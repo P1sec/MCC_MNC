@@ -13,7 +13,9 @@ __all__ = [
     # World Factbook structure
     'WORLD_FB',
     # Egallic minimum distance
-    'EGAL_MIN_DIST',
+    'CSV_EGAL_MIN_DIST',
+    # txtNation list of MCCMNC
+    'CSV_TXTN_MCCMNC',
     # Custom structures
     'WFB_UNINHABITED',
     'COUNTRY_SPEC',
@@ -54,11 +56,15 @@ try:
     from world_fb           import WORLD_FB
 except ImportError:
     raise(Exception('error: please run first ./parse_worldfactbook_infos.py'))
-
+try:
+    from csv_egal_min_dist  import CSV_EGAL_MIN_DIST
+    from csv_txtn_mccmnc    import CSV_TXTN_MCCMNC
+except ImportError:
+    raise(Exception('error: please run first ./parse_various_csv.py'))
 
 '''
 This module is used as an "enhanced" loader for all Python dictionnaries generated
-from raw data sources (Wikipedia, World Factbook, country_dist.csv).
+from raw data sources (Wikipedia, World Factbook, txtNation, Egallic blog).
 
 It applies patches to some of the dictionnaries to solve specific conflicts and
 political / geographical situations, align data values and ease further integration
@@ -79,9 +85,13 @@ def country_name_canon(name):
         r.add(name)
     if name.startswith('republic of'):
         r.add(name[11:].strip())
-    m = re.search('\sand\s|,|\(', name)
-    if m and m.start() > 10:
+    m = re.search('\s[aA]nd\s|,|\(|\&', name)
+    if m and m.start() >= 8:
         r.add(name[:m.start()].strip())
+    if ',' in name:
+        r.add(name.replace(',', ''))
+    if '&' in name:
+        r.add(name.replace('&', 'and'))
     return r
 
 
@@ -396,37 +406,49 @@ COUNTRY_RENAME = {
     'Vatican City State (Holy See)' : 'Vatican',
     'The Kingdom of the Netherlands': 'Netherlands',
     #
-    # Africa / Middle-East / Asia
-    'UAE'                       : 'United Arab Emirates',
+    # Middle-East / Asia
     'Burma'                     : 'Myanmar',
+    'Burma / Myanmar'           : 'Myanmar',
+    'Laos P.D.R.'               : 'Laos',
+    'Korea, North'              : 'North Korea',
+    'Korea N., Dem. People\'s Rep.' : 'North Korea',
+    'Korea, South'              : 'South Korea',
+    'Korea S, Republic of'      : 'South Korea',
+    'Brunei Darussalam'         : 'Brunei',
+    'Macao, China'              : 'Macau',
+    'Palau (Republic of)'       : 'Palau',
+    'People\'s Republic of China'   : 'China',
+    'Artsakh'                   : 'Nagorno-Karabakh',
+    'The Islamic Republic of Iran'  : 'Iran',
+    'Iran (Islamic Republic of)'    : 'Iran',
     'Palestine'                 : 'State of Palestine',
     'Palestine, State of'       : 'State of Palestine',
+    'Palestinian Territory'     : 'State of Palestine',
+    'UAE'                       : 'United Arab Emirates',
+    #
+    # Africa
     'Somaliland'                : 'Somalia',
     'Swaziland'                 : 'Eswatini',
-    'Korea, North'              : 'North Korea',
-    'Korea, South'              : 'South Korea',
-    'Brunei Darussalam'         : 'Brunei',
-    'Artsakh'                   : 'Nagorno-Karabakh',
+    'Central African Rep.'      : 'Central African Republic',
     'Republic of Congo'         : 'Republic of the Congo',
+    'Congo, Republic'           : 'Republic of the Congo',
+    'Congo, Dem. Rep.'          : 'Democratic Republic of the Congo',
+    'Congo, Democratic Republic of the (Zaire)' : 'Democratic Republic of the Congo',
     'Côte d\'Ivoire'            : 'Ivory Coast',
     'Cote d\'Ivoire'            : 'Ivory Coast',
     'Gambia'                    : 'The Gambia',
-    'People\'s Republic of China'   : 'China',
-    'The Islamic Republic of Iran'  : 'Iran',
-    'Iran (Islamic Republic of)'    : 'Iran',
-    'Congo, Democratic Republic of the (Zaire)' : 'Democratic Republic of the Congo',
     #
     # America
     'US'                        : 'United States',
     'USA'                       : 'United States',
     'Wake Island, USA'          : 'Wake Island',
+    'Argentina Republic'        : 'Argentina',
     #
     # Islands
     'Bahamas'                   : 'The Bahamas',
     'Caribbean Netherlands'     : 'Bonaire, Saba and Sint Eustatius',
     'Curacao'                   : 'Curaçao',
     'Cocos (Keeling) Islands'   : 'Cocos Islands',
-    #'Keeling Islands'           : 'Cocos Islands',
     'São Tomé and Príncipe'     : 'Sao Tome and Principe',
     'Micronesia'                : 'Federated States of Micronesia',
     'Reunion'                   : 'Réunion',
@@ -448,7 +470,6 @@ COUNTRY_RENAME = {
     # others
     'International Networks (country code)' : 'International Networks'
     }
-
 
 
 #------------------------------------------------------------------------------#
@@ -605,13 +626,6 @@ for name, infos in COUNTRY_SPEC.items():
 
 # territory name that needs to be deleted
 BORD_COUNTRY_DEL = [
-    #
-    # TODO: verify and delete South Ossetia entry
-    # South Ossetia:
-    # within Georgia, borders with Georgia and Russia,
-    # no ref in other sources, no specific CC2
-    # => delete entry, and neighbours entry within Georgia and Russia
-    #'South Ossetia',
     #
     # Special administrative regions of China:
     # used in China's neighbours, corresponds to Macau and Hong-Kong which are also listed
@@ -938,62 +952,31 @@ patch_wikip_country()
 
 
 #------------------------------------------------------------------------------#
-# get minimum distance between countries and verify the dataset
+# patch Egallic dataset on minimum distance between countries
 #------------------------------------------------------------------------------#
 
-# adding the dataset with minimum distance between countries, from here
-URL_MIN_DIST = 'https://gist.githubusercontent.com/mtriff/185e15be85b44547ed110e412a1771bf/'\
-               'raw/1bb4d287f79ca07f63d4c56110099c26e7c6ee7d/countries_distances.csv'
-# which is an updated version of the dataset computed here:
-# http://egallic.fr/en/closest-distance-between-countries/
-
-
-# some country name must be attached to there proper country name
-# required to match those from Wikipedia
-
-def get_egal_min_dist():
-    print('[+] read Egallic country_dist.csv to EGAL_MIN_DIST')
-    #
-    if not os.path.exists('./country_dist.csv'):
-        resp = urllib.request.urlopen(URL_MIN_DIST)
-        if resp.code != 200:
-            raise(Exception('resource %s not available, HTTP code %i' % (url, resp.code)))
-        with open('country_dist.csv', 'w') as fd:
-            fd.write(resp.read())
-    #
-    with open('country_dist.csv', encoding='utf-8') as fd:
-        csv_lines = fd.readlines()
-        if 'pays1' in csv_lines[0]:
-            # remove header
-            del csv_lines[0]
-        while not csv_lines[-1].strip():
-            # remove blank lines
-            del csv_lines[-1]
-        D = {}
-        for n, src, dst, dist in csv.reader(csv_lines, delimiter=','):
-            src, dst, dist = map(lambda t: t.replace('"', '').strip(), (src, dst, dist))
-            if src in COUNTRY_RENAME:
-                src = COUNTRY_RENAME[src]
-            if dst in COUNTRY_RENAME:
-                dst = COUNTRY_RENAME[dst]
-            if src not in D:
-                D[src] = {}
-            elif dst in D[src]:
-                print('> duplicate entry for %s in %s' % (dst, src))
-            D[src][dst] = float(dist)
-        return D
-
-EGAL_MIN_DIST = get_egal_min_dist()
-
-
-def verif_egal_min_dist():
-    print('[+] patch Egallic country distance dataset: EGAL_MIN_DIST')
+def patch_egal_min_dist():
+    print('[+] patch Egallic country distance dataset: CSV_EGAL_MIN_DIST')
     #
     isonameset    = set([r['country_name'] for r in WIKIP_ISO3166.values()])
     #
-    for src, dst_dist in sorted(EGAL_MIN_DIST.items()):
+    # 1) rename some countries
+    for src, dst_dist in sorted(CSV_EGAL_MIN_DIST.items()):
         for dst in dst_dist:
-            if dst not in EGAL_MIN_DIST:
+            if dst in COUNTRY_RENAME:
+                CSV_EGAL_MIN_DIST[src][COUNTRY_RENAME[dst]] = CSV_EGAL_MIN_DIST[src][dst]
+                del CSV_EGAL_MIN_DIST[src][dst]
+    #
+    for src, dst_dist in sorted(CSV_EGAL_MIN_DIST.items()):
+        if src in COUNTRY_RENAME:
+            CSV_EGAL_MIN_DIST[COUNTRY_RENAME[src]] = CSV_EGAL_MIN_DIST[src]
+            del CSV_EGAL_MIN_DIST[src]
+            src = COUNTRY_RENAME[src]
+    #
+    # 2) do some verifications
+    for src, dst_dist in sorted(CSV_EGAL_MIN_DIST.items()):
+        for dst in dst_dist:
+            if dst not in CSV_EGAL_MIN_DIST:
                 print('> dst country %s in %s, not in src' % (dst, src))
         if not src in isonameset:
             if not src in SUBTERR_TO_COUNTRY:
@@ -1001,7 +984,7 @@ def verif_egal_min_dist():
             else:
                 print('> country %s, matching only a sub-territory name' % src)
 
-verif_egal_min_dist()
+patch_egal_min_dist()
 
 
 #------------------------------------------------------------------------------#
@@ -1104,4 +1087,54 @@ def patch_wfb():
                     print('> country %s, no CC2, not referenced, unknown' % name)
 
 patch_wfb()
+
+
+#------------------------------------------------------------------------------#
+# patch txtNation dataset
+#------------------------------------------------------------------------------#
+
+def _patch_txtn_mnc_sub(inf):
+    #
+    if inf[0] in COUNTRY_RENAME:
+        print('> country name changed from %s to %s' % (inf[0], COUNTRY_RENAME[inf[0]]))
+        return COUNTRY_RENAME[inf[0]]
+    #
+    nameset = country_name_canon(inf[0])
+    for cinf in WIKIP_ISO3166.values():
+        for name in nameset:
+            if name in  cinf['nameset']:
+                print('> country name changed from %s to %s' % (inf[0], cinf['country_name']))
+                return cinf['country_name']
+    #
+    print('> country name %s not found' % inf[0])
+    return ''
+
+
+def patch_txtn_mnc():
+    print('[+] patch txtNation list of MCC-MNC: CSV_TXTN_MCCMNC')
+    #
+    isonameset = set([r['country_name'] for r in WIKIP_ISO3166.values()])
+    #
+    for mccmnc, inf in sorted(CSV_TXTN_MCCMNC.items()):
+        if not mccmnc.isdigit():
+            print('> deleting entry for %s' % mccmnc)
+            del CSV_TXTN_MCCMNC[mccmnc]
+            continue
+        #
+        if isinstance(inf, list):
+            infs = inf
+            for inf in infs:
+                if inf[0] not in isonameset:
+                    newname = _patch_txtn_mnc_sub(inf)
+                    if newname:
+                        i = infs.index(inf)
+                        del infs[i]
+                        infs.insert(i, (newname, inf[1]))
+        else:
+            if inf[0] not in isonameset:
+                newname = _patch_txtn_mnc_sub(inf)
+                if newname:
+                    CSV_TXTN_MCCMNC[mccmnc] = (newname, inf[1])
+
+patch_txtn_mnc()
 

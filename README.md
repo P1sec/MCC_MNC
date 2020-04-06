@@ -81,8 +81,9 @@ has nice geography-related packages.
 ### Which one to use:
 
 After checking several sources, it seems Wikipedia has the must complete, up-to-date and accurate information.
-Therefore, the tool primarily uses it to build the JSON / Python dictionnaries, it uses also the CIA World Factbook
-to gather information related to each country, including borders and telephony-related.
+Therefore, the tool primarily uses it to build the JSON / Python dictionnaries.
+It uses also the CIA World Factbook to gather information related to each country, including borders and telephony-related,
+and the csv listing from the txtNation website to complete the list of MCC-MNC from Wikipedia.
 Finally, the code and data provided on the _egallic_ blogpost is valuable for dealing with close countries which
 do not share any borders.
 
@@ -93,7 +94,8 @@ The provided scripts require Python3, and lxml for the ones extracting data from
 web sites (parse_wikipedia_tables.py and parse_worldfactbook_infos.py).
 No installation is required, just run the scripts as is.
 
-The Wikipedia and World Factbook data can be imported by using the following commands:
+The Wikipedia, World Factbook and both Egallic and txtNation data can be imported 
+by using the following commands:
 
 ```
 $ ./parse_wikipedia_tables.py --help
@@ -108,26 +110,31 @@ optional arguments:
   -p          produce Python files (with suffix .py)
 ```
 
-and
-
 ```
 $ ./parse_worldfactbook_infos.py --help
 usage: parse_worldfactbook_infos.py [-h] [-j] [-p]
 
 dump country-related informations from the CIA World Factbook into JSON or
 Python file
+[...]
+```
 
-optional arguments:
-  -h, --help  show this help message and exit
-  -j          produce JSON files (with suffix .json)
-  -p          produce Python files (with suffix .py)
+and
 
 ```
+$ ./parse_various_csv.py --help
+usage: parse_various_csv.py [-h] [-j] [-p]
+
+dump csv files from the Egallic blog (distance between countries) and the
+txtNation website (list of MCC-MNC)
+[...]
+```
+
 
 Then, in order to load all those imported data with aligned and coherent values 
 (e.g. country names, ISO codes and other information and numbering), the module
-*patch_dataset* can be used. It exports the Wikipedia, World Factbook and Egallic 
-dataset, after applying few corrections and fixes on them:
+*patch_dataset* can be used. It exports the Wikipedia, World Factbook, Egallic
+and txtNation dataset, after applying few corrections and fixes on them:
 
 ```
 >>> from patch_dataset import *
@@ -168,10 +175,10 @@ $ ./gen_dataset.py
 
 The following one-liner can be used to update the whole final dataset:
 ```
-$ ./parse_wikipedia_tables.py -j -p && $ ./parse_worldfactbook_infos.py -j -p && ./gen_dataset.py
+$ ./parse_wikipedia_tables.py -j -p && $ ./parse_worldfactbook_infos.py -j -p && $ ./parse_various_csv.py -j -p && ./gen_dataset.py
 ```
 
-Now you can use those dictionnaries to get precise information for any MCC, MNC,
+Now you can use those dictionnaries to get complete information for any MCC, MNC,
 MSISDN prefix, and related geographical information.
 
 Finally, 3 little command-line tools are provided to make direct use of the 
