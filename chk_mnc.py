@@ -11,14 +11,24 @@ from gen.p1_cc2 import P1_CC2
 from chk_cntr import print_cntr
 
 
-def print_mcc(mcc):
+def print_mcc(mcc, cc2s):
     print('> MCC %s' % mcc)
     mcc = P1_MCC[mcc]
-    print('  country       : %s' % mcc['cc2'])
-    print('  url Wikipedia : %s' % mcc['url'])
-    print('  regulator     : %s' % mcc['reg'])
-    if mcc['notes']:
-        print('  notes         : %s' % mcc['notes'])
+    if isinstance(mcc, list):
+        mccs = mcc
+        for mcc in mccs:
+            if mcc['cc2'] in cc2s:
+                print('  country       : %s' % mcc['cc2'])
+                print('  url Wikipedia : %s' % mcc['url'])
+                print('  regulator     : %s' % mcc['reg'])
+                if mcc['notes']:
+                    print('  notes         : %s' % mcc['notes'])  
+    else:
+        print('  country       : %s' % mcc['cc2'])
+        print('  url Wikipedia : %s' % mcc['url'])
+        print('  regulator     : %s' % mcc['reg'])
+        if mcc['notes']:
+            print('  notes         : %s' % mcc['notes'])
 
 
 def print_mno(mccmnc, mno, ext):
@@ -29,7 +39,7 @@ def print_mno(mccmnc, mno, ext):
     print('  bands         : %s' % ', '.join(mno['bands']))
     if ext:
         if mccmnc[:3] in P1_MCC:
-            print_mcc(mccmnc[:3])
+            print_mcc(mccmnc[:3], mno['cc2s'])
         for cc2 in mno['cc2s']:
             print_cntr(P1_CC2[cc2], ext=ext-1)
 
@@ -50,7 +60,7 @@ def main():
     parser = argparse.ArgumentParser(description=
         'provides information related to mobile operator(s); if no argument is passed, lists all known MCC-MNC')
     parser.add_argument('MCCMNC', nargs='*', help='0 or more 5/6-digit string for MCC-MNC')
-    parser.add_argument('-x', action='count', help='provides extended information for MNO(s)')
+    parser.add_argument('-x', action='count', help='provides extended information for MNO(s), set more x for more verbose info')
     args = parser.parse_args()
     if not args.x:
         args.x = 0

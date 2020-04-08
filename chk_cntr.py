@@ -102,7 +102,7 @@ def main():
         'provides information related to a given country or territory; '\
         'if no argument is passed, lists all known countries and territories')
     parser.add_argument('COUNTRY', nargs='*', help='0 or more string for country (can be an alpha-2 code too)')
-    parser.add_argument('-x', action='count', help='provides extended country-related information')
+    parser.add_argument('-x', action='count', help='provides extended country-related information, set more x for more verbose info')
     args = parser.parse_args()
     if not args.x:
         args.x = 0
