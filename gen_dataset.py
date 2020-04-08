@@ -19,6 +19,8 @@ from patch_dataset          import *
 from parse_wikipedia_tables import  generate_json, generate_python
 
 
+PATH_PRE = 'gen/'
+
 #------------------------------------------------------------------------------#
 # utility functions
 #------------------------------------------------------------------------------#
@@ -616,23 +618,23 @@ complete_cc2()
 
 def main():
             
-    URL_SRC = 'data aggregated from Wikipedia, The World Factbook and Egallic blog'
+    URL_SRC = 'data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation'
     URL_LIC = 'produced by P1 Security, based on openly available data'
 
-    generate_json(MNC, 'p1_mnc.json', [URL_SRC], URL_LIC)
-    generate_python(MNC, 'p1_mnc.py', [URL_SRC], URL_LIC)
-    generate_json(MCC, 'p1_mcc.json', [URL_SRC], URL_LIC)
-    generate_python(MCC, 'p1_mcc.py', [URL_SRC], URL_LIC)
-    generate_json(MSISDN, 'p1_msisdn.json', [URL_SRC], URL_LIC)
-    generate_python(MSISDN, 'p1_msisdn.py', [URL_SRC], URL_LIC)
-    generate_json(MSISDNEXT, 'p1_msisdnext.json', [URL_SRC], URL_LIC)
-    generate_python(MSISDNEXT, 'p1_msisdnext.py', [URL_SRC], URL_LIC)
-    generate_json(CC2, 'p1_cc2.json', [URL_SRC], URL_LIC)
-    generate_python(CC2, 'p1_cc2.py', [URL_SRC], URL_LIC)
-    generate_json(CNTR, 'p1_cntr.json', [URL_SRC], URL_LIC)
-    generate_python(CNTR, 'p1_cntr.py', [URL_SRC], URL_LIC)
-    generate_json(TERR, 'p1_terr.json', [URL_SRC], URL_LIC)
-    generate_python(TERR, 'p1_terr.py', [URL_SRC], URL_LIC)
+    generate_json(MNC, PATH_PRE + 'p1_mnc.json', [URL_SRC], URL_LIC)
+    generate_python(MNC, PATH_PRE + 'p1_mnc.py', [URL_SRC], URL_LIC)
+    generate_json(MCC, PATH_PRE + 'p1_mcc.json', [URL_SRC], URL_LIC)
+    generate_python(MCC, PATH_PRE + 'p1_mcc.py', [URL_SRC], URL_LIC)
+    generate_json(MSISDN, PATH_PRE + 'p1_msisdn.json', [URL_SRC], URL_LIC)
+    generate_python(MSISDN, PATH_PRE + 'p1_msisdn.py', [URL_SRC], URL_LIC)
+    generate_json(MSISDNEXT, PATH_PRE + 'p1_msisdnext.json', [URL_SRC], URL_LIC)
+    generate_python(MSISDNEXT, PATH_PRE + 'p1_msisdnext.py', [URL_SRC], URL_LIC)
+    generate_json(CC2, PATH_PRE + 'p1_cc2.json', [URL_SRC], URL_LIC)
+    generate_python(CC2, PATH_PRE + 'p1_cc2.py', [URL_SRC], URL_LIC)
+    generate_json(CNTR, PATH_PRE + 'p1_cntr.json', [URL_SRC], URL_LIC)
+    generate_python(CNTR, PATH_PRE + 'p1_cntr.py', [URL_SRC], URL_LIC)
+    generate_json(TERR, PATH_PRE + 'p1_terr.json', [URL_SRC], URL_LIC)
+    generate_python(TERR, PATH_PRE + 'p1_terr.py', [URL_SRC], URL_LIC)
     
     return 0
 

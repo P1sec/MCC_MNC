@@ -4,8 +4,8 @@
 import sys
 import argparse
 #
-from p1_msisdn import P1_MSISDN
-from p1_cntr   import P1_CNTR
+from gen.p1_msisdn import P1_MSISDN
+from gen.p1_cntr   import P1_CNTR
 #
 from chk_cntr  import print_cntr
 from chk_mnc   import print_mcc

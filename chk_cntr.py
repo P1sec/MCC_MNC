@@ -4,9 +4,9 @@
 import sys
 import argparse
 #
-from p1_terr import P1_TERR
-from p1_cntr import P1_CNTR
-from p1_cc2  import P1_CC2
+from gen.p1_terr import P1_TERR
+from gen.p1_cntr import P1_CNTR
+from gen.p1_cc2  import P1_CC2
 
 
 def printext_cntr(infos):

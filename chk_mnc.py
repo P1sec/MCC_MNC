@@ -4,9 +4,9 @@
 import sys
 import argparse
 #
-from p1_mnc import P1_MNC
-from p1_mcc import P1_MCC
-from p1_cc2 import P1_CC2
+from gen.p1_mnc import P1_MNC
+from gen.p1_mcc import P1_MCC
+from gen.p1_cc2 import P1_CC2
 #
 from chk_cntr import print_cntr
 

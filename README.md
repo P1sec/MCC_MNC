@@ -78,6 +78,22 @@ Some other sources may be found online ; additionally, it seems the R programmin
 has nice geography-related packages.
 
 
+### Working with ITU-T operational bulletins
+
+ITU-T is publishing bi-mensual bulletins (23 or 24 a year, depends...), containing
+all additions and modifications to numbering plans and MNC identifiers. Complete
+lists of MCC-MNC can be found in bulletin 1111 from 2016 and bulletin 1162 from 2018.
+Moreover, differentials can be provided into individual bulletin.
+
+One of the script can be used to download all bulletins in PDF (starting from 1111),
+and convert them into text, using the Linux command ```pdftotext```. All resulting
+documents are available in the *itut/* directory.
+
+Bulletin 1111 from 2016 and 1162 from 2018 contains a full list of declared MCC-MNC.
+The script extract them and put resulting JSON and Python files into the *raw/* directory
+for further integration.
+
+
 ### Which one to use:
 
 After checking several sources, it seems Wikipedia has the must complete, up-to-date and accurate information.
@@ -225,18 +241,10 @@ optional arguments:
   -x          provides extended country-related information
 ```
 
+## Directory structure
 
-## Working on ITU-T documents
-
-ITU-T is publishing bi-mensual bulletins (23 or 24 a year, depends...), containing
-all addition and modification to numbering plans and MNC identifiers. Complete
-lists of MCC-MNC can be found in bulletin 1111 from 2016 and bulletin 1162 from 
-2018.
-Moreover, differentials can be provided into individual bulletin.
-
-A script can be used to download all bulletins in PDF (starting from 1111),
-and convert them into text, using the Linux command ```pdftotext```. All resulting
-documents are available in the *itut_bulletins* sub-directory.
-
+All command-line tools are available straight in the root directory of the project.
+Data downloaded and extracted from Internet (except data from the ITU-T) are put
+in the *raw/* directory. Re-engineered data are put in the *gen/* directory.
 
 

@@ -13,6 +13,8 @@ from parse_wikipedia_tables import (
     )
 
 
+PATH_PRE = 'raw/'
+
 #------------------------------------------------------------------------------#
 # get Egallic minimum distance between countries
 #------------------------------------------------------------------------------#
@@ -24,20 +26,19 @@ URL_MIN_DIST = 'https://gist.githubusercontent.com/mtriff/185e15be85b44547ed110e
 # http://egallic.fr/en/closest-distance-between-countries/
 # this dataset is computed thanks to various R packages
 
-
 def get_egal_min_dist():
     #
-    if not os.path.exists('./csv_country_dist.csv'):
+    if not os.path.exists(PATH_PRE + 'csv_country_dist.csv'):
         resp = urllib.request.urlopen(URL_MIN_DIST)
         if resp.code != 200:
             raise(Exception('resource %s not available, HTTP code %i' % (url, resp.code)))
-        with open('csv_country_dist.csv', 'w') as fd:
+        with open(PATH_PRE + 'csv_country_dist.csv', 'w') as fd:
             # as the data provided through the URL is not updated
             # we better keep a local copy of it 
             fd.write(resp.read().decode('utf-8'))
         print('> downloaded and stored to csv_country_dist.csv')
     #
-    with open('csv_country_dist.csv', encoding='utf-8') as fd:
+    with open(PATH_PRE + 'csv_country_dist.csv', encoding='utf-8') as fd:
         csv_lines = fd.readlines()
         if 'pays1' in csv_lines[0]:
             # remove header
@@ -72,17 +73,17 @@ URL_TXTN_MNC = 'https://clients.txtnation.com/hc/en-us/article_attachments/20675
 
 def get_txtn_mnc():
     #
-    if not os.path.exists('./csv_txtn_mnc.csv'):
+    if not os.path.exists(PATH_PRE + 'csv_txtn_mnc.csv'):
         resp = urllib.request.urlopen(URL_TXTN_MNC)
         if resp.code != 200:
             raise(Exception('resource %s not available, HTTP code %i' % (url, resp.code)))
-        with open('csv_txtn_mnc.csv', 'w') as fd:
+        with open(PATH_PRE + 'csv_txtn_mnc.csv', 'w') as fd:
             # as the data provided through the URL is not updated
             # we better keep a local copy of it 
             fd.write(resp.read().decode('latin_1'))
             print('> downloaded and stored  to csv_txtn_mnc.csv')
     #
-    with open('csv_txtn_mnc.csv', encoding='utf-8') as fd:
+    with open(PATH_PRE + 'csv_txtn_mnc.csv', encoding='utf-8') as fd:
         csv_lines = fd.readlines()
         if 'MCCMNC' in csv_lines[0]:
             # remove header
@@ -130,11 +131,11 @@ def main():
         return 1
     #
     if args.j:
-        generate_json(DE, 'csv_egal_min_dist.json', [URL_MIN_DIST], URL_LICENSE_EGAL)
-        generate_json(DT, 'csv_txtn_mccmnc.json', [URL_TXTN_MNC], URL_LICENSE_TXTN)
+        generate_json(DE, PATH_PRE + 'csv_egal_min_dist.json', [URL_MIN_DIST], URL_LICENSE_EGAL)
+        generate_json(DT, PATH_PRE + 'csv_txtn_mccmnc.json', [URL_TXTN_MNC], URL_LICENSE_TXTN)
     if args.p:
-        generate_python(DE, 'csv_egal_min_dist.py', [URL_MIN_DIST], URL_LICENSE_EGAL)
-        generate_python(DT, 'csv_txtn_mccmnc.py', [URL_TXTN_MNC], URL_LICENSE_TXTN)
+        generate_python(DE, PATH_PRE + 'csv_egal_min_dist.py', [URL_MIN_DIST], URL_LICENSE_EGAL)
+        generate_python(DT, PATH_PRE + 'csv_txtn_mccmnc.py', [URL_TXTN_MNC], URL_LICENSE_TXTN)
     return 0
 
 

@@ -15,6 +15,8 @@ from parse_wikipedia_tables import (
     )
 
 
+PATH_PRE = 'raw/'
+
 #------------------------------------------------------------------------------#
 # parsing CIA World Factbook country information
 #------------------------------------------------------------------------------#
@@ -350,9 +352,9 @@ def main():
         return 1
     #
     if args.j:
-        generate_json(D, 'world_fb.json', [URL_FACTBOOK], URL_LICENSE)
+        generate_json(D, PATH_PRE + 'world_fb.json', [URL_FACTBOOK], URL_LICENSE)
     if args.p:
-        generate_python(D, 'world_fb.py', [URL_FACTBOOK], URL_LICENSE)
+        generate_python(D, PATH_PRE + 'world_fb.py', [URL_FACTBOOK], URL_LICENSE)
     return 0
 
 

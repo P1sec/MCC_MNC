@@ -2,7 +2,7 @@
 # source: https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
 # license: https://www.cia.gov/library/publications/the-world-factbook/docs/contributor_copyright.html
 
-WORLD_FB = \
+RAW/WORLD_FB = \
 { 'Afghanistan': { 'cc2': 'AF',
                    'cc3': 'AFG',
                    'ccn': '004',

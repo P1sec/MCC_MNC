@@ -11,6 +11,7 @@ from pprint import PrettyPrinter
 from lxml   import etree
 
 
+PATH_PRE = 'raw/'
 
 RE_WIKI_REF = re.compile(r'.*(\[.*\]){1,}$')
 
@@ -685,21 +686,23 @@ def main():
         return 1
     #
     if args.j:
-        generate_json(D_iso, 'wikip_iso3166.json', [URL_CODE_ALPHA_2], URL_LICENSE)
-        generate_json(L_mcc, 'wikip_mcc.json', [URL_MCC], URL_LICENSE)
-        generate_json(D_mnc, 'wikip_mnc.json', [URL_MNC_EU, URL_MNC_NA, URL_MNC_AS, URL_MNC_OC, URL_MNC_AF, URL_MNC_SA], URL_LICENSE)
-        generate_json(D_pref, 'wikip_msisdn.json', [URL_MSISDN], URL_LICENSE)
-        generate_json(D_count, 'wikip_country.json', [URL_MSISDN], URL_LICENSE)
-        generate_json(D_terr, 'wikip_territory.json', [URL_MSISDN], URL_LICENSE)
-        generate_json(L_bord, 'wikip_borders.json', [URL_BORDERS], URL_LICENSE)
+        generate_json(D_iso, PATH_PRE + 'wikip_iso3166.json', [URL_CODE_ALPHA_2], URL_LICENSE)
+        generate_json(L_mcc, PATH_PRE + 'wikip_mcc.json', [URL_MCC], URL_LICENSE)
+        generate_json(D_mnc, PATH_PRE + 'wikip_mnc.json',
+                      [URL_MNC_EU, URL_MNC_NA, URL_MNC_AS, URL_MNC_OC, URL_MNC_AF, URL_MNC_SA], URL_LICENSE)
+        generate_json(D_pref, PATH_PRE + 'wikip_msisdn.json', [URL_MSISDN], URL_LICENSE)
+        generate_json(D_count, PATH_PRE + 'wikip_country.json', [URL_MSISDN], URL_LICENSE)
+        generate_json(D_terr, PATH_PRE + 'wikip_territory.json', [URL_MSISDN], URL_LICENSE)
+        generate_json(L_bord, PATH_PRE + 'wikip_borders.json', [URL_BORDERS], URL_LICENSE)
     if args.p:
-        generate_python(D_iso, 'wikip_iso3166.py', [URL_CODE_ALPHA_2], URL_LICENSE)
-        generate_python(L_mcc, 'wikip_mcc.py', [URL_MCC], URL_LICENSE)
-        generate_python(D_mnc, 'wikip_mnc.py', [URL_MNC_EU, URL_MNC_NA, URL_MNC_AS, URL_MNC_OC, URL_MNC_AF, URL_MNC_SA], URL_LICENSE)
-        generate_python(D_pref, 'wikip_msisdn.py', [URL_MSISDN], URL_LICENSE)
-        generate_python(D_count, 'wikip_country.py', [URL_MSISDN], URL_LICENSE)
-        generate_python(D_terr, 'wikip_territory.py', [URL_MSISDN], URL_LICENSE)
-        generate_python(L_bord, 'wikip_borders.py', [URL_BORDERS], URL_LICENSE)
+        generate_python(D_iso, PATH_PRE + 'wikip_iso3166.py', [URL_CODE_ALPHA_2], URL_LICENSE)
+        generate_python(L_mcc, PATH_PRE + 'wikip_mcc.py', [URL_MCC], URL_LICENSE)
+        generate_python(D_mnc, PATH_PRE + 'wikip_mnc.py',
+                        [URL_MNC_EU, URL_MNC_NA, URL_MNC_AS, URL_MNC_OC, URL_MNC_AF, URL_MNC_SA], URL_LICENSE)
+        generate_python(D_pref, PATH_PRE + 'wikip_msisdn.py', [URL_MSISDN], URL_LICENSE)
+        generate_python(D_count, PATH_PRE + 'wikip_country.py', [URL_MSISDN], URL_LICENSE)
+        generate_python(D_terr, PATH_PRE + 'wikip_territory.py', [URL_MSISDN], URL_LICENSE)
+        generate_python(L_bord, PATH_PRE + 'wikip_borders.py', [URL_BORDERS], URL_LICENSE)
     return 0
 
 

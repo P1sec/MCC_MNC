@@ -2,7 +2,7 @@
 # source: https://gist.githubusercontent.com/mtriff/185e15be85b44547ed110e412a1771bf/raw/1bb4d287f79ca07f63d4c56110099c26e7c6ee7d/countries_distances.csv
 # license: http://egallic.fr/en/closest-distance-between-countries/
 
-CSV_EGAL_MIN_DIST = \
+RAW/CSV_EGAL_MIN_DIST = \
 { 'Afghanistan': { 'Albania': 3538.82691643274,
                    'Algeria': 4660.36867803253,
                    'American Samoa': 13105.4365685736,

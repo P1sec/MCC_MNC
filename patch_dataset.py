@@ -43,32 +43,38 @@ from parse_worldfactbook_infos import (
     )
 
 try:
-    from wikip_borders      import WIKIP_BORDERS
-    from wikip_iso3166      import WIKIP_ISO3166
-    from wikip_mcc          import WIKIP_MCC
-    from wikip_mnc          import WIKIP_MNC
-    from wikip_msisdn       import WIKIP_MSISDN
-    from wikip_country      import WIKIP_COUNTRY
-    from wikip_territory    import WIKIP_TERRITORY
+    from raw.wikip_borders      import WIKIP_BORDERS
+    from raw.wikip_iso3166      import WIKIP_ISO3166
+    from raw.wikip_mcc          import WIKIP_MCC
+    from raw.wikip_mnc          import WIKIP_MNC
+    from raw.wikip_msisdn       import WIKIP_MSISDN
+    from raw.wikip_country      import WIKIP_COUNTRY
+    from raw.wikip_territory    import WIKIP_TERRITORY
 except ImportError:
     raise(Exception('error: please run first ./parse_wikipedia_tables.py'))
 try:
-    from world_fb           import WORLD_FB
+    from raw.world_fb           import WORLD_FB
 except ImportError:
     raise(Exception('error: please run first ./parse_worldfactbook_infos.py'))
 try:
-    from csv_egal_min_dist  import CSV_EGAL_MIN_DIST
-    from csv_txtn_mccmnc    import CSV_TXTN_MCCMNC
+    from raw.csv_egal_min_dist  import CSV_EGAL_MIN_DIST
+    from raw.csv_txtn_mccmnc    import CSV_TXTN_MCCMNC
 except ImportError:
     raise(Exception('error: please run first ./parse_various_csv.py'))
+try:
+    from raw.itut_mnc_1111      import ITUT_MNC_1111
+    from raw.itut_mnc_1162      import ITUT_MNC_1162
+except ImportError:
+    raise(Exception('error: please run first ./parse_itut_bulletins.py'))
 
-'''
+
+__doc__ = """
 This module is used as an "enhanced" loader for all Python dictionnaries generated
-from raw data sources (Wikipedia, World Factbook, txtNation, Egallic blog).
+from raw data sources (ITU-T bulletins, Wikipedia, World Factbook, txtNation, Egallic blog).
 
 It applies patches to some of the dictionnaries to solve specific conflicts and
 political / geographical situations, align data values and ease further integration
-'''
+"""
 
 
 #------------------------------------------------------------------------------#

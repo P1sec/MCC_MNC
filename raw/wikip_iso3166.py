@@ -2,7 +2,7 @@
 # source: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
 # license: https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
 
-WIKIP_ISO3166 = \
+RAW/WIKIP_ISO3166 = \
 { 'AD': { 'cc_tld': '.ad',
           'cc_tld_url': 'https://en.wikipedia.org/wiki/.ad',
           'code_alpha_2': 'AD',

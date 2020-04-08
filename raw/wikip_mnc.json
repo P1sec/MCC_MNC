@@ -995,6 +995,21 @@
         "status": "operational"
       },
       {
+        "bands": "LTE 3500",
+        "brand": "",
+        "codes_alpha_2": [
+          "BE"
+        ],
+        "country_name": "Belgium",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Belgium",
+        "mcc": "206",
+        "mnc": "03",
+        "notes": "private network",
+        "operator": "Citymesh NV",
+        "status": "operational"
+      },
+      {
         "bands": "MVNO",
         "brand": "Telenet",
         "codes_alpha_2": [
@@ -1040,8 +1055,8 @@
         "status": "unknown"
       },
       {
-        "bands": "Unknown",
-        "brand": "",
+        "bands": "MVNO",
+        "brand": "VOO",
         "codes_alpha_2": [
           "BE"
         ],
@@ -1051,8 +1066,8 @@
         "mcc": "206",
         "mnc": "08",
         "notes": "",
-        "operator": "Nethys\u00a0[fr][19]",
-        "status": "unknown"
+        "operator": "Nethys\u00a0[fr]",
+        "status": "operational"
       },
       {
         "bands": "MVNO",
@@ -1217,6 +1232,66 @@
         "mnc": "50",
         "notes": "",
         "operator": "IP Nexia",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [
+          "BE"
+        ],
+        "country_name": "Belgium",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Belgium",
+        "mcc": "206",
+        "mnc": "71",
+        "notes": "",
+        "operator": "iSea NV",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [
+          "BE"
+        ],
+        "country_name": "Belgium",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Belgium",
+        "mcc": "206",
+        "mnc": "72",
+        "notes": "",
+        "operator": "iSea NV",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [
+          "BE"
+        ],
+        "country_name": "Belgium",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Belgium",
+        "mcc": "206",
+        "mnc": "73",
+        "notes": "",
+        "operator": "iSea NV",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [
+          "BE"
+        ],
+        "country_name": "Belgium",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Belgium",
+        "mcc": "206",
+        "mnc": "74",
+        "notes": "",
+        "operator": "iSea NV",
         "status": "unknown"
       },
       {
@@ -1500,7 +1575,7 @@
         "country_url": "https://en.wikipedia.org/wiki/France",
         "mcc": "208",
         "mnc": "19",
-        "notes": "Former Altitude Infrastructure;[72][69] fixed wireless",
+        "notes": "Former Altitude Infrastructure;[71][68] fixed wireless",
         "operator": "Haute-Garonne num\u00e9rique",
         "status": "operational"
       },
@@ -1560,7 +1635,7 @@
         "country_url": "https://en.wikipedia.org/wiki/France",
         "mcc": "208",
         "mnc": "23",
-        "notes": "Former Omea Telecom (bought by SFR in 2014);[72][73] fixed wireless",
+        "notes": "Former Omea Telecom (bought by SFR in 2014);[71][72] fixed wireless",
         "operator": "Syndicat mixte ouvert Charente Num\u00e9rique",
         "status": "operational"
       },
@@ -1710,7 +1785,7 @@
         "country_url": "https://en.wikipedia.org/wiki/France",
         "mcc": "208",
         "mnc": "33",
-        "notes": "[73] fixed wireless",
+        "notes": "[72] fixed wireless",
         "operator": "D\u00e9partement des Pyr\u00e9n\u00e9es-Atlantiques",
         "status": "unknown"
       },
@@ -1920,7 +1995,7 @@
         "country_url": "https://en.wikipedia.org/wiki/France",
         "mcc": "208",
         "mnc": "96",
-        "notes": "Former Axione;[72][69] fixed wireless",
+        "notes": "Former Axione;[71][68] fixed wireless",
         "operator": "R\u00e9gion Bourgogne-Franche-Comt\u00e9",
         "status": "operational"
       },
@@ -2010,7 +2085,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Spain",
         "mcc": "214",
         "mnc": "02",
-        "notes": "[125] Some MVNO use this MNC (Fibracat, Aircom, Anxanet, Netports)",
+        "notes": "[124] Some MVNO use this MNC (Fibracat, Aircom, Anxanet, Netports)",
         "operator": "Alta Tecnologia en Comunicacions SL",
         "status": "operational"
       },
@@ -3600,7 +3675,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Switzerland",
         "mcc": "228",
         "mnc": "03",
-        "notes": "[34][2][26][178]  Former Orange",
+        "notes": "[33][2][25][177]  Former Orange",
         "operator": "Salt Mobile SA",
         "status": "operational"
       },
@@ -4635,7 +4710,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Austria",
         "mcc": "232",
         "mnc": "23",
-        "notes": "former T-Mobile",
+        "notes": "former T-Mobile; MNC withdrawn",
         "operator": "T-Mobile Austria GmbH",
         "status": "unknown"
       },
@@ -4652,6 +4727,21 @@
         "mnc": "24",
         "notes": "",
         "operator": "Smartel Services GmbH",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [
+          "AT"
+        ],
+        "country_name": "Austria",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Austria",
+        "mcc": "232",
+        "mnc": "25",
+        "notes": "",
+        "operator": "Holding Graz Kommunale Dienstleistungen GmbH",
         "status": "unknown"
       },
       {
@@ -13256,7 +13346,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Liechtenstein",
         "mcc": "295",
         "mnc": "77",
-        "notes": "Bankruptcy in February 2012,[122] former Tele2, MNC withdrawn",
+        "notes": "Bankruptcy in February 2012,[121] former Tele2, MNC withdrawn",
         "operator": "Alpcom AG",
         "status": "unknown"
       },
