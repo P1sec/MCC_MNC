@@ -2,7 +2,7 @@
 # source: https://www.itu.int/pub/T-SP
 # license: https://www.itu.int/pub/T-SP
 
-RAW/ITUT_MNC_1111 = \
+ITUT_MNC_1111 = \
 { 'Afghanistan': [ ('AWCC', '41201'),
                    ('Roshan', '41220'),
                    ('Areeba Afghanistan', '41240'),

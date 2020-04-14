@@ -2,7 +2,7 @@
 # source: https://clients.txtnation.com/hc/en-us/article_attachments/206752938/MCCMNCs_v2.csv
 # license: https://clients.txtnation.com/hc/en-us/articles/218719768-MCCMNC-mobile-country-code-and-mobile-network-code-list
 
-RAW/CSV_TXTN_MCCMNC = \
+CSV_TXTN_MCCMNC = \
 { '20201': ('Greece', 'Cosmote'),
   '20202': ('Greece', 'Cosmote'),
   '20203': ('Greece', 'OTE Hellenic Telecommunications Organization SA'),

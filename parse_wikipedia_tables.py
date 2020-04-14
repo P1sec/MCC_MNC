@@ -664,7 +664,7 @@ def generate_json(d, destfile, src, license):
 
 def generate_python(d, destfile, src, license):
     pp = PrettyPrinter(indent=2, width=120)
-    varname = destfile[:-3].upper()
+    varname = destfile[:-3].split('/')[-1].upper()
     with open(destfile, 'w') as fd:
         fd.write('# -*- coding: UTF-8 -*-\n')
         fd.write('# source: %s\n' % ',\n#         '.join(src))

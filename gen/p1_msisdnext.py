@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# source: data aggregated from Wikipedia, The World Factbook and Egallic blog
+# source: data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation
 # license: produced by P1 Security, based on openly available data
 
 P1_MSISDNEXT = \
@@ -256,7 +256,7 @@ P1_MSISDNEXT = \
            'Australian External Territories',
            'Casey Station',
            'Davis Station',
-           'Heard Island and McDonald Island',
+           'Heard Island and McDonald Islands',
            'Macquarie Island Station',
            'Mawson Station',
            'Norfolk Island'],

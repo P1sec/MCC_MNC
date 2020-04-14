@@ -2,7 +2,7 @@
   {
     "license": "produced by P1 Security, based on openly available data",
     "source": [
-      "data aggregated from Wikipedia, The World Factbook and Egallic blog"
+      "data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation"
     ]
   },
   {
@@ -668,7 +668,7 @@
     "672": [
       "Antarctica",
       "Australian External Territories",
-      "Heard Island and McDonald Island",
+      "Heard Island and McDonald Islands",
       "Norfolk Island"
     ],
     "6721": [

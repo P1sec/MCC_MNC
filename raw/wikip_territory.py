@@ -2,7 +2,7 @@
 # source: https://en.wikipedia.org/wiki/List_of_country_calling_codes
 # license: https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
 
-RAW/WIKIP_TERRITORY = \
+WIKIP_TERRITORY = \
 { 'Almirante Brown Antarctic Base': ('54', 'Argentina', 'https://en.wikipedia.org/wiki/Almirante_Brown_Antarctic_Base'),
   'Amundsen–Scott South Pole Station': ( '1',
                                          'United States',

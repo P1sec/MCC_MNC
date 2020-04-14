@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# source: data aggregated from Wikipedia, The World Factbook and Egallic blog
+# source: data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation
 # license: produced by P1 Security, based on openly available data
 
 P1_MSISDN = \
@@ -229,7 +229,7 @@ P1_MSISDN = \
   '65': ['Singapore'],
   '66': ['Thailand'],
   '670': ['East Timor'],
-  '672': ['Antarctica', 'Australian External Territories', 'Heard Island and McDonald Island', 'Norfolk Island'],
+  '672': ['Antarctica', 'Australian External Territories', 'Heard Island and McDonald Islands', 'Norfolk Island'],
   '6721': ['Australian Antarctic Territory'],
   '6723': ['Norfolk Island'],
   '673': ['Brunei'],

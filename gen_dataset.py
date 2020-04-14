@@ -131,7 +131,7 @@ def mnc_txtn(mccmnc, inf):
     mno = {
         'country'   : inf[0],
         'bands'     : '',       # no info on bands
-        'ope'       : True,     # consider the MNO as operational (?)
+        'ope'       : False,     # consider the MNO as operational (?)
         }
     #
     # add set of CC2
@@ -168,13 +168,58 @@ def mnc_txtn(mccmnc, inf):
     return mno
 
 
+def mnc_itut(cntr, mno, mccmnc):
+    # get the CC2 code for the country
+    found = False
+    for cc2, cinf in WIKIP_ISO3166.items():
+        if cntr.lower() in cinf['nameset']:
+            found = True
+            break
+    if found:
+        cc2s = [cc2]
+    else:
+        print('> MNO from ITU-T bulletin with MCC-MNC %s (%s), no CC2 found' % (mccmnc, cntr))
+        cc2s = []
+    #
+    return {
+        'country'   : cntr,
+        'bands'     : '',       # no info on bands
+        'ope'       : False,     # consider the MNO as operational (?)
+        'cc2s'      : cc2s,
+        'operator'  : mno,
+        'brand'     : '',
+        }
+
+
 def gen_dict_mnc_compl():
     #
     R = {}
     #
-    # 2) complete MNC dict with new MNC from txtNation
+    # 2) complete MNC dict with new MNC from ITU-T 1162 bulletin (2018)
+    for cntr, inf in sorted(ITUT_MNC_1162.items()):
+        for mno, mccmnc in inf:
+            if mccmnc not in MNC:
+                print('> adding MNO from ITU-T bulletin with MCC-MNC %s (%s)' % (mccmnc, cntr))
+                R[mccmnc] = mnc_itut(cntr, mno, mccmnc)
+            else:
+                # get the CC2 code for the country
+                found = False
+                for cc2, cinf in WIKIP_ISO3166.items():
+                    if cntr.lower() in cinf['nameset']:
+                        found = True
+                        break
+                if found:
+                    if isinstance(MNC[mccmnc], list):
+                        pass
+                    else:
+                        if cc2 not in MNC[mccmnc]['cc2s']:
+                            print('> adding cc2 %s (%s) from ITU-T bulletin to MCC-MNC %s' % (cc2, cntr, mccmnc))
+                            MNC[mccmnc]['cc2s'].append(cc2)
+                            MNC[mccmnc]['cc2s'] = list(sorted(MNC[mccmnc]['cc2s']))
+    #
+    # 3) complete MNC dict with new MNC from txtNation
     for mccmnc, inf in sorted(CSV_TXTN_MCCMNC.items()):
-        if mccmnc not in MNC:
+        if mccmnc not in MNC and mccmnc not in R:
             if isinstance(inf, list):
                 infs = inf
                 mno  = []
@@ -607,7 +652,7 @@ def complete_cc2():
             # go check sovereign country for MCC
             inf['msisdn'].extend(CC2[inf['dep']]['msisdn'])
     
-# run it twice as sovereign relationships can be 2-stages
+# run it twice (?) as sovereign / dependency relationships can be 2-stages
 complete_cc2()
 #complete_cc2()
 

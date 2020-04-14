@@ -2,7 +2,7 @@
   {
     "license": "produced by P1 Security, based on openly available data",
     "source": [
-      "data aggregated from Wikipedia, The World Factbook and Egallic blog"
+      "data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation"
     ]
   },
   {
@@ -712,7 +712,7 @@
       "Australian External Territories",
       "Casey Station",
       "Davis Station",
-      "Heard Island and McDonald Island",
+      "Heard Island and McDonald Islands",
       "Macquarie Island Station",
       "Mawson Station",
       "Norfolk Island"

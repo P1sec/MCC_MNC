@@ -16,6 +16,9 @@ __all__ = [
     'CSV_EGAL_MIN_DIST',
     # txtNation list of MCCMNC
     'CSV_TXTN_MCCMNC',
+    # ITU-T MNC lists
+    'ITUT_MNC_1111',
+    'ITUT_MNC_1162',
     # Custom structures
     'WFB_UNINHABITED',
     'COUNTRY_SPEC',
@@ -24,6 +27,7 @@ __all__ = [
     # functions
     'country_name_canon',
     'country_match',
+    'country_match_set',
     'country_present',
     ]
 
@@ -86,18 +90,30 @@ def country_name_canon(name):
     """
     name = name.lower()
     r = {name}
-    if name.startswith('the'):
-        name = name[3:].strip()
+    if name.startswith('the '):
+        name = name[4:].strip()
+        assert(name)
         r.add(name)
-    if name.startswith('republic of'):
-        r.add(name[11:].strip())
-    m = re.search('\s[aA]nd\s|,|\(|\&', name)
-    if m and m.start() >= 8:
-        r.add(name[:m.start()].strip())
-    if ',' in name:
-        r.add(name.replace(',', ''))
+    for expr in ('republic of', 'rep. of', 'rep of'):
+        if name.startswith(expr):
+            name = name[len(expr):].strip()
+            assert(name)
+            r.add(name)
+    #
+    m = re.search('\(.*?\)', name)
+    if m and m.start() >= 5:
+        name = name[:m.start()].strip()
+        assert(name)
+        r.add(name)
+    #
     if '&' in name:
         r.add(name.replace('&', 'and'))
+    if ',' in name:
+        r.add(name.replace(',', ''))
+    if '.' in name:
+        r.add(name.replace('.', ''))
+    if '*' in name:
+        r.add(name.replace('*', ''))
     return r
 
 
@@ -121,6 +137,17 @@ def country_present(name1, nameset2):
             return True
     return False
             
+
+def country_match_set(name, nameset):
+    """returns True if country name `name' match one of the name within `nameset',
+    else False
+    """
+    for n in country_name_canon(name):
+        for nm in nameset:
+            if nm == n:
+                return True
+    return False
+
 
 #------------------------------------------------------------------------------#
 # Wikipedia common changes
@@ -189,10 +216,17 @@ COUNTRY_SPEC = {
         'sub' : ['Kerguelen Islands', 'St. Paul Island', 'Amsterdam Island', 'Crozet Islands', 'Adélie Land', 'Scattered Islands'],
         },
     #
+    # group of French territories
     'French Antilles': {
         'url' : 'https://en.wikipedia.org/wiki/French_West_Indies',
         'sub' : ['Saint Barthélemy', 'French Guiana', 'Guadeloupe', 'Saint Martin', 'Martinique'],
         'sub_cc2'       : ['BL', 'GF', 'GP', 'MF', 'MQ'],
+        },
+    #
+    'French Departments and Territories in the Indian Ocean': {
+        'url' : 'https://en.wikipedia.org/wiki/List_of_French_islands_in_the_Indian_and_Pacific_oceans',
+        'sub' : ['Réunion', 'Mayotte'],
+        'sub_cc2'       : ['RE', 'YT'],
         },
     #
     # Georgia, Russia, Ukraine and other autonomous region around 
@@ -401,32 +435,37 @@ COUNTRY_SPEC_CC2 = [country for country in COUNTRY_SPEC if 'cc2' in COUNTRY_SPEC
 COUNTRY_RENAME = {
     #
     # Europe
-    'Bailiwick of Guernsey'     : 'Guernsey',
+    'Bailiwick of Guernsey'     : 'Guernsey', # needed
     'Vatican City'              : 'Vatican',
     'Vatican City State'        : 'Vatican',
     'Holy See (Vatican City)'   : 'Vatican',
-    'Holy See'                  : 'Vatican',
-    'Macedonia'                 : 'North Macedonia',
+    'Holy See'                  : 'Vatican', # needed
     'UK'                        : 'United Kingdom',
-    'Ireland'                   : 'Republic of Ireland',
+    'Czech Rep.'                : 'Czech Republic',
+    'Ireland'                   : 'Republic of Ireland', # needed
     'Vatican City State (Holy See)' : 'Vatican',
-    'The Kingdom of the Netherlands': 'Netherlands',
+    'The Kingdom of the Netherlands': 'Netherlands', # needed
+    'Macedonia'                 : 'North Macedonia',
+    'The Former Yugoslav Republic of Macedonia': 'North Macedonia',
     #
     # Middle-East / Asia
     'Burma'                     : 'Myanmar',
     'Burma / Myanmar'           : 'Myanmar',
     'Laos P.D.R.'               : 'Laos',
+    'Lao P.D.R.'                : 'Laos',
+    'Viet Nam'                  : 'Vietnam',
     'Korea, North'              : 'North Korea',
     'Korea N., Dem. People\'s Rep.' : 'North Korea',
     'Korea, South'              : 'South Korea',
     'Korea S, Republic of'      : 'South Korea',
     'Brunei Darussalam'         : 'Brunei',
     'Macao, China'              : 'Macau',
+    'Hong Kong, China'          : 'Hong Kong',
     'Palau (Republic of)'       : 'Palau',
     'People\'s Republic of China'   : 'China',
     'Artsakh'                   : 'Nagorno-Karabakh',
     'The Islamic Republic of Iran'  : 'Iran',
-    'Iran (Islamic Republic of)'    : 'Iran',
+    'Iran (Islamic Republic of)'    : 'Iran', # needed
     'Palestine'                 : 'State of Palestine',
     'Palestine, State of'       : 'State of Palestine',
     'Palestinian Territory'     : 'State of Palestine',
@@ -436,13 +475,15 @@ COUNTRY_RENAME = {
     'Somaliland'                : 'Somalia',
     'Swaziland'                 : 'Eswatini',
     'Central African Rep.'      : 'Central African Republic',
+    'Congo'                     : 'Republic of the Congo',
     'Republic of Congo'         : 'Republic of the Congo',
     'Congo, Republic'           : 'Republic of the Congo',
     'Congo, Dem. Rep.'          : 'Democratic Republic of the Congo',
+    'Dem. Rep. of the Congo'    : 'Democratic Republic of the Congo',
     'Congo, Democratic Republic of the (Zaire)' : 'Democratic Republic of the Congo',
     'Côte d\'Ivoire'            : 'Ivory Coast',
     'Cote d\'Ivoire'            : 'Ivory Coast',
-    'Gambia'                    : 'The Gambia',
+    'Gambia'                    : 'The Gambia', # needed
     #
     # America
     'US'                        : 'United States',
@@ -451,11 +492,11 @@ COUNTRY_RENAME = {
     'Argentina Republic'        : 'Argentina',
     #
     # Islands
-    'Bahamas'                   : 'The Bahamas',
+    'Bahamas'                   : 'The Bahamas', # needed
     'Caribbean Netherlands'     : 'Bonaire, Saba and Sint Eustatius',
     'Curacao'                   : 'Curaçao',
-    'Cocos (Keeling) Islands'   : 'Cocos Islands',
-    'São Tomé and Príncipe'     : 'Sao Tome and Principe',
+    'Cocos (Keeling) Islands'   : 'Cocos Islands', # needed
+    'São Tomé and Príncipe'     : 'Sao Tome and Principe', # needed
     'Micronesia'                : 'Federated States of Micronesia',
     'Reunion'                   : 'Réunion',
     'Saint Barthelemy'          : 'Saint Barthélemy',
@@ -464,17 +505,18 @@ COUNTRY_RENAME = {
     'Virgin Islands, US'        : 'United States Virgin Islands',
     'US Virgin Islands'         : 'United States Virgin Islands',
     'Madeira Islands'           : 'Madeira',
-    'Svalbard'                  : 'Svalbard and Jan Mayen',
+    'Svalbard'                  : 'Svalbard and Jan Mayen', # needed
     'Ascension Island'          : 'Ascension',
-    'Heard Island'              : 'Heard Island and McDonald Island',
+    'Heard Island'              : 'Heard Island and McDonald Islands', # needed
     'Midway Island, USA'        : 'Midway Island',
+    'Dominican Rep.'            : 'Dominican Republic',
     'Chatham Island, New Zealand'   : 'Chatham Island',
-    'Collectivity of Saint Martin'  : 'Saint Martin',
+    'Collectivity of Saint Martin'  : 'Saint Martin', # needed
     'Micronesia, Federated States of'       : 'Federated States of Micronesia',
     'French Southern and Antarctic Lands'   : 'French Southern Territories',
     #
     # others
-    'International Networks (country code)' : 'International Networks'
+    'International Networks (country code)' : 'International Networks' # needed
     }
 
 
@@ -590,7 +632,8 @@ def patch_wikip_iso3166():
     # 6) keep track of country name variants
     for cc2, infos in sorted(WIKIP_ISO3166.items()):
         infos['nameset'] = country_name_canon(infos['country_name'])
-        infos['nameset'].update( country_name_canon(infos['state_name']) )
+        if infos['state_name']:
+            infos['nameset'].update( country_name_canon(infos['state_name']) )
 
 patch_wikip_iso3166()
 
@@ -1021,7 +1064,6 @@ WFB_UNINHABITED = {
     'Paracel Islands'       : 'https://en.wikipedia.org/wiki/Paracel_Islands', # disputed China / Vietnam
     #'Wake Island'           : _URL_US_Insular_area,
     'Tromelin Island'       : _URL_Scattered_Islands,
-    #'Jan Mayen'             : 'https://en.wikipedia.org/wiki/Jan_Mayen', # Svalbard and Jan Mayen (SJ), Norway
     'Glorioso Islands'      : _URL_Scattered_Islands,
     'Ashmore and Cartier Islands': 'https://en.wikipedia.org/wiki/Ashmore_and_Cartier_Islands', # Australia
     'Navassa Island'        : _URL_US_Insular_area,
@@ -1099,20 +1141,22 @@ patch_wfb()
 # patch txtNation dataset
 #------------------------------------------------------------------------------#
 
-def _patch_txtn_mnc_sub(inf):
+def _patch_country_name(name):
     #
-    if inf[0] in COUNTRY_RENAME:
-        print('> country name changed from %s to %s' % (inf[0], COUNTRY_RENAME[inf[0]]))
-        return COUNTRY_RENAME[inf[0]]
+    if name in COUNTRY_RENAME:
+        newname = COUNTRY_RENAME[name]
+        print('> country name changed from %s to %s' % (name, newname))
+        return newname
     #
-    nameset = country_name_canon(inf[0])
+    nameset = country_name_canon(name)
     for cinf in WIKIP_ISO3166.values():
-        for name in nameset:
-            if name in  cinf['nameset']:
-                print('> country name changed from %s to %s' % (inf[0], cinf['country_name']))
-                return cinf['country_name']
+        for namesub in nameset:
+            if country_match_set(namesub, cinf['nameset']):
+                newname = cinf['country_name']
+                print('> country name changed from %s to %s' % (name, newname))
+                return newname
     #
-    print('> country name %s not found' % inf[0])
+    print('> country name %s not found' % name)
     return ''
 
 
@@ -1131,16 +1175,43 @@ def patch_txtn_mnc():
             infs = inf
             for inf in infs:
                 if inf[0] not in isonameset:
-                    newname = _patch_txtn_mnc_sub(inf)
+                    newname = _patch_country_name(inf[0])
                     if newname:
                         i = infs.index(inf)
                         del infs[i]
                         infs.insert(i, (newname, inf[1]))
         else:
             if inf[0] not in isonameset:
-                newname = _patch_txtn_mnc_sub(inf)
+                newname = _patch_country_name(inf[0])
                 if newname:
                     CSV_TXTN_MCCMNC[mccmnc] = (newname, inf[1])
 
 patch_txtn_mnc()
+
+
+#------------------------------------------------------------------------------#
+# patch ITU-T dataset
+#------------------------------------------------------------------------------#
+
+def patch_itut_mnc(mncs):
+    print('[+] patch ITU-T list of MCC-MNC: %r' % id(mncs))
+    #
+    isonameset  = set([r['country_name'] for r in WIKIP_ISO3166.values()])
+    mncset      = set()
+    for mnos in WIKIP_MNC.values():
+        for mno in mnos:
+            mncset.add(mno['mcc'] + mno['mnc'])
+    #
+    for cntr, mnos in list(mncs.items()):
+        if cntr not in isonameset:
+            newname = _patch_country_name(cntr)
+            if newname:
+                del mncs[cntr]
+                mncs[newname] = mnos
+            #
+            # WNG: 1 non-country:
+            # French Departments and Territories in the Indian Ocean -> Réunion (RE) + Mayotte (YT)
+
+patch_itut_mnc(ITUT_MNC_1111)
+patch_itut_mnc(ITUT_MNC_1162)
 

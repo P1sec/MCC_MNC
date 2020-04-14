@@ -2,7 +2,7 @@
   {
     "license": "produced by P1 Security, based on openly available data",
     "source": [
-      "data aggregated from Wikipedia, The World Factbook and Egallic blog"
+      "data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation"
     ]
   },
   {
@@ -1225,6 +1225,14 @@
         "less30": []
       }
     },
+    "French Departments and Territories in the Indian Ocean": {
+      "cc2": null,
+      "neigh": {
+        "bord": [],
+        "less100": [],
+        "less30": []
+      }
+    },
     "French Guiana": {
       "cc2": "GF",
       "dep": "FR",
@@ -1494,7 +1502,7 @@
         "less30": []
       }
     },
-    "Heard Island and McDonald Island": {
+    "Heard Island and McDonald Islands": {
       "cc2": "HM",
       "dep": "AU",
       "neigh": {

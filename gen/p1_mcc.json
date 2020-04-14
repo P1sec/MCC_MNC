@@ -2,7 +2,7 @@
   {
     "license": "produced by P1 Security, based on openly available data",
     "source": [
-      "data aggregated from Wikipedia, The World Factbook and Egallic blog"
+      "data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation"
     ]
   },
   {
@@ -92,6 +92,7 @@
         "20600",
         "20601",
         "20602",
+        "20603",
         "20605",
         "20606",
         "20607",
@@ -106,7 +107,11 @@
         "20630",
         "20633",
         "20640",
-        "20650"
+        "20650",
+        "20671",
+        "20672",
+        "20673",
+        "20674"
       ],
       "notes": "",
       "reg": "Belgian Institute for Postal services and Telecommunications (BIPT)",
@@ -151,7 +156,9 @@
         "20833",
         "20834",
         "20850",
+        "208500",
         "20870",
+        "208700",
         "20886",
         "20887",
         "20888",
@@ -462,6 +469,7 @@
         "23222",
         "23223",
         "23224",
+        "23225",
         "23291",
         "23292"
       ],
@@ -782,6 +790,9 @@
         "24442",
         "24443",
         "24444",
+        "24445",
+        "24446",
+        "24447",
         "24450",
         "24451",
         "24452",
@@ -794,7 +805,8 @@
         "24459",
         "24482",
         "24491",
-        "24492"
+        "24492",
+        "24499"
       ],
       "notes": "",
       "reg": "Finnish Transport and Communications Agency / Liikenne- ja viestint\u00e4virasto (TRAFICOM)",
@@ -812,7 +824,8 @@
         "24607",
         "24608",
         "24609",
-        "24611"
+        "24611",
+        "24612"
       ],
       "notes": "",
       "reg": "Communications Regulatory Authority / Ry\u0161i\u0173 Reguliavimo Tarnyba (RRT)",
@@ -1021,6 +1034,7 @@
         "26047",
         "26048",
         "26049",
+        "26097",
         "26098"
       ],
       "notes": "",
@@ -1101,7 +1115,8 @@
         "26813",
         "26821",
         "26880",
-        "26891"
+        "26891",
+        "26893"
       ],
       "notes": "",
       "reg": "National Communications Authority / Autoridade Nacional de Comunica\u00e7\u00f5es (ANACOM)",
@@ -1165,7 +1180,8 @@
         "27412",
         "27416",
         "27422",
-        "27431"
+        "27431",
+        "27491"
       ],
       "notes": "",
       "reg": "Post and Telecom Administration / P\u00f3st- og fjarskiptastofnun (PFS)",
@@ -1445,7 +1461,10 @@
         "302920",
         "302940",
         "302990",
-        "302991"
+        "302991",
+        "302996",
+        "302997",
+        "302998"
       ],
       "notes": "",
       "reg": "Canadian Numbering Administrator",
@@ -3185,6 +3204,7 @@
         "43701",
         "43703",
         "43705",
+        "43706",
         "43709",
         "43710",
         "43711"
@@ -3406,6 +3426,8 @@
         "45424",
         "45425",
         "45426",
+        "45427",
+        "45428",
         "45429",
         "45430",
         "45431",
@@ -4524,6 +4546,7 @@
         "64114",
         "64116",
         "64118",
+        "64120",
         "64122",
         "64126",
         "64130",
@@ -4962,6 +4985,7 @@
         "73018",
         "73019",
         "73020",
+        "73021",
         "73022",
         "73023",
         "73026",
@@ -4997,7 +5021,8 @@
         "732210",
         "732220",
         "732230",
-        "732240"
+        "732240",
+        "732666"
       ],
       "notes": "",
       "reg": "Comisi\u00f3n de Regulaci\u00f3n de Comunicaciones (CRC)",

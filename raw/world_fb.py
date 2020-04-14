@@ -2,7 +2,7 @@
 # source: https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
 # license: https://www.cia.gov/library/publications/the-world-factbook/docs/contributor_copyright.html
 
-RAW/WORLD_FB = \
+WORLD_FB = \
 { 'Afghanistan': { 'cc2': 'AF',
                    'cc3': 'AFG',
                    'ccn': '004',
@@ -109,7 +109,7 @@ RAW/WORLD_FB = \
                                                       'offsetting the deficit of fixed-line capacity, mobile-cellular '
                                                       'phone service has been available since 1996',
                                                       'four companies presently providing mobile services and mobile '
-                                                      'teledensity',
+                                                      'telephony',
                                                       'Internet broadband services initiated in 2005, and the '
                                                       'penetration rate rose to over 65% by 2016',
                                                       'Internet cafes are popular in major urban areas',

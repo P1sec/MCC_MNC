@@ -2,7 +2,7 @@
   {
     "license": "produced by P1 Security, based on openly available data",
     "source": [
-      "data aggregated from Wikipedia, The World Factbook and Egallic blog"
+      "data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation"
     ]
   },
   {
@@ -726,7 +726,7 @@
         "NL"
       ],
       "country": "Netherlands",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "20600": {
@@ -749,7 +749,8 @@
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "Proximus",
       "cc2s": [
@@ -770,6 +771,18 @@
       "country": "Belgium",
       "ope": true,
       "operator": "Infrabel"
+    },
+    "20603": {
+      "bands": [
+        "LTE 3500"
+      ],
+      "brand": "",
+      "cc2s": [
+        "BE"
+      ],
+      "country": "Belgium",
+      "ope": true,
+      "operator": "Citymesh NV"
     },
     "20605": {
       "bands": [
@@ -809,15 +822,15 @@
     },
     "20608": {
       "bands": [
-        "Unknown"
+        "MVNO"
       ],
-      "brand": "",
+      "brand": "VOO",
       "cc2s": [
         "BE"
       ],
       "country": "Belgium",
-      "ope": false,
-      "operator": "Nethys [fr][19]"
+      "ope": true,
+      "operator": "Nethys [fr]"
     },
     "20609": {
       "bands": [
@@ -961,6 +974,54 @@
       "ope": false,
       "operator": "IP Nexia"
     },
+    "20671": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "BE"
+      ],
+      "country": "Belgium",
+      "ope": false,
+      "operator": "iSea NV"
+    },
+    "20672": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "BE"
+      ],
+      "country": "Belgium",
+      "ope": false,
+      "operator": "iSea NV"
+    },
+    "20673": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "BE"
+      ],
+      "country": "Belgium",
+      "ope": false,
+      "operator": "iSea NV"
+    },
+    "20674": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "BE"
+      ],
+      "country": "Belgium",
+      "ope": false,
+      "operator": "iSea NV"
+    },
     "20800": {
       "bands": "",
       "brand": "Tel/Tel",
@@ -968,7 +1029,7 @@
         "FR"
       ],
       "country": "France",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "20801": {
@@ -982,7 +1043,8 @@
       ],
       "brand": "Orange",
       "cc2s": [
-        "FR"
+        "FR",
+        "MC"
       ],
       "country": "France",
       "ope": true,
@@ -1104,7 +1166,8 @@
       ],
       "brand": "SFR",
       "cc2s": [
-        "FR"
+        "FR",
+        "MC"
       ],
       "country": "France",
       "ope": true,
@@ -1242,7 +1305,8 @@
       ],
       "brand": "Bouygues",
       "cc2s": [
-        "FR"
+        "FR",
+        "MC"
       ],
       "country": "France",
       "ope": true,
@@ -1431,10 +1495,30 @@
       "ope": false,
       "operator": "EDF"
     },
+    "208500": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "EDF"
+    },
     "20870": {
       "bands": [
         "Unknown"
       ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Weaccess group"
+    },
+    "208700": {
+      "bands": "",
       "brand": "",
       "cc2s": [
         "FR"
@@ -1609,7 +1693,7 @@
           "MC"
         ],
         "country": "Kosovo",
-        "ope": true,
+        "ope": false,
         "operator": ""
       },
       {
@@ -1619,7 +1703,7 @@
           "MC"
         ],
         "country": "Monaco",
-        "ope": true,
+        "ope": false,
         "operator": "Monaco Telecom"
       }
     ],
@@ -2208,7 +2292,7 @@
         "HU"
       ],
       "country": "Hungary",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "21630": {
@@ -2257,7 +2341,7 @@
       ],
       "country": "Hungary",
       "ope": true,
-      "operator": "UPC Hungary Ltd."
+      "operator": "Vodafone Magyarorsz\u00e1g Zrt."
     },
     "21699": {
       "bands": [
@@ -2766,7 +2850,7 @@
         "IT"
       ],
       "country": "Italy",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "22247": {
@@ -3086,7 +3170,8 @@
       ],
       "brand": "Swisscom",
       "cc2s": [
-        "CH"
+        "CH",
+        "LI"
       ],
       "country": "Switzerland",
       "ope": true,
@@ -3679,9 +3764,9 @@
     },
     "23108": {
       "bands": [
-        "Unknown"
+        "Full-MVNO"
       ],
-      "brand": "",
+      "brand": "Unimobile",
       "cc2s": [
         "SK"
       ],
@@ -3720,7 +3805,7 @@
         "SK"
       ],
       "country": "Slovakia",
-      "ope": true,
+      "ope": false,
       "operator": "Orange Slovensko"
     },
     "23199": {
@@ -3742,7 +3827,7 @@
         "AT"
       ],
       "country": "Austria",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "23201": {
@@ -4057,6 +4142,18 @@
       "ope": false,
       "operator": "Smartel Services GmbH"
     },
+    "23225": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "AT"
+      ],
+      "country": "Austria",
+      "ope": false,
+      "operator": "Holding Graz Kommunale Dienstleistungen GmbH"
+    },
     "23291": {
       "bands": [
         "GSM-R"
@@ -4090,7 +4187,8 @@
       ],
       "brand": "BT",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4102,7 +4200,8 @@
       ],
       "brand": "Vectone Mobile",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4123,7 +4222,8 @@
       ],
       "brand": "O2 (UK)",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4184,7 +4284,8 @@
       ],
       "brand": "FMS Solutions Ltd",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4196,7 +4297,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4208,7 +4310,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4220,7 +4323,8 @@
       ],
       "brand": "Vodafone UK",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4232,7 +4336,8 @@
       ],
       "brand": "BT OnePhone",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4244,7 +4349,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4265,7 +4371,8 @@
       ],
       "brand": "O2 (UK)",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4286,7 +4393,8 @@
       ],
       "brand": "O2 (UK)",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4298,7 +4406,8 @@
       ],
       "brand": "Railtrack",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4310,7 +4419,8 @@
       ],
       "brand": "Railtrack",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4322,7 +4432,8 @@
       ],
       "brand": "Hay Systems Ltd",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4344,7 +4455,8 @@
       ],
       "brand": "Vodafone UK",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4356,7 +4468,8 @@
       ],
       "brand": "Talk Talk",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4368,7 +4481,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4380,7 +4494,8 @@
       ],
       "brand": "Cloud9",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4392,7 +4507,8 @@
       ],
       "brand": "Private Mobile Networks PMN",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4408,7 +4524,8 @@
       ],
       "brand": "3",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4432,7 +4549,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4444,7 +4562,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4456,7 +4575,8 @@
       ],
       "brand": "Greenfone",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4468,7 +4588,8 @@
       ],
       "brand": "Truphone",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4480,7 +4601,8 @@
       ],
       "brand": "Lycamobile",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4492,7 +4614,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4504,7 +4627,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4516,7 +4640,8 @@
       ],
       "brand": "aql",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4534,7 +4659,8 @@
       ],
       "brand": "T-Mobile UK",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4552,7 +4678,8 @@
       ],
       "brand": "T-Mobile UK",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4570,7 +4697,8 @@
       ],
       "brand": "T-Mobile UK",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4587,7 +4715,8 @@
       ],
       "brand": "Orange",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4604,7 +4733,8 @@
       ],
       "brand": "Orange",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4662,7 +4792,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4674,7 +4805,8 @@
       ],
       "brand": "Virgin Mobile",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4686,7 +4818,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4753,7 +4886,8 @@
       ],
       "brand": "Relish",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4765,7 +4899,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4777,7 +4912,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4789,7 +4925,8 @@
       ],
       "brand": "iD Mobile",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4850,7 +4987,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4862,7 +5000,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4906,7 +5045,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -4918,7 +5058,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4930,7 +5071,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -4984,7 +5126,7 @@
         "JE"
       ],
       "country": "United Kingdom",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "23476": {
@@ -4994,7 +5136,8 @@
       ],
       "brand": "BT",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -5010,7 +5153,7 @@
         "JE"
       ],
       "country": "United Kingdom",
-      "ope": true,
+      "ope": false,
       "operator": "BT Group"
     },
     "23478": {
@@ -5019,7 +5162,8 @@
       ],
       "brand": "Airwave",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": true,
@@ -5031,7 +5175,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -5047,7 +5192,7 @@
         "JE"
       ],
       "country": "United Kingdom",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "23499": {
@@ -5060,7 +5205,7 @@
         "JE"
       ],
       "country": "United Kingdom",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "23500": {
@@ -5069,7 +5214,8 @@
       ],
       "brand": "Vectone Mobile",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -5081,7 +5227,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -5093,7 +5240,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -5105,7 +5253,8 @@
       ],
       "brand": "Relish",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -5153,7 +5302,8 @@
       ],
       "brand": "BT",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -5177,7 +5327,8 @@
       ],
       "brand": "Vodafone UK",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -5189,7 +5340,8 @@
       ],
       "brand": "Vodafone UK",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -5201,7 +5353,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -5213,7 +5366,8 @@
       ],
       "brand": "",
       "cc2s": [
-        "GB"
+        "GB",
+        "UK"
       ],
       "country": "United Kingdom",
       "ope": false,
@@ -5613,7 +5767,7 @@
         "SE"
       ],
       "country": "Sweden",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "24001": {
@@ -6248,53 +6402,53 @@
     },
     "24065": {
       "bands": "",
-      "brand": "shared use for closed networks",
+      "brand": "",
       "cc2s": [
         "SE"
       ],
       "country": "Sweden",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "shared use for closed networks"
     },
     "24066": {
       "bands": "",
-      "brand": "shared use for closed networks",
+      "brand": "",
       "cc2s": [
         "SE"
       ],
       "country": "Sweden",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "shared use for closed networks"
     },
     "24067": {
       "bands": "",
-      "brand": "shared use for test purpose",
+      "brand": "",
       "cc2s": [
         "SE"
       ],
       "country": "Sweden",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "shared use for test purpose"
     },
     "24068": {
       "bands": "",
-      "brand": "shared use for test purpose",
+      "brand": "",
       "cc2s": [
         "SE"
       ],
       "country": "Sweden",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "shared use for test purpose"
     },
     "24069": {
       "bands": "",
-      "brand": "crisis management after determination by the Swedish Post- and Telecom Authority",
+      "brand": "",
       "cc2s": [
         "SE"
       ],
       "country": "Sweden",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "crisis management after determination by the Swedish Post- and Telecom Authority"
     },
     "24201": {
       "bands": [
@@ -6304,7 +6458,8 @@
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "Telenor",
       "cc2s": [
@@ -6751,15 +6906,15 @@
     },
     "24415": {
       "bands": [
-        "GSM 1800"
+        "Unknown"
       ],
-      "brand": "SAMK",
+      "brand": "",
       "cc2s": [
         "FI"
       ],
       "country": "Finland",
       "ope": false,
-      "operator": "Satakunnan ammattikorkeakoulu Oy"
+      "operator": "Telit Wireless Solutions GmbH"
     },
     "24416": {
       "bands": [
@@ -6895,7 +7050,7 @@
     },
     "24429": {
       "bands": [
-        "MVNO"
+        "Unknown"
       ],
       "brand": "",
       "cc2s": [
@@ -6903,31 +7058,31 @@
       ],
       "country": "Finland",
       "ope": false,
-      "operator": "SCNL Truphone"
+      "operator": "Teknologian tutkimuskeskus VTT Oy"
     },
     "24430": {
       "bands": [
-        "MVNO"
+        "Unknown"
       ],
-      "brand": "Vectone Mobile",
+      "brand": "",
       "cc2s": [
         "FI"
       ],
       "country": "Finland",
       "ope": false,
-      "operator": "Mundio Mobile Oy"
+      "operator": "Teknologian tutkimuskeskus VTT Oy"
     },
     "24431": {
       "bands": [
-        "MVNO"
+        "Unknown"
       ],
-      "brand": "Kuiri",
+      "brand": "",
       "cc2s": [
         "FI"
       ],
       "country": "Finland",
       "ope": false,
-      "operator": "Ukko Mobile Oy"
+      "operator": "Teknologian tutkimuskeskus VTT Oy"
     },
     "24432": {
       "bands": [
@@ -7092,6 +7247,42 @@
       "ope": false,
       "operator": "Turun ammattikorkeakoulu Oy"
     },
+    "24445": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FI"
+      ],
+      "country": "Finland",
+      "ope": false,
+      "operator": "Suomen Turvallisuusverkko Oy"
+    },
+    "24446": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FI"
+      ],
+      "country": "Finland",
+      "ope": false,
+      "operator": "Suomen Turvallisuusverkko Oy"
+    },
+    "24447": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FI"
+      ],
+      "country": "Finland",
+      "ope": false,
+      "operator": "Suomen Turvallisuusverkko Oy"
+    },
     "24450": {
       "bands": [
         "Unknown"
@@ -7219,7 +7410,7 @@
         "FI"
       ],
       "country": "Finland",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "24491": {
@@ -7253,6 +7444,18 @@
       "country": "Finland",
       "ope": false,
       "operator": "TeliaSonera Finland Oyj"
+    },
+    "24499": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FI"
+      ],
+      "country": "Finland",
+      "ope": false,
+      "operator": "Oy L M Ericsson Ab"
     },
     "24601": {
       "bands": [
@@ -7392,6 +7595,18 @@
       "country": "Lithuania",
       "ope": false,
       "operator": "DATASIM OU"
+    },
+    "24612": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "LT"
+      ],
+      "country": "Lithuania",
+      "ope": false,
+      "operator": "Nord connect OU"
     },
     "24701": {
       "bands": [
@@ -8332,7 +8547,7 @@
         "RU"
       ],
       "country": "Russia",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "25099": {
@@ -8545,7 +8760,7 @@
         "UA"
       ],
       "country": "Ukraine",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "25550": {
@@ -8555,7 +8770,7 @@
         "UA"
       ],
       "country": "Ukraine",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "25567": {
@@ -8565,7 +8780,7 @@
         "UA"
       ],
       "country": "Ukraine",
-      "ope": true,
+      "ope": false,
       "operator": "PRJSC \u201cKyivstar\""
     },
     "25568": {
@@ -8575,7 +8790,7 @@
         "UA"
       ],
       "country": "Ukraine",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "25599": {
@@ -8678,7 +8893,7 @@
         "BY"
       ],
       "country": "Belarus",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "25901": {
@@ -8921,13 +9136,13 @@
       "bands": [
         "CDMA2000 420"
       ],
-      "brand": "Nordisk Polska",
+      "brand": "Plus",
       "cc2s": [
         "PL"
       ],
       "country": "Poland",
       "ope": true,
-      "operator": "Nordisk Polska Sp. z o.o."
+      "operator": "Polkomtel Sp. z o.o."
     },
     "26012": {
       "bands": [
@@ -9042,25 +9257,25 @@
       "bands": [
         "Unknown"
       ],
-      "brand": "Exteri",
+      "brand": "",
       "cc2s": [
         "PL"
       ],
       "country": "Poland",
       "ope": false,
-      "operator": "Exteri Sp. z o.o."
+      "operator": "private networks"
     },
     "26022": {
       "bands": [
         "Unknown"
       ],
-      "brand": "Arcomm",
+      "brand": "",
       "cc2s": [
         "PL"
       ],
       "country": "Poland",
       "ope": false,
-      "operator": "Arcomm Sp. z o.o."
+      "operator": "Twilio Ireland Limited"
     },
     "26023": {
       "bands": [
@@ -9386,6 +9601,18 @@
       "country": "Poland",
       "ope": false,
       "operator": "Messagebird B.V."
+    },
+    "26097": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "PL"
+      ],
+      "country": "Poland",
+      "ope": false,
+      "operator": "Politechnika \u0141\u00f3dzka Uczelniane Centrum Informatyczne"
     },
     "26098": {
       "bands": [
@@ -10136,6 +10363,18 @@
       "ope": false,
       "operator": "Vodafone Portugal"
     },
+    "26893": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "NOS",
+      "cc2s": [
+        "PT"
+      ],
+      "country": "Portugal",
+      "ope": false,
+      "operator": "NOS Comunica\u00e7\u00f5es"
+    },
     "27001": {
       "bands": [
         "GSM 900",
@@ -10209,6 +10448,7 @@
       ],
       "brand": "Tango",
       "cc2s": [
+        "BE",
         "LU"
       ],
       "country": "Luxembourg",
@@ -10500,11 +10740,12 @@
       ],
       "brand": "Vodafone",
       "cc2s": [
+        "FO",
         "IS"
       ],
       "country": "Iceland",
       "ope": true,
-      "operator": "Og fjarskipti hf"
+      "operator": "S\u00fdn"
     },
     "27403": {
       "bands": [
@@ -10516,7 +10757,7 @@
       ],
       "country": "Iceland",
       "ope": true,
-      "operator": "Og fjarskipti hf"
+      "operator": "S\u00fdn"
     },
     "27404": {
       "bands": [
@@ -10586,7 +10827,7 @@
         "IS"
       ],
       "country": "Iceland",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "27411": {
@@ -10649,6 +10890,18 @@
       "country": "Iceland",
       "ope": false,
       "operator": "Iceland Telecom"
+    },
+    "27491": {
+      "bands": [
+        "Tetra"
+      ],
+      "brand": "",
+      "cc2s": [
+        "IS"
+      ],
+      "country": "Iceland",
+      "ope": true,
+      "operator": "Ney\u00f0arl\u00ednan"
     },
     "27601": {
       "bands": [
@@ -11164,7 +11417,7 @@
         "BG"
       ],
       "country": "Bulgaria",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "28407": {
@@ -11222,7 +11475,7 @@
         "BG"
       ],
       "country": "Estonia",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "28601": {
@@ -11298,13 +11551,13 @@
         "LTE 800",
         "LTE 1800"
       ],
-      "brand": "Faroese Telecom",
+      "brand": "F\u00f8roya Tele",
       "cc2s": [
         "FO"
       ],
       "country": "Faroe Islands",
       "ope": true,
-      "operator": "Faroese Telecom"
+      "operator": "F\u00f8roya Tele"
     },
     "28802": {
       "bands": [
@@ -11318,7 +11571,7 @@
       ],
       "country": "Faroe Islands",
       "ope": true,
-      "operator": "Vodafone Faroe Islands"
+      "operator": "Nema"
     },
     "28803": {
       "bands": [
@@ -11355,7 +11608,7 @@
         "AB"
       ],
       "country": "Abkhazia",
-      "ope": true,
+      "ope": false,
       "operator": "A-Mobile LLSC"
     },
     "28988": {
@@ -11595,7 +11848,7 @@
         "MK"
       ],
       "country": "North Macedonia",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "29501": {
@@ -11763,7 +12016,7 @@
         "ME"
       ],
       "country": "Montenegro",
-      "ope": true,
+      "ope": false,
       "operator": "T-Mobile Montenegro LLC"
     },
     "302100": {
@@ -12169,7 +12422,7 @@
         "CA"
       ],
       "country": "Canada",
-      "ope": true,
+      "ope": false,
       "operator": "Lynx Mobility"
     },
     "302570": {
@@ -12286,7 +12539,7 @@
         "CA"
       ],
       "country": "Canada",
-      "ope": true,
+      "ope": false,
       "operator": "Bell Mobility"
     },
     "302652": {
@@ -12321,7 +12574,7 @@
         "CA"
       ],
       "country": "Canada",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "302655": {
@@ -12666,6 +12919,42 @@
       "ope": false,
       "operator": "Halton Regional Police Service"
     },
+    "302996": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "CA"
+      ],
+      "country": "Canada",
+      "ope": false,
+      "operator": "Powertech Labs"
+    },
+    "302997": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "CA"
+      ],
+      "country": "Canada",
+      "ope": false,
+      "operator": "Powertech Labs"
+    },
+    "302998": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "CA"
+      ],
+      "country": "Canada",
+      "ope": false,
+      "operator": "Powertech Labs"
+    },
     "30801": {
       "bands": [
         "GSM 900"
@@ -12700,7 +12989,7 @@
         "US"
       ],
       "country": "United States",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "310004": {
@@ -12761,7 +13050,7 @@
         "US"
       ],
       "country": "United States",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "310012": {
@@ -13133,7 +13422,7 @@
         "US"
       ],
       "country": "United States",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "310140": [
@@ -13177,7 +13466,7 @@
         "US"
       ],
       "country": "United States",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "310150": {
@@ -13522,7 +13811,7 @@
         "US"
       ],
       "country": "United States",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "310380": {
@@ -13661,7 +13950,7 @@
         "US"
       ],
       "country": "United States",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "310460": {
@@ -13886,7 +14175,7 @@
         "US"
       ],
       "country": "United States",
-      "ope": true,
+      "ope": false,
       "operator": "Consolidated Telcom"
     },
     "310600": {
@@ -15054,7 +15343,7 @@
         "US"
       ],
       "country": "United States",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "311320": {
@@ -17825,7 +18114,7 @@
         "PR"
       ],
       "country": "Puerto Rico",
-      "ope": true,
+      "ope": false,
       "operator": "PR Wireless"
     },
     "330000": {
@@ -17875,7 +18164,7 @@
         "PR"
       ],
       "country": "Puerto Rico",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "33030": {
@@ -17885,7 +18174,7 @@
         "PR"
       ],
       "country": "Puerto Rico",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "330490": {
@@ -17895,7 +18184,7 @@
         "PR"
       ],
       "country": "Puerto Rico",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "33400": [
@@ -17906,7 +18195,7 @@
           "MX"
         ],
         "country": "Mexico",
-        "ope": true,
+        "ope": false,
         "operator": ""
       },
       {
@@ -17916,7 +18205,7 @@
           "MX"
         ],
         "country": "Mexico",
-        "ope": true,
+        "ope": false,
         "operator": ""
       }
     ],
@@ -17939,7 +18228,7 @@
         "MX"
       ],
       "country": "Mexico",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "334010": {
@@ -17961,7 +18250,7 @@
         "MX"
       ],
       "country": "Mexico",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "334020": {
@@ -17987,7 +18276,7 @@
         "MX"
       ],
       "country": "Mexico",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "334030": {
@@ -18009,7 +18298,7 @@
         "MX"
       ],
       "country": "Mexico",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "334040": {
@@ -18184,7 +18473,7 @@
         "MX"
       ],
       "country": "Mexico",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "338020": {
@@ -18486,7 +18775,7 @@
         "BB"
       ],
       "country": "Barbados",
-      "ope": true,
+      "ope": false,
       "operator": "Digicel (Barbados) Limited"
     },
     "342600": {
@@ -18539,7 +18828,7 @@
         "BB"
       ],
       "country": "Barbados",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "342820": {
@@ -18588,7 +18877,7 @@
         "AG"
       ],
       "country": "Mexico",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "344920": {
@@ -18638,7 +18927,7 @@
         "KY"
       ],
       "country": "Cayman Islands",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "346050": {
@@ -18679,7 +18968,7 @@
         "KY"
       ],
       "country": "Cayman Islands",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "346998": {
@@ -18689,7 +18978,7 @@
         "KY"
       ],
       "country": "Cayman Islands",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "348170": {
@@ -18768,13 +19057,13 @@
     },
     "350000": {
       "bands": "",
-      "brand": "Bermuda Digital Communications Ltd (CellOne)",
+      "brand": "",
       "cc2s": [
         "BM"
       ],
       "country": "Bermuda",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Bermuda Digital Communications Ltd (CellOne)"
     },
     "35001": {
       "bands": [
@@ -18808,7 +19097,7 @@
         "BM"
       ],
       "country": "Bermuda",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "35005": {
@@ -18830,7 +19119,7 @@
         "BM"
       ],
       "country": "Bermuda",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "35011": {
@@ -18879,7 +19168,7 @@
         "GD"
       ],
       "country": "Grenada",
-      "ope": true,
+      "ope": false,
       "operator": "Digicel Grenada Ltd."
     },
     "352110": {
@@ -18902,7 +19191,7 @@
         "GD"
       ],
       "country": "Grenada",
-      "ope": true,
+      "ope": false,
       "operator": "Digicel Grenada Ltd."
     },
     "354860": {
@@ -18964,7 +19253,7 @@
         "LC"
       ],
       "country": "Saint Lucia",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "358050": {
@@ -18974,7 +19263,7 @@
         "LC"
       ],
       "country": "Saint Lucia",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "358110": {
@@ -19011,8 +19300,8 @@
       "cc2s": [
         "VC"
       ],
-      "country": "Saint Vincent and the Grenadines",
-      "ope": true,
+      "country": "Saint Vincent & Grenadines",
+      "ope": false,
       "operator": "Digicel (St. Vincent and the Grenadines) Limited"
     },
     "360100": {
@@ -19151,7 +19440,7 @@
         "SX"
       ],
       "country": "Netherlands Antilles",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "36268": {
@@ -19284,7 +19573,7 @@
         "SX"
       ],
       "country": "Netherlands Antilles",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "36301": {
@@ -19326,7 +19615,7 @@
         "AW"
       ],
       "country": "Aruba",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "36430": {
@@ -19336,7 +19625,7 @@
         "BS"
       ],
       "country": "The Bahamas",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "36439": {
@@ -19362,7 +19651,7 @@
         "BS"
       ],
       "country": "The Bahamas",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "36449": {
@@ -19401,7 +19690,7 @@
         "AI"
       ],
       "country": "Anguilla",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "365840": {
@@ -19443,7 +19732,7 @@
         "DM"
       ],
       "country": "Dominica",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "366110": {
@@ -19467,7 +19756,7 @@
         "DM"
       ],
       "country": "Dominica",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "36801": {
@@ -19560,7 +19849,7 @@
         "HT"
       ],
       "country": "Haiti",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "37201": {
@@ -19609,7 +19898,7 @@
         "HT"
       ],
       "country": "Haiti",
-      "ope": true,
+      "ope": false,
       "operator": "Unigestion Holding S.A."
     },
     "37412": {
@@ -19637,7 +19926,7 @@
         "TT"
       ],
       "country": "Trinidad and Tobago",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "37413": {
@@ -19692,7 +19981,7 @@
         "TC"
       ],
       "country": "Turks and Caicos Islands",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "376350": {
@@ -19752,7 +20041,7 @@
         "TC"
       ],
       "country": "United States Virgin Islands",
-      "ope": true,
+      "ope": false,
       "operator": "Digicel (Turks & Caicos) Limited"
     },
     "40001": {
@@ -19928,13 +20217,13 @@
     },
     "40217": {
       "bands": "",
-      "brand": "Bhutan Telecom Ltd (BTL)",
+      "brand": "",
       "cc2s": [
         "BT"
       ],
       "country": "Bhutan",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "B-Mobile of Bhutan Telecom"
     },
     "40277": {
       "bands": [
@@ -19953,13 +20242,13 @@
     },
     "40400": {
       "bands": "",
-      "brand": "Dishnet Wireless Ltd, Madhya Pradesh",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Dishnet Wireless Ltd, Madhya Pradesh"
     },
     "40401": {
       "bands": [
@@ -20023,13 +20312,13 @@
     },
     "40406": {
       "bands": "",
-      "brand": "Bharti Airtel Limited, Karnataka",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Bharti Airtel Ltd., Karnataka"
     },
     "40407": {
       "bands": [
@@ -20218,13 +20507,13 @@
     },
     "40423": {
       "bands": "",
-      "brand": "Idea Cellular Ltd., Maharashtra",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Idea Cellular Ltd, Maharashtra"
     },
     "40424": {
       "bands": [
@@ -20314,13 +20603,13 @@
     },
     "40433": {
       "bands": "",
-      "brand": "Aircel / Dishnet Wireless Ltd, North East",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Dishnet Wireless Ltd, North East"
     },
     "40434": {
       "bands": [
@@ -20637,13 +20926,13 @@
     },
     "40461": {
       "bands": "",
-      "brand": "Dishnet Wireless Ltd, Punjab",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Dishnet Wireless Ltd, Punjab"
     },
     "40462": {
       "bands": [
@@ -20660,13 +20949,13 @@
     },
     "40463": {
       "bands": "",
-      "brand": "Dishnet Wireless Ltd, Haryana",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Dishnet Wireless Ltd, Haryana"
     },
     "40464": {
       "bands": [
@@ -20683,13 +20972,13 @@
     },
     "40465": {
       "bands": "",
-      "brand": "Dishnet Wireless Ltd, Uttar Predesh East",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Dishnet Wireless Ltd, UP (East)"
     },
     "40466": {
       "bands": [
@@ -20905,7 +21194,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "40482": {
@@ -21050,7 +21339,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "40493": {
@@ -21127,63 +21416,63 @@
     },
     "40499": {
       "bands": "",
-      "brand": "Dishnet Wireless Ltd, Kerala",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Dishnet Wireless Ltd, Kerala"
     },
     "405000": {
       "bands": "",
-      "brand": "Shyam Telelink Ltd, Rajasthan",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Shyam Telelink Ltd, Rajasthan"
     },
     "405005": {
       "bands": "",
-      "brand": "Reliance Communications Ltd/GSM, Delhi",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd/GSM, Delhi"
     },
     "405006": {
       "bands": "",
-      "brand": "Reliance Communications Ltd/GSM, Gujarat",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd/GSM, Gujarat"
     },
     "405007": {
       "bands": "",
-      "brand": "Reliance Communications Ltd/GSM, Haryana",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd/GSM, Haryana"
     },
     "405009": {
       "bands": "",
-      "brand": "Reliance Communications Ltd/GSM, J&K",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd/GSM, J&K"
     },
     "40501": {
       "bands": [
@@ -21199,93 +21488,93 @@
     },
     "405010": {
       "bands": "",
-      "brand": "Reliance Communications Ltd,/GSM Karnataka",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd,/GSM Karnataka"
     },
     "405011": {
       "bands": "",
-      "brand": "Reliance Communications Ltd/GSM, Kerala",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd/GSM, Kerala"
     },
     "405012": {
       "bands": "",
-      "brand": "Reliance Infocomm Ltd, Andhra Pradesh",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Infocomm Ltd, Andhra Pradesh"
     },
     "405013": {
       "bands": "",
-      "brand": "Reliance Communications Ltd/GSM, Maharashtra",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd/GSM, Maharashtra"
     },
     "405014": {
       "bands": "",
-      "brand": "Reliance Communications Ltd/GSM, Madhya Pradesh",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd/GSM, Madhya Pradesh"
     },
     "405018": {
       "bands": "",
-      "brand": "Reliance Communications Ltd/GSM, Punjab",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd/GSM, Punjab"
     },
     "405020": {
       "bands": "",
-      "brand": "Reliance Communications Ltd/GSM, Tamilnadu",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd/GSM, Tamilnadu"
     },
     "405021": {
       "bands": "",
-      "brand": "Reliance Communications Ltd/GSM, Uttar Predesh East",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd/GSM, UP (East)"
     },
     "405022": {
       "bands": "",
-      "brand": "Reliance Communications Ltd/GSM, Uttar Predesh West",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Communications Ltd/GSM, UP (West)"
     },
     "405025": {
       "bands": [
@@ -21513,13 +21802,13 @@
     },
     "405040": {
       "bands": "",
-      "brand": "Reliance Infocomm Ltd, Chennai",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Reliance Infocomm Ltd, Chennai"
     },
     "405041": {
       "bands": [
@@ -21840,18 +22129,18 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "40528": {
       "bands": "",
-      "brand": "Tata Teleservices Ltd, Chennai",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Tata Teleservices Ltd, Chennai"
     },
     "40551": {
       "bands": [
@@ -21954,13 +22243,13 @@
     },
     "40568": {
       "bands": "",
-      "brand": "Vodafone / Hutchison, Madhya Pradesh",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Vodaphone/Hutchison, Madhya Pradesh"
     },
     "40570": {
       "bands": [
@@ -21976,43 +22265,43 @@
     },
     "40571": {
       "bands": "",
-      "brand": "Essar Spacetel Ltd, Himachal Pradesh",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Essar Spacetel Ltd, Himachal Pradesh"
     },
     "40572": {
       "bands": "",
-      "brand": "Essar Spacetel Ltd, North East",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Essar Spacetel Ltd, North East"
     },
     "40573": {
       "bands": "",
-      "brand": "Essar Spacetel Ltd, Assam",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Essar Spacetel Ltd, Assam"
     },
     "40574": {
       "bands": "",
-      "brand": "Essar Spacetel Ltd, J&K",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Essar Spacetel Ltd, J&K"
     },
     "405750": {
       "bands": [
@@ -22100,23 +22389,23 @@
     },
     "40576": {
       "bands": "",
-      "brand": "Essar Spacetel Ltd, Orissa",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Essar Spacetel Ltd, Orissa"
     },
     "40577": {
       "bands": "",
-      "brand": "Essar Spacetel Ltd, Maharashtra",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Essar Spacetel Ltd, Maharashtra"
     },
     "405799": {
       "bands": [
@@ -22253,13 +22542,13 @@
     },
     "40581": {
       "bands": "",
-      "brand": "Aircell Ltd, Delhi",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Aircell Ltd, Delhi"
     },
     "405810": {
       "bands": [
@@ -22304,7 +22593,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405814": {
@@ -22314,7 +22603,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405815": {
@@ -22324,7 +22613,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405816": {
@@ -22334,7 +22623,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405817": {
@@ -22344,7 +22633,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405818": {
@@ -22373,13 +22662,13 @@
     },
     "40582": {
       "bands": "",
-      "brand": "Aircell Ltd, Andhra Pradesh",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Aircell Ltd, Andhra Pradesh"
     },
     "405820": {
       "bands": [
@@ -22424,7 +22713,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405824": {
@@ -22446,7 +22735,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405826": {
@@ -22456,7 +22745,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405827": {
@@ -22478,7 +22767,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405829": {
@@ -22488,18 +22777,18 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "40583": {
       "bands": "",
-      "brand": "Aircell Ltd, Gujarat",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Aircell Ltd, Gujarat"
     },
     "405830": {
       "bands": "",
@@ -22508,7 +22797,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405831": {
@@ -22518,7 +22807,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405832": {
@@ -22528,7 +22817,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405833": {
@@ -22538,7 +22827,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405834": {
@@ -22560,7 +22849,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405836": {
@@ -22570,7 +22859,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405837": {
@@ -22580,7 +22869,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405838": {
@@ -22590,7 +22879,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405839": {
@@ -22600,18 +22889,18 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "40584": {
       "bands": "",
-      "brand": "Aircell Ltd, Maharashtra",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Aircell Ltd, Maharashtra"
     },
     "405840": {
       "bands": [
@@ -22634,7 +22923,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405842": {
@@ -22644,7 +22933,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405843": {
@@ -22654,7 +22943,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405844": {
@@ -22732,13 +23021,13 @@
     },
     "40585": {
       "bands": "",
-      "brand": "Aircell Ltd, Mumbai",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Aircell Ltd, Mumbai"
     },
     "405850": {
       "bands": [
@@ -22874,13 +23163,13 @@
     },
     "40586": {
       "bands": "",
-      "brand": "Aircell Ltd, Rajasthan",
+      "brand": "",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Aircell Ltd, Rajasthan"
     },
     "405860": {
       "bands": [
@@ -23111,7 +23400,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405877": {
@@ -23121,7 +23410,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405878": {
@@ -23131,7 +23420,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405879": {
@@ -23141,7 +23430,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405880": {
@@ -23175,7 +23464,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Assam"
     },
     "405883": {
@@ -23185,7 +23474,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Assam"
     },
     "405884": {
@@ -23195,7 +23484,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Assam"
     },
     "405885": {
@@ -23205,7 +23494,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Assam"
     },
     "405886": {
@@ -23215,7 +23504,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Assam"
     },
     "405887": {
@@ -23225,7 +23514,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405888": {
@@ -23235,7 +23524,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405889": {
@@ -23245,7 +23534,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405890": {
@@ -23255,7 +23544,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405891": {
@@ -23265,7 +23554,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405892": {
@@ -23275,7 +23564,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405893": {
@@ -23285,7 +23574,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405894": {
@@ -23295,7 +23584,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405895": {
@@ -23305,7 +23594,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405896": {
@@ -23315,7 +23604,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405897": {
@@ -23325,7 +23614,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405898": {
@@ -23335,7 +23624,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405899": {
@@ -23345,7 +23634,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405900": {
@@ -23355,7 +23644,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405901": {
@@ -23365,7 +23654,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405902": {
@@ -23375,7 +23664,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405903": {
@@ -23385,7 +23674,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405904": {
@@ -23395,7 +23684,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405905": {
@@ -23405,7 +23694,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405906": {
@@ -23415,7 +23704,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405907": {
@@ -23425,7 +23714,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405908": {
@@ -23519,7 +23808,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405916": {
@@ -23529,7 +23818,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405917": {
@@ -23551,7 +23840,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405919": {
@@ -23561,7 +23850,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405920": {
@@ -23571,7 +23860,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405921": {
@@ -23581,7 +23870,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405922": {
@@ -23591,7 +23880,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405923": {
@@ -23601,7 +23890,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405924": {
@@ -23611,7 +23900,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405925": {
@@ -23621,8 +23910,8 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
-      "operator": "Karnataka"
+      "ope": false,
+      "operator": "Kolkata"
     },
     "405926": {
       "bands": "",
@@ -23631,7 +23920,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405927": {
@@ -23653,7 +23942,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405929": {
@@ -23675,7 +23964,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "405931": {
@@ -23685,7 +23974,7 @@
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "41001": {
@@ -23843,7 +24132,7 @@
         "AF"
       ],
       "country": "Afghanistan",
-      "ope": true,
+      "ope": false,
       "operator": "Etisalat Afghanistan"
     },
     "41240": {
@@ -24246,83 +24535,83 @@
     },
     "41532": {
       "bands": "",
-      "brand": "Cellis",
+      "brand": "",
       "cc2s": [
         "LB"
       ],
       "country": "Lebanon",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Cellis"
     },
     "41533": {
       "bands": "",
-      "brand": "Cellis",
+      "brand": "",
       "cc2s": [
         "LB"
       ],
       "country": "Lebanon",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Cellis"
     },
     "41534": {
       "bands": "",
-      "brand": "FTML Cellis",
+      "brand": "",
       "cc2s": [
         "LB"
       ],
       "country": "Lebanon",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Cellis"
     },
     "41535": {
       "bands": "",
-      "brand": "Cellis",
+      "brand": "",
       "cc2s": [
         "LB"
       ],
       "country": "Lebanon",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Cellis"
     },
     "41536": {
       "bands": "",
-      "brand": "MIC2/LibanCell",
+      "brand": "",
       "cc2s": [
         "LB"
       ],
       "country": "Lebanon",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Libancell"
     },
     "41537": {
       "bands": "",
-      "brand": "MIC2/LibanCell",
+      "brand": "",
       "cc2s": [
         "LB"
       ],
       "country": "Lebanon",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Libancell"
     },
     "41538": {
       "bands": "",
-      "brand": "MIC2/LibanCell",
+      "brand": "",
       "cc2s": [
         "LB"
       ],
       "country": "Lebanon",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Libancell"
     },
     "41539": {
       "bands": "",
-      "brand": "MIC2/LibanCell",
+      "brand": "",
       "cc2s": [
         "LB"
       ],
       "country": "Lebanon",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Libancell"
     },
     "41601": {
       "bands": [
@@ -24505,33 +24794,33 @@
     },
     "41847": {
       "bands": "",
-      "brand": "Iraq Central Cooperative Association for Communication and Transportation",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Iraq Central Cooperative Association for Communication and Transportation"
     },
     "41848": {
       "bands": "",
-      "brand": "ITC Fanoos",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITC Fanoos"
     },
     "41849": {
       "bands": "",
-      "brand": "Iraqtel",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Iraqtel"
     },
     "41862": {
       "bands": [
@@ -24548,33 +24837,33 @@
     },
     "41870": {
       "bands": "",
-      "brand": "Kalimat",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Kalimat"
     },
     "41880": {
       "bands": "",
-      "brand": "Iraqi Telecommunications & Post Company (ITPC)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Iraqi Telecommunications & Post Company (ITPC)"
     },
     "41881": {
       "bands": "",
-      "brand": "ITPC (Al-Mazaya)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITPC (Al-Mazaya)"
     },
     "41882": {
       "bands": "",
@@ -24583,88 +24872,88 @@
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
+      "ope": false,
       "operator": "Telecom Ltd"
     },
     "41883": {
       "bands": "",
-      "brand": "ITPC (Sader Al-Iraq)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITPC (Sader Al-Iraq)"
     },
     "41884": {
       "bands": "",
-      "brand": "ITPC (Eaamar Albasrah)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITPC (Eaamar Albasrah)"
     },
     "41885": {
       "bands": "",
-      "brand": "ITPC (Anwar Yagotat Alkhalee)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITPC (Anwar Yagotat Alkhalee)"
     },
     "41886": {
       "bands": "",
-      "brand": "ITPC (Furatfone)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITPC (Furatfone)"
     },
     "41887": {
       "bands": "",
-      "brand": "ITPC (Al-Seraj)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITPC (Al-Seraj)"
     },
     "41888": {
       "bands": "",
-      "brand": "ITPC (High Link)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITPC (High Link)"
     },
     "41889": {
       "bands": "",
-      "brand": "ITPC (Al-Shams)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITPC (Al-Shams)"
     },
     "41891": {
       "bands": "",
-      "brand": "ITPC (Belad Babel)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITPC (Belad Babel)"
     },
     "41892": {
       "bands": [
@@ -24680,23 +24969,23 @@
     },
     "41893": {
       "bands": "",
-      "brand": "ITPC (Iraqcell)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITPC (Iraqcell)"
     },
     "41894": {
       "bands": "",
-      "brand": "ITPC (Shaly)",
+      "brand": "",
       "cc2s": [
         "IQ"
       ],
       "country": "Iraq",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "ITPC (Shaly)"
     },
     "41902": {
       "bands": [
@@ -24772,7 +25061,7 @@
         "SA"
       ],
       "country": "Saudi Arabia",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "42003": {
@@ -24843,7 +25132,7 @@
         "SA"
       ],
       "country": "Saudi Arabia",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "42021": {
@@ -24912,7 +25201,8 @@
         "GSM 1800",
         "UMTS 900",
         "LTE 1800",
-        "TD-LTE 2300"
+        "TD-LTE 2300",
+        "5G 3500"
       ],
       "brand": "Omantel",
       "cc2s": [
@@ -25361,7 +25651,7 @@
         "PS"
       ],
       "country": "Israel",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "42601": {
@@ -25503,7 +25793,7 @@
         "MN"
       ],
       "country": "Mongolia",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "42888": {
@@ -25626,7 +25916,7 @@
         "AE"
       ],
       "country": "United Arab Emirates",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "43102": {
@@ -25636,7 +25926,7 @@
         "AE"
       ],
       "country": "United Arab Emirates",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "43201": {
@@ -26170,6 +26460,16 @@
       "ope": true,
       "operator": "Alfa Telecom CJSC"
     },
+    "43706": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "KG"
+      ],
+      "country": "Kyrgyzstan",
+      "ope": false,
+      "operator": "Kyrgyztelecom"
+    },
     "43709": {
       "bands": [
         "GSM 900",
@@ -26424,7 +26724,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44014": {
@@ -26434,7 +26734,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44015": {
@@ -26444,7 +26744,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44016": {
@@ -26454,7 +26754,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44017": {
@@ -26464,7 +26764,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44018": {
@@ -26474,7 +26774,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44019": {
@@ -26484,7 +26784,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44020": {
@@ -26532,7 +26832,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44023": {
@@ -26542,7 +26842,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44024": {
@@ -26552,7 +26852,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44025": {
@@ -26562,7 +26862,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44026": {
@@ -26572,7 +26872,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44027": {
@@ -26582,7 +26882,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44028": {
@@ -26592,7 +26892,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44029": {
@@ -26602,7 +26902,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44030": {
@@ -26612,7 +26912,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44031": {
@@ -26622,7 +26922,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44032": {
@@ -26632,7 +26932,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44033": {
@@ -26642,7 +26942,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44034": {
@@ -26652,7 +26952,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44035": {
@@ -26662,7 +26962,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44036": {
@@ -26672,7 +26972,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44037": {
@@ -26682,7 +26982,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44038": {
@@ -26692,7 +26992,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44039": {
@@ -26702,7 +27002,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44040": {
@@ -26712,7 +27012,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44041": {
@@ -26722,7 +27022,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44042": {
@@ -26732,7 +27032,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44043": {
@@ -26742,7 +27042,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44044": {
@@ -26752,7 +27052,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44045": {
@@ -26762,7 +27062,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44046": {
@@ -26772,7 +27072,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44047": {
@@ -26782,7 +27082,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44048": {
@@ -26792,7 +27092,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44049": {
@@ -26802,7 +27102,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44050": {
@@ -26902,7 +27202,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "KDDI Corporation"
     },
     "44056": {
@@ -26912,7 +27212,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "KDDI Corporation"
     },
     "44058": {
@@ -26922,7 +27222,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44060": {
@@ -26932,7 +27232,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44061": {
@@ -26942,7 +27242,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44062": {
@@ -26952,7 +27252,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44063": {
@@ -26962,7 +27262,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44064": {
@@ -26972,7 +27272,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44065": {
@@ -26982,7 +27282,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44066": {
@@ -26992,7 +27292,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44067": {
@@ -27002,7 +27302,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44068": {
@@ -27012,7 +27312,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44069": {
@@ -27022,7 +27322,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44070": {
@@ -27158,7 +27458,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "KDDI Corporation"
     },
     "44078": {
@@ -27181,7 +27481,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "KDDI Corporation"
     },
     "44080": {
@@ -27191,7 +27491,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44081": {
@@ -27201,7 +27501,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44082": {
@@ -27211,7 +27511,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44083": {
@@ -27221,7 +27521,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44084": {
@@ -27231,7 +27531,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44085": {
@@ -27241,7 +27541,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44086": {
@@ -27251,7 +27551,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44087": {
@@ -27261,7 +27561,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44088": {
@@ -27271,7 +27571,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "KDDI Corporation"
     },
     "44089": {
@@ -27281,7 +27581,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "KDDI Corporation"
     },
     "44090": {
@@ -27291,7 +27591,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44091": {
@@ -27313,7 +27613,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44093": {
@@ -27323,7 +27623,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44094": {
@@ -27333,7 +27633,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44095": {
@@ -27343,7 +27643,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44096": {
@@ -27353,7 +27653,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44097": {
@@ -27363,7 +27663,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44098": {
@@ -27373,7 +27673,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44099": {
@@ -27383,7 +27683,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": "NTT DoCoMo, Inc."
     },
     "44100": {
@@ -27437,7 +27737,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44141": {
@@ -27447,7 +27747,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44142": {
@@ -27457,7 +27757,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44143": {
@@ -27467,7 +27767,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44144": {
@@ -27477,7 +27777,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44145": {
@@ -27487,7 +27787,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44150": {
@@ -27497,7 +27797,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44151": {
@@ -27507,7 +27807,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44161": {
@@ -27517,7 +27817,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44162": {
@@ -27527,7 +27827,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44163": {
@@ -27537,7 +27837,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44164": {
@@ -27547,7 +27847,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44165": {
@@ -27557,7 +27857,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44170": {
@@ -27567,7 +27867,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44190": {
@@ -27577,18 +27877,18 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44191": {
       "bands": "",
-      "brand": "NTT Docomo",
+      "brand": "",
       "cc2s": [
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "The Tokyo Organising Committee of the Olympic and Paralympic Games"
     },
     "44192": {
       "bands": "",
@@ -27597,7 +27897,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44193": {
@@ -27607,7 +27907,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44194": {
@@ -27617,7 +27917,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44198": {
@@ -27627,7 +27927,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "44199": {
@@ -27637,7 +27937,7 @@
         "JP"
       ],
       "country": "Japan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "45001": {
@@ -28233,6 +28533,26 @@
       "ope": false,
       "operator": "Hong Kong Government"
     },
+    "45427": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "HK"
+      ],
+      "country": "Hong Kong",
+      "ope": false,
+      "operator": "Government use"
+    },
+    "45428": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "HK"
+      ],
+      "country": "Hong Kong",
+      "ope": false,
+      "operator": "Government use"
+    },
     "45429": {
       "bands": [
         "CDMA 800"
@@ -28300,7 +28620,7 @@
         "HK"
       ],
       "country": "Hong Kong",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "45447": {
@@ -28310,7 +28630,7 @@
         "HK"
       ],
       "country": "Hong Kong",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "45500": {
@@ -29154,7 +29474,7 @@
         "BD"
       ],
       "country": "Bangladesh",
-      "ope": true,
+      "ope": false,
       "operator": "Pacific Bangladesh Telecom Limited"
     },
     "47007": {
@@ -30459,7 +30779,7 @@
         "PH"
       ],
       "country": "Philippines",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "51501": {
@@ -31084,7 +31404,7 @@
         "NZ"
       ],
       "country": "New Zealand",
-      "ope": true,
+      "ope": false,
       "operator": "2degrees"
     },
     "53601": {
@@ -31094,7 +31414,7 @@
         "NR"
       ],
       "country": "Nauru",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "53602": {
@@ -31228,7 +31548,7 @@
         "SB"
       ],
       "country": "Solomon Islands",
-      "ope": true,
+      "ope": false,
       "operator": "Our Telekom"
     },
     "54100": {
@@ -31307,7 +31627,8 @@
       ],
       "brand": "Digicel",
       "cc2s": [
-        "FJ"
+        "FJ",
+        "NR"
       ],
       "country": "Fiji",
       "ope": true,
@@ -31362,7 +31683,7 @@
         "AS"
       ],
       "country": "American Samoa",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "54501": {
@@ -32509,7 +32830,7 @@
         "BJ"
       ],
       "country": "Benin",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "61601": {
@@ -32672,7 +32993,7 @@
         "LR"
       ],
       "country": "Liberia",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "61804": {
@@ -33091,7 +33412,7 @@
         "NG"
       ],
       "country": "Nigeria",
-      "ope": true,
+      "ope": false,
       "operator": "Visafone Communications Ltd."
     },
     "62120": {
@@ -33237,7 +33558,7 @@
         "NG"
       ],
       "country": "Nigeria",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "62199": {
@@ -33247,7 +33568,7 @@
         "NG"
       ],
       "country": "Nigeria",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "621996": {
@@ -33257,7 +33578,7 @@
         "NG"
       ],
       "country": "Nigeria",
-      "ope": true,
+      "ope": false,
       "operator": "Visafone Communications Ltd."
     },
     "621997": {
@@ -33267,7 +33588,7 @@
         "NG"
       ],
       "country": "Nigeria",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "621998": {
@@ -33277,7 +33598,7 @@
         "NG"
       ],
       "country": "Nigeria",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "62201": {
@@ -33329,7 +33650,7 @@
         "TD"
       ],
       "country": "Chad",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "62207": {
@@ -33626,7 +33947,7 @@
         "CG"
       ],
       "country": "Republic of the Congo",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "62907": {
@@ -33775,7 +34096,7 @@
         "AO"
       ],
       "country": "Angola",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "63104": {
@@ -33894,7 +34215,7 @@
         "SD"
       ],
       "country": "Sudan",
-      "ope": true,
+      "ope": false,
       "operator": "Canar Telecom"
     },
     "63401": {
@@ -33951,13 +34272,13 @@
     },
     "63406": {
       "bands": "",
-      "brand": "ZAIN/Mobitel",
+      "brand": "",
       "cc2s": [
         "SD"
       ],
       "country": "Sudan",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Zain Sudan"
     },
     "63407": {
       "bands": [
@@ -33981,7 +34302,7 @@
         "SD"
       ],
       "country": "Sudan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "63409": {
@@ -34005,7 +34326,7 @@
         "SD"
       ],
       "country": "Sudan",
-      "ope": true,
+      "ope": false,
       "operator": "Sudatel Group"
     },
     "63422": {
@@ -34015,17 +34336,17 @@
         "SD"
       ],
       "country": "Sudan",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "63499": {
       "bands": "",
-      "brand": "MTN",
+      "brand": "",
       "cc2s": [
         "SD"
       ],
       "country": "Sudan",
-      "ope": true,
+      "ope": false,
       "operator": "MTN Sudan"
     },
     "63510": {
@@ -34170,7 +34491,7 @@
         "SO"
       ],
       "country": "Somalia",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "63720": {
@@ -34195,7 +34516,7 @@
         "SO"
       ],
       "country": "Somalia",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "63730": {
@@ -34732,6 +35053,16 @@
       "country": "Uganda",
       "ope": true,
       "operator": "Suretelecom Uganda Ltd."
+    },
+    "64120": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "UG"
+      ],
+      "country": "Uganda",
+      "ope": false,
+      "operator": "Hamilton Telecom Limited"
     },
     "64122": {
       "bands": [
@@ -35367,7 +35698,7 @@
         "BW"
       ],
       "country": "Botswana",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "65201": {
@@ -36003,7 +36334,7 @@
         "SS"
       ],
       "country": "South Sudan",
-      "ope": true,
+      "ope": false,
       "operator": "Network of the World (NOW)"
     },
     "65906": {
@@ -36033,52 +36364,52 @@
     },
     "65912": {
       "bands": "",
-      "brand": "Sudani/Sudatel",
+      "brand": "",
       "cc2s": [
         "SS"
       ],
       "country": "South Sudan",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Sudani/Sudatel"
     },
     "65991": {
       "bands": "",
-      "brand": "Zain-South Sudan",
+      "brand": "",
       "cc2s": [
         "SS"
       ],
       "country": "South Sudan",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Zain-South Sudan"
     },
     "65992": {
       "bands": "",
-      "brand": "MTN-South Sudan",
+      "brand": "",
       "cc2s": [
         "SS"
       ],
       "country": "South Sudan",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "MTN-South Sudan"
     },
     "65995": {
       "bands": "",
-      "brand": "Vivacel/NOW",
+      "brand": "",
       "cc2s": [
         "SS"
       ],
       "country": "South Sudan",
-      "ope": true,
-      "operator": ""
+      "ope": false,
+      "operator": "Vivacel/NOW"
     },
     "65997": {
       "bands": "",
-      "brand": "Gemtel",
+      "brand": "",
       "cc2s": [
         "SS"
       ],
       "country": "South Sudan",
-      "ope": true,
+      "ope": false,
       "operator": "Gemtel"
     },
     "70267": {
@@ -36286,7 +36617,7 @@
         "HN"
       ],
       "country": "Honduras",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "708030": {
@@ -36321,7 +36652,7 @@
         "HN"
       ],
       "country": "Honduras",
-      "ope": true,
+      "ope": false,
       "operator": "Empresa Hondure\u00f1a de Telecomunicaciones"
     },
     "71021": {
@@ -36517,7 +36848,7 @@
         "PE"
       ],
       "country": "Peru",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "71602": {
@@ -36527,7 +36858,7 @@
         "PE"
       ],
       "country": "Peru",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "71606": {
@@ -36611,7 +36942,7 @@
         "PE"
       ],
       "country": "Peru",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "722010": {
@@ -36731,7 +37062,7 @@
         "AR"
       ],
       "country": "Argentina",
-      "ope": true,
+      "ope": false,
       "operator": "Telecom Personal S.A."
     },
     "722341": {
@@ -36891,7 +37222,7 @@
         "BR"
       ],
       "country": "Brazil",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "72408": {
@@ -36901,7 +37232,7 @@
         "BR"
       ],
       "country": "Brazil",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "72410": {
@@ -36947,7 +37278,7 @@
         "BR"
       ],
       "country": "Brazil",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "72415": {
@@ -37008,7 +37339,7 @@
         "BR"
       ],
       "country": "Brazil",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "72423": {
@@ -37221,7 +37552,7 @@
         "CL"
       ],
       "country": "Chile",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "73001": {
@@ -37477,6 +37808,16 @@
       "ope": false,
       "operator": "Inversiones Santa Fe Limitada"
     },
+    "73021": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "CL"
+      ],
+      "country": "Chile",
+      "ope": false,
+      "operator": "WILL S.A."
+    },
     "73022": {
       "bands": [
         "Unknown"
@@ -37625,7 +37966,7 @@
       ],
       "country": "Colombia",
       "ope": true,
-      "operator": "COMCEL S.A."
+      "operator": "Comunicacion Celular S.A. (Comcel)"
     },
     "732102": {
       "bands": [
@@ -37834,6 +38175,18 @@
       "ope": true,
       "operator": "Logistica Flash Colombia SAS"
     },
+    "732666": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "Claro",
+      "cc2s": [
+        "CO"
+      ],
+      "country": "Colombia",
+      "ope": false,
+      "operator": "Comunicacion Celular S.A. (Comcel)"
+    },
     "73401": {
       "bands": [
         "GSM 900"
@@ -37994,7 +38347,7 @@
         "GY"
       ],
       "country": "Guyana",
-      "ope": true,
+      "ope": false,
       "operator": ""
     },
     "73805": {
@@ -38156,7 +38509,7 @@
         "SR"
       ],
       "country": "Suriname",
-      "ope": true,
+      "ope": false,
       "operator": "Telecommunications Company Suriname (Telesur)"
     },
     "74602": {

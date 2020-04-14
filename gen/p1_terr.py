@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# source: data aggregated from Wikipedia, The World Factbook and Egallic blog
+# source: data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation
 # license: produced by P1 Security, based on openly available data
 
 P1_TERR = \
@@ -259,6 +259,8 @@ P1_TERR = \
                          'less100': ['Guernsey', 'Netherlands', 'United Kingdom'],
                          'less30': ['Jersey']}},
   'French Antilles': {'cc2': None, 'dep': 'FR', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
+  'French Departments and Territories in the Indian Ocean': { 'cc2': None,
+                                                              'neigh': {'bord': [], 'less100': [], 'less30': []}},
   'French Guiana': {'cc2': 'GF', 'dep': 'FR', 'neigh': {'bord': ['Brazil', 'Suriname'], 'less100': [], 'less30': []}},
   'French Polynesia': {'cc2': 'PF', 'dep': 'FR', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
   'French Southern Territories': {'cc2': 'TF', 'dep': 'FR', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
@@ -307,7 +309,7 @@ P1_TERR = \
   'Guinea-Bissau': {'cc2': 'GW', 'neigh': {'bord': ['Guinea', 'Senegal'], 'less100': ['The Gambia'], 'less30': []}},
   'Guyana': {'cc2': 'GY', 'neigh': {'bord': ['Brazil', 'Suriname', 'Venezuela'], 'less100': [], 'less30': []}},
   'Haiti': {'cc2': 'HT', 'neigh': {'bord': ['Dominica', 'Dominican Republic'], 'less100': ['Cuba'], 'less30': []}},
-  'Heard Island and McDonald Island': {'cc2': 'HM', 'dep': 'AU', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
+  'Heard Island and McDonald Islands': {'cc2': 'HM', 'dep': 'AU', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
   'Honduras': { 'cc2': 'HN',
                 'neigh': {'bord': ['El Salvador', 'Guatemala', 'Nicaragua'], 'less100': ['Belize'], 'less30': []}},
   'Hong Kong': {'cc2': 'HK', 'neigh': {'bord': ['China'], 'less100': [], 'less30': []}},

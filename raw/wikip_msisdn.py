@@ -2,7 +2,7 @@
 # source: https://en.wikipedia.org/wiki/List_of_country_calling_codes
 # license: https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
 
-RAW/WIKIP_MSISDN = \
+WIKIP_MSISDN = \
 { '1': [ ('AG', 'Antigua and Barbuda', 'https://en.wikipedia.org/wiki/Antigua_and_Barbuda'),
          ('AI', 'Anguilla', 'https://en.wikipedia.org/wiki/Anguilla'),
          ('AS', 'American Samoa', 'https://en.wikipedia.org/wiki/American_Samoa'),

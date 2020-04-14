@@ -2,7 +2,7 @@
   {
     "license": "produced by P1 Security, based on openly available data",
     "source": [
-      "data aggregated from Wikipedia, The World Factbook and Egallic blog"
+      "data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation"
     ]
   },
   {
@@ -205,7 +205,7 @@
           "general": [
             "consistent with the region",
             "offsetting the deficit of fixed-line capacity, mobile-cellular phone service has been available since 1996",
-            "four companies presently providing mobile services and mobile teledensity",
+            "four companies presently providing mobile services and mobile telephony",
             "Internet broadband services initiated in 2005, and the penetration rate rose to over 65% by 2016",
             "Internet cafes are popular in major urban areas",
             "1.3 million use mobile broadband services (3G/4G)",
@@ -701,7 +701,6 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_ay.html"
         },
         "nameset": [
-          "all land",
           "all land and ice shelves south of the",
           "antarctica"
         ],
@@ -1365,6 +1364,7 @@
         "23222",
         "23223",
         "23224",
+        "23225",
         "23291",
         "23292"
       ],
@@ -1931,6 +1931,7 @@
         "20600",
         "20601",
         "20602",
+        "20603",
         "20605",
         "20606",
         "20607",
@@ -1945,7 +1946,12 @@
         "20630",
         "20633",
         "20640",
-        "20650"
+        "20650",
+        "20671",
+        "20672",
+        "20673",
+        "20674",
+        "27077"
       ],
       "msisdn": [
         "32"
@@ -2974,7 +2980,6 @@
         "nameset": [
           "brunei",
           "brunei darussalam",
-          "nation of brunei",
           "nation of brunei the abode of peace",
           "nation of brunei, the abode of peace",
           "negara brunei darussalam",
@@ -3632,7 +3637,10 @@
         "302920",
         "302940",
         "302990",
-        "302991"
+        "302991",
+        "302996",
+        "302997",
+        "302998"
       ],
       "msisdn": [
         "1"
@@ -4089,6 +4097,7 @@
         "73018",
         "73019",
         "73020",
+        "73021",
         "73022",
         "73023",
         "73026",
@@ -4328,6 +4337,7 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_ck.html"
         },
         "nameset": [
+          "cocos",
           "cocos (keeling) islands",
           "cocos islands",
           "territory of cocos",
@@ -4457,7 +4467,8 @@
         "732210",
         "732220",
         "732230",
-        "732240"
+        "732240",
+        "732666"
       ],
       "msisdn": [
         "57"
@@ -4503,11 +4514,10 @@
         },
         "nameset": [
           "comoros",
-          "komori (comorian) comores (french) juzur al qamar (arabic)",
+          "komori",
           "komori (comorian), comores (french), juzur al qamar (arabic)",
           "the union of the comoros",
           "udzima wa komori",
-          "udzima wa komori (comorian) union des comores (french) jumhuriyat al qamar al muttahidah (arabic)",
           "udzima wa komori (comorian), union des comores (french), jumhuriyat al qamar al muttahidah (arabic)",
           "union of the comoros"
         ],
@@ -6646,6 +6656,7 @@
         "288"
       ],
       "mccmnc": [
+        "27402",
         "28801",
         "28802",
         "28803"
@@ -6944,6 +6955,9 @@
         "24442",
         "24443",
         "24444",
+        "24445",
+        "24446",
+        "24447",
         "24450",
         "24451",
         "24452",
@@ -6956,7 +6970,8 @@
         "24459",
         "24482",
         "24491",
-        "24492"
+        "24492",
+        "24499"
       ],
       "msisdn": [
         "358"
@@ -7125,7 +7140,9 @@
         "20833",
         "20834",
         "20850",
+        "208500",
         "20870",
+        "208700",
         "20886",
         "20887",
         "20888",
@@ -7334,12 +7351,10 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_fs.html"
         },
         "nameset": [
-          "french southern",
           "french southern and antarctic lands",
           "french southern territories",
           "terres australes et antarctiques francaises",
           "territoire des terres australes et antarctiques francaises",
-          "territory of the french southern",
           "territory of the french southern and antarctic lands",
           "the french southern and antarctic lands"
         ],
@@ -8827,7 +8842,7 @@
       "name": "Haiti",
       "url": "https://en.wikipedia.org/wiki/Haiti"
     },
-    "Heard Island and McDonald Island": {
+    "Heard Island and McDonald Islands": {
       "cc2": "HM",
       "dep": "AU",
       "infos": {
@@ -8854,10 +8869,7 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_hm.html"
         },
         "nameset": [
-          "heard island",
-          "heard island and mcdonald island",
           "heard island and mcdonald islands",
-          "territory of heard island",
           "territory of heard island and mcdonald islands",
           "the territory of heard island and mcdonald islands"
         ],
@@ -8873,7 +8885,7 @@
       "msisdn": [
         "672"
       ],
-      "name": "Heard Island and McDonald Island",
+      "name": "Heard Island and McDonald Islands",
       "url": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands"
     },
     "Honduras": {
@@ -9072,6 +9084,8 @@
         "45424",
         "45425",
         "45426",
+        "45427",
+        "45428",
         "45429",
         "45430",
         "45431",
@@ -9265,7 +9279,8 @@
         "27412",
         "27416",
         "27422",
-        "27431"
+        "27431",
+        "27491"
       ],
       "msisdn": [
         "354"
@@ -11225,6 +11240,7 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_kv.html"
         },
         "nameset": [
+          "kosove",
           "kosove (kosovo)",
           "kosovo",
           "republic of kosovo",
@@ -11441,6 +11457,7 @@
         "43701",
         "43703",
         "43705",
+        "43706",
         "43709",
         "43710",
         "43711"
@@ -12076,6 +12093,7 @@
         "295"
       ],
       "mccmnc": [
+        "22801",
         "29501",
         "29502",
         "29505",
@@ -12187,7 +12205,8 @@
         "24607",
         "24608",
         "24609",
-        "24611"
+        "24611",
+        "24612"
       ],
       "msisdn": [
         "370"
@@ -13542,6 +13561,9 @@
         "212"
       ],
       "mccmnc": [
+        "20801",
+        "20810",
+        "20820",
         "21201",
         "21210"
       ],
@@ -14290,7 +14312,8 @@
       ],
       "mccmnc": [
         "53601",
-        "53602"
+        "53602",
+        "54202"
       ],
       "msisdn": [
         "674"
@@ -14559,7 +14582,6 @@
           "new caledonia",
           "nouvelle-caledonie",
           "territoire des nouvelle-caledonie et dependances",
-          "territory of new caledonia",
           "territory of new caledonia and dependencies"
         ],
         "tel": {
@@ -16290,7 +16312,6 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_pc.html"
         },
         "nameset": [
-          "pitcairn",
           "pitcairn henderson ducie and oeno islands",
           "pitcairn islands",
           "pitcairn, henderson, ducie and oeno islands",
@@ -16469,6 +16490,7 @@
         "26047",
         "26048",
         "26049",
+        "26097",
         "26098"
       ],
       "msisdn": [
@@ -16571,7 +16593,8 @@
         "26813",
         "26821",
         "26880",
-        "26891"
+        "26891",
+        "26893"
       ],
       "msisdn": [
         "351"
@@ -17463,7 +17486,6 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_sh.html"
         },
         "nameset": [
-          "saint helena",
           "saint helena ascension and tristan da cunha",
           "saint helena, ascension and tristan da cunha",
           "saint helena, ascension, and tristan da cunha"
@@ -17548,9 +17570,7 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_sc.html"
         },
         "nameset": [
-          "federation of saint kitts",
           "federation of saint kitts and nevis",
-          "saint kitts",
           "saint kitts and nevis"
         ],
         "tel": {
@@ -17808,12 +17828,9 @@
         },
         "nameset": [
           "departement de saint-pierre et miquelon",
-          "overseas collectivity of saint-pierre",
           "overseas collectivity of saint-pierre and miquelon",
-          "saint pierre",
           "saint pierre and miquelon",
           "saint-pierre et miquelon",
-          "territorial collectivity of saint pierre",
           "territorial collectivity of saint pierre and miquelon",
           "the overseas collectivity of saint-pierre and miquelon"
         ],
@@ -17887,7 +17904,6 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_vc.html"
         },
         "nameset": [
-          "saint vincent",
           "saint vincent and the grenadines"
         ],
         "tel": {
@@ -18134,12 +18150,9 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_tp.html"
         },
         "nameset": [
-          "democratic republic of sao tome",
           "democratic republic of sao tome and principe",
-          "democratic republic of s\u00e3o tom\u00e9",
           "democratic republic of s\u00e3o tom\u00e9 and pr\u00edncipe",
           "republica democratica de sao tome e principe",
-          "sao tome",
           "sao tome and principe",
           "sao tome e principe",
           "the democratic republic of s\u00e3o tom\u00e9 and pr\u00edncipe"
@@ -19375,7 +19388,6 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_sx.html"
         },
         "nameset": [
-          "south georgia",
           "south georgia and south sandwich islands",
           "south georgia and the south sandwich islands"
         ],
@@ -20078,7 +20090,6 @@
         },
         "nameset": [
           "svalbard",
-          "svalbard (sometimes referred to as spitsbergen the largest island in the archipelago)",
           "svalbard (sometimes referred to as spitsbergen, the largest island in the archipelago)",
           "svalbard and jan mayen"
         ],
@@ -21334,10 +21345,8 @@
           "url_wfb": "https://www.cia.gov/library/publications/the-world-factbook/geos/print_td.html"
         },
         "nameset": [
-          "republic of trinidad",
           "republic of trinidad and tobago",
           "the republic of trinidad and tobago",
-          "trinidad",
           "trinidad and tobago"
         ],
         "tel": {
@@ -21949,6 +21958,7 @@
         "64114",
         "64116",
         "64118",
+        "64120",
         "64122",
         "64126",
         "64130",
@@ -22212,7 +22222,6 @@
         "nameset": [
           "the united kingdom of great britain and northern ireland",
           "united kingdom",
-          "united kingdom of great britain",
           "united kingdom of great britain and northern ireland",
           "united kingdom of great britain and northern ireland; note - the island of great britain includes england scotland and wales",
           "united kingdom of great britain and northern ireland; note - the island of great britain includes england, scotland, and wales"
@@ -23536,7 +23545,6 @@
         },
         "nameset": [
           "territoire des iles wallis et futuna",
-          "territory of the wallis",
           "territory of the wallis and futuna islands",
           "the territory of the wallis and futuna islands",
           "wallis and futuna",
