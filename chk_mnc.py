@@ -37,6 +37,7 @@ def print_mno(mccmnc, mno, ext):
     print('  operator      : %s' % mno['operator'])
     print('  country       : %s' % mno['country'])
     print('  bands         : %s' % ', '.join(mno['bands']))
+    print('  src           : %s' % mno['src'])
     if ext:
         if mccmnc[:3] in P1_MCC:
             print_mcc(mccmnc[:3], mno['cc2s'])

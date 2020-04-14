@@ -114,6 +114,7 @@ def gen_dict_mnc():
         mno['operator'] = name_norm(r['operator'])
         mno['country']  = name_norm(r['country_name'])
         mno['cc2s']     = list(sorted(r['codes_alpha_2']))
+        mno['src']      = 'Wikipedia'
         #
         if mccmnc in R:
             # duplicate entry
@@ -132,6 +133,7 @@ def mnc_txtn(mccmnc, inf):
         'country'   : inf[0],
         'bands'     : '',       # no info on bands
         'ope'       : False,     # consider the MNO as operational (?)
+        'src'       : 'txtNation',
         }
     #
     # add set of CC2
@@ -188,6 +190,7 @@ def mnc_itut(cntr, mno, mccmnc):
         'cc2s'      : cc2s,
         'operator'  : mno,
         'brand'     : '',
+        'src'       : 'ITU-T',
         }
 
 
