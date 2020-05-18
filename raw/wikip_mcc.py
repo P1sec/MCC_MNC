@@ -644,7 +644,7 @@ WIKIP_MCC = \
     'mcc': '364',
     'mcc_url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Bahamas_-_BS',
     'notes': ''},
-  { 'authority': '',
+  { 'authority': 'Public Utilities Commission (PUC)',
     'code_alpha_2': 'AI',
     'country_name': 'Anguilla',
     'country_url': 'https://en.wikipedia.org/wiki/Anguilla',

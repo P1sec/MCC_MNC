@@ -837,6 +837,12 @@ MCC_CC2_LUT = {
     }
 
 
+# Adds MNC aliases to existing MNOs 
+MNC_ALIAS = {
+    ('722', '070'): ('722', '07'),
+    }    
+
+
 def patch_wikip_mcc():
     print('[+] patch Wikipedia list of MCC: WIKIP_MCC')
     # patch country names and crappy CC2
@@ -897,6 +903,19 @@ def patch_wikip_mnc():
                         print('> MCC %s MNC %s, CC2 %s unknown' % (r['mcc'], r['mnc'], cc2))
             elif r['mcc'] not in MCC_INTL:
                 print('> MCC %s MNC %s, no CC2 but not intl network' % (r['mcc'], r['mnc']))
+    #
+    aliases = []
+    for mcc0 in sorted(WIKIP_MNC):
+        for r in WIKIP_MNC[mcc0]:
+            if (r['mcc'], r['mnc']) in MNC_ALIAS:
+                # add an alias
+                alias = dict(r)
+                alias['mcc'], alias['mnc'] = MNC_ALIAS[(r['mcc'], r['mnc'])]
+                aliases.append( alias )
+                print('> added MNC alias %s.%s -> %s.%s'\
+                      % (r['mcc'], r['mnc'], alias['mcc'], alias['mnc']))
+    for alias in aliases:
+        WIKIP_MNC[alias['mcc'][0:1]].append(alias)
     #
     for log in sorted(logs):
         print(log)
