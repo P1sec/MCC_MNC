@@ -195,22 +195,6 @@ REC_MNC = {
     }
 
 
-# for status: unknown
-NET_STATUS_UNKOWN = {
-    'allocated',
-    'implement / design',
-    'not operational',
-    'ongoing',
-    'planned',
-    'reserved',
-    'returned spare',
-    'temporary operational',
-    'test network',
-    'testing',
-    'unknown'
-    }
-
-
 def read_entry_mcc(T, off):
     L   = T[off]
     rec = dict(REC_MCC)
@@ -311,7 +295,10 @@ def read_entry_mnc_title(e):
                 sub = None
     #
     # country alpha code
-    codes = ''.join(title.itertext()).split(' - ', 1)[1].strip()
+    # Warning, for EU MNC, separator is ' – ', whereas it is ' - ' for others
+    title_txt = ''.join(title.itertext())
+    title_sep = ' – ' if ' – ' in title_txt else ' - '
+    codes = title_txt.split(title_sep, 1)[1].strip()
     if '/' in codes:
         codes = list(map(lambda s: s.strip().upper(), sorted(codes.split('/'))))
     elif '-' in codes:
@@ -338,11 +325,8 @@ def read_entry_mnc(T_MNC, off):
     if len(rec['mcc']) > 3:
         # some HTML tab/ref in wikipedia may add the country name before the MCC
         rec['mcc'] = rec['mcc'][-3:]
-    if rec['status'] in NET_STATUS_UNKOWN:
-        rec['status']   = 'unknown'
-    elif rec['status'] != 'operational':
-        raise(Exception('invalid status %s for %s.%s'\
-              % (rec['status'], rec['mcc'], rec['mnc'])))
+    if rec['status'] != 'operational':
+        rec['status'] = 'unknown'
     return rec
 
 
@@ -396,6 +380,7 @@ def parse_table_mnc_all():
     # UK ocean territory
     mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MCC[3][0])) )
     #
+    '''
     # 2) MNC for EU
     T_MNC_EU = import_html_doc(URL_MNC_EU).xpath('//table')
     for i in range(0, len(T_MNC_EU)):
@@ -425,6 +410,15 @@ def parse_table_mnc_all():
     T_MNC_SA = import_html_doc(URL_MNC_SA).xpath('//table')
     for i in range(0, len(T_MNC_SA)):
         mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_SA[i][0])) )
+    '''
+    for url in (URL_MNC_EU, URL_MNC_NA, URL_MNC_AS, URL_MNC_OC, URL_MNC_AF, URL_MNC_SA):
+        T_MNC = import_html_doc(url).xpath('//table')
+        for i in range(0, len(T_MNC)):
+            try:
+                mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC[i][0])) )
+            except Exception as err:
+                print('> unable to extract MNC table from %s (index %i): %s' % (url, i, err))
+                #raise(err)
     #
     for L in D.values():
         L.sort(key=lambda r: (r['mcc'], r['mnc']))
@@ -578,7 +572,16 @@ def _get_bord(e):
                 if name in CRAPPY_BORDERS:
                     name = CRAPPY_BORDERS[name]
                 b.append(name)
+    b.sort()
     return b
+
+
+def _get_int(s):
+    m = re.match('[0-9]{1,}', s)
+    if not m:
+        return 0
+    else:
+        return int(m.group())
 
 
 def read_entry_borders(T, off):
@@ -588,11 +591,7 @@ def read_entry_borders(T, off):
     rec['country_name'], rec['country_url'] = _get_country_url(L[0])
     rec['border_len_km'] = int(explore_text(L[1]).text.strip().replace(',', '').split('.')[0])
     rec['border_len_mi'] = int(explore_text(L[2]).text.strip().replace(',', '').split('.')[0])
-    neigh_num = explore_text(L[4]).text.strip()
-    if '(' in neigh_num:
-        rec['neigh_num'] = int(neigh_num.split('(')[0].strip())
-    else:
-        rec['neigh_num'] = int(neigh_num.strip())
+    rec['neigh_num']     = _get_int(explore_text(L[4]).text.strip())
     #
     if len(L[0]) >= 2 and len(L[0][1]) >= 2 and len(L[0][1][1]) >= 2:
         # sub countries
@@ -649,7 +648,7 @@ def get_wiki_infos():
         L_bord = parse_table_borders()
     except Exception as err:
         print('unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
-        return None, None, None, None, None
+        return None, None, None, None, None, None, None
     else:
         return D_iso, L_mcc, D_mnc, D_pref, D_count, D_terr, L_bord
 
