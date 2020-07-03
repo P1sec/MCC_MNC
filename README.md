@@ -96,7 +96,7 @@ for further integration.
 
 ### Which one to use:
 
-After checking several sources, it seems Wikipedia has the must complete, up-to-date and accurate information.
+After checking several sources, it seems Wikipedia has the most complete, up-to-date and accurate information.
 Therefore, the tool primarily uses it to build the JSON / Python dictionnaries.
 It uses also the CIA World Factbook to gather information related to each country, including borders and telephony-related,
 and the csv listing from the txtNation website to complete the list of MCC-MNC from Wikipedia.
@@ -191,7 +191,7 @@ $ ./gen_dataset.py
 
 The following one-liner can be used to update the whole final dataset:
 ```
-$ ./parse_wikipedia_tables.py -j -p && $ ./parse_worldfactbook_infos.py -j -p && $ ./parse_various_csv.py -j -p && ./gen_dataset.py
+$ ./parse_wikipedia_tables.py -j -p && ./parse_worldfactbook_infos.py -j -p && ./parse_various_csv.py -j -p && ./gen_dataset.py
 ```
 
 Now you can use those dictionnaries to get complete information for any MCC, MNC,
