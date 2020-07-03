@@ -13,9 +13,10 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Afghanistan",
       "neigh": [
-        "People's Republic of China",
+        "India",
         "Iran",
         "Pakistan",
+        "People's Republic of China",
         "Tajikistan",
         "Turkmenistan",
         "Uzbekistan"
@@ -31,8 +32,8 @@
       "neigh": [
         "Greece",
         "Kosovo",
-        "North Macedonia",
-        "Montenegro"
+        "Montenegro",
+        "North Macedonia"
       ],
       "neigh_num": 4
     },
@@ -73,8 +74,8 @@
       "country_url": "https://en.wikipedia.org/wiki/Angola",
       "neigh": [
         "Democratic Republic of the Congo",
-        "Republic of the Congo",
         "Namibia",
+        "Republic of the Congo",
         "Zambia"
       ],
       "neigh_num": 4
@@ -251,8 +252,8 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Bhutan",
       "neigh": [
-        "People's Republic of China",
-        "India"
+        "India",
+        "People's Republic of China"
       ],
       "neigh_num": 2
     },
@@ -395,10 +396,10 @@
       "neigh": [
         "Central African Republic",
         "Chad",
-        "Republic of the Congo",
         "Equatorial Guinea",
         "Gabon",
-        "Nigeria"
+        "Nigeria",
+        "Republic of the Congo"
       ],
       "neigh_num": 6
     },
@@ -479,13 +480,13 @@
         "Hong Kong",
         "India",
         "Kazakhstan",
-        "North Korea",
         "Kyrgyzstan",
         "Laos",
         "Macau",
         "Mongolia",
         "Myanmar",
         "Nepal",
+        "North Korea",
         "Pakistan",
         "Russia",
         "Tajikistan",
@@ -781,8 +782,8 @@
       "country_url": "https://en.wikipedia.org/wiki/Finland",
       "neigh": [
         "Norway",
-        "Sweden",
-        "Russia"
+        "Russia",
+        "Sweden"
       ],
       "neigh_num": 3
     },
@@ -886,8 +887,8 @@
       "country_url": "https://en.wikipedia.org/wiki/Gabon",
       "neigh": [
         "Cameroon",
-        "Republic of the Congo",
-        "Equatorial Guinea"
+        "Equatorial Guinea",
+        "Republic of the Congo"
       ],
       "neigh_num": 3
     },
@@ -898,12 +899,12 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Georgia_(country)",
       "neigh": [
+        "Abkhazia",
         "Armenia",
         "Azerbaijan",
         "Russia",
-        "Turkey",
-        "Abkhazia",
-        "South Ossetia"
+        "South Ossetia",
+        "Turkey"
       ],
       "neigh_num": 4
     },
@@ -948,8 +949,8 @@
       "neigh": [
         "Albania",
         "Bulgaria",
-        "Turkey",
-        "North Macedonia"
+        "North Macedonia",
+        "Turkey"
       ],
       "neigh_num": 4
     },
@@ -1035,8 +1036,8 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Honduras",
       "neigh": [
-        "Guatemala",
         "El Salvador",
+        "Guatemala",
         "Nicaragua"
       ],
       "neigh_num": 3
@@ -1088,13 +1089,13 @@
         "Afghanistan",
         "Bangladesh",
         "Bhutan",
-        "People's Republic of China",
         "Myanmar",
         "Nepal",
         "Pakistan",
+        "People's Republic of China",
         "Sri Lanka"
       ],
-      "neigh_num": 8
+      "neigh_num": 7
     },
     {
       "border_len_km": 2830,
@@ -1229,8 +1230,8 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Kazakhstan",
       "neigh": [
-        "People's Republic of China",
         "Kyrgyzstan",
+        "People's Republic of China",
         "Russia",
         "Turkmenistan",
         "Uzbekistan"
@@ -1328,8 +1329,8 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
       "neigh": [
-        "People's Republic of China",
         "Kazakhstan",
+        "People's Republic of China",
         "Tajikistan",
         "Uzbekistan"
       ],
@@ -1343,8 +1344,8 @@
       "country_url": "https://en.wikipedia.org/wiki/Laos",
       "neigh": [
         "Cambodia",
-        "People's Republic of China",
         "Myanmar",
+        "People's Republic of China",
         "Thailand",
         "Vietnam"
       ],
@@ -1394,8 +1395,8 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Liberia",
       "neigh": [
-        "Guinea",
         "C\u00f4te d'Ivoire",
+        "Guinea",
         "Sierra Leone"
       ],
       "neigh_num": 3
@@ -1648,8 +1649,8 @@
       "country_url": "https://en.wikipedia.org/wiki/Morocco",
       "neigh": [
         "Algeria",
-        "Western Sahara",
-        "Spain"
+        "Spain",
+        "Western Sahara"
       ],
       "neigh_num": 3
     },
@@ -1677,9 +1678,9 @@
       "country_url": "https://en.wikipedia.org/wiki/Myanmar",
       "neigh": [
         "Bangladesh",
-        "People's Republic of China",
         "India",
         "Laos",
+        "People's Republic of China",
         "Thailand"
       ],
       "neigh_num": 5
@@ -1714,8 +1715,8 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Nepal",
       "neigh": [
-        "People's Republic of China",
-        "India"
+        "India",
+        "People's Republic of China"
       ],
       "neigh_num": 2
     },
@@ -1791,8 +1792,8 @@
       "country_url": "https://en.wikipedia.org/wiki/North_Korea",
       "neigh": [
         "People's Republic of China",
-        "South Korea",
-        "Russia"
+        "Russia",
+        "South Korea"
       ],
       "neigh_num": 3
     },
@@ -1819,8 +1820,8 @@
       "country_url": "https://en.wikipedia.org/wiki/Norway",
       "neigh": [
         "Finland",
-        "Sweden",
-        "Russia"
+        "Russia",
+        "Sweden"
       ],
       "neigh_num": 3
     },
@@ -1845,9 +1846,9 @@
       "country_url": "https://en.wikipedia.org/wiki/Pakistan",
       "neigh": [
         "Afghanistan",
-        "People's Republic of China",
         "India",
-        "Iran"
+        "Iran",
+        "People's Republic of China"
       ],
       "neigh_num": 4
     },
@@ -2007,22 +2008,22 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Russia",
       "neigh": [
+        "Abkhazia",
         "Azerbaijan",
         "Belarus",
-        "People's Republic of China",
         "Estonia",
         "Finland",
         "Georgia",
         "Kazakhstan",
-        "North Korea",
         "Latvia",
         "Lithuania",
         "Mongolia",
+        "North Korea",
         "Norway",
+        "People's Republic of China",
         "Poland",
-        "Ukraine",
         "South Ossetia",
-        "Abkhazia"
+        "Ukraine"
       ],
       "neigh_num": 14
     },
@@ -2111,11 +2112,11 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Senegal",
       "neigh": [
-        "The Gambia",
         "Guinea",
         "Guinea-Bissau",
         "Mali",
-        "Mauritania"
+        "Mauritania",
+        "The Gambia"
       ],
       "neigh_num": 5
     },
@@ -2191,8 +2192,8 @@
       "neigh": [
         "Austria",
         "Croatia",
-        "Italy",
-        "Hungary"
+        "Hungary",
+        "Italy"
       ],
       "neigh_num": 4
     },
@@ -2252,8 +2253,8 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/South_Ossetia",
       "neigh": [
-        "Russia",
-        "Georgia"
+        "Georgia",
+        "Russia"
       ],
       "neigh_num": 2
     },
@@ -2283,8 +2284,8 @@
         "Andorra",
         "France",
         "Gibraltar",
-        "Portugal",
-        "Morocco"
+        "Morocco",
+        "Portugal"
       ],
       "neigh_num": 5
     },
@@ -2361,9 +2362,9 @@
       "neigh": [
         "Austria",
         "France",
+        "Germany",
         "Italy",
-        "Liechtenstein",
-        "Germany"
+        "Liechtenstein"
       ],
       "neigh_num": 5
     },
@@ -2399,8 +2400,8 @@
       "country_url": "https://en.wikipedia.org/wiki/Tajikistan",
       "neigh": [
         "Afghanistan",
-        "People's Republic of China",
         "Kyrgyzstan",
+        "People's Republic of China",
         "Uzbekistan"
       ],
       "neigh_num": 4
@@ -2754,8 +2755,8 @@
       "country_url": "https://en.wikipedia.org/wiki/Vietnam",
       "neigh": [
         "Cambodia",
-        "People's Republic of China",
-        "Laos"
+        "Laos",
+        "People's Republic of China"
       ],
       "neigh_num": 3
     },
