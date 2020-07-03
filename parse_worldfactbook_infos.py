@@ -276,8 +276,8 @@ COUNTRY_SECTIONS = {
             'subs_mobile',
             lambda e: _extract_value(_get_text(e[0])) if len(e) else ''
             ),
-        'field-telephone-system': (
-            'telephone',
+        'field-telecommunication-systems': (
+            'telecom',
             _extract_tel
             ),
         'field-internet-users': (

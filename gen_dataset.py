@@ -492,8 +492,8 @@ def gen_dict_cc2():
                     subs['internet'] = wfbinf['users_internet']
                 if subs:
                     tel['subs'] = subs
-                if 'telephone' in wfbinf and wfbinf['telephone']:
-                    tel.update(wfbinf['telephone'])     
+                if 'telecom' in wfbinf and wfbinf['telecom']:
+                    tel.update(wfbinf['telecom'])     
         #
         if 'none' in nameset:
             nameset.remove('none')
