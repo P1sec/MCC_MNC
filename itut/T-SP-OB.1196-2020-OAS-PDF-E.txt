@@ -1,0 +1,371 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1196             15.V.2020                   (Information received by 1 May 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                               Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin .........................................................................................................3
+Approval of ITU-T Recommendations ......................................................................................................................4
+The International Public Telecommunication Numbering Plan
+   (Recommendation ITU-T E.164 (11/2010)): Note from TSB ...............................................................................5
+International Identification Plan for Public Networks and Subscriptions
+    (Recommendation ITU-T E.212 (09/2016)): Note from TSB ...............................................................................5
+Telephone Service: ...................................................................................................................................................6
+     Denmark (Danish Energy Agency, Copenhagen) ................................................................................................6
+Service Restrictions ..................................................................................................................................................7
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ..........................................................................7
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ....................................................8
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.......................................8
+Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions ....9
+List of International Signalling Point Codes (ISPC) ................................................................................................ 10
+National Numbering Plan ...................................................................................................................................... 11
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1197              1.VI.2020             15.V.2020
+               1198             15.VI.2020             1.VI.2020
+               1199             1.VII.2020             15.VI.2020
+               1200             15.VII.2020            1.VII.2020
+               1201             1.VIII.2020           15.VII.2020
+               1202            15.VIII.2020           31.VII.2020
+               1203              1.IX.2020            14.VIII.2020
+               1204             15.IX.2020             1.IX.2020
+               1205              1.X.2020              15.IX.2020
+               1206             15.X.2020               1.X.2020
+               1207              1.XI.2020             15.X.2020
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021              11.XII.2020
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+A.    By AAP-80, it was announced that the following ITU-T Recommendations were approved, in accordance
+      with the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T Q.3057 (04/2020): Signalling requirements and architecture for interconnection between trustable
+      network entities
+–     ITU-T Q.3745 (04/2020): Protocol for time constraint IoT-based applications over SDN
+–     ITU-T Q.3963 (04/2020): The compatibility testing of SDN-based equipment using OpenFlow protocol
+–     ITU-T Q.5022 (04/2020): Signalling procedure of energy efficient device-to-device communication for IMT-
+      2020 network
+–     ITU-T X.609.5 (04/2020): Managed P2P communications: Multimedia streaming overlay management
+      protocol
+–     ITU-T Y.2029 (2015) Amd. 1 (04/2020): Network Equipment based Multipath Transmission
+–     ITU-T Y.3154 (04/2020): Resource pooling for scalable network slice service management and
+      orchestration in the IMT-2020 network
+–     ITU-T Y.3175 (04/2020): Functional architecture of machine learning based quality of service assurance
+      for the IMT-2020 network
+–     ITU-T Y.3800 (2019) Cor. 1 (04/2020)
+–     ITU-T Y.3801 (04/2020): Functional requirements for quantum key distribution networks
+
+B.    By TSB Circular 242 of 23 April 2020, it was announced that the following ITU-T Recommendations were
+      approved, in accordance with the procedures outlined in Resolution 1:
+–     ITU-T D.264 (04/2020): Shared uses of telecommunication infrastructure as possible methods for
+      enhancing the efficiency of telecommunications
+
+      By TSB Circular 244 of 16 April 2020, it was announced that the following ITU-T Recommendations were
+      approved, in accordance with the procedures outlined in Resolution 1:
+–     ITU-T X.1332 (03/2020): Security guidelines for smart metering services in smart grids
+–     ITU-T X.1365 (03/2020): Security methodology for the use of identity-based cryptography in support of
+      Internet of things services over telecommunication networks
+–     ITU-T X.1372 (03/2020): Security guidelines for Vehicle-to-Everything (V2X) communication
+–     ITU-T X.1604 (03/2020): Security requirements of network as a service (NaaS) in cloud computing
+–     ITU-T X.1605 (03/2020): Security requirements of public infrastructure as a service (IaaS) in cloud
+      computing
+–     ITU-T X.1364 (03/2020): Security requirements and framework for narrow band Internet of things
+
+
+
+
+         The International Public Telecommunication Numbering Plan
+                   (Recommendation ITU-T E.164 (11/2010))
+
+Note by TSB
+It has been reported to TSB that number ranges under the E.164 country code 888 are being marketed as
+premium rate numbers. The E.164 code 888 is currently RESERVED and thus any use of numbers under 888
+constitutes misuse of international numbering resources. We invite concerned entities to take measure to
+prevent such misuse, in particular by not routing or terminating numbers under 888.
+
+
+
+
+     International Identification Plan for Public Networks and Subscriptions
+                    (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                            Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has
+been assigned.
+
+                                       Mobile Country Code (MCC) and Mobile          Date of assignment
+              Network
+                                               Network Code (MNC)
+Tampnet AS                                             901 71                            28.IV.2020
+
+
+
+
+                                      Telephone Service
+                                 (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+
+
+
+Denmark (country code +45)
+Communication of 17.IV.2020:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+• Assignment – Mobile communication services
+
+       Provider                                Numbering series                       Date of assignment
+Mobilevalue ApS           4416efgh and 4418efgh                                            1.IV.2020
+MobiWeb Limited           30390fgh, 30840fgh, 30846fgh, 61497fgh, 81378fgh and             1.IV.2020
+                          4417efgh
+Telavox ApS               5433efgh                                                        16.IV.2020
+Firstcom Europe A/S       5435efgh                                                        16.IV.2020
+
+Contact:
+           Danish Energy Agency
+           43 Carsten Niebuhrs Gade
+           1577 COPENHAGEN V
+           Denmark
+           Tel:    +45 33 92 67 00
+           Fax:    +45 33 11 47 43
+           E-mail: ens@ens.dk
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                     AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+
+                                ADD     Insert                    PAR     paragraph
+                                COL     Column                    REP     replace
+                                LIR     Read                      SUP     Delete
+                                P       page(s)
+
+
+
+                           List of Ship Stations and Maritime Mobile
+                                   Service Identity Assignments
+                                              (List V)
+                                          Edition of 2020
+
+                                                  Section VI
+
+SUP
+
+GI01             APRA 2000 Co. Ltd., 14 Nutsubidze Street, Tbilisi, 380113 Georgia.
+                 E-mail: apramarine@acces.sanet.ge,
+                 Tel: +995 32933126, Fax: +995 32933126.
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+                            (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                             (Amendment No. 26)
+
+United States ADD
+
+   Country/         Company Name/Address             Issuer     Contact                                  Effective date
+ Geographical                                      Identifier                                               of usage
+     area                                           Number
+ United States      Workz Technologies Inc          89 1 054    Brad Taylor                               20.IV.2020
+                    3948 3rd St S, Unit 345                     3948 3rd St S, Unit 345
+                    Jacksonville Beach                          Jacksonville Beach
+                    FL 32250                                    FL 32250
+                                                                Tel.: +1 904 703 6455
+                                                                E-mail: Brad.Taylor@workz.com
+
+
+
+
+Mobile Network Codes (MNC) for the international identification plan
+               for public networks and subscriptions
+       (According to Recommendation ITU-T E.212 (09/2016))
+                  (Position on 15 December 2018)
+
+                       (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                        (Amendment No.32)
+
+  Country/Geographical area                    MCC+MNC *           Operator/Network
+  Estonia ADD
+                                                     248 18        CLOUD COMMUNICATIONS OÜ
+  Hungary LIR
+                                                     216 71        Vodafone Hungary Ltd
+  International Mobile, shared code ADD
+                                                     901 71        Tampnet AS
+
+
+____________
+*         MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                      List of International Signalling Point Codes (ISPC)
+                   (According to Recommendation ITU-T Q.708 (03/1999))
+                                  (Position on 1 October 2016)
+
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 74)
+
+
+ Country/                   Unique name of the signalling point        Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+ Denmark SUP
+ 2-077-0 4712               Copenhagen - Albertslund ISG               Telenor A/S
+ 2-077-1       4713                                                    Telenor A/S
+
+ Estonia ADD
+ 2-199-5 5693               STP EST1                                   CLOUD COMMUNICATIONS OÜ
+ 2-199-6       5694         STP EST2                                   CLOUD COMMUNICATIONS OÜ
+
+ Hungary LIR
+ 2-212-1 5793               Monor_INT1                                 Vodafone Hungary Ltd
+
+ United States SUP
+ 3-027-1 6361      Los Angeles, CA                                     Sirius Telecommunications, Inc
+ 3-051-1       6553         New York, NY                               Sirius Telecommunications, Inc
+ 3-193-1       7689         New York, NY                               Sirius Telecommunications, Inc
+
+ United States ADD
+ 3-036-4 6436      Santa Paula, CA                                     Comsat, Inc.
+ 3-046-6       6518         Southbury, CT                              Comsat, Inc.
+ 3-046-7       6519         Paumalu, HI                                Comsat, Inc.
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                   Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.IV.2020, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                        Country/ Geographical area                      Country Code (CC)
+               Iran (Islamic Republic of)                                      +98
+               Mongolia                                                        +976
+
+
+
+

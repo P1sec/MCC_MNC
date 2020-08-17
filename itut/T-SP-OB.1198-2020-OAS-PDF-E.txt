@@ -1,0 +1,701 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1198             15.VI.2020                  (Information received by 1 June 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin ...............................................................................................                     3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164 (11/2010)):
+   Note from TSB ..........................................................................................................................................       5
+International Identification Plan for Public Networks and Subscriptions
+    (Recommendation ITU-T E.212 (09/2016)): Note from TSB .....................................................................                                   5
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                            6
+     Niger (Autorité de Régulation des Communications Électroniques et de la Poste, Niamey) ....................                                                  7
+Service Restrictions ........................................................................................................................................     9
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                9
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                       10
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                               10
+List of Recommendation ITU-T E.164 assigned Country Codes .....................................................................                                  11
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................     12
+List of ITU Carrier Codes .................................................................................................................................      16
+List of International Signalling Point Codes (ISPC) .........................................................................................                    16
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1199             1.VII.2020             15.VI.2020
+               1200             15.VII.2020            1.VII.2020
+               1201             1.VIII.2020           15.VII.2020
+               1202            15.VIII.2020           31.VII.2020
+               1203              1.IX.2020            14.VIII.2020
+               1204             15.IX.2020             1.IX.2020
+               1205              1.X.2020              15.IX.2020
+               1206             15.X.2020               1.X.2020
+               1207              1.XI.2020             15.X.2020
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021              11.XII.2020
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1109 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 October 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                             Approval of ITU-T Recommendations
+A.    By AAP-82, it was announced that the following ITU-T Recommendations were approved, in accordance
+      with the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T E.812 (05/2020): Crowdsourcing approach for the assessment of end-to-end QoS in fixed and mobile
+      broadband networks
+–     ITU-T G.1035 (05/2020): Influencing factors on quality of experience (QoE) for virtual reality (VR) services
+–     ITU-T G.8300 (05/2020): Characteristics of transport networks to support IMT-2020/5G
+–     ITU-T J.1 (05/2020): Terms, definitions and acronyms for television and sound transmission and integrated
+      broadband cable networks
+–     ITU-T J.216 (05/2020): Second-generation modular headend architecture in systems for interactive cable
+      television services - IP cable modems
+–     ITU-T J.224 (05/2020): Fifth-generation transmission systems for interactive cable television services - IP
+      cable modems
+–     ITU-T J.225 (05/2020): Fourth-generation transmission systems for interactive cable television services -
+      IP cable modems
+–     ITU-T J.299 (05/2020): Functional Requirements for remote management of cable STB by Auto
+      Configuration Server (ACS)
+–     ITU-T J.1031 (05/2020): Downloadable Conditional Access System for Bidirectional Network;
+      Requirements
+–     ITU-T J.1203 (05/2020): The specification of a smart TV operating system
+–     ITU-T J.1211 (05/2020): Specifications of IP Video Broadcast (IPVB) for CATV Networks
+–     ITU-T P.501 (05/2020): Test signals for use in telephony and other speech-based applications
+–     ITU-T P.1203.3 (2019) Amd. 1 (05/2020): Adjustment of the audiovisual quality
+
+B.    By TSB Circular 248 of 19 May 2020, it was announced that the following ITU-T Recommendations were
+      approved, in accordance with the procedures outlined in Resolution 1:
+–     ITU-T J.1012 (04/2020): Embedded Common Interface (ECI) for exchangeable CA/DRM solutions; CA/DRM
+      container, loader, interfaces, revocation
+–     ITU-T J.1013 (04/2020): Embedded Common Interface (ECI) for exchangeable CA/DRM solutions; The
+      virtual machine
+–     ITU-T J.1014 (04/2020): Embedded Common Interface (ECI) for exchangeable CA/DRM solutions;
+      Advanced Security – ECI-specific functionalities
+–     ITU-T J.1015 (04/2020): Embedded Common Interface (ECI) for exchangeable CA/DRM solutions; The
+      advanced security system - Key ladder block
+–     ITU-T J.1015.1 (04/2020): Embedded Common Interface (ECI) for exchangeable CA/DRM solutions; The
+      advanced security system - Key ladder block: Authentication of control word-usage rules information and
+      associated data 1
+
+
+
+
+             The International Public Telecommunication Numbering Plan
+                      (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+
+                                Identification codes for international networks
+
+Associated with shared country code 883 for international networks, the following three-digit identification
+codes have been assigned.
+
+
+                                                                    Country Code and             Date of
+             Applicant                        Network
+                                                                   Identification Code         assignment
+
+ Tele2 IoT                        Tele2 IoT                             +883 320                1.VI.2020
+ Cubic Telecom Limited            Cubic Telecom Limited                 +883 330                1.VI.2020
+
+
+
+
+     International Identification Plan for Public Networks and Subscriptions
+                    (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                             Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC)
+have been assigned.
+
+                                              Mobile Country Code (MCC) and              Date of assignment
+              Network
+                                               Mobile Network Code (MNC)
+Tele2 IoT                                                 901 72                             1.VI.2020
+Cubic Telecom Limited                                     901 73                             1.VI.2020
+
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC)
+has been transferred.
+
+                                              Mobile Country Code (MCC) and               Date of transfer
+              Network
+                                               Mobile Network Code (MNC)
+Vodafone Malta (Monaco Telecom)                           901 19                             1.VI.2020
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                          url: www.itu.int/itu-t/inr/nnp
+Denmark (country code +45)
+Communication of 26.V.2020:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•      Assignment – M2M communication
+             Provider                               Numbering series                      Date of assignment
+NextM2M A/S                     37100220ijkl, 37100221ijkl, 37100222ijkl, 37100223ijkl,        1.VI.2020
+                                37100224ijkl, 37100225ijkl, 37100226ijkl, 37100227ijkl,
+                                37100228ijkl and 37100229ijkl
+
+
+•      Assignment – Mobile communication services
+             Provider                               Numbering series                      Date of assignment
+XPLORA Mobile Denmark ApS 61495fgh, 61496fgh, 61498fgh, 61499fgh and 91307fgh                 1.VIII.2020
+
+
+Contact:
+         Danish Energy Agency
+         43 Carsten Niebuhrs Gade
+         1577 COPENHAGEN V
+         Denmark
+         Tel:    +45 33 92 67 00
+         Fax:    +45 33 11 47 43
+         E-mail: ens@ens.dk
+         URL:    www.ens.dk
+
+
+
+
+Niger (country code +227)
+Communication of 27.V.2020:
+The Autorité de Régulation des Communications Électroniques et de la Poste, Niamey, announces the following
+update to the national numbering plan for Niger.
+Mobile-network services
+      National
+    destination      N(S)N number length
+  code (NDC) or
+                                                      Usage of                   Additional         Date and time
+   first digits of
+                                                 ITU-T E.164 number             information         of introduction
+      national       Maximum    Minimum
+    (significant)     length     length
+ number (N(S)N)
+                                            Non-geographic numbers –
+        74              8           8                                                                 17/04/2019
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        84              8           8                                                                 14/11/2016
+                                            mobile telephone service
+                                            Non-geographic numbers –           ATLANTIQUE
+        85              8           8                                                                 26/05/2017
+                                            mobile telephone service         TELECOMS NIGER
+                                            Non-geographic numbers –
+        94              8           8                                                                 15/05/2008
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        95              8           8                                                                 25/05/2015
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        86              8           8                                                                 30/05/2020
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        87              8           8                                                                 17/01/2020
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        88              8           8                                                                 08/09/2014
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        89              8           8                                                                 29/08/2013
+                                            mobile telephone service
+                                                                              CELTEL NIGER SA
+                                            Non-geographic numbers –
+        96              8           8                                                                 28/04/2008
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        97              8           8                                                                 17/07/2009
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        98              8           8                                                                 03/03/2011
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        99              8           8                                                                 29/03/2012
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        83              8           8                                                                 30/08/2018
+                                            mobile telephone service
+                                                                            NIGER TELECOMS SA
+                                            Non-geographic numbers –
+        93              8           8                                                                 30/06/2006
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        70              8           8                                                                 30/05/2020
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        80              8           8                                                                 24/09/2014
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        81              8           8                                                                 18/01/2019
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        82              8           8                                        ORANGE NIGER SA          30/05/2020
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        90              8           8                                                                 17/12/2009
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        91              8           8                                                                 21/05/2010
+                                            mobile telephone service
+                                            Non-geographic numbers –
+        92              8           8                                                                 15/06/2011
+                                            mobile telephone service
+Fixed-network services
+
+      National
+    destination        N(S)N number length
+  code (NDC) or
+                                                          Usage of                  Additional        Date and time
+   first digits of
+                                                     ITU-T E.164 number            information        of introduction
+      national
+                      Maximum       Minimum
+    (significant)
+                       length        length
+ number (N(S)N)
+        20                8            8         Wireline numbers             NIGER TELECOMS SA         30/06/2006
+        21                8            8         Wireless local loop          NIGER TELECOMS SA         30/06/2006
+        23                8            8         Wireless local loop          ORANGE NIGER SA           26/06/2008
+
+Special Services
+                                                                                                    Date and time of
+    Numbers          Length                                  Service or network
+                                                                                                      introduction
+        10           Two digits            Manual – long-distance                                      30/06/2006
+        11           Two digits            Repair service                                              30/06/2006
+        12           Two digits            Enquiries                                                   30/06/2006
+        13           Two digits            Complaints                                                  30/06/2006
+        14           Two digits            Telegrams                                                   30/06/2006
+        15           Two digits            SAMU (emergency medical services) (formerly AIDS            10/05/2013
+                                           helpline)
+       16            Two digits            Gendarmerie (formerly Manual – international)              27/06/2019
+       17            Two digits            Police assistance                                          30/06/2006
+       18            Two digits            Fire department                                            30/06/2006
+       19            Two digits            Enquiries                                                  30/06/2006
+       118           Three digits          Fire department                                            21/04/2020
+Contact:
+           Ms Touré Beidari Leila Kadri
+           Chef de Département Gestion des Ressources
+           ARCEP (Autorité de Régulation des Communications Électroniques et de la Poste)
+           B.P.: 13179
+           NIAMEY
+           Niger
+           Tel:     +227 20 73 90 11 / +227 20 73 90 08
+           E-mail: leila.kadri@arcep.ne / leilah41@hotmail.com
+           URL:     www.arcep.ne
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                      AMENDMENTS TO SERVICE PUBLICATIONS
+                                            Abbreviations used
+
+                              ADD    Insert                    PAR      Paragraph
+                              COL    Column                    REP      Replace
+                              LIR    Read                      SUP      Delete
+                              P      Page(s)
+
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                              Service Identity Assignments
+                                          (List V)
+                                      Edition of 2020
+
+                                               Section VI
+
+
+REP
+
+      GR15 SHELECTRO - DRIVAKOS SHIPPING ELECTRONIC SYSTEMS P.C.,
+           Androutsou 154, 185 35 Piraeus, Greece.
+           E-mail: shelectro@shelectro.gr.
+
+
+
+
+                        List of Issuer Identifier Numbers for
+                the International Telecommunication Charge Card
+          (in accordance with Recommendation ITU-T E.118 (05/2006))
+                           (Position on 1 December 2018)
+                          (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                           (Amendment No. 27)
+
+
+Germany         ADD
+
+   Country/       Company Name/Address            Issuer      Contact                                  Effective date
+ Geographical                                   Identifier                                                of usage
+     area                                        Number
+ Germany          TelcoVillage GmbH              89 49 40     Christos Omiridis                          1.VI.2020
+                  Hennigsdorfer Str. 126                      Hennigsdorfer Str. 126
+                  13503 BERLIN                                13503 BERLIN
+                                                              Germany
+                                                              Tel.: +49 30 221 79 00 90
+                                                              Fax: +49 30 221 79 00 99
+                                                              E-mail: service@telcovillage.com
+
+
+
+
+               List of Recommendation ITU-T E.164 assigned Country Codes
+                 (Complement to Recommendation ITU-T E.164 (11/2010))
+                            (Position on 15 December 2016)
+                                 (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                  (Amendment No. 16)
+
+ Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+p        Associated with shared country code 883, the following three-digit identification code reservations or
+         assignments have been made for the international networks of:
+Note p)      +883 320 and +883 330             ADD*
+
+                                                                          Country Code and
+              Applicant                               Network                                     Status
+                                                                         Identification Code
+ Tele2 IoT                                Tele2 IoT                          +883 320            Assigned
+ Cubic Telecom Limited                    Cubic Telecom Limited              +883 330            Assigned
+
+* 1.VI.2020
+__________
+
+See page 5 of the present Operational Bulletin No. 1198 of 15.VI.2020.
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                    for public networks and subscriptions
+             (According to Recommendation ITU-T E.212 (09/2016))
+                        (Position on 15 December 2018)
+                    (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                     (Amendment No. 34)
+
+   Country/Geographical area       MCC+MNC *                               Operator/Network
+
+United States SUP
+                                     310 040      MTA Communications dba MTA Wireless
+                                     310 060      Consolidated Telcom
+                                     310 300      Blanca Telephone Company
+                                     310 610      Elkhart Telephone Co. Inc. dba Epic Touch Co.
+                                     310 780      D.D. Inc
+                                     311 200      ARINC
+                                     311 300      Nexus Communications Inc
+                                     311 500      Mosaic Telecom Inc
+                                     311 960      Lycamobile USA Inc
+                                     312 050      Fuego Wireless LLC
+                                     312 070      Adams Networks Inc
+                                     312 140      Cleveland Unlimited Inc
+                                     312 340      MTA Communications dba MTA Wireless
+                                     312 440      Consolidated Telcom
+                                     312 740      KDDI America, Inc dba Locus Telecommunications
+United States ADD
+                                     310 330      Wireless Partners LLC
+                                     310 340      Limitless Mobile, LLC
+                                     310 591      Verizon Wireless
+                                     310 592      Verizon Wireless
+                                     310 593      Verizon Wireless
+                                     310 594      Verizon Wireless
+                                     310 595      Verizon Wireless
+                                     310 596      Verizon Wireless
+                                     310 597      Verizon Wireless
+                                     310 598      Verizon Wireless
+                                     310 599      Verizon Wireless
+                                     310 810      Pacific Lightwave Inc.
+                                     310 891      Verizon Wireless
+                                     310 892      Verizon Wireless
+                                     310 893      Verizon Wireless
+                                     310 894      Verizon Wireless
+                                     310 895      Verizon Wireless
+
+
+
+                           310 896   Verizon Wireless
+                           310 897   Verizon Wireless
+                           310 898   Verizon Wireless
+                           310 899   Verizon Wireless
+                           311 210   Telnyx LLC
+                           311 460   ELECTRIC IMP INCORPORATED
+                           311 600   Limitless Mobile, LLC
+                           311 760   Reclaimed 06/21/2016
+                           311 780   The American Samoa Telecommunications Authority
+                           311 882   Sprint
+                           313 061   Country Wireless
+                           313 110   AT&T FirstNet
+                           313 120   AT&T FirstNet
+                           313 130   AT&T FirstNet
+                           313 140   AT&T FirstNet
+                           313 150   RESERVED FOR PUBLIC SAFETY
+                           313 160   RESERVED FOR PUBLIC SAFETY
+                           313 170   RESERVED FOR PUBLIC SAFETY
+                           313 180   RESERVED FOR PUBLIC SAFETY
+                           313 190   RESERVED FOR PUBLIC SAFETY
+                           313 220   Custer Telephone Cooperative,Inc.
+                           313 230   Velocity Communications Inc
+                           313 240   Fundamental Holdings, Corp
+                           313 250   Imperial County Office of Education
+                           313 260   Expeto Wireless Inc.
+                           313 280   King Street Wireless, LP
+                           313 290   Gulf Coast Broadband LLC
+                           313 300   Cambio WiFi of Delmarva, LLC.
+                           313 310   CAL.NET, INC
+                           313 320   Paladin Wireless
+                           313 330   CenturyTel Broadband Services LLC
+                           313 340   Dish Network
+                           313 350   Dish Network
+                           313 360   Dish Network
+                           313 370   Red Truck Wireless, LLC
+                           313 380   OptimERA Inc.
+                           313 390   Altice USA Wireless, Inc.
+                           313 400   Texoma Communications, LLC
+                           313 410   pdvWireless
+                           313 420   Hudson Valley Wireless
+                           313 440   Arvig Enterprises INC
+                           313 450   Spectrum Wireless Holdings, LLC
+                           313 460   Mobi, Inc.
+
+
+                313 470   San Diego Gas & Electric Company
+                313 480   Ready Wireless, LLC
+                313 490   Puloli, Inc
+                313 500   Shelcomm, Inc
+                313 510   Puerto Rico Telecom Company
+                313 520   Florida Broadband, Inc
+                313 540   Nokia Innovations US LLC
+                313 550   Mile High Networks LLC
+                313 560   Transit Wireless, LLC
+                313 570   Celular Network Partnership
+                313 580   Telecall Telecommuncations Corp.
+                313 590   Southern Communications Services, Inc. D/B/A Southern Linc
+                313 600   ST Engineering iDirect
+                313 610   Crystal Automation Systems, Inc.
+                313 620   Screened Images
+                313 630   LICT Corporation
+                313 640   Geoverse
+                313 650   Chevron USA INC
+                313 660   Hudson Valley Wireless
+                313 670   Hudson Valley Wireless
+                313 680   Hudson Valley Wireless
+                313 690   Shenandoah Cable Television, LLC
+                313 700   Ameren Services Company
+                313 710   Extent Systems
+                313 720   1st Point Communications, LLC
+                313 730   TruAccess Networks
+                313 740   RTO Wireless, LLC
+                313 750   313-CellTex Networks, LLC
+                313 760   Hologram, Inc.
+                313 770   Tango Networks
+                314 010   Boingo Wireless Inc
+                314 020   Spectrum Wireless Holdings, LLC
+                314 030   Baicells Technologies North America Inc.
+                314 100   RESERVED FOR PUBLIC SAFETY
+                314 110   RESERVED FOR PUBLIC SAFETY
+                314 120   RESERVED FOR PUBLIC SAFETY
+                314 130   RESERVED FOR PUBLIC SAFETY
+                314 140   RESERVED FOR PUBLIC SAFETY
+                314 150   RESERVED FOR PUBLIC SAFETY
+                314 160   RESERVED FOR PUBLIC SAFETY
+                314 170   RESERVED FOR PUBLIC SAFETY
+                314 180   RESERVED FOR PUBLIC SAFETY
+                314 190   RESERVED FOR PUBLIC SAFETY
+
+
+United States LIR
+                                         310 470        Docomo Pacific Inc
+                                                        Broadpoint, LLC (former PetroCom, LLC) c/o MTPCS, LLC dba
+                                         310 570
+                                                        CellularOne
+                                         310 620        Nsighttel Wireless, LLC
+                                         310 690        Limitless Mobile, LLC
+                                         310 940        Tyntec Inc.
+                                         310 990        Evolve Cellular Inc.
+                                         311 010        Chariton Valley Communications Corporation
+                                                        Tampnet (formerly Broadpoint, LLC (former PetroCom, LLC) c/o
+                                         311 170
+                                                        MTPCS, LL
+                                         311 510        Ligado Networks
+                                         311 550        Commnet Wireless, LLC
+                                         311 700        Midwest Network Solutions Hub, LLC. (MNS)
+                                         311 920        Missouri RSA No 5 Partnership
+                                         312 010        Chariton Valley Communications Corporation
+                                         312 180        Limitless Mobile, LLC
+                                         312 220        Chariton Valley Communications Corporation
+                                         312 650        Brightlink
+                                         312 690        TGS, LLC
+                                         312 990        PREMIER HOLDINGS, LLC
+                                         313 100        AT&T FirstNet
+                                         313 210        AT&T Mobility
+International Mobile, shared code
+ADD
+                                          901 72        Tele2 IoT
+                                          901 73        Cubic Telecom Limited
+International Mobile, shared code
+LIR
+                                          901 19        Vodafone Malta (Monaco Telecom)
+
+____________
+
+*         MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                  List of ITU Carrier Codes
+                  (According to Recommendation ITU-T M.1400 (03/2013))
+                              (Position on 15 September 2014)
+                                (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                                 (Amendment No. 98)
+
+
+ Country or area/ISO code                                     Company Code              Contact
+  Company Name/Address                                         (carrier code)
+
+
+Germany (Federal Republic of) / DEU                     ADD
+
+
+ Greenfiber Internet & Dienste GmbH                               GREEN               Mr Patrick Hauschildt
+ Am Markt 6                                                                           Tel.:   +49 4131 2839611
+ D-21335 LUENEBURG                                                                    Fax:    +49 4131 2839690
+                                                                                      E-mail: p.hauschildt@greenfiber.de
+
+
+ Netzwerk Untermain GmbH                                          NWUNT                Mrs. Lisa Schandelmaier
+ Gottfried-Keller-Strasse 21 - 25                                                      Tel.:   +49 6142 942 931 135
+ D-65479 RAUNHEIM                                                                      Fax:    +49 6142 926 460
+                                                                                       Email: mainspeed@raunheim.de
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 October 2016)
+                                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
+                                                  (Amendment No. 76)
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point                 Name of the signalling point operator
+
+
+ Finland SUP
+ 2-088-0       4800         Helsinki (HEL1)                                     Telia Finland Oyj
+ 2-088-1       4801         Helsinki (HEL2)                                     Telia Finland Oyj
+ 2-088-4       4804         Helsinki (OPS2)                                     Fonecta Oy
+ 2-088-7       4807         Espoo (FON01)                                       Fonecta Oy
+ 2-089-0       4808         Espoo (FON02)                                       Fonecta Oy
+ 2-090-6       4822         Espoo (FTFIES1)                                     NextGen Mobile Ltd
+ 2-091-2       4826         Vantaa (MY1)                                        DNA Oyj
+ 2-091-3       4827         Vantaa (MY2)                                        DNA Oyj
+ 2-255-4       6140         Helsinki (BHEL252)                                  Orange Business Finland Oy
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+

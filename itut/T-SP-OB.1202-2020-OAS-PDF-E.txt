@@ -1,0 +1,412 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1202             15.VIII.2020                (Information received by 31 July 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin ...............................................................................................                     3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164
+   (11/2010)): Note from TSB .......................................................................................................................              4
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016): Note from TSB.........................................................................................................................             4
+Telephone Service:
+     Iridium Satellite LLC .................................................................................................................................      5
+Service Restrictions ........................................................................................................................................     6
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                6
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card ............................                                                7
+List of Recommendation ITU-T E.164 assigned Country Codes .....................................................................                                   8
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................      8
+List of ITU Carrier Codes .................................................................................................................................       9
+List of International Signalling Point Codes (ISPC) .........................................................................................                    10
+National Numbering Plan ...............................................................................................................................          11
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1203              1.IX.2020            14.VIII.2020
+               1204             15.IX.2020             1.IX.2020
+               1205              1.X.2020              15.IX.2020
+               1206             15.X.2020               1.X.2020
+               1207              1.XI.2020             15.X.2020
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021              11.XII.2020
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                               Approval of ITU-T Recommendations
+By AAP-86, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–        ITU-T G.9960 (2018) Amd.2 (07/2020)
+–        ITU-T G.9961 (2018) Amd.2 (07/2020)
+–        ITU-T X.1402 (07/2020): Security framework for distributed ledger technology
+
+
+
+
+              The International Public Telecommunication Numbering Plan
+                       (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+
+                                  Identification codes for international networks
+
+Associated with shared country code 883 for international networks, the following three-digit identification
+codes have been assigned.
+
+
+                                                                        Country Code and             Date of
+             Applicant                       Network
+                                                                       Identification Code         assignment
+
+    Podsystem Ltd.                  Podsystem Ltd.                         +883 340                31.VII.2020
+
+
+
+
+       International Identification Plan for Public Networks and Subscriptions
+                      (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                               Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC)
+have been assigned.
+
+                                                  Mobile Country Code (MCC) and              Date of assignment
+                     Network
+                                                   Mobile Network Code (MNC)
+Podsystem Ltd                                                 901 75                            31.VII.2020
+A1 Telekom Austria AG                                         901 76                            31.VII.2020
+
+
+
+
+                                      Telephone Service
+                                 (Recommendation ITU-T E.164)
+                                          url: www.itu.int/itu-t/inr/nnp
+
+
+Iridium Satellite LLC (country codes +881 6 and +881 7)
+Communication of 17.VII.2020:
+Iridium Satellite LLC announces the following information about the Iridium numbering plan and dialling
+procedure:
+A 13th digit has been added to the dialling procedures for numbers in range +8816-xxx-xxxxx to support expanded
+Iridium services and subscriber growth. Iridium’s MSISDNs will now be either 12 digits or 13 digits long. These
+calls should therefore be considered valid.
+Service providers are kindly requested to program their switches to enable access to these numbering ranges.
+
+For any questions, please contact:
+      Mr. Patrick Livecchi
+      Sr. PSTN Engineer
+      Iridium Satellite LLC
+      8440 South River Parkway
+      TEMPE, AZ 85284
+      United States
+      Tel:     +1 480 752 1179
+      Fax:     +1 480 752 1105
+      E-mail: pat.livecchi@iridium.com
+      URL:     www.iridium.com
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                     AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+                                ADD    Insert                    PAR    Paragraph
+                                COL    Column                    REP    Replace
+                                LIR    Read                      SUP    Delete
+                                P      Page(s)
+
+
+
+
+                       List of Issuer Identifier Numbers for
+               the International Telecommunication Charge Card
+         (in accordance with ITU-T Recommendation E.118 (05/2006))
+                          (Position on 1 December 2018)
+                            (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                             (Amendment No. 31)
+
+
+Czech Rep.     LIR
+
+    Country/         Company Name/Address                    Issuer       Contact
+  geographical                                             Identifier
+      area                                                  Number
+ Czech Rep.          Nordic Telecom s.r.o.                 89 420 04      Martin Jahoda
+                     Jihlavská 1558/21                                    Jihlavská 1558/21
+                     Michle, 140 00 PRAHA 4                               Michle, 140 00 PRAHA 4
+                                                                          E-mail: martin.jahoda@nordictelecom.cz
+ Czech Rep.          O2 Czech Republic a.s.                89 420 05      Jakub Říha
+                     Praha 1 – Nové Město                                 Praha 1 – Nové Město
+                     DLÁŽDĚNÁ 1003/7                                      DLÁŽDĚNÁ 1003/7
+                                                                          E-mail: jakub.riha@o2.cz
+ Czech Rep.          O2 Czech Republic a.s.                89 420 20      Jakub Říha
+                     Praha 1 – Nové Město                                 Praha 1 – Nové Město
+                     DLÁŽDĚNÁ 1003/7                                      DLÁŽDĚNÁ 1003/7
+                                                                          E-mail: jakub.riha@o2.cz
+ Czech Rep.          Správa železnic, státní               89 420 98      Ondrej Borovsky
+                     organizace                                           Praha 1 – Nové Město
+                     Praha 1 – Nové Město                                 DLÁŽDĚNÁ 1003/7
+                     DLÁŽDĚNÁ 1003/7                                      E-mail: borovsky@szdc.cz
+
+
+
+
+                List of Recommendation ITU-T E.164 assigned Country Codes
+                  (Complement to Recommendation ITU-T E.164 (11/2010))
+                             (Position on 15 December 2016)
+                                 (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                  (Amendment No. 17)
+
+ Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+p          Associated with shared country code 883, the following three-digit identification code reservations or
+           assignments have been made for the international networks of:
+Note p)       +883 340      ADD*
+
+                                                                            Country Code and
+                Applicant                              Network                                               Status
+                                                                           Identification Code
+
+ Podsystem Ltd.                            Podsystem Ltd.                      +883 340                    Assigned
+
+* 31.VII.2020
+__________
+
+See page 4 of the present Operational Bulletin No. 1202 of 15.VIII.2020.
+
+
+
+
+            Mobile Network Codes (MNC) for the international identification plan
+                          for public networks and subscriptions
+                   (According to Recommendation ITU-T E.212 (09/2016))
+                              (Position on 15 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                              (Amendment No. 37)
+
+        Country/Geographical area                          MCC+MNC *        Operator/Network
+        Czech Rep. ADD
+                                                                  230 07    T-Mobile Czech Republic a.s.
+        Czech Rep. LIR
+                                                                  230 02    O2 Czech Republic a.s.
+                                                                  230 04    Nordic Telecom s.r.o.
+                                                                  230 98    Sprava zeleznic, statni organizace
+        Hong Kong, China ADD
+                                                                  454 35    Webbing Hong Kong Limited
+        International Mobile, shared code ADD
+                                                                  901 75    Podsystem Ltd.
+                                                                  901 76    A1 Telekom Austria AG
+
+
+    ____________
+
+    *          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+               MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 99)
+
+
+
+
+ Country or area/ISO code                        Company Code        Contact
+  Company Name/Address                            (carrier code)
+
+
+
+
+Germany (Federal Republic of) / DEU           ADD
+
+
+ FLOW7 GmbH                                         FLOW7            Mr Christian Treudler
+ Lorenzstrasse 29                                                    Tel.: +49 721 75407144
+ D-76135 KARLSRUHE                                                   Fax: +49 721 75407149
+                                                                     Email: voip-ekp@flow7.de
+
+
+ Westnetz w.V.                                       WNET            Mr. David Lamparter
+ Karl-Heine-Strasse 93                                               Tel.: +49 341 3929 1490
+ D-04229 LEIPZIG                                                     Email: tech@westnetz.org
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 2)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point        Name of the signalling point operator
+
+ Czech Rep. SUP
+ 2-230-3       5939         TS1PG                                      O2 Czech Republic a.s.
+
+ Czech Rep. ADD
+ 2-230-2       5938         TS2P5                                      O2 Czech Republic a.s.
+ 6-234-4       14164        MSC9                                       Vodafone Czech Republic a.s.
+
+ Czech Rep. LIR
+ 2-060-4       4580         SZDC                                       Sprava zeleznic, statni organizace
+ 2-060-5       4581         Ceznet Praha CZ                            Telco Pro Services, a.s.
+ 2-060-6       4582         SZDC CZ                                    Sprava zeleznic, statni organizace
+ 2-228-1       5921         Praha, SA-STP                              CETIN a.s.
+ 2-228-2       5922         Brno, SA STP                               CETIN a.s.
+ 2-228-5       5925         SZDC                                       Sprava zeleznic, statni organizace
+ 2-228-6       5926         CEZnet Praha CZ                            Telco Pro Services, a.s.
+ 2-229-0       5928         BT Czech Republic                          BT Limited, organizacni slozka
+ 2-229-1       5929         Praha, International exchange              CETIN a.s.
+ 2-229-2       5930         Brno, International exchange               CETIN a.s.
+ 2-231-3       5947         SZDC                                       Sprava zeleznic, statni organizace
+
+ Switzerland SUP
+ 2-058-5       4565         Zürich                                     LTN Liechtenstein Telenet AG
+
+ Switzerland LIR
+ 2-053-0       4520         Zürich                                     GTT Switzerland Sàrl
+ 2-059-4       4572         Zürich                                     Sunrise Communications AG
+ 2-061-0       4584         Zürich                                     Global Premium Telecom B.V.
+ 5-246-2       12210        Zürich                                     Sunrise Communications AG
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                   Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.VII.2020, the following countries/geographical areas have updated their national numbering plan on
+our site:
+
+
+                        Country/ Geographical area                      Country Code (CC)
+               Iran (Islamic Republic of)                                      +98
+               Jordan                                                          +962
+               Myanmar                                                         +95
+
+
+
+

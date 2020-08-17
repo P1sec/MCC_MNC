@@ -1,0 +1,553 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1200             15.VII.2020                 (Information received by 1 July 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin ...............................................................................................                     3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                            5
+     Iran (Islamic Republic of) (Communications Regulatory Authority (CRA), Tehran) ..................................                                            6
+     Jordan (Telecommunications Regulatory Commission (TRC), Amman) ....................................................                                          9
+     Myanmar (Ministry of Transport and Communications, Nay Pyi Taw) ....................................................                                         9
+Changes in Administrations/ROAs and other entities or Organizations: Norway..........................................                                            10
+Service Restrictions ........................................................................................................................................    11
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                               11
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                               12
+Mobile Network Codes (MNC) for the international identification plan
+  for public networks and subscriptions .....................................................................................................                    13
+National Numbering Plan ...............................................................................................................................          14
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1201             1.VIII.2020           15.VII.2020
+               1202            15.VIII.2020           31.VII.2020
+               1203              1.IX.2020            14.VIII.2020
+               1204             15.IX.2020             1.IX.2020
+               1205              1.X.2020              15.IX.2020
+               1206             15.X.2020               1.X.2020
+               1207              1.XI.2020             15.X.2020
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021              11.XII.2020
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-84, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T K.21 (2019) Amd. 1 (06/2020)
+–     ITU-T K.45 (2019) Amd. 1 (06/2020)
+–     ITU-T K.50 (2018) Amd. 1 (06/2020)
+–     ITU-T K.64 (06/2020): Safe working practices for outside equipment installed in particular environments
+–     ITU-T K.83 (06/2020): Monitoring of electromagnetic field levels
+–     ITU-T K.91 (06/2020): Guidance for assessment, evaluation and monitoring of human exposure to radio
+      frequency electromagnetic fields
+–     ITU-T K.98 (2014) Cor. 2 (06/2020)
+–     ITU-T K.146 (06/2020): Management of interferences on telecommunication transmissions on copper
+      other than speech
+–     ITU-T K.147 (06/2020): Ethernet port resistibility testing for overvoltages and overcurrents
+–     ITU-T L.1371 (06/2020): A methodology for assessing and scoring the sustainability performance of office
+      buildings
+–     ITU-T L.1381 (06/2020): Smart energy solution for data centre
+–     ITU-T L.1382 (06/2020): Smart energy solution for telecommunication rooms
+–     ITU-T Y.3652 (06/2020): Big data driven networking – requirements
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                          url: www.itu.int/itu-t/inr/nnp
+
+Denmark (country code +45)
+Communication of 22.VI.2020:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     Withdrawal – Fixed communication services
+             Provider                               Numbering series                      Date of withdrawal
+5tel, c/o Maxtel.dk ApS         70838fgh and 70858fgh                                         30.VI.2020
+
+•     Assignment – Fixed communication services
+             Provider                               Numbering series                      Date of assignment
+5tel, c/o Maxtel.dk ApS         73733fgh, 46466fgh, 48486fg and 72722fgh                      4.VI.2020
+
+•     Assignment – Mobile communication services
+             Provider                               Numbering series                      Date of assignment
+Mifon familie                   6620efgh and 7710efgh                                         1.VII.2020
+
+•     Assignment – M2M communication
+        Provider                                   Numbering series                       Date of assignment
+Greenwave Mobile IoT ApS        37100230ijkl, 37100231ijkl, 37100232ijkl, 37100233ijkl,       1.VII.2020
+                                37100234ijkl, 37100235ijkl and 37100236ijkl
+Communication of 23.VI.2020:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     Withdrawal – 6-digit short number for harmonised services
+             Provider                               Numbering series                      Date of withdrawal
+TDC Net A/S                     116000                                                        30.VI.2020
+Communication of 30.VI.2020:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     Assignment – Mobile communication services
+             Provider                               Numbering series                      Date of assignment
+Lebara Denmark ApS              5520efgh, 5521efgh, 5522efgh, 5523efgh, 5524efgh,             1.VI.2020
+                                5525efgh, 5526efgh and 5527efgh
+Telenor Connexion AB            3490efgh, 3491efgh, 3492efgh, 3493efgh, 3494efgh,             6.VII.2020
+                                3495efgh, 3496efgh, 3497efgh, 3498efgh and 3499efgh
+Contact:
+         Danish Energy Agency
+         43 Carsten Niebuhrs Gade
+         1577 COPENHAGEN V
+         Denmark
+         Tel: +45 33 92 67 00
+         Fax: +45 33 11 47 43
+         E-mail: ens@ens.dk
+         URL:    www.ens.dk
+ Iran (Islamic Republic of) (country code +98)
+ Communication of 22.VI.2020:
+ The Communications Regulatory Authority (CRA), Tehran, announces the following updated National
+ Numbering Plan of the Islamic Republic of Iran.
+                                Presentation of the Iran E.164 numbering plan
+ 1- General Information
+ The E.164 numbering Plan of Iran:
+     • Country Code: +98
+     • International Prefix: "00"
+     • National Prefix: "0"
+         For national calls, it must be dialled before all telephone numbers except short numbers.
+         It must not be dialled from abroad.
+     • National destination Code: 2 digits.
+
+ 2- Detail of Numbering Scheme
+        •   NDC: National Destination Code
+        •   NSN: National Significant Number (NDC + SN)
+ The minimum number length (excluding the country code) is 5 digits
+ The maximum number length (excluding the country code) is 10 digits
+
+                                                 Numbering Scheme
+
+               NSN Number length
+     NDC                                 Usage of E.164                     Additional Information
+             Minimum Maximum
+11           5         10             Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                             Numbers- Mazandaran)
+13           5           10           Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                             Numbers- Gilan)
+17           5           10           Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                             Numbers- Golestan)
+21           5           10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                             telephony Numbers- Tehran)
+23           5           10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                             telephony Numbers- Semnan)
+24           5           10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                             telephony Numbers- Zanjan)
+25           5           10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                             telephony Numbers-Qom)
+26           5           10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                             telephony Numbers-Alborz)
+28           5           10           Fixed Phone            Area Code (Geographic Number for Fixed
+                                                             telephony Numbers-Ghazvin )
+31           5           10           Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                             Numbers- Isfahan)
+34           5           10           Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                             Numbers- Kerman)
+35           5           10           Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                             Numbers-Yazd)
+38           5           10           Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                             Numbers- Chahar Mahal vaBakhtiari)
+41           5           10           Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                             Numbers- East Azarbayjan)
+44           5           10           Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                             Numbers- West Azarbayjan)
+
+
+               NSN Number length
+     NDC                              Usage of E.164                   Additional Information
+             Minimum Maximum
+45           5         10          Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers- Ardabil)
+51           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers – Razavi Khorasan)
+54           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers – SistanvaBalochestan)
+56           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers – South Khorasan)
+58           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers - North Khorasan)
+61           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers -Khuzestan)
+66           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers - Lorestan)
+71           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers - Fars)
+74           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers –Kohgiluoyeva Boyer Ahmad)
+76           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers - Hormozgan)
+77           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers - Bushehr)
+81           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers – Hamadan)
+83           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers – Kermanshahan)
+84           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers- Ilam)
+86           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers-Markazi)
+87           5            10       Fixed Phone            Area Code (Geographic Number for Fixed telephony
+                                                          Numbers-Kurdestan)
+901          10           10       Mobile services
+902          10           10       Mobile services
+903          10           10       Mobile services
+9044         10           10       Mobile services
+9045         10           10       Mobile services
+9046         10           10       Mobile services
+905          10           10       Mobile services
+91           10           10       Mobile services
+920          10           10       Mobile services
+921          10           10       Mobile services
+922          10           10       Mobile services
+93           10           10       Mobile services
+942121       5            10       Fixed Phone            Non geographical
+94220        5            10       Fixed Phone            Non geographical
+94260        5            10       Fixed Phone            Non geographical
+94280        5            10       Fixed Phone            Non geographical
+94290        5            10       Fixed Phone            Non geographical
+9430000      5            10       Fixed Phone            Non geographical
+94301        5            10       Fixed Phone            Non geographical
+94302        5            10       Fixed Phone            Non geographical
+940000       10           10       Fixed Phone (fibber)   Non geographical
+940009       10           10       Fixed Phone (fibber)   Non geographical
+
+
+               NSN Number length
+  NDC                                    Usage of E.164                    Additional Information
+             Minimum Maximum
+944111       5         10             Fixed Phone (Fixed     Just Originating from Iran
+                                      wireless Access)
+94440        5           10           Fixed Phone (Fixed     Just Originating from Iran
+                                      wireless Access)
+96           5           6            Services Codes
+990          10          10           Mobile services
+991          10          10           Mobile services
+992          10          10           Mobile services
+9930         10          10           Mobile services
+9931         10          10           Mobile services
+9944         10          10           Mobile services
+9945         10          10           Mobile services
+9950         5           10           Public Trunk
+99510        10          10           Mobile services
+99550        10          10           Mobile services
+99810        10          10           Mobile services
+99811        10          10           Mobile services
+99812        10          10           Mobile services
+99813        10          10           Mobile services
+99814        10          10           Mobile services
+99815        10          10           Mobile services
+99888        10          10           Mobile services
+99900        10          10           Mobile services
+99901        10          10           Mobile services
+99903        10          10           Mobile services
+99910        10          10           Mobile services
+99911        10          10           Mobile services
+99912        10          10           Mobile services
+99913        10          10           Mobile services
+99914        10          10           Mobile services
+99921        10          10           Mobile services
+99977        10          10           Mobile services
+99988        10          10           Mobile services
+99990        10          10           Mobile services
+99991        10          10           Mobile services
+99992        10          10           Mobile services
+99993        10          10           Mobile services
+99994        10          10           Mobile services
+99995        10          10           Mobile services
+99996        10          10           Mobile services
+99997        10          10           Mobile services
+99998        10          10           Mobile services
+99999        10          10           Mobile services
+ Contact:
+            Alireza Darvishi
+            Director General, International Organizations Bureau,
+            Communications Regulatory Authority (CRA)
+            Ministry of Information and Communication Technology
+            15598 TEHRAN
+            Iran (Islamic Republic of)
+            Tel:      +98 21 89662201
+            Fax:      +98 21 88468999
+            E-mail: darvishi@cra.ir
+            URL:      www.cra.ir
+
+Jordan (country code +962)
+Communication of 23.VI.2020:
+The Telecommunications Regulatory Commission (TRC), Amman, announces the allocation of new number
+range as follows:
+
+           Service                      Operator                        Number range               Activation date
+     Mobile Services             Umniah Mobile Company                 +962 7 82XX XXXX               10.I.2017
+Contact:
+             Eng. Hala Kharbat
+             Telecommunications Services and Networks Regulation Directorate
+             Telecommunications Regulatory Commission (TRC)
+             Bayader Wadi Al Seer District
+             Deir ghbar Area
+             Extension of Alshaheed Mohamad Al Zoghoul Street.
+             Building No (13)
+             P.O.Box: 850967
+             AMMAN 11185
+             Jordan
+             Tel:         +962 6 5501120 ext: 2330
+             Fax:         +962 6 5690830
+             E-mail:      hala.kharbat@trc.gov.jo
+
+Myanmar (country code +95)
+Communication of 24.VI.2020:
+The Ministry of Transport and Communications, Nay Pyi Taw, announces that the following updated numbering
+scheme has been added to the national numbering plan of Myanmar:
+                                  Description of introduction of new resources for
+                                national E.164 numbering plan for country code + 95:
+
+Mobile Numbering
+
+    Sr                                                              Digit Length
+           Area Code      Number series         System                                 Operator
+    No.                                                        (including area code)
+1              9           650-xxx-xxx     WCDMA / GSM                   10            Telecom International Myanmar Co.,Ltd
+2              9           667-xxx-xxx     WCDMA / GSM                  10             Telecom International Myanmar Co.,Ltd
+3              9           668-xxx-xxx     WCDMA / GSM                  10             Telecom International Myanmar Co.,Ltd
+4              9           669-xxx-xxx     WCDMA / GSM                  10             Telecom International Myanmar Co.,Ltd
+5              9           740-xxx-xxx     WCDMA / GSM                  10             Telenor Myanmar Limited
+6              9           880-xxx-xxx     WCDMA / GSM                  10             Myanma Posts and Telecommunications
+7              9           881-xxx-xxx     WCDMA / GSM                  10             Myanma Posts and Telecommunications
+8              9           882-xxx-xxx     WCDMA / GSM                  10             Myanma Posts and Telecommunications
+9              9           883-xxx-xxx     WCDMA / GSM                  10             Myanma Posts and Telecommunications
+10             9           940-xxx-xxx     WCDMA / GSM                  10             Ooredoo Myanmar Limited
+
+Contact:
+            Ministry of Transport and Communications
+            Posts and Telecommunications Department (PTD)
+            Building No. 2,
+            NAY PYI TAW
+            Myanmar
+            Tel: +95 67 3407 225
+            Fax: +95 67 3407 216
+            E-mail: dg.ptd@mptmail.net.mm
+
+
+                 Changes in Administrations/ROAs and other entities
+                                 or Organizations
+
+
+Norway
+Communication of 29.VI.2020:
+
+                             Granting of Recognized Operating Agency (ROA) status
+The Norwegian Communications Authority, Lillesand, announces that the following telecommunication operator
+and service provider has been granted the status of Recognized Operating Agency (ROA), in accordance with
+Article 6 of, and Nos. 1007 and 1008 of the Annex to, the Constitution of ITU.
+The name of the telecommunication operator and service provider to which the status of Recognized Operating
+Agency (ROA) has been granted, is Norwegian Defence Research Establishment (FFI).
+Contact:
+           Norwegian Defence Research Establishment (FFI)
+           Instituttveien 20
+           2007 KJELLER
+           Norway
+           Tel:     +47 63 80 70 00
+           E-mail: firmapost@ffi.no
+
+
+For further information, please contact:
+           Norwegian Communications Authority
+           P.O. Box 93
+           4791 LILLESAND
+           Norway
+           Tel:    +47 22824600
+           Fax:    +47 22824640
+           E-mail: firmapost@nkom.no
+           URL:    www.nkom.no
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                            Abbreviations used
+
+                              ADD    Insert                      PAR   Paragraph
+                              COL    Column                      REP   Replace
+                              LIR    Read                        SUP   Delete
+                              P      Page(s)
+
+
+
+
+                       List of Issuer Identifier Numbers for
+               the International Telecommunication Charge Card
+         (in accordance with Recommendation ITU-T E.118 (05/2006))
+                          (Position on 1 December 2018)
+                          (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                           (Amendment No. 29)
+
+
+Spain            ADD
+
+    Country/       Company Name/Address           Issuer Identifier                Contact               Effective date
+  Geographical                                        Number                                                of usage
+      area
+ Spain             SYMA MOBILE ESPAÑA SL             89 34 13          Xavier Cascante Serratosa           1.VIII.2020
+                   Av. Diagonal, 453 Bis                               Av. Diagonal, 453 Bis Planta 4
+                   Planta 4                                            08036 BARCELONA
+                   08036 BARCELONA                                     Tel:     +33 1 44 24 06 37
+                                                                       Fax:     +33 1 44 24 01 38
+                                                                       E-mail: xc@symamobile.com
+
+
+
+
+        Mobile Network Codes (MNC) for the international identification plan
+                      for public networks and subscriptions
+              (According to Recommendation ITU-T E.212 (09/2016))
+                          (Position on 15 December 2018)
+
+                       (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                        (Amendment No.35)
+
+
+    Country/Geographical area         MCC+MNC *            Operator/Network
+
+    Turks and Caicos Islands SUP
+                                            376 351        Digicel TCI Ltd
+
+    Turks and Caicos Islands ADD
+                                            376 360        Digicel
+
+
+____________
+
+*          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                National Numbering Plan
+                 (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.VI.2020, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                        Country/ Geographical area                      Country Code (CC)
+               Niger                                                          +227
+
+
+
+
