@@ -14,7 +14,7 @@
       "cc2s": [],
       "country": "Test_networks",
       "ope": true,
-      "operator": "Test Network",
+      "operator": "Test network",
       "src": "Wikipedia"
     },
     "00101": {
@@ -25,7 +25,7 @@
       "cc2s": [],
       "country": "Test_networks",
       "ope": true,
-      "operator": "Test Network",
+      "operator": "Test network",
       "src": "Wikipedia"
     },
     "20201": {
@@ -1325,15 +1325,16 @@
         "UMTS 2100",
         "LTE 700",
         "LTE 1800",
+        "LTE 2100",
         "LTE 2600"
       ],
-      "brand": "Free Mobile",
+      "brand": "Free",
       "cc2s": [
         "FR"
       ],
       "country": "France",
       "ope": true,
-      "operator": "Iliad",
+      "operator": "Free Mobile",
       "src": "Wikipedia"
     },
     "20816": {
@@ -1342,15 +1343,16 @@
         "UMTS 2100",
         "LTE 700",
         "LTE 1800",
+        "LTE 2100",
         "LTE 2600"
       ],
-      "brand": "Free Mobile",
+      "brand": "Free",
       "cc2s": [
         "FR"
       ],
       "country": "France",
       "ope": true,
-      "operator": "Iliad",
+      "operator": "Free Mobile",
       "src": "Wikipedia"
     },
     "20817": {
@@ -1576,7 +1578,7 @@
       "bands": [
         "WiMAX"
       ],
-      "brand": "",
+      "brand": "Fibre64",
       "cc2s": [
         "FR"
       ],
@@ -1596,6 +1598,55 @@
       "country": "France",
       "ope": true,
       "operator": "Cellhire France",
+      "src": "Wikipedia"
+    },
+    "20835": {
+      "bands": [
+        "UMTS 900",
+        "UMTS 2100",
+        "LTE 700",
+        "LTE 1800",
+        "LTE 2100",
+        "LTE 2600"
+      ],
+      "brand": "Free",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": true,
+      "operator": "Free Mobile",
+      "src": "Wikipedia"
+    },
+    "20836": {
+      "bands": [
+        "UMTS 900",
+        "UMTS 2100",
+        "LTE 700",
+        "LTE 1800",
+        "LTE 2100",
+        "LTE 2600"
+      ],
+      "brand": "Free",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": true,
+      "operator": "Free Mobile",
+      "src": "Wikipedia"
+    },
+    "20837": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "IP Directions",
       "src": "Wikipedia"
     },
     "20850": {
@@ -1696,7 +1747,7 @@
       ],
       "country": "France",
       "ope": false,
-      "operator": "Fondation b-com",
+      "operator": "Hub One",
       "src": "Wikipedia"
     },
     "20890": {
@@ -1865,15 +1916,16 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 2100",
-        "LTE 800"
+        "LTE 800",
+        "LTE 1800"
       ],
-      "brand": "Mobiland",
+      "brand": "Som, Mobiland",
       "cc2s": [
         "AD"
       ],
       "country": "Andorra",
       "ope": true,
-      "operator": "Servei De Tele. DAndorra",
+      "operator": "Andorra Telecom",
       "src": "Wikipedia"
     },
     "21401": {
@@ -4228,7 +4280,7 @@
       "bands": [
         "MVNO"
       ],
-      "brand": "tele.ring",
+      "brand": "Magenta-T",
       "cc2s": [
         "AT"
       ],
@@ -11787,7 +11839,7 @@
         "AL"
       ],
       "country": "Albania",
-      "ope": true,
+      "ope": false,
       "operator": "Plus Communication",
       "src": "Wikipedia"
     },
@@ -12137,9 +12189,9 @@
     },
     "28214": {
       "bands": [
-        "Unknown"
+        "MVNO"
       ],
-      "brand": "",
+      "brand": "DataCell",
       "cc2s": [
         "GE"
       ],
@@ -13494,7 +13546,7 @@
     },
     "302651": {
       "bands": "",
-      "brand": "Bell Mobility",
+      "brand": "Bell",
       "cc2s": [
         "CA"
       ],
@@ -13974,6 +14026,19 @@
       "country": "Saint Pierre and Miquelon",
       "ope": true,
       "operator": "GLOBALTEL",
+      "src": "Wikipedia"
+    },
+    "30803": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "Ameris",
+      "cc2s": [
+        "PM"
+      ],
+      "country": "Saint Pierre and Miquelon",
+      "ope": false,
+      "operator": "St. Pierre-et-Miquelon T\u00e9l\u00e9com",
       "src": "Wikipedia"
     },
     "310003": {
@@ -20736,50 +20801,90 @@
       "operator": "Cable & Wireless Communications",
       "src": "Wikipedia"
     },
-    "34001": {
-      "bands": [
-        "GSM 900",
-        "UMTS 2100",
-        "LTE 800",
-        "LTE 1800",
-        "LTE 2100",
-        "LTE 2600"
-      ],
-      "brand": "Orange",
-      "cc2s": [
-        "BL",
-        "GF",
-        "GP",
-        "MF",
-        "MQ"
-      ],
-      "country": "French Antilles",
-      "ope": true,
-      "operator": "Orange Cara\u00efbe Mobiles",
-      "src": "Wikipedia"
-    },
-    "34002": {
-      "bands": [
-        "GSM 900",
-        "GSM 1800",
-        "UMTS 2100",
-        "LTE 800",
-        "LTE 1800",
-        "LTE 2600"
-      ],
-      "brand": "SFR Cara\u00efbe",
-      "cc2s": [
-        "BL",
-        "GF",
-        "GP",
-        "MF",
-        "MQ"
-      ],
-      "country": "French Antilles",
-      "ope": true,
-      "operator": "Outremer Telecom",
-      "src": "Wikipedia"
-    },
+    "34001": [
+      {
+        "bands": [
+          "GSM 900",
+          "UMTS 2100",
+          "LTE 800",
+          "LTE 1800",
+          "LTE 2100",
+          "LTE 2600"
+        ],
+        "brand": "Orange",
+        "cc2s": [
+          "BL",
+          "GF",
+          "GP",
+          "MF",
+          "MQ"
+        ],
+        "country": "French Antilles",
+        "ope": true,
+        "operator": "Orange Cara\u00efbe Mobiles",
+        "src": "Wikipedia"
+      },
+      {
+        "bands": [
+          "GSM 900",
+          "UMTS 2100",
+          "LTE 800",
+          "LTE 1800",
+          "LTE 2100",
+          "LTE 2600"
+        ],
+        "brand": "Orange",
+        "cc2s": [
+          "GF"
+        ],
+        "country": "French Guiana",
+        "ope": true,
+        "operator": "Orange Cara\u00efbe Mobiles",
+        "src": "Wikipedia"
+      }
+    ],
+    "34002": [
+      {
+        "bands": [
+          "GSM 900",
+          "GSM 1800",
+          "UMTS 2100",
+          "LTE 800",
+          "LTE 1800",
+          "LTE 2600"
+        ],
+        "brand": "SFR Cara\u00efbe",
+        "cc2s": [
+          "BL",
+          "GF",
+          "GP",
+          "MF",
+          "MQ"
+        ],
+        "country": "French Antilles",
+        "ope": true,
+        "operator": "Outremer Telecom",
+        "src": "Wikipedia"
+      },
+      {
+        "bands": [
+          "GSM 900",
+          "GSM 1800",
+          "UMTS 2100",
+          "LTE 800",
+          "LTE 1800",
+          "LTE 2600"
+        ],
+        "brand": "SFR Cara\u00efbe",
+        "cc2s": [
+          "GF"
+        ],
+        "country": "French Guiana",
+        "ope": true,
+        "operator": "Outremer Telecom",
+        "src": "Wikipedia"
+      }
+    ],
     "34003": {
       "bands": [
         "GSM 900",
@@ -20798,6 +20903,27 @@
       "country": "French Antilles",
       "ope": true,
       "operator": "UTS Cara\u00efbe",
+      "src": "Wikipedia"
+    },
+    "34004": {
+      "bands": [
+        "UMTS 900",
+        "UMTS 2100",
+        "LTE 800",
+        "LTE 1800",
+        "LTE 2600"
+      ],
+      "brand": "Free",
+      "cc2s": [
+        "BL",
+        "GF",
+        "GP",
+        "MF",
+        "MQ"
+      ],
+      "country": "French Antilles",
+      "ope": false,
+      "operator": "Free Cara\u00efbe",
       "src": "Wikipedia"
     },
     "34008": {
@@ -20822,7 +20948,11 @@
     },
     "34009": {
       "bands": [
-        "LTE 800"
+        "UMTS 900",
+        "UMTS 2100",
+        "LTE 800",
+        "LTE 1800",
+        "LTE 2600"
       ],
       "brand": "Free",
       "cc2s": [
@@ -20834,7 +20964,7 @@
       ],
       "country": "French Antilles",
       "ope": false,
-      "operator": "Free Mobile",
+      "operator": "Free Cara\u00efbe",
       "src": "Wikipedia"
     },
     "34010": {
@@ -20854,23 +20984,38 @@
       "operator": "Guadeloupe T\u00e9l\u00e9phone Mobile",
       "src": "Wikipedia"
     },
-    "34011": {
-      "bands": [
-        "Unknown"
-      ],
-      "brand": "",
-      "cc2s": [
-        "BL",
-        "GF",
-        "GP",
-        "MF",
-        "MQ"
-      ],
-      "country": "French Antilles",
-      "ope": false,
-      "operator": "Guyane T\u00e9l\u00e9phone Mobile",
-      "src": "Wikipedia"
-    },
+    "34011": [
+      {
+        "bands": [
+          "Unknown"
+        ],
+        "brand": "",
+        "cc2s": [
+          "BL",
+          "GF",
+          "GP",
+          "MF",
+          "MQ"
+        ],
+        "country": "French Antilles",
+        "ope": false,
+        "operator": "Guyane T\u00e9l\u00e9phone Mobile",
+        "src": "Wikipedia"
+      },
+      {
+        "bands": [
+          "Unknown"
+        ],
+        "brand": "",
+        "cc2s": [
+          "GF"
+        ],
+        "country": "French Guiana",
+        "ope": false,
+        "operator": "Guyane T\u00e9l\u00e9phone Mobile",
+        "src": "Wikipedia"
+      }
+    ],
     "34012": {
       "bands": [
         "Unknown"
@@ -20888,25 +21033,42 @@
       "operator": "Martinique T\u00e9l\u00e9phone Mobile",
       "src": "Wikipedia"
     },
-    "34020": {
-      "bands": [
-        "GSM 900",
-        "UMTS 2100",
-        "LTE 800"
-      ],
-      "brand": "Digicel",
-      "cc2s": [
-        "BL",
-        "GF",
-        "GP",
-        "MF",
-        "MQ"
-      ],
-      "country": "French Antilles",
-      "ope": true,
-      "operator": "DIGICEL Antilles Fran\u00e7aise Guyane",
-      "src": "Wikipedia"
-    },
+    "34020": [
+      {
+        "bands": [
+          "GSM 900",
+          "UMTS 2100",
+          "LTE 800"
+        ],
+        "brand": "Digicel",
+        "cc2s": [
+          "BL",
+          "GF",
+          "GP",
+          "MF",
+          "MQ"
+        ],
+        "country": "French Antilles",
+        "ope": true,
+        "operator": "DIGICEL Antilles Fran\u00e7aise Guyane",
+        "src": "Wikipedia"
+      },
+      {
+        "bands": [
+          "GSM 900",
+          "UMTS 2100",
+          "LTE 800"
+        ],
+        "brand": "Digicel",
+        "cc2s": [
+          "GF"
+        ],
+        "country": "French Guiana",
+        "ope": true,
+        "operator": "DIGICEL Antilles Fran\u00e7aise Guyane",
+        "src": "Wikipedia"
+      }
+    ],
     "342050": {
       "bands": "",
       "brand": "Digicel",
@@ -22273,13 +22435,13 @@
       "bands": [
         "Unknown"
       ],
-      "brand": "FLOW",
+      "brand": "Digicel",
       "cc2s": [
         "TC"
       ],
       "country": "Turks and Caicos Islands",
       "ope": false,
-      "operator": "Cable & Wireless West Indies Ltd (Turks & Caicos)",
+      "operator": "Digicel (Turks & Caicos) Limited",
       "src": "Wikipedia"
     },
     "37650": {
@@ -26490,7 +26652,7 @@
       ],
       "country": "India",
       "ope": false,
-      "operator": "Kerala",
+      "operator": "Delhi & NCR",
       "src": "txtNation"
     },
     "405926": {
@@ -27126,6 +27288,7 @@
       "bands": [
         "GSM 900",
         "UMTS 2100",
+        "LTE 800",
         "LTE 1800"
       ],
       "brand": "Alfa",
@@ -27257,6 +27420,7 @@
     "41601": {
       "bands": [
         "GSM 900",
+        "UMTS 2100",
         "LTE 1800"
       ],
       "brand": "zain JO",
@@ -27284,6 +27448,7 @@
     "41603": {
       "bands": [
         "GSM 1800",
+        "UMTS 2100",
         "LTE 1800",
         "LTE 3500"
       ],
@@ -27299,7 +27464,9 @@
     "41677": {
       "bands": [
         "GSM 900",
-        "LTE 1800"
+        "UMTS 2100",
+        "LTE 1800",
+        "LTE 2600"
       ],
       "brand": "Orange",
       "cc2s": [
@@ -27357,7 +27524,8 @@
     },
     "41800": {
       "bands": [
-        "GSM 900"
+        "GSM 900",
+        "UMTS 2100"
       ],
       "brand": "Asia Cell",
       "cc2s": [
@@ -27370,7 +27538,8 @@
     },
     "41805": {
       "bands": [
-        "GSM 900"
+        "GSM 900",
+        "UMTS 2100"
       ],
       "brand": "Asia Cell",
       "cc2s": [
@@ -27397,7 +27566,8 @@
     "41820": {
       "bands": [
         "GSM 900",
-        "GSM 1800"
+        "GSM 1800",
+        "UMTS 2100"
       ],
       "brand": "Zain",
       "cc2s": [
@@ -27410,7 +27580,9 @@
     },
     "41830": {
       "bands": [
-        "GSM 900"
+        "GSM 900",
+        "GSM 1800",
+        "UMTS 2100"
       ],
       "brand": "Zain",
       "cc2s": [
@@ -27423,7 +27595,8 @@
     },
     "41840": {
       "bands": [
-        "GSM 900"
+        "GSM 900",
+        "UMTS 2100"
       ],
       "brand": "Korek",
       "cc2s": [
@@ -27664,6 +27837,7 @@
     "41902": {
       "bands": [
         "GSM 900",
+        "GSM 1800",
         "UMTS 2100",
         "LTE 1800",
         "5G 3500"
@@ -27681,6 +27855,7 @@
       "bands": [
         "GSM 900",
         "GSM 1800",
+        "UMTS 900",
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
@@ -27797,7 +27972,7 @@
     },
     "42006": {
       "bands": [
-        ""
+        "MVNO"
       ],
       "brand": "Lebara Mobile",
       "cc2s": [
@@ -27875,13 +28050,13 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "HiTS-UNITEL",
+      "brand": "Y",
       "cc2s": [
         "YE"
       ],
       "country": "Yemen",
       "ope": true,
-      "operator": "Y",
+      "operator": "HiTS-UNITEL",
       "src": "Wikipedia"
     },
     "42202": {
@@ -28032,7 +28207,8 @@
     "42505": [
       {
         "bands": [
-          "GSM 900"
+          "GSM 900",
+          "UMTS 2100"
         ],
         "brand": "Jawwal",
         "cc2s": [
@@ -28061,7 +28237,8 @@
       {
         "bands": [
           "GSM 900",
-          "GSM 1800"
+          "GSM 1800",
+          "UMTS 2100"
         ],
         "brand": "Wataniya Mobile",
         "cc2s": [
@@ -28431,6 +28608,7 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 2100",
+        "LTE 800",
         "LTE 1800",
         "5G 3500"
       ],
@@ -28461,6 +28639,7 @@
       "bands": [
         "GSM 900",
         "GSM 1800",
+        "UMTS 900",
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
@@ -31074,9 +31253,9 @@
     "45204": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 2100",
-        "LTE 1800"
+        "LTE 1800",
+        "LTE 2100"
       ],
       "brand": "Viettel Mobile",
       "cc2s": [
@@ -32169,10 +32348,13 @@
     },
     "46601": {
       "bands": [
-        "UMTS 2100",
         "LTE 700",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2100",
+        "LTE 2600",
+        "5G 2100",
+        "5G 3500",
+        "5G 28000"
       ],
       "brand": "FarEasTone",
       "cc2s": [
@@ -32345,7 +32527,6 @@
     },
     "46689": {
       "bands": [
-        "UMTS 2100",
         "LTE 900",
         "LTE 2600"
       ],
@@ -32373,13 +32554,13 @@
     },
     "46692": {
       "bands": [
-        "UMTS 900",
-        "UMTS 2100",
         "LTE 900",
         "LTE 1800",
+        "LTE 2100",
         "LTE 2600",
         "5G 2100",
-        "5G 3500"
+        "5G 3500",
+        "5G 28000"
       ],
       "brand": "Chunghwa",
       "cc2s": [
@@ -32405,10 +32586,11 @@
     },
     "46697": {
       "bands": [
-        "UMTS 2100",
         "LTE 700",
         "LTE 1800",
-        "5G 3500"
+        "LTE 2100",
+        "5G 3500",
+        "5G 28000"
       ],
       "brand": "Taiwan Mobile",
       "cc2s": [
@@ -34105,15 +34287,14 @@
     },
     "52001": {
       "bands": [
-        "GSM 900",
-        "UMTS 900"
+        "GSM 900"
       ],
       "brand": "AIS",
       "cc2s": [
         "TH"
       ],
       "country": "Thailand",
-      "ope": false,
+      "ope": true,
       "operator": "Advanced Info Service",
       "src": "Wikipedia"
     },
@@ -34229,7 +34410,7 @@
         "TH"
       ],
       "country": "Thailand",
-      "ope": false,
+      "ope": true,
       "operator": "Total Access Communications Public Company Ltd.",
       "src": "Wikipedia"
     },
@@ -34294,7 +34475,7 @@
         "TH"
       ],
       "country": "Thailand",
-      "ope": false,
+      "ope": true,
       "operator": "True Corporation",
       "src": "Wikipedia"
     },
@@ -35742,8 +35923,11 @@
       "bands": [
         "GSM 900",
         "GSM 1800",
+        "UMTS 900",
+        "UMTS 1900",
         "UMTS 2100",
-        "LTE"
+        "LTE 800",
+        "LTE 1800"
       ],
       "brand": "Free",
       "cc2s": [
@@ -39001,7 +39185,14 @@
     },
     "64702": {
       "bands": [
-        "Unknown"
+        "GSM 900",
+        "GSM 1800",
+        "UMTS 900",
+        "UMTS 2100",
+        "LTE 800",
+        "LTE 1800",
+        "LTE 2100",
+        "LTE 2600"
       ],
       "brand": "Only",
       "cc2s": [
@@ -39020,7 +39211,9 @@
         "UMTS 900",
         "UMTS 2100",
         "LTE 800",
-        "LTE 1800"
+        "LTE 1800",
+        "LTE 2100",
+        "LTE 2600"
       ],
       "brand": "Free",
       "cc2s": [
@@ -40925,7 +41118,8 @@
         "UMTS 2100",
         "LTE 700",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 2600"
       ],
       "brand": "Claro",
       "cc2s": [
@@ -41820,8 +42014,9 @@
       "bands": [
         "GSM 850",
         "GSM 1900",
-        "CDMA 850",
         "UMTS 850",
+        "UMTS 1900",
+        "LTE 850",
         "LTE 1700",
         "LTE 1900"
       ],
@@ -42251,6 +42446,23 @@
       "country": "Ecuador",
       "ope": true,
       "operator": "Otecel S.A.",
+      "src": "Wikipedia"
+    },
+    "74204": {
+      "bands": [
+        "UMTS 900",
+        "UMTS 2100",
+        "LTE 1800",
+        "LTE 2100",
+        "LTE 2600"
+      ],
+      "brand": "Free",
+      "cc2s": [
+        "GF"
+      ],
+      "country": "French Guiana",
+      "ope": false,
+      "operator": "Free Cara\u00efbe",
       "src": "Wikipedia"
     },
     "74401": {

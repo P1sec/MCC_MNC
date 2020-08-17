@@ -206,7 +206,7 @@ WIKIP_MSISDN = \
   '58': [('VE', 'Venezuela', 'https://en.wikipedia.org/wiki/Venezuela')],
   '590': [ ('BL', 'Saint Barthélemy', 'https://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy'),
            ('GP', 'Guadeloupe', 'https://en.wikipedia.org/wiki/Guadeloupe'),
-           ('MF', 'Saint Martin', 'https://en.wikipedia.org/wiki/Saint_Martin')],
+           ('MF', 'Collectivity of Saint Martin', 'https://en.wikipedia.org/wiki/Collectivity_of_Saint_Martin')],
   '591': [('BO', 'Bolivia', 'https://en.wikipedia.org/wiki/Bolivia')],
   '592': [('GY', 'Guyana', 'https://en.wikipedia.org/wiki/Guyana')],
   '593': [('EC', 'Ecuador', 'https://en.wikipedia.org/wiki/Ecuador')],

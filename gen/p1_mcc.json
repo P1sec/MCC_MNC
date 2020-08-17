@@ -37,7 +37,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Greece_-_GR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Greece_\u2013_GR"
     },
     "204": {
       "cc2": "NL",
@@ -84,7 +84,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Netherlands_(Kingdom_of_the_Netherlands)_-_NL"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Netherlands_(Kingdom_of_the_Netherlands)_\u2013_NL"
     },
     "206": {
       "cc2": "BE",
@@ -115,7 +115,7 @@
       ],
       "notes": "",
       "reg": "Belgian Institute for Postal services and Telecommunications (BIPT)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Belgium_-_BE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Belgium_\u2013_BE"
     },
     "208": {
       "cc2": "FR",
@@ -155,6 +155,9 @@
         "20832",
         "20833",
         "20834",
+        "20835",
+        "20836",
+        "20837",
         "20850",
         "208500",
         "20870",
@@ -175,7 +178,7 @@
       ],
       "notes": "",
       "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#France_-_FR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#France_\u2013_FR"
     },
     "212": {
       "cc2": "MC",
@@ -185,7 +188,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Monaco_-_MC"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Monaco_\u2013_MC"
     },
     "213": {
       "cc2": "AD",
@@ -194,7 +197,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Andorra_-_AD"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Andorra_\u2013_AD"
     },
     "214": {
       "cc2": "ES",
@@ -241,7 +244,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Spain_-_ES"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Spain_\u2013_ES"
     },
     "216": {
       "cc2": "HU",
@@ -258,7 +261,7 @@
       ],
       "notes": "",
       "reg": "National Media and Infocommunications Authority / Nemzeti M\u00e9dia- \u00e9s H\u00edrk\u00f6zl\u00e9si Hat\u00f3s\u00e1g (NMHH)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Hungary_-_HU"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Hungary_\u2013_HU"
     },
     "218": {
       "cc2": "BA",
@@ -269,7 +272,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Bosnia_and_Herzegovina_-_BA"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Bosnia_and_Herzegovina_\u2013_BA"
     },
     "219": {
       "cc2": "HR",
@@ -281,7 +284,7 @@
       ],
       "notes": "",
       "reg": "Hrvatska agencija za po\u0161tu i elektronicke komunikacije (HAKOM)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Croatia_-_HR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Croatia_\u2013_HR"
     },
     "220": {
       "cc2": "RS",
@@ -297,7 +300,7 @@
       ],
       "notes": "",
       "reg": "Regulatory Agency for Electronic Communications and Postal Services / Regulatorna agencija za elektronske komunikacije i po\u0161tanske usluge (RATEL)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Serbia_-_RS"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Serbia_\u2013_RS"
     },
     "221": {
       "cc2": "XK",
@@ -309,7 +312,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Kosovo_-_XK"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Kosovo_\u2013_XK"
     },
     "222": {
       "cc2": "IT",
@@ -346,7 +349,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Italy_-_IT"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Italy_\u2013_IT"
     },
     "226": {
       "cc2": "RO",
@@ -365,7 +368,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Romania_-_RO"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Romania_\u2013_RO"
     },
     "228": {
       "cc2": "CH",
@@ -400,7 +403,7 @@
       ],
       "notes": "",
       "reg": "Federal Office of Communications / Office f\u00e9d\u00e9ral de la communication (OFCOM) / Bundesamt f\u00fcr Kommunikation (BAKOM)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Switzerland_-_CH"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Switzerland_\u2013_CH"
     },
     "230": {
       "cc2": "CZ",
@@ -419,7 +422,7 @@
       ],
       "notes": "",
       "reg": "Czech Telecommunication Office / \u010cesk\u00fd telekomunika\u010dn\u00ed \u00fa\u0159ad (CTU)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Czech_Republic_-_CZ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Czech_Republic_\u2013_CZ"
     },
     "231": {
       "cc2": "SK",
@@ -439,7 +442,7 @@
       ],
       "notes": "",
       "reg": "Regulatory for Electronic Communications and Postal Services / \u00darad pre regul\u00e1ciu elektronick\u00fdch komunik\u00e1ci\u00ed a po\u0161tov\u00fdch slu\u017eieb",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Slovakia_-_SK"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Slovakia_\u2013_SK"
     },
     "232": {
       "cc2": "AT",
@@ -475,7 +478,7 @@
       ],
       "notes": "",
       "reg": "Rundfunk- und Telekom Regulierungs-GmbH (RTR-GmbH)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Austria_-_AT"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Austria_\u2013_AT"
     },
     "234": [
       {
@@ -546,7 +549,7 @@
         ],
         "notes": "",
         "reg": "Office of Communications (Ofcom)",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#United_Kingdom_-_GB"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#United_Kingdom_\u2013_GB"
       },
       {
         "cc2": "GG",
@@ -561,7 +564,7 @@
         ],
         "notes": "",
         "reg": "Office of Communications (Ofcom)",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Guernsey_(United_Kingdom)_-_GG"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Guernsey_(United_Kingdom)_\u2013_GG"
       },
       {
         "cc2": "IM",
@@ -576,7 +579,7 @@
         ],
         "notes": "",
         "reg": "Office of Communications (Ofcom)",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Isle_of_Man_(United_Kingdom)_-_IM"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Isle_of_Man_(United_Kingdom)_\u2013_IM"
       },
       {
         "cc2": "JE",
@@ -591,7 +594,7 @@
         ],
         "notes": "",
         "reg": "Office of Communications (Ofcom)",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Jersey_(United_Kingdom)_-_JE"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Jersey_(United_Kingdom)_\u2013_JE"
       }
     ],
     "235": {
@@ -651,7 +654,7 @@
       ],
       "notes": "",
       "reg": "Danish Energy Agency / Energistyrelsen",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Denmark_(Kingdom_of_Denmark)_-_DK"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Denmark_(Kingdom_of_Denmark)_\u2013_DK"
     },
     "240": {
       "cc2": "SE",
@@ -716,7 +719,7 @@
       ],
       "notes": "",
       "reg": "Swedish Post and Telecom Authority / Post- och telestyrelsen (PTS)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Sweden_-_SE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Sweden_\u2013_SE"
     },
     "242": {
       "cc2": "NO",
@@ -746,7 +749,7 @@
       ],
       "notes": "",
       "reg": "Norwegian Communications Authority",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Norway_-_NO"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Norway_\u2013_NO"
     },
     "244": {
       "cc2": "FI",
@@ -811,7 +814,7 @@
       ],
       "notes": "",
       "reg": "Finnish Transport and Communications Agency / Liikenne- ja viestint\u00e4virasto (TRAFICOM)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Finland_-_FI"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Finland_\u2013_FI"
     },
     "246": {
       "cc2": "LT",
@@ -830,7 +833,7 @@
       ],
       "notes": "",
       "reg": "Communications Regulatory Authority / Ry\u0161i\u0173 Reguliavimo Tarnyba (RRT)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Lithuania_-_LT"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Lithuania_\u2013_LT"
     },
     "247": {
       "cc2": "LV",
@@ -847,7 +850,7 @@
       ],
       "notes": "",
       "reg": "Public Utilities Commission / Sabiedrisko pakalpojumu regul\u0113\u0161anas komisija (SPRK)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Latvia_-_LV"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Latvia_\u2013_LV"
     },
     "248": {
       "cc2": "EE",
@@ -874,7 +877,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Estonia_-_EE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Estonia_\u2013_EE"
     },
     "250": {
       "cc2": "RU",
@@ -926,7 +929,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Russian_Federation_-_RU"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Russian_Federation_\u2013_RU"
     },
     "255": {
       "cc2": "UA",
@@ -952,7 +955,7 @@
       ],
       "notes": "",
       "reg": "National Commission for the State Regulation of Communications and Information (NKRZI)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Ukraine_-_UA"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Ukraine_\u2013_UA"
     },
     "257": {
       "cc2": "BY",
@@ -967,7 +970,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Belarus_-_BY"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Belarus_\u2013_BY"
     },
     "259": {
       "cc2": "MD",
@@ -982,7 +985,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Moldova_-_MD"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Moldova_\u2013_MD"
     },
     "260": {
       "cc2": "PL",
@@ -1041,7 +1044,7 @@
       ],
       "notes": "",
       "reg": "Office of Electronic Communications / Urz\u0105d Komunikacji Elektronicznej (UKE)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Poland_-_PL"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Poland_\u2013_PL"
     },
     "262": {
       "cc2": "DE",
@@ -1088,7 +1091,7 @@
       ],
       "notes": "",
       "reg": "Federal Network Agency / Bundesnetzagentur (BNetzA)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Germany_-_DE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Germany_\u2013_DE"
     },
     "266": {
       "cc2": "GI",
@@ -1100,7 +1103,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Gibraltar_(United_Kingdom)_-_GI"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Gibraltar_(United_Kingdom)_\u2013_GI"
     },
     "268": {
       "cc2": "PT",
@@ -1122,7 +1125,7 @@
       ],
       "notes": "",
       "reg": "National Communications Authority / Autoridade Nacional de Comunica\u00e7\u00f5es (ANACOM)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Portugal_-_PT"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Portugal_\u2013_PT"
     },
     "270": {
       "cc2": "LU",
@@ -1141,7 +1144,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Luxembourg_-_LU"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Luxembourg_\u2013_LU"
     },
     "272": {
       "cc2": "IE",
@@ -1164,7 +1167,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Ireland_-_IE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Ireland_\u2013_IE"
     },
     "274": {
       "cc2": "IS",
@@ -1187,7 +1190,7 @@
       ],
       "notes": "",
       "reg": "Post and Telecom Administration / P\u00f3st- og fjarskiptastofnun (PFS)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Iceland_-_IS"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Iceland_\u2013_IS"
     },
     "276": {
       "cc2": "AL",
@@ -1199,7 +1202,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Albania_-_AL"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Albania_\u2013_AL"
     },
     "278": {
       "cc2": "MT",
@@ -1212,7 +1215,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Malta_-_MT"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Malta_\u2013_MT"
     },
     "280": {
       "cc2": "CY",
@@ -1226,7 +1229,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Cyprus_-_CY"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Cyprus_\u2013_CY"
     },
     "282": {
       "cc2": "GE",
@@ -1248,7 +1251,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Georgia_-_GE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Georgia_\u2013_GE"
     },
     "283": {
       "cc2": "AM",
@@ -1260,7 +1263,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Armenia_-_AM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Armenia_\u2013_AM"
     },
     "284": {
       "cc2": "BG",
@@ -1277,7 +1280,7 @@
       ],
       "notes": "",
       "reg": "Communications Regulation Commission (CRC)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Bulgaria_-_BG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Bulgaria_\u2013_BG"
     },
     "286": {
       "cc2": "TR",
@@ -1289,7 +1292,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Turkey_-_TR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Turkey_\u2013_TR"
     },
     "288": {
       "cc2": "FO",
@@ -1300,7 +1303,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Faroe_Islands_(Kingdom_of_Denmark)_-_FO"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Faroe_Islands_(Kingdom_of_Denmark)_\u2013_FO"
     },
     "289": {
       "cc2": "AB",
@@ -1311,7 +1314,7 @@
       ],
       "notes": "MCC is not listed by ITU",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Abkhasia_-_GE-AB"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Abkhazia_\u2013_GE-AB"
     },
     "290": {
       "cc2": "GL",
@@ -1321,7 +1324,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Greenland_(Kingdom_of_Denmark)_-_GL"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Greenland_(Kingdom_of_Denmark)_\u2013_GL"
     },
     "292": {
       "cc2": "SM",
@@ -1330,7 +1333,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#San_Marino_-_SM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#San_Marino_\u2013_SM"
     },
     "293": {
       "cc2": "SI",
@@ -1345,7 +1348,7 @@
       ],
       "notes": "",
       "reg": "Agency for communication networks and services / Agencija za komunikacijska omre\u017eja in storitve (AKOS)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Slovenia_-_SI"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Slovenia_\u2013_SI"
     },
     "294": {
       "cc2": "MK",
@@ -1360,7 +1363,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#North_Macedonia_-_MK"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#North_Macedonia_\u2013_MK"
     },
     "295": {
       "cc2": "LI",
@@ -1377,7 +1380,7 @@
       ],
       "notes": "",
       "reg": "Amt f\u00fcr Kommunikation (AK)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Liechtenstein_-_LI"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Liechtenstein_\u2013_LI"
     },
     "297": {
       "cc2": "ME",
@@ -1389,7 +1392,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Montenegro_-_ME"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Montenegro_\u2013_ME"
     },
     "302": {
       "cc2": "CA",
@@ -1471,17 +1474,18 @@
       ],
       "notes": "",
       "reg": "Canadian Numbering Administrator",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Canada_-_CA"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Canada_\u2013_CA"
     },
     "308": {
       "cc2": "PM",
       "mncs": [
         "30801",
-        "30802"
+        "30802",
+        "30803"
       ],
       "notes": "",
       "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Pierre_and_Miquelon_-_PM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Pierre_and_Miquelon_(France)_\u2013_PM"
     },
     "310": [
       {
@@ -1504,7 +1508,7 @@
         ],
         "notes": "",
         "reg": "IMSI Administrator",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Guam_(United_States_of_America)_-_GU"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Guam_(United_States_of_America)_\u2013_GU"
       },
       {
         "cc2": "MP",
@@ -1521,7 +1525,7 @@
         ],
         "notes": "",
         "reg": "IMSI Administrator",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Northern_Mariana_Islands_(United_States_of_America)_-_MP"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Northern_Mariana_Islands_(United_States_of_America)_\u2013_MP"
       },
       {
         "cc2": "US",
@@ -1670,7 +1674,7 @@
         ],
         "notes": "",
         "reg": "IMSI Administrator",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_of_America_-_US"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_of_America_\u2013_US"
       }
     ],
     "311": [
@@ -2059,14 +2063,14 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Puerto_Rico_-_PR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Puerto_Rico_\u2013_PR"
     },
     "332": {
       "cc2": "VI",
       "mncs": [],
       "notes": "The US Virgin Islands share the US MCCs instead of using the assigned MCC 332",
       "reg": "IMSI Administrator",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_of_America_-_US"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_of_America_\u2013_US"
     },
     "334": {
       "cc2": "MX",
@@ -2097,7 +2101,7 @@
       ],
       "notes": "",
       "reg": "Instituto Federal de Telecomunicaciones",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Mexico_-_MX"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Mexico_\u2013_MX"
     },
     "338": {
       "cc2": "JM",
@@ -2111,7 +2115,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Jamaica_-_JM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Jamaica_\u2013_JM"
     },
     "340": [
       {
@@ -2120,6 +2124,7 @@
           "34001",
           "34002",
           "34003",
+          "34004",
           "34008",
           "34009",
           "34010",
@@ -2129,7 +2134,7 @@
         ],
         "notes": "",
         "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_\u2013_BL/GF/GP/MF/MQ"
       },
       {
         "cc2": "GP",
@@ -2137,6 +2142,7 @@
           "34001",
           "34002",
           "34003",
+          "34004",
           "34008",
           "34009",
           "34010",
@@ -2146,7 +2152,7 @@
         ],
         "notes": "",
         "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_\u2013_BL/GF/GP/MF/MQ"
       },
       {
         "cc2": "MF",
@@ -2154,6 +2160,7 @@
           "34001",
           "34002",
           "34003",
+          "34004",
           "34008",
           "34009",
           "34010",
@@ -2163,7 +2170,7 @@
         ],
         "notes": "",
         "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_\u2013_BL/GF/GP/MF/MQ"
       },
       {
         "cc2": "MQ",
@@ -2171,6 +2178,7 @@
           "34001",
           "34002",
           "34003",
+          "34004",
           "34008",
           "34009",
           "34010",
@@ -2180,7 +2188,7 @@
         ],
         "notes": "",
         "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_\u2013_BL/GF/GP/MF/MQ"
       }
     ],
     "342": {
@@ -2195,7 +2203,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Barbados_-_BB"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Barbados_\u2013_BB"
     },
     "344": {
       "cc2": "AG",
@@ -2208,7 +2216,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Antigua_and_Barbuda_-_AG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Antigua_and_Barbuda_\u2013_AG"
     },
     "346": {
       "cc2": "KY",
@@ -2222,7 +2230,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Cayman_Islands_(United_Kingdom)_-_KY"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Cayman_Islands_(United_Kingdom)_\u2013_KY"
     },
     "348": {
       "cc2": "VG",
@@ -2234,7 +2242,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#British_Virgin_Islands_(United_Kingdom)_-_VG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#British_Virgin_Islands_(United_Kingdom)_\u2013_VG"
     },
     "350": {
       "cc2": "BM",
@@ -2251,7 +2259,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Bermuda_-_BM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Bermuda_\u2013_BM"
     },
     "352": {
       "cc2": "GD",
@@ -2263,7 +2271,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Grenada_-_GD"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Grenada_\u2013_GD"
     },
     "354": {
       "cc2": "MS",
@@ -2272,7 +2280,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Montserrat_(United_Kingdom)_-_MS"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Montserrat_(United_Kingdom)_\u2013_MS"
     },
     "356": {
       "cc2": "KN",
@@ -2283,7 +2291,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Kitts_and_Nevis_-_KN"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Kitts_and_Nevis_\u2013_KN"
     },
     "358": {
       "cc2": "LC",
@@ -2294,7 +2302,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Lucia_-_LC"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Lucia_\u2013_LC"
     },
     "360": {
       "cc2": "VC",
@@ -2306,7 +2314,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Vincent_and_the_Grenadines_-_VC"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Vincent_and_the_Grenadines_\u2013_VC"
     },
     "362": [
       {
@@ -2332,7 +2340,7 @@
         ],
         "notes": "",
         "reg": "",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_-_BQ/CW/SX"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_\u2013_BQ/CW/SX"
       },
       {
         "cc2": "CW",
@@ -2357,7 +2365,7 @@
         ],
         "notes": "",
         "reg": "",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_-_BQ/CW/SX"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_\u2013_BQ/CW/SX"
       },
       {
         "cc2": "SX",
@@ -2382,7 +2390,7 @@
         ],
         "notes": "",
         "reg": "",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_-_BQ/CW/SX"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Former_Netherlands_Antilles_(Kingdom_of_the_Netherlands)_\u2013_BQ/CW/SX"
       }
     ],
     "363": {
@@ -2394,7 +2402,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Aruba_(Kingdom_of_the_Netherlands)_-_AW"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Aruba_(Kingdom_of_the_Netherlands)_\u2013_AW"
     },
     "364": {
       "cc2": "BS",
@@ -2406,7 +2414,7 @@
       ],
       "notes": "",
       "reg": "Utilities Regulation & Competition Authority (URCA)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Bahamas_-_BS"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Bahamas_\u2013_BS"
     },
     "365": {
       "cc2": "AI",
@@ -2417,7 +2425,7 @@
       ],
       "notes": "",
       "reg": "Public Utilities Commission (PUC)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Anguilla_(United_Kingdom)_-_AI"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Anguilla_(United_Kingdom)_\u2013_AI"
     },
     "366": {
       "cc2": "DM",
@@ -2429,7 +2437,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Dominica_-_DM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Dominica_\u2013_DM"
     },
     "368": {
       "cc2": "CU",
@@ -2438,7 +2446,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Cuba_-_CU"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Cuba_\u2013_CU"
     },
     "370": {
       "cc2": "DO",
@@ -2451,7 +2459,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Dominican_Republic_-_DO"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Dominican_Republic_\u2013_DO"
     },
     "372": {
       "cc2": "HT",
@@ -2464,7 +2472,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Haiti_-_HT"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Haiti_\u2013_HT"
     },
     "374": {
       "cc2": "TT",
@@ -2477,7 +2485,7 @@
       ],
       "notes": "",
       "reg": "Telecommunications Authority of Trinidad and Tobago (TATT)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Trinidad_and_Tobago_-_TT"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Trinidad_and_Tobago_\u2013_TT"
     },
     "376": {
       "cc2": "TC",
@@ -2491,7 +2499,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Turks_and_Caicos_Islands_-_TC"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Turks_and_Caicos_Islands_\u2013_TC"
     },
     "400": {
       "cc2": "AZ",
@@ -2505,7 +2513,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Azerbaijan_-_AZ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Azerbaijan_\u2013_AZ"
     },
     "401": {
       "cc2": "KZ",
@@ -2518,7 +2526,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kazakhstan_-_KZ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kazakhstan_\u2013_KZ"
     },
     "402": {
       "cc2": "BT",
@@ -2529,7 +2537,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bhutan_-_BT"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bhutan_\u2013_BT"
     },
     "404": {
       "cc2": "IN",
@@ -2634,7 +2642,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#India_-_IN"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#India_\u2013_IN"
     },
     "405": {
       "cc2": "IN",
@@ -2887,7 +2895,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Pakistan_-_PK"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Pakistan_\u2013_PK"
     },
     "412": {
       "cc2": "AF",
@@ -2903,7 +2911,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Afghanistan_-_AF"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Afghanistan_\u2013_AF"
     },
     "413": {
       "cc2": "LK",
@@ -2920,7 +2928,7 @@
       ],
       "notes": "",
       "reg": "Telecommunications Regulatory Commission of Sri Lanka (TRCSL)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Sri_Lanka_-_LK"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Sri_Lanka_\u2013_LK"
     },
     "414": {
       "cc2": "MM",
@@ -2940,7 +2948,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Myanmar_-_MM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Myanmar_\u2013_MM"
     },
     "415": {
       "cc2": "LB",
@@ -2959,7 +2967,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Lebanon_-_LB"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Lebanon_\u2013_LB"
     },
     "416": {
       "cc2": "JO",
@@ -2971,7 +2979,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Jordan_-_JO"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Jordan_\u2013_JO"
     },
     "417": {
       "cc2": "SY",
@@ -2982,7 +2990,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Syria_-_SY"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Syria_\u2013_SY"
     },
     "418": {
       "cc2": "IQ",
@@ -3016,7 +3024,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Iraq_-_IQ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Iraq_\u2013_IQ"
     },
     "419": {
       "cc2": "KW",
@@ -3027,7 +3035,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kuwait_-_KW"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kuwait_\u2013_KW"
     },
     "420": {
       "cc2": "SA",
@@ -3043,7 +3051,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Saudi_Arabia_-_SA"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Saudi_Arabia_\u2013_SA"
     },
     "421": {
       "cc2": "YE",
@@ -3055,7 +3063,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Yemen_-_YE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Yemen_\u2013_YE"
     },
     "422": {
       "cc2": "OM",
@@ -3066,7 +3074,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Oman_-_OM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Oman_\u2013_OM"
     },
     "424": {
       "cc2": "AE",
@@ -3076,7 +3084,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#United_Arab_Emirates_-_AE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#United_Arab_Emirates_\u2013_AE"
     },
     "425": [
       {
@@ -3113,7 +3121,7 @@
         ],
         "notes": "",
         "reg": "",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Israel_-_IL"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Israel_\u2013_IL"
       },
       {
         "cc2": "PS",
@@ -3124,7 +3132,7 @@
         ],
         "notes": "Uses the MCC of Israel",
         "reg": "",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Palestine_-_PS"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Palestine_\u2013_PS"
       }
     ],
     "426": {
@@ -3138,7 +3146,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bahrain_-_BH"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bahrain_\u2013_BH"
     },
     "427": {
       "cc2": "QA",
@@ -3150,7 +3158,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Qatar_-_QA"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Qatar_\u2013_QA"
     },
     "428": {
       "cc2": "MN",
@@ -3163,7 +3171,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Mongolia_-_MN"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Mongolia_\u2013_MN"
     },
     "429": {
       "cc2": "NP",
@@ -3175,7 +3183,7 @@
       ],
       "notes": "",
       "reg": "Nepal Telecommunications Authority",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Nepal_-_NP"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Nepal_\u2013_NP"
     },
     "430": {
       "cc2": "AE",
@@ -3220,7 +3228,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Iran_-_IR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Iran_\u2013_IR"
     },
     "434": {
       "cc2": "UZ",
@@ -3237,7 +3245,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Uzbekistan_-_UZ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Uzbekistan_\u2013_UZ"
     },
     "436": {
       "cc2": "TJ",
@@ -3252,7 +3260,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Tajikistan_-_TJ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Tajikistan_\u2013_TJ"
     },
     "437": {
       "cc2": "KG",
@@ -3267,7 +3275,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kyrgyzstan_-_KG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Kyrgyzstan_\u2013_KG"
     },
     "438": {
       "cc2": "TM",
@@ -3278,7 +3286,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Turkmenistan_-_TM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Turkmenistan_\u2013_TM"
     },
     "440": {
       "cc2": "JP",
@@ -3384,7 +3392,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Japan_-_JP"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Japan_\u2013_JP"
     },
     "441": {
       "cc2": "JP",
@@ -3434,7 +3442,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#South_Korea_-_KR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#South_Korea_\u2013_KR"
     },
     "452": {
       "cc2": "VN",
@@ -3451,7 +3459,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Vietnam_-_VN"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Vietnam_\u2013_VN"
     },
     "454": {
       "cc2": "HK",
@@ -3495,7 +3503,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Hong_Kong_-_HK"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Hong_Kong_\u2013_HK"
     },
     "455": {
       "cc2": "MO",
@@ -3511,7 +3519,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Macau_(People's_Republic_of_China)_-_MO"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Macau_(People's_Republic_of_China)_\u2013_MO"
     },
     "456": {
       "cc2": "KH",
@@ -3529,7 +3537,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Cambodia_-_KH"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Cambodia_\u2013_KH"
     },
     "457": {
       "cc2": "LA",
@@ -3541,7 +3549,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Laos_-_LA"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Laos_\u2013_LA"
     },
     "460": {
       "cc2": "CN",
@@ -3561,7 +3569,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#China_-_CN"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#China_\u2013_CN"
     },
     "461": {
       "cc2": "CN",
@@ -3595,7 +3603,7 @@
       ],
       "notes": "",
       "reg": "National Communications Commission (NCC)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Taiwan_-_TW"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Taiwan_\u2013_TW"
     },
     "467": {
       "cc2": "KP",
@@ -3606,7 +3614,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#North_Korea_-_KP"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#North_Korea_\u2013_KP"
     },
     "470": {
       "cc2": "BD",
@@ -3623,7 +3631,7 @@
       ],
       "notes": "",
       "reg": "Bangladesh Telecommunication Regulatory Commission",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bangladesh_-_BD"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Bangladesh_\u2013_BD"
     },
     "472": {
       "cc2": "MV",
@@ -3633,7 +3641,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Maldives_-_MV"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)#Maldives_\u2013_MV"
     },
     "502": {
       "cc2": "MY",
@@ -3660,7 +3668,7 @@
       ],
       "notes": "",
       "reg": "Malaysian Communications and Multimedia Commission / Suruhanjaya Komunikasi dan Multimedia Malaysia (SKMM)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Malaysia_-_MY"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Malaysia_\u2013_MY"
     },
     "505": [
       {
@@ -3725,7 +3733,7 @@
         ],
         "notes": "",
         "reg": "",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Australia_-_AU"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Australia_\u2013_AU"
       },
       {
         "cc2": "NF",
@@ -3734,7 +3742,7 @@
         ],
         "notes": "",
         "reg": "",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Norfolk_Island_-_NF"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Norfolk_Island_\u2013_NF"
       }
     ],
     "510": {
@@ -3759,7 +3767,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Indonesia_-_ID"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Indonesia_\u2013_ID"
     },
     "514": {
       "cc2": "TL",
@@ -3770,7 +3778,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#East_Timor_-_TL"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#East_Timor_\u2013_TL"
     },
     "515": {
       "cc2": "PH",
@@ -3787,7 +3795,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Philippines_-_PH"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Philippines_\u2013_PH"
     },
     "520": {
       "cc2": "TH",
@@ -3810,7 +3818,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Thailand_-_TH"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Thailand_\u2013_TH"
     },
     "525": {
       "cc2": "SG",
@@ -3829,7 +3837,7 @@
       ],
       "notes": "",
       "reg": "Info-communications Media Development Authority (IMDA)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Singapore_-_SG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Singapore_\u2013_SG"
     },
     "528": {
       "cc2": "BN",
@@ -3841,7 +3849,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Brunei_-_BN"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Brunei_\u2013_BN"
     },
     "530": {
       "cc2": "NZ",
@@ -3859,7 +3867,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#New_Zealand_-_NZ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#New_Zealand_\u2013_NZ"
     },
     "536": {
       "cc2": "NR",
@@ -3869,7 +3877,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Nauru_-_NR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Nauru_\u2013_NR"
     },
     "537": {
       "cc2": "PG",
@@ -3880,7 +3888,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Papua_New_Guinea_-_PG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Papua_New_Guinea_\u2013_PG"
     },
     "539": {
       "cc2": "TO",
@@ -3891,7 +3899,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tonga_-_TK"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tonga_\u2013_TO"
     },
     "540": {
       "cc2": "SB",
@@ -3902,7 +3910,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Solomon_Islands_-_SB"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Solomon_Islands_\u2013_SB"
     },
     "541": {
       "cc2": "VU",
@@ -3914,7 +3922,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Vanuatu_-_VU"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Vanuatu_\u2013_VU"
     },
     "542": {
       "cc2": "FJ",
@@ -3925,7 +3933,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Fiji_-_FJ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Fiji_\u2013_FJ"
     },
     "543": {
       "cc2": "WF",
@@ -3934,7 +3942,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Wallis_and_Futuna_-_WF"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Wallis_and_Futuna_\u2013_WF"
     },
     "544": {
       "cc2": "AS",
@@ -3944,7 +3952,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#American_Samoa_(United_States_of_America)_-_AS"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#American_Samoa_(United_States_of_America)_\u2013_AS"
     },
     "545": {
       "cc2": "KI",
@@ -3955,7 +3963,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Kiribati_-_KI"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Kiribati_\u2013_KI"
     },
     "546": {
       "cc2": "NC",
@@ -3964,7 +3972,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#New_Caledonia_-_NC"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#New_Caledonia_(France)_\u2013_NC"
     },
     "547": {
       "cc2": "PF",
@@ -3976,7 +3984,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#French_Polynesia_(France)_-_PF"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#French_Polynesia_(France)_\u2013_PF"
     },
     "548": {
       "cc2": "CK",
@@ -3985,7 +3993,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Cook_Islands_(Pacific_Ocean)_-_CK"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Cook_Islands_(Pacific_Ocean)_\u2013_CK"
     },
     "549": {
       "cc2": "WS",
@@ -3996,7 +4004,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Samoa_-_WS"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Samoa_\u2013_WS"
     },
     "550": {
       "cc2": "FM",
@@ -4005,7 +4013,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Federated_States_of_Micronesia_-_FM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Federated_States_of_Micronesia_\u2013_FM"
     },
     "551": {
       "cc2": "MH",
@@ -4014,7 +4022,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Marshall_Islands_-_MH"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Marshall_Islands_\u2013_MH"
     },
     "552": {
       "cc2": "PW",
@@ -4026,7 +4034,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Palau_-_PW"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Palau_\u2013_PW"
     },
     "553": {
       "cc2": "TV",
@@ -4035,7 +4043,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tuvalu_-_TV"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tuvalu_\u2013_TV"
     },
     "554": {
       "cc2": "TK",
@@ -4044,7 +4052,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tokelau_-_TK"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Tokelau_\u2013_TK"
     },
     "555": {
       "cc2": "NU",
@@ -4053,7 +4061,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Niue_-_NU"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Niue_\u2013_NU"
     },
     "602": {
       "cc2": "EG",
@@ -4065,7 +4073,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Egypt_-_EG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Egypt_\u2013_EG"
     },
     "603": {
       "cc2": "DZ",
@@ -4079,7 +4087,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Algeria_-_DZ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Algeria_\u2013_DZ"
     },
     "604": {
       "cc2": "MA",
@@ -4094,7 +4102,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Morocco_-_MA"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Morocco_\u2013_MA"
     },
     "605": {
       "cc2": "TN",
@@ -4105,7 +4113,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Tunisia_-_TN"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Tunisia_\u2013_TN"
     },
     "606": {
       "cc2": "LY",
@@ -4118,7 +4126,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Libya_-_LY"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Libya_\u2013_LY"
     },
     "607": {
       "cc2": "GM",
@@ -4132,7 +4140,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Gambia_-_GM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Gambia_\u2013_GM"
     },
     "608": {
       "cc2": "SN",
@@ -4144,7 +4152,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Senegal_-_SN"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Senegal_\u2013_SN"
     },
     "609": {
       "cc2": "MR",
@@ -4155,7 +4163,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mauritania_-_MR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mauritania_\u2013_MR"
     },
     "610": {
       "cc2": "ML",
@@ -4166,7 +4174,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mali_-_ML"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mali_\u2013_ML"
     },
     "611": {
       "cc2": "GN",
@@ -4179,7 +4187,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Guinea_-_GN"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Guinea_\u2013_GN"
     },
     "612": {
       "cc2": "CI",
@@ -4195,7 +4203,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ivory_Coast_-_CI"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ivory_Coast_\u2013_CI"
     },
     "613": {
       "cc2": "BF",
@@ -4206,7 +4214,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Burkina_Faso_-_BF"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Burkina_Faso_\u2013_BF"
     },
     "614": {
       "cc2": "NE",
@@ -4218,7 +4226,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Niger_-_NE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Niger_\u2013_NE"
     },
     "615": {
       "cc2": "TG",
@@ -4228,7 +4236,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Togo_-_TG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Togo_\u2013_TG"
     },
     "616": {
       "cc2": "BJ",
@@ -4242,7 +4250,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Benin_-_BJ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Benin_\u2013_BJ"
     },
     "617": {
       "cc2": "MU",
@@ -4254,7 +4262,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#MMauritius_-_MU"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mauritius_\u2013_MU"
     },
     "618": {
       "cc2": "LR",
@@ -4268,7 +4276,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Liberia_-_LR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Liberia_\u2013_LR"
     },
     "619": {
       "cc2": "SL",
@@ -4287,7 +4295,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sierra_Leone_-_SL"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sierra_Leone_\u2013_SL"
     },
     "620": {
       "cc2": "GH",
@@ -4312,7 +4320,7 @@
       ],
       "notes": "",
       "reg": "National Communications Authority (NCA)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ghana_-_GH"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ghana_\u2013_GH"
     },
     "621": {
       "cc2": "NG",
@@ -4337,7 +4345,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Nigeria_-_NG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Nigeria_\u2013_NG"
     },
     "622": {
       "cc2": "TD",
@@ -4350,7 +4358,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Chad_-_TD"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Chad_\u2013_TD"
     },
     "623": {
       "cc2": "CF",
@@ -4362,7 +4370,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Central_African_Republic_-_CF"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Central_African_Republic_\u2013_CF"
     },
     "624": {
       "cc2": "CM",
@@ -4374,7 +4382,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Cameroon_-_CM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Cameroon_\u2013_CM"
     },
     "625": {
       "cc2": "CV",
@@ -4384,7 +4392,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Cape_Verde_-_CV"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Cape_Verde_\u2013_CV"
     },
     "626": {
       "cc2": "ST",
@@ -4394,7 +4402,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sao_Tome_and_Principe_-_ST"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sao_Tome_and_Principe_\u2013_ST"
     },
     "627": {
       "cc2": "GQ",
@@ -4404,7 +4412,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Equatorial_Guinea_-_GQ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Equatorial_Guinea_\u2013_GQ"
     },
     "628": {
       "cc2": "GA",
@@ -4417,7 +4425,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Gabon_-_GA"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Gabon_\u2013_GA"
     },
     "629": {
       "cc2": "CG",
@@ -4429,7 +4437,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Congo_-_CG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Congo_\u2013_CG"
     },
     "630": {
       "cc2": "CD",
@@ -4444,7 +4452,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Democratic_Republic_of_the_Congo_-_CD"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Democratic_Republic_of_the_Congo_\u2013_CD"
     },
     "631": {
       "cc2": "AO",
@@ -4455,7 +4463,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Angola_-_AO"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Angola_\u2013_AO"
     },
     "632": {
       "cc2": "GW",
@@ -4467,7 +4475,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Guinea-Bissau_-_GW"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Guinea-Bissau_\u2013_GW"
     },
     "633": {
       "cc2": "SC",
@@ -4479,7 +4487,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Seychelles_-_SC"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Seychelles_\u2013_SC"
     },
     "634": {
       "cc2": "SD",
@@ -4499,7 +4507,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sudan_-_SD"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sudan_\u2013_SD"
     },
     "635": {
       "cc2": "RW",
@@ -4513,7 +4521,7 @@
       ],
       "notes": "",
       "reg": "Rwanda Utilities Regulatory Agency (RURA) / Agence Rwandaise de R\u00e9gulation",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Rwanda_-_RW"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Rwanda_\u2013_RW"
     },
     "636": {
       "cc2": "ET",
@@ -4522,7 +4530,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ethiopia_-_ET"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Ethiopia_\u2013_ET"
     },
     "637": {
       "cc2": "SO",
@@ -4544,7 +4552,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Somalia_-_SO"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Somalia_\u2013_SO"
     },
     "638": {
       "cc2": "DJ",
@@ -4553,7 +4561,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Djibouti_-_DJ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Djibouti_\u2013_DJ"
     },
     "639": {
       "cc2": "KE",
@@ -4572,7 +4580,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Kenya_-_KE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Kenya_\u2013_KE"
     },
     "640": {
       "cc2": "TZ",
@@ -4593,7 +4601,7 @@
       ],
       "notes": "",
       "reg": "Tanzania Communications Regulatory Authority (TCRA)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Tanzania_-_TZ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Tanzania_\u2013_TZ"
     },
     "641": {
       "cc2": "UG",
@@ -4617,7 +4625,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Uganda_-_UG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Uganda_\u2013_UG"
     },
     "642": {
       "cc2": "BI",
@@ -4631,7 +4639,7 @@
       ],
       "notes": "",
       "reg": "L\u2019Agence de R\u00e9gulation et de Contr\u00f4le des T\u00e9l\u00e9communications (ARCT)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Burundi_-_BI"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Burundi_\u2013_BI"
     },
     "643": {
       "cc2": "MZ",
@@ -4642,7 +4650,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mozambique_-_MZ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Mozambique_\u2013_MZ"
     },
     "645": {
       "cc2": "ZM",
@@ -4653,7 +4661,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Zambia_-_ZM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Zambia_\u2013_ZM"
     },
     "646": {
       "cc2": "MG",
@@ -4666,7 +4674,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Madagascar_-_MG"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Madagascar_\u2013_MG"
     },
     "647": [
       {
@@ -4681,7 +4689,7 @@
         ],
         "notes": "",
         "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#French_Indian_Ocean_Territories_(France)_-_YT/RE"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#French_Indian_Ocean_Territories_(France)_\u2013_YT/RE"
       },
       {
         "cc2": "YT",
@@ -4695,7 +4703,7 @@
         ],
         "notes": "",
         "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#French_Indian_Ocean_Territories_(France)_-_YT/RE"
+        "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#French_Indian_Ocean_Territories_(France)_\u2013_YT/RE"
       }
     ],
     "648": {
@@ -4707,7 +4715,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Zimbabwe_-_ZW"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Zimbabwe_\u2013_ZW"
     },
     "649": {
       "cc2": "NA",
@@ -4722,7 +4730,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Namibia_-_NA"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Namibia_\u2013_NA"
     },
     "650": {
       "cc2": "MW",
@@ -4733,7 +4741,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Malawi_-_MW"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Malawi_\u2013_MW"
     },
     "651": {
       "cc2": "LS",
@@ -4744,7 +4752,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Lesotho_-_LS"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Lesotho_\u2013_LS"
     },
     "652": {
       "cc2": "BW",
@@ -4756,7 +4764,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Botswana_-_BW"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Botswana_\u2013_BW"
     },
     "653": {
       "cc2": "SZ",
@@ -4767,7 +4775,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Swaziland_-_SZ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Swaziland_\u2013_SZ"
     },
     "654": {
       "cc2": "KM",
@@ -4777,7 +4785,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Comoros_-_KM"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Comoros_\u2013_KM"
     },
     "655": {
       "cc2": "ZA",
@@ -4821,7 +4829,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#South_Africa_-_ZA"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#South_Africa_\u2013_ZA"
     },
     "657": {
       "cc2": "ER",
@@ -4830,7 +4838,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Eritrea_-_ER"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Eritrea_\u2013_ER"
     },
     "658": {
       "cc2": "SH",
@@ -4839,7 +4847,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Saint_Helena,_Ascension_and_Tristan_da_Cunha_-_SH"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Saint_Helena,_Ascension_and_Tristan_da_Cunha_\u2013_SH"
     },
     "659": {
       "cc2": "SS",
@@ -4858,7 +4866,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#South_Sudan_-_SS"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#South_Sudan_\u2013_SS"
     },
     "702": {
       "cc2": "BZ",
@@ -4870,7 +4878,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Belize_-_BZ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Belize_\u2013_BZ"
     },
     "704": {
       "cc2": "GT",
@@ -4881,7 +4889,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Guatemala_-_GT"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Guatemala_\u2013_GT"
     },
     "706": {
       "cc2": "SV",
@@ -4894,7 +4902,7 @@
       ],
       "notes": "",
       "reg": "Superintendencia General de Electricidad y Telecomunicaciones (SIGET)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#El_Salvador_-_SV"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#El_Salvador_\u2013_SV"
     },
     "708": {
       "cc2": "HN",
@@ -4908,7 +4916,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Honduras_-_HN"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Honduras_\u2013_HN"
     },
     "710": {
       "cc2": "NI",
@@ -4919,7 +4927,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Nicaragua_-_NI"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Nicaragua_\u2013_NI"
     },
     "712": {
       "cc2": "CR",
@@ -4932,7 +4940,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Costa_Rica_-_CR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Costa_Rica_\u2013_CR"
     },
     "714": {
       "cc2": "PA",
@@ -4945,7 +4953,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Panama_-_PA"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Panama_\u2013_PA"
     },
     "716": {
       "cc2": "PE",
@@ -4961,7 +4969,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Peru_-_PE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Peru_\u2013_PE"
     },
     "722": {
       "cc2": "AR",
@@ -4981,7 +4989,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Argentina_-_AR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Argentina_\u2013_AR"
     },
     "724": {
       "cc2": "BR",
@@ -5021,7 +5029,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Brazil_-_BR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Brazil_\u2013_BR"
     },
     "730": {
       "cc2": "CL",
@@ -5056,7 +5064,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Chile_-_CL"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Chile_\u2013_CL"
     },
     "732": {
       "cc2": "CO",
@@ -5088,7 +5096,7 @@
       ],
       "notes": "",
       "reg": "Comisi\u00f3n de Regulaci\u00f3n de Comunicaciones (CRC)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Colombia_-_CO"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Colombia_\u2013_CO"
     },
     "734": {
       "cc2": "VE",
@@ -5101,7 +5109,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Venezuela_-_VE"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Venezuela_\u2013_VE"
     },
     "736": {
       "cc2": "BO",
@@ -5112,7 +5120,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Bolivia_-_BO"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Bolivia_\u2013_BO"
     },
     "738": {
       "cc2": "GY",
@@ -5125,7 +5133,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Guyana_-_GY"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Guyana_\u2013_GY"
     },
     "740": {
       "cc2": "EC",
@@ -5137,14 +5145,16 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Ecuador_-_EC"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Ecuador_\u2013_EC"
     },
     "742": {
       "cc2": "GF",
-      "mncs": [],
-      "notes": "French Guinana shares MCC 340 instead of using the assigned MCC 742",
+      "mncs": [
+        "74204"
+      ],
+      "notes": "French Guinana shares MCC 340 in addition to using the assigned MCC 742",
       "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_-_BL/GF/GP/MF/MQ"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#French_Guiana_(France)_\u2013_GF"
     },
     "744": {
       "cc2": "PY",
@@ -5158,7 +5168,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Paraguay_-_PY"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Paraguay_\u2013_PY"
     },
     "746": {
       "cc2": "SR",
@@ -5171,7 +5181,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Suriname_-_SR"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Suriname_\u2013_SR"
     },
     "748": {
       "cc2": "UY",
@@ -5184,7 +5194,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Uruguay_-_UY"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Uruguay_\u2013_UY"
     },
     "750": {
       "cc2": "FK",
@@ -5193,7 +5203,7 @@
       ],
       "notes": "",
       "reg": "",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Falkland_Islands_(United_Kingdom)_-_FK"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#Falkland_Islands_(United_Kingdom)_\u2013_FK"
     },
     "901": {
       "cc2": null,
@@ -5302,7 +5312,7 @@
       ],
       "notes": "MCC is not listed by ITU",
       "reg": "",
-      "url": "https://en.wikipedia.org#British_Indian_Ocean_Territory_(United_Kingdom)_-_IO"
+      "url": "https://en.wikipedia.org#British_Indian_Ocean_Territory_(United_Kingdom)_\u2013_IO"
     },
     "999": {
       "cc2": null,
