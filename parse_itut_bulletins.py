@@ -154,12 +154,12 @@ The following script extract this list from both bulletins.
 """
 
 # to extract the list
-RE_LIST_BEG     = re.compile(
+RE_MNC_LIST_BEG     = re.compile(
     '\nMobile Network Codes \(MNC\) under geographic Mobile Country Codes \(MCC\)\n',
     re.IGNORECASE
     )
 
-RE_LIST_END     = re.compile(
+RE_MNC_LIST_END     = re.compile(
     '(\n____________\n\*       MCC: Mobile Country Code /)|'\
     '(\nShared Mobile Country Codes \(MCC\) for networks and their respective Mobile Network\nCodes \(MNC\)\n)',
     re.IGNORECASE
@@ -171,8 +171,8 @@ def parse_mnc_list(fn=PATH_PRE+'T-SP-OB.1162-2018-OAS-PDF-E.txt', dbg=False):
         txt = fd.read()
         #
         # keep only the list of MCC-MNC
-        beg = RE_LIST_BEG.search(txt)
-        end = RE_LIST_END.search(txt)
+        beg = RE_MNC_LIST_BEG.search(txt)
+        end = RE_MNC_LIST_END.search(txt)
         if not beg or not end:
             print('> no MNC list found')
             return None
@@ -185,7 +185,7 @@ def parse_mnc_list(fn=PATH_PRE+'T-SP-OB.1162-2018-OAS-PDF-E.txt', dbg=False):
 
 # Some table titles and a comment on Kosovo need to be stripped properly
 
-RE_LINE_IGNORE  = re.compile(
+RE_MNC_LINE_IGNORE  = re.compile(
     '(Country or)|'\
     '(Geographical Area\s{1,}Networks\s{1,}MCC \+ MNC codes)|'\
     '(\*This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo)|'\
@@ -247,7 +247,7 @@ def parse_mnc_lines(lines, dbg=True):
     cntr_mult = 0
     #
     for line in lines:
-        if RE_LINE_IGNORE.match(line):
+        if RE_MNC_LINE_IGNORE.match(line):
             continue
         #
         if dbg:
@@ -348,7 +348,143 @@ def _parse_mnc_line(line, mnos, mno, mnc):
 
 
 #------------------------------------------------------------------------------#
-# parse MNC list
+# parse SPC list
+#------------------------------------------------------------------------------#
+
+"""
+Bulletin 1199 (2020) contains both the complete list of updated Signaling Point
+Codes per country.
+The following script extract this list the bulletin. 
+"""
+
+# to extract the list
+RE_SPC_LIST_BEG     = re.compile(
+    '\n\s{1,}List of International Signalling Point Codes \(ISPC\) for signalling system No\. 7'\
+    '\n\s{1,}\(According to Recommendation ITU-T Q\.708 \(03/99\)\)\n',
+    re.IGNORECASE
+    )
+
+
+RE_SPC_LIST_END     = re.compile(
+    '\n____________\nISPC:\s{1,}International Signalling Point Codes\.\n',
+    re.IGNORECASE
+    )
+
+
+def parse_spc_list(fn=PATH_PRE+'T-SP-OB.1199-2020-OAS-PDF-E.txt', dbg=False):
+    with open(fn) as fd:
+        txt = fd.read()
+        #
+        # keep only the list of SPC
+        beg = RE_SPC_LIST_BEG.search(txt)
+        if not beg:
+            print('> no SPC list found, beg')
+            return None
+        txt = txt[beg.end():].strip()
+        end = RE_SPC_LIST_END.search(txt)
+        if not end:
+            print('> no SPC list found, end')
+            return None
+        txt = txt[:end.start()].strip()
+        #
+        return parse_spc_lines([l[1:].rstrip() for l in txt.split('\n') if l.strip()], dbg)
+    #
+    return None
+
+
+# Some table titles need to be stripped properly
+
+RE_SPC_LINE_IGNORE  = re.compile(
+    '(\s{0,}Country/)|'\
+    '(\s{0,}Geographical Area)|'\
+    '(\s{0,}ISPC\s{1,}DEC\s{1,}Unique name of the signalling point\s{1,}Name of the signalling point operator)|'\
+    '(\s{0,}This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo)|'\
+    '(declaration of independence.)$',
+    re.IGNORECASE
+    )
+
+# Country declaration:
+#
+# Country names are always on a single line
+
+# SPC declaration:
+#    ISPC DEC name_spc name_ope
+#
+# name_spc or name_ope may be splitted on multiple lines
+
+RE_ISPC         = re.compile('[0-9]\-[0-9]{3}\-[0-9]')
+
+
+def parse_spc_lines(lines, dbg=True):
+    R       = {}
+    cntr    = ''
+    spcs    = []
+    #
+    for line in lines:
+        if RE_SPC_LINE_IGNORE.match(line):
+            continue
+        #
+        if dbg:
+            print(line)
+        #
+        m = RE_COUNTRY.match(line)
+        if m and not line[0:1].isdigit():
+            # country name
+            if cntr and spcs:
+                R[cntr] = spcs
+                cntr = ''
+                spcs = []
+            #
+            cntr = m.group()
+            continue
+        #
+        m = RE_ISPC.match(line)
+        if m:
+            # SPC
+            spc  = m.group()
+            line = line[m.end():].lstrip()
+            m    = re.match('[1-9]{1}[0-9]{0,}', line)
+            assert(m)
+            dec  = m.group()
+            line = line[m.end():]
+            if line.startswith(12 * ' '):
+                # no SPC_name
+                name_spc = ''
+                name_ope = line.strip()
+            else:
+                name_spc, name_ope = map(str.strip, re.split('\s{2,}', line.strip()))
+                if name_spc in ('\u2026', ):
+                    name_spc = ''
+            spcs.append([spc, dec, name_spc, name_ope])
+            continue
+        #
+        if line.startswith(65 * ' '):
+            # name_ope continuation
+            assert(spcs)
+            line = line.lstrip()
+            spcs[-1][3] += ' %s' % line.rstrip()
+            continue
+        #
+        if line.startswith(20 * ' '):
+            # name_spc continuation
+            assert(spcs)
+            line = line.lstrip()
+            if '  ' in line:
+                name_spc, name_ope = map(str.strip, re.split('\s{2,}', line.strip()))
+                spcs[-1][2] += ' %s' % name_spc
+                spcs[-1][3] += ' %s' % name_ope
+            else:
+                spcs[-1][2] += ' %s' % line.rstrip()
+            continue
+        
+        assert()
+    #
+    R[cntr] = spcs
+    return R
+
+
+#------------------------------------------------------------------------------#
+# main
 #------------------------------------------------------------------------------#
 
 URL_LICENSE_ITUT = 'https://www.itu.int/pub/T-SP'
@@ -356,10 +492,10 @@ URL_LICENSE_ITUT = 'https://www.itu.int/pub/T-SP'
 
 def main():
     parser = argparse.ArgumentParser(description=
-        'download ITU-T operational bulletins, convert them to text, extract lists of MNC')
+        'download ITU-T operational bulletins, convert them to text, extract lists of MNC and SPC')
     parser.add_argument('-d', action='store_true', help='download and convert all ITU-T bulletins, starting from the 1111')
-    parser.add_argument('-j', action='store_true', help='produce a JSON file listing all MNC (with suffix .json)')
-    parser.add_argument('-p', action='store_true', help='produce a Python file listing all MNC (with suffix .py)')
+    parser.add_argument('-j', action='store_true', help='produce a JSON file listing all MNC and SPC (with suffix .json)')
+    parser.add_argument('-p', action='store_true', help='produce a Python file listing all MNC and SPC (with suffix .py)')
     args = parser.parse_args()
     #
     if args.d:
@@ -375,13 +511,20 @@ def main():
     except Exception as err:
         print('> error occured during MNC extraction: %s' % err)
         return 1
+    try:
+        SPC_1199 = parse_spc_list(PATH_PRE + 'T-SP-OB.1199-2020-OAS-PDF-E.txt', dbg=False)
+    except Exception as err:
+        print('> error occured during SPC extraction: %s' % err)
+        return 1
     #
     if args.j:
         generate_json(MNC_1111, PATH_RAW + 'itut_mnc_1111.json', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
         generate_json(MNC_1162, PATH_RAW + 'itut_mnc_1162.json', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
+        generate_json(SPC_1199, PATH_RAW + 'itut_spc_1199.json', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
     if args.p:
         generate_python(MNC_1111, PATH_RAW + 'itut_mnc_1111.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
         generate_python(MNC_1162, PATH_RAW + 'itut_mnc_1162.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
+        generate_python(SPC_1199, PATH_RAW + 'itut_spc_1199.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
     return 0
 
 

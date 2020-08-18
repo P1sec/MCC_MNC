@@ -19,6 +19,7 @@ __all__ = [
     # ITU-T MNC lists
     'ITUT_MNC_1111',
     'ITUT_MNC_1162',
+    'ITUT_SPC_1199',
     # Custom structures
     'WFB_UNINHABITED',
     'COUNTRY_SPEC',
@@ -68,6 +69,7 @@ except ImportError:
 try:
     from raw.itut_mnc_1111      import ITUT_MNC_1111
     from raw.itut_mnc_1162      import ITUT_MNC_1162
+    from raw.itut_spc_1199      import ITUT_SPC_1199
 except ImportError:
     raise(Exception('error: please run first ./parse_itut_bulletins.py'))
 
@@ -1233,4 +1235,18 @@ def patch_itut_mnc(mncs):
 
 patch_itut_mnc(ITUT_MNC_1111)
 patch_itut_mnc(ITUT_MNC_1162)
+
+
+def patch_itut_spc(spclist):
+    print('[+] patch ITU-T list of SPC: %r' % id(spclist))
+    #
+    isonameset  = set([r['country_name'] for r in WIKIP_ISO3166.values()])
+    for cntr, spcs in spclist.items():
+        if cntr not in isonameset:
+            newname = _patch_country_name(cntr)
+            if newname:
+                del spclist[cntr]
+                spclist[newname] = spcs
+
+patch_itut_spc(ITUT_SPC_1199)
 

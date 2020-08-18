@@ -3,7 +3,7 @@
 Scrap available information on the Internet related to:
 - mobile network operators (such as MCC, MNC, brand, network type, countries of operation...)
 - countries (such as country name, 2 and 3-chars ISO codes, sovereignity, tld...)
-- international dialplan (such as msisdn prefix and associated countries)
+- international dialplan (such as msisdn prefix and associated countries, signaling point codes...)
 
 
 And generate re-engineered JSON and Python dictionnaries from them.
@@ -28,6 +28,7 @@ Several sources are available on the Internet:
 - ITU-T documents:
   - List of MCC: https://www.itu.int/pub/T-SP-E.212A
   - List of MNC: https://www.itu.int/pub/T-SP-E.212B
+  - Operational bulletins: https://www.itu.int/pub/T-SP-OB
 - Wikipedia:
   - List of MCC: https://en.wikipedia.org/wiki/Mobile_country_code
   - List of MNC: international networks listed in the MCC page, and 6 pages linked from there, one per world region
@@ -89,19 +90,22 @@ One of the script can be used to download all bulletins in PDF (starting from 11
 and convert them into text, using the Linux command ```pdftotext```. All resulting
 documents are available in the *itut/* directory.
 
-Bulletin 1111 from 2016 and 1162 from 2018 contains a full list of declared MCC-MNC.
+Bulletins 1111 from 2016 and 1162 from 2018 contain a full list of declared MCC-MNC. 
+Bulletin 1199 contains a full list of declared international signaling point codes.
 The script extract them and put resulting JSON and Python files into the *raw/* directory
 for further integration.
 
 
-### Which one to use:
+### Which ones to use:
 
 After checking several sources, it seems Wikipedia has the most complete, up-to-date and accurate information.
 Therefore, the tool primarily uses it to build the JSON / Python dictionnaries.
-It uses also the CIA World Factbook to gather information related to each country, including borders and telephony-related,
-and the csv listing from the txtNation website to complete the list of MCC-MNC from Wikipedia.
-Finally, the code and data provided on the _egallic_ blogpost is valuable for dealing with close countries which
-do not share any borders.
+Information related to MCC-MNC is completed with the csv listing from the txtNation website 
+and the two ITU-T operational bulletins 1111 and 1162.
+The list of Signaling Point Codes is extracted from ITU-T bulleting 1199.
+Geographical information are taken from the CIA World Factbook to gather information related to each country,
+including borders and telephony-related.
+This is completed with the data provided on the _egallic_ blogpost for getting close countries in addition to neighbours one.
 
 
 ## Install and usage
@@ -110,8 +114,8 @@ The provided scripts require Python3, and lxml for the ones extracting data from
 web sites (parse_wikipedia_tables.py and parse_worldfactbook_infos.py).
 No installation is required, just run the scripts as is.
 
-The Wikipedia, World Factbook and both Egallic and txtNation data can be imported 
-by using the following commands:
+The Wikipedia, World Factbook, Egallic and txtNation data, and ITU-T bulletings 
+can be imported and processed by using the following commands:
 
 ```
 $ ./parse_wikipedia_tables.py --help
@@ -135,8 +139,6 @@ Python file
 [...]
 ```
 
-and
-
 ```
 $ ./parse_various_csv.py --help
 usage: parse_various_csv.py [-h] [-j] [-p]
@@ -146,11 +148,23 @@ txtNation website (list of MCC-MNC)
 [...]
 ```
 
+and
+
+```
+$ ./parse_itut_bulletins.py --help
+usage: parse_itut_bulletins.py [-h] [-d] [-j] [-p]
+
+download ITU-T operational bulletins, convert them to text, extract lists of
+MNC and SPC
+
+```
+
+
 
 Then, in order to load all those imported data with aligned and coherent values 
 (e.g. country names, ISO codes and other information and numbering), the module
-*patch_dataset* can be used. It exports the Wikipedia, World Factbook, Egallic
-and txtNation dataset, after applying few corrections and fixes on them:
+*patch_dataset* can be used. It exports the Wikipedia, World Factbook, Egallic, 
+txtNation and ITU-T datasets, after applying few corrections and fixes on them:
 
 ```
 >>> from patch_dataset import *
@@ -189,9 +203,9 @@ $ ./gen_dataset.py
 
 ```
 
-The following one-liner can be used to update the whole final dataset:
+The following one-liner can be used to update the whole final dataset (without downloading ITU-T bulletins):
 ```
-$ ./parse_wikipedia_tables.py -j -p && ./parse_worldfactbook_infos.py -j -p && ./parse_various_csv.py -j -p && ./gen_dataset.py
+$ ./parse_wikipedia_tables.py -j -p && ./parse_worldfactbook_infos.py -j -p && ./parse_various_csv.py -j -p && ./parse_itut_bulletins.py -j -p && ./gen_dataset.py
 ```
 
 Now you can use those dictionnaries to get complete information for any MCC, MNC,
@@ -240,6 +254,7 @@ optional arguments:
   -h, --help  show this help message and exit
   -x          provides extended country-related information
 ```
+
 
 ## Directory structure
 

@@ -40,7 +40,9 @@ def name_match(n1, n2):
 # MNO dict
 #------------------------------------------------------------------------------#
 
-_BAND_ORDER = ['MVNO', 'GSM', 'CDMA', 'UMTS', 'LTE', 'TD-LTE', '5G']
+_BAND_ORDER     = ['MVNO', 'GSM', 'CDMA', 'UMTS', 'LTE', 'TD-LTE', '5G']
+_ITUT_CC2_ALIAS = ['UK', 'TW']
+
 
 def sort_bands(bands):
     r = []
@@ -132,7 +134,7 @@ def mnc_txtn(mccmnc, inf):
     mno = {
         'country'   : inf[0],
         'bands'     : '',       # no info on bands
-        'ope'       : False,     # consider the MNO as operational (?)
+        'ope'       : False,    # consider the MNO as operational (?)
         'src'       : 'txtNation',
         }
     #
@@ -174,6 +176,9 @@ def mnc_itut(cntr, mno, mccmnc):
     # get the CC2 code for the country
     found = False
     for cc2, cinf in WIKIP_ISO3166.items():
+        if cc2 in _ITUT_CC2_ALIAS:
+            # do not consider CC2 alias
+            continue
         if cntr.lower() in cinf['nameset']:
             found = True
             break
@@ -186,7 +191,7 @@ def mnc_itut(cntr, mno, mccmnc):
     return {
         'country'   : cntr,
         'bands'     : '',       # no info on bands
-        'ope'       : False,     # consider the MNO as operational (?)
+        'ope'       : False,    # consider the MNO as operational (?)
         'cc2s'      : cc2s,
         'operator'  : mno,
         'brand'     : '',
@@ -208,11 +213,15 @@ def gen_dict_mnc_compl():
                 # get the CC2 code for the country
                 found = False
                 for cc2, cinf in WIKIP_ISO3166.items():
+                    if cc2 in _ITUT_CC2_ALIAS:
+                        # do not consider CC2 alias
+                        continue
                     if cntr.lower() in cinf['nameset']:
                         found = True
                         break
                 if found:
                     if isinstance(MNC[mccmnc], list):
+                        # TODO
                         pass
                     else:
                         if cc2 not in MNC[mccmnc]['cc2s']:
@@ -369,6 +378,32 @@ def gen_dict_msisdn():
     return R, Rext
 
 MSISDN, MSISDNEXT = gen_dict_msisdn()
+
+
+#------------------------------------------------------------------------------#
+# SPC dict
+#------------------------------------------------------------------------------#
+
+def gen_dict_ispc():
+    """generates a dict of Internation Signaling Point Codes {SPC_383-num: SPC_infos}
+    """
+    print('[+] generate ISPC dict')
+    R_383, R_dec = {}, {}
+    #
+    for cntr, spcs in sorted(ITUT_SPC_1199.items()):
+        for spc_info in spcs:
+            if spc_info[0] in R_383:
+                print('> duplicated ISPC: %s' % spc_info[0])
+            else:
+                R_383[spc_info[0]] = [cntr, spc_info[3], spc_info[2], spc_info[1]]
+    return R_383
+    #        if spc[1] in R_dec:
+    #            print('> duplicated ISPC: %s' % spc[1])
+    #        else:
+    #            R_dec[spc[1]] = [cntr, spc[3], spc[2], spc[0]]
+    #return R_383, R_dec
+
+ISPC = gen_dict_ispc()
 
 
 #------------------------------------------------------------------------------#
@@ -666,7 +701,7 @@ complete_cc2()
 
 def main():
             
-    URL_SRC = 'data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation'
+    URL_SRC = 'data aggregated from Wikipedia, The World Factbook, ITU-T, Egallic blog and txtNation'
     URL_LIC = 'produced by P1 Security, based on openly available data'
 
     generate_json(MNC, PATH_PRE + 'p1_mnc.json', [URL_SRC], URL_LIC)
@@ -677,6 +712,8 @@ def main():
     generate_python(MSISDN, PATH_PRE + 'p1_msisdn.py', [URL_SRC], URL_LIC)
     generate_json(MSISDNEXT, PATH_PRE + 'p1_msisdnext.json', [URL_SRC], URL_LIC)
     generate_python(MSISDNEXT, PATH_PRE + 'p1_msisdnext.py', [URL_SRC], URL_LIC)
+    generate_json(ISPC, PATH_PRE + 'p1_ispc.json', [URL_SRC], URL_LIC)
+    generate_python(ISPC, PATH_PRE + 'p1_ispc.py', [URL_SRC], URL_LIC)
     generate_json(CC2, PATH_PRE + 'p1_cc2.json', [URL_SRC], URL_LIC)
     generate_python(CC2, PATH_PRE + 'p1_cc2.py', [URL_SRC], URL_LIC)
     generate_json(CNTR, PATH_PRE + 'p1_cntr.json', [URL_SRC], URL_LIC)
