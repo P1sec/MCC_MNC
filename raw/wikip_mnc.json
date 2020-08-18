@@ -392,7 +392,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700",
         "brand": "KPN",
         "codes_alpha_2": [
           "NL"
@@ -536,7 +536,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700",
         "brand": "T-Mobile (BEN)",
         "codes_alpha_2": [
           "NL"
@@ -608,7 +608,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700",
         "brand": "T-Mobile",
         "codes_alpha_2": [
           "NL"
@@ -1575,7 +1575,7 @@
         "country_url": "https://en.wikipedia.org/wiki/France",
         "mcc": "208",
         "mnc": "19",
-        "notes": "Former Altitude Infrastructure;[77][74] fixed wireless",
+        "notes": "Former Altitude Infrastructure;[78][75] fixed wireless",
         "operator": "Haute-Garonne num\u00e9rique",
         "status": "operational"
       },
@@ -1635,7 +1635,7 @@
         "country_url": "https://en.wikipedia.org/wiki/France",
         "mcc": "208",
         "mnc": "23",
-        "notes": "Former Omea Telecom (bought by SFR in 2014);[77][78] fixed wireless",
+        "notes": "Former Omea Telecom (bought by SFR in 2014);[78][79] fixed wireless",
         "operator": "Syndicat mixte ouvert Charente Num\u00e9rique",
         "status": "operational"
       },
@@ -2040,7 +2040,7 @@
         "country_url": "https://en.wikipedia.org/wiki/France",
         "mcc": "208",
         "mnc": "96",
-        "notes": "Former Axione;[77][74] fixed wireless",
+        "notes": "Former Axione;[78][75] fixed wireless",
         "operator": "R\u00e9gion Bourgogne-Franche-Comt\u00e9",
         "status": "operational"
       },
@@ -2130,7 +2130,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Spain",
         "mcc": "214",
         "mnc": "02",
-        "notes": "[134] Some MVNO use this MNC (Fibracat, Aircom, Anxanet, Netports)",
+        "notes": "[135] Some MVNO use this MNC (Fibracat, Aircom, Anxanet, Netports)",
         "operator": "Alta Tecnologia en Comunicacions SL",
         "status": "operational"
       },
@@ -4095,7 +4095,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Czech_Republic",
         "mcc": "230",
         "mnc": "01",
-        "notes": "former Paegas",
+        "notes": "Former Paegas",
         "operator": "T-Mobile Czech Republic",
         "status": "operational"
       },
@@ -4110,7 +4110,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Czech_Republic",
         "mcc": "230",
         "mnc": "02",
-        "notes": "former Eurotel;",
+        "notes": "Former Eurotel;",
         "operator": "O2 Czech Republic",
         "status": "operational"
       },
@@ -4125,7 +4125,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Czech_Republic",
         "mcc": "230",
         "mnc": "03",
-        "notes": "former Oskar",
+        "notes": "Former Oskar",
         "operator": "Vodafone Czech Republic",
         "status": "operational"
       },
@@ -4140,7 +4140,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Czech_Republic",
         "mcc": "230",
         "mnc": "04",
-        "notes": "former U:fon, Air Telecom;",
+        "notes": "Former U:fon, Air Telecom;",
         "operator": "Nordic Telecom s.r.o.",
         "status": "operational"
       },
@@ -4175,8 +4175,8 @@
         "status": "operational"
       },
       {
-        "bands": "MVNO",
-        "brand": "",
+        "bands": "Unknown",
+        "brand": "T-Mobile",
         "codes_alpha_2": [
           "CZ"
         ],
@@ -4185,8 +4185,8 @@
         "country_url": "https://en.wikipedia.org/wiki/Czech_Republic",
         "mcc": "230",
         "mnc": "07",
-        "notes": "MNC withdrawn",
-        "operator": "ASTELNET, s.r.o.",
+        "notes": "Former ASTELNET",
+        "operator": "T-Mobile Czech Republic",
         "status": "unknown"
       },
       {
@@ -9809,7 +9809,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600",
         "brand": "Vodafone",
         "codes_alpha_2": [
           "UA"
@@ -9824,7 +9824,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600",
         "brand": "Kyivstar",
         "codes_alpha_2": [
           "UA"
@@ -9839,7 +9839,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600",
         "brand": "Kyivstar",
         "codes_alpha_2": [
           "UA"
@@ -9884,7 +9884,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2600",
         "brand": "lifecell",
         "codes_alpha_2": [
           "UA"
@@ -10094,7 +10094,7 @@
         "status": "unknown"
       },
       {
-        "bands": "LTE 1800 / LTE 2600",
+        "bands": "LTE 800 / LTE 1800 / LTE 2600",
         "brand": "beCloud",
         "codes_alpha_2": [
           "BY"
@@ -10994,7 +10994,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / 5G 700 / 5G 3500",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / 5G 700 / 5G 1800 / 5G 3500",
         "brand": "Vodafone",
         "codes_alpha_2": [
           "DE"
@@ -13276,7 +13276,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2500",
         "brand": "Mobitel",
         "codes_alpha_2": [
           "SI"
@@ -13556,7 +13556,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Liechtenstein",
         "mcc": "295",
         "mnc": "77",
-        "notes": "Bankruptcy in February 2012,[131] former Tele2, MNC withdrawn",
+        "notes": "Bankruptcy in February 2012,[132] former Tele2, MNC withdrawn",
         "operator": "Alpcom AG",
         "status": "unknown"
       },
@@ -29112,7 +29112,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / 5G 3500",
         "brand": "Tcell",
         "codes_alpha_2": [
           "TJ"
@@ -29127,7 +29127,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / 5G 3500",
         "brand": "Tcell",
         "codes_alpha_2": [
           "TJ"
@@ -31302,7 +31302,7 @@
         "status": "unknown"
       },
       {
-        "bands": "LTE 900 / LTE 2600",
+        "bands": "LTE 900 / LTE 2600 / 5G 3500",
         "brand": "T Star",
         "codes_alpha_2": [
           "TW"
@@ -33044,7 +33044,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 850 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500",
+        "bands": "GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 / LTE 700 / LTE 850 / LTE 1800 / LTE 2100 / TD-LTE 2300 / TD-LTE 2500 / 5G 3500",
         "brand": "SMART",
         "codes_alpha_2": [
           "PH"
@@ -33659,7 +33659,7 @@
         "status": "unknown"
       },
       {
-        "bands": "UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / TD-LTE 2300 / LTE 2600 / 5G 2600",
+        "bands": "UMTS 850 / UMTS 2100 / LTE 700 / LTE 1800 / TD-LTE 2300 / LTE 2600 / 5G 2600 / 5G 3500",
         "brand": "Spark",
         "codes_alpha_2": [
           "NZ"
@@ -33809,7 +33809,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / LTE 1800",
+        "bands": "GSM 900 / LTE 700 / LTE 1800",
         "brand": "Digicel",
         "codes_alpha_2": [
           "TO"
@@ -33819,7 +33819,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Tonga",
         "mcc": "539",
         "mnc": "88",
-        "notes": "Former TonFon",
+        "notes": "Former TonFon; LTE bands 28 / 3",
         "operator": "Digicel (Tonga) Limited",
         "status": "operational"
       },
@@ -34801,7 +34801,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 1900 / UMTS 2100 / LTE 800 / LTE 1800",
+        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 1800 / UMTS 2100 / LTE 800 / LTE 1800",
         "brand": "Free",
         "codes_alpha_2": [
           "SN"
@@ -37331,7 +37331,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Tanzania",
         "mcc": "640",
         "mnc": "05",
-        "notes": "Former Celtel (Zain);[83][6] LTE band 28",
+        "notes": "Former Celtel (Zain);[84][6] LTE band 28",
         "operator": "Bharti Airtel",
         "status": "operational"
       },
@@ -38948,6 +38948,21 @@
         "notes": "",
         "operator": "Airports Company South Africa",
         "status": "unknown"
+      },
+      {
+        "bands": "WiMAX / 28000",
+        "brand": "",
+        "codes_alpha_2": [
+          "ZA"
+        ],
+        "country_name": "South Africa",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/South_Africa",
+        "mcc": "655",
+        "mnc": "76",
+        "notes": "",
+        "operator": "Comsol Networks (Pty) Ltd",
+        "status": "operational"
       },
       {
         "bands": "GSM 900",
@@ -41997,7 +42012,7 @@
       },
       {
         "bands": "Unknown",
-        "brand": "",
+        "brand": "Zain",
         "codes_alpha_2": [],
         "country_name": "International_operators",
         "country_sub": null,
@@ -42005,7 +42020,7 @@
         "mcc": "901",
         "mnc": "49",
         "notes": "",
-        "operator": "Zain Kuwait",
+        "operator": "Mobile Telecommunications Company K.S.C.P.",
         "status": "unknown"
       },
       {
@@ -42302,6 +42317,71 @@
         "country_sub": null,
         "country_url": "",
         "mcc": "901",
+        "mnc": "72",
+        "notes": "",
+        "operator": "Tele2 IoT",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [],
+        "country_name": "International_operators",
+        "country_sub": null,
+        "country_url": "",
+        "mcc": "901",
+        "mnc": "73",
+        "notes": "",
+        "operator": "Cubic Telecom Limited",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [],
+        "country_name": "International_operators",
+        "country_sub": null,
+        "country_url": "",
+        "mcc": "901",
+        "mnc": "74",
+        "notes": "",
+        "operator": "Etisalat",
+        "status": "unknown"
+      },
+      {
+        "bands": "MVNO",
+        "brand": "",
+        "codes_alpha_2": [],
+        "country_name": "International_operators",
+        "country_sub": null,
+        "country_url": "",
+        "mcc": "901",
+        "mnc": "75",
+        "notes": "IoT solutions",
+        "operator": "Podsystem Ltd.",
+        "status": "operational"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [],
+        "country_name": "International_operators",
+        "country_sub": null,
+        "country_url": "",
+        "mcc": "901",
+        "mnc": "76",
+        "notes": "",
+        "operator": "A1 Telekom Austria AG",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [],
+        "country_name": "International_operators",
+        "country_sub": null,
+        "country_url": "",
+        "mcc": "901",
         "mnc": "88",
         "notes": "",
         "operator": "UN Office for the Coordination of Humanitarian Affairs (OCHA)",
@@ -42319,32 +42399,6 @@
         "notes": "",
         "operator": "MulteFire Allicance",
         "status": "operational"
-      },
-      {
-        "bands": "Unknown",
-        "brand": "",
-        "codes_alpha_2": [],
-        "country_name": "International_operators",
-        "country_sub": null,
-        "country_url": "",
-        "mcc": "902",
-        "mnc": "72",
-        "notes": "",
-        "operator": "Tele2 IoT",
-        "status": "unknown"
-      },
-      {
-        "bands": "Unknown",
-        "brand": "",
-        "codes_alpha_2": [],
-        "country_name": "International_operators",
-        "country_sub": null,
-        "country_url": "",
-        "mcc": "902",
-        "mnc": "73",
-        "notes": "",
-        "operator": "Cubic Telecom Limited",
-        "status": "unknown"
       },
       {
         "bands": "Unknown",

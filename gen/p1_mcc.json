@@ -2,7 +2,7 @@
   {
     "license": "produced by P1 Security, based on openly available data",
     "source": [
-      "data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation"
+      "data aggregated from Wikipedia, The World Factbook, ITU-T, Egallic blog and txtNation"
     ]
   },
   {
@@ -4825,7 +4825,8 @@
         "65565",
         "65573",
         "65574",
-        "65575"
+        "65575",
+        "65576"
       ],
       "notes": "",
       "reg": "",
@@ -5279,6 +5280,11 @@
         "90169",
         "90170",
         "90171",
+        "90172",
+        "90173",
+        "90174",
+        "90175",
+        "90176",
         "90188"
       ],
       "notes": "international networks",
@@ -5288,9 +5294,7 @@
     "902": {
       "cc2": null,
       "mncs": [
-        "90201",
-        "90272",
-        "90273"
+        "90201"
       ],
       "notes": "international networks",
       "reg": "",

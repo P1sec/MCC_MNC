@@ -2,7 +2,7 @@
   {
     "license": "produced by P1 Security, based on openly available data",
     "source": [
-      "data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation"
+      "data aggregated from Wikipedia, The World Factbook, ITU-T, Egallic blog and txtNation"
     ]
   },
   {
@@ -357,7 +357,8 @@
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 700"
       ],
       "brand": "KPN",
       "cc2s": [
@@ -472,7 +473,8 @@
         "LTE 900",
         "LTE 1800",
         "LTE 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 700"
       ],
       "brand": "T-Mobile (BEN)",
       "cc2s": [
@@ -530,7 +532,8 @@
         "LTE 900",
         "LTE 1800",
         "LTE 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 700"
       ],
       "brand": "T-Mobile",
       "cc2s": [
@@ -3926,15 +3929,15 @@
     },
     "23007": {
       "bands": [
-        "MVNO"
+        "Unknown"
       ],
-      "brand": "",
+      "brand": "T-Mobile",
       "cc2s": [
         "CZ"
       ],
       "country": "Czech Republic",
       "ope": false,
-      "operator": "ASTELNET, s.r.o.",
+      "operator": "T-Mobile Czech Republic",
       "src": "Wikipedia"
     },
     "23008": {
@@ -9275,6 +9278,7 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 2100",
+        "LTE 900",
         "LTE 1800",
         "LTE 2600"
       ],
@@ -9292,6 +9296,7 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 2100",
+        "LTE 900",
         "LTE 1800",
         "LTE 2600"
       ],
@@ -9309,6 +9314,7 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 2100",
+        "LTE 900",
         "LTE 1800",
         "LTE 2600"
       ],
@@ -9350,7 +9356,6 @@
     "25506": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 2100",
         "LTE 1800",
         "LTE 2600"
@@ -9587,6 +9592,7 @@
     },
     "25706": {
       "bands": [
+        "LTE 800",
         "LTE 1800",
         "LTE 2600"
       ],
@@ -10433,6 +10439,7 @@
         "LTE 1800",
         "LTE 2600",
         "5G 700",
+        "5G 1800",
         "5G 3500"
       ],
       "brand": "Vodafone",
@@ -12653,7 +12660,8 @@
         "LTE 900",
         "LTE 1800",
         "LTE 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 2500"
       ],
       "brand": "Mobitel",
       "cc2s": [
@@ -26652,7 +26660,7 @@
       ],
       "country": "India",
       "ope": false,
-      "operator": "Delhi & NCR",
+      "operator": "Kolkata",
       "src": "txtNation"
     },
     "405926": {
@@ -29279,7 +29287,8 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 2100",
-        "LTE 800"
+        "LTE 800",
+        "5G 3500"
       ],
       "brand": "Tcell",
       "cc2s": [
@@ -29295,7 +29304,8 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 2100",
-        "LTE 800"
+        "LTE 800",
+        "5G 3500"
       ],
       "brand": "Tcell",
       "cc2s": [
@@ -32528,7 +32538,8 @@
     "46689": {
       "bands": [
         "LTE 900",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "T Star",
       "cc2s": [
@@ -34194,7 +34205,8 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2300",
-        "TD-LTE 2500"
+        "TD-LTE 2500",
+        "5G 3500"
       ],
       "brand": "SMART",
       "cc2s": [
@@ -34770,7 +34782,8 @@
         "LTE 1800",
         "LTE 2600",
         "TD-LTE 2300",
-        "5G 2600"
+        "5G 2600",
+        "5G 3500"
       ],
       "brand": "Spark",
       "cc2s": [
@@ -34936,6 +34949,7 @@
     "53988": {
       "bands": [
         "GSM 900",
+        "LTE 700",
         "LTE 1800"
       ],
       "brand": "Digicel",
@@ -35924,7 +35938,7 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 900",
-        "UMTS 1900",
+        "UMTS 1800",
         "UMTS 2100",
         "LTE 800",
         "LTE 1800"
@@ -40111,6 +40125,20 @@
       "operator": "Airports Company South Africa",
       "src": "Wikipedia"
     },
+    "65576": {
+      "bands": [
+        "WiMAX",
+        "28000"
+      ],
+      "brand": "",
+      "cc2s": [
+        "ZA"
+      ],
+      "country": "South Africa",
+      "ope": true,
+      "operator": "Comsol Networks (Pty) Ltd",
+      "src": "Wikipedia"
+    },
     "65701": {
       "bands": [
         "GSM 900"
@@ -43255,11 +43283,11 @@
       "bands": [
         "Unknown"
       ],
-      "brand": "",
+      "brand": "Zain",
       "cc2s": [],
       "country": "International_operators",
       "ope": false,
-      "operator": "Zain Kuwait",
+      "operator": "Mobile Telecommunications Company K.S.C.P.",
       "src": "Wikipedia"
     },
     "90150": {
@@ -43504,6 +43532,61 @@
       "operator": "Tampnet AS",
       "src": "Wikipedia"
     },
+    "90172": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": false,
+      "operator": "Tele2 IoT",
+      "src": "Wikipedia"
+    },
+    "90173": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": false,
+      "operator": "Cubic Telecom Limited",
+      "src": "Wikipedia"
+    },
+    "90174": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": false,
+      "operator": "Etisalat",
+      "src": "Wikipedia"
+    },
+    "90175": {
+      "bands": [
+        "MVNO"
+      ],
+      "brand": "",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": true,
+      "operator": "Podsystem Ltd.",
+      "src": "Wikipedia"
+    },
+    "90176": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": false,
+      "operator": "A1 Telekom Austria AG",
+      "src": "Wikipedia"
+    },
     "90188": {
       "bands": [
         "Unknown"
@@ -43524,28 +43607,6 @@
       "country": "International_operators",
       "ope": true,
       "operator": "MulteFire Allicance",
-      "src": "Wikipedia"
-    },
-    "90272": {
-      "bands": [
-        "Unknown"
-      ],
-      "brand": "",
-      "cc2s": [],
-      "country": "International_operators",
-      "ope": false,
-      "operator": "Tele2 IoT",
-      "src": "Wikipedia"
-    },
-    "90273": {
-      "bands": [
-        "Unknown"
-      ],
-      "brand": "",
-      "cc2s": [],
-      "country": "International_operators",
-      "ope": false,
-      "operator": "Cubic Telecom Limited",
       "src": "Wikipedia"
     },
     "99101": {

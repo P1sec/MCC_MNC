@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# source: data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation
+# source: data aggregated from Wikipedia, The World Factbook, ITU-T, Egallic blog and txtNation
 # license: produced by P1 Security, based on openly available data
 
 P1_MCC = \
@@ -3222,7 +3222,8 @@ P1_MCC = \
                      '65565',
                      '65573',
                      '65574',
-                     '65575'],
+                     '65575',
+                     '65576'],
            'notes': '',
            'reg': '',
            'url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#South_Africa_–_ZA'},
@@ -3509,11 +3510,16 @@ P1_MCC = \
                      '90169',
                      '90170',
                      '90171',
+                     '90172',
+                     '90173',
+                     '90174',
+                     '90175',
+                     '90176',
                      '90188'],
            'notes': 'international networks',
            'reg': '',
            'url': ''},
-  '902': {'cc2': None, 'mncs': ['90201', '90272', '90273'], 'notes': 'international networks', 'reg': '', 'url': ''},
+  '902': {'cc2': None, 'mncs': ['90201'], 'notes': 'international networks', 'reg': '', 'url': ''},
   '991': {'cc2': None, 'mncs': ['99101'], 'notes': 'international networks', 'reg': '', 'url': ''},
   '995': { 'cc2': 'IO',
            'mncs': ['99501'],

@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# source: data aggregated from ITU-T, Wikipedia, The World Factbook, Egallic blog and txtNation
+# source: data aggregated from Wikipedia, The World Factbook, ITU-T, Egallic blog and txtNation
 # license: produced by P1 Security, based on openly available data
 
 P1_CNTR = \
@@ -11552,7 +11552,8 @@ P1_CNTR = \
                                 '65565',
                                 '65573',
                                 '65574',
-                                '65575'],
+                                '65575',
+                                '65576'],
                     'msisdn': ['27'],
                     'name': 'South Africa',
                     'url': 'https://en.wikipedia.org/wiki/South_Africa'},
