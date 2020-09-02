@@ -179,6 +179,7 @@ those re-engineered data and store them in new files prefixed with "p1":
 - MCC: dict of MCC 3-digit-str, Operators-related information
 - MSISDN: dict of MSISDN prefixes, countries
 - MSISDNEXT: dict of MSISDN prefixes, countries and extra-territories
+- ISPC: dict of international signaling point codes, countries and operators
 - CC2: dict of alpha-2 code, country-related information
 - CNTR: dict of country, country-related information (similar to CC2)
 - TERR: dict of country or territory, borders and neighbour related information
@@ -186,20 +187,22 @@ those re-engineered data and store them in new files prefixed with "p1":
 ```
 $ ./gen_dataset.py
 [...]
-[+] p1_mnc.json file generated
-[+] p1_mnc.py file generated
-[+] p1_mcc.json file generated
-[+] p1_mcc.py file generated
-[+] p1_msisdn.json file generated
-[+] p1_msisdn.py file generated
-[+] p1_msisdnext.json file generated
-[+] p1_msisdnext.py file generated
-[+] p1_cc2.json file generated
-[+] p1_cc2.py file generated
-[+] p1_cntr.json file generated
-[+] p1_cntr.py file generated
-[+] p1_terr.json file generated
-[+] p1_terr.py file generated
+[+] gen/p1_mnc.json file generated
+[+] gen/p1_mnc.py file generated
+[+] gen/p1_mcc.json file generated
+[+] gen/p1_mcc.py file generated
+[+] gen/p1_msisdn.json file generated
+[+] gen/p1_msisdn.py file generated
+[+] gen/p1_msisdnext.json file generated
+[+] gen/p1_msisdnext.py file generated
+[+] gen/p1_ispc.json file generated
+[+] gen/p1_ispc.py file generated
+[+] gen/p1_cc2.json file generated
+[+] gen/p1_cc2.py file generated
+[+] gen/p1_cntr.json file generated
+[+] gen/p1_cntr.py file generated
+[+] gen/p1_terr.json file generated
+[+] gen/p1_terr.py file generated
 
 ```
 
