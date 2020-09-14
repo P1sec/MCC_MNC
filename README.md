@@ -4,7 +4,8 @@ Scrap available information on the Internet related to:
 - mobile network operators (such as MCC, MNC, brand, network type, countries of operation...)
 - countries (such as country name, 2 and 3-chars ISO codes, tld, boundaries and neighbours...)
 - international dialplan (such as msisdn prefix and associated countries, signaling point codes...)
-Using public data from the the following website:
+
+Using public data from the the following websites:
 - Wikipedia
 - ITU-T
 - The CIA World Factbook
