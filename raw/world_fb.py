@@ -71,7 +71,7 @@ WORLD_FB = \
                            'coastline': {'bord': {}, 'len': 56},
                            'coord': ['34 37 N, 32 58 E'],
                            'country_name': {'conv_long': 'none', 'conv_short': 'Akrotiri'},
-                           'population': 15500,
+                           'population': 18195,
                            'region': ['Middle East']},
                 'name': 'Akrotiri',
                 'stan': '-',

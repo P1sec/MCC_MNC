@@ -964,7 +964,8 @@
         "GSM 1800",
         "UMTS 2100",
         "LTE 800",
-        "LTE 1800"
+        "LTE 1800",
+        "LTE 2600"
       ],
       "brand": "Base",
       "cc2s": [
@@ -1974,7 +1975,8 @@
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "Orange",
       "cc2s": [
@@ -1988,7 +1990,8 @@
     "21404": {
       "bands": [
         "LTE 1800",
-        "LTE 2100"
+        "LTE 2100",
+        "5G 3500"
       ],
       "brand": "Yoigo",
       "cc2s": [
@@ -2034,7 +2037,10 @@
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 1800",
+        "5G 2100",
+        "5G 3500"
       ],
       "brand": "Movistar",
       "cc2s": [
@@ -2599,7 +2605,8 @@
       "bands": [
         "GSM 900",
         "GSM 1800",
-        "UMTS 2100"
+        "UMTS 2100",
+        "LTE"
       ],
       "brand": "HT-ERONET",
       "cc2s": [
@@ -2614,7 +2621,8 @@
       "bands": [
         "GSM 900",
         "GSM 1800",
-        "UMTS 2100"
+        "UMTS 2100",
+        "LTE"
       ],
       "brand": "m:tel BiH",
       "cc2s": [
@@ -2645,6 +2653,7 @@
       "bands": [
         "GSM 900",
         "GSM 1800",
+        "UMTS 900",
         "UMTS 2100",
         "LTE 800",
         "LTE 1800"
@@ -2660,7 +2669,6 @@
     },
     "21902": {
       "bands": [
-        "GSM 900",
         "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
@@ -3461,7 +3469,9 @@
       "bands": [
         "GSM 900",
         "UMTS 900",
+        "LTE 700",
         "LTE 800",
+        "LTE 900",
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
@@ -3488,6 +3498,7 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
+        "5G 700",
         "5G 3500"
       ],
       "brand": "Sunrise",
@@ -3929,14 +3940,14 @@
     },
     "23007": {
       "bands": [
-        "Unknown"
+        "LTE 800"
       ],
       "brand": "T-Mobile",
       "cc2s": [
         "CZ"
       ],
       "country": "Czech Republic",
-      "ope": false,
+      "ope": true,
       "operator": "T-Mobile Czech Republic",
       "src": "Wikipedia"
     },
@@ -4224,6 +4235,7 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
+        "5G 2100",
         "5G 3500"
       ],
       "brand": "Magenta",
@@ -5797,7 +5809,8 @@
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "TDC",
       "cc2s": [
@@ -6296,7 +6309,8 @@
     },
     "24006": {
       "bands": [
-        "UMTS 2100"
+        "UMTS 2100",
+        "5G 3500"
       ],
       "brand": "Telenor",
       "cc2s": [
@@ -8052,6 +8066,7 @@
       "bands": [
         "GSM 900",
         "GSM 1800",
+        "UMTS 900",
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
@@ -8620,7 +8635,8 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
-        "TD-LTE 2600"
+        "TD-LTE 2600",
+        "5G 26000"
       ],
       "brand": "MTS",
       "cc2s": [
@@ -11962,7 +11978,8 @@
         "UMTS 900",
         "UMTS 2100",
         "LTE 800",
-        "LTE 1800"
+        "LTE 1800",
+        "LTE 2600"
       ],
       "brand": "Epic",
       "cc2s": [
@@ -12276,7 +12293,6 @@
     "28401": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
         "LTE 900",
@@ -12295,7 +12311,6 @@
     "28403": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
         "LTE 900",
@@ -12314,7 +12329,6 @@
     "28405": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
         "LTE 1800",
@@ -12661,7 +12675,7 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
-        "5G 2500"
+        "5G 2600"
       ],
       "brand": "Mobitel",
       "cc2s": [
@@ -12674,7 +12688,8 @@
     },
     "29364": {
       "bands": [
-        "UMTS 2100"
+        "UMTS 2100",
+        "LTE 2100"
       ],
       "brand": "T-2",
       "cc2s": [
@@ -12692,7 +12707,8 @@
         "UMTS 900",
         "UMTS 2100",
         "LTE 800",
-        "LTE 1800"
+        "LTE 1800",
+        "LTE 2100"
       ],
       "brand": "Telemach",
       "cc2s": [
@@ -12744,26 +12760,26 @@
         "MK"
       ],
       "country": "Republic of North Macedonia",
-      "ope": true,
+      "ope": false,
       "operator": "ONE.VIP DOO",
       "src": "Wikipedia"
     },
     "29403": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
         "LTE 800",
-        "LTE 1800"
+        "LTE 1800",
+        "LTE 2100"
       ],
-      "brand": "vip",
+      "brand": "A1",
       "cc2s": [
         "MK"
       ],
       "country": "Republic of North Macedonia",
       "ope": true,
-      "operator": "ONE.VIP DOO",
+      "operator": "A1 Macedonia DOO",
       "src": "Wikipedia"
     },
     "29404": {
@@ -13554,7 +13570,7 @@
     },
     "302651": {
       "bands": "",
-      "brand": "Bell",
+      "brand": "Bell Mobility",
       "cc2s": [
         "CA"
       ],
@@ -14744,7 +14760,7 @@
       ],
       "country": "United States",
       "ope": true,
-      "operator": "T-Mobile USA",
+      "operator": "T-Mobile US",
       "src": "Wikipedia"
     },
     "310270": {
@@ -22309,6 +22325,20 @@
       "operator": "Unigestion Holding S.A.",
       "src": "txtNation"
     },
+    "37401": {
+      "bands": [
+        "GSM 850",
+        "GSM 1900"
+      ],
+      "brand": "bmobile",
+      "cc2s": [
+        "TT"
+      ],
+      "country": "Trinidad and Tobago",
+      "ope": false,
+      "operator": "TSTT",
+      "src": "Wikipedia"
+    },
     "37412": {
       "bands": [
         "GSM 850",
@@ -22329,15 +22359,20 @@
       "src": "Wikipedia"
     },
     "374129": {
-      "bands": "",
-      "brand": "Bmobile/TSTT",
+      "bands": [
+        "GSM 850",
+        "GSM 1900",
+        "UMTS 850",
+        "UMTS 1900"
+      ],
+      "brand": "bmobile",
       "cc2s": [
         "TT"
       ],
       "country": "Trinidad and Tobago",
       "ope": false,
-      "operator": "",
-      "src": "txtNation"
+      "operator": "TSTT",
+      "src": "Wikipedia"
     },
     "37413": {
       "bands": [
@@ -22385,6 +22420,20 @@
       "country": "Trinidad and Tobago",
       "ope": false,
       "operator": "LaqTel Ltd.",
+      "src": "Wikipedia"
+    },
+    "37420": {
+      "bands": [
+        "GSM 850",
+        "GSM 1900"
+      ],
+      "brand": "bmobile",
+      "cc2s": [
+        "TT"
+      ],
+      "country": "Trinidad and Tobago",
+      "ope": false,
+      "operator": "TSTT",
       "src": "Wikipedia"
     },
     "376050": {
@@ -26660,7 +26709,7 @@
       ],
       "country": "India",
       "ope": false,
-      "operator": "Kolkata",
+      "operator": "Uttar Pradesh (West)",
       "src": "txtNation"
     },
     "405926": {
@@ -28472,6 +28521,19 @@
       "country": "Israel",
       "ope": false,
       "operator": "B.I.P. Communications Ltd.",
+      "src": "Wikipedia"
+    },
+    "42522": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "IL"
+      ],
+      "country": "Israel",
+      "ope": false,
+      "operator": "Maskyoo Telephonia Ltd.",
       "src": "Wikipedia"
     },
     "42523": {
@@ -32104,7 +32166,8 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 2100",
-        "LTE 1800"
+        "LTE 1800",
+        "5G"
       ],
       "brand": "LaoTel",
       "cc2s": [
@@ -35938,7 +36001,6 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 900",
-        "UMTS 1800",
         "UMTS 2100",
         "LTE 800",
         "LTE 1800"
@@ -37827,7 +37889,8 @@
     "63301": {
       "bands": [
         "GSM 900",
-        "UMTS"
+        "UMTS",
+        "5G"
       ],
       "brand": "Cable & Wireless",
       "cc2s": [
@@ -39176,7 +39239,7 @@
         "RE",
         "YT"
       ],
-      "country": "French Indian Ocean Territories",
+      "country": "French Departments and Territories in the Indian Ocean",
       "ope": true,
       "operator": "Orange La R\u00e9union",
       "src": "Wikipedia"
@@ -39192,7 +39255,7 @@
         "RE",
         "YT"
       ],
-      "country": "French Indian Ocean Territories",
+      "country": "French Departments and Territories in the Indian Ocean",
       "ope": true,
       "operator": "BJT Partners",
       "src": "Wikipedia"
@@ -39213,7 +39276,7 @@
         "RE",
         "YT"
       ],
-      "country": "French Indian Ocean Territories",
+      "country": "French Departments and Territories in the Indian Ocean",
       "ope": true,
       "operator": "Telco OI",
       "src": "Wikipedia"
@@ -39234,7 +39297,7 @@
         "RE",
         "YT"
       ],
-      "country": "French Indian Ocean Territories",
+      "country": "French Departments and Territories in the Indian Ocean",
       "ope": true,
       "operator": "Telco OI",
       "src": "Wikipedia"
@@ -39250,7 +39313,7 @@
         "RE",
         "YT"
       ],
-      "country": "French Indian Ocean Territories",
+      "country": "French Departments and Territories in the Indian Ocean",
       "ope": false,
       "operator": "Zeop mobile",
       "src": "Wikipedia"
@@ -39269,7 +39332,7 @@
         "RE",
         "YT"
       ],
-      "country": "French Indian Ocean Territories",
+      "country": "French Departments and Territories in the Indian Ocean",
       "ope": true,
       "operator": "Soci\u00e9t\u00e9 R\u00e9unionnaise du Radiot\u00e9l\u00e9phone",
       "src": "Wikipedia"
@@ -42113,7 +42176,8 @@
     },
     "732176": {
       "bands": [
-        "TD-LTE 2600"
+        "TD-LTE 2600",
+        "TD-5G 2600"
       ],
       "brand": "",
       "cc2s": [
@@ -43618,6 +43682,17 @@
       "country": "International_operators",
       "ope": false,
       "operator": "World's Global Telecom",
+      "src": "Wikipedia"
+    },
+    "99102": {
+      "bands": [
+        "5G"
+      ],
+      "brand": "5G Croco",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": false,
+      "operator": "Orange S.A.",
       "src": "Wikipedia"
     },
     "99501": {
