@@ -2,9 +2,14 @@
 
 Scrap available information on the Internet related to:
 - mobile network operators (such as MCC, MNC, brand, network type, countries of operation...)
-- countries (such as country name, 2 and 3-chars ISO codes, sovereignity, tld...)
+- countries (such as country name, 2 and 3-chars ISO codes, tld, boundaries and neighbours...)
 - international dialplan (such as msisdn prefix and associated countries, signaling point codes...)
-
+Using public data from the the following website:
+- Wikipedia
+- ITU-T
+- The CIA World Factbook
+- txtNation
+- Ewen Gallic blog
 
 And generate re-engineered JSON and Python dictionnaries from them.
 
@@ -101,8 +106,8 @@ for further integration.
 After checking several sources, it seems Wikipedia has the most complete, up-to-date and accurate information.
 Therefore, the tool primarily uses it to build the JSON / Python dictionnaries.
 Information related to MCC-MNC is completed with the csv listing from the txtNation website 
-and the two ITU-T operational bulletins 1111 and 1162.
-The list of Signaling Point Codes is extracted from ITU-T bulleting 1199.
+and the ITU-T operational bulletins 1162.
+The list of Signaling Point Codes is extracted from ITU-T bulletin 1199.
 Geographical information are taken from the CIA World Factbook to gather information related to each country,
 including borders and telephony-related.
 This is completed with the data provided on the _egallic_ blogpost for getting close countries in addition to neighbours one.
@@ -114,7 +119,7 @@ The provided scripts require Python3, and lxml for the ones extracting data from
 web sites (parse_wikipedia_tables.py and parse_worldfactbook_infos.py).
 No installation is required, just run the scripts as is.
 
-The Wikipedia, World Factbook, Egallic and txtNation data, and ITU-T bulletings 
+The Wikipedia, World Factbook, Egallic and txtNation data, and ITU-T bulletins 
 can be imported and processed by using the following commands:
 
 ```
@@ -211,6 +216,8 @@ The following one-liner can be used to update the whole final dataset (without d
 $ ./parse_wikipedia_tables.py -j -p && ./parse_worldfactbook_infos.py -j -p && ./parse_various_csv.py -j -p && ./parse_itut_bulletins.py -j -p && ./gen_dataset.py
 ```
 
+
+
 Now you can use those dictionnaries to get complete information for any MCC, MNC,
 MSISDN prefix, and related geographical information.
 
@@ -262,7 +269,9 @@ optional arguments:
 ## Directory structure
 
 All command-line tools are available straight in the root directory of the project.
-Data downloaded and extracted from Internet (except data from the ITU-T) are put
-in the *raw/* directory. Re-engineered data are put in the *gen/* directory.
+Data downloaded and extracted from Internet are put in the *raw/* directory, except 
+document from the ITU-T which are downloaded as PDF and converted to text in the *TS/*
+directory.
+Re-engineered data are put in the *gen/* directory.
 
 

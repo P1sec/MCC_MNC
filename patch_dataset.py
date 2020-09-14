@@ -1032,7 +1032,7 @@ def patch_egal_min_dist():
     #
     # 1) rename some countries
     for src, dst_dist in sorted(CSV_EGAL_MIN_DIST.items()):
-        for dst in dst_dist:
+        for dst in sorted(dst_dist):
             if dst in COUNTRY_RENAME:
                 CSV_EGAL_MIN_DIST[src][COUNTRY_RENAME[dst]] = CSV_EGAL_MIN_DIST[src][dst]
                 del CSV_EGAL_MIN_DIST[src][dst]
@@ -1241,7 +1241,7 @@ def patch_itut_spc(spclist):
     print('[+] patch ITU-T list of SPC: %r' % id(spclist))
     #
     isonameset  = set([r['country_name'] for r in WIKIP_ISO3166.values()])
-    for cntr, spcs in spclist.items():
+    for cntr, spcs in list(spclist.items()):
         if cntr not in isonameset:
             newname = _patch_country_name(cntr)
             if newname:
