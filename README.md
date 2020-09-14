@@ -15,6 +15,13 @@ Using public data from the the following websites:
 And generate re-engineered JSON and Python dictionnaries from them.
 
 
+## License
+
+The code from this repository, that is used to generate the dataset, is licensed under the terms of the LGPLv2.1.
+The data downloaded from Wikipedia is licensed under the terms of the Creative Commons Attribution-ShareAlike license.
+The 4 other websites used as source do not indicate any specific licensing for the data provided.
+
+
 ## Data sources
 
 Several sources are available on the Internet:
