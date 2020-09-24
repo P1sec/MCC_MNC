@@ -2300,7 +2300,7 @@
         "status": "unknown"
       },
       {
-        "bands": "Unknown",
+        "bands": "WiMAX",
         "brand": "",
         "codes_alpha_2": [
           "ES"
@@ -2310,9 +2310,9 @@
         "country_url": "https://en.wikipedia.org/wiki/Spain",
         "mcc": "214",
         "mnc": "14",
-        "notes": "",
-        "operator": "Incotel Servicioz Avanzados SL",
-        "status": "unknown"
+        "notes": "Former Incotel Servicioz Avanzados SL",
+        "operator": "AVATEL M\u00d3VIL, S.L.U.",
+        "status": "operational"
       },
       {
         "bands": "MVNO",
@@ -13130,7 +13130,7 @@
         "status": "operational"
       },
       {
-        "bands": "Unknown",
+        "bands": "GSM 900 / UMTS 2100 / LTE 1800",
         "brand": "",
         "codes_alpha_2": [
           "FO"
@@ -13145,7 +13145,7 @@
         "mnc": "03",
         "notes": "Former Edge Mobile",
         "operator": "Tosa Sp/F",
-        "status": "unknown"
+        "status": "operational"
       },
       {
         "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800",
@@ -13276,7 +13276,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / 5G 2600",
         "brand": "Mobitel",
         "codes_alpha_2": [
           "SI"
@@ -13306,7 +13306,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100",
+        "bands": "EGSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100",
         "brand": "Telemach",
         "codes_alpha_2": [
           "SI"
@@ -13321,7 +13321,7 @@
         "status": "operational"
       },
       {
-        "bands": "Unknown",
+        "bands": "LTE 700",
         "brand": "",
         "codes_alpha_2": [
           "SI"
@@ -28002,7 +28002,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
         "brand": "Etisalat",
         "codes_alpha_2": [
           "AE"
@@ -28017,7 +28017,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500",
         "brand": "du",
         "codes_alpha_2": [
           "AE"
@@ -40812,7 +40812,7 @@
         "status": "unknown"
       },
       {
-        "bands": "TD-LTE 2600 / TD-5G 2600",
+        "bands": "LTE 2600 / TD-5G 2600",
         "brand": "",
         "codes_alpha_2": [
           "CO"
@@ -40857,7 +40857,7 @@
         "status": "unknown"
       },
       {
-        "bands": "Unknown",
+        "bands": "LTE 1700",
         "brand": "",
         "codes_alpha_2": [
           "CO"
@@ -42432,6 +42432,19 @@
         "mnc": "76",
         "notes": "",
         "operator": "A1 Telekom Austria AG",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [],
+        "country_name": "International_operators",
+        "country_sub": null,
+        "country_url": "",
+        "mcc": "901",
+        "mnc": "77",
+        "notes": "",
+        "operator": "Bouygues Telecom",
         "status": "unknown"
       },
       {

@@ -2131,15 +2131,15 @@
     },
     "21414": {
       "bands": [
-        "Unknown"
+        "WiMAX"
       ],
       "brand": "",
       "cc2s": [
         "ES"
       ],
       "country": "Spain",
-      "ope": false,
-      "operator": "Incotel Servicioz Avanzados SL",
+      "ope": true,
+      "operator": "AVATEL M\u00d3VIL, S.L.U.",
       "src": "Wikipedia"
     },
     "21415": {
@@ -12520,14 +12520,16 @@
     },
     "28803": {
       "bands": [
-        "Unknown"
+        "GSM 900",
+        "UMTS 2100",
+        "LTE 1800"
       ],
       "brand": "",
       "cc2s": [
         "FO"
       ],
       "country": "Faroe Islands",
-      "ope": false,
+      "ope": true,
       "operator": "Tosa Sp/F",
       "src": "Wikipedia"
     },
@@ -12673,7 +12675,6 @@
         "LTE 800",
         "LTE 900",
         "LTE 1800",
-        "LTE 2100",
         "LTE 2600",
         "5G 2600"
       ],
@@ -12702,13 +12703,13 @@
     },
     "29370": {
       "bands": [
-        "GSM 900",
         "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
-        "LTE 2100"
+        "LTE 2100",
+        "EGSM 900"
       ],
       "brand": "Telemach",
       "cc2s": [
@@ -12721,7 +12722,7 @@
     },
     "29386": {
       "bands": [
-        "Unknown"
+        "LTE 700"
       ],
       "brand": "",
       "cc2s": [
@@ -28172,7 +28173,8 @@
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "Etisalat",
       "cc2s": [
@@ -28189,7 +28191,8 @@
         "GSM 1800",
         "UMTS 2100",
         "LTE 800",
-        "LTE 1800"
+        "LTE 1800",
+        "5G 3500"
       ],
       "brand": "du",
       "cc2s": [
@@ -42176,7 +42179,7 @@
     },
     "732176": {
       "bands": [
-        "TD-LTE 2600",
+        "LTE 2600",
         "TD-5G 2600"
       ],
       "brand": "",
@@ -42216,7 +42219,7 @@
     },
     "732208": {
       "bands": [
-        "Unknown"
+        "LTE 1700"
       ],
       "brand": "",
       "cc2s": [
@@ -43649,6 +43652,17 @@
       "country": "International_operators",
       "ope": false,
       "operator": "A1 Telekom Austria AG",
+      "src": "Wikipedia"
+    },
+    "90177": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": false,
+      "operator": "Bouygues Telecom",
       "src": "Wikipedia"
     },
     "90188": {
