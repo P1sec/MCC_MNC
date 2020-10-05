@@ -1,0 +1,604 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1205             1.X.2020                    (Information received by 15 September 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+
+
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Telephone Service:
+     China (Ministry of Industry and Information Technology (MIIT), Beijing) ................................................                                      5
+     Mauritius (Information and Communication Technologies Authority (ICTA), Port-Louis) ........................                                                  5
+     Myanmar (Ministry of Transport and Communications, Nay Pyi Taw) ....................................................                                          6
+     Palau (Division of Communication under the Ministry of Public Infrastructure, Industries and
+        Commerce, Koror) ...............................................................................................................................           6
+Service Restrictions ........................................................................................................................................     10
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                10
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card ............................                                                11
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         12
+List of ITU Carrier Codes ................................................................................................................................        13
+List of International Signalling Point Codes (ISPC) .........................................................................................                     14
+National Numbering Plan ...............................................................................................................................           14
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1206             15.X.2020               1.X.2020
+               1207              1.XI.2020             15.X.2020
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021             11.XII.2020
+
+
+
+
+No. 1205 – 2                                                              ITU Operational Bulletin
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+ ITU Operational Bulletin                                                                         No. 1205 – 3
+                            Approval of ITU-T Recommendations
+By TSB Circular 266 of 7 September 2020, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+–     ITU-T D.265 (08/2020): Optimizing terrestrial cable utilization across multiple countries to boost regional
+      and international connectivity
+–     ITU-T D.266 (08/2020): Enabling environment for voluntary commercial arrangements between
+      telecommunications network operators and OTT providers
+–     ITU-T D.267/X.1261 (08/2020): Policy framework including principles for digital identity infrastructure
+
+
+
+
+ No. 1205 – 4                                                                         ITU Operational Bulletin
+                                       Telephone Service
+                                  (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+China (country code +86)
+Communication of 7.IX.2020:
+The Ministry of Industry and Information Technology (MIIT), Beijing, announces the following updates to the
+national numbering plan of China.
+      Description of introduction of new resource for national E.164 numbering plan for country code 86:
+ NDC (national
+  destination        N(S)N number length
+     code) or
+                                                     Usage of            Time and
+ leading digits
+                                                   ITU-T E.164            date of       Additional information
+    of N(S)N        Maximum      Minimum             number            introduction
+    (national        length       length
+  (significant)
+    number)
+ 190 (NDC)              11           11       Non-geographic           Sep 10, 2020   China Telecom Co., Ltd.
+                                              number, Mobile
+ 193 (NDC)              11           11       Non-geographic           Sep 10, 2020   China Telecom Co., Ltd.
+                                              number, Mobile
+ 196 (NDC)              11           11       Non-geographic           Sep 1, 2020    China United Network
+                                              number, Mobile                          Communications Group
+                                                                                      Co., Ltd.
+
+Contact:
+           Ministry of Industry and Information Technology (MIIT)
+           13, West Chang'an Avenue
+           100804 BEIJING
+           China
+           Tel:    +86 10 62303486
+           Fax:    +86 10 62304735
+           E-mail: itu-t@caict.ac.cn
+           URL: www.miit.gov.cn
+
+Mauritius (country code +230)
+Communication of 15.IX.2020:
+The Information and Communication Technologies Authority (ICTA), Port-Louis, announces that new mobile
+number range has been opened in the Republic of Mauritius by the following mobile operator since 15
+September 2020.
+
+
+ Operator                                   Usage of ITU-T E.164 number                  Dialling Format
+
+ Mahanagar Telephone (Mauritius) Ltd        Non-geographic mobile numbers                +230 527X XXXX
+Contact:
+           Mr J. Louis
+           Information and Communication Technologies Authority (ICTA)
+           Level 12 The Celicourt
+           6, Sir Celicourt Antelme Street
+           PORT LOUIS
+           Mauritius
+           Tel:       +230 217 2222
+           Fax:       +230 217 7777
+           E-mail: icta@intnet.mu
+           URL:       www.icta.mu
+
+ ITU Operational Bulletin                                                                           No. 1205 – 5
+Myanmar (country code +95)
+Communication of 4.IX.2020:
+The Ministry of Transport and Communications, Nay Pyi Taw, announces that the following updated numbering
+scheme has been added to the national numbering plan of Myanmar:
+                                  Description of introduction of new resources for
+                                national E.164 numbering plan for country code + 95:
+Mobile Numbering
+
+                                                              Digit Length
+  Sr       Area
+                        Number series        System         (including area      Operator
+  No.      Code
+                                                                 code)
+  1          9           941-xxx-xxx    WCDMA / GSM               10             Ooredoo Myanmar Limited
+
+
+Contact:
+           Ministry of Transport and Communications
+           Posts and Telecommunications Department (PTD)
+           Building No. 2,
+           NAY PYI TAW
+           Myanmar
+           Tel: +95 67 3407 225
+           Fax: +95 67 3407 216
+           E-mail: dg@ptd.gov.mm
+
+Palau (country code +680)
+Communication of 2.IX.2020:
+The Division of Communication under the Ministry of Public Infrastructure, Industries and Commerce, Koror,
+announces the following national numbering plan of Palau:
+                    Presentation of national ITU-T E.164 numbering plan for country code 680
+a)      Overview:
+        The minimum number length (excluding the country code) is             7 digits.
+        The maximum number length (excluding the country code) is             7 digits.
+b)      Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+        numbering plan (if any): none
+c)      Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): none
+d)      Detail of numbering plan:
+
+    NDC (national           N(S)N number length
+ destination code) or
+                                                                 Usage of
+   leading digits of      Maximum       Minimum                                               Additional information
+                                                           ITU-T E.164 number
+   N(S)N (national         length        length
+(significant) number)
+
+         544                   7            7         Geographic number for Fixed           PNCC/Aimeliik State
+                                                      telephony services (Area code)
+         587                   7            7         Geographic number for Fixed           PNCC/Airai State
+                                                      telephony services (Area code)
+         277                   7            7         Geographic number for Fixed           PNCC/Angaur State
+                                                      telephony services (Area code)
+         876                   7            7         Geographic number for Fixed           PNCC/Kayangel State
+                                                      telephony services (Area code)
+
+
+
+
+  No. 1205 – 6                                                                              ITU Operational Bulletin
+    NDC (national        N(S)N number length
+ destination code) or
+                                                           Usage of
+   leading digits of    Maximum     Minimum                                       Additional information
+                                                     ITU-T E.164 number
+   N(S)N (national       length      length
+(significant) number)
+
+        488                  7          7      Geographic number for Fixed      PNCC/Koror State
+                                               telephony services (Area code)
+        654                  7          7      Geographic number for Fixed      PNCC/Melekeok State
+                                               telephony services (Area code)
+        824                  7          7      Geographic number for Fixed      PNCC/Ngaraard State
+                                               telephony services (Area code)
+        855                  7          7      Geographic number for Fixed      PNCC/Ngarchelong State
+                                               telephony services (Area code)
+        747                  7          7      Geographic number for Fixed      PNCC/Ngardmau State
+                                               telephony services (Area code)
+        535                  7          7      Geographic number for Fixed      PNCC/Ngatpang State
+                                               telephony services (Area code)
+        622                  7          7      Geographic number for Fixed      PNCC/Ngchesar State
+                                               telephony services (Area code)
+        733                  7          7      Geographic number for Fixed      PNCC/Ngaremlengui State
+                                               telephony services (Area code)
+
+        679                  7          7      Geographic number for Fixed      PNCC/Ngiwal State
+                                               telephony services (Area code)
+        345                  7          7      Geographic number for Fixed      PNCC/Peleliu State
+                                               telephony services (Area code)
+        255                  7          7      Geographic number for Fixed      PNCC/Sonsorol State and
+                                               telephony services (Area code)   Hatohobei State
+
+        900                  7          7      Geographic number for Fixed      PNCC/Operator Services
+                                               telephony services (Area code)
+        770                  7          7      Non-geographic number– Digital   PNCC Wireless/Palau Cel
+                                               mobile telephony services
+        771                  7          7      Non-geographic number – Digital PNCC Wireless/Palau Cel
+                                               mobile telephony services
+        772                  7          7      Non-geographic number – Digital PNCC Wireless/Palau Cel
+                                               mobile telephony services
+        773                  7          7      Non-geographic number – Digital PNCC Wireless/Palau Cel
+                                               mobile telephony services
+        774                  7          7      Non-geographic number – Digital PNCC Wireless/Palau Cel
+                                               mobile telephony services
+        775                  7          7      Non-geographic number – Digital PNCC Wireless/ Palau Cel
+                                               mobile telephony services
+        776                  7          7      Non-geographic number – Digital PNCC Wireless/Palau Cel
+                                               mobile telephony services
+        777                  7          7      Non-geographic number – Digital PNCC Wireless/Palau Cel
+                                               mobile telephony services
+
+        778                  7          7      Non-geographic number – Digital PNCC Wireless/Palau Cel
+                                               mobile telephony services
+
+        779                  7          7      Non-geographic number – Digital PNCC Wireless/Palau Cel
+                                               mobile telephony services
+
+
+  ITU Operational Bulletin                                                                 No. 1205 – 7
+    NDC (national       N(S)N number length
+ destination code) or
+                                                          Usage of
+   leading digits of    Maximum    Minimum                                       Additional information
+                                                    ITU-T E.164 number
+   N(S)N (national       length     length
+(significant) number)
+
+        880                7           7      Non-geographic number – Digital PECI / PalauTel
+                                              mobile telephony services
+
+        881                7           7      Non-geographic number – Digital PECI / PalauTel
+                                              mobile telephony services
+
+        882                7           7      Non-geographic number – Digital PECI / PalauTel
+                                              mobile telephony services
+
+        883                7           7      Non-geographic number – Digital PECI / PalauTel
+                                              mobile telephony services
+
+        884                7           7      Non-geographic number – Digital PECI / PalauTel
+                                              mobile telephony services
+
+        885                7           7      Non-geographic number – Digital PECI / PalauTel
+                                              mobile telephony services
+
+        886                7           7      Non-geographic number – Digital PECI / PalauTel
+                                              mobile telephony services
+
+        887                7           7      Non-geographic number – Digital PECI / PalauTel
+                                              mobile telephony services
+
+        888                7           7      Non-geographic number – Digital PECI / PalauTel
+                                              mobile telephony services
+
+        889                7           7      Non-geographic number – Digital PECI / PalauTel
+                                              mobile telephony services
+
+        450                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+        451                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+        452                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+        453                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+        454                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+        455                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+        456                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+        457                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+        458                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+        459                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+        460                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+        461                7           7      Non-geographic number – Digital PMCI
+                                              mobile telephony services
+
+
+
+  No. 1205 – 8                                                                 ITU Operational Bulletin
+    NDC (national          N(S)N number length
+ destination code) or
+                                                                Usage of
+   leading digits of     Maximum       Minimum                                      Additional information
+                                                          ITU-T E.164 number
+   N(S)N (national        length        length
+(significant) number)
+
+        462                   7            7       Non-geographic number – Digital PMCI
+                                                   mobile telephony services
+
+        463                   7            7       Non-geographic number – Digital PMCI
+                                                   mobile telephony services
+
+        464                   7            7       Non-geographic number – Digital PMCI
+                                                   mobile telephony services
+
+        465                   7            7       Non-geographic number – Digital PMCI
+                                                   mobile telephony services
+
+
+Contact:
+           Hon. Charles I. Obichang
+           Minister, MPIIC
+           Ministry of Public Infrastructure, Industries and Commerce
+           Mr Jonathan Temol
+           Chief, Bureau of Communication
+           Ministry of Public Infrastructure, Industries and Commerce
+           P.O. Box 1471
+           KOROR, Palau 96940
+           Tel:     +680 587 1171
+           Fax:     +680 767 3207
+           E-mail: dot@palaunet.com; jngiwal@gmail.com
+           URL:     www.palaugov.pw/bureau-of-commercial-development/
+
+
+
+
+  ITU Operational Bulletin                                                                   No. 1205 – 9
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+No. 1205 – 10                                                                 ITU Operational Bulletin
+                     AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+                                ADD    Insert                        PAR   Paragraph
+                                COL    Column                        REP   Replace
+                                LIR    Read                          SUP   Delete
+                                P      Page(s)
+
+
+
+
+                          List of Issuer Identifier Numbers for
+                  the International Telecommunication Charge Card
+            (in accordance with ITU-T Recommendation E.118 (05/2006))
+                             (Position on 1 December 2018)
+                            (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                             (Amendment No. 34)
+
+
+French Departments and Territories in the Indian Ocean      ADD
+
+       Country/             Company Name/Address          Issuer                       Contact                 Effective
+   Geographical area                                    Identifier                                              date of
+                                                         Number                                                 usage
+ French Departments         ZEOP MOBILE                 89 262 04      ZEOP Mobile, Roaming                   1.VII.2020
+ and Territories in the     39 rue Pierre Brossolette                  39 rue Pierre Brossolette
+ Indian Ocean               97420 Le Port                              97420 Le Port
+                                                                       E-mail: roaming@zeop.net
+
+
+Saint Pierre and Miquelon      ADD
+
+       Country/             Company Name/Address          Issuer                       Contact                 Effective
+   Geographical area                                    Identifier                                              date of
+                                                         Number                                                 usage
+ Saint Pierre and           GLOBALTEL                   89 508 02      GLOBALTEL, Support                      2.IX.2020
+ Miquelon                   18 rue Albert Briand,                      18 rue Albert Briand,
+                            BP4453                                     BP4453
+                            97500 SAINT-PIERRE-ET-                     97500 SAINT-PIERRE-ET-MIQUELON
+                            MIQUELON                                   E-mail: support@globaltel-spm.com
+
+
+United Kingdom      ADD
+
+       Country/             Company Name/Address          Issuer                       Contact               Effective date
+   Geographical area                                    Identifier                                              of usage
+                                                         Number
+ United Kingdom             JT (Jersey) Limited         89 44 50       Head of Regulatory & Carrier           22.IX.2020
+                            No 1 The Forum,                            Services, Data Protection Officer
+                            Grenville Street                           No 1 The Forum, Grenville Street
+                            ST. HELIER, JERSEY JE4                     ST. HELIER, JERSEY JE4 8PB
+                            8PB                                        Tel.:     +44 1534882328
+                                                                       E-mail: dpo@jtglobal.com
+
+
+
+
+ ITU Operational Bulletin                                                                          No. 1205 – 11
+ Mobile Network Codes (MNC) for the international identification plan
+                for public networks and subscriptions
+        (According to Recommendation ITU-T E.212 (09/2016))
+                   (Position on 15 December 2018)
+
+                        (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                         (Amendment No. 40)
+
+
+
+
+Country or geographical area                     MCC+MNC *               Name of Operator/Network
+
+Canada ADD
+
+                                                 302 681                 SaskTel Mobility
+
+                                                 302 781                 SaskTel Mobility
+
+
+____________
+*    MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+     MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+No. 1205 – 12                                                                                ITU Operational Bulletin
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                            (Amendment No. 102)
+
+
+
+
+ Country or area/ISO code                       Company Code         Contact
+  Company Name/Address                           (carrier code)
+Germany (Federal Republic of) / DEU           ADD
+
+
+ JG-Innovation GmbH                                 CYQON            Tel.: +49 7251 3823500
+ Hermann-von-Rautenkranz-Str. 1                                      Fax: +49 7251 3823510
+ D-76694 FORST                                                       Email: kontakt@cyqon.de
+
+
+
+
+ ITU Operational Bulletin                                                                      No. 1205 – 13
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 5)
+
+
+ Country/ Geographical Area
+ ISPC          DEC                        Unique name of the signalling point      Name of the signalling point operator
+
+
+ Switzerland ADD
+ 2-063-5       4605                       Zürich                                   rational brands service AG
+
+ Switzerland LIR
+ 7-247-5       16317                      Zürich                                   Nexphone AG
+
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                         Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.IX.2020, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                             Country/ Geographical area                         Country Code (CC)
+                  Iran (Islamic Republic of)                                          +98
+                  Israel                                                              +972
+                  Seychelles                                                          +248
+
+
+
+
+ No. 1205 – 14                                                                                 ITU Operational Bulletin
