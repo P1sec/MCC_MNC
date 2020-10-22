@@ -1120,10 +1120,12 @@
     "20801": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
+        "LTE 700",
         "LTE 800",
+        "LTE 1800",
+        "LTE 2100",
         "LTE 2600"
       ],
       "brand": "Orange",
@@ -1139,9 +1141,13 @@
     "20802": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
-        "UMTS 2100"
+        "UMTS 2100",
+        "LTE 700",
+        "LTE 800",
+        "LTE 1800",
+        "LTE 2100",
+        "LTE 2600"
       ],
       "brand": "Orange",
       "cc2s": [
@@ -1233,11 +1239,11 @@
     "20809": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
+        "LTE 2100",
         "LTE 2600"
       ],
       "brand": "SFR",
@@ -1252,11 +1258,12 @@
     "20810": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
         "LTE 800",
-        "LTE 1800 LTE 2600"
+        "LTE 1800",
+        "LTE 2100",
+        "LTE 2600"
       ],
       "brand": "SFR",
       "cc2s": [
@@ -1297,9 +1304,12 @@
     "20813": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
-        "UMTS 2100"
+        "UMTS 2100",
+        "LTE 800",
+        "LTE 1800",
+        "LTE 2100",
+        "LTE 2600"
       ],
       "brand": "SFR",
       "cc2s": [
@@ -1329,7 +1339,6 @@
         "UMTS 2100",
         "LTE 700",
         "LTE 1800",
-        "LTE 2100",
         "LTE 2600"
       ],
       "brand": "Free",
@@ -1347,7 +1356,6 @@
         "UMTS 2100",
         "LTE 700",
         "LTE 1800",
-        "LTE 2100",
         "LTE 2600"
       ],
       "brand": "Free",
@@ -1401,12 +1409,12 @@
     "20820": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
         "LTE 700",
         "LTE 800",
         "LTE 1800",
+        "LTE 2100",
         "LTE 2600"
       ],
       "brand": "Bouygues",
@@ -1730,7 +1738,13 @@
     "20888": {
       "bands": [
         "GSM 900",
-        "GSM 1800"
+        "UMTS 900",
+        "UMTS 2100",
+        "LTE 700",
+        "LTE 800",
+        "LTE 1800",
+        "LTE 2100",
+        "LTE 2600"
       ],
       "brand": "Bouygues",
       "cc2s": [
@@ -3203,7 +3217,7 @@
         "IT"
       ],
       "country": "Italy",
-      "ope": false,
+      "ope": true,
       "operator": "COOP Voce",
       "src": "Wikipedia"
     },
@@ -3518,7 +3532,9 @@
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 700",
+        "5G 3500"
       ],
       "brand": "Salt",
       "cc2s": [
@@ -3844,7 +3860,6 @@
     "23001": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
@@ -3867,7 +3882,8 @@
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "TD-LTE 2600"
       ],
       "brand": "O2",
       "cc2s": [
@@ -3921,7 +3937,7 @@
         "CZ"
       ],
       "country": "Czech Republic",
-      "ope": false,
+      "ope": true,
       "operator": "PODA a.s.",
       "src": "Wikipedia"
     },
@@ -4044,7 +4060,8 @@
       "bands": [
         "LTE 1800",
         "TD-LTE 3500",
-        "TD-LTE 3700"
+        "TD-LTE 3700",
+        "5G 3500"
       ],
       "brand": "4ka",
       "cc2s": [
@@ -4094,7 +4111,8 @@
         "LTE 800",
         "LTE 1800",
         "TD-LTE 3500",
-        "TD-LTE 3700"
+        "TD-LTE 3700",
+        "5G 3500"
       ],
       "brand": "O2",
       "cc2s": [
@@ -4195,7 +4213,6 @@
     "23201": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
         "LTE 800",
@@ -4228,9 +4245,7 @@
     "23203": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
-        "UMTS 2100",
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
@@ -4263,6 +4278,7 @@
     "23205": {
       "bands": [
         "GSM 900",
+        "GSM 1800",
         "UMTS 2100",
         "LTE 900",
         "LTE 1800",
@@ -5805,7 +5821,7 @@
     "23801": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
+        "UMTS 900",
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
@@ -5884,7 +5900,8 @@
         "UMTS 900",
         "UMTS 2100",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "TD-LTE 2600"
       ],
       "brand": "3",
       "cc2s": [
@@ -6166,10 +6183,8 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 900",
-        "UMTS 2100",
         "LTE 800",
-        "LTE 1800",
-        "LTE 2600"
+        "LTE 1800"
       ],
       "brand": "",
       "cc2s": [
@@ -7309,7 +7324,7 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 900",
-        "UMTS 2100",
+        "LTE 700",
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
@@ -7415,7 +7430,7 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 900",
-        "UMTS 2100",
+        "LTE 700",
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
@@ -8020,10 +8035,10 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 900",
-        "UMTS 2100",
         "LTE 700",
         "LTE 800",
         "LTE 1800",
+        "LTE 2100",
         "LTE 2600",
         "5G 3500"
       ],
@@ -8404,8 +8419,7 @@
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
-        "LTE 2100",
-        "LTE 2600"
+        "LTE 2100"
       ],
       "brand": "Tele2",
       "cc2s": [
@@ -8431,14 +8445,14 @@
     },
     "24805": {
       "bands": [
-        "Unknown"
+        "MVNO"
       ],
-      "brand": "",
+      "brand": "CSC Telecom",
       "cc2s": [
         "EE"
       ],
       "country": "Estonia",
-      "ope": false,
+      "ope": true,
       "operator": "CSC Telecom Estonia O\u00dc",
       "src": "Wikipedia"
     },
@@ -8609,6 +8623,19 @@
       "country": "Estonia",
       "ope": false,
       "operator": "Cloud Communications O\u00dc",
+      "src": "Wikipedia"
+    },
+    "24819": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "EE"
+      ],
+      "country": "Estonia",
+      "ope": false,
+      "operator": "OkTelecom O\u00dc",
       "src": "Wikipedia"
     },
     "24871": {
@@ -10425,12 +10452,11 @@
     "26201": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 2100",
         "LTE 800",
         "LTE 900",
-        "LTE 1500",
         "LTE 1800",
+        "LTE 2100",
         "LTE 2600",
         "5G 2100",
         "5G 3500"
@@ -10447,12 +10473,12 @@
     "26202": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 2100",
         "LTE 700",
         "LTE 800",
         "LTE 900",
         "LTE 1800",
+        "LTE 2100",
         "LTE 2600",
         "5G 700",
         "5G 1800",
@@ -10470,13 +10496,14 @@
     "26203": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 2100",
+        "LTE 700",
         "LTE 800",
         "LTE 900",
         "LTE 1800",
         "LTE 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "O2",
       "cc2s": [
@@ -10521,12 +10548,15 @@
     "26206": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 2100",
         "LTE 800",
         "LTE 900",
+        "LTE 1500",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2100",
+        "LTE 2600",
+        "5G 2100",
+        "5G 3500"
       ],
       "brand": "Telekom",
       "cc2s": [
@@ -11032,7 +11062,7 @@
         "GI"
       ],
       "country": "Gibraltar",
-      "ope": true,
+      "ope": false,
       "operator": "Eazitelecom",
       "src": "Wikipedia"
     },
@@ -11237,7 +11267,9 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 2100",
-        "LTE 1800"
+        "LTE 1800",
+        "5G 700",
+        "5G 3500"
       ],
       "brand": "POST",
       "cc2s": [
@@ -11306,7 +11338,9 @@
         "GSM 1800",
         "UMTS 2100",
         "LTE 800",
-        "LTE 1800"
+        "LTE 1800",
+        "5G 700",
+        "5G 3500"
       ],
       "brand": "Tango",
       "cc2s": [
@@ -11454,7 +11488,8 @@
       "bands": [
         "UMTS 2100",
         "LTE 800",
-        "LTE 1800"
+        "LTE 1800",
+        "5G 3500"
       ],
       "brand": "3",
       "cc2s": [
@@ -13700,6 +13735,19 @@
       "operator": "SaskTel Mobility",
       "src": "Wikipedia"
     },
+    "302681": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "SaskTel",
+      "cc2s": [
+        "CA"
+      ],
+      "country": "Canada",
+      "ope": false,
+      "operator": "SaskTel Mobility",
+      "src": "Wikipedia"
+    },
     "302690": {
       "bands": [
         "UMTS 850",
@@ -13775,7 +13823,9 @@
         "LTE 700",
         "LTE 1700",
         "LTE 2600",
-        "5G 2500"
+        "5G 600",
+        "5G 1700",
+        "TD-5G 2600"
       ],
       "brand": "Rogers Wireless",
       "cc2s": [
@@ -13877,6 +13927,19 @@
       ],
       "country": "Canada",
       "ope": true,
+      "operator": "SaskTel Mobility",
+      "src": "Wikipedia"
+    },
+    "302781": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "SaskTel",
+      "cc2s": [
+        "CA"
+      ],
+      "country": "Canada",
+      "ope": false,
       "operator": "SaskTel Mobility",
       "src": "Wikipedia"
     },
@@ -15007,13 +15070,13 @@
           "UMTS 1900",
           "LTE 700"
         ],
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "cc2s": [
           "GU"
         ],
         "country": "Guam",
         "ope": true,
-        "operator": "Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "src": "Wikipedia"
       },
       {
@@ -15022,13 +15085,13 @@
           "UMTS 1900",
           "LTE 700"
         ],
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "cc2s": [
           "US"
         ],
         "country": "United States",
         "ope": true,
-        "operator": "Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "src": "Wikipedia"
       }
     ],
@@ -15164,26 +15227,26 @@
         "bands": [
           "iDEN"
         ],
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "cc2s": [
           "GU"
         ],
         "country": "Guam",
         "ope": true,
-        "operator": "Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "src": "Wikipedia"
       },
       {
         "bands": [
           "iDEN"
         ],
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "cc2s": [
           "US"
         ],
         "country": "United States",
         "ope": true,
-        "operator": "Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "src": "Wikipedia"
       }
     ],
@@ -16313,26 +16376,26 @@
         "bands": [
           "Unknown"
         ],
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "cc2s": [
           "GU"
         ],
         "country": "Guam",
         "ope": true,
-        "operator": "Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "src": "Wikipedia"
       },
       {
         "bands": [
           "Unknown"
         ],
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "cc2s": [
           "US"
         ],
         "country": "United States",
         "ope": true,
-        "operator": "Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "src": "Wikipedia"
       }
     ],
@@ -16508,26 +16571,26 @@
         "bands": [
           "Unknown"
         ],
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "cc2s": [
           "GU"
         ],
         "country": "Guam",
         "ope": true,
-        "operator": "Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "src": "Wikipedia"
       },
       {
         "bands": [
           "Unknown"
         ],
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "cc2s": [
           "US"
         ],
         "country": "United States",
         "ope": true,
-        "operator": "Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "src": "Wikipedia"
       }
     ],
@@ -20674,6 +20737,32 @@
       "operator": "Ultravisi\u00f3n, S.A. de C.V.",
       "src": "Wikipedia"
     },
+    "334160": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "MX"
+      ],
+      "country": "Mexico",
+      "ope": false,
+      "operator": "Cablevisi\u00f3n Red, S.A. de C.V.",
+      "src": "Wikipedia"
+    },
+    "334170": {
+      "bands": [
+        "MVNO"
+      ],
+      "brand": "",
+      "cc2s": [
+        "MX"
+      ],
+      "country": "Mexico",
+      "ope": false,
+      "operator": "Oxio Mobile, S.A. de C.V.",
+      "src": "Wikipedia"
+    },
     "33450": {
       "bands": "",
       "brand": "IUSACell/UneFon",
@@ -22742,7 +22831,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -22781,7 +22870,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -22794,7 +22883,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -22818,7 +22907,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -22858,7 +22947,7 @@
         "GSM 900",
         "GSM 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -22871,7 +22960,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -22884,7 +22973,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -22898,7 +22987,7 @@
         "GSM 900",
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -22911,7 +23000,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -22965,7 +23054,7 @@
         "GSM 900",
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -22979,7 +23068,7 @@
         "GSM 900",
         "UMTS 2100"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23005,7 +23094,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23029,7 +23118,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23056,7 +23145,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23096,7 +23185,7 @@
         "GSM 900",
         "GSM 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23241,7 +23330,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23255,7 +23344,7 @@
         "GSM 900",
         "LTE 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23282,7 +23371,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23403,7 +23492,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23458,7 +23547,7 @@
       "bands": [
         "GSM 900"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23700,7 +23789,7 @@
         "GSM 900",
         "UMTS 2100"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23764,9 +23853,9 @@
     },
     "40482": {
       "bands": [
-        "Unknown"
+        "unknown"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23792,7 +23881,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23820,7 +23909,7 @@
         "UMTS 2100",
         "LTE 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23831,9 +23920,9 @@
     },
     "40487": {
       "bands": [
-        "Unknown"
+        "unknown"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23844,9 +23933,9 @@
     },
     "40488": {
       "bands": [
-        "Unknown"
+        "unknown"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -23859,7 +23948,7 @@
       "bands": [
         "Unknown"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -24871,7 +24960,7 @@
         "GSM 900",
         "GSM 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -24884,7 +24973,7 @@
       "bands": [
         "Unknown"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -24908,7 +24997,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -24963,9 +25052,9 @@
     },
     "405750": {
       "bands": [
-        "GSM 1800"
+        "Unknown"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -24978,7 +25067,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -24991,7 +25080,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25004,7 +25093,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25017,7 +25106,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25030,7 +25119,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25043,7 +25132,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "Vodafone India",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25079,7 +25168,7 @@
         "GSM 900",
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25679,7 +25768,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25693,7 +25782,7 @@
         "GSM 1800",
         "UTMS 2100"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25706,7 +25795,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25719,7 +25808,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25732,7 +25821,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25756,7 +25845,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25769,7 +25858,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25782,7 +25871,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -25795,7 +25884,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -26503,7 +26592,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -26516,7 +26605,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -26529,7 +26618,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -26542,7 +26631,7 @@
       "bands": [
         "GSM 1800"
       ],
-      "brand": "IDEA",
+      "brand": "V!",
       "cc2s": [
         "IN"
       ],
@@ -28209,7 +28298,8 @@
         "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
-        "LTE 1800"
+        "LTE 1800",
+        "5G 3500"
       ],
       "brand": "Partner",
       "cc2s": [
@@ -28240,7 +28330,8 @@
       "bands": [
         "UMTS 850",
         "UMTS 2100",
-        "LTE 1800"
+        "LTE 1800",
+        "5G 3500"
       ],
       "brand": "Pelephone",
       "cc2s": [
@@ -28328,6 +28419,7 @@
       "bands": [
         "UMTS 2100",
         "LTE 1800",
+        "5G 3500",
         "iDEN 800"
       ],
       "brand": "Hot Mobile",
@@ -29746,7 +29838,8 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 3500",
-        "5G 3500"
+        "5G 3500",
+        "TD-5G 4700"
       ],
       "brand": "NTT docomo",
       "cc2s": [
@@ -29759,7 +29852,8 @@
     },
     "44011": {
       "bands": [
-        "LTE 1800"
+        "LTE 1800",
+        "5G 3500"
       ],
       "brand": "Rakuten Mobile",
       "cc2s": [
@@ -30221,7 +30315,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -30241,7 +30337,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -30261,7 +30359,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -30281,7 +30381,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -30301,7 +30403,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -30464,7 +30568,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -30484,7 +30590,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -30504,7 +30612,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -30524,7 +30634,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -30544,7 +30656,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -30564,7 +30678,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -30584,7 +30700,9 @@
         "LTE 1800",
         "LTE 2100",
         "TD-LTE 2500",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 3700"
       ],
       "brand": "au",
       "cc2s": [
@@ -33202,8 +33320,8 @@
         "LTE 2100",
         "LTE 2600",
         "TD-LTE 2300",
-        "5G 2300",
-        "5G 3500"
+        "5G 3500",
+        "TD-5G 2300"
       ],
       "brand": "Optus",
       "cc2s": [
@@ -33220,7 +33338,8 @@
         "UMTS 2100",
         "LTE 850",
         "LTE 1800",
-        "LTE 2100"
+        "LTE 2100",
+        "5G 3500"
       ],
       "brand": "Vodafone",
       "cc2s": [
@@ -34592,7 +34711,8 @@
         "UMTS 900",
         "UMTS 2100",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 2100"
       ],
       "brand": "M1",
       "cc2s": [
@@ -43251,7 +43371,7 @@
       "bands": [
         "MVNO"
       ],
-      "brand": "1nce GmbH",
+      "brand": "1NCE",
       "cc2s": [],
       "country": "International_operators",
       "ope": true,

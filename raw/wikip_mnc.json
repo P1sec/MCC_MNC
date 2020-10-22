@@ -1295,7 +1295,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 2600",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
         "brand": "Orange",
         "codes_alpha_2": [
           "FR"
@@ -1310,7 +1310,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
         "brand": "Orange",
         "codes_alpha_2": [
           "FR"
@@ -1415,7 +1415,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
         "brand": "SFR",
         "codes_alpha_2": [
           "FR"
@@ -1430,7 +1430,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 LTE 2600",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
         "brand": "SFR",
         "codes_alpha_2": [
           "FR"
@@ -1475,7 +1475,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
         "brand": "SFR",
         "codes_alpha_2": [
           "FR"
@@ -1505,7 +1505,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600",
         "brand": "Free",
         "codes_alpha_2": [
           "FR"
@@ -1520,7 +1520,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2600",
         "brand": "Free",
         "codes_alpha_2": [
           "FR"
@@ -1575,12 +1575,12 @@
         "country_url": "https://en.wikipedia.org/wiki/France",
         "mcc": "208",
         "mnc": "19",
-        "notes": "Former Altitude Infrastructure;[78][75] fixed wireless",
+        "notes": "Former Altitude Infrastructure;[79][76] fixed wireless",
         "operator": "Haute-Garonne num\u00e9rique",
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
         "brand": "Bouygues",
         "codes_alpha_2": [
           "FR"
@@ -1635,7 +1635,7 @@
         "country_url": "https://en.wikipedia.org/wiki/France",
         "mcc": "208",
         "mnc": "23",
-        "notes": "Former Omea Telecom (bought by SFR in 2014);[78][79] fixed wireless",
+        "notes": "Former Omea Telecom (bought by SFR in 2014);[79][80] fixed wireless",
         "operator": "Syndicat mixte ouvert Charente Num\u00e9rique",
         "status": "operational"
       },
@@ -1910,7 +1910,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
         "brand": "Bouygues",
         "codes_alpha_2": [
           "FR"
@@ -2040,7 +2040,7 @@
         "country_url": "https://en.wikipedia.org/wiki/France",
         "mcc": "208",
         "mnc": "96",
-        "notes": "Former Axione;[78][75] fixed wireless",
+        "notes": "Former Axione;[79][76] fixed wireless",
         "operator": "R\u00e9gion Bourgogne-Franche-Comt\u00e9",
         "status": "operational"
       },
@@ -2130,7 +2130,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Spain",
         "mcc": "214",
         "mnc": "02",
-        "notes": "[136] Some MVNO use this MNC (Fibracat, Aircom, Anxanet, Netports)",
+        "notes": "[137] Some MVNO use this MNC (Fibracat, Aircom, Anxanet, Netports)",
         "operator": "Alta Tecnologia en Comunicacions SL",
         "status": "operational"
       },
@@ -3420,9 +3420,9 @@
         "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "53",
-        "notes": "MNC planned to be used in 2020",
+        "notes": "MNC used from Jan, 2020",
         "operator": "COOP Voce",
-        "status": "unknown"
+        "status": "operational"
       },
       {
         "bands": "MVNO",
@@ -3710,7 +3710,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
         "brand": "Salt",
         "codes_alpha_2": [
           "CH"
@@ -4085,7 +4085,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
         "brand": "T-Mobile",
         "codes_alpha_2": [
           "CZ"
@@ -4100,7 +4100,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / TD-LTE 2600",
         "brand": "O2",
         "codes_alpha_2": [
           "CZ"
@@ -4155,9 +4155,9 @@
         "country_url": "https://en.wikipedia.org/wiki/Czech_Republic",
         "mcc": "230",
         "mnc": "05",
-        "notes": "Former TRAVEL TELEKOMMUNIKATION",
+        "notes": "Former TRAVEL TELEKOMMUNIKATION;",
         "operator": "PODA a.s.",
-        "status": "unknown"
+        "status": "operational"
       },
       {
         "bands": "TD-LTE 3700",
@@ -4280,7 +4280,7 @@
         "status": "operational"
       },
       {
-        "bands": "LTE 1800 / TD-LTE 3500 / TD-LTE 3700",
+        "bands": "LTE 1800 / TD-LTE 3500 / TD-LTE 3700 / 5G 3500",
         "brand": "4ka",
         "codes_alpha_2": [
           "SK"
@@ -4325,7 +4325,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / TD-LTE 3500 / TD-LTE 3700",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / TD-LTE 3500 / TD-LTE 3700 / 5G 3500",
         "brand": "O2",
         "codes_alpha_2": [
           "SK"
@@ -4415,7 +4415,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
         "brand": "A1.net",
         "codes_alpha_2": [
           "AT"
@@ -4445,7 +4445,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
+        "bands": "GSM 900 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
         "brand": "Magenta",
         "codes_alpha_2": [
           "AT"
@@ -4475,7 +4475,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
         "brand": "3",
         "codes_alpha_2": [
           "AT"
@@ -6074,7 +6074,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
         "brand": "TDC",
         "codes_alpha_2": [
           "DK"
@@ -6164,7 +6164,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600",
+        "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600 / TD-LTE 2600",
         "brand": "3",
         "codes_alpha_2": [
           "DK"
@@ -6542,7 +6542,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800",
         "brand": "",
         "codes_alpha_2": [
           "DK"
@@ -7739,7 +7739,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 3500",
+        "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 2600 / 5G 3500",
         "brand": "Elisa",
         "codes_alpha_2": [
           "FI"
@@ -7844,7 +7844,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
+        "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
         "brand": "DNA",
         "codes_alpha_2": [
           "FI"
@@ -8504,7 +8504,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
+        "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 700 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
         "brand": "Telia",
         "codes_alpha_2": [
           "FI"
@@ -8879,7 +8879,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100",
         "brand": "Tele2",
         "codes_alpha_2": [
           "EE"
@@ -8909,8 +8909,8 @@
         "status": "operational"
       },
       {
-        "bands": "Unknown",
-        "brand": "",
+        "bands": "MVNO",
+        "brand": "CSC Telecom",
         "codes_alpha_2": [
           "EE"
         ],
@@ -8921,7 +8921,7 @@
         "mnc": "05",
         "notes": "Former AS Bravocom Mobiil",
         "operator": "CSC Telecom Estonia O\u00dc",
-        "status": "unknown"
+        "status": "operational"
       },
       {
         "bands": "UMTS 2100",
@@ -9116,6 +9116,21 @@
         "mnc": "18",
         "notes": "",
         "operator": "Cloud Communications O\u00dc",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [
+          "EE"
+        ],
+        "country_name": "Estonia",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Estonia",
+        "mcc": "248",
+        "mnc": "19",
+        "notes": "",
+        "operator": "OkTelecom O\u00dc",
         "status": "unknown"
       },
       {
@@ -10979,7 +10994,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2600 / 5G 2100 / 5G 3500",
+        "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
         "brand": "Telekom",
         "codes_alpha_2": [
           "DE"
@@ -10994,7 +11009,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600 / 5G 700 / 5G 1800 / 5G 3500",
+        "bands": "GSM 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 3500",
         "brand": "Vodafone",
         "codes_alpha_2": [
           "DE"
@@ -11009,7 +11024,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "GSM 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 3500",
         "brand": "O2",
         "codes_alpha_2": [
           "DE"
@@ -11054,7 +11069,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
         "brand": "Telekom",
         "codes_alpha_2": [
           "DE"
@@ -11621,7 +11636,7 @@
         "mnc": "09",
         "notes": "",
         "operator": "Eazitelecom",
-        "status": "operational"
+        "status": "unknown"
       },
       {
         "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
@@ -11834,7 +11849,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 1800 / 5G 700 / 5G 3500",
         "brand": "POST",
         "codes_alpha_2": [
           "LU"
@@ -11909,7 +11924,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / 5G 700 / 5G 3500",
         "brand": "Tango",
         "codes_alpha_2": [
           "LU"
@@ -12059,7 +12074,7 @@
         "status": "unknown"
       },
       {
-        "bands": "UMTS 2100 / LTE 800 / LTE 1800",
+        "bands": "UMTS 2100 / LTE 800 / LTE 1800 / 5G 3500",
         "brand": "3",
         "codes_alpha_2": [
           "IE"
@@ -13556,7 +13571,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Liechtenstein",
         "mcc": "295",
         "mnc": "77",
-        "notes": "Bankruptcy in February 2012,[132] former Tele2, MNC withdrawn",
+        "notes": "Bankruptcy in February 2012,[133] former Tele2, MNC withdrawn",
         "operator": "Alpcom AG",
         "status": "unknown"
       },
@@ -13963,7 +13978,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Canada",
         "mcc": "302",
         "mnc": "490",
-        "notes": "Former Wind Mobile; LTE bands 13, 4, 66, 7",
+        "notes": "Former Wind Mobile; LTE bands 4, 7, 13, 66",
         "operator": "Shaw Communications",
         "status": "operational"
       },
@@ -14328,6 +14343,21 @@
         "status": "operational"
       },
       {
+        "bands": "Unknown",
+        "brand": "SaskTel",
+        "codes_alpha_2": [
+          "CA"
+        ],
+        "country_name": "Canada",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Canada",
+        "mcc": "302",
+        "mnc": "681",
+        "notes": "",
+        "operator": "SaskTel Mobility",
+        "status": "unknown"
+      },
+      {
         "bands": "UMTS 850 / UMTS 1900",
         "brand": "Bell",
         "codes_alpha_2": [
@@ -14403,7 +14433,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 / 5G 2500",
+        "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 / 5G 600 / 5G 1700 / TD-5G 2600",
         "brand": "Rogers Wireless",
         "codes_alpha_2": [
           "CA"
@@ -14521,6 +14551,21 @@
         "notes": "Saskatchewan; LTE bands 13, 4",
         "operator": "SaskTel Mobility",
         "status": "operational"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "SaskTel",
+        "codes_alpha_2": [
+          "CA"
+        ],
+        "country_name": "Canada",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Canada",
+        "mcc": "302",
+        "mnc": "781",
+        "notes": "",
+        "operator": "SaskTel Mobility",
+        "status": "unknown"
       },
       {
         "bands": "WiMAX / TD-LTE 3500",
@@ -15265,7 +15310,7 @@
         "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
         "mcc": "310",
         "mnc": "150",
-        "notes": "Originally BellSouth Mobility DCS, then Cingular Wireless,[47] then Aio Wireless, then rebranded as the new GSM Cricket Wireless",
+        "notes": "Originally BellSouth Mobility DCS, then Cingular Wireless,[48] then Aio Wireless, then rebranded as the new GSM Cricket Wireless",
         "operator": "AT&T Mobility",
         "status": "operational"
       },
@@ -15295,7 +15340,7 @@
         "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
         "mcc": "310",
         "mnc": "170",
-        "notes": "Formerly Pacific Bell Wireless, then Cingular Wireless[47] CA/NV known as \"Cingular Orange\"",
+        "notes": "Formerly Pacific Bell Wireless, then Cingular Wireless[48] CA/NV known as \"Cingular Orange\"",
         "operator": "AT&T Mobility",
         "status": "operational"
       },
@@ -15613,7 +15658,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Guam",
         "mcc": "310",
         "mnc": "370",
-        "notes": "Formerly HafaTEL, then Guamcell;[50][7] CDMA 850 shut down in late 2010",
+        "notes": "Formerly HafaTEL, then Guamcell;[51][7] CDMA 850 shut down in late 2010",
         "operator": "NTT DoCoMo Pacific",
         "status": "operational"
       },
@@ -15682,7 +15727,7 @@
       },
       {
         "bands": "GSM 1900 / UMTS 1900 / LTE 700",
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "codes_alpha_2": [
           "GU"
         ],
@@ -15694,13 +15739,13 @@
         "country_url": "https://en.wikipedia.org/wiki/Guam",
         "mcc": "310",
         "mnc": "400",
-        "notes": "",
-        "operator": "Wave Runner LLC",
+        "notes": "Former iConnect, Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "status": "operational"
       },
       {
         "bands": "GSM 1900 / UMTS 1900 / LTE 700",
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "codes_alpha_2": [
           "US"
         ],
@@ -15709,8 +15754,8 @@
         "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
         "mcc": "310",
         "mnc": "400",
-        "notes": "Guam",
-        "operator": "Wave Runner LLC",
+        "notes": "Guam; former iConnect, Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "status": "operational"
       },
       {
@@ -15769,7 +15814,7 @@
         "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
         "mcc": "310",
         "mnc": "440",
-        "notes": "Former Dobson / Cellular One;[52][50] M2M only",
+        "notes": "Former Dobson / Cellular One;[54][51] M2M only",
         "operator": "Numerex",
         "status": "operational"
       },
@@ -15838,7 +15883,7 @@
       },
       {
         "bands": "iDEN",
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "codes_alpha_2": [
           "GU"
         ],
@@ -15850,13 +15895,13 @@
         "country_url": "https://en.wikipedia.org/wiki/Guam",
         "mcc": "310",
         "mnc": "480",
-        "notes": "",
-        "operator": "Wave Runner LLC",
+        "notes": "Former iConnect, Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "status": "operational"
       },
       {
         "bands": "iDEN",
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "codes_alpha_2": [
           "US"
         ],
@@ -15865,8 +15910,8 @@
         "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
         "mcc": "310",
         "mnc": "480",
-        "notes": "Guam; also known as Choice Phone LLC",
-        "operator": "Wave Runner LLC",
+        "notes": "Guam; former Choice Phone LLC, iConnect, Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "status": "operational"
       },
       {
@@ -17116,7 +17161,7 @@
       },
       {
         "bands": "Unknown",
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "codes_alpha_2": [
           "GU"
         ],
@@ -17128,13 +17173,13 @@
         "country_url": "https://en.wikipedia.org/wiki/Guam",
         "mcc": "311",
         "mnc": "120",
-        "notes": "",
-        "operator": "Wave Runner LLC",
+        "notes": "Former iConnect, Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "status": "operational"
       },
       {
         "bands": "Unknown",
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "codes_alpha_2": [
           "US"
         ],
@@ -17143,8 +17188,8 @@
         "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
         "mcc": "311",
         "mnc": "120",
-        "notes": "Guam; also known as Choice Phone LLC",
-        "operator": "Wave Runner LLC",
+        "notes": "Guam; former Choice Phone LLC, iConnect, Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "status": "operational"
       },
       {
@@ -17329,7 +17374,7 @@
       },
       {
         "bands": "Unknown",
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "codes_alpha_2": [
           "GU"
         ],
@@ -17341,13 +17386,13 @@
         "country_url": "https://en.wikipedia.org/wiki/Guam",
         "mcc": "311",
         "mnc": "250",
-        "notes": "",
-        "operator": "Wave Runner LLC",
+        "notes": "Former iConnect, Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "status": "operational"
       },
       {
         "bands": "Unknown",
-        "brand": "iConnect",
+        "brand": "IT&E Wireless",
         "codes_alpha_2": [
           "US"
         ],
@@ -17356,8 +17401,8 @@
         "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
         "mcc": "311",
         "mnc": "250",
-        "notes": "Guam",
-        "operator": "Wave Runner LLC",
+        "notes": "Guam; former iConnect, Wave Runner LLC",
+        "operator": "IT&E Overseas, Inc",
         "status": "operational"
       },
       {
@@ -17896,7 +17941,7 @@
         "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
         "mcc": "311",
         "mnc": "430",
-        "notes": "Former Cellular 29 Plus;[50] acquired by Chat Mobility in 2009;[106] Iowa",
+        "notes": "Former Cellular 29 Plus;[51] acquired by Chat Mobility in 2009;[109] Iowa",
         "operator": "RSA 1 LP",
         "status": "unknown"
       },
@@ -21937,6 +21982,36 @@
       },
       {
         "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [
+          "MX"
+        ],
+        "country_name": "Mexico",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Mexico",
+        "mcc": "334",
+        "mnc": "160",
+        "notes": "",
+        "operator": "Cablevisi\u00f3n Red, S.A. de C.V.",
+        "status": "unknown"
+      },
+      {
+        "bands": "MVNO",
+        "brand": "",
+        "codes_alpha_2": [
+          "MX"
+        ],
+        "country_name": "Mexico",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Mexico",
+        "mcc": "334",
+        "mnc": "170",
+        "notes": "",
+        "operator": "Oxio Mobile, S.A. de C.V.",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
         "brand": "FLOW",
         "codes_alpha_2": [
           "JM"
@@ -23405,7 +23480,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
         "mcc": "374",
         "mnc": "12",
-        "notes": "[49] LTE bands 2 / 41",
+        "notes": "[50] LTE bands 2 / 41",
         "operator": "TSTT",
         "status": "operational"
       },
@@ -23465,7 +23540,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
         "mcc": "374",
         "mnc": "140",
-        "notes": "[50] Shut down 2008; Withdrawn",
+        "notes": "[51] Shut down 2008; Withdrawn",
         "operator": "LaqTel Ltd.",
         "status": "unknown"
       },
@@ -23743,7 +23818,7 @@
       },
       {
         "bands": "GSM 900",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -23788,7 +23863,7 @@
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -23803,7 +23878,7 @@
       },
       {
         "bands": "GSM 900",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -23812,13 +23887,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "05",
-        "notes": "Formerly Hutch / Fascel",
+        "notes": "Former Hutch / Fascel /Vodafone India",
         "operator": "Gujarat",
         "status": "operational"
       },
       {
         "bands": "GSM 900",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -23827,7 +23902,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "07",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Andhra Pradesh and Telangana",
         "status": "operational"
       },
@@ -23863,7 +23938,7 @@
       },
       {
         "bands": "GSM 900 / GSM 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -23872,13 +23947,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "11",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Delhi & NCR",
         "status": "operational"
       },
       {
         "bands": "GSM 900",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -23887,13 +23962,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "12",
-        "notes": "Former Escotel",
+        "notes": "Former Escotel IDEA",
         "operator": "Haryana",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -23902,13 +23977,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "13",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Andhra Pradesh and Telangana",
         "status": "operational"
       },
       {
         "bands": "GSM 900 / GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -23917,13 +23992,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "14",
-        "notes": "Former Spice",
+        "notes": "Former Spice IDEA",
         "operator": "Punjab",
         "status": "operational"
       },
       {
         "bands": "GSM 900",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -23932,7 +24007,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "15",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Uttar Pradesh (East)",
         "status": "operational"
       },
@@ -23983,7 +24058,7 @@
       },
       {
         "bands": "GSM 900 / GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -23992,13 +24067,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "19",
-        "notes": "Former Escotel",
+        "notes": "Former Escotel IDEA",
         "operator": "Kerala",
         "status": "operational"
       },
       {
         "bands": "GSM 900 / UMTS 2100",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24007,7 +24082,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "20",
-        "notes": "Former Hutchison Maxtouch / Orange / Hutch",
+        "notes": "Former Hutchison Maxtouch / Orange / Hutch / Vodafone India",
         "operator": "Mumbai",
         "status": "operational"
       },
@@ -24028,7 +24103,7 @@
       },
       {
         "bands": "GSM 900",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24037,13 +24112,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "22",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Maharashtra & Goa",
         "status": "operational"
       },
       {
         "bands": "GSM 900",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24052,7 +24127,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "24",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Gujarat",
         "status": "operational"
       },
@@ -24073,7 +24148,7 @@
       },
       {
         "bands": "GSM 900",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24082,7 +24157,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "27",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Maharashtra & Goa",
         "status": "operational"
       },
@@ -24118,7 +24193,7 @@
       },
       {
         "bands": "GSM 900 / GSM 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24127,7 +24202,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "30",
-        "notes": "Former Command / Hutch",
+        "notes": "former Vodafone India Command / Hutch",
         "operator": "Kolkata",
         "status": "operational"
       },
@@ -24247,7 +24322,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "41",
-        "notes": "Formerly RPG",
+        "notes": "former RPG",
         "operator": "Chennai",
         "status": "operational"
       },
@@ -24268,7 +24343,7 @@
       },
       {
         "bands": "GSM 900",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24277,13 +24352,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "43",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Tamil Nadu",
         "status": "operational"
       },
       {
         "bands": "GSM 900 / LTE 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24292,7 +24367,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "44",
-        "notes": "Former Spice",
+        "notes": "Former Spice IDEA",
         "operator": "Karnataka",
         "status": "operational"
       },
@@ -24313,7 +24388,7 @@
       },
       {
         "bands": "GSM 900",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24322,7 +24397,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "46",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Kerala",
         "status": "operational"
       },
@@ -24448,7 +24523,7 @@
       },
       {
         "bands": "GSM 900",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24457,7 +24532,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "56",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Uttar Pradesh (West)",
         "status": "operational"
       },
@@ -24508,7 +24583,7 @@
       },
       {
         "bands": "GSM 900",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24517,7 +24592,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "60",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Rajasthan",
         "status": "operational"
       },
@@ -24733,7 +24808,7 @@
       },
       {
         "bands": "GSM 900 / UMTS 2100",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24742,7 +24817,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "78",
-        "notes": "",
+        "notes": "formerIDEA",
         "operator": "Madhya Pradesh & Chattishgarh",
         "status": "operational"
       },
@@ -24792,8 +24867,8 @@
         "status": "operational"
       },
       {
-        "bands": "Unknown",
-        "brand": "IDEA",
+        "bands": "unknown",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24802,7 +24877,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "82",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Himachal Pradesh",
         "status": "operational"
       },
@@ -24823,7 +24898,7 @@
       },
       {
         "bands": "GSM 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24832,7 +24907,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "84",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Chennai",
         "status": "operational"
       },
@@ -24853,7 +24928,7 @@
       },
       {
         "bands": "GSM 900 / UMTS 2100 / LTE 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24862,13 +24937,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "86",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Karnataka",
         "status": "operational"
       },
       {
-        "bands": "Unknown",
-        "brand": "IDEA",
+        "bands": "unknown",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24877,13 +24952,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "87",
-        "notes": "",
+        "notes": "formerIDEA",
         "operator": "Rajasthan",
         "status": "operational"
       },
       {
-        "bands": "Unknown",
-        "brand": "Vodafone India",
+        "bands": "unknown",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24892,13 +24967,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "88",
-        "notes": "",
+        "notes": "formerVodafone India",
         "operator": "Vodafone Punjab",
         "status": "operational"
       },
       {
         "bands": "Unknown",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -24907,7 +24982,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "89",
-        "notes": "",
+        "notes": "formerIDEA",
         "operator": "Uttar Pradesh (East)",
         "status": "operational"
       },
@@ -25783,7 +25858,7 @@
       },
       {
         "bands": "GSM 900 / GSM 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -25792,13 +25867,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "66",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Uttar Pradesh (West)",
         "status": "operational"
       },
       {
         "bands": "Unknown",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -25807,13 +25882,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "67",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "West Bengal",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -25822,13 +25897,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "70",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Bihar & Jharkhand",
         "status": "operational"
       },
       {
-        "bands": "GSM 1800",
-        "brand": "Vodafone India",
+        "bands": "Unknown",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -25837,13 +25912,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "750",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Jammu & Kashmir",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -25852,13 +25927,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "751",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Assam",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -25867,13 +25942,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "752",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Bihar & Jharkhand",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -25882,13 +25957,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "753",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Orissa",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -25897,13 +25972,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "754",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Himachal Pradesh",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -25912,13 +25987,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "755",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "North East",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "Vodafone India",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -25927,13 +26002,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "756",
-        "notes": "",
+        "notes": "former Vodafone India",
         "operator": "Madhya Pradesh & Chhattisgarh",
         "status": "operational"
       },
       {
         "bands": "GSM 900 / GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -25942,7 +26017,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "799",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Mumbai",
         "status": "operational"
       },
@@ -26293,7 +26368,7 @@
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26302,13 +26377,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "845",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Assam",
         "status": "operational"
       },
       {
         "bands": "GSM 1800 / UTMS 2100",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26317,13 +26392,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "846",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Jammu & Kashmir",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26332,13 +26407,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "847",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Karnataka",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26347,13 +26422,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "848",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Kolkata",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26362,13 +26437,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "849",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "North East",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26377,13 +26452,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "850",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Orissa",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26392,13 +26467,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "851",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Punjab",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26407,13 +26482,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "852",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Tamil Nadu",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26422,7 +26497,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "853",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "West Bengal",
         "status": "operational"
       },
@@ -26788,7 +26863,7 @@
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26797,13 +26872,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "908",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Andhra Pradesh and Telangana",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26812,13 +26887,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "909",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Delhi",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26827,13 +26902,13 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "910",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Haryana",
         "status": "operational"
       },
       {
         "bands": "GSM 1800",
-        "brand": "IDEA",
+        "brand": "V!",
         "codes_alpha_2": [
           "IN"
         ],
@@ -26842,7 +26917,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "911",
-        "notes": "",
+        "notes": "former IDEA",
         "operator": "Maharashtra",
         "status": "operational"
       },
@@ -28032,7 +28107,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800",
+        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 1800 / 5G 3500",
         "brand": "Partner",
         "codes_alpha_2": [
           "IL"
@@ -28062,7 +28137,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 850 / UMTS 2100 / LTE 1800",
+        "bands": "UMTS 850 / UMTS 2100 / LTE 1800 / 5G 3500",
         "brand": "Pelephone",
         "codes_alpha_2": [
           "IL"
@@ -28152,7 +28227,7 @@
         "status": "operational"
       },
       {
-        "bands": "iDEN 800 / UMTS 2100 / LTE 1800",
+        "bands": "iDEN 800 / UMTS 2100 / LTE 1800 / 5G 3500",
         "brand": "Hot Mobile",
         "codes_alpha_2": [
           "IL"
@@ -29562,7 +29637,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 3500 / 5G 3500",
+        "bands": "UMTS 2100 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 3500 / 5G 3500 / TD-5G 4700",
         "brand": "NTT docomo",
         "codes_alpha_2": [
           "JP"
@@ -29577,7 +29652,7 @@
         "status": "operational"
       },
       {
-        "bands": "LTE 1800",
+        "bands": "LTE 1800 / 5G 3500",
         "brand": "Rakuten Mobile",
         "codes_alpha_2": [
           "JP"
@@ -29637,7 +29712,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -29652,7 +29727,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -29667,7 +29742,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -29682,7 +29757,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -29697,7 +29772,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -29712,7 +29787,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -29727,7 +29802,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -29742,7 +29817,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -29757,7 +29832,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -29772,7 +29847,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -29787,7 +29862,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -29802,7 +29877,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -31949,7 +32024,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / TD-LTE 2300 / LTE 2600 / 5G 2300 / 5G 3500",
+        "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 1800 / LTE 2100 / TD-LTE 2300 / LTE 2600 / TD-5G 2300 / 5G 3500",
         "brand": "Optus",
         "codes_alpha_2": [
           "AU"
@@ -31964,7 +32039,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 900 / UMTS 2100 / LTE 850 / LTE 1800 / LTE 2100",
+        "bands": "UMTS 900 / UMTS 2100 / LTE 850 / LTE 1800 / LTE 2100 / 5G 3500",
         "brand": "Vodafone",
         "codes_alpha_2": [
           "AU"
@@ -33449,7 +33524,7 @@
         "status": "unknown"
       },
       {
-        "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600",
+        "bands": "UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600 / 5G 2100",
         "brand": "M1",
         "codes_alpha_2": [
           "SG"
@@ -41955,7 +42030,7 @@
       },
       {
         "bands": "MVNO",
-        "brand": "1nce GmbH",
+        "brand": "1NCE",
         "codes_alpha_2": [],
         "country_name": "International_operators",
         "country_sub": null,

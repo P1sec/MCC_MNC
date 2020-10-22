@@ -173,7 +173,7 @@ P1_CNTR = \
                                                 'LTE service growth in additional provinces and rural areas',
                                                 'upgrade to LTE infrastructure and migration to 5G',
                                                 'LTE subscriber rate up 82% in 2018',
-                                                'Huawei opens smart phone assembly plant in Algeria',
+                                                'Chinese company Huawei opens smart phone assembly plant in Algeria',
                                                 'ending of monopolies have made broadband services more affordable',
                                                 'Algeria and Tunisia end roaming charges for travelers',
                                                 2020],
@@ -300,7 +300,7 @@ P1_CNTR = \
                                   'domestic': [ 'only about one fixed-line per 100 persons',
                                                 'mobile-cellular teledensity about 44 telephones per 100 persons',
                                                 2018],
-                                  'general': [ 'progress on opening up the telecom sector to new competitors, while '
+                                  'general': [ 'progress in opening up the telecom sector to new competitors, while '
                                                'still retaining a 45% govt. portion of the share',
                                                'slow progress in LTE network development, with only about 12% of the '
                                                'country covered by network infrastructure',
@@ -466,8 +466,8 @@ P1_CNTR = \
                                      'general': [ 'one of the highest broadband penetrations in Latin America, '
                                                   'supported by operator investment and govt. programs aimed at '
                                                   'expansion',
-                                                  'govt. provides 20 million euros for two 5G trials, Huawei conducts '
-                                                  '5G trials',
+                                                  'govt. provides 20 million euros for two 5G trials, Chinese company '
+                                                  'Huawei conducts 5G trials',
                                                   'major networks are entirely digital and the availability of '
                                                   'telephone service continues to improve to rural areas',
                                                   "Argentinians' own multiple SIM cards for work and personal use",
@@ -887,7 +887,7 @@ P1_CNTR = \
                                    'general': [ 'well-developed LTE networks, 5G trials tested and deployment in the '
                                                 'near future',
                                                 'mobile penetration is high compared to the region',
-                                                'development of its own National Broadband Network (NBN)',
+                                                'development of its own national broadband network',
                                                 'competition is good and telecoms are regulated',
                                                 'telecom contributes 4% to the GDP',
                                                 2020],
@@ -978,7 +978,7 @@ P1_CNTR = \
                                                   2018],
                                     'general': [ 'island-wide automatic telephone system',
                                                  'telecom sector across the Caribbean region remains one of the key '
-                                                 'growth areas and contributors to the GDP',
+                                                 'growth areas and contributors to the overall GDP',
                                                  'numerous competitors licensed, but small and localized',
                                                  2020],
                                     'intl': [ 'landing points for the ECFS and Southern Caribbean Fiber submarine '
@@ -1159,8 +1159,8 @@ P1_CNTR = \
                                                 'per 100 persons',
                                                 'mobile sector accounting for over 90% of all phone subscriptions',
                                                 2018],
-                                  'general': [ 'govt. telecom company, Belize Telemedia Ltd. (BTL), continues to hold '
-                                               'a monopoly in fixed-line services, mobile and broadband fixed-line '
+                                  'general': [ 'govt. telecom company, Belize Telemedia Ltd., continues to hold a '
+                                               'monopoly in fixed-line services, mobile and broadband fixed-line '
                                                'teledensity',
                                                'it is a small market',
                                                'fixed-line teledensity and mobile penetration below regional average',
@@ -1492,9 +1492,10 @@ P1_CNTR = \
                                                  'adoption of 3G, LTE and WiMAX technologies',
                                                  'mobile Internet remains the preferred choice',
                                                  'the expansion of a fully digital system with fiber-optic cables '
-                                                 'linking the major population centers in the east as well as a system '
-                                                 'of open-wire lines, still the use of multiple SIM cards has delayed '
-                                                 'the introduction of mobile number portability (MNP)',
+                                                 'along with a system of open-wire lines links the major population '
+                                                 'centers in the east',
+                                                 'the use of multiple SIM cards has delayed the introduction of mobile '
+                                                 'number portability (MNP)',
                                                  2020],
                                     'intl': [ 'international calls are made via satellite, using international direct '
                                               'dialing',
@@ -1574,7 +1575,7 @@ P1_CNTR = \
                                                'four major mobile operators offering a range of voice and data '
                                                'services',
                                                'broadband penetration only behind Chile, Argentina, and Uruguay',
-                                               'country is a pioneer in the region for m-commerce (electronic commerce '
+                                               'country is a pioneer in the region for M-commerce (electronic commerce '
                                                'conducted on mobile phones)',
                                                2020],
                                   'intl': [ 'landing points for a number of submarine cables, including Malbec, ARBR, '
@@ -2120,6 +2121,7 @@ P1_CNTR = \
                           '302660',
                           '302670',
                           '302680',
+                          '302681',
                           '302690',
                           '302701',
                           '302702',
@@ -2133,6 +2135,7 @@ P1_CNTR = \
                           '302760',
                           '302770',
                           '302780',
+                          '302781',
                           '302790',
                           '302820',
                           '302860',
@@ -2374,7 +2377,7 @@ P1_CNTR = \
                                               'the country ranks second highest in South and Central America in terms '
                                               'of available broadband speeds',
                                               'effective competition in the broadband and mobile sectors',
-                                              'LTE infrastructure is extensive but National Plan for 5G services '
+                                              'LTE infrastructure is extensive but national plan for 5G services '
                                               'awaits spectrum auctions',
                                               'during the COVID-19 pandemic Chile provided free access to educational '
                                               'content for about 3 million school pupils',
@@ -2472,7 +2475,7 @@ P1_CNTR = \
                                               'one of the biggest drivers of commercial growth is its increasing '
                                               'urbanization rate as rural residents move to cities',
                                               "China will be the world's largest 5G market",
-                                              'Chinese mobile market to reach penetration of 134% by 2024',
+                                              'the Chinese mobile market to reach penetration of 134% by 2024',
                                               'maintains the largest M2M market in the world',
                                               2020],
                                  'intl': [ 'landing points for the RJCN, EAC-C2C, TPE, APCN-2, APG, NCP, TEA, '
@@ -2610,8 +2613,8 @@ P1_CNTR = \
                                                   2018],
                                     'general': [ 'fastest growing sector is mobile broadband with LTE infrastructure '
                                                  'and investment in 5G',
-                                                 'strong demand in rural areas for mobile broadband, so potential is '
-                                                 'high while penetration is low',
+                                                 'strong demand in rural areas for mobile broadband, potential is high '
+                                                 'while penetration is low',
                                                  'fiber-optic network linking 50 cities',
                                                  'the cable sector commands about half of the market by subscribers, '
                                                  'with DSL having a declining share while fiber-based broadband is '
@@ -2838,10 +2841,10 @@ P1_CNTR = \
                                                 'Balkans region',
                                                 'covering much of what were once inaccessible areas',
                                                 'local lines are digital',
-                                                'telecoms market in Croatia has been shaped by Croatia becoming part '
-                                                'of the European Union in 2013, a process which opened up the market '
-                                                'and the creation of a regulatory environment leading to competition '
-                                                'in mobile and broadband',
+                                                'telecom market in Croatia has been shaped by Croatia becoming part of '
+                                                'the European Union in 2013, a process which opened up the market and '
+                                                'the creation of a regulatory environment leading to competition in '
+                                                'mobile and broadband',
                                                 'investment among operators has led to a relatively high broadband '
                                                 'penetration in the region',
                                                 'trials for 5G technologies underway',
@@ -2882,7 +2885,7 @@ P1_CNTR = \
                                 'domestic': [ 'fixed-line density remains low at about 13 per 100 inhabitants',
                                               'mobile-cellular service is expanding to about 48 per 100 persons',
                                               2018],
-                                'general': [ 'lowest mobile phone and Internet penetration rates in the region, while '
+                                'general': [ 'lowest mobile phone and Internet penetration rates in the region, '
                                              'fixed-line teledensity is also low',
                                              'fixed-line and mobile services run by the state-run ETESCA',
                                              'mobile-cellular telephone service is expensive and must be paid in '
@@ -2929,7 +2932,7 @@ P1_CNTR = \
                                        'land curacao (dutch); pais korsou (papiamento)',
                                        'the country of curaçao'],
                           'tel': { 'domestic': [ '39 per 100 users for fixed-line and 124 per 100 users for '
-                                                 'cellular-mobile, majority of the islanders have internet',
+                                                 'cellular-mobile, majority of the islanders have Internet',
                                                  'market revenue has been affected in recent quarters as a result of '
                                                  'competition and regulatory measures on termination rates and roaming '
                                                  'tariffs',
@@ -3576,7 +3579,7 @@ P1_CNTR = \
                                        'general': [ 'multiple mobile-cellular operators began rolling out Long Term '
                                                     'Evolution (LTE) data services in late-2016',
                                                     'Internet usage grew almost 400% between 2007 and 2015',
-                                                    '6% of phones are fixed-line while 94% are mobile-cellular',
+                                                    '6% of phones are fixed-line, while 94% are mobile-cellular',
                                                     'as of March 2019, the regulator launched a public dialog that '
                                                     'allowed mobile network operators to improve the reach and quality '
                                                     'of service',
@@ -3753,6 +3756,7 @@ P1_CNTR = \
                            '24816',
                            '24817',
                            '24818',
+                           '24819',
                            '24871'],
                'msisdn': ['372'],
                'name': 'Estonia',
@@ -5913,8 +5917,8 @@ P1_CNTR = \
                                                   'high mobile penetration and moderate mobile broadband penetration',
                                                   '4G mobile services are relatively advanced, 7 operators compete for '
                                                   'revenue in the Indonesian market',
-                                                  'Chinese company Huawei and LTE work on the development of 5G '
-                                                  'technology in the country',
+                                                  'Chinese company Huawei working on the development of 5G technology '
+                                                  'in the country',
                                                   'mobile broadband market still in early stages of development',
                                                   'data center market has experienced significant growth',
                                                   'Kacific-1 satellite launched in 2019 to significantly improve '
@@ -6063,7 +6067,7 @@ P1_CNTR = \
                        'tel': { 'code': '964',
                                 'domestic': [ 'the mobile cellular market continues to expand',
                                               '3G services offered by three major mobile operators',
-                                              '4G offered by one operator in Iraqi Kurdistan Region',
+                                              '4G offered by one operator in Iraqi',
                                               'conflict has destroyed infrastructure in areas',
                                               '7 per 100 for fixed-line and 98 per 100 for mobile-cellular '
                                               'subscriptions',
@@ -6194,7 +6198,7 @@ P1_CNTR = \
                                                'in 2019 govt. began process of 5G licensing',
                                                2020],
                                   'intl': [ 'landing points for the MedNautilus Submarine System, Tameres North, Jonah '
-                                            'and Lev Submarine System submarine cables that provide links to Europe, '
+                                            'and Lev Submarine System, submarine cables that provide links to Europe, '
                                             'Cyprus, and parts of the Middle East',
                                             'satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian '
                                             'Ocean)',
@@ -6407,7 +6411,7 @@ P1_CNTR = \
                                                  'declined, cellular-mobile has grown 105 per 100 subscriptions',
                                                  2018],
                                    'general': [ 'good domestic and international service',
-                                                'mobile sector dominate, accounting for 82% of the Internet '
+                                                'mobile sector dominates, accounting for 82% of the Internet '
                                                 'connections',
                                                 'extensive LTE networks providing coverage to 90% of the island '
                                                 'population',
@@ -6774,10 +6778,10 @@ P1_CNTR = \
                                      'republic of kenya/jamhuri ya kenya',
                                      'the republic of kenya'],
                         'tel': { 'code': '254',
-                                 'domestic': [ 'multiple providers in the mobile-cellular segment of the market '
+                                 'domestic': [ 'fixed-line subscriptions stand at less than 1 per 100 persons',
+                                               'multiple providers in the mobile-cellular segment of the market '
                                                'fostering a boom in mobile-cellular telephone usage with teledensity '
                                                'reaching 97 per 100 persons',
-                                               'fixed-line subscriptions stand at less than 1 per 100 persons',
                                                2018],
                                  'general': [ 'the mobile-cellular system is generally good with a mobile subscriber '
                                               'base of 47 million, especially in urban areas',
@@ -6787,7 +6791,7 @@ P1_CNTR = \
                                               'open-access approach and pushed for a national broadband strategy',
                                               'more licensing being awarded has led to competition which is good for '
                                               'growth',
-                                              'govt. commits KE 300million to its free Wi-Fi project',
+                                              'govt. commits KE 300 million to its free Wi-Fi project',
                                               2020],
                                  'intl': [ 'landing point for the EASSy, TEAMS, LION2, DARE1, PEACE Cable, and SEACOM '
                                            'fiber-optic submarine cable systems covering East, North and South Africa, '
@@ -6833,7 +6837,7 @@ P1_CNTR = \
                            'tel': { 'code': '686',
                                     'domestic': [ 'fixed-line 1 per 100 and mobile-cellular 54 per 100 subscriptions',
                                                   2000],
-                                    'general': [ 'generally good quality national and international service',
+                                    'general': [ 'generally good national and international service',
                                                  'wireline service available on Tarawa and Kiritimati (Christmas '
                                                  'Island)',
                                                  'connections to outer islands by HF/VHF radiotelephone',
@@ -6934,7 +6938,7 @@ P1_CNTR = \
                                                'new telephone exchanges provide a large capacity for new subscribers',
                                                'trunk traffic is carried by microwave radio relay, coaxial cable, and '
                                                'open-wire and fiber-optic cable',
-                                               'a 4G LTE mobile-cellular telephone system operates throughout Kuwai',
+                                               'a 4G LTE mobile-cellular telephone system operates throughout Kuwait',
                                                'Internet access is available via 4G LTE connections for fixed and '
                                                'mobile users',
                                                'high ownership of smart phone in Kuwait',
@@ -7178,9 +7182,9 @@ P1_CNTR = \
                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_lt.html'},
                           'nameset': ['kingdom of lesotho', 'lesotho', 'the kingdom of lesotho'],
                           'tel': { 'code': '266',
-                                   'domestic': [ 'mobile-cellular service dominates the market with a subscribership '
+                                   'domestic': [ 'fixed-line is 1 per 100 subscriptions',
+                                                 'mobile-cellular service dominates the market with a subscribership '
                                                  'now over 122 per 100 persons',
-                                                 'fixed-line is 1 per 100 subscriptions',
                                                  'rudimentary system consisting of a modest number of landlines, a '
                                                  'small microwave radio relay system, and a small radiotelephone '
                                                  'communication system',
@@ -7626,7 +7630,7 @@ P1_CNTR = \
                                                   2018],
                                     'general': [ 'one of the most advanced telecom networks in the developing world',
                                                  'strong commitment to developing a technological society',
-                                                 'Malaysia is promoting itself as an Information Tech hub in the Asian '
+                                                 'Malaysia is promoting itself as an information tech hub in the Asian '
                                                  'region',
                                                  'closing the urban rural divide',
                                                  '4G and 5G networks with strong competition, mobile dominance over '
@@ -7635,9 +7639,9 @@ P1_CNTR = \
                                                  2020],
                                     'intl': [ 'landing points for BBG, FEA, SAFE, SeaMeWe-3 & 4 & 5, AAE-1, JASUKA, '
                                               'BDM, Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West Submarine '
-                                              'Cable System, SEAX-1, SKR1M, APCN-2, APG, BtoBe, MCT, BaSICS, and '
-                                              'Labuan-Brunei Submarine cable providing connectivity to Asia, the '
-                                              'Middle East, Southeast Asia, Australia and Europe',
+                                              'Cable System, SEAX-1, SKR1M, APCN-2, APG, BtoBe, BaSICS, and '
+                                              'Labuan-Brunei Submarine and MCT submarine cables providing connectivity '
+                                              'to Asia, the Middle East, Southeast Asia, Australia and Europe',
                                               'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean)',
                                               'launch of Kacific-1 satellite in 2019',
                                               2019],
@@ -8068,6 +8072,8 @@ P1_CNTR = \
                           '334130',
                           '334140',
                           '334150',
+                          '334160',
+                          '334170',
                           '33450'],
               'msisdn': ['52'],
               'name': 'Mexico',
@@ -8452,7 +8458,7 @@ P1_CNTR = \
                                                 'low compared to other nations in the region, but expanding nationally',
                                                 'moving past fixed broadband to mobile device access for Internet '
                                                 'services',
-                                                'rollout of 4G to eventually 5 G networks',
+                                                'rollout of 4G to eventually 5G networks',
                                                 2020],
                                    'intl': [ 'landing points for the SeaMeWe-3, SeaMeWe-5, AAE-1 and Singapore-Myanmar '
                                              'optical telecommunications submarine cable that provides links to Asia, '
@@ -8508,7 +8514,7 @@ P1_CNTR = \
                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_wa.html'},
                           'nameset': ['namibia', 'republic of namibia', 'the republic of namibia'],
                           'tel': { 'code': '264',
-                                   'domestic': [ 'fixed-line subscribership of 6 per 100 and mobile-cellular 109 per '
+                                   'domestic': [ 'fixed-line subscribership is 6 per 100 and mobile-cellular 109 per '
                                                  '100 persons',
                                                  2019],
                                    'general': [ 'fixed-line still a govt. monopoly',
@@ -9406,7 +9412,7 @@ P1_CNTR = \
                         'tel': { 'code': '680',
                                  'domestic': [ 'fixed-line 34 per 100 and mobile-cellular services 112 per 100 persons',
                                                2018],
-                                 'general': [ 'well-developed mobile sector recently boosted by satellite network '
+                                 'general': [ 'well-developed mobile sector, recently boosted by satellite network '
                                               'capacity upgrades',
                                               '3G services available with satellite',
                                               'lack of telecom regulations',
@@ -9559,8 +9565,8 @@ P1_CNTR = \
                                                  'available',
                                                  'competition in mobile market among 4 operators',
                                                  '18 mobile phones for every fixed-line service phone',
-                                                 'mobile and Internet market operators bring new investment and they '
-                                                 'are working towards LTE',
+                                                 'mobile and Internet market operators bring new investment and '
+                                                 'working towards LTE',
                                                  2020],
                                     'intl': [ "Paraguay's landlocked position means they must depend on neighbors for "
                                               'interconnection with submarine cable networks, making it cost more for '
@@ -10533,7 +10539,7 @@ P1_CNTR = \
                                                               'broadband access',
                                                               'expanded FttP (Fiber to the Home) and LTE markets',
                                                               'regulatory development',
-                                                              'telecom sector contributes to the overall GDP',
+                                                              'telecom sector contributes greatly to the overall GDP',
                                                               'telecom sector is a growth area',
                                                               2020],
                                                  'intl': [ 'landing points for the ECFS, Southern Caribbean Fiber and '
@@ -10621,7 +10627,7 @@ P1_CNTR = \
                                                      'broadband access',
                                                      'expanded FttP (Fiber to the Home) and LTE markets',
                                                      'regulatory development',
-                                                     'telecom sector contributes to the overall GDP',
+                                                     'telecom sector contributes greatly to the overall GDP',
                                                      'telecom sector is a growth area',
                                                      2020],
                                         'intl': [ 'landing points for the SMPR-1, Southern Caribbean Fiber and the '
@@ -10713,8 +10719,8 @@ P1_CNTR = \
                                                                          'expanded FttP (Fiber to the Home) markets',
                                                                          'LTE launches',
                                                                          'regulatory development',
-                                                                         'telecom sector contributes to the overall '
-                                                                         'GDP',
+                                                                         'telecom sector contributes greatly to the '
+                                                                         'overall GDP',
                                                                          'telecom sector is a growth area',
                                                                          2020],
                                                             'intl': [ 'landing points for the ECFS, CARCIP and '
@@ -11054,7 +11060,7 @@ P1_CNTR = \
                                                    'radiotelephone communications between islands in the archipelago',
                                                    '3 ISPs',
                                                    "use of Internet cafes' for access to Internet",
-                                                   '4G services and 5G soon',
+                                                   '4G services and 5G pending',
                                                    2020],
                                       'intl': [ 'landing points for the PEACE and the SEAS submarine cables providing '
                                                 'connectivity to Europe, the Middle East, Africa and Asia',
@@ -11090,13 +11096,13 @@ P1_CNTR = \
                                'tel': { 'code': '232',
                                         'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular 102 per 100',
                                                       2018],
-                                        'general': [ 'stability in the country has led to international investment',
-                                                     'telecom regulator continues to improve market',
+                                        'general': [ 'the stability in the country has led to international investment',
+                                                     'telecom regulator continues to improve the market',
                                                      'telephone service improving with the expansion of the mobile '
                                                      'sector',
                                                      'mobile-cellular service has grown rapidly from a small base, '
                                                      'overcoming the deficiencies of the fixed-line sector',
-                                                     'mobile sector high penetration',
+                                                     'mobile sector has a high penetration',
                                                      'regulator approves 27% price increase for mobile voice calls',
                                                      'LTE launched in 2018 to compete with state owned almost monopoly '
                                                      'on fixed-line',
@@ -11269,7 +11275,7 @@ P1_CNTR = \
                                         'the slovak republic'],
                            'tel': { 'code': '421',
                                     'domestic': [ 'four companies have a license to operate cellular networks and '
-                                                  'provide nationwide cellular services (cellular operators)',
+                                                  'provide nationwide cellular services',
                                                   'a few other companies provide services but do not have their own '
                                                   'networks',
                                                   'fixed-line 13 per 100 and mobile-cellular 133 per 100 teledensity',
@@ -11496,7 +11502,8 @@ P1_CNTR = \
                                                       'key centers are Bloemfontein, Cape Town, Durban, Johannesburg, '
                                                       'Port Elizabeth, and Pretoria',
                                                       2018],
-                                        'general': [ 'the system is the best-developed and most modern in Africa',
+                                        'general': [ 'the telecommunication system is the best-developed and most '
+                                                     'modern in Africa',
                                                      'mobile Internet accounts for about 95% of Internet connections',
                                                      '94% with access to WiMAX/LTE services',
                                                      'LTE-A services launched for commercial use',
@@ -11897,12 +11904,12 @@ P1_CNTR = \
                                                'telephones per 100 persons',
                                                2018],
                                  'general': [ 'well-equipped system by regional standards and being upgraded',
-                                              'despite economic hardships boosts mobile infrastructure and builds '
-                                              'fiber broadband network across country',
+                                              'despite economic hardships govt. boosts mobile infrastructure and '
+                                              'builds fiber broadband network across country',
                                               'economic climate has not encouraged growth in telecoms, but some '
                                               'investment has been made to build mobile towers and expand LTE services',
-                                              'launches its own Chinese built satellite to develop space technology '
-                                              'sector in 2019',
+                                              'launches its own Chinese built satellite in 2019 to develop space '
+                                              'technology sector',
                                               2020],
                                  'intl': [ 'landing points for the EASSy, FALCON and SAS-1,-2, fiber-optic submarine '
                                            'cable systems linking Africa, the Middle East, Indian Ocean Islands and '
@@ -12048,7 +12055,7 @@ P1_CNTR = \
                                                'ranked among leading countries for fixed-line, mobile-cellular, '
                                                'Internet, and broadband penetration',
                                                'best developed LTE infrastructures in the region',
-                                               'first in the world to deliver 5G services, expands service based on 5G',
+                                               'first in the world to deliver 5G services',
                                                2020],
                                   'intl': [ 'landing points for Botina, SFL, SFS-4, Baltic Sea Submarine Cable, '
                                             'Eastern Light, Sweden-Latvia, BCS North-Phase1, EE-S1, LV-SE1, BCS '
@@ -12698,7 +12705,7 @@ P1_CNTR = \
                                                 'demand for mobile broadband increasing due to mobile services being '
                                                 'the method of access for Internet across the region',
                                                 '2G widespread with some 4G LTE service',
-                                                'satellite services will improve with the launch of the Kacific-1 '
+                                                'satellite services has improved with the launch of the Kacific-1 '
                                                 'satellite launched in 2019',
                                                 2020],
                                    'intl': [ 'landing point for the Southern Cross NEXT submarine cable linking '
@@ -12743,10 +12750,10 @@ P1_CNTR = \
                                               'growing e-commerce services',
                                               'in 2018 new 4G LTE network',
                                               'fixed-line teledensity has dropped given mobile subscriptions',
-                                              'mobile technology dominates given the island geography',
+                                              "mobile technology dominates given the island's geography",
                                               'satellite technology is widespread and is important especially in areas '
                                               'away from the city',
-                                              'the launch in 2019 of the Kacific-1 broadband satellite will make '
+                                              'the launch in 2019 of the Kacific-1 broadband satellite has made '
                                               'broadband more widely available for around 89 remote communities',
                                               2020],
                                  'intl': [ 'landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 '
@@ -12788,8 +12795,8 @@ P1_CNTR = \
                                                'general': [ 'excellent international service',
                                                             'good local service',
                                                             'broadband access',
-                                                            'expand FttP (Fiber to the Home) markets',
-                                                            'LTE launches',
+                                                            'expanded FttP (Fiber to the Home) markets',
+                                                            'LTE launch',
                                                             'regulatory development',
                                                             'major growth in mobile telephony and data segments which '
                                                             'attacks operation investment in fiber infrastructure',
@@ -13032,7 +13039,7 @@ P1_CNTR = \
                                                                  'expanded FttP (Fiber to the Home) markets',
                                                                  'LTE expansion points to investment and focus on data',
                                                                  'regulatory development',
-                                                                 'telecommunication contributes to GDP',
+                                                                 'telecommunication contributes to greatly to GDP',
                                                                  2020],
                                                     'intl': [ 'landing point for the ARCOS fiber-optic '
                                                               'telecommunications submarine cable providing '
@@ -14007,7 +14014,8 @@ P1_CNTR = \
                                                             'virgin islands of the united states'],
                                                'tel': { 'code': '1340',
                                                         'domestic': [ 'full range of services available',
-                                                                      'fixed-line 73 per 100 persons',
+                                                                      'fixed-line 73 per 100 persons and '
+                                                                      'mobile-cellular 75 per 100',
                                                                       2018],
                                                         'general': [ 'modern system with total digital switching, uses '
                                                                      'fiber-optic cable and microwave radio relay',
@@ -14445,7 +14453,7 @@ P1_CNTR = \
                                               'mobile towers are often deliberately targeted',
                                               'maintenance is dangerous to staff',
                                               'aid organization rely on satellite and radio communications',
-                                              'scarcity of telecommunications equipment in rural areas',
+                                              'there is a scarcity of telecommunications equipment in rural areas',
                                               'ownership of telecommunications services and the related revenues and '
                                               'taxes have become a political issue',
                                               'Chinese company Huawei helping with rebuilding and moving some '
@@ -14502,14 +14510,14 @@ P1_CNTR = \
                                                 'fixed-line 1 per 100 and mobile-cellular 94 per 100',
                                                 2020],
                                   'general': [ 'service is among the best in Sub-Saharan Africa',
-                                               'regulatory promotes competition and a partner to private sector '
+                                               'regulatory promotes competition and is a partner to private sector '
                                                'service providers, offering mobile voice and Internet at some of the '
                                                'lowest prices in the region',
                                                'investment made in data centers, education centers and computer '
                                                'assembly training plants',
-                                               'operators invest in 3G and LTE-based services and Chinese company '
-                                               'Huawei is helping to upgrade state-owned mobile infrastructure for 5G '
-                                               'services',
+                                               'operators invest in 3G and LTE-based services',
+                                               'Chinese company Huawei is helping to upgrade state-owned mobile '
+                                               'infrastructure for 5G services',
                                                '3 cellular telephone providers currently in operation, plus several '
                                                'data only ISPs',
                                                '1,010 towers project to soon be completed',
