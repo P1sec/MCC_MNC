@@ -253,7 +253,7 @@ def read_entry_mcc(T, off):
 def parse_table_mcc():
     # warning: for some MCC, there are duplicated entries (mostly for islands...)
     T     = import_html_doc(URL_MCC).xpath('//table')
-    T_MCC = T[1][0]
+    T_MCC = T[1][1]
     L     = []
     cc2   = set()
     mcc   = {}
@@ -407,37 +407,6 @@ def parse_table_mnc_all():
     # UK ocean territory
     mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MCC[3][0])) )
     #
-    '''
-    # 2) MNC for EU
-    T_MNC_EU = import_html_doc(URL_MNC_EU).xpath('//table')
-    for i in range(0, len(T_MNC_EU)):
-        mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_EU[i][0])) )
-    #
-    # 3) MNC for North America
-    T_MNC_NA = import_html_doc(URL_MNC_NA).xpath('//table')
-    for i in range(0, len(T_MNC_NA)):
-        mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_NA[i][0])) )
-    #
-    # 4) MNC for Asia
-    T_MNC_AS = import_html_doc(URL_MNC_AS).xpath('//table')
-    for i in range(0, len(T_MNC_AS)):
-        mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_AS[i][0])) )
-    #
-    # 5) MNC for Oceania
-    T_MNC_OC = import_html_doc(URL_MNC_OC).xpath('//table')
-    for i in range(0, len(T_MNC_OC)):
-        mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_OC[i][0])) )
-    #
-    # 6) MNC for Africa
-    T_MNC_AF = import_html_doc(URL_MNC_AF).xpath('//table')
-    for i in range(0, len(T_MNC_AF)):
-        mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_AF[i][0])) )
-    #
-    # 7) MNC for South America
-    T_MNC_SA = import_html_doc(URL_MNC_SA).xpath('//table')
-    for i in range(0, len(T_MNC_SA)):
-        mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC_SA[i][0])) )
-    '''
     for url in (URL_MNC_EU, URL_MNC_NA, URL_MNC_AS, URL_MNC_OC, URL_MNC_AF, URL_MNC_SA):
         T_MNC = import_html_doc(url).xpath('//table')
         for i in range(0, len(T_MNC)):
