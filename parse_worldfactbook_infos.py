@@ -114,9 +114,13 @@ RE_YEAR         = re.compile('^\(\s{0,}(20[0-9]{2})\s{0,}(est\.{0,1}){0,1}\)$')
 
 
 def _extract_tel_generic(infos, year):
-    return [t.strip() for t in infos.split(';') if t.strip()] + \
-           [int(RE_YEAR.match(year).group(1))]
-    
+    ret = [t.strip() for t in infos.split(';') if t.strip()]
+    m = RE_YEAR.match(year)
+    if m:
+        ret += [int(m.group(1))]
+    else:
+        ret += [0]
+
 
 def _extract_tel(e):
     r = {}
