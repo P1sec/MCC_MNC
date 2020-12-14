@@ -120,6 +120,7 @@ def _extract_tel_generic(infos, year):
         ret += [int(m.group(1))]
     else:
         ret += [0]
+    return ret
 
 
 def _extract_tel(e):
