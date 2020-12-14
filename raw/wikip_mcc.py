@@ -1478,7 +1478,7 @@ WIKIP_MCC = \
     'mcc': '638',
     'mcc_url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Djibouti_–_DJ',
     'notes': ''},
-  { 'authority': '',
+  { 'authority': 'Communications Authority of Kenya (CA)',
     'code_alpha_2': 'KE',
     'country_name': 'Kenya',
     'country_url': 'https://en.wikipedia.org/wiki/Kenya',

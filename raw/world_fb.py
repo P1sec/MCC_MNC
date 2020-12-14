@@ -30,14 +30,14 @@ WORLD_FB = \
                               'ports': {},
                               'region': ['Asia'],
                               'subs_broadband': 15999,
-                              'subs_fixed': 127794,
-                              'subs_mobile': 21976355,
+                              'subs_fixed': 125232,
+                              'subs_mobile': 21239280,
                               'telecom': { 'code': '93',
                                            'domestic': [ 'less than 1 per 100 for fixed-line teledensity',
-                                                         '63 per 100 for mobile-cellular',
+                                                         '59 per 100 for mobile-cellular',
                                                          'an increasing number of Afghans utilize mobile-cellular '
                                                          'phone networks',
-                                                         2018],
+                                                         2019],
                                            'general': [ "progress has been made on Afghanistan's first limited "
                                                         'fixed-line telephone service and nationwide optical fiber '
                                                         'backbone',
@@ -98,13 +98,13 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Durres, Sarande, Shengjin, Vlore'},
                           'region': ['Europe'],
                           'subs_broadband': 361947,
-                          'subs_fixed': 248631,
-                          'subs_mobile': 2714878,
+                          'subs_fixed': 258474,
+                          'subs_mobile': 2799066,
                           'telecom': { 'code': '355',
                                        'domestic': [ 'fixed-line 8 per 100, teledensity continues to decline due to '
                                                      'heavy use of mobile-cellular telephone services',
                                                      'mobile-cellular telephone use is widespread and generally '
-                                                     'effective, 89 per 100 for mobile-cellular',
+                                                     'effective, 91 per 100 for mobile-cellular',
                                                      2019],
                                        'general': [ 'mobile-cellular phone service has been available since 1996 and '
                                                     'dominates over fixed-line capacity',
@@ -159,15 +159,15 @@ WORLD_FB = \
                                                       'Oran, Skikda'},
                           'region': ['Africa'],
                           'subs_broadband': 3067022,
-                          'subs_fixed': 4200919,
-                          'subs_mobile': 47154264,
+                          'subs_fixed': 4558502,
+                          'subs_mobile': 46287629,
                           'telecom': { 'code': '213',
                                        'domestic': [ 'a limited network of fixed-lines with a teledensity of less than '
-                                                     '10 telephones per 100 persons has been offset by the rapid '
+                                                     '11 telephones per 100 persons has been offset by the rapid '
                                                      'increase in mobile-cellular subscribership',
-                                                     'mobile-cellular teledensity was roughly 113 telephones per 100 '
+                                                     'mobile-cellular teledensity was roughly 109 telephones per 100 '
                                                      'persons',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'improved international connectivity and privatization of '
                                                     "Algeria's telecommunications sector began in 2000",
                                                     'three mobile-cellular licenses have been issued',
@@ -214,11 +214,11 @@ WORLD_FB = \
                                  'population': 49437,
                                  'ports': {'major seaport': 'Pago Pago'},
                                  'region': ['Oceania'],
-                                 'subs_fixed': 10000,
+                                 'subs_fixed': 8984,
                                  'telecom': { 'code': '1684',
                                               'domestic': [ '18 per 100 fixed-line teledensity, domestic satellite '
                                                             'system with 1 Comsat earth station',
-                                                            2000],
+                                                            2019],
                                               'general': [ 'good telex, telegraph, facsimile, and cellular telephone '
                                                            'services',
                                                            'one of the most complete and modern telecommunications '
@@ -254,10 +254,10 @@ WORLD_FB = \
                           'population': 77000,
                           'region': ['Europe'],
                           'subs_broadband': 35663,
-                          'subs_fixed': 39375,
-                          'subs_mobile': 82614,
+                          'subs_fixed': 44050,
+                          'subs_mobile': 97645,
                           'telecom': { 'code': '376',
-                                       'domestic': ['46 per 100 fixed-line, 96 per 100 mobile-cellular', 2019],
+                                       'domestic': ['51 per 100 fixed-line, 113 per 100 mobile-cellular', 2019],
                                        'general': [ 'modern automatic telephone system',
                                                     'broadband Internet and LTE mobile lines for both consumer and '
                                                     'enterprise customers available',
@@ -295,12 +295,12 @@ WORLD_FB = \
                          'ports': {'major seaport': 'Cabinda, Lobito, Luanda, Namibe'},
                          'region': ['Africa'],
                          'subs_broadband': 109561,
-                         'subs_fixed': 171858,
-                         'subs_mobile': 13288421,
+                         'subs_fixed': 122566,
+                         'subs_mobile': 14645106,
                          'telecom': { 'code': '244',
                                       'domestic': [ 'only about one fixed-line per 100 persons',
-                                                    'mobile-cellular teledensity about 44 telephones per 100 persons',
-                                                    2018],
+                                                    'mobile-cellular teledensity about 47 telephones per 100 persons',
+                                                    2019],
                                       'general': [ 'progress in opening up the telecom sector to new competitors, '
                                                    'while still retaining a 45% govt. portion of the share',
                                                    'slow progress in LTE network development, with only about 12% of '
@@ -336,12 +336,12 @@ WORLD_FB = \
                            'population': 18090,
                            'ports': {'major seaport': 'Blowing Point, Road Bay'},
                            'region': ['Central America and the Caribbean'],
-                           'subs_fixed': 6000,
-                           'subs_mobile': 26000,
+                           'subs_fixed': 7461,
+                           'subs_mobile': 32332,
                            'telecom': { 'code': '1264',
-                                        'domestic': [ 'fixed-line teledensity is about 37 per 100 persons',
-                                                      'mobile-cellular teledensity is roughly 158 per 100 persons',
-                                                      2000],
+                                        'domestic': [ 'fixed-line teledensity is about 42 per 100 persons',
+                                                      'mobile-cellular teledensity is roughly 182 per 100 persons',
+                                                      2019],
                                         'general': [ 'modern internal telephone system with fiber-optic trunk lines',
                                                      'telecom sector provides a relatively high contribution to '
                                                      'overall GDP',
@@ -403,13 +403,13 @@ WORLD_FB = \
                                       'ports': {'major seaport': "Saint John's"},
                                       'region': ['Central America and the Caribbean'],
                                       'subs_broadband': 9261,
-                                      'subs_fixed': 22504,
-                                      'subs_mobile': 180000,
+                                      'subs_fixed': 24403,
+                                      'subs_mobile': 187095,
                                       'telecom': { 'code': '1268',
-                                                   'domestic': [ 'fixed-line teledensity roughly 24 per 100 persons',
-                                                                 'mobile-cellular teledensity is about 190 per 100 '
+                                                   'domestic': [ 'fixed-line teledensity roughly 25 per 100 persons',
+                                                                 'mobile-cellular teledensity is about 193 per 100 '
                                                                  'persons',
-                                                                 2018],
+                                                                 2019],
                                                    'general': [ 'good automatic telephone system with fiber-optic '
                                                                 'lines',
                                                                 'telecom sector contributes heavily to GDP',
@@ -458,14 +458,14 @@ WORLD_FB = \
                                                         'Ushuaia'},
                             'region': ['South America'],
                             'subs_broadband': 8473655,
-                            'subs_fixed': 9764014,
-                            'subs_mobile': 58598041,
+                            'subs_fixed': 7791464,
+                            'subs_mobile': 59008618,
                             'telecom': { 'code': '54',
-                                         'domestic': [ '22 per 100 fixed-line, 131 per 100 mobile-cellular',
+                                         'domestic': [ '17 per 100 fixed-line, 131 per 100 mobile-cellular',
                                                        'microwave radio relay, fiber-optic cable, and a domestic '
                                                        'satellite system with 40 earth stations serve the trunk '
                                                        'network',
-                                                       2018],
+                                                       2019],
                                          'general': [ 'one of the highest broadband penetrations in Latin America, '
                                                       'supported by operator investment and govt. programs aimed at '
                                                       'expansion',
@@ -509,10 +509,10 @@ WORLD_FB = \
                           'population': 3021324,
                           'region': ['Asia'],
                           'subs_broadband': 347448,
-                          'subs_fixed': 477932,
-                          'subs_mobile': 3579257,
+                          'subs_fixed': 462725,
+                          'subs_mobile': 3707557,
                           'telecom': { 'code': '374',
-                                       'domestic': [ '16 per 100 fixed-line, 118 per 100 mobile-cellular',
+                                       'domestic': [ '15 per 100 fixed-line, 122 per 100 mobile-cellular',
                                                      'reliable fixed-line and mobile-cellular services are available '
                                                      'across Yerevan and in major cities and towns',
                                                      'mobile-cellular coverage available in most rural areas',
@@ -559,13 +559,13 @@ WORLD_FB = \
                         'population': 119428,
                         'ports': {'major seaport': 'Barcadera, Oranjestad'},
                         'region': ['Central America and the Caribbean'],
-                        'subs_fixed': 35000,
-                        'subs_mobile': 141000,
+                        'subs_fixed': 39582,
+                        'subs_mobile': 159471,
                         'telecom': { 'code': '297',
                                      'domestic': [ 'ongoing changes in regulations and competition improving '
                                                    'teledensity',
-                                                   '31 per 100 fixed-line, 126 per 100 mobile-cellular',
-                                                   2018],
+                                                   '34 per 100 fixed-line, 135 per 100 mobile-cellular',
+                                                   2019],
                                      'general': [ 'modern fully automatic telecommunications system',
                                                   'increased competition through privatization has increased '
                                                   'mobile-cellular teledensity',
@@ -624,14 +624,14 @@ WORLD_FB = \
                                                         'Sydney'},
                             'region': ['Oceania'],
                             'subs_broadband': 7640000,
-                            'subs_fixed': 8090000,
-                            'subs_mobile': 28279000,
+                            'subs_fixed': 7792701,
+                            'subs_mobile': 27780491,
                             'telecom': { 'code': '61',
-                                         'domestic': [ '33 per 100 fixed-line, 114 per 100 mobile-cellular',
+                                         'domestic': [ '31 per 100 fixed-line, 111 per 100 mobile-cellular',
                                                        'more subscribers to mobile services than there are people',
                                                        '90% of all mobile device sales are now smartphones, growth in '
                                                        'mobile traffic brisk',
-                                                       2018],
+                                                       2019],
                                          'general': [ 'excellent domestic and international service',
                                                       'domestic satellite system',
                                                       'significant use of radiotelephone in areas of low population '
@@ -689,12 +689,12 @@ WORLD_FB = \
                           'ports': {},
                           'region': ['Europe'],
                           'subs_broadband': 2521100,
-                          'subs_fixed': 3772429,
-                          'subs_mobile': 10984000,
+                          'subs_fixed': 3700006,
+                          'subs_mobile': 10574725,
                           'telecom': { 'code': '43',
                                        'domestic': [ 'developed and efficient',
-                                                     '43 per 100 fixed-line for households, 174 per 100 for companies',
-                                                     '125 per 100 mobile-cellular',
+                                                     '41 per 100 fixed-line for households, 174 per 100 for companies',
+                                                     '120 per 100 mobile-cellular',
                                                      'broadband: 138 per 100 on smartphones',
                                                      '62 per 100 fixed broadband, 54 per 100 mobile broadband',
                                                      2019],
@@ -744,15 +744,15 @@ WORLD_FB = \
                              'ports': {'major seaport': 'Baku (Baki) located on the Caspian Sea'},
                              'region': ['Asia'],
                              'subs_broadband': 1890913,
-                             'subs_fixed': 1681407,
-                             'subs_mobile': 10339700,
+                             'subs_fixed': 1686316,
+                             'subs_mobile': 10835974,
                              'telecom': { 'code': '994',
                                           'domestic': [ 'teledensity of some 17 fixed-lines per 100 persons',
-                                                        'mobile-cellular teledensity has increased to 103 telephones '
+                                                        'mobile-cellular teledensity has increased to 107 telephones '
                                                         'per 100 persons',
                                                         'satellite service connects Baku to a modern switch in its '
                                                         'exclave of Naxcivan (Nakhchivan)',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'after the oil sector, the telecommunications sector '
                                                        'contributes the most to the GDP',
                                                        'more competition will allow for falling prices and the '
@@ -790,16 +790,16 @@ WORLD_FB = \
                                           'major seaport': 'Freeport, Nassau, South Riding Point'},
                                'region': ['Central America and the Caribbean'],
                                'subs_broadband': 87067,
-                               'subs_fixed': 113455,
-                               'subs_mobile': 381591,
+                               'subs_fixed': 78439,
+                               'subs_mobile': 366217,
                                'telecom': { 'code': '1242',
-                                            'domestic': ['34 per 100 fixed-line, 115 per 100 mobile-cellular', 2018],
+                                            'domestic': ['23 per 100 fixed-line, 109 per 100 mobile-cellular', 2019],
                                             'general': [ 'the telecom sector across the Caribbean continues to be a '
                                                          "growth area, contributing to the country's overall GDP",
                                                          'totally automatic system',
                                                          'highly developed',
                                                          'operators focus investment on mobile networks',
-                                                         'the activation of Mobile Number Portability (MNP) in April '
+                                                         'the activation of (mobile number portability) MNP in April '
                                                          '2017, allowing mobile subscribers to port their numbers '
                                                          'between competing MNO (mobile network operators) has '
                                                          'contributed to the competition and liberalization of the '
@@ -837,14 +837,14 @@ WORLD_FB = \
                           'ports': {'major seaport': "Mina' Salman, Sitrah"},
                           'region': ['Middle East'],
                           'subs_broadband': 184603,
-                          'subs_fixed': 274733,
-                          'subs_mobile': 2092714,
+                          'subs_fixed': 246603,
+                          'subs_mobile': 1706763,
                           'telecom': { 'code': '973',
-                                       'domestic': [ '19 per 100 fixed-line, 145 per 100 mobile-cellular',
+                                       'domestic': [ '17 per 100 fixed-line, 116 per 100 mobile-cellular',
                                                      'modern fiber-optic integrated services',
                                                      'digital network with rapidly expanding mobile-cellular '
                                                      'telephones',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'well-developed LTE networks, 5G trials tested and deployment in '
                                                     'the near future',
                                                     'mobile penetration is high compared to the region',
@@ -910,8 +910,8 @@ WORLD_FB = \
                              'ports': {'container port': 'Chittagong (2,566,597)', 'major seaport': 'Chittagong'},
                              'region': ['Asia'],
                              'subs_broadband': 10237003,
-                             'subs_fixed': 1449646,
-                             'subs_mobile': 161771617,
+                             'subs_fixed': 1433460,
+                             'subs_mobile': 163559380,
                              'telecom': { 'code': '880',
                                           'domestic': [ 'fixed-line teledensity remains less than 1 per 100 persons',
                                                         'mobile-cellular telephone subscribership has been increasing '
@@ -919,7 +919,7 @@ WORLD_FB = \
                                                         'mobile subscriber growth is anticipated over the next five '
                                                         'years to 2023',
                                                         'strong local competition',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'slow to moderate growth in mobile subscriber rate',
                                                        "regulator's recent budget allowance and telecoms investment in "
                                                        'LTE infrastructure is leading the way to the migration of 5G',
@@ -955,12 +955,12 @@ WORLD_FB = \
                            'ports': {'major seaport': 'Bridgetown'},
                            'region': ['Central America and the Caribbean'],
                            'subs_broadband': 89340,
-                           'subs_fixed': 128043,
-                           'subs_mobile': 329326,
+                           'subs_fixed': 141618,
+                           'subs_mobile': 319177,
                            'telecom': { 'code': '1246',
-                                        'domestic': [ 'fixed-line teledensity of roughly 44 per 100 persons',
-                                                      'mobile-cellular telephone density about 112 per 100 persons',
-                                                      2018],
+                                        'domestic': [ 'fixed-line teledensity of roughly 48 per 100 persons',
+                                                      'mobile-cellular telephone density about 109 per 100 persons',
+                                                      2019],
                                         'general': [ 'island-wide automatic telephone system',
                                                      'telecom sector across the Caribbean region remains one of the '
                                                      'key growth areas and contributors to the overall GDP',
@@ -1013,14 +1013,14 @@ WORLD_FB = \
                           'ports': {},
                           'region': ['Europe'],
                           'subs_broadband': 3201519,
-                          'subs_fixed': 4488821,
-                          'subs_mobile': 11619651,
+                          'subs_fixed': 4513255,
+                          'subs_mobile': 11682764,
                           'telecom': { 'code': '375',
                                        'domestic': [ 'fixed-line teledensity is improving although rural areas '
-                                                     'continue to be underserved, 47 per 100 fixed-line',
-                                                     'mobile-cellular teledensity now approaches 122 telephones per '
+                                                     'continue to be underserved, 48 per 100 fixed-line',
+                                                     'mobile-cellular teledensity now approaches 123 telephones per '
                                                      '100 persons',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'govt. and telecom regulator have plans to develop the telecom '
                                                     'sector for the migration to 5G',
                                                     'Chinese company Huawei have started 5G trials to deliver data at '
@@ -1073,14 +1073,14 @@ WORLD_FB = \
                           'ports': {'container port': 'Antwerp (10,450,000)', 'major seaport': 'Oostende, Zeebrugge'},
                           'region': ['Europe'],
                           'subs_broadband': 4502950,
-                          'subs_fixed': 4105557,
-                          'subs_mobile': 11447351,
+                          'subs_fixed': 3967054,
+                          'subs_mobile': 11616970,
                           'telecom': { 'code': '32',
-                                       'domestic': [ '35 per 100 fixed-line, 99 per 100 mobile-cellular',
+                                       'domestic': [ '34 per 100 fixed-line, 100 per 100 mobile-cellular',
                                                      'nationwide mobile-cellular telephone system',
                                                      'extensive cable network',
                                                      'limited microwave radio relay network',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'highly developed, technologically advanced, and completely '
                                                     'automated domestic and international telephone and telegraph '
                                                     'facilities',
@@ -1123,13 +1123,13 @@ WORLD_FB = \
                          'ports': {'major seaport': 'Belize City, Big Creek'},
                          'region': ['Central America and the Caribbean'],
                          'subs_broadband': 24658,
-                         'subs_fixed': 20869,
-                         'subs_mobile': 327629,
+                         'subs_fixed': 18617,
+                         'subs_mobile': 256479,
                          'telecom': { 'code': '501',
                                       'domestic': [ '5 per 100 fixed-line and mobile-cellular teledensity approaching '
-                                                    '85 per 100 persons',
+                                                    '65 per 100 persons',
                                                     'mobile sector accounting for over 90% of all phone subscriptions',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'govt. telecom company, Belize Telemedia Ltd., continues to hold a '
                                                    'monopoly in fixed-line services, mobile and broadband fixed-line '
                                                    'teledensity',
@@ -1170,20 +1170,20 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Cotonou'},
                         'region': ['Africa'],
                         'subs_broadband': 27034,
-                        'subs_fixed': 48508,
-                        'subs_mobile': 9461872,
+                        'subs_fixed': 37305,
+                        'subs_mobile': 10905559,
                         'telecom': { 'code': '229',
                                      'domestic': [ 'fixed-line teledensity only about 1 per 100 persons',
                                                    'spurred by the presence of multiple mobile-cellular providers, '
                                                    'cellular telephone subscribership has increased rapidly, exceeding '
-                                                   '79 per 100 persons',
-                                                   2018],
+                                                   '88 per 100 persons',
+                                                   2019],
                                      'general': [ 'fixed-line network characterized by aging, deteriorating equipment',
                                                   'mobile networks account for almost all Internet connections',
                                                   'govt. to provide telecom services to 80% of the country, mostly via '
                                                   'mobile infrastructure by restructuring state-owned telecom '
                                                   'companies',
-                                                  'Mobile Number Portability (MNP) is available',
+                                                  '(mobile number portability) MNP is available',
                                                   'Benin joins free roaming scheme',
                                                   2019],
                                      'intl': [ 'landing points for the SAT-3/WASC and ACE fiber-optic submarine cable '
@@ -1211,12 +1211,13 @@ WORLD_FB = \
                           'population': 71750,
                           'ports': {'major seaport': 'Hamilton, Ireland Island, Saint George'},
                           'region': ['North America'],
-                          'subs_fixed': 21883,
-                          'subs_mobile': 64997,
+                          'subs_fixed': 24808,
+                          'subs_mobile': 73680,
                           'telecom': { 'code': '1441',
-                                       'domestic': [ 'the system has a high fixed-line teledensity 31 per 100, coupled '
-                                                     'with a mobile-cellular teledensity of roughly 92 per 100 persons',
-                                                     2018],
+                                       'domestic': [ 'the system has a high fixed-line teledensity 35 per 100, coupled '
+                                                     'with a mobile-cellular teledensity of roughly 103 per 100 '
+                                                     'persons',
+                                                     2019],
                                        'general': [ 'a good, fully automatic digital telephone system with fiber-optic '
                                                     'trunk lines',
                                                     'telecom sector provides a relatively high contribution to overall '
@@ -1252,12 +1253,12 @@ WORLD_FB = \
                          'population': 782318,
                          'region': ['Asia'],
                          'subs_broadband': 10802,
-                         'subs_fixed': 22015,
-                         'subs_mobile': 703554,
+                         'subs_fixed': 21916,
+                         'subs_mobile': 740026,
                          'telecom': { 'code': '975',
-                                      'domestic': [ '3 to 100 fixed-line, 92 to 100 mobile cellular',
+                                      'domestic': [ '3 to 100 fixed-line, 96 to 100 mobile cellular',
                                                     'domestic service inadequate, notably in rural areas',
-                                                    2018],
+                                                    2019],
                                       'general': [ '4G platforms now gaining traction',
                                                    '4G/WiMAX networks now cover well over half of the country',
                                                    'fixed broadband penetration remains very low, due to the '
@@ -1300,14 +1301,14 @@ WORLD_FB = \
                           'ports': {},
                           'region': ['South America'],
                           'subs_broadband': 504097,
-                          'subs_fixed': 711961,
-                          'subs_mobile': 11445830,
+                          'subs_fixed': 719399,
+                          'subs_mobile': 11567760,
                           'telecom': { 'code': '591',
                                        'domestic': [ '6 per 100 fixed-line, mobile-cellular telephone use expanding '
                                                      'rapidly and teledensity stands at 101 per 100 persons',
                                                      'most telephones are concentrated in La Paz, Santa Cruz, and '
                                                      'other capital cities',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'lowest GDP in the area',
                                                     'much of the population live in remote valleys and '
                                                     'telecommunications is poor',
@@ -1357,14 +1358,14 @@ WORLD_FB = \
                                          'ports': {},
                                          'region': ['Europe'],
                                          'subs_broadband': 693554,
-                                         'subs_fixed': 792535,
-                                         'subs_mobile': 3461058,
+                                         'subs_fixed': 920407,
+                                         'subs_mobile': 4300743,
                                          'telecom': { 'code': '387',
-                                                      'domestic': [ 'fixed-line teledensity roughly 21 per 100 persons '
+                                                      'domestic': [ 'fixed-line teledensity roughly 24 per 100 persons '
                                                                     'and mobile-cellular subscribership has been '
-                                                                    'increasing rapidly and stands at roughly 90 '
+                                                                    'increasing rapidly and stands at roughly 112 '
                                                                     'telephones per 100 persons',
-                                                                    2018],
+                                                                    2019],
                                                       'general': [ 'mobile services dominate fixed-line',
                                                                    'integration with the EU has given stability to the '
                                                                    'present economy, as an EU candidate country, the '
@@ -1408,14 +1409,14 @@ WORLD_FB = \
                            'population': 2317233,
                            'region': ['Africa'],
                            'subs_broadband': 40044,
-                           'subs_fixed': 142481,
-                           'subs_mobile': 3381228,
+                           'subs_fixed': 139735,
+                           'subs_mobile': 3968526,
                            'telecom': { 'code': '267',
                                         'domestic': [ 'fixed-line teledensity has declined in recent years and now '
                                                       'stands at roughly 6 telephones per 100 persons',
-                                                      'mobile-cellular teledensity has advanced to 150 telephones per '
+                                                      'mobile-cellular teledensity has advanced to 174 telephones per '
                                                       '100 persons',
-                                                      2018],
+                                                      2019],
                                         'general': [ 'the Botswana Telecommunications Corp is rolling out 4G service '
                                                      'to over 95 sites in the country that will improve network '
                                                      'connectivity',
@@ -1430,7 +1431,7 @@ WORLD_FB = \
                                                      'along with a system of open-wire lines links the major '
                                                      'population centers in the east',
                                                      'the use of multiple SIM cards has delayed the introduction of '
-                                                     'mobile number portability (MNP)',
+                                                     '(mobile number portability) MNP',
                                                      2020],
                                         'intl': [ 'international calls are made via satellite, using international '
                                                   'direct dialing',
@@ -1492,21 +1493,21 @@ WORLD_FB = \
                                                      'Sebastiao, Tubarao'},
                          'region': ['South America'],
                          'subs_broadband': 31233004,
-                         'subs_fixed': 38311930,
-                         'subs_mobile': 207046810,
+                         'subs_fixed': 33585164,
+                         'subs_mobile': 207862093,
                          'telecom': { 'code': '55',
                                       'domestic': [ 'fixed-line connections have remained relatively stable in recent '
-                                                    'years and stand at about 18 per 100 persons',
+                                                    'years and stand at about 16 per 100 persons',
                                                     'less-expensive mobile-cellular technology has been a major '
                                                     'impetus broadening telephone service to the lower-income segments '
                                                     'of the population with mobile-cellular teledensity roughly 99 per '
                                                     '100 persons',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'Brazil is one of the largest mobile and broadband markets in Latin '
                                                    'America',
                                                    '5G auction delayed due to interference issues',
-                                                   'four major mobile operators offering a range of voice and data '
-                                                   'services',
+                                                   'four major (mobile network operators) MNOs offering a range of '
+                                                   'voice and data services',
                                                    'broadband penetration only behind Chile, Argentina, and Uruguay',
                                                    'country is a pioneer in the region for M-commerce (electronic '
                                                    'commerce conducted on mobile phones)',
@@ -1579,13 +1580,13 @@ WORLD_FB = \
                                          'ports': {'major seaport': 'Road Harbor'},
                                          'region': ['Central America and the Caribbean'],
                                          'subs_broadband': 4715,
-                                         'subs_fixed': 6222,
-                                         'subs_mobile': 39954,
+                                         'subs_fixed': 7640,
+                                         'subs_mobile': 72589,
                                          'telecom': { 'code': '1284',
-                                                      'domestic': [ 'fixed-line connections exceed 17 per 100 persons '
-                                                                    'and mobile cellular subscribership is roughly 112 '
+                                                      'domestic': [ 'fixed-line connections exceed 21 per 100 persons '
+                                                                    'and mobile cellular subscribership is roughly 198 '
                                                                     'per 100 persons',
-                                                                    2018],
+                                                                    2019],
                                                       'general': [ 'good overall telephone service',
                                                                    'major expansion sectors include the mobile '
                                                                    'telephony and data segments, which continue to '
@@ -1626,12 +1627,12 @@ WORLD_FB = \
                          'ports': {'major seaport': 'Muara'},
                          'region': ['Southeast Asia'],
                          'subs_broadband': 49452,
-                         'subs_fixed': 82588,
-                         'subs_mobile': 565949,
+                         'subs_fixed': 91415,
+                         'subs_mobile': 588616,
                          'telecom': { 'code': '673',
                                       'domestic': [ 'every service available',
-                                                    '18 per 100 fixed-line, 126 per 100 mobile-cellular',
-                                                    2018],
+                                                    '20 per 100 fixed-line, 129 per 100 mobile-cellular',
+                                                    2019],
                                       'general': [ 'service throughout the country is excellent',
                                                    'international service is good to Southeast Asia, Middle East, '
                                                    'Western Europe, and the US',
@@ -1679,13 +1680,13 @@ WORLD_FB = \
                            'ports': {'major seaport': 'Burgas, Varna (Black Sea)'},
                            'region': ['Europe'],
                            'subs_broadband': 1903946,
-                           'subs_fixed': 1120392,
-                           'subs_mobile': 8387160,
+                           'subs_fixed': 974056,
+                           'subs_mobile': 8149389,
                            'telecom': { 'code': '359',
-                                        'domestic': [ 'fixed-line 16 per 100 persons, mobile-cellular teledensity, '
-                                                      'fostered by multiple service providers, is over 119 telephones '
+                                        'domestic': [ 'fixed-line 14 per 100 persons, mobile-cellular teledensity, '
+                                                      'fostered by multiple service providers, is over 116 telephones '
                                                       'per 100 persons',
-                                                      2018],
+                                                      2019],
                                         'general': [ "telecom sector has benefited from Bulgaria's adaptation of EU "
                                                      'regulatory measures, more privatization and less govt. monopoly',
                                                      'population is moving to fiber networks for broadband',
@@ -1734,16 +1735,16 @@ WORLD_FB = \
                                'population': 20835401,
                                'region': ['Africa'],
                                'subs_broadband': 13818,
-                               'subs_fixed': 76760,
-                               'subs_mobile': 19339109,
+                               'subs_fixed': 75066,
+                               'subs_mobile': 20330657,
                                'telecom': { 'code': '226',
                                             'domestic': [ 'fixed-line connections stand at less than 1 per 100 persons',
-                                                          'mobile-cellular usage 98 per 100, with multiple providers '
+                                                          'mobile-cellular usage 100 per 100, with multiple providers '
                                                           'there is competition and the hope for growth from a low '
                                                           'base',
                                                           'Internet penetration is 11% countrywide, but higher in '
                                                           'urban areas',
-                                                          2018],
+                                                          2019],
                                             'general': [ 'system includes microwave radio relay, open-wire, and '
                                                          'radiotelephone communication stations',
                                                          'insufficient mobile spectrum, and poor condition of '
@@ -1789,12 +1790,12 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Mawlamyine (Moulmein), Sittwe'},
                         'region': ['Southeast Asia'],
                         'subs_broadband': 129050,
-                        'subs_fixed': 520863,
-                        'subs_mobile': 61143964,
+                        'subs_fixed': 544283,
+                        'subs_mobile': 63877526,
                         'telecom': { 'code': '95',
-                                     'domestic': [ 'fixed-line is 1 per 100, while mobile-cellular is 110 per 100 and '
+                                     'domestic': [ 'fixed-line is 1 per 100, while mobile-cellular is 114 per 100 and '
                                                    'shows great potential for the future',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'use to claim to be one of the last underdeveloped telecom markets '
                                                   'in Asia',
                                                   'the mobile market has recently experienced rapid growth, in 2014 '
@@ -1844,13 +1845,13 @@ WORLD_FB = \
                           'ports': {},
                           'region': ['Africa'],
                           'subs_broadband': 3935,
-                          'subs_fixed': 24810,
-                          'subs_mobile': 6317965,
+                          'subs_fixed': 20758,
+                          'subs_mobile': 6644833,
                           'telecom': { 'code': '257',
                                        'domestic': [ 'telephone density one of the lowest in the world',
                                                      'fixed-line connections stand at well less than 1 per 100 persons',
-                                                     'mobile-cellular usage is 56 per 100 persons',
-                                                     2018],
+                                                     'mobile-cellular usage is 58 per 100 persons',
+                                                     2019],
                                        'general': [ 'with the great population density Burundi remains one of the most '
                                                     'alluring telecom markets in Africa for investors',
                                                     'the government in early 2018 began the Burundi Broadband project, '
@@ -1892,15 +1893,15 @@ WORLD_FB = \
                              'ports': {'major seaport': 'Porto Grande'},
                              'region': ['Africa'],
                              'subs_broadband': 15657,
-                             'subs_fixed': 62680,
-                             'subs_mobile': 610328,
+                             'subs_fixed': 60233,
+                             'subs_mobile': 623749,
                              'telecom': { 'code': '238',
-                                          'domestic': [ '11 per 100 fixed-line and 107 per 100 mobile-cellular',
+                                          'domestic': [ '11 per 100 fixed-line and 108 per 100 mobile-cellular',
                                                         'fiber-optic ring, completed in 2001, links all islands '
                                                         'providing Internet access and ISDN services',
                                                         'cellular service introduced in 1998',
                                                         'broadband services launched early in the decade',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'LTE reaches almost 40% of the population',
                                                        'regulator awards commercial 4G licenses and starts 5G pilot',
                                                        'govt. extends USD 25 million for submarine fiber-optic cable '
@@ -1939,14 +1940,14 @@ WORLD_FB = \
                            'ports': {'major seaport': 'Sihanoukville (Kampong Saom)'},
                            'region': ['Southeast Asia'],
                            'subs_broadband': 166200,
-                           'subs_fixed': 88157,
-                           'subs_mobile': 19417123,
+                           'subs_fixed': 56749,
+                           'subs_mobile': 21684767,
                            'telecom': { 'code': '855',
                                         'domestic': [ 'fixed-line connections stand at about 1 per 100 persons and '
                                                       'declining',
                                                       'mobile-cellular usage, aided by competition among service '
-                                                      'providers, has increased to about 118 per 100 persons',
-                                                      2018],
+                                                      'providers, has increased to about 130 per 100 persons',
+                                                      2019],
                                         'general': [ 'well on its way to rollout 5G services, Chinese company Huawei '
                                                      'dealing with the infrastructure for the 5G rollout',
                                                      'mobile-cellular phone systems are widely used in urban areas to '
@@ -1997,13 +1998,13 @@ WORLD_FB = \
                            'ports': {},
                            'region': ['Africa'],
                            'subs_broadband': 17987,
-                           'subs_fixed': 902253,
-                           'subs_mobile': 18455836,
+                           'subs_fixed': 966035,
+                           'subs_mobile': 22062303,
                            'telecom': { 'code': '237',
-                                        'domestic': [ 'only about 3 per 100 persons for fixed-line subscriptions',
+                                        'domestic': [ 'only about 4 per 100 persons for fixed-line subscriptions',
                                                       'mobile-cellular usage has increased sharply, reaching a '
-                                                      'subscribership base of over 70 per 100 persons',
-                                                      2018],
+                                                      'subscribership base of over 82 per 100 persons',
+                                                      2019],
                                         'general': [ '3G service and LTE service both developing given growing '
                                                      'competition, along with a fast-developing mobile broadband '
                                                      'sector',
@@ -2040,15 +2041,15 @@ WORLD_FB = \
                                     'major seaport': 'Halifax, Saint John (New Brunswick), Vancouver'},
                          'region': ['North America'],
                          'subs_broadband': 14445606,
-                         'subs_fixed': 13842000,
-                         'subs_mobile': 33211401,
+                         'subs_fixed': 13258721,
+                         'subs_mobile': 34597559,
                          'telecom': { 'code': '1',
-                                      'domestic': [ '37 per 100 fixed-line',
-                                                    '90 per 100 mobile-cellular',
+                                      'domestic': [ '35 per 100 fixed-line',
+                                                    '93 per 100 mobile-cellular',
                                                     'comparatively low mobile penetration provides further room for '
                                                     'growth',
                                                     'domestic satellite system with about 300 earth stations',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'excellent service provided by first-rate technology',
                                                    'offers 99% coverage with LTE',
                                                    'consumer demand for mobile data services have prompted telecom '
@@ -2089,13 +2090,13 @@ WORLD_FB = \
                                  'ports': {'major seaport': 'Cayman Brac, George Town'},
                                  'region': ['Central America and the Caribbean'],
                                  'subs_broadband': 24535,
-                                 'subs_fixed': 34116,
-                                 'subs_mobile': 95656,
+                                 'subs_fixed': 33338,
+                                 'subs_mobile': 92691,
                                  'telecom': { 'code': '1345',
                                               'domestic': [ 'introduction of competition in the mobile-cellular market '
                                                             'in 2004 boosted subscriptions dramatically',
-                                                            '60 per 100 fixed-line, 164 per 100 mobile-cellular',
-                                                            2018],
+                                                            '55 per 100 fixed-line, 153 per 100 mobile-cellular',
+                                                            2019],
                                               'general': [ 'reasonably good overall telephone system with a high '
                                                            'fixed-line teledensity',
                                                            'given the high dependence of tourism and activities such '
@@ -2142,18 +2143,18 @@ WORLD_FB = \
                                            'ports': {},
                                            'region': ['Africa'],
                                            'subs_broadband': 608,
-                                           'subs_fixed': 2193,
-                                           'subs_mobile': 1279261,
+                                           'subs_fixed': 2934,
+                                           'subs_mobile': 1892114,
                                            'telecom': { 'code': '236',
                                                         'domestic': [ 'very limited telephone service with less than 1 '
                                                                       'fixed-line connection per 100 persons',
                                                                       'with the presence of multiple providers '
-                                                                      'mobile-cellular service has reached 22 per 100 '
+                                                                      'mobile-cellular service has reached 33 per 100 '
                                                                       'mobile-cellular subscribers',
                                                                       'cellular usage is increasing from a low base',
                                                                       'most fixed-line and mobile-cellular telephone '
                                                                       'services are concentrated in Bangui',
-                                                                      2018],
+                                                                      2019],
                                                         'general': [ 'network consists principally of microwave radio '
                                                                      'relay and at low-capacity',
                                                                      'ongoing conflict has obstructed '
@@ -2195,12 +2196,12 @@ WORLD_FB = \
                        'population': 16877357,
                        'region': ['Africa'],
                        'subs_broadband': 334,
-                       'subs_fixed': 9036,
-                       'subs_mobile': 6984130,
+                       'subs_fixed': 6540,
+                       'subs_mobile': 7857758,
                        'telecom': { 'code': '235',
                                     'domestic': [ 'fixed-line connections less than 1 per 100 persons, with '
-                                                  'mobile-cellular subscribership base of about 44 per 100 persons',
-                                                  2018],
+                                                  'mobile-cellular subscribership base of about 48 per 100 persons',
+                                                  2019],
                                     'general': [ 'inadequate system of radio telephone communication stations with '
                                                  'high maintenance costs and low telephone density',
                                                  'Chad remains one of the least developed on the African continent, '
@@ -2238,14 +2239,14 @@ WORLD_FB = \
                                                     'Vicente, Valparaiso'},
                         'region': ['South America'],
                         'subs_broadband': 3250678,
-                        'subs_fixed': 2997192,
-                        'subs_mobile': 25178981,
+                        'subs_fixed': 2620195,
+                        'subs_mobile': 23870679,
                         'telecom': { 'code': '56',
-                                     'domestic': [ 'number of fixed-line connections have stagnated to 17 per 100 in '
+                                     'domestic': [ 'number of fixed-line connections have stagnated to 15 per 100 in '
                                                    'recent years as mobile-cellular usage continues to increase, '
-                                                   'reaching 140 telephones per 100 persons',
+                                                   'reaching 132 telephones per 100 persons',
                                                    'domestic satellite system with 3 earth stations',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'most advanced telecommunications infrastructure in South America',
                                                   'although Chile has one of the highest mobile penetration rates in '
                                                   'the region, the number of subscribers has fallen due to subscribers '
@@ -2307,13 +2308,13 @@ WORLD_FB = \
                                                     'Tianjin'},
                         'region': ['Asia'],
                         'subs_broadband': 407382000,
-                        'subs_fixed': 192085000,
-                        'subs_mobile': 1649301700,
+                        'subs_fixed': 185097221,
+                        'subs_mobile': 1672545161,
                         'telecom': { 'code': '86',
-                                     'domestic': [ '14 per 100 fixed line and 119 per 100 mobile-cellular',
+                                     'domestic': [ '13 per 100 fixed line and 120 per 100 mobile-cellular',
                                                    'a domestic satellite system with several earth stations has been '
                                                    'in place since 2018',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'the largest Internet market in the world, with the majority, 98.6% '
                                                   'of users accessing the Internet through mobile devices',
                                                   'moderate growth is predicted over the next five years in the fixed '
@@ -2443,17 +2444,17 @@ WORLD_FB = \
                                       'major seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo'},
                            'region': ['South America'],
                            'subs_broadband': 6678543,
-                           'subs_fixed': 6973573,
-                           'subs_mobile': 64513977,
+                           'subs_fixed': 6774363,
+                           'subs_mobile': 64033049,
                            'telecom': { 'code': '57',
                                         'domestic': [ 'fixed-line connections stand at about 14 per 100 persons',
-                                                      'mobile cellular telephone subscribership is about 134 per 100 '
+                                                      'mobile cellular telephone subscribership is about 132 per 100 '
                                                       'persons',
                                                       'competition among cellular service providers is resulting in '
                                                       'falling local and international calling rates and contributing '
                                                       'to the steep decline in the market share of fixed-line services',
                                                       'domestic satellite system with 41 earth stations',
-                                                      2018],
+                                                      2019],
                                         'general': [ 'fastest growing sector is mobile broadband with LTE '
                                                      'infrastructure and investment in 5G',
                                                      'strong demand in rural areas for mobile broadband, potential is '
@@ -2501,14 +2502,14 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Moroni, Moutsamoudou'},
                           'region': ['Africa'],
                           'subs_broadband': 1531,
-                          'subs_fixed': 10320,
-                          'subs_mobile': 498903,
+                          'subs_fixed': 9840,
+                          'subs_mobile': 563722,
                           'telecom': { 'code': '269',
                                        'domestic': [ 'fixed-line connections only about 1 per 100 persons',
-                                                     'mobile-cellular usage over 61 per 100 persons',
+                                                     'mobile-cellular usage over 68 per 100 persons',
                                                      'two companies provide domestic and international mobile service '
                                                      'and wireless data',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'Qatar launched a special program for the construction of a '
                                                     'wireless network to inter connect the 3 islands of the '
                                                     'archipelago',
@@ -2555,15 +2556,15 @@ WORLD_FB = \
                                                     'region': ['Africa'],
                                                     'subs_broadband': 4620,
                                                     'subs_fixed': 0,
-                                                    'subs_mobile': 36470600,
+                                                    'subs_mobile': 42166976,
                                                     'telecom': { 'code': '243',
                                                                  'domestic': [ 'fixed-line connections less than 1 per '
                                                                                '100 persons',
                                                                                'given the backdrop of a wholly '
                                                                                'inadequate fixed-line infrastructure, '
                                                                                'the use of mobile-cellular services is '
-                                                                               'over 38 per 100 persons',
-                                                                               2018],
+                                                                               'over 43 per 100 persons',
+                                                                               2019],
                                                                  'general': [ 'poorly developed national and '
                                                                               'international infrastructure',
                                                                               'bandwidth is limited',
@@ -2614,15 +2615,15 @@ WORLD_FB = \
                                          'population': 5293070,
                                          'ports': {'major seaport': 'Pointe-Noire'},
                                          'region': ['Africa'],
-                                         'subs_fixed': 17000,
-                                         'subs_mobile': 5000000,
+                                         'subs_fixed': 17076,
+                                         'subs_mobile': 4933529,
                                          'telecom': { 'code': '242',
                                                       'domestic': [ 'fixed-line infrastructure inadequate, providing '
                                                                     'less than 1 fixed-line connection per 100 persons',
                                                                     'in the absence of an adequate fixed-line '
                                                                     'infrastructure, mobile-cellular subscribership '
-                                                                    'has surged to 99 per 100 persons',
-                                                                    2018],
+                                                                    'has surged to 95 per 100 persons',
+                                                                    2019],
                                                       'general': [ 'primary network consists of microwave radio relay '
                                                                    'and coaxial cable with services barely adequate '
                                                                    'for government use',
@@ -2660,13 +2661,13 @@ WORLD_FB = \
                                'population': 8574,
                                'ports': {'major seaport': 'Avatiu'},
                                'region': ['Oceania'],
-                               'subs_fixed': 7800,
-                               'subs_mobile': 11000,
+                               'subs_fixed': 3305,
+                               'subs_mobile': 7308,
                                'telecom': { 'code': '682',
                                             'domestic': [ 'service is provided by small exchanges connected to '
                                                           'subscribers by open-wire, cable, and fiber-optic cable',
-                                                          '75 per 100 fixed-line, 105 per 100 mobile-cellular',
-                                                          2018],
+                                                          '38 per 100 fixed-line, 83 per 100 mobile-cellular',
+                                                          2019],
                                             'general': [ 'demand for mobile broadband is increasing due to mobile '
                                                          'services being the primary and most wide-spread source for '
                                                          'Internet access across the region',
@@ -2726,14 +2727,14 @@ WORLD_FB = \
                              'ports': {'major seaport': 'Atlantic Ocean (Caribbean) - Puerto Limon'},
                              'region': ['Central America and the Caribbean'],
                              'subs_broadband': 834784,
-                             'subs_fixed': 774303,
-                             'subs_mobile': 8495585,
+                             'subs_fixed': 630386,
+                             'subs_mobile': 8163744,
                              'telecom': { 'code': '506',
-                                          'domestic': [ '16 per 100 fixed-line, 170 per 100 mobile-cellular',
+                                          'domestic': [ '13 per 100 fixed-line, 162 per 100 mobile-cellular',
                                                         'point-to-point and point-to-multi-point microwave, '
                                                         'fiber-optic, and coaxial cable link rural areas',
                                                         'Internet service is available',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'good domestic telephone service in terms of breadth of '
                                                        'coverage',
                                                        'in recent years growth has been achieved from liberalization '
@@ -2788,13 +2789,13 @@ WORLD_FB = \
                                 'ports': {'major seaport': 'Abidjan, San-Pedro'},
                                 'region': ['Africa'],
                                 'subs_broadband': 175918,
-                                'subs_fixed': 302398,
-                                'subs_mobile': 33807850,
+                                'subs_fixed': 284799,
+                                'subs_mobile': 39049743,
                                 'telecom': { 'code': '225',
                                              'domestic': [ 'less than 1 per 100 fixed-line, with multiple '
                                                            'mobile-cellular service providers competing in the market, '
-                                                           'usage has increased to about 129 per 100 persons',
-                                                           2018],
+                                                           'usage has increased to about 145 per 100 persons',
+                                                           2019],
                                              'general': [ 'strongest sector in the overall market is the mobile sector',
                                                           'fixed internet and broadband sectors have remained '
                                                           'underdeveloped',
@@ -2845,13 +2846,13 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Ploce, Rijeka, Sibenik, Split'},
                           'region': ['Europe'],
                           'subs_broadband': 1127591,
-                          'subs_fixed': 1355662,
-                          'subs_mobile': 4388476,
+                          'subs_fixed': 1371999,
+                          'subs_mobile': 4531122,
                           'telecom': { 'code': '385',
                                        'domestic': [ 'fixed-line teledensity has dropped somewhat to about 32 per 100 '
                                                      'persons',
-                                                     'mobile-cellular telephone subscriptions 103 per 100',
-                                                     2018],
+                                                     'mobile-cellular telephone subscriptions 107 per 100',
+                                                     2019],
                                        'general': [ 'the mobile market has one of the highest penetration rates in the '
                                                     'Balkans region',
                                                     'covering much of what were once inaccessible areas',
@@ -2898,12 +2899,12 @@ WORLD_FB = \
                                                    'Nuevitas Bay, Santiago de Cuba'},
                        'region': ['Central America and the Caribbean'],
                        'subs_broadband': 98838,
-                       'subs_fixed': 1444480,
-                       'subs_mobile': 5373316,
+                       'subs_fixed': 1475679,
+                       'subs_mobile': 5911586,
                        'telecom': { 'code': '53',
                                     'domestic': [ 'fixed-line density remains low at about 13 per 100 inhabitants',
-                                                  'mobile-cellular service is expanding to about 48 per 100 persons',
-                                                  2018],
+                                                  'mobile-cellular service is expanding to about 53 per 100 persons',
+                                                  2019],
                                     'general': [ 'lowest mobile phone and Internet penetration rates in the region, '
                                                  'fixed-line teledensity is also low',
                                                  'fixed-line and mobile services run by the state-run ETESCA',
@@ -2943,9 +2944,9 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Willemstad'},
                           'region': ['Central America and the Caribbean'],
                           'subs_broadband': 51836,
-                          'subs_fixed': 58805,
-                          'subs_mobile': 186390,
-                          'telecom': { 'domestic': [ '39 per 100 users for fixed-line and 124 per 100 users for '
+                          'subs_fixed': 57443,
+                          'subs_mobile': 174260,
+                          'telecom': { 'domestic': [ '39 per 100 users for fixed-line and 116 per 100 users for '
                                                      'cellular-mobile, majority of the islanders have Internet',
                                                      'market revenue has been affected in recent quarters as a result '
                                                      'of competition and regulatory measures on termination rates and '
@@ -2987,12 +2988,12 @@ WORLD_FB = \
                          'ports': {'major seaport': 'area under government control: Larnaca, Limassol, Vasilikos'},
                          'region': ['Middle East'],
                          'subs_broadband': 313462,
-                         'subs_fixed': 311559,
-                         'subs_mobile': 1200378,
+                         'subs_fixed': 469305,
+                         'subs_mobile': 1801213,
                          'telecom': { 'code': '357',
-                                      'domestic': [ 'fixed-line is 25 per 100, and 97 per 100 for mobile-cellular',
+                                      'domestic': [ 'fixed-line is 37 per 100, and 144 per 100 for mobile-cellular',
                                                     'open-wire, fiber-optic cable, and microwave radio relay',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'broadband market steadily developing with one of the highest '
                                                    'penetrations rates in the region',
                                                    "despite the growth of Cyprus's telecom sector, the market overall "
@@ -3045,13 +3046,13 @@ WORLD_FB = \
                           'ports': {},
                           'region': ['Europe'],
                           'subs_broadband': 3222835,
-                          'subs_fixed': 1511942,
-                          'subs_mobile': 12704262,
+                          'subs_fixed': 1473846,
+                          'subs_mobile': 13213279,
                           'telecom': { 'code': '420',
                                        'domestic': [ '14 per 100 fixed-line and mobile telephone usage increased to '
-                                                     '119 per 100 mobile-cellular, the number of cellular telephone '
+                                                     '124 per 100 mobile-cellular, the number of cellular telephone '
                                                      'subscriptions now greatly exceeds the population',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'good telephone and Internet service',
                                                     'the Czech Republic has a sophisticated telecom market',
                                                     'mobile sector showing steady growth, but perhaps without enough '
@@ -3090,10 +3091,10 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg'},
                           'region': ['Europe'],
                           'subs_broadband': 2534348,
-                          'subs_fixed': 1131064,
-                          'subs_mobile': 7197000,
+                          'subs_fixed': 1017009,
+                          'subs_mobile': 7331110,
                           'telecom': { 'code': '45',
-                                       'domestic': ['fixed-line 19 per 100, 124 per 100 for mobile-cellular', 2018],
+                                       'domestic': ['fixed-line 17 per 100, 126 per 100 for mobile-cellular', 2019],
                                        'general': [ 'excellent telephone and Internet services',
                                                     "Denmark's competitive telecom market has led to the country "
                                                     'having the second highest broadband penetration rate in Europe',
@@ -3162,10 +3163,10 @@ WORLD_FB = \
                            'ports': {'major seaport': 'Djibouti'},
                            'region': ['Africa'],
                            'subs_broadband': 25508,
-                           'subs_fixed': 36855,
-                           'subs_mobile': 395037,
+                           'subs_fixed': 34671,
+                           'subs_mobile': 371992,
                            'telecom': { 'code': '253',
-                                        'domestic': [ '4 per 100 fixed-line and 45 per 100 mobile-cellular',
+                                        'domestic': [ '4 per 100 fixed-line and 41 per 100 mobile-cellular',
                                                       'Djibouti Telecom (DT) is the sole provider of '
                                                       'telecommunications services and utilizes mostly a microwave '
                                                       'radio relay network',
@@ -3215,15 +3216,15 @@ WORLD_FB = \
                            'ports': {'major seaport': 'Portsmouth, Roseau'},
                            'region': ['Central America and the Caribbean'],
                            'subs_broadband': 11514,
-                           'subs_fixed': 2660,
-                           'subs_mobile': 75771,
+                           'subs_fixed': 2751,
+                           'subs_mobile': 78437,
                            'telecom': { 'code': '1767',
                                         'domestic': [ 'fixed-line connections continue to decline slowly with only two '
                                                       'active operators providing about 4 fixed-line connections per '
                                                       '100 persons',
                                                       'subscribership among the three mobile-cellular providers is '
-                                                      'about 102 per 100 persons',
-                                                      2018],
+                                                      'about 106 per 100 persons',
+                                                      2019],
                                         'general': [ 'fully automatic network',
                                                      'there are multiple competing operators licensed to provide '
                                                      'services, most of them are small and localized',
@@ -3264,13 +3265,13 @@ WORLD_FB = \
                                      'ports': {'major seaport': 'Puerto Haina, Puerto Plata, Santo Domingo'},
                                      'region': ['Central America and the Caribbean'],
                                      'subs_broadband': 794788,
-                                     'subs_fixed': 1277247,
-                                     'subs_mobile': 8937647,
+                                     'subs_fixed': 1172083,
+                                     'subs_mobile': 8665302,
                                      'telecom': { 'code': '1809',
-                                                  'domestic': [ 'fixed-line teledensity is about 12 per 100 persons',
+                                                  'domestic': [ 'fixed-line teledensity is about 11 per 100 persons',
                                                                 'multiple providers of mobile-cellular service with a '
-                                                                'subscribership of 82 per 100 persons',
-                                                                2018],
+                                                                'subscribership of 83 per 100 persons',
+                                                                2019],
                                                   'general': [ 'there are multiple operators licensed to provide '
                                                                'services, most of them are small and localized',
                                                                'the telecom sector across the Caribbean region remains '
@@ -3315,15 +3316,15 @@ WORLD_FB = \
                                      'major seaport': 'Esmeraldas, Manta, Puerto Bolivar'},
                           'region': ['South America'],
                           'subs_broadband': 1953607,
-                          'subs_fixed': 2360581,
-                          'subs_mobile': 15772838,
+                          'subs_fixed': 2111291,
+                          'subs_mobile': 15241719,
                           'telecom': { 'code': '593',
                                        'domestic': [ 'fixed-line services with digital networks provided by multiple '
                                                      'telecommunications operators',
-                                                     'fixed-line teledensity stands at about 14 per 100 persons and '
-                                                     'mobile-cellular use has surged and subscribership has reached 96 '
+                                                     'fixed-line teledensity stands at about 13 per 100 persons and '
+                                                     'mobile-cellular use has surged and subscribership has reached 91 '
                                                      'per 100 persons',
-                                                     2018],
+                                                     2019],
                                        'general': [ "much of the country's fixed-line structure is influenced by "
                                                     'topographical challenges associated with the Andes Mountains',
                                                     'Ecuador has a small telecom market with a dominant mobile sector',
@@ -3364,10 +3365,10 @@ WORLD_FB = \
                                    'major seaport': 'Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said'},
                         'region': ['Africa'],
                         'subs_broadband': 6579762,
-                        'subs_fixed': 7865286,
-                        'subs_mobile': 93784497,
+                        'subs_fixed': 8885103,
+                        'subs_mobile': 96657295,
                         'telecom': { 'code': '20',
-                                     'domestic': ['fixed-line 8 per 100, mobile-cellular 94 per 100', 2018],
+                                     'domestic': ['fixed-line 9 per 100, mobile-cellular 95 per 100', 2019],
                                      'general': [ 'one of the biggest fixed-line systems in Africa and the Arab region',
                                                   'one of the largest mobile telecom markets in North Africa',
                                                   'penetration rate of about 94%',
@@ -3411,14 +3412,14 @@ WORLD_FB = \
                               'ports': {'major seaport': 'Puerto Cutuco'},
                               'region': ['Central America and the Caribbean'],
                               'subs_broadband': 492265,
-                              'subs_fixed': 923029,
-                              'subs_mobile': 9433495,
+                              'subs_fixed': 882498,
+                              'subs_mobile': 9442667,
                               'telecom': { 'code': '503',
                                            'domestic': [ 'growth in fixed-line services 14 per 100, has slowed in the '
-                                                         'face of mobile-cellular competition at 148 per 100',
+                                                         'face of mobile-cellular competition at 147 per 100',
                                                          2019],
-                                           'general': [ 'multiple mobile-cellular operators began rolling out Long '
-                                                        'Term Evolution (LTE) data services in late-2016',
+                                           'general': [ 'multiple mobile-cellular operators began rolling out (Long '
+                                                        'Term Evolution) LTE data services in late-2016',
                                                         'Internet usage grew almost 400% between 2007 and 2015',
                                                         '6% of phones are fixed-line, while 94% are mobile-cellular',
                                                         'as of March 2019, the regulator launched a public dialog that '
@@ -3461,12 +3462,12 @@ WORLD_FB = \
                                     'ports': {'major seaport': 'Bata, Luba, Malabo'},
                                     'region': ['Africa'],
                                     'subs_broadband': 1620,
-                                    'subs_fixed': 10848,
-                                    'subs_mobile': 591223,
+                                    'subs_fixed': 6779,
+                                    'subs_mobile': 368920,
                                     'telecom': { 'code': '240',
                                                  'domestic': [ 'fixed-line density is about 1 per 100 persons and '
-                                                               'mobile-cellular subscribership is 74 per 100',
-                                                               2018],
+                                                               'mobile-cellular subscribership is 45 per 100',
+                                                               2019],
                                                  'general': [ 'digital fixed-line network in most major urban areas '
                                                               'and decent mobile cellular coverage',
                                                               '3G technology has allowed for estimated 9.5% of growth '
@@ -3505,12 +3506,12 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Assab, Massawa'},
                           'region': ['Africa'],
                           'subs_broadband': 600,
-                          'subs_fixed': 66086,
-                          'subs_mobile': 506000,
+                          'subs_fixed': 116882,
+                          'subs_mobile': 1226660,
                           'telecom': { 'code': '291',
-                                       'domestic': [ 'fixed-line subscribership is less than 1 per 100 person and '
-                                                     'mobile-cellular 9 per 100',
-                                                     2018],
+                                       'domestic': [ 'fixed-line subscribership is less than 2 per 100 person and '
+                                                     'mobile-cellular 20 per 100',
+                                                     2019],
                                        'general': [ 'woefully inadequate service provided by state-owned telecom '
                                                     'monopoly',
                                                     'most fixed-line telephones are in Asmara',
@@ -3550,10 +3551,10 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn'},
                           'region': ['Europe'],
                           'subs_broadband': 441167,
-                          'subs_fixed': 345690,
-                          'subs_mobile': 1924034,
+                          'subs_fixed': 302606,
+                          'subs_mobile': 1820088,
                           'telecom': { 'code': '372',
-                                       'domestic': [ '28 per 100 for fixed-line and 155 per 100 for mobile-cellular',
+                                       'domestic': [ '25 per 100 for fixed-line and 147 per 100 for mobile-cellular',
                                                      'substantial fiber-optic cable systems carry telephone, TV, and '
                                                      'radio traffic in the digital mode',
                                                      'Internet services are widely available',
@@ -3562,7 +3563,7 @@ WORLD_FB = \
                                                      'and online voting - in local and parliamentary elections - has '
                                                      'climbed steadily since first being introduced in 2005',
                                                      'a large percent of Estonian households have broadband access',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'a range of regulatory measures, competition and foreign '
                                                     'investment in the form of joint business ventures has greatly '
                                                     'improved telephone service with a wide range of high-quality '
@@ -3603,23 +3604,23 @@ WORLD_FB = \
                            'population': 1104479,
                            'region': ['Africa'],
                            'subs_broadband': 7000,
-                           'subs_fixed': 42000,
-                           'subs_mobile': 995000,
+                           'subs_fixed': 40003,
+                           'subs_mobile': 1025061,
                            'telecom': { 'code': '268',
                                         'domestic': [ 'Eswatini has 2 mobile-cellular providers',
                                                       'communication infrastructure has a geographic coverage of about '
                                                       '90% and a rising subscriber base',
-                                                      'fixed-line stands at 3 per 100 and mobile-cellular teledensity '
-                                                      'roughly 68 telephones per 100 persons',
+                                                      'fixed-line stands at 4 per 100 and mobile-cellular teledensity '
+                                                      'roughly 94 telephones per 100 persons',
                                                       'telephone system consists of carrier-equipped, open-wire lines '
                                                       'and low-capacity, microwave radio relay',
-                                                      2018],
+                                                      2019],
                                         'general': [ 'earlier government monopoly in telecommunications hindered its '
                                                      'growth',
                                                      'new regulatory authority established in 2013 has aided expansion '
                                                      'in the telecom sector',
                                                      '2G, 3G, 4G and LTE services',
-                                                     2018],
+                                                     2019],
                                         'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 2000]},
                            'users_internet': 510984},
                 'name': 'Eswatini',
@@ -3652,13 +3653,13 @@ WORLD_FB = \
                            'ports': {},
                            'region': ['Africa'],
                            'subs_broadband': 580120,
-                           'subs_fixed': 1181000,
-                           'subs_mobile': 62617000,
+                           'subs_fixed': 1095946,
+                           'subs_mobile': 38147361,
                            'telecom': { 'code': '251',
                                         'domestic': [ 'fixed-line subscriptions at 1 per 100 while mobile-cellular '
-                                                      'stands at 59 per 100',
+                                                      'stands at 36 per 100',
                                                       'the number of mobile telephones is increasing steadily',
-                                                      2018],
+                                                      2019],
                                         'general': [ 'Ethio Telecom maintained a monopoly over telecommunication '
                                                      'services until recently and is now part-private',
                                                      'new expansion of LTE services',
@@ -3716,7 +3717,7 @@ WORLD_FB = \
                                                     'telecom': { 'code': '500',
                                                                  'domestic': [ 'fixed-line subscriptions 77 per 100, '
                                                                                '146 per 100 for mobile-cellular',
-                                                                               2015],
+                                                                               2019],
                                                                  'general': [ 'government-operated radiotelephone and '
                                                                               'private VHF/CB radiotelephone networks '
                                                                               'provide effective service to almost all '
@@ -3752,14 +3753,14 @@ WORLD_FB = \
                                 'ports': {'major seaport': 'Fuglafjordur, Torshavn, Vagur'},
                                 'region': ['Europe'],
                                 'subs_broadband': 18181,
-                                'subs_fixed': 17188,
-                                'subs_mobile': 56792,
+                                'subs_fixed': 19137,
+                                'subs_mobile': 59771,
                                 'telecom': { 'code': '298',
-                                             'domestic': [ '34 per 100 for fixed-line and 111 per 100 for '
+                                             'domestic': [ '37 per 100 for fixed-line and 116 per 100 for '
                                                            'mobile-cellular',
                                                            'both NMT (analog) and GSM (digital) mobile telephone '
                                                            'systems are installed',
-                                                           2000],
+                                                           2019],
                                              'general': [ 'good international and domestic communications',
                                                           'telecommunications network of high standards with excellent '
                                                           'coverage throughout most parts of the country and at '
@@ -3795,12 +3796,12 @@ WORLD_FB = \
                        'ports': {'major seaport': 'Lautoka, Levuka, Suva'},
                        'region': ['Oceania'],
                        'subs_broadband': 13033,
-                       'subs_fixed': 76522,
-                       'subs_mobile': 1033915,
+                       'subs_fixed': 80650,
+                       'subs_mobile': 1097345,
                        'telecom': { 'code': '679',
-                                    'domestic': [ 'fixed-line 8 per 100 persons and mobile-cellular teledensity '
-                                                  'roughly 112 per 100 persons',
-                                                  2018],
+                                    'domestic': [ 'fixed-line 9 per 100 persons and mobile-cellular teledensity '
+                                                  'roughly 118 per 100 persons',
+                                                  2019],
                                     'general': [ 'local, interisland, and international telecommunications',
                                                  'subject to occasional devastating cyclones',
                                                  'Fiji is a leader in the Pacific region in terms of development of '
@@ -3843,12 +3844,12 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma'},
                           'region': ['Europe'],
                           'subs_broadband': 1737000,
-                          'subs_fixed': 323000,
-                          'subs_mobile': 7150000,
+                          'subs_fixed': 269980,
+                          'subs_mobile': 7179481,
                           'telecom': { 'code': '358',
-                                       'domestic': [ 'fixed-line 6 per 100 subscription and 129 per 100 '
+                                       'domestic': [ 'fixed-line 5 per 100 subscription and 129 per 100 '
                                                      'mobile-cellular',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'excellent service',
                                                     'one of the most progressive in Europe',
                                                     'one of the highest broadband and mobile penetrations rates in the '
@@ -3917,12 +3918,12 @@ WORLD_FB = \
                                      ('Mayotte', 'Africa'),
                                      ('Reunion', 'World')],
                          'subs_broadband': 29100000,
-                         'subs_fixed': 38620000,
-                         'subs_mobile': 70422000,
+                         'subs_fixed': 39234941,
+                         'subs_mobile': 74791818,
                          'telecom': { 'code': '33',
-                                      'domestic': [ '57 per 100 persons for fixed-line and 105 per 100 for '
+                                      'domestic': [ '58 per 100 persons for fixed-line and 111 per 100 for '
                                                     'mobile-cellular subscriptions',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'one of the largest mobile phone markets in Europe, worth 13 '
                                                    'billion annually',
                                                    'LTE has universal coverage with extensive 5G launching any day, '
@@ -4006,12 +4007,12 @@ WORLD_FB = \
                                    'ports': {'major seaport': 'Papeete'},
                                    'region': ['Oceania'],
                                    'subs_broadband': 59790,
-                                   'subs_fixed': 90278,
-                                   'subs_mobile': 302673,
+                                   'subs_fixed': 63769,
+                                   'subs_mobile': 305233,
                                    'telecom': { 'code': '689',
-                                                'domestic': [ 'fixed-line subscriptions 31 per 100 persons and '
+                                                'domestic': [ 'fixed-line subscriptions 22 per 100 persons and '
                                                               'mobile-cellular density is roughly 104 per 100 persons',
-                                                              2018],
+                                                              2019],
                                                 'general': [ 'one of the most advanced telecom infrastructures for the '
                                                              'Pacific island region',
                                                              '85% mobile broadband coverage',
@@ -4094,14 +4095,14 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Libreville, Owendo, Port-Gentil'},
                         'region': ['Africa'],
                         'subs_broadband': 29099,
-                        'subs_fixed': 21818,
-                        'subs_mobile': 2930554,
+                        'subs_fixed': 22412,
+                        'subs_mobile': 3008814,
                         'telecom': { 'code': '241',
                                      'domestic': [ 'fixed-line is 1 per 100 subscriptions',
                                                    'a growing mobile cellular network with multiple providers is '
                                                    'making telephone service more widely available with mobile '
                                                    'cellular teledensity at 138 per 100 persons',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'fixed-line and Internet sectors have remained underdeveloped due to '
                                                   'the lack of competition and high prices',
                                                   'sufficient international bandwidth due to submarine cable systems, '
@@ -4139,14 +4140,14 @@ WORLD_FB = \
                               'ports': {'major seaport': 'Banjul'},
                               'region': ['Africa'],
                               'subs_broadband': 4433,
-                              'subs_fixed': 44000,
-                              'subs_mobile': 3181393,
+                              'subs_fixed': 41179,
+                              'subs_mobile': 2977068,
                               'telecom': { 'code': '220',
                                            'domestic': [ 'fixed-line stands at 2 per 100 subscriptions with one '
                                                          'dominant company and mobile-cellular teledensity, aided by '
-                                                         'multiple mobile-cellular providers, is over 152 per 100 '
+                                                         'multiple mobile-cellular providers, is over 140 per 100 '
                                                          'persons',
-                                                         2018],
+                                                         2019],
                                            'general': [ 'state-owned Gambia Telecommunications partially privatized '
                                                         'but still retaining a monopoly with fixed-line service',
                                                         'multiple mobile networks offering effective competition',
@@ -4227,15 +4228,15 @@ WORLD_FB = \
                           'ports': {'major seaport': "Black Sea - Bat'umi, P'ot'i"},
                           'region': ['Asia'],
                           'subs_broadband': 840603,
-                          'subs_fixed': 604348,
-                          'subs_mobile': 5459239,
+                          'subs_fixed': 638092,
+                          'subs_mobile': 6638125,
                           'telecom': { 'code': '995',
-                                       'domestic': [ 'fixed-line 12 per 100, cellular telephone networks cover the '
+                                       'domestic': [ 'fixed-line 13 per 100, cellular telephone networks cover the '
                                                      'entire country',
-                                                     'mobile-cellular teledensity roughly 111 per 100 persons',
+                                                     'mobile-cellular teledensity roughly 135 per 100 persons',
                                                      "intercity facilities include a fiber-optic line between T'bilisi "
                                                      "and K'ut'aisi",
-                                                     2018],
+                                                     2019],
                                        'general': [ "telecommunications fastest growing area of Georgia's economy",
                                                     'LTE services now cover the vast majority of the population',
                                                     'fixed-line telecommunications network has limited coverage '
@@ -4288,16 +4289,16 @@ WORLD_FB = \
                                      'major seaport': 'Baltic Sea - Rostock'},
                           'region': ['Europe'],
                           'subs_broadband': 34174900,
-                          'subs_fixed': 42500000,
-                          'subs_mobile': 107500000,
+                          'subs_fixed': 38847530,
+                          'subs_mobile': 103090116,
                           'telecom': { 'code': '49',
                                        'domestic': [ 'extensive system of automatic telephone exchanges connected by '
                                                      'modern networks of fiber-optic cable, coaxial cable, microwave '
                                                      'radio relay, and a domestic satellite system',
                                                      'cellular telephone service is widely available, expanding '
                                                      'rapidly, and includes roaming service to many foreign countries',
-                                                     '53 per 100 for fixed-line and 134 per 100 for mobile-cellular',
-                                                     2018],
+                                                     '48 per 100 for fixed-line and 128 per 100 for mobile-cellular',
+                                                     2019],
                                        'general': [ "one of the world's most technologically advanced "
                                                     'telecommunications systems',
                                                     'as a result of intensive capital expenditures since '
@@ -4340,14 +4341,14 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Takoradi, Tema'},
                         'region': ['Africa'],
                         'subs_broadband': 62320,
-                        'subs_fixed': 278379,
-                        'subs_mobile': 40934875,
+                        'subs_fixed': 272801,
+                        'subs_mobile': 38571189,
                         'telecom': { 'code': '233',
                                      'domestic': [ 'fixed-line 1 per 100 subscriptions',
                                                    'competition among multiple mobile-cellular providers has spurred '
-                                                   'growth with a subscribership of more than 146 per 100 persons and '
+                                                   'growth with a subscribership of more than 134 per 100 persons and '
                                                    'rising',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'highly competitive Internet market',
                                                   'govt. helped fund programs for telecom services nationally',
                                                   'mobile accounts for how people access the Internet',
@@ -4389,12 +4390,12 @@ WORLD_FB = \
                             'ports': {'major seaport': 'Gibraltar'},
                             'region': ['Europe'],
                             'subs_broadband': 19232,
-                            'subs_fixed': 17671,
-                            'subs_mobile': 41045,
+                            'subs_fixed': 14865,
+                            'subs_mobile': 35510,
                             'telecom': { 'code': '350',
                                          'domestic': [ 'automatic exchange facilities',
-                                                       '60 per 100 fixed-line and 139 per 100 mobile-cellular',
-                                                       2018],
+                                                       '50 per 100 fixed-line and 120 per 100 mobile-cellular',
+                                                       2019],
                                          'general': [ 'adequate, automatic domestic system and adequate international '
                                                       'facilities',
                                                       2018],
@@ -4442,14 +4443,14 @@ WORLD_FB = \
                                     'major seaport': 'Aspropyrgos, Pachi, Piraeus, Thessaloniki'},
                          'region': ['Europe'],
                          'subs_broadband': 3961864,
-                         'subs_fixed': 5078083,
-                         'subs_mobile': 12170757,
+                         'subs_fixed': 5080386,
+                         'subs_mobile': 12070571,
                          'telecom': { 'code': '30',
                                       'domestic': [ 'microwave radio relay trunk system',
                                                     'extensive open-wire connections',
                                                     'submarine cable to offshore islands',
                                                     '48 per 100 for fixed-line and 114 per 100 for mobile-cellular',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'good mobile telephone and international services',
                                                    '3 mobile network operators',
                                                    'broadband penetration developing steadily despite rough economic '
@@ -4490,12 +4491,12 @@ WORLD_FB = \
                             'ports': {'major seaport': 'Sisimiut'},
                             'region': ['Arctic Region'],
                             'subs_broadband': 13192,
-                            'subs_fixed': 8060,
-                            'subs_mobile': 62537,
+                            'subs_fixed': 7259,
+                            'subs_mobile': 66009,
                             'telecom': { 'code': '299',
-                                         'domestic': [ '14 per 100 for fixed-line subscriptions and 108 per 100 for '
+                                         'domestic': [ '13 per 100 for fixed-line subscriptions and 115 per 100 for '
                                                        'mobile-cellular',
-                                                       2018],
+                                                       2019],
                                          'general': [ 'adequate domestic and international service provided by '
                                                       'satellite, cables, and microwave radio relay',
                                                       'the fundamental telecommunications infrastructure consists of a '
@@ -4535,12 +4536,12 @@ WORLD_FB = \
                           'ports': {'major seaport': "Saint George's"},
                           'region': ['Central America and the Caribbean'],
                           'subs_broadband': 22235,
-                          'subs_fixed': 32491,
-                          'subs_mobile': 113177,
+                          'subs_fixed': 33011,
+                          'subs_mobile': 115008,
                           'telecom': { 'code': '1473',
                                        'domestic': [ 'interisland VHF and UHF radiotelephone links',
-                                                     '29 per 100 for fixed-line and 101 per 100 for mobile-cellular',
-                                                     2018],
+                                                     '29 per 100 for fixed-line and 102 per 100 for mobile-cellular',
+                                                     2019],
                                        'general': [ 'adequate, island-wide telephone system',
                                                     'lack of local competition, but telecoms are a high contributors '
                                                     'to overall GDP',
@@ -4587,13 +4588,13 @@ WORLD_FB = \
                        'population': 168485,
                        'ports': {'major seaport': 'Apra Harbor'},
                        'region': ['Oceania'],
-                       'subs_fixed': 68000,
+                       'subs_fixed': 70639,
                        'subs_mobile': 181000,
                        'telecom': { 'code': '1671',
                                     'domestic': [ 'three major companies provide both fixed-line and mobile services, '
                                                   'as well as access to the Internet',
                                                   'fixed-line 42 per 100 and 113 per 100 for mobile-cellular',
-                                                  2018],
+                                                  2019],
                                     'general': [ 'integrated with US facilities for direct dialing, including free use '
                                                  'of 800 numbers',
                                                  2020],
@@ -4630,14 +4631,14 @@ WORLD_FB = \
                             'ports': {'major seaport': 'Puerto Quetzal, Santo Tomas de Castilla'},
                             'region': ['Central America and the Caribbean'],
                             'subs_broadband': 506000,
-                            'subs_fixed': 2436093,
-                            'subs_mobile': 20467520,
+                            'subs_fixed': 1894179,
+                            'subs_mobile': 20026347,
                             'telecom': { 'code': '502',
-                                         'domestic': [ 'fixed-line teledensity roughly 15 per 100 persons',
+                                         'domestic': [ 'fixed-line teledensity roughly 11 per 100 persons',
                                                        'fixed-line investments are concentrating on improving rural '
                                                        'connectivity',
-                                                       'mobile-cellular teledensity about 123 per 100 persons',
-                                                       2018],
+                                                       'mobile-cellular teledensity about 119 per 100 persons',
+                                                       2019],
                                          'general': [ 'network centered in the city of Guatemala',
                                                       'one of the lowest teledensities in the region especially in the '
                                                       'country, rural areas have no fixed-line access so mobile '
@@ -4681,7 +4682,7 @@ WORLD_FB = \
                            'subs_mobile': 71249,
                            'telecom': { 'code': '44',
                                         'domestic': [ 'fixed-line 60 per 100 and mobile-cellular 113 per 100 persons',
-                                                      2018],
+                                                      2019],
                                         'general': [ 'high performance global connections with quality service',
                                                      'connections to major cities around the world to rival and '
                                                      'attract future investment and future needs of islanders and '
@@ -4723,14 +4724,14 @@ WORLD_FB = \
                          'region': ['Africa'],
                          'subs_broadband': 1213,
                          'subs_fixed': 0,
-                         'subs_mobile': 12013000,
+                         'subs_mobile': 12283911,
                          'telecom': { 'code': '224',
                                       'domestic': [ 'there is national coverage and Conakry is reasonably well-served',
                                                     'coverage elsewhere remains inadequate but is improving',
                                                     'fixed-line teledensity is less than 1 per 100 persons',
                                                     'mobile-cellular subscribership is expanding rapidly and now 101 '
                                                     'per 100 persons',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'huge improvement over the last ten years',
                                                    'in May 2019, 4G Wi-Fi was launched in the capital',
                                                    'the regional administrative centers all have 3G access',
@@ -4770,11 +4771,11 @@ WORLD_FB = \
                                 'region': ['Africa'],
                                 'subs_broadband': 1204,
                                 'subs_fixed': 0,
-                                'subs_mobile': 1480491,
+                                'subs_mobile': 1555961,
                                 'telecom': { 'code': '245',
                                              'domestic': [ 'fixed-line teledensity less than 1 per 100 persons',
-                                                           'mobile cellular teledensity is roughly 81 per 100 persons',
-                                                           2018],
+                                                           'mobile cellular teledensity is roughly 83 per 100 persons',
+                                                           2019],
                                              'general': [ 'small system including a combination of microwave radio '
                                                           'relay, open-wire lines, radiotelephone, and mobile cellular '
                                                           'communications',
@@ -4809,12 +4810,12 @@ WORLD_FB = \
                          'ports': {'major seaport': 'Georgetown'},
                          'region': ['South America'],
                          'subs_broadband': 64889,
-                         'subs_fixed': 135795,
-                         'subs_mobile': 643210,
+                         'subs_fixed': 130497,
+                         'subs_mobile': 617998,
                          'telecom': { 'code': '592',
-                                      'domestic': [ 'fixed-line teledensity is about 20 per 100 persons',
-                                                    'mobile-cellular teledensity about 87 per 100 persons',
-                                                    2018],
+                                      'domestic': [ 'fixed-line teledensity is about 18 per 100 persons',
+                                                    'mobile-cellular teledensity about 83 per 100 persons',
+                                                    2019],
                                       'general': [ 'reliable international long distance service',
                                                    '100% digital network',
                                                    'national transmission supported by fiber optic cable and rural '
@@ -4855,15 +4856,15 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Cap-Haitien, Gonaives, Jacmel, Port-au-Prince'},
                         'region': ['Central America and the Caribbean'],
                         'subs_broadband': 31100,
-                        'subs_fixed': 5922,
-                        'subs_mobile': 6399044,
+                        'subs_fixed': 5464,
+                        'subs_mobile': 6287411,
                         'telecom': { 'code': '509',
                                      'domestic': [ 'fixed-line is less than 1 per 100',
                                                    'mobile-cellular telephone services have expanded greatly in the '
                                                    'last decade due to low-cost GSM (Global Systems for Mobile) phones '
                                                    'and pay-as-you-go plans',
-                                                   'mobile-cellular teledensity is 59 per 100 persons',
-                                                   2018],
+                                                   'mobile-cellular teledensity is 58 per 100 persons',
+                                                   2019],
                                      'general': [ 'telecommunications infrastructure is among the least-developed in '
                                                   'Latin America and the Caribbean',
                                                   'domestic cell service is functional',
@@ -4953,14 +4954,14 @@ WORLD_FB = \
                            'ports': {'major seaport': 'La Ceiba, Puerto Cortes, San Lorenzo, Tela'},
                            'region': ['Central America and the Caribbean'],
                            'subs_broadband': 354861,
-                           'subs_fixed': 532004,
-                           'subs_mobile': 7588554,
+                           'subs_fixed': 458696,
+                           'subs_mobile': 6633309,
                            'telecom': { 'code': '504',
                                         'domestic': [ 'private sub-operators allowed to provide fixed lines in order '
                                                       'to expand telephone coverage contributing to a small increase '
-                                                      'in fixed-line teledensity 6 per 100',
-                                                      'mobile-cellular subscribership is roughly 84 per 100 persons',
-                                                      2018],
+                                                      'in fixed-line teledensity 5 per 100',
+                                                      'mobile-cellular subscribership is roughly 73 per 100 persons',
+                                                      2019],
                                         'general': [ 'fixed-line connections are increasing but still limited',
                                                      'competition among multiple providers of mobile-cellular services '
                                                      'and international investment has contributed to a sharp increase '
@@ -4998,12 +4999,12 @@ WORLD_FB = \
                             'ports': {'container port': 'Hong Kong (20,770,000)', 'major seaport': 'Hong Kong'},
                             'region': ['Southeast Asia'],
                             'subs_broadband': 2714679,
-                            'subs_fixed': 4196061,
-                            'subs_mobile': 19901856,
+                            'subs_fixed': 3942605,
+                            'subs_mobile': 20868827,
                             'telecom': { 'code': '852',
                                          'domestic': [ 'microwave radio relay links and extensive fiber-optic network',
-                                                       'fixed-line is 58 per 100 and mobile-cellular is 276 per 100',
-                                                       2018],
+                                                       'fixed-line is 55 per 100 and mobile-cellular is 289 per 100',
+                                                       2019],
                                          'general': [ 'excellent domestic and international services',
                                                       'some of the highest peak average broadband speeds in the world',
                                                       'HK aims to be among the earliest adopters of 5G mobile '
@@ -5082,14 +5083,14 @@ WORLD_FB = \
                           'ports': {},
                           'region': ['Europe'],
                           'subs_broadband': 3079549,
-                          'subs_fixed': 3016878,
-                          'subs_mobile': 10041939,
+                          'subs_fixed': 3084836,
+                          'subs_mobile': 10394172,
                           'telecom': { 'code': '36',
                                        'domestic': [ 'competition among mobile-cellular service providers has led to a '
-                                                     'sharp increase in the use of mobile-cellular phones, 102 per '
-                                                     '100, and a decrease in the number of fixed-line connections, 31 '
-                                                     'per 100 persons',
-                                                     2018],
+                                                     'sharp increase in the use of mobile-cellular phones, and a '
+                                                     'decrease in the number of fixed-line connections, 31 per 100 '
+                                                     'persons, while mobile-cellular is 106 per 100',
+                                                     2019],
                                        'general': [ 'telephone system is digital and highly automated',
                                                     'broadband penetration is the highest in Eastern Europe',
                                                     'replacement of all copper infrastructure with fiber nationally',
@@ -5100,7 +5101,7 @@ WORLD_FB = \
                                                  'countries',
                                                  'the international switch is in Budapest',
                                                  'satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian '
-                                                 'Ocean regions), 1 Inmarsat, 1 very small aperture terminal (VSAT) '
+                                                 'Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT '
                                                  'system of ground terminals',
                                                  2000]},
                           'users_internet': 7474413},
@@ -5128,15 +5129,15 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Grundartangi, Hafnarfjordur, Reykjavik'},
                           'region': ['Arctic Region'],
                           'subs_broadband': 136556,
-                          'subs_fixed': 136713,
-                          'subs_mobile': 424720,
+                          'subs_fixed': 128597,
+                          'subs_mobile': 423390,
                           'telecom': { 'code': '354',
                                        'domestic': [ 'liberalization of the telecommunications sector beginning in the '
                                                      'late 1990s has led to increased competition especially in the '
                                                      'mobile services segment of the market',
-                                                     '40 per 100 for fixed line and 124 per 100 for mobile-cellular '
+                                                     '37 per 100 for fixed line and 122 per 100 for mobile-cellular '
                                                      'subscriptions',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'telecommunications infrastructure is modern and fully digitized, '
                                                     'with satellite-earth stations, fiber-optic cables, and an '
                                                     'extensive broadband network',
@@ -5186,11 +5187,11 @@ WORLD_FB = \
                                                     '(Bombay), Sikka, Vishakhapatnam'},
                         'region': ['Asia'],
                         'subs_broadband': 18170000,
-                        'subs_fixed': 21868192,
-                        'subs_mobile': 1176021869,
+                        'subs_fixed': 20198012,
+                        'subs_mobile': 1105250941,
                         'telecom': { 'code': '91',
                                      'domestic': [ 'fixed-line subscriptions stands at 2 per 100 and mobile-cellular '
-                                                   'at 91 per 100',
+                                                   'at 84 per 100',
                                                    'mobile cellular service introduced in 1994 and organized '
                                                    'nationwide into four metropolitan areas and 19 telecom circles, '
                                                    'each with multiple private service providers and one or more '
@@ -5198,9 +5199,9 @@ WORLD_FB = \
                                                    'in recent years significant trunk capacity added in the form of '
                                                    "fiber-optic cable and one of the world's largest domestic "
                                                    'satellite systems, the Indian National Satellite system (INSAT), '
-                                                   'with 6 satellites supporting 33,000 very small aperture terminals '
-                                                   '(VSAT)',
-                                                   2018],
+                                                   'with 6 satellites supporting 33,000 (very small aperture '
+                                                   'terminals) VSAT',
+                                                   2019],
                                      'general': [ 'supported by deregulation and liberalization of telecommunication '
                                                   'laws and policies, India has emerged as one of the fastest-growing '
                                                   'telecom markets in the world',
@@ -5252,14 +5253,14 @@ WORLD_FB = \
                                                         'Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok'},
                             'region': ['Southeast Asia'],
                             'subs_broadband': 8874116,
-                            'subs_fixed': 8303511,
-                            'subs_mobile': 319434605,
+                            'subs_fixed': 9272754,
+                            'subs_mobile': 337766682,
                             'telecom': { 'code': '62',
-                                         'domestic': [ 'fixed-line 3 per 100 and mobile-cellular 122 per 100 persons',
+                                         'domestic': [ 'fixed-line 4 per 100 and mobile-cellular 127 per 100 persons',
                                                        'coverage provided by existing network has been expanded by use '
                                                        'of over 200,000 telephone kiosks many located in remote areas',
                                                        'mobile-cellular subscribership growing rapidly',
-                                                       2018],
+                                                       2019],
                                          'general': [ 'international service good',
                                                       'Indonesia has very low fixed line and fixed broadband '
                                                       'penetration, high mobile penetration and moderate mobile '
@@ -5318,10 +5319,10 @@ WORLD_FB = \
                                   'major seaport': 'Bandar-e Asaluyeh, Bandar Abbas, Bandar Emam'},
                        'region': ['Middle East'],
                        'subs_broadband': 9806123,
-                       'subs_fixed': 30481734,
-                       'subs_mobile': 88722442,
+                       'subs_fixed': 29330454,
+                       'subs_mobile': 119598034,
                        'telecom': { 'code': '98',
-                                    'domestic': [ '37 per 100 for fixed-line and 107 per 100 for mobile-cellular '
+                                    'domestic': [ '35 per 100 for fixed-line and 142 per 100 for mobile-cellular '
                                                   'subscriptions',
                                                   "investment by Iran's state-owned telecom company has greatly "
                                                   'improved and expanded both the fixed-line and mobile cellular '
@@ -5379,16 +5380,16 @@ WORLD_FB = \
                        'ports': {},
                        'region': ['Middle East'],
                        'subs_broadband': 4492328,
-                       'subs_fixed': 2705028,
-                       'subs_mobile': 36527353,
+                       'subs_fixed': 2678046,
+                       'subs_mobile': 36092758,
                        'telecom': { 'code': '964',
                                     'domestic': [ 'the mobile cellular market continues to expand',
                                                   '3G services offered by three major mobile operators',
                                                   '4G offered by one operator in Iraqi',
                                                   'conflict has destroyed infrastructure in areas',
-                                                  '7 per 100 for fixed-line and 98 per 100 for mobile-cellular '
+                                                  '7 per 100 for fixed-line and 95 per 100 for mobile-cellular '
                                                   'subscriptions',
-                                                  2018],
+                                                  2019],
                                     'general': [ 'the 2003 liberation of Iraq severely disrupted telecommunications '
                                                  'throughout Iraq',
                                                  'widespread government efforts to rebuild domestic and international '
@@ -5434,15 +5435,15 @@ WORLD_FB = \
                           'ports': {'container port': 'Dublin (529,563)', 'major seaport': 'Dublin, Shannon Foynes'},
                           'region': ['Europe'],
                           'subs_broadband': 1430160,
-                          'subs_fixed': 1829166,
-                          'subs_mobile': 4971493,
+                          'subs_fixed': 1854605,
+                          'subs_mobile': 5398848,
                           'telecom': { 'code': '353',
                                        'domestic': [ 'increasing levels of broadband access particularly in urban '
                                                      'areas',
-                                                     'fixed-line 36 per 100 and mobile-cellular 98 per 100 '
+                                                     'fixed-line 36 per 100 and mobile-cellular 105 per 100 '
                                                      'subscriptions',
                                                      'digital system using cable and microwave radio relay',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'a previous depressed economic climate has changed to one with '
                                                     'Ireland having one of the highest GDP growth rates in Europe, '
                                                     'which translates to mean spending among telecom consumers',
@@ -5521,14 +5522,14 @@ WORLD_FB = \
                                     'major seaport': 'Ashdod, Elat (Eilat), Hadera, Haifa'},
                          'region': ['Middle East'],
                          'subs_broadband': 2410000,
-                         'subs_fixed': 3200000,
-                         'subs_mobile': 10700000,
+                         'subs_fixed': 3050693,
+                         'subs_mobile': 10839024,
                          'telecom': { 'code': '972',
                                       'domestic': [ 'good system of coaxial cable and microwave radio relay',
                                                     'all systems are digital',
                                                     'competition among both fixed-line and mobile cellular providers '
                                                     'results in good coverage countrywide',
-                                                    'fixed-line 38 per 100 and 127 per 100 for mobile-cellular '
+                                                    'fixed-line 36 per 100 and 127 per 100 for mobile-cellular '
                                                     'subscriptions',
                                                     2019],
                                       'general': [ 'one of the most highly developed system in the Middle East',
@@ -5576,13 +5577,13 @@ WORLD_FB = \
                                    'major seaport': 'Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice'},
                         'region': ['Europe'],
                         'subs_broadband': 17060505,
-                        'subs_fixed': 20396603,
-                        'subs_mobile': 83342486,
+                        'subs_fixed': 20196475,
+                        'subs_mobile': 82955151,
                         'telecom': { 'code': '39',
                                      'domestic': [ 'high-capacity cable and microwave radio relay trunks',
-                                                   '33 per 100 for fixed-line and 134 per 100 for mobile-cellular '
+                                                   '32 per 100 for fixed-line and 133 per 100 for mobile-cellular '
                                                    'subscriptions',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'well-developed, fully automated telephone, and data services',
                                                   'highest mobile penetration rates in Europe, benefitted from '
                                                   'progressive govt. programs aimed at developing fiber in broadband '
@@ -5625,12 +5626,12 @@ WORLD_FB = \
                                                       'Antonio, Port Esquivel, Port Kaiser, Rocky Point'},
                           'region': ['Central America and the Caribbean'],
                           'subs_broadband': 284756,
-                          'subs_fixed': 363820,
-                          'subs_mobile': 2964974,
+                          'subs_fixed': 379420,
+                          'subs_mobile': 2882469,
                           'telecom': { 'code': '1876',
-                                       'domestic': [ 'while the number of fixed-lines, 13 per 100, subscriptions has '
-                                                     'declined, cellular-mobile has grown 105 per 100 subscriptions',
-                                                     2018],
+                                       'domestic': [ 'while the number of fixed-lines, 14 per 100, subscriptions has '
+                                                     'declined, cellular-mobile has grown 103 per 100 subscriptions',
+                                                     2019],
                                        'general': [ 'good domestic and international service',
                                                     'mobile sector dominates, accounting for 82% of the Internet '
                                                     'connections',
@@ -5688,14 +5689,14 @@ WORLD_FB = \
                                                     'Tomakomai, Yokohama'},
                         'region': ['Asia'],
                         'subs_broadband': 41496293,
-                        'subs_fixed': 63525713,
-                        'subs_mobile': 179872794,
+                        'subs_fixed': 62775494,
+                        'subs_mobile': 175187425,
                         'telecom': { 'code': '81',
                                      'domestic': [ 'high level of modern technology and excellent service of every '
                                                    'kind',
-                                                   '50 per 100 for fixed-line and 143 per 100 for mobile-cellular '
+                                                   '50 per 100 for fixed-line and 140 per 100 for mobile-cellular '
                                                    'subscriptions',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'excellent domestic and international service',
                                                   'exceedingly high mobile, mobile broadband and fixed broadband '
                                                   'penetration',
@@ -5834,17 +5835,17 @@ WORLD_FB = \
                          'ports': {'major seaport': "Al 'Aqabah"},
                          'region': ['Middle East'],
                          'subs_broadband': 399596,
-                         'subs_fixed': 369145,
-                         'subs_mobile': 8731760,
+                         'subs_fixed': 375576,
+                         'subs_mobile': 8215735,
                          'telecom': { 'code': '962',
-                                      'domestic': [ '1995 telecommunications law opened all non-fixed-line services to '
-                                                    'private competition',
-                                                    'in 2005, monopoly over fixed-line services terminated and the '
+                                      'domestic': [ '1995 a telecommunications law opened all non-fixed-line services '
+                                                    'to private competition',
+                                                    'in 2005, the monopoly over fixed-line services terminated and the '
                                                     'entire telecommunications sector was opened to competition',
-                                                    'currently multiple mobile-cellular providers with subscribership '
-                                                    'up to 83 per 100 persons',
-                                                    'fixed-line 4 per 100 persons',
-                                                    2018],
+                                                    'currently fixed-line 4 per 100 persons and multiple '
+                                                    'mobile-cellular providers with subscribership up to 77 per 100 '
+                                                    'persons',
+                                                    2019],
                                       'general': [ 'microwave radio relay transmission and coaxial and fiber-optic '
                                                    'cable are employed on trunk lines',
                                                    'growing mobile-cellular usage in both urban and rural areas is '
@@ -5904,14 +5905,14 @@ WORLD_FB = \
                              'ports': {'major seaport': "Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)"},
                              'region': ['Asia'],
                              'subs_broadband': 2462900,
-                             'subs_fixed': 3350900,
-                             'subs_mobile': 26065600,
+                             'subs_fixed': 3275584,
+                             'subs_mobile': 26223595,
                              'telecom': { 'code': '7',
                                           'domestic': [ 'intercity by landline and microwave radio relay',
-                                                        'number of fixed-line connections is 18 per 100 persons',
+                                                        'number of fixed-line connections is 17 per 100 persons',
                                                         'mobile-cellular usage increased rapidly and the subscriber '
                                                         'base approaches 139 per 100 persons',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'one of the most progressive telecoms sectors in Central Asia',
                                                        'vast 4G network',
                                                        'low fixed-line and fixed-broadband penetration, moderate '
@@ -5954,14 +5955,14 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Kisumu, Mombasa'},
                         'region': ['Africa'],
                         'subs_broadband': 371498,
-                        'subs_fixed': 65644,
-                        'subs_mobile': 49501430,
+                        'subs_fixed': 68072,
+                        'subs_mobile': 54336841,
                         'telecom': { 'code': '254',
                                      'domestic': [ 'fixed-line subscriptions stand at less than 1 per 100 persons',
                                                    'multiple providers in the mobile-cellular segment of the market '
                                                    'fostering a boom in mobile-cellular telephone usage with '
-                                                   'teledensity reaching 97 per 100 persons',
-                                                   2018],
+                                                   'teledensity reaching 104 per 100 persons',
+                                                   2019],
                                      'general': [ 'the mobile-cellular system is generally good with a mobile '
                                                   'subscriber base of 47 million, especially in urban areas',
                                                   'fixed-line telephone system is small and inefficient',
@@ -6029,17 +6030,17 @@ WORLD_FB = \
                            'ports': {'major seaport': 'Betio (Tarawa Atoll), Canton Island, English Harbor'},
                            'region': ['Oceania'],
                            'subs_broadband': 884,
-                           'subs_fixed': 0,
-                           'subs_mobile': 58838,
+                           'subs_fixed': 22,
+                           'subs_mobile': 51401,
                            'telecom': { 'code': '686',
-                                        'domestic': [ 'fixed-line 1 per 100 and mobile-cellular 54 per 100 '
+                                        'domestic': [ 'fixed-line 1 per 100 and mobile-cellular 46 per 100 '
                                                       'subscriptions',
-                                                      2000],
+                                                      2019],
                                         'general': [ 'generally good national and international service',
                                                      'wireline service available on Tarawa and Kiritimati (Christmas '
                                                      'Island)',
                                                      'connections to outer islands by HF/VHF radiotelephone',
-                                                     'recently formed mobile network operator (MNO) is implementing '
+                                                     'recently formed (mobile network operator) MNO is implementing '
                                                      'the first phase of improvements with 3G and 4G upgrades on some '
                                                      'islands',
                                                      'islands are connected to each other and the rest of the world '
@@ -6077,17 +6078,17 @@ WORLD_FB = \
                                'ports': { 'major seaport': "Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong "
                                                            '(formerly Unggi), Wonsan'},
                                'region': ['Asia'],
-                               'subs_fixed': 1180000,
-                               'subs_mobile': 3606000,
+                               'subs_fixed': 1183806,
+                               'subs_mobile': 3821857,
                                'telecom': { 'code': '850',
                                             'domestic': [ 'fiber-optic links installed down to the county level',
                                                           'telephone directories unavailable',
                                                           'mobile service launched in late 2008 for the Pyongyang area '
                                                           'and considerable progress in expanding to other parts of '
                                                           'the country since',
-                                                          'fixed-lines are 5 per 100 and mobile-cellular 14 per 100 '
+                                                          'fixed-lines are 5 per 100 and mobile-cellular 15 per 100 '
                                                           'persons',
-                                                          2018],
+                                                          2019],
                                             'general': [ 'nationwide fiber-optic network',
                                                          'mobile-cellular service expanded beyond Pyongyang',
                                                          'infrastructure underdeveloped yet growing mobile penetration '
@@ -6133,14 +6134,14 @@ WORLD_FB = \
                                                            'Yeosu'},
                                'region': ['Asia'],
                                'subs_broadband': 21285858,
-                               'subs_fixed': 25906849,
-                               'subs_mobile': 66355778,
+                               'subs_fixed': 24924607,
+                               'subs_mobile': 69445005,
                                'telecom': { 'code': '82',
-                                            'domestic': [ 'fixed-line 50 per 100 and mobile-cellular services 129 per '
+                                            'domestic': [ 'fixed-line 48 per 100 and mobile-cellular services 135 per '
                                                           '100 persons',
                                                           'rapid assimilation of a full range of telecommunications '
                                                           'technologies leading to a boom in e-commerce',
-                                                          2018],
+                                                          2019],
                                             'general': [ 'excellent domestic and international services featuring '
                                                          'rapid incorporation of new technologies',
                                                          'ranked 2nd out of 34 Asian telecom companies',
@@ -6188,12 +6189,12 @@ WORLD_FB = \
                                            'local_short': 'Kosove (Kosovo)'},
                          'population': 1932774,
                          'region': ['Europe'],
-                         'subs_fixed': 831470,
-                         'subs_mobile': 562000,
+                         'subs_fixed': 117317,
+                         'subs_mobile': 620186,
                          'telecom': { 'code': '383',
-                                      'domestic': [ 'fixed-line stands at 45 per 100 and mobile-cellular 31 per 100 '
+                                      'domestic': [ 'fixed-line stands at 6 per 100 and mobile-cellular 32 per 100 '
                                                     'persons',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'Kosovo being part of the EU pre-accession process has helped with '
                                                    'their progress in the telecom industry, following a regulatory '
                                                    'framework, European standards, and a market of new players '
@@ -6230,12 +6231,12 @@ WORLD_FB = \
                                                      "Allah, Mina' al Ahmadi"},
                          'region': ['Middle East'],
                          'subs_broadband': 103821,
-                         'subs_fixed': 515542,
-                         'subs_mobile': 7099848,
+                         'subs_fixed': 368305,
+                         'subs_mobile': 5147990,
                          'telecom': { 'code': '965',
-                                      'domestic': [ 'fixed-line subscriptions are 18 per 100 and mobile-cellular '
-                                                    'stands at 243 per 100 subscriptions',
-                                                    2018],
+                                      'domestic': [ 'fixed-line subscriptions are 12 per 100 and mobile-cellular '
+                                                    'stands at 174 per 100 subscriptions',
+                                                    2019],
                                       'general': [ 'the quality of service is excellent',
                                                    'new telephone exchanges provide a large capacity for new '
                                                    'subscribers',
@@ -6286,13 +6287,13 @@ WORLD_FB = \
                              'ports': {},
                              'region': ['Asia'],
                              'subs_broadband': 355640,
-                             'subs_fixed': 331140,
-                             'subs_mobile': 8735246,
+                             'subs_fixed': 275311,
+                             'subs_mobile': 7940306,
                              'telecom': { 'code': '996',
-                                          'domestic': [ 'fixed-line penetration 6 per 100 persons remains low and '
+                                          'domestic': [ 'fixed-line penetration 5 per 100 persons remains low and '
                                                         'concentrated in urban areas',
-                                                        'mobile-cellular subscribership up to over 149 per 100 persons',
-                                                        2018],
+                                                        'mobile-cellular subscribership up to over 134 per 100 persons',
+                                                        2019],
                                           'general': [ 'fixed-line phones declining quickly by roll-out of 4G LTE '
                                                        'mobile networks',
                                                        'digital radio-relay stations, and fiber-optic links',
@@ -6339,12 +6340,12 @@ WORLD_FB = \
                        'population': 7447396,
                        'region': ['Southeast Asia'],
                        'subs_broadband': 45379,
-                       'subs_fixed': 1482276,
-                       'subs_mobile': 3662336,
+                       'subs_fixed': 1526232,
+                       'subs_mobile': 4466375,
                        'telecom': { 'code': '856',
-                                    'domestic': [ 'fixed-line 20 per 100 and 51 per 100 for mobile-cellular '
+                                    'domestic': [ 'fixed-line 21 per 100 and 61 per 100 for mobile-cellular '
                                                   'subscriptions',
-                                                  2018],
+                                                  2019],
                                     'general': [ 'the government relies on a radiotelephone network to communicate '
                                                  'with remote areas',
                                                  'the regulatory reform is below industry standards but is trying to '
@@ -6387,12 +6388,12 @@ WORLD_FB = \
                          'ports': {'major seaport': 'Riga, Ventspils'},
                          'region': ['Europe'],
                          'subs_broadband': 525995,
-                         'subs_fixed': 266214,
-                         'subs_mobile': 2070180,
+                         'subs_fixed': 227149,
+                         'subs_mobile': 2067174,
                          'telecom': { 'code': '371',
-                                      'domestic': [ 'fixed-line 14 per 100 and mobile-cellular 108 per 100 '
+                                      'domestic': [ 'fixed-line 12 per 100 and mobile-cellular 109 per 100 '
                                                     'subscriptions',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'recent efforts focused on bringing competition to the '
                                                    'telecommunications sector',
                                                    'the number of fixed-line is decreasing as mobile-cellular '
@@ -6432,12 +6433,12 @@ WORLD_FB = \
                           'ports': {'container port': 'Beirut (1,305,038)', 'major seaport': 'Beirut, Tripoli'},
                           'region': ['Middle East'],
                           'subs_broadband': 9395,
-                          'subs_fixed': 893529,
-                          'subs_mobile': 4424185,
+                          'subs_fixed': 752547,
+                          'subs_mobile': 3614797,
                           'telecom': { 'code': '961',
-                                       'domestic': [ 'fixed-line 15 per 100 and 73 per 100 for mobile-cellular '
+                                       'domestic': [ 'fixed-line 13 per 100 and 62 per 100 for mobile-cellular '
                                                      'subscriptions',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'two mobile-cellular networks provide good service, with 4G LTE '
                                                     'services',
                                                     'future improvements to fiber-optic infrastructure for total '
@@ -6476,16 +6477,16 @@ WORLD_FB = \
                           'population': 1969334,
                           'region': ['Africa'],
                           'subs_broadband': 5763,
-                          'subs_fixed': 8328,
-                          'subs_mobile': 2380804,
+                          'subs_fixed': 7865,
+                          'subs_mobile': 2238186,
                           'telecom': { 'code': '266',
                                        'domestic': [ 'fixed-line is 1 per 100 subscriptions',
                                                      'mobile-cellular service dominates the market with a '
-                                                     'subscribership now over 122 per 100 persons',
+                                                     'subscribership now over 114 per 100 persons',
                                                      'rudimentary system consisting of a modest number of landlines, a '
                                                      'small microwave radio relay system, and a small radiotelephone '
                                                      'communication system',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'mobile penetration remains below regional average',
                                                     'introduction of mobile broadband in the country & LTE technology, '
                                                     'with 5G trials in early 2019',
@@ -6521,13 +6522,13 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Buchanan, Monrovia'},
                           'region': ['Africa'],
                           'subs_broadband': 8000,
-                          'subs_fixed': 8000,
-                          'subs_mobile': 3117002,
+                          'subs_fixed': 8394,
+                          'subs_mobile': 2793316,
                           'telecom': { 'code': '231',
                                        'domestic': [ 'fixed-line less than 1 per 100',
                                                      'mobile-cellular subscription base growing and teledensity '
-                                                     'approached 66 per 100 persons',
-                                                     2018],
+                                                     'approached 57 per 100 persons',
+                                                     2019],
                                        'general': [ 'the limited services available are found almost exclusively in '
                                                     'the capital, Monrovia',
                                                     'fixed-line service is stagnant and extremely limited',
@@ -6576,10 +6577,10 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Marsa al Burayqah (Marsa el Brega), Tripoli'},
                         'region': ['Africa'],
                         'subs_broadband': 168920,
-                        'subs_fixed': 1576000,
-                        'subs_mobile': 6020000,
+                        'subs_fixed': 1618511,
+                        'subs_mobile': 6182105,
                         'telecom': { 'code': '218',
-                                     'domestic': [ '23 per 100 fixed-line and 91 per 100 mobile-cellular subscriptions',
+                                     'domestic': [ '24 per 100 fixed-line and 91 per 100 mobile-cellular subscriptions',
                                                    'service generally adequate',
                                                    2019],
                                      'general': [ 'political and security instability in Libya has disrupted its '
@@ -6623,12 +6624,12 @@ WORLD_FB = \
                                 'population': 39137,
                                 'region': ['Europe'],
                                 'subs_broadband': 16712,
-                                'subs_fixed': 15243,
-                                'subs_mobile': 47272,
+                                'subs_fixed': 14337,
+                                'subs_mobile': 49355,
                                 'telecom': { 'code': '423',
-                                             'domestic': [ 'fixed-line 40 per 100 and mobile-cellular services 123 per '
+                                             'domestic': [ 'fixed-line 37 per 100 and mobile-cellular services 127 per '
                                                            '100',
-                                                           2018],
+                                                           2019],
                                              'general': [ 'automatic telephone system',
                                                           '44 Internet service providers in Liechtenstein and '
                                                           'Switzerland combined',
@@ -6664,15 +6665,15 @@ WORLD_FB = \
                             'ports': {'major seaport': 'Klaipeda'},
                             'region': ['Europe'],
                             'subs_broadband': 788743,
-                            'subs_fixed': 427066,
-                            'subs_mobile': 4590441,
+                            'subs_fixed': 368515,
+                            'subs_mobile': 4663627,
                             'telecom': { 'code': '370',
-                                         'domestic': [ '15 per 100 for fixed-line subscriptions',
+                                         'domestic': [ '13 per 100 for fixed-line subscriptions',
                                                        'rapid expansion of mobile-cellular services has resulted in a '
                                                        'steady decline in the number of fixed-line connections',
-                                                       'mobile-cellular teledensity stands at about 164 per 100 '
+                                                       'mobile-cellular teledensity stands at about 169 per 100 '
                                                        'persons',
-                                                       2018],
+                                                       2019],
                                          'general': [ 'adequate',
                                                       'improved international capability and better residential access',
                                                       'SIM card penetration is high for the region',
@@ -6716,14 +6717,14 @@ WORLD_FB = \
                              'ports': {},
                              'region': ['Europe'],
                              'subs_broadband': 224300,
-                             'subs_fixed': 273530,
-                             'subs_mobile': 798600,
+                             'subs_fixed': 268043,
+                             'subs_mobile': 837890,
                              'telecom': { 'code': '352',
-                                          'domestic': [ 'fixed-line teledensity about 45 per 100 persons',
+                                          'domestic': [ 'fixed-line teledensity about 43 per 100 persons',
                                                         'nationwide mobile-cellular telephone system with market for '
-                                                        'mobile-cellular phones virtually saturated with 134 per 100 '
+                                                        'mobile-cellular phones virtually saturated with 136 per 100 '
                                                         'mobile-cellular',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'highly developed',
                                                        'by 2020 the government is to provide a 1Gb/s service to all '
                                                        'citizens, and to make Luxembourg the first fully fibered '
@@ -6753,11 +6754,11 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Macau'},
                         'region': ['Southeast Asia'],
                         'subs_broadband': 193057,
-                        'subs_fixed': 123469,
-                        'subs_mobile': 2181194,
+                        'subs_fixed': 119355,
+                        'subs_mobile': 2108274,
                         'telecom': { 'code': '853',
-                                     'domestic': [ 'fixed-line 20 per 100 and mobile-cellular 360 per 100 persons',
-                                                   2018],
+                                     'domestic': [ 'fixed-line 20 per 100 and mobile-cellular 345 per 100 persons',
+                                                   2019],
                                      'general': [ 'modern communication facilities maintained for domestic and '
                                                   'international services',
                                                   'high mobile subscriber numbers and mobile penetration with 4 '
@@ -6798,12 +6799,12 @@ WORLD_FB = \
                                                          '(Tulear)'},
                              'region': ['Africa'],
                              'subs_broadband': 27211,
-                             'subs_fixed': 69046,
-                             'subs_mobile': 10654710,
+                             'subs_fixed': 68426,
+                             'subs_mobile': 10677153,
                              'telecom': { 'code': '261',
                                           'domestic': [ 'less than 1 per 100 for fixed-line and mobile-cellular '
                                                         'teledensity about 41 per 100 persons',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'system is above average for the region',
                                                        'competition among the four mobile service providers has '
                                                        'spurred recent growth in the mobile market and helped the '
@@ -6842,14 +6843,14 @@ WORLD_FB = \
                          'ports': {},
                          'region': ['Africa'],
                          'subs_broadband': 11358,
-                         'subs_fixed': 14992,
-                         'subs_mobile': 7076906,
+                         'subs_fixed': 14357,
+                         'subs_mobile': 9799352,
                          'telecom': { 'code': '265',
                                       'domestic': [ 'limited fixed-line subscribership less than 1 per 100 households',
                                                     'mobile-cellular services are expanding but network coverage is '
                                                     'limited and is based around the main urban areas',
-                                                    'mobile-cellular subscribership 36 per 100 households',
-                                                    2018],
+                                                    'mobile-cellular subscribership 48 per 100 households',
+                                                    2019],
                                       'general': [ 'rudimentary',
                                                    '2 fixed-line and 3 mobile-cellular operators govern the market',
                                                    'some mobile services to rural areas',
@@ -6897,13 +6898,13 @@ WORLD_FB = \
                                                        'Klang), Tanjung Pelepas'},
                            'region': ['Southeast Asia'],
                            'subs_broadband': 2696000,
-                           'subs_fixed': 6433300,
-                           'subs_mobile': 42413400,
+                           'subs_fixed': 6530410,
+                           'subs_mobile': 44997299,
                            'telecom': { 'code': '60',
                                         'domestic': [ 'fixed-line 20 per 100 and mobile-cellular teledensity exceeds '
-                                                      '133 per 100 persons',
+                                                      '140 per 100 persons',
                                                       'domestic satellite system with 2 earth stations',
-                                                      2018],
+                                                      2019],
                                         'general': [ 'one of the most advanced telecom networks in the developing '
                                                      'world',
                                                      'strong commitment to developing a technological society',
@@ -6949,12 +6950,12 @@ WORLD_FB = \
                            'ports': {'major seaport': 'Male'},
                            'region': ['Asia'],
                            'subs_broadband': 53470,
-                           'subs_fixed': 18754,
-                           'subs_mobile': 857934,
+                           'subs_fixed': 12316,
+                           'subs_mobile': 611662,
                            'telecom': { 'code': '960',
-                                        'domestic': [ 'fixed-line is at 5 per 100 persons and high mobile-cellular '
-                                                      'subscriptions stands at 219 per 100 persons',
-                                                      2018],
+                                        'domestic': [ 'fixed-line is at 3 per 100 persons and high mobile-cellular '
+                                                      'subscriptions stands at 156 per 100 persons',
+                                                      2019],
                                         'general': [ 'upgrades to telecom infrastructure extended to outer islands',
                                                      'two mobile operators extend LTE coverage',
                                                      'tourism has strengthened the telecom market with investment and '
@@ -6999,15 +7000,15 @@ WORLD_FB = \
                        'ports': {},
                        'region': ['Africa'],
                        'subs_broadband': 120934,
-                       'subs_fixed': 228097,
-                       'subs_mobile': 21955565,
+                       'subs_fixed': 227831,
+                       'subs_mobile': 21850850,
                        'telecom': { 'code': '223',
                                     'domestic': [ 'fixed-line subscribership 1 per 100 persons',
-                                                  'mobile-cellular subscribership has increased sharply to over 119 '
+                                                  'mobile-cellular subscribership has increased sharply to over 115 '
                                                   'per 100 persons',
                                                   'increasing use of local radio loops to extend network coverage to '
                                                   'remote areas',
-                                                  2018],
+                                                  2019],
                                     'general': [ 'telecoms infrastructure is barely adequate in most town and not '
                                                  'available in many areas of the country',
                                                  'geography is a challenge for telecommunications',
@@ -7052,14 +7053,14 @@ WORLD_FB = \
                                    'major seaport': 'Marsaxlokk (Malta Freeport), Valletta'},
                         'region': ['Europe'],
                         'subs_broadband': 191833,
-                        'subs_fixed': 255437,
-                        'subs_mobile': 615843,
+                        'subs_fixed': 264557,
+                        'subs_mobile': 653414,
                         'telecom': { 'code': '356',
-                                     'domestic': [ 'fixed-line 57 per 100 persons and mobile-cellular subscribership '
-                                                   '137 per 100 persons',
+                                     'domestic': [ 'fixed-line 58 per 100 persons and mobile-cellular subscribership '
+                                                   '144 per 100 persons',
                                                    'automatic system featuring submarine cable and microwave radio '
                                                    'relay between islands',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'one of the most advanced telecoms in Europe, high penetration of '
                                                   'mobile and broadband, and a way forward to expand e-commerce '
                                                   'opportunities',
@@ -7100,17 +7101,17 @@ WORLD_FB = \
                                    'ports': {'major seaport': 'Enitwetak Island, Kwajalein, Majuro'},
                                    'region': ['Oceania'],
                                    'subs_broadband': 1000,
-                                   'subs_fixed': 2361,
-                                   'subs_mobile': 16000,
+                                   'subs_fixed': 3172,
+                                   'subs_mobile': 21169,
                                    'telecom': { 'code': '692',
                                                 'domestic': [ 'Majuro Atoll and Ebeye and Kwajalein islands have '
                                                               'regular, seven-digit, direct-dial telephones',
                                                               'other islands interconnected by high frequency '
                                                               'radiotelephone (used mostly for government purposes) '
                                                               'and mini-satellite telephones',
-                                                              'fixed-line 3 per 100 persons and mobile-cellular is 21 '
+                                                              'fixed-line 4 per 100 persons and mobile-cellular is 28 '
                                                               'per 100 persons',
-                                                              2018],
+                                                              2019],
                                                 'general': [ 'some telecom infrastructure improvements made in recent '
                                                              'years',
                                                              'modern services include fiber optic cable service, '
@@ -7165,16 +7166,16 @@ WORLD_FB = \
                              'ports': {'major seaport': 'Nouadhibou, Nouakchott'},
                              'region': ['Africa'],
                              'subs_broadband': 13222,
-                             'subs_fixed': 59959,
-                             'subs_mobile': 4566502,
+                             'subs_fixed': 53742,
+                             'subs_mobile': 4083199,
                              'telecom': { 'code': '222',
-                                          'domestic': [ 'fixed-line teledensity 2 per 100 persons',
+                                          'domestic': [ 'fixed-line teledensity 1 per 100 persons',
                                                         'mobile-cellular network coverage extends mainly to urban '
-                                                        'areas with a teledensity of roughly 119 per 100 persons',
+                                                        'areas with a teledensity of roughly 104 per 100 persons',
                                                         'mostly cable and open-wire lines',
                                                         'a domestic satellite telecommunications system links '
                                                         'Nouakchott with regional capitals',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'limited system of cable and open-wire lines, minor microwave '
                                                        'radio relay links, and radiotelephone communications stations',
                                                        'mobile-cellular services expanding',
@@ -7217,12 +7218,12 @@ WORLD_FB = \
                             'ports': {'major seaport': 'Port Louis'},
                             'region': ['Africa'],
                             'subs_broadband': 274200,
-                            'subs_fixed': 434300,
-                            'subs_mobile': 1918000,
+                            'subs_fixed': 470166,
+                            'subs_mobile': 2076577,
                             'telecom': { 'code': '230',
-                                         'domestic': [ 'fixed-line teledensity 32 per 100 persons and mobile-cellular '
-                                                       'services teledensity approaching 141 per 100 persons',
-                                                       2018],
+                                         'domestic': [ 'fixed-line teledensity 34 per 100 persons and mobile-cellular '
+                                                       'services teledensity approaching 151 per 100 persons',
+                                                       2019],
                                          'general': [ 'small system with good service',
                                                       'LTE and fiber broadband service are available',
                                                       'government supports building a national Wi-Fi network',
@@ -7279,14 +7280,14 @@ WORLD_FB = \
                                     'major seaport': 'Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz'},
                          'region': ['North America'],
                          'subs_broadband': 18359028,
-                         'subs_fixed': 21645699,
-                         'subs_mobile': 120173510,
+                         'subs_fixed': 22471647,
+                         'subs_mobile': 121117720,
                          'telecom': { 'code': '52',
                                       'domestic': [ 'competition has spurred the mobile-cellular market',
-                                                    'fixed-line teledensity exceeds 17 per 100 persons',
+                                                    'fixed-line teledensity exceeds 18 per 100 persons',
                                                     'mobile-cellular teledensity is about 95 per 100 persons',
                                                     'domestic satellite system with 120 earth stations',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'adequate telephone service for business and government',
                                                    'improving quality and increasing mobile cellular availability, '
                                                    'with mobile subscribers far outnumbering fixed-line subscribers',
@@ -7339,8 +7340,8 @@ WORLD_FB = \
                                                                               'Harbor, Pohnepi Harbor'},
                                                   'region': ['Oceania'],
                                                   'subs_broadband': 3776,
-                                                  'subs_fixed': 6947,
-                                                  'subs_mobile': 23114,
+                                                  'subs_fixed': 6420,
+                                                  'subs_mobile': 21374,
                                                   'telecom': { 'code': '691',
                                                                'domestic': [ 'islands interconnected by shortwave '
                                                                              'radiotelephone, satellite (Intelsat) '
@@ -7348,7 +7349,9 @@ WORLD_FB = \
                                                                              'fiber-optic cable',
                                                                              'mobile-cellular service available on the '
                                                                              'major islands',
-                                                                             2016],
+                                                                             'fixed line teledensity 6 per 100 and '
+                                                                             'mobile-cellular 21 per 100',
+                                                                             2019],
                                                                'general': [ 'adequate system, the demand for mobile '
                                                                             'broadband is increasing due to mobile '
                                                                             'services being the primary and most '
@@ -7412,14 +7415,14 @@ WORLD_FB = \
                           'population': 3364496,
                           'region': ['Europe'],
                           'subs_broadband': 623135,
-                          'subs_fixed': 1108200,
-                          'subs_mobile': 3566276,
+                          'subs_fixed': 901317,
+                          'subs_mobile': 3039990,
                           'telecom': { 'code': '373',
                                        'domestic': [ 'competition among mobile telephone providers has spurred '
                                                      'subscriptions',
-                                                     'little interest in expanding fixed-line service 32 per 100',
-                                                     'mobile-cellular teledensity sits at 104 per 100 persons',
-                                                     2018],
+                                                     'little interest in expanding fixed-line service 27 per 100',
+                                                     'mobile-cellular teledensity sits at 89 per 100 persons',
+                                                     2019],
                                        'general': [ 'the mobile market has extended the reach of services to outside '
                                                     'the cities and across most of the country',
                                                     'endeavors to join the EU have promoted regulatory issues to be in '
@@ -7431,8 +7434,8 @@ WORLD_FB = \
                                                     'most telecom revenue is from the mobile market',
                                                     2020],
                                        'intl': [ 'service through Romania and Russia via landline',
-                                                 'satellite earth stations - at least 3 (Intelsat, Eutelsat, and '
-                                                 'Intersputnik)',
+                                                 'satellite earth stations - at least 3 - Intelsat, Eutelsat, and '
+                                                 'Intersputnik',
                                                  2000]},
                           'users_internet': 2616792},
                'name': 'Moldova',
@@ -7458,12 +7461,12 @@ WORLD_FB = \
                          'ports': {'major seaport': 'Hercules Port'},
                          'region': ['Europe'],
                          'subs_broadband': 19822,
-                         'subs_fixed': 43374,
-                         'subs_mobile': 32689,
+                         'subs_fixed': 34903,
+                         'subs_mobile': 26725,
                          'telecom': { 'code': '377',
-                                      'domestic': [ 'fixed-line 141 per 100 and mobile-cellular teledensity exceeds '
-                                                    '106 per 100 persons',
-                                                    2018],
+                                      'domestic': [ 'fixed-line 113 per 100 and mobile-cellular teledensity exceeds 87 '
+                                                    'per 100 persons',
+                                                    2019],
                                       'general': [ 'modern automatic telephone system',
                                                    "the country's sole fixed-line operator offers a full range of "
                                                    'services to residential and business customers',
@@ -7499,13 +7502,13 @@ WORLD_FB = \
                            'population': 3168026,
                            'region': ['Asia'],
                            'subs_broadband': 306150,
-                           'subs_fixed': 369853,
-                           'subs_mobile': 4222041,
+                           'subs_fixed': 385191,
+                           'subs_mobile': 4297643,
                            'telecom': { 'code': '976',
                                         'domestic': [ 'very low fixed-line teledensity 12 per 100',
                                                       'there are four mobile-cellular providers and subscribership is '
-                                                      'increasing with 136 per 100 persons',
-                                                      2018],
+                                                      'increasing with 137 per 100 persons',
+                                                      2019],
                                         'general': [ 'liberalized and competitive telecoms market',
                                                      'mobile broadband seen steady growth, but fixed-line broadband is '
                                                      'an attractive option',
@@ -7553,13 +7556,13 @@ WORLD_FB = \
                              'ports': {'major seaport': 'Bar'},
                              'region': ['Europe'],
                              'subs_broadband': 159029,
-                             'subs_fixed': 172880,
-                             'subs_mobile': 1134412,
+                             'subs_fixed': 183387,
+                             'subs_mobile': 1121870,
                              'telecom': { 'code': '382',
                                           'domestic': [ 'GSM mobile-cellular service, available through multiple '
                                                         'providers with national coverage growing',
-                                                        'fixed-line 28 per 100 and mobile-cellular 185 per 100 persons',
-                                                        2018],
+                                                        'fixed-line 30 per 100 and mobile-cellular 183 per 100 persons',
+                                                        2019],
                                           'general': [ 'modern telecommunications system with access to European '
                                                        'satellites',
                                                        'telecom sector in-line with EU norms which means competition, '
@@ -7596,12 +7599,12 @@ WORLD_FB = \
                              'population': 5373,
                              'ports': {'major seaport': 'Little Bay, Plymouth'},
                              'region': ['Central America and the Caribbean'],
-                             'subs_fixed': 3000,
-                             'subs_mobile': 5000,
+                             'subs_fixed': 3227,
+                             'subs_mobile': 5377,
                              'telecom': { 'code': '1664',
-                                          'domestic': [ 'fixed-line 57 per 100 and mobile-cellular teledensity 95 per '
+                                          'domestic': [ 'fixed-line 60 per 100 and mobile-cellular teledensity 101 per '
                                                         '100 persons',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'telecom market one of growth in Caribbean and fully '
                                                        'digitalized',
                                                        'high dependency on tourism and offshore financial services',
@@ -7639,15 +7642,15 @@ WORLD_FB = \
                                      'major seaport': 'Casablanca, Jorf Lasfar, Mohammedia, Safi, Tangier'},
                           'region': ['Africa'],
                           'subs_broadband': 1552599,
-                          'subs_fixed': 2199140,
-                          'subs_mobile': 44737885,
+                          'subs_fixed': 1982934,
+                          'subs_mobile': 45065083,
                           'telecom': { 'code': '212',
                                        'domestic': [ 'fixed-line teledensity is 6 per 100 persons and mobile-cellular '
                                                      'subscribership exceeds 128 per 100 persons',
                                                      'good system composed of open-wire lines, cables, and microwave '
                                                      'radio relay links',
                                                      'principal switching centers are Casablanca and Rabat',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'national network nearly 100% digital using fiber-optic links',
                                                     'improved rural service employs microwave radio relay',
                                                     'one of the most state-of-the-art markets in Africa',
@@ -7696,16 +7699,16 @@ WORLD_FB = \
                              'ports': {'major seaport': 'Beira, Maputo, Nacala'},
                              'region': ['Africa'],
                              'subs_broadband': 70142,
-                             'subs_fixed': 63006,
-                             'subs_mobile': 14074248,
+                             'subs_fixed': 61575,
+                             'subs_mobile': 13992090,
                              'telecom': { 'code': '258',
                                           'domestic': [ 'extremely low fixed-line teledensity contrasts with rapid '
                                                         'growth in the mobile-cellular network',
                                                         'operators provide coverage that includes all the main cities '
                                                         'and key roads',
-                                                        'fixed-line less than 1 per 100 and 49 per 100 mobile-cellular '
+                                                        'fixed-line less than 1 per 100 and 48 per 100 mobile-cellular '
                                                         'teledensity',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'the mobile segment has shown strong growth',
                                                        'poor fixed-line infrastructure means most Internet access is '
                                                        'through mobile accounts',
@@ -7762,10 +7765,10 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Luderitz, Walvis Bay'},
                           'region': ['Africa'],
                           'subs_broadband': 61968,
-                          'subs_fixed': 154816,
-                          'subs_mobile': 2759293,
+                          'subs_fixed': 144575,
+                          'subs_mobile': 2921697,
                           'telecom': { 'code': '264',
-                                       'domestic': [ 'fixed-line subscribership is 6 per 100 and mobile-cellular 109 '
+                                       'domestic': [ 'fixed-line subscribership is 6 per 100 and mobile-cellular 113 '
                                                      'per 100 persons',
                                                      2019],
                                        'general': [ 'fixed-line still a govt. monopoly',
@@ -7804,9 +7807,9 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Nauru'},
                         'region': ['Oceania'],
                         'subs_fixed': 1900,
-                        'subs_mobile': 9900,
+                        'subs_mobile': 9212,
                         'telecom': { 'code': '674',
-                                     'domestic': ['fixed-line 14 per 100 and mobile-cellular 87 per 100', 2018],
+                                     'domestic': ['fixed-line 14 per 100 and mobile-cellular 95 per 100', 2019],
                                      'general': [ 'adequate local and international radiotelephone communication '
                                                   'provided via Australian facilities',
                                                   'geography is a challenge for the islands',
@@ -7856,13 +7859,13 @@ WORLD_FB = \
                         'population': 30327877,
                         'region': ['Asia'],
                         'subs_broadband': 791961,
-                        'subs_fixed': 799368,
-                        'subs_mobile': 39178451,
+                        'subs_fixed': 855926,
+                        'subs_mobile': 41880311,
                         'telecom': { 'code': '977',
                                      'domestic': [ '3G coverage is available in 20 major cities (2019)',
                                                    'disparity between high coverage in cities and coverage available '
                                                    'in underdeveloped rural regions',
-                                                   'fixed-line 3 per 100 persons and mobile-cellular 132 per 100 '
+                                                   'fixed-line 3 per 100 persons and mobile-cellular 139 per 100 '
                                                    'persons',
                                                    'fair radiotelephone communication service',
                                                    '20% of the market share is fixed (wired) broadband, 2% is fixed '
@@ -7910,8 +7913,8 @@ WORLD_FB = \
                                          'major seaport': 'IJmuiden, Vlissingen'},
                               'region': ['Europe'],
                               'subs_broadband': 7406700,
-                              'subs_fixed': 5900000,
-                              'subs_mobile': 21108000,
+                              'subs_fixed': 5598798,
+                              'subs_mobile': 21914852,
                               'telecom': { 'code': '31',
                                            'domestic': [ 'extensive fixed-line, fiber-optic network',
                                                          'large cellular telephone system with five major operators '
@@ -7919,9 +7922,9 @@ WORLD_FB = \
                                                          'Mobile Communications technology',
                                                          'one in five households now use Voice over the Internet '
                                                          'Protocol services',
-                                                         'fixed-line 34 per 100 and mobile-cellular 123 per 100 '
+                                                         'fixed-line 33 per 100 and mobile-cellular 127 per 100 '
                                                          'persons',
-                                                         2018],
+                                                         2019],
                                            'general': [ 'highly developed and well maintained',
                                                         'while fixed-line voice market is in decline the VoIP (voice '
                                                         'over Internet protocol) and mobile platforms advance',
@@ -7974,12 +7977,12 @@ WORLD_FB = \
                                 'population': 290009,
                                 'ports': {'major seaport': 'Noumea'},
                                 'region': ['Oceania'],
-                                'subs_fixed': 92000,
-                                'subs_mobile': 246000,
+                                'subs_fixed': 82111,
+                                'subs_mobile': 275002,
                                 'telecom': { 'code': '687',
-                                             'domestic': [ 'fixed-line 34 per 100 and mobile-cellular telephone '
-                                                           'subscribership 91 per 100 persons',
-                                                           2018],
+                                             'domestic': [ 'fixed-line 29 per 100 and mobile-cellular telephone '
+                                                           'subscribership 96 per 100 persons',
+                                                           2019],
                                              'general': [ 'well advanced telecoms sector',
                                                           '3G & 4G network services',
                                                           'one of the highest smart phone adoption rates in the region',
@@ -8016,12 +8019,12 @@ WORLD_FB = \
                                                           'Tauranga, Wellington'},
                               'region': ['Oceania'],
                               'subs_broadband': 1647000,
-                              'subs_fixed': 1760000,
-                              'subs_mobile': 6400000,
+                              'subs_fixed': 1801645,
+                              'subs_mobile': 6550687,
                               'telecom': { 'code': '64',
                                            'domestic': [ 'fixed-line 37 per 100 and mobile-cellular telephone '
-                                                         'subscribership 134 per 100 persons',
-                                                         2018],
+                                                         'subscribership 135 per 100 persons',
+                                                         2019],
                                            'general': [ 'excellent domestic and international systems',
                                                         'mobile and P2P services soar',
                                                         'LTE rates some of the fastest in the world',
@@ -8066,15 +8069,15 @@ WORLD_FB = \
                             'ports': {'major seaport': 'Bluefields, Corinto'},
                             'region': ['Central America and the Caribbean'],
                             'subs_broadband': 192413,
-                            'subs_fixed': 325821,
-                            'subs_mobile': 7441527,
+                            'subs_fixed': 215055,
+                            'subs_mobile': 5433530,
                             'telecom': { 'code': '505',
                                          'domestic': [ 'since privatization, access to fixed-line and mobile-cellular '
                                                        'services has improved',
-                                                       'fixed-line teledensity roughly 5 per 100 persons',
-                                                       'mobile-cellular telephone subscribership has increased to 122 '
+                                                       'fixed-line teledensity roughly 4 per 100 persons',
+                                                       'mobile-cellular telephone subscribership has increased to 88 '
                                                        'per 100 persons',
-                                                       2018],
+                                                       2019],
                                          'general': [ 'system being upgraded by foreign investment',
                                                       'new canal being built between Pacific and Caribbean with '
                                                       'Chinese funding',
@@ -8126,16 +8129,16 @@ WORLD_FB = \
                         'population': 22772361,
                         'region': ['Africa'],
                         'subs_broadband': 8650,
-                        'subs_fixed': 114352,
-                        'subs_mobile': 8778884,
+                        'subs_fixed': 116352,
+                        'subs_mobile': 8921769,
                         'telecom': { 'code': '227',
                                      'domestic': [ 'fixed-line 1 per 100 persons and mobile-cellular teledensity '
-                                                   'remains 46 per 100 persons despite a rapidly increasing cellular '
+                                                   'remains 41 per 100 persons despite a rapidly increasing cellular '
                                                    'subscribership base',
                                                    'small system of wire, radio telephone communications, and '
                                                    'microwave radio relay links concentrated in southwestern Niger',
                                                    'domestic satellite system with 3 earth stations and 1 planned',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'mobile services stronger than fixed telecoms',
                                                   'broadband penetration inconsequential',
                                                   'adopts free mobile roaming with other G5 Sahel countries',
@@ -8166,15 +8169,15 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Bonny Inshore Terminal, Calabar, Lagos'},
                           'region': ['Africa'],
                           'subs_broadband': 73965,
-                          'subs_fixed': 140491,
-                          'subs_mobile': 172730603,
+                          'subs_fixed': 146075,
+                          'subs_mobile': 184013243,
                           'telecom': { 'code': '234',
                                        'domestic': [ 'fixed-line subscribership remains less than 1 per 100 persons',
                                                      'mobile-cellular services growing rapidly, in part responding to '
                                                      'the shortcomings of the fixed-line network',
                                                      'multiple cellular providers operate nationally with '
-                                                     'subscribership base over 85 per 100 persons',
-                                                     2018],
+                                                     'subscribership base over 88 per 100 persons',
+                                                     2019],
                                        'general': [ 'one of the larger telecom markets in Africa',
                                                     'most Internet connections are via mobile networks',
                                                     'foreign investment presence, particularly China',
@@ -8290,12 +8293,12 @@ WORLD_FB = \
                                   'population': 2125971,
                                   'region': ['Europe'],
                                   'subs_broadband': 427964,
-                                  'subs_fixed': 382901,
-                                  'subs_mobile': 1969109,
+                                  'subs_fixed': 402250,
+                                  'subs_mobile': 2094037,
                                   'telecom': { 'code': '389',
-                                               'domestic': [ 'fixed-line 18 per 100 and mobile-cellular 93 per 100 '
+                                               'domestic': [ 'fixed-line 19 per 100 and mobile-cellular 99 per 100 '
                                                              'subscriptions',
-                                                             2018],
+                                                             2019],
                                                'general': [ 'being part of the EU pre-accession process has led to '
                                                             'stronger teledensity with a closer regulatory framework '
                                                             'and independent regulators',
@@ -8331,13 +8334,15 @@ WORLD_FB = \
                                            'population': 51433,
                                            'ports': {'major seaport': 'Saipan, Tinian, Rota'},
                                            'region': ['Oceania'],
+                                           'subs_fixed': 20398,
                                            'telecom': { 'code': '1670',
                                                         'domestic': [ 'wide variety of services available including '
                                                                       'dial-up and broadband Internet, mobile '
                                                                       'cellular, international private lines, '
                                                                       'payphones, phone cards, voicemail, and '
                                                                       'automatic call distribution systems',
-                                                                      2018],
+                                                                      'fixed-line teledensity 39 per 100 persons',
+                                                                      2019],
                                                         'general': [ 'digital fiber-optic cables and satellites '
                                                                      'connect the islands to worldwide networks',
                                                                      'demand for broadband growing given that mobile '
@@ -8375,14 +8380,14 @@ WORLD_FB = \
                          'ports': {'major seaport': 'Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture'},
                          'region': ['Europe'],
                          'subs_broadband': 2206519,
-                         'subs_fixed': 560945,
-                         'subs_mobile': 5720892,
+                         'subs_fixed': 571958,
+                         'subs_mobile': 5810113,
                          'telecom': { 'code': '47',
                                       'domestic': [ 'Norway has a domestic satellite system',
                                                     'the prevalence of rural areas encourages the wide use of '
                                                     'mobile-cellular systems',
-                                                    'fixed-line 10 per 100 and mobile-cellular 106 per 100',
-                                                    2018],
+                                                    'fixed-line 11 per 100 and mobile-cellular 107 per 100',
+                                                    2019],
                                       'general': [ 'one of the most advanced telecommunications networks in Europe',
                                                    'high mobile and broadband penetration rates and highly developed '
                                                    'digital media sector',
@@ -8428,21 +8433,21 @@ WORLD_FB = \
                                   'major seaport': "Mina' Qabus, Salalah, Suhar"},
                        'region': ['Middle East'],
                        'subs_broadband': 422035,
-                       'subs_fixed': 560326,
-                       'subs_mobile': 6440889,
+                       'subs_fixed': 456940,
+                       'subs_mobile': 4926899,
                        'telecom': { 'code': '968',
-                                    'domestic': [ 'fixed-line 16 per 100 and mobile-cellular 184 per 100, '
+                                    'domestic': [ 'fixed-line 13 per 100 and mobile-cellular 138 per 100, '
                                                   'subscribership both increasing with fixed-line phone service '
                                                   'gradually being introduced to remote villages using wireless local '
                                                   'loop systems',
-                                                  2018],
+                                                  2019],
                                     'general': [ 'modern system consisting of open-wire, microwave, and radiotelephone '
                                                  'communication stations',
                                                  'coaxial cable',
                                                  'domestic satellite system with 8 earth stations',
                                                  'progressive mobile sector with both 3G and 4G LTE networks and '
                                                  'reediness for 5G launch',
-                                                 'competition among 3 mobile network operators (MNO)',
+                                                 'competition among 3 (mobile network operators) MNO',
                                                  2020],
                                     'intl': [ 'landing points for GSA, AAE-1, SeaMeWe-5, Tata TGN-Gulf, FALCON, '
                                               'GBICS/MENA, MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, '
@@ -8477,8 +8482,8 @@ WORLD_FB = \
                                       'major seaport': 'Karachi, Port Muhammad Bin Qasim'},
                            'region': ['Asia'],
                            'subs_broadband': 1811365,
-                           'subs_fixed': 2798606,
-                           'subs_mobile': 153986607,
+                           'subs_fixed': 2607495,
+                           'subs_mobile': 174702132,
                            'telecom': { 'code': '92',
                                         'domestic': [ 'mobile-cellular subscribership has skyrocketed',
                                                       'more than 90% of Pakistanis live within areas that have cell '
@@ -8486,8 +8491,8 @@ WORLD_FB = \
                                                       'fiber-optic networks are being constructed throughout the '
                                                       'country to increase broadband access, though broadband '
                                                       'penetration in Pakistan is still relatively low',
-                                                      'fixed-line 1 per 100 and mobile-cellular 69 per 100 persons',
-                                                      2018],
+                                                      'fixed-line 1 per 100 and mobile-cellular 76 per 100 persons',
+                                                      2019],
                                         'general': [ 'the telecommunications infrastructure is improving, with '
                                                      'investments in mobile-cellular networks increasing, fixed-line '
                                                      'subscriptions declining',
@@ -8532,12 +8537,12 @@ WORLD_FB = \
                         'population': 21685,
                         'ports': {'major seaport': 'Koror'},
                         'region': ['Oceania'],
-                        'subs_fixed': 7204,
-                        'subs_mobile': 24000,
+                        'subs_fixed': 8808,
+                        'subs_mobile': 29033,
                         'telecom': { 'code': '680',
-                                     'domestic': [ 'fixed-line 34 per 100 and mobile-cellular services 112 per 100 '
+                                     'domestic': [ 'fixed-line 41 per 100 and mobile-cellular services 134 per 100 '
                                                    'persons',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'well-developed mobile sector, recently boosted by satellite network '
                                                   'capacity upgrades',
                                                   '3G services available with satellite',
@@ -8602,12 +8607,12 @@ WORLD_FB = \
                                     'major seaport': 'Balboa, Colon, Cristobal'},
                          'region': ['Central America and the Caribbean'],
                          'subs_broadband': 540220,
-                         'subs_fixed': 728379,
-                         'subs_mobile': 5722370,
+                         'subs_fixed': 671799,
+                         'subs_mobile': 5073123,
                          'telecom': { 'code': '507',
-                                      'domestic': [ 'fixed-line 19 per 100 and rapid subscribership of mobile-cellular '
-                                                    'telephone 151 per 100',
-                                                    2018],
+                                      'domestic': [ 'fixed-line 17 per 100 and rapid subscribership of mobile-cellular '
+                                                    'telephone 132 per 100',
+                                                    2019],
                                       'general': [ 'domestic and international facilities well-developed',
                                                    'investment from international operators',
                                                    'competition among operators helps reduce price of services',
@@ -8647,13 +8652,13 @@ WORLD_FB = \
                                    'ports': {'major seaport': 'Kimbe, Lae, Madang, Rabaul, Wewak'},
                                    'region': ['Oceania'],
                                    'subs_broadband': 17000,
-                                   'subs_fixed': 154000,
-                                   'subs_mobile': 3782000,
+                                   'subs_fixed': 133593,
+                                   'subs_mobile': 3401971,
                                    'telecom': { 'code': '675',
                                                 'domestic': [ 'access to telephone services is not widely available',
-                                                              'fixed-line 2 per 100 and mobile-cellular 55 per 100 '
+                                                              'fixed-line 2 per 100 and mobile-cellular 48 per 100 '
                                                               'person, teledensity has increased',
-                                                              2018],
+                                                              2019],
                                                 'general': [ 'services are minimal',
                                                              'Internet slow and expensive',
                                                              'facilities provide radiotelephone and telegraph, coastal '
@@ -8715,15 +8720,15 @@ WORLD_FB = \
                            'ports': {},
                            'region': ['South America'],
                            'subs_broadband': 320700,
-                           'subs_fixed': 302754,
-                           'subs_mobile': 7439692,
+                           'subs_fixed': 309221,
+                           'subs_mobile': 7602566,
                            'telecom': { 'code': '595',
                                         'domestic': [ 'deficiencies in provision of fixed-line service have resulted '
                                                       'in a rapid expansion of mobile-cellular services fostered by '
                                                       'competition among multiple providers',
                                                       'Internet market also open to competition',
-                                                      'fixed-line 4 per 100 and mobile-cellular 106 per 100',
-                                                      2018],
+                                                      'fixed-line 4 per 100 and mobile-cellular 107 per 100',
+                                                      2019],
                                         'general': [ 'the fixed-line market is a state monopoly and fixed-line '
                                                      'telephone service is meager',
                                                      'principal switching center is in Asuncion',
@@ -8769,15 +8774,15 @@ WORLD_FB = \
                        'ports': {'container port': 'Callao (2,250,200)', 'major seaport': 'Callao, Matarani, Paita'},
                        'region': ['South America'],
                        'subs_broadband': 2310217,
-                       'subs_fixed': 3082036,
-                       'subs_mobile': 38915386,
+                       'subs_fixed': 3099172,
+                       'subs_mobile': 39138119,
                        'telecom': { 'code': '51',
                                     'domestic': [ 'fixed-line teledensity is only about 10 per 100 persons',
                                                   'mobile-cellular teledensity, spurred by competition among multiple '
-                                                  'providers, now 125 telephones per 100 persons',
+                                                  'providers, now 124 telephones per 100 persons',
                                                   'nationwide microwave radio relay system and a domestic satellite '
                                                   'system with 12 earth stations',
-                                                  2018],
+                                                  2019],
                                     'general': [ 'good mobile operator competition with LTE services',
                                                  'broadband subscriber penetration low compared to other Latin '
                                                  'American countries',
@@ -8819,16 +8824,16 @@ WORLD_FB = \
                                          'major seaport': 'Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila'},
                               'region': ['Southeast Asia'],
                               'subs_broadband': 3919713,
-                              'subs_fixed': 4132490,
-                              'subs_mobile': 134592608,
+                              'subs_fixed': 4140108,
+                              'subs_mobile': 166421595,
                               'telecom': { 'code': '63',
                                            'domestic': [ 'telecommunications infrastructure includes the following '
                                                          'platforms: fixed line, mobile cellular, cable TV, '
-                                                         'over-the-air TV, radio and Very Small Aperture Terminal '
-                                                         '(VSAT), fiber-optic cable, and satellite for redundant '
+                                                         'over-the-air TV, radio and (very small aperture terminal) '
+                                                         'VSAT, fiber-optic cable, and satellite for redundant '
                                                          'international connectivity',
-                                                         'fixed-line 4 per 100 and mobile-cellular 127 per 100',
-                                                         2018],
+                                                         'fixed-line 4 per 100 and mobile-cellular 155 per 100',
+                                                         2019],
                                            'general': [ 'good international radiotelephone and submarine cable '
                                                         'services',
                                                         'domestic and interisland service adequate',
@@ -8884,7 +8889,7 @@ WORLD_FB = \
                                                              'the launch of the Kacific-1 satellite in 2019 will '
                                                              'improve telecommunications in the region',
                                                              2020],
-                                                'intl': ['satellite earth station - 1 (Inmarsat)', 2000]},
+                                                'intl': ['satellite earth station - 1 Inmarsat', 2000]},
                                    'users_internet': 54},
                         'name': 'Pitcairn Islands',
                         'stan': 'PCN',
@@ -8918,14 +8923,14 @@ WORLD_FB = \
                                     'major seaport': 'Gdansk, Gdynia, Swinoujscie'},
                          'region': ['Europe'],
                          'subs_broadband': 6114926,
-                         'subs_fixed': 6575246,
-                         'subs_mobile': 51098747,
+                         'subs_fixed': 6907937,
+                         'subs_mobile': 52916105,
                          'telecom': { 'code': '48',
                                       'domestic': [ 'several nation-wide networks provide mobile-cellular service',
                                                     'coverage is generally good',
-                                                    'fixed-line 17 per 100 service lags in rural areas, '
-                                                    'mobile-cellular 133 per 100 persons',
-                                                    2018],
+                                                    'fixed-line 18 per 100 service lags in rural areas, '
+                                                    'mobile-cellular 138 per 100 persons',
+                                                    2019],
                                       'general': [ 'fixed-line service is dominated by the former state-owned company, '
                                                    'yet it is dwarfed by the growth in mobile-cellular services',
                                                    'regulatory is framed by EU principles of competition',
@@ -8968,14 +8973,14 @@ WORLD_FB = \
                                       'major seaport': 'Leixoes, Lisbon, Setubal, Sines'},
                            'region': ['Europe'],
                            'subs_broadband': 3784684,
-                           'subs_fixed': 5073458,
-                           'subs_mobile': 11859548,
+                           'subs_fixed': 5179685,
+                           'subs_mobile': 12028436,
                            'telecom': { 'code': '351',
                                         'domestic': [ 'integrated network of coaxial cables, open-wire, microwave '
                                                       'radio relay, and domestic satellite earth stations',
-                                                      'fixed-line 49 per 100 persons and mobile-cellular 115 per 100 '
+                                                      'fixed-line 50 per 100 persons and mobile-cellular 116 per 100 '
                                                       'persons',
-                                                      2018],
+                                                      2019],
                                         'general': [ 'telephone system has a state-of-the-art network with broadband, '
                                                      'high-speed capabilities',
                                                      'FttP in 2020',
@@ -9020,14 +9025,14 @@ WORLD_FB = \
                                                           'Ponce, San Juan'},
                               'region': ['Central America and the Caribbean'],
                               'subs_broadband': 609027,
-                              'subs_fixed': 703266,
-                              'subs_mobile': 3330286,
+                              'subs_fixed': 758869,
+                              'subs_mobile': 3724680,
                               'telecom': { 'code': '1787',
                                            'domestic': [ 'digital telephone system',
                                                          'mobile-cellular services',
-                                                         'fixed-line 21 per 100 and mobile-cellular 101 per 100 '
+                                                         'fixed-line 23 per 100 and mobile-cellular 115 per 100 '
                                                          'persons',
-                                                         2018],
+                                                         2019],
                                            'general': [ 'modern system integrated with that of the US by high-capacity '
                                                         'submarine cable and Intelsat with high-speed data capability',
                                                         'havoc caused by hurricane Maria in 2017 and earthquake in '
@@ -9071,20 +9076,20 @@ WORLD_FB = \
                         'ports': {'major seaport': "Doha, Musay'id, Ra's Laffan"},
                         'region': ['Middle East'],
                         'subs_broadband': 267906,
-                        'subs_fixed': 452088,
-                        'subs_mobile': 3945978,
+                        'subs_fixed': 392048,
+                        'subs_mobile': 3329155,
                         'telecom': { 'code': '974',
-                                     'domestic': [ 'fixed-line 19 per 100 and mobile-cellular telephone subscribership '
-                                                   '167 telephones per 100 persons',
-                                                   2018],
+                                     'domestic': [ 'fixed-line 16 per 100 and mobile-cellular telephone subscribership '
+                                                   '138 telephones per 100 persons',
+                                                   0],
                                      'general': [ 'regional leaders in telecom',
                                                   'highest fixed-line and mobile penetrations in Middle East',
                                                   'deployed over 90 5G base stations for 5G launch, claiming 1st '
                                                   'commercial launch of 5G in the world May 2018',
                                                   'telecom system centered in Doha',
                                                   'steady LTE networks',
-                                                  'good broadband penetration, ADSL, Fiber-to-the-Home (FttP), '
-                                                  'wireless and mobile services',
+                                                  'good broadband penetration, ADSL, (Fiber-to-the-Home/Premises) '
+                                                  'FttP, wireless and mobile services',
                                                   'largest users of the Internet and use of OTT services and bundled '
                                                   'services',
                                                   2020],
@@ -9139,13 +9144,13 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Constanta, Midia'},
                           'region': ['Europe'],
                           'subs_broadband': 5083000,
-                          'subs_fixed': 3660000,
-                          'subs_mobile': 22675000,
+                          'subs_fixed': 3731047,
+                          'subs_mobile': 25033292,
                           'telecom': { 'code': '40',
                                        'domestic': [ 'fixed-line teledensity is about 17 telephones per 100 persons',
                                                      'mobile market served by four mobile network operators',
-                                                     'mobile-cellular teledensity over 106 telephones per 100 persons',
-                                                     2018],
+                                                     'mobile-cellular teledensity over 117 telephones per 100 persons',
+                                                     2019],
                                        'general': [ 'the telecommunications sector is being expanded',
                                                     'domestic and international service improving rapidly, especially '
                                                     'mobile-cellular services',
@@ -9153,7 +9158,8 @@ WORLD_FB = \
                                                     'LTE and 5G services',
                                                     '1Gb/FttP offering',
                                                     'govt. secures EU funding to extend broadband to areas of the '
-                                                    'country not yet connected and does away with SIM car registration',
+                                                    'country not yet connected and does away with SIM card '
+                                                    'registration',
                                                     'operators invest in networks capacity upgrades',
                                                     2020],
                                        'intl': [ 'landing point for the Diamond Link Global submarine cable linking '
@@ -9201,8 +9207,8 @@ WORLD_FB = \
                                     'major seaport': 'Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy'},
                          'region': ['Asia'],
                          'subs_broadband': 32062780,
-                         'subs_fixed': 30108289,
-                         'subs_mobile': 229431008,
+                         'subs_fixed': 31171043,
+                         'subs_mobile': 233342795,
                          'telecom': { 'code': '7',
                                       'domestic': [ 'cross-country digital trunk lines run from Saint Petersburg to '
                                                     'Khabarovsk, and from Moscow to Novorossiysk',
@@ -9212,8 +9218,8 @@ WORLD_FB = \
                                                     'areas',
                                                     'in rural areas, telephone services are still outdated, '
                                                     'inadequate, and low-density',
-                                                    '21 per 100 for fixed-line and mobile-cellular 161 per 100 persons',
-                                                    2018],
+                                                    '22 per 100 for fixed-line and mobile-cellular 164 per 100 persons',
+                                                    2019],
                                       'general': [ 'telecom sector impacted by sanctions related to the annexations in '
                                                    'Ukraine',
                                                    'the estimated number of mobile subscribers jumped from fewer than '
@@ -9264,15 +9270,15 @@ WORLD_FB = \
                          'ports': {},
                          'region': ['Africa'],
                          'subs_broadband': 7501,
-                         'subs_fixed': 12960,
-                         'subs_mobile': 9700609,
+                         'subs_fixed': 11215,
+                         'subs_mobile': 9531609,
                          'telecom': { 'code': '250',
                                       'domestic': [ 'the capital, Kigali, is connected to provincial centers by '
                                                     'microwave radio relay, and recently by cellular telephone service',
                                                     'much of the network depends on wire and HF radiotelephone',
                                                     'fixed-line less than 1 per 100 and mobile-cellular telephone '
-                                                    'density has increased to 80 telephones per 100 persons',
-                                                    2018],
+                                                    'density has increased to 76 telephones per 100 persons',
+                                                    2019],
                                       'general': [ 'govt. invests in smart city infrastructure',
                                                    'expanding wholesale LTE services',
                                                    'govt. launches SIM card registration',
@@ -9354,13 +9360,13 @@ WORLD_FB = \
                                                                 'ports': {'major seaport': 'Saint Helena'},
                                                                 'region': ['Africa'],
                                                                 'subs_broadband': 1347,
-                                                                'subs_fixed': 576,
-                                                                'subs_mobile': 3018,
+                                                                'subs_fixed': 3921,
+                                                                'subs_mobile': 5228,
                                                                 'telecom': { 'domestic': [ 'automatic digital network',
-                                                                                           'fixed-line 35 per 100 and '
-                                                                                           'mobile-cellular 39 per 100 '
+                                                                                           'fixed-line 50 per 100 and '
+                                                                                           'mobile-cellular 67 per 100 '
                                                                                            'persons',
-                                                                                           2018],
+                                                                                           2019],
                                                                              'general': [ 'capability to communicate '
                                                                                           'worldwide',
                                                                                           'ADSL- broadband service',
@@ -9420,14 +9426,14 @@ WORLD_FB = \
                                         'ports': {'major seaport': 'Basseterre, Charlestown'},
                                         'region': ['Central America and the Caribbean'],
                                         'subs_broadband': 16400,
-                                        'subs_fixed': 17293,
-                                        'subs_mobile': 76878,
+                                        'subs_fixed': 17766,
+                                        'subs_mobile': 78970,
                                         'telecom': { 'code': '1869',
                                                      'domestic': [ 'interisland links via ECFS',
                                                                    'fixed-line teledensity about 33 per 100 persons',
-                                                                   'mobile-cellular teledensity is roughly 146 per 100 '
+                                                                   'mobile-cellular teledensity is roughly 148 per 100 '
                                                                    'persons',
-                                                                   2018],
+                                                                   2019],
                                                      'general': [ 'good interisland and international connections',
                                                                   'broadband access',
                                                                   'expanded FttP (Fiber to the Home) and LTE markets',
@@ -9462,12 +9468,12 @@ WORLD_FB = \
                               'ports': {'major seaport': 'Castries, Cul-de-Sac, Vieux-Fort'},
                               'region': ['Central America and the Caribbean'],
                               'subs_broadband': 32265,
-                              'subs_fixed': 36469,
-                              'subs_mobile': 184944,
+                              'subs_fixed': 33285,
+                              'subs_mobile': 168797,
                               'telecom': { 'code': '1758',
-                                           'domestic': [ 'fixed-line teledensity is 22 per 100 persons and '
-                                                         'mobile-cellular teledensity is roughly 112 per 100 persons',
-                                                         2018],
+                                           'domestic': [ 'fixed-line teledensity is 20 per 100 persons and '
+                                                         'mobile-cellular teledensity is roughly 102 per 100 persons',
+                                                         2019],
                                            'general': [ 'an adequate system that is automatically switched',
                                                         'good interisland and international connections',
                                                         'broadband access',
@@ -9548,8 +9554,10 @@ WORLD_FB = \
                                             'population': 5347,
                                             'ports': {'major seaport': 'Saint-Pierre'},
                                             'region': ['North America'],
-                                            'subs_fixed': 4800,
+                                            'subs_fixed': 4086,
                                             'telecom': { 'code': '508',
+                                                         'domestic': [ 'fixed-line teledensity 76 per 100 persons',
+                                                                       2019],
                                                          'general': ['adequate', 2018],
                                                          'intl': [ 'landing point for the St Pierre and Miquelon Cable '
                                                                    'connecting Saint Pierre & Miquelon and Canada',
@@ -9582,14 +9590,13 @@ WORLD_FB = \
                                                    'ports': {'major seaport': 'Kingstown'},
                                                    'region': ['Central America and the Caribbean'],
                                                    'subs_broadband': 24613,
-                                                   'subs_fixed': 19219,
-                                                   'subs_mobile': 105875,
+                                                   'subs_fixed': 11889,
+                                                   'subs_mobile': 94367,
                                                    'telecom': { 'code': '1784',
-                                                                'domestic': [ 'fixed-line teledensity exceeds 19 per '
+                                                                'domestic': [ 'fixed-line teledensity exceeds 12 per '
                                                                               '100 persons and mobile-cellular '
-                                                                              'teledensity is about 104 per 100 '
-                                                                              'persons',
-                                                                              2018],
+                                                                              'teledensity is about 93 per 100 persons',
+                                                                              2019],
                                                                 'general': [ 'adequate island-wide, fully automatic '
                                                                              'telephone system',
                                                                              'broadband access',
@@ -9638,12 +9645,12 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Apia'},
                         'region': ['Oceania'],
                         'subs_broadband': 1692,
-                        'subs_fixed': 8454,
-                        'subs_mobile': 124211,
+                        'subs_fixed': 8770,
+                        'subs_mobile': 128776,
                         'telecom': { 'code': '685',
-                                     'domestic': [ 'fixed-line 4 per 100 and mobile-cellular teledensity 62 telephones '
+                                     'domestic': [ 'fixed-line 4 per 100 and mobile-cellular teledensity 64 telephones '
                                                    'per 100 persons',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'most households have at least one mobile phone',
                                                   'all businesses in the greater Apia area have access to broadband '
                                                   'and Wi-Fi, which is reasonably reliable and fast',
@@ -9684,12 +9691,12 @@ WORLD_FB = \
                              'population': 34232,
                              'region': ['Europe'],
                              'subs_broadband': 12500,
-                             'subs_fixed': 15800,
-                             'subs_mobile': 38000,
+                             'subs_fixed': 16070,
+                             'subs_mobile': 38921,
                              'telecom': { 'code': '378',
-                                          'domestic': [ 'fixed-line 47 per 100 and mobile-cellular teledensity 113 '
+                                          'domestic': [ 'fixed-line 47 per 100 and mobile-cellular teledensity 114 '
                                                         'telephones per 100 persons',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'automatic telephone system completely integrated into Italian '
                                                        'system',
                                                        2018],
@@ -9720,12 +9727,12 @@ WORLD_FB = \
                                         'ports': {'major seaport': 'Sao Tome'},
                                         'region': ['Africa'],
                                         'subs_broadband': 1557,
-                                        'subs_fixed': 5299,
-                                        'subs_mobile': 162610,
+                                        'subs_fixed': 4614,
+                                        'subs_mobile': 160189,
                                         'telecom': { 'code': '239',
-                                                     'domestic': [ 'fixed-line 3 per 100 and mobile-cellular '
-                                                                   'teledensity 80 telephones per 100 persons',
-                                                                   2018],
+                                                     'domestic': [ 'fixed-line 2 per 100 and mobile-cellular '
+                                                                   'teledensity 77 telephones per 100 persons',
+                                                                   2019],
                                                      'general': [ 'local telephone network of adequate quality with '
                                                                   'most lines connected to digital switches',
                                                                   'mobile cellular superior choice to landland',
@@ -9772,12 +9779,12 @@ WORLD_FB = \
                                           'major seaport': "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'"},
                                'region': ['Middle East'],
                                'subs_broadband': 6821873,
-                               'subs_fixed': 5387405,
-                               'subs_mobile': 41310584,
+                               'subs_fixed': 5276773,
+                               'subs_mobile': 40532610,
                                'telecom': { 'code': '966',
                                             'domestic': [ 'fixed-line 16 per 100 and mobile-cellular subscribership '
-                                                          'has been increasing rapidly to 125 per 100 persons',
-                                                          2018],
+                                                          'has been increasing rapidly to 121 per 100 persons',
+                                                          2019],
                                             'general': [ 'one of the most progressive telecom markets in the Middle '
                                                          'East',
                                                          'mobile penetration high, with a saturated market',
@@ -9828,15 +9835,15 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Dakar'},
                           'region': ['Africa'],
                           'subs_broadband': 129820,
-                          'subs_fixed': 302243,
-                          'subs_mobile': 16559942,
+                          'subs_fixed': 195288,
+                          'subs_mobile': 16871654,
                           'telecom': { 'code': '221',
                                        'domestic': [ 'generally reliable urban system with a fiber-optic network',
                                                      'about two-thirds of all fixed-line connections are in Dakar',
                                                      'mobile-cellular service is steadily displacing fixed-line '
                                                      'service, even in urban areas',
-                                                     'fixed-line 2 per 100 and mobile-cellular 110 per 100 persons',
-                                                     2018],
+                                                     'fixed-line 1 per 100 and mobile-cellular 110 per 100 persons',
+                                                     2019],
                                        'general': [ 'mobile penetration reached 108% in March 2019',
                                                     'mobile broadband accounts for close to 100% (97.2%) Internet '
                                                     'accesses',
@@ -9884,11 +9891,11 @@ WORLD_FB = \
                          'ports': {},
                          'region': ['Europe'],
                          'subs_broadband': 1552160,
-                         'subs_fixed': 2574691,
-                         'subs_mobile': 8431365,
+                         'subs_fixed': 2060005,
+                         'subs_mobile': 6789423,
                          'telecom': { 'code': '381',
-                                      'domestic': [ 'fixed-line 36 per 100 and mobile-cellular 119 per 100 persons',
-                                                    2018],
+                                      'domestic': [ 'fixed-line 29 per 100 and mobile-cellular 96 per 100 persons',
+                                                    2019],
                                       'general': [ "Serbia's integration with the EU has helped regulator reforms and "
                                                    'promotion of telecoms',
                                                    'wireless service is available through multiple providers',
@@ -9924,12 +9931,12 @@ WORLD_FB = \
                              'ports': {'major seaport': 'Victoria'},
                              'region': ['Africa'],
                              'subs_broadband': 19696,
-                             'subs_fixed': 20290,
-                             'subs_mobile': 178946,
+                             'subs_fixed': 19627,
+                             'subs_mobile': 188879,
                              'telecom': { 'code': '248',
-                                          'domestic': [ 'fixed-line 21 per 100 and mobile-cellular teledensity is 189 '
+                                          'domestic': [ 'fixed-line 21 per 100 and mobile-cellular teledensity is 198 '
                                                         'telephones per 100 persons',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'effective system',
                                                        'direct international calls to over 100 countries',
                                                        'radiotelephone communications between islands in the '
@@ -9970,12 +9977,12 @@ WORLD_FB = \
                                'population': 6624933,
                                'ports': {'major seaport': 'Freetown, Pepel, Sherbro Islands'},
                                'region': ['Africa'],
-                               'subs_fixed': 17000,
-                               'subs_mobile': 6279270,
+                               'subs_fixed': 2586,
+                               'subs_mobile': 5569221,
                                'telecom': { 'code': '232',
-                                            'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular 102 per '
+                                            'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular 86 per '
                                                           '100',
-                                                          2018],
+                                                          2019],
                                             'general': [ 'the stability in the country has led to international '
                                                          'investment',
                                                          'telecom regulator continues to improve the market',
@@ -10017,14 +10024,14 @@ WORLD_FB = \
                             'ports': {'container port': 'Singapore (33,666,000)', 'major seaport': 'Singapore'},
                             'region': ['Southeast Asia'],
                             'subs_broadband': 1610500,
-                            'subs_fixed': 2001000,
-                            'subs_mobile': 8568400,
+                            'subs_fixed': 2003594,
+                            'subs_mobile': 9543773,
                             'telecom': { 'code': '65',
                                          'domestic': [ 'excellent domestic facilities',
-                                                       'fixed-line 33 per 100 and mobile-cellular 143 per 100 '
+                                                       'fixed-line 33 per 100 and mobile-cellular 156 per 100 '
                                                        'teledensity',
                                                        'multiple providers of high-speed Internet connectivity',
-                                                       2018],
+                                                       2019],
                                          'general': [ 'excellent service',
                                                       "world leader in telecommunications and perhaps the first 'Smart "
                                                       "Nation' where a sensor network is implemented, for water and "
@@ -10074,8 +10081,11 @@ WORLD_FB = \
                                'population': 43847,
                                'ports': {'major seaport': 'Philipsburg'},
                                'region': ['Central America and the Caribbean'],
+                               'subs_mobile': 84773,
                                'telecom': { 'code': '1721',
-                                            'domestic': ['extensive interisland microwave radio relay links', 2018],
+                                            'domestic': [ 'extensive interisland microwave radio relay links',
+                                                          '196 per 100 mobile-cellular teledensity',
+                                                          2019],
                                             'general': [ 'generally adequate facilities',
                                                          'growth sectors include mobile telephone and data segments',
                                                          'effective competition',
@@ -10115,16 +10125,16 @@ WORLD_FB = \
                            'ports': {},
                            'region': ['Europe'],
                            'subs_broadband': 1507998,
-                           'subs_fixed': 722704,
-                           'subs_mobile': 7241702,
+                           'subs_fixed': 673341,
+                           'subs_mobile': 7381164,
                            'telecom': { 'code': '421',
                                         'domestic': [ 'four companies have a license to operate cellular networks and '
                                                       'provide nationwide cellular services',
                                                       'a few other companies provide services but do not have their '
                                                       'own networks',
-                                                      'fixed-line 13 per 100 and mobile-cellular 133 per 100 '
+                                                      'fixed-line 12 per 100 and mobile-cellular 136 per 100 '
                                                       'teledensity',
-                                                      2018],
+                                                      2019],
                                         'general': [ 'a modern telecommunications system',
                                                      'near monopoly of fixed-line market',
                                                      'competition in mobile and fixed broadband market',
@@ -10170,12 +10180,12 @@ WORLD_FB = \
                            'ports': {'major seaport': 'Koper'},
                            'region': ['Europe'],
                            'subs_broadband': 612737,
-                           'subs_fixed': 694709,
-                           'subs_mobile': 2465857,
+                           'subs_fixed': 715283,
+                           'subs_mobile': 2540917,
                            'telecom': { 'code': '386',
-                                        'domestic': [ 'fixed-line 33 per 100 and mobile-cellular 117 per 100 '
+                                        'domestic': [ 'fixed-line 34 per 100 and mobile-cellular 121 per 100 '
                                                       'teledensity',
-                                                      2018],
+                                                      2019],
                                         'general': [ 'well-developed telecommunications infrastructure',
                                                      'four mobile network operators',
                                                      'increase in Internet community demanding e-govt., e-commerce and '
@@ -10214,13 +10224,13 @@ WORLD_FB = \
                                   'ports': {'major seaport': 'Honiara, Malloco Bay, Viru Harbor, Tulaghi'},
                                   'region': ['Oceania'],
                                   'subs_broadband': 1488,
-                                  'subs_fixed': 7430,
-                                  'subs_mobile': 482029,
+                                  'subs_fixed': 7130,
+                                  'subs_mobile': 480124,
                                   'telecom': { 'code': '677',
                                                'domestic': [ 'fixed-line is 1 per 100 persons and mobile-cellular '
-                                                             'telephone density is about 73 per 100 persons',
+                                                             'telephone density is about 71 per 100 persons',
                                                              'domestic cable system to extend to key major islands',
-                                                             2018],
+                                                             2019],
                                                'general': [ 'Internet penetration has reached 20%',
                                                             '3G and 4G LTE mobile network expansions, investment in '
                                                             'mobile services in the region',
@@ -10262,13 +10272,13 @@ WORLD_FB = \
                           'region': ['Africa'],
                           'subs_broadband': 92000,
                           'subs_fixed': 74800,
-                          'subs_mobile': 7653040,
+                          'subs_mobile': 5612338,
                           'telecom': { 'code': '252',
                                        'domestic': [ 'seven networks compete for customers in the mobile sector',
                                                      'some of these mobile-service providers offer fixed-lines and '
                                                      'Internet services',
-                                                     'fixed-line less than 1 per 100 and mobile-cellular 68 per 100',
-                                                     2018],
+                                                     'fixed-line less than 1 per 100 and mobile-cellular 49 per 100',
+                                                     2019],
                                        'general': [ 'the public telecom system was almost completely destroyed or '
                                                     'dismantled during the civil war',
                                                     'private companies offer limited local fixed-line service, and '
@@ -10316,10 +10326,10 @@ WORLD_FB = \
                                                            'Bay'},
                                'region': ['Africa'],
                                'subs_broadband': 1107013,
-                               'subs_fixed': 3345440,
-                               'subs_mobile': 92427958,
+                               'subs_fixed': 1934778,
+                               'subs_mobile': 92600942,
                                'telecom': { 'code': '27',
-                                            'domestic': [ 'fixed-line 6 per 100 persons and mobile-cellular 167 '
+                                            'domestic': [ 'fixed-line 3 per 100 persons and mobile-cellular 166 '
                                                           'telephones per 100 persons',
                                                           'consists of carrier-equipped open-wire lines, coaxial '
                                                           'cables, microwave radio relay links, fiber-optic cable, '
@@ -10327,7 +10337,7 @@ WORLD_FB = \
                                                           'loops',
                                                           'key centers are Bloemfontein, Cape Town, Durban, '
                                                           'Johannesburg, Port Elizabeth, and Pretoria',
-                                                          2018],
+                                                          2019],
                                             'general': [ 'the telecommunication system is the best-developed and most '
                                                          'modern in Africa',
                                                          'mobile Internet accounts for about 95% of Internet '
@@ -10397,11 +10407,11 @@ WORLD_FB = \
                               'region': ['Africa'],
                               'subs_broadband': 200,
                               'subs_fixed': 0,
-                              'subs_mobile': 3672871,
+                              'subs_mobile': 3439784,
                               'telecom': { 'code': '211',
-                                           'domestic': [ 'fixed-line 0 total subscriptions, mobile-cellular 36 per 100 '
-                                                         'persons',
-                                                         2018],
+                                           'domestic': [ 'fixed-line less than 1 per 100 subscriptions, '
+                                                         'mobile-cellular 33 per 100 persons',
+                                                         2019],
                                            'general': [ 'one of the least developed telecommunications and Internet '
                                                         'systems in the world',
                                                         'the international community has provided billions in aid to '
@@ -10449,12 +10459,12 @@ WORLD_FB = \
                                                     'the Canary Islands)'},
                         'region': ['Europe'],
                         'subs_broadband': 15176954,
-                        'subs_fixed': 19484361,
-                        'subs_mobile': 54161014,
+                        'subs_fixed': 21065700,
+                        'subs_mobile': 58750448,
                         'telecom': { 'code': '34',
-                                     'domestic': [ 'fixed-line 39 per 100 and mobile-cellular 110 telephones per 100 '
+                                     'domestic': [ 'fixed-line 42 per 100 and mobile-cellular 118 telephones per 100 '
                                                    'persons',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'well-developed, one of the largest telecom markets in Europe, '
                                                   'average mobile penetration for Europe',
                                                   'LTE universal',
@@ -10518,16 +10528,16 @@ WORLD_FB = \
                             'ports': {'container port': 'Colombo (6,209,000)', 'major seaport': 'Colombo'},
                             'region': ['Asia'],
                             'subs_broadband': 1544313,
-                            'subs_fixed': 2473875,
-                            'subs_mobile': 30282984,
+                            'subs_fixed': 2641982,
+                            'subs_mobile': 26160623,
                             'telecom': { 'code': '94',
-                                         'domestic': [ 'fixed-line 11 per 100 and mobile-cellular 134 per 100',
+                                         'domestic': [ 'fixed-line 12 per 100 and mobile-cellular 115 per 100',
                                                        'national trunk network consists of digital microwave radio '
                                                        'relay and fiber-optic links',
                                                        'fixed wireless local loops have been installed',
                                                        'competition is strong in mobile cellular systems and mobile '
                                                        'cellular subscribership is increasing',
-                                                       2018],
+                                                       2019],
                                          'general': [ 'telephone services have improved significantly',
                                                       'strong growth anticipated as Sri Lanka is lagging behind other '
                                                       'Asian telecoms',
@@ -10574,15 +10584,15 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Port Sudan'},
                         'region': ['Africa'],
                         'subs_broadband': 31352,
-                        'subs_fixed': 136923,
-                        'subs_mobile': 30100412,
+                        'subs_fixed': 141922,
+                        'subs_mobile': 34198859,
                         'telecom': { 'code': '249',
                                      'domestic': [ 'consists of microwave radio relay, cable, fiber optic, '
                                                    'radiotelephone communications, tropospheric scatter, and a '
                                                    'domestic satellite system with 14 earth stations',
-                                                   'teledensity fixed-line less than 1 per 100 and mobile-cellular 70 '
+                                                   'teledensity fixed-line less than 1 per 100 and mobile-cellular 77 '
                                                    'telephones per 100 persons',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'well-equipped system by regional standards and being upgraded',
                                                   'despite economic hardships govt. boosts mobile infrastructure and '
                                                   'builds fiber broadband network across country',
@@ -10622,13 +10632,13 @@ WORLD_FB = \
                            'ports': {'major seaport': 'Paramaribo, Wageningen'},
                            'region': ['South America'],
                            'subs_broadband': 73176,
-                           'subs_fixed': 88098,
-                           'subs_mobile': 752270,
+                           'subs_fixed': 96310,
+                           'subs_mobile': 845292,
                            'telecom': { 'code': '597',
-                                        'domestic': [ 'fixed-line 15 per 100 and mobile-cellular teledensity 126 '
+                                        'domestic': [ 'fixed-line 16 per 100 and mobile-cellular teledensity 140 '
                                                       'telephones per 100 persons',
                                                       'microwave radio relay network is in place',
-                                                      2018],
+                                                      2019],
                                         'general': [ 'international facilities are good',
                                                      'state-owned fixed-line teledensity and broadband services below '
                                                      'regional average for Latin America and Caribbean, but mobile '
@@ -10702,14 +10712,14 @@ WORLD_FB = \
                                                      'Stockholm, Trelleborg, Visby'},
                          'region': ['Europe'],
                          'subs_broadband': 3973622,
-                         'subs_fixed': 2392386,
-                         'subs_mobile': 12647103,
+                         'subs_fixed': 1941360,
+                         'subs_mobile': 12785850,
                          'telecom': { 'code': '46',
-                                      'domestic': [ 'fixed-line 24 per 100 and mobile-cellular 126 per 100',
+                                      'domestic': [ 'fixed-line 19 per 100 and mobile-cellular 126 per 100',
                                                     'coaxial and multiconductor cables carry most of the voice traffic',
                                                     'parallel microwave radio relay systems carry some additional '
                                                     'telephone channels',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'highly developed telecommunications infrastructure',
                                                    'ranked among leading countries for fixed-line, mobile-cellular, '
                                                    'Internet, and broadband penetration',
@@ -10761,15 +10771,15 @@ WORLD_FB = \
                               'ports': {},
                               'region': ['Europe'],
                               'subs_broadband': 3957669,
-                              'subs_fixed': 3302836,
-                              'subs_mobile': 10808148,
+                              'subs_fixed': 3012224,
+                              'subs_mobile': 10618759,
                               'telecom': { 'code': '41',
                                            'domestic': [ 'ranked among leading countries for fixed-line teledensity '
                                                          'and infrastructure',
-                                                         'fixed-line 40 per 100 and mobile-cellular subscribership 130 '
+                                                         'fixed-line 36 per 100 and mobile-cellular subscribership 127 '
                                                          'per 100 persons',
                                                          'extensive cable and microwave radio relay networks',
-                                                         2018],
+                                                         2019],
                                            'general': [ 'highly developed telecommunications infrastructure with '
                                                         'extensive domestic and international services',
                                                         'one of the highest broadband penetration rates in Europe',
@@ -10819,13 +10829,13 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Baniyas, Latakia, Tartus'},
                         'region': ['Middle East'],
                         'subs_broadband': 1328688,
-                        'subs_fixed': 2740000,
-                        'subs_mobile': 17129676,
+                        'subs_fixed': 3097164,
+                        'subs_mobile': 21115000,
                         'telecom': { 'code': '963',
                                      'domestic': [ 'the number of fixed-line connections increased markedly prior to '
-                                                   'the civil war in 2011 and now stands at 15 per 100',
-                                                   'mobile-cellular service stands at about 97 per 100 persons',
-                                                   2018],
+                                                   'the civil war in 2011 and now stands at 17 per 100',
+                                                   'mobile-cellular service stands at about 114 per 100 persons',
+                                                   2019],
                                      'general': [ 'the armed insurgency that began in 2011 has led to major '
                                                   'disruptions to the network and has caused telephone and Internet '
                                                   'outages throughout the country',
@@ -10874,10 +10884,10 @@ WORLD_FB = \
                                     'major seaport': 'Keelung (Chi-lung), Kaohsiung, Hualian, Taichung'},
                          'region': ['Southeast Asia'],
                          'subs_broadband': 5725022,
-                         'subs_fixed': 13174334,
-                         'subs_mobile': 29340886,
+                         'subs_fixed': 12863860,
+                         'subs_mobile': 29049784,
                          'telecom': { 'code': '886',
-                                      'domestic': ['fixed-line 56 per 100 and mobile-cellular 125 per 100', 2018],
+                                      'domestic': ['fixed-line 55 per 100 and mobile-cellular 123 per 100', 2019],
                                       'general': [ 'good telecommunications infrastructure and competitive mobile '
                                                    'market',
                                                    'Taiwan has a stable regulatory system and an educated workforce '
@@ -10925,15 +10935,15 @@ WORLD_FB = \
                              'population': 8873669,
                              'region': ['Asia'],
                              'subs_broadband': 6000,
-                             'subs_fixed': 468000,
-                             'subs_mobile': 9400000,
+                             'subs_fixed': 471090,
+                             'subs_mobile': 9747803,
                              'telecom': { 'code': '992',
                                           'domestic': [ 'fixed line availability has not changed significantly since '
                                                         '1998, while mobile cellular subscribership, aided by '
                                                         'competition among multiple operators, has expanded rapidly',
                                                         'coverage now extends to all major cities and towns',
-                                                        'fixed-line 6 per 100 and mobile-cellular 111 per 100',
-                                                        2018],
+                                                        'fixed-line 5 per 100 and mobile-cellular 112 per 100',
+                                                        2019],
                                           'general': [ 'foreign investment in the telephone system has resulted in '
                                                        'major improvements',
                                                        'an increase in mobile broadband penetration, but still in the '
@@ -10948,7 +10958,7 @@ WORLD_FB = \
                                                     'switch',
                                                     'Dushanbe linked by Intelsat to international gateway switch in '
                                                     'Ankara (Turkey)',
-                                                    'satellite earth stations - 3 (2 Intelsat and 1 Orbita',
+                                                    '3 satellite earth stations - 2 Intelsat and 1 Orbita',
                                                     2000]},
                              'users_internet': 1889632},
                   'name': 'Tajikistan',
@@ -10989,17 +10999,17 @@ WORLD_FB = \
                            'ports': {'major seaport': 'Dar es Salaam, Zanzibar'},
                            'region': ['Africa'],
                            'subs_broadband': 861234,
-                           'subs_fixed': 124238,
-                           'subs_mobile': 43497261,
+                           'subs_fixed': 74081,
+                           'subs_mobile': 46847405,
                            'telecom': { 'code': '255',
                                         'domestic': [ 'fixed-line telephone network inadequate with less than 1 '
                                                       'connection per 100 persons',
                                                       'mobile-cellular service, aided by multiple providers, is '
-                                                      'increasing rapidly and exceeds 78 telephones per 100 persons',
+                                                      'increasing rapidly and exceeds 82 telephones per 100 persons',
                                                       'trunk service provided by open-wire, microwave radio relay, '
                                                       'tropospheric scatter, and fiber-optic cable',
                                                       'some links being made digital',
-                                                      2018],
+                                                      2019],
                                         'general': [ 'telecommunications services are marginal and operating below '
                                                      'capacity',
                                                      '1 fixed-line operator and 8 operational mobile networks',
@@ -11043,14 +11053,14 @@ WORLD_FB = \
                                       'major seaport': 'Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha'},
                            'region': ['Southeast Asia'],
                            'subs_broadband': 9189000,
-                           'subs_fixed': 2929000,
-                           'subs_mobile': 125098000,
+                           'subs_fixed': 2580166,
+                           'subs_mobile': 128086321,
                            'telecom': { 'code': '66',
                                         'domestic': [ 'fixed-line system provided by both a government-owned and '
                                                       'commercial provider',
                                                       'wireless service expanding rapidly',
-                                                      'fixed-line 4 per 100 and mobile-cellular 182 per 100',
-                                                      2018],
+                                                      'fixed-line 4 per 100 and mobile-cellular 186 per 100',
+                                                      2019],
                                         'general': [ 'high quality system, especially in urban areas like Bangkok',
                                                      'mobile and mobile broadband penetration are on the increase',
                                                      'Fiber-to-the-home (FttH) has seen strong growth in the major '
@@ -11096,16 +11106,16 @@ WORLD_FB = \
                               'ports': {'major seaport': 'Dili'},
                               'region': ['Southeast Asia'],
                               'subs_broadband': 603,
-                              'subs_fixed': 2206,
-                              'subs_mobile': 1468495,
+                              'subs_fixed': 2164,
+                              'subs_mobile': 1490966,
                               'telecom': { 'code': '670',
                                            'domestic': [ 'system suffered significant damage during the violence '
                                                          'associated with independence',
-                                                         'limited fixed-line services',
-                                                         'less than 1 per 100 and mobile-cellular services have been '
-                                                         'expanding and are now available in urban and most rural '
-                                                         'areas with teledensity of 111 per 100',
-                                                         2018],
+                                                         'limited fixed-line services, less than 1 per 100 and '
+                                                         'mobile-cellular services have been expanding and are now '
+                                                         'available in urban and most rural areas with teledensity of '
+                                                         '110 per 100',
+                                                         2019],
                                            'general': [ 'service in urban and some rural areas, which is expanding '
                                                         'with the entrance of new competitors',
                                                         '4G LTE service, with about 97% of population having access, '
@@ -11146,12 +11156,12 @@ WORLD_FB = \
                        'ports': {'major seaport': 'Kpeme, Lome'},
                        'region': ['Africa'],
                        'subs_broadband': 26156,
-                       'subs_fixed': 37691,
-                       'subs_mobile': 6144507,
+                       'subs_fixed': 45311,
+                       'subs_mobile': 6477816,
                        'telecom': { 'code': '228',
-                                    'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular 75 telephones '
+                                    'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular 77 telephones '
                                                   'per 100 persons with mobile-cellular use predominating',
-                                                  2018],
+                                                  2019],
                                     'general': [ 'system based on a network of microwave radio relay routes '
                                                  'supplemented by open-wire lines and a mobile-cellular system',
                                                  'telecoms supply 8% of GDP',
@@ -11184,8 +11194,8 @@ WORLD_FB = \
                           'subs_fixed': 300,
                           'telecom': { 'code': '690',
                                        'domestic': [ 'radiotelephone service between islands',
-                                                     'fixed-line less than 1 per 100',
-                                                     2018],
+                                                     'fixed-line 21 per 100 persons',
+                                                     2019],
                                        'general': [ 'modern satellite-based communications system',
                                                     'demand for mobile broadband increasing due to mobile services '
                                                     'being the method of access for Internet across the region',
@@ -11225,13 +11235,13 @@ WORLD_FB = \
                         'ports': {'major seaport': "Nuku'alofa, Neiafu, Pangai"},
                         'region': ['Oceania'],
                         'subs_broadband': 2519,
-                        'subs_fixed': 14697,
-                        'subs_mobile': 107938,
+                        'subs_fixed': 6748,
+                        'subs_mobile': 63156,
                         'telecom': { 'code': '676',
-                                     'domestic': [ 'fixed-line 14 per 100 persons and mobile-cellular teledensity 101 '
+                                     'domestic': [ 'fixed-line 6 per 100 persons and mobile-cellular teledensity 59 '
                                                    'telephones per 100',
                                                    'fully automatic switched network',
-                                                   2018],
+                                                   2019],
                                      'general': [ 'high speed Internet provided by 3 MNOs, has subsequently allowed '
                                                   'for better health care services, faster connections for education '
                                                   'and growing e-commerce services',
@@ -11272,12 +11282,12 @@ WORLD_FB = \
                                                                   'Scarborough'},
                                       'region': ['Central America and the Caribbean'],
                                       'subs_broadband': 341045,
-                                      'subs_fixed': 321434,
-                                      'subs_mobile': 1972595,
+                                      'subs_fixed': 298493,
+                                      'subs_mobile': 1880555,
                                       'telecom': { 'code': '1868',
-                                                   'domestic': [ 'fixed-line 26 per 100 persons and mobile-cellular '
-                                                                 'teledensity 162 per 100 persons',
-                                                                 2018],
+                                                   'domestic': [ 'fixed-line 25 per 100 persons and mobile-cellular '
+                                                                 'teledensity 155 per 100 persons',
+                                                                 2019],
                                                    'general': [ 'excellent international service',
                                                                 'good local service',
                                                                 'broadband access',
@@ -11331,8 +11341,8 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Bizerte, Gabes, Rades, Sfax, Skhira'},
                           'region': ['Africa'],
                           'subs_broadband': 1014395,
-                          'subs_fixed': 1302015,
-                          'subs_mobile': 14769594,
+                          'subs_fixed': 1444631,
+                          'subs_mobile': 14679917,
                           'telecom': { 'code': '216',
                                        'domestic': [ 'in an effort to jumpstart expansion of the fixed-line network, '
                                                      'the government awarded a concession to build and operate a VSAT '
@@ -11341,9 +11351,9 @@ WORLD_FB = \
                                                      'competition between several mobile-cellular service providers '
                                                      'has resulted in lower activation and usage charges and a strong '
                                                      'surge in subscribership',
-                                                     'fixed-line is 11 per 100 and mobile-cellular teledensity has '
-                                                     'reached about 128 telephones per 100 persons',
-                                                     2018],
+                                                     'fixed-line is 12 per 100 and mobile-cellular teledensity has '
+                                                     'reached about 126 telephones per 100 persons',
+                                                     2019],
                                        'general': [ 'above the African average and continuing to be upgraded',
                                                     'key centers are Sfax, Sousse, Bizerte, and Tunis',
                                                     'telephone network is completely digitized',
@@ -11402,8 +11412,8 @@ WORLD_FB = \
                                                      'Mersin (Icel), Limani, Yarimca'},
                          'region': ['Middle East'],
                          'subs_broadband': 13407226,
-                         'subs_fixed': 11633461,
-                         'subs_mobile': 80117999,
+                         'subs_fixed': 11283768,
+                         'subs_mobile': 79068023,
                          'telecom': { 'code': '90',
                                       'domestic': [ 'additional digital exchanges are permitting a rapid increase in '
                                                     'subscribers',
@@ -11412,9 +11422,9 @@ WORLD_FB = \
                                                     'microwave radio relay, is facilitating communication between '
                                                     'urban centers',
                                                     'remote areas are reached by a domestic satellite system',
-                                                    'fixed-line 14 per 100 and mobile-cellular teledensity is 99 '
+                                                    'fixed-line 14 per 100 and mobile-cellular teledensity is 97 '
                                                     'telephones per 100 persons',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'comprehensive telecommunications network undergoing rapid '
                                                    'modernization and expansion, especially in mobile-cellular '
                                                    'services',
@@ -11462,13 +11472,13 @@ WORLD_FB = \
                                'ports': {'major seaport': 'Caspian Sea - Turkmenbasy'},
                                'region': ['Asia'],
                                'subs_broadband': 4000,
-                               'subs_fixed': 5315000,
-                               'subs_mobile': 8575000,
+                               'subs_fixed': 648223,
+                               'subs_mobile': 8908821,
                                'telecom': { 'code': '993',
-                                            'domestic': [ 'fixed-line 13 per 100 and mobile-cellular teledensity is '
-                                                          'about 160 per 100 persons',
+                                            'domestic': [ 'fixed-line 12 per 100 and mobile-cellular teledensity is '
+                                                          'about 163 per 100 persons',
                                                           'first telecommunication satellite was launched in 2015',
-                                                          2018],
+                                                          2019],
                                             'general': [ 'telecommunications network is gradually improving from the '
                                                          'former Soviet republic',
                                                          'state control over most economic activities has not helped '
@@ -11513,10 +11523,12 @@ WORLD_FB = \
                                            'population': 55926,
                                            'ports': {'major seaport': 'Cockburn Harbour, Grand Turk, Providenciales'},
                                            'region': ['Central America and the Caribbean'],
+                                           'subs_fixed': 6096,
                                            'telecom': { 'code': '1649',
                                                         'domestic': [ 'full range of services available',
                                                                       'GSM wireless service available',
-                                                                      2018],
+                                                                      'fixed-line teledensity 11 per 100 persons',
+                                                                      2019],
                                                         'general': [ 'fully digital system with international direct '
                                                                      'dialing',
                                                                      'broadband access',
@@ -11558,12 +11570,12 @@ WORLD_FB = \
                          'ports': {'major seaport': 'Funafuti'},
                          'region': ['Oceania'],
                          'subs_broadband': 1000,
-                         'subs_fixed': 2000,
-                         'subs_mobile': 7600,
+                         'subs_fixed': 1978,
+                         'subs_mobile': 7911,
                          'telecom': { 'code': '688',
                                       'domestic': [ 'radiotelephone communications between islands',
-                                                    'fixed-line 18 per 100 and mobile-cellular 69 per 100',
-                                                    2018],
+                                                    'fixed-line 18 per 100 and mobile-cellular 70 per 100',
+                                                    2019],
                                       'general': [ 'internal communications needs met',
                                                    'small global scale of over 11,000 people on 9 inhabited islands',
                                                    'mobile subscriber penetration about 40% and broadband about 10% '
@@ -11601,14 +11613,14 @@ WORLD_FB = \
                          'ports': {},
                          'region': ['Africa'],
                          'subs_broadband': 9485,
-                         'subs_fixed': 186902,
-                         'subs_mobile': 24472033,
+                         'subs_fixed': 184065,
+                         'subs_mobile': 23957740,
                          'telecom': { 'code': '256',
                                       'domestic': [ 'fixed-line 1 per 100 and mobile- cellular systems teledensity '
-                                                    'about 60 per 100 persons',
+                                                    'about 57 per 100 persons',
                                                     'intercity traffic by wire, microwave radio relay, and '
                                                     'radiotelephone communication stations',
-                                                    2018],
+                                                    2019],
                                       'general': [ 'in recent years, telecommunications infrastructure has developed '
                                                    'through private partnerships',
                                                    'as of 2018, fixed fiber backbone infrastructure is available in '
@@ -11655,18 +11667,18 @@ WORLD_FB = \
                                             'local_long': 'none',
                                             'local_short': 'Ukraina'},
                           'population': 43922939,
-                          'ports': { 'major seaport': "Feodosiya (Theodosia), Illichivsk, Mariupol', Mykolayiv, Odesa, "
-                                                      'Yuzhnyy'},
+                          'ports': { 'major seaport': 'Feodosiya (Theodosia), Chornomosk (Illichivsk), Mariupol, '
+                                                      'Mykolayiv, Odesa, Yuzhnyy'},
                           'region': ['AsiaEurope'],
                           'subs_broadband': 5405125,
-                          'subs_fixed': 6074255,
-                          'subs_mobile': 53933592,
+                          'subs_fixed': 4378911,
+                          'subs_mobile': 57431439,
                           'telecom': { 'code': '380',
-                                       'domestic': [ 'fixed-line teledensity is 14 per 100',
+                                       'domestic': [ 'fixed-line teledensity is 10 per 100',
                                                      "the mobile-cellular telephone system's expansion has slowed, "
-                                                     'largely due to saturation of the market that is now 123 mobile '
+                                                     'largely due to saturation of the market that is now 131 mobile '
                                                      'phones per 100 persons',
-                                                     2018],
+                                                     2019],
                                        'general': [ 'telecommunication development plan emphasizes improving domestic '
                                                     'trunk lines, international connections, and the mobile-cellular '
                                                     'system',
@@ -11722,14 +11734,14 @@ WORLD_FB = \
                                                                    'Khaymah)'},
                                        'region': ['Middle East'],
                                        'subs_broadband': 3024565,
-                                       'subs_fixed': 2341392,
-                                       'subs_mobile': 20081015,
+                                       'subs_fixed': 2380238,
+                                       'subs_mobile': 19749674,
                                        'telecom': { 'code': '971',
                                                     'domestic': [ 'microwave radio relay, fiber-optic and coaxial '
                                                                   'cable',
-                                                                  'fixed-line 24 per 100 and mobile-cellular 207 per '
+                                                                  'fixed-line 24 per 100 and mobile-cellular 201 per '
                                                                   '100',
-                                                                  2018],
+                                                                  2019],
                                                     'general': [ 'modern fiber-optic integrated services',
                                                                  'digital network with rapidly growing use of '
                                                                  'mobile-cellular telephones',
@@ -11785,13 +11797,13 @@ WORLD_FB = \
                                                              'Milford Haven (Wales)'},
                                  'region': ['Europe'],
                                  'subs_broadband': 26586110,
-                                 'subs_fixed': 31919894,
-                                 'subs_mobile': 79472341,
+                                 'subs_fixed': 31160866,
+                                 'subs_mobile': 76920618,
                                  'telecom': { 'code': '44',
                                               'domestic': [ 'equal mix of buried cables, microwave radio relay, and '
                                                             'fiber-optic systems',
-                                                            'fixed-line 49 per 100 and mobile-cellular 122 per 100',
-                                                            2018],
+                                                            'fixed-line 48 per 100 and mobile-cellular 118 per 100',
+                                                            2019],
                                               'general': [ 'technologically advanced domestic and international system',
                                                            'one of the largest mobile and telecom markets in Europe '
                                                            'for revenue and subscribers',
@@ -11854,16 +11866,16 @@ WORLD_FB = \
                                                                     'Long Beach (415,000) (2009)'},
                                 'region': ['North America'],
                                 'subs_broadband': 110568000,
-                                'subs_fixed': 109961000,
-                                'subs_mobile': 422000000,
+                                'subs_fixed': 107667642,
+                                'subs_mobile': 408509528,
                                 'telecom': { 'code': '1',
                                              'domestic': [ 'a large system of fiber-optic cable, microwave radio '
                                                            'relay, coaxial cable, and domestic satellites carries '
                                                            'every form of telephone traffic',
                                                            'a rapidly growing cellular system carries mobile telephone '
                                                            'traffic throughout the country',
-                                                           'fixed-line 34 per 100 and mobile-cellular 129 per 100',
-                                                           2018],
+                                                           'fixed-line 33 per 100 and mobile-cellular 124 per 100',
+                                                           2019],
                                              'general': [ 'a large, technologically advanced, multipurpose '
                                                           'communications system',
                                                           'mobile subscriber penetration rate of about 129%',
@@ -11928,14 +11940,14 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Montevideo'},
                           'region': ['South America'],
                           'subs_broadband': 977390,
-                          'subs_fixed': 1153533,
-                          'subs_mobile': 5170624,
+                          'subs_fixed': 1137193,
+                          'subs_mobile': 4664993,
                           'telecom': { 'code': '598',
                                        'domestic': [ 'most modern facilities concentrated in Montevideo',
                                                      'nationwide microwave radio relay network',
                                                      'overall fixed-line 34 per 100 and mobile-cellular teledensity '
-                                                     '153 per 100 persons',
-                                                     2018],
+                                                     '138 per 100 persons',
+                                                     2019],
                                        'general': [ 'fully digitalized',
                                                     'one of the highest broadband penetrations in Latin America',
                                                     'high fixed-line and mobile penetrations as well',
@@ -11982,10 +11994,10 @@ WORLD_FB = \
                              'ports': {},
                              'region': ['Asia'],
                              'subs_broadband': 4123508,
-                             'subs_fixed': 3460258,
-                             'subs_mobile': 23226156,
+                             'subs_fixed': 3262896,
+                             'subs_mobile': 30662740,
                              'telecom': { 'code': '998',
-                                          'domestic': [ 'fixed-line 12 per 100 person and mobile-cellular 77 per 100',
+                                          'domestic': [ 'fixed-line 11 per 100 person and mobile-cellular 101 per 100',
                                                         'the state-owned telecommunications company, Uzbek Telecom, '
                                                         'owner of the fixed-line telecommunications system, has used '
                                                         'loans from the Japanese government and the China Development '
@@ -11994,7 +12006,7 @@ WORLD_FB = \
                                                         'mobile-cellular services are provided by 2 private and 3 '
                                                         'state-owned operators with a total subscriber base of 22.8 '
                                                         'million as of January 2018',
-                                                        2018],
+                                                        2019],
                                           'general': [ 'digital exchanges in large cities and in rural areas',
                                                        'increased investment in infrastructure and growing subscriber '
                                                        'base',
@@ -12039,10 +12051,10 @@ WORLD_FB = \
                           'ports': {'major seaport': 'Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila'},
                           'region': ['Oceania'],
                           'subs_broadband': 4718,
-                          'subs_fixed': 4154,
-                          'subs_mobile': 251428,
+                          'subs_fixed': 3724,
+                          'subs_mobile': 259317,
                           'telecom': { 'code': '678',
-                                       'domestic': ['fixed-line 1 per 100 and mobile-cellular 87 per 100', 2018],
+                                       'domestic': ['fixed-line 1 per 100 and mobile-cellular 88 per 100', 2019],
                                        'general': [ 'telecom services have progressed significantly in recent years',
                                                     'mobile phones are now the primary means of communication and more '
                                                     'than 92% of the population is covered by a mobile network',
@@ -12088,8 +12100,8 @@ WORLD_FB = \
                             'ports': {'major seaport': 'La Guaira, Maracaibo, Puerto Cabello, Punta Cardon'},
                             'region': ['South America'],
                             'subs_broadband': 2604578,
-                            'subs_fixed': 5547291,
-                            'subs_mobile': 20731169,
+                            'subs_fixed': 5501135,
+                            'subs_mobile': 16664106,
                             'telecom': { 'code': '58',
                                          'domestic': [ 'two domestic satellite systems with three earth stations',
                                                        'recent substantial improvement in telephone service in rural '
@@ -12097,8 +12109,8 @@ WORLD_FB = \
                                                        '3 major providers operate in the mobile market and compete '
                                                        'with state-owned company',
                                                        'fixed-line 19 per 100 and mobile-cellular telephone '
-                                                       'subscribership about 70 per 100 persons',
-                                                       2018],
+                                                       'subscribership about 58 per 100 persons',
+                                                       2019],
                                          'general': [ 'by late 2018 teledensity has fallen due to political upheaval '
                                                       'in the country with people holding on to mobile service, but '
                                                       'cancelling fixed-line telecom services',
@@ -12145,16 +12157,16 @@ WORLD_FB = \
                                      'major seaport': 'Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon'},
                           'region': ['Southeast Asia'],
                           'subs_broadband': 12994451,
-                          'subs_fixed': 4296301,
-                          'subs_mobile': 140639140,
+                          'subs_fixed': 3710210,
+                          'subs_mobile': 138256733,
                           'telecom': { 'code': '84',
                                        'domestic': [ 'all provincial exchanges are digitalized and connected to Hanoi, '
                                                      'Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave '
                                                      'radio relay networks',
                                                      'main lines have been increased, and the use of mobile telephones '
                                                      'is growing rapidly',
-                                                     'fixed-line 4 per 100 and mobile-cellular 145 per 100',
-                                                     2018],
+                                                     'fixed-line 4 per 100 and mobile-cellular 141 per 100',
+                                                     2019],
                                        'general': [ 'despite being a communist country there are plans to part '
                                                     'privatize the state’s holdings in telecom companies as well as a '
                                                     'large number of other enterprises',
@@ -12196,12 +12208,12 @@ WORLD_FB = \
                                  'ports': { 'major seaport': 'Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, '
                                                              'Limetree Bay'},
                                  'region': ['Central America and the Caribbean'],
-                                 'subs_fixed': 76000,
+                                 'subs_fixed': 77212,
                                  'telecom': { 'code': '1340',
                                               'domestic': [ 'full range of services available',
-                                                            'fixed-line 73 per 100 persons and mobile-cellular 75 per '
+                                                            'fixed-line 72 per 100 persons and mobile-cellular 75 per '
                                                             '100',
-                                                            2018],
+                                                            2019],
                                               'general': [ 'modern system with total digital switching, uses '
                                                            'fiber-optic cable and microwave radio relay',
                                                            'good interisland and international connections',
@@ -12282,8 +12294,9 @@ WORLD_FB = \
                                     'population': 15854,
                                     'ports': {'major seaport': 'Leava, Mata-Utu'},
                                     'region': ['Oceania'],
-                                    'subs_fixed': 3132,
+                                    'subs_fixed': 4012,
                                     'telecom': { 'code': '681',
+                                                 'domestic': ['fixed-line teledensity 25 per 100 persons', 2019],
                                                  'general': [ '2G widespread',
                                                               'bandwidth is limited',
                                                               'mobile subscriber numbers are higher than fixed-line '
@@ -12327,7 +12340,7 @@ WORLD_FB = \
                                                        'January 2018 after Israel lifted its ban',
                                                        'fixed-line 9 per 100 and mobile-cellular 76 per 100 (includes '
                                                        'Gaza Strip)',
-                                                       2018],
+                                                       2019],
                                          'general': [ 'continuing political and economic instability has impeded '
                                                       'liberalization of the telecommunications industry',
                                                       2018],
@@ -12436,15 +12449,15 @@ WORLD_FB = \
                         'ports': {'major seaport': 'Aden, Al Hudaydah, Al Mukalla'},
                         'region': ['Middle East'],
                         'subs_broadband': 386330,
-                        'subs_fixed': 1165828,
-                        'subs_mobile': 15297789,
+                        'subs_fixed': 1253287,
+                        'subs_mobile': 16158028,
                         'telecom': { 'code': '967',
                                      'domestic': [ 'the national network consists of microwave radio relay, cable, '
                                                    'tropospheric scatter, GSM and CDMA mobile-cellular telephone '
                                                    'systems',
                                                    'fixed-line teledensity remains low by regional standards at 4 per '
-                                                   '100 but mobile cellular use expanding at 53 per 100',
-                                                   2018],
+                                                   '100 but mobile cellular use expanding at 55 per 100',
+                                                   2019],
                                      'general': [ 'large percent of the population is in need of humanitarian '
                                                   'assistance, and given the civil conflict, telecommunications '
                                                   'services are vital but disrupted',
@@ -12507,15 +12520,15 @@ WORLD_FB = \
                          'ports': {},
                          'region': ['Africa'],
                          'subs_broadband': 43365,
-                         'subs_fixed': 100444,
-                         'subs_mobile': 15470270,
+                         'subs_fixed': 91422,
+                         'subs_mobile': 16322168,
                          'telecom': { 'code': '260',
                                       'domestic': [ 'fiber optic connections are available between most larger towns '
                                                     'and cities with microwave radio relays serving more rural areas',
                                                     '3G and LTE with FttX in limited urban areas and private Ku or Ka '
                                                     'band VSAT terminals in remote locations',
-                                                    'fixed-line 1 per 100 and mobile-cellular 94 per 100',
-                                                    2020],
+                                                    'fixed-line 1 per 100 and mobile-cellular 96 per 100',
+                                                    2019],
                                       'general': [ 'service is among the best in Sub-Saharan Africa',
                                                    'regulatory promotes competition and is a partner to private sector '
                                                    'service providers, offering mobile voice and Internet at some of '
@@ -12559,8 +12572,8 @@ WORLD_FB = \
                            'ports': {},
                            'region': ['Africa'],
                            'subs_broadband': 203056,
-                           'subs_fixed': 268849,
-                           'subs_mobile': 12908992,
+                           'subs_fixed': 258419,
+                           'subs_mobile': 12863830,
                            'telecom': { 'code': '263',
                                         'domestic': [ 'consists of microwave radio relay links, open-wire lines, '
                                                       'radiotelephone communication stations, fixed wireless local '
@@ -12569,13 +12582,13 @@ WORLD_FB = \
                                                       'Internet connection is most readily available in Harare and '
                                                       'major towns',
                                                       'two government owned and two private cellular providers',
-                                                      'fixed-line 2 per 100 and mobile-cellular 92 per 100',
-                                                      2018],
+                                                      'fixed-line 2 per 100 and mobile-cellular 90 per 100',
+                                                      2019],
                                         'general': [ 'competition has driven the expansion of the telecommunications '
                                                      'sector, particularly cellular voice and mobile broadband, in '
                                                      'recent years',
-                                                     '3 mobile network operators continue to invest in m-commerce and '
-                                                     'm-banking facilities',
+                                                     '3 mobile network operators continue to invest in M-commerce and '
+                                                     'M-banking facilities',
                                                      'continued advancement with national and international fiber '
                                                      'backbone network as well as 3G and LTE mobile broadband services',
                                                      'mobile Internet connections make up 98% of all Internet '

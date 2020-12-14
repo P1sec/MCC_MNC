@@ -37,7 +37,7 @@ P1_CC2 = \
                                   "principat d'andorra",
                                   'the principality of andorra'],
                      'tel': { 'code': '376',
-                              'domestic': ['46 per 100 fixed-line, 96 per 100 mobile-cellular', 2019],
+                              'domestic': ['51 per 100 fixed-line, 113 per 100 mobile-cellular', 2019],
                               'general': [ 'modern automatic telephone system',
                                            'broadband Internet and LTE mobile lines for both consumer and enterprise '
                                            'customers available',
@@ -45,7 +45,7 @@ P1_CC2 = \
                               'intl': [ 'landline circuits to France and Spain',
                                         'modern system with microwave radio relay connections between exchanges',
                                         2019],
-                              'subs': {'bb': 35663, 'fix': 39375, 'internet': 78483, 'mob': 82614},
+                              'subs': {'bb': 35663, 'fix': 44050, 'internet': 78483, 'mob': 97645},
                               'tld': '.ad',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ad'}},
           'mcc': ['213'],
@@ -78,8 +78,8 @@ P1_CC2 = \
                                   'united arab emirates'],
                      'tel': { 'code': '971',
                               'domestic': [ 'microwave radio relay, fiber-optic and coaxial cable',
-                                            'fixed-line 24 per 100 and mobile-cellular 207 per 100',
-                                            2018],
+                                            'fixed-line 24 per 100 and mobile-cellular 201 per 100',
+                                            2019],
                               'general': [ 'modern fiber-optic integrated services',
                                            'digital network with rapidly growing use of mobile-cellular telephones',
                                            'key centers are Abu Dhabi and Dubai',
@@ -98,7 +98,7 @@ P1_CC2 = \
                                         'Australia',
                                         'satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian)',
                                         2020],
-                              'subs': {'bb': 3024565, 'fix': 2341392, 'internet': 9550945, 'mob': 20081015},
+                              'subs': {'bb': 3024565, 'fix': 2380238, 'internet': 9550945, 'mob': 19749674},
                               'tld': '.ae',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ae'}},
           'mcc': ['424', '430', '431'],
@@ -133,9 +133,9 @@ P1_CC2 = \
                                   'the islamic republic of afghanistan'],
                      'tel': { 'code': '93',
                               'domestic': [ 'less than 1 per 100 for fixed-line teledensity',
-                                            '63 per 100 for mobile-cellular',
+                                            '59 per 100 for mobile-cellular',
                                             'an increasing number of Afghans utilize mobile-cellular phone networks',
-                                            2018],
+                                            2019],
                               'general': [ "progress has been made on Afghanistan's first limited fixed-line telephone "
                                            'service and nationwide optical fiber backbone',
                                            'aided by the presence of multiple providers, mobile-cellular telephone '
@@ -149,7 +149,7 @@ P1_CC2 = \
                               'intl': [ "multiple VSAT's provide international and domestic voice and data "
                                         'connectivity',
                                         2019],
-                              'subs': {'bb': 15999, 'fix': 127794, 'internet': 4717013, 'mob': 21976355},
+                              'subs': {'bb': 15999, 'fix': 125232, 'internet': 4717013, 'mob': 21239280},
                               'tld': '.af',
                               'url_tld': 'https://en.wikipedia.org/wiki/.af'}},
           'mcc': ['412'],
@@ -174,9 +174,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ac.html'},
                      'nameset': ['antigua and barbuda'],
                      'tel': { 'code': '1268',
-                              'domestic': [ 'fixed-line teledensity roughly 24 per 100 persons',
-                                            'mobile-cellular teledensity is about 190 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line teledensity roughly 25 per 100 persons',
+                                            'mobile-cellular teledensity is about 193 per 100 persons',
+                                            2019],
                               'general': [ 'good automatic telephone system with fiber-optic lines',
                                            'telecom sector contributes heavily to GDP',
                                            'numerous mobile network competitors licensed, but small and local',
@@ -189,7 +189,7 @@ P1_CC2 = \
                                         'systems with links to other islands in the eastern Caribbean',
                                         'satellite earth stations - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 9261, 'fix': 22504, 'internet': 72870, 'mob': 180000},
+                              'subs': {'bb': 9261, 'fix': 24403, 'internet': 72870, 'mob': 187095},
                               'tld': '.ag',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ag'}},
           'mcc': ['344'],
@@ -214,9 +214,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_av.html'},
                      'nameset': ['anguilla'],
                      'tel': { 'code': '1264',
-                              'domestic': [ 'fixed-line teledensity is about 37 per 100 persons',
-                                            'mobile-cellular teledensity is roughly 158 per 100 persons',
-                                            2000],
+                              'domestic': [ 'fixed-line teledensity is about 42 per 100 persons',
+                                            'mobile-cellular teledensity is roughly 182 per 100 persons',
+                                            2019],
                               'general': [ 'modern internal telephone system with fiber-optic trunk lines',
                                            'telecom sector provides a relatively high contribution to overall GDP',
                                            'numerous competitors licensed, but small and localized',
@@ -226,7 +226,7 @@ P1_CC2 = \
                                         'submarine cable links to Caribbean islands and to the US',
                                         'microwave radio relay to island of Saint Martin/Sint Maarten',
                                         2019],
-                              'subs': {'fix': 6000, 'internet': 14211, 'mob': 26000},
+                              'subs': {'fix': 7461, 'internet': 14211, 'mob': 32332},
                               'tld': '.ai',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ai'}},
           'mcc': ['365'],
@@ -270,7 +270,7 @@ P1_CC2 = \
                      'tel': { 'code': '355',
                               'domestic': [ 'fixed-line 8 per 100, teledensity continues to decline due to heavy use '
                                             'of mobile-cellular telephone services',
-                                            'mobile-cellular telephone use is widespread and generally effective, 89 '
+                                            'mobile-cellular telephone use is widespread and generally effective, 91 '
                                             'per 100 for mobile-cellular',
                                             2019],
                               'general': [ 'mobile-cellular phone service has been available since 1996 and dominates '
@@ -291,7 +291,7 @@ P1_CC2 = \
                                         'international traffic carried by fiber-optic cable and, when necessary, by '
                                         'microwave radio relay from the Tirana exchange to Italy and Greece',
                                         2019],
-                              'subs': {'bb': 361947, 'fix': 248631, 'internet': 2196613, 'mob': 2714878},
+                              'subs': {'bb': 361947, 'fix': 258474, 'internet': 2196613, 'mob': 2799066},
                               'tld': '.al',
                               'url_tld': 'https://en.wikipedia.org/wiki/.al'}},
           'mcc': ['276'],
@@ -321,7 +321,7 @@ P1_CC2 = \
                                   'republic of armenia',
                                   'the republic of armenia'],
                      'tel': { 'code': '374',
-                              'domestic': [ '16 per 100 fixed-line, 118 per 100 mobile-cellular',
+                              'domestic': [ '15 per 100 fixed-line, 122 per 100 mobile-cellular',
                                             'reliable fixed-line and mobile-cellular services are available across '
                                             'Yerevan and in major cities and towns',
                                             'mobile-cellular coverage available in most rural areas',
@@ -343,7 +343,7 @@ P1_CC2 = \
                                         'to the rest of the world',
                                         'satellite earth stations - 3',
                                         2019],
-                              'subs': {'bb': 347448, 'fix': 477932, 'internet': 1966942, 'mob': 3579257},
+                              'subs': {'bb': 347448, 'fix': 462725, 'internet': 1966942, 'mob': 3707557},
                               'tld': '.am',
                               'url_tld': 'https://en.wikipedia.org/wiki/.am'}},
           'mcc': ['283'],
@@ -374,8 +374,8 @@ P1_CC2 = \
                      'nameset': ['angola', 'republic of angola', 'republica de angola', 'the republic of angola'],
                      'tel': { 'code': '244',
                               'domestic': [ 'only about one fixed-line per 100 persons',
-                                            'mobile-cellular teledensity about 44 telephones per 100 persons',
-                                            2018],
+                                            'mobile-cellular teledensity about 47 telephones per 100 persons',
+                                            2019],
                               'general': [ 'progress in opening up the telecom sector to new competitors, while still '
                                            'retaining a 45% govt. portion of the share',
                                            'slow progress in LTE network development, with only about 12% of the '
@@ -389,7 +389,7 @@ P1_CC2 = \
                                         'Europe and Asia',
                                         'satellite earth stations - 29, Angosat-2 satellite expected by 2021',
                                         2019],
-                              'subs': {'bb': 109561, 'fix': 171858, 'internet': 4353033, 'mob': 13288421},
+                              'subs': {'bb': 109561, 'fix': 122566, 'internet': 4353033, 'mob': 14645106},
                               'tld': '.ao',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ao'}},
           'mcc': ['631'],
@@ -449,10 +449,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ar.html'},
                      'nameset': ['argentina', 'argentine republic', 'republica argentina', 'the argentine republic'],
                      'tel': { 'code': '54',
-                              'domestic': [ '22 per 100 fixed-line, 131 per 100 mobile-cellular',
+                              'domestic': [ '17 per 100 fixed-line, 131 per 100 mobile-cellular',
                                             'microwave radio relay, fiber-optic cable, and a domestic satellite system '
                                             'with 40 earth stations serve the trunk network',
-                                            2018],
+                                            2019],
                               'general': [ 'one of the highest broadband penetrations in Latin America, supported by '
                                            'operator investment and govt. programs aimed at expansion',
                                            'govt. provides 20 million euros for two 5G trials, Chinese company Huawei '
@@ -469,7 +469,7 @@ P1_CC2 = \
                                         'Africa, South and Central America, and US',
                                         'satellite earth stations - 112',
                                         2019],
-                              'subs': {'bb': 8473655, 'fix': 9764014, 'internet': 33203320, 'mob': 58598041},
+                              'subs': {'bb': 8473655, 'fix': 7791464, 'internet': 33203320, 'mob': 59008618},
                               'tld': '.ar',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ar'}},
           'mcc': ['722'],
@@ -507,7 +507,7 @@ P1_CC2 = \
                      'tel': { 'code': '1684',
                               'domestic': [ '18 per 100 fixed-line teledensity, domestic satellite system with 1 '
                                             'Comsat earth station',
-                                            2000],
+                                            2019],
                               'general': [ 'good telex, telegraph, facsimile, and cellular telephone services',
                                            'one of the most complete and modern telecommunications systems in the '
                                            'South Pacific Islands',
@@ -518,7 +518,7 @@ P1_CC2 = \
                                         'and SAS connecting American Samoa with Samoa',
                                         'satellite earth station - 1 (Intelsat-Pacific Ocean)',
                                         2019],
-                              'subs': {'fix': 10000, 'internet': 17000},
+                              'subs': {'fix': 8984, 'internet': 17000},
                               'tld': '.as',
                               'url_tld': 'https://en.wikipedia.org/wiki/.as'}},
           'mcc': ['544'],
@@ -556,8 +556,8 @@ P1_CC2 = \
                                   'the republic of austria'],
                      'tel': { 'code': '43',
                               'domestic': [ 'developed and efficient',
-                                            '43 per 100 fixed-line for households, 174 per 100 for companies',
-                                            '125 per 100 mobile-cellular',
+                                            '41 per 100 fixed-line for households, 174 per 100 for companies',
+                                            '120 per 100 mobile-cellular',
                                             'broadband: 138 per 100 on smartphones',
                                             '62 per 100 fixed broadband, 54 per 100 mobile broadband',
                                             2019],
@@ -575,7 +575,7 @@ P1_CC2 = \
                                            2020],
                               'intl': [ 'earth stations available in the Astra, Intelsat, Eutelsat satellite systems',
                                         2019],
-                              'subs': {'bb': 2521100, 'fix': 3772429, 'internet': 7712665, 'mob': 10984000},
+                              'subs': {'bb': 2521100, 'fix': 3700006, 'internet': 7712665, 'mob': 10574725},
                               'tld': '.at',
                               'url_tld': 'https://en.wikipedia.org/wiki/.at'}},
           'mcc': ['232'],
@@ -632,11 +632,11 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_as.html'},
                      'nameset': ['australia', 'commonwealth of australia', 'the commonwealth of australia'],
                      'tel': { 'code': '61',
-                              'domestic': [ '33 per 100 fixed-line, 114 per 100 mobile-cellular',
+                              'domestic': [ '31 per 100 fixed-line, 111 per 100 mobile-cellular',
                                             'more subscribers to mobile services than there are people',
                                             '90% of all mobile device sales are now smartphones, growth in mobile '
                                             'traffic brisk',
-                                            2018],
+                                            2019],
                               'general': [ 'excellent domestic and international service',
                                            'domestic satellite system',
                                            'significant use of radiotelephone in areas of low population density',
@@ -658,7 +658,7 @@ P1_CC2 = \
                                         'satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), '
                                         '2 Inmarsat, 2 Globalstar, 5 other',
                                         2019],
-                              'subs': {'bb': 7640000, 'fix': 8090000, 'internet': 21419302, 'mob': 28279000},
+                              'subs': {'bb': 7640000, 'fix': 7792701, 'internet': 21419302, 'mob': 27780491},
                               'tld': '.au',
                               'url_tld': 'https://en.wikipedia.org/wiki/.au'}},
           'mcc': ['505'],
@@ -742,8 +742,8 @@ P1_CC2 = \
                                   'land aruba (dutch); pais aruba (papiamento)'],
                      'tel': { 'code': '297',
                               'domestic': [ 'ongoing changes in regulations and competition improving teledensity',
-                                            '31 per 100 fixed-line, 126 per 100 mobile-cellular',
-                                            2018],
+                                            '34 per 100 fixed-line, 135 per 100 mobile-cellular',
+                                            2019],
                               'general': [ 'modern fully automatic telecommunications system',
                                            'increased competition through privatization has increased mobile-cellular '
                                            'teledensity',
@@ -759,7 +759,7 @@ P1_CC2 = \
                                         'Peru and Chile',
                                         'extensive interisland microwave radio relay links',
                                         2019],
-                              'subs': {'fix': 35000, 'internet': 113277, 'mob': 141000},
+                              'subs': {'fix': 39582, 'internet': 113277, 'mob': 159471},
                               'tld': '.aw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.aw'}},
           'mcc': ['363'],
@@ -806,11 +806,11 @@ P1_CC2 = \
                                   'the republic of azerbaijan'],
                      'tel': { 'code': '994',
                               'domestic': [ 'teledensity of some 17 fixed-lines per 100 persons',
-                                            'mobile-cellular teledensity has increased to 103 telephones per 100 '
+                                            'mobile-cellular teledensity has increased to 107 telephones per 100 '
                                             'persons',
                                             'satellite service connects Baku to a modern switch in its exclave of '
                                             'Naxcivan (Nakhchivan)',
-                                            2018],
+                                            2019],
                               'general': [ 'after the oil sector, the telecommunications sector contributes the most '
                                            'to the GDP',
                                            'more competition will allow for falling prices and the strengthening of '
@@ -823,7 +823,7 @@ P1_CC2 = \
                                         'the old Soviet system of cable and microwave is still serviceable',
                                         'satellite earth stations - 2',
                                         2019],
-                              'subs': {'bb': 1890913, 'fix': 1681407, 'internet': 8017120, 'mob': 10339700},
+                              'subs': {'bb': 1890913, 'fix': 1686316, 'internet': 8017120, 'mob': 10835974},
                               'tld': '.az',
                               'url_tld': 'https://en.wikipedia.org/wiki/.az'}},
           'mcc': ['400'],
@@ -848,10 +848,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bk.html'},
                      'nameset': ['bosna i hercegovina', 'bosnia and herzegovina'],
                      'tel': { 'code': '387',
-                              'domestic': [ 'fixed-line teledensity roughly 21 per 100 persons and mobile-cellular '
-                                            'subscribership has been increasing rapidly and stands at roughly 90 '
+                              'domestic': [ 'fixed-line teledensity roughly 24 per 100 persons and mobile-cellular '
+                                            'subscribership has been increasing rapidly and stands at roughly 112 '
                                             'telephones per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'mobile services dominate fixed-line',
                                            'integration with the EU has given stability to the present economy, as an '
                                            'EU candidate country, the regulatory framework and telecom market has been '
@@ -862,7 +862,7 @@ P1_CC2 = \
                                            'rural areas still suffer from insufficient connectivity',
                                            2020],
                               'intl': ['no satellite earth stations', 2000],
-                              'subs': {'bb': 693554, 'fix': 792535, 'internet': 2699544, 'mob': 3461058},
+                              'subs': {'bb': 693554, 'fix': 920407, 'internet': 2699544, 'mob': 4300743},
                               'tld': '.ba',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ba'}},
           'mcc': ['218'],
@@ -887,9 +887,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bb.html'},
                      'nameset': ['barbados'],
                      'tel': { 'code': '1246',
-                              'domestic': [ 'fixed-line teledensity of roughly 44 per 100 persons',
-                                            'mobile-cellular telephone density about 112 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line teledensity of roughly 48 per 100 persons',
+                                            'mobile-cellular telephone density about 109 per 100 persons',
+                                            2019],
                               'general': [ 'island-wide automatic telephone system',
                                            'telecom sector across the Caribbean region remains one of the key growth '
                                            'areas and contributors to the overall GDP',
@@ -901,7 +901,7 @@ P1_CC2 = \
                                         'satellite earth stations - 1 (Intelsat - Atlantic Ocean)',
                                         'tropospheric scatter to Trinidad and Saint Lucia',
                                         2019],
-                              'subs': {'bb': 89340, 'fix': 128043, 'internet': 239664, 'mob': 329326},
+                              'subs': {'bb': 89340, 'fix': 141618, 'internet': 239664, 'mob': 319177},
                               'tld': '.bb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bb'}},
           'mcc': ['342'],
@@ -935,7 +935,7 @@ P1_CC2 = \
                                             'now exceeds 101 telephones per 100 persons',
                                             'mobile subscriber growth is anticipated over the next five years to 2023',
                                             'strong local competition',
-                                            2018],
+                                            2019],
                               'general': [ 'slow to moderate growth in mobile subscriber rate',
                                            "regulator's recent budget allowance and telecoms investment in LTE "
                                            'infrastructure is leading the way to the migration of 5G',
@@ -948,7 +948,7 @@ P1_CC2 = \
                                         'international radiotelephone communications and landline service to '
                                         'neighboring countries',
                                         2019],
-                              'subs': {'bb': 10237003, 'fix': 1449646, 'internet': 23917950, 'mob': 161771617},
+                              'subs': {'bb': 10237003, 'fix': 1433460, 'internet': 23917950, 'mob': 163559380},
                               'tld': '.bd',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bd'}},
           'mcc': ['470'],
@@ -981,11 +981,11 @@ P1_CC2 = \
                                   'royaume de belgique (french)/koninkrijk belgie (dutch)/koenigreich belgien (german)',
                                   'the kingdom of belgium'],
                      'tel': { 'code': '32',
-                              'domestic': [ '35 per 100 fixed-line, 99 per 100 mobile-cellular',
+                              'domestic': [ '34 per 100 fixed-line, 100 per 100 mobile-cellular',
                                             'nationwide mobile-cellular telephone system',
                                             'extensive cable network',
                                             'limited microwave radio relay network',
-                                            2018],
+                                            2019],
                               'general': [ 'highly developed, technologically advanced, and completely automated '
                                            'domestic and international telephone and telegraph facilities',
                                            'LTE availability is nearly universal in mobile sector',
@@ -1002,7 +1002,7 @@ P1_CC2 = \
                                         'cables that provide links to Europe, the Middle East, Australia and Asia',
                                         'satellite earth stations - 7 (Intelsat - 3)',
                                         2019],
-                              'subs': {'bb': 4502950, 'fix': 4105557, 'internet': 10258638, 'mob': 11447351},
+                              'subs': {'bb': 4502950, 'fix': 3967054, 'internet': 10258638, 'mob': 11616970},
                               'tld': '.be',
                               'url_tld': 'https://en.wikipedia.org/wiki/.be'}},
           'mcc': ['206'],
@@ -1057,10 +1057,10 @@ P1_CC2 = \
                      'nameset': ['burkina faso'],
                      'tel': { 'code': '226',
                               'domestic': [ 'fixed-line connections stand at less than 1 per 100 persons',
-                                            'mobile-cellular usage 98 per 100, with multiple providers there is '
+                                            'mobile-cellular usage 100 per 100, with multiple providers there is '
                                             'competition and the hope for growth from a low base',
                                             'Internet penetration is 11% countrywide, but higher in urban areas',
-                                            2018],
+                                            2019],
                               'general': [ 'system includes microwave radio relay, open-wire, and radiotelephone '
                                            'communication stations',
                                            'insufficient mobile spectrum, and poor condition of fixed-line networks '
@@ -1072,7 +1072,7 @@ P1_CC2 = \
                                            'framework governing the telecom sector',
                                            2020],
                               'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 2000],
-                              'subs': {'bb': 13818, 'fix': 76760, 'internet': 3158834, 'mob': 19339109},
+                              'subs': {'bb': 13818, 'fix': 75066, 'internet': 3158834, 'mob': 20330657},
                               'tld': '.bf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bf'}},
           'mcc': ['613'],
@@ -1103,9 +1103,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bu.html'},
                      'nameset': ['bulgaria', 'republic of bulgaria', 'republika bulgaria', 'the republic of bulgaria'],
                      'tel': { 'code': '359',
-                              'domestic': [ 'fixed-line 16 per 100 persons, mobile-cellular teledensity, fostered by '
-                                            'multiple service providers, is over 119 telephones per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line 14 per 100 persons, mobile-cellular teledensity, fostered by '
+                                            'multiple service providers, is over 116 telephones per 100 persons',
+                                            2019],
                               'general': [ "telecom sector has benefited from Bulgaria's adaptation of EU regulatory "
                                            'measures, more privatization and less govt. monopoly',
                                            'population is moving to fiber networks for broadband',
@@ -1123,7 +1123,7 @@ P1_CC2 = \
                                         'satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 '
                                         'Intelsat in the Atlantic and Indian Ocean regions)',
                                         2019],
-                              'subs': {'bb': 1903946, 'fix': 1120392, 'internet': 4571851, 'mob': 8387160},
+                              'subs': {'bb': 1903946, 'fix': 974056, 'internet': 4571851, 'mob': 8149389},
                               'tld': '.bg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bg'}},
           'mcc': ['284'],
@@ -1153,10 +1153,10 @@ P1_CC2 = \
                                   'mamlakat al bahrayn',
                                   'the kingdom of bahrain'],
                      'tel': { 'code': '973',
-                              'domestic': [ '19 per 100 fixed-line, 145 per 100 mobile-cellular',
+                              'domestic': [ '17 per 100 fixed-line, 116 per 100 mobile-cellular',
                                             'modern fiber-optic integrated services',
                                             'digital network with rapidly expanding mobile-cellular telephones',
-                                            2018],
+                                            2019],
                               'general': [ 'well-developed LTE networks, 5G trials tested and deployment in the near '
                                            'future',
                                            'mobile penetration is high compared to the region',
@@ -1170,7 +1170,7 @@ P1_CC2 = \
                                         'microwave radio relay to Saudi Arabia',
                                         'satellite earth station - 1',
                                         2019],
-                              'subs': {'bb': 184603, 'fix': 274733, 'internet': 1423039, 'mob': 2092714},
+                              'subs': {'bb': 184603, 'fix': 246603, 'internet': 1423039, 'mob': 1706763},
                               'tld': '.bh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bh'}},
           'mcc': ['426'],
@@ -1207,8 +1207,8 @@ P1_CC2 = \
                      'tel': { 'code': '257',
                               'domestic': [ 'telephone density one of the lowest in the world',
                                             'fixed-line connections stand at well less than 1 per 100 persons',
-                                            'mobile-cellular usage is 56 per 100 persons',
-                                            2018],
+                                            'mobile-cellular usage is 58 per 100 persons',
+                                            2019],
                               'general': [ 'with the great population density Burundi remains one of the most alluring '
                                            'telecom markets in Africa for investors',
                                            'the government in early 2018 began the Burundi Broadband project, which '
@@ -1224,7 +1224,7 @@ P1_CC2 = \
                                         'offering onward connectivity to submarine cable infrastructure landings in '
                                         'Kenya and Tanzania',
                                         2019],
-                              'subs': {'bb': 3935, 'fix': 24810, 'internet': 298684, 'mob': 6317965},
+                              'subs': {'bb': 3935, 'fix': 20758, 'internet': 298684, 'mob': 6644833},
                               'tld': '.bi',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bi'}},
           'mcc': ['642'],
@@ -1253,21 +1253,21 @@ P1_CC2 = \
                      'tel': { 'code': '229',
                               'domestic': [ 'fixed-line teledensity only about 1 per 100 persons',
                                             'spurred by the presence of multiple mobile-cellular providers, cellular '
-                                            'telephone subscribership has increased rapidly, exceeding 79 per 100 '
+                                            'telephone subscribership has increased rapidly, exceeding 88 per 100 '
                                             'persons',
-                                            2018],
+                                            2019],
                               'general': [ 'fixed-line network characterized by aging, deteriorating equipment',
                                            'mobile networks account for almost all Internet connections',
                                            'govt. to provide telecom services to 80% of the country, mostly via mobile '
                                            'infrastructure by restructuring state-owned telecom companies',
-                                           'Mobile Number Portability (MNP) is available',
+                                           '(mobile number portability) MNP is available',
                                            'Benin joins free roaming scheme',
                                            2019],
                               'intl': [ 'landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that '
                                         'provides connectivity to Europe, and most West African countries',
                                         'satellite earth stations - 7 (Intelsat-Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 27034, 'fix': 48508, 'internet': 2403596, 'mob': 9461872},
+                              'subs': {'bb': 27034, 'fix': 37305, 'internet': 2403596, 'mob': 10905559},
                               'tld': '.bj',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bj'}},
           'mcc': ['616'],
@@ -1329,9 +1329,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bd.html'},
                      'nameset': ['bermuda'],
                      'tel': { 'code': '1441',
-                              'domestic': [ 'the system has a high fixed-line teledensity 31 per 100, coupled with a '
-                                            'mobile-cellular teledensity of roughly 92 per 100 persons',
-                                            2018],
+                              'domestic': [ 'the system has a high fixed-line teledensity 35 per 100, coupled with a '
+                                            'mobile-cellular teledensity of roughly 103 per 100 persons',
+                                            2019],
                               'general': [ 'a good, fully automatic digital telephone system with fiber-optic trunk '
                                            'lines',
                                            'telecom sector provides a relatively high contribution to overall GDP',
@@ -1342,7 +1342,7 @@ P1_CC2 = \
                                         'cables to the Caribbean, South America and the US',
                                         'satellite earth stations - 3',
                                         2019],
-                              'subs': {'fix': 21883, 'internet': 70016, 'mob': 64997},
+                              'subs': {'fix': 24808, 'internet': 70016, 'mob': 73680},
                               'tld': '.bm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bm'}},
           'mcc': ['350'],
@@ -1384,8 +1384,8 @@ P1_CC2 = \
                                   'the nation of brunei, the abode of peace'],
                      'tel': { 'code': '673',
                               'domestic': [ 'every service available',
-                                            '18 per 100 fixed-line, 126 per 100 mobile-cellular',
-                                            2018],
+                                            '20 per 100 fixed-line, 129 per 100 mobile-cellular',
+                                            2019],
                               'general': [ 'service throughout the country is excellent',
                                            'international service is good to Southeast Asia, Middle East, Western '
                                            'Europe, and the US',
@@ -1401,7 +1401,7 @@ P1_CC2 = \
                                         'the Middle East, Southeast Asia, Africa, Australia, and the US',
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean)',
                                         2019],
-                              'subs': {'bb': 49452, 'fix': 82588, 'internet': 426234, 'mob': 565949},
+                              'subs': {'bb': 49452, 'fix': 91415, 'internet': 426234, 'mob': 588616},
                               'tld': '.bn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bn'}},
           'mcc': ['528'],
@@ -1438,7 +1438,7 @@ P1_CC2 = \
                                             'teledensity stands at 101 per 100 persons',
                                             'most telephones are concentrated in La Paz, Santa Cruz, and other capital '
                                             'cities',
-                                            2018],
+                                            2019],
                               'general': [ 'lowest GDP in the area',
                                            'much of the population live in remote valleys and telecommunications is '
                                            'poor',
@@ -1460,7 +1460,7 @@ P1_CC2 = \
                                         'links across neighboring countries',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 504097, 'fix': 711961, 'internet': 4955569, 'mob': 11445830},
+                              'subs': {'bb': 504097, 'fix': 719399, 'internet': 4955569, 'mob': 11567760},
                               'tld': '.bo',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bo'}},
           'mcc': ['736'],
@@ -1533,14 +1533,15 @@ P1_CC2 = \
                                   'the federative republic of brazil'],
                      'tel': { 'code': '55',
                               'domestic': [ 'fixed-line connections have remained relatively stable in recent years '
-                                            'and stand at about 18 per 100 persons',
+                                            'and stand at about 16 per 100 persons',
                                             'less-expensive mobile-cellular technology has been a major impetus '
                                             'broadening telephone service to the lower-income segments of the '
                                             'population with mobile-cellular teledensity roughly 99 per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'Brazil is one of the largest mobile and broadband markets in Latin America',
                                            '5G auction delayed due to interference issues',
-                                           'four major mobile operators offering a range of voice and data services',
+                                           'four major (mobile network operators) MNOs offering a range of voice and '
+                                           'data services',
                                            'broadband penetration only behind Chile, Argentina, and Uruguay',
                                            'country is a pioneer in the region for M-commerce (electronic commerce '
                                            'conducted on mobile phones)',
@@ -1556,7 +1557,7 @@ P1_CC2 = \
                                         'satellites is a major communication platform, as it is almost impossible to '
                                         'lay fiber optic cable in the thick vegetation',
                                         2019],
-                              'subs': {'bb': 31233004, 'fix': 38311930, 'internet': 140908998, 'mob': 207046810},
+                              'subs': {'bb': 31233004, 'fix': 33585164, 'internet': 140908998, 'mob': 207862093},
                               'tld': '.br',
                               'url_tld': 'https://en.wikipedia.org/wiki/.br'}},
           'mcc': ['724'],
@@ -1577,6 +1578,7 @@ P1_CC2 = \
                       '72417',
                       '72418',
                       '72419',
+                      '72421',
                       '72423',
                       '72424',
                       '72428',
@@ -1616,13 +1618,13 @@ P1_CC2 = \
                                   'the bahamas',
                                   'the commonwealth of the bahamas'],
                      'tel': { 'code': '1242',
-                              'domestic': ['34 per 100 fixed-line, 115 per 100 mobile-cellular', 2018],
+                              'domestic': ['23 per 100 fixed-line, 109 per 100 mobile-cellular', 2019],
                               'general': [ 'the telecom sector across the Caribbean continues to be a growth area, '
                                            "contributing to the country's overall GDP",
                                            'totally automatic system',
                                            'highly developed',
                                            'operators focus investment on mobile networks',
-                                           'the activation of Mobile Number Portability (MNP) in April 2017, allowing '
+                                           'the activation of (mobile number portability) MNP in April 2017, allowing '
                                            'mobile subscribers to port their numbers between competing MNO (mobile '
                                            'network operators) has contributed to the competition and liberalization '
                                            'of the market',
@@ -1633,7 +1635,7 @@ P1_CC2 = \
                                         'satellite earth stations - 2',
                                         'the Bahamas Domestic Submarine Network links all of the major islands',
                                         2019],
-                              'subs': {'bb': 87067, 'fix': 113455, 'internet': 282739, 'mob': 381591},
+                              'subs': {'bb': 87067, 'fix': 78439, 'internet': 282739, 'mob': 366217},
                               'tld': '.bs',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bs'}},
           'mcc': ['364'],
@@ -1658,9 +1660,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bt.html'},
                      'nameset': ['bhutan', 'druk gyalkhap', 'druk yul', 'kingdom of bhutan', 'the kingdom of bhutan'],
                      'tel': { 'code': '975',
-                              'domestic': [ '3 to 100 fixed-line, 92 to 100 mobile cellular',
+                              'domestic': [ '3 to 100 fixed-line, 96 to 100 mobile cellular',
                                             'domestic service inadequate, notably in rural areas',
-                                            2018],
+                                            2019],
                               'general': [ '4G platforms now gaining traction',
                                            '4G/WiMAX networks now cover well over half of the country',
                                            'fixed broadband penetration remains very low, due to the preeminence of '
@@ -1672,7 +1674,7 @@ P1_CC2 = \
                                         'relay through India',
                                         'satellite earth station - 1 Intelsat',
                                         2000],
-                              'subs': {'bb': 10802, 'fix': 22015, 'internet': 368714, 'mob': 703554},
+                              'subs': {'bb': 10802, 'fix': 21916, 'internet': 368714, 'mob': 740026},
                               'tld': '.bt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bt'}},
           'mcc': ['402'],
@@ -1716,9 +1718,9 @@ P1_CC2 = \
                      'tel': { 'code': '267',
                               'domestic': [ 'fixed-line teledensity has declined in recent years and now stands at '
                                             'roughly 6 telephones per 100 persons',
-                                            'mobile-cellular teledensity has advanced to 150 telephones per 100 '
+                                            'mobile-cellular teledensity has advanced to 174 telephones per 100 '
                                             'persons',
-                                            2018],
+                                            2019],
                               'general': [ 'the Botswana Telecommunications Corp is rolling out 4G service to over 95 '
                                            'sites in the country that will improve network connectivity',
                                            "an effective regulatory reform has turned the Botswana's telecom market "
@@ -1729,8 +1731,8 @@ P1_CC2 = \
                                            'mobile Internet remains the preferred choice',
                                            'the expansion of a fully digital system with fiber-optic cables along with '
                                            'a system of open-wire lines links the major population centers in the east',
-                                           'the use of multiple SIM cards has delayed the introduction of mobile '
-                                           'number portability (MNP)',
+                                           'the use of multiple SIM cards has delayed the introduction of (mobile '
+                                           'number portability) MNP',
                                            2020],
                               'intl': [ 'international calls are made via satellite, using international direct '
                                         'dialing',
@@ -1739,7 +1741,7 @@ P1_CC2 = \
                                         'Africa',
                                         'satellite earth station - 1 Intelsat (Indian Ocean)',
                                         2000],
-                              'subs': {'bb': 40044, 'fix': 142481, 'internet': 1057079, 'mob': 3381228},
+                              'subs': {'bb': 40044, 'fix': 139735, 'internet': 1057079, 'mob': 3968526},
                               'tld': '.bw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bw'}},
           'mcc': ['652'],
@@ -1774,9 +1776,9 @@ P1_CC2 = \
                                   'the republic of belarus'],
                      'tel': { 'code': '375',
                               'domestic': [ 'fixed-line teledensity is improving although rural areas continue to be '
-                                            'underserved, 47 per 100 fixed-line',
-                                            'mobile-cellular teledensity now approaches 122 telephones per 100 persons',
-                                            2018],
+                                            'underserved, 48 per 100 fixed-line',
+                                            'mobile-cellular teledensity now approaches 123 telephones per 100 persons',
+                                            2019],
                               'general': [ 'govt. and telecom regulator have plans to develop the telecom sector for '
                                            'the migration to 5G',
                                            'Chinese company Huawei have started 5G trials to deliver data at 2Gb/s',
@@ -1797,7 +1799,7 @@ P1_CC2 = \
                                         'Intelsat, Eutelsat, and Intersputnik earth stations',
                                         'almost 31,000 base stations in service in 2019',
                                         2020],
-                              'subs': {'bb': 3201519, 'fix': 4488821, 'internet': 7539145, 'mob': 11619651},
+                              'subs': {'bb': 3201519, 'fix': 4513255, 'internet': 7539145, 'mob': 11682764},
                               'tld': '.by',
                               'url_tld': 'https://en.wikipedia.org/wiki/.by'}},
           'mcc': ['257'],
@@ -1822,10 +1824,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bh.html'},
                      'nameset': ['belize'],
                      'tel': { 'code': '501',
-                              'domestic': [ '5 per 100 fixed-line and mobile-cellular teledensity approaching 85 per '
+                              'domestic': [ '5 per 100 fixed-line and mobile-cellular teledensity approaching 65 per '
                                             '100 persons',
                                             'mobile sector accounting for over 90% of all phone subscriptions',
-                                            2018],
+                                            2019],
                               'general': [ 'govt. telecom company, Belize Telemedia Ltd., continues to hold a monopoly '
                                            'in fixed-line services, mobile and broadband fixed-line teledensity',
                                            'it is a small market',
@@ -1838,7 +1840,7 @@ P1_CC2 = \
                                         'the Caribbean, and the US',
                                         'satellite earth station - 8 (Intelsat - 2, unknown - 6)',
                                         2019],
-                              'subs': {'bb': 24658, 'fix': 20869, 'internet': 181660, 'mob': 327629},
+                              'subs': {'bb': 24658, 'fix': 18617, 'internet': 181660, 'mob': 256479},
                               'tld': '.bz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bz'}},
           'mcc': ['702'],
@@ -1864,11 +1866,11 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ca.html'},
                      'nameset': ['canada'],
                      'tel': { 'code': '1',
-                              'domestic': [ '37 per 100 fixed-line',
-                                            '90 per 100 mobile-cellular',
+                              'domestic': [ '35 per 100 fixed-line',
+                                            '93 per 100 mobile-cellular',
                                             'comparatively low mobile penetration provides further room for growth',
                                             'domestic satellite system with about 300 earth stations',
-                                            2018],
+                                            2019],
                               'general': [ 'excellent service provided by first-rate technology',
                                            'offers 99% coverage with LTE',
                                            'consumer demand for mobile data services have prompted telecom companies '
@@ -1885,7 +1887,7 @@ P1_CC2 = \
                                         'satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific '
                                         'Ocean, and 2 Intersputnik - Atlantic Ocean region)',
                                         2019],
-                              'subs': {'bb': 14445606, 'fix': 13842000, 'internet': 33743954, 'mob': 33211401},
+                              'subs': {'bb': 14445606, 'fix': 13258721, 'internet': 33743954, 'mob': 34597559},
                               'tld': '.ca',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ca'}},
           'mcc': ['302'],
@@ -2041,8 +2043,8 @@ P1_CC2 = \
                      'tel': { 'code': '243',
                               'domestic': [ 'fixed-line connections less than 1 per 100 persons',
                                             'given the backdrop of a wholly inadequate fixed-line infrastructure, the '
-                                            'use of mobile-cellular services is over 38 per 100 persons',
-                                            2018],
+                                            'use of mobile-cellular services is over 43 per 100 persons',
+                                            2019],
                               'general': [ 'poorly developed national and international infrastructure',
                                            'bandwidth is limited',
                                            'Internet pricing is expensive',
@@ -2055,7 +2057,7 @@ P1_CC2 = \
                               'intl': [ 'ACE and WACS submarine cables to West and South Africa and Europe',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 4620, 'internet': 8231357, 'mob': 36470600},
+                              'subs': {'bb': 4620, 'internet': 8231357, 'mob': 42166976},
                               'tld': '.cd',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cd'}},
           'mcc': ['630'],
@@ -2091,18 +2093,18 @@ P1_CC2 = \
                               'domestic': [ 'very limited telephone service with less than 1 fixed-line connection per '
                                             '100 persons',
                                             'with the presence of multiple providers mobile-cellular service has '
-                                            'reached 22 per 100 mobile-cellular subscribers',
+                                            'reached 33 per 100 mobile-cellular subscribers',
                                             'cellular usage is increasing from a low base',
                                             'most fixed-line and mobile-cellular telephone services are concentrated '
                                             'in Bangui',
-                                            2018],
+                                            2019],
                               'general': [ 'network consists principally of microwave radio relay and at low-capacity',
                                            'ongoing conflict has obstructed telecommunication and media development, '
                                            'although there are ISP (Internet service providers) and mobile phone '
                                            'carriers, radio is the most-popular communications medium',
                                            2018],
                               'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 2000],
-                              'subs': {'bb': 608, 'fix': 2193, 'internet': 249336, 'mob': 1279261},
+                              'subs': {'bb': 608, 'fix': 2934, 'internet': 249336, 'mob': 1892114},
                               'tld': '.cf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cf'}},
           'mcc': ['623'],
@@ -2141,8 +2143,8 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line infrastructure inadequate, providing less than 1 fixed-line '
                                             'connection per 100 persons',
                                             'in the absence of an adequate fixed-line infrastructure, mobile-cellular '
-                                            'subscribership has surged to 99 per 100 persons',
-                                            2018],
+                                            'subscribership has surged to 95 per 100 persons',
+                                            2019],
                               'general': [ 'primary network consists of microwave radio relay and coaxial cable with '
                                            'services barely adequate for government use',
                                            'key exchanges are in Brazzaville, Pointe-Noire, and Loubomo',
@@ -2154,7 +2156,7 @@ P1_CC2 = \
                               'intl': [ 'WACS submarine cables to Europe and Western and South Africa',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'fix': 17000, 'internet': 437865, 'mob': 5000000},
+                              'subs': {'fix': 17076, 'internet': 437865, 'mob': 4933529},
                               'tld': '.cg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cg'}},
           'mcc': ['629'],
@@ -2193,10 +2195,10 @@ P1_CC2 = \
                      'tel': { 'code': '41',
                               'domestic': [ 'ranked among leading countries for fixed-line teledensity and '
                                             'infrastructure',
-                                            'fixed-line 40 per 100 and mobile-cellular subscribership 130 per 100 '
+                                            'fixed-line 36 per 100 and mobile-cellular subscribership 127 per 100 '
                                             'persons',
                                             'extensive cable and microwave radio relay networks',
-                                            2018],
+                                            2019],
                               'general': [ 'highly developed telecommunications infrastructure with extensive domestic '
                                            'and international services',
                                            'one of the highest broadband penetration rates in Europe',
@@ -2213,7 +2215,7 @@ P1_CC2 = \
                                            'regulator auction of 5G spectrum',
                                            2020],
                               'intl': ['satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean)', 2000],
-                              'subs': {'bb': 3957669, 'fix': 3302836, 'internet': 7437820, 'mob': 10808148},
+                              'subs': {'bb': 3957669, 'fix': 3012224, 'internet': 7437820, 'mob': 10618759},
                               'tld': '.ch',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ch'}},
           'mcc': ['228'],
@@ -2281,9 +2283,9 @@ P1_CC2 = \
                                   "the republic of côte d'ivoire"],
                      'tel': { 'code': '225',
                               'domestic': [ 'less than 1 per 100 fixed-line, with multiple mobile-cellular service '
-                                            'providers competing in the market, usage has increased to about 129 per '
+                                            'providers competing in the market, usage has increased to about 145 per '
                                             '100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'strongest sector in the overall market is the mobile sector',
                                            'fixed internet and broadband sectors have remained underdeveloped',
                                            'country 90% digitalized',
@@ -2299,7 +2301,7 @@ P1_CC2 = \
                                         'Africa',
                                         'satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)',
                                         2019],
-                              'subs': {'bb': 175918, 'fix': 302398, 'internet': 12295204, 'mob': 33807850},
+                              'subs': {'bb': 175918, 'fix': 284799, 'internet': 12295204, 'mob': 39049743},
                               'tld': '.ci',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ci'}},
           'mcc': ['612'],
@@ -2326,8 +2328,8 @@ P1_CC2 = \
                      'tel': { 'code': '682',
                               'domestic': [ 'service is provided by small exchanges connected to subscribers by '
                                             'open-wire, cable, and fiber-optic cable',
-                                            '75 per 100 fixed-line, 105 per 100 mobile-cellular',
-                                            2018],
+                                            '38 per 100 fixed-line, 83 per 100 mobile-cellular',
+                                            2019],
                               'general': [ 'demand for mobile broadband is increasing due to mobile services being the '
                                            'primary and most wide-spread source for Internet access across the region',
                                            'Telecom Cook Islands offers international direct dialing, Internet, email, '
@@ -2341,7 +2343,7 @@ P1_CC2 = \
                                         'submarine fiber-optic networks are expensive to build and maintain',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'fix': 7800, 'internet': 4881, 'mob': 11000},
+                              'subs': {'fix': 3305, 'internet': 4881, 'mob': 7308},
                               'tld': '.ck',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ck'}},
           'mcc': ['548'],
@@ -2370,11 +2372,11 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ci.html'},
                      'nameset': ['chile', 'republic of chile', 'republica de chile', 'the republic of chile'],
                      'tel': { 'code': '56',
-                              'domestic': [ 'number of fixed-line connections have stagnated to 17 per 100 in recent '
-                                            'years as mobile-cellular usage continues to increase, reaching 140 '
+                              'domestic': [ 'number of fixed-line connections have stagnated to 15 per 100 in recent '
+                                            'years as mobile-cellular usage continues to increase, reaching 132 '
                                             'telephones per 100 persons',
                                             'domestic satellite system with 3 earth stations',
-                                            2018],
+                                            2019],
                               'general': [ 'most advanced telecommunications infrastructure in South America',
                                            'although Chile has one of the highest mobile penetration rates in the '
                                            'region, the number of subscribers has fallen due to subscribers ending '
@@ -2392,7 +2394,7 @@ P1_CC2 = \
                                         'cables providing links to the US, Caribbean and to Central and South America',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 3250678, 'fix': 2997192, 'internet': 14757868, 'mob': 25178981},
+                              'subs': {'bb': 3250678, 'fix': 2620195, 'internet': 14757868, 'mob': 23870679},
                               'tld': '.cl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cl'}},
           'mcc': ['730'],
@@ -2453,10 +2455,10 @@ P1_CC2 = \
                                   'republique du cameroun/republic of cameroon',
                                   'the republic of cameroon'],
                      'tel': { 'code': '237',
-                              'domestic': [ 'only about 3 per 100 persons for fixed-line subscriptions',
+                              'domestic': [ 'only about 4 per 100 persons for fixed-line subscriptions',
                                             'mobile-cellular usage has increased sharply, reaching a subscribership '
-                                            'base of over 70 per 100 persons',
-                                            2018],
+                                            'base of over 82 per 100 persons',
+                                            2019],
                               'general': [ '3G service and LTE service both developing given growing competition, '
                                            'along with a fast-developing mobile broadband sector',
                                            "govt. supportive of launching programs who's aim is to improve connections "
@@ -2469,7 +2471,7 @@ P1_CC2 = \
                                         'America, and West Africa',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 17987, 'fix': 902253, 'internet': 6089200, 'mob': 18455836},
+                              'subs': {'bb': 17987, 'fix': 966035, 'internet': 6089200, 'mob': 22062303},
                               'tld': '.cm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cm'}},
           'mcc': ['624'],
@@ -2518,10 +2520,10 @@ P1_CC2 = \
                                   'zhongguo',
                                   'zhonghua renmin gongheguo'],
                      'tel': { 'code': '86',
-                              'domestic': [ '14 per 100 fixed line and 119 per 100 mobile-cellular',
+                              'domestic': [ '13 per 100 fixed line and 120 per 100 mobile-cellular',
                                             'a domestic satellite system with several earth stations has been in place '
                                             'since 2018',
-                                            2018],
+                                            2019],
                               'general': [ 'the largest Internet market in the world, with the majority, 98.6% of '
                                            'users accessing the Internet through mobile devices',
                                            'moderate growth is predicted over the next five years in the fixed '
@@ -2540,7 +2542,7 @@ P1_CC2 = \
                                         '1 Intersputnik - Indian Ocean region',
                                         'and 1 Inmarsat - Pacific and Indian Ocean regions)',
                                         2019],
-                              'subs': {'bb': 407382000, 'fix': 192085000, 'internet': 751886119, 'mob': 1649301700},
+                              'subs': {'bb': 407382000, 'fix': 185097221, 'internet': 751886119, 'mob': 1672545161},
                               'tld': '.cn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cn'}},
           'mcc': ['460', '461'],
@@ -2579,12 +2581,12 @@ P1_CC2 = \
                                   'the republic of colombia'],
                      'tel': { 'code': '57',
                               'domestic': [ 'fixed-line connections stand at about 14 per 100 persons',
-                                            'mobile cellular telephone subscribership is about 134 per 100 persons',
+                                            'mobile cellular telephone subscribership is about 132 per 100 persons',
                                             'competition among cellular service providers is resulting in falling '
                                             'local and international calling rates and contributing to the steep '
                                             'decline in the market share of fixed-line services',
                                             'domestic satellite system with 41 earth stations',
-                                            2018],
+                                            2019],
                               'general': [ 'fastest growing sector is mobile broadband with LTE infrastructure and '
                                            'investment in 5G',
                                            'strong demand in rural areas for mobile broadband, potential is high while '
@@ -2604,7 +2606,7 @@ P1_CC2 = \
                                         'satellite earth stations - 10 (6 Intelsat, 1 Inmarsat, 3 fully digitalized '
                                         'international switching centers)',
                                         2019],
-                              'subs': {'bb': 6678543, 'fix': 6973573, 'internet': 29990017, 'mob': 64513977},
+                              'subs': {'bb': 6678543, 'fix': 6774363, 'internet': 29990017, 'mob': 64033049},
                               'tld': '.co',
                               'url_tld': 'https://en.wikipedia.org/wiki/.co'}},
           'mcc': ['732'],
@@ -2631,6 +2633,7 @@ P1_CC2 = \
                       '732220',
                       '732230',
                       '732240',
+                      '732360',
                       '732666'],
           'msisdn': ['57'],
           'name': 'Colombia',
@@ -2655,11 +2658,11 @@ P1_CC2 = \
                                   'republica de costa rica',
                                   'the republic of costa rica'],
                      'tel': { 'code': '506',
-                              'domestic': [ '16 per 100 fixed-line, 170 per 100 mobile-cellular',
+                              'domestic': [ '13 per 100 fixed-line, 162 per 100 mobile-cellular',
                                             'point-to-point and point-to-multi-point microwave, fiber-optic, and '
                                             'coaxial cable link rural areas',
                                             'Internet service is available',
-                                            2018],
+                                            2019],
                               'general': [ 'good domestic telephone service in terms of breadth of coverage',
                                            'in recent years growth has been achieved from liberalization of the '
                                            'telecom sector and has seen substantial expansion in all sectors',
@@ -2675,7 +2678,7 @@ P1_CC2 = \
                                         'connected to Central American Microwave System',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 834784, 'fix': 774303, 'internet': 3694974, 'mob': 8495585},
+                              'subs': {'bb': 834784, 'fix': 630386, 'internet': 3694974, 'mob': 8163744},
                               'tld': '.cr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cr'}},
           'mcc': ['712'],
@@ -2710,8 +2713,8 @@ P1_CC2 = \
                      'nameset': ['cuba', 'republic of cuba', 'republica de cuba', 'the republic of cuba'],
                      'tel': { 'code': '53',
                               'domestic': [ 'fixed-line density remains low at about 13 per 100 inhabitants',
-                                            'mobile-cellular service is expanding to about 48 per 100 persons',
-                                            2018],
+                                            'mobile-cellular service is expanding to about 53 per 100 persons',
+                                            2019],
                               'general': [ 'lowest mobile phone and Internet penetration rates in the region, '
                                            'fixed-line teledensity is also low',
                                            'fixed-line and mobile services run by the state-run ETESCA',
@@ -2726,7 +2729,7 @@ P1_CC2 = \
                                         'Jamaica, and Venezuela',
                                         'satellite earth station - 1 Intersputnik (Atlantic Ocean region)',
                                         2019],
-                              'subs': {'bb': 98838, 'fix': 1444480, 'internet': 6353020, 'mob': 5373316},
+                              'subs': {'bb': 98838, 'fix': 1475679, 'internet': 6353020, 'mob': 5911586},
                               'tld': '.cu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cu'}},
           'mcc': ['368'],
@@ -2756,12 +2759,12 @@ P1_CC2 = \
                                   'republica de cabo verde',
                                   'the republic of cabo verde'],
                      'tel': { 'code': '238',
-                              'domestic': [ '11 per 100 fixed-line and 107 per 100 mobile-cellular',
+                              'domestic': [ '11 per 100 fixed-line and 108 per 100 mobile-cellular',
                                             'fiber-optic ring, completed in 2001, links all islands providing Internet '
                                             'access and ISDN services',
                                             'cellular service introduced in 1998',
                                             'broadband services launched early in the decade',
-                                            2018],
+                                            2019],
                               'general': [ 'LTE reaches almost 40% of the population',
                                            'regulator awards commercial 4G licenses and starts 5G pilot',
                                            'govt. extends USD 25 million for submarine fiber-optic cable project '
@@ -2774,7 +2777,7 @@ P1_CC2 = \
                                         'HF radiotelephone to Senegal and Guinea-Bissau',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 15657, 'fix': 62680, 'internet': 330623, 'mob': 610328},
+                              'subs': {'bb': 15657, 'fix': 60233, 'internet': 330623, 'mob': 623749},
                               'tld': '.cv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cv'}},
           'mcc': ['625'],
@@ -2805,7 +2808,7 @@ P1_CC2 = \
                                   'land curacao',
                                   'land curacao (dutch); pais korsou (papiamento)',
                                   'the country of curaçao'],
-                     'tel': { 'domestic': [ '39 per 100 users for fixed-line and 124 per 100 users for '
+                     'tel': { 'domestic': [ '39 per 100 users for fixed-line and 116 per 100 users for '
                                             'cellular-mobile, majority of the islanders have Internet',
                                             'market revenue has been affected in recent quarters as a result of '
                                             'competition and regulatory measures on termination rates and roaming '
@@ -2821,7 +2824,7 @@ P1_CC2 = \
                               'intl': [ 'country code - +599, PCCS submarine cable system to US, Caribbean and Central '
                                         'and South America',
                                         2019],
-                              'subs': {'bb': 51836, 'fix': 58805, 'internet': 102359, 'mob': 186390},
+                              'subs': {'bb': 51836, 'fix': 57443, 'internet': 102359, 'mob': 174260},
                               'tld': '.cw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cw'}},
           'mcc': ['362'],
@@ -2903,9 +2906,9 @@ P1_CC2 = \
                                   'republic of cyprus',
                                   'the republic of cyprus'],
                      'tel': { 'code': '357',
-                              'domestic': [ 'fixed-line is 25 per 100, and 97 per 100 for mobile-cellular',
+                              'domestic': [ 'fixed-line is 37 per 100, and 144 per 100 for mobile-cellular',
                                             'open-wire, fiber-optic cable, and microwave radio relay',
-                                            2018],
+                                            2019],
                               'general': [ 'broadband market steadily developing with one of the highest penetrations '
                                            'rates in the region',
                                            "despite the growth of Cyprus's telecom sector, the market overall "
@@ -2930,7 +2933,7 @@ P1_CC2 = \
                                         'satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian '
                                         'Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat)',
                                         2019],
-                              'subs': {'bb': 313462, 'fix': 311559, 'internet': 1044473, 'mob': 1200378},
+                              'subs': {'bb': 313462, 'fix': 469305, 'internet': 1044473, 'mob': 1801213},
                               'tld': '.cy',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cy'}},
           'mcc': ['280'],
@@ -2956,10 +2959,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ez.html'},
                      'nameset': ['ceska republika', 'cesko', 'czech republic', 'czechia', 'the czech republic'],
                      'tel': { 'code': '420',
-                              'domestic': [ '14 per 100 fixed-line and mobile telephone usage increased to 119 per 100 '
+                              'domestic': [ '14 per 100 fixed-line and mobile telephone usage increased to 124 per 100 '
                                             'mobile-cellular, the number of cellular telephone subscriptions now '
                                             'greatly exceeds the population',
-                                            2018],
+                                            2019],
                               'general': [ 'good telephone and Internet service',
                                            'the Czech Republic has a sophisticated telecom market',
                                            'mobile sector showing steady growth, but perhaps without enough '
@@ -2973,7 +2976,7 @@ P1_CC2 = \
                               'intl': [ 'satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean '
                                         'regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar)',
                                         2019],
-                              'subs': {'bb': 3222835, 'fix': 1511942, 'internet': 8622750, 'mob': 12704262},
+                              'subs': {'bb': 3222835, 'fix': 1473846, 'internet': 8622750, 'mob': 13213279},
                               'tld': '.cz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cz'}},
           'mcc': ['230'],
@@ -3018,8 +3021,8 @@ P1_CC2 = \
                                             'a domestic satellite system',
                                             'cellular telephone service is widely available, expanding rapidly, and '
                                             'includes roaming service to many foreign countries',
-                                            '53 per 100 for fixed-line and 134 per 100 for mobile-cellular',
-                                            2018],
+                                            '48 per 100 for fixed-line and 128 per 100 for mobile-cellular',
+                                            2019],
                               'general': [ "one of the world's most technologically advanced telecommunications "
                                            'systems',
                                            'as a result of intensive capital expenditures since reunification, the '
@@ -3039,7 +3042,7 @@ P1_CC2 = \
                                         'as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and '
                                         'Intersputnik satellite systems',
                                         2019],
-                              'subs': {'bb': 34174900, 'fix': 42500000, 'internet': 72202773, 'mob': 107500000},
+                              'subs': {'bb': 34174900, 'fix': 38847530, 'internet': 72202773, 'mob': 103090116},
                               'tld': '.de',
                               'url_tld': 'https://en.wikipedia.org/wiki/.de'}},
           'mcc': ['262'],
@@ -3107,7 +3110,7 @@ P1_CC2 = \
                                   'republique de djibouti/jumhuriyat jibuti',
                                   'the republic of djibouti'],
                      'tel': { 'code': '253',
-                              'domestic': [ '4 per 100 fixed-line and 45 per 100 mobile-cellular',
+                              'domestic': [ '4 per 100 fixed-line and 41 per 100 mobile-cellular',
                                             'Djibouti Telecom (DT) is the sole provider of telecommunications services '
                                             'and utilizes mostly a microwave radio relay network',
                                             'fiber-optic cable is installed in the capital',
@@ -3131,7 +3134,7 @@ P1_CC2 = \
                                         'Southeast Asia, Australia and Africa',
                                         'satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat)',
                                         2019],
-                              'subs': {'bb': 25508, 'fix': 36855, 'internet': 492221, 'mob': 395037},
+                              'subs': {'bb': 25508, 'fix': 34671, 'internet': 492221, 'mob': 371992},
                               'tld': '.dj',
                               'url_tld': 'https://en.wikipedia.org/wiki/.dj'}},
           'mcc': ['638'],
@@ -3161,7 +3164,7 @@ P1_CC2 = \
                                   'kongeriget danmark',
                                   'the kingdom of denmark'],
                      'tel': { 'code': '45',
-                              'domestic': ['fixed-line 19 per 100, 124 per 100 for mobile-cellular', 2018],
+                              'domestic': ['fixed-line 17 per 100, 126 per 100 for mobile-cellular', 2019],
                               'general': [ 'excellent telephone and Internet services',
                                            "Denmark's competitive telecom market has led to the country having the "
                                            'second highest broadband penetration rate in Europe',
@@ -3185,7 +3188,7 @@ P1_CC2 = \
                                         'share the Danish earth station and the Eik, Norway, station for worldwide '
                                         'Inmarsat access',
                                         2019],
-                              'subs': {'bb': 2534348, 'fix': 1131064, 'internet': 5672398, 'mob': 7197000},
+                              'subs': {'bb': 2534348, 'fix': 1017009, 'internet': 5672398, 'mob': 7331110},
                               'tld': '.dk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.dk'}},
           'mcc': ['238'],
@@ -3241,9 +3244,9 @@ P1_CC2 = \
                      'tel': { 'code': '1767',
                               'domestic': [ 'fixed-line connections continue to decline slowly with only two active '
                                             'operators providing about 4 fixed-line connections per 100 persons',
-                                            'subscribership among the three mobile-cellular providers is about 102 per '
+                                            'subscribership among the three mobile-cellular providers is about 106 per '
                                             '100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'fully automatic network',
                                            'there are multiple competing operators licensed to provide services, most '
                                            'of them are small and localized',
@@ -3257,7 +3260,7 @@ P1_CC2 = \
                                         'Guadeloupe',
                                         'VHF and UHF radiotelephone links to Saint Lucia',
                                         2019],
-                              'subs': {'bb': 11514, 'fix': 2660, 'internet': 51538, 'mob': 75771},
+                              'subs': {'bb': 11514, 'fix': 2751, 'internet': 51538, 'mob': 78437},
                               'tld': '.dm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.dm'}},
           'mcc': ['366'],
@@ -3287,10 +3290,10 @@ P1_CC2 = \
                                   'the dominican',
                                   'the dominican republic'],
                      'tel': { 'code': '1809',
-                              'domestic': [ 'fixed-line teledensity is about 12 per 100 persons',
-                                            'multiple providers of mobile-cellular service with a subscribership of 82 '
+                              'domestic': [ 'fixed-line teledensity is about 11 per 100 persons',
+                                            'multiple providers of mobile-cellular service with a subscribership of 83 '
                                             'per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'there are multiple operators licensed to provide services, most of them '
                                            'are small and localized',
                                            'the telecom sector across the Caribbean region remains one of the key '
@@ -3307,7 +3310,7 @@ P1_CC2 = \
                                         'Central America, parts of the Caribbean, and US',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 794788, 'fix': 1277247, 'internet': 7705529, 'mob': 8937647},
+                              'subs': {'bb': 794788, 'fix': 1172083, 'internet': 7705529, 'mob': 8665302},
                               'tld': '.do',
                               'url_tld': 'https://en.wikipedia.org/wiki/.do'}},
           'mcc': ['370'],
@@ -3345,11 +3348,11 @@ P1_CC2 = \
                                   "people's democratic republic of algeria",
                                   "the people's democratic republic of algeria"],
                      'tel': { 'code': '213',
-                              'domestic': [ 'a limited network of fixed-lines with a teledensity of less than 10 '
+                              'domestic': [ 'a limited network of fixed-lines with a teledensity of less than 11 '
                                             'telephones per 100 persons has been offset by the rapid increase in '
                                             'mobile-cellular subscribership',
-                                            'mobile-cellular teledensity was roughly 113 telephones per 100 persons',
-                                            2018],
+                                            'mobile-cellular teledensity was roughly 109 telephones per 100 persons',
+                                            2019],
                               'general': [ "improved international connectivity and privatization of Algeria's "
                                            'telecommunications sector began in 2000',
                                            'three mobile-cellular licenses have been issued',
@@ -3372,7 +3375,7 @@ P1_CC2 = \
                                         'connects to other fiber networks in the region',
                                         'Alcomstat-1 satellite offering telemedicine network',
                                         2020],
-                              'subs': {'bb': 3067022, 'fix': 4200919, 'internet': 24819531, 'mob': 47154264},
+                              'subs': {'bb': 3067022, 'fix': 4558502, 'internet': 24819531, 'mob': 46287629},
                               'tld': '.dz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.dz'}},
           'mcc': ['603'],
@@ -3400,10 +3403,10 @@ P1_CC2 = \
                      'tel': { 'code': '593',
                               'domestic': [ 'fixed-line services with digital networks provided by multiple '
                                             'telecommunications operators',
-                                            'fixed-line teledensity stands at about 14 per 100 persons and '
-                                            'mobile-cellular use has surged and subscribership has reached 96 per 100 '
+                                            'fixed-line teledensity stands at about 13 per 100 persons and '
+                                            'mobile-cellular use has surged and subscribership has reached 91 per 100 '
                                             'persons',
-                                            2018],
+                                            2019],
                               'general': [ "much of the country's fixed-line structure is influenced by topographical "
                                            'challenges associated with the Andes Mountains',
                                            'Ecuador has a small telecom market with a dominant mobile sector',
@@ -3416,7 +3419,7 @@ P1_CC2 = \
                                         'and extending onward to the Caribbean and the US',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 1953607, 'fix': 2360581, 'internet': 9448692, 'mob': 15772838},
+                              'subs': {'bb': 1953607, 'fix': 2111291, 'internet': 9448692, 'mob': 15241719},
                               'tld': '.ec',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ec'}},
           'mcc': ['740'],
@@ -3446,7 +3449,7 @@ P1_CC2 = \
                                   'republic of estonia',
                                   'the republic of estonia'],
                      'tel': { 'code': '372',
-                              'domestic': [ '28 per 100 for fixed-line and 155 per 100 for mobile-cellular',
+                              'domestic': [ '25 per 100 for fixed-line and 147 per 100 for mobile-cellular',
                                             'substantial fiber-optic cable systems carry telephone, TV, and radio '
                                             'traffic in the digital mode',
                                             'Internet services are widely available',
@@ -3455,7 +3458,7 @@ P1_CC2 = \
                                             'local and parliamentary elections - has climbed steadily since first '
                                             'being introduced in 2005',
                                             'a large percent of Estonian households have broadband access',
-                                            2018],
+                                            2019],
                               'general': [ 'a range of regulatory measures, competition and foreign investment in the '
                                            'form of joint business ventures has greatly improved telephone service '
                                            'with a wide range of high-quality voice, data, and Internet services',
@@ -3469,7 +3472,7 @@ P1_CC2 = \
                                         'Sweden',
                                         '2 international switches are located in Tallinn',
                                         2019],
-                              'subs': {'bb': 441167, 'fix': 345690, 'internet': 1111896, 'mob': 1924034},
+                              'subs': {'bb': 441167, 'fix': 302606, 'internet': 1111896, 'mob': 1820088},
                               'tld': '.ee',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ee'}},
           'mcc': ['248'],
@@ -3521,7 +3524,7 @@ P1_CC2 = \
                                   'misr',
                                   'the arab republic of egypt'],
                      'tel': { 'code': '20',
-                              'domestic': ['fixed-line 8 per 100, mobile-cellular 94 per 100', 2018],
+                              'domestic': ['fixed-line 9 per 100, mobile-cellular 95 per 100', 2019],
                               'general': [ 'one of the biggest fixed-line systems in Africa and the Arab region',
                                            'one of the largest mobile telecom markets in North Africa',
                                            'penetration rate of about 94%',
@@ -3539,7 +3542,7 @@ P1_CC2 = \
                                         'microwave radio relay to Israel',
                                         'a participant in Medarabtel',
                                         2019],
-                              'subs': {'bb': 6579762, 'fix': 7865286, 'internet': 46644728, 'mob': 93784497},
+                              'subs': {'bb': 6579762, 'fix': 8885103, 'internet': 46644728, 'mob': 96657295},
                               'tld': '.eg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.eg'}},
           'mcc': ['602'],
@@ -3593,9 +3596,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_er.html'},
                      'nameset': ['eritrea', 'ertra', 'hagere ertra', 'state of eritrea', 'the state of eritrea'],
                      'tel': { 'code': '291',
-                              'domestic': [ 'fixed-line subscribership is less than 1 per 100 person and '
-                                            'mobile-cellular 9 per 100',
-                                            2018],
+                              'domestic': [ 'fixed-line subscribership is less than 2 per 100 person and '
+                                            'mobile-cellular 20 per 100',
+                                            2019],
                               'general': [ 'woefully inadequate service provided by state-owned telecom monopoly',
                                            'most fixed-line telephones are in Asmara',
                                            'cell phone use is limited by government control of SIM card issuance',
@@ -3608,7 +3611,7 @@ P1_CC2 = \
                                            'in 2019 11% mobile penetration',
                                            2020],
                               'intl': [2019],
-                              'subs': {'bb': 600, 'fix': 66086, 'internet': 78215, 'mob': 506000},
+                              'subs': {'bb': 600, 'fix': 116882, 'internet': 78215, 'mob': 1226660},
                               'tld': '.er',
                               'url_tld': 'https://en.wikipedia.org/wiki/.er'}},
           'mcc': ['657'],
@@ -3643,8 +3646,8 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sp.html'},
                      'nameset': ['espana', 'kingdom of spain', 'reino de espana', 'spain', 'the kingdom of spain'],
                      'tel': { 'code': '34',
-                              'domestic': [ 'fixed-line 39 per 100 and mobile-cellular 110 telephones per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line 42 per 100 and mobile-cellular 118 telephones per 100 persons',
+                                            2019],
                               'general': [ 'well-developed, one of the largest telecom markets in Europe, average '
                                            'mobile penetration for Europe',
                                            'LTE universal',
@@ -3661,7 +3664,7 @@ P1_CC2 = \
                                         'NA Eutelsat',
                                         'tropospheric scatter to adjacent countries',
                                         2019],
-                              'subs': {'bb': 15176954, 'fix': 19484361, 'internet': 42478990, 'mob': 54161014},
+                              'subs': {'bb': 15176954, 'fix': 21065700, 'internet': 42478990, 'mob': 58750448},
                               'tld': '.es',
                               'url_tld': 'https://en.wikipedia.org/wiki/.es'}},
           'mcc': ['214'],
@@ -3734,10 +3737,10 @@ P1_CC2 = \
                                   "ityop'iya federalawi demokrasiyawi ripeblik",
                                   'the federal democratic republic of ethiopia'],
                      'tel': { 'code': '251',
-                              'domestic': [ 'fixed-line subscriptions at 1 per 100 while mobile-cellular stands at 59 '
+                              'domestic': [ 'fixed-line subscriptions at 1 per 100 while mobile-cellular stands at 36 '
                                             'per 100',
                                             'the number of mobile telephones is increasing steadily',
-                                            2018],
+                                            2019],
                               'general': [ 'Ethio Telecom maintained a monopoly over telecommunication services until '
                                            'recently and is now part-private',
                                            'new expansion of LTE services',
@@ -3753,7 +3756,7 @@ P1_CC2 = \
                                         '2 domestic satellites provide the national trunk service',
                                         'satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean)',
                                         2016],
-                              'subs': {'bb': 580120, 'fix': 1181000, 'internet': 19118470, 'mob': 62617000},
+                              'subs': {'bb': 580120, 'fix': 1095946, 'internet': 19118470, 'mob': 38147361},
                               'tld': '.et',
                               'url_tld': 'https://en.wikipedia.org/wiki/.et'}},
           'mcc': ['636'],
@@ -3791,7 +3794,7 @@ P1_CC2 = \
                                   'suomi/finland',
                                   'the republic of finland'],
                      'tel': { 'code': '358',
-                              'domestic': ['fixed-line 6 per 100 subscription and 129 per 100 mobile-cellular', 2018],
+                              'domestic': ['fixed-line 5 per 100 subscription and 129 per 100 mobile-cellular', 2019],
                               'general': [ 'excellent service',
                                            'one of the most progressive in Europe',
                                            'one of the highest broadband and mobile penetrations rates in the region',
@@ -3810,7 +3813,7 @@ P1_CC2 = \
                                         'note - Finland shares the Inmarsat earth station with the other Nordic '
                                         'countries (Denmark, Iceland, Norway, and Sweden)',
                                         2019],
-                              'subs': {'bb': 1737000, 'fix': 323000, 'internet': 4922163, 'mob': 7150000},
+                              'subs': {'bb': 1737000, 'fix': 269980, 'internet': 4922163, 'mob': 7179481},
                               'tld': '.fi',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fi'}},
           'mcc': ['244'],
@@ -3897,9 +3900,9 @@ P1_CC2 = \
                                   'republic of fiji/matanitu ko viti',
                                   'the republic of fiji'],
                      'tel': { 'code': '679',
-                              'domestic': [ 'fixed-line 8 per 100 persons and mobile-cellular teledensity roughly 112 '
+                              'domestic': [ 'fixed-line 9 per 100 persons and mobile-cellular teledensity roughly 118 '
                                             'per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'local, interisland, and international telecommunications',
                                            'subject to occasional devastating cyclones',
                                            'Fiji is a leader in the Pacific region in terms of development of its ICT '
@@ -3916,7 +3919,7 @@ P1_CC2 = \
                                         'Samoa',
                                         'satellite earth stations - 2 Inmarsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'bb': 13033, 'fix': 76522, 'internet': 462860, 'mob': 1033915},
+                              'subs': {'bb': 13033, 'fix': 80650, 'internet': 462860, 'mob': 1097345},
                               'tld': '.fj',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fj'}},
           'mcc': ['542'],
@@ -3942,7 +3945,7 @@ P1_CC2 = \
                      'nameset': ['falkland islands', 'falkland islands (islas malvinas)', 'the falkland islands'],
                      'tel': { 'code': '500',
                               'domestic': [ 'fixed-line subscriptions 77 per 100, 146 per 100 for mobile-cellular',
-                                            2015],
+                                            2019],
                               'general': [ 'government-operated radiotelephone and private VHF/CB radiotelephone '
                                            'networks provide effective service to almost all points on both islands',
                                            2000],
@@ -3978,7 +3981,8 @@ P1_CC2 = \
                               'domestic': [ 'islands interconnected by shortwave radiotelephone, satellite (Intelsat) '
                                             'ground stations, and some coaxial and fiber-optic cable',
                                             'mobile-cellular service available on the major islands',
-                                            2016],
+                                            'fixed line teledensity 6 per 100 and mobile-cellular 21 per 100',
+                                            2019],
                               'general': [ 'adequate system, the demand for mobile broadband is increasing due to '
                                            'mobile services being the primary and most wide-spread source for Internet '
                                            'access across the region',
@@ -3987,7 +3991,7 @@ P1_CC2 = \
                                         'system linking the Federated States of Micronesia and the US',
                                         'satellite earth stations - 5 Intelsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'bb': 3776, 'fix': 6947, 'internet': 36586, 'mob': 23114},
+                              'subs': {'bb': 3776, 'fix': 6420, 'internet': 36586, 'mob': 21374},
                               'tld': '.fm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fm'}},
           'mcc': ['550'],
@@ -4013,10 +4017,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_fo.html'},
                      'nameset': ['faroe islands', 'foroyar', 'the faroe islands'],
                      'tel': { 'code': '298',
-                              'domestic': [ '34 per 100 for fixed-line and 111 per 100 for mobile-cellular',
+                              'domestic': [ '37 per 100 for fixed-line and 116 per 100 for mobile-cellular',
                                             'both NMT (analog) and GSM (digital) mobile telephone systems are '
                                             'installed',
-                                            2000],
+                                            2019],
                               'general': [ 'good international and domestic communications',
                                            'telecommunications network of high standards with excellent coverage '
                                            'throughout most parts of the country and at competitive prices',
@@ -4025,7 +4029,7 @@ P1_CC2 = \
                                         'cables from the Faeroe Islands, to Denmark, Germany, UK and Iceland',
                                         'satellite earth stations - 1 Orion',
                                         2019],
-                              'subs': {'bb': 18181, 'fix': 17188, 'internet': 49783, 'mob': 56792},
+                              'subs': {'bb': 18181, 'fix': 19137, 'internet': 49783, 'mob': 59771},
                               'tld': '.fo',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fo'}},
           'mcc': ['288'],
@@ -4070,9 +4074,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_fr.html'},
                      'nameset': ['france', 'french republic', 'republique francaise', 'the french republic'],
                      'tel': { 'code': '33',
-                              'domestic': [ '57 per 100 persons for fixed-line and 105 per 100 for mobile-cellular '
+                              'domestic': [ '58 per 100 persons for fixed-line and 111 per 100 for mobile-cellular '
                                             'subscriptions',
-                                            2018],
+                                            2019],
                               'general': [ 'one of the largest mobile phone markets in Europe, worth 13 billion '
                                            'annually',
                                            'LTE has universal coverage with extensive 5G launching any day, one of the '
@@ -4109,7 +4113,7 @@ P1_CC2 = \
                                                         'Asia, South and East Africa, Southeast Asia and nearby Indian '
                                                         'Ocean Island countries of Mauritius, and Madagascar',
                                                         2019],
-                              'subs': {'bb': 29100000, 'fix': 38620000, 'internet': 55265718, 'mob': 70422000},
+                              'subs': {'bb': 29100000, 'fix': 39234941, 'internet': 55265718, 'mob': 74791818},
                               'tld': '.fr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fr'}},
           'mcc': ['208'],
@@ -4196,7 +4200,7 @@ P1_CC2 = \
                                             'a growing mobile cellular network with multiple providers is making '
                                             'telephone service more widely available with mobile cellular teledensity '
                                             'at 138 per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'fixed-line and Internet sectors have remained underdeveloped due to the '
                                            'lack of competition and high prices',
                                            'sufficient international bandwidth due to submarine cable systems, but '
@@ -4211,7 +4215,7 @@ P1_CC2 = \
                                         'Africa',
                                         'satellite earth stations - 3 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 29099, 'fix': 21818, 'internet': 1313802, 'mob': 2930554},
+                              'subs': {'bb': 29099, 'fix': 22412, 'internet': 1313802, 'mob': 3008814},
                               'tld': '.ga',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ga'}},
           'mcc': ['628'],
@@ -4251,8 +4255,8 @@ P1_CC2 = \
                      'tel': { 'code': '44',
                               'domestic': [ 'equal mix of buried cables, microwave radio relay, and fiber-optic '
                                             'systems',
-                                            'fixed-line 49 per 100 and mobile-cellular 122 per 100',
-                                            2018],
+                                            'fixed-line 48 per 100 and mobile-cellular 118 per 100',
+                                            2019],
                               'general': [ 'technologically advanced domestic and international system',
                                            'one of the largest mobile and telecom markets in Europe for revenue and '
                                            'subscribers',
@@ -4278,7 +4282,7 @@ P1_CC2 = \
                                         '1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat',
                                         'at least 8 large international switching centers',
                                         2018],
-                              'subs': {'bb': 26586110, 'fix': 31919894, 'internet': 61784878, 'mob': 79472341},
+                              'subs': {'bb': 26586110, 'fix': 31160866, 'internet': 61784878, 'mob': 76920618},
                               'tld': '.gb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gb'}},
           'mcc': ['234', '235'],
@@ -4378,8 +4382,8 @@ P1_CC2 = \
                      'nameset': ['grenada'],
                      'tel': { 'code': '1473',
                               'domestic': [ 'interisland VHF and UHF radiotelephone links',
-                                            '29 per 100 for fixed-line and 101 per 100 for mobile-cellular',
-                                            2018],
+                                            '29 per 100 for fixed-line and 102 per 100 for mobile-cellular',
+                                            2019],
                               'general': [ 'adequate, island-wide telephone system',
                                            'lack of local competition, but telecoms are a high contributors to overall '
                                            'GDP',
@@ -4391,7 +4395,7 @@ P1_CC2 = \
                                         'SHF radiotelephone links to Trinidad and Tobago and Saint Vincent',
                                         'VHF and UHF radio links to Trinidad',
                                         2019],
-                              'subs': {'bb': 22235, 'fix': 32491, 'internet': 66281, 'mob': 113177},
+                              'subs': {'bb': 22235, 'fix': 33011, 'internet': 66281, 'mob': 115008},
                               'tld': '.gd',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gd'}},
           'mcc': ['352'],
@@ -4418,12 +4422,12 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gg.html'},
                      'nameset': ['georgia', "sak'art'velo"],
                      'tel': { 'code': '995',
-                              'domestic': [ 'fixed-line 12 per 100, cellular telephone networks cover the entire '
+                              'domestic': [ 'fixed-line 13 per 100, cellular telephone networks cover the entire '
                                             'country',
-                                            'mobile-cellular teledensity roughly 111 per 100 persons',
+                                            'mobile-cellular teledensity roughly 135 per 100 persons',
                                             "intercity facilities include a fiber-optic line between T'bilisi and "
                                             "K'ut'aisi",
-                                            2018],
+                                            2019],
                               'general': [ "telecommunications fastest growing area of Georgia's economy",
                                            'LTE services now cover the vast majority of the population',
                                            'fixed-line telecommunications network has limited coverage outside Tbilisi',
@@ -4440,7 +4444,7 @@ P1_CC2 = \
                                         'through the Moscow switch',
                                         'international electronic mail and telex service are available',
                                         2019],
-                              'subs': {'bb': 840603, 'fix': 604348, 'internet': 3151218, 'mob': 5459239},
+                              'subs': {'bb': 840603, 'fix': 638092, 'internet': 3151218, 'mob': 6638125},
                               'tld': '.ge',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ge'}},
           'mcc': ['282'],
@@ -4458,6 +4462,7 @@ P1_CC2 = \
                       '28212',
                       '28213',
                       '28214',
+                      '28222',
                       '28967',
                       '28988'],
           'msisdn': ['995'],
@@ -4492,7 +4497,7 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gk.html'},
                      'nameset': ['bailiwick of guernsey', 'guernsey', 'the bailiwick of guernsey'],
                      'tel': { 'code': '44',
-                              'domestic': ['fixed-line 60 per 100 and mobile-cellular 113 per 100 persons', 2018],
+                              'domestic': ['fixed-line 60 per 100 and mobile-cellular 113 per 100 persons', 2019],
                               'general': [ 'high performance global connections with quality service',
                                            'connections to major cities around the world to rival and attract future '
                                            'investment and future needs of islanders and businesses',
@@ -4528,8 +4533,8 @@ P1_CC2 = \
                      'tel': { 'code': '233',
                               'domestic': [ 'fixed-line 1 per 100 subscriptions',
                                             'competition among multiple mobile-cellular providers has spurred growth '
-                                            'with a subscribership of more than 146 per 100 persons and rising',
-                                            2018],
+                                            'with a subscribership of more than 134 per 100 persons and rising',
+                                            2019],
                               'general': [ 'highly competitive Internet market',
                                            'govt. helped fund programs for telecom services nationally',
                                            'mobile accounts for how people access the Internet',
@@ -4548,7 +4553,7 @@ P1_CC2 = \
                                         'microwave radio relay link to Panaftel system connects Ghana to its neighbors',
                                         'Ghana-1 satellite launched in 2020',
                                         2019],
-                              'subs': {'bb': 62320, 'fix': 278379, 'internet': 10959964, 'mob': 40934875},
+                              'subs': {'bb': 62320, 'fix': 272801, 'internet': 10959964, 'mob': 38571189},
                               'tld': '.gh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gh'}},
           'mcc': ['620'],
@@ -4591,8 +4596,8 @@ P1_CC2 = \
                      'nameset': ['gibraltar'],
                      'tel': { 'code': '350',
                               'domestic': [ 'automatic exchange facilities',
-                                            '60 per 100 fixed-line and 139 per 100 mobile-cellular',
-                                            2018],
+                                            '50 per 100 fixed-line and 120 per 100 mobile-cellular',
+                                            2019],
                               'general': [ 'adequate, automatic domestic system and adequate international facilities',
                                            2018],
                               'intl': [ 'landing point for the EIG to Europe, Asia, Africa and the Middle East via '
@@ -4601,7 +4606,7 @@ P1_CC2 = \
                                         'microwave radio relay',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 19232, 'fix': 17671, 'internet': 27823, 'mob': 41045},
+                              'subs': {'bb': 19232, 'fix': 14865, 'internet': 27823, 'mob': 35510},
                               'tld': '.gi',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gi'}},
           'mcc': ['266'],
@@ -4627,9 +4632,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gl.html'},
                      'nameset': ['greenland', 'kalaallit nunaat'],
                      'tel': { 'code': '299',
-                              'domestic': [ '14 per 100 for fixed-line subscriptions and 108 per 100 for '
+                              'domestic': [ '13 per 100 for fixed-line subscriptions and 115 per 100 for '
                                             'mobile-cellular',
-                                            2018],
+                                            2019],
                               'general': [ 'adequate domestic and international service provided by satellite, cables, '
                                            'and microwave radio relay',
                                            'the fundamental telecommunications infrastructure consists of a digital '
@@ -4645,7 +4650,7 @@ P1_CC2 = \
                                         'satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all '
                                         'Atlantic Ocean))',
                                         2019],
-                              'subs': {'bb': 13192, 'fix': 8060, 'internet': 40084, 'mob': 62537},
+                              'subs': {'bb': 13192, 'fix': 7259, 'internet': 40084, 'mob': 66009},
                               'tld': '.gl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gl'}},
           'mcc': ['290'],
@@ -4673,8 +4678,8 @@ P1_CC2 = \
                      'tel': { 'code': '220',
                               'domestic': [ 'fixed-line stands at 2 per 100 subscriptions with one dominant company '
                                             'and mobile-cellular teledensity, aided by multiple mobile-cellular '
-                                            'providers, is over 152 per 100 persons',
-                                            2018],
+                                            'providers, is over 140 per 100 persons',
+                                            2019],
                               'general': [ 'state-owned Gambia Telecommunications partially privatized but still '
                                            'retaining a monopoly with fixed-line service',
                                            'multiple mobile networks offering effective competition',
@@ -4690,7 +4695,7 @@ P1_CC2 = \
                                         'microwave radio relay links to Senegal and Guinea-Bissau',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 4433, 'fix': 44000, 'internet': 406918, 'mob': 3181393},
+                              'subs': {'bb': 4433, 'fix': 41179, 'internet': 406918, 'mob': 2977068},
                               'tld': '.gm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gm'}},
           'mcc': ['607'],
@@ -4731,7 +4736,7 @@ P1_CC2 = \
                                             'fixed-line teledensity is less than 1 per 100 persons',
                                             'mobile-cellular subscribership is expanding rapidly and now 101 per 100 '
                                             'persons',
-                                            2018],
+                                            2019],
                               'general': [ 'huge improvement over the last ten years',
                                            'in May 2019, 4G Wi-Fi was launched in the capital',
                                            'the regional administrative centers all have 3G access',
@@ -4744,7 +4749,7 @@ P1_CC2 = \
                                         'South Africa and Europe',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean',
                                         2019],
-                              'subs': {'bb': 1213, 'internet': 2133974, 'mob': 12013000},
+                              'subs': {'bb': 1213, 'internet': 2133974, 'mob': 12283911},
                               'tld': '.gn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gn'}},
           'mcc': ['611'],
@@ -4788,8 +4793,8 @@ P1_CC2 = \
                                   'the republic of equatorial guinea'],
                      'tel': { 'code': '240',
                               'domestic': [ 'fixed-line density is about 1 per 100 persons and mobile-cellular '
-                                            'subscribership is 74 per 100',
-                                            2018],
+                                            'subscribership is 45 per 100',
+                                            2019],
                               'general': [ 'digital fixed-line network in most major urban areas and decent mobile '
                                            'cellular coverage',
                                            '3G technology has allowed for estimated 9.5% of growth during 2016 -2021',
@@ -4800,7 +4805,7 @@ P1_CC2 = \
                                         'African and European countries',
                                         'satellite earth station - 1 Intelsat (Indian Ocean)',
                                         2019],
-                              'subs': {'bb': 1620, 'fix': 10848, 'internet': 209253, 'mob': 591223},
+                              'subs': {'bb': 1620, 'fix': 6779, 'internet': 209253, 'mob': 368920},
                               'tld': '.gq',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gq'}},
           'mcc': ['627'],
@@ -4841,7 +4846,7 @@ P1_CC2 = \
                                             'extensive open-wire connections',
                                             'submarine cable to offshore islands',
                                             '48 per 100 for fixed-line and 114 per 100 for mobile-cellular',
-                                            2018],
+                                            2019],
                               'general': [ 'good mobile telephone and international services',
                                            '3 mobile network operators',
                                            'broadband penetration developing steadily despite rough economic '
@@ -4856,7 +4861,7 @@ P1_CC2 = \
                                         'satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian '
                                         'Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region)',
                                         2019],
-                              'subs': {'bb': 3961864, 'fix': 5078083, 'internet': 7783381, 'mob': 12170757},
+                              'subs': {'bb': 3961864, 'fix': 5080386, 'internet': 7783381, 'mob': 12070571},
                               'tld': '.gr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gr'}},
           'mcc': ['202'],
@@ -4917,10 +4922,10 @@ P1_CC2 = \
                                   'republica de guatemala',
                                   'the republic of guatemala'],
                      'tel': { 'code': '502',
-                              'domestic': [ 'fixed-line teledensity roughly 15 per 100 persons',
+                              'domestic': [ 'fixed-line teledensity roughly 11 per 100 persons',
                                             'fixed-line investments are concentrating on improving rural connectivity',
-                                            'mobile-cellular teledensity about 123 per 100 persons',
-                                            2018],
+                                            'mobile-cellular teledensity about 119 per 100 persons',
+                                            2019],
                               'general': [ 'network centered in the city of Guatemala',
                                            'one of the lowest teledensities in the region especially in the country, '
                                            'rural areas have no fixed-line access so mobile services adopted as '
@@ -4938,7 +4943,7 @@ P1_CC2 = \
                                         'connected to Central American Microwave System',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 506000, 'fix': 2436093, 'internet': 10777827, 'mob': 20467520},
+                              'subs': {'bb': 506000, 'fix': 1894179, 'internet': 10777827, 'mob': 20026347},
                               'tld': '.gt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gt'}},
           'mcc': ['704'],
@@ -4967,7 +4972,7 @@ P1_CC2 = \
                               'domestic': [ 'three major companies provide both fixed-line and mobile services, as '
                                             'well as access to the Internet',
                                             'fixed-line 42 per 100 and 113 per 100 for mobile-cellular',
-                                            2018],
+                                            2019],
                               'general': [ 'integrated with US facilities for direct dialing, including free use of '
                                            '800 numbers',
                                            2020],
@@ -4977,7 +4982,7 @@ P1_CC2 = \
                                         'communications hub for major carriers linking the US and Asia)',
                                         'satellite earth stations - 2 Intelsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'fix': 68000, 'internet': 135073, 'mob': 181000},
+                              'subs': {'fix': 70639, 'internet': 135073, 'mob': 181000},
                               'tld': '.gu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gu'}},
           'mcc': ['310', '311'],
@@ -5024,8 +5029,8 @@ P1_CC2 = \
                                   'the republic of guinea-bissau'],
                      'tel': { 'code': '245',
                               'domestic': [ 'fixed-line teledensity less than 1 per 100 persons',
-                                            'mobile cellular teledensity is roughly 81 per 100 persons',
-                                            2018],
+                                            'mobile cellular teledensity is roughly 83 per 100 persons',
+                                            2019],
                               'general': [ 'small system including a combination of microwave radio relay, open-wire '
                                            'lines, radiotelephone, and mobile cellular communications',
                                            '2 mobile network operators',
@@ -5036,7 +5041,7 @@ P1_CC2 = \
                               'intl': [ 'ACE submarine cable connecting Guinea-Bissau with 20 landing points in '
                                         'Western and South Africa and Europe',
                                         2019],
-                              'subs': {'bb': 1204, 'internet': 72047, 'mob': 1480491},
+                              'subs': {'bb': 1204, 'internet': 72047, 'mob': 1555961},
                               'tld': '.gw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gw'}},
           'mcc': ['632'],
@@ -5064,9 +5069,9 @@ P1_CC2 = \
                                   'guyana',
                                   'the co-operative republic of guyana'],
                      'tel': { 'code': '592',
-                              'domestic': [ 'fixed-line teledensity is about 20 per 100 persons',
-                                            'mobile-cellular teledensity about 87 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line teledensity is about 18 per 100 persons',
+                                            'mobile-cellular teledensity about 83 per 100 persons',
+                                            2019],
                               'general': [ 'reliable international long distance service',
                                            '100% digital network',
                                            'national transmission supported by fiber optic cable and rural network by '
@@ -5080,7 +5085,7 @@ P1_CC2 = \
                               'intl': [ 'landing point for the SG-SCS submarine cable to Suriname, and the Caribbean',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 64889, 'fix': 135795, 'internet': 276498, 'mob': 643210},
+                              'subs': {'bb': 64889, 'fix': 130497, 'internet': 276498, 'mob': 617998},
                               'tld': '.gy',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gy'}},
           'mcc': ['738'],
@@ -5110,8 +5115,8 @@ P1_CC2 = \
                                   'the hong kong special administrative region of china'],
                      'tel': { 'code': '852',
                               'domestic': [ 'microwave radio relay links and extensive fiber-optic network',
-                                            'fixed-line is 58 per 100 and mobile-cellular is 276 per 100',
-                                            2018],
+                                            'fixed-line is 55 per 100 and mobile-cellular is 289 per 100',
+                                            2019],
                               'general': [ 'excellent domestic and international services',
                                            'some of the highest peak average broadband speeds in the world',
                                            'HK aims to be among the earliest adopters of 5G mobile technology',
@@ -5129,7 +5134,7 @@ P1_CC2 = \
                                         'satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean)',
                                         'coaxial cable to Guangzhou, China',
                                         2019],
-                              'subs': {'bb': 2714679, 'fix': 4196061, 'internet': 6450167, 'mob': 19901856},
+                              'subs': {'bb': 2714679, 'fix': 3942605, 'internet': 6450167, 'mob': 20868827},
                               'tld': '.hk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hk'}},
           'mcc': ['454'],
@@ -5217,9 +5222,9 @@ P1_CC2 = \
                      'tel': { 'code': '504',
                               'domestic': [ 'private sub-operators allowed to provide fixed lines in order to expand '
                                             'telephone coverage contributing to a small increase in fixed-line '
-                                            'teledensity 6 per 100',
-                                            'mobile-cellular subscribership is roughly 84 per 100 persons',
-                                            2018],
+                                            'teledensity 5 per 100',
+                                            'mobile-cellular subscribership is roughly 73 per 100 persons',
+                                            2019],
                               'general': [ 'fixed-line connections are increasing but still limited',
                                            'competition among multiple providers of mobile-cellular services and '
                                            'international investment has contributed to a sharp increase in '
@@ -5235,7 +5240,7 @@ P1_CC2 = \
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         'connected to Central American Microwave System',
                                         2019],
-                              'subs': {'bb': 354861, 'fix': 532004, 'internet': 2853505, 'mob': 7588554},
+                              'subs': {'bb': 354861, 'fix': 458696, 'internet': 2853505, 'mob': 6633309},
                               'tld': '.hn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hn'}},
           'mcc': ['708'],
@@ -5271,8 +5276,8 @@ P1_CC2 = \
                                   'the republic of croatia'],
                      'tel': { 'code': '385',
                               'domestic': [ 'fixed-line teledensity has dropped somewhat to about 32 per 100 persons',
-                                            'mobile-cellular telephone subscriptions 103 per 100',
-                                            2018],
+                                            'mobile-cellular telephone subscriptions 107 per 100',
+                                            2019],
                               'general': [ 'the mobile market has one of the highest penetration rates in the Balkans '
                                            'region',
                                            'covering much of what were once inaccessible areas',
@@ -5291,7 +5296,7 @@ P1_CC2 = \
                                         'consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic '
                                         'trunk line from Rijeka to Split and Dubrovnik',
                                         2019],
-                              'subs': {'bb': 1127591, 'fix': 1355662, 'internet': 3104212, 'mob': 4388476},
+                              'subs': {'bb': 1127591, 'fix': 1371999, 'internet': 3104212, 'mob': 4531122},
                               'tld': '.hr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hr'}},
           'mcc': ['219'],
@@ -5324,8 +5329,8 @@ P1_CC2 = \
                                             'mobile-cellular telephone services have expanded greatly in the last '
                                             'decade due to low-cost GSM (Global Systems for Mobile) phones and '
                                             'pay-as-you-go plans',
-                                            'mobile-cellular teledensity is 59 per 100 persons',
-                                            2018],
+                                            'mobile-cellular teledensity is 58 per 100 persons',
+                                            2019],
                               'general': [ 'telecommunications infrastructure is among the least-developed in Latin '
                                            'America and the Caribbean',
                                            'domestic cell service is functional',
@@ -5337,7 +5342,7 @@ P1_CC2 = \
                                         'the Bahamas and Dominican Republic',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 31100, 'fix': 5922, 'internet': 3503006, 'mob': 6399044},
+                              'subs': {'bb': 31100, 'fix': 5464, 'internet': 3503006, 'mob': 6287411},
                               'tld': '.ht',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ht'}},
           'mcc': ['372'],
@@ -5370,9 +5375,10 @@ P1_CC2 = \
                      'nameset': ['hungary', 'magyarorszag'],
                      'tel': { 'code': '36',
                               'domestic': [ 'competition among mobile-cellular service providers has led to a sharp '
-                                            'increase in the use of mobile-cellular phones, 102 per 100, and a '
-                                            'decrease in the number of fixed-line connections, 31 per 100 persons',
-                                            2018],
+                                            'increase in the use of mobile-cellular phones, and a decrease in the '
+                                            'number of fixed-line connections, 31 per 100 persons, while '
+                                            'mobile-cellular is 106 per 100',
+                                            2019],
                               'general': [ 'telephone system is digital and highly automated',
                                            'broadband penetration is the highest in Eastern Europe',
                                            'replacement of all copper infrastructure with fiber nationally',
@@ -5382,10 +5388,10 @@ P1_CC2 = \
                               'intl': [ 'Hungary has fiber-optic cable connections with all neighboring countries',
                                         'the international switch is in Budapest',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean '
-                                        'regions), 1 Inmarsat, 1 very small aperture terminal (VSAT) system of ground '
+                                        'regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground '
                                         'terminals',
                                         2000],
-                              'subs': {'bb': 3079549, 'fix': 3016878, 'internet': 7474413, 'mob': 10041939},
+                              'subs': {'bb': 3079549, 'fix': 3084836, 'internet': 7474413, 'mob': 10394172},
                               'tld': '.hu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hu'}},
           'mcc': ['216'],
@@ -5417,11 +5423,11 @@ P1_CC2 = \
                                   'republik indonesia',
                                   'the republic of indonesia'],
                      'tel': { 'code': '62',
-                              'domestic': [ 'fixed-line 3 per 100 and mobile-cellular 122 per 100 persons',
+                              'domestic': [ 'fixed-line 4 per 100 and mobile-cellular 127 per 100 persons',
                                             'coverage provided by existing network has been expanded by use of over '
                                             '200,000 telephone kiosks many located in remote areas',
                                             'mobile-cellular subscribership growing rapidly',
-                                            2018],
+                                            2019],
                               'general': [ 'international service good',
                                            'Indonesia has very low fixed line and fixed broadband penetration, high '
                                            'mobile penetration and moderate mobile broadband penetration',
@@ -5444,7 +5450,7 @@ P1_CC2 = \
                                         'Africa and Europe',
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean)',
                                         2019],
-                              'subs': {'bb': 8874116, 'fix': 8303511, 'internet': 104563108, 'mob': 319434605},
+                              'subs': {'bb': 8874116, 'fix': 9272754, 'internet': 104563108, 'mob': 337766682},
                               'tld': '.id',
                               'url_tld': 'https://en.wikipedia.org/wiki/.id'}},
           'mcc': ['510'],
@@ -5487,9 +5493,9 @@ P1_CC2 = \
                      'nameset': ['eire', 'ireland', 'republic of ireland'],
                      'tel': { 'code': '353',
                               'domestic': [ 'increasing levels of broadband access particularly in urban areas',
-                                            'fixed-line 36 per 100 and mobile-cellular 98 per 100 subscriptions',
+                                            'fixed-line 36 per 100 and mobile-cellular 105 per 100 subscriptions',
                                             'digital system using cable and microwave radio relay',
-                                            2018],
+                                            2019],
                               'general': [ 'a previous depressed economic climate has changed to one with Ireland '
                                            'having one of the highest GDP growth rates in Europe, which translates to '
                                            'mean spending among telecom consumers',
@@ -5507,7 +5513,7 @@ P1_CC2 = \
                                         'submarine cable with links to the US, Canada, Norway, Isle of Man and UK',
                                         'satellite earth stations - 81',
                                         2019],
-                              'subs': {'bb': 1430160, 'fix': 1829166, 'internet': 4283516, 'mob': 4971493},
+                              'subs': {'bb': 1430160, 'fix': 1854605, 'internet': 4283516, 'mob': 5398848},
                               'tld': '.ie',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ie'}},
           'mcc': ['272'],
@@ -5560,7 +5566,7 @@ P1_CC2 = \
                                             'all systems are digital',
                                             'competition among both fixed-line and mobile cellular providers results '
                                             'in good coverage countrywide',
-                                            'fixed-line 38 per 100 and 127 per 100 for mobile-cellular subscriptions',
+                                            'fixed-line 36 per 100 and 127 per 100 for mobile-cellular subscriptions',
                                             2019],
                               'general': [ 'one of the most highly developed system in the Middle East',
                                            'mobile broadband 100% population penetration',
@@ -5574,7 +5580,7 @@ P1_CC2 = \
                                         'and parts of the Middle East',
                                         'satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean)',
                                         2019],
-                              'subs': {'bb': 2410000, 'fix': 3200000, 'internet': 6873037, 'mob': 10700000},
+                              'subs': {'bb': 2410000, 'fix': 3050693, 'internet': 6873037, 'mob': 10839024},
                               'tld': '.il',
                               'url_tld': 'https://en.wikipedia.org/wiki/.il'}},
           'mcc': ['425'],
@@ -5671,7 +5677,7 @@ P1_CC2 = \
                                   'republic of india/bharatiya ganarajya',
                                   'the republic of india'],
                      'tel': { 'code': '91',
-                              'domestic': [ 'fixed-line subscriptions stands at 2 per 100 and mobile-cellular at 91 '
+                              'domestic': [ 'fixed-line subscriptions stands at 2 per 100 and mobile-cellular at 84 '
                                             'per 100',
                                             'mobile cellular service introduced in 1994 and organized nationwide into '
                                             'four metropolitan areas and 19 telecom circles, each with multiple '
@@ -5679,8 +5685,8 @@ P1_CC2 = \
                                             'in recent years significant trunk capacity added in the form of '
                                             "fiber-optic cable and one of the world's largest domestic satellite "
                                             'systems, the Indian National Satellite system (INSAT), with 6 satellites '
-                                            'supporting 33,000 very small aperture terminals (VSAT)',
-                                            2018],
+                                            'supporting 33,000 (very small aperture terminals) VSAT',
+                                            2019],
                               'general': [ 'supported by deregulation and liberalization of telecommunication laws and '
                                            'policies, India has emerged as one of the fastest-growing telecom markets '
                                            'in the world',
@@ -5702,7 +5708,7 @@ P1_CC2 = \
                                         'satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian '
                                         'Ocean region',
                                         2019],
-                              'subs': {'bb': 18170000, 'fix': 21868192, 'internet': 446759327, 'mob': 1176021869},
+                              'subs': {'bb': 18170000, 'fix': 20198012, 'internet': 446759327, 'mob': 1105250941},
                               'tld': '.in',
                               'url_tld': 'https://en.wikipedia.org/wiki/.in'}},
           'mcc': ['404', '405', '406'],
@@ -6087,8 +6093,8 @@ P1_CC2 = \
                                             '3G services offered by three major mobile operators',
                                             '4G offered by one operator in Iraqi',
                                             'conflict has destroyed infrastructure in areas',
-                                            '7 per 100 for fixed-line and 98 per 100 for mobile-cellular subscriptions',
-                                            2018],
+                                            '7 per 100 for fixed-line and 95 per 100 for mobile-cellular subscriptions',
+                                            2019],
                               'general': [ 'the 2003 liberation of Iraq severely disrupted telecommunications '
                                            'throughout Iraq',
                                            'widespread government efforts to rebuild domestic and international '
@@ -6107,7 +6113,7 @@ P1_CC2 = \
                                         'local microwave radio relay connects border regions to Jordan, Kuwait, Syria, '
                                         'and Turkey',
                                         2019],
-                              'subs': {'bb': 4492328, 'fix': 2705028, 'internet': 18364390, 'mob': 36527353},
+                              'subs': {'bb': 4492328, 'fix': 2678046, 'internet': 18364390, 'mob': 36092758},
                               'tld': '.iq',
                               'url_tld': 'https://en.wikipedia.org/wiki/.iq'}},
           'mcc': ['418'],
@@ -6169,7 +6175,7 @@ P1_CC2 = \
                                   'jomhuri-ye eslami-ye iran',
                                   'the islamic republic of iran'],
                      'tel': { 'code': '98',
-                              'domestic': [ '37 per 100 for fixed-line and 107 per 100 for mobile-cellular '
+                              'domestic': [ '35 per 100 for fixed-line and 142 per 100 for mobile-cellular '
                                             'subscriptions',
                                             "investment by Iran's state-owned telecom company has greatly improved and "
                                             'expanded both the fixed-line and mobile cellular networks',
@@ -6194,7 +6200,7 @@ P1_CC2 = \
                                         'Afghanistan, Turkmenistan, Syria, Kuwait, Tajikistan, and Uzbekistan',
                                         'satellite earth stations - 13 (9 Intelsat and 4 Inmarsat)',
                                         2019],
-                              'subs': {'bb': 9806123, 'fix': 30481734, 'internet': 58117322, 'mob': 88722442},
+                              'subs': {'bb': 9806123, 'fix': 29330454, 'internet': 58117322, 'mob': 119598034},
                               'tld': '.ir',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ir'}},
           'mcc': ['432'],
@@ -6241,9 +6247,9 @@ P1_CC2 = \
                               'domestic': [ 'liberalization of the telecommunications sector beginning in the late '
                                             '1990s has led to increased competition especially in the mobile services '
                                             'segment of the market',
-                                            '40 per 100 for fixed line and 124 per 100 for mobile-cellular '
+                                            '37 per 100 for fixed line and 122 per 100 for mobile-cellular '
                                             'subscriptions',
-                                            2018],
+                                            2019],
                               'general': [ 'telecommunications infrastructure is modern and fully digitized, with '
                                            'satellite-earth stations, fiber-optic cables, and an extensive broadband '
                                            'network',
@@ -6259,7 +6265,7 @@ P1_CC2 = \
                                         'note - Iceland shares the Inmarsat earth station with the other Nordic '
                                         'countries (Denmark, Finland, Norway, and Sweden)',
                                         2019],
-                              'subs': {'bb': 136556, 'fix': 136713, 'internet': 340117, 'mob': 424720},
+                              'subs': {'bb': 136556, 'fix': 128597, 'internet': 340117, 'mob': 423390},
                               'tld': '.is',
                               'url_tld': 'https://en.wikipedia.org/wiki/.is'}},
           'mcc': ['274'],
@@ -6308,9 +6314,9 @@ P1_CC2 = \
                      'nameset': ['italia', 'italian republic', 'italy', 'repubblica italiana', 'the italian republic'],
                      'tel': { 'code': '39',
                               'domestic': [ 'high-capacity cable and microwave radio relay trunks',
-                                            '33 per 100 for fixed-line and 134 per 100 for mobile-cellular '
+                                            '32 per 100 for fixed-line and 133 per 100 for mobile-cellular '
                                             'subscriptions',
-                                            2018],
+                                            2019],
                               'general': [ 'well-developed, fully automated telephone, and data services',
                                            'highest mobile penetration rates in Europe, benefitted from progressive '
                                            'govt. programs aimed at developing fiber in broadband sector',
@@ -6327,7 +6333,7 @@ P1_CC2 = \
                                         'satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for '
                                         'Atlantic Ocean and 2 for Indian Ocean)',
                                         2019],
-                              'subs': {'bb': 17060505, 'fix': 20396603, 'internet': 46305301, 'mob': 83342486},
+                              'subs': {'bb': 17060505, 'fix': 20196475, 'internet': 46305301, 'mob': 82955151},
                               'tld': '.it',
                               'url_tld': 'https://en.wikipedia.org/wiki/.it'}},
           'mcc': ['222'],
@@ -6415,9 +6421,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_jm.html'},
                      'nameset': ['jamaica'],
                      'tel': { 'code': '1876',
-                              'domestic': [ 'while the number of fixed-lines, 13 per 100, subscriptions has declined, '
-                                            'cellular-mobile has grown 105 per 100 subscriptions',
-                                            2018],
+                              'domestic': [ 'while the number of fixed-lines, 14 per 100, subscriptions has declined, '
+                                            'cellular-mobile has grown 103 per 100 subscriptions',
+                                            2019],
                               'general': [ 'good domestic and international service',
                                            'mobile sector dominates, accounting for 82% of the Internet connections',
                                            'extensive LTE networks providing coverage to 90% of the island population',
@@ -6428,7 +6434,7 @@ P1_CC2 = \
                                         'America, parts of the Caribbean, Central America and the US',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 284756, 'fix': 363820, 'internet': 1548618, 'mob': 2964974},
+                              'subs': {'bb': 284756, 'fix': 379420, 'internet': 1548618, 'mob': 2882469},
                               'tld': '.jm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.jm'}},
           'mcc': ['338'],
@@ -6463,14 +6469,13 @@ P1_CC2 = \
                                   'jordan',
                                   'the hashemite kingdom of jordan'],
                      'tel': { 'code': '962',
-                              'domestic': [ '1995 telecommunications law opened all non-fixed-line services to private '
-                                            'competition',
-                                            'in 2005, monopoly over fixed-line services terminated and the entire '
+                              'domestic': [ '1995 a telecommunications law opened all non-fixed-line services to '
+                                            'private competition',
+                                            'in 2005, the monopoly over fixed-line services terminated and the entire '
                                             'telecommunications sector was opened to competition',
-                                            'currently multiple mobile-cellular providers with subscribership up to 83 '
-                                            'per 100 persons',
-                                            'fixed-line 4 per 100 persons',
-                                            2018],
+                                            'currently fixed-line 4 per 100 persons and multiple mobile-cellular '
+                                            'providers with subscribership up to 77 per 100 persons',
+                                            2019],
                               'general': [ 'microwave radio relay transmission and coaxial and fiber-optic cable are '
                                            'employed on trunk lines',
                                            'growing mobile-cellular usage in both urban and rural areas is reducing '
@@ -6486,7 +6491,7 @@ P1_CC2 = \
                                         'satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and '
                                         'maritime Inmarsat terminals',
                                         2019],
-                              'subs': {'bb': 399596, 'fix': 369145, 'internet': 6985174, 'mob': 8731760},
+                              'subs': {'bb': 399596, 'fix': 375576, 'internet': 6985174, 'mob': 8215735},
                               'tld': '.jo',
                               'url_tld': 'https://en.wikipedia.org/wiki/.jo'}},
           'mcc': ['416'],
@@ -6516,9 +6521,9 @@ P1_CC2 = \
                      'nameset': ['japan', 'nihon-koku/nippon-koku', 'nihon/nippon'],
                      'tel': { 'code': '81',
                               'domestic': [ 'high level of modern technology and excellent service of every kind',
-                                            '50 per 100 for fixed-line and 143 per 100 for mobile-cellular '
+                                            '50 per 100 for fixed-line and 140 per 100 for mobile-cellular '
                                             'subscriptions',
-                                            2018],
+                                            2019],
                               'general': [ 'excellent domestic and international service',
                                            'exceedingly high mobile, mobile broadband and fixed broadband penetration',
                                            'strong govt. policies for over a decade see over 90% of households with '
@@ -6540,7 +6545,7 @@ P1_CC2 = \
                                         'Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean '
                                         'regions), and 8 SkyPerfect JSAT',
                                         2019],
-                              'subs': {'bb': 41496293, 'fix': 63525713, 'internet': 106725643, 'mob': 179872794},
+                              'subs': {'bb': 41496293, 'fix': 62775494, 'internet': 106725643, 'mob': 175187425},
                               'tld': '.jp',
                               'url_tld': 'https://en.wikipedia.org/wiki/.jp'}},
           'mcc': ['440', '441'],
@@ -6698,9 +6703,9 @@ P1_CC2 = \
                      'tel': { 'code': '254',
                               'domestic': [ 'fixed-line subscriptions stand at less than 1 per 100 persons',
                                             'multiple providers in the mobile-cellular segment of the market fostering '
-                                            'a boom in mobile-cellular telephone usage with teledensity reaching 97 '
+                                            'a boom in mobile-cellular telephone usage with teledensity reaching 104 '
                                             'per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'the mobile-cellular system is generally good with a mobile subscriber base '
                                            'of 47 million, especially in urban areas',
                                            'fixed-line telephone system is small and inefficient',
@@ -6717,11 +6722,22 @@ P1_CC2 = \
                                         'satellite earth stations - 4 Intelsat',
                                         'launched first micro satellites in 2018',
                                         2019],
-                              'subs': {'bb': 371498, 'fix': 65644, 'internet': 9129243, 'mob': 49501430},
+                              'subs': {'bb': 371498, 'fix': 68072, 'internet': 9129243, 'mob': 54336841},
                               'tld': '.ke',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ke'}},
           'mcc': ['639'],
-          'mccmnc': ['63901', '63902', '63903', '63904', '63905', '63906', '63907', '63908', '63909', '63910', '63911'],
+          'mccmnc': [ '63901',
+                      '63902',
+                      '63903',
+                      '63904',
+                      '63905',
+                      '63906',
+                      '63907',
+                      '63908',
+                      '63909',
+                      '63910',
+                      '63911',
+                      '63912'],
           'msisdn': ['254'],
           'name': 'Kenya',
           'url': 'https://en.wikipedia.org/wiki/Kenya'},
@@ -6746,10 +6762,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_kg.html'},
                      'nameset': ['kyrgyz republic', 'kyrgyz respublikasy', 'kyrgyzstan', 'the kyrgyz republic'],
                      'tel': { 'code': '996',
-                              'domestic': [ 'fixed-line penetration 6 per 100 persons remains low and concentrated in '
+                              'domestic': [ 'fixed-line penetration 5 per 100 persons remains low and concentrated in '
                                             'urban areas',
-                                            'mobile-cellular subscribership up to over 149 per 100 persons',
-                                            2018],
+                                            'mobile-cellular subscribership up to over 134 per 100 persons',
+                                            2019],
                               'general': [ 'fixed-line phones declining quickly by roll-out of 4G LTE mobile networks',
                                            'digital radio-relay stations, and fiber-optic links',
                                            'low fixed-line and fixed-broadband penetration and moderate mobile '
@@ -6765,7 +6781,7 @@ P1_CC2 = \
                                         'gateway switch and by satellite',
                                         'satellite earth stations - 2 (1 Intersputnik, 1 Intelsat)',
                                         2019],
-                              'subs': {'bb': 355640, 'fix': 331140, 'internet': 2222732, 'mob': 8735246},
+                              'subs': {'bb': 355640, 'fix': 275311, 'internet': 2222732, 'mob': 7940306},
                               'tld': '.kg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kg'}},
           'mcc': ['437'],
@@ -6798,8 +6814,8 @@ P1_CC2 = \
                      'tel': { 'code': '855',
                               'domestic': [ 'fixed-line connections stand at about 1 per 100 persons and declining',
                                             'mobile-cellular usage, aided by competition among service providers, has '
-                                            'increased to about 118 per 100 persons',
-                                            2018],
+                                            'increased to about 130 per 100 persons',
+                                            2019],
                               'general': [ 'well on its way to rollout 5G services, Chinese company Huawei dealing '
                                            'with the infrastructure for the 5G rollout',
                                            'mobile-cellular phone systems are widely used in urban areas to bypass '
@@ -6818,7 +6834,7 @@ P1_CC2 = \
                                         'to Asia, the Middle East, Europe and Africa',
                                         'satellite earth station - 1 Intersputnik (Indian Ocean region)',
                                         2019],
-                              'subs': {'bb': 166200, 'fix': 88157, 'internet': 6579808, 'mob': 19417123},
+                              'subs': {'bb': 166200, 'fix': 56749, 'internet': 6579808, 'mob': 21684767},
                               'tld': '.kh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kh'}},
           'mcc': ['456'],
@@ -6844,11 +6860,11 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_kr.html'},
                      'nameset': ['kiribati', 'republic of kiribati', 'the republic of kiribati'],
                      'tel': { 'code': '686',
-                              'domestic': ['fixed-line 1 per 100 and mobile-cellular 54 per 100 subscriptions', 2000],
+                              'domestic': ['fixed-line 1 per 100 and mobile-cellular 46 per 100 subscriptions', 2019],
                               'general': [ 'generally good national and international service',
                                            'wireline service available on Tarawa and Kiritimati (Christmas Island)',
                                            'connections to outer islands by HF/VHF radiotelephone',
-                                           'recently formed mobile network operator (MNO) is implementing the first '
+                                           'recently formed (mobile network operator) MNO is implementing the first '
                                            'phase of improvements with 3G and 4G upgrades on some islands',
                                            'islands are connected to each other and the rest of the world via '
                                            'satellite',
@@ -6859,7 +6875,7 @@ P1_CC2 = \
                                         'Australia, 7 Pacific Ocean island countries to the US',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'bb': 884, 'internet': 15946, 'mob': 58838},
+                              'subs': {'bb': 884, 'fix': 22, 'internet': 15946, 'mob': 51401},
                               'tld': '.ki',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ki'}},
           'mcc': ['545'],
@@ -6893,10 +6909,10 @@ P1_CC2 = \
                                   'union of the comoros'],
                      'tel': { 'code': '269',
                               'domestic': [ 'fixed-line connections only about 1 per 100 persons',
-                                            'mobile-cellular usage over 61 per 100 persons',
+                                            'mobile-cellular usage over 68 per 100 persons',
                                             'two companies provide domestic and international mobile service and '
                                             'wireless data',
-                                            2018],
+                                            2019],
                               'general': [ 'Qatar launched a special program for the construction of a wireless '
                                            'network to inter connect the 3 islands of the archipelago',
                                            "telephone service limited to the islands' few towns",
@@ -6906,7 +6922,7 @@ P1_CC2 = \
                                         'Europe',
                                         'HF radiotelephone communications to Madagascar and Reunion',
                                         2019],
-                              'subs': {'bb': 1531, 'fix': 10320, 'internet': 69635, 'mob': 498903},
+                              'subs': {'bb': 1531, 'fix': 9840, 'internet': 69635, 'mob': 563722},
                               'tld': '.km',
                               'url_tld': 'https://en.wikipedia.org/wiki/.km'}},
           'mcc': ['654'],
@@ -6933,8 +6949,8 @@ P1_CC2 = \
                      'tel': { 'code': '1869',
                               'domestic': [ 'interisland links via ECFS',
                                             'fixed-line teledensity about 33 per 100 persons',
-                                            'mobile-cellular teledensity is roughly 146 per 100 persons',
-                                            2018],
+                                            'mobile-cellular teledensity is roughly 148 per 100 persons',
+                                            2019],
                               'general': [ 'good interisland and international connections',
                                            'broadband access',
                                            'expanded FttP (Fiber to the Home) and LTE markets',
@@ -6945,7 +6961,7 @@ P1_CC2 = \
                               'intl': [ 'landing points for the ECFS, Southern Caribbean Fiber and the SSCS submarine '
                                         'cables providing connectivity for numerous Caribbean Islands',
                                         2019],
-                              'subs': {'bb': 16400, 'fix': 17293, 'internet': 42852, 'mob': 76878},
+                              'subs': {'bb': 16400, 'fix': 17766, 'internet': 42852, 'mob': 78970},
                               'tld': '.kn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kn'}},
           'mcc': ['356'],
@@ -6980,8 +6996,8 @@ P1_CC2 = \
                                             'telephone directories unavailable',
                                             'mobile service launched in late 2008 for the Pyongyang area and '
                                             'considerable progress in expanding to other parts of the country since',
-                                            'fixed-lines are 5 per 100 and mobile-cellular 14 per 100 persons',
-                                            2018],
+                                            'fixed-lines are 5 per 100 and mobile-cellular 15 per 100 persons',
+                                            2019],
                               'general': [ 'nationwide fiber-optic network',
                                            'mobile-cellular service expanded beyond Pyongyang',
                                            'infrastructure underdeveloped yet growing mobile penetration by means of '
@@ -6997,7 +7013,7 @@ P1_CC2 = \
                                         'Ocean region)',
                                         'other international connections through Moscow and Beijing',
                                         2000],
-                              'subs': {'fix': 1180000, 'mob': 3606000},
+                              'subs': {'fix': 1183806, 'mob': 3821857},
                               'tld': '.kp',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kp'}},
           'mcc': ['467'],
@@ -7033,10 +7049,10 @@ P1_CC2 = \
                                   "taehan-min'guk",
                                   'the republic of korea'],
                      'tel': { 'code': '82',
-                              'domestic': [ 'fixed-line 50 per 100 and mobile-cellular services 129 per 100 persons',
+                              'domestic': [ 'fixed-line 48 per 100 and mobile-cellular services 135 per 100 persons',
                                             'rapid assimilation of a full range of telecommunications technologies '
                                             'leading to a boom in e-commerce',
-                                            2018],
+                                            2019],
                               'general': [ 'excellent domestic and international services featuring rapid '
                                            'incorporation of new technologies',
                                            'ranked 2nd out of 34 Asian telecom companies',
@@ -7058,7 +7074,7 @@ P1_CC2 = \
                                         'Asia and US',
                                         'satellite earth stations - 66',
                                         2019],
-                              'subs': {'bb': 21285858, 'fix': 25906849, 'internet': 49309955, 'mob': 66355778},
+                              'subs': {'bb': 21285858, 'fix': 24924607, 'internet': 49309955, 'mob': 69445005},
                               'tld': '.kr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kr'}},
           'mcc': ['450'],
@@ -7085,9 +7101,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ku.html'},
                      'nameset': ['al kuwayt', 'dawlat al kuwayt', 'kuwait', 'state of kuwait', 'the state of kuwait'],
                      'tel': { 'code': '965',
-                              'domestic': [ 'fixed-line subscriptions are 18 per 100 and mobile-cellular stands at 243 '
+                              'domestic': [ 'fixed-line subscriptions are 12 per 100 and mobile-cellular stands at 174 '
                                             'per 100 subscriptions',
-                                            2018],
+                                            2019],
                               'general': [ 'the quality of service is excellent',
                                            'new telephone exchanges provide a large capacity for new subscribers',
                                            'trunk traffic is carried by microwave radio relay, coaxial cable, and '
@@ -7106,7 +7122,7 @@ P1_CC2 = \
                                         'satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian '
                                         'Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat)',
                                         2019],
-                              'subs': {'bb': 103821, 'fix': 515542, 'internet': 2904801, 'mob': 7099848},
+                              'subs': {'bb': 103821, 'fix': 368305, 'internet': 2904801, 'mob': 5147990},
                               'tld': '.kw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kw'}},
           'mcc': ['419'],
@@ -7133,8 +7149,8 @@ P1_CC2 = \
                      'tel': { 'code': '1345',
                               'domestic': [ 'introduction of competition in the mobile-cellular market in 2004 boosted '
                                             'subscriptions dramatically',
-                                            '60 per 100 fixed-line, 164 per 100 mobile-cellular',
-                                            2018],
+                                            '55 per 100 fixed-line, 153 per 100 mobile-cellular',
+                                            2019],
                               'general': [ 'reasonably good overall telephone system with a high fixed-line '
                                            'teledensity',
                                            'given the high dependence of tourism and activities such as fisheries and '
@@ -7148,7 +7164,7 @@ P1_CC2 = \
                                         'South America',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 24535, 'fix': 34116, 'internet': 48328, 'mob': 95656},
+                              'subs': {'bb': 24535, 'fix': 33338, 'internet': 48328, 'mob': 92691},
                               'tld': '.ky',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ky'}},
           'mcc': ['346'],
@@ -7184,10 +7200,10 @@ P1_CC2 = \
                                   'the republic of kazakhstan'],
                      'tel': { 'code': '7',
                               'domestic': [ 'intercity by landline and microwave radio relay',
-                                            'number of fixed-line connections is 18 per 100 persons',
+                                            'number of fixed-line connections is 17 per 100 persons',
                                             'mobile-cellular usage increased rapidly and the subscriber base '
                                             'approaches 139 per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'one of the most progressive telecoms sectors in Central Asia',
                                            'vast 4G network',
                                            'low fixed-line and fixed-broadband penetration, moderate mobile broadband '
@@ -7199,7 +7215,7 @@ P1_CC2 = \
                                         'by the TAE fiber-optic cable',
                                         'satellite earth stations - 2 Intelsat',
                                         2000],
-                              'subs': {'bb': 2462900, 'fix': 3350900, 'internet': 14789448, 'mob': 26065600},
+                              'subs': {'bb': 2462900, 'fix': 3275584, 'internet': 14789448, 'mob': 26223595},
                               'tld': '.kz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kz'}},
           'mcc': ['401'],
@@ -7234,8 +7250,8 @@ P1_CC2 = \
                                   'sathalanalat paxathipatai paxaxon lao',
                                   "the lao people's democratic republic"],
                      'tel': { 'code': '856',
-                              'domestic': [ 'fixed-line 20 per 100 and 51 per 100 for mobile-cellular subscriptions',
-                                            2018],
+                              'domestic': [ 'fixed-line 21 per 100 and 61 per 100 for mobile-cellular subscriptions',
+                                            2019],
                               'general': [ 'the government relies on a radiotelephone network to communicate with '
                                            'remote areas',
                                            'the regulatory reform is below industry standards but is trying to '
@@ -7252,7 +7268,7 @@ P1_CC2 = \
                               'intl': [ 'satellite earth station - 1 Intersputnik (Indian Ocean region) and a second '
                                         'to be developed by China',
                                         2000],
-                              'subs': {'bb': 45379, 'fix': 1482276, 'internet': 1845437, 'mob': 3662336},
+                              'subs': {'bb': 45379, 'fix': 1526232, 'internet': 1845437, 'mob': 4466375},
                               'tld': '.la',
                               'url_tld': 'https://en.wikipedia.org/wiki/.la'}},
           'mcc': ['457'],
@@ -7282,8 +7298,8 @@ P1_CC2 = \
                                   'lubnan',
                                   'the lebanese republic'],
                      'tel': { 'code': '961',
-                              'domestic': [ 'fixed-line 15 per 100 and 73 per 100 for mobile-cellular subscriptions',
-                                            2018],
+                              'domestic': [ 'fixed-line 13 per 100 and 62 per 100 for mobile-cellular subscriptions',
+                                            2019],
                               'general': [ 'two mobile-cellular networks provide good service, with 4G LTE services',
                                            'future improvements to fiber-optic infrastructure for total nation '
                                            'coverage proposed by 2020',
@@ -7295,7 +7311,7 @@ P1_CC2 = \
                                         'Europe, Africa, the Middle East and Asia',
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 9395, 'fix': 893529, 'internet': 4769039, 'mob': 4424185},
+                              'subs': {'bb': 9395, 'fix': 752547, 'internet': 4769039, 'mob': 3614797},
                               'tld': '.lb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lb'}},
           'mcc': ['415'],
@@ -7320,9 +7336,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_st.html'},
                      'nameset': ['saint lucia'],
                      'tel': { 'code': '1758',
-                              'domestic': [ 'fixed-line teledensity is 22 per 100 persons and mobile-cellular '
-                                            'teledensity is roughly 112 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line teledensity is 20 per 100 persons and mobile-cellular '
+                                            'teledensity is roughly 102 per 100 persons',
+                                            2019],
                               'general': [ 'an adequate system that is automatically switched',
                                            'good interisland and international connections',
                                            'broadband access',
@@ -7337,7 +7353,7 @@ P1_CC2 = \
                                         'Grenadines',
                                         'tropospheric scatter to Barbados',
                                         2019],
-                              'subs': {'bb': 32265, 'fix': 36469, 'internet': 84112, 'mob': 184944},
+                              'subs': {'bb': 32265, 'fix': 33285, 'internet': 84112, 'mob': 168797},
                               'tld': '.lc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lc'}},
           'mcc': ['358'],
@@ -7364,14 +7380,14 @@ P1_CC2 = \
                                   'principality of liechtenstein',
                                   'the principality of liechtenstein'],
                      'tel': { 'code': '423',
-                              'domestic': ['fixed-line 40 per 100 and mobile-cellular services 123 per 100', 2018],
+                              'domestic': ['fixed-line 37 per 100 and mobile-cellular services 127 per 100', 2019],
                               'general': [ 'automatic telephone system',
                                            '44 Internet service providers in Liechtenstein and Switzerland combined',
                                            'FttP (fiber to the home) penetration marketed 3rd highest in EU',
                                            'fiber network reaches 3/4 of the population',
                                            2020],
                               'intl': ['linked to Swiss networks by cable and microwave radio relay', 2000],
-                              'subs': {'bb': 16712, 'fix': 15243, 'internet': 37815, 'mob': 47272},
+                              'subs': {'bb': 16712, 'fix': 14337, 'internet': 37815, 'mob': 49355},
                               'tld': '.li',
                               'url_tld': 'https://en.wikipedia.org/wiki/.li'}},
           'mcc': ['295'],
@@ -7403,13 +7419,13 @@ P1_CC2 = \
                                   'sri lanka',
                                   'the democratic socialist republic of sri lanka'],
                      'tel': { 'code': '94',
-                              'domestic': [ 'fixed-line 11 per 100 and mobile-cellular 134 per 100',
+                              'domestic': [ 'fixed-line 12 per 100 and mobile-cellular 115 per 100',
                                             'national trunk network consists of digital microwave radio relay and '
                                             'fiber-optic links',
                                             'fixed wireless local loops have been installed',
                                             'competition is strong in mobile cellular systems and mobile cellular '
                                             'subscribership is increasing',
-                                            2018],
+                                            2019],
                               'general': [ 'telephone services have improved significantly',
                                            'strong growth anticipated as Sri Lanka is lagging behind other Asian '
                                            'telecoms',
@@ -7423,7 +7439,7 @@ P1_CC2 = \
                                         'Australia, the Middle East, and Europe',
                                         'satellite earth stations - 2 Intelsat (Indian Ocean)',
                                         2019],
-                              'subs': {'bb': 1544313, 'fix': 2473875, 'internet': 7700876, 'mob': 30282984},
+                              'subs': {'bb': 1544313, 'fix': 2641982, 'internet': 7700876, 'mob': 26160623},
                               'tld': '.lk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lk'}},
           'mcc': ['413'],
@@ -7450,9 +7466,9 @@ P1_CC2 = \
                      'nameset': ['liberia', 'republic of liberia', 'the republic of liberia'],
                      'tel': { 'code': '231',
                               'domestic': [ 'fixed-line less than 1 per 100',
-                                            'mobile-cellular subscription base growing and teledensity approached 66 '
+                                            'mobile-cellular subscription base growing and teledensity approached 57 '
                                             'per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'the limited services available are found almost exclusively in the '
                                            'capital, Monrovia',
                                            'fixed-line service is stagnant and extremely limited',
@@ -7469,7 +7485,7 @@ P1_CC2 = \
                                         'and Europe',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 8000, 'fix': 8000, 'internet': 383819, 'mob': 3117002},
+                              'subs': {'bb': 8000, 'fix': 8394, 'internet': 383819, 'mob': 2793316},
                               'tld': '.lr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lr'}},
           'mcc': ['618'],
@@ -7496,11 +7512,11 @@ P1_CC2 = \
                      'tel': { 'code': '266',
                               'domestic': [ 'fixed-line is 1 per 100 subscriptions',
                                             'mobile-cellular service dominates the market with a subscribership now '
-                                            'over 122 per 100 persons',
+                                            'over 114 per 100 persons',
                                             'rudimentary system consisting of a modest number of landlines, a small '
                                             'microwave radio relay system, and a small radiotelephone communication '
                                             'system',
-                                            2018],
+                                            2019],
                               'general': [ 'mobile penetration remains below regional average',
                                            'introduction of mobile broadband in the country & LTE technology, with 5G '
                                            'trials in early 2019',
@@ -7513,7 +7529,7 @@ P1_CC2 = \
                                         'position makes access prices expensive',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 5763, 'fix': 8328, 'internet': 569114, 'mob': 2380804},
+                              'subs': {'bb': 5763, 'fix': 7865, 'internet': 569114, 'mob': 2238186},
                               'tld': '.ls',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ls'}},
           'mcc': ['651'],
@@ -7544,11 +7560,11 @@ P1_CC2 = \
                                   'republic of lithuania',
                                   'the republic of lithuania'],
                      'tel': { 'code': '370',
-                              'domestic': [ '15 per 100 for fixed-line subscriptions',
+                              'domestic': [ '13 per 100 for fixed-line subscriptions',
                                             'rapid expansion of mobile-cellular services has resulted in a steady '
                                             'decline in the number of fixed-line connections',
-                                            'mobile-cellular teledensity stands at about 164 per 100 persons',
-                                            2018],
+                                            'mobile-cellular teledensity stands at about 169 per 100 persons',
+                                            2019],
                               'general': [ 'adequate',
                                            'improved international capability and better residential access',
                                            'SIM card penetration is high for the region',
@@ -7567,7 +7583,7 @@ P1_CC2 = \
                                         'further transmission by satellite',
                                         'landline connections to Latvia and Poland',
                                         2019],
-                              'subs': {'bb': 788743, 'fix': 427066, 'internet': 2226806, 'mob': 4590441},
+                              'subs': {'bb': 788743, 'fix': 368515, 'internet': 2226806, 'mob': 4663627},
                               'tld': '.lt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lt'}},
           'mcc': ['246'],
@@ -7595,11 +7611,11 @@ P1_CC2 = \
                                   'luxembourg',
                                   'the grand duchy of luxembourg'],
                      'tel': { 'code': '352',
-                              'domestic': [ 'fixed-line teledensity about 45 per 100 persons',
+                              'domestic': [ 'fixed-line teledensity about 43 per 100 persons',
                                             'nationwide mobile-cellular telephone system with market for '
-                                            'mobile-cellular phones virtually saturated with 134 per 100 '
+                                            'mobile-cellular phones virtually saturated with 136 per 100 '
                                             'mobile-cellular',
-                                            2018],
+                                            2019],
                               'general': [ 'highly developed',
                                            'by 2020 the government is to provide a 1Gb/s service to all citizens, and '
                                            'to make Luxembourg the first fully fibered country in Europe',
@@ -7608,7 +7624,7 @@ P1_CC2 = \
                                            'regulator planning a multi-spectrum auction for 5G use by mid-2020',
                                            2020],
                               'intl': [2000],
-                              'subs': {'bb': 224300, 'fix': 273530, 'internet': 587955, 'mob': 798600},
+                              'subs': {'bb': 224300, 'fix': 268043, 'internet': 587955, 'mob': 837890},
                               'tld': '.lu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lu'}},
           'mcc': ['270'],
@@ -7639,7 +7655,7 @@ P1_CC2 = \
                                   'republic of latvia',
                                   'the republic of latvia'],
                      'tel': { 'code': '371',
-                              'domestic': ['fixed-line 14 per 100 and mobile-cellular 108 per 100 subscriptions', 2018],
+                              'domestic': ['fixed-line 12 per 100 and mobile-cellular 109 per 100 subscriptions', 2019],
                               'general': [ 'recent efforts focused on bringing competition to the telecommunications '
                                            'sector',
                                            'the number of fixed-line is decreasing as mobile-cellular telephone '
@@ -7653,7 +7669,7 @@ P1_CC2 = \
                               'intl': [ 'the Latvian network is now connected via fiber-optic cable to Estonia, '
                                         'Finland, and Sweden',
                                         2000],
-                              'subs': {'bb': 525995, 'fix': 266214, 'internet': 1607711, 'mob': 2070180},
+                              'subs': {'bb': 525995, 'fix': 227149, 'internet': 1607711, 'mob': 2067174},
                               'tld': '.lv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lv'}},
           'mcc': ['247'],
@@ -7685,7 +7701,7 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ly.html'},
                      'nameset': ['dawiat libiya', 'libiya', 'libya', 'state of libya', 'the state of libya'],
                      'tel': { 'code': '218',
-                              'domestic': [ '23 per 100 fixed-line and 91 per 100 mobile-cellular subscriptions',
+                              'domestic': [ '24 per 100 fixed-line and 91 per 100 mobile-cellular subscriptions',
                                             'service generally adequate',
                                             2019],
                               'general': [ 'political and security instability in Libya has disrupted its '
@@ -7704,7 +7720,7 @@ P1_CC2 = \
                                         'tropospheric scatter to Greece',
                                         'participant in Medarabtel',
                                         2019],
-                              'subs': {'bb': 168920, 'fix': 1576000, 'internet': 1440859, 'mob': 6020000},
+                              'subs': {'bb': 168920, 'fix': 1618511, 'internet': 1440859, 'mob': 6182105},
                               'tld': '.ly',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ly'}},
           'mcc': ['606'],
@@ -7740,7 +7756,7 @@ P1_CC2 = \
                                             'good system composed of open-wire lines, cables, and microwave radio '
                                             'relay links',
                                             'principal switching centers are Casablanca and Rabat',
-                                            2018],
+                                            2019],
                               'general': [ 'national network nearly 100% digital using fiber-optic links',
                                            'improved rural service employs microwave radio relay',
                                            'one of the most state-of-the-art markets in Africa',
@@ -7756,7 +7772,7 @@ P1_CC2 = \
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat',
                                         'microwave radio relay to Gibraltar, Spain, and Western Sahara',
                                         2019],
-                              'subs': {'bb': 1552599, 'fix': 2199140, 'internet': 22596729, 'mob': 44737885},
+                              'subs': {'bb': 1552599, 'fix': 1982934, 'internet': 22596729, 'mob': 45065083},
                               'tld': '.ma',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ma'}},
           'mcc': ['604'],
@@ -7784,9 +7800,9 @@ P1_CC2 = \
                                   'principaute de monaco',
                                   'the principality of monaco'],
                      'tel': { 'code': '377',
-                              'domestic': [ 'fixed-line 141 per 100 and mobile-cellular teledensity exceeds 106 per '
-                                            '100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line 113 per 100 and mobile-cellular teledensity exceeds 87 per 100 '
+                                            'persons',
+                                            2019],
                               'general': [ 'modern automatic telephone system',
                                            "the country's sole fixed-line operator offers a full range of services to "
                                            'residential and business customers',
@@ -7798,7 +7814,7 @@ P1_CC2 = \
                                         'no satellite earth stations',
                                         'connected by cable into the French communications system',
                                         2019],
-                              'subs': {'bb': 19822, 'fix': 43374, 'internet': 29821, 'mob': 32689},
+                              'subs': {'bb': 19822, 'fix': 34903, 'internet': 29821, 'mob': 26725},
                               'tld': '.mc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mc'}},
           'mcc': ['212'],
@@ -7824,9 +7840,9 @@ P1_CC2 = \
                      'nameset': ['moldova', 'republic of moldova', 'republica moldova', 'the republic of moldova'],
                      'tel': { 'code': '373',
                               'domestic': [ 'competition among mobile telephone providers has spurred subscriptions',
-                                            'little interest in expanding fixed-line service 32 per 100',
-                                            'mobile-cellular teledensity sits at 104 per 100 persons',
-                                            2018],
+                                            'little interest in expanding fixed-line service 27 per 100',
+                                            'mobile-cellular teledensity sits at 89 per 100 persons',
+                                            2019],
                               'general': [ 'the mobile market has extended the reach of services to outside the cities '
                                            'and across most of the country',
                                            'endeavors to join the EU have promoted regulatory issues to be in line '
@@ -7838,9 +7854,9 @@ P1_CC2 = \
                                            'most telecom revenue is from the mobile market',
                                            2020],
                               'intl': [ 'service through Romania and Russia via landline',
-                                        'satellite earth stations - at least 3 (Intelsat, Eutelsat, and Intersputnik)',
+                                        'satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik',
                                         2000],
-                              'subs': {'bb': 623135, 'fix': 1108200, 'internet': 2616792, 'mob': 3566276},
+                              'subs': {'bb': 623135, 'fix': 901317, 'internet': 2616792, 'mob': 3039990},
                               'tld': '.md',
                               'url_tld': 'https://en.wikipedia.org/wiki/.md'}},
           'mcc': ['259'],
@@ -7874,8 +7890,8 @@ P1_CC2 = \
                      'tel': { 'code': '382',
                               'domestic': [ 'GSM mobile-cellular service, available through multiple providers with '
                                             'national coverage growing',
-                                            'fixed-line 28 per 100 and mobile-cellular 185 per 100 persons',
-                                            2018],
+                                            'fixed-line 30 per 100 and mobile-cellular 183 per 100 persons',
+                                            2019],
                               'general': [ 'modern telecommunications system with access to European satellites',
                                            'telecom sector in-line with EU norms which means competition, access and '
                                            'tariff structures',
@@ -7886,7 +7902,7 @@ P1_CC2 = \
                                            '5G services anticipated in the future',
                                            2020],
                               'intl': ['2 international switches connect the national system', 2000],
-                              'subs': {'bb': 159029, 'fix': 172880, 'internet': 439311, 'mob': 1134412},
+                              'subs': {'bb': 159029, 'fix': 183387, 'internet': 439311, 'mob': 1121870},
                               'tld': '.me',
                               'url_tld': 'https://en.wikipedia.org/wiki/.me'}},
           'mcc': ['297'],
@@ -7961,7 +7977,7 @@ P1_CC2 = \
                      'tel': { 'code': '261',
                               'domestic': [ 'less than 1 per 100 for fixed-line and mobile-cellular teledensity about '
                                             '41 per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'system is above average for the region',
                                            'competition among the four mobile service providers has spurred recent '
                                            'growth in the mobile market and helped the service to be less expensive '
@@ -7975,7 +7991,7 @@ P1_CC2 = \
                                         'satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - '
                                         'Atlantic Ocean region)',
                                         2019],
-                              'subs': {'bb': 27211, 'fix': 69046, 'internet': 2516994, 'mob': 10654710},
+                              'subs': {'bb': 27211, 'fix': 68426, 'internet': 2516994, 'mob': 10677153},
                               'tld': '.mg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mg'}},
           'mcc': ['646'],
@@ -8010,8 +8026,8 @@ P1_CC2 = \
                                             'direct-dial telephones',
                                             'other islands interconnected by high frequency radiotelephone (used '
                                             'mostly for government purposes) and mini-satellite telephones',
-                                            'fixed-line 3 per 100 persons and mobile-cellular is 21 per 100 persons',
-                                            2018],
+                                            'fixed-line 4 per 100 persons and mobile-cellular is 28 per 100 persons',
+                                            2019],
                               'general': [ 'some telecom infrastructure improvements made in recent years',
                                            'modern services include fiber optic cable service, cellular, Internet, '
                                            'international calling, caller ID, and leased data circuits',
@@ -8024,7 +8040,7 @@ P1_CC2 = \
                               'intl': [ 'satellite earth stations - 2 Intelsat (Pacific Ocean)',
                                         'US Government satellite communications system on Kwajalein',
                                         2000],
-                              'subs': {'bb': 1000, 'fix': 2361, 'internet': 29290, 'mob': 16000},
+                              'subs': {'bb': 1000, 'fix': 3172, 'internet': 29290, 'mob': 21169},
                               'tld': '.mh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mh'}},
           'mcc': ['551'],
@@ -8057,7 +8073,7 @@ P1_CC2 = \
                                   'republika severna makedonija',
                                   'severna makedonija'],
                      'tel': { 'code': '389',
-                              'domestic': ['fixed-line 18 per 100 and mobile-cellular 93 per 100 subscriptions', 2018],
+                              'domestic': ['fixed-line 19 per 100 and mobile-cellular 99 per 100 subscriptions', 2019],
                               'general': [ 'being part of the EU pre-accession process has led to stronger teledensity '
                                            'with a closer regulatory framework and independent regulators',
                                            'administrative ties with the European Union have led to progress',
@@ -8067,7 +8083,7 @@ P1_CC2 = \
                                            'end of roaming tariffs',
                                            2020],
                               'intl': [2000],
-                              'subs': {'bb': 427964, 'fix': 382901, 'internet': 1677569, 'mob': 1969109},
+                              'subs': {'bb': 427964, 'fix': 402250, 'internet': 1677569, 'mob': 2094037},
                               'tld': '.mk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mk'}},
           'mcc': ['294'],
@@ -8100,11 +8116,11 @@ P1_CC2 = \
                      'nameset': ['mali', 'republic of mali', 'republique de mali', 'the republic of mali'],
                      'tel': { 'code': '223',
                               'domestic': [ 'fixed-line subscribership 1 per 100 persons',
-                                            'mobile-cellular subscribership has increased sharply to over 119 per 100 '
+                                            'mobile-cellular subscribership has increased sharply to over 115 per 100 '
                                             'persons',
                                             'increasing use of local radio loops to extend network coverage to remote '
                                             'areas',
-                                            2018],
+                                            2019],
                               'general': [ 'telecoms infrastructure is barely adequate in most town and not available '
                                            'in many areas of the country',
                                            'geography is a challenge for telecommunications',
@@ -8122,7 +8138,7 @@ P1_CC2 = \
                                         'countries',
                                         'satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean)',
                                         2000],
-                              'subs': {'bb': 120934, 'fix': 228097, 'internet': 2395886, 'mob': 21955565},
+                              'subs': {'bb': 120934, 'fix': 227831, 'internet': 2395886, 'mob': 21850850},
                               'tld': '.ml',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ml'}},
           'mcc': ['610'],
@@ -8163,9 +8179,9 @@ P1_CC2 = \
                                   'the union of myanmar',
                                   'union of burma'],
                      'tel': { 'code': '95',
-                              'domestic': [ 'fixed-line is 1 per 100, while mobile-cellular is 110 per 100 and shows '
+                              'domestic': [ 'fixed-line is 1 per 100, while mobile-cellular is 114 per 100 and shows '
                                             'great potential for the future',
-                                            2018],
+                                            2019],
                               'general': [ 'use to claim to be one of the last underdeveloped telecom markets in Asia',
                                            'the mobile market has recently experienced rapid growth, in 2014 foreign '
                                            'competition was allowed to compete in the market and now they have moved '
@@ -8179,7 +8195,7 @@ P1_CC2 = \
                                         'Middle East, Africa, Southeast Asia, Australia and Europe',
                                         'satellite earth stations - 2, Intelsat (Indian Ocean) and ShinSat',
                                         2019],
-                              'subs': {'bb': 129050, 'fix': 520863, 'internet': 17064985, 'mob': 61143964},
+                              'subs': {'bb': 129050, 'fix': 544283, 'internet': 17064985, 'mob': 63877526},
                               'tld': '.mm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mm'}},
           'mcc': ['414'],
@@ -8217,8 +8233,8 @@ P1_CC2 = \
                      'tel': { 'code': '976',
                               'domestic': [ 'very low fixed-line teledensity 12 per 100',
                                             'there are four mobile-cellular providers and subscribership is increasing '
-                                            'with 136 per 100 persons',
-                                            2018],
+                                            'with 137 per 100 persons',
+                                            2019],
                               'general': [ 'liberalized and competitive telecoms market',
                                            'mobile broadband seen steady growth, but fixed-line broadband is an '
                                            'attractive option',
@@ -8235,7 +8251,7 @@ P1_CC2 = \
                                            'Mongolian government',
                                            2020],
                               'intl': ['satellite earth stations - 7', 2016],
-                              'subs': {'bb': 306150, 'fix': 369853, 'internet': 735823, 'mob': 4222041},
+                              'subs': {'bb': 306150, 'fix': 385191, 'internet': 735823, 'mob': 4297643},
                               'tld': '.mn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mn'}},
           'mcc': ['428'],
@@ -8259,7 +8275,7 @@ P1_CC2 = \
                                   'macau',
                                   'macau special administrative region'],
                      'tel': { 'code': '853',
-                              'domestic': ['fixed-line 20 per 100 and mobile-cellular 360 per 100 persons', 2018],
+                              'domestic': ['fixed-line 20 per 100 and mobile-cellular 345 per 100 persons', 2019],
                               'general': [ 'modern communication facilities maintained for domestic and international '
                                            'services',
                                            'high mobile subscriber numbers and mobile penetration with 4 network '
@@ -8274,7 +8290,7 @@ P1_CC2 = \
                                         'HF radiotelephone communication facility',
                                         'satellite earth station - 1 Intelsat (Indian Ocean)',
                                         2019],
-                              'subs': {'bb': 193057, 'fix': 123469, 'internet': 508052, 'mob': 2181194},
+                              'subs': {'bb': 193057, 'fix': 119355, 'internet': 508052, 'mob': 2108274},
                               'tld': '.mo',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mo'}},
           'mcc': ['455'],
@@ -8305,7 +8321,8 @@ P1_CC2 = \
                               'domestic': [ 'wide variety of services available including dial-up and broadband '
                                             'Internet, mobile cellular, international private lines, payphones, phone '
                                             'cards, voicemail, and automatic call distribution systems',
-                                            2018],
+                                            'fixed-line teledensity 39 per 100 persons',
+                                            2019],
                               'general': [ 'digital fiber-optic cables and satellites connect the islands to worldwide '
                                            'networks',
                                            'demand for broadband growing given that mobile services are the source for '
@@ -8316,7 +8333,7 @@ P1_CC2 = \
                                         'Mariana islands to Guam',
                                         'satellite earth stations - 2 Intelsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'internet': 16000},
+                              'subs': {'fix': 20398, 'internet': 16000},
                               'tld': '.mp',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mp'}},
           'mcc': ['310'],
@@ -8358,13 +8375,13 @@ P1_CC2 = \
                                   'muritaniyah',
                                   'the islamic republic of mauritania'],
                      'tel': { 'code': '222',
-                              'domestic': [ 'fixed-line teledensity 2 per 100 persons',
+                              'domestic': [ 'fixed-line teledensity 1 per 100 persons',
                                             'mobile-cellular network coverage extends mainly to urban areas with a '
-                                            'teledensity of roughly 119 per 100 persons',
+                                            'teledensity of roughly 104 per 100 persons',
                                             'mostly cable and open-wire lines',
                                             'a domestic satellite telecommunications system links Nouakchott with '
                                             'regional capitals',
-                                            2018],
+                                            2019],
                               'general': [ 'limited system of cable and open-wire lines, minor microwave radio relay '
                                            'links, and radiotelephone communications stations',
                                            'mobile-cellular services expanding',
@@ -8381,7 +8398,7 @@ P1_CC2 = \
                                         'countries and 2 European countries',
                                         'satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat)',
                                         2019],
-                              'subs': {'bb': 13222, 'fix': 59959, 'internet': 798809, 'mob': 4566502},
+                              'subs': {'bb': 13222, 'fix': 53742, 'internet': 798809, 'mob': 4083199},
                               'tld': '.mr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mr'}},
           'mcc': ['609'],
@@ -8409,8 +8426,8 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mh.html'},
                      'nameset': ['montserrat'],
                      'tel': { 'code': '1664',
-                              'domestic': [ 'fixed-line 57 per 100 and mobile-cellular teledensity 95 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line 60 per 100 and mobile-cellular teledensity 101 per 100 persons',
+                                            2019],
                               'general': [ 'telecom market one of growth in Caribbean and fully digitalized',
                                            'high dependency on tourism and offshore financial services',
                                            'operators expand FttP (Fiber to Home) services',
@@ -8421,7 +8438,7 @@ P1_CC2 = \
                                         'islands in the eastern Caribbean extending from the British Virgin Islands to '
                                         'Trinidad',
                                         2019],
-                              'subs': {'fix': 3000, 'internet': 2860, 'mob': 5000},
+                              'subs': {'fix': 3227, 'internet': 2860, 'mob': 5377},
                               'tld': '.ms',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ms'}},
           'mcc': ['354'],
@@ -8448,11 +8465,11 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mt.html'},
                      'nameset': ['malta', "repubblika ta' malta", 'republic of malta', 'the republic of malta'],
                      'tel': { 'code': '356',
-                              'domestic': [ 'fixed-line 57 per 100 persons and mobile-cellular subscribership 137 per '
+                              'domestic': [ 'fixed-line 58 per 100 persons and mobile-cellular subscribership 144 per '
                                             '100 persons',
                                             'automatic system featuring submarine cable and microwave radio relay '
                                             'between islands',
-                                            2018],
+                                            2019],
                               'general': [ 'one of the most advanced telecoms in Europe, high penetration of mobile '
                                            'and broadband, and a way forward to expand e-commerce opportunities',
                                            'stimulated by regulator measures to reduce consumer prices',
@@ -8464,7 +8481,7 @@ P1_CC2 = \
                                         'cable connections to Italy',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 191833, 'fix': 255437, 'internet': 365521, 'mob': 615843},
+                              'subs': {'bb': 191833, 'fix': 264557, 'internet': 365521, 'mob': 653414},
                               'tld': '.mt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mt'}},
           'mcc': ['278'],
@@ -8490,9 +8507,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mp.html'},
                      'nameset': ['mauritius', 'republic of mauritius', 'the republic of mauritius'],
                      'tel': { 'code': '230',
-                              'domestic': [ 'fixed-line teledensity 32 per 100 persons and mobile-cellular services '
-                                            'teledensity approaching 141 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line teledensity 34 per 100 persons and mobile-cellular services '
+                                            'teledensity approaching 151 per 100 persons',
+                                            2019],
                               'general': [ 'small system with good service',
                                            'LTE and fiber broadband service are available',
                                            'government supports building a national Wi-Fi network',
@@ -8511,7 +8528,7 @@ P1_CC2 = \
                                         'new microwave link to Reunion',
                                         'HF radiotelephone links to several countries',
                                         2019],
-                              'subs': {'bb': 274200, 'fix': 434300, 'internet': 799470, 'mob': 1918000},
+                              'subs': {'bb': 274200, 'fix': 470166, 'internet': 799470, 'mob': 2076577},
                               'tld': '.mu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mu'}},
           'mcc': ['617'],
@@ -8541,9 +8558,9 @@ P1_CC2 = \
                                   'republic of maldives',
                                   'the republic of maldives'],
                      'tel': { 'code': '960',
-                              'domestic': [ 'fixed-line is at 5 per 100 persons and high mobile-cellular subscriptions '
-                                            'stands at 219 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line is at 3 per 100 persons and high mobile-cellular subscriptions '
+                                            'stands at 156 per 100 persons',
+                                            2019],
                               'general': [ 'upgrades to telecom infrastructure extended to outer islands',
                                            'two mobile operators extend LTE coverage',
                                            'tourism has strengthened the telecom market with investment and accounts '
@@ -8556,7 +8573,7 @@ P1_CC2 = \
                                         'Maldives, India, and Sri Lanka',
                                         'satellite earth station - 3 Intelsat (Indian Ocean)',
                                         2019],
-                              'subs': {'bb': 53470, 'fix': 18754, 'internet': 248004, 'mob': 857934},
+                              'subs': {'bb': 53470, 'fix': 12316, 'internet': 248004, 'mob': 611662},
                               'tld': '.mv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mv'}},
           'mcc': ['472'],
@@ -8584,8 +8601,8 @@ P1_CC2 = \
                               'domestic': [ 'limited fixed-line subscribership less than 1 per 100 households',
                                             'mobile-cellular services are expanding but network coverage is limited '
                                             'and is based around the main urban areas',
-                                            'mobile-cellular subscribership 36 per 100 households',
-                                            2018],
+                                            'mobile-cellular subscribership 48 per 100 households',
+                                            2019],
                               'general': [ 'rudimentary',
                                            '2 fixed-line and 3 mobile-cellular operators govern the market',
                                            'some mobile services to rural areas',
@@ -8602,7 +8619,7 @@ P1_CC2 = \
                                            2020],
                               'intl': [ 'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 11358, 'fix': 14992, 'internet': 2734305, 'mob': 7076906},
+                              'subs': {'bb': 11358, 'fix': 14357, 'internet': 2734305, 'mob': 9799352},
                               'tld': '.mw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mw'}},
           'mcc': ['650'],
@@ -8633,10 +8650,10 @@ P1_CC2 = \
                                   'united mexican states'],
                      'tel': { 'code': '52',
                               'domestic': [ 'competition has spurred the mobile-cellular market',
-                                            'fixed-line teledensity exceeds 17 per 100 persons',
+                                            'fixed-line teledensity exceeds 18 per 100 persons',
                                             'mobile-cellular teledensity is about 95 per 100 persons',
                                             'domestic satellite system with 120 earth stations',
-                                            2018],
+                                            2019],
                               'general': [ 'adequate telephone service for business and government',
                                            'improving quality and increasing mobile cellular availability, with mobile '
                                            'subscribers far outnumbering fixed-line subscribers',
@@ -8659,7 +8676,7 @@ P1_CC2 = \
                                         'earth stations)',
                                         'linked to Central American Microwave System of trunk connections',
                                         2016],
-                              'subs': {'bb': 18359028, 'fix': 21645699, 'internet': 82843369, 'mob': 120173510},
+                              'subs': {'bb': 18359028, 'fix': 22471647, 'internet': 82843369, 'mob': 121117720},
                               'tld': '.mx',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mx'}},
           'mcc': ['334'],
@@ -8714,10 +8731,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_my.html'},
                      'nameset': ['malaysia'],
                      'tel': { 'code': '60',
-                              'domestic': [ 'fixed-line 20 per 100 and mobile-cellular teledensity exceeds 133 per 100 '
+                              'domestic': [ 'fixed-line 20 per 100 and mobile-cellular teledensity exceeds 140 per 100 '
                                             'persons',
                                             'domestic satellite system with 2 earth stations',
-                                            2018],
+                                            2019],
                               'general': [ 'one of the most advanced telecom networks in the developing world',
                                            'strong commitment to developing a technological society',
                                            'Malaysia is promoting itself as an information tech hub in the Asian '
@@ -8735,7 +8752,7 @@ P1_CC2 = \
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean)',
                                         'launch of Kacific-1 satellite in 2019',
                                         2019],
-                              'subs': {'bb': 2696000, 'fix': 6433300, 'internet': 25829444, 'mob': 42413400},
+                              'subs': {'bb': 2696000, 'fix': 6530410, 'internet': 25829444, 'mob': 44997299},
                               'tld': '.my',
                               'url_tld': 'https://en.wikipedia.org/wiki/.my'}},
           'mcc': ['502'],
@@ -8793,8 +8810,8 @@ P1_CC2 = \
                                             'mobile-cellular network',
                                             'operators provide coverage that includes all the main cities and key '
                                             'roads',
-                                            'fixed-line less than 1 per 100 and 49 per 100 mobile-cellular teledensity',
-                                            2018],
+                                            'fixed-line less than 1 per 100 and 48 per 100 mobile-cellular teledensity',
+                                            2019],
                               'general': [ 'the mobile segment has shown strong growth',
                                            'poor fixed-line infrastructure means most Internet access is through '
                                            'mobile accounts',
@@ -8810,7 +8827,7 @@ P1_CC2 = \
                                         'satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean)',
                                         'TdM contracts for Itelsat for satellite broadband and bulk haul services',
                                         2020],
-                              'subs': {'bb': 70142, 'fix': 63006, 'internet': 2855670, 'mob': 14074248},
+                              'subs': {'bb': 70142, 'fix': 61575, 'internet': 2855670, 'mob': 13992090},
                               'tld': '.mz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mz'}},
           'mcc': ['643'],
@@ -8840,7 +8857,7 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_wa.html'},
                      'nameset': ['namibia', 'republic of namibia', 'the republic of namibia'],
                      'tel': { 'code': '264',
-                              'domestic': [ 'fixed-line subscribership is 6 per 100 and mobile-cellular 109 per 100 '
+                              'domestic': [ 'fixed-line subscribership is 6 per 100 and mobile-cellular 113 per 100 '
                                             'persons',
                                             2019],
                               'general': [ 'fixed-line still a govt. monopoly',
@@ -8855,7 +8872,7 @@ P1_CC2 = \
                                         'southern and western African countries to Europe',
                                         'satellite earth stations - 4 Intelsat',
                                         2019],
-                              'subs': {'bb': 61968, 'fix': 154816, 'internet': 1291944, 'mob': 2759293},
+                              'subs': {'bb': 61968, 'fix': 144575, 'internet': 1291944, 'mob': 2921697},
                               'tld': '.na',
                               'url_tld': 'https://en.wikipedia.org/wiki/.na'}},
           'mcc': ['649'],
@@ -8884,9 +8901,9 @@ P1_CC2 = \
                                   'territoire des nouvelle-caledonie et dependances',
                                   'territory of new caledonia and dependencies'],
                      'tel': { 'code': '687',
-                              'domestic': [ 'fixed-line 34 per 100 and mobile-cellular telephone subscribership 91 per '
+                              'domestic': [ 'fixed-line 29 per 100 and mobile-cellular telephone subscribership 96 per '
                                             '100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'well advanced telecoms sector',
                                            '3G & 4G network services',
                                            'one of the highest smart phone adoption rates in the region',
@@ -8897,7 +8914,7 @@ P1_CC2 = \
                                         'submarine cables around New Caledonia and to Australia',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'fix': 92000, 'internet': 231887, 'mob': 246000},
+                              'subs': {'fix': 82111, 'internet': 231887, 'mob': 275002},
                               'tld': '.nc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.nc'}},
           'mcc': ['546'],
@@ -8934,12 +8951,12 @@ P1_CC2 = \
                                   'the niger',
                                   'the republic of the niger'],
                      'tel': { 'code': '227',
-                              'domestic': [ 'fixed-line 1 per 100 persons and mobile-cellular teledensity remains 46 '
+                              'domestic': [ 'fixed-line 1 per 100 persons and mobile-cellular teledensity remains 41 '
                                             'per 100 persons despite a rapidly increasing cellular subscribership base',
                                             'small system of wire, radio telephone communications, and microwave radio '
                                             'relay links concentrated in southwestern Niger',
                                             'domestic satellite system with 3 earth stations and 1 planned',
-                                            2018],
+                                            2019],
                               'general': [ 'mobile services stronger than fixed telecoms',
                                            'broadband penetration inconsequential',
                                            'adopts free mobile roaming with other G5 Sahel countries',
@@ -8949,7 +8966,7 @@ P1_CC2 = \
                                            2020],
                               'intl': [ 'satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)',
                                         2000],
-                              'subs': {'bb': 8650, 'fix': 114352, 'internet': 1110778, 'mob': 8778884},
+                              'subs': {'bb': 8650, 'fix': 116352, 'internet': 1110778, 'mob': 8921769},
                               'tld': '.ne',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ne'}},
           'mcc': ['614'],
@@ -9008,8 +9025,8 @@ P1_CC2 = \
                                             'mobile-cellular services growing rapidly, in part responding to the '
                                             'shortcomings of the fixed-line network',
                                             'multiple cellular providers operate nationally with subscribership base '
-                                            'over 85 per 100 persons',
-                                            2018],
+                                            'over 88 per 100 persons',
+                                            2019],
                               'general': [ 'one of the larger telecom markets in Africa',
                                            'most Internet connections are via mobile networks',
                                            'foreign investment presence, particularly China',
@@ -9028,7 +9045,7 @@ P1_CC2 = \
                                         'and West Africa',
                                         'satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean)',
                                         2019],
-                              'subs': {'bb': 73965, 'fix': 140491, 'internet': 85450052, 'mob': 172730603},
+                              'subs': {'bb': 73965, 'fix': 146075, 'internet': 85450052, 'mob': 184013243},
                               'tld': '.ng',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ng'}},
           'mcc': ['621'],
@@ -9074,10 +9091,10 @@ P1_CC2 = \
                      'tel': { 'code': '505',
                               'domestic': [ 'since privatization, access to fixed-line and mobile-cellular services '
                                             'has improved',
-                                            'fixed-line teledensity roughly 5 per 100 persons',
-                                            'mobile-cellular telephone subscribership has increased to 122 per 100 '
+                                            'fixed-line teledensity roughly 4 per 100 persons',
+                                            'mobile-cellular telephone subscribership has increased to 88 per 100 '
                                             'persons',
-                                            2018],
+                                            2019],
                               'general': [ 'system being upgraded by foreign investment',
                                            'new canal being built between Pacific and Caribbean with Chinese funding',
                                            'nearly all installed telecommunications capacity now uses digital '
@@ -9095,7 +9112,7 @@ P1_CC2 = \
                                         'satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 '
                                         'Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 192413, 'fix': 325821, 'internet': 1695340, 'mob': 7441527},
+                              'subs': {'bb': 192413, 'fix': 215055, 'internet': 1695340, 'mob': 5433530},
                               'tld': '.ni',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ni'}},
           'mcc': ['710'],
@@ -9131,8 +9148,8 @@ P1_CC2 = \
                                             'third generation of the Global System for Mobile Communications '
                                             'technology',
                                             'one in five households now use Voice over the Internet Protocol services',
-                                            'fixed-line 34 per 100 and mobile-cellular 123 per 100 persons',
-                                            2018],
+                                            'fixed-line 33 per 100 and mobile-cellular 127 per 100 persons',
+                                            2019],
                               'general': [ 'highly developed and well maintained',
                                            'while fixed-line voice market is in decline the VoIP (voice over Internet '
                                            'protocol) and mobile platforms advance',
@@ -9148,7 +9165,7 @@ P1_CC2 = \
                                         'satellite earth stations - 5 (3 Intelsat - 1 Indian Ocean and 2 Atlantic '
                                         'Ocean, 1 Eutelsat, and 1 Inmarsat)',
                                         2019],
-                              'subs': {'bb': 7406700, 'fix': 5900000, 'internet': 16243928, 'mob': 21108000},
+                              'subs': {'bb': 7406700, 'fix': 5598798, 'internet': 16243928, 'mob': 21914852},
                               'tld': '.nl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.nl'}},
           'mcc': ['204'],
@@ -9215,8 +9232,8 @@ P1_CC2 = \
                               'domestic': [ 'Norway has a domestic satellite system',
                                             'the prevalence of rural areas encourages the wide use of mobile-cellular '
                                             'systems',
-                                            'fixed-line 10 per 100 and mobile-cellular 106 per 100',
-                                            2018],
+                                            'fixed-line 11 per 100 and mobile-cellular 107 per 100',
+                                            2019],
                               'general': [ 'one of the most advanced telecommunications networks in Europe',
                                            'high mobile and broadband penetration rates and highly developed digital '
                                            'media sector',
@@ -9236,7 +9253,7 @@ P1_CC2 = \
                                         'note - Norway shares the Inmarsat earth station with the other Nordic '
                                         'countries (Denmark, Finland, Iceland, and Sweden)',
                                         2019],
-                              'subs': {'bb': 2206519, 'fix': 560945, 'internet': 5183627, 'mob': 5720892},
+                              'subs': {'bb': 2206519, 'fix': 571958, 'internet': 5183627, 'mob': 5810113},
                               'tld': '.no',
                               'url_tld': 'https://en.wikipedia.org/wiki/.no'}},
           'mcc': ['242'],
@@ -9288,7 +9305,7 @@ P1_CC2 = \
                               'domestic': [ '3G coverage is available in 20 major cities (2019)',
                                             'disparity between high coverage in cities and coverage available in '
                                             'underdeveloped rural regions',
-                                            'fixed-line 3 per 100 persons and mobile-cellular 132 per 100 persons',
+                                            'fixed-line 3 per 100 persons and mobile-cellular 139 per 100 persons',
                                             'fair radiotelephone communication service',
                                             '20% of the market share is fixed (wired) broadband, 2% is fixed '
                                             '(wireless) broadband, and 78% is mobile broadband',
@@ -9307,7 +9324,7 @@ P1_CC2 = \
                                         'microwave and fiber landlines to India',
                                         'satellite earth station - 1 Intelsat (Indian Ocean)',
                                         2019],
-                              'subs': {'bb': 791961, 'fix': 799368, 'internet': 10103980, 'mob': 39178451},
+                              'subs': {'bb': 791961, 'fix': 855926, 'internet': 10103980, 'mob': 41880311},
                               'tld': '.np',
                               'url_tld': 'https://en.wikipedia.org/wiki/.np'}},
           'mcc': ['429'],
@@ -9332,7 +9349,7 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_nr.html'},
                      'nameset': ['nauru', 'republic of nauru', 'the republic of nauru'],
                      'tel': { 'code': '674',
-                              'domestic': ['fixed-line 14 per 100 and mobile-cellular 87 per 100', 2018],
+                              'domestic': ['fixed-line 14 per 100 and mobile-cellular 95 per 100', 2019],
                               'general': [ 'adequate local and international radiotelephone communication provided via '
                                            'Australian facilities',
                                            'geography is a challenge for the islands',
@@ -9341,7 +9358,7 @@ P1_CC2 = \
                                            'mobile technology is booming',
                                            2018],
                               'intl': ['satellite earth station - 1 Intelsat (Pacific Ocean)', 2000],
-                              'subs': {'fix': 1900, 'internet': 5524, 'mob': 9900},
+                              'subs': {'fix': 1900, 'internet': 5524, 'mob': 9212},
                               'tld': '.nr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.nr'}},
           'mcc': ['536'],
@@ -9406,9 +9423,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_nz.html'},
                      'nameset': ['new zealand'],
                      'tel': { 'code': '64',
-                              'domestic': [ 'fixed-line 37 per 100 and mobile-cellular telephone subscribership 134 '
+                              'domestic': [ 'fixed-line 37 per 100 and mobile-cellular telephone subscribership 135 '
                                             'per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'excellent domestic and international systems',
                                            'mobile and P2P services soar',
                                            'LTE rates some of the fastest in the world',
@@ -9425,7 +9442,7 @@ P1_CC2 = \
                                         'Samoa, Kiribati, Samo, Tokelau, US and around New Zealand',
                                         'satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other)',
                                         2019],
-                              'subs': {'bb': 1647000, 'fix': 1760000, 'internet': 4340672, 'mob': 6400000},
+                              'subs': {'bb': 1647000, 'fix': 1801645, 'internet': 4340672, 'mob': 6550687},
                               'tld': '.nz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.nz'}},
           'mcc': ['530'],
@@ -9453,17 +9470,17 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mu.html'},
                      'nameset': ['oman', 'saltanat uman', 'sultanate of oman', 'the sultanate of oman', 'uman'],
                      'tel': { 'code': '968',
-                              'domestic': [ 'fixed-line 16 per 100 and mobile-cellular 184 per 100, subscribership '
+                              'domestic': [ 'fixed-line 13 per 100 and mobile-cellular 138 per 100, subscribership '
                                             'both increasing with fixed-line phone service gradually being introduced '
                                             'to remote villages using wireless local loop systems',
-                                            2018],
+                                            2019],
                               'general': [ 'modern system consisting of open-wire, microwave, and radiotelephone '
                                            'communication stations',
                                            'coaxial cable',
                                            'domestic satellite system with 8 earth stations',
                                            'progressive mobile sector with both 3G and 4G LTE networks and reediness '
                                            'for 5G launch',
-                                           'competition among 3 mobile network operators (MNO)',
+                                           'competition among 3 (mobile network operators) MNO',
                                            2020],
                               'intl': [ 'landing points for GSA, AAE-1, SeaMeWe-5, Tata TGN-Gulf, FALCON, GBICS/MENA, '
                                         'MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, and POI submarine '
@@ -9471,11 +9488,11 @@ P1_CC2 = \
                                         'Asia and Europe',
                                         'satellite earth stations - 2 Intelsat (Indian Ocean)',
                                         2019],
-                              'subs': {'bb': 422035, 'fix': 560326, 'internet': 2801932, 'mob': 6440889},
+                              'subs': {'bb': 422035, 'fix': 456940, 'internet': 2801932, 'mob': 4926899},
                               'tld': '.om',
                               'url_tld': 'https://en.wikipedia.org/wiki/.om'}},
           'mcc': ['422'],
-          'mccmnc': ['42202', '42203', '42204'],
+          'mccmnc': ['42202', '42203', '42204', '42206'],
           'msisdn': ['968'],
           'name': 'Oman',
           'url': 'https://en.wikipedia.org/wiki/Oman'},
@@ -9502,9 +9519,9 @@ P1_CC2 = \
                                   'republica de panama',
                                   'the republic of panamá'],
                      'tel': { 'code': '507',
-                              'domestic': [ 'fixed-line 19 per 100 and rapid subscribership of mobile-cellular '
-                                            'telephone 151 per 100',
-                                            2018],
+                              'domestic': [ 'fixed-line 17 per 100 and rapid subscribership of mobile-cellular '
+                                            'telephone 132 per 100',
+                                            2019],
                               'general': [ 'domestic and international facilities well-developed',
                                            'investment from international operators',
                                            'competition among operators helps reduce price of services',
@@ -9519,7 +9536,7 @@ P1_CC2 = \
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         'connected to the Central American Microwave System',
                                         2019],
-                              'subs': {'bb': 540220, 'fix': 728379, 'internet': 2199433, 'mob': 5722370},
+                              'subs': {'bb': 540220, 'fix': 671799, 'internet': 2199433, 'mob': 5073123},
                               'tld': '.pa',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pa'}},
           'mcc': ['714'],
@@ -9557,10 +9574,10 @@ P1_CC2 = \
                      'tel': { 'code': '51',
                               'domestic': [ 'fixed-line teledensity is only about 10 per 100 persons',
                                             'mobile-cellular teledensity, spurred by competition among multiple '
-                                            'providers, now 125 telephones per 100 persons',
+                                            'providers, now 124 telephones per 100 persons',
                                             'nationwide microwave radio relay system and a domestic satellite system '
                                             'with 12 earth stations',
-                                            2018],
+                                            2019],
                               'general': [ 'good mobile operator competition with LTE services',
                                            'broadband subscriber penetration low compared to other Latin American '
                                            'countries',
@@ -9574,7 +9591,7 @@ P1_CC2 = \
                                         'America, the Caribbean, and US',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 2310217, 'fix': 3082036, 'internet': 16461427, 'mob': 38915386},
+                              'subs': {'bb': 2310217, 'fix': 3099172, 'internet': 16461427, 'mob': 39138119},
                               'tld': '.pe',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pe'}},
           'mcc': ['716'],
@@ -9602,9 +9619,9 @@ P1_CC2 = \
                                   "pays d'outre-mer de la polynesie francaise",
                                   'polynesie francaise'],
                      'tel': { 'code': '689',
-                              'domestic': [ 'fixed-line subscriptions 31 per 100 persons and mobile-cellular density '
+                              'domestic': [ 'fixed-line subscriptions 22 per 100 persons and mobile-cellular density '
                                             'is roughly 104 per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'one of the most advanced telecom infrastructures for the Pacific island '
                                            'region',
                                            '85% mobile broadband coverage',
@@ -9619,7 +9636,7 @@ P1_CC2 = \
                                         'other French Polynesian Islands, Cook Islands, Niue, Samoa and US',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'bb': 59790, 'fix': 90278, 'internet': 211101, 'mob': 302673},
+                              'subs': {'bb': 59790, 'fix': 63769, 'internet': 211101, 'mob': 305233},
                               'tld': '.pf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pf'}},
           'mcc': ['547'],
@@ -9649,9 +9666,9 @@ P1_CC2 = \
                                   'the independent state of papua new guinea'],
                      'tel': { 'code': '675',
                               'domestic': [ 'access to telephone services is not widely available',
-                                            'fixed-line 2 per 100 and mobile-cellular 55 per 100 person, teledensity '
+                                            'fixed-line 2 per 100 and mobile-cellular 48 per 100 person, teledensity '
                                             'has increased',
-                                            2018],
+                                            2019],
                               'general': [ 'services are minimal',
                                            'Internet slow and expensive',
                                            'facilities provide radiotelephone and telegraph, coastal radio, '
@@ -9667,7 +9684,7 @@ P1_CC2 = \
                                         'Solomon Islands',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'bb': 17000, 'fix': 154000, 'internet': 787764, 'mob': 3782000},
+                              'subs': {'bb': 17000, 'fix': 133593, 'internet': 787764, 'mob': 3401971},
                               'tld': '.pg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pg'}},
           'mcc': ['537'],
@@ -9700,11 +9717,11 @@ P1_CC2 = \
                                   'the republic of the philippines'],
                      'tel': { 'code': '63',
                               'domestic': [ 'telecommunications infrastructure includes the following platforms: fixed '
-                                            'line, mobile cellular, cable TV, over-the-air TV, radio and Very Small '
-                                            'Aperture Terminal (VSAT), fiber-optic cable, and satellite for redundant '
+                                            'line, mobile cellular, cable TV, over-the-air TV, radio and (very small '
+                                            'aperture terminal) VSAT, fiber-optic cable, and satellite for redundant '
                                             'international connectivity',
-                                            'fixed-line 4 per 100 and mobile-cellular 127 per 100',
-                                            2018],
+                                            'fixed-line 4 per 100 and mobile-cellular 155 per 100',
+                                            2019],
                               'general': [ 'good international radiotelephone and submarine cable services',
                                            'domestic and interisland service adequate',
                                            'National Broadband Plan to improve connectivity in rural areas underway',
@@ -9723,7 +9740,7 @@ P1_CC2 = \
                                         'connectivity to the US, Southeast Asia, Asia, Europe, Africa, the Middle '
                                         'East, and Australia',
                                         2019],
-                              'subs': {'bb': 3919713, 'fix': 4132490, 'internet': 63588975, 'mob': 134592608},
+                              'subs': {'bb': 3919713, 'fix': 4140108, 'internet': 63588975, 'mob': 166421595},
                               'tld': '.ph',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ph'}},
           'mcc': ['515'],
@@ -9760,8 +9777,8 @@ P1_CC2 = \
                                             'fiber-optic networks are being constructed throughout the country to '
                                             'increase broadband access, though broadband penetration in Pakistan is '
                                             'still relatively low',
-                                            'fixed-line 1 per 100 and mobile-cellular 69 per 100 persons',
-                                            2018],
+                                            'fixed-line 1 per 100 and mobile-cellular 76 per 100 persons',
+                                            2019],
                               'general': [ 'the telecommunications infrastructure is improving, with investments in '
                                            'mobile-cellular networks increasing, fixed-line subscriptions declining',
                                            'system consists of microwave radio relay, coaxial cable, fiber-optic '
@@ -9779,7 +9796,7 @@ P1_CC2 = \
                                         'Islamabad)',
                                         'microwave radio relay to neighboring countries',
                                         2019],
-                              'subs': {'bb': 1811365, 'fix': 2798606, 'internet': 34734689, 'mob': 153986607},
+                              'subs': {'bb': 1811365, 'fix': 2607495, 'internet': 34734689, 'mob': 174702132},
                               'tld': '.pk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pk'}},
           'mcc': ['410'],
@@ -9819,9 +9836,9 @@ P1_CC2 = \
                      'tel': { 'code': '48',
                               'domestic': [ 'several nation-wide networks provide mobile-cellular service',
                                             'coverage is generally good',
-                                            'fixed-line 17 per 100 service lags in rural areas, mobile-cellular 133 '
+                                            'fixed-line 18 per 100 service lags in rural areas, mobile-cellular 138 '
                                             'per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'fixed-line service is dominated by the former state-owned company, yet it '
                                            'is dwarfed by the growth in mobile-cellular services',
                                            'regulatory is framed by EU principles of competition',
@@ -9837,7 +9854,7 @@ P1_CC2 = \
                                         'satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and '
                                         'Intersputnik',
                                         2019],
-                              'subs': {'bb': 6114926, 'fix': 6575246, 'internet': 29791401, 'mob': 51098747},
+                              'subs': {'bb': 6114926, 'fix': 6907937, 'internet': 29791401, 'mob': 52916105},
                               'tld': '.pl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pl'}},
           'mcc': ['260'],
@@ -9918,13 +9935,14 @@ P1_CC2 = \
                                   'territorial collectivity of saint pierre and miquelon',
                                   'the overseas collectivity of saint-pierre and miquelon'],
                      'tel': { 'code': '508',
+                              'domestic': ['fixed-line teledensity 76 per 100 persons', 2019],
                               'general': ['adequate', 2018],
                               'intl': [ 'landing point for the St Pierre and Miquelon Cable connecting Saint Pierre & '
                                         'Miquelon and Canada',
                                         'radiotelephone communication with most countries in the world',
                                         'satellite earth station - 1 in French domestic satellite system',
                                         2019],
-                              'subs': {'fix': 4800, 'internet': 4500},
+                              'subs': {'fix': 4086, 'internet': 4500},
                               'tld': '.pm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pm'}},
           'mcc': ['308'],
@@ -9961,7 +9979,7 @@ P1_CC2 = \
                                            'the launch of the Kacific-1 satellite in 2019 will improve '
                                            'telecommunications in the region',
                                            2020],
-                              'intl': ['satellite earth station - 1 (Inmarsat)', 2000],
+                              'intl': ['satellite earth station - 1 Inmarsat', 2000],
                               'subs': {'internet': 54},
                               'tld': '.pn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pn'}},
@@ -9991,8 +10009,8 @@ P1_CC2 = \
                      'tel': { 'code': '1787',
                               'domestic': [ 'digital telephone system',
                                             'mobile-cellular services',
-                                            'fixed-line 21 per 100 and mobile-cellular 101 per 100 persons',
-                                            2018],
+                                            'fixed-line 23 per 100 and mobile-cellular 115 per 100 persons',
+                                            2019],
                               'general': [ 'modern system integrated with that of the US by high-capacity submarine '
                                            'cable and Intelsat with high-speed data capability',
                                            'havoc caused by hurricane Maria in 2017 and earthquake in 2020, has left '
@@ -10010,11 +10028,21 @@ P1_CC2 = \
                                         'Central and South America',
                                         'satellite earth station - 1 Intelsat',
                                         2019],
-                              'subs': {'bb': 609027, 'fix': 703266, 'internet': 2326006, 'mob': 3330286},
+                              'subs': {'bb': 609027, 'fix': 758869, 'internet': 2326006, 'mob': 3724680},
                               'tld': '.pr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pr'}},
           'mcc': ['330'],
-          'mccmnc': ['33000', '330000', '330110', '330120', '33020', '33030', '330490'],
+          'mccmnc': [ '310017',
+                      '310280',
+                      '313510',
+                      '313790',
+                      '33000',
+                      '330000',
+                      '330110',
+                      '330120',
+                      '33020',
+                      '33030',
+                      '330490'],
           'msisdn': ['1', '1787', '1939'],
           'name': 'Puerto Rico',
           'url': 'https://en.wikipedia.org/wiki/Puerto_Rico'},
@@ -10050,8 +10078,8 @@ P1_CC2 = \
                      'tel': { 'code': '351',
                               'domestic': [ 'integrated network of coaxial cables, open-wire, microwave radio relay, '
                                             'and domestic satellite earth stations',
-                                            'fixed-line 49 per 100 persons and mobile-cellular 115 per 100 persons',
-                                            2018],
+                                            'fixed-line 50 per 100 persons and mobile-cellular 116 per 100 persons',
+                                            2019],
                               'general': [ 'telephone system has a state-of-the-art network with broadband, high-speed '
                                            'capabilities',
                                            'FttP in 2020',
@@ -10070,7 +10098,7 @@ P1_CC2 = \
                                         'NA Eutelsat',
                                         'tropospheric scatter to Azores',
                                         2019],
-                              'subs': {'bb': 3784684, 'fix': 5073458, 'internet': 7731411, 'mob': 11859548},
+                              'subs': {'bb': 3784684, 'fix': 5179685, 'internet': 7731411, 'mob': 12028436},
                               'tld': '.pt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pt'}},
           'mcc': ['268'],
@@ -10109,8 +10137,8 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ps.html'},
                      'nameset': ['belau', 'beluu er a belau', 'palau', 'republic of palau', 'the republic of palau'],
                      'tel': { 'code': '680',
-                              'domestic': [ 'fixed-line 34 per 100 and mobile-cellular services 112 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line 41 per 100 and mobile-cellular services 134 per 100 persons',
+                                            2019],
                               'general': [ 'well-developed mobile sector, recently boosted by satellite network '
                                            'capacity upgrades',
                                            '3G services available with satellite',
@@ -10122,7 +10150,7 @@ P1_CC2 = \
                                         'Micronesia, Indonesia, Hawaii (US), Guam (US) and California (US)',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'fix': 7204, 'internet': 7650, 'mob': 24000},
+                              'subs': {'fix': 8808, 'internet': 7650, 'mob': 29033},
                               'tld': '.pw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pw'}},
           'mcc': ['552'],
@@ -10153,8 +10181,8 @@ P1_CC2 = \
                                             'expansion of mobile-cellular services fostered by competition among '
                                             'multiple providers',
                                             'Internet market also open to competition',
-                                            'fixed-line 4 per 100 and mobile-cellular 106 per 100',
-                                            2018],
+                                            'fixed-line 4 per 100 and mobile-cellular 107 per 100',
+                                            2019],
                               'general': [ 'the fixed-line market is a state monopoly and fixed-line telephone service '
                                            'is meager',
                                            'principal switching center is in Asuncion',
@@ -10170,7 +10198,7 @@ P1_CC2 = \
                                         'broadband services',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 320700, 'fix': 302754, 'internet': 4566043, 'mob': 7439692},
+                              'subs': {'bb': 320700, 'fix': 309221, 'internet': 4566043, 'mob': 7602566},
                               'tld': '.py',
                               'url_tld': 'https://en.wikipedia.org/wiki/.py'}},
           'mcc': ['744'],
@@ -10196,17 +10224,17 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_qa.html'},
                      'nameset': ['dawlat qatar', 'qatar', 'state of qatar', 'the state of qatar'],
                      'tel': { 'code': '974',
-                              'domestic': [ 'fixed-line 19 per 100 and mobile-cellular telephone subscribership 167 '
+                              'domestic': [ 'fixed-line 16 per 100 and mobile-cellular telephone subscribership 138 '
                                             'telephones per 100 persons',
-                                            2018],
+                                            0],
                               'general': [ 'regional leaders in telecom',
                                            'highest fixed-line and mobile penetrations in Middle East',
                                            'deployed over 90 5G base stations for 5G launch, claiming 1st commercial '
                                            'launch of 5G in the world May 2018',
                                            'telecom system centered in Doha',
                                            'steady LTE networks',
-                                           'good broadband penetration, ADSL, Fiber-to-the-Home (FttP), wireless and '
-                                           'mobile services',
+                                           'good broadband penetration, ADSL, (Fiber-to-the-Home/Premises) FttP, '
+                                           'wireless and mobile services',
                                            'largest users of the Internet and use of OTT services and bundled services',
                                            2020],
                               'intl': [ 'landing points for the Qatar-UAE Submarine Cable System, AAE-1, FOG, '
@@ -10218,7 +10246,7 @@ P1_CC2 = \
                                         'and 1 Arabsat',
                                         "retains full ownership of two commercial satellites, Es'hailSat 1 and 2",
                                         2019],
-                              'subs': {'bb': 267906, 'fix': 452088, 'internet': 2355297, 'mob': 3945978},
+                              'subs': {'bb': 267906, 'fix': 392048, 'internet': 2355297, 'mob': 3329155},
                               'tld': '.qa',
                               'url_tld': 'https://en.wikipedia.org/wiki/.qa'}},
           'mcc': ['427'],
@@ -10270,8 +10298,8 @@ P1_CC2 = \
                      'tel': { 'code': '40',
                               'domestic': [ 'fixed-line teledensity is about 17 telephones per 100 persons',
                                             'mobile market served by four mobile network operators',
-                                            'mobile-cellular teledensity over 106 telephones per 100 persons',
-                                            2018],
+                                            'mobile-cellular teledensity over 117 telephones per 100 persons',
+                                            2019],
                               'general': [ 'the telecommunications sector is being expanded',
                                            'domestic and international service improving rapidly, especially '
                                            'mobile-cellular services',
@@ -10279,7 +10307,7 @@ P1_CC2 = \
                                            'LTE and 5G services',
                                            '1Gb/FttP offering',
                                            'govt. secures EU funding to extend broadband to areas of the country not '
-                                           'yet connected and does away with SIM car registration',
+                                           'yet connected and does away with SIM card registration',
                                            'operators invest in networks capacity upgrades',
                                            2020],
                               'intl': [ 'landing point for the Diamond Link Global submarine cable linking Romania '
@@ -10287,7 +10315,7 @@ P1_CC2 = \
                                         'satellite earth stations - 10',
                                         'digital, international, direct-dial exchanges operate in Bucharest',
                                         2019],
-                              'subs': {'bb': 5083000, 'fix': 3660000, 'internet': 15165890, 'mob': 22675000},
+                              'subs': {'bb': 5083000, 'fix': 3731047, 'internet': 15165890, 'mob': 25033292},
                               'tld': '.ro',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ro'}},
           'mcc': ['226'],
@@ -10324,7 +10352,7 @@ P1_CC2 = \
                                   'srbija',
                                   'the republic of serbia'],
                      'tel': { 'code': '381',
-                              'domestic': ['fixed-line 36 per 100 and mobile-cellular 119 per 100 persons', 2018],
+                              'domestic': ['fixed-line 29 per 100 and mobile-cellular 96 per 100 persons', 2019],
                               'general': [ "Serbia's integration with the EU has helped regulator reforms and "
                                            'promotion of telecoms',
                                            'wireless service is available through multiple providers',
@@ -10335,7 +10363,7 @@ P1_CC2 = \
                                            'high mobile penetration the result of multiple SIM cards',
                                            2020],
                               'intl': [2000],
-                              'subs': {'bb': 1552160, 'fix': 2574691, 'internet': 5192501, 'mob': 8431365},
+                              'subs': {'bb': 1552160, 'fix': 2060005, 'internet': 5192501, 'mob': 6789423},
                               'tld': '.rs',
                               'url_tld': 'https://en.wikipedia.org/wiki/.rs'}},
           'mcc': ['220'],
@@ -10387,8 +10415,8 @@ P1_CC2 = \
                                             'cellular services, both analog and digital, are available in many areas',
                                             'in rural areas, telephone services are still outdated, inadequate, and '
                                             'low-density',
-                                            '21 per 100 for fixed-line and mobile-cellular 161 per 100 persons',
-                                            2018],
+                                            '22 per 100 for fixed-line and mobile-cellular 164 per 100 persons',
+                                            2019],
                               'general': [ 'telecom sector impacted by sanctions related to the annexations in Ukraine',
                                            'the estimated number of mobile subscribers jumped from fewer than 1 '
                                            'million in 1998 to 255 million in 2016',
@@ -10408,7 +10436,7 @@ P1_CC2 = \
                                         'satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, '
                                         'Inmarsat, and Orbita systems',
                                         2019],
-                              'subs': {'bb': 32062780, 'fix': 30108289, 'internet': 114920477, 'mob': 229431008},
+                              'subs': {'bb': 32062780, 'fix': 31171043, 'internet': 114920477, 'mob': 233342795},
                               'tld': '.ru',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ru'}},
           'mcc': ['250'],
@@ -10484,8 +10512,8 @@ P1_CC2 = \
                                             'radio relay, and recently by cellular telephone service',
                                             'much of the network depends on wire and HF radiotelephone',
                                             'fixed-line less than 1 per 100 and mobile-cellular telephone density has '
-                                            'increased to 80 telephones per 100 persons',
-                                            2018],
+                                            'increased to 76 telephones per 100 persons',
+                                            2019],
                               'general': [ 'govt. invests in smart city infrastructure',
                                            'expanding wholesale LTE services',
                                            'govt. launches SIM card registration',
@@ -10503,7 +10531,7 @@ P1_CC2 = \
                                         'international submarine fiber-optic cables on the African east coast has '
                                         'brought international bandwidth and lessened the dependency on satellites',
                                         2000],
-                              'subs': {'bb': 7501, 'fix': 12960, 'internet': 2653197, 'mob': 9700609},
+                              'subs': {'bb': 7501, 'fix': 11215, 'internet': 2653197, 'mob': 9531609},
                               'tld': '.rw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.rw'}},
           'mcc': ['635'],
@@ -10543,8 +10571,8 @@ P1_CC2 = \
                                   'the kingdom of saudi arabia'],
                      'tel': { 'code': '966',
                               'domestic': [ 'fixed-line 16 per 100 and mobile-cellular subscribership has been '
-                                            'increasing rapidly to 125 per 100 persons',
-                                            2018],
+                                            'increasing rapidly to 121 per 100 persons',
+                                            2019],
                               'general': [ 'one of the most progressive telecom markets in the Middle East',
                                            'mobile penetration high, with a saturated market',
                                            'mobile operators competitive and meeting the demand for workers, students '
@@ -10563,7 +10591,7 @@ P1_CC2 = \
                                         'satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), '
                                         '1 Arabsat, and 1 Inmarsat (Indian Ocean region)',
                                         2019],
-                              'subs': {'bb': 6821873, 'fix': 5387405, 'internet': 30877318, 'mob': 41310584},
+                              'subs': {'bb': 6821873, 'fix': 5276773, 'internet': 30877318, 'mob': 40532610},
                               'tld': '.sa',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sa'}},
           'mcc': ['420'],
@@ -10590,9 +10618,9 @@ P1_CC2 = \
                      'nameset': ['solomon islands', 'the solomon islands'],
                      'tel': { 'code': '677',
                               'domestic': [ 'fixed-line is 1 per 100 persons and mobile-cellular telephone density is '
-                                            'about 73 per 100 persons',
+                                            'about 71 per 100 persons',
                                             'domestic cable system to extend to key major islands',
-                                            2018],
+                                            2019],
                               'general': [ 'Internet penetration has reached 20%',
                                            '3G and 4G LTE mobile network expansions, investment in mobile services in '
                                            'the region',
@@ -10605,7 +10633,7 @@ P1_CC2 = \
                                         'from Solomon Islands, to PNG, Vanuatu and Australia',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'bb': 1488, 'fix': 7430, 'internet': 78686, 'mob': 482029},
+                              'subs': {'bb': 1488, 'fix': 7130, 'internet': 78686, 'mob': 480124},
                               'tld': '.sb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sb'}},
           'mcc': ['540'],
@@ -10631,9 +10659,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_se.html'},
                      'nameset': ['republic of seychelles', 'seychelles', 'the republic of seychelles'],
                      'tel': { 'code': '248',
-                              'domestic': [ 'fixed-line 21 per 100 and mobile-cellular teledensity is 189 telephones '
+                              'domestic': [ 'fixed-line 21 per 100 and mobile-cellular teledensity is 198 telephones '
                                             'per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'effective system',
                                            'direct international calls to over 100 countries',
                                            'radiotelephone communications between islands in the archipelago',
@@ -10647,7 +10675,7 @@ P1_CC2 = \
                                         'African coastal countries',
                                         'satellite earth station - 1 Intelsat (Indian Ocean)',
                                         2019],
-                              'subs': {'bb': 19696, 'fix': 20290, 'internet': 55616, 'mob': 178946},
+                              'subs': {'bb': 19696, 'fix': 19627, 'internet': 55616, 'mob': 188879},
                               'tld': '.sc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sc'}},
           'mcc': ['633'],
@@ -10688,9 +10716,9 @@ P1_CC2 = \
                               'domestic': [ 'consists of microwave radio relay, cable, fiber optic, radiotelephone '
                                             'communications, tropospheric scatter, and a domestic satellite system '
                                             'with 14 earth stations',
-                                            'teledensity fixed-line less than 1 per 100 and mobile-cellular 70 '
+                                            'teledensity fixed-line less than 1 per 100 and mobile-cellular 77 '
                                             'telephones per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'well-equipped system by regional standards and being upgraded',
                                            'despite economic hardships govt. boosts mobile infrastructure and builds '
                                            'fiber broadband network across country',
@@ -10703,7 +10731,7 @@ P1_CC2 = \
                                         'cable systems linking Africa, the Middle East, Indian Ocean Islands and Asia',
                                         'satellite earth stations - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 31352, 'fix': 136923, 'internet': 13311404, 'mob': 30100412},
+                              'subs': {'bb': 31352, 'fix': 141922, 'internet': 13311404, 'mob': 34198859},
                               'tld': '.sd',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sd'}},
           'mcc': ['634'],
@@ -10745,11 +10773,11 @@ P1_CC2 = \
                                   'sweden',
                                   'the kingdom of sweden'],
                      'tel': { 'code': '46',
-                              'domestic': [ 'fixed-line 24 per 100 and mobile-cellular 126 per 100',
+                              'domestic': [ 'fixed-line 19 per 100 and mobile-cellular 126 per 100',
                                             'coaxial and multiconductor cables carry most of the voice traffic',
                                             'parallel microwave radio relay systems carry some additional telephone '
                                             'channels',
-                                            2018],
+                                            2019],
                               'general': [ 'highly developed telecommunications infrastructure',
                                            'ranked among leading countries for fixed-line, mobile-cellular, Internet, '
                                            'and broadband penetration',
@@ -10767,7 +10795,7 @@ P1_CC2 = \
                                         'note - Sweden shares the Inmarsat earth station with the other Nordic '
                                         'countries (Denmark, Finland, Iceland, and Norway)',
                                         2019],
-                              'subs': {'bb': 3973622, 'fix': 2392386, 'internet': 9251773, 'mob': 12647103},
+                              'subs': {'bb': 3973622, 'fix': 1941360, 'internet': 9251773, 'mob': 12785850},
                               'tld': '.se',
                               'url_tld': 'https://en.wikipedia.org/wiki/.se'}},
           'mcc': ['240'],
@@ -10850,9 +10878,9 @@ P1_CC2 = \
                      'nameset': ['republic of singapore', 'singapore', 'the republic of singapore'],
                      'tel': { 'code': '65',
                               'domestic': [ 'excellent domestic facilities',
-                                            'fixed-line 33 per 100 and mobile-cellular 143 per 100 teledensity',
+                                            'fixed-line 33 per 100 and mobile-cellular 156 per 100 teledensity',
                                             'multiple providers of high-speed Internet connectivity',
-                                            2018],
+                                            2019],
                               'general': [ 'excellent service',
                                            "world leader in telecommunications and perhaps the first 'Smart Nation' "
                                            'where a sensor network is implemented, for water and air, smart logistics '
@@ -10873,7 +10901,7 @@ P1_CC2 = \
                                         'satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa',
                                         'supplemented by VSAT coverage',
                                         2019],
-                              'subs': {'bb': 1610500, 'fix': 2001000, 'internet': 5286665, 'mob': 8568400},
+                              'subs': {'bb': 1610500, 'fix': 2003594, 'internet': 5286665, 'mob': 9543773},
                               'tld': '.sg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sg'}},
           'mcc': ['525'],
@@ -10905,8 +10933,8 @@ P1_CC2 = \
                                   'saint helena, ascension and tristan da cunha',
                                   'saint helena, ascension, and tristan da cunha'],
                      'tel': { 'domestic': [ 'automatic digital network',
-                                            'fixed-line 35 per 100 and mobile-cellular 39 per 100 persons',
-                                            2018],
+                                            'fixed-line 50 per 100 and mobile-cellular 67 per 100 persons',
+                                            2019],
                               'general': [ 'capability to communicate worldwide',
                                            'ADSL- broadband service',
                                            'LTE coverage of 95% of population, includes voice calls, text messages, '
@@ -10924,7 +10952,7 @@ P1_CC2 = \
                                         'satellite voice and data communications',
                                         'satellite earth stations - 5 (Ascension Island - 4, Saint Helena - 1)',
                                         2019],
-                              'subs': {'bb': 1347, 'fix': 576, 'internet': 1800, 'mob': 3018},
+                              'subs': {'bb': 1347, 'fix': 3921, 'internet': 1800, 'mob': 5228},
                               'tld': '.sh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sh'}},
           'mcc': ['658'],
@@ -10955,7 +10983,7 @@ P1_CC2 = \
                                   'slovenija',
                                   'the republic of slovenia'],
                      'tel': { 'code': '386',
-                              'domestic': ['fixed-line 33 per 100 and mobile-cellular 117 per 100 teledensity', 2018],
+                              'domestic': ['fixed-line 34 per 100 and mobile-cellular 121 per 100 teledensity', 2019],
                               'general': [ 'well-developed telecommunications infrastructure',
                                            'four mobile network operators',
                                            'increase in Internet community demanding e-govt., e-commerce and e-health',
@@ -10967,7 +10995,7 @@ P1_CC2 = \
                                            'FttP to 90% of population by 2020',
                                            2020],
                               'intl': [2016],
-                              'subs': {'bb': 612737, 'fix': 694709, 'internet': 1676445, 'mob': 2465857},
+                              'subs': {'bb': 612737, 'fix': 715283, 'internet': 1676445, 'mob': 2540917},
                               'tld': '.si',
                               'url_tld': 'https://en.wikipedia.org/wiki/.si'}},
           'mcc': ['293'],
@@ -11043,8 +11071,8 @@ P1_CC2 = \
                               'domestic': [ 'four companies have a license to operate cellular networks and provide '
                                             'nationwide cellular services',
                                             'a few other companies provide services but do not have their own networks',
-                                            'fixed-line 13 per 100 and mobile-cellular 133 per 100 teledensity',
-                                            2018],
+                                            'fixed-line 12 per 100 and mobile-cellular 136 per 100 teledensity',
+                                            2019],
                               'general': [ 'a modern telecommunications system',
                                            'near monopoly of fixed-line market',
                                            'competition in mobile and fixed broadband market',
@@ -11062,7 +11090,7 @@ P1_CC2 = \
                                         'projects that will increase the availability of external services',
                                         'connects to DREAM cable',
                                         2017],
-                              'subs': {'bb': 1507998, 'fix': 722704, 'internet': 4391969, 'mob': 7241702},
+                              'subs': {'bb': 1507998, 'fix': 673341, 'internet': 4391969, 'mob': 7381164},
                               'tld': '.sk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sk'}},
           'mcc': ['231'],
@@ -11099,7 +11127,7 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sl.html'},
                      'nameset': ['republic of sierra leone', 'sierra leone', 'the republic of sierra leone'],
                      'tel': { 'code': '232',
-                              'domestic': ['fixed-line less than 1 per 100 and mobile-cellular 102 per 100', 2018],
+                              'domestic': ['fixed-line less than 1 per 100 and mobile-cellular 86 per 100', 2019],
                               'general': [ 'the stability in the country has led to international investment',
                                            'telecom regulator continues to improve the market',
                                            'telephone service improving with the expansion of the mobile sector',
@@ -11114,7 +11142,7 @@ P1_CC2 = \
                                         'western African countries and Europe',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'fix': 17000, 'internet': 568099, 'mob': 6279270},
+                              'subs': {'fix': 2586, 'internet': 568099, 'mob': 5569221},
                               'tld': '.sl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sl'}},
           'mcc': ['619'],
@@ -11141,12 +11169,12 @@ P1_CC2 = \
                                   'san marino',
                                   'the republic of san marino'],
                      'tel': { 'code': '378',
-                              'domestic': [ 'fixed-line 47 per 100 and mobile-cellular teledensity 113 telephones per '
+                              'domestic': [ 'fixed-line 47 per 100 and mobile-cellular teledensity 114 telephones per '
                                             '100 persons',
-                                            2018],
+                                            2019],
                               'general': ['automatic telephone system completely integrated into Italian system', 2018],
                               'intl': ['connected to Italian international network', 2000],
-                              'subs': {'bb': 12500, 'fix': 15800, 'internet': 20328, 'mob': 38000},
+                              'subs': {'bb': 12500, 'fix': 16070, 'internet': 20328, 'mob': 38921},
                               'tld': '.sm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sm'}},
           'mcc': ['292'],
@@ -11181,8 +11209,8 @@ P1_CC2 = \
                                             'about two-thirds of all fixed-line connections are in Dakar',
                                             'mobile-cellular service is steadily displacing fixed-line service, even '
                                             'in urban areas',
-                                            'fixed-line 2 per 100 and mobile-cellular 110 per 100 persons',
-                                            2018],
+                                            'fixed-line 1 per 100 and mobile-cellular 110 per 100 persons',
+                                            2019],
                               'general': [ 'mobile penetration reached 108% in March 2019',
                                            'mobile broadband accounts for close to 100% (97.2%) Internet accesses',
                                            '3G and LTE services for 50% of population',
@@ -11195,7 +11223,7 @@ P1_CC2 = \
                                         'countries, Europe and South America',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 129820, 'fix': 302243, 'internet': 6909635, 'mob': 16559942},
+                              'subs': {'bb': 129820, 'fix': 195288, 'internet': 6909635, 'mob': 16871654},
                               'tld': '.sn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sn'}},
           'mcc': ['608'],
@@ -11228,8 +11256,8 @@ P1_CC2 = \
                               'domestic': [ 'seven networks compete for customers in the mobile sector',
                                             'some of these mobile-service providers offer fixed-lines and Internet '
                                             'services',
-                                            'fixed-line less than 1 per 100 and mobile-cellular 68 per 100',
-                                            2018],
+                                            'fixed-line less than 1 per 100 and mobile-cellular 49 per 100',
+                                            2019],
                               'general': [ 'the public telecom system was almost completely destroyed or dismantled '
                                            'during the civil war',
                                            'private companies offer limited local fixed-line service, and private '
@@ -11245,7 +11273,7 @@ P1_CC2 = \
                                         'cable system linking East Africa, Indian Ocean Islands, the Middle East, '
                                         'North Africa and Europe',
                                         2019],
-                              'subs': {'bb': 92000, 'fix': 74800, 'internet': 225181, 'mob': 7653040},
+                              'subs': {'bb': 92000, 'fix': 74800, 'internet': 225181, 'mob': 5612338},
                               'tld': '.so',
                               'url_tld': 'https://en.wikipedia.org/wiki/.so'}},
           'mcc': ['637'],
@@ -11284,10 +11312,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ns.html'},
                      'nameset': ['republic of suriname', 'republiek suriname', 'suriname', 'the republic of suriname'],
                      'tel': { 'code': '597',
-                              'domestic': [ 'fixed-line 15 per 100 and mobile-cellular teledensity 126 telephones per '
+                              'domestic': [ 'fixed-line 16 per 100 and mobile-cellular teledensity 140 telephones per '
                                             '100 persons',
                                             'microwave radio relay network is in place',
-                                            2018],
+                                            2019],
                               'general': [ 'international facilities are good',
                                            'state-owned fixed-line teledensity and broadband services below regional '
                                            'average for Latin America and Caribbean, but mobile penetration is above '
@@ -11299,7 +11327,7 @@ P1_CC2 = \
                                         'Caribbean',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 73176, 'fix': 88098, 'internet': 292685, 'mob': 752270},
+                              'subs': {'bb': 73176, 'fix': 96310, 'internet': 292685, 'mob': 845292},
                               'tld': '.sr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sr'}},
           'mcc': ['746'],
@@ -11332,8 +11360,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_od.html'},
                      'nameset': ['republic of south sudan', 'south sudan', 'the republic of south sudan'],
                      'tel': { 'code': '211',
-                              'domestic': [ 'fixed-line 0 total subscriptions, mobile-cellular 36 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line less than 1 per 100 subscriptions, mobile-cellular 33 per 100 '
+                                            'persons',
+                                            2019],
                               'general': [ 'one of the least developed telecommunications and Internet systems in the '
                                            'world',
                                            'the international community has provided billions in aid to help the young '
@@ -11345,7 +11374,7 @@ P1_CC2 = \
                                            '1.4 million customers over a disputed service fee arrangement',
                                            2020],
                               'intl': [2017],
-                              'subs': {'bb': 200, 'internet': 814326, 'mob': 3672871},
+                              'subs': {'bb': 200, 'internet': 814326, 'mob': 3439784},
                               'tld': '.ss',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ss'}},
           'mcc': ['659'],
@@ -11376,9 +11405,9 @@ P1_CC2 = \
                                   'sao tome e principe',
                                   'the democratic republic of são tomé and príncipe'],
                      'tel': { 'code': '239',
-                              'domestic': [ 'fixed-line 3 per 100 and mobile-cellular teledensity 80 telephones per '
+                              'domestic': [ 'fixed-line 2 per 100 and mobile-cellular teledensity 77 telephones per '
                                             '100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'local telephone network of adequate quality with most lines connected to '
                                            'digital switches',
                                            'mobile cellular superior choice to landland',
@@ -11389,7 +11418,7 @@ P1_CC2 = \
                                         'to over 20 West African countries and Europe',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 1557, 'fix': 5299, 'internet': 61193, 'mob': 162610},
+                              'subs': {'bb': 1557, 'fix': 4614, 'internet': 61193, 'mob': 160189},
                               'tld': '.st',
                               'url_tld': 'https://en.wikipedia.org/wiki/.st'}},
           'mcc': ['626'],
@@ -11418,10 +11447,10 @@ P1_CC2 = \
                                   'the republic of el salvador'],
                      'tel': { 'code': '503',
                               'domestic': [ 'growth in fixed-line services 14 per 100, has slowed in the face of '
-                                            'mobile-cellular competition at 148 per 100',
+                                            'mobile-cellular competition at 147 per 100',
                                             2019],
-                              'general': [ 'multiple mobile-cellular operators began rolling out Long Term Evolution '
-                                           '(LTE) data services in late-2016',
+                              'general': [ 'multiple mobile-cellular operators began rolling out (Long Term Evolution) '
+                                           'LTE data services in late-2016',
                                            'Internet usage grew almost 400% between 2007 and 2015',
                                            '6% of phones are fixed-line, while 94% are mobile-cellular',
                                            'as of March 2019, the regulator launched a public dialog that allowed '
@@ -11433,7 +11462,7 @@ P1_CC2 = \
                               'intl': [ 'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         'connected to Central American Microwave System',
                                         2019],
-                              'subs': {'bb': 492265, 'fix': 923029, 'internet': 2153776, 'mob': 9433495},
+                              'subs': {'bb': 492265, 'fix': 882498, 'internet': 2153776, 'mob': 9442667},
                               'tld': '.sv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sv'}},
           'mcc': ['706'],
@@ -11462,7 +11491,9 @@ P1_CC2 = \
                                   'sint maarten',
                                   'sint maarten (dutch and english)'],
                      'tel': { 'code': '1721',
-                              'domestic': ['extensive interisland microwave radio relay links', 2018],
+                              'domestic': [ 'extensive interisland microwave radio relay links',
+                                            '196 per 100 mobile-cellular teledensity',
+                                            2019],
                               'general': [ 'generally adequate facilities',
                                            'growth sectors include mobile telephone and data segments',
                                            'effective competition',
@@ -11473,6 +11504,7 @@ P1_CC2 = \
                                         'connectivity to the Caribbean',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
+                              'subs': {'mob': 84773},
                               'tld': '.sx',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sx'}},
           'mcc': ['362'],
@@ -11524,9 +11556,9 @@ P1_CC2 = \
                                   'the syrian arab republic'],
                      'tel': { 'code': '963',
                               'domestic': [ 'the number of fixed-line connections increased markedly prior to the '
-                                            'civil war in 2011 and now stands at 15 per 100',
-                                            'mobile-cellular service stands at about 97 per 100 persons',
-                                            2018],
+                                            'civil war in 2011 and now stands at 17 per 100',
+                                            'mobile-cellular service stands at about 114 per 100 persons',
+                                            2019],
                               'general': [ 'the armed insurgency that began in 2011 has led to major disruptions to '
                                            'the network and has caused telephone and Internet outages throughout the '
                                            'country',
@@ -11547,7 +11579,7 @@ P1_CC2 = \
                                         'coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey',
                                         'participant in Medarabtel',
                                         2019],
-                              'subs': {'bb': 1328688, 'fix': 2740000, 'internet': 6077510, 'mob': 17129676},
+                              'subs': {'bb': 1328688, 'fix': 3097164, 'internet': 6077510, 'mob': 21115000},
                               'tld': '.sy',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sy'}},
           'mcc': ['417'],
@@ -11576,18 +11608,18 @@ P1_CC2 = \
                               'domestic': [ 'Eswatini has 2 mobile-cellular providers',
                                             'communication infrastructure has a geographic coverage of about 90% and a '
                                             'rising subscriber base',
-                                            'fixed-line stands at 3 per 100 and mobile-cellular teledensity roughly 68 '
+                                            'fixed-line stands at 4 per 100 and mobile-cellular teledensity roughly 94 '
                                             'telephones per 100 persons',
                                             'telephone system consists of carrier-equipped, open-wire lines and '
                                             'low-capacity, microwave radio relay',
-                                            2018],
+                                            2019],
                               'general': [ 'earlier government monopoly in telecommunications hindered its growth',
                                            'new regulatory authority established in 2013 has aided expansion in the '
                                            'telecom sector',
                                            '2G, 3G, 4G and LTE services',
-                                           2018],
+                                           2019],
                               'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 2000],
-                              'subs': {'bb': 7000, 'fix': 42000, 'internet': 510984, 'mob': 995000},
+                              'subs': {'bb': 7000, 'fix': 40003, 'internet': 510984, 'mob': 1025061},
                               'tld': '.sz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sz'}},
           'mcc': ['653'],
@@ -11620,7 +11652,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tk.html'},
                      'nameset': ['the turks and caicos islands', 'turks and caicos islands'],
                      'tel': { 'code': '1649',
-                              'domestic': ['full range of services available', 'GSM wireless service available', 2018],
+                              'domestic': [ 'full range of services available',
+                                            'GSM wireless service available',
+                                            'fixed-line teledensity 11 per 100 persons',
+                                            2019],
                               'general': [ 'fully digital system with international direct dialing',
                                            'broadband access',
                                            'expanded FttP (Fiber to the Home) markets',
@@ -11633,6 +11668,7 @@ P1_CC2 = \
                                         'and the US',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2020],
+                              'subs': {'fix': 6096},
                               'tld': '.tc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tc'}},
           'mcc': ['376'],
@@ -11668,8 +11704,8 @@ P1_CC2 = \
                                   'the republic of chad'],
                      'tel': { 'code': '235',
                               'domestic': [ 'fixed-line connections less than 1 per 100 persons, with mobile-cellular '
-                                            'subscribership base of about 44 per 100 persons',
-                                            2018],
+                                            'subscribership base of about 48 per 100 persons',
+                                            2019],
                               'general': [ 'inadequate system of radio telephone communication stations with high '
                                            'maintenance costs and low telephone density',
                                            'Chad remains one of the least developed on the African continent, telecom '
@@ -11679,7 +11715,7 @@ P1_CC2 = \
                                            'negative impact on operator revenue',
                                            2020],
                               'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 2000],
-                              'subs': {'bb': 334, 'fix': 9036, 'internet': 1029153, 'mob': 6984130},
+                              'subs': {'bb': 334, 'fix': 6540, 'internet': 1029153, 'mob': 7857758},
                               'tld': '.td',
                               'url_tld': 'https://en.wikipedia.org/wiki/.td'}},
           'mcc': ['622'],
@@ -11736,9 +11772,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_to.html'},
                      'nameset': ['republique togolaise', 'the togolese republic', 'togo', 'togolese republic'],
                      'tel': { 'code': '228',
-                              'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular 75 telephones per 100 '
+                              'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular 77 telephones per 100 '
                                             'persons with mobile-cellular use predominating',
-                                            2018],
+                                            2019],
                               'general': [ 'system based on a network of microwave radio relay routes supplemented by '
                                            'open-wire lines and a mobile-cellular system',
                                            'telecoms supply 8% of GDP',
@@ -11750,7 +11786,7 @@ P1_CC2 = \
                                         'coast of Africa with each other and with Portugal',
                                         'satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie',
                                         2020],
-                              'subs': {'bb': 26156, 'fix': 37691, 'internet': 1010609, 'mob': 6144507},
+                              'subs': {'bb': 26156, 'fix': 45311, 'internet': 1010609, 'mob': 6477816},
                               'tld': '.tg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tg'}},
           'mcc': ['615'],
@@ -11786,8 +11822,8 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line system provided by both a government-owned and commercial '
                                             'provider',
                                             'wireless service expanding rapidly',
-                                            'fixed-line 4 per 100 and mobile-cellular 182 per 100',
-                                            2018],
+                                            'fixed-line 4 per 100 and mobile-cellular 186 per 100',
+                                            2019],
                               'general': [ 'high quality system, especially in urban areas like Bangkok',
                                            'mobile and mobile broadband penetration are on the increase',
                                            'Fiber-to-the-home (FttH) has seen strong growth in the major cities',
@@ -11803,7 +11839,7 @@ P1_CC2 = \
                                         'Middle East, Europe, and US',
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean)',
                                         2019],
-                              'subs': {'bb': 9189000, 'fix': 2929000, 'internet': 38987531, 'mob': 125098000},
+                              'subs': {'bb': 9189000, 'fix': 2580166, 'internet': 38987531, 'mob': 128086321},
                               'tld': '.th',
                               'url_tld': 'https://en.wikipedia.org/wiki/.th'}},
           'mcc': ['520'],
@@ -11854,8 +11890,8 @@ P1_CC2 = \
                                             'mobile cellular subscribership, aided by competition among multiple '
                                             'operators, has expanded rapidly',
                                             'coverage now extends to all major cities and towns',
-                                            'fixed-line 6 per 100 and mobile-cellular 111 per 100',
-                                            2018],
+                                            'fixed-line 5 per 100 and mobile-cellular 112 per 100',
+                                            2019],
                               'general': [ 'foreign investment in the telephone system has resulted in major '
                                            'improvements',
                                            'an increase in mobile broadband penetration, but still in the early stages '
@@ -11868,9 +11904,9 @@ P1_CC2 = \
                                         'leased connections to the Moscow international gateway switch',
                                         'Dushanbe linked by Intelsat to international gateway switch in Ankara '
                                         '(Turkey)',
-                                        'satellite earth stations - 3 (2 Intelsat and 1 Orbita',
+                                        '3 satellite earth stations - 2 Intelsat and 1 Orbita',
                                         2000],
-                              'subs': {'bb': 6000, 'fix': 468000, 'internet': 1889632, 'mob': 9400000},
+                              'subs': {'bb': 6000, 'fix': 471090, 'internet': 1889632, 'mob': 9747803},
                               'tld': '.tj',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tj'}},
           'mcc': ['436'],
@@ -11891,8 +11927,8 @@ P1_CC2 = \
                      'nameset': ['tokelau'],
                      'tel': { 'code': '690',
                               'domestic': [ 'radiotelephone service between islands',
-                                            'fixed-line less than 1 per 100',
-                                            2018],
+                                            'fixed-line 21 per 100 persons',
+                                            2019],
                               'general': [ 'modern satellite-based communications system',
                                            'demand for mobile broadband increasing due to mobile services being the '
                                            'method of access for Internet across the region',
@@ -11940,11 +11976,10 @@ P1_CC2 = \
                      'tel': { 'code': '670',
                               'domestic': [ 'system suffered significant damage during the violence associated with '
                                             'independence',
-                                            'limited fixed-line services',
-                                            'less than 1 per 100 and mobile-cellular services have been expanding and '
-                                            'are now available in urban and most rural areas with teledensity of 111 '
-                                            'per 100',
-                                            2018],
+                                            'limited fixed-line services, less than 1 per 100 and mobile-cellular '
+                                            'services have been expanding and are now available in urban and most '
+                                            'rural areas with teledensity of 110 per 100',
+                                            2019],
                               'general': [ 'service in urban and some rural areas, which is expanding with the '
                                            'entrance of new competitors',
                                            '4G LTE service, with about 97% of population having access, among 3 mobile '
@@ -11960,7 +11995,7 @@ P1_CC2 = \
                                         'submarine fiber-optic link (NWCS)',
                                         'geostationary earth orbit satellite',
                                         2000],
-                              'subs': {'bb': 603, 'fix': 2206, 'internet': 363398, 'mob': 1468495},
+                              'subs': {'bb': 603, 'fix': 2164, 'internet': 363398, 'mob': 1490966},
                               'tld': '.tl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tl'}},
           'mcc': ['514'],
@@ -11990,10 +12025,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tx.html'},
                      'nameset': ['turkmenistan'],
                      'tel': { 'code': '993',
-                              'domestic': [ 'fixed-line 13 per 100 and mobile-cellular teledensity is about 160 per '
+                              'domestic': [ 'fixed-line 12 per 100 and mobile-cellular teledensity is about 163 per '
                                             '100 persons',
                                             'first telecommunication satellite was launched in 2015',
-                                            2018],
+                                            2019],
                               'general': [ 'telecommunications network is gradually improving from the former Soviet '
                                            'republic',
                                            'state control over most economic activities has not helped growth',
@@ -12013,7 +12048,7 @@ P1_CC2 = \
                                         'Intelsat',
                                         'satellite earth stations - 1 Orbita and 1 Intelsat',
                                         2018],
-                              'subs': {'bb': 4000, 'fix': 5315000, 'internet': 1149840, 'mob': 8575000},
+                              'subs': {'bb': 4000, 'fix': 648223, 'internet': 1149840, 'mob': 8908821},
                               'tld': '.tm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tm'}},
           'mcc': ['438'],
@@ -12050,9 +12085,9 @@ P1_CC2 = \
                                             'competition between several mobile-cellular service providers has '
                                             'resulted in lower activation and usage charges and a strong surge in '
                                             'subscribership',
-                                            'fixed-line is 11 per 100 and mobile-cellular teledensity has reached '
-                                            'about 128 telephones per 100 persons',
-                                            2018],
+                                            'fixed-line is 12 per 100 and mobile-cellular teledensity has reached '
+                                            'about 126 telephones per 100 persons',
+                                            2019],
                               'general': [ 'above the African average and continuing to be upgraded',
                                            'key centers are Sfax, Sousse, Bizerte, and Tunis',
                                            'telephone network is completely digitized',
@@ -12076,7 +12111,7 @@ P1_CC2 = \
                                         'participant in Medarabtel',
                                         '2 international gateway digital switches',
                                         2020],
-                              'subs': {'bb': 1014395, 'fix': 1302015, 'internet': 7392242, 'mob': 14769594},
+                              'subs': {'bb': 1014395, 'fix': 1444631, 'internet': 7392242, 'mob': 14679917},
                               'tld': '.tn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tn'}},
           'mcc': ['605'],
@@ -12102,10 +12137,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tn.html'},
                      'nameset': ['kingdom of tonga', "pule'anga fakatu'i 'o tonga", 'the kingdom of tonga', 'tonga'],
                      'tel': { 'code': '676',
-                              'domestic': [ 'fixed-line 14 per 100 persons and mobile-cellular teledensity 101 '
+                              'domestic': [ 'fixed-line 6 per 100 persons and mobile-cellular teledensity 59 '
                                             'telephones per 100',
                                             'fully automatic switched network',
-                                            2018],
+                                            2019],
                               'general': [ 'high speed Internet provided by 3 MNOs, has subsequently allowed for '
                                            'better health care services, faster connections for education and growing '
                                            'e-commerce services',
@@ -12121,7 +12156,7 @@ P1_CC2 = \
                                         'separate Tonga islands',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2020],
-                              'subs': {'bb': 2519, 'fix': 14697, 'internet': 43889, 'mob': 107938},
+                              'subs': {'bb': 2519, 'fix': 6748, 'internet': 43889, 'mob': 63156},
                               'tld': '.to',
                               'url_tld': 'https://en.wikipedia.org/wiki/.to'}},
           'mcc': ['539'],
@@ -12167,9 +12202,9 @@ P1_CC2 = \
                                             'lines, using both fiber-optic cable and digital microwave radio relay, is '
                                             'facilitating communication between urban centers',
                                             'remote areas are reached by a domestic satellite system',
-                                            'fixed-line 14 per 100 and mobile-cellular teledensity is 99 telephones '
+                                            'fixed-line 14 per 100 and mobile-cellular teledensity is 97 telephones '
                                             'per 100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'comprehensive telecommunications network undergoing rapid modernization '
                                            'and expansion, especially in mobile-cellular services',
                                            'rise in subscribers and increase in bundled packages',
@@ -12186,7 +12221,7 @@ P1_CC2 = \
                                         'satellite earth stations - 12 Intelsat',
                                         'mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems',
                                         2020],
-                              'subs': {'bb': 13407226, 'fix': 11633461, 'internet': 57725143, 'mob': 80117999},
+                              'subs': {'bb': 13407226, 'fix': 11283768, 'internet': 57725143, 'mob': 79068023},
                               'tld': '.tr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tr'}},
           'mcc': ['286'],
@@ -12213,9 +12248,9 @@ P1_CC2 = \
                                   'the republic of trinidad and tobago',
                                   'trinidad and tobago'],
                      'tel': { 'code': '1868',
-                              'domestic': [ 'fixed-line 26 per 100 persons and mobile-cellular teledensity 162 per 100 '
+                              'domestic': [ 'fixed-line 25 per 100 persons and mobile-cellular teledensity 155 per 100 '
                                             'persons',
-                                            2018],
+                                            2019],
                               'general': [ 'excellent international service',
                                            'good local service',
                                            'broadband access',
@@ -12232,7 +12267,7 @@ P1_CC2 = \
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         'tropospheric scatter to Barbados and Guyana',
                                         2020],
-                              'subs': {'bb': 341045, 'fix': 321434, 'internet': 939967, 'mob': 1972595},
+                              'subs': {'bb': 341045, 'fix': 298493, 'internet': 939967, 'mob': 1880555},
                               'tld': '.tt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tt'}},
           'mcc': ['374'],
@@ -12260,8 +12295,8 @@ P1_CC2 = \
                      'nameset': ['tuvalu'],
                      'tel': { 'code': '688',
                               'domestic': [ 'radiotelephone communications between islands',
-                                            'fixed-line 18 per 100 and mobile-cellular 69 per 100',
-                                            2018],
+                                            'fixed-line 18 per 100 and mobile-cellular 70 per 100',
+                                            2019],
                               'general': [ 'internal communications needs met',
                                            'small global scale of over 11,000 people on 9 inhabited islands',
                                            'mobile subscriber penetration about 40% and broadband about 10% '
@@ -12272,7 +12307,7 @@ P1_CC2 = \
                                            'telecommunication sector for the Asia Pacific region',
                                            2020],
                               'intl': ['international calls can be made by satellite', 2000],
-                              'subs': {'bb': 1000, 'fix': 2000, 'internet': 5498, 'mob': 7600},
+                              'subs': {'bb': 1000, 'fix': 1978, 'internet': 5498, 'mob': 7911},
                               'tld': '.tv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tv'}},
           'mcc': ['553'],
@@ -12300,7 +12335,7 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tw.html'},
                      'nameset': ['china', 'republic of china', 'taiwan', 'the republic of china'],
                      'tel': { 'code': '886',
-                              'domestic': ['fixed-line 56 per 100 and mobile-cellular 125 per 100', 2018],
+                              'domestic': ['fixed-line 55 per 100 and mobile-cellular 123 per 100', 2019],
                               'general': [ 'good telecommunications infrastructure and competitive mobile market',
                                            'Taiwan has a stable regulatory system and an educated workforce building '
                                            'on availability of fixed and mobile broadband networks',
@@ -12317,7 +12352,7 @@ P1_CC2 = \
                                         'East, Europe, Africa and the US',
                                         'satellite earth stations - 2',
                                         2019],
-                              'subs': {'bb': 5725022, 'fix': 13174334, 'internet': 21845944, 'mob': 29340886},
+                              'subs': {'bb': 5725022, 'fix': 12863860, 'internet': 21845944, 'mob': 29049784},
                               'tld': '.tw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tw'}},
           'mcc': ['466'],
@@ -12382,11 +12417,11 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line telephone network inadequate with less than 1 connection per '
                                             '100 persons',
                                             'mobile-cellular service, aided by multiple providers, is increasing '
-                                            'rapidly and exceeds 78 telephones per 100 persons',
+                                            'rapidly and exceeds 82 telephones per 100 persons',
                                             'trunk service provided by open-wire, microwave radio relay, tropospheric '
                                             'scatter, and fiber-optic cable',
                                             'some links being made digital',
-                                            2018],
+                                            2019],
                               'general': [ 'telecommunications services are marginal and operating below capacity',
                                            '1 fixed-line operator and 8 operational mobile networks',
                                            'unfortunate high tariffs on telecoms',
@@ -12400,7 +12435,7 @@ P1_CC2 = \
                                         'submarine cable system linking East Africa with the Middle East',
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 861234, 'fix': 124238, 'internet': 13862836, 'mob': 43497261},
+                              'subs': {'bb': 861234, 'fix': 74081, 'internet': 13862836, 'mob': 46847405},
                               'tld': '.tz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tz'}},
           'mcc': ['640'],
@@ -12439,17 +12474,17 @@ P1_CC2 = \
                               'coast': {'bord': {}, 'len': 2782},
                               'coord': ['49 00 N, 32 00 E'],
                               'popul': 43922939,
-                              'ports': { 'major seaport': "Feodosiya (Theodosia), Illichivsk, Mariupol', Mykolayiv, "
-                                                          'Odesa, Yuzhnyy'},
+                              'ports': { 'major seaport': 'Feodosiya (Theodosia), Chornomosk (Illichivsk), Mariupol, '
+                                                          'Mykolayiv, Odesa, Yuzhnyy'},
                               'region': 'AsiaEurope',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UA',
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_up.html'},
                      'nameset': ['ukraina', 'ukraine'],
                      'tel': { 'code': '380',
-                              'domestic': [ 'fixed-line teledensity is 14 per 100',
+                              'domestic': [ 'fixed-line teledensity is 10 per 100',
                                             "the mobile-cellular telephone system's expansion has slowed, largely due "
-                                            'to saturation of the market that is now 123 mobile phones per 100 persons',
-                                            2018],
+                                            'to saturation of the market that is now 131 mobile phones per 100 persons',
+                                            2019],
                               'general': [ 'telecommunication development plan emphasizes improving domestic trunk '
                                            'lines, international connections, and the mobile-cellular system',
                                            "Turkey and Russia have made investments to Ukraine's telecom market",
@@ -12470,7 +12505,7 @@ P1_CC2 = \
                                         'unknown number of earth stations in the Intelsat, Inmarsat, and Intersputnik '
                                         'satellite systems',
                                         2000],
-                              'subs': {'bb': 5405125, 'fix': 6074255, 'internet': 25883509, 'mob': 53933592},
+                              'subs': {'bb': 5405125, 'fix': 4378911, 'internet': 25883509, 'mob': 57431439},
                               'tld': '.ua',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ua'}},
           'mcc': ['255'],
@@ -12517,11 +12552,11 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ug.html'},
                      'nameset': ['republic of uganda', 'the republic of uganda', 'uganda'],
                      'tel': { 'code': '256',
-                              'domestic': [ 'fixed-line 1 per 100 and mobile- cellular systems teledensity about 60 '
+                              'domestic': [ 'fixed-line 1 per 100 and mobile- cellular systems teledensity about 57 '
                                             'per 100 persons',
                                             'intercity traffic by wire, microwave radio relay, and radiotelephone '
                                             'communication stations',
-                                            2018],
+                                            2019],
                               'general': [ 'in recent years, telecommunications infrastructure has developed through '
                                            'private partnerships',
                                            'as of 2018, fixed fiber backbone infrastructure is available in over half '
@@ -12539,7 +12574,7 @@ P1_CC2 = \
                               'intl': [ 'satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat',
                                         'analog and digital links to Kenya and Tanzania',
                                         2000],
-                              'subs': {'bb': 9485, 'fix': 186902, 'internet': 9620681, 'mob': 24472033},
+                              'subs': {'bb': 9485, 'fix': 184065, 'internet': 9620681, 'mob': 23957740},
                               'tld': '.ug',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ug'}},
           'mcc': ['641'],
@@ -12594,8 +12629,8 @@ P1_CC2 = \
                      'tel': { 'code': '44',
                               'domestic': [ 'equal mix of buried cables, microwave radio relay, and fiber-optic '
                                             'systems',
-                                            'fixed-line 49 per 100 and mobile-cellular 122 per 100',
-                                            2018],
+                                            'fixed-line 48 per 100 and mobile-cellular 118 per 100',
+                                            2019],
                               'general': [ 'technologically advanced domestic and international system',
                                            'one of the largest mobile and telecom markets in Europe for revenue and '
                                            'subscribers',
@@ -12621,7 +12656,7 @@ P1_CC2 = \
                                         '1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat',
                                         'at least 8 large international switching centers',
                                         2018],
-                              'subs': {'bb': 26586110, 'fix': 31919894, 'internet': 61784878, 'mob': 79472341},
+                              'subs': {'bb': 26586110, 'fix': 31160866, 'internet': 61784878, 'mob': 76920618},
                               'tld': '.gb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gb'}},
           'mcc': ['234', '235'],
@@ -12747,8 +12782,8 @@ P1_CC2 = \
                                             'cable, and domestic satellites carries every form of telephone traffic',
                                             'a rapidly growing cellular system carries mobile telephone traffic '
                                             'throughout the country',
-                                            'fixed-line 34 per 100 and mobile-cellular 129 per 100',
-                                            2018],
+                                            'fixed-line 33 per 100 and mobile-cellular 124 per 100',
+                                            2019],
                               'general': [ 'a large, technologically advanced, multipurpose communications system',
                                            'mobile subscriber penetration rate of about 129%',
                                            'national LTE-M services, closes down 2G infrastructure and reassigns '
@@ -12773,7 +12808,7 @@ P1_CC2 = \
                                         'Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and '
                                         'Atlantic Ocean regions)',
                                         2020],
-                              'subs': {'bb': 110568000, 'fix': 109961000, 'internet': 285519020, 'mob': 422000000},
+                              'subs': {'bb': 110568000, 'fix': 107667642, 'internet': 285519020, 'mob': 408509528},
                               'tld': '.us',
                               'url_tld': 'https://en.wikipedia.org/wiki/.us'}},
           'mcc': ['310', '311', '312', '313', '314', '315', '316'],
@@ -13224,6 +13259,7 @@ P1_CC2 = \
                       '313750',
                       '313760',
                       '313770',
+                      '313790',
                       '314010',
                       '314020',
                       '314030',
@@ -13256,9 +13292,9 @@ P1_CC2 = \
                      'tel': { 'code': '598',
                               'domestic': [ 'most modern facilities concentrated in Montevideo',
                                             'nationwide microwave radio relay network',
-                                            'overall fixed-line 34 per 100 and mobile-cellular teledensity 153 per 100 '
+                                            'overall fixed-line 34 per 100 and mobile-cellular teledensity 138 per 100 '
                                             'persons',
-                                            2018],
+                                            2019],
                               'general': [ 'fully digitalized',
                                            'one of the highest broadband penetrations in Latin America',
                                            'high fixed-line and mobile penetrations as well',
@@ -13274,7 +13310,7 @@ P1_CC2 = \
                                         'bandwidth',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2020],
-                              'subs': {'bb': 977390, 'fix': 1153533, 'internet': 2300557, 'mob': 5170624},
+                              'subs': {'bb': 977390, 'fix': 1137193, 'internet': 2300557, 'mob': 4664993},
                               'tld': '.uy',
                               'url_tld': 'https://en.wikipedia.org/wiki/.uy'}},
           'mcc': ['748'],
@@ -13308,14 +13344,14 @@ P1_CC2 = \
                                   'the republic of uzbekistan',
                                   'uzbekistan'],
                      'tel': { 'code': '998',
-                              'domestic': [ 'fixed-line 12 per 100 person and mobile-cellular 77 per 100',
+                              'domestic': [ 'fixed-line 11 per 100 person and mobile-cellular 101 per 100',
                                             'the state-owned telecommunications company, Uzbek Telecom, owner of the '
                                             'fixed-line telecommunications system, has used loans from the Japanese '
                                             'government and the China Development Bank to upgrade fixed-line services '
                                             'including conversion to digital exchanges',
                                             'mobile-cellular services are provided by 2 private and 3 state-owned '
                                             'operators with a total subscriber base of 22.8 million as of January 2018',
-                                            2018],
+                                            2019],
                               'general': [ 'digital exchanges in large cities and in rural areas',
                                            'increased investment in infrastructure and growing subscriber base',
                                            'fixed-line is underdeveloped due to preeminence of mobile market',
@@ -13330,7 +13366,7 @@ P1_CC2 = \
                                         'Uzbekistan has supported the national fiber-optic backbone project of '
                                         'Afghanistan since 2008',
                                         2000],
-                              'subs': {'bb': 4123508, 'fix': 3460258, 'internet': 15705402, 'mob': 23226156},
+                              'subs': {'bb': 4123508, 'fix': 3262896, 'internet': 15705402, 'mob': 30662740},
                               'tld': '.uz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.uz'}},
           'mcc': ['434'],
@@ -13390,9 +13426,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_vc.html'},
                      'nameset': ['saint vincent and the grenadines'],
                      'tel': { 'code': '1784',
-                              'domestic': [ 'fixed-line teledensity exceeds 19 per 100 persons and mobile-cellular '
-                                            'teledensity is about 104 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line teledensity exceeds 12 per 100 persons and mobile-cellular '
+                                            'teledensity is about 93 per 100 persons',
+                                            2019],
                               'general': [ 'adequate island-wide, fully automatic telephone system',
                                            'broadband access',
                                            'expanded FttP (Fiber to the Home) markets',
@@ -13408,7 +13444,7 @@ P1_CC2 = \
                                         'SHF radiotelephone to Grenada and Saint Lucia',
                                         'access to Intelsat earth station in Martinique through Saint Lucia',
                                         2019],
-                              'subs': {'bb': 24613, 'fix': 19219, 'internet': 22803, 'mob': 105875},
+                              'subs': {'bb': 24613, 'fix': 11889, 'internet': 22803, 'mob': 94367},
                               'tld': '.vc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vc'}},
           'mcc': ['360'],
@@ -13441,8 +13477,8 @@ P1_CC2 = \
                                             '3 major providers operate in the mobile market and compete with '
                                             'state-owned company',
                                             'fixed-line 19 per 100 and mobile-cellular telephone subscribership about '
-                                            '70 per 100 persons',
-                                            2018],
+                                            '58 per 100 persons',
+                                            2019],
                               'general': [ 'by late 2018 teledensity has fallen due to political upheaval in the '
                                            'country with people holding on to mobile service, but cancelling '
                                            'fixed-line telecom services',
@@ -13460,7 +13496,7 @@ P1_CC2 = \
                                         'Caribbean, Central and South America, and US',
                                         'satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat',
                                         2020],
-                              'subs': {'bb': 2604578, 'fix': 5547291, 'internet': 21354499, 'mob': 20731169},
+                              'subs': {'bb': 2604578, 'fix': 5501135, 'internet': 21354499, 'mob': 16664106},
                               'tld': '.ve',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ve'}},
           'mcc': ['734'],
@@ -13485,9 +13521,9 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_vi.html'},
                      'nameset': ['british virgin islands', 'the virgin islands', 'virgin islands'],
                      'tel': { 'code': '1284',
-                              'domestic': [ 'fixed-line connections exceed 17 per 100 persons and mobile cellular '
-                                            'subscribership is roughly 112 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line connections exceed 21 per 100 persons and mobile cellular '
+                                            'subscribership is roughly 198 per 100 persons',
+                                            2019],
                               'general': [ 'good overall telephone service',
                                            'major expansion sectors include the mobile telephony and data segments, '
                                            'which continue to appeal to operator investment',
@@ -13500,7 +13536,7 @@ P1_CC2 = \
                                         'System, Taino-Carib, and Americas I- North via submarine cable to Caribbean, '
                                         'Central and South America, and US',
                                         2019],
-                              'subs': {'bb': 4715, 'fix': 6222, 'internet': 27818, 'mob': 39954},
+                              'subs': {'bb': 4715, 'fix': 7640, 'internet': 27818, 'mob': 72589},
                               'tld': '.vg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vg'}},
           'mcc': ['348'],
@@ -13530,8 +13566,8 @@ P1_CC2 = \
                                   'virgin islands of the united states'],
                      'tel': { 'code': '1340',
                               'domestic': [ 'full range of services available',
-                                            'fixed-line 73 per 100 persons and mobile-cellular 75 per 100',
-                                            2018],
+                                            'fixed-line 72 per 100 persons and mobile-cellular 75 per 100',
+                                            2019],
                               'general': [ 'modern system with total digital switching, uses fiber-optic cable and '
                                            'microwave radio relay',
                                            'good interisland and international connections',
@@ -13546,7 +13582,7 @@ P1_CC2 = \
                                         'US, the Caribbean, Central and South America',
                                         'satellite earth stations - NA',
                                         2020],
-                              'subs': {'fix': 76000, 'internet': 68872},
+                              'subs': {'fix': 77212, 'internet': 68872},
                               'tld': '.vi',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vi'}},
           'mcc': ['332'],
@@ -13583,8 +13619,8 @@ P1_CC2 = \
                                             'networks',
                                             'main lines have been increased, and the use of mobile telephones is '
                                             'growing rapidly',
-                                            'fixed-line 4 per 100 and mobile-cellular 145 per 100',
-                                            2018],
+                                            'fixed-line 4 per 100 and mobile-cellular 141 per 100',
+                                            2019],
                               'general': [ 'despite being a communist country there are plans to part privatize the '
                                            'state’s holdings in telecom companies as well as a large number of other '
                                            'enterprises',
@@ -13603,7 +13639,7 @@ P1_CC2 = \
                                         'East, Asia, Southeast Asia, Australia, and the US',
                                         'satellite earth stations - 2 Intersputnik (Indian Ocean region)',
                                         2020],
-                              'subs': {'bb': 12994451, 'fix': 4296301, 'internet': 68267875, 'mob': 140639140},
+                              'subs': {'bb': 12994451, 'fix': 3710210, 'internet': 68267875, 'mob': 138256733},
                               'tld': '.vn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vn'}},
           'mcc': ['452'],
@@ -13629,7 +13665,7 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_nh.html'},
                      'nameset': ['republic of vanuatu', 'ripablik blong vanuatu', 'the republic of vanuatu', 'vanuatu'],
                      'tel': { 'code': '678',
-                              'domestic': ['fixed-line 1 per 100 and mobile-cellular 87 per 100', 2018],
+                              'domestic': ['fixed-line 1 per 100 and mobile-cellular 88 per 100', 2019],
                               'general': [ 'telecom services have progressed significantly in recent years',
                                            'mobile phones are now the primary means of communication and more than 92% '
                                            'of the population is covered by a mobile network',
@@ -13648,7 +13684,7 @@ P1_CC2 = \
                                         'cables helped end-users with Internet bandwidth',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2020],
-                              'subs': {'bb': 4718, 'fix': 4154, 'internet': 74083, 'mob': 251428},
+                              'subs': {'bb': 4718, 'fix': 3724, 'internet': 74083, 'mob': 259317},
                               'tld': '.vu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vu'}},
           'mcc': ['541'],
@@ -13678,6 +13714,7 @@ P1_CC2 = \
                                   'wallis and futuna',
                                   'wallis et futuna'],
                      'tel': { 'code': '681',
+                              'domestic': ['fixed-line teledensity 25 per 100 persons', 2019],
                               'general': [ '2G widespread',
                                            'bandwidth is limited',
                                            'mobile subscriber numbers are higher than fixed-line and better suited for '
@@ -13693,7 +13730,7 @@ P1_CC2 = \
                               'intl': [ 'landing point for the Tui-Samoa submarine cable network connecting Wallis & '
                                         'Futuna, Samoa and Fiji',
                                         2020],
-                              'subs': {'fix': 3132, 'internet': 3450},
+                              'subs': {'fix': 4012, 'internet': 3450},
                               'tld': '.wf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.wf'}},
           'mcc': ['543'],
@@ -13722,9 +13759,9 @@ P1_CC2 = \
                                   'samoa',
                                   'the independent state of samoa'],
                      'tel': { 'code': '685',
-                              'domestic': [ 'fixed-line 4 per 100 and mobile-cellular teledensity 62 telephones per '
+                              'domestic': [ 'fixed-line 4 per 100 and mobile-cellular teledensity 64 telephones per '
                                             '100 persons',
-                                            2018],
+                                            2019],
                               'general': [ 'most households have at least one mobile phone',
                                            'all businesses in the greater Apia area have access to broadband and '
                                            'Wi-Fi, which is reasonably reliable and fast',
@@ -13742,7 +13779,7 @@ P1_CC2 = \
                                         'Kiribati, Los Angeles (US), and Tokelau',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'subs': {'bb': 1692, 'fix': 8454, 'internet': 67662, 'mob': 124211},
+                              'subs': {'bb': 1692, 'fix': 8770, 'internet': 67662, 'mob': 128776},
                               'tld': '.ws',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ws'}},
           'mcc': ['549'],
@@ -13801,8 +13838,8 @@ P1_CC2 = \
                                   'republika e kosoves',
                                   'republika e kosoves (republika kosovo)'],
                      'tel': { 'code': '383',
-                              'domestic': [ 'fixed-line stands at 45 per 100 and mobile-cellular 31 per 100 persons',
-                                            2018],
+                              'domestic': [ 'fixed-line stands at 6 per 100 and mobile-cellular 32 per 100 persons',
+                                            2019],
                               'general': [ 'Kosovo being part of the EU pre-accession process has helped with their '
                                            'progress in the telecom industry, following a regulatory framework, '
                                            'European standards, and a market of new players encourages development in '
@@ -13813,7 +13850,7 @@ P1_CC2 = \
                                            'expansion of LTE services',
                                            2020],
                               'intl': [2000],
-                              'subs': {'fix': 831470, 'internet': 1706150, 'mob': 562000},
+                              'subs': {'fix': 117317, 'internet': 1706150, 'mob': 620186},
                               'tld': '.xk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.xk'}},
           'mcc': ['221'],
@@ -13886,8 +13923,8 @@ P1_CC2 = \
                               'domestic': [ 'the national network consists of microwave radio relay, cable, '
                                             'tropospheric scatter, GSM and CDMA mobile-cellular telephone systems',
                                             'fixed-line teledensity remains low by regional standards at 4 per 100 but '
-                                            'mobile cellular use expanding at 53 per 100',
-                                            2018],
+                                            'mobile cellular use expanding at 55 per 100',
+                                            2019],
                               'general': [ 'large percent of the population is in need of humanitarian assistance, and '
                                            'given the civil conflict, telecommunications services are vital but '
                                            'disrupted',
@@ -13909,7 +13946,7 @@ P1_CC2 = \
                                         '1 Intersputnik (Atlantic Ocean region), and 2 Arabsat',
                                         'microwave radio relay to Saudi Arabia and Djibouti',
                                         2020],
-                              'subs': {'bb': 386330, 'fix': 1165828, 'internet': 7659884, 'mob': 15297789},
+                              'subs': {'bb': 386330, 'fix': 1253287, 'internet': 7659884, 'mob': 16158028},
                               'tld': '.ye',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ye'}},
           'mcc': ['421'],
@@ -13955,14 +13992,14 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sf.html'},
                      'nameset': ['republic of south africa', 'south africa', 'the republic of south africa'],
                      'tel': { 'code': '27',
-                              'domestic': [ 'fixed-line 6 per 100 persons and mobile-cellular 167 telephones per 100 '
+                              'domestic': [ 'fixed-line 3 per 100 persons and mobile-cellular 166 telephones per 100 '
                                             'persons',
                                             'consists of carrier-equipped open-wire lines, coaxial cables, microwave '
                                             'radio relay links, fiber-optic cable, radiotelephone communication '
                                             'stations, and wireless local loops',
                                             'key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port '
                                             'Elizabeth, and Pretoria',
-                                            2018],
+                                            2019],
                               'general': [ 'the telecommunication system is the best-developed and most modern in '
                                            'Africa',
                                            'mobile Internet accounts for about 95% of Internet connections',
@@ -13979,7 +14016,7 @@ P1_CC2 = \
                                         'Europe, Southeast Asia, Asia, South America, Indian Ocean Islands, and the US',
                                         'satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 1107013, 'fix': 3345440, 'internet': 31107064, 'mob': 92427958},
+                              'subs': {'bb': 1107013, 'fix': 1934778, 'internet': 31107064, 'mob': 92600942},
                               'tld': '.za',
                               'url_tld': 'https://en.wikipedia.org/wiki/.za'}},
           'mcc': ['655'],
@@ -14053,8 +14090,8 @@ P1_CC2 = \
                                             'cities with microwave radio relays serving more rural areas',
                                             '3G and LTE with FttX in limited urban areas and private Ku or Ka band '
                                             'VSAT terminals in remote locations',
-                                            'fixed-line 1 per 100 and mobile-cellular 94 per 100',
-                                            2020],
+                                            'fixed-line 1 per 100 and mobile-cellular 96 per 100',
+                                            2019],
                               'general': [ 'service is among the best in Sub-Saharan Africa',
                                            'regulatory promotes competition and is a partner to private sector service '
                                            'providers, offering mobile voice and Internet at some of the lowest prices '
@@ -14072,7 +14109,7 @@ P1_CC2 = \
                                         'Africa, Botswana/Namibia and Tanzania provide access to the major undersea '
                                         'cables',
                                         2000],
-                              'subs': {'bb': 43365, 'fix': 100444, 'internet': 2351646, 'mob': 15470270},
+                              'subs': {'bb': 43365, 'fix': 91422, 'internet': 2351646, 'mob': 16322168},
                               'tld': '.zm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.zm'}},
           'mcc': ['645'],
@@ -14107,11 +14144,11 @@ P1_CC2 = \
                                             'network',
                                             'Internet connection is most readily available in Harare and major towns',
                                             'two government owned and two private cellular providers',
-                                            'fixed-line 2 per 100 and mobile-cellular 92 per 100',
-                                            2018],
+                                            'fixed-line 2 per 100 and mobile-cellular 90 per 100',
+                                            2019],
                               'general': [ 'competition has driven the expansion of the telecommunications sector, '
                                            'particularly cellular voice and mobile broadband, in recent years',
-                                           '3 mobile network operators continue to invest in m-commerce and m-banking '
+                                           '3 mobile network operators continue to invest in M-commerce and M-banking '
                                            'facilities',
                                            'continued advancement with national and international fiber backbone '
                                            'network as well as 3G and LTE mobile broadband services',
@@ -14122,7 +14159,7 @@ P1_CC2 = \
                                         'satellite earth stations - 2 Intelsat',
                                         '5 international digital gateway exchanges',
                                         2000],
-                              'subs': {'bb': 203056, 'fix': 268849, 'internet': 3796618, 'mob': 12908992},
+                              'subs': {'bb': 203056, 'fix': 258419, 'internet': 3796618, 'mob': 12863830},
                               'tld': '.zw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.zw'}},
           'mcc': ['648'],
