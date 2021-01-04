@@ -493,10 +493,14 @@ def parse_table_msisdn_pref():
     for i, L in enumerate(T_P[3:]):
         for j, e in enumerate(L):
             if len(e) > 1:
-                pref = e[0].text.strip()
-                assert(RE_WIKI_MSISDN_PREF.match(pref))
-                pref = pref[1:].replace(' ', '')
-                D_P[pref] = _get_cc_url(e[1:])
+                try:
+                    pref = e[0].text.strip()
+                except Exception:
+                    print('> invalid MSISDN prefix entry: %s' % ''.join(e[0].itertext()).strip())
+                else:
+                    assert(RE_WIKI_MSISDN_PREF.match(pref))
+                    pref = pref[1:].replace(' ', '')
+                    D_P[pref] = _get_cc_url(e[1:])
     #
     # convert set to list
     for pref, ccs in D_P.items():
