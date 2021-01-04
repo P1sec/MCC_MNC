@@ -651,7 +651,7 @@ def get_wiki_infos():
 
 def generate_json(d, destfile, src, license):
     meta = {'source': src, 'license': license}
-    with open(destfile, 'w') as fd:
+    with open(destfile, 'w', encoding='utf-8') as fd:
         json.dump([meta, d], fp=fd, sort_keys=True, indent=2)
         fd.write('\n')
     print('[+] %s file generated' % destfile)
@@ -660,7 +660,7 @@ def generate_json(d, destfile, src, license):
 def generate_python(d, destfile, src, license):
     pp = PrettyPrinter(indent=2, width=120)
     varname = destfile[:-3].split('/')[-1].upper()
-    with open(destfile, 'w') as fd:
+    with open(destfile, 'w', encoding='utf-8') as fd:
         fd.write('# -*- coding: UTF-8 -*-\n')
         fd.write('# source: %s\n' % ',\n#         '.join(src))
         fd.write('# license: %s\n\n' % license)

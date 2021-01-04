@@ -85,7 +85,7 @@ BULL_FREQ = {
 
 def strip_footer(fn, dbg=True):
     lines = []
-    with open(fn) as fd:
+    with open(fn, encoding='utf-8') as fd:
         bnum = fn.split('.')[1].split('-')[0]
         re1  = re.compile('No\. %s\s{0,}–\s{0,}[0-9]{1,}' % bnum)
         re2  = re.compile('Annex to ITU OB %s-E\s{0,}–\s{0,}[0-9]{1,}' % bnum)
@@ -99,7 +99,7 @@ def strip_footer(fn, dbg=True):
             lines.append(line)
     #
     # rewrite the file
-    with open(fn, 'w') as fd:
+    with open(fn, 'w', encoding='utf-8') as fd:
         fd.write(''.join(lines))
 
 
@@ -194,7 +194,7 @@ RE_MNC_LIST_END     = re.compile(
 
 
 def parse_mnc_list(fn=PATH_PRE+'T-SP-OB.1162-2018-OAS-PDF-E.txt', dbg=False):
-    with open(fn) as fd:
+    with open(fn, encoding='utf-8') as fd:
         txt = fd.read()
         #
         # keep only the list of MCC-MNC
@@ -399,7 +399,7 @@ RE_SPC_LIST_END     = re.compile(
 
 
 def parse_spc_list(fn=PATH_PRE+'T-SP-OB.1199-2020-OAS-PDF-E.txt', dbg=False):
-    with open(fn) as fd:
+    with open(fn, encoding='utf-8') as fd:
         txt = fd.read()
         #
         # keep only the list of SPC
