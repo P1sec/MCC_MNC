@@ -42,6 +42,7 @@
     "204": {
       "cc2": "NL",
       "mncs": [
+        "20400",
         "20401",
         "20402",
         "20403",
@@ -71,15 +72,20 @@
         "20427",
         "20428",
         "20429",
+        "20430",
+        "20432",
+        "20433",
         "20460",
         "20461",
         "20462",
+        "20463",
         "20464",
         "20465",
         "20466",
         "20467",
         "20468",
         "20469",
+        "20491",
         "20498"
       ],
       "notes": "",
@@ -99,11 +105,14 @@
         "20608",
         "20609",
         "20610",
+        "20611",
         "20615",
         "20616",
         "20620",
+        "20622",
         "20625",
         "20628",
+        "20629",
         "20630",
         "20633",
         "20640",
@@ -111,7 +120,8 @@
         "20671",
         "20672",
         "20673",
-        "20674"
+        "20674",
+        "20699"
       ],
       "notes": "",
       "reg": "Belgian Institute for Postal services and Telecommunications (BIPT)",
@@ -874,6 +884,7 @@
         "24817",
         "24818",
         "24819",
+        "24820",
         "24871"
       ],
       "notes": "",
@@ -2075,7 +2086,7 @@
       "mncs": [],
       "notes": "The US Virgin Islands share the US MCCs instead of using the assigned MCC 332",
       "reg": "IMSI Administrator",
-      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_of_America_\u2013_US"
+      "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_Virgin_Islands_(United_States_of_America)_\u2013_VI"
     },
     "334": {
       "cc2": "MX",
@@ -3732,6 +3743,7 @@
           "50546",
           "50547",
           "50548",
+          "50549",
           "50550",
           "50561",
           "50562",

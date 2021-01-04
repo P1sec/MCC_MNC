@@ -495,7 +495,7 @@ WIKIP_MCC = \
     'country_name': 'United States Virgin Islands',
     'country_url': 'https://en.wikipedia.org/wiki/United_States_Virgin_Islands',
     'mcc': '332',
-    'mcc_url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_of_America_–_US',
+    'mcc_url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#United_States_Virgin_Islands_(United_States_of_America)_–_VI',
     'notes': 'The US Virgin Islands share the US MCCs instead of using the assigned MCC 332'},
   { 'authority': 'Instituto Federal de Telecomunicaciones',
     'code_alpha_2': 'MX',
