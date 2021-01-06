@@ -32,6 +32,7 @@ import sys
 import argparse
 import urllib.request
 import re
+import json
 
 from parse_wikipedia_tables import (
     import_html_doc,
@@ -44,17 +45,33 @@ from parse_wikipedia_tables import (
 
 PATH_PRE = 'raw/'
 
+
+def import_json_doc(url):
+    resp = urllib.request.urlopen(url)
+    if resp.code == 200:
+        J = json.load(resp)
+    else:
+        raise(Exception('resource %s not available, HTTP code %i' % (url, resp.code)))
+    return J
+
+
 #------------------------------------------------------------------------------#
 # parsing CIA World Factbook country information
 #------------------------------------------------------------------------------#
 
-URL_FACTBOOK = 'https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html'
-URL_PREF     = 'https://www.cia.gov/library/publications/the-world-factbook/geos/'
+# old URLs, not valid anymore since January 2021
+#URL_FACTBOOK = 'https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html'
+#URL_PREF     = 'https://www.cia.gov/library/publications/the-world-factbook/geos/'
+
+URL_FACTBOOK  = 'https://www.cia.gov/the-world-factbook/page-data/references/country-data-codes/page-data.json'
+URL_PREF      = 'https://www.cia.gov/the-world-factbook/countries/'
+URL_PREF_JSON = 'https://www.cia.gov/the-world-factbook/page-data/countries/'
 
 
 REC_COUNTRY  = {
     'name'  : '',
     'url'   : '',
+    'json'  : '',
     'gec'   : '',
     'cc2'   : '',
     'cc3'   : '',
@@ -65,41 +82,54 @@ REC_COUNTRY  = {
     }
 
 
-def _get_text(e, cb=None):
-    t = explore_text(e)
-    if t is not None and t.text:
-        if callable(cb):
-            return cb(t.text.strip())
-        else:
-            return t.text.strip()
-    else:
-        return ''
+# this is a LUT for special case, where the country name from the country codes does not correspond
+# to the country name in the rest of the WFB database
+WFB_COUNTRY_LUT = {
+    'South Georgia and the Islands' : 'south-georgia-and-south-sandwich-islands',
+    }
 
+# regexp to change crappy char in country name to - as used within url of the WFB
+RE_WFB_URL = re.compile('[\s,\(\)]{1,}')
+
+def country_name_to_url(s):
+    if s in WFB_COUNTRY_LUT:
+        return WFB_COUNTRY_LUT[s]
+    else:
+        ret = RE_WFB_URL.sub('-', s.lower()).replace('\'', '')
+        if ret[-1:] == '-':
+            ret = ret[:-1].strip()
+        return ret
 
 def parse_table_country_all():
-    T   = import_html_doc(URL_FACTBOOK).xpath('//table')
-    T_C = T[0][2]
+    J = import_json_doc(URL_FACTBOOK)
+    try:
+        T = json.loads(J['result']['data']['page']['json'])['country_codes']
+    except Exception as err:
+        raise(Exception('> invalid json for WFB country data codes: %s' % err))
+    #
     D   = {} 
     #
-    for L in T_C:
+    for L in T:
         rec = dict(REC_COUNTRY)
-        L0  = explore_text(L[0])
-        rec['name'] = L0.text.strip()
-        rec['gec']  = _get_text(L[1], cb=str.upper)
-        rec['cc2']  = _get_text(L[2], cb=str.upper)
-        rec['cc3']  = _get_text(L[3], cb=str.upper)
-        rec['ccn']  = _get_text(L[4], cb=str.upper)
-        rec['stan'] = _get_text(L[5], cb=str.upper)
-        rec['tld']  = _get_text(L[6], cb=str.lower)
-        rec['cmt']  = _get_text(L[7])
+        rec['name'] = L['entity']
+        rec['gec']  = L['gec'].upper() if L['gec'] is not None and len(L['gec']) == 2 else ''
+        rec['cc2']  = L['iso_code_1'].upper() if L['iso_code_1'] is not None and len(L['iso_code_1']) == 2 else ''
+        rec['cc3']  = L['iso_code_2'].upper() if L['iso_code_2'] is not None and len(L['iso_code_2']) == 3 else ''
+        rec['ccn']  = L['iso_code_3'].upper() if L['iso_code_3'] is not None and len(L['iso_code_3']) == 3 else ''
+        rec['stan'] = L['stanag_code'].upper() if L['stanag_code'] is not None and len(L['stanag_code']) == 3 else ''
+        rec['tld']  = L['internet_code'].lower() if L['internet_code'] is not None and len(L['internet_code']) >= 3 else ''
+        rec['cmt']  = L['comment'] if L['comment'] else ''
         #
-        if L0.values() and len(L0.values()[0]) > 8:
-            rec['url']  = URL_PREF + 'print_' + L0.values()[0][8:].strip().lower()
-            rec['infos'] = parse_table_country(rec['url'])
-            if not rec['infos']:
-                print('> web page does not exist for %s' % rec['name'])
-            else:
-                print('> infos extracted for %s' % rec['name'])
+        # build the country URL from the country name
+        cntr_name   = country_name_to_url(L['entity'])
+        rec['url']  = URL_PREF + cntr_name
+        rec['json'] = URL_PREF_JSON + cntr_name + '/page-data.json'
+        #
+        rec['infos'] = parse_json_country(rec['json'])
+        if not rec['infos']:
+            print('> web page does not exist for %s (url: %s)' % (rec['name'], rec['json']))
+        else:
+            print('> infos extracted for %s' % rec['name'])
         #
         if rec['name'] in D:
             raise(Exception('> duplicate entry for country %s' % rec['name']))
@@ -109,65 +139,248 @@ def parse_table_country_all():
     return D
 
 
-RE_COUNTRY_CODE = re.compile('^country code - ([0-9\-]{1,5})')
-RE_YEAR         = re.compile('^\(\s{0,}(20[0-9]{2})\s{0,}(est\.{0,1}){0,1}\)$')
+def parse_json_country(url):
+    try:
+        J = json.loads(import_json_doc(url)['result']['data']['country']['json'])
+    except Exception as err:
+        return {}
+    #
+    D = {}
+    # warning: for some country url, the HTML structure is inconsistent
+    _extract_sections(J, D)
+    return D
 
 
-def _extract_tel_generic(infos, year):
-    ret = [t.strip() for t in infos.split(';') if t.strip()]
-    m = RE_YEAR.match(year)
-    if m:
-        ret += [int(m.group(1))]
-    else:
-        ret += [0]
-    return ret
+# JSON section title, and sub-section id
+# structure of titles and ids:
+#
+# - Introduction
+#   - background
+# - Geography
+#   - location
+#   - geographic-coordinates
+#   - map-references
+#   - area
+#   - area-comparative
+#   - land-boundaries
+#   - coastline
+#   - maritime-claims
+#   - climate
+#   - terrain
+#   - elevation
+#   - natural-resources
+#   - land-use
+#   - irrigated-land
+#   - population-distribution
+#   - natural-hazards
+#   - environment-current-issues
+#   - environment-international-agreements
+#   - geography-note
+# - People and Society
+#   - population
+#   - nationality
+#   - ethnic-groups
+#   - languages
+#   - religions
+#   - demographic-profile
+#   - age-structure
+#   - dependency-ratios
+#   - median-age
+#   - population-growth-rate
+#   - birth-rate
+#   - death-rate
+#   - net-migration-rate
+#   - population-distribution
+#   - urbanization
+#   - major-urban-areas-population
+#   - sex-ratio
+#   - maternal-mortality-rate
+#   - infant-mortality-rate
+#   - life-expectancy-at-birth
+#   - total-fertility-rate
+#   - contraceptive-prevalence-rate
+#   - drinking-water-source
+#   - current-health-expenditure
+#   - physicians-density
+#   - hospital-bed-density
+#   - sanitation-facility-access
+#   - hiv-aids-adult-prevalence-rate
+#   - hiv-aids-people-living-with-hiv-aids
+#   - hiv-aids-deaths
+#   - major-infectious-diseases
+#   - obesity-adult-prevalence-rate
+#   - children-under-the-age-of-5-years-underweight
+#   - education-expenditures
+#   - literacy
+#   - school-life-expectancy-primary-to-tertiary-education
+#   - unemployment-youth-ages-15-24
+# - Government
+#   - country-name
+#   - government-type
+#   - capital
+#   - administrative-divisions
+#   - independence
+#   - national-holiday
+#   - constitution
+#   - legal-system
+#   - international-law-organization-participation
+#   - citizenship
+#   - suffrage
+#   - executive-branch
+#   - legislative-branch
+#   - judicial-branch
+#   - political-parties-and-leaders
+#   - international-organization-participation
+#   - diplomatic-representation-in-the-us
+#   - diplomatic-representation-from-the-us
+#   - flag-description
+#   - national-symbols
+#   - national-anthem
+# - Economy
+#   - economic-overview
+#   - gdp-real-growth-rate-2
+#   - inflation-rate-consumer-prices
+#   - credit-ratings
+#   - gdp-purchasing-power-parity-real
+#   - gdp-official-exchange-rate
+#   - gdp-per-capita-ppp
+#   - gross-national-saving
+#   - gdp-composition-by-sector-of-origin
+#   - gdp-composition-by-end-use
+#   - ease-of-doing-business-index-scores
+#   - agriculture-products
+#   - industries
+#   - industrial-production-growth-rate
+#   - labor-force
+#   - labor-force-by-occupation
+#   - unemployment-rate
+#   - population-below-poverty-line
+#   - household-income-or-consumption-by-percentage-share
+#   - budget
+#   - taxes-and-other-revenues
+#   - budget-surplus-or-deficit
+#   - public-debt
+#   - fiscal-year
+#   - current-account-balance
+#   - exports
+#   - exports-partners
+#   - exports-commodities
+#   - imports
+#   - imports-commodities
+#   - imports-partners
+#   - reserves-of-foreign-exchange-and-gold
+#   - debt-external
+#   - exchange-rates
+# - Energy
+#   - electricity-access
+#   - electricity-production
+#   - electricity-consumption
+#   - electricity-exports
+#   - electricity-imports
+#   - electricity-installed-generating-capacity
+#   - electricity-from-fossil-fuels
+#   - electricity-from-nuclear-fuels
+#   - electricity-from-hydroelectric-plants
+#   - electricity-from-other-renewable-sources
+#   - crude-oil-production
+#   - crude-oil-exports
+#   - crude-oil-imports
+#   - crude-oil-proved-reserves
+#   - refined-petroleum-products-production
+#   - refined-petroleum-products-consumption
+#   - refined-petroleum-products-exports
+#   - refined-petroleum-products-imports
+#   - natural-gas-production
+#   - natural-gas-consumption
+#   - natural-gas-exports
+#   - natural-gas-imports
+#   - natural-gas-proved-reserves
+#   - carbon-dioxide-emissions-from-consumption-of-energy
+# - Communications
+#   - telephones-fixed-lines
+#   - telephones-mobile-cellular
+#   - telecommunication-systems
+#   - broadcast-media
+#   - internet-country-code
+#   - internet-users
+#   - broadband-fixed-subscriptions
+# - Transportation
+#   - national-air-transport-system
+#   - civil-aircraft-registration-country-code-prefix
+#   - airports
+#   - airports-with-paved-runways
+#   - airports-with-unpaved-runways
+#   - heliports
+#   - pipelines
+#   - railways
+#   - roadways
+#   - waterways
+#   - merchant-marine
+#   - ports-and-terminals
+# - Military and Security
+#   - military-and-security-forces
+#   - military-expenditures
+#   - military-and-security-service-personnel-strengths
+#   - military-equipment-inventories-and-acquisitions
+#   - military-deployments
+#   - military-service-age-and-obligation
+#   - military-note
+# - Transnational Issues
+#   - disputes-international
+#   - refugees-and-internally-displaced-persons
+#   - illicit-drugs
 
 
-def _extract_tel(e):
-    r = {}
-    for esub in e:
-        infos = [t.strip() for t in ''.join(esub.itertext()).split('\n') if t.strip()]
-        if len(infos) == 2:
-            sect, infos = infos
-            year = '(2000)'
-        elif len(infos) == 3:
-            sect, infos, year = infos
-        else: 
-            continue
-        #
-        infos = re.sub('[\s\xa0]{1,}', ' ', infos)
-        if sect == 'general assessment:':
-            r['general']  = _extract_tel_generic(infos, year)
-        elif sect == 'domestic:':
-            r['domestic'] = _extract_tel_generic(infos, year)
-        elif sect == 'international:':
-            m = RE_COUNTRY_CODE.match(infos)
-            if m:
-                infos = infos[m.end():].strip() 
-                r['code']     = m.group(1).replace('-', '')
-            r['intl']     = [t.strip() for t in infos.split(';') if t.strip()] + [int(RE_YEAR.match(year).group(1))]
+def _extract_geo_mult(s):
+    r = []
+    for ssub in s.split(';'):
+        if ':' in ssub:
+            r.append( tuple(map(str.strip, ssub.split(':'))) )
         else:
-            r[sect[:-1]]  = _extract_tel_generic(infos, year)
+            r.insert(0, ssub.strip())
     return r
 
 
-_PORT_TYPES = {
-    'major seaport',
-    'container port',
-    'cruise/ferry port',
-    'cargo port',
-    'cruise departure port'
-    }
-
-def _extract_port(e):
+def _extract_text_subs(l):
     r = {}
-    for esub in e:
-        sect, infos = [t.strip() for t in ''.join(esub.itertext()).split('\n')][1:3]
-        infos = re.sub('[\s\xa0]{1,}', ' ', infos)
-        for ptype in _PORT_TYPES:
-            if re.match(ptype, sect):
-                r[ptype] = infos
-                continue
+    for s in l:
+        try:
+            name, s = map(str.strip, s.split(':', 1))
+        except ValueError:
+            # not a named section
+            assert( 'note' not in r )
+            r['note'] = s
+        else:
+            r[name] = s
+    return r
+
+
+RE_DIST = re.compile('([0-9]{1,})\s{0,}(?:km){0,1}')
+RE_BORD = re.compile('border countries(?: \(([0-9]{1,})\)){0,1}:')
+
+def _extract_bound(l):
+    r = {'bord': {}}
+    for s in l:
+        if s.startswith('border countries'):
+            m = RE_BORD.match(s)
+            if m:
+                num = int(m.group(1))
+                s = s.split(':', 1)[1].strip()
+                if 'note:' in s:
+                    s, r['note'] = map(str.strip, s.split('note:', 1))
+                countries = list(map(_stripbordref, s.split(',')))
+                assert( len(countries) == num )
+                for country in countries:
+                    m = RE_DIST.search(country)
+                    if m:
+                        r['bord'][country[:m.start()].strip()] = int(m.group(1))
+                    else:
+                        r['bord'][country] = 0
+        elif 'total:' in s:
+            dist = s.split(':', 1)[1].strip().replace(',', '')
+            m = RE_DIST.match(dist)
+            if m and 'len' not in r:
+                r['len'] = int(m.group(1))
     return r
 
 
@@ -189,180 +402,150 @@ def _extract_value(s):
         return 0
 
 
-def _extract_geo_mult(e):
-    r = []
-    t = re.sub('\s{1,}', ' ', ''.join(e.itertext())).strip()
-    for tsub in t.split(';'):
-        if ':' in tsub:
-            r.append( tuple(map(str.strip, tsub.split(':'))) )
-        else:
-            r.insert(0, tsub.strip())
+def _extract_country_name(l):
+    r = {}
+    for s in l:
+        if s.startswith('conventional short'):
+            r['conv_short'] = s.split(':', 1)[1].strip()
+        elif s.startswith('conventional long'):
+            r['conv_long'] = s.split(':', 1)[1].strip()
+        elif s.startswith('local short'):
+            r['local_short'] = s.split(':', 1)[1].strip()
+        elif s.startswith('local long'):
+            r['local_long'] = s.split(':', 1)[1].strip()
     return r
 
 
-RE_DIST = re.compile('([0-9]{1,})\s{0,}(?:km){0,1}')
-RE_BORD = re.compile('border countries(?: \(([0-9]{1,})\)){0,1}:')
+RE_TIME_DIFF = re.compile('UTC\s{0,}[\-\+\.0-9]{0,}')
 
-
-def _extract_dist(s):
-    return int(RE_DIST.match(s.replace(',', '')).group(1))
-
-
-def _extract_bound(e):
-    r = {'bord': {}}
-    for esub in e:
-        infos = [t.strip() for t in ''.join(esub.itertext()).split('\n') if t.strip()]
-        if len(infos) == 1 and RE_DIST.match(infos[0]):
-            r['len'] = _extract_dist(infos[0])
-        elif len(infos) == 2:
-            m = RE_BORD.match(infos[0])
+def _extract_capital(l):
+    r = {}
+    for s in l:
+        if s.startswith('name'):
+            r['name'] = s.split(':', 1)[1].strip()
+        elif s.startswith('time diff'):
+            m = RE_TIME_DIFF.match(s.split(':', 1)[1].strip())
             if m:
-                num       = int(m.group(1))
-                countries = list(map(_stripbordref, infos[1].split(',')))
-                assert(len(countries) == num)
-                for country in countries:
-                    m = RE_DIST.search(country)
-                    if m:
-                        r['bord'][country[:m.start()].strip()] = int(m.group(1))
-                    else:
-                        r['bord'][country] = 0
-            elif 'len' not in r and infos[0][-6:] == 'total:':
-                r['len'] = _extract_dist(infos[1])
+                r['time_diff'] = m.group()
+        elif s.startswith('geographic coord'):
+            r['coord'] = s.split(':', 1)[1].strip()
     return r
 
 
-def _extract_country_name(e):
+def _extract_total_value(l):
+    for s in l:
+        if s.startswith('total'):
+            return _extract_value(s.split(':', 1)[1].strip())
+    return ''
+
+
+RE_COUNTRY_CODE = re.compile('^country code - ([0-9\-]{1,5})')
+RE_YEAR         = re.compile('\(\s{0,}(20[0-9]{2})\s{0,}(est\.{0,1}){0,1}\)$')
+
+def _extract_tel_year(s):
+    m = RE_YEAR.search(s)
+    if m:
+        year = int(m.group(1))
+        s = s[:m.start()].strip()
+    else:
+        year = 0
+    return [p for p in map(str.strip, s.split(';')) if p] + [year]
+
+def _extract_tel(l):
     r = {}
-    for esub in e:
-        sect, infos = map(str.strip, ''.join(esub.itertext()).split('\n')[1:3])
-        if sect.startswith('conventional short'):
-            r['conv_short'] = infos
-        elif sect.startswith('conventional long'):
-            r['conv_long'] = infos
-        elif sect.startswith('local short'):
-            r['local_short'] = infos
-        elif sect.startswith('local long'):
-            r['local_long'] = infos
+    for s in l:
+        if s.startswith('general assess'):
+            r['general'] = _extract_tel_year(s.split(':', 1)[1].strip())
+        elif s.startswith('domestic'):
+            r['domestic'] = _extract_tel_year(s.split(':', 1)[1].strip())
+        elif s.startswith('international'):
+            s = s.split(':', 1)[1].strip()
+            m = RE_COUNTRY_CODE.match(s)
+            if m:
+                s = s[m.end():].strip()
+                r['code'] = m.group(1).replace('-', '')
+            r['intl'] = _extract_tel_year(s)
+        else:
+            name, s = map(str.strip, s.split(':', 1))
+            r[name] = _extract_tel_year(s)
     return r
 
 
-def _extract_capital(e):
+def _extract_ports(l):
     r = {}
-    for esub in e:
-        sect, infos = map(str.strip, ''.join(esub.itertext()).split('\n')[1:3])
-        if sect == 'name:':
-            r['name'] = infos
-        elif sect == 'time difference:':
-            r['time_diff'] = infos
-        elif sect == 'geographic coordinates:':
-            r['coord'] = infos
+    for s in l:
+        if s.startswith('major seaport'):
+            r['seaport'] = s.split(':', 1)[1].strip()
+        elif s.startswith('container port'):
+            r['container'] = s.split(':', 1)[1].strip()
+        elif s.startswith('cruise/ferry'):
+            r['ferry'] = s.split(':', 1)[1].strip()
     return r
 
 
 COUNTRY_SECTIONS = {
-    'geography-category-section': {
-        'field-geographic-coordinates': (
-            'coord',
-            _extract_geo_mult
-            ),
-        'field-map-references': (
-            'region',
-            _extract_geo_mult
-            ),
-        'field_area': (
-            'area',
-            lambda e: _get_text(e)
-            ),
-        'field-land-boundaries': (
-            'boundaries',
-            _extract_bound
-            ),
-        'field-coastline': (
-            'coastline',
-            _extract_bound
-            #lambda e: _extract_dist(_get_text(e))
-            ),
+    'Geography': {
+        'geographic-coordinates'    : ('coord',         _extract_geo_mult),
+        'map-references'            : ('region',        _extract_geo_mult),
+        'area'                      : ('area',          _extract_text_subs),
+        'land-boundaries'           : ('boundaries',    _extract_bound),
+        'coastline'                 : ('coastline',     _extract_value),
         },
-    'people-and-society-category-section': {
-        'field-population': (
-            'population',
-            lambda e: _extract_value(_get_text(e))
-            ),
+    'People and Society': {
+        'population'                : ('population',    _extract_value),
         },
-    'government-category-section': {
-        'field-country-name': (
-            'country_name',
-            _extract_country_name
-            ),
-        'field-capital': (
-            'capital',
-            _extract_capital
-            ),
+    'Government': {
+        'country-name'              : ('country_name',  _extract_country_name),
+        'capital'                   : ('capital',       _extract_capital),
         },
-    'communications-category-section': {
-        'field-telephones-fixed-lines': (
-            'subs_fixed',
-            lambda e: _extract_value(_get_text(e[0])) if len(e) else ''
-            ),
-        'field-telephones-mobile-cellular': (
-            'subs_mobile',
-            lambda e: _extract_value(_get_text(e[0])) if len(e) else ''
-            ),
-        'field-telecommunication-systems': (
-            'telecom',
-            _extract_tel
-            ),
-        'field-internet-users': (
-            'users_internet',
-            lambda e: _extract_value(_get_text(e[0])) if len(e) else ''
-            ),
-        'field-broadband-fixed-subscriptions' : (
-            'subs_broadband',
-            lambda e: _extract_value(_get_text(e[0])) if len(e) else ''
-            ),
+    'Communications': {
+        'telephones-fixed-lines'        : ('subs_fixed',        _extract_total_value),
+        'telephones-mobile-cellular'    : ('subs_mobile',       _extract_total_value),
+        'telecommunication-systems'     : ('telecom',           _extract_tel),
+        'internet-users'                : ('users_internet',    _extract_total_value),
+        'broadband-fixed-subscriptions' : ('subs_broadband',    _extract_total_value),
         },
-    'transportation-category-section': {
-        'field-airports': (
-            'airports',
-            lambda e: _extract_value(_get_text(e))
-            ),
-        'field-ports-and-terminals': (
-            'ports',
-            _extract_port
-            )
+    'Transportation': {
+        'airports'                  : ('airports',      _extract_total_value),
+        'ports-and-terminals'       : ('ports',         _extract_ports),
         }
     }
 
 
-def _explore_subsection(S, D, FIELDS):
-    for subsection in S:
-        if 'id' in subsection.attrib and subsection.attrib['id'] in FIELDS:
-            #print('subsection found: %s' % subsection.attrib['id'])
-            name, cb = FIELDS[subsection.attrib['id']]
-            D[name] = cb(subsection)
-    # sometimes, HTML structure hierarchy is corrupted, hence this:
-    _explore_section(S, D)
+RE_HTML_GLYPH = re.compile('&[a-zA-Z];')
+ 
+def _strip_html(s):
+    ret = re.sub('\s{1,}', ' ', re.sub('</{0,1}(strong|p)>', ' ', s))\
+        .replace('&nbsp;', ' ')\
+        .replace('&amp;', '&')\
+        .strip()
+    m = RE_HTML_GLYPH.search(ret)
+    if m:
+        print('> found HTML glyph: %s' % m.group())
+    return ret
 
 
-def _explore_section(S, D):
-    for section in S:
-        if 'id' in section.attrib and section.attrib['id'] in COUNTRY_SECTIONS:
-            #print('section found: %s' % section.attrib['id'])
-            _explore_subsection(section, D, COUNTRY_SECTIONS[section.attrib['id']])
-        # sometimes, HTML structure hierarchy is corrupted, hence this:
-        _explore_section(section, D)
-
-
-def parse_table_country(url):
-    try:
-        T = import_html_doc(url)[2][0][0][0][0][0][1][1]
-    except Exception:
-        return {}
-    #
-    D = {}
-    # warning: for some country url, the HTML structure is inconsistent
-    _explore_section(T, D)
-    return D
+def _extract_sections(J, D):
+    for section in J['categories']:
+        if section['title'] in COUNTRY_SECTIONS:
+            subsel = COUNTRY_SECTIONS[section['title']]
+            for subsection in section['fields']:
+                if subsection['id'] in subsel:
+                    selname, cb = subsel[subsection['id']]
+                    #print('- %s' % subsection['id'])
+                    #
+                    if 'subfields_raw' in subsection:
+                        subs = list(map(str.strip, subsection['subfields_raw'].split(', ')))
+                        cont = list(map(_strip_html, subsection['content'].split('<br><br>')))
+                        D[selname] = cb(cont)
+                        #print('  - subs: %s' % ', '.join(subs))
+                        #print('  - cont:')
+                        #for c in cont:
+                        #    print('    - %s' % c)
+                    else:
+                        cont = _strip_html(subsection['content'])
+                        D[selname] = cb(cont)
+                        #print('  - cont: %s' % cont)
 
 
 #------------------------------------------------------------------------------#
