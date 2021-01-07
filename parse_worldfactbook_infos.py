@@ -127,7 +127,7 @@ def parse_table_country_all():
         #
         rec['infos'] = parse_json_country(rec['json'])
         if not rec['infos']:
-            print('> web page does not exist for %s (url: %s)' % (rec['name'], rec['json']))
+            print('> web page does not exist for %s' % rec['name'])
         else:
             print('> infos extracted for %s' % rec['name'])
         #
@@ -330,58 +330,101 @@ def parse_json_country(url):
 #   - refugees-and-internally-displaced-persons
 #   - illicit-drugs
 
+RE_NOTE  = re.compile('[nN]ote\s{0,}:')
+
+
+RE_SPACE = re.compile('\s{1,}')
+
+def _strip_str(s):
+    return RE_SPACE.sub(' ', s).strip()
+
 
 def _extract_geo_mult(s):
     r = []
     for ssub in s.split(';'):
         if ':' in ssub:
-            r.append( tuple(map(str.strip, ssub.split(':'))) )
+            r.append( tuple(map(_strip_str, ssub.split(':'))) )
         else:
-            r.insert(0, ssub.strip())
+            r.insert(0, _strip_str(ssub))
     return r
 
 
-def _extract_text_subs(l):
+def _extract_area(l):
     r = {}
     for s in l:
         try:
-            name, s = map(str.strip, s.split(':', 1))
+            name, s = map(_strip_str, s.split(':', 1))
         except ValueError:
             # not a named section
             assert( 'note' not in r )
-            r['note'] = s
+            r['note'] = _strip_str(s)
         else:
+            m = RE_NOTE.search(s)
+            if m:
+                assert( 'note' not in r )
+                r['note'] = s[m.end():].strip()
+                s = s[:m.start()].strip()
             r[name] = s
     return r
 
 
-RE_DIST = re.compile('([0-9]{1,})\s{0,}(?:km){0,1}')
-RE_BORD = re.compile('border countries(?: \(([0-9]{1,})\)){0,1}:')
+# 3 kinds of border notation:
+# "border countries (15):", "border sovereign base areas:", "regional borders (1):"
+
+RE_DIST = re.compile('([0-9]{1,}[,0-9]{0,})\s{0,}(?:km){0,1}')
+RE_BORD = re.compile('(?:regional ){0,1}border(?:s){0,1}(?: countries| sovereign base areas|)(?:\s\(([0-9]{1,})\)){0,1}:')
 
 def _extract_bound(l):
     r = {'bord': {}}
     for s in l:
-        if s.startswith('border countries'):
+        if 'border' in s:
             m = RE_BORD.match(s)
             if m:
-                num = int(m.group(1))
+                num = m.group(1)
                 s = s.split(':', 1)[1].strip()
-                if 'note:' in s:
-                    s, r['note'] = map(str.strip, s.split('note:', 1))
-                countries = list(map(_stripbordref, s.split(',')))
-                assert( len(countries) == num )
+                m = RE_NOTE.search(s)
+                if m:
+                    assert( 'note' not in r )
+                    r['note'] = s[m.end():].strip()
+                    s = s[:m.start()].strip()
+                countries = list(map(_strip_str, s.split(', ')))
                 for country in countries:
                     m = RE_DIST.search(country)
                     if m:
-                        r['bord'][country[:m.start()].strip()] = int(m.group(1))
+                        r['bord'][country[:m.start()].strip()] = int(m.group(1).replace(',', ''))
                     else:
+                        print('> missing boundary length: %s' % country)
                         r['bord'][country] = 0
-        elif 'total:' in s:
+                if num is not None and int(num) != len(r['bord']):
+                    #assert()
+                    print('> boundary number mismatch: %s / %r' % (num, r['bord']))
+        elif 'total' in s:
             dist = s.split(':', 1)[1].strip().replace(',', '')
             m = RE_DIST.match(dist)
             if m and 'len' not in r:
                 r['len'] = int(m.group(1))
+    _consolidate_bound(r)
     return r
+
+def _consolidate_bound(r):
+    if not r['bord'] and 'len' not in r:
+        r['len'] = 0
+    elif r['bord']:
+        bord = r['bord']
+        upd  = {}
+        # fix in case multiple entries for a single country
+        for c, l in bord.items():
+            name = _stripbordref(c)
+            if name != c:
+                if 'note' not in r:
+                    r['note'] = 'border with %s' % c
+                else:
+                    r['note'] += '; border with %s' % c
+            if name in upd:
+                upd[name] += l
+            else:
+                upd[name] = l
+        r['bord'] = upd
 
 
 RE_INTEG_VAL = re.compile('([0-9\.,]{1,})(\s{1,}million){0,1}')
@@ -406,13 +449,13 @@ def _extract_country_name(l):
     r = {}
     for s in l:
         if s.startswith('conventional short'):
-            r['conv_short'] = s.split(':', 1)[1].strip()
+            r['conv_short']  = _strip_str(s.split(':', 1)[1])
         elif s.startswith('conventional long'):
-            r['conv_long'] = s.split(':', 1)[1].strip()
+            r['conv_long']   = _strip_str(s.split(':', 1)[1])
         elif s.startswith('local short'):
-            r['local_short'] = s.split(':', 1)[1].strip()
+            r['local_short'] = _strip_str(s.split(':', 1)[1])
         elif s.startswith('local long'):
-            r['local_long'] = s.split(':', 1)[1].strip()
+            r['local_long']  = _strip_str(s.split(':', 1)[1])
     return r
 
 
@@ -422,13 +465,13 @@ def _extract_capital(l):
     r = {}
     for s in l:
         if s.startswith('name'):
-            r['name'] = s.split(':', 1)[1].strip()
+            r['name'] = _strip_str(s.split(':', 1)[1])
         elif s.startswith('time diff'):
             m = RE_TIME_DIFF.match(s.split(':', 1)[1].strip())
             if m:
                 r['time_diff'] = m.group()
         elif s.startswith('geographic coord'):
-            r['coord'] = s.split(':', 1)[1].strip()
+            r['coord'] = _strip_str(s.split(':', 1)[1])
     return r
 
 
@@ -449,7 +492,7 @@ def _extract_tel_year(s):
         s = s[:m.start()].strip()
     else:
         year = 0
-    return [p for p in map(str.strip, s.split(';')) if p] + [year]
+    return [p for p in map(_strip_str, s.split(';')) if p] + [year]
 
 def _extract_tel(l):
     r = {}
@@ -475,11 +518,11 @@ def _extract_ports(l):
     r = {}
     for s in l:
         if s.startswith('major seaport'):
-            r['seaport'] = s.split(':', 1)[1].strip()
+            r['seaport']   = _strip_str(s.split(':', 1)[1])
         elif s.startswith('container port'):
-            r['container'] = s.split(':', 1)[1].strip()
+            r['container'] = _strip_str(s.split(':', 1)[1])
         elif s.startswith('cruise/ferry'):
-            r['ferry'] = s.split(':', 1)[1].strip()
+            r['ferry']     = _strip_str(s.split(':', 1)[1])
     return r
 
 
@@ -487,7 +530,7 @@ COUNTRY_SECTIONS = {
     'Geography': {
         'geographic-coordinates'    : ('coord',         _extract_geo_mult),
         'map-references'            : ('region',        _extract_geo_mult),
-        'area'                      : ('area',          _extract_text_subs),
+        'area'                      : ('area',          _extract_area),
         'land-boundaries'           : ('boundaries',    _extract_bound),
         'coastline'                 : ('coastline',     _extract_value),
         },
@@ -512,16 +555,22 @@ COUNTRY_SECTIONS = {
     }
 
 
+RE_HTML_CMT   = re.compile('<\!--.*-->')
+RE_HTML_SPAN  = re.compile('<span\s.*>')
+RE_HTML_STYLE = re.compile('</{0,1}(strong|p)>')
 RE_HTML_GLYPH = re.compile('&[a-zA-Z];')
  
 def _strip_html(s):
-    ret = re.sub('\s{1,}', ' ', re.sub('</{0,1}(strong|p)>', ' ', s))\
-        .replace('&nbsp;', ' ')\
-        .replace('&amp;', '&')\
-        .strip()
+    ret = RE_HTML_CMT.sub(' ', s)
+    ret = RE_HTML_SPAN.sub(' ', ret)
+    ret = RE_HTML_STYLE.sub(' ', ret)\
+          .replace('&nbsp;', ' ')\
+          .replace('&amp;', '&')\
+          .strip()
+    ret = re.sub('\s{1,}', ' ', ret)
     m = RE_HTML_GLYPH.search(ret)
     if m:
-        print('> found HTML glyph: %s' % m.group())
+        print('> found more HTML expr: %s' % m.group())
     return ret
 
 
@@ -552,7 +601,7 @@ def _extract_sections(J, D):
 # Main
 #------------------------------------------------------------------------------#
 
-URL_LICENSE = "https://www.cia.gov/library/publications/the-world-factbook/docs/contributor_copyright.html"
+URL_LICENSE = "https://www.cia.gov/the-world-factbook/about/copyright-and-contributors/"
 
 def main():
     parser = argparse.ArgumentParser(description=

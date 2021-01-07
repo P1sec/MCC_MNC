@@ -909,7 +909,9 @@
       "cc2": "CY",
       "neigh": {
         "bord": [
-          "Akrotiri and Dhekelia"
+          "Akrotiri",
+          "Akrotiri and Dhekelia",
+          "Dhekelia"
         ],
         "less100": [
           "Turkey"
@@ -2206,15 +2208,14 @@
       "neigh": {
         "bord": [
           "Algeria",
+          "Mauritania",
           "Spain",
           "Western Sahara"
         ],
         "less100": [
           "Canary Islands"
         ],
-        "less30": [
-          "Mauritania"
-        ]
+        "less30": []
       }
     },
     "Mozambique": {

@@ -24,14 +24,12 @@ P1_CNTR = \
                                                   'len': 5987},
                                        'capital': { 'coord': '34 31 N, 69 11 E',
                                                     'name': 'Kabul',
-                                                    'time_diff': 'UTC+4.5 (9.5 hours ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
-                                       'coast': {'bord': {}},
+                                                    'time_diff': 'UTC+4.5'},
                                        'coord': ['33 00 N, 65 00 E'],
                                        'popul': 36643815,
                                        'region': 'Asia',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AF',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_af.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/afghanistan'},
                               'nameset': [ 'afghanistan',
                                            'islamic republic of afghanistan',
                                            'jamhuri-ye islami-ye afghanistan',
@@ -55,6 +53,14 @@ P1_CNTR = \
                                        'intl': [ "multiple VSAT's provide international and domestic voice and data "
                                                  'connectivity',
                                                  2019],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 15999, 'fix': 125232, 'internet': 4717013, 'mob': 21239280},
                                        'tld': '.af',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.af'}},
@@ -85,15 +91,14 @@ P1_CNTR = \
                                               'len': 691},
                                    'capital': { 'coord': '41 19 N, 19 49 E',
                                                 'name': 'Tirana (Tirane)',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 362},
+                                                'time_diff': 'UTC+1'},
+                                   'coast': 362,
                                    'coord': ['41 00 N, 20 00 E'],
                                    'popul': 3074579,
-                                   'ports': {'major seaport': 'Durres, Sarande, Shengjin, Vlore'},
+                                   'ports': {'seaport': 'Durres, Sarande, Shengjin, Vlore'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AL',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_al.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/albania'},
                           'nameset': [ 'albania',
                                        'republic of albania',
                                        'republika e shqiperise',
@@ -123,6 +128,14 @@ P1_CNTR = \
                                              'international traffic carried by fiber-optic cable and, when necessary, '
                                              'by microwave radio relay from the Tirana exchange to Italy and Greece',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 361947, 'fix': 258474, 'internet': 2196613, 'mob': 2799066},
                                    'tld': '.al',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.al'}},
@@ -143,18 +156,15 @@ P1_CNTR = \
                                                         'Tunisia': 1034,
                                                         'Western Sahara': 41},
                                               'len': 6734},
-                                   'capital': { 'coord': '36 45 N, 3 03 E',
-                                                'name': 'Algiers',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 998},
+                                   'capital': {'coord': '36 45 N, 3 03 E', 'name': 'Algiers', 'time_diff': 'UTC+1'},
+                                   'coast': 998,
                                    'coord': ['28 00 N, 3 00 E'],
                                    'popul': 42972878,
-                                   'ports': { 'major seaport': 'Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, '
-                                                               'Mostaganem, Oran, Skikda'},
+                                   'ports': { 'seaport': 'Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, '
+                                                         'Mostaganem, Oran, Skikda'},
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DZ',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ag.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/algeria'},
                           'nameset': [ "al jaza'ir",
                                        "al jumhuriyah al jaza'iriyah ad dimuqratiyah ash sha'biyah",
                                        'algeria',
@@ -174,7 +184,7 @@ P1_CNTR = \
                                                 'upgrade to LTE infrastructure and migration to 5G',
                                                 'LTE subscriber rate up 82% in 2018',
                                                 'Chinese company Huawei opens smart phone assembly plant in Algeria',
-                                                'ending of monopolies have made broadband services more affordable',
+                                                'the end of monopolies have made broadband services more affordable',
                                                 'Algeria and Tunisia end roaming charges for travelers',
                                                 2020],
                                    'intl': [ 'ALPAL-2 is a submarine telecommunications cable system in the '
@@ -190,6 +200,14 @@ P1_CNTR = \
                                              'which connects to other fiber networks in the region',
                                              'Alcomstat-1 satellite offering telemedicine network',
                                              2020],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 3067022, 'fix': 4558502, 'internet': 24819531, 'mob': 46287629},
                                    'tld': '.dz',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.dz'}},
@@ -205,15 +223,14 @@ P1_CNTR = \
                                           'bound': {'bord': {}, 'len': 0},
                                           'capital': { 'coord': '14 16 S, 170 42 W',
                                                        'name': 'Pago Pago',
-                                                       'time_diff': 'UTC-11 (6 hours behind Washington, DC, during '
-                                                                    'Standard Time)'},
-                                          'coast': {'bord': {}, 'len': 116},
+                                                       'time_diff': 'UTC-11'},
+                                          'coast': 116,
                                           'coord': ['14 20 S, 170 00 W'],
                                           'popul': 49437,
-                                          'ports': {'major seaport': 'Pago Pago'},
+                                          'ports': {'seaport': 'Pago Pago'},
                                           'region': 'Oceania',
                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AS',
-                                          'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_aq.html'},
+                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/american-samoa'},
                                  'nameset': [ 'american samoa',
                                               'territory of american samoa',
                                               'the territory of american samoa'],
@@ -226,12 +243,20 @@ P1_CNTR = \
                                                        'one of the most complete and modern telecommunications systems '
                                                        'in the South Pacific Islands',
                                                        'all inhabited islands have telephone connectivity',
-                                                       2000],
+                                                       0],
                                           'intl': [ 'landing points for the ASH, Southern Cross NEXT and Hawaiki '
                                                     'providing connectivity to New Zealand, Australia, American Samoa, '
                                                     'Hawaii, California, and SAS connecting American Samoa with Samoa',
                                                     'satellite earth station - 1 (Intelsat-Pacific Ocean)',
                                                     2019],
+                                          'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                    'production and supply chains globally',
+                                                    'consumer spending on telecom devices and services has also slowed '
+                                                    "due to the pandemic's effect on economies worldwide",
+                                                    'overall progress towards improvements in all facets of the '
+                                                    'telecom industry - mobile, fixed-line, broadband, submarine cable '
+                                                    'and satellite - has moderated',
+                                                    0],
                                           'subs': {'fix': 8984, 'internet': 17000},
                                           'tld': '.as',
                                           'url_tld': 'https://en.wikipedia.org/wiki/.as'}},
@@ -246,14 +271,12 @@ P1_CNTR = \
                           'geo': { 'bound': {'bord': {'France': 55, 'Spain': 63}, 'len': 118},
                                    'capital': { 'coord': '42 30 N, 1 31 E',
                                                 'name': 'Andorra la Vella',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                                'time_diff': 'UTC+1'},
                                    'coord': ['42 30 N, 1 30 E'],
                                    'popul': 77000,
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AD',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_an.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/andorra'},
                           'nameset': [ 'andorra',
                                        'principality of andorra',
                                        "principat d'andorra",
@@ -267,6 +290,14 @@ P1_CNTR = \
                                    'intl': [ 'landline circuits to France and Spain',
                                              'modern system with microwave radio relay connections between exchanges',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 35663, 'fix': 44050, 'internet': 78483, 'mob': 97645},
                                    'tld': '.ad',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.ad'}},
@@ -284,17 +315,14 @@ P1_CNTR = \
                                                        'Republic of the Congo': 231,
                                                        'Zambia': 1065},
                                              'len': 5369},
-                                  'capital': { 'coord': '8 50 S, 13 13 E',
-                                               'name': 'Luanda',
-                                               'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 1600},
+                                  'capital': {'coord': '8 50 S, 13 13 E', 'name': 'Luanda', 'time_diff': 'UTC+1'},
+                                  'coast': 1600,
                                   'coord': ['12 30 S, 18 30 E'],
                                   'popul': 32522339,
-                                  'ports': {'major seaport': 'Cabinda, Lobito, Luanda, Namibe'},
+                                  'ports': {'seaport': 'Cabinda, Lobito, Luanda, Namibe'},
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AO',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ao.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/angola'},
                          'nameset': ['angola', 'republic of angola', 'republica de angola', 'the republic of angola'],
                          'tel': { 'code': '244',
                                   'domestic': [ 'only about one fixed-line per 100 persons',
@@ -313,6 +341,14 @@ P1_CNTR = \
                                             'Africa, Brazil, Europe and Asia',
                                             'satellite earth stations - 29, Angosat-2 satellite expected by 2021',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 109561, 'fix': 122566, 'internet': 4353033, 'mob': 14645106},
                                   'tld': '.ao',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.ao'}},
@@ -328,15 +364,14 @@ P1_CNTR = \
                                     'bound': {'bord': {}, 'len': 0},
                                     'capital': { 'coord': '18 13 N, 63 03 W',
                                                  'name': 'The Valley',
-                                                 'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}, 'len': 61},
+                                                 'time_diff': 'UTC-4'},
+                                    'coast': 61,
                                     'coord': ['18 15 N, 63 10 W'],
                                     'popul': 18090,
-                                    'ports': {'major seaport': 'Blowing Point, Road Bay'},
+                                    'ports': {'seaport': 'Blowing Point, Road Bay'},
                                     'region': 'Central America and the Caribbean',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AI',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_av.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/anguilla'},
                            'nameset': ['anguilla'],
                            'tel': { 'code': '1264',
                                     'domestic': [ 'fixed-line teledensity is about 42 per 100 persons',
@@ -352,6 +387,14 @@ P1_CNTR = \
                                               'with submarine cable links to Caribbean islands and to the US',
                                               'microwave radio relay to island of Saint Martin/Sint Maarten',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'fix': 7461, 'internet': 14211, 'mob': 32332},
                                     'tld': '.ai',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.ai'}},
@@ -364,13 +407,13 @@ P1_CNTR = \
                   'dep': None,
                   'infos': { 'codes': {'cc3': 'ATA', 'ccn': '010', 'gec': 'AY', 'stan': 'ATA'},
                              'geo': { 'airports': 17,
-                                      'bound': {'bord': {}},
+                                      'bound': {'bord': {}, 'len': 0},
                                       'cmt': 'ISO defines as the territory south of 60 degrees south latitude',
-                                      'coast': {'bord': {}, 'len': 17968},
+                                      'coast': 17968,
                                       'coord': ['90 00 S, 0 00 E'],
                                       'region': 'Antarctic Region',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AQ',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ay.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/antarctica'},
                              'nameset': ['all land and ice shelves south of the', 'antarctica'],
                              'tel': { 'domestic': [ 'commercial cellular networks operating in a small number of '
                                                     'locations',
@@ -379,7 +422,7 @@ P1_CNTR = \
                                       'intl': [ 'country code - none allocated',
                                                 'via satellite (including mobile Inmarsat and Iridium systems) to and '
                                                 'from all research stations, ships, aircraft, and most field parties',
-                                                2000],
+                                                0],
                                       'subs': {'internet': 4400},
                                       'tld': '.aq',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.aq'}},
@@ -395,15 +438,14 @@ P1_CNTR = \
                                                'bound': {'bord': {}, 'len': 0},
                                                'capital': { 'coord': '17 07 N, 61 51 W',
                                                             'name': "Saint John's",
-                                                            'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, '
-                                                                         'during Standard Time)'},
-                                               'coast': {'bord': {}, 'len': 153},
+                                                            'time_diff': 'UTC-4'},
+                                               'coast': 153,
                                                'coord': ['17 03 N, 61 48 W'],
                                                'popul': 98179,
-                                               'ports': {'major seaport': "Saint John's"},
+                                               'ports': {'seaport': "Saint John's"},
                                                'region': 'Central America and the Caribbean',
                                                'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AG',
-                                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ac.html'},
+                                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/antigua-and-barbuda'},
                                       'nameset': ['antigua and barbuda'],
                                       'tel': { 'code': '1268',
                                                'domestic': [ 'fixed-line teledensity roughly 25 per 100 persons',
@@ -423,6 +465,14 @@ P1_CNTR = \
                                                          'eastern Caribbean',
                                                          'satellite earth stations - 1 Intelsat (Atlantic Ocean)',
                                                          2019],
+                                               'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                         'telecommunications production and supply chains globally',
+                                                         'consumer spending on telecom devices and services has also '
+                                                         "slowed due to the pandemic's effect on economies worldwide",
+                                                         'overall progress towards improvements in all facets of the '
+                                                         'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                         'cable and satellite - has moderated',
+                                                         0],
                                                'subs': {'bb': 9261, 'fix': 24403, 'internet': 72870, 'mob': 187095},
                                                'tld': '.ag',
                                                'url_tld': 'https://en.wikipedia.org/wiki/.ag'}},
@@ -443,17 +493,16 @@ P1_CNTR = \
                                                 'len': 11968},
                                      'capital': { 'coord': '34 36 S, 58 22 W',
                                                   'name': 'Buenos Aires',
-                                                  'time_diff': 'UTC-3 (2 hours ahead of Washington, DC, during '
-                                                               'Standard Time)'},
-                                     'coast': {'bord': {}, 'len': 4989},
+                                                  'time_diff': 'UTC-3'},
+                                     'coast': 4989,
                                      'coord': ['34 00 S, 64 00 W'],
                                      'popul': 45479118,
-                                     'ports': { 'container port': 'Buenos Aires (1,851,701)',
-                                                'major seaport': 'Bahia Blanca, Buenos Aires, La Plata, Punta '
-                                                                 'Colorada, Ushuaia'},
+                                     'ports': { 'container': 'Buenos Aires (1,851,701)',
+                                                'seaport': 'Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, '
+                                                           'Ushuaia'},
                                      'region': 'South America',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AR',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ar.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/argentina'},
                             'nameset': [ 'argentina',
                                          'argentine republic',
                                          'republica argentina',
@@ -481,6 +530,14 @@ P1_CNTR = \
                                                'links to Europe, Africa, South and Central America, and US',
                                                'satellite earth stations - 112',
                                                2019],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 8473655, 'fix': 7791464, 'internet': 33203320, 'mob': 59008618},
                                      'tld': '.ar',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.ar'}},
@@ -506,16 +563,12 @@ P1_CNTR = \
                           'geo': { 'airports': 7,
                                    'bound': { 'bord': {'Azerbaijan': 996, 'Georgia': 219, 'Iran': 44, 'Turkey': 311},
                                               'len': 1570},
-                                   'capital': { 'coord': '40 10 N, 44 30 E',
-                                                'name': 'Yerevan',
-                                                'time_diff': 'UTC+4 (9 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                   'capital': {'coord': '40 10 N, 44 30 E', 'name': 'Yerevan', 'time_diff': 'UTC+4'},
                                    'coord': ['40 00 N, 45 00 E'],
                                    'popul': 3021324,
                                    'region': 'Asia',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AM',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_am.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/armenia'},
                           'nameset': [ 'armenia',
                                        'hayastan',
                                        "hayastani hanrapetut'yun",
@@ -544,6 +597,14 @@ P1_CNTR = \
                                              'satellite to the rest of the world',
                                              'satellite earth stations - 3',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 347448, 'fix': 462725, 'internet': 1966942, 'mob': 3707557},
                                    'tld': '.am',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.am'}},
@@ -557,17 +618,14 @@ P1_CNTR = \
              'infos': { 'codes': {'cc3': 'ABW', 'ccn': '533', 'gec': 'AA', 'stan': 'ABW'},
                         'geo': { 'airports': 1,
                                  'bound': {'bord': {}, 'len': 0},
-                                 'capital': { 'coord': '12 31 N, 70 02 W',
-                                              'name': 'Oranjestad',
-                                              'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 68},
+                                 'capital': {'coord': '12 31 N, 70 02 W', 'name': 'Oranjestad', 'time_diff': 'UTC-4'},
+                                 'coast': 68,
                                  'coord': ['12 30 N, 69 58 W'],
                                  'popul': 119428,
-                                 'ports': {'major seaport': 'Barcadera, Oranjestad'},
+                                 'ports': {'seaport': 'Barcadera, Oranjestad'},
                                  'region': 'Central America and the Caribbean',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AW',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_aa.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/aruba'},
                         'nameset': [ 'aruba',
                                      'country of aruba',
                                      'land aruba',
@@ -591,6 +649,14 @@ P1_CNTR = \
                                            'Ecuador, Peru and Chile',
                                            'extensive interisland microwave radio relay links',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'fix': 39582, 'internet': 113277, 'mob': 159471},
                                  'tld': '.aw',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.aw'}},
@@ -614,19 +680,18 @@ P1_CNTR = \
                                      'bound': {'bord': {}, 'len': 0},
                                      'capital': { 'coord': '35 16 S, 149 08 E',
                                                   'name': 'Canberra',
-                                                  'time_diff': 'UTC+10 (15 hours ahead of Washington, DC, during '
-                                                               'Standard Time)'},
+                                                  'time_diff': 'UTC+10'},
                                      'cmt': 'ISO includes Ashmore and Cartier Islands, Coral Sea Islands',
-                                     'coast': {'bord': {}, 'len': 25760},
+                                     'coast': 25760,
                                      'coord': ['27 00 S, 133 00 E'],
                                      'popul': 25466459,
-                                     'ports': { 'container port': 'Melbourne (2,806,436), Sydney (2,530,122)',
-                                                'major seaport': 'Brisbane, Cairns, Darwin, Fremantle, Geelong, '
-                                                                 'Gladstone, Hobart, Melbourne, Newcastle, Port '
-                                                                 'Adelaide, Port Kembla, Sydney'},
+                                     'ports': { 'container': 'Melbourne (2,806,436), Sydney (2,530,122) (2017)',
+                                                'seaport': 'Brisbane, Cairns, Darwin, Fremantle, Geelong, Gladstone, '
+                                                           'Hobart, Melbourne, Newcastle, Port Adelaide, Port Kembla, '
+                                                           'Sydney'},
                                      'region': 'Oceania',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AU',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_as.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/australia'},
                             'nameset': ['australia', 'commonwealth of australia', 'the commonwealth of australia'],
                             'tel': { 'code': '61',
                                      'domestic': [ '31 per 100 fixed-line, 111 per 100 mobile-cellular',
@@ -656,6 +721,14 @@ P1_CNTR = \
                                                'satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific '
                                                'Ocean), 2 Inmarsat, 2 Globalstar, 5 other',
                                                2019],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 7640000, 'fix': 7792701, 'internet': 21419302, 'mob': 27780491},
                                      'tld': '.au',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.au'}},
@@ -733,16 +806,12 @@ P1_CNTR = \
                                                         'Slovenia': 299,
                                                         'Switzerland': 158},
                                               'len': 2524},
-                                   'capital': { 'coord': '48 12 N, 16 22 E',
-                                                'name': 'Vienna',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                   'capital': {'coord': '48 12 N, 16 22 E', 'name': 'Vienna', 'time_diff': 'UTC+1'},
                                    'coord': ['47 20 N, 13 20 E'],
                                    'popul': 8859449,
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AT',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_au.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/austria'},
                           'nameset': [ 'austria',
                                        'oesterreich',
                                        'republic of austria',
@@ -771,6 +840,14 @@ P1_CNTR = \
                                    'intl': [ 'earth stations available in the Astra, Intelsat, Eutelsat satellite '
                                              'systems',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 2521100, 'fix': 3700006, 'internet': 7712665, 'mob': 10574725},
                                    'tld': '.at',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.at'}},
@@ -818,15 +895,13 @@ P1_CNTR = \
                                                  'len': 2468},
                                       'capital': { 'coord': '40 23 N, 49 52 E',
                                                    'name': 'Baku (Baki, Baky)',
-                                                   'time_diff': 'UTC+4 (9 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}},
+                                                   'time_diff': 'UTC+4'},
                                       'coord': ['40 30 N, 47 30 E'],
                                       'popul': 10205810,
-                                      'ports': {'major seaport': 'Baku (Baki) located on the Caspian Sea'},
+                                      'ports': {'seaport': 'Baku (Baki) located on the Caspian Sea'},
                                       'region': 'Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AZ',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_aj.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/azerbaijan'},
                              'nameset': [ 'azarbaycan',
                                           'azarbaycan respublikasi',
                                           'azerbaijan',
@@ -851,6 +926,14 @@ P1_CNTR = \
                                                 'the old Soviet system of cable and microwave is still serviceable',
                                                 'satellite earth stations - 2',
                                                 2019],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 1890913, 'fix': 1686316, 'internet': 8017120, 'mob': 10835974},
                                       'tld': '.az',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.az'}},
@@ -864,17 +947,14 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'BHR', 'ccn': '048', 'gec': 'BA', 'stan': 'BHR'},
                           'geo': { 'airports': 4,
                                    'bound': {'bord': {}, 'len': 0},
-                                   'capital': { 'coord': '26 14 N, 50 34 E',
-                                                'name': 'Manama',
-                                                'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 161},
+                                   'capital': {'coord': '26 14 N, 50 34 E', 'name': 'Manama', 'time_diff': 'UTC+3'},
+                                   'coast': 161,
                                    'coord': ['26 00 N, 50 33 E'],
                                    'popul': 1505003,
-                                   'ports': {'major seaport': "Mina' Salman, Sitrah"},
+                                   'ports': {'seaport': "Mina' Salman, Sitrah"},
                                    'region': 'Middle East',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BH',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ba.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bahrain'},
                           'nameset': [ 'al bahrayn',
                                        'bahrain',
                                        'kingdom of bahrain',
@@ -899,6 +979,14 @@ P1_CNTR = \
                                              'microwave radio relay to Saudi Arabia',
                                              'satellite earth station - 1',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 184603, 'fix': 246603, 'internet': 1423039, 'mob': 1706763},
                                    'tld': '.bh',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.bh'}},
@@ -912,18 +1000,14 @@ P1_CNTR = \
                   'infos': { 'codes': {'cc3': 'BGD', 'ccn': '050', 'gec': 'BG', 'stan': 'BGD'},
                              'geo': { 'airports': 18,
                                       'bound': {'bord': {'India': 4142, 'Myanmar': 271}, 'len': 4413},
-                                      'capital': { 'coord': '23 43 N, 90 24 E',
-                                                   'name': 'Dhaka',
-                                                   'time_diff': 'UTC+6 (11 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}, 'len': 580},
+                                      'capital': {'coord': '23 43 N, 90 24 E', 'name': 'Dhaka', 'time_diff': 'UTC+6'},
+                                      'coast': 580,
                                       'coord': ['24 00 N, 90 00 E'],
                                       'popul': 162650853,
-                                      'ports': { 'container port': 'Chittagong (2,566,597)',
-                                                 'major seaport': 'Chittagong'},
+                                      'ports': {'container': 'Chittagong (2,566,597) (2017)', 'seaport': 'Chittagong'},
                                       'region': 'Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BD',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bg.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bangladesh'},
                              'nameset': [ 'bangladesh',
                                           'gana prajatantri bangladesh',
                                           "people's republic of bangladesh",
@@ -948,6 +1032,14 @@ P1_CNTR = \
                                                 'international radiotelephone communications and landline service to '
                                                 'neighboring countries',
                                                 2019],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 10237003, 'fix': 1433460, 'internet': 23917950, 'mob': 163559380},
                                       'tld': '.bd',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.bd'}},
@@ -963,15 +1055,14 @@ P1_CNTR = \
                                     'bound': {'bord': {}, 'len': 0},
                                     'capital': { 'coord': '13 06 N, 59 37 W',
                                                  'name': 'Bridgetown',
-                                                 'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}, 'len': 97},
+                                                 'time_diff': 'UTC-4'},
+                                    'coast': 97,
                                     'coord': ['13 10 N, 59 32 W'],
                                     'popul': 294560,
-                                    'ports': {'major seaport': 'Bridgetown'},
+                                    'ports': {'seaport': 'Bridgetown'},
                                     'region': 'Central America and the Caribbean',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BB',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bb.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/barbados'},
                            'nameset': ['barbados'],
                            'tel': { 'code': '1246',
                                     'domestic': [ 'fixed-line teledensity of roughly 48 per 100 persons',
@@ -988,6 +1079,14 @@ P1_CNTR = \
                                               'satellite earth stations - 1 (Intelsat - Atlantic Ocean)',
                                               'tropospheric scatter to Trinidad and Saint Lucia',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 89340, 'fix': 141618, 'internet': 239664, 'mob': 319177},
                                     'tld': '.bb',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.bb'}},
@@ -1006,16 +1105,12 @@ P1_CNTR = \
                                                         'Russia': 1312,
                                                         'Ukraine': 1111},
                                               'len': 3642},
-                                   'capital': { 'coord': '53 54 N, 27 34 E',
-                                                'name': 'Minsk',
-                                                'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                   'capital': {'coord': '53 54 N, 27 34 E', 'name': 'Minsk', 'time_diff': 'UTC+2'},
                                    'coord': ['53 00 N, 28 00 E'],
                                    'popul': 9477918,
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BY',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bo.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/belarus'},
                           'nameset': [ 'belarus',
                                        "byelarus'/belarus'",
                                        'republic of belarus',
@@ -1048,6 +1143,14 @@ P1_CNTR = \
                                              'Intelsat, Eutelsat, and Intersputnik earth stations',
                                              'almost 31,000 base stations in service in 2019',
                                              2020],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 3201519, 'fix': 4513255, 'internet': 7539145, 'mob': 11682764},
                                    'tld': '.by',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.by'}},
@@ -1065,18 +1168,15 @@ P1_CNTR = \
                                                         'Luxembourg': 130,
                                                         'Netherlands': 478},
                                               'len': 1297},
-                                   'capital': { 'coord': '50 50 N, 4 20 E',
-                                                'name': 'Brussels',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 66},
+                                   'capital': {'coord': '50 50 N, 4 20 E', 'name': 'Brussels', 'time_diff': 'UTC+1'},
+                                   'coast': 66,
                                    'coord': ['50 50 N, 4 00 E'],
                                    'popul': 11720716,
-                                   'ports': { 'container port': 'Antwerp (10,450,000)',
-                                              'major seaport': 'Oostende, Zeebrugge'},
+                                   'ports': { 'container': 'Antwerp (10,450,000) (2017)',
+                                              'seaport': 'Oostende, Zeebrugge'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BE',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_be.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/belgium'},
                           'nameset': [ 'belgique/belgie/belgien',
                                        'belgium',
                                        'kingdom of belgium',
@@ -1107,6 +1207,14 @@ P1_CNTR = \
                                              'Australia and Asia',
                                              'satellite earth stations - 7 (Intelsat - 3)',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 4502950, 'fix': 3967054, 'internet': 10258638, 'mob': 11616970},
                                    'tld': '.be',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.be'}},
@@ -1147,17 +1255,14 @@ P1_CNTR = \
               'infos': { 'codes': {'cc3': 'BLZ', 'ccn': '084', 'gec': 'BH', 'stan': 'BLZ'},
                          'geo': { 'airports': 47,
                                   'bound': {'bord': {'Guatemala': 266, 'Mexico': 276}, 'len': 542},
-                                  'capital': { 'coord': '17 15 N, 88 46 W',
-                                               'name': 'Belmopan',
-                                               'time_diff': 'UTC-6 (1 hour behind Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 386},
+                                  'capital': {'coord': '17 15 N, 88 46 W', 'name': 'Belmopan', 'time_diff': 'UTC-6'},
+                                  'coast': 386,
                                   'coord': ['17 15 N, 88 45 W'],
                                   'popul': 399598,
-                                  'ports': {'major seaport': 'Belize City, Big Creek'},
+                                  'ports': {'seaport': 'Belize City, Big Creek'},
                                   'region': 'Central America and the Caribbean',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BZ',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bh.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/belize'},
                          'nameset': ['belize'],
                          'tel': { 'code': '501',
                                   'domestic': [ '5 per 100 fixed-line and mobile-cellular teledensity approaching 65 '
@@ -1177,6 +1282,14 @@ P1_CNTR = \
                                             'of the Caribbean, and the US',
                                             'satellite earth station - 8 (Intelsat - 2, unknown - 6)',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 24658, 'fix': 18617, 'internet': 181660, 'mob': 256479},
                                   'tld': '.bz',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.bz'}},
@@ -1194,15 +1307,14 @@ P1_CNTR = \
                                  'capital': { 'coord': '6 29 N, 2 37 E',
                                               'name': 'Porto-Novo (constitutional capital); Cotonou (seat of '
                                                       'government)',
-                                              'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 121},
+                                              'time_diff': 'UTC+1'},
+                                 'coast': 121,
                                  'coord': ['9 30 N, 2 15 E'],
                                  'popul': 12864634,
-                                 'ports': {'major seaport': 'Cotonou'},
+                                 'ports': {'seaport': 'Cotonou'},
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BJ',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bn.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/benin'},
                         'nameset': ['benin', 'republic of benin', 'republique du benin', 'the republic of benin'],
                         'tel': { 'code': '229',
                                  'domestic': [ 'fixed-line teledensity only about 1 per 100 persons',
@@ -1221,6 +1333,14 @@ P1_CNTR = \
                                            'provides connectivity to Europe, and most West African countries',
                                            'satellite earth stations - 7 (Intelsat-Atlantic Ocean)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 27034, 'fix': 37305, 'internet': 2403596, 'mob': 10905559},
                                  'tld': '.bj',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.bj'}},
@@ -1234,17 +1354,14 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'BMU', 'ccn': '060', 'gec': 'BD', 'stan': 'BMU'},
                           'geo': { 'airports': 1,
                                    'bound': {'bord': {}, 'len': 0},
-                                   'capital': { 'coord': '32 17 N, 64 47 W',
-                                                'name': 'Hamilton',
-                                                'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 103},
+                                   'capital': {'coord': '32 17 N, 64 47 W', 'name': 'Hamilton', 'time_diff': 'UTC-4'},
+                                   'coast': 103,
                                    'coord': ['32 20 N, 64 45 W'],
                                    'popul': 71750,
-                                   'ports': {'major seaport': 'Hamilton, Ireland Island, Saint George'},
+                                   'ports': {'seaport': 'Hamilton, Ireland Island, Saint George'},
                                    'region': 'North America',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BM',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bd.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bermuda'},
                           'nameset': ['bermuda'],
                           'tel': { 'code': '1441',
                                    'domestic': [ 'the system has a high fixed-line teledensity 35 per 100, coupled '
@@ -1260,6 +1377,14 @@ P1_CNTR = \
                                              'submarine cables to the Caribbean, South America and the US',
                                              'satellite earth stations - 3',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'fix': 24808, 'internet': 70016, 'mob': 73680},
                                    'tld': '.bm',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.bm'}},
@@ -1283,16 +1408,12 @@ P1_CNTR = \
               'infos': { 'codes': {'cc3': 'BTN', 'ccn': '064', 'gec': 'BT', 'stan': 'BTN'},
                          'geo': { 'airports': 2,
                                   'bound': {'bord': {'China': 477, 'India': 659}, 'len': 1136},
-                                  'capital': { 'coord': '27 28 N, 89 38 E',
-                                               'name': 'Thimphu',
-                                               'time_diff': 'UTC+6 (11 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}},
+                                  'capital': {'coord': '27 28 N, 89 38 E', 'name': 'Thimphu', 'time_diff': 'UTC+6'},
                                   'coord': ['27 30 N, 90 30 E'],
                                   'popul': 782318,
                                   'region': 'Asia',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BT',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bt.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bhutan'},
                          'nameset': [ 'bhutan',
                                       'druk gyalkhap',
                                       'druk yul',
@@ -1312,7 +1433,15 @@ P1_CNTR = \
                                   'intl': [ 'international telephone and telegraph service via landline and microwave '
                                             'relay through India',
                                             'satellite earth station - 1 Intelsat',
-                                            2000],
+                                            0],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 10802, 'fix': 21916, 'internet': 368714, 'mob': 740026},
                                   'tld': '.bt',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.bt'}},
@@ -1334,14 +1463,12 @@ P1_CNTR = \
                                    'capital': { 'coord': '16 30 S, 68 09 W',
                                                 'name': 'La Paz (administrative capital); Sucre (constitutional '
                                                         '[legislative and judicial] capital)',
-                                                'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                                'time_diff': 'UTC-4'},
                                    'coord': ['17 00 S, 65 00 W'],
                                    'popul': 11639909,
                                    'region': 'South America',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BO',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bl.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bolivia'},
                           'nameset': [ 'bolivia',
                                        'estado plurinacional de bolivia',
                                        'plurinational state of bolivia',
@@ -1374,6 +1501,14 @@ P1_CNTR = \
                                              'through terrestrial links across neighboring countries',
                                              'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 504097, 'fix': 719399, 'internet': 4955569, 'mob': 11567760},
                                    'tld': '.bo',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.bo'}},
@@ -1421,14 +1556,13 @@ P1_CNTR = \
                                                              'len': 1543},
                                                   'capital': { 'coord': '43 52 N, 18 25 E',
                                                                'name': 'Sarajevo',
-                                                               'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, '
-                                                                            'during Standard Time)'},
-                                                  'coast': {'bord': {}, 'len': 20},
+                                                               'time_diff': 'UTC+1'},
+                                                  'coast': 20,
                                                   'coord': ['44 00 N, 18 00 E'],
                                                   'popul': 3835586,
                                                   'region': 'Europe',
                                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BA',
-                                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bk.html'},
+                                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bosnia-and-herzegovina'},
                                          'nameset': ['bosna i hercegovina', 'bosnia and herzegovina'],
                                          'tel': { 'code': '387',
                                                   'domestic': [ 'fixed-line teledensity roughly 24 per 100 persons and '
@@ -1450,7 +1584,16 @@ P1_CNTR = \
                                                                'rural areas still suffer from insufficient '
                                                                'connectivity',
                                                                2020],
-                                                  'intl': ['no satellite earth stations', 2000],
+                                                  'intl': ['no satellite earth stations', 0],
+                                                  'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                            'telecommunications production and supply chains globally',
+                                                            'consumer spending on telecom devices and services has '
+                                                            "also slowed due to the pandemic's effect on economies "
+                                                            'worldwide',
+                                                            'overall progress towards improvements in all facets of '
+                                                            'the telecom industry - mobile, fixed-line, broadband, '
+                                                            'submarine cable and satellite - has moderated',
+                                                            0],
                                                   'subs': { 'bb': 693554,
                                                             'fix': 920407,
                                                             'internet': 2699544,
@@ -1471,16 +1614,12 @@ P1_CNTR = \
                                                          'Zambia': 0,
                                                          'Zimbabwe': 834},
                                                'len': 4347},
-                                    'capital': { 'coord': '24 38 S, 25 54 E',
-                                                 'name': 'Gaborone',
-                                                 'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}},
+                                    'capital': {'coord': '24 38 S, 25 54 E', 'name': 'Gaborone', 'time_diff': 'UTC+2'},
                                     'coord': ['22 00 S, 24 00 E'],
                                     'popul': 2317233,
                                     'region': 'Africa',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BW',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bc.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/botswana'},
                            'nameset': ['botswana', 'republic of botswana', 'the republic of botswana'],
                            'tel': { 'code': '267',
                                     'domestic': [ 'fixed-line teledensity has declined in recent years and now stands '
@@ -1508,7 +1647,15 @@ P1_CNTR = \
                                               'digital microwave radio relay links to Namibia, Zambia, Zimbabwe, and '
                                               'South Africa',
                                               'satellite earth station - 1 Intelsat (Indian Ocean)',
-                                              2000],
+                                              0],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 40044, 'fix': 139735, 'internet': 1057079, 'mob': 3968526},
                                     'tld': '.bw',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.bw'}},
@@ -1521,11 +1668,11 @@ P1_CNTR = \
                      'dep': None,
                      'infos': { 'codes': {'cc3': 'BVT', 'ccn': '074', 'gec': 'BV', 'stan': 'BVT'},
                                 'geo': { 'bound': {'bord': {}, 'len': 0},
-                                         'coast': {'bord': {}, 'len': 29},
+                                         'coast': 29,
                                          'coord': ['54 26 S, 3 24 E'],
                                          'region': 'Antarctic Region',
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BV',
-                                         'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bv.html'},
+                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bouvet-island'},
                                 'nameset': ['bouvet island'],
                                 'tel': {}},
                      'mcc': [],
@@ -1548,19 +1695,16 @@ P1_CNTR = \
                                                        'Uruguay': 1050,
                                                        'Venezuela': 2137},
                                              'len': 16145},
-                                  'capital': { 'coord': '15 47 S, 47 55 W',
-                                               'name': 'Brasilia',
-                                               'time_diff': 'UTC-3 (2 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 7491},
+                                  'capital': {'coord': '15 47 S, 47 55 W', 'name': 'Brasilia', 'time_diff': 'UTC-3'},
+                                  'coast': 7491,
                                   'coord': ['10 00 S, 55 00 W'],
                                   'popul': 211715973,
-                                  'ports': { 'container port': 'Santos (3,853,719)',
-                                             'major seaport': 'Belem, Paranagua, Rio Grande, Rio de Janeiro, Santos, '
-                                                              'Sao Sebastiao, Tubarao'},
+                                  'ports': { 'container': 'Santos (3,853,719) (2017)',
+                                             'seaport': 'Belem, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao '
+                                                        'Sebastiao, Tubarao'},
                                   'region': 'South America',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BR',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_br.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/brazil'},
                          'nameset': [ 'brasil',
                                       'brazil',
                                       'federative republic of brazil',
@@ -1595,6 +1739,14 @@ P1_CNTR = \
                                             'satellites is a major communication platform, as it is almost impossible '
                                             'to lay fiber optic cable in the thick vegetation',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 31233004, 'fix': 33585164, 'internet': 140908998, 'mob': 207862093},
                                   'tld': '.br',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.br'}},
@@ -1640,13 +1792,13 @@ P1_CNTR = \
                                       'infos': { 'codes': {'cc3': 'IOT', 'ccn': '086', 'gec': 'IO', 'stan': 'IOT'},
                                                  'geo': { 'airports': 1,
                                                           'bound': {'bord': {}, 'len': 0},
-                                                          'coast': {'bord': {}, 'len': 698},
+                                                          'coast': 698,
                                                           'coord': [ 'note - Diego Garcia 7 20 S, 72 25 E',
                                                                      '6 00 S, 71 30 E'],
-                                                          'ports': {'major seaport': 'Diego Garcia'},
+                                                          'ports': {'seaport': 'Diego Garcia'},
                                                           'region': 'Political Map of the World',
                                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IO',
-                                                          'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_io.html'},
+                                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/british-indian-ocean-territory'},
                                                  'nameset': [ 'british indian ocean territory',
                                                               'the british indian ocean territory'],
                                                  'tel': { 'domestic': [ 'all commercial telephone services are '
@@ -1677,15 +1829,14 @@ P1_CNTR = \
                                                   'bound': {'bord': {}, 'len': 0},
                                                   'capital': { 'coord': '18 25 N, 64 37 W',
                                                                'name': 'Road Town',
-                                                               'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, '
-                                                                            'during Standard Time)'},
-                                                  'coast': {'bord': {}, 'len': 80},
+                                                               'time_diff': 'UTC-4'},
+                                                  'coast': 80,
                                                   'coord': ['18 30 N, 64 30 W'],
                                                   'popul': 37381,
-                                                  'ports': {'major seaport': 'Road Harbor'},
+                                                  'ports': {'seaport': 'Road Harbor'},
                                                   'region': 'Central America and the Caribbean',
                                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VG',
-                                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_vi.html'},
+                                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/british-virgin-islands'},
                                          'nameset': ['british virgin islands', 'the virgin islands', 'virgin islands'],
                                          'tel': { 'code': '1284',
                                                   'domestic': [ 'fixed-line connections exceed 21 per 100 persons and '
@@ -1707,6 +1858,15 @@ P1_CNTR = \
                                                             'and Americas I- North via submarine cable to Caribbean, '
                                                             'Central and South America, and US',
                                                             2019],
+                                                  'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                            'telecommunications production and supply chains globally',
+                                                            'consumer spending on telecom devices and services has '
+                                                            "also slowed due to the pandemic's effect on economies "
+                                                            'worldwide',
+                                                            'overall progress towards improvements in all facets of '
+                                                            'the telecom industry - mobile, fixed-line, broadband, '
+                                                            'submarine cable and satellite - has moderated',
+                                                            0],
                                                   'subs': {'bb': 4715, 'fix': 7640, 'internet': 27818, 'mob': 72589},
                                                   'tld': '.vg',
                                                   'url_tld': 'https://en.wikipedia.org/wiki/.vg'}},
@@ -1722,15 +1882,14 @@ P1_CNTR = \
                                   'bound': {'bord': {'Malaysia': 266}, 'len': 266},
                                   'capital': { 'coord': '4 53 N, 114 56 E',
                                                'name': 'Bandar Seri Begawan',
-                                               'time_diff': 'UTC+8 (13 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 161},
+                                               'time_diff': 'UTC+8'},
+                                  'coast': 161,
                                   'coord': ['4 30 N, 114 40 E'],
                                   'popul': 464478,
-                                  'ports': {'major seaport': 'Muara'},
+                                  'ports': {'seaport': 'Muara'},
                                   'region': 'Southeast Asia',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BN',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bx.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/brunei'},
                          'nameset': [ 'brunei',
                                       'brunei darussalam',
                                       'nation of brunei the abode of peace',
@@ -1757,6 +1916,14 @@ P1_CNTR = \
                                             'satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific '
                                             'Ocean)',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 49452, 'fix': 91415, 'internet': 426234, 'mob': 588616},
                                   'tld': '.bn',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.bn'}},
@@ -1775,17 +1942,14 @@ P1_CNTR = \
                                                          'Serbia': 344,
                                                          'Turkey': 223},
                                                'len': 1806},
-                                    'capital': { 'coord': '42 41 N, 23 19 E',
-                                                 'name': 'Sofia',
-                                                 'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}, 'len': 354},
+                                    'capital': {'coord': '42 41 N, 23 19 E', 'name': 'Sofia', 'time_diff': 'UTC+2'},
+                                    'coast': 354,
                                     'coord': ['43 00 N, 25 00 E'],
                                     'popul': 6966899,
-                                    'ports': {'major seaport': 'Burgas, Varna (Black Sea)'},
+                                    'ports': {'seaport': 'Burgas, Varna (Black Sea)'},
                                     'region': 'Europe',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BG',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bu.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bulgaria'},
                            'nameset': [ 'bulgaria',
                                         'republic of bulgaria',
                                         'republika bulgaria',
@@ -1812,6 +1976,14 @@ P1_CNTR = \
                                               'satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean '
                                               'region, 2 Intelsat in the Atlantic and Indian Ocean regions)',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 1903946, 'fix': 974056, 'internet': 4571851, 'mob': 8149389},
                                     'tld': '.bg',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.bg'}},
@@ -1833,14 +2005,12 @@ P1_CNTR = \
                                                    'len': 3611},
                                         'capital': { 'coord': '12 22 N, 1 31 W',
                                                      'name': 'Ouagadougou',
-                                                     'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during '
-                                                                  'Standard Time)'},
-                                        'coast': {'bord': {}},
+                                                     'time_diff': 'UTC 0'},
                                         'coord': ['13 00 N, 2 00 W'],
                                         'popul': 20835401,
                                         'region': 'Africa',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BF',
-                                        'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_uv.html'},
+                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/burkina-faso'},
                                'nameset': ['burkina faso'],
                                'tel': { 'code': '226',
                                         'domestic': [ 'fixed-line connections stand at less than 1 per 100 persons',
@@ -1862,7 +2032,15 @@ P1_CNTR = \
                                                      'regulators and legalize the framework governing the telecom '
                                                      'sector',
                                                      2020],
-                                        'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 2000],
+                                        'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
+                                        'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                  'production and supply chains globally',
+                                                  'consumer spending on telecom devices and services has also slowed '
+                                                  "due to the pandemic's effect on economies worldwide",
+                                                  'overall progress towards improvements in all facets of the telecom '
+                                                  'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                  'satellite - has moderated',
+                                                  0],
                                         'subs': {'bb': 13818, 'fix': 75066, 'internet': 3158834, 'mob': 20330657},
                                         'tld': '.bf',
                                         'url_tld': 'https://en.wikipedia.org/wiki/.bf'}},
@@ -1886,14 +2064,12 @@ P1_CNTR = \
                                                         'Bujumbura would remain its economic capital; all branches of '
                                                         'the government are expected to have moved from Bujumbura to '
                                                         'Gitega by 2021',
-                                                'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                                'time_diff': 'UTC+2'},
                                    'coord': ['3 30 S, 30 00 E'],
                                    'popul': 11865821,
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BI',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_by.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/burundi'},
                           'nameset': [ 'burundi',
                                        'republic of burundi',
                                        "republique du burundi/republika y'u burundi",
@@ -1918,6 +2094,14 @@ P1_CNTR = \
                                              'network, offering onward connectivity to submarine cable infrastructure '
                                              'landings in Kenya and Tanzania',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 3935, 'fix': 20758, 'internet': 298684, 'mob': 6644833},
                                    'tld': '.bi',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.bi'}},
@@ -1933,15 +2117,14 @@ P1_CNTR = \
                                     'bound': {'bord': {'Laos': 555, 'Thailand': 817, 'Vietnam': 1158}, 'len': 2530},
                                     'capital': { 'coord': '11 33 N, 104 55 E',
                                                  'name': 'Phnom Penh',
-                                                 'time_diff': 'UTC+7 (12 hours ahead of Washington, DC, during '
-                                                              'Standard Time)'},
-                                    'coast': {'bord': {}, 'len': 443},
+                                                 'time_diff': 'UTC+7'},
+                                    'coast': 443,
                                     'coord': ['13 00 N, 105 00 E'],
                                     'popul': 16926984,
-                                    'ports': {'major seaport': 'Sihanoukville (Kampong Saom)'},
+                                    'ports': {'seaport': 'Sihanoukville (Kampong Saom)'},
                                     'region': 'Southeast Asia',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KH',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cb.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cambodia'},
                            'nameset': [ 'cambodia',
                                         'kampuchea',
                                         'kingdom of cambodia',
@@ -1972,6 +2155,14 @@ P1_CNTR = \
                                               'communication to Asia, the Middle East, Europe and Africa',
                                               'satellite earth station - 1 Intersputnik (Indian Ocean region)',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 166200, 'fix': 56749, 'internet': 6579808, 'mob': 21684767},
                                     'tld': '.kh',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.kh'}},
@@ -1991,16 +2182,13 @@ P1_CNTR = \
                                                          'Nigeria': 1975,
                                                          'Republic of the Congo': 494},
                                                'len': 5018},
-                                    'capital': { 'coord': '3 52 N, 11 31 E',
-                                                 'name': 'Yaounde',
-                                                 'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}, 'len': 402},
+                                    'capital': {'coord': '3 52 N, 11 31 E', 'name': 'Yaounde', 'time_diff': 'UTC+1'},
+                                    'coast': 402,
                                     'coord': ['6 00 N, 12 00 E'],
                                     'popul': 27744989,
                                     'region': 'Africa',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CM',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cm.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cameroon'},
                            'nameset': [ 'cameroon',
                                         'cameroun/cameroon',
                                         'republic of cameroon',
@@ -2023,6 +2211,14 @@ P1_CNTR = \
                                               'America, and West Africa',
                                               'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 17987, 'fix': 966035, 'internet': 6089200, 'mob': 22062303},
                                     'tld': '.cm',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.cm'}},
@@ -2035,19 +2231,19 @@ P1_CNTR = \
               'dep': None,
               'infos': { 'codes': {'cc3': 'CAN', 'ccn': '124', 'gec': 'CA', 'stan': 'CAN'},
                          'geo': { 'airports': 1467,
-                                  'bound': {'bord': {'United States': 8893}, 'len': 8893},
-                                  'capital': { 'coord': '45 25 N, 75 42 W',
-                                               'name': 'Ottawa',
-                                               'time_diff': 'UTC-5 (same time as Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 202080},
+                                  'bound': { 'bord': {'United States': 8893},
+                                             'len': 8893,
+                                             'note': "Canada is the world's largest country that borders only one "
+                                                     'country'},
+                                  'capital': {'coord': '45 25 N, 75 42 W', 'name': 'Ottawa', 'time_diff': 'UTC-5'},
+                                  'coast': 202080,
                                   'coord': ['60 00 N, 95 00 W'],
                                   'popul': 37694085,
-                                  'ports': { 'container port': 'Montreal (1,537,669), Vancouver (3,252,225)',
-                                             'major seaport': 'Halifax, Saint John (New Brunswick), Vancouver'},
+                                  'ports': { 'container': 'Montreal (1,537,669), Vancouver (3,252,225) (2017)',
+                                             'seaport': 'Halifax, Saint John (New Brunswick), Vancouver'},
                                   'region': 'North America',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CA',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ca.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/canada'},
                          'nameset': ['canada'],
                          'tel': { 'code': '1',
                                   'domestic': [ '35 per 100 fixed-line',
@@ -2073,6 +2269,14 @@ P1_CNTR = \
                                             'satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific '
                                             'Ocean, and 2 Intersputnik - Atlantic Ocean region)',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 14445606, 'fix': 13258721, 'internet': 33743954, 'mob': 34597559},
                                   'tld': '.ca',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.ca'}},
@@ -2161,17 +2365,14 @@ P1_CNTR = \
                   'infos': { 'codes': {'cc3': 'CPV', 'ccn': '132', 'gec': 'CV', 'stan': 'CPV'},
                              'geo': { 'airports': 9,
                                       'bound': {'bord': {}, 'len': 0},
-                                      'capital': { 'coord': '14 55 N, 23 31 W',
-                                                   'name': 'Praia',
-                                                   'time_diff': 'UTC-1 (4 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}, 'len': 965},
+                                      'capital': {'coord': '14 55 N, 23 31 W', 'name': 'Praia', 'time_diff': 'UTC-1'},
+                                      'coast': 965,
                                       'coord': ['16 00 N, 24 00 W'],
                                       'popul': 583255,
-                                      'ports': {'major seaport': 'Porto Grande'},
+                                      'ports': {'seaport': 'Porto Grande'},
                                       'region': 'Africa',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CV',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cv.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cabo-verde'},
                              'nameset': [ 'cabo verde',
                                           'cape verde',
                                           'republic of cabo verde',
@@ -2197,6 +2398,14 @@ P1_CNTR = \
                                                 'HF radiotelephone to Senegal and Guinea-Bissau',
                                                 'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                 2019],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 15657, 'fix': 60233, 'internet': 330623, 'mob': 623749},
                                       'tld': '.cv',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.cv'}},
@@ -2212,15 +2421,14 @@ P1_CNTR = \
                                           'bound': {'bord': {}, 'len': 0},
                                           'capital': { 'coord': '19 18 N, 81 23 W',
                                                        'name': 'George Town (on Grand Cayman)',
-                                                       'time_diff': 'UTC-5 (same time as Washington, DC, during '
-                                                                    'Standard Time)'},
-                                          'coast': {'bord': {}, 'len': 160},
+                                                       'time_diff': 'UTC-5'},
+                                          'coast': 160,
                                           'coord': ['19 30 N, 80 30 W'],
                                           'popul': 61944,
-                                          'ports': {'major seaport': 'Cayman Brac, George Town'},
+                                          'ports': {'seaport': 'Cayman Brac, George Town'},
                                           'region': 'Central America and the Caribbean',
                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KY',
-                                          'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cj.html'},
+                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cayman-islands'},
                                  'nameset': ['cayman islands', 'the cayman islands'],
                                  'tel': { 'code': '1345',
                                           'domestic': [ 'introduction of competition in the mobile-cellular market in '
@@ -2240,6 +2448,14 @@ P1_CNTR = \
                                                     'to the US and parts of Central and South America',
                                                     'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                     2019],
+                                          'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                    'production and supply chains globally',
+                                                    'consumer spending on telecom devices and services has also slowed '
+                                                    "due to the pandemic's effect on economies worldwide",
+                                                    'overall progress towards improvements in all facets of the '
+                                                    'telecom industry - mobile, fixed-line, broadband, submarine cable '
+                                                    'and satellite - has moderated',
+                                                    0],
                                           'subs': {'bb': 24535, 'fix': 33338, 'internet': 48328, 'mob': 92691},
                                           'tld': '.ky',
                                           'url_tld': 'https://en.wikipedia.org/wiki/.ky'}},
@@ -2261,14 +2477,12 @@ P1_CNTR = \
                                                                'len': 5920},
                                                     'capital': { 'coord': '4 22 N, 18 35 E',
                                                                  'name': 'Bangui',
-                                                                 'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, '
-                                                                              'during Standard Time)'},
-                                                    'coast': {'bord': {}},
+                                                                 'time_diff': 'UTC+1'},
                                                     'coord': ['7 00 N, 21 00 E'],
                                                     'popul': 5990855,
                                                     'region': 'Africa',
                                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CF',
-                                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ct.html'},
+                                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/central-african-republic'},
                                            'nameset': [ 'central african republic',
                                                         'republique centrafricaine',
                                                         'the central african republic'],
@@ -2291,7 +2505,17 @@ P1_CNTR = \
                                                                  'medium',
                                                                  2018],
                                                     'intl': [ 'satellite earth station - 1 Intelsat (Atlantic Ocean)',
-                                                              2000],
+                                                              0],
+                                                    'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                              'telecommunications production and supply chains '
+                                                              'globally',
+                                                              'consumer spending on telecom devices and services has '
+                                                              "also slowed due to the pandemic's effect on economies "
+                                                              'worldwide',
+                                                              'overall progress towards improvements in all facets of '
+                                                              'the telecom industry - mobile, fixed-line, broadband, '
+                                                              'submarine cable and satellite - has moderated',
+                                                              0],
                                                     'subs': { 'bb': 608,
                                                               'fix': 2934,
                                                               'internet': 249336,
@@ -2314,16 +2538,12 @@ P1_CNTR = \
                                                      'Nigeria': 85,
                                                      'Sudan': 1403},
                                            'len': 6406},
-                                'capital': { 'coord': '12 06 N, 15 02 E',
-                                             'name': "N'Djamena",
-                                             'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                          'Time)'},
-                                'coast': {'bord': {}},
+                                'capital': {'coord': '12 06 N, 15 02 E', 'name': "N'Djamena", 'time_diff': 'UTC+1'},
                                 'coord': ['15 00 N, 19 00 E'],
                                 'popul': 16877357,
                                 'region': 'Africa',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TD',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cd.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/chad'},
                        'nameset': [ 'chad',
                                     'republic of chad',
                                     'republique du tchad/jumhuriyat tshad',
@@ -2341,7 +2561,15 @@ P1_CNTR = \
                                              'low usage also due to 18% excise duty tax on telecom services and a '
                                              'negative impact on operator revenue',
                                              2020],
-                                'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 2000],
+                                'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'bb': 334, 'fix': 6540, 'internet': 1029153, 'mob': 7857758},
                                 'tld': '.td',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.td'}},
@@ -2358,17 +2586,16 @@ P1_CNTR = \
                                  'capital': { 'coord': '33 27 S, 70 40 W',
                                               'name': 'Santiago; note - Valparaiso is the seat of the national '
                                                       'legislature',
-                                              'time_diff': 'UTC-3 (2 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 6435},
+                                              'time_diff': 'UTC-3'},
+                                 'coast': 6435,
                                  'coord': ['30 00 S, 71 00 W'],
                                  'popul': 18186770,
-                                 'ports': { 'container port': 'San Antonio (1,296,890), Valparaiso (1,073,734)',
-                                            'major seaport': 'Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, '
-                                                             'San Vicente, Valparaiso'},
+                                 'ports': { 'container': 'San Antonio (1,296,890), Valparaiso (1,073,734) (2017)',
+                                            'seaport': 'Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San '
+                                                       'Vicente, Valparaiso'},
                                  'region': 'South America',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CL',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ci.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/chile'},
                         'nameset': ['chile', 'republic of chile', 'republica de chile', 'the republic of chile'],
                         'tel': { 'code': '56',
                                  'domestic': [ 'number of fixed-line connections have stagnated to 15 per 100 in '
@@ -2394,6 +2621,14 @@ P1_CNTR = \
                                            'South America',
                                            'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 3250678, 'fix': 2620195, 'internet': 14757868, 'mob': 23870679},
                                  'tld': '.cl',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.cl'}},
@@ -2443,27 +2678,24 @@ P1_CNTR = \
                                                       'Nepal': 1389,
                                                       'North Korea': 1352,
                                                       'Pakistan': 438,
-                                                      'Russia': 46,
+                                                      'Russia': 4179,
                                                       'Tajikistan': 477,
                                                       'Vietnam': 1297},
-                                            'len': 22457},
-                                 'capital': { 'coord': '39 55 N, 116 23 E',
-                                              'name': 'Beijing',
-                                              'time_diff': 'UTC+8 (13 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
+                                            'len': 22457,
+                                            'note': 'border with Russia (northeast); border with Russia (northwest)'},
+                                 'capital': {'coord': '39 55 N, 116 23 E', 'name': 'Beijing', 'time_diff': 'UTC+8'},
                                  'cmt': 'see also Taiwan',
-                                 'coast': {'bord': {}, 'len': 14500},
+                                 'coast': 14500,
                                  'coord': ['35 00 N, 105 00 E'],
                                  'popul': 1394015977,
-                                 'ports': { 'container port': 'Dalian (9,707,000), Guangzhou (18,858,000), Ningbo '
-                                                              '(24,607,000), Qingdao (18,262,000), Shanghai '
-                                                              '(40,233,000), Shenzhen (25,208,000), Tianjin '
-                                                              '(15,040,000)',
-                                            'major seaport': 'Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, '
-                                                             'Shenzhen, Tianjin'},
+                                 'ports': { 'container': 'Dalian (9,707,000), Guangzhou (18,858,000), Ningbo '
+                                                         '(24,607,000), Qingdao (18,262,000), Shanghai (40,233,000), '
+                                                         'Shenzhen (25,208,000), Tianjin (15,040,000) (2017)',
+                                            'seaport': 'Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, '
+                                                       'Tianjin'},
                                  'region': 'Asia',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CN',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ch.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/china'},
                         'nameset': [ 'china',
                                      "people's republic of china",
                                      "the people's republic of china",
@@ -2493,6 +2725,14 @@ P1_CNTR = \
                                            '1 Intersputnik - Indian Ocean region',
                                            'and 1 Inmarsat - Pacific and Indian Ocean regions)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 407382000, 'fix': 185097221, 'internet': 751886119, 'mob': 1672545161},
                                  'tld': '.cn',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.cn'}},
@@ -2519,23 +2759,22 @@ P1_CNTR = \
                                             'bound': {'bord': {}, 'len': 0},
                                             'capital': { 'coord': '10 25 S, 105 43 E',
                                                          'name': 'The Settlement (Flying Fish Cove)',
-                                                         'time_diff': 'UTC+7 (12 hours ahead of Washington, DC, during '
-                                                                      'Standard Time)'},
-                                            'coast': {'bord': {}, 'len': 138},
+                                                         'time_diff': 'UTC+7'},
+                                            'coast': 138,
                                             'coord': ['10 30 S, 105 40 E'],
                                             'popul': 2205,
-                                            'ports': {'major seaport': 'Flying Fish Cove'},
+                                            'ports': {'seaport': 'Flying Fish Cove'},
                                             'region': 'Southeast Asia',
                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CX',
-                                            'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_kt.html'},
+                                            'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/christmas-island'},
                                    'nameset': [ 'christmas island',
                                                 'territory of christmas island',
                                                 'the territory of christmas island'],
                                    'tel': { 'domestic': [ 'local area code - 08',
                                                           'GSM mobile-cellular telephone service is provided by '
                                                           'Telstra as part of the Australian network',
-                                                          2000],
-                                            'general': ['service provided by the Australian network', 2000],
+                                                          0],
+                                            'general': ['service provided by the Australian network', 0],
                                             'intl': [ 'international code - 61 8',
                                                       'ASC submarine cable to Singapore and Australia',
                                                       'satellite earth station - 1 (Intelsat provides telephone and '
@@ -2612,31 +2851,30 @@ P1_CNTR = \
                                          'bound': {'bord': {}, 'len': 0},
                                          'capital': { 'coord': '12 10 S, 96 50 E',
                                                       'name': 'West Island',
-                                                      'time_diff': 'UTC+6.5 (11.5 hours ahead of Washington, DC, '
-                                                                   'during Standard Time)'},
-                                         'coast': {'bord': {}, 'len': 26},
+                                                      'time_diff': 'UTC+6.5'},
+                                         'coast': 26,
                                          'coord': ['12 30 S, 96 50 E'],
                                          'popul': 596,
-                                         'ports': {'major seaport': 'Port Refuge'},
+                                         'ports': {'seaport': 'Port Refuge'},
                                          'region': 'Southeast Asia',
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CC',
-                                         'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ck.html'},
+                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cocos-keeling-islands'},
                                 'nameset': [ 'cocos',
                                              'cocos (keeling) islands',
                                              'cocos islands',
                                              'territory of cocos',
                                              'territory of cocos (keeling) islands',
                                              'the territory of cocos (keeling) islands'],
-                                'tel': { 'domestic': ['local area code - 08', 2000],
+                                'tel': { 'domestic': ['local area code - 08', 0],
                                          'general': [ 'telephone service is part of the Australian network',
                                                       'an operational local mobile-cellular network available',
                                                       'wireless Internet connectivity available',
-                                                      2000],
+                                                      0],
                                          'intl': [ 'international code - 61 8',
                                                    'telephone, telex, and facsimile communications with Australia and '
                                                    'elsewhere via satellite',
                                                    'satellite earth station - 1 (Intelsat)',
-                                                   2000],
+                                                   0],
                                          'tld': '.cc',
                                          'url_tld': 'https://en.wikipedia.org/wiki/.cc'}},
                      'mcc': ['505'],
@@ -2704,18 +2942,21 @@ P1_CNTR = \
                 'dep': None,
                 'infos': { 'codes': {'cc3': 'COL', 'ccn': '170', 'gec': 'CO', 'stan': 'COL'},
                            'geo': { 'airports': 836,
-                                    'capital': { 'coord': '4 36 N, 74 05 W',
-                                                 'name': 'Bogota',
-                                                 'time_diff': 'UTC-5 (same time as Washington, DC, during Standard '
-                                                              'Time)'},
+                                    'bound': { 'bord': { 'Brazil': 1790,
+                                                         'Ecuador': 708,
+                                                         'Panama': 339,
+                                                         'Peru': 1494,
+                                                         'Venezuela': 2341},
+                                               'len': 6672},
+                                    'capital': {'coord': '4 36 N, 74 05 W', 'name': 'Bogota', 'time_diff': 'UTC-5'},
+                                    'coast': 3208,
                                     'coord': ['4 00 N, 72 00 W'],
                                     'popul': 49084841,
-                                    'ports': { 'container port': 'Cartagena (2,663,415)',
-                                               'major seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, '
-                                                                'Turbo'},
+                                    'ports': { 'container': 'Cartagena (2,663,415) (2017)',
+                                               'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo'},
                                     'region': 'South America',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CO',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_co.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/colombia'},
                            'nameset': [ 'colombia',
                                         'republic of colombia',
                                         'republica de colombia',
@@ -2749,6 +2990,14 @@ P1_CNTR = \
                                               'satellite earth stations - 10 (6 Intelsat, 1 Inmarsat, 3 fully '
                                               'digitalized international switching centers)',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 6678543, 'fix': 6774363, 'internet': 29990017, 'mob': 64033049},
                                     'tld': '.co',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.co'}},
@@ -2786,17 +3035,14 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'COM', 'ccn': '174', 'gec': 'CN', 'stan': 'COM'},
                           'geo': { 'airports': 4,
                                    'bound': {'bord': {}, 'len': 0},
-                                   'capital': { 'coord': '11 42 S, 43 14 E',
-                                                'name': 'Moroni',
-                                                'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 340},
+                                   'capital': {'coord': '11 42 S, 43 14 E', 'name': 'Moroni', 'time_diff': 'UTC+3'},
+                                   'coast': 340,
                                    'coord': ['12 10 S, 44 15 E'],
                                    'popul': 846281,
-                                   'ports': {'major seaport': 'Moroni, Moutsamoudou'},
+                                   'ports': {'seaport': 'Moroni, Moutsamoudou'},
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KM',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cn.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/comoros'},
                           'nameset': [ 'comoros',
                                        'komori',
                                        'komori (comorian), comores (french), juzur al qamar (arabic)',
@@ -2820,6 +3066,14 @@ P1_CNTR = \
                                              'Europe',
                                              'HF radiotelephone communications to Madagascar and Reunion',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 1531, 'fix': 9840, 'internet': 69635, 'mob': 563722},
                                    'tld': '.km',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.km'}},
@@ -2835,15 +3089,14 @@ P1_CNTR = \
                                         'bound': {'bord': {}, 'len': 0},
                                         'capital': { 'coord': '21 12 S, 159 46 W',
                                                      'name': 'Avarua',
-                                                     'time_diff': 'UTC-10 (5 hours behind Washington, DC, during '
-                                                                  'Standard Time)'},
-                                        'coast': {'bord': {}, 'len': 120},
+                                                     'time_diff': 'UTC-10'},
+                                        'coast': 120,
                                         'coord': ['21 14 S, 159 46 W'],
                                         'popul': 8574,
-                                        'ports': {'major seaport': 'Avatiu'},
+                                        'ports': {'seaport': 'Avatiu'},
                                         'region': 'Oceania',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CK',
-                                        'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cw.html'},
+                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cook-islands'},
                                'nameset': ['cook islands', 'the cook islands'],
                                'tel': { 'code': '682',
                                         'domestic': [ 'service is provided by small exchanges connected to subscribers '
@@ -2865,6 +3118,14 @@ P1_CNTR = \
                                                   'submarine fiber-optic networks are expensive to build and maintain',
                                                   'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                                   2019],
+                                        'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                  'production and supply chains globally',
+                                                  'consumer spending on telecom devices and services has also slowed '
+                                                  "due to the pandemic's effect on economies worldwide",
+                                                  'overall progress towards improvements in all facets of the telecom '
+                                                  'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                  'satellite - has moderated',
+                                                  0],
                                         'subs': {'fix': 3305, 'internet': 4881, 'mob': 7308},
                                         'tld': '.ck',
                                         'url_tld': 'https://en.wikipedia.org/wiki/.ck'}},
@@ -2878,17 +3139,14 @@ P1_CNTR = \
                   'infos': { 'codes': {'cc3': 'CRI', 'ccn': '188', 'gec': 'CS', 'stan': 'CRI'},
                              'geo': { 'airports': 161,
                                       'bound': {'bord': {'Nicaragua': 313, 'Panama': 348}, 'len': 661},
-                                      'capital': { 'coord': '9 56 N, 84 05 W',
-                                                   'name': 'San Jose',
-                                                   'time_diff': 'UTC-6 (1 hour behind Washington, DC, during Standard '
-                                                                'Time)'},
-                                      'coast': {'bord': {}, 'len': 1290},
+                                      'capital': {'coord': '9 56 N, 84 05 W', 'name': 'San Jose', 'time_diff': 'UTC-6'},
+                                      'coast': 1290,
                                       'coord': ['10 00 N, 84 00 W'],
                                       'popul': 5097988,
-                                      'ports': {'major seaport': 'Atlantic Ocean (Caribbean) - Puerto Limon'},
+                                      'ports': {'seaport': 'Atlantic Ocean (Caribbean) - Puerto Limon'},
                                       'region': 'Central America and the Caribbean',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CR',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cs.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/costa-rica'},
                              'nameset': [ 'costa rica',
                                           'republic of costa rica',
                                           'republica de costa rica',
@@ -2917,6 +3175,14 @@ P1_CNTR = \
                                                 'connected to Central American Microwave System',
                                                 'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                                 2019],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 834784, 'fix': 630386, 'internet': 3694974, 'mob': 8163744},
                                       'tld': '.cr',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.cr'}},
@@ -2935,17 +3201,14 @@ P1_CNTR = \
                                                         'Serbia': 314,
                                                         'Slovenia': 600},
                                               'len': 2237},
-                                   'capital': { 'coord': '45 48 N, 16 00 E',
-                                                'name': 'Zagreb',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                   'capital': {'coord': '45 48 N, 16 00 E', 'name': 'Zagreb', 'time_diff': 'UTC+1'},
+                                   'coast': 5835,
                                    'coord': ['45 10 N, 15 30 E'],
                                    'popul': 4227746,
-                                   'ports': {'major seaport': 'Ploce, Rijeka, Sibenik, Split'},
+                                   'ports': {'seaport': 'Ploce, Rijeka, Sibenik, Split'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HR',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_hr.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/croatia'},
                           'nameset': [ 'croatia',
                                        'hrvatska',
                                        'republic of croatia',
@@ -2975,6 +3238,14 @@ P1_CNTR = \
                                              'consists of 2 fiber-optic trunk connections with Slovenia and a '
                                              'fiber-optic trunk line from Rijeka to Split and Dubrovnik',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 1127591, 'fix': 1371999, 'internet': 3104212, 'mob': 4531122},
                                    'tld': '.hr',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.hr'}},
@@ -2987,37 +3258,33 @@ P1_CNTR = \
             'dep': None,
             'infos': { 'codes': {'cc3': 'CUB', 'ccn': '192', 'gec': 'CU', 'stan': 'CUB'},
                        'geo': { 'airports': 133,
-                                'bound': {'bord': {'US Naval Base at Guantanamo Bay': 28}, 'len': 28},
-                                'capital': { 'coord': '23 07 N, 82 21 W',
-                                             'name': 'Havana',
-                                             'time_diff': 'UTC-5 (same time as Washington, DC, during Standard Time)'},
-                                'coast': {'bord': {}, 'len': 3735},
+                                'bound': { 'bord': {'US Naval Base at Guantanamo Bay': 28},
+                                           'len': 28,
+                                           'note': 'Guantanamo Naval Base is leased by the US and remains part of '
+                                                   'Cuba'},
+                                'capital': {'coord': '23 07 N, 82 21 W', 'name': 'Havana', 'time_diff': 'UTC-5'},
+                                'coast': 3735,
                                 'coord': ['21 30 N, 80 00 W'],
                                 'popul': 11059062,
-                                'ports': { 'major seaport': 'Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, '
-                                                            'Mariel, Nuevitas Bay, Santiago de Cuba'},
+                                'ports': { 'seaport': 'Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, '
+                                                      'Nuevitas Bay, Santiago de Cuba'},
                                 'region': 'Central America and the Caribbean',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CU',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cu.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cuba'},
                        'nameset': ['cuba', 'republic of cuba', 'republica de cuba', 'the republic of cuba'],
-                       'tel': { 'code': '53',
-                                'domestic': [ 'fixed-line density remains low at about 13 per 100 inhabitants',
+                       'tel': { 'domestic': [ 'fixed-line density remains low at about 13 per 100 inhabitants',
                                               'mobile-cellular service is expanding to about 53 per 100 persons',
                                               2019],
-                                'general': [ 'lowest mobile phone and Internet penetration rates in the region, '
-                                             'fixed-line teledensity is also low',
-                                             'fixed-line and mobile services run by the state-run ETESCA',
-                                             'mobile-cellular telephone service is expensive and must be paid in '
-                                             'convertible pesos',
-                                             'the Cuban Government has opened several hundred Wi-Fi hotspots around '
-                                             'the island, which are expensive, and launched a new residential Internet '
-                                             'pilot in Havana and other provinces',
-                                             'as of 2018, 3G mobile service is available, if limited',
-                                             2020],
-                                'intl': [ 'the ALBA-1, GTMO-1, and GTMO-PR fiber-optic submarine cables link Cuba, '
-                                          'Jamaica, and Venezuela',
-                                          'satellite earth station - 1 Intersputnik (Atlantic Ocean region)',
-                                          2019],
+                                'general': [2020],
+                                'intl': [2019],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'bb': 98838, 'fix': 1475679, 'internet': 6353020, 'mob': 5911586},
                                 'tld': '.cu',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.cu'}},
@@ -3028,20 +3295,17 @@ P1_CNTR = \
             'url': 'https://en.wikipedia.org/wiki/Cuba'},
   'Curaçao': { 'cc2': 'CW',
                'dep': 'NL',
-               'infos': { 'codes': {'cc3': 'CUW', 'ccn': '531', 'gec': 'UC', 'stan': '-'},
+               'infos': { 'codes': {'cc3': 'CUW', 'ccn': '531', 'gec': 'UC'},
                           'geo': { 'airports': 1,
                                    'bound': {'bord': {}, 'len': 0},
-                                   'capital': { 'coord': '12 06 N, 68 55 W',
-                                                'name': 'Willemstad',
-                                                'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 364},
+                                   'capital': {'coord': '12 06 N, 68 55 W', 'name': 'Willemstad', 'time_diff': 'UTC-4'},
+                                   'coast': 364,
                                    'coord': ['12 10 N, 69 00 W'],
                                    'popul': 151345,
-                                   'ports': {'major seaport': 'Willemstad'},
+                                   'ports': {'seaport': 'Willemstad'},
                                    'region': 'Central America and the Caribbean',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CW',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_uc.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/curacao'},
                           'nameset': [ 'country of curacao',
                                        'country of curaçao',
                                        'curacao',
@@ -3066,6 +3330,14 @@ P1_CNTR = \
                                    'intl': [ 'country code - +599, PCCS submarine cable system to US, Caribbean and '
                                              'Central and South America',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 51836, 'fix': 57443, 'internet': 102359, 'mob': 174260},
                                    'tld': '.cw',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.cw'}},
@@ -3094,19 +3366,17 @@ P1_CNTR = \
               'dep': None,
               'infos': { 'codes': {'cc3': 'CYP', 'ccn': '196', 'gec': 'CY', 'stan': 'CYP'},
                          'geo': { 'airports': 15,
-                                  'bound': {'bord': {}, 'len': 156},
+                                  'bound': {'bord': {'Akrotiri': 48, 'Dhekelia': 108}, 'len': 156},
                                   'capital': { 'coord': '35 10 N, 33 22 E',
                                                'name': 'Nicosia (Lefkosia/Lefkosa)',
-                                               'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 648},
+                                               'time_diff': 'UTC+2'},
+                                  'coast': 648,
                                   'coord': ['35 00 N, 33 00 E'],
                                   'popul': 1266676,
-                                  'ports': { 'major seaport': 'area under government control: Larnaca, Limassol, '
-                                                              'Vasilikos'},
+                                  'ports': {'seaport': 'area under government control: Larnaca, Limassol, Vasilikos'},
                                   'region': 'Middle East',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CY',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cy.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cyprus'},
                          'nameset': [ 'cyprus',
                                       'kypriaki dimokratia/kibris cumhuriyeti',
                                       'kypros/kibris',
@@ -3142,6 +3412,14 @@ P1_CNTR = \
                                             'satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian '
                                             'Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat)',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 313462, 'fix': 469305, 'internet': 1044473, 'mob': 1801213},
                                   'tld': '.cy',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.cy'}},
@@ -3161,14 +3439,12 @@ P1_CNTR = \
                                                      'len': 2143},
                                           'capital': { 'coord': '50 05 N, 14 28 E',
                                                        'name': 'Prague',
-                                                       'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during '
-                                                                    'Standard Time)'},
-                                          'coast': {'bord': {}},
+                                                       'time_diff': 'UTC+1'},
                                           'coord': ['49 45 N, 15 30 E'],
                                           'popul': 10702498,
                                           'region': 'Europe',
                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CZ',
-                                          'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ez.html'},
+                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/czechia'},
                                  'nameset': [ 'ceska republika',
                                               'cesko',
                                               'czech republic',
@@ -3193,6 +3469,14 @@ P1_CNTR = \
                                                     'Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 '
                                                     'Globalstar)',
                                                     2019],
+                                          'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                    'production and supply chains globally',
+                                                    'consumer spending on telecom devices and services has also slowed '
+                                                    "due to the pandemic's effect on economies worldwide",
+                                                    'overall progress towards improvements in all facets of the '
+                                                    'telecom industry - mobile, fixed-line, broadband, submarine cable '
+                                                    'and satellite - has moderated',
+                                                    0],
                                           'subs': {'bb': 3222835, 'fix': 1473846, 'internet': 8622750, 'mob': 13213279},
                                           'tld': '.cz',
                                           'url_tld': 'https://en.wikipedia.org/wiki/.cz'}},
@@ -3227,17 +3511,15 @@ P1_CNTR = \
                                                                        'len': 10481},
                                                             'capital': { 'coord': '4 19 S, 15 18 E',
                                                                          'name': 'Kinshasa',
-                                                                         'time_diff': 'UTC+1 (6 hours ahead of '
-                                                                                      'Washington, DC, during Standard '
-                                                                                      'Time)'},
+                                                                         'time_diff': 'UTC+1'},
                                                             'cmt': 'formerly Zaire',
-                                                            'coast': {'bord': {}, 'len': 37},
+                                                            'coast': 37,
                                                             'coord': ['0 00 N, 25 00 E'],
                                                             'popul': 101780263,
-                                                            'ports': {'major seaport': 'Banana'},
+                                                            'ports': {'seaport': 'Banana'},
                                                             'region': 'Africa',
                                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CD',
-                                                            'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cg.html'},
+                                                            'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/congo-democratic-republic-of-the'},
                                                    'nameset': [ 'democratic republic of the congo',
                                                                 'drc',
                                                                 'rdc',
@@ -3270,6 +3552,17 @@ P1_CNTR = \
                                                                       'satellite earth station - 1 Intelsat (Atlantic '
                                                                       'Ocean)',
                                                                       2019],
+                                                            'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                                      'telecommunications production and supply chains '
+                                                                      'globally',
+                                                                      'consumer spending on telecom devices and '
+                                                                      "services has also slowed due to the pandemic's "
+                                                                      'effect on economies worldwide',
+                                                                      'overall progress towards improvements in all '
+                                                                      'facets of the telecom industry - mobile, '
+                                                                      'fixed-line, broadband, submarine cable and '
+                                                                      'satellite - has moderated',
+                                                                      0],
                                                             'subs': {'bb': 4620, 'internet': 8231357, 'mob': 42166976},
                                                             'tld': '.cd',
                                                             'url_tld': 'https://en.wikipedia.org/wiki/.cd'}},
@@ -3283,18 +3576,14 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'DNK', 'ccn': '208', 'gec': 'DA', 'stan': 'DNK'},
                           'geo': { 'airports': 80,
                                    'bound': {'bord': {'Germany': 140}, 'len': 140},
-                                   'capital': { 'coord': '55 40 N, 12 35 E',
-                                                'name': 'Copenhagen',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 7314},
+                                   'capital': {'coord': '55 40 N, 12 35 E', 'name': 'Copenhagen', 'time_diff': 'UTC+1'},
+                                   'coast': 7314,
                                    'coord': ['56 00 N, 10 00 E'],
                                    'popul': 5869410,
-                                   'ports': { 'major seaport': 'Baltic Sea - Aarhus, Copenhagen, Fredericia, '
-                                                               'Kalundborg'},
+                                   'ports': {'seaport': 'Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DK',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_da.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/denmark'},
                           'nameset': [ 'danmark',
                                        'denmark',
                                        'kingdom of denmark',
@@ -3325,6 +3614,14 @@ P1_CNTR = \
                                              'Sweden) share the Danish earth station and the Eik, Norway, station for '
                                              'worldwide Inmarsat access',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 2534348, 'fix': 1017009, 'internet': 5672398, 'mob': 7331110},
                                    'tld': '.dk',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.dk'}},
@@ -3367,17 +3664,14 @@ P1_CNTR = \
                 'infos': { 'codes': {'cc3': 'DJI', 'ccn': '262', 'gec': 'DJ', 'stan': 'DJI'},
                            'geo': { 'airports': 13,
                                     'bound': {'bord': {'Eritrea': 125, 'Ethiopia': 342, 'Somalia': 61}, 'len': 528},
-                                    'capital': { 'coord': '11 35 N, 43 09 E',
-                                                 'name': 'Djibouti',
-                                                 'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}, 'len': 314},
+                                    'capital': {'coord': '11 35 N, 43 09 E', 'name': 'Djibouti', 'time_diff': 'UTC+3'},
+                                    'coast': 314,
                                     'coord': ['11 30 N, 43 00 E'],
                                     'popul': 921804,
-                                    'ports': {'major seaport': 'Djibouti'},
+                                    'ports': {'seaport': 'Djibouti'},
                                     'region': 'Africa',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DJ',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_dj.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/djibouti'},
                            'nameset': [ 'djibouti',
                                         'djibouti/jibuti',
                                         'republic of djibouti',
@@ -3409,6 +3703,14 @@ P1_CNTR = \
                                               'East, Europe, Southeast Asia, Australia and Africa',
                                               'satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat)',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 25508, 'fix': 34671, 'internet': 492221, 'mob': 371992},
                                     'tld': '.dj',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.dj'}},
@@ -3422,17 +3724,14 @@ P1_CNTR = \
                 'infos': { 'codes': {'cc3': 'DMA', 'ccn': '212', 'gec': 'DO', 'stan': 'DMA'},
                            'geo': { 'airports': 2,
                                     'bound': {'bord': {}, 'len': 0},
-                                    'capital': { 'coord': '15 18 N, 61 24 W',
-                                                 'name': 'Roseau',
-                                                 'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}, 'len': 148},
+                                    'capital': {'coord': '15 18 N, 61 24 W', 'name': 'Roseau', 'time_diff': 'UTC-4'},
+                                    'coast': 148,
                                     'coord': ['15 25 N, 61 20 W'],
                                     'popul': 74243,
-                                    'ports': {'major seaport': 'Portsmouth, Roseau'},
+                                    'ports': {'seaport': 'Portsmouth, Roseau'},
                                     'region': 'Central America and the Caribbean',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DM',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_do.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/dominica'},
                            'nameset': ['commonwealth of dominica', 'dominica', 'the commonwealth of dominica'],
                            'tel': { 'code': '1767',
                                     'domestic': [ 'fixed-line connections continue to decline slowly with only two '
@@ -3454,6 +3753,14 @@ P1_CNTR = \
                                               'Guadeloupe',
                                               'VHF and UHF radiotelephone links to Saint Lucia',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 11514, 'fix': 2751, 'internet': 51538, 'mob': 78437},
                                     'tld': '.dm',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.dm'}},
@@ -3469,15 +3776,14 @@ P1_CNTR = \
                                               'bound': {'bord': {'Haiti': 376}, 'len': 376},
                                               'capital': { 'coord': '18 28 N, 69 54 W',
                                                            'name': 'Santo Domingo',
-                                                           'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during '
-                                                                        'Standard Time)'},
-                                              'coast': {'bord': {}, 'len': 1288},
+                                                           'time_diff': 'UTC-4'},
+                                              'coast': 1288,
                                               'coord': ['19 00 N, 70 40 W'],
                                               'popul': 10499707,
-                                              'ports': {'major seaport': 'Puerto Haina, Puerto Plata, Santo Domingo'},
+                                              'ports': {'seaport': 'Puerto Haina, Puerto Plata, Santo Domingo'},
                                               'region': 'Central America and the Caribbean',
                                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DO',
-                                              'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_dr.html'},
+                                              'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/dominican-republic'},
                                      'nameset': [ 'dominican',
                                                   'dominican republic',
                                                   'la dominicana',
@@ -3506,6 +3812,14 @@ P1_CNTR = \
                                                         'Caribbean, and US',
                                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                         2019],
+                                              'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                        'telecommunications production and supply chains globally',
+                                                        'consumer spending on telecom devices and services has also '
+                                                        "slowed due to the pandemic's effect on economies worldwide",
+                                                        'overall progress towards improvements in all facets of the '
+                                                        'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                        'cable and satellite - has moderated',
+                                                        0],
                                               'subs': { 'bb': 794788,
                                                         'fix': 1172083,
                                                         'internet': 7705529,
@@ -3522,17 +3836,14 @@ P1_CNTR = \
                   'infos': { 'codes': {'cc3': 'TLS', 'ccn': '626', 'gec': 'TT', 'stan': 'TLS'},
                              'geo': { 'airports': 6,
                                       'bound': {'bord': {'Indonesia': 253}, 'len': 253},
-                                      'capital': { 'coord': '8 35 S, 125 36 E',
-                                                   'name': 'Dili',
-                                                   'time_diff': 'UTC+9 (14 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}, 'len': 706},
+                                      'capital': {'coord': '8 35 S, 125 36 E', 'name': 'Dili', 'time_diff': 'UTC+9'},
+                                      'coast': 706,
                                       'coord': ['8 50 S, 125 55 E'],
                                       'popul': 1383723,
-                                      'ports': {'major seaport': 'Dili'},
+                                      'ports': {'seaport': 'Dili'},
                                       'region': 'Southeast Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TL',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tt.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/timor-leste'},
                              'nameset': [ 'democratic republic of timor-leste',
                                           'east timor',
                                           "republika demokratika timor lorosa'e [tetum]; republica democratica de "
@@ -3562,7 +3873,15 @@ P1_CNTR = \
                                                 'partnership with Australia telecom companies for potential deployment '
                                                 'of a submarine fiber-optic link (NWCS)',
                                                 'geostationary earth orbit satellite',
-                                                2000],
+                                                0],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 603, 'fix': 2164, 'internet': 363398, 'mob': 1490966},
                                       'tld': '.tl',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.tl'}},
@@ -3576,18 +3895,15 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'ECU', 'ccn': '218', 'gec': 'EC', 'stan': 'ECU'},
                           'geo': { 'airports': 432,
                                    'bound': {'bord': {'Colombia': 708, 'Peru': 1529}, 'len': 2237},
-                                   'capital': { 'coord': '0 13 S, 78 30 W',
-                                                'name': 'Quito',
-                                                'time_diff': 'UTC-5 (same time as Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 2237},
+                                   'capital': {'coord': '0 13 S, 78 30 W', 'name': 'Quito', 'time_diff': 'UTC-5'},
+                                   'coast': 2237,
                                    'coord': ['2 00 S, 77 30 W'],
                                    'popul': 16904867,
-                                   'ports': { 'container port': 'Guayaquil (1,871,591)',
-                                              'major seaport': 'Esmeraldas, Manta, Puerto Bolivar'},
+                                   'ports': { 'container': 'Guayaquil (1,871,591) (2017)',
+                                              'seaport': 'Esmeraldas, Manta, Puerto Bolivar'},
                                    'region': 'South America',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EC',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ec.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ecuador'},
                           'nameset': [ 'ecuador',
                                        'republic of ecuador',
                                        'republica del ecuador',
@@ -3611,6 +3927,14 @@ P1_CNTR = \
                                              'America, and extending onward to the Caribbean and the US',
                                              'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 1953607, 'fix': 2111291, 'internet': 9448692, 'mob': 15241719},
                                    'tld': '.ec',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.ec'}},
@@ -3625,19 +3949,16 @@ P1_CNTR = \
                         'geo': { 'airports': 83,
                                  'bound': { 'bord': {'Gaza Strip': 13, 'Israel': 208, 'Libya': 1115, 'Sudan': 1276},
                                             'len': 2612},
-                                 'capital': { 'coord': '30 03 N, 31 15 E',
-                                              'name': 'Cairo',
-                                              'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 2450},
+                                 'capital': {'coord': '30 03 N, 31 15 E', 'name': 'Cairo', 'time_diff': 'UTC+2'},
+                                 'coast': 2450,
                                  'coord': ['27 00 N, 30 00 E'],
                                  'popul': 104124440,
-                                 'ports': { 'container port': 'Alexandria (1,613,000), Port Said (East) (2,968,308)',
-                                            'major seaport': 'Mediterranean Sea - Alexandria, Damietta, El Dekheila, '
-                                                             'Port Said'},
+                                 'ports': { 'container': 'Alexandria (1,613,000), Port Said (East) (2,968,308) (2017)',
+                                            'seaport': 'Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port '
+                                                       'Said'},
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EG',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_eg.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/egypt'},
                         'nameset': [ 'arab republic of egypt',
                                      'egypt',
                                      'jumhuriyat misr al-arabiyah',
@@ -3663,6 +3984,14 @@ P1_CNTR = \
                                            'microwave radio relay to Israel',
                                            'a participant in Medarabtel',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 6579762, 'fix': 8885103, 'internet': 46644728, 'mob': 96657295},
                                  'tld': '.eg',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.eg'}},
@@ -3678,15 +4007,14 @@ P1_CNTR = \
                                        'bound': {'bord': {'Guatemala': 199, 'Honduras': 391}, 'len': 590},
                                        'capital': { 'coord': '13 42 N, 89 12 W',
                                                     'name': 'San Salvador',
-                                                    'time_diff': 'UTC-6 (1 hour behind Washington, DC, during Standard '
-                                                                 'Time)'},
-                                       'coast': {'bord': {}, 'len': 307},
+                                                    'time_diff': 'UTC-6'},
+                                       'coast': 307,
                                        'coord': ['13 50 N, 88 55 W'],
                                        'popul': 6481102,
-                                       'ports': {'major seaport': 'Puerto Cutuco'},
+                                       'ports': {'seaport': 'Puerto Cutuco'},
                                        'region': 'Central America and the Caribbean',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SV',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_es.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/el-salvador'},
                               'nameset': [ 'el salvador',
                                            'republic of el salvador',
                                            'republica de el salvador',
@@ -3709,6 +4037,14 @@ P1_CNTR = \
                                        'intl': [ 'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                  'connected to Central American Microwave System',
                                                  2019],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 492265, 'fix': 882498, 'internet': 2153776, 'mob': 9442667},
                                        'tld': '.sv',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.sv'}},
@@ -3727,15 +4063,14 @@ P1_CNTR = \
                                                                   '(formerly referred to as Oyala) is being built on '
                                                                   'the mainland near Djibloho; Malabo is on the island '
                                                                   'of Bioko',
-                                                          'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during '
-                                                                       'Standard Time)'},
-                                             'coast': {'bord': {}, 'len': 296},
+                                                          'time_diff': 'UTC+1'},
+                                             'coast': 296,
                                              'coord': ['2 00 N, 10 00 E'],
                                              'popul': 836178,
-                                             'ports': {'major seaport': 'Bata, Luba, Malabo'},
+                                             'ports': {'seaport': 'Bata, Luba, Malabo'},
                                              'region': 'Africa',
                                              'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GQ',
-                                             'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ek.html'},
+                                             'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/equatorial-guinea'},
                                     'nameset': [ 'equatorial guinea',
                                                  'guinea ecuatorial/guinee equatoriale',
                                                  'republic of equatorial guinea',
@@ -3757,6 +4092,14 @@ P1_CNTR = \
                                                        'countries',
                                                        'satellite earth station - 1 Intelsat (Indian Ocean)',
                                                        2019],
+                                             'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                       'telecommunications production and supply chains globally',
+                                                       'consumer spending on telecom devices and services has also '
+                                                       "slowed due to the pandemic's effect on economies worldwide",
+                                                       'overall progress towards improvements in all facets of the '
+                                                       'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                       'cable and satellite - has moderated',
+                                                       0],
                                              'subs': {'bb': 1620, 'fix': 6779, 'internet': 209253, 'mob': 368920},
                                              'tld': '.gq',
                                              'url_tld': 'https://en.wikipedia.org/wiki/.gq'}},
@@ -3772,15 +4115,14 @@ P1_CNTR = \
                                    'bound': {'bord': {'Djibouti': 125, 'Ethiopia': 1033, 'Sudan': 682}, 'len': 1840},
                                    'capital': { 'coord': '15 20 N, 38 56 E',
                                                 'name': 'Asmara (Asmera)',
-                                                'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                                'time_diff': 'UTC+3'},
+                                   'coast': 2234,
                                    'coord': ['15 00 N, 39 00 E'],
                                    'popul': 6081196,
-                                   'ports': {'major seaport': 'Assab, Massawa'},
+                                   'ports': {'seaport': 'Assab, Massawa'},
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ER',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_er.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/eritrea'},
                           'nameset': ['eritrea', 'ertra', 'hagere ertra', 'state of eritrea', 'the state of eritrea'],
                           'tel': { 'code': '291',
                                    'domestic': [ 'fixed-line subscribership is less than 2 per 100 person and '
@@ -3798,6 +4140,14 @@ P1_CNTR = \
                                                 'in 2019 11% mobile penetration',
                                                 2020],
                                    'intl': [2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 600, 'fix': 116882, 'internet': 78215, 'mob': 1226660},
                                    'tld': '.er',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.er'}},
@@ -3811,17 +4161,14 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'EST', 'ccn': '233', 'gec': 'EN', 'stan': 'EST'},
                           'geo': { 'airports': 18,
                                    'bound': {'bord': {'Latvia': 333, 'Russia': 324}, 'len': 657},
-                                   'capital': { 'coord': '59 26 N, 24 43 E',
-                                                'name': 'Tallinn',
-                                                'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 3794},
+                                   'capital': {'coord': '59 26 N, 24 43 E', 'name': 'Tallinn', 'time_diff': 'UTC+2'},
+                                   'coast': 3794,
                                    'coord': ['59 00 N, 26 00 E'],
                                    'popul': 1228624,
-                                   'ports': {'major seaport': 'Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn'},
+                                   'ports': {'seaport': 'Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EE',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_en.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/estonia'},
                           'nameset': [ 'eesti',
                                        'eesti vabariik',
                                        'estonia',
@@ -3853,6 +4200,14 @@ P1_CNTR = \
                                              'Finland, and Sweden',
                                              '2 international switches are located in Tallinn',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 441167, 'fix': 302606, 'internet': 1111896, 'mob': 1820088},
                                    'tld': '.ee',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.ee'}},
@@ -3889,14 +4244,12 @@ P1_CNTR = \
                                     'capital': { 'coord': '26 19 S, 31 08 E',
                                                  'name': 'Mbabane (administrative capital); Lobamba (royal and '
                                                          'legislative capital)',
-                                                 'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}},
+                                                 'time_diff': 'UTC+2'},
                                     'coord': ['26 30 S, 31 30 E'],
                                     'popul': 1104479,
                                     'region': 'Africa',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SZ',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_wz.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/eswatini'},
                            'nameset': [ 'eswatini',
                                         'kingdom of eswatini',
                                         'the kingdom of eswatini',
@@ -3916,7 +4269,15 @@ P1_CNTR = \
                                                  'the telecom sector',
                                                  '2G, 3G, 4G and LTE services',
                                                  2019],
-                                    'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 2000],
+                                    'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 7000, 'fix': 40003, 'internet': 510984, 'mob': 1025061},
                                     'tld': '.sz',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.sz'}},
@@ -3938,14 +4299,12 @@ P1_CNTR = \
                                                'len': 5925},
                                     'capital': { 'coord': '9 02 N, 38 42 E',
                                                  'name': 'Addis Ababa',
-                                                 'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}},
+                                                 'time_diff': 'UTC+3'},
                                     'coord': ['8 00 N, 38 00 E'],
                                     'popul': 108113150,
                                     'region': 'Africa',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ET',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_et.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ethiopia'},
                            'nameset': [ 'ethiopia',
                                         'federal democratic republic of ethiopia',
                                         "ityop'iya",
@@ -3973,6 +4332,14 @@ P1_CNTR = \
                                               'satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific '
                                               'Ocean)',
                                               2016],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 580120, 'fix': 1095946, 'internet': 19118470, 'mob': 38147361},
                                     'tld': '.et',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.et'}},
@@ -3988,15 +4355,14 @@ P1_CNTR = \
                                             'bound': {'bord': {}, 'len': 0},
                                             'capital': { 'coord': '51 42 S, 57 51 W',
                                                          'name': 'Stanley',
-                                                         'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during '
-                                                                      'Standard Time)'},
-                                            'coast': {'bord': {}, 'len': 1288},
+                                                         'time_diff': 'UTC-4'},
+                                            'coast': 1288,
                                             'coord': ['51 45 S, 59 00 W'],
                                             'popul': 3198,
-                                            'ports': {'major seaport': 'Stanley'},
+                                            'ports': {'seaport': 'Stanley'},
                                             'region': 'South America',
                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FK',
-                                            'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_fk.html'},
+                                            'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/falkland-islands-islas-malvinas'},
                                    'nameset': [ 'falkland islands',
                                                 'falkland islands (islas malvinas)',
                                                 'the falkland islands'],
@@ -4007,7 +4373,7 @@ P1_CNTR = \
                                             'general': [ 'government-operated radiotelephone and private VHF/CB '
                                                          'radiotelephone networks provide effective service to almost '
                                                          'all points on both islands',
-                                                         2000],
+                                                         0],
                                             'intl': [ 'satellite earth station - 1 Intelsat (Atlantic Ocean) with '
                                                       'links through London to other countries',
                                                       2015],
@@ -4026,15 +4392,14 @@ P1_CNTR = \
                                          'bound': {'bord': {}, 'len': 0},
                                          'capital': { 'coord': '62 00 N, 6 46 W',
                                                       'name': 'Torshavn',
-                                                      'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during '
-                                                                   'Standard Time)'},
-                                         'coast': {'bord': {}, 'len': 1117},
+                                                      'time_diff': 'UTC 0'},
+                                         'coast': 1117,
                                          'coord': ['62 00 N, 7 00 W'],
                                          'popul': 51628,
-                                         'ports': {'major seaport': 'Fuglafjordur, Torshavn, Vagur'},
+                                         'ports': {'seaport': 'Fuglafjordur, Torshavn, Vagur'},
                                          'region': 'Europe',
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FO',
-                                         'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_fo.html'},
+                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/faroe-islands'},
                                 'nameset': ['faroe islands', 'foroyar', 'the faroe islands'],
                                 'tel': { 'code': '298',
                                          'domestic': [ '37 per 100 for fixed-line and 116 per 100 for mobile-cellular',
@@ -4051,6 +4416,14 @@ P1_CNTR = \
                                                    'and Iceland',
                                                    'satellite earth stations - 1 Orion',
                                                    2019],
+                                         'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                   'production and supply chains globally',
+                                                   'consumer spending on telecom devices and services has also slowed '
+                                                   "due to the pandemic's effect on economies worldwide",
+                                                   'overall progress towards improvements in all facets of the telecom '
+                                                   'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                   'satellite - has moderated',
+                                                   0],
                                          'subs': {'bb': 18181, 'fix': 19137, 'internet': 49783, 'mob': 59771},
                                          'tld': '.fo',
                                          'url_tld': 'https://en.wikipedia.org/wiki/.fo'}},
@@ -4066,17 +4439,15 @@ P1_CNTR = \
                                                           'bound': {'bord': {}, 'len': 0},
                                                           'capital': { 'coord': '6 55 N, 158 09 E',
                                                                        'name': 'Palikir',
-                                                                       'time_diff': 'UTC+11 (16 hours ahead of '
-                                                                                    'Washington, DC, during Standard '
-                                                                                    'Time)'},
-                                                          'coast': {'bord': {}, 'len': 6112},
+                                                                       'time_diff': 'UTC+11'},
+                                                          'coast': 6112,
                                                           'coord': ['6 55 N, 158 15 E'],
                                                           'popul': 102436,
-                                                          'ports': { 'major seaport': 'Colonia (Tamil Harbor), Molsron '
-                                                                                      'Lele Harbor, Pohnepi Harbor'},
+                                                          'ports': { 'seaport': 'Colonia (Tamil Harbor), Molsron Lele '
+                                                                                'Harbor, Pohnepi Harbor'},
                                                           'region': 'Oceania',
                                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FM',
-                                                          'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_fm.html'},
+                                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/micronesia-federated-states-of'},
                                                  'nameset': [ 'federated states of micronesia',
                                                               'the federated states of micronesia'],
                                                  'tel': { 'code': '691',
@@ -4100,6 +4471,17 @@ P1_CNTR = \
                                                                     'satellite earth stations - 5 Intelsat (Pacific '
                                                                     'Ocean)',
                                                                     2019],
+                                                          'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                                    'telecommunications production and supply chains '
+                                                                    'globally',
+                                                                    'consumer spending on telecom devices and services '
+                                                                    "has also slowed due to the pandemic's effect on "
+                                                                    'economies worldwide',
+                                                                    'overall progress towards improvements in all '
+                                                                    'facets of the telecom industry - mobile, '
+                                                                    'fixed-line, broadband, submarine cable and '
+                                                                    'satellite - has moderated',
+                                                                    0],
                                                           'subs': { 'bb': 3776,
                                                                     'fix': 6420,
                                                                     'internet': 36586,
@@ -4118,15 +4500,14 @@ P1_CNTR = \
                                 'bound': {'bord': {}, 'len': 0},
                                 'capital': { 'coord': '18 08 S, 178 25 E',
                                              'name': 'Suva (on Viti Levu)',
-                                             'time_diff': 'UTC+12 (17 hours ahead of Washington, DC, during Standard '
-                                                          'Time)'},
-                                'coast': {'bord': {}, 'len': 1129},
+                                             'time_diff': 'UTC+12'},
+                                'coast': 1129,
                                 'coord': ['18 00 S, 175 00 E'],
                                 'popul': 935974,
-                                'ports': {'major seaport': 'Lautoka, Levuka, Suva'},
+                                'ports': {'seaport': 'Lautoka, Levuka, Suva'},
                                 'region': 'Oceania',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FJ',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_fj.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/fiji'},
                        'nameset': [ 'fiji',
                                     'fiji/matanitu ko viti',
                                     'fiji/viti',
@@ -4153,6 +4534,14 @@ P1_CNTR = \
                                           'American Samoa',
                                           'satellite earth stations - 2 Inmarsat (Pacific Ocean)',
                                           2019],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'bb': 13033, 'fix': 80650, 'internet': 462860, 'mob': 1097345},
                                 'tld': '.fj',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.fj'}},
@@ -4166,17 +4555,14 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'FIN', 'ccn': '246', 'gec': 'FI', 'stan': 'FIN'},
                           'geo': { 'airports': 148,
                                    'bound': {'bord': {'Norway': 709, 'Russia': 1309, 'Sweden': 545}, 'len': 2563},
-                                   'capital': { 'coord': '60 10 N, 24 56 E',
-                                                'name': 'Helsinki',
-                                                'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 1250},
+                                   'capital': {'coord': '60 10 N, 24 56 E', 'name': 'Helsinki', 'time_diff': 'UTC+2'},
+                                   'coast': 1250,
                                    'coord': ['64 00 N, 26 00 E'],
                                    'popul': 5571665,
-                                   'ports': {'major seaport': 'Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma'},
+                                   'ports': {'seaport': 'Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FI',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_fi.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/finland'},
                           'nameset': [ 'finland',
                                        'republic of finland',
                                        'suomen tasavalta/republiken finland',
@@ -4205,6 +4591,14 @@ P1_CNTR = \
                                              'note - Finland shares the Inmarsat earth station with the other Nordic '
                                              'countries (Denmark, Iceland, Norway, and Sweden)',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 1737000, 'fix': 269980, 'internet': 4922163, 'mob': 7179481},
                                    'tld': '.fi',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.fi'}},
@@ -4282,15 +4676,12 @@ P1_CNTR = \
                                                        'Spain': 646,
                                                        'Switzerland': 525},
                                              'len': 2751},
-                                  'capital': { 'coord': '48 52 N, 2 20 E',
-                                               'name': 'Paris',
-                                               'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
+                                  'capital': {'coord': '48 52 N, 2 20 E', 'name': 'Paris', 'time_diff': 'UTC+1'},
                                   'cmt': 'ISO includes metropolitan France along with the dependencies of Clipperton '
                                          'Island, French Guiana, French Polynesia, French Southern and Antarctic '
                                          'Lands, Guadeloupe, Martinique, Mayotte, New Caledonia, Reunion, Saint Pierre '
                                          'and Miquelon, Wallis and Futuna',
-                                  'coast': {'bord': {}, 'len': 4853},
+                                  'coast': 4853,
                                   'coord': [ ('metropolitan France', '46 00 N, 2 00 E'),
                                              ('French Guiana', '4 00 N, 53 00 W'),
                                              ('Guadeloupe', '16 15 N, 61 35 W'),
@@ -4298,12 +4689,12 @@ P1_CNTR = \
                                              ('Mayotte', '12 50 S, 45 10 E'),
                                              ('Reunion', '21 06 S, 55 36 E')],
                                   'popul': 67848156,
-                                  'ports': { 'container port': 'Le Havre (2,870,000)',
-                                             'cruise/ferry port': 'Calais, Cherbourg, Le Havre',
-                                             'major seaport': 'Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes,'},
+                                  'ports': { 'container': 'Le Havre (2,870,000) (2017)',
+                                             'ferry': 'Calais, Cherbourg, Le Havre',
+                                             'seaport': 'Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes,'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FR',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_fr.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/france'},
                          'nameset': ['france', 'french republic', 'republique francaise', 'the french republic'],
                          'tel': { 'code': '33',
                                   'domestic': [ '58 per 100 persons for fixed-line and 111 per 100 for mobile-cellular '
@@ -4328,6 +4719,14 @@ P1_CNTR = \
                                             'Inmarsat - Atlantic Ocean region)',
                                             'HF radiotelephone communications with more than 20 countries',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'overseas departments': [ 'country codes: French Guiana - 594',
                                                             'landing points for Ella Link, Kanawa, Americas II to '
                                                             'South America, Europe, Caribbean and US',
@@ -4437,15 +4836,14 @@ P1_CNTR = \
                                             'bound': {'bord': {}, 'len': 0},
                                             'capital': { 'coord': '17 32 S, 149 34 W',
                                                          'name': 'Papeete (located on Tahiti)',
-                                                         'time_diff': 'UTC-10 (5 hours behind Washington, DC, during '
-                                                                      'Standard Time)'},
-                                            'coast': {'bord': {}, 'len': 2525},
+                                                         'time_diff': 'UTC-10'},
+                                            'coast': 2525,
                                             'coord': ['15 00 S, 140 00 W'],
                                             'popul': 295121,
-                                            'ports': {'major seaport': 'Papeete'},
+                                            'ports': {'seaport': 'Papeete'},
                                             'region': 'Oceania',
                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PF',
-                                            'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_fp.html'},
+                                            'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/french-polynesia'},
                                    'nameset': [ 'french polynesia',
                                                 'overseas lands of french polynesia',
                                                 "pays d'outre-mer de la polynesie francaise",
@@ -4469,6 +4867,14 @@ P1_CNTR = \
                                                       'Samoa and US',
                                                       'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                                       2019],
+                                            'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                      'telecommunications production and supply chains globally',
+                                                      'consumer spending on telecom devices and services has also '
+                                                      "slowed due to the pandemic's effect on economies worldwide",
+                                                      'overall progress towards improvements in all facets of the '
+                                                      'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                      'cable and satellite - has moderated',
+                                                      0],
                                             'subs': {'bb': 59790, 'fix': 63769, 'internet': 211101, 'mob': 305233},
                                             'tld': '.pf',
                                             'url_tld': 'https://en.wikipedia.org/wiki/.pf'}},
@@ -4484,7 +4890,6 @@ P1_CNTR = \
                                                        'bound': {'bord': {}, 'len': 0},
                                                        'cmt': 'GEC does not include the French-claimed portion of '
                                                               'Antarctica (Terre Adelie)',
-                                                       'coast': {'bord': {}},
                                                        'coord': [ ( 'Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul)',
                                                                     '37 50 S, 77 32 E'),
                                                                   ( 'Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul)',
@@ -4502,7 +4907,7 @@ P1_CNTR = \
                                                                     '15 52 S, 54 25 E')],
                                                        'region': 'Antarctic RegionAfrica',
                                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TF',
-                                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_fs.html'},
+                                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/french-southern-and-antarctic-lands'},
                                               'nameset': [ 'french southern and antarctic lands',
                                                            'french southern territories',
                                                            'terres australes et antarctiques francaises',
@@ -4523,17 +4928,14 @@ P1_CNTR = \
                                                       'Equatorial Guinea': 345,
                                                       'Republic of the Congo': 2567},
                                             'len': 3261},
-                                 'capital': { 'coord': '0 23 N, 9 27 E',
-                                              'name': 'Libreville',
-                                              'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 885},
+                                 'capital': {'coord': '0 23 N, 9 27 E', 'name': 'Libreville', 'time_diff': 'UTC+1'},
+                                 'coast': 885,
                                  'coord': ['1 00 S, 11 45 E'],
                                  'popul': 2230908,
-                                 'ports': {'major seaport': 'Libreville, Owendo, Port-Gentil'},
+                                 'ports': {'seaport': 'Libreville, Owendo, Port-Gentil'},
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GA',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gb.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/gabon'},
                         'nameset': ['gabon', 'gabonese republic', 'republique gabonaise', 'the gabonese republic'],
                         'tel': { 'code': '241',
                                  'domestic': [ 'fixed-line is 1 per 100 subscriptions',
@@ -4555,6 +4957,14 @@ P1_CNTR = \
                                            'Africa',
                                            'satellite earth stations - 3 Intelsat (Atlantic Ocean)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 29099, 'fix': 22412, 'internet': 1313802, 'mob': 3008814},
                                  'tld': '.ga',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.ga'}},
@@ -4569,17 +4979,14 @@ P1_CNTR = \
                           'geo': { 'airports': 22,
                                    'bound': { 'bord': {'Armenia': 219, 'Azerbaijan': 428, 'Russia': 894, 'Turkey': 273},
                                               'len': 1814},
-                                   'capital': { 'coord': '41 41 N, 44 50 E',
-                                                'name': 'Tbilisi',
-                                                'time_diff': 'UTC+4 (9 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 310},
+                                   'capital': {'coord': '41 41 N, 44 50 E', 'name': 'Tbilisi', 'time_diff': 'UTC+4'},
+                                   'coast': 310,
                                    'coord': ['42 00 N, 43 30 E'],
                                    'popul': 3997000,
-                                   'ports': {'major seaport': "Black Sea - Bat'umi, P'ot'i"},
+                                   'ports': {'seaport': "Black Sea - Bat'umi, P'ot'i"},
                                    'region': 'Asia',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GE',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gg.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/georgia'},
                           'nameset': ['georgia', "sak'art'velo"],
                           'tel': { 'code': '995',
                                    'domestic': [ 'fixed-line 13 per 100, cellular telephone networks cover the entire '
@@ -4605,6 +5012,14 @@ P1_CNTR = \
                                              'through the Moscow switch',
                                              'international electronic mail and telex service are available',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 840603, 'fix': 638092, 'internet': 3151218, 'mob': 6638125},
                                    'tld': '.ge',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.ge'}},
@@ -4643,18 +5058,15 @@ P1_CNTR = \
                                                         'Poland': 467,
                                                         'Switzerland': 348},
                                               'len': 3714},
-                                   'capital': { 'coord': '52 31 N, 13 24 E',
-                                                'name': 'Berlin',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 2389},
+                                   'capital': {'coord': '52 31 N, 13 24 E', 'name': 'Berlin', 'time_diff': 'UTC+1'},
+                                   'coast': 2389,
                                    'coord': ['51 00 N, 9 00 E'],
                                    'popul': 80159662,
-                                   'ports': { 'container port': 'Bremen/Bremerhaven (5,510,000), Hamburg (8,860,000)',
-                                              'major seaport': 'Baltic Sea - Rostock'},
+                                   'ports': { 'container': 'Bremen/Bremerhaven (5,510,000), Hamburg (8,860,000) (2017)',
+                                              'seaport': 'Baltic Sea - Rostock'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DE',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gm.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/germany'},
                           'nameset': [ 'bundesrepublik deutschland',
                                        'deutschland',
                                        'federal republic of germany',
@@ -4688,6 +5100,14 @@ P1_CNTR = \
                                              'as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and '
                                              'Intersputnik satellite systems',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 34174900, 'fix': 38847530, 'internet': 72202773, 'mob': 103090116},
                                    'tld': '.de',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.de'}},
@@ -4740,17 +5160,14 @@ P1_CNTR = \
                         'geo': { 'airports': 10,
                                  'bound': { 'bord': {'Burkina Faso': 602, 'Ivory Coast': 720, 'Togo': 1098},
                                             'len': 2420},
-                                 'capital': { 'coord': '5 33 N, 0 13 W',
-                                              'name': 'Accra',
-                                              'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 539},
+                                 'capital': {'coord': '5 33 N, 0 13 W', 'name': 'Accra', 'time_diff': 'UTC 0'},
+                                 'coast': 539,
                                  'coord': ['8 00 N, 2 00 W'],
                                  'popul': 29340248,
-                                 'ports': {'major seaport': 'Takoradi, Tema'},
+                                 'ports': {'seaport': 'Takoradi, Tema'},
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GH',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gh.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ghana'},
                         'nameset': ['ghana', 'republic of ghana', 'the republic of ghana'],
                         'tel': { 'code': '233',
                                  'domestic': [ 'fixed-line 1 per 100 subscriptions',
@@ -4777,6 +5194,14 @@ P1_CNTR = \
                                            'neighbors',
                                            'Ghana-1 satellite launched in 2020',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 62320, 'fix': 272801, 'internet': 10959964, 'mob': 38571189},
                                  'tld': '.gh',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.gh'}},
@@ -4806,17 +5231,14 @@ P1_CNTR = \
                  'infos': { 'codes': {'cc3': 'GIB', 'ccn': '292', 'gec': 'GI', 'stan': 'GIB'},
                             'geo': { 'airports': 1,
                                      'bound': {'bord': {'Spain': 1}, 'len': 1},
-                                     'capital': { 'coord': '36 08 N, 5 21 W',
-                                                  'name': 'Gibraltar',
-                                                  'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during '
-                                                               'Standard Time)'},
-                                     'coast': {'bord': {}, 'len': 12},
+                                     'capital': {'coord': '36 08 N, 5 21 W', 'name': 'Gibraltar', 'time_diff': 'UTC+1'},
+                                     'coast': 12,
                                      'coord': ['36 08 N, 5 21 W'],
                                      'popul': 29581,
-                                     'ports': {'major seaport': 'Gibraltar'},
+                                     'ports': {'seaport': 'Gibraltar'},
                                      'region': 'Europe',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GI',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gi.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/gibraltar'},
                             'nameset': ['gibraltar'],
                             'tel': { 'code': '350',
                                      'domestic': [ 'automatic exchange facilities',
@@ -4848,20 +5270,17 @@ P1_CNTR = \
                                                        'North Macedonia': 234,
                                                        'Turkey': 192},
                                              'len': 1110},
-                                  'capital': { 'coord': '37 59 N, 23 44 E',
-                                               'name': 'Athens',
-                                               'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
+                                  'capital': {'coord': '37 59 N, 23 44 E', 'name': 'Athens', 'time_diff': 'UTC+2'},
                                   'cmt': 'For its internal communications, the European Union recommends the use of '
                                          'the code EL in lieu of the ISO 3166-2 code of GR',
-                                  'coast': {'bord': {}, 'len': 13676},
+                                  'coast': 13676,
                                   'coord': ['39 00 N, 22 00 E'],
                                   'popul': 10607051,
-                                  'ports': { 'container port': 'Piraeus (4,145,079)',
-                                             'major seaport': 'Aspropyrgos, Pachi, Piraeus, Thessaloniki'},
+                                  'ports': { 'container': 'Piraeus (4,145,079) (2017)',
+                                             'seaport': 'Aspropyrgos, Pachi, Piraeus, Thessaloniki'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GR',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gr.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/greece'},
                          'nameset': [ 'ellas or ellada',
                                       'elliniki dimokratia',
                                       'greece',
@@ -4887,6 +5306,14 @@ P1_CNTR = \
                                             'satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian '
                                             'Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region)',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 3961864, 'fix': 5080386, 'internet': 7783381, 'mob': 12070571},
                                   'tld': '.gr',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.gr'}},
@@ -4916,16 +5343,19 @@ P1_CNTR = \
                                      'bound': {'bord': {}, 'len': 0},
                                      'capital': { 'coord': '64 11 N, 51 45 W',
                                                   'name': 'Nuuk (Godthaab)',
-                                                  'time_diff': 'UTC-3 (2 hours ahead of Washington, DC, during '
-                                                               'Standard Time)'},
-                                     'coast': {'bord': {}, 'len': 44087},
+                                                  'time_diff': 'UTC-3'},
+                                     'coast': 44087,
                                      'coord': ['72 00 N, 40 00 W'],
                                      'popul': 57616,
-                                     'ports': {'major seaport': 'Sisimiut'},
+                                     'ports': {'seaport': 'Sisimiut'},
                                      'region': 'Arctic Region',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GL',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gl.html'},
-                            'nameset': ['greenland', 'kalaallit nunaat'],
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/greenland'},
+                            'nameset': [ 'greenland',
+                                         'kalaallit nunaat',
+                                         'kalaallit nunaat note: named by norwegian adventurer erik thorvaldsson',
+                                         'kalaallit nunaat note: named by norwegian adventurer erik thorvaldsson (erik '
+                                         'the red) in a.d. 985 in order to entice settlers to the island'],
                             'tel': { 'code': '299',
                                      'domestic': [ '13 per 100 for fixed-line subscriptions and 115 per 100 for '
                                                    'mobile-cellular',
@@ -4946,6 +5376,14 @@ P1_CNTR = \
                                                'satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom '
                                                'GE-2 (all Atlantic Ocean))',
                                                2019],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 13192, 'fix': 7259, 'internet': 40084, 'mob': 66009},
                                      'tld': '.gl',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.gl'}},
@@ -4961,15 +5399,14 @@ P1_CNTR = \
                                    'bound': {'bord': {}, 'len': 0},
                                    'capital': { 'coord': '12 03 N, 61 45 W',
                                                 'name': "Saint George's",
-                                                'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 121},
+                                                'time_diff': 'UTC-4'},
+                                   'coast': 121,
                                    'coord': ['12 07 N, 61 40 W'],
                                    'popul': 113094,
-                                   'ports': {'major seaport': "Saint George's"},
+                                   'ports': {'seaport': "Saint George's"},
                                    'region': 'Central America and the Caribbean',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GD',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gj.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/grenada'},
                           'nameset': ['grenada'],
                           'tel': { 'code': '1473',
                                    'domestic': [ 'interisland VHF and UHF radiotelephone links',
@@ -4987,6 +5424,14 @@ P1_CNTR = \
                                              'SHF radiotelephone links to Trinidad and Tobago and Saint Vincent',
                                              'VHF and UHF radio links to Trinidad',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 22235, 'fix': 33011, 'internet': 66281, 'mob': 115008},
                                    'tld': '.gd',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.gd'}},
@@ -5013,15 +5458,14 @@ P1_CNTR = \
                                 'bound': {'bord': {}, 'len': 0},
                                 'capital': { 'coord': '13 28 N, 144 44 E',
                                              'name': 'Hagatna (Agana)',
-                                             'time_diff': 'UTC+10 (15 hours ahead of Washington, DC, during Standard '
-                                                          'Time)'},
-                                'coast': {'bord': {}, 'len': 125},
+                                             'time_diff': 'UTC+10'},
+                                'coast': 125,
                                 'coord': ['13 28 N, 144 47 E'],
                                 'popul': 168485,
-                                'ports': {'major seaport': 'Apra Harbor'},
+                                'ports': {'seaport': 'Apra Harbor'},
                                 'region': 'Oceania',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GU',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gq.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guam'},
                        'nameset': ['guahan', 'guam', 'territory of guam', 'the territory of guam'],
                        'tel': { 'code': '1671',
                                 'domestic': [ 'three major companies provide both fixed-line and mobile services, as '
@@ -5037,6 +5481,14 @@ P1_CNTR = \
                                           'transpacific communications hub for major carriers linking the US and Asia)',
                                           'satellite earth stations - 2 Intelsat (Pacific Ocean)',
                                           2019],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'fix': 70639, 'internet': 135073, 'mob': 181000},
                                 'tld': '.gu',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.gu'}},
@@ -5072,15 +5524,14 @@ P1_CNTR = \
                                                 'len': 1667},
                                      'capital': { 'coord': '14 37 N, 90 31 W',
                                                   'name': 'Guatemala City',
-                                                  'time_diff': 'UTC-6 (1 hour behind Washington, DC, during Standard '
-                                                               'Time)'},
-                                     'coast': {'bord': {}, 'len': 400},
+                                                  'time_diff': 'UTC-6'},
+                                     'coast': 400,
                                      'coord': ['15 30 N, 90 15 W'],
                                      'popul': 17153288,
-                                     'ports': {'major seaport': 'Puerto Quetzal, Santo Tomas de Castilla'},
+                                     'ports': {'seaport': 'Puerto Quetzal, Santo Tomas de Castilla'},
                                      'region': 'Central America and the Caribbean',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GT',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gt.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guatemala'},
                             'nameset': [ 'guatemala',
                                          'republic of guatemala',
                                          'republica de guatemala',
@@ -5109,6 +5560,14 @@ P1_CNTR = \
                                                'connected to Central American Microwave System',
                                                'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                2019],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 506000, 'fix': 1894179, 'internet': 10777827, 'mob': 20026347},
                                      'tld': '.gt',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.gt'}},
@@ -5119,20 +5578,19 @@ P1_CNTR = \
                  'url': 'https://en.wikipedia.org/wiki/Guatemala'},
   'Guernsey': { 'cc2': 'GG',
                 'dep': 'GB',
-                'infos': { 'codes': {'cc3': 'GGY', 'ccn': '831', 'gec': 'GK', 'stan': 'UK'},
+                'infos': { 'codes': {'cc3': 'GGY', 'ccn': '831', 'gec': 'GK'},
                            'geo': { 'airports': 2,
                                     'bound': {'bord': {}, 'len': 0},
                                     'capital': { 'coord': '49 27 N, 2 32 W',
                                                  'name': 'Saint Peter Port',
-                                                 'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}, 'len': 50},
+                                                 'time_diff': 'UTC 0'},
+                                    'coast': 50,
                                     'coord': ['49 28 N, 2 35 W'],
                                     'popul': 67052,
-                                    'ports': {'major seaport': 'Braye Bay, Saint Peter Port'},
+                                    'ports': {'seaport': 'Braye Bay, Saint Peter Port'},
                                     'region': 'Europe',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GG',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gk.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guernsey'},
                            'nameset': ['bailiwick of guernsey', 'guernsey', 'the bailiwick of guernsey'],
                            'tel': { 'code': '44',
                                     'domestic': ['fixed-line 60 per 100 and mobile-cellular 113 per 100 persons', 2019],
@@ -5143,6 +5601,14 @@ P1_CNTR = \
                                     'intl': [ 'landing points for Guernsey-Jersey, HUGO, INGRID, Channel Islands -9 '
                                               'Liberty and UK-Channel Islands-7 submarine cable to UK and France',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'fix': 36547, 'internet': 55050, 'mob': 71249},
                                     'tld': '.gg',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.gg'}},
@@ -5162,17 +5628,14 @@ P1_CNTR = \
                                                        'Senegal': 363,
                                                        'Sierra Leone': 794},
                                              'len': 4046},
-                                  'capital': { 'coord': '9 30 N, 13 42 W',
-                                               'name': 'Conakry',
-                                               'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 320},
+                                  'capital': {'coord': '9 30 N, 13 42 W', 'name': 'Conakry', 'time_diff': 'UTC 0'},
+                                  'coast': 320,
                                   'coord': ['11 00 N, 10 00 W'],
                                   'popul': 12527440,
-                                  'ports': {'major seaport': 'Conakry, Kamsar'},
+                                  'ports': {'seaport': 'Conakry, Kamsar'},
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GN',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gv.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guinea'},
                          'nameset': [ 'guinea',
                                       'guinee',
                                       'republic of guinea',
@@ -5197,6 +5660,14 @@ P1_CNTR = \
                                             'and South Africa and Europe',
                                             'satellite earth station - 1 Intelsat (Atlantic Ocean',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 1213, 'internet': 2133974, 'mob': 12283911},
                                   'tld': '.gn',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.gn'}},
@@ -5212,15 +5683,14 @@ P1_CNTR = \
                                          'bound': {'bord': {'Guinea': 421, 'Senegal': 341}, 'len': 762},
                                          'capital': { 'coord': '11 51 N, 15 35 W',
                                                       'name': 'Bissau',
-                                                      'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during '
-                                                                   'Standard Time)'},
-                                         'coast': {'bord': {}, 'len': 350},
+                                                      'time_diff': 'UTC 0'},
+                                         'coast': 350,
                                          'coord': ['12 00 N, 15 00 W'],
                                          'popul': 1927104,
-                                         'ports': {'major seaport': 'Bissau, Buba, Cacheu, Farim'},
+                                         'ports': {'seaport': 'Bissau, Buba, Cacheu, Farim'},
                                          'region': 'Africa',
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GW',
-                                         'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_pu.html'},
+                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guinea-bissau'},
                                 'nameset': [ 'guine-bissau',
                                              'guinea-bissau',
                                              'republic of guinea-bissau',
@@ -5242,6 +5712,14 @@ P1_CNTR = \
                                          'intl': [ 'ACE submarine cable connecting Guinea-Bissau with 20 landing '
                                                    'points in Western and South Africa and Europe',
                                                    2019],
+                                         'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                   'production and supply chains globally',
+                                                   'consumer spending on telecom devices and services has also slowed '
+                                                   "due to the pandemic's effect on economies worldwide",
+                                                   'overall progress towards improvements in all facets of the telecom '
+                                                   'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                   'satellite - has moderated',
+                                                   0],
                                          'subs': {'bb': 1204, 'internet': 72047, 'mob': 1555961},
                                          'tld': '.gw',
                                          'url_tld': 'https://en.wikipedia.org/wiki/.gw'}},
@@ -5255,17 +5733,14 @@ P1_CNTR = \
               'infos': { 'codes': {'cc3': 'GUY', 'ccn': '328', 'gec': 'GY', 'stan': 'GUY'},
                          'geo': { 'airports': 117,
                                   'bound': {'bord': {'Brazil': 1308, 'Suriname': 836, 'Venezuela': 789}, 'len': 2933},
-                                  'capital': { 'coord': '6 48 N, 58 09 W',
-                                               'name': 'Georgetown',
-                                               'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 459},
+                                  'capital': {'coord': '6 48 N, 58 09 W', 'name': 'Georgetown', 'time_diff': 'UTC-4'},
+                                  'coast': 459,
                                   'coord': ['5 00 N, 59 00 W'],
                                   'popul': 750204,
-                                  'ports': {'major seaport': 'Georgetown'},
+                                  'ports': {'seaport': 'Georgetown'},
                                   'region': 'South America',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GY',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_gy.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guyana'},
                          'nameset': [ 'co-operative republic of guyana',
                                       'cooperative republic of guyana',
                                       'guyana',
@@ -5288,6 +5763,14 @@ P1_CNTR = \
                                             'Caribbean',
                                             'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 64889, 'fix': 130497, 'internet': 276498, 'mob': 617998},
                                   'tld': '.gy',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.gy'}},
@@ -5303,14 +5786,14 @@ P1_CNTR = \
                                  'bound': {'bord': {'Dominican Republic': 376}, 'len': 376},
                                  'capital': { 'coord': '18 32 N, 72 20 W',
                                               'name': 'Port-au-Prince',
-                                              'time_diff': 'UTC-5 (same time as Washington, DC, during Standard Time)'},
-                                 'coast': {'bord': {}, 'len': 1771},
+                                              'time_diff': 'UTC-5'},
+                                 'coast': 1771,
                                  'coord': ['19 00 N, 72 25 W'],
                                  'popul': 11067777,
-                                 'ports': {'major seaport': 'Cap-Haitien, Gonaives, Jacmel, Port-au-Prince'},
+                                 'ports': {'seaport': 'Cap-Haitien, Gonaives, Jacmel, Port-au-Prince'},
                                  'region': 'Central America and the Caribbean',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HT',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ha.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/haiti'},
                         'nameset': [ 'haiti',
                                      'haiti/ayiti',
                                      'republic of haiti',
@@ -5334,6 +5817,14 @@ P1_CNTR = \
                                            'in the Bahamas and Dominican Republic',
                                            'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 31100, 'fix': 5464, 'internet': 3503006, 'mob': 6287411},
                                  'tld': '.ht',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.ht'}},
@@ -5346,11 +5837,11 @@ P1_CNTR = \
                                          'dep': 'AU',
                                          'infos': { 'codes': {'cc3': 'HMD', 'ccn': '334', 'gec': 'HM', 'stan': 'HMD'},
                                                     'geo': { 'bound': {'bord': {}, 'len': 0},
-                                                             'coast': {'bord': {}, 'len': 101},
+                                                             'coast': 101,
                                                              'coord': ['53 06 S, 72 31 E'],
                                                              'region': 'Antarctic Region',
                                                              'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HM',
-                                                             'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_hm.html'},
+                                                             'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/heard-island-and-mcdonald-islands'},
                                                     'nameset': [ 'heard island and mcdonald islands',
                                                                  'territory of heard island and mcdonald islands',
                                                                  'the territory of heard island and mcdonald islands'],
@@ -5374,15 +5865,14 @@ P1_CNTR = \
                                                          'of Honduras; however, virtually all governmental '
                                                          'institutions are on the Tegucigalpa side, which in practical '
                                                          'terms makes Tegucigalpa the capital',
-                                                 'time_diff': 'UTC-6 (1 hour behind Washington, DC during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}},
+                                                 'time_diff': 'UTC-6'},
+                                    'coast': 823,
                                     'coord': ['15 00 N, 86 30 W'],
                                     'popul': 9235340,
-                                    'ports': {'major seaport': 'La Ceiba, Puerto Cortes, San Lorenzo, Tela'},
+                                    'ports': {'seaport': 'La Ceiba, Puerto Cortes, San Lorenzo, Tela'},
                                     'region': 'Central America and the Caribbean',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HN',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ho.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/honduras'},
                            'nameset': [ 'honduras',
                                         'republic of honduras',
                                         'republica de honduras',
@@ -5408,6 +5898,14 @@ P1_CNTR = \
                                               'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                               'connected to Central American Microwave System',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 354861, 'fix': 458696, 'internet': 2853505, 'mob': 6633309},
                                     'tld': '.hn',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.hn'}},
@@ -5420,15 +5918,14 @@ P1_CNTR = \
                  'dep': None,
                  'infos': { 'codes': {'cc3': 'HKG', 'ccn': '344', 'gec': 'HK', 'stan': 'HKG'},
                             'geo': { 'airports': 2,
-                                     'bound': {'bord': {}, 'len': 33},
-                                     'coast': {'bord': {}, 'len': 733},
+                                     'bound': {'bord': {'China': 33}, 'len': 33},
+                                     'coast': 733,
                                      'coord': ['22 15 N, 114 10 E'],
                                      'popul': 7249907,
-                                     'ports': { 'container port': 'Hong Kong (20,770,000)',
-                                                'major seaport': 'Hong Kong'},
+                                     'ports': {'container': 'Hong Kong (20,770,000) (2017)', 'seaport': 'Hong Kong'},
                                      'region': 'Southeast Asia',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HK',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_hk.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/hong-kong'},
                             'nameset': [ 'heung kong',
                                          'heung kong (eitel/dyer-ball)',
                                          'heung kong takpit hangching ku',
@@ -5460,6 +5957,14 @@ P1_CNTR = \
                                                'Ocean)',
                                                'coaxial cable to Guangzhou, China',
                                                2019],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 2714679, 'fix': 3942605, 'internet': 6450167, 'mob': 20868827},
                                      'tld': '.hk',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.hk'}},
@@ -5515,16 +6020,12 @@ P1_CNTR = \
                                                         'Slovenia': 94,
                                                         'Ukraine': 128},
                                               'len': 2106},
-                                   'capital': { 'coord': '47 30 N, 19 05 E',
-                                                'name': 'Budapest',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                   'capital': {'coord': '47 30 N, 19 05 E', 'name': 'Budapest', 'time_diff': 'UTC+1'},
                                    'coord': ['47 00 N, 20 00 E'],
                                    'popul': 9771827,
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HU',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_hu.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/hungary'},
                           'nameset': ['hungary', 'magyarorszag'],
                           'tel': { 'code': '36',
                                    'domestic': [ 'competition among mobile-cellular service providers has led to a '
@@ -5543,7 +6044,15 @@ P1_CNTR = \
                                              'satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean '
                                              'regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of '
                                              'ground terminals',
-                                             2000],
+                                             0],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 3079549, 'fix': 3084836, 'internet': 7474413, 'mob': 10394172},
                                    'tld': '.hu',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.hu'}},
@@ -5557,17 +6066,14 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'ISL', 'ccn': '352', 'gec': 'IC', 'stan': 'ISL'},
                           'geo': { 'airports': 96,
                                    'bound': {'bord': {}, 'len': 0},
-                                   'capital': { 'coord': '64 09 N, 21 57 W',
-                                                'name': 'Reykjavik',
-                                                'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 4970},
+                                   'capital': {'coord': '64 09 N, 21 57 W', 'name': 'Reykjavik', 'time_diff': 'UTC 0'},
+                                   'coast': 4970,
                                    'coord': ['65 00 N, 18 00 W'],
                                    'popul': 350734,
-                                   'ports': {'major seaport': 'Grundartangi, Hafnarfjordur, Reykjavik'},
+                                   'ports': {'seaport': 'Grundartangi, Hafnarfjordur, Reykjavik'},
                                    'region': 'Arctic Region',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IS',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ic.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/iceland'},
                           'nameset': ['iceland', 'island', 'lydveldid island', 'republic of iceland'],
                           'tel': { 'code': '354',
                                    'domestic': [ 'liberalization of the telecommunications sector beginning in the '
@@ -5591,6 +6097,14 @@ P1_CNTR = \
                                              'note - Iceland shares the Inmarsat earth station with the other Nordic '
                                              'countries (Denmark, Finland, Norway, and Sweden)',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 136556, 'fix': 128597, 'internet': 340117, 'mob': 423390},
                                    'tld': '.is',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.is'}},
@@ -5624,20 +6138,17 @@ P1_CNTR = \
                                                       'Nepal': 1770,
                                                       'Pakistan': 3190},
                                             'len': 13888},
-                                 'capital': { 'coord': '28 36 N, 77 12 E',
-                                              'name': 'New Delhi',
-                                              'time_diff': 'UTC+5.5 (10.5 hours ahead of Washington, DC, during '
-                                                           'Standard Time)'},
-                                 'coast': {'bord': {}, 'len': 7000},
+                                 'capital': {'coord': '28 36 N, 77 12 E', 'name': 'New Delhi', 'time_diff': 'UTC+5.5'},
+                                 'coast': 7000,
                                  'coord': ['20 00 N, 77 00 E'],
                                  'popul': 1326093247,
-                                 'ports': { 'container port': 'Chennai (1,549,457), Jawaharal Nehru Port (4,833,397), '
-                                                              'Mundra (4,240,260)',
-                                            'major seaport': 'Chennai, Jawaharal Nehru Port, Kandla, Kolkata '
-                                                             '(Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam'},
+                                 'ports': { 'container': 'Chennai (1,549,457), Jawaharal Nehru Port (4,833,397), '
+                                                         'Mundra (4,240,260) (2017)',
+                                            'seaport': 'Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), '
+                                                       'Mumbai (Bombay), Sikka, Vishakhapatnam'},
                                  'region': 'Asia',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IN',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_in.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/india'},
                         'nameset': [ 'india',
                                      'india/bharat',
                                      'india/bharatiya ganarajya',
@@ -5678,6 +6189,14 @@ P1_CNTR = \
                                            'satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat '
                                            '(Indian Ocean region',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 18170000, 'fix': 20198012, 'internet': 446759327, 'mob': 1105250941},
                                  'tld': '.in',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.in'}},
@@ -6010,21 +6529,17 @@ P1_CNTR = \
                             'geo': { 'airports': 673,
                                      'bound': { 'bord': {'East Timor': 253, 'Malaysia': 1881, 'Papua New Guinea': 824},
                                                 'len': 2958},
-                                     'capital': { 'coord': '6 10 S, 106 49 E',
-                                                  'name': 'Jakarta',
-                                                  'time_diff': 'UTC+7 (12 hours ahead of Washington, DC, during '
-                                                               'Standard Time)'},
-                                     'coast': {'bord': {}, 'len': 54716},
+                                     'capital': {'coord': '6 10 S, 106 49 E', 'name': 'Jakarta', 'time_diff': 'UTC+7'},
+                                     'coast': 54716,
                                      'coord': ['5 00 S, 120 00 E'],
                                      'popul': 267026366,
-                                     'ports': { 'container port': 'Tanjung Perak (3,553,370), Tanjung Priok '
-                                                                  '(6,090,000)',
-                                                'major seaport': 'Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, '
-                                                                 'Palembang, Panjang, Sungai Pakning, Tanjung Perak, '
-                                                                 'Tanjung Priok'},
+                                     'ports': { 'container': 'Tanjung Perak (3,553,370), Tanjung Priok (6,090,000) '
+                                                             '(2017)',
+                                                'seaport': 'Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, '
+                                                           'Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok'},
                                      'region': 'Southeast Asia',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ID',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_id.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/indonesia'},
                             'nameset': [ 'indonesia',
                                          'republic of indonesia',
                                          'republik indonesia',
@@ -6058,6 +6573,14 @@ P1_CNTR = \
                                                'satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific '
                                                'Ocean)',
                                                2019],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 8874116, 'fix': 9272754, 'internet': 104563108, 'mob': 337766682},
                                      'tld': '.id',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.id'}},
@@ -6093,18 +6616,15 @@ P1_CNTR = \
                                                      'Turkey': 534,
                                                      'Turkmenistan': 1148},
                                            'len': 5894},
-                                'capital': { 'coord': '35 42 N, 51 25 E',
-                                             'name': 'Tehran',
-                                             'time_diff': 'UTC+3.5 (8.5 hours ahead of Washington, DC, during Standard '
-                                                          'Time)'},
-                                'coast': {'bord': {}},
+                                'capital': {'coord': '35 42 N, 51 25 E', 'name': 'Tehran', 'time_diff': 'UTC+3.5'},
+                                'coast': 2440,
                                 'coord': ['32 00 N, 53 00 E'],
                                 'popul': 84923314,
-                                'ports': { 'container port': 'Bandar Abbas (2,607,000)',
-                                           'major seaport': 'Bandar-e Asaluyeh, Bandar Abbas, Bandar Emam'},
+                                'ports': { 'container': 'Bandar Abbas (2,607,000) (2017)',
+                                           'seaport': 'Bandar-e Asaluyeh, Bandar Abbas, Bandar Emam'},
                                 'region': 'Middle East',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IR',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ir.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/iran'},
                        'nameset': [ 'iran',
                                     'islamic republic of iran',
                                     'jomhuri-ye eslami-ye iran',
@@ -6135,6 +6655,14 @@ P1_CNTR = \
                                           'Afghanistan, Turkmenistan, Syria, Kuwait, Tajikistan, and Uzbekistan',
                                           'satellite earth stations - 13 (9 Intelsat and 4 Inmarsat)',
                                           2019],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'bb': 9806123, 'fix': 29330454, 'internet': 58117322, 'mob': 119598034},
                                 'tld': '.ir',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.ir'}},
@@ -6172,16 +6700,13 @@ P1_CNTR = \
                                                      'Syria': 599,
                                                      'Turkey': 367},
                                            'len': 3809},
-                                'capital': { 'coord': '33 20 N, 44 24 E',
-                                             'name': 'Baghdad',
-                                             'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                          'Time)'},
-                                'coast': {'bord': {}, 'len': 58},
+                                'capital': {'coord': '33 20 N, 44 24 E', 'name': 'Baghdad', 'time_diff': 'UTC+3'},
+                                'coast': 58,
                                 'coord': ['33 00 N, 44 00 E'],
                                 'popul': 38872655,
                                 'region': 'Middle East',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IQ',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_iz.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/iraq'},
                        'nameset': [ 'al iraq/eraq',
                                     'iraq',
                                     'jumhuriyat al-iraq/komar-i eraq',
@@ -6213,6 +6738,14 @@ P1_CNTR = \
                                           'local microwave radio relay connects border regions to Jordan, Kuwait, '
                                           'Syria, and Turkey',
                                           2019],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'bb': 4492328, 'fix': 2678046, 'internet': 18364390, 'mob': 36092758},
                                 'tld': '.iq',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.iq'}},
@@ -6248,26 +6781,31 @@ P1_CNTR = \
             'url': 'https://en.wikipedia.org/wiki/Iraq'},
   'Isle of Man': { 'cc2': 'IM',
                    'dep': 'GB',
-                   'infos': { 'codes': {'cc3': 'IMN', 'ccn': '833', 'gec': 'IM', 'stan': 'UK'},
+                   'infos': { 'codes': {'cc3': 'IMN', 'ccn': '833', 'gec': 'IM'},
                               'geo': { 'airports': 1,
                                        'bound': {'bord': {}, 'len': 0},
-                                       'capital': { 'coord': '54 09 N, 4 29 W',
-                                                    'name': 'Douglas',
-                                                    'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
-                                       'coast': {'bord': {}, 'len': 160},
+                                       'capital': {'coord': '54 09 N, 4 29 W', 'name': 'Douglas', 'time_diff': 'UTC 0'},
+                                       'coast': 160,
                                        'coord': ['54 15 N, 4 30 W'],
                                        'popul': 90499,
-                                       'ports': {'major seaport': 'Douglas, Ramsey'},
+                                       'ports': {'seaport': 'Douglas, Ramsey'},
                                        'region': 'Europe',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IM',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_im.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/isle-of-man'},
                               'nameset': ['isle of man', 'the isle of man'],
                               'tel': { 'code': '44',
-                                       'domestic': ['landline, telefax, mobile cellular telephone system', 2000],
+                                       'domestic': ['landline, telefax, mobile cellular telephone system', 0],
                                        'intl': [ 'fiber-optic cable, microwave radio relay, satellite earth station, '
                                                  'submarine cable',
-                                                 2000],
+                                                 0],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'tld': '.im',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.im'}},
                    'mcc': ['234'],
@@ -6287,19 +6825,18 @@ P1_CNTR = \
                                                        'West Bank': 278},
                                              'len': 1065},
                                   'capital': { 'coord': '31 46 N, 35 14 E',
-                                               'name': 'Jerusalem; note - the US recognized Jerusalem as Israel’s '
-                                                       'capital in December 2017 without taking a position on the '
-                                                       'specific boundaries of Israeli sovereignty',
-                                               'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 273},
+                                               'name': 'Jerusalem; note - the US recognized Jerusalem as '
+                                                       'Israel&rsquo;s capital in December 2017 without taking a '
+                                                       'position on the specific boundaries of Israeli sovereignty',
+                                               'time_diff': 'UTC+2'},
+                                  'coast': 273,
                                   'coord': ['31 30 N, 34 45 E'],
                                   'popul': 8675475,
-                                  'ports': { 'container port': 'Ashdod (1,443,000)',
-                                             'major seaport': 'Ashdod, Elat (Eilat), Hadera, Haifa'},
+                                  'ports': { 'container': 'Ashdod (1,443,000) (2016)',
+                                             'seaport': 'Ashdod, Elat (Eilat), Hadera, Haifa'},
                                   'region': 'Middle East',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IL',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_is.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/israel'},
                          'nameset': [ 'israel',
                                       "medinat yisra'el",
                                       'state of israel',
@@ -6326,6 +6863,14 @@ P1_CNTR = \
                                             'satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian '
                                             'Ocean)',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 2410000, 'fix': 3050693, 'internet': 6873037, 'mob': 10839024},
                                   'tld': '.il',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.il'}},
@@ -6372,20 +6917,17 @@ P1_CNTR = \
                                                       'Slovenia': 218,
                                                       'Switzerland': 698,
                                                       'Vatican': 3},
-                                            'len': 1836},
-                                 'capital': { 'coord': '41 54 N, 12 29 E',
-                                              'name': 'Rome',
-                                              'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 7600},
+                                            'len': 1836,
+                                            'note': 'border with Holy See (Vatican City)'},
+                                 'capital': {'coord': '41 54 N, 12 29 E', 'name': 'Rome', 'time_diff': 'UTC+1'},
+                                 'coast': 7600,
                                  'coord': ['42 50 N, 12 50 E'],
                                  'popul': 62402659,
-                                 'ports': { 'container port': 'Genoa (2,622,200), Gioia Tauro (2,448,600)',
-                                            'major seaport': 'Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, '
-                                                             'Venice'},
+                                 'ports': { 'container': 'Genoa (2,622,200), Gioia Tauro (2,448,600) (2017)',
+                                            'seaport': 'Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice'},
                                  'region': 'Europe',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IT',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_it.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/italy'},
                         'nameset': [ 'italia',
                                      'italian republic',
                                      'italy',
@@ -6412,6 +6954,14 @@ P1_CNTR = \
                                            'satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for '
                                            'Atlantic Ocean and 2 for Indian Ocean)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 17060505, 'fix': 20196475, 'internet': 46305301, 'mob': 82955151},
                                  'tld': '.it',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.it'}},
@@ -6465,15 +7015,14 @@ P1_CNTR = \
                                                             'the administrative capital as well as the officially '
                                                             'designated economic capital; the US, like other '
                                                             'countries, maintains its Embassy in Abidjan',
-                                                    'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
-                                       'coast': {'bord': {}, 'len': 515},
+                                                    'time_diff': 'UTC 0'},
+                                       'coast': 515,
                                        'coord': ['8 00 N, 5 00 W'],
                                        'popul': 27481086,
-                                       'ports': {'major seaport': 'Abidjan, San-Pedro'},
+                                       'ports': {'seaport': 'Abidjan, San-Pedro'},
                                        'region': 'Africa',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CI',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_iv.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cote-divoire'},
                               'nameset': [ "cote d'ivoire",
                                            "côte d'ivoire",
                                            'ivory coast',
@@ -6489,7 +7038,8 @@ P1_CNTR = \
                                        'general': [ 'strongest sector in the overall market is the mobile sector',
                                                     'fixed internet and broadband sectors have remained underdeveloped',
                                                     'country 90% digitalized',
-                                                    "Côte d'Ivoire continues to benefit from strong economic growth",
+                                                    'C&ocirc',
+                                                    "te d'Ivoire continues to benefit from strong economic growth",
                                                     'progress has been made in building out the national backbone '
                                                     'network and connecting in 2019 to the MainOne submarine cable',
                                                     'this development puts the country in a better position to develop '
@@ -6502,6 +7052,14 @@ P1_CNTR = \
                                                  'satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian '
                                                  'Ocean)',
                                                  2019],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 175918, 'fix': 284799, 'internet': 12295204, 'mob': 39049743},
                                        'tld': '.ci',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.ci'}},
@@ -6515,19 +7073,16 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'JAM', 'ccn': '388', 'gec': 'JM', 'stan': 'JAM'},
                           'geo': { 'airports': 28,
                                    'bound': {'bord': {}, 'len': 0},
-                                   'capital': { 'coord': '18 00 N, 76 48 W',
-                                                'name': 'Kingston',
-                                                'time_diff': 'UTC-5 (same time as Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 1022},
+                                   'capital': {'coord': '18 00 N, 76 48 W', 'name': 'Kingston', 'time_diff': 'UTC-5'},
+                                   'coast': 1022,
                                    'coord': ['18 15 N, 77 30 W'],
                                    'popul': 2808570,
-                                   'ports': { 'container port': 'Kingston (1,681,706)',
-                                              'major seaport': 'Discovery Bay (Port Rhoades), Kingston, Montego Bay, '
-                                                               'Port Antonio, Port Esquivel, Port Kaiser, Rocky Point'},
+                                   'ports': { 'container': 'Kingston (1,681,706) (2017)',
+                                              'seaport': 'Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port '
+                                                         'Antonio, Port Esquivel, Port Kaiser, Rocky Point'},
                                    'region': 'Central America and the Caribbean',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:JM',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_jm.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/jamaica'},
                           'nameset': ['jamaica'],
                           'tel': { 'code': '1876',
                                    'domestic': [ 'while the number of fixed-lines, 14 per 100, subscriptions has '
@@ -6545,6 +7100,14 @@ P1_CNTR = \
                                              'South America, parts of the Caribbean, Central America and the US',
                                              'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 284756, 'fix': 379420, 'internet': 1548618, 'mob': 2882469},
                                    'tld': '.jm',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.jm'}},
@@ -6558,20 +7121,17 @@ P1_CNTR = \
              'infos': { 'codes': {'cc3': 'JPN', 'ccn': '392', 'gec': 'JA', 'stan': 'JPN'},
                         'geo': { 'airports': 175,
                                  'bound': {'bord': {}, 'len': 0},
-                                 'capital': { 'coord': '35 41 N, 139 45 E',
-                                              'name': 'Tokyo',
-                                              'time_diff': 'UTC+9 (14 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 29751},
+                                 'capital': {'coord': '35 41 N, 139 45 E', 'name': 'Tokyo', 'time_diff': 'UTC+9'},
+                                 'coast': 29751,
                                  'coord': ['36 00 N, 138 00 E'],
                                  'popul': 125507472,
-                                 'ports': { 'container port': 'Kobe (2,924,179), Nagoya (2,784,109), Osaka '
-                                                              '(2,326,852), Tokyo (4,500,156), Yokohama (2,926,698)',
-                                            'major seaport': 'Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, '
-                                                             'Tokyo, Tomakomai, Yokohama'},
+                                 'ports': { 'container': 'Kobe (2,924,179), Nagoya (2,784,109), Osaka (2,326,852), '
+                                                         'Tokyo (4,500,156), Yokohama (2,926,698) (2017)',
+                                            'seaport': 'Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, '
+                                                       'Tomakomai, Yokohama'},
                                  'region': 'Asia',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:JP',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ja.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/japan'},
                         'nameset': ['japan', 'nihon-koku/nippon-koku', 'nihon/nippon'],
                         'tel': { 'code': '81',
                                  'domestic': [ 'high level of modern technology and excellent service of every kind',
@@ -6601,6 +7161,14 @@ P1_CNTR = \
                                            'Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean '
                                            'regions), and 8 SkyPerfect JSAT',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 41496293, 'fix': 62775494, 'internet': 106725643, 'mob': 175187425},
                                  'tld': '.jp',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.jp'}},
@@ -6732,20 +7300,17 @@ P1_CNTR = \
              'url': 'https://en.wikipedia.org/wiki/Japan'},
   'Jersey': { 'cc2': 'JE',
               'dep': 'GB',
-              'infos': { 'codes': {'cc3': 'JEY', 'ccn': '832', 'gec': 'JE', 'stan': 'UK'},
+              'infos': { 'codes': {'cc3': 'JEY', 'ccn': '832', 'gec': 'JE'},
                          'geo': { 'airports': 1,
                                   'bound': {'bord': {}, 'len': 0},
-                                  'capital': { 'coord': '49 11 N, 2 06 W',
-                                               'name': 'Saint Helier',
-                                               'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 70},
+                                  'capital': {'coord': '49 11 N, 2 06 W', 'name': 'Saint Helier', 'time_diff': 'UTC 0'},
+                                  'coast': 70,
                                   'coord': ['49 15 N, 2 10 W'],
                                   'popul': 101073,
-                                  'ports': {'major seaport': 'Gorey, Saint Aubin, Saint Helier'},
+                                  'ports': {'seaport': 'Gorey, Saint Aubin, Saint Helier'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:JE',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_je.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/jersey'},
                          'nameset': ['bailiwick of jersey', 'jersey', 'the bailiwick of jersey'],
                          'tel': { 'code': '44',
                                   'domestic': [ 'fixed-line and mobile-cellular services widely available',
@@ -6756,6 +7321,14 @@ P1_CNTR = \
                                             'Guernsey-Jersey-4, submarine cable connectivity to Guernsey, the UK, and '
                                             'France',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'fix': 55938, 'internet': 58000, 'mob': 122668},
                                   'tld': '.je',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.je'}},
@@ -6774,17 +7347,14 @@ P1_CNTR = \
                                                        'Syria': 379,
                                                        'West Bank': 148},
                                              'len': 1744},
-                                  'capital': { 'coord': '31 57 N, 35 56 E',
-                                               'name': 'Amman',
-                                               'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 26},
+                                  'capital': {'coord': '31 57 N, 35 56 E', 'name': 'Amman', 'time_diff': 'UTC+2'},
+                                  'coast': 26,
                                   'coord': ['31 00 N, 36 00 E'],
                                   'popul': 10820644,
-                                  'ports': {'major seaport': "Al 'Aqabah"},
+                                  'ports': {'seaport': "Al 'Aqabah"},
                                   'region': 'Middle East',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:JO',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_jo.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/jordan'},
                          'nameset': [ 'al mamlakah al urduniyah al hashimiyah',
                                       'al urdun',
                                       'hashemite kingdom of jordan',
@@ -6814,6 +7384,14 @@ P1_CNTR = \
                                             'satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and '
                                             'maritime Inmarsat terminals',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 399596, 'fix': 375576, 'internet': 6985174, 'mob': 8215735},
                                   'tld': '.jo',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.jo'}},
@@ -6834,15 +7412,13 @@ P1_CNTR = \
                                                  'len': 13364},
                                       'capital': { 'coord': '51 10 N, 71 25 E',
                                                    'name': 'Nur-Sultan',
-                                                   'time_diff': 'UTC+6 (11 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}},
+                                                   'time_diff': 'UTC+6'},
                                       'coord': ['48 00 N, 68 00 E'],
                                       'popul': 19091949,
-                                      'ports': {'major seaport': "Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)"},
+                                      'ports': {'seaport': "Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)"},
                                       'region': 'Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KZ',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_kz.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kazakhstan'},
                              'nameset': [ 'kazakhstan',
                                           'qazaqstan',
                                           'qazaqstan respublikasy',
@@ -6864,7 +7440,15 @@ P1_CNTR = \
                                                 'carried by landline and microwave radio relay and with other '
                                                 'countries by satellite and by the TAE fiber-optic cable',
                                                 'satellite earth stations - 2 Intelsat',
-                                                2000],
+                                                0],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 2462900, 'fix': 3275584, 'internet': 14789448, 'mob': 26223595},
                                       'tld': '.kz',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.kz'}},
@@ -6883,17 +7467,14 @@ P1_CNTR = \
                                                       'Tanzania': 775,
                                                       'Uganda': 814},
                                             'len': 3457},
-                                 'capital': { 'coord': '1 17 S, 36 49 E',
-                                              'name': 'Nairobi',
-                                              'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 536},
+                                 'capital': {'coord': '1 17 S, 36 49 E', 'name': 'Nairobi', 'time_diff': 'UTC+3'},
+                                 'coast': 536,
                                  'coord': ['1 00 N, 38 00 E'],
                                  'popul': 53527936,
-                                 'ports': {'major seaport': 'Kisumu, Mombasa'},
+                                 'ports': {'seaport': 'Kisumu, Mombasa'},
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KE',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ke.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kenya'},
                         'nameset': [ 'kenya',
                                      'kenya/jamhuri ya kenya',
                                      'republic of kenya',
@@ -6921,6 +7502,14 @@ P1_CNTR = \
                                            'satellite earth stations - 4 Intelsat',
                                            'launched first micro satellites in 2018',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 371498, 'fix': 68072, 'internet': 9129243, 'mob': 54336841},
                                  'tld': '.ke',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.ke'}},
@@ -6945,17 +7534,14 @@ P1_CNTR = \
                 'infos': { 'codes': {'cc3': 'KIR', 'ccn': '296', 'gec': 'KR', 'stan': 'KIR'},
                            'geo': { 'airports': 19,
                                     'bound': {'bord': {}, 'len': 0},
-                                    'capital': { 'coord': '1 21 N, 173 02 E',
-                                                 'name': 'Tarawa',
-                                                 'time_diff': 'UTC+12 (17 hours ahead of Washington, DC, during '
-                                                              'Standard Time)'},
-                                    'coast': {'bord': {}, 'len': 1143},
+                                    'capital': {'coord': '1 21 N, 173 02 E', 'name': 'Tarawa', 'time_diff': 'UTC+12'},
+                                    'coast': 1143,
                                     'coord': ['1 25 N, 173 00 E'],
                                     'popul': 111796,
-                                    'ports': {'major seaport': 'Betio (Tarawa Atoll), Canton Island, English Harbor'},
+                                    'ports': {'seaport': 'Betio (Tarawa Atoll), Canton Island, English Harbor'},
                                     'region': 'Oceania',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KI',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_kr.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kiribati'},
                            'nameset': ['kiribati', 'republic of kiribati', 'the republic of kiribati'],
                            'tel': { 'code': '686',
                                     'domestic': [ 'fixed-line 1 per 100 and mobile-cellular 46 per 100 subscriptions',
@@ -6975,6 +7561,14 @@ P1_CNTR = \
                                               'Australia, 7 Pacific Ocean island countries to the US',
                                               'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 884, 'fix': 22, 'internet': 15946, 'mob': 51401},
                                     'tld': '.ki',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.ki'}},
@@ -6985,7 +7579,7 @@ P1_CNTR = \
                 'url': 'https://en.wikipedia.org/wiki/Kiribati'},
   'Kosovo': { 'cc2': 'XK',
               'dep': None,
-              'infos': { 'codes': {'cc3': 'XKS', 'gec': 'KV', 'stan': '-'},
+              'infos': { 'codes': {'cc3': 'XKS', 'gec': 'KV'},
                          'geo': { 'airports': 6,
                                   'bound': { 'bord': { 'Albania': 112,
                                                        'Montenegro': 76,
@@ -6994,15 +7588,13 @@ P1_CNTR = \
                                              'len': 714},
                                   'capital': { 'coord': '42 40 N, 21 10 E',
                                                'name': 'Pristina (Prishtine, Prishtina)',
-                                               'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
+                                               'time_diff': 'UTC+1'},
                                   'cmt': 'XK and XKS are ISO 3166 user assigned codes; ISO 3166 Maintenace Authority '
                                          'has not assigned codes',
-                                  'coast': {'bord': {}},
                                   'coord': ['42 35 N, 21 00 E'],
                                   'popul': 1932774,
                                   'region': 'Europe',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_kv.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kosovo'},
                          'nameset': [ 'kosove',
                                       'kosove (kosovo)',
                                       'kosovo',
@@ -7021,7 +7613,15 @@ P1_CNTR = \
                                                'little expansion of fiber networks for broadband',
                                                'expansion of LTE services',
                                                2020],
-                                  'intl': [2000],
+                                  'intl': [0],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'fix': 117317, 'internet': 1706150, 'mob': 620186},
                                   'tld': '.xk',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.xk'}},
@@ -7035,18 +7635,15 @@ P1_CNTR = \
               'infos': { 'codes': {'cc3': 'KWT', 'ccn': '414', 'gec': 'KU', 'stan': 'KWT'},
                          'geo': { 'airports': 7,
                                   'bound': {'bord': {'Iraq': 254, 'Saudi Arabia': 221}, 'len': 475},
-                                  'capital': { 'coord': '29 22 N, 47 58 E',
-                                               'name': 'Kuwait City',
-                                               'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 499},
+                                  'capital': {'coord': '29 22 N, 47 58 E', 'name': 'Kuwait City', 'time_diff': 'UTC+3'},
+                                  'coast': 499,
                                   'coord': ['29 30 N, 45 45 E'],
                                   'popul': 2993706,
-                                  'ports': { 'major seaport': "Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), "
-                                                              "Mina' 'Abd Allah, Mina' al Ahmadi"},
+                                  'ports': { 'seaport': "Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' "
+                                                        "'Abd Allah, Mina' al Ahmadi"},
                                   'region': 'Middle East',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KW',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ku.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kuwait'},
                          'nameset': [ 'al kuwayt',
                                       'dawlat al kuwayt',
                                       'kuwait',
@@ -7074,6 +7671,14 @@ P1_CNTR = \
                                             'satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian '
                                             'Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat)',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 103821, 'fix': 368305, 'internet': 2904801, 'mob': 5147990},
                                   'tld': '.kw',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.kw'}},
@@ -7091,16 +7696,12 @@ P1_CNTR = \
                                                            'Tajikistan': 984,
                                                            'Uzbekistan': 1314},
                                                  'len': 4573},
-                                      'capital': { 'coord': '42 52 N, 74 36 E',
-                                                   'name': 'Bishkek',
-                                                   'time_diff': 'UTC+6 (11 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}},
+                                      'capital': {'coord': '42 52 N, 74 36 E', 'name': 'Bishkek', 'time_diff': 'UTC+6'},
                                       'coord': ['41 00 N, 75 00 E'],
                                       'popul': 5964897,
                                       'region': 'Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KG',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_kg.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kyrgyzstan'},
                              'nameset': ['kyrgyz republic', 'kyrgyz respublikasy', 'kyrgyzstan', 'the kyrgyz republic'],
                              'tel': { 'code': '996',
                                       'domestic': [ 'fixed-line penetration 5 per 100 persons remains low and '
@@ -7123,6 +7724,14 @@ P1_CNTR = \
                                                 'with Moscow international gateway switch and by satellite',
                                                 'satellite earth stations - 2 (1 Intersputnik, 1 Intelsat)',
                                                 2019],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 355640, 'fix': 275311, 'internet': 2222732, 'mob': 7940306},
                                       'tld': '.kg',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.kg'}},
@@ -7143,14 +7752,12 @@ P1_CNTR = \
                                            'len': 5274},
                                 'capital': { 'coord': '17 58 N, 102 36 E',
                                              'name': 'Vientiane (Viangchan)',
-                                             'time_diff': 'UTC+7 (12 hours ahead of Washington, DC, during Standard '
-                                                          'Time)'},
-                                'coast': {'bord': {}},
+                                             'time_diff': 'UTC+7'},
                                 'coord': ['18 00 N, 105 00 E'],
                                 'popul': 7447396,
                                 'region': 'Southeast Asia',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LA',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_la.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/laos'},
                        'nameset': [ "lao people's democratic republic",
                                     'laos',
                                     'mueang lao',
@@ -7175,7 +7782,15 @@ P1_CNTR = \
                                              2020],
                                 'intl': [ 'satellite earth station - 1 Intersputnik (Indian Ocean region) and a second '
                                           'to be developed by China',
-                                          2000],
+                                          0],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'bb': 45379, 'fix': 1526232, 'internet': 1845437, 'mob': 4466375},
                                 'tld': '.la',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.la'}},
@@ -7190,17 +7805,14 @@ P1_CNTR = \
                          'geo': { 'airports': 42,
                                   'bound': { 'bord': {'Belarus': 161, 'Estonia': 333, 'Lithuania': 544, 'Russia': 332},
                                              'len': 1370},
-                                  'capital': { 'coord': '56 57 N, 24 06 E',
-                                               'name': 'Riga',
-                                               'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 498},
+                                  'capital': {'coord': '56 57 N, 24 06 E', 'name': 'Riga', 'time_diff': 'UTC+2'},
+                                  'coast': 498,
                                   'coord': ['57 00 N, 25 00 E'],
                                   'popul': 1881232,
-                                  'ports': {'major seaport': 'Riga, Ventspils'},
+                                  'ports': {'seaport': 'Riga, Ventspils'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LV',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_lg.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/latvia'},
                          'nameset': [ 'latvia',
                                       'latvija',
                                       'latvijas republika',
@@ -7221,7 +7833,15 @@ P1_CNTR = \
                                                2020],
                                   'intl': [ 'the Latvian network is now connected via fiber-optic cable to Estonia, '
                                             'Finland, and Sweden',
-                                            2000],
+                                            0],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 525995, 'fix': 227149, 'internet': 1607711, 'mob': 2067174},
                                   'tld': '.lv',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.lv'}},
@@ -7235,18 +7855,14 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'LBN', 'ccn': '422', 'gec': 'LE', 'stan': 'LBN'},
                           'geo': { 'airports': 8,
                                    'bound': {'bord': {'Israel': 81, 'Syria': 403}, 'len': 484},
-                                   'capital': { 'coord': '33 52 N, 35 30 E',
-                                                'name': 'Beirut',
-                                                'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 225},
+                                   'capital': {'coord': '33 52 N, 35 30 E', 'name': 'Beirut', 'time_diff': 'UTC+2'},
+                                   'coast': 225,
                                    'coord': ['33 50 N, 35 50 E'],
                                    'popul': 5469612,
-                                   'ports': { 'container port': 'Beirut (1,305,038)',
-                                              'major seaport': 'Beirut, Tripoli'},
+                                   'ports': {'container': 'Beirut (1,305,038) (2017)', 'seaport': 'Beirut, Tripoli'},
                                    'region': 'Middle East',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LB',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_le.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/lebanon'},
                           'nameset': [ 'al jumhuriyah al lubnaniyah',
                                        'lebanese republic',
                                        'lebanon',
@@ -7269,6 +7885,14 @@ P1_CNTR = \
                                              'satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic '
                                              'Ocean)',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 9395, 'fix': 752547, 'internet': 4769039, 'mob': 3614797},
                                    'tld': '.lb',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.lb'}},
@@ -7292,16 +7916,12 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'LSO', 'ccn': '426', 'gec': 'LT', 'stan': 'LSO'},
                           'geo': { 'airports': 24,
                                    'bound': {'bord': {'South Africa': 1106}, 'len': 1106},
-                                   'capital': { 'coord': '29 19 S, 27 29 E',
-                                                'name': 'Maseru',
-                                                'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                   'capital': {'coord': '29 19 S, 27 29 E', 'name': 'Maseru', 'time_diff': 'UTC+2'},
                                    'coord': ['29 30 S, 28 30 E'],
                                    'popul': 1969334,
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LS',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_lt.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/lesotho'},
                           'nameset': ['kingdom of lesotho', 'lesotho', 'the kingdom of lesotho'],
                           'tel': { 'code': '266',
                                    'domestic': [ 'fixed-line is 1 per 100 subscriptions',
@@ -7323,6 +7943,14 @@ P1_CNTR = \
                                              'locked position makes access prices expensive',
                                              'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 5763, 'fix': 7865, 'internet': 569114, 'mob': 2238186},
                                    'tld': '.ls',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.ls'}},
@@ -7337,17 +7965,14 @@ P1_CNTR = \
                           'geo': { 'airports': 29,
                                    'bound': { 'bord': {'Guinea': 590, 'Ivory Coast': 778, 'Sierra Leone': 299},
                                               'len': 1667},
-                                   'capital': { 'coord': '6 18 N, 10 48 W',
-                                                'name': 'Monrovia',
-                                                'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 579},
+                                   'capital': {'coord': '6 18 N, 10 48 W', 'name': 'Monrovia', 'time_diff': 'UTC 0'},
+                                   'coast': 579,
                                    'coord': ['6 30 N, 9 30 W'],
                                    'popul': 5073296,
-                                   'ports': {'major seaport': 'Buchanan, Monrovia'},
+                                   'ports': {'seaport': 'Buchanan, Monrovia'},
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LR',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_li.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/liberia'},
                           'nameset': ['liberia', 'republic of liberia', 'the republic of liberia'],
                           'tel': { 'code': '231',
                                    'domestic': [ 'fixed-line less than 1 per 100',
@@ -7371,6 +7996,14 @@ P1_CNTR = \
                                              'countries and Europe',
                                              'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 8000, 'fix': 8394, 'internet': 383819, 'mob': 2793316},
                                    'tld': '.lr',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.lr'}},
@@ -7392,15 +8025,14 @@ P1_CNTR = \
                                             'len': 4339},
                                  'capital': { 'coord': '32 53 N, 13 10 E',
                                               'name': 'Tripoli (Tarabulus)',
-                                              'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 1770},
+                                              'time_diff': 'UTC+2'},
+                                 'coast': 1770,
                                  'coord': ['25 00 N, 17 00 E'],
                                  'popul': 6890535,
-                                 'ports': {'major seaport': 'Marsa al Burayqah (Marsa el Brega), Tripoli'},
+                                 'ports': {'seaport': 'Marsa al Burayqah (Marsa el Brega), Tripoli'},
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LY',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ly.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/libya'},
                         'nameset': ['dawiat libiya', 'libiya', 'libya', 'state of libya', 'the state of libya'],
                         'tel': { 'code': '218',
                                  'domestic': [ '24 per 100 fixed-line and 91 per 100 mobile-cellular subscriptions',
@@ -7422,6 +8054,14 @@ P1_CNTR = \
                                            'tropospheric scatter to Greece',
                                            'participant in Medarabtel',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 168920, 'fix': 1618511, 'internet': 1440859, 'mob': 6182105},
                                  'tld': '.ly',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.ly'}},
@@ -7434,16 +8074,12 @@ P1_CNTR = \
                      'dep': None,
                      'infos': { 'codes': {'cc3': 'LIE', 'ccn': '438', 'gec': 'LS', 'stan': 'LIE'},
                                 'geo': { 'bound': {'bord': {'Austria': 34, 'Switzerland': 41}, 'len': 75},
-                                         'capital': { 'coord': '47 08 N, 9 31 E',
-                                                      'name': 'Vaduz',
-                                                      'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during '
-                                                                   'Standard Time)'},
-                                         'coast': {'bord': {}},
+                                         'capital': {'coord': '47 08 N, 9 31 E', 'name': 'Vaduz', 'time_diff': 'UTC+1'},
                                          'coord': ['47 16 N, 9 32 E'],
                                          'popul': 39137,
                                          'region': 'Europe',
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LI',
-                                         'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ls.html'},
+                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/liechtenstein'},
                                 'nameset': [ 'fuerstentum liechtenstein',
                                              'liechtenstein',
                                              'principality of liechtenstein',
@@ -7457,7 +8093,15 @@ P1_CNTR = \
                                                       'FttP (fiber to the home) penetration marketed 3rd highest in EU',
                                                       'fiber network reaches 3/4 of the population',
                                                       2020],
-                                         'intl': ['linked to Swiss networks by cable and microwave radio relay', 2000],
+                                         'intl': ['linked to Swiss networks by cable and microwave radio relay', 0],
+                                         'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                   'production and supply chains globally',
+                                                   'consumer spending on telecom devices and services has also slowed '
+                                                   "due to the pandemic's effect on economies worldwide",
+                                                   'overall progress towards improvements in all facets of the telecom '
+                                                   'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                   'satellite - has moderated',
+                                                   0],
                                          'subs': {'bb': 16712, 'fix': 14337, 'internet': 37815, 'mob': 49355},
                                          'tld': '.li',
                                          'url_tld': 'https://en.wikipedia.org/wiki/.li'}},
@@ -7480,18 +8124,16 @@ P1_CNTR = \
                  'infos': { 'codes': {'cc3': 'LTU', 'ccn': '440', 'gec': 'LH', 'stan': 'LTU'},
                             'geo': { 'airports': 61,
                                      'bound': { 'bord': {'Belarus': 640, 'Latvia': 544, 'Poland': 104, 'Russia': 261},
-                                                'len': 1549},
-                                     'capital': { 'coord': '54 41 N, 25 19 E',
-                                                  'name': 'Vilnius',
-                                                  'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during '
-                                                               'Standard Time)'},
-                                     'coast': {'bord': {}, 'len': 90},
+                                                'len': 1549,
+                                                'note': 'border with Russia (Kaliningrad)'},
+                                     'capital': {'coord': '54 41 N, 25 19 E', 'name': 'Vilnius', 'time_diff': 'UTC+2'},
+                                     'coast': 90,
                                      'coord': ['56 00 N, 24 00 E'],
                                      'popul': 2731464,
-                                     'ports': {'major seaport': 'Klaipeda'},
+                                     'ports': {'seaport': 'Klaipeda'},
                                      'region': 'Europe',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LT',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_lh.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/lithuania'},
                             'nameset': [ 'lietuva',
                                          'lietuvos respublika',
                                          'lithuania',
@@ -7521,6 +8163,14 @@ P1_CNTR = \
                                                'further transmission by satellite',
                                                'landline connections to Latvia and Poland',
                                                2019],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 788743, 'fix': 368515, 'internet': 2226806, 'mob': 4663627},
                                      'tld': '.lt',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.lt'}},
@@ -7546,14 +8196,12 @@ P1_CNTR = \
                                       'bound': {'bord': {'Belgium': 130, 'France': 69, 'Germany': 128}, 'len': 327},
                                       'capital': { 'coord': '49 36 N, 6 07 E',
                                                    'name': 'Luxembourg',
-                                                   'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}},
+                                                   'time_diff': 'UTC+1'},
                                       'coord': ['49 45 N, 6 10 E'],
                                       'popul': 628381,
                                       'region': 'Europe',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LU',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_lu.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/luxembourg'},
                              'nameset': [ 'grand duche de luxembourg',
                                           'grand duchy of luxembourg',
                                           'luxembourg',
@@ -7572,7 +8220,15 @@ P1_CNTR = \
                                                    'for mobile subscribers',
                                                    'regulator planning a multi-spectrum auction for 5G use by mid-2020',
                                                    2020],
-                                      'intl': [2000],
+                                      'intl': [0],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 224300, 'fix': 268043, 'internet': 587955, 'mob': 837890},
                                       'tld': '.lu',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.lu'}},
@@ -7595,14 +8251,14 @@ P1_CNTR = \
              'dep': None,
              'infos': { 'codes': {'cc3': 'MAC', 'ccn': '446', 'gec': 'MC', 'stan': 'MAC'},
                         'geo': { 'airports': 1,
-                                 'bound': {'bord': {}, 'len': 3},
-                                 'coast': {'bord': {}, 'len': 41},
+                                 'bound': {'bord': {'China': 3}, 'len': 3},
+                                 'coast': 41,
                                  'coord': ['22 10 N, 113 33 E'],
                                  'popul': 614458,
-                                 'ports': {'major seaport': 'Macau'},
+                                 'ports': {'seaport': 'Macau'},
                                  'region': 'Southeast Asia',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MO',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mc.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/macau'},
                         'nameset': [ 'macao special administrative region of china',
                                      'macau',
                                      'macau special administrative region'],
@@ -7622,6 +8278,14 @@ P1_CNTR = \
                                            'HF radiotelephone communication facility',
                                            'satellite earth station - 1 Intelsat (Indian Ocean)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 193057, 'fix': 119355, 'internet': 508052, 'mob': 2108274},
                                  'tld': '.mo',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.mo'}},
@@ -7637,16 +8301,15 @@ P1_CNTR = \
                                       'bound': {'bord': {}, 'len': 0},
                                       'capital': { 'coord': '18 55 S, 47 31 E',
                                                    'name': 'Antananarivo',
-                                                   'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}, 'len': 4828},
+                                                   'time_diff': 'UTC+3'},
+                                      'coast': 4828,
                                       'coord': ['20 00 S, 47 00 E'],
                                       'popul': 26955737,
-                                      'ports': { 'major seaport': 'Antsiranana (Diego Suarez), Mahajanga, Toamasina, '
-                                                                  'Toliara (Tulear)'},
+                                      'ports': { 'seaport': 'Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara '
+                                                            '(Tulear)'},
                                       'region': 'Africa',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MG',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ma.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/madagascar'},
                              'nameset': [ 'madagascar',
                                           'madagascar/madagasikara',
                                           'republic of madagascar',
@@ -7669,6 +8332,14 @@ P1_CNTR = \
                                                 'satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 '
                                                 'Intersputnik - Atlantic Ocean region)',
                                                 2019],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 27211, 'fix': 68426, 'internet': 2516994, 'mob': 10677153},
                                       'tld': '.mg',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.mg'}},
@@ -7682,16 +8353,12 @@ P1_CNTR = \
               'infos': { 'codes': {'cc3': 'MWI', 'ccn': '454', 'gec': 'MI', 'stan': 'MWI'},
                          'geo': { 'airports': 32,
                                   'bound': {'bord': {'Mozambique': 1498, 'Tanzania': 512, 'Zambia': 847}, 'len': 2857},
-                                  'capital': { 'coord': '13 58 S, 33 47 E',
-                                               'name': 'Lilongwe',
-                                               'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}},
+                                  'capital': {'coord': '13 58 S, 33 47 E', 'name': 'Lilongwe', 'time_diff': 'UTC+2'},
                                   'coord': ['13 30 S, 34 00 E'],
                                   'popul': 21196629,
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MW',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mi.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/malawi'},
                          'nameset': ['dziko la malawi', 'malawi', 'republic of malawi', 'the republic of malawi'],
                          'tel': { 'code': '265',
                                   'domestic': [ 'limited fixed-line subscribership less than 1 per 100 households',
@@ -7715,6 +8382,14 @@ P1_CNTR = \
                                                2020],
                                   'intl': [ 'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean)',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 11358, 'fix': 14357, 'internet': 2734305, 'mob': 9799352},
                                   'tld': '.mw',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.mw'}},
@@ -7732,18 +8407,17 @@ P1_CNTR = \
                                                  'name': 'Kuala Lumpur; note - nearby Putrajaya is referred to as a '
                                                          'federal government administrative center but not the '
                                                          'capital; Parliament meets in Kuala Lumpur',
-                                                 'time_diff': 'UTC+8 (13 hours ahead of Washington, DC, during '
-                                                              'Standard Time)'},
-                                    'coast': {'bord': {}},
+                                                 'time_diff': 'UTC+8'},
+                                    'coast': 4675,
                                     'coord': ['2 30 N, 112 30 E'],
                                     'popul': 32652083,
-                                    'ports': { 'container port': 'Port Kelang (Port Klang) (11,978,000), Tanjung '
-                                                                 'Pelepas (8,260,000)',
-                                               'major seaport': 'Bintulu, Johor Bahru, George Town (Penang), Port '
-                                                                'Kelang (Port Klang), Tanjung Pelepas'},
+                                    'ports': { 'container': 'Port Kelang (Port Klang) (11,978,000), Tanjung Pelepas '
+                                                            '(8,260,000) (2017)',
+                                               'seaport': 'Bintulu, Johor Bahru, George Town (Penang), Port Kelang '
+                                                          '(Port Klang), Tanjung Pelepas'},
                                     'region': 'Southeast Asia',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MY',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_my.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/malaysia'},
                            'nameset': ['malaysia'],
                            'tel': { 'code': '60',
                                     'domestic': [ 'fixed-line 20 per 100 and mobile-cellular teledensity exceeds 140 '
@@ -7767,6 +8441,14 @@ P1_CNTR = \
                                               'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean)',
                                               'launch of Kacific-1 satellite in 2019',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable, and '
+                                              'satellite - has moderated',
+                                              0],
                                     'subs': {'bb': 2696000, 'fix': 6530410, 'internet': 25829444, 'mob': 44997299},
                                     'tld': '.my',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.my'}},
@@ -7798,17 +8480,14 @@ P1_CNTR = \
                 'infos': { 'codes': {'cc3': 'MDV', 'ccn': '462', 'gec': 'MV', 'stan': 'MDV'},
                            'geo': { 'airports': 9,
                                     'bound': {'bord': {}, 'len': 0},
-                                    'capital': { 'coord': '4 10 N, 73 30 E',
-                                                 'name': 'Male',
-                                                 'time_diff': 'UTC+5 (10 hours ahead of Washington, DC, during '
-                                                              'Standard Time)'},
-                                    'coast': {'bord': {}, 'len': 644},
+                                    'capital': {'coord': '4 10 N, 73 30 E', 'name': 'Male', 'time_diff': 'UTC+5'},
+                                    'coast': 644,
                                     'coord': ['3 15 N, 73 00 E'],
                                     'popul': 391904,
-                                    'ports': {'major seaport': 'Male'},
+                                    'ports': {'seaport': 'Male'},
                                     'region': 'Asia',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MV',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mv.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/maldives'},
                            'nameset': [ 'dhivehi raajje',
                                         'dhivehi raajjeyge jumhooriyyaa',
                                         'maldives',
@@ -7830,6 +8509,14 @@ P1_CNTR = \
                                               'connections to 8 points in Maldives, India, and Sri Lanka',
                                               'satellite earth station - 3 Intelsat (Indian Ocean)',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 53470, 'fix': 12316, 'internet': 248004, 'mob': 611662},
                                     'tld': '.mv',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.mv'}},
@@ -7850,16 +8537,12 @@ P1_CNTR = \
                                                      'Niger': 838,
                                                      'Senegal': 489},
                                            'len': 7908},
-                                'capital': { 'coord': '12 39 N, 8 00 W',
-                                             'name': 'Bamako',
-                                             'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during Standard '
-                                                          'Time)'},
-                                'coast': {'bord': {}},
+                                'capital': {'coord': '12 39 N, 8 00 W', 'name': 'Bamako', 'time_diff': 'UTC 0'},
                                 'coord': ['17 00 N, 4 00 W'],
                                 'popul': 19553397,
                                 'region': 'Africa',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ML',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ml.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mali'},
                        'nameset': ['mali', 'republic of mali', 'republique de mali', 'the republic of mali'],
                        'tel': { 'code': '223',
                                 'domestic': [ 'fixed-line subscribership 1 per 100 persons',
@@ -7884,7 +8567,15 @@ P1_CNTR = \
                                 'intl': [ 'satellite communications center and fiber-optic links to neighboring '
                                           'countries',
                                           'satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean)',
-                                          2000],
+                                          0],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'bb': 120934, 'fix': 227831, 'internet': 2395886, 'mob': 21850850},
                                 'tld': '.ml',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.ml'}},
@@ -7898,18 +8589,15 @@ P1_CNTR = \
              'infos': { 'codes': {'cc3': 'MLT', 'ccn': '470', 'gec': 'MT', 'stan': 'MLT'},
                         'geo': { 'airports': 1,
                                  'bound': {'bord': {}, 'len': 0},
-                                 'capital': { 'coord': '35 53 N, 14 30 E',
-                                              'name': 'Valletta',
-                                              'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}},
+                                 'capital': {'coord': '35 53 N, 14 30 E', 'name': 'Valletta', 'time_diff': 'UTC+1'},
+                                 'coast': 196,
                                  'coord': ['35 50 N, 14 35 E'],
                                  'popul': 457267,
-                                 'ports': { 'container port': 'Marsaxlokk (3,150,000)',
-                                            'major seaport': 'Marsaxlokk (Malta Freeport), Valletta'},
+                                 'ports': { 'container': 'Marsaxlokk (3,150,000) (2017)',
+                                            'seaport': 'Marsaxlokk (Malta Freeport), Valletta'},
                                  'region': 'Europe',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MT',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mt.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/malta'},
                         'nameset': ['malta', "repubblika ta' malta", 'republic of malta', 'the republic of malta'],
                         'tel': { 'code': '356',
                                  'domestic': [ 'fixed-line 58 per 100 persons and mobile-cellular subscribership 144 '
@@ -7928,6 +8616,14 @@ P1_CNTR = \
                                            'submarine cable connections to Italy',
                                            'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 191833, 'fix': 264557, 'internet': 365521, 'mob': 653414},
                                  'tld': '.mt',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.mt'}},
@@ -7946,15 +8642,14 @@ P1_CNTR = \
                                                                  'islands; governmental buildings are housed on three '
                                                                  'fused islands on the eastern side of the atoll: '
                                                                  'Djarrit, Uliga, and Delap',
-                                                         'time_diff': 'UTC+12 (17 hours ahead of Washington, DC, '
-                                                                      'during Standard Time)'},
-                                            'coast': {'bord': {}, 'len': 370},
+                                                         'time_diff': 'UTC+12'},
+                                            'coast': 370,
                                             'coord': ['9 00 N, 168 00 E'],
                                             'popul': 77917,
-                                            'ports': {'major seaport': 'Enitwetak Island, Kwajalein, Majuro'},
+                                            'ports': {'seaport': 'Enitwetak Island, Kwajalein, Majuro'},
                                             'region': 'Oceania',
                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MH',
-                                            'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_rm.html'},
+                                            'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/marshall-islands'},
                                    'nameset': [ 'marshall islands',
                                                 'republic of the marshall islands',
                                                 'the marshall islands',
@@ -7981,7 +8676,15 @@ P1_CNTR = \
                                                          2018],
                                             'intl': [ 'satellite earth stations - 2 Intelsat (Pacific Ocean)',
                                                       'US Government satellite communications system on Kwajalein',
-                                                      2000],
+                                                      0],
+                                            'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                      'telecommunications production and supply chains globally',
+                                                      'consumer spending on telecom devices and services has also '
+                                                      "slowed due to the pandemic's effect on economies worldwide",
+                                                      'overall progress towards improvements in all facets of the '
+                                                      'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                      'cable and satellite - has moderated',
+                                                      0],
                                             'subs': {'bb': 1000, 'fix': 3172, 'internet': 29290, 'mob': 21169},
                                             'tld': '.mh',
                                             'url_tld': 'https://en.wikipedia.org/wiki/.mh'}},
@@ -8012,15 +8715,14 @@ P1_CNTR = \
                                                  'len': 5002},
                                       'capital': { 'coord': '18 04 N, 15 58 W',
                                                    'name': 'Nouakchott',
-                                                   'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}, 'len': 754},
+                                                   'time_diff': 'UTC 0'},
+                                      'coast': 754,
                                       'coord': ['20 00 N, 12 00 W'],
                                       'popul': 4005475,
-                                      'ports': {'major seaport': 'Nouadhibou, Nouakchott'},
+                                      'ports': {'seaport': 'Nouadhibou, Nouakchott'},
                                       'region': 'Africa',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MR',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mr.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mauritania'},
                              'nameset': [ 'al jumhuriyah al islamiyah al muritaniyah',
                                           'islamic republic of mauritania',
                                           'mauritania',
@@ -8050,6 +8752,14 @@ P1_CNTR = \
                                                 'African countries and 2 European countries',
                                                 'satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat)',
                                                 2019],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 13222, 'fix': 53742, 'internet': 798809, 'mob': 4083199},
                                       'tld': '.mr',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.mr'}},
@@ -8065,15 +8775,14 @@ P1_CNTR = \
                                      'bound': {'bord': {}, 'len': 0},
                                      'capital': { 'coord': '20 09 S, 57 29 E',
                                                   'name': 'Port Louis',
-                                                  'time_diff': 'UTC+4 (9 hours ahead of Washington, DC, during '
-                                                               'Standard Time)'},
-                                     'coast': {'bord': {}, 'len': 177},
+                                                  'time_diff': 'UTC+4'},
+                                     'coast': 177,
                                      'coord': ['20 17 S, 57 33 E'],
                                      'popul': 1379365,
-                                     'ports': {'major seaport': 'Port Louis'},
+                                     'ports': {'seaport': 'Port Louis'},
                                      'region': 'Africa',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MU',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mp.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mauritius'},
                             'nameset': ['mauritius', 'republic of mauritius', 'the republic of mauritius'],
                             'tel': { 'code': '230',
                                      'domestic': [ 'fixed-line teledensity 34 per 100 persons and mobile-cellular '
@@ -8097,6 +8806,14 @@ P1_CNTR = \
                                                'new microwave link to Reunion',
                                                'HF radiotelephone links to several countries',
                                                2019],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 274200, 'fix': 470166, 'internet': 799470, 'mob': 2076577},
                                      'tld': '.mu',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.mu'}},
@@ -8124,17 +8841,16 @@ P1_CNTR = \
                                              'len': 4389},
                                   'capital': { 'coord': '19 26 N, 99 08 W',
                                                'name': 'Mexico City (Ciudad de Mexico)',
-                                               'time_diff': 'UTC-6 (1 hour behind Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 9330},
+                                               'time_diff': 'UTC-6'},
+                                  'coast': 9330,
                                   'coord': ['23 00 N, 102 00 W'],
                                   'popul': 128649565,
-                                  'ports': { 'container port': 'Manzanillo (2,830,370), Lazaro Cardenas (1,149,079)',
-                                             'major seaport': 'Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, '
-                                                              'Veracruz'},
+                                  'ports': { 'container': 'Manzanillo (2,830,370), Lazaro Cardenas (1,149,079) (2017)',
+                                             'seaport': 'Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, '
+                                                        'Veracruz'},
                                   'region': 'North America',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MX',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mx.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mexico'},
                          'nameset': [ 'estados unidos mexicanos',
                                       'mexico',
                                       'the united mexican states',
@@ -8153,7 +8869,8 @@ P1_CNTR = \
                                                'considerable use of fiber-optic cable and coaxial cable',
                                                'two main MNOs despite efforts for competition',
                                                '5G development slow given the existing capabilities of LTE',
-                                               'Mexico’s first local Internet Exchange Point opens in Mexico City',
+                                               'Mexico&rsquo',
+                                               's first local Internet Exchange Point opens in Mexico City',
                                                'regulator strives to bring competition and foreign investment to '
                                                'Mexico',
                                                'regulator brings back SIM card registration program',
@@ -8168,6 +8885,14 @@ P1_CNTR = \
                                             'mobile earth stations)',
                                             'linked to Central American Microwave System of trunk connections',
                                             2016],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable, and satellite '
+                                            '- has moderated',
+                                            0],
                                   'subs': {'bb': 18359028, 'fix': 22471647, 'internet': 82843369, 'mob': 121117720},
                                   'tld': '.mx',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.mx'}},
@@ -8207,14 +8932,12 @@ P1_CNTR = \
                                    'bound': {'bord': {'Romania': 683, 'Ukraine': 1202}, 'len': 1885},
                                    'capital': { 'coord': '47 00 N, 28 51 E',
                                                 'name': 'Chisinau in Moldovan (Kishinev in Russian)',
-                                                'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                                'time_diff': 'UTC+2'},
                                    'coord': ['47 00 N, 29 00 E'],
                                    'popul': 3364496,
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MD',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_md.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/moldova'},
                           'nameset': ['moldova', 'republic of moldova', 'republica moldova', 'the republic of moldova'],
                           'tel': { 'code': '373',
                                    'domestic': [ 'competition among mobile telephone providers has spurred '
@@ -8235,7 +8958,15 @@ P1_CNTR = \
                                    'intl': [ 'service through Romania and Russia via landline',
                                              'satellite earth stations - at least 3 - Intelsat, Eutelsat, and '
                                              'Intersputnik',
-                                             2000],
+                                             0],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 623135, 'fix': 901317, 'internet': 2616792, 'mob': 3039990},
                                    'tld': '.md',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.md'}},
@@ -8248,17 +8979,14 @@ P1_CNTR = \
               'dep': None,
               'infos': { 'codes': {'cc3': 'MCO', 'ccn': '492', 'gec': 'MN', 'stan': 'MCO'},
                          'geo': { 'bound': {'bord': {'France': 6}, 'len': 6},
-                                  'capital': { 'coord': '43 44 N, 7 25 E',
-                                               'name': 'Monaco',
-                                               'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 4},
+                                  'capital': {'coord': '43 44 N, 7 25 E', 'name': 'Monaco', 'time_diff': 'UTC+1'},
+                                  'coast': 4,
                                   'coord': ['43 44 N, 7 24 E'],
                                   'popul': 39000,
-                                  'ports': {'major seaport': 'Hercules Port'},
+                                  'ports': {'seaport': 'Hercules Port'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MC',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mn.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/monaco'},
                          'nameset': [ 'monaco',
                                       'principality of monaco',
                                       'principaute de monaco',
@@ -8278,6 +9006,14 @@ P1_CNTR = \
                                             'no satellite earth stations',
                                             'connected by cable into the French communications system',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 19822, 'fix': 34903, 'internet': 29821, 'mob': 26725},
                                   'tld': '.mc',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.mc'}},
@@ -8293,14 +9029,12 @@ P1_CNTR = \
                                     'bound': {'bord': {'China': 4630, 'Russia': 3452}, 'len': 8082},
                                     'capital': { 'coord': '47 55 N, 106 55 E',
                                                  'name': 'Ulaanbaatar',
-                                                 'time_diff': 'UTC+8 (13 hours ahead of Washington, DC, during '
-                                                              'Standard Time)'},
-                                    'coast': {'bord': {}},
+                                                 'time_diff': 'UTC+8'},
                                     'coord': ['46 00 N, 105 00 E'],
                                     'popul': 3168026,
                                     'region': 'Asia',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MN',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mg.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mongolia'},
                            'nameset': ['mongol uls', 'mongolia', 'state of mongolia', 'the state of mongolia'],
                            'tel': { 'code': '976',
                                     'domestic': [ 'very low fixed-line teledensity 12 per 100',
@@ -8323,6 +9057,14 @@ P1_CNTR = \
                                                  'back to Mongolian government',
                                                  2020],
                                     'intl': ['satellite earth stations - 7', 2016],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 306150, 'fix': 385191, 'internet': 735823, 'mob': 4297643},
                                     'tld': '.mn',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.mn'}},
@@ -8344,15 +9086,14 @@ P1_CNTR = \
                                       'capital': { 'coord': '42 26 N, 19 16 E',
                                                    'name': 'Podgorica; note - Cetinje retains the status of "Old Royal '
                                                            'Capital"',
-                                                   'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}, 'len': 293},
+                                                   'time_diff': 'UTC+1'},
+                                      'coast': 293,
                                       'coord': ['42 30 N, 19 18 E'],
                                       'popul': 609859,
-                                      'ports': {'major seaport': 'Bar'},
+                                      'ports': {'seaport': 'Bar'},
                                       'region': 'Europe',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ME',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mj.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/montenegro'},
                              'nameset': ['crna gora', 'montenegro'],
                              'tel': { 'code': '382',
                                       'domestic': [ 'GSM mobile-cellular service, available through multiple providers '
@@ -8369,7 +9110,15 @@ P1_CNTR = \
                                                    'viable alternative to fixed-line broadband in rural areas',
                                                    '5G services anticipated in the future',
                                                    2020],
-                                      'intl': ['2 international switches connect the national system', 2000],
+                                      'intl': ['2 international switches connect the national system', 0],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 159029, 'fix': 183387, 'internet': 439311, 'mob': 1121870},
                                       'tld': '.me',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.me'}},
@@ -8389,15 +9138,14 @@ P1_CNTR = \
                                                            'built at Brades Estate, the de facto capital, in the '
                                                            "Carr's Bay/Little Bay vicinity at the northwest end of "
                                                            'Montserrat',
-                                                   'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}, 'len': 40},
+                                                   'time_diff': 'UTC-4'},
+                                      'coast': 40,
                                       'coord': ['16 45 N, 62 12 W'],
                                       'popul': 5373,
-                                      'ports': {'major seaport': 'Little Bay, Plymouth'},
+                                      'ports': {'seaport': 'Little Bay, Plymouth'},
                                       'region': 'Central America and the Caribbean',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MS',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mh.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/montserrat'},
                              'nameset': ['montserrat'],
                              'tel': { 'code': '1664',
                                       'domestic': [ 'fixed-line 60 per 100 and mobile-cellular teledensity 101 per 100 '
@@ -8413,6 +9161,14 @@ P1_CNTR = \
                                                 'other islands in the eastern Caribbean extending from the British '
                                                 'Virgin Islands to Trinidad',
                                                 2019],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'fix': 3227, 'internet': 2860, 'mob': 5377},
                                       'tld': '.ms',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.ms'}},
@@ -8425,20 +9181,20 @@ P1_CNTR = \
                'dep': None,
                'infos': { 'codes': {'cc3': 'MAR', 'ccn': '504', 'gec': 'MO', 'stan': 'MAR'},
                           'geo': { 'airports': 55,
-                                   'bound': { 'bord': {'Algeria': 1900, 'Spain': 10, 'Western Sahara': 444},
-                                              'len': 2362},
-                                   'capital': { 'coord': '34 01 N, 6 49 W',
-                                                'name': 'Rabat',
-                                                'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 1835},
-                                   'coord': ['32 00 N, 5 00 W'],
+                                   'bound': { 'bord': {'Algeria': 1941, 'Mauritania': 1564, 'Spain': 18},
+                                              'len': 3523,
+                                              'note': 'an additional 75-meter border segment exists between Morocco '
+                                                      'and the Spanish exclave of Penon de Velez de la Gomera; border '
+                                                      'with Spain (Ceuta); border with Spain (Melilla)'},
+                                   'capital': {'coord': '34 01 N, 6 49 W', 'name': 'Rabat', 'time_diff': 'UTC 0'},
+                                   'coast': 2945,
+                                   'coord': ['28 30 N, 10 00 W'],
                                    'popul': 35561654,
-                                   'ports': { 'container port': 'Tangier (3,312,409)',
-                                              'major seaport': 'Casablanca, Jorf Lasfar, Mohammedia, Safi, Tangier'},
+                                   'ports': { 'container': 'Tangier (3,312,409) (2017)',
+                                              'seaport': 'Casablanca, Jorf Lasfar, Mohammedia, Safi, Tangier'},
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MA',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mo.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/morocco'},
                           'nameset': [ 'al maghrib',
                                        'al mamlakah al maghribiyah',
                                        'kingdom of morocco',
@@ -8466,6 +9222,14 @@ P1_CNTR = \
                                              'satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat',
                                              'microwave radio relay to Gibraltar, Spain, and Western Sahara',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 1552599, 'fix': 1982934, 'internet': 22596729, 'mob': 45065083},
                                    'tld': '.ma',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.ma'}},
@@ -8485,17 +9249,14 @@ P1_CNTR = \
                                                            'Zambia': 439,
                                                            'Zimbabwe': 1402},
                                                  'len': 4783},
-                                      'capital': { 'coord': '25 57 S, 32 35 E',
-                                                   'name': 'Maputo',
-                                                   'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}, 'len': 2470},
+                                      'capital': {'coord': '25 57 S, 32 35 E', 'name': 'Maputo', 'time_diff': 'UTC+2'},
+                                      'coast': 2470,
                                       'coord': ['18 15 S, 35 00 E'],
                                       'popul': 30098197,
-                                      'ports': {'major seaport': 'Beira, Maputo, Nacala'},
+                                      'ports': {'seaport': 'Beira, Maputo, Nacala'},
                                       'region': 'Africa',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MZ',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mz.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mozambique'},
                              'nameset': [ 'mocambique',
                                           'mozambique',
                                           'republic of mozambique',
@@ -8527,6 +9288,14 @@ P1_CNTR = \
                                                 'TdM contracts for Itelsat for satellite broadband and bulk haul '
                                                 'services',
                                                 2020],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 70142, 'fix': 61575, 'internet': 2855670, 'mob': 13992090},
                                       'tld': '.mz',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.mz'}},
@@ -8548,16 +9317,15 @@ P1_CNTR = \
                                    'capital': { 'coord': '16 48 N, 96 09 E',
                                                 'name': 'Rangoon (Yangon); note - Nay Pyi Taw is the administrative '
                                                         'capital',
-                                                'time_diff': 'UTC+6.5 (11.5 hours ahead of Washington, DC, during '
-                                                             'Standard Time)'},
+                                                'time_diff': 'UTC+6.5'},
                                    'cmt': 'ISO uses the name Myanmar',
-                                   'coast': {'bord': {}, 'len': 1930},
+                                   'coast': 1930,
                                    'coord': ['22 00 N, 98 00 E'],
                                    'popul': 56590071,
-                                   'ports': {'major seaport': 'Mawlamyine (Moulmein), Sittwe'},
+                                   'ports': {'seaport': 'Mawlamyine (Moulmein), Sittwe'},
                                    'region': 'Southeast Asia',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MM',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bm.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/burma'},
                           'nameset': [ 'burma',
                                        'myanma naingngandaw',
                                        'myanmar',
@@ -8587,6 +9355,14 @@ P1_CNTR = \
                                              'the Middle East, Africa, Southeast Asia, Australia and Europe',
                                              'satellite earth stations - 2, Intelsat (Indian Ocean) and ShinSat',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 129050, 'fix': 544283, 'internet': 17064985, 'mob': 63877526},
                                    'tld': '.mm',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.mm'}},
@@ -8623,17 +9399,14 @@ P1_CNTR = \
                                                         'South Africa': 1005,
                                                         'Zambia': 244},
                                               'len': 4220},
-                                   'capital': { 'coord': '22 34 S, 17 05 E',
-                                                'name': 'Windhoek',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 1572},
+                                   'capital': {'coord': '22 34 S, 17 05 E', 'name': 'Windhoek', 'time_diff': 'UTC+1'},
+                                   'coast': 1572,
                                    'coord': ['22 00 S, 17 00 E'],
                                    'popul': 2630073,
-                                   'ports': {'major seaport': 'Luderitz, Walvis Bay'},
+                                   'ports': {'seaport': 'Luderitz, Walvis Bay'},
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NA',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_wa.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/namibia'},
                           'nameset': ['namibia', 'republic of namibia', 'the republic of namibia'],
                           'tel': { 'code': '264',
                                    'domestic': [ 'fixed-line subscribership is 6 per 100 and mobile-cellular 113 per '
@@ -8651,6 +9424,14 @@ P1_CNTR = \
                                              'southern and western African countries to Europe',
                                              'satellite earth stations - 4 Intelsat',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 61968, 'fix': 144575, 'internet': 1291944, 'mob': 2921697},
                                    'tld': '.na',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.na'}},
@@ -8665,15 +9446,14 @@ P1_CNTR = \
                         'geo': { 'airports': 1,
                                  'bound': {'bord': {}, 'len': 0},
                                  'capital': { 'name': 'no official capital; government offices in the Yaren District',
-                                              'time_diff': 'UTC+12 (17 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 30},
+                                              'time_diff': 'UTC+12'},
+                                 'coast': 30,
                                  'coord': ['0 32 S, 166 55 E'],
                                  'popul': 11000,
-                                 'ports': {'major seaport': 'Nauru'},
+                                 'ports': {'seaport': 'Nauru'},
                                  'region': 'Oceania',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NR',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_nr.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/nauru'},
                         'nameset': ['nauru', 'republic of nauru', 'the republic of nauru'],
                         'tel': { 'code': '674',
                                  'domestic': ['fixed-line 14 per 100 and mobile-cellular 95 per 100', 2019],
@@ -8684,7 +9464,15 @@ P1_CNTR = \
                                               'Islands economy',
                                               'mobile technology is booming',
                                               2018],
-                                 'intl': ['satellite earth station - 1 Intelsat (Pacific Ocean)', 2000],
+                                 'intl': ['satellite earth station - 1 Intelsat (Pacific Ocean)', 0],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'fix': 1900, 'internet': 5524, 'mob': 9212},
                                  'tld': '.nr',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.nr'}},
@@ -8698,16 +9486,12 @@ P1_CNTR = \
              'infos': { 'codes': {'cc3': 'NPL', 'ccn': '524', 'gec': 'NP', 'stan': 'NPL'},
                         'geo': { 'airports': 47,
                                  'bound': {'bord': {'China': 1389, 'India': 1770}, 'len': 3159},
-                                 'capital': { 'coord': '27 43 N, 85 19 E',
-                                              'name': 'Kathmandu',
-                                              'time_diff': 'UTC+5.75 (10.75 hours ahead of Washington, DC, during '
-                                                           'Standard Time)'},
-                                 'coast': {'bord': {}},
+                                 'capital': {'coord': '27 43 N, 85 19 E', 'name': 'Kathmandu', 'time_diff': 'UTC+5.75'},
                                  'coord': ['28 00 N, 84 00 E'],
                                  'popul': 30327877,
                                  'region': 'Asia',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NP',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_np.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/nepal'},
                         'nameset': [ 'federal democratic republic of nepal',
                                      'nepal',
                                      'sanghiya loktantrik ganatantra nepal',
@@ -8723,7 +9507,8 @@ P1_CNTR = \
                                                2019],
                                  'general': [ 'mountainous topography hinders development of telecom infrastructure',
                                               'mobile service has been extended to all 75 districts covering 90% of '
-                                              'Nepal’s land area',
+                                              'Nepal&rsquo',
+                                              's land area',
                                               'fixed broadband is low due to limited number of fixed lines and '
                                               'preeminence of the mobile platform, with overall penetration 2.8%',
                                               '3G and 4G subscribers, early stages for mobile broadband market',
@@ -8735,6 +9520,14 @@ P1_CNTR = \
                                            'microwave and fiber landlines to India',
                                            'satellite earth station - 1 Intelsat (Indian Ocean)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 791961, 'fix': 855926, 'internet': 10103980, 'mob': 41880311},
                                  'tld': '.np',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.np'}},
@@ -8750,16 +9543,15 @@ P1_CNTR = \
                                        'bound': {'bord': {'Belgium': 478, 'Germany': 575}, 'len': 1053},
                                        'capital': { 'coord': '52 21 N, 4 55 E',
                                                     'name': 'Amsterdam; note - The Hague is the seat of government',
-                                                    'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
-                                       'coast': {'bord': {}, 'len': 451},
+                                                    'time_diff': 'UTC+1'},
+                                       'coast': 451,
                                        'coord': ['52 30 N, 5 45 E'],
                                        'popul': 17280397,
-                                       'ports': { 'container port': 'Rotterdam (13,734,000)',
-                                                  'major seaport': 'IJmuiden, Vlissingen'},
+                                       'ports': { 'container': 'Rotterdam (13,734,000) (2017)',
+                                                  'seaport': 'IJmuiden, Vlissingen'},
                                        'region': 'Europe',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NL',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_nl.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/netherlands'},
                               'nameset': [ 'kingdom of the netherlands',
                                            'koninkrijk der nederlanden',
                                            'nederland',
@@ -8789,6 +9581,14 @@ P1_CNTR = \
                                                  'satellite earth stations - 5 (3 Intelsat - 1 Indian Ocean and 2 '
                                                  'Atlantic Ocean, 1 Eutelsat, and 1 Inmarsat)',
                                                  2019],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 7406700, 'fix': 5598798, 'internet': 16243928, 'mob': 21914852},
                                        'tld': '.nl',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.nl'}},
@@ -8848,15 +9648,14 @@ P1_CNTR = \
                                          'bound': {'bord': {}, 'len': 0},
                                          'capital': { 'coord': '22 16 S, 166 27 E',
                                                       'name': 'Noumea',
-                                                      'time_diff': 'UTC+11 (16 hours ahead of Washington, DC, during '
-                                                                   'Standard Time)'},
-                                         'coast': {'bord': {}, 'len': 2254},
+                                                      'time_diff': 'UTC+11'},
+                                         'coast': 2254,
                                          'coord': ['21 30 S, 165 30 E'],
                                          'popul': 290009,
-                                         'ports': {'major seaport': 'Noumea'},
+                                         'ports': {'seaport': 'Noumea'},
                                          'region': 'Oceania',
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NC',
-                                         'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_nc.html'},
+                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/new-caledonia'},
                                 'nameset': [ 'new caledonia',
                                              'nouvelle-caledonie',
                                              'territoire des nouvelle-caledonie et dependances',
@@ -8877,6 +9676,14 @@ P1_CNTR = \
                                                    'Australia',
                                                    'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                                    2019],
+                                         'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                   'production and supply chains globally',
+                                                   'consumer spending on telecom devices and services has also slowed '
+                                                   "due to the pandemic's effect on economies worldwide",
+                                                   'overall progress towards improvements in all facets of the telecom '
+                                                   'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                   'satellite - has moderated',
+                                                   0],
                                          'subs': {'fix': 82111, 'internet': 231887, 'mob': 275002},
                                          'tld': '.nc',
                                          'url_tld': 'https://en.wikipedia.org/wiki/.nc'}},
@@ -8892,16 +9699,15 @@ P1_CNTR = \
                                        'bound': {'bord': {}, 'len': 0},
                                        'capital': { 'coord': '41 18 S, 174 47 E',
                                                     'name': 'Wellington',
-                                                    'time_diff': 'UTC+12 (17 hours ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
-                                       'coast': {'bord': {}, 'len': 15134},
+                                                    'time_diff': 'UTC+12'},
+                                       'coast': 15134,
                                        'coord': ['41 00 S, 174 00 E'],
                                        'popul': 4925477,
-                                       'ports': { 'major seaport': 'Auckland, Lyttelton, Manukau Harbor, Marsden '
-                                                                   'Point, Tauranga, Wellington'},
+                                       'ports': { 'seaport': 'Auckland, Lyttelton, Manukau Harbor, Marsden Point, '
+                                                             'Tauranga, Wellington'},
                                        'region': 'Oceania',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NZ',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_nz.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/new-zealand'},
                               'nameset': ['new zealand'],
                               'tel': { 'code': '64',
                                        'domestic': [ 'fixed-line 37 per 100 and mobile-cellular telephone '
@@ -8925,6 +9731,14 @@ P1_CNTR = \
                                                  'around New Zealand',
                                                  'satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other)',
                                                  2019],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 1647000, 'fix': 1801645, 'internet': 4340672, 'mob': 6550687},
                                        'tld': '.nz',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.nz'}},
@@ -8938,17 +9752,14 @@ P1_CNTR = \
                  'infos': { 'codes': {'cc3': 'NIC', 'ccn': '558', 'gec': 'NU', 'stan': 'NIC'},
                             'geo': { 'airports': 147,
                                      'bound': {'bord': {'Costa Rica': 313, 'Honduras': 940}, 'len': 1253},
-                                     'capital': { 'coord': '12 08 N, 86 15 W',
-                                                  'name': 'Managua',
-                                                  'time_diff': 'UTC-6 (1 hour behind Washington, DC, during Standard '
-                                                               'Time)'},
-                                     'coast': {'bord': {}, 'len': 910},
+                                     'capital': {'coord': '12 08 N, 86 15 W', 'name': 'Managua', 'time_diff': 'UTC-6'},
+                                     'coast': 910,
                                      'coord': ['13 00 N, 85 00 W'],
                                      'popul': 6203441,
-                                     'ports': {'major seaport': 'Bluefields, Corinto'},
+                                     'ports': {'seaport': 'Bluefields, Corinto'},
                                      'region': 'Central America and the Caribbean',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NI',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_nu.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/nicaragua'},
                             'nameset': [ 'nicaragua',
                                          'republic of nicaragua',
                                          'republica de nicaragua',
@@ -8980,6 +9791,14 @@ P1_CNTR = \
                                                'satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and '
                                                '1 Intelsat (Atlantic Ocean)',
                                                2019],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 192413, 'fix': 215055, 'internet': 1695340, 'mob': 5433530},
                                      'tld': '.ni',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.ni'}},
@@ -9000,16 +9819,12 @@ P1_CNTR = \
                                                       'Mali': 838,
                                                       'Nigeria': 1608},
                                             'len': 5834},
-                                 'capital': { 'coord': '13 31 N, 2 07 E',
-                                              'name': 'Niamey',
-                                              'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}},
+                                 'capital': {'coord': '13 31 N, 2 07 E', 'name': 'Niamey', 'time_diff': 'UTC+1'},
                                  'coord': ['16 00 N, 8 00 E'],
                                  'popul': 22772361,
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NE',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ng.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/niger'},
                         'nameset': [ 'niger',
                                      'republic of niger',
                                      'republic of the niger',
@@ -9033,7 +9848,15 @@ P1_CNTR = \
                                               2020],
                                  'intl': [ 'satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian '
                                            'Ocean)',
-                                           2000],
+                                           0],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 8650, 'fix': 116352, 'internet': 1110778, 'mob': 8921769},
                                  'tld': '.ne',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.ne'}},
@@ -9046,16 +9869,16 @@ P1_CNTR = \
                'dep': None,
                'infos': { 'codes': {'cc3': 'NGA', 'ccn': '566', 'gec': 'NI', 'stan': 'NGA'},
                           'geo': { 'airports': 54,
-                                   'capital': { 'coord': '9 05 N, 7 32 E',
-                                                'name': 'Abuja',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
+                                   'bound': { 'bord': {'Benin': 809, 'Cameroon': 1975, 'Chad': 85, 'Niger': 1608},
+                                              'len': 4477},
+                                   'capital': {'coord': '9 05 N, 7 32 E', 'name': 'Abuja', 'time_diff': 'UTC+1'},
+                                   'coast': 853,
                                    'coord': ['10 00 N, 8 00 E'],
                                    'popul': 214028302,
-                                   'ports': {'major seaport': 'Bonny Inshore Terminal, Calabar, Lagos'},
+                                   'ports': {'seaport': 'Bonny Inshore Terminal, Calabar, Lagos'},
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NG',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ni.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/nigeria'},
                           'nameset': ['federal republic of nigeria', 'nigeria', 'the federal republic of nigeria'],
                           'tel': { 'code': '234',
                                    'domestic': [ 'fixed-line subscribership remains less than 1 per 100 persons',
@@ -9083,6 +9906,14 @@ P1_CNTR = \
                                              'satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian '
                                              'Ocean)',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 73965, 'fix': 146075, 'internet': 85450052, 'mob': 184013243},
                                    'tld': '.ng',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.ng'}},
@@ -9112,17 +9943,14 @@ P1_CNTR = \
             'infos': { 'codes': {'cc3': 'NIU', 'ccn': '570', 'gec': 'NE', 'stan': 'NIU'},
                        'geo': { 'airports': 1,
                                 'bound': {'bord': {}, 'len': 0},
-                                'capital': { 'coord': '19 01 S, 169 55 W',
-                                             'name': 'Alofi',
-                                             'time_diff': 'UTC-11 (6 hours behind Washington, DC, during Standard '
-                                                          'Time)'},
-                                'coast': {'bord': {}, 'len': 64},
+                                'capital': {'coord': '19 01 S, 169 55 W', 'name': 'Alofi', 'time_diff': 'UTC-11'},
+                                'coast': 64,
                                 'coord': ['19 02 S, 169 52 W'],
                                 'popul': 2000,
-                                'ports': {'major seaport': 'Alofi'},
+                                'ports': {'seaport': 'Alofi'},
                                 'region': 'Oceania',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NU',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ne.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/niue'},
                        'nameset': ['niue'],
                        'tel': { 'code': '683',
                                 'domestic': [ 'single-line (fixed line) telephone system connects all villages (and '
@@ -9138,6 +9966,14 @@ P1_CNTR = \
                                           'Pacific Ocean Islands',
                                           'expansion of satellite services',
                                           2019],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'internet': 1090},
                                 'tld': '.nu',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.nu'}},
@@ -9153,24 +9989,31 @@ P1_CNTR = \
                                           'bound': {'bord': {}, 'len': 0},
                                           'capital': { 'coord': '29 03 S, 167 58 E',
                                                        'name': 'Kingston',
-                                                       'time_diff': 'UTC+11 (16 hours ahead of Washington, DC, during '
-                                                                    'Standard Time)'},
-                                          'coast': {'bord': {}, 'len': 32},
+                                                       'time_diff': 'UTC+11'},
+                                          'coast': 32,
                                           'coord': ['29 02 S, 167 57 E'],
                                           'popul': 1748,
-                                          'ports': {'major seaport': 'Kingston'},
+                                          'ports': {'seaport': 'Kingston'},
                                           'region': 'Oceania',
                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NF',
-                                          'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_nf.html'},
+                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/norfolk-island'},
                                  'nameset': [ 'norfolk island',
                                               'territory of norfolk island',
                                               'the territory of norfolk island'],
                                  'tel': { 'code': '672',
-                                          'domestic': ['free local calls', 2000],
+                                          'domestic': ['free local calls', 0],
                                           'general': ['adequate, 4G mobile telecommunication network', 2020],
                                           'intl': [ 'submarine cable links with Australia and New Zealand',
                                                     'satellite earth station - 1',
-                                                    2000],
+                                                    0],
+                                          'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                    'production and supply chains globally',
+                                                    'consumer spending on telecom devices and services has also slowed '
+                                                    "due to the pandemic's effect on economies worldwide",
+                                                    'overall progress towards improvements in all facets of the '
+                                                    'telecom industry - mobile, fixed-line, broadband, submarine cable '
+                                                    'and satellite - has moderated',
+                                                    0],
                                           'subs': {'internet': 765},
                                           'tld': '.nf',
                                           'url_tld': 'https://en.wikipedia.org/wiki/.nf'}},
@@ -9187,16 +10030,15 @@ P1_CNTR = \
                                                   'len': 1607},
                                        'capital': { 'coord': '39 01 N, 125 45 E',
                                                     'name': 'Pyongyang',
-                                                    'time_diff': 'UTC+9 (14 hours ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
-                                       'coast': {'bord': {}, 'len': 2495},
+                                                    'time_diff': 'UTC+9'},
+                                       'coast': 2495,
                                        'coord': ['40 00 N, 127 00 E'],
                                        'popul': 25643466,
-                                       'ports': { 'major seaport': "Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, "
-                                                                   'Sonbong (formerly Unggi), Wonsan'},
+                                       'ports': { 'seaport': "Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong "
+                                                             '(formerly Unggi), Wonsan'},
                                        'region': 'Asia',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KP',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_kn.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/korea-north'},
                               'nameset': [ 'choson',
                                            'choson-minjujuui-inmin-konghwaguk',
                                            "democratic people's republic of korea",
@@ -9224,7 +10066,15 @@ P1_CNTR = \
                                        'intl': [ 'satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - '
                                                  'Indian Ocean region)',
                                                  'other international connections through Moscow and Beijing',
-                                                 2000],
+                                                 0],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'fix': 1183806, 'mob': 3821857},
                                        'tld': '.kp',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.kp'}},
@@ -9245,14 +10095,12 @@ P1_CNTR = \
                                                       'len': 838},
                                            'capital': { 'coord': '42 00 N, 21 26 E',
                                                         'name': 'Skopje',
-                                                        'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during '
-                                                                     'Standard Time)'},
-                                           'coast': {'bord': {}},
+                                                        'time_diff': 'UTC+1'},
                                            'coord': ['41 50 N, 22 00 E'],
                                            'popul': 2125971,
                                            'region': 'Europe',
                                            'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MK',
-                                           'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mk.html'},
+                                           'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/north-macedonia'},
                                   'nameset': [ 'north macedonia',
                                                'republic of north macedonia',
                                                'republika severna makedonija',
@@ -9271,7 +10119,15 @@ P1_CNTR = \
                                                         '2 mobile network operators',
                                                         'end of roaming tariffs',
                                                         2020],
-                                           'intl': [2000],
+                                           'intl': [0],
+                                           'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                     'production and supply chains globally',
+                                                     'consumer spending on telecom devices and services has also '
+                                                     "slowed due to the pandemic's effect on economies worldwide",
+                                                     'overall progress towards improvements in all facets of the '
+                                                     'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                     'cable and satellite - has moderated',
+                                                     0],
                                            'subs': {'bb': 427964, 'fix': 402250, 'internet': 1677569, 'mob': 2094037},
                                            'tld': '.mk',
                                            'url_tld': 'https://en.wikipedia.org/wiki/.mk'}},
@@ -9295,15 +10151,14 @@ P1_CNTR = \
                                                     'bound': {'bord': {}, 'len': 0},
                                                     'capital': { 'coord': '15 12 N, 145 45 E',
                                                                  'name': 'Saipan',
-                                                                 'time_diff': 'UTC+10 (15 hours ahead of Washington, '
-                                                                              'DC, during Standard Time)'},
-                                                    'coast': {'bord': {}, 'len': 1482},
+                                                                 'time_diff': 'UTC+10'},
+                                                    'coast': 1482,
                                                     'coord': ['15 12 N, 145 45 E'],
                                                     'popul': 51433,
-                                                    'ports': {'major seaport': 'Saipan, Tinian, Rota'},
+                                                    'ports': {'seaport': 'Saipan, Tinian, Rota'},
                                                     'region': 'Oceania',
                                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MP',
-                                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cq.html'},
+                                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/northern-mariana-islands'},
                                            'nameset': [ 'commonwealth of the northern mariana islands',
                                                         'northern mariana islands',
                                                         'the commonwealth of the northern mariana islands'],
@@ -9325,6 +10180,16 @@ P1_CNTR = \
                                                               'cables linking Mariana islands to Guam',
                                                               'satellite earth stations - 2 Intelsat (Pacific Ocean)',
                                                               2019],
+                                                    'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                              'telecommunications production and supply chains '
+                                                              'globally',
+                                                              'consumer spending on telecom devices and services has '
+                                                              "also slowed due to the pandemic's effect on economies "
+                                                              'worldwide',
+                                                              'overall progress towards improvements in all facets of '
+                                                              'the telecom industry - mobile, fixed-line, broadband, '
+                                                              'submarine cable and satellite - has moderated',
+                                                              0],
                                                     'subs': {'fix': 20398, 'internet': 16000},
                                                     'tld': '.mp',
                                                     'url_tld': 'https://en.wikipedia.org/wiki/.mp'}},
@@ -9346,17 +10211,14 @@ P1_CNTR = \
               'infos': { 'codes': {'cc3': 'NOR', 'ccn': '578', 'gec': 'NO', 'stan': 'NOR'},
                          'geo': { 'airports': 95,
                                   'bound': {'bord': {'Finland': 709, 'Russia': 191, 'Sweden': 1666}, 'len': 2566},
-                                  'capital': { 'coord': '59 55 N, 10 45 E',
-                                               'name': 'Oslo',
-                                               'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}},
+                                  'capital': {'coord': '59 55 N, 10 45 E', 'name': 'Oslo', 'time_diff': 'UTC+1'},
+                                  'coast': 25148,
                                   'coord': ['62 00 N, 10 00 E'],
                                   'popul': 5467439,
-                                  'ports': {'major seaport': 'Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture'},
+                                  'ports': {'seaport': 'Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NO',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_no.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/norway'},
                          'nameset': [ 'kingdom of norway',
                                       'kongeriket norge',
                                       'norge',
@@ -9387,6 +10249,14 @@ P1_CNTR = \
                                             'note - Norway shares the Inmarsat earth station with the other Nordic '
                                             'countries (Denmark, Finland, Iceland, and Sweden)',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 2206519, 'fix': 571958, 'internet': 5183627, 'mob': 5810113},
                                   'tld': '.no',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.no'}},
@@ -9422,18 +10292,15 @@ P1_CNTR = \
                        'geo': { 'airports': 132,
                                 'bound': { 'bord': {'Saudi Arabia': 658, 'United Arab Emirates': 609, 'Yemen': 294},
                                            'len': 1561},
-                                'capital': { 'coord': '23 37 N, 58 35 E',
-                                             'name': 'Muscat',
-                                             'time_diff': 'UTC+4 (9 hours ahead of Washington, DC, during Standard '
-                                                          'Time)'},
-                                'coast': {'bord': {}, 'len': 2092},
+                                'capital': {'coord': '23 37 N, 58 35 E', 'name': 'Muscat', 'time_diff': 'UTC+4'},
+                                'coast': 2092,
                                 'coord': ['21 00 N, 57 00 E'],
                                 'popul': 4664844,
-                                'ports': { 'container port': 'Salalah (3,946,421)',
-                                           'major seaport': "Mina' Qabus, Salalah, Suhar"},
+                                'ports': { 'container': 'Salalah (3,946,421) (2017)',
+                                           'seaport': "Mina' Qabus, Salalah, Suhar"},
                                 'region': 'Middle East',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:OM',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_mu.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/oman'},
                        'nameset': ['oman', 'saltanat uman', 'sultanate of oman', 'the sultanate of oman', 'uman'],
                        'tel': { 'code': '968',
                                 'domestic': [ 'fixed-line 13 per 100 and mobile-cellular 138 per 100, subscribership '
@@ -9454,6 +10321,14 @@ P1_CNTR = \
                                           'East, Southeast Asia and Europe',
                                           'satellite earth stations - 2 Intelsat (Indian Ocean)',
                                           2019],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'bb': 422035, 'fix': 456940, 'internet': 2801932, 'mob': 4926899},
                                 'tld': '.om',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.om'}},
@@ -9468,18 +10343,15 @@ P1_CNTR = \
                            'geo': { 'airports': 151,
                                     'bound': { 'bord': {'Afghanistan': 2670, 'China': 438, 'India': 3190, 'Iran': 959},
                                                'len': 7257},
-                                    'capital': { 'coord': '33 41 N, 73 03 E',
-                                                 'name': 'Islamabad',
-                                                 'time_diff': 'UTC+5 (10 hours ahead of Washington, DC, during '
-                                                              'Standard Time)'},
-                                    'coast': {'bord': {}, 'len': 1046},
+                                    'capital': {'coord': '33 41 N, 73 03 E', 'name': 'Islamabad', 'time_diff': 'UTC+5'},
+                                    'coast': 1046,
                                     'coord': ['30 00 N, 70 00 E'],
                                     'popul': 233500636,
-                                    'ports': { 'container port': 'Karachi (2,224,000)',
-                                               'major seaport': 'Karachi, Port Muhammad Bin Qasim'},
+                                    'ports': { 'container': 'Karachi (2,224,000) (2017)',
+                                               'seaport': 'Karachi, Port Muhammad Bin Qasim'},
                                     'region': 'Asia',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PK',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_pk.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/pakistan'},
                            'nameset': [ 'islamic republic of pakistan',
                                         'jamhuryat islami pakistan',
                                         'pakistan',
@@ -9513,6 +10385,14 @@ P1_CNTR = \
                                               'Islamabad)',
                                               'microwave radio relay to neighboring countries',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 1811365, 'fix': 2607495, 'internet': 34734689, 'mob': 174702132},
                                     'tld': '.pk',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.pk'}},
@@ -9526,17 +10406,14 @@ P1_CNTR = \
              'infos': { 'codes': {'cc3': 'PLW', 'ccn': '585', 'gec': 'PS', 'stan': 'PLW'},
                         'geo': { 'airports': 3,
                                  'bound': {'bord': {}, 'len': 0},
-                                 'capital': { 'coord': '7 30 N, 134 37 E',
-                                              'name': 'Ngerulmud',
-                                              'time_diff': 'UTC+9 (14 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 1519},
+                                 'capital': {'coord': '7 30 N, 134 37 E', 'name': 'Ngerulmud', 'time_diff': 'UTC+9'},
+                                 'coast': 1519,
                                  'coord': ['7 30 N, 134 30 E'],
                                  'popul': 21685,
-                                 'ports': {'major seaport': 'Koror'},
+                                 'ports': {'seaport': 'Koror'},
                                  'region': 'Oceania',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PW',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ps.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/palau'},
                         'nameset': ['belau', 'beluu er a belau', 'palau', 'republic of palau', 'the republic of palau'],
                         'tel': { 'code': '680',
                                  'domestic': [ 'fixed-line 41 per 100 and mobile-cellular services 134 per 100 persons',
@@ -9553,6 +10430,14 @@ P1_CNTR = \
                                            'Micronesia, Indonesia, Hawaii (US), Guam (US) and California (US)',
                                            'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'fix': 8808, 'internet': 7650, 'mob': 29033},
                                  'tld': '.pw',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.pw'}},
@@ -9566,18 +10451,15 @@ P1_CNTR = \
               'infos': { 'codes': {'cc3': 'PAN', 'ccn': '591', 'gec': 'PM', 'stan': 'PAN'},
                          'geo': { 'airports': 117,
                                   'bound': {'bord': {'Colombia': 339, 'Costa Rica': 348}, 'len': 687},
-                                  'capital': { 'coord': '8 58 N, 79 32 W',
-                                               'name': 'Panama City',
-                                               'time_diff': 'UTC-5 (same time as Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 2490},
+                                  'capital': {'coord': '8 58 N, 79 32 W', 'name': 'Panama City', 'time_diff': 'UTC-5'},
+                                  'coast': 2490,
                                   'coord': ['9 00 N, 80 00 W'],
                                   'popul': 3894082,
-                                  'ports': { 'container port': 'Balboa (2,905,049), Colon (3,891,209)',
-                                             'major seaport': 'Balboa, Colon, Cristobal'},
+                                  'ports': { 'container': 'Balboa (2,905,049), Colon (3,891,209) (2017)',
+                                             'seaport': 'Balboa, Colon, Cristobal'},
                                   'region': 'Central America and the Caribbean',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PA',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_pm.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/panama'},
                          'nameset': [ 'panama',
                                       'panamá',
                                       'republic of panama',
@@ -9602,6 +10484,14 @@ P1_CNTR = \
                                             'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                             'connected to the Central American Microwave System',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 540220, 'fix': 671799, 'internet': 2199433, 'mob': 5073123},
                                   'tld': '.pa',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.pa'}},
@@ -9617,15 +10507,14 @@ P1_CNTR = \
                                             'bound': {'bord': {'Indonesia': 824}, 'len': 824},
                                             'capital': { 'coord': '9 27 S, 147 11 E',
                                                          'name': 'Port Moresby',
-                                                         'time_diff': 'UTC+10 (15 hours ahead of Washington, DC, '
-                                                                      'during Standard Time)'},
-                                            'coast': {'bord': {}, 'len': 5152},
+                                                         'time_diff': 'UTC+10'},
+                                            'coast': 5152,
                                             'coord': ['6 00 S, 147 00 E'],
                                             'popul': 7259456,
-                                            'ports': {'major seaport': 'Kimbe, Lae, Madang, Rabaul, Wewak'},
+                                            'ports': {'seaport': 'Kimbe, Lae, Madang, Rabaul, Wewak'},
                                             'region': 'Oceania',
                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PG',
-                                            'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_pp.html'},
+                                            'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/papua-new-guinea'},
                                    'nameset': [ 'independent state of papua new guinea',
                                                 'papua new guinea',
                                                 'papuaniugini',
@@ -9653,6 +10542,14 @@ P1_CNTR = \
                                                       'Australia, Guam, PNG and Solomon Islands',
                                                       'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                                       2019],
+                                            'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                      'telecommunications production and supply chains globally',
+                                                      'consumer spending on telecom devices and services has also '
+                                                      "slowed due to the pandemic's effect on economies worldwide",
+                                                      'overall progress towards improvements in all facets of the '
+                                                      'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                      'cable and satellite - has moderated',
+                                                      0],
                                             'subs': {'bb': 17000, 'fix': 133593, 'internet': 787764, 'mob': 3401971},
                                             'tld': '.pg',
                                             'url_tld': 'https://en.wikipedia.org/wiki/.pg'}},
@@ -9666,16 +10563,12 @@ P1_CNTR = \
                 'infos': { 'codes': {'cc3': 'PRY', 'ccn': '600', 'gec': 'PA', 'stan': 'PRY'},
                            'geo': { 'airports': 799,
                                     'bound': {'bord': {'Argentina': 2531, 'Bolivia': 753, 'Brazil': 1371}, 'len': 4655},
-                                    'capital': { 'coord': '25 16 S, 57 40 W',
-                                                 'name': 'Asuncion',
-                                                 'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}},
+                                    'capital': {'coord': '25 16 S, 57 40 W', 'name': 'Asuncion', 'time_diff': 'UTC-4'},
                                     'coord': ['23 00 S, 58 00 W'],
                                     'popul': 7191685,
                                     'region': 'South America',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PY',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_pa.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/paraguay'},
                            'nameset': [ 'paraguay',
                                         'republic of paraguay',
                                         'republica del paraguay',
@@ -9702,6 +10595,14 @@ P1_CNTR = \
                                               'broadband services',
                                               'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 320700, 'fix': 309221, 'internet': 4566043, 'mob': 7602566},
                                     'tld': '.py',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.py'}},
@@ -9720,17 +10621,15 @@ P1_CNTR = \
                                                      'Colombia': 1494,
                                                      'Ecuador': 1529},
                                            'len': 7062},
-                                'capital': { 'coord': '12 03 S, 77 03 W',
-                                             'name': 'Lima',
-                                             'time_diff': 'UTC-5 (same time as Washington, DC, during Standard Time)'},
-                                'coast': {'bord': {}, 'len': 2414},
+                                'capital': {'coord': '12 03 S, 77 03 W', 'name': 'Lima', 'time_diff': 'UTC-5'},
+                                'coast': 2414,
                                 'coord': ['10 00 S, 76 00 W'],
                                 'popul': 31914989,
-                                'ports': { 'container port': 'Callao (2,250,200)',
-                                           'major seaport': 'Callao, Matarani, Paita'},
+                                'ports': { 'container': 'Callao (2,250,200) (2017)',
+                                           'seaport': 'Callao, Matarani, Paita'},
                                 'region': 'South America',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PE',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_pe.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/peru'},
                        'nameset': [ 'peru',
                                     'perú',
                                     'republic of peru',
@@ -9758,6 +10657,14 @@ P1_CNTR = \
                                           'America, the Caribbean, and US',
                                           'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                           2019],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'bb': 2310217, 'fix': 3099172, 'internet': 16461427, 'mob': 39138119},
                                 'tld': '.pe',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.pe'}},
@@ -9773,17 +10680,15 @@ P1_CNTR = \
                                        'bound': {'bord': {}, 'len': 0},
                                        'capital': { 'coord': '14 36 N, 120 58 E',
                                                     'name': 'Manila',
-                                                    'time_diff': 'UTC+8 (13 hours ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
-                                       'coast': {'bord': {}, 'len': 36289},
+                                                    'time_diff': 'UTC+8'},
+                                       'coast': 36289,
                                        'coord': ['13 00 N, 122 00 E'],
                                        'popul': 109180815,
-                                       'ports': { 'container port': 'Manila (4,782,240)',
-                                                  'major seaport': 'Batangas, Cagayan de Oro, Cebu, Davao, Liman, '
-                                                                   'Manila'},
+                                       'ports': { 'container': 'Manila (4,782,240) (2017)',
+                                                  'seaport': 'Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila'},
                                        'region': 'Southeast Asia',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PH',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_rp.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/philippines'},
                               'nameset': [ 'philippines',
                                            'pilipinas',
                                            'republic of the philippines',
@@ -9816,6 +10721,14 @@ P1_CNTR = \
                                                  'submarine cables that together provide connectivity to the US, '
                                                  'Southeast Asia, Asia, Europe, Africa, the Middle East, and Australia',
                                                  2019],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 3919713, 'fix': 4140108, 'internet': 63588975, 'mob': 166421595},
                                        'tld': '.ph',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.ph'}},
@@ -9830,15 +10743,14 @@ P1_CNTR = \
                                    'geo': { 'bound': {'bord': {}, 'len': 0},
                                             'capital': { 'coord': '25 04 S, 130 05 W',
                                                          'name': 'Adamstown',
-                                                         'time_diff': 'UTC-9 (4 hours behind Washington, DC, during '
-                                                                      'Standard Time)'},
-                                            'coast': {'bord': {}, 'len': 51},
+                                                         'time_diff': 'UTC-9'},
+                                            'coast': 51,
                                             'coord': ['25 04 S, 130 06 W'],
                                             'popul': 50,
-                                            'ports': {'major seaport': 'Adamstown (on Bounty Bay)'},
+                                            'ports': {'seaport': 'Adamstown (on Bounty Bay)'},
                                             'region': 'Oceania',
                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PN',
-                                            'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_pc.html'},
+                                            'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/pitcairn-islands'},
                                    'nameset': [ 'pitcairn henderson ducie and oeno islands',
                                                 'pitcairn islands',
                                                 'pitcairn, henderson, ducie and oeno islands',
@@ -9856,7 +10768,15 @@ P1_CNTR = \
                                                          'the launch of the Kacific-1 satellite in 2019 will improve '
                                                          'telecommunications in the region',
                                                          2020],
-                                            'intl': ['satellite earth station - 1 Inmarsat', 2000],
+                                            'intl': ['satellite earth station - 1 Inmarsat', 0],
+                                            'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                      'telecommunications production and supply chains globally',
+                                                      'consumer spending on telecom devices and services has also '
+                                                      "slowed due to the pandemic's effect on economies worldwide",
+                                                      'overall progress towards improvements in all facets of the '
+                                                      'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                      'cable and satellite - has moderated',
+                                                      0],
                                             'subs': {'internet': 54},
                                             'tld': '.pn',
                                             'url_tld': 'https://en.wikipedia.org/wiki/.pn'}},
@@ -9876,19 +10796,17 @@ P1_CNTR = \
                                                        'Russia': 210,
                                                        'Slovakia': 541,
                                                        'Ukraine': 535},
-                                             'len': 3071},
-                                  'capital': { 'coord': '52 15 N, 21 00 E',
-                                               'name': 'Warsaw',
-                                               'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 440},
+                                             'len': 3071,
+                                             'note': 'border with Russia (Kaliningrad Oblast)'},
+                                  'capital': {'coord': '52 15 N, 21 00 E', 'name': 'Warsaw', 'time_diff': 'UTC+1'},
+                                  'coast': 440,
                                   'coord': ['52 00 N, 20 00 E'],
                                   'popul': 38282325,
-                                  'ports': { 'container port': 'Gdansk (1,593,761)',
-                                             'major seaport': 'Gdansk, Gdynia, Swinoujscie'},
+                                  'ports': { 'container': 'Gdansk (1,593,761) (2017)',
+                                             'seaport': 'Gdansk, Gdynia, Swinoujscie'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PL',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_pl.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/poland'},
                          'nameset': [ 'poland',
                                       'polska',
                                       'republic of poland',
@@ -9915,6 +10833,14 @@ P1_CNTR = \
                                             'satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, '
                                             'and Intersputnik',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 6114926, 'fix': 6907937, 'internet': 29791401, 'mob': 52916105},
                                   'tld': '.pl',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.pl'}},
@@ -9978,18 +10904,15 @@ P1_CNTR = \
                 'infos': { 'codes': {'cc3': 'PRT', 'ccn': '620', 'gec': 'PO', 'stan': 'PRT'},
                            'geo': { 'airports': 64,
                                     'bound': {'bord': {'Spain': 1224}, 'len': 1224},
-                                    'capital': { 'coord': '38 43 N, 9 08 W',
-                                                 'name': 'Lisbon',
-                                                 'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}, 'len': 1793},
+                                    'capital': {'coord': '38 43 N, 9 08 W', 'name': 'Lisbon', 'time_diff': 'UTC 0'},
+                                    'coast': 1793,
                                     'coord': ['39 30 N, 8 00 W'],
                                     'popul': 10302674,
-                                    'ports': { 'container port': 'Sines (1,669,057)',
-                                               'major seaport': 'Leixoes, Lisbon, Setubal, Sines'},
+                                    'ports': { 'container': 'Sines (1,669,057) (2017)',
+                                               'seaport': 'Leixoes, Lisbon, Setubal, Sines'},
                                     'region': 'Europe',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PT',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_po.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/portugal'},
                            'nameset': [ 'portugal',
                                         'portuguese republic',
                                         'republica portuguesa',
@@ -10020,6 +10943,14 @@ P1_CNTR = \
                                               'Ocean), NA Eutelsat',
                                               'tropospheric scatter to Azores',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 3784684, 'fix': 5179685, 'internet': 7731411, 'mob': 12028436},
                                     'tld': '.pt',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.pt'}},
@@ -10048,17 +10979,16 @@ P1_CNTR = \
                                        'bound': {'bord': {}, 'len': 0},
                                        'capital': { 'coord': '18 28 N, 66 07 W',
                                                     'name': 'San Juan',
-                                                    'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
-                                       'coast': {'bord': {}, 'len': 501},
+                                                    'time_diff': 'UTC-4'},
+                                       'coast': 501,
                                        'coord': ['18 15 N, 66 30 W'],
                                        'popul': 3189068,
-                                       'ports': { 'container port': 'San Juan (1,210,503)',
-                                                  'major seaport': 'Ensenada Honda, Mayaguez, Playa de Guayanilla, '
-                                                                   'Playa de Ponce, San Juan'},
+                                       'ports': { 'container': 'San Juan (1,210,503) (2015)',
+                                                  'seaport': 'Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de '
+                                                             'Ponce, San Juan'},
                                        'region': 'Central America and the Caribbean',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PR',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_rq.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/puerto-rico'},
                               'nameset': [ 'commonwealth of puerto rico',
                                            'puerto rico',
                                            'the commonwealth of puerto rico'],
@@ -10084,6 +11014,14 @@ P1_CNTR = \
                                                  'US, Caribbean, Central and South America',
                                                  'satellite earth station - 1 Intelsat',
                                                  2019],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 609027, 'fix': 758869, 'internet': 2326006, 'mob': 3724680},
                                        'tld': '.pr',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.pr'}},
@@ -10107,21 +11045,18 @@ P1_CNTR = \
              'infos': { 'codes': {'cc3': 'QAT', 'ccn': '634', 'gec': 'QA', 'stan': 'QAT'},
                         'geo': { 'airports': 6,
                                  'bound': {'bord': {'Saudi Arabia': 87}, 'len': 87},
-                                 'capital': { 'coord': '25 17 N, 51 32 E',
-                                              'name': 'Doha',
-                                              'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 563},
+                                 'capital': {'coord': '25 17 N, 51 32 E', 'name': 'Doha', 'time_diff': 'UTC+3'},
+                                 'coast': 563,
                                  'coord': ['25 30 N, 51 15 E'],
                                  'popul': 2444174,
-                                 'ports': {'major seaport': "Doha, Musay'id, Ra's Laffan"},
+                                 'ports': {'seaport': "Doha, Musay'id, Ra's Laffan"},
                                  'region': 'Middle East',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:QA',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_qa.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/qatar'},
                         'nameset': ['dawlat qatar', 'qatar', 'state of qatar', 'the state of qatar'],
                         'tel': { 'code': '974',
                                  'domestic': [ 'fixed-line 16 per 100 and mobile-cellular telephone subscribership 138 '
-                                               'telephones per 100 persons',
+                                               'telephones per 100 persons (209)',
                                                0],
                                  'general': [ 'regional leaders in telecom',
                                               'highest fixed-line and mobile penetrations in Middle East',
@@ -10143,6 +11078,14 @@ P1_CNTR = \
                                            'Ocean) and 1 Arabsat',
                                            "retains full ownership of two commercial satellites, Es'hailSat 1 and 2",
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 267906, 'fix': 392048, 'internet': 2355297, 'mob': 3329155},
                                  'tld': '.qa',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.qa'}},
@@ -10158,16 +11101,15 @@ P1_CNTR = \
                                                'bound': {'bord': {'United Kingdom': 490}, 'len': 490},
                                                'capital': { 'coord': '53 19 N, 6 14 W',
                                                             'name': 'Dublin',
-                                                            'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, '
-                                                                         'during Standard Time)'},
-                                               'coast': {'bord': {}, 'len': 1448},
+                                                            'time_diff': 'UTC 0'},
+                                               'coast': 1448,
                                                'coord': ['53 00 N, 8 00 W'],
                                                'popul': 5176569,
-                                               'ports': { 'container port': 'Dublin (529,563)',
-                                                          'major seaport': 'Dublin, Shannon Foynes'},
+                                               'ports': { 'container': 'Dublin (529,563) (2016)',
+                                                          'seaport': 'Dublin, Shannon Foynes'},
                                                'region': 'Europe',
                                                'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IE',
-                                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ei.html'},
+                                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ireland'},
                                       'nameset': ['eire', 'ireland', 'republic of ireland'],
                                       'tel': { 'code': '353',
                                                'domestic': [ 'increasing levels of broadband access particularly in '
@@ -10196,6 +11138,14 @@ P1_CNTR = \
                                                          'Norway, Isle of Man and UK',
                                                          'satellite earth stations - 81',
                                                          2019],
+                                               'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                         'telecommunications production and supply chains globally',
+                                                         'consumer spending on telecom devices and services has also '
+                                                         "slowed due to the pandemic's effect on economies worldwide",
+                                                         'overall progress towards improvements in all facets of the '
+                                                         'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                         'cable and satellite - has moderated',
+                                                         0],
                                                'subs': { 'bb': 1430160,
                                                          'fix': 1854605,
                                                          'internet': 4283516,
@@ -10233,15 +11183,14 @@ P1_CNTR = \
                                                             'len': 5008},
                                                  'capital': { 'coord': '4 15 S, 15 17 E',
                                                               'name': 'Brazzaville',
-                                                              'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, '
-                                                                           'during Standard Time)'},
-                                                 'coast': {'bord': {}, 'len': 169},
+                                                              'time_diff': 'UTC+1'},
+                                                 'coast': 169,
                                                  'coord': ['1 00 S, 15 00 E'],
                                                  'popul': 5293070,
-                                                 'ports': {'major seaport': 'Pointe-Noire'},
+                                                 'ports': {'seaport': 'Pointe-Noire'},
                                                  'region': 'Africa',
                                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CG',
-                                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_cf.html'},
+                                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/congo-republic-of-the'},
                                         'nameset': [ 'congo',
                                                      'congo (brazzaville)',
                                                      'republic of the congo',
@@ -10269,6 +11218,14 @@ P1_CNTR = \
                                                            'Africa',
                                                            'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                            2019],
+                                                 'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                           'telecommunications production and supply chains globally',
+                                                           'consumer spending on telecom devices and services has also '
+                                                           "slowed due to the pandemic's effect on economies worldwide",
+                                                           'overall progress towards improvements in all facets of the '
+                                                           'telecom industry - mobile, fixed-line, broadband, '
+                                                           'submarine cable and satellite - has moderated',
+                                                           0],
                                                  'subs': {'fix': 17076, 'internet': 437865, 'mob': 4933529},
                                                  'tld': '.cg',
                                                  'url_tld': 'https://en.wikipedia.org/wiki/.cg'}},
@@ -10287,17 +11244,14 @@ P1_CNTR = \
                                                         'Serbia': 531,
                                                         'Ukraine': 601},
                                               'len': 2844},
-                                   'capital': { 'coord': '44 26 N, 26 06 E',
-                                                'name': 'Bucharest',
-                                                'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 225},
+                                   'capital': {'coord': '44 26 N, 26 06 E', 'name': 'Bucharest', 'time_diff': 'UTC+2'},
+                                   'coast': 225,
                                    'coord': ['46 00 N, 25 00 E'],
                                    'popul': 21302893,
-                                   'ports': {'major seaport': 'Constanta, Midia'},
+                                   'ports': {'seaport': 'Constanta, Midia'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RO',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ro.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/romania'},
                           'nameset': ['romania'],
                           'tel': { 'code': '40',
                                    'domestic': [ 'fixed-line teledensity is about 17 telephones per 100 persons',
@@ -10319,6 +11273,14 @@ P1_CNTR = \
                                              'satellite earth stations - 10',
                                              'digital, international, direct-dial exchanges operate in Bucharest',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 5083000, 'fix': 3731047, 'internet': 15165890, 'mob': 25033292},
                                    'tld': '.ro',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.ro'}},
@@ -10343,7 +11305,7 @@ P1_CNTR = \
                          'geo': { 'airports': 1218,
                                   'bound': { 'bord': { 'Azerbaijan': 338,
                                                        'Belarus': 1312,
-                                                       'China': 46,
+                                                       'China': 4179,
                                                        'Estonia': 324,
                                                        'Finland': 1309,
                                                        'Georgia': 894,
@@ -10355,20 +11317,19 @@ P1_CNTR = \
                                                        'Norway': 191,
                                                        'Poland': 210,
                                                        'Ukraine': 1944},
-                                             'len': 22408},
-                                  'capital': { 'coord': '55 45 N, 37 36 E',
-                                               'name': 'Moscow',
-                                               'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 37653},
+                                             'len': 22408,
+                                             'note': 'border with China (southeast); border with China (south); border '
+                                                     'with Lithuania (Kaliningrad Oblast); border with Poland '
+                                                     '(Kaliningrad Oblast)'},
+                                  'capital': {'coord': '55 45 N, 37 36 E', 'name': 'Moscow', 'time_diff': 'UTC+3'},
+                                  'coast': 37653,
                                   'coord': ['60 00 N, 100 00 E'],
                                   'popul': 141722205,
-                                  'ports': { 'container port': 'Saint Petersburg (1,848,700)',
-                                             'major seaport': 'Kaliningrad, Nakhodka, Novorossiysk, Primorsk, '
-                                                              'Vostochnyy'},
+                                  'ports': { 'container': 'Saint Petersburg (1,848,700) (2017)',
+                                             'seaport': 'Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy'},
                                   'region': 'Asia',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RU',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_rs.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/russia'},
                          'nameset': [ 'rossiya',
                                       'rossiyskaya federatsiya',
                                       'russia',
@@ -10405,6 +11366,14 @@ P1_CNTR = \
                                             'satellite earth stations provide access to Intelsat, Intersputnik, '
                                             'Eutelsat, Inmarsat, and Orbita systems',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 32062780, 'fix': 31171043, 'internet': 114920477, 'mob': 233342795},
                                   'tld': '.ru',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.ru'}},
@@ -10465,16 +11434,12 @@ P1_CNTR = \
                                                        'Tanzania': 222,
                                                        'Uganda': 172},
                                              'len': 930},
-                                  'capital': { 'coord': '1 57 S, 30 03 E',
-                                               'name': 'Kigali',
-                                               'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}},
+                                  'capital': {'coord': '1 57 S, 30 03 E', 'name': 'Kigali', 'time_diff': 'UTC+2'},
                                   'coord': ['2 00 S, 30 00 E'],
                                   'popul': 12712431,
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RW',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_rw.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/rwanda'},
                          'nameset': ['republic of rwanda', "republika y'u rwanda", 'rwanda', 'the republic of rwanda'],
                          'tel': { 'code': '250',
                                   'domestic': [ 'the capital, Kigali, is connected to provincial centers by microwave '
@@ -10499,7 +11464,15 @@ P1_CNTR = \
                                             'telex and telefax service)',
                                             'international submarine fiber-optic cables on the African east coast has '
                                             'brought international bandwidth and lessened the dependency on satellites',
-                                            2000],
+                                            0],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 7501, 'fix': 11215, 'internet': 2653197, 'mob': 9531609},
                                   'tld': '.rw',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.rw'}},
@@ -10521,20 +11494,19 @@ P1_CNTR = \
                'url': 'https://en.wikipedia.org/wiki/R%C3%A9union'},
   'Saint Barthélemy': { 'cc2': 'BL',
                         'dep': 'FR',
-                        'infos': { 'codes': {'cc3': 'BLM', 'ccn': '652', 'gec': 'TB', 'stan': '-'},
+                        'infos': { 'codes': {'cc3': 'BLM', 'ccn': '652', 'gec': 'TB'},
                                    'geo': { 'airports': 1,
                                             'bound': {'bord': {}, 'len': 0},
                                             'capital': { 'coord': '17 53 N, 62 51 W',
                                                          'name': 'Gustavia',
-                                                         'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during '
-                                                                      'Standard Time)'},
+                                                         'time_diff': 'UTC-4'},
                                             'cmt': 'ccTLD .fr and .gp may also be used',
                                             'coord': ['17 90 N, 62 85 W'],
                                             'popul': 7122,
-                                            'ports': {'major seaport': 'Gustavia'},
+                                            'ports': {'seaport': 'Gustavia'},
                                             'region': 'Central America and the Caribbean',
                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BL',
-                                            'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tb.html'},
+                                            'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saint-barthelemy'},
                                    'nameset': [ "collectivite d'outre mer de saint-barthelemy",
                                                 'collectivity of saint-barthélemy',
                                                 'overseas collectivity of saint barthelemy',
@@ -10551,6 +11523,14 @@ P1_CNTR = \
                                                       'submarine cables providing voice and data connectivity to '
                                                       'numerous Caribbean Islands',
                                                       2019],
+                                            'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                      'telecommunications production and supply chains globally',
+                                                      'consumer spending on telecom devices and services has also '
+                                                      "slowed due to the pandemic's effect on economies worldwide",
+                                                      'overall progress towards improvements in all facets of the '
+                                                      'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                      'cable and satellite - has moderated',
+                                                      0],
                                             'tld': '.bl',
                                             'url_tld': 'https://en.wikipedia.org/wiki/.bl'}},
                         'mcc': ['340'],
@@ -10577,25 +11557,20 @@ P1_CNTR = \
                                                                         'bound': {'bord': {}, 'len': 0},
                                                                         'capital': { 'coord': '15 56 S, 5 43 W',
                                                                                      'name': 'Jamestown',
-                                                                                     'time_diff': 'UTC 0 (5 hours '
-                                                                                                  'ahead of '
-                                                                                                  'Washington, DC, '
-                                                                                                  'during Standard '
-                                                                                                  'Time)'},
+                                                                                     'time_diff': 'UTC 0'},
                                                                         'cmt': 'includes Saint Helena Island, '
                                                                                'Ascension Island, and the Tristan da '
                                                                                'Cunha archipelago',
-                                                                        'coast': {'bord': {}},
                                                                         'coord': [ ('Saint Helena', '15 57 S, 5 42 W'),
                                                                                    ( 'Ascension Island',
                                                                                      '7 57 S, 14 22 W'),
                                                                                    ( 'Tristan da Cunha island group',
                                                                                      '37 15 S, 12 30 W')],
                                                                         'popul': 7862,
-                                                                        'ports': {'major seaport': 'Saint Helena'},
+                                                                        'ports': {'seaport': 'Saint Helena'},
                                                                         'region': 'Africa',
                                                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SH',
-                                                                        'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sh.html'},
+                                                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saint-helena-ascension-and-tristan-da-cunha'},
                                                                'nameset': [ 'saint helena ascension and tristan da '
                                                                             'cunha',
                                                                             'saint helena, ascension and tristan da '
@@ -10640,6 +11615,20 @@ P1_CNTR = \
                                                                                   '(Ascension Island - 4, Saint Helena '
                                                                                   '- 1)',
                                                                                   2019],
+                                                                        'note': [ 'the COVID-19 outbreak is negatively '
+                                                                                  'impacting telecommunications '
+                                                                                  'production and supply chains '
+                                                                                  'globally',
+                                                                                  'consumer spending on telecom '
+                                                                                  'devices and services has also '
+                                                                                  "slowed due to the pandemic's effect "
+                                                                                  'on economies worldwide',
+                                                                                  'overall progress towards '
+                                                                                  'improvements in all facets of the '
+                                                                                  'telecom industry - mobile, '
+                                                                                  'fixed-line, broadband, submarine '
+                                                                                  'cable and satellite - has moderated',
+                                                                                  0],
                                                                         'subs': { 'bb': 1347,
                                                                                   'fix': 3921,
                                                                                   'internet': 1800,
@@ -10658,15 +11647,14 @@ P1_CNTR = \
                                                  'bound': {'bord': {}, 'len': 0},
                                                  'capital': { 'coord': '17 18 N, 62 43 W',
                                                               'name': 'Basseterre',
-                                                              'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, '
-                                                                           'during Standard Time)'},
-                                                 'coast': {'bord': {}, 'len': 135},
+                                                              'time_diff': 'UTC-4'},
+                                                 'coast': 135,
                                                  'coord': ['17 20 N, 62 45 W'],
                                                  'popul': 53821,
-                                                 'ports': {'major seaport': 'Basseterre, Charlestown'},
+                                                 'ports': {'seaport': 'Basseterre, Charlestown'},
                                                  'region': 'Central America and the Caribbean',
                                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KN',
-                                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sc.html'},
+                                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saint-kitts-and-nevis'},
                                         'nameset': ['federation of saint kitts and nevis', 'saint kitts and nevis'],
                                         'tel': { 'code': '1869',
                                                  'domestic': [ 'interisland links via ECFS',
@@ -10685,6 +11673,14 @@ P1_CNTR = \
                                                            'the SSCS submarine cables providing connectivity for '
                                                            'numerous Caribbean Islands',
                                                            2019],
+                                                 'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                           'telecommunications production and supply chains globally',
+                                                           'consumer spending on telecom devices and services has also '
+                                                           "slowed due to the pandemic's effect on economies worldwide",
+                                                           'overall progress towards improvements in all facets of the '
+                                                           'telecom industry - mobile, fixed-line, broadband, '
+                                                           'submarine cable and satellite - has moderated',
+                                                           0],
                                                  'subs': {'bb': 16400, 'fix': 17766, 'internet': 42852, 'mob': 78970},
                                                  'tld': '.kn',
                                                  'url_tld': 'https://en.wikipedia.org/wiki/.kn'}},
@@ -10700,15 +11696,14 @@ P1_CNTR = \
                                        'bound': {'bord': {}, 'len': 0},
                                        'capital': { 'coord': '14 00 N, 61 00 W',
                                                     'name': 'Castries',
-                                                    'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
-                                       'coast': {'bord': {}, 'len': 158},
+                                                    'time_diff': 'UTC-4'},
+                                       'coast': 158,
                                        'coord': ['13 53 N, 60 58 W'],
                                        'popul': 166487,
-                                       'ports': {'major seaport': 'Castries, Cul-de-Sac, Vieux-Fort'},
+                                       'ports': {'seaport': 'Castries, Cul-de-Sac, Vieux-Fort'},
                                        'region': 'Central America and the Caribbean',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LC',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_st.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saint-lucia'},
                               'nameset': ['saint lucia'],
                               'tel': { 'code': '1758',
                                        'domestic': [ 'fixed-line teledensity is 20 per 100 persons and mobile-cellular '
@@ -10728,6 +11723,14 @@ P1_CNTR = \
                                                  'and the Grenadines',
                                                  'tropospheric scatter to Barbados',
                                                  2019],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 32265, 'fix': 33285, 'internet': 84112, 'mob': 168797},
                                        'tld': '.lc',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.lc'}},
@@ -10738,20 +11741,19 @@ P1_CNTR = \
                    'url': 'https://en.wikipedia.org/wiki/Saint_Lucia'},
   'Saint Martin': { 'cc2': 'MF',
                     'dep': 'FR',
-                    'infos': { 'codes': {'cc3': 'MAF', 'ccn': '663', 'gec': 'RN', 'stan': '-'},
+                    'infos': { 'codes': {'cc3': 'MAF', 'ccn': '663', 'gec': 'RN'},
                                'geo': { 'airports': 1,
                                         'bound': {'bord': {'Sint Maarten': 16}, 'len': 16},
                                         'capital': { 'coord': '18 04 N, 63 05 W',
                                                      'name': 'Marigot',
-                                                     'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during '
-                                                                  'Standard Time)'},
+                                                     'time_diff': 'UTC-4'},
                                         'cmt': 'ccTLD .fr and .gp may also be used',
-                                        'coast': {'bord': {}},
+                                        'coast': 58,
                                         'coord': ['18 05 N, 63 57 W'],
                                         'popul': 32556,
                                         'region': 'Central America and the Caribbean',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MF',
-                                        'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_rn.html'},
+                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saint-martin'},
                                'nameset': [ "collectivite d'outre mer de saint-martin",
                                             'collectivity of saint-martin',
                                             'overseas collectivity of saint martin',
@@ -10773,6 +11775,14 @@ P1_CNTR = \
                                                   'SSCS submarine cables providing connectivity to numerous Caribbean '
                                                   'islands',
                                                   2019],
+                                        'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                  'production and supply chains globally',
+                                                  'consumer spending on telecom devices and services has also slowed '
+                                                  "due to the pandemic's effect on economies worldwide",
+                                                  'overall progress towards improvements in all facets of the telecom '
+                                                  'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                  'satellite - has moderated',
+                                                  0],
                                         'subs': {'internet': 1100},
                                         'tld': '.mf',
                                         'url_tld': 'https://en.wikipedia.org/wiki/.mf'}},
@@ -10797,15 +11807,14 @@ P1_CNTR = \
                                                      'bound': {'bord': {}, 'len': 0},
                                                      'capital': { 'coord': '46 46 N, 56 11 W',
                                                                   'name': 'Saint-Pierre',
-                                                                  'time_diff': 'UTC-3 (2 hours ahead of Washington, '
-                                                                               'DC, during Standard Time)'},
-                                                     'coast': {'bord': {}, 'len': 120},
+                                                                  'time_diff': 'UTC-3'},
+                                                     'coast': 120,
                                                      'coord': ['46 50 N, 56 20 W'],
                                                      'popul': 5347,
-                                                     'ports': {'major seaport': 'Saint-Pierre'},
+                                                     'ports': {'seaport': 'Saint-Pierre'},
                                                      'region': 'North America',
                                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PM',
-                                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sb.html'},
+                                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saint-pierre-and-miquelon'},
                                             'nameset': [ 'departement de saint-pierre et miquelon',
                                                          'overseas collectivity of saint-pierre and miquelon',
                                                          'saint pierre and miquelon',
@@ -10822,6 +11831,16 @@ P1_CNTR = \
                                                                'satellite earth station - 1 in French domestic '
                                                                'satellite system',
                                                                2019],
+                                                     'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                               'telecommunications production and supply chains '
+                                                               'globally',
+                                                               'consumer spending on telecom devices and services has '
+                                                               "also slowed due to the pandemic's effect on economies "
+                                                               'worldwide',
+                                                               'overall progress towards improvements in all facets of '
+                                                               'the telecom industry - mobile, fixed-line, broadband, '
+                                                               'submarine cable and satellite - has moderated',
+                                                               0],
                                                      'subs': {'fix': 4086, 'internet': 4500},
                                                      'tld': '.pm',
                                                      'url_tld': 'https://en.wikipedia.org/wiki/.pm'}},
@@ -10837,16 +11856,14 @@ P1_CNTR = \
                                                             'bound': {'bord': {}, 'len': 0},
                                                             'capital': { 'coord': '13 08 N, 61 13 W',
                                                                          'name': 'Kingstown',
-                                                                         'time_diff': 'UTC-4 (1 hour ahead of '
-                                                                                      'Washington, DC, during Standard '
-                                                                                      'Time)'},
-                                                            'coast': {'bord': {}, 'len': 84},
+                                                                         'time_diff': 'UTC-4'},
+                                                            'coast': 84,
                                                             'coord': ['13 15 N, 61 12 W'],
                                                             'popul': 101390,
-                                                            'ports': {'major seaport': 'Kingstown'},
+                                                            'ports': {'seaport': 'Kingstown'},
                                                             'region': 'Central America and the Caribbean',
                                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VC',
-                                                            'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_vc.html'},
+                                                            'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saint-vincent-and-the-grenadines'},
                                                    'nameset': ['saint vincent and the grenadines'],
                                                    'tel': { 'code': '1784',
                                                             'domestic': [ 'fixed-line teledensity exceeds 12 per 100 '
@@ -10873,6 +11890,17 @@ P1_CNTR = \
                                                                       'access to Intelsat earth station in Martinique '
                                                                       'through Saint Lucia',
                                                                       2019],
+                                                            'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                                      'telecommunications production and supply chains '
+                                                                      'globally',
+                                                                      'consumer spending on telecom devices and '
+                                                                      "services has also slowed due to the pandemic's "
+                                                                      'effect on economies worldwide',
+                                                                      'overall progress towards improvements in all '
+                                                                      'facets of the telecom industry - mobile, '
+                                                                      'fixed-line, broadband, submarine cable and '
+                                                                      'satellite - has moderated',
+                                                                      0],
                                                             'subs': { 'bb': 24613,
                                                                       'fix': 11889,
                                                                       'internet': 22803,
@@ -10889,17 +11917,14 @@ P1_CNTR = \
              'infos': { 'codes': {'cc3': 'WSM', 'ccn': '882', 'gec': 'WS', 'stan': 'WSM'},
                         'geo': { 'airports': 4,
                                  'bound': {'bord': {}, 'len': 0},
-                                 'capital': { 'coord': '13 49 S, 171 46 W',
-                                              'name': 'Apia',
-                                              'time_diff': 'UTC+13 (18 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 403},
+                                 'capital': {'coord': '13 49 S, 171 46 W', 'name': 'Apia', 'time_diff': 'UTC+13'},
+                                 'coast': 403,
                                  'coord': ['13 35 S, 172 20 W'],
                                  'popul': 203774,
-                                 'ports': {'major seaport': 'Apia'},
+                                 'ports': {'seaport': 'Apia'},
                                  'region': 'Oceania',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:WS',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ws.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/samoa'},
                         'nameset': [ 'independent state of samoa',
                                      "malo sa'oloto tuto'atasi o samoa",
                                      'samoa',
@@ -10925,6 +11950,14 @@ P1_CNTR = \
                                            'Zealand, Kiribati, Los Angeles (US), and Tokelau',
                                            'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 1692, 'fix': 8770, 'internet': 67662, 'mob': 128776},
                                  'tld': '.ws',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.ws'}},
@@ -10939,14 +11972,12 @@ P1_CNTR = \
                              'geo': { 'bound': {'bord': {'Italy': 37}, 'len': 37},
                                       'capital': { 'coord': '43 56 N, 12 25 E',
                                                    'name': 'San Marino (city)',
-                                                   'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}},
+                                                   'time_diff': 'UTC+1'},
                                       'coord': ['43 46 N, 12 25 E'],
                                       'popul': 34232,
                                       'region': 'Europe',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SM',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sm.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/san-marino'},
                              'nameset': [ 'repubblica di san marino',
                                           'republic of san marino',
                                           'san marino',
@@ -10958,7 +11989,15 @@ P1_CNTR = \
                                       'general': [ 'automatic telephone system completely integrated into Italian '
                                                    'system',
                                                    2018],
-                                      'intl': ['connected to Italian international network', 2000],
+                                      'intl': ['connected to Italian international network', 0],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 12500, 'fix': 16070, 'internet': 20328, 'mob': 38921},
                                       'tld': '.sm',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.sm'}},
@@ -10974,15 +12013,14 @@ P1_CNTR = \
                                                  'bound': {'bord': {}, 'len': 0},
                                                  'capital': { 'coord': '0 20 N, 6 44 E',
                                                               'name': 'Sao Tome',
-                                                              'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, '
-                                                                           'during Standard Time)'},
-                                                 'coast': {'bord': {}, 'len': 209},
+                                                              'time_diff': 'UTC 0'},
+                                                 'coast': 209,
                                                  'coord': ['1 00 N, 7 00 E'],
                                                  'popul': 211122,
-                                                 'ports': {'major seaport': 'Sao Tome'},
+                                                 'ports': {'seaport': 'Sao Tome'},
                                                  'region': 'Africa',
                                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ST',
-                                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tp.html'},
+                                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/sao-tome-and-principe'},
                                         'nameset': [ 'democratic republic of sao tome and principe',
                                                      'democratic republic of são tomé and príncipe',
                                                      'republica democratica de sao tome e principe',
@@ -11004,6 +12042,14 @@ P1_CNTR = \
                                                            'and Europe',
                                                            'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                            2019],
+                                                 'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                           'telecommunications production and supply chains globally',
+                                                           'consumer spending on telecom devices and services has also '
+                                                           "slowed due to the pandemic's effect on economies worldwide",
+                                                           'overall progress towards improvements in all facets of the '
+                                                           'telecom industry - mobile, fixed-line, broadband, '
+                                                           'submarine cable and satellite - has moderated',
+                                                           0],
                                                  'subs': {'bb': 1557, 'fix': 4614, 'internet': 61193, 'mob': 160189},
                                                  'tld': '.st',
                                                  'url_tld': 'https://en.wikipedia.org/wiki/.st'}},
@@ -11026,18 +12072,16 @@ P1_CNTR = \
                                                    'len': 4272},
                                         'capital': { 'coord': '24 39 N, 46 42 E',
                                                      'name': 'Riyadh',
-                                                     'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during '
-                                                                  'Standard Time)'},
-                                        'coast': {'bord': {}, 'len': 2640},
+                                                     'time_diff': 'UTC+3'},
+                                        'coast': 2640,
                                         'coord': ['25 00 N, 45 00 E'],
                                         'popul': 34173498,
-                                        'ports': { 'container port': 'Ad Dammam (1,582,388), Jeddah (4,150,000), King '
-                                                                     'Abdulla (1,695,322)',
-                                                   'major seaport': 'Ad Dammam, Al Jubayl, Jeddah, King Abdulla, '
-                                                                    "Yanbu'"},
+                                        'ports': { 'container': 'Ad Dammam (1,582,388), Jeddah (4,150,000), King '
+                                                                'Abdulla (1,695,322) (2017)',
+                                                   'seaport': "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'"},
                                         'region': 'Middle East',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SA',
-                                        'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sa.html'},
+                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saudi-arabia'},
                                'nameset': [ 'al arabiyah as suudiyah',
                                             'al mamlakah al arabiyah as suudiyah',
                                             'kingdom of saudi arabia',
@@ -11066,6 +12110,14 @@ P1_CNTR = \
                                                   'satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 '
                                                   'Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region)',
                                                   2019],
+                                        'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                  'production and supply chains globally',
+                                                  'consumer spending on telecom devices and services has also slowed '
+                                                  "due to the pandemic's effect on economies worldwide",
+                                                  'overall progress towards improvements in all facets of the telecom '
+                                                  'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                  'satellite - has moderated',
+                                                  0],
                                         'subs': {'bb': 6821873, 'fix': 5276773, 'internet': 30877318, 'mob': 40532610},
                                         'tld': '.sa',
                                         'url_tld': 'https://en.wikipedia.org/wiki/.sa'}},
@@ -11084,17 +12136,14 @@ P1_CNTR = \
                                                         'Mauritania': 742,
                                                         'The Gambia': 749},
                                               'len': 2684},
-                                   'capital': { 'coord': '14 44 N, 17 38 W',
-                                                'name': 'Dakar',
-                                                'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 531},
+                                   'capital': {'coord': '14 44 N, 17 38 W', 'name': 'Dakar', 'time_diff': 'UTC 0'},
+                                   'coast': 531,
                                    'coord': ['14 00 N, 14 00 W'],
                                    'popul': 15736368,
-                                   'ports': {'major seaport': 'Dakar'},
+                                   'ports': {'seaport': 'Dakar'},
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SN',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sg.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/senegal'},
                           'nameset': [ 'republic of senegal',
                                        'republique du senegal',
                                        'senegal',
@@ -11118,6 +12167,14 @@ P1_CNTR = \
                                              'African countries, Europe and South America',
                                              'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 129820, 'fix': 195288, 'internet': 6909635, 'mob': 16871654},
                                    'tld': '.sn',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.sn'}},
@@ -11128,7 +12185,7 @@ P1_CNTR = \
                'url': 'https://en.wikipedia.org/wiki/Senegal'},
   'Serbia': { 'cc2': 'RS',
               'dep': None,
-              'infos': { 'codes': {'cc3': 'SRB', 'ccn': '688', 'gec': 'RI', 'stan': '-'},
+              'infos': { 'codes': {'cc3': 'SRB', 'ccn': '688', 'gec': 'RI'},
                          'geo': { 'airports': 26,
                                   'bound': { 'bord': { 'Bosnia and Herzegovina': 345,
                                                        'Bulgaria': 344,
@@ -11141,14 +12198,12 @@ P1_CNTR = \
                                              'len': 2322},
                                   'capital': { 'coord': '44 50 N, 20 30 E',
                                                'name': 'Belgrade (Beograd)',
-                                               'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}},
+                                               'time_diff': 'UTC+1'},
                                   'coord': ['44 00 N, 21 00 E'],
                                   'popul': 7012165,
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RS',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ri.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/serbia'},
                          'nameset': [ 'republic of serbia',
                                       'republika srbija',
                                       'serbia',
@@ -11165,7 +12220,15 @@ P1_CNTR = \
                                                '5G trials',
                                                'high mobile penetration the result of multiple SIM cards',
                                                2020],
-                                  'intl': [2000],
+                                  'intl': [0],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 1552160, 'fix': 2060005, 'internet': 5192501, 'mob': 6789423},
                                   'tld': '.rs',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.rs'}},
@@ -11179,17 +12242,14 @@ P1_CNTR = \
                   'infos': { 'codes': {'cc3': 'SYC', 'ccn': '690', 'gec': 'SE', 'stan': 'SYC'},
                              'geo': { 'airports': 14,
                                       'bound': {'bord': {}, 'len': 0},
-                                      'capital': { 'coord': '4 37 S, 55 27 E',
-                                                   'name': 'Victoria',
-                                                   'time_diff': 'UTC+4 (9 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}, 'len': 491},
+                                      'capital': {'coord': '4 37 S, 55 27 E', 'name': 'Victoria', 'time_diff': 'UTC+4'},
+                                      'coast': 491,
                                       'coord': ['4 35 S, 55 40 E'],
                                       'popul': 95981,
-                                      'ports': {'major seaport': 'Victoria'},
+                                      'ports': {'seaport': 'Victoria'},
                                       'region': 'Africa',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SC',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_se.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/seychelles'},
                              'nameset': ['republic of seychelles', 'seychelles', 'the republic of seychelles'],
                              'tel': { 'code': '248',
                                       'domestic': [ 'fixed-line 21 per 100 and mobile-cellular teledensity is 198 '
@@ -11208,6 +12268,14 @@ P1_CNTR = \
                                                 'and African coastal countries',
                                                 'satellite earth station - 1 Intelsat (Indian Ocean)',
                                                 2019],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 19696, 'fix': 19627, 'internet': 55616, 'mob': 188879},
                                       'tld': '.sc',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.sc'}},
@@ -11223,15 +12291,14 @@ P1_CNTR = \
                                         'bound': {'bord': {'Guinea': 794, 'Liberia': 299}, 'len': 1093},
                                         'capital': { 'coord': '8 29 N, 13 14 W',
                                                      'name': 'Freetown',
-                                                     'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during '
-                                                                  'Standard Time)'},
-                                        'coast': {'bord': {}, 'len': 402},
+                                                     'time_diff': 'UTC 0'},
+                                        'coast': 402,
                                         'coord': ['8 30 N, 11 30 W'],
                                         'popul': 6624933,
-                                        'ports': {'major seaport': 'Freetown, Pepel, Sherbro Islands'},
+                                        'ports': {'seaport': 'Freetown, Pepel, Sherbro Islands'},
                                         'region': 'Africa',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SL',
-                                        'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sl.html'},
+                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/sierra-leone'},
                                'nameset': ['republic of sierra leone', 'sierra leone', 'the republic of sierra leone'],
                                'tel': { 'code': '232',
                                         'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular 86 per 100',
@@ -11251,6 +12318,14 @@ P1_CNTR = \
                                                   'over 20 western African countries and Europe',
                                                   'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                   2019],
+                                        'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                  'production and supply chains globally',
+                                                  'consumer spending on telecom devices and services has also slowed '
+                                                  "due to the pandemic's effect on economies worldwide",
+                                                  'overall progress towards improvements in all facets of the telecom '
+                                                  'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                  'satellite - has moderated',
+                                                  0],
                                         'subs': {'fix': 2586, 'internet': 568099, 'mob': 5569221},
                                         'tld': '.sl',
                                         'url_tld': 'https://en.wikipedia.org/wiki/.sl'}},
@@ -11276,16 +12351,14 @@ P1_CNTR = \
                                      'bound': {'bord': {}, 'len': 0},
                                      'capital': { 'coord': '1 17 N, 103 51 E',
                                                   'name': 'Singapore',
-                                                  'time_diff': 'UTC+8 (13 hours ahead of Washington, DC, during '
-                                                               'Standard Time)'},
-                                     'coast': {'bord': {}, 'len': 193},
+                                                  'time_diff': 'UTC+8'},
+                                     'coast': 193,
                                      'coord': ['1 22 N, 103 48 E'],
                                      'popul': 6209660,
-                                     'ports': { 'container port': 'Singapore (33,666,000)',
-                                                'major seaport': 'Singapore'},
+                                     'ports': {'container': 'Singapore (33,666,000) (2017)', 'seaport': 'Singapore'},
                                      'region': 'Southeast Asia',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SG',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sn.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/singapore'},
                             'nameset': ['republic of singapore', 'singapore', 'the republic of singapore'],
                             'tel': { 'code': '65',
                                      'domestic': [ 'excellent domestic facilities',
@@ -11314,6 +12387,14 @@ P1_CNTR = \
                                                'satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa',
                                                'supplemented by VSAT coverage',
                                                2019],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 1610500, 'fix': 2003594, 'internet': 5286665, 'mob': 9543773},
                                      'tld': '.sg',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.sg'}},
@@ -11334,20 +12415,21 @@ P1_CNTR = \
                  'url': 'https://en.wikipedia.org/wiki/Singapore'},
   'Sint Maarten': { 'cc2': 'SX',
                     'dep': 'NL',
-                    'infos': { 'codes': {'cc3': 'SXM', 'ccn': '534', 'gec': 'NN', 'stan': '-'},
+                    'infos': { 'codes': {'cc3': 'SXM', 'ccn': '534', 'gec': 'NN'},
                                'geo': { 'airports': 1,
-                                        'bound': {'bord': {'Saint Martin': 16}, 'len': 16},
+                                        'bound': { 'bord': {'Saint Martin': 16},
+                                                   'len': 16,
+                                                   'note': 'border with Saint Martin (France)'},
                                         'capital': { 'coord': '18 1 N, 63 2 W',
                                                      'name': 'Philipsburg',
-                                                     'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during '
-                                                                  'Standard Time)'},
-                                        'coast': {'bord': {}},
+                                                     'time_diff': 'UTC-4'},
+                                        'coast': 58,
                                         'coord': ['18 4 N, 63 4 W'],
                                         'popul': 43847,
-                                        'ports': {'major seaport': 'Philipsburg'},
+                                        'ports': {'seaport': 'Philipsburg'},
                                         'region': 'Central America and the Caribbean',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SX',
-                                        'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_nn.html'},
+                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/sint-maarten'},
                                'nameset': [ 'country of sint maarten',
                                             'land sint maarten',
                                             'land sint maarten (dutch); country of sint maarten (english)',
@@ -11367,6 +12449,14 @@ P1_CNTR = \
                                                   'connectivity to the Caribbean',
                                                   'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                                   2019],
+                                        'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                  'production and supply chains globally',
+                                                  'consumer spending on telecom devices and services has also slowed '
+                                                  "due to the pandemic's effect on economies worldwide",
+                                                  'overall progress towards improvements in all facets of the telecom '
+                                                  'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                  'satellite - has moderated',
+                                                  0],
                                         'subs': {'mob': 84773},
                                         'tld': '.sx',
                                         'url_tld': 'https://en.wikipedia.org/wiki/.sx'}},
@@ -11403,14 +12493,12 @@ P1_CNTR = \
                                                'len': 1611},
                                     'capital': { 'coord': '48 09 N, 17 07 E',
                                                  'name': 'Bratislava',
-                                                 'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}},
+                                                 'time_diff': 'UTC+1'},
                                     'coord': ['48 40 N, 19 30 E'],
                                     'popul': 5440602,
                                     'region': 'Europe',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SK',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_lo.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/slovakia'},
                            'nameset': [ 'slovak republic',
                                         'slovakia',
                                         'slovenska republika',
@@ -11440,6 +12528,14 @@ P1_CNTR = \
                                               'projects that will increase the availability of external services',
                                               'connects to DREAM cable',
                                               2017],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 1507998, 'fix': 673341, 'internet': 4391969, 'mob': 7381164},
                                     'tld': '.sk',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.sk'}},
@@ -11465,17 +12561,14 @@ P1_CNTR = \
                            'geo': { 'airports': 16,
                                     'bound': { 'bord': {'Austria': 299, 'Croatia': 600, 'Hungary': 94, 'Italy': 218},
                                                'len': 1211},
-                                    'capital': { 'coord': '46 03 N, 14 31 E',
-                                                 'name': 'Ljubljana',
-                                                 'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}, 'len': 46},
+                                    'capital': {'coord': '46 03 N, 14 31 E', 'name': 'Ljubljana', 'time_diff': 'UTC+1'},
+                                    'coast': 46,
                                     'coord': ['46 07 N, 14 49 E'],
                                     'popul': 2102678,
-                                    'ports': {'major seaport': 'Koper'},
+                                    'ports': {'seaport': 'Koper'},
                                     'region': 'Europe',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SI',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_si.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/slovenia'},
                            'nameset': [ 'republic of slovenia',
                                         'republika slovenija',
                                         'slovenia',
@@ -11496,6 +12589,14 @@ P1_CNTR = \
                                                  'FttP to 90% of population by 2020',
                                                  2020],
                                     'intl': [2016],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 612737, 'fix': 715283, 'internet': 1676445, 'mob': 2540917},
                                     'tld': '.si',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.si'}},
@@ -11511,15 +12612,14 @@ P1_CNTR = \
                                            'bound': {'bord': {}, 'len': 0},
                                            'capital': { 'coord': '9 26 S, 159 57 E',
                                                         'name': 'Honiara',
-                                                        'time_diff': 'UTC+11 (16 hours ahead of Washington, DC, during '
-                                                                     'Standard Time)'},
-                                           'coast': {'bord': {}, 'len': 5313},
+                                                        'time_diff': 'UTC+11'},
+                                           'coast': 5313,
                                            'coord': ['8 00 S, 159 00 E'],
                                            'popul': 685097,
-                                           'ports': {'major seaport': 'Honiara, Malloco Bay, Viru Harbor, Tulaghi'},
+                                           'ports': {'seaport': 'Honiara, Malloco Bay, Viru Harbor, Tulaghi'},
                                            'region': 'Oceania',
                                            'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SB',
-                                           'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bp.html'},
+                                           'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/solomon-islands'},
                                   'nameset': ['solomon islands', 'the solomon islands'],
                                   'tel': { 'code': '677',
                                            'domestic': [ 'fixed-line is 1 per 100 persons and mobile-cellular '
@@ -11539,6 +12639,14 @@ P1_CNTR = \
                                                      'connectivity from Solomon Islands, to PNG, Vanuatu and Australia',
                                                      'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                                      2019],
+                                           'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                     'production and supply chains globally',
+                                                     'consumer spending on telecom devices and services has also '
+                                                     "slowed due to the pandemic's effect on economies worldwide",
+                                                     'overall progress towards improvements in all facets of the '
+                                                     'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                     'cable and satellite - has moderated',
+                                                     0],
                                            'subs': {'bb': 1488, 'fix': 7130, 'internet': 78686, 'mob': 480124},
                                            'tld': '.sb',
                                            'url_tld': 'https://en.wikipedia.org/wiki/.sb'}},
@@ -11552,17 +12660,14 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'SOM', 'ccn': '706', 'gec': 'SO', 'stan': 'SOM'},
                           'geo': { 'airports': 52,
                                    'bound': {'bord': {'Djibouti': 61, 'Ethiopia': 1640, 'Kenya': 684}, 'len': 2385},
-                                   'capital': { 'coord': '2 04 N, 45 20 E',
-                                                'name': 'Mogadishu',
-                                                'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 3025},
+                                   'capital': {'coord': '2 04 N, 45 20 E', 'name': 'Mogadishu', 'time_diff': 'UTC+3'},
+                                   'coast': 3025,
                                    'coord': ['10 00 N, 49 00 E'],
                                    'popul': 11757124,
-                                   'ports': {'major seaport': 'Berbera, Kismaayo'},
+                                   'ports': {'seaport': 'Berbera, Kismaayo'},
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SO',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_so.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/somalia'},
                           'nameset': [ 'federal republic of somalia',
                                        'jamhuuriyadda federaalkaa soomaaliya',
                                        'somalia',
@@ -11589,6 +12694,14 @@ P1_CNTR = \
                                              'submarine cable system linking East Africa, Indian Ocean Islands, the '
                                              'Middle East, North Africa and Europe',
                                              2019],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 92000, 'fix': 74800, 'internet': 225181, 'mob': 5612338},
                                    'tld': '.so',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.so'}},
@@ -11624,17 +12737,16 @@ P1_CNTR = \
                                         'capital': { 'coord': '25 42 S, 28 13 E',
                                                      'name': 'Pretoria (administrative capital); Cape Town '
                                                              '(legislative capital); Bloemfontein (judicial capital)',
-                                                     'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during '
-                                                                  'Standard Time)'},
-                                        'coast': {'bord': {}, 'len': 2798},
+                                                     'time_diff': 'UTC+2'},
+                                        'coast': 2798,
                                         'coord': ['29 00 S, 24 00 E'],
                                         'popul': 56463617,
-                                        'ports': { 'container port': 'Durban (2,699,978)',
-                                                   'major seaport': 'Cape Town, Durban, Port Elizabeth, Richards Bay, '
-                                                                    'Saldanha Bay'},
+                                        'ports': { 'container': 'Durban (2,699,978) (2017)',
+                                                   'seaport': 'Cape Town, Durban, Port Elizabeth, Richards Bay, '
+                                                              'Saldanha Bay'},
                                         'region': 'Africa',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ZA',
-                                        'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sf.html'},
+                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/south-africa'},
                                'nameset': ['republic of south africa', 'south africa', 'the republic of south africa'],
                                'tel': { 'code': '27',
                                         'domestic': [ 'fixed-line 3 per 100 persons and mobile-cellular 166 telephones '
@@ -11664,6 +12776,14 @@ P1_CNTR = \
                                                   'satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 '
                                                   'Atlantic Ocean)',
                                                   2019],
+                                        'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                  'production and supply chains globally',
+                                                  'consumer spending on telecom devices and services has also slowed '
+                                                  "due to the pandemic's effect on economies worldwide",
+                                                  'overall progress towards improvements in all facets of the telecom '
+                                                  'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                  'satellite - has moderated',
+                                                  0],
                                         'subs': {'bb': 1107013, 'fix': 1934778, 'internet': 31107064, 'mob': 92600942},
                                         'tld': '.za',
                                         'url_tld': 'https://en.wikipedia.org/wiki/.za'}},
@@ -11715,12 +12835,11 @@ P1_CNTR = \
                                                                           'gec': 'SX',
                                                                           'stan': 'SGS'},
                                                                'geo': { 'bound': {'bord': {}, 'len': 0},
-                                                                        'coast': {'bord': {}},
                                                                         'coord': ['54 30 S, 37 00 W'],
-                                                                        'ports': {'major seaport': 'Grytviken'},
+                                                                        'ports': {'seaport': 'Grytviken'},
                                                                         'region': 'Antarctic Region',
                                                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GS',
-                                                                        'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sx.html'},
+                                                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/south-georgia-and-south-sandwich-islands'},
                                                                'nameset': [ 'south georgia and south sandwich islands',
                                                                             'south georgia and the south sandwich '
                                                                             'islands'],
@@ -11740,18 +12859,17 @@ P1_CNTR = \
                                                     'name': 'Seoul; note - Sejong, located some 120 km (75 mi) south '
                                                             'of Seoul, is serving as an administrative capital for '
                                                             'segments of the South Korean Government',
-                                                    'time_diff': 'UTC+9 (14 hours ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
-                                       'coast': {'bord': {}, 'len': 2413},
+                                                    'time_diff': 'UTC+9'},
+                                       'coast': 2413,
                                        'coord': ['37 00 N, 127 30 E'],
                                        'popul': 51835110,
-                                       'ports': { 'container port': 'Busan (20,493,000), Incheon (3,050,000), '
-                                                                    'Kwangyang (2,230,000)',
-                                                  'major seaport': 'Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, '
-                                                                   'Ulsan, Yeosu'},
+                                       'ports': { 'container': 'Busan (20,493,000), Incheon (3,050,000), Kwangyang '
+                                                               '(2,230,000) (2017)',
+                                                  'seaport': 'Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, '
+                                                             'Yeosu'},
                                        'region': 'Asia',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KR',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ks.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/korea-south'},
                               'nameset': [ "han'guk",
                                            'korea',
                                            'republic of korea',
@@ -11786,6 +12904,14 @@ P1_CNTR = \
                                                  'Africa, Europe, Southeast Asia and US',
                                                  'satellite earth stations - 66',
                                                  2019],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 21285858, 'fix': 24924607, 'internet': 49309955, 'mob': 69445005},
                                        'tld': '.kr',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.kr'}},
@@ -11796,7 +12922,7 @@ P1_CNTR = \
                    'url': 'https://en.wikipedia.org/wiki/South_Korea'},
   'South Sudan': { 'cc2': 'SS',
                    'dep': None,
-                   'infos': { 'codes': {'cc3': 'SSD', 'ccn': '728', 'gec': 'OD', 'stan': '-'},
+                   'infos': { 'codes': {'cc3': 'SSD', 'ccn': '728', 'gec': 'OD'},
                               'geo': { 'airports': 89,
                                        'bound': { 'bord': { 'Central African Republic': 1055,
                                                             'Democratic Republic of the Congo': 714,
@@ -11804,19 +12930,19 @@ P1_CNTR = \
                                                             'Kenya': 317,
                                                             'Sudan': 2158,
                                                             'Uganda': 475},
-                                                  'len': 6018},
-                                       'capital': { 'coord': '04 51 N, 31 37 E',
-                                                    'name': 'Juba',
-                                                    'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
+                                                  'len': 6018,
+                                                  'note': 'South Sudan-Sudan boundary represents 1 January 1956 '
+                                                          'alignment; final alignment pending negotiations and '
+                                                          'demarcation; final sovereignty status of Abyei Area pending '
+                                                          'negotiations between South Sudan and Sudan'},
+                                       'capital': {'coord': '04 51 N, 31 37 E', 'name': 'Juba', 'time_diff': 'UTC+3'},
                                        'cmt': 'IANA has designated .ss as the ccTLD for South Sudan, however it has '
                                               'not been activated in DNS root zone',
-                                       'coast': {'bord': {}},
                                        'coord': ['8 00 N, 30 00 E'],
                                        'popul': 10561244,
                                        'region': 'Africa',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SS',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_od.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/south-sudan'},
                               'nameset': ['republic of south sudan', 'south sudan', 'the republic of south sudan'],
                               'tel': { 'code': '211',
                                        'domestic': [ 'fixed-line less than 1 per 100 subscriptions, mobile-cellular 33 '
@@ -11835,6 +12961,14 @@ P1_CNTR = \
                                                     'arrangement',
                                                     2020],
                                        'intl': [2017],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 200, 'internet': 814326, 'mob': 3439784},
                                        'tld': '.ss',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.ss'}},
@@ -11860,24 +12994,24 @@ P1_CNTR = \
                                  'bound': { 'bord': { 'Andorra': 63,
                                                       'France': 646,
                                                       'Gibraltar': 1,
-                                                      'Morocco': 10,
+                                                      'Morocco': 18,
                                                       'Portugal': 1224},
-                                            'len': 1952},
-                                 'capital': { 'coord': '40 24 N, 3 41 W',
-                                              'name': 'Madrid',
-                                              'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 4964},
+                                            'len': 1952,
+                                            'note': 'an additional 75-meter border segment exists between Morocco and '
+                                                    'the Spanish exclave of Penon de Velez de la Gomera; border with '
+                                                    'Morocco (Ceuta); border with Morocco (Melilla)'},
+                                 'capital': {'coord': '40 24 N, 3 41 W', 'name': 'Madrid', 'time_diff': 'UTC+1'},
+                                 'coast': 4964,
                                  'coord': ['40 00 N, 4 00 W'],
                                  'popul': 50015792,
-                                 'ports': { 'container port': 'Algeciras (4,389,836), Barcelona (2,968,757), Valencia '
-                                                              '(4,832,156)',
-                                            'major seaport': 'Algeciras, Barcelona, Bilbao, Cartagena, Huelva, '
-                                                             'Tarragona, Valencia (all in Spain); Las Palmas, Santa '
-                                                             'Cruz de Tenerife (in the Canary Islands)'},
+                                 'ports': { 'container': 'Algeciras (4,389,836), Barcelona (2,968,757), Valencia '
+                                                         '(4,832,156) (2017)',
+                                            'seaport': 'Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, '
+                                                       'Valencia (all in Spain); Las Palmas, Santa Cruz de Tenerife '
+                                                       '(in the Canary Islands)'},
                                  'region': 'Europe',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ES',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sp.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/spain'},
                         'nameset': ['espana', 'kingdom of spain', 'reino de espana', 'spain', 'the kingdom of spain'],
                         'tel': { 'code': '34',
                                  'domestic': [ 'fixed-line 42 per 100 and mobile-cellular 118 telephones per 100 '
@@ -11901,6 +13035,14 @@ P1_CNTR = \
                                            'Ocean), NA Eutelsat',
                                            'tropospheric scatter to adjacent countries',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 15176954, 'fix': 21065700, 'internet': 42478990, 'mob': 58750448},
                                  'tld': '.es',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.es'}},
@@ -11955,15 +13097,14 @@ P1_CNTR = \
                                      'capital': { 'coord': '6 55 N, 79 50 E',
                                                   'name': 'Colombo (commercial capital); Sri Jayewardenepura Kotte '
                                                           '(legislative capital)',
-                                                  'time_diff': 'UTC+5.5 (10.5 hours ahead of Washington, DC, during '
-                                                               'Standard Time)'},
-                                     'coast': {'bord': {}, 'len': 1340},
+                                                  'time_diff': 'UTC+5.5'},
+                                     'coast': 1340,
                                      'coord': ['7 00 N, 81 00 E'],
                                      'popul': 22889201,
-                                     'ports': {'container port': 'Colombo (6,209,000)', 'major seaport': 'Colombo'},
+                                     'ports': {'container': 'Colombo (6,209,000) (2017)', 'seaport': 'Colombo'},
                                      'region': 'Asia',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LK',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ce.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/sri-lanka'},
                             'nameset': [ 'democratic socialist republic of sri lanka',
                                          'shri lanka prajatantrika samajavadi janarajaya/ilankai jananayaka '
                                          'choshalichak kutiyarachu',
@@ -11991,6 +13132,14 @@ P1_CNTR = \
                                                'Africa, Southeast Asia, Australia, the Middle East, and Europe',
                                                'satellite earth stations - 2 Intelsat (Indian Ocean)',
                                                2019],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 1544313, 'fix': 2641982, 'internet': 7700876, 'mob': 26160623},
                                      'tld': '.lk',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.lk'}},
@@ -12021,18 +13170,19 @@ P1_CNTR = \
                                                       'Ethiopia': 744,
                                                       'Libya': 382,
                                                       'South Sudan': 2158},
-                                            'len': 6819},
-                                 'capital': { 'coord': '15 36 N, 32 32 E',
-                                              'name': 'Khartoum',
-                                              'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 853},
+                                            'len': 6819,
+                                            'note': 'Sudan-South Sudan boundary represents 1 January 1956 alignment; '
+                                                    'final alignment pending negotiations and demarcation; final '
+                                                    'sovereignty status of Abyei region pending negotiations between '
+                                                    'Sudan and South Sudan'},
+                                 'capital': {'coord': '15 36 N, 32 32 E', 'name': 'Khartoum', 'time_diff': 'UTC+3'},
+                                 'coast': 853,
                                  'coord': ['15 00 N, 30 00 E'],
                                  'popul': 45561556,
-                                 'ports': {'major seaport': 'Port Sudan'},
+                                 'ports': {'seaport': 'Port Sudan'},
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SD',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_su.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/sudan'},
                         'nameset': [ 'as-sudan',
                                      'jumhuriyat as-sudan',
                                      'republic of the sudan',
@@ -12059,6 +13209,14 @@ P1_CNTR = \
                                            'Asia',
                                            'satellite earth stations - 1 Intelsat (Atlantic Ocean)',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 31352, 'fix': 141922, 'internet': 13311404, 'mob': 34198859},
                                  'tld': '.sd',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.sd'}},
@@ -12084,17 +13242,14 @@ P1_CNTR = \
                            'geo': { 'airports': 55,
                                     'bound': { 'bord': {'Brazil': 515, 'French Guiana': 556, 'Guyana': 836},
                                                'len': 1907},
-                                    'capital': { 'coord': '5 50 N, 55 10 W',
-                                                 'name': 'Paramaribo',
-                                                 'time_diff': 'UTC-3 (2 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}, 'len': 386},
+                                    'capital': {'coord': '5 50 N, 55 10 W', 'name': 'Paramaribo', 'time_diff': 'UTC-3'},
+                                    'coast': 386,
                                     'coord': ['4 00 N, 56 00 W'],
                                     'popul': 609569,
-                                    'ports': {'major seaport': 'Paramaribo, Wageningen'},
+                                    'ports': {'seaport': 'Paramaribo, Wageningen'},
                                     'region': 'South America',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SR',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ns.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/suriname'},
                            'nameset': [ 'republic of suriname',
                                         'republiek suriname',
                                         'suriname',
@@ -12115,6 +13270,14 @@ P1_CNTR = \
                                               'the Caribbean',
                                               'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 73176, 'fix': 96310, 'internet': 292685, 'mob': 845292},
                                     'tld': '.sr',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.sr'}},
@@ -12130,17 +13293,16 @@ P1_CNTR = \
                                                   'bound': {'bord': {}, 'len': 0},
                                                   'capital': { 'coord': '78 13 N, 15 38 E',
                                                                'name': 'Longyearbyen',
-                                                               'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, '
-                                                                            'during Standard Time)'},
+                                                               'time_diff': 'UTC+1'},
                                                   'cmt': 'ISO includes Jan Mayen',
-                                                  'coast': {'bord': {}, 'len': 3587},
+                                                  'coast': 3587,
                                                   'coord': ['78 00 N, 20 00 E'],
                                                   'popul': 2926,
-                                                  'ports': { 'major seaport': 'Barentsburg, Longyearbyen, Ny-Alesund, '
-                                                                              'Pyramiden'},
+                                                  'ports': { 'seaport': 'Barentsburg, Longyearbyen, Ny-Alesund, '
+                                                                        'Pyramiden'},
                                                   'region': 'Arctic Region',
                                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SJ',
-                                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sv.html'},
+                                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/svalbard'},
                                          'nameset': [ 'svalbard',
                                                       'svalbard (sometimes referred to as spitsbergen, the largest '
                                                       'island in the archipelago)',
@@ -12160,7 +13322,16 @@ P1_CNTR = \
                                                             'Norway',
                                                             'the system is the sole telecommunications link to the '
                                                             'archipelago',
-                                                            2019]}},
+                                                            2019],
+                                                  'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                            'telecommunications production and supply chains globally',
+                                                            'consumer spending on telecom devices and services has '
+                                                            "also slowed due to the pandemic's effect on economies "
+                                                            'worldwide',
+                                                            'overall progress towards improvements in all facets of '
+                                                            'the telecom industry - mobile, fixed-line, broadband, '
+                                                            'submarine cable and satellite - has moderated',
+                                                            0]}},
                               'mcc': ['242'],
                               'mccmnc': [],
                               'msisdn': ['47', '4779'],
@@ -12171,18 +13342,15 @@ P1_CNTR = \
               'infos': { 'codes': {'cc3': 'SWE', 'ccn': '752', 'gec': 'SW', 'stan': 'SWE'},
                          'geo': { 'airports': 231,
                                   'bound': {'bord': {'Finland': 545, 'Norway': 1666}, 'len': 2211},
-                                  'capital': { 'coord': '59 20 N, 18 03 E',
-                                               'name': 'Stockholm',
-                                               'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 3218},
+                                  'capital': {'coord': '59 20 N, 18 03 E', 'name': 'Stockholm', 'time_diff': 'UTC+1'},
+                                  'coast': 3218,
                                   'coord': ['62 00 N, 15 00 E'],
                                   'popul': 10202491,
-                                  'ports': { 'major seaport': 'Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, '
-                                                              'Malmo, Stockholm, Trelleborg, Visby'},
+                                  'ports': { 'seaport': 'Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, '
+                                                        'Stockholm, Trelleborg, Visby'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SE',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sw.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/sweden'},
                          'nameset': [ 'kingdom of sweden',
                                       'konungariket sverige',
                                       'sverige',
@@ -12211,6 +13379,14 @@ P1_CNTR = \
                                             'note - Sweden shares the Inmarsat earth station with the other Nordic '
                                             'countries (Denmark, Finland, Iceland, and Norway)',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 3973622, 'fix': 1941360, 'internet': 9251773, 'mob': 12785850},
                                   'tld': '.se',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.se'}},
@@ -12285,16 +13461,12 @@ P1_CNTR = \
                                                             'Italy': 698,
                                                             'Liechtenstein': 41},
                                                   'len': 1770},
-                                       'capital': { 'coord': '46 55 N, 7 28 E',
-                                                    'name': 'Bern',
-                                                    'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during '
-                                                                 'Standard Time)'},
-                                       'coast': {'bord': {}},
+                                       'capital': {'coord': '46 55 N, 7 28 E', 'name': 'Bern', 'time_diff': 'UTC+1'},
                                        'coord': ['47 00 N, 8 00 E'],
                                        'popul': 8403994,
                                        'region': 'Europe',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CH',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sz.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/switzerland'},
                               'nameset': [ 'schweiz',
                                            'schweiz (german); suisse (french); svizzera (italian); svizra (romansh)',
                                            'schweizerische eidgenossenschaft',
@@ -12327,7 +13499,15 @@ P1_CNTR = \
                                                     2020],
                                        'intl': [ 'satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian '
                                                  'Ocean)',
-                                                 2000],
+                                                 0],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 3957669, 'fix': 3012224, 'internet': 7437820, 'mob': 10618759},
                                        'tld': '.ch',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.ch'}},
@@ -12372,17 +13552,14 @@ P1_CNTR = \
                                                       'Lebanon': 394,
                                                       'Turkey': 909},
                                             'len': 2343},
-                                 'capital': { 'coord': '33 30 N, 36 18 E',
-                                              'name': 'Damascus',
-                                              'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 193},
+                                 'capital': {'coord': '33 30 N, 36 18 E', 'name': 'Damascus', 'time_diff': 'UTC+2'},
+                                 'coast': 193,
                                  'coord': ['35 00 N, 38 00 E'],
                                  'popul': 19398448,
-                                 'ports': {'major seaport': 'Baniyas, Latakia, Tartus'},
+                                 'ports': {'seaport': 'Baniyas, Latakia, Tartus'},
                                  'region': 'Middle East',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SY',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_sy.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/syria'},
                         'nameset': [ 'al jumhuriyah al arabiyah as suriyah',
                                      'suriyah',
                                      'syria',
@@ -12414,6 +13591,14 @@ P1_CNTR = \
                                            'Turkey',
                                            'participant in Medarabtel',
                                            2019],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 1328688, 'fix': 3097164, 'internet': 6077510, 'mob': 21115000},
                                  'tld': '.sy',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.sy'}},
@@ -12427,19 +13612,16 @@ P1_CNTR = \
               'infos': { 'codes': {'cc3': 'TWN', 'ccn': '158', 'gec': 'TW', 'stan': 'TWN'},
                          'geo': { 'airports': 37,
                                   'bound': {'bord': {}, 'len': 0},
-                                  'capital': { 'coord': '25 02 N, 121 31 E',
-                                               'name': 'Taipei',
-                                               'time_diff': 'UTC+8 (13 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 1566},
+                                  'capital': {'coord': '25 02 N, 121 31 E', 'name': 'Taipei', 'time_diff': 'UTC+8'},
+                                  'coast': 1566,
                                   'coord': ['23 30 N, 121 00 E'],
                                   'popul': 23603049,
-                                  'ports': { 'container port': 'Kaohsiung (10,271,018), Taichung (1,660,663), Taipei '
-                                                               '(1,561,743)',
-                                             'major seaport': 'Keelung (Chi-lung), Kaohsiung, Hualian, Taichung'},
+                                  'ports': { 'container': 'Kaohsiung (10,271,018), Taichung (1,660,663), Taipei '
+                                                          '(1,561,743) (2017)',
+                                             'seaport': 'Keelung (Chi-lung), Kaohsiung, Hualian, Taichung'},
                                   'region': 'Southeast Asia',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TW',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tw.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/taiwan'},
                          'nameset': ['china', 'republic of china', 'taiwan', 'the republic of china'],
                          'tel': { 'code': '886',
                                   'domestic': ['fixed-line 55 per 100 and mobile-cellular 123 per 100', 2019],
@@ -12460,6 +13642,14 @@ P1_CNTR = \
                                             'Middle East, Europe, Africa and the US',
                                             'satellite earth stations - 2',
                                             2019],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 5725022, 'fix': 12863860, 'internet': 21845944, 'mob': 29049784},
                                   'tld': '.tw',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.tw'}},
@@ -12497,14 +13687,12 @@ P1_CNTR = \
                                                  'len': 4130},
                                       'capital': { 'coord': '38 33 N, 68 46 E',
                                                    'name': 'Dushanbe',
-                                                   'time_diff': 'UTC+5 (10 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}},
+                                                   'time_diff': 'UTC+5'},
                                       'coord': ['39 00 N, 71 00 E'],
                                       'popul': 8873669,
                                       'region': 'Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TJ',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ti.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tajikistan'},
                              'nameset': [ 'jumhurii tojikiston',
                                           'republic of tajikistan',
                                           'tajikistan',
@@ -12531,7 +13719,15 @@ P1_CNTR = \
                                                 'Dushanbe linked by Intelsat to international gateway switch in Ankara '
                                                 '(Turkey)',
                                                 '3 satellite earth stations - 2 Intelsat and 1 Orbita',
-                                                2000],
+                                                0],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 6000, 'fix': 471090, 'internet': 1889632, 'mob': 9747803},
                                       'tld': '.tj',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.tj'}},
@@ -12563,15 +13759,14 @@ P1_CNTR = \
                                                          'representation; the government contends that it will '
                                                          'complete the transfer of the executive branch to Dodoma by '
                                                          '2020',
-                                                 'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}, 'len': 1424},
+                                                 'time_diff': 'UTC+3'},
+                                    'coast': 1424,
                                     'coord': ['6 00 S, 35 00 E'],
                                     'popul': 58552845,
-                                    'ports': {'major seaport': 'Dar es Salaam, Zanzibar'},
+                                    'ports': {'seaport': 'Dar es Salaam, Zanzibar'},
                                     'region': 'Africa',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TZ',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tz.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tanzania'},
                            'nameset': [ 'jamhuri ya muungano wa tanzania',
                                         'tanzania',
                                         'the united republic of tanzania',
@@ -12601,6 +13796,14 @@ P1_CNTR = \
                                               'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic '
                                               'Ocean)',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 861234, 'fix': 74081, 'internet': 13862836, 'mob': 46847405},
                                     'tld': '.tz',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.tz'}},
@@ -12630,19 +13833,16 @@ P1_CNTR = \
                                                          'Malaysia': 595,
                                                          'Myanmar': 2416},
                                                'len': 5673},
-                                    'capital': { 'coord': '13 45 N, 100 31 E',
-                                                 'name': 'Bangkok',
-                                                 'time_diff': 'UTC+7 (12 hours ahead of Washington, DC, during '
-                                                              'Standard Time)'},
-                                    'coast': {'bord': {}, 'len': 3219},
+                                    'capital': {'coord': '13 45 N, 100 31 E', 'name': 'Bangkok', 'time_diff': 'UTC+7'},
+                                    'coast': 3219,
                                     'coord': ['15 00 N, 100 00 E'],
                                     'popul': 68977400,
-                                    'ports': { 'container port': 'Laem Chabang (7,227,431)',
-                                               'major seaport': 'Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si '
-                                                                'Racha'},
+                                    'ports': { 'container': 'Laem Chabang (7,227,431) (2017)',
+                                               'seaport': 'Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si '
+                                                          'Racha'},
                                     'region': 'Southeast Asia',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TH',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_th.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/thailand'},
                            'nameset': [ 'kingdom of thailand',
                                         'prathet thai',
                                         'ratcha anachak thai',
@@ -12669,6 +13869,14 @@ P1_CNTR = \
                                               'Australia, Africa, Middle East, Europe, and US',
                                               'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean)',
                                               2019],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 9189000, 'fix': 2580166, 'internet': 38987531, 'mob': 128086321},
                                     'tld': '.th',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.th'}},
@@ -12696,18 +13904,15 @@ P1_CNTR = \
                    'infos': { 'codes': {'cc3': 'BHS', 'ccn': '044', 'gec': 'BF', 'stan': 'BHS'},
                               'geo': { 'airports': 54,
                                        'bound': {'bord': {}, 'len': 0},
-                                       'capital': { 'coord': '25 05 N, 77 21 W',
-                                                    'name': 'Nassau',
-                                                    'time_diff': 'UTC-5 (same time as Washington, DC, during Standard '
-                                                                 'Time)'},
-                                       'coast': {'bord': {}, 'len': 3542},
+                                       'capital': {'coord': '25 05 N, 77 21 W', 'name': 'Nassau', 'time_diff': 'UTC-5'},
+                                       'coast': 3542,
                                        'coord': ['24 15 N, 76 00 W'],
                                        'popul': 337721,
-                                       'ports': { 'container port': 'Freeport (1,116,272)(2011)',
-                                                  'major seaport': 'Freeport, Nassau, South Riding Point'},
+                                       'ports': { 'container': 'Freeport (1,116,272)(2011)',
+                                                  'seaport': 'Freeport, Nassau, South Riding Point'},
                                        'region': 'Central America and the Caribbean',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BS',
-                                       'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_bf.html'},
+                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bahamas-the'},
                               'nameset': [ 'bahamas',
                                            'commonwealth of the bahamas',
                                            'the bahamas',
@@ -12731,6 +13936,14 @@ P1_CNTR = \
                                                  'the Bahamas Domestic Submarine Network links all of the major '
                                                  'islands',
                                                  2019],
+                                       'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                 'production and supply chains globally',
+                                                 'consumer spending on telecom devices and services has also slowed '
+                                                 "due to the pandemic's effect on economies worldwide",
+                                                 'overall progress towards improvements in all facets of the telecom '
+                                                 'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                 'satellite - has moderated',
+                                                 0],
                                        'subs': {'bb': 87067, 'fix': 78439, 'internet': 282739, 'mob': 366217},
                                        'tld': '.bs',
                                        'url_tld': 'https://en.wikipedia.org/wiki/.bs'}},
@@ -12744,17 +13957,14 @@ P1_CNTR = \
                   'infos': { 'codes': {'cc3': 'GMB', 'ccn': '270', 'gec': 'GA', 'stan': 'GMB'},
                              'geo': { 'airports': 1,
                                       'bound': {'bord': {'Senegal': 749}, 'len': 749},
-                                      'capital': { 'coord': '13 27 N, 16 34 W',
-                                                   'name': 'Banjul',
-                                                   'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}, 'len': 80},
+                                      'capital': {'coord': '13 27 N, 16 34 W', 'name': 'Banjul', 'time_diff': 'UTC 0'},
+                                      'coast': 80,
                                       'coord': ['13 28 N, 16 34 W'],
                                       'popul': 2173999,
-                                      'ports': {'major seaport': 'Banjul'},
+                                      'ports': {'seaport': 'Banjul'},
                                       'region': 'Africa',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GM',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ga.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/gambia-the'},
                              'nameset': [ 'gambia',
                                           'republic of the gambia',
                                           'the gambia',
@@ -12781,6 +13991,14 @@ P1_CNTR = \
                                                 'microwave radio relay links to Senegal and Guinea-Bissau',
                                                 'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                 2019],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 4433, 'fix': 41179, 'internet': 406918, 'mob': 2977068},
                                       'tld': '.gm',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.gm'}},
@@ -12794,17 +14012,14 @@ P1_CNTR = \
             'infos': { 'codes': {'cc3': 'TGO', 'ccn': '768', 'gec': 'TO', 'stan': 'TGO'},
                        'geo': { 'airports': 8,
                                 'bound': {'bord': {'Benin': 651, 'Burkina Faso': 131, 'Ghana': 1098}, 'len': 1880},
-                                'capital': { 'coord': '6 07 N, 1 13 E',
-                                             'name': 'Lome',
-                                             'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during Standard '
-                                                          'Time)'},
-                                'coast': {'bord': {}, 'len': 56},
+                                'capital': {'coord': '6 07 N, 1 13 E', 'name': 'Lome', 'time_diff': 'UTC 0'},
+                                'coast': 56,
                                 'coord': ['8 00 N, 1 10 E'],
                                 'popul': 8608444,
-                                'ports': {'major seaport': 'Kpeme, Lome'},
+                                'ports': {'seaport': 'Kpeme, Lome'},
                                 'region': 'Africa',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TG',
-                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_to.html'},
+                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/togo'},
                        'nameset': ['republique togolaise', 'the togolese republic', 'togo', 'togolese republic'],
                        'tel': { 'code': '228',
                                 'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular 77 telephones per '
@@ -12821,6 +14036,14 @@ P1_CNTR = \
                                           'west coast of Africa with each other and with Portugal',
                                           'satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie',
                                           2020],
+                                'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                                          'and supply chains globally',
+                                          'consumer spending on telecom devices and services has also slowed due to '
+                                          "the pandemic's effect on economies worldwide",
+                                          'overall progress towards improvements in all facets of the telecom industry '
+                                          '- mobile, fixed-line, broadband, submarine cable and satellite - has '
+                                          'moderated',
+                                          0],
                                 'subs': {'bb': 26156, 'fix': 45311, 'internet': 1010609, 'mob': 6477816},
                                 'tld': '.tg',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.tg'}},
@@ -12833,12 +14056,13 @@ P1_CNTR = \
                'dep': 'NZ',
                'infos': { 'codes': {'cc3': 'TKL', 'ccn': '772', 'gec': 'TL', 'stan': 'TKL'},
                           'geo': { 'bound': {'bord': {}, 'len': 0},
-                                   'coast': {'bord': {}, 'len': 101},
+                                   'capital': {'time_diff': 'UTC+13'},
+                                   'coast': 101,
                                    'coord': ['9 00 S, 172 00 W'],
                                    'popul': 1647,
                                    'region': 'Oceania',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TK',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tl.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tokelau'},
                           'nameset': ['tokelau'],
                           'tel': { 'code': '690',
                                    'domestic': [ 'radiotelephone service between islands',
@@ -12858,6 +14082,14 @@ P1_CNTR = \
                                              'government-regulated telephone service (TeleTok)',
                                              'satellite earth stations - 3',
                                              2020],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'fix': 300, 'internet': 805},
                                    'tld': '.tk',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.tk'}},
@@ -12871,17 +14103,14 @@ P1_CNTR = \
              'infos': { 'codes': {'cc3': 'TON', 'ccn': '776', 'gec': 'TN', 'stan': 'TON'},
                         'geo': { 'airports': 6,
                                  'bound': {'bord': {}, 'len': 0},
-                                 'capital': { 'coord': '21 08 S, 175 12 W',
-                                              'name': "Nuku'alofa",
-                                              'time_diff': 'UTC+13 (18 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 419},
+                                 'capital': {'coord': '21 08 S, 175 12 W', 'name': "Nuku'alofa", 'time_diff': 'UTC+13'},
+                                 'coast': 419,
                                  'coord': ['20 00 S, 175 00 W'],
                                  'popul': 106095,
-                                 'ports': {'major seaport': "Nuku'alofa, Neiafu, Pangai"},
+                                 'ports': {'seaport': "Nuku'alofa, Neiafu, Pangai"},
                                  'region': 'Oceania',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TO',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tn.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tonga'},
                         'nameset': ['kingdom of tonga', "pule'anga fakatu'i 'o tonga", 'the kingdom of tonga', 'tonga'],
                         'tel': { 'code': '676',
                                  'domestic': [ 'fixed-line 6 per 100 persons and mobile-cellular teledensity 59 '
@@ -12903,6 +14132,14 @@ P1_CNTR = \
                                            'separate Tonga islands',
                                            'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                            2020],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 2519, 'fix': 6748, 'internet': 43889, 'mob': 63156},
                                  'tld': '.to',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.to'}},
@@ -12918,16 +14155,15 @@ P1_CNTR = \
                                                'bound': {'bord': {}, 'len': 0},
                                                'capital': { 'coord': '10 39 N, 61 31 W',
                                                             'name': 'Port of Spain',
-                                                            'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, '
-                                                                         'during Standard Time)'},
-                                               'coast': {'bord': {}, 'len': 362},
+                                                            'time_diff': 'UTC-4'},
+                                               'coast': 362,
                                                'coord': ['11 00 N, 61 00 W'],
                                                'popul': 1208789,
-                                               'ports': { 'major seaport': 'Point Fortin, Point Lisas, Port of Spain, '
-                                                                           'Scarborough'},
+                                               'ports': { 'seaport': 'Point Fortin, Point Lisas, Port of Spain, '
+                                                                     'Scarborough'},
                                                'region': 'Central America and the Caribbean',
                                                'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TT',
-                                               'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_td.html'},
+                                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/trinidad-and-tobago'},
                                       'nameset': [ 'republic of trinidad and tobago',
                                                    'the republic of trinidad and tobago',
                                                    'trinidad and tobago'],
@@ -12952,6 +14188,14 @@ P1_CNTR = \
                                                          'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                          'tropospheric scatter to Barbados and Guyana',
                                                          2020],
+                                               'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                         'telecommunications production and supply chains globally',
+                                                         'consumer spending on telecom devices and services has also '
+                                                         "slowed due to the pandemic's effect on economies worldwide",
+                                                         'overall progress towards improvements in all facets of the '
+                                                         'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                         'cable and satellite - has moderated',
+                                                         0],
                                                'subs': { 'bb': 341045,
                                                          'fix': 298493,
                                                          'internet': 939967,
@@ -12976,17 +14220,14 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'TUN', 'ccn': '788', 'gec': 'TS', 'stan': 'TUN'},
                           'geo': { 'airports': 29,
                                    'bound': {'bord': {'Algeria': 1034, 'Libya': 461}, 'len': 1495},
-                                   'capital': { 'coord': '36 48 N, 10 11 E',
-                                                'name': 'Tunis',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 1148},
+                                   'capital': {'coord': '36 48 N, 10 11 E', 'name': 'Tunis', 'time_diff': 'UTC+1'},
+                                   'coast': 1148,
                                    'coord': ['34 00 N, 9 00 E'],
                                    'popul': 11721177,
-                                   'ports': {'major seaport': 'Bizerte, Gabes, Rades, Sfax, Skhira'},
+                                   'ports': {'seaport': 'Bizerte, Gabes, Rades, Sfax, Skhira'},
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TN',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ts.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tunisia'},
                           'nameset': [ 'al jumhuriyah at tunisiyah',
                                        'republic of tunisia',
                                        'the republic of tunisia',
@@ -13026,6 +14267,14 @@ P1_CNTR = \
                                              'participant in Medarabtel',
                                              '2 international gateway digital switches',
                                              2020],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 1014395, 'fix': 1444631, 'internet': 7392242, 'mob': 14679917},
                                    'tld': '.tn',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.tn'}},
@@ -13047,19 +14296,16 @@ P1_CNTR = \
                                                        'Iraq': 367,
                                                        'Syria': 899},
                                              'len': 2816},
-                                  'capital': { 'coord': '39 56 N, 32 52 E',
-                                               'name': 'Ankara',
-                                               'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 7200},
+                                  'capital': {'coord': '39 56 N, 32 52 E', 'name': 'Ankara', 'time_diff': 'UTC+2'},
+                                  'coast': 7200,
                                   'coord': ['39 00 N, 35 00 E'],
                                   'popul': 82017514,
-                                  'ports': { 'container port': 'Ambarli (3,131,621), Mersin (Icel) (1,592,000)',
-                                             'major seaport': 'Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli '
-                                                              '(Izmit), Mersin (Icel), Limani, Yarimca'},
+                                  'ports': { 'container': 'Ambarli (3,131,621), Mersin (Icel) (1,592,000) (2017)',
+                                             'seaport': 'Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), '
+                                                        'Mersin (Icel), Limani, Yarimca'},
                                   'region': 'Middle East',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TR',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tu.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/turkey'},
                          'nameset': [ 'republic of turkey',
                                       'the republic of turkey',
                                       'turkey',
@@ -13091,6 +14337,14 @@ P1_CNTR = \
                                             'satellite earth stations - 12 Intelsat',
                                             'mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems',
                                             2020],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 13407226, 'fix': 11283768, 'internet': 57725143, 'mob': 79068023},
                                   'tld': '.tr',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.tr'}},
@@ -13110,15 +14364,13 @@ P1_CNTR = \
                                                    'len': 4158},
                                         'capital': { 'coord': '37 57 N, 58 23 E',
                                                      'name': 'Ashgabat (Ashkhabad)',
-                                                     'time_diff': 'UTC+5 (10 hours ahead of Washington, DC, during '
-                                                                  'Standard Time)'},
-                                        'coast': {'bord': {}},
+                                                     'time_diff': 'UTC+5'},
                                         'coord': ['40 00 N, 60 00 E'],
                                         'popul': 5528627,
-                                        'ports': {'major seaport': 'Caspian Sea - Turkmenbasy'},
+                                        'ports': {'seaport': 'Caspian Sea - Turkmenbasy'},
                                         'region': 'Asia',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TM',
-                                        'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tx.html'},
+                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/turkmenistan'},
                                'nameset': ['turkmenistan'],
                                'tel': { 'code': '993',
                                         'domestic': [ 'fixed-line 12 per 100 and mobile-cellular teledensity is about '
@@ -13146,6 +14398,14 @@ P1_CNTR = \
                                                   'Turkey via Intelsat',
                                                   'satellite earth stations - 1 Orbita and 1 Intelsat',
                                                   2018],
+                                        'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                  'production and supply chains globally',
+                                                  'consumer spending on telecom devices and services has also slowed '
+                                                  "due to the pandemic's effect on economies worldwide",
+                                                  'overall progress towards improvements in all facets of the telecom '
+                                                  'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                  'satellite - has moderated',
+                                                  0],
                                         'subs': {'bb': 4000, 'fix': 648223, 'internet': 1149840, 'mob': 8908821},
                                         'tld': '.tm',
                                         'url_tld': 'https://en.wikipedia.org/wiki/.tm'}},
@@ -13161,16 +14421,15 @@ P1_CNTR = \
                                                     'bound': {'bord': {}, 'len': 0},
                                                     'capital': { 'coord': '21 28 N, 71 08 W',
                                                                  'name': 'Grand Turk (Cockburn Town)',
-                                                                 'time_diff': 'UTC-5 (same time as Washington, DC, '
-                                                                              'during Standard Time)'},
-                                                    'coast': {'bord': {}, 'len': 389},
+                                                                 'time_diff': 'UTC-5'},
+                                                    'coast': 389,
                                                     'coord': ['21 45 N, 71 35 W'],
                                                     'popul': 55926,
-                                                    'ports': { 'major seaport': 'Cockburn Harbour, Grand Turk, '
-                                                                                'Providenciales'},
+                                                    'ports': { 'seaport': 'Cockburn Harbour, Grand Turk, '
+                                                                          'Providenciales'},
                                                     'region': 'Central America and the Caribbean',
                                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TC',
-                                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tk.html'},
+                                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/turks-and-caicos-islands'},
                                            'nameset': ['the turks and caicos islands', 'turks and caicos islands'],
                                            'tel': { 'code': '1649',
                                                     'domestic': [ 'full range of services available',
@@ -13191,6 +14450,16 @@ P1_CNTR = \
                                                               'Caribbean, and the US',
                                                               'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                               2020],
+                                                    'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                              'telecommunications production and supply chains '
+                                                              'globally',
+                                                              'consumer spending on telecom devices and services has '
+                                                              "also slowed due to the pandemic's effect on economies "
+                                                              'worldwide',
+                                                              'overall progress towards improvements in all facets of '
+                                                              'the telecom industry - mobile, fixed-line, broadband, '
+                                                              'submarine cable and satellite - has moderated',
+                                                              0],
                                                     'subs': {'fix': 6096},
                                                     'tld': '.tc',
                                                     'url_tld': 'https://en.wikipedia.org/wiki/.tc'}},
@@ -13208,15 +14477,14 @@ P1_CNTR = \
                                                'name': 'Funafuti; note - the capital is an atoll of some 29 islets; '
                                                        'administrative offices are in Vaiaku Village on Fongafale '
                                                        'Islet',
-                                               'time_diff': 'UTC+12 (17 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}, 'len': 24},
+                                               'time_diff': 'UTC+12'},
+                                  'coast': 24,
                                   'coord': ['8 00 S, 178 00 E'],
                                   'popul': 11342,
-                                  'ports': {'major seaport': 'Funafuti'},
+                                  'ports': {'seaport': 'Funafuti'},
                                   'region': 'Oceania',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TV',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_tv.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tuvalu'},
                          'nameset': ['tuvalu'],
                          'tel': { 'code': '688',
                                   'domestic': [ 'radiotelephone communications between islands',
@@ -13231,7 +14499,15 @@ P1_CNTR = \
                                                'the launch in 2019 of the Kacific-1 satellite will improve the '
                                                'telecommunication sector for the Asia Pacific region',
                                                2020],
-                                  'intl': ['international calls can be made by satellite', 2000],
+                                  'intl': ['international calls can be made by satellite', 0],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 1000, 'fix': 1978, 'internet': 5498, 'mob': 7911},
                                   'tld': '.tv',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.tv'}},
@@ -13250,16 +14526,12 @@ P1_CNTR = \
                                                        'South Sudan': 475,
                                                        'Tanzania': 391},
                                              'len': 2729},
-                                  'capital': { 'coord': '0 19 N, 32 33 E',
-                                               'name': 'Kampala',
-                                               'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}},
+                                  'capital': {'coord': '0 19 N, 32 33 E', 'name': 'Kampala', 'time_diff': 'UTC+3'},
                                   'coord': ['1 00 N, 32 00 E'],
                                   'popul': 43252966,
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UG',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ug.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/uganda'},
                          'nameset': ['republic of uganda', 'the republic of uganda', 'uganda'],
                          'tel': { 'code': '256',
                                   'domestic': [ 'fixed-line 1 per 100 and mobile- cellular systems teledensity about '
@@ -13270,7 +14542,8 @@ P1_CNTR = \
                                   'general': [ 'in recent years, telecommunications infrastructure has developed '
                                                'through private partnerships',
                                                'as of 2018, fixed fiber backbone infrastructure is available in over '
-                                               'half of Uganda’s districts',
+                                               'half of Uganda&rsquo',
+                                               's districts',
                                                'mobile phone companies now provide 4G networks across all major cities '
                                                'and national parks, while offering 3G coverage in second-tier cities '
                                                'and most rural areas with road access',
@@ -13283,7 +14556,15 @@ P1_CNTR = \
                                                2020],
                                   'intl': [ 'satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat',
                                             'analog and digital links to Kenya and Tanzania',
-                                            2000],
+                                            0],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 9485, 'fix': 184065, 'internet': 9620681, 'mob': 23957740},
                                   'tld': '.ug',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.ug'}},
@@ -13321,16 +14602,15 @@ P1_CNTR = \
                                               'len': 5618},
                                    'capital': { 'coord': '50 26 N, 30 31 E',
                                                 'name': 'Kyiv (Kiev)',
-                                                'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 2782},
+                                                'time_diff': 'UTC+2'},
+                                   'coast': 2782,
                                    'coord': ['49 00 N, 32 00 E'],
                                    'popul': 43922939,
-                                   'ports': { 'major seaport': 'Feodosiya (Theodosia), Chornomosk (Illichivsk), '
-                                                               'Mariupol, Mykolayiv, Odesa, Yuzhnyy'},
+                                   'ports': { 'seaport': 'Feodosiya (Theodosia), Chornomosk (Illichivsk), Mariupol, '
+                                                         'Mykolayiv, Odesa, Yuzhnyy'},
                                    'region': 'AsiaEurope',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UA',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_up.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ukraine'},
                           'nameset': ['ukraina', 'ukraine'],
                           'tel': { 'code': '380',
                                    'domestic': [ 'fixed-line teledensity is 10 per 100',
@@ -13358,7 +14638,15 @@ P1_CNTR = \
                                              'Italy-Turkey-Ukraine-Russia (ITUR) fiber-optic submarine cable and by an '
                                              'unknown number of earth stations in the Intelsat, Inmarsat, and '
                                              'Intersputnik satellite systems',
-                                             2000],
+                                             0],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 5405125, 'fix': 4378911, 'internet': 25883509, 'mob': 57431439},
                                    'tld': '.ua',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.ua'}},
@@ -13391,20 +14679,19 @@ P1_CNTR = \
                                                 'bound': {'bord': {'Oman': 609, 'Saudi Arabia': 457}, 'len': 1066},
                                                 'capital': { 'coord': '24 28 N, 54 22 E',
                                                              'name': 'Abu Dhabi',
-                                                             'time_diff': 'UTC+4 (9 hours ahead of Washington, DC, '
-                                                                          'during Standard Time)'},
-                                                'coast': {'bord': {}, 'len': 1318},
+                                                             'time_diff': 'UTC+4'},
+                                                'coast': 1318,
                                                 'coord': ['24 00 N, 54 00 E'],
                                                 'popul': 9992083,
-                                                'ports': { 'container port': 'Dubai Port (15,368,000), Khor Fakkan '
-                                                                             '(Khawr Fakkan) (Sharjah) (2,321,000)',
-                                                           'major seaport': "Al Fujayrah, Mina' Jabal 'Ali (Dubai), "
-                                                                            'Khor Fakkan (Khawr Fakkan) (Sharjah), '
-                                                                            "Mubarraz Island (Abu Dhabi), Mina' Rashid "
-                                                                            "(Dubai), Mina' Saqr (Ra's al Khaymah)"},
+                                                'ports': { 'container': 'Dubai Port (15,368,000), Khor Fakkan (Khawr '
+                                                                        'Fakkan) (Sharjah) (2,321,000) (2017)',
+                                                           'seaport': "Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor "
+                                                                      'Fakkan (Khawr Fakkan) (Sharjah), Mubarraz '
+                                                                      "Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' "
+                                                                      "Saqr (Ra's al Khaymah)"},
                                                 'region': 'Middle East',
                                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AE',
-                                                'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ae.html'},
+                                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/united-arab-emirates'},
                                        'nameset': [ 'al imarat al arabiyah al muttahidah',
                                                     'the united arab emirates',
                                                     'united arab emirates'],
@@ -13435,6 +14722,14 @@ P1_CNTR = \
                                                           'satellite earth stations - 3 Intelsat (1 Atlantic Ocean and '
                                                           '2 Indian)',
                                                           2020],
+                                                'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                          'telecommunications production and supply chains globally',
+                                                          'consumer spending on telecom devices and services has also '
+                                                          "slowed due to the pandemic's effect on economies worldwide",
+                                                          'overall progress towards improvements in all facets of the '
+                                                          'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                          'cable and satellite - has moderated',
+                                                          0],
                                                 'subs': { 'bb': 3024565,
                                                           'fix': 2380238,
                                                           'internet': 9550945,
@@ -13453,21 +14748,20 @@ P1_CNTR = \
                                           'bound': {'bord': {'Republic of Ireland': 499}, 'len': 499},
                                           'capital': { 'coord': '51 30 N, 0 05 W',
                                                        'name': 'London',
-                                                       'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during '
-                                                                    'Standard Time)'},
+                                                       'time_diff': 'UTC 0'},
                                           'cmt': 'for its internal communications, the European Union recommends the '
                                                  'use of the code UK in lieu of the ISO 3166-2 code of GB',
-                                          'coast': {'bord': {}, 'len': 12429},
+                                          'coast': 12429,
                                           'coord': ['54 00 N, 2 00 W'],
                                           'popul': 65761117,
-                                          'ports': { 'container port': 'Felixstowe (3,849,700), London (2,431,000), '
-                                                                       'Southampton (2,040,000)',
-                                                     'major seaport': 'Dover, Felixstowe, Immingham, Liverpool, '
-                                                                      'London, Southampton, Teesport (England); Forth '
-                                                                      'Ports (Scotland); Milford Haven (Wales)'},
+                                          'ports': { 'container': 'Felixstowe (3,849,700), London (2,431,000), '
+                                                                  'Southampton (2,040,000) (2017)',
+                                                     'seaport': 'Dover, Felixstowe, Immingham, Liverpool, London, '
+                                                                'Southampton, Teesport (England); Forth Ports '
+                                                                '(Scotland); Milford Haven (Wales)'},
                                           'region': 'Europe',
                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GB',
-                                          'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_uk.html'},
+                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/united-kingdom'},
                                  'nameset': [ 'the united kingdom of great britain and northern ireland',
                                               'united kingdom',
                                               'united kingdom of great britain and northern ireland',
@@ -13506,6 +14800,14 @@ P1_CNTR = \
                                                     'Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat',
                                                     'at least 8 large international switching centers',
                                                     2018],
+                                          'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                    'production and supply chains globally',
+                                                    'consumer spending on telecom devices and services has also slowed '
+                                                    "due to the pandemic's effect on economies worldwide",
+                                                    'overall progress towards improvements in all facets of the '
+                                                    'telecom industry - mobile, fixed-line, broadband, submarine cable '
+                                                    'and satellite - has moderated',
+                                                    0],
                                           'subs': { 'bb': 26586110,
                                                     'fix': 31160866,
                                                     'internet': 61784878,
@@ -13595,29 +14897,24 @@ P1_CNTR = \
                      'dep': None,
                      'infos': { 'codes': {'cc3': 'USA', 'ccn': '840', 'gec': 'US', 'stan': 'USA'},
                                 'geo': { 'airports': 13513,
-                                         'bound': {'bord': {'Canada': 8893, 'Mexico': 3155}, 'len': 12048},
+                                         'bound': { 'bord': {'Canada': 8893, 'Mexico': 3155},
+                                                    'len': 12048,
+                                                    'note': 'US Naval Base at Guantanamo Bay, Cuba is leased by the US '
+                                                            'and is part of Cuba; the base boundary is 28.5 km'},
                                          'capital': { 'coord': '38 53 N, 77 02 W',
                                                       'name': 'Washington, DC',
-                                                      'time_diff': 'UTC-5 (during Standard Time)'},
-                                         'coast': {'bord': {}, 'len': 19924},
+                                                      'time_diff': 'UTC-5'},
+                                         'coast': 19924,
                                          'coord': ['38 00 N, 97 00 W'],
                                          'popul': 332639102,
-                                         'ports': { 'cargo port': 'Baton Rouge, Corpus Christi, Hampton Roads, '
-                                                                  'Houston, Long Beach, Los Angeles, New Orleans, New '
-                                                                  'York, Plaquemines (LA), Tampa, Texas City',
-                                                    'container port': 'Charleston (2,177,000), Hampton Roads '
-                                                                      '(2,841,000), Houston (2,459,000), Long Beach '
-                                                                      '(7,544,000), Los Angeles (9,343,000), New '
-                                                                      'York/New Jersey (6,710,000), Oakland '
-                                                                      '(2,420,000), Savannah (4,046,000), '
-                                                                      'Seattle/Tacoma (3,665,000)',
-                                                    'cruise departure port': 'Miami (2,032,000), Port Everglades '
-                                                                             '(1,277,000), Port Canaveral (1,189,000), '
-                                                                             'Seattle (430,000), Long Beach (415,000) '
-                                                                             '(2009)'},
+                                         'ports': { 'container': 'Charleston (2,177,000), Hampton Roads (2,841,000), '
+                                                                 'Houston (2,459,000), Long Beach (7,544,000), Los '
+                                                                 'Angeles (9,343,000), New York/New Jersey '
+                                                                 '(6,710,000), Oakland (2,420,000), Savannah '
+                                                                 '(4,046,000), Seattle/Tacoma (3,665,000) (2017)'},
                                          'region': 'North America',
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:US',
-                                         'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_us.html'},
+                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/united-states'},
                                 'nameset': [ 'the united states of america',
                                              'united states',
                                              'united states of america'],
@@ -13656,6 +14953,14 @@ P1_CNTR = \
                                                    'Pacific Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 '
                                                    'Inmarsat (Pacific and Atlantic Ocean regions)',
                                                    2020],
+                                         'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                   'production and supply chains globally',
+                                                   'consumer spending on telecom devices and services has also slowed '
+                                                   "due to the pandemic's effect on economies worldwide",
+                                                   'overall progress towards improvements in all facets of the telecom '
+                                                   'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                   'satellite - has moderated',
+                                                   0],
                                          'subs': { 'bb': 110568000,
                                                    'fix': 107667642,
                                                    'internet': 285519020,
@@ -14122,7 +15427,7 @@ P1_CNTR = \
                      'url': 'https://en.wikipedia.org/wiki/United_States'},
   'United States Minor Outlying Islands': { 'cc2': 'UM',
                                             'dep': 'US',
-                                            'infos': { 'codes': {'cc3': 'UMI', 'ccn': '581', 'stan': '-'},
+                                            'infos': { 'codes': {'cc3': 'UMI', 'ccn': '581'},
                                                        'geo': { 'cmt': 'ISO includes Baker Island, Howland Island, '
                                                                        'Jarvis Island, Johnston Atoll, Kingman Reef, '
                                                                        'Midway Islands, Navassa Island, Palmyra Atoll, '
@@ -14143,17 +15448,15 @@ P1_CNTR = \
                                                         'bound': {'bord': {}, 'len': 0},
                                                         'capital': { 'coord': '18 21 N, 64 56 W',
                                                                      'name': 'Charlotte Amalie',
-                                                                     'time_diff': 'UTC-4 (1 hour ahead of Washington, '
-                                                                                  'DC, during Standard Time)'},
-                                                        'coast': {'bord': {}, 'len': 188},
+                                                                     'time_diff': 'UTC-4'},
+                                                        'coast': 188,
                                                         'coord': ['18 20 N, 64 50 W'],
                                                         'popul': 106235,
-                                                        'ports': { 'major seaport': 'Charlotte Amalie, Christiansted, '
-                                                                                    'Cruz Bay, Frederiksted, Limetree '
-                                                                                    'Bay'},
+                                                        'ports': { 'seaport': 'Charlotte Amalie, Christiansted, Cruz '
+                                                                              'Bay, Frederiksted, Limetree Bay'},
                                                         'region': 'Central America and the Caribbean',
                                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VI',
-                                                        'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_vq.html'},
+                                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/virgin-islands'},
                                                'nameset': [ 'the virgin islands of the united states',
                                                             'united states virgin islands',
                                                             'virgin islands',
@@ -14178,6 +15481,17 @@ P1_CNTR = \
                                                                   'US, the Caribbean, Central and South America',
                                                                   'satellite earth stations - NA',
                                                                   2020],
+                                                        'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                                  'telecommunications production and supply chains '
+                                                                  'globally',
+                                                                  'consumer spending on telecom devices and services '
+                                                                  "has also slowed due to the pandemic's effect on "
+                                                                  'economies worldwide',
+                                                                  'overall progress towards improvements in all facets '
+                                                                  'of the telecom industry - mobile, fixed-line, '
+                                                                  'broadband, submarine cable and satellite - has '
+                                                                  'moderated',
+                                                                  0],
                                                         'subs': {'fix': 77212, 'internet': 68872},
                                                         'tld': '.vi',
                                                         'url_tld': 'https://en.wikipedia.org/wiki/.vi'}},
@@ -14191,17 +15505,14 @@ P1_CNTR = \
                'infos': { 'codes': {'cc3': 'URY', 'ccn': '858', 'gec': 'UY', 'stan': 'URY'},
                           'geo': { 'airports': 133,
                                    'bound': {'bord': {'Argentina': 541, 'Brazil': 1050}, 'len': 1591},
-                                   'capital': { 'coord': '34 51 S, 56 10 W',
-                                                'name': 'Montevideo',
-                                                'time_diff': 'UTC-3 (2 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}, 'len': 660},
+                                   'capital': {'coord': '34 51 S, 56 10 W', 'name': 'Montevideo', 'time_diff': 'UTC-3'},
+                                   'coast': 660,
                                    'coord': ['33 00 S, 56 00 W'],
                                    'popul': 3387605,
-                                   'ports': {'major seaport': 'Montevideo'},
+                                   'ports': {'seaport': 'Montevideo'},
                                    'region': 'South America',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UY',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_uy.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/uruguay'},
                           'nameset': [ 'oriental republic of uruguay',
                                        'republica oriental del uruguay',
                                        'the oriental republic of uruguay',
@@ -14227,6 +15538,14 @@ P1_CNTR = \
                                              'bandwidth',
                                              'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                              2020],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 977390, 'fix': 1137193, 'internet': 2300557, 'mob': 4664993},
                                    'tld': '.uy',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.uy'}},
@@ -14247,14 +15566,12 @@ P1_CNTR = \
                                                  'len': 6893},
                                       'capital': { 'coord': '41 19 N, 69 15 E',
                                                    'name': 'Tashkent (Toshkent)',
-                                                   'time_diff': 'UTC+5 (10 hours ahead of Washington, DC, during '
-                                                                'Standard Time)'},
-                                      'coast': {'bord': {}},
+                                                   'time_diff': 'UTC+5'},
                                       'coord': ['41 00 N, 64 00 E'],
                                       'popul': 30565411,
                                       'region': 'Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UZ',
-                                      'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_uz.html'},
+                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/uzbekistan'},
                              'nameset': [ "o'zbekiston",
                                           "o'zbekiston respublikasi",
                                           'republic of uzbekistan',
@@ -14285,7 +15602,15 @@ P1_CNTR = \
                                                 'fiber-optic cable',
                                                 'Uzbekistan has supported the national fiber-optic backbone project of '
                                                 'Afghanistan since 2008',
-                                                2000],
+                                                0],
+                                      'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                'production and supply chains globally',
+                                                'consumer spending on telecom devices and services has also slowed due '
+                                                "to the pandemic's effect on economies worldwide",
+                                                'overall progress towards improvements in all facets of the telecom '
+                                                'industry - mobile, fixed-line, broadband, submarine cable and '
+                                                'satellite - has moderated',
+                                                0],
                                       'subs': {'bb': 4123508, 'fix': 3262896, 'internet': 15705402, 'mob': 30662740},
                                       'tld': '.uz',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.uz'}},
@@ -14301,16 +15626,14 @@ P1_CNTR = \
                                    'bound': {'bord': {}, 'len': 0},
                                    'capital': { 'coord': '17 44 S, 168 19 E',
                                                 'name': 'Port-Vila (on Efate)',
-                                                'time_diff': 'UTC+11 (16 hours ahead of Washington, DC, during '
-                                                             'Standard Time)'},
-                                   'coast': {'bord': {}, 'len': 2528},
+                                                'time_diff': 'UTC+11'},
+                                   'coast': 2528,
                                    'coord': ['16 00 S, 167 00 E'],
                                    'popul': 298333,
-                                   'ports': { 'major seaport': 'Forari Bay, Luganville (Santo, Espiritu Santo), '
-                                                               'Port-Vila'},
+                                   'ports': {'seaport': 'Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila'},
                                    'region': 'Oceania',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VU',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_nh.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/vanuatu'},
                           'nameset': [ 'republic of vanuatu',
                                        'ripablik blong vanuatu',
                                        'the republic of vanuatu',
@@ -14337,6 +15660,14 @@ P1_CNTR = \
                                              'cables helped end-users with Internet bandwidth',
                                              'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                              2020],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 4718, 'fix': 3724, 'internet': 74083, 'mob': 259317},
                                    'tld': '.vu',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.vu'}},
@@ -14351,14 +15682,12 @@ P1_CNTR = \
                           'geo': { 'bound': {'bord': {'Italy': 3}, 'len': 3},
                                    'capital': { 'coord': '41 54 N, 12 27 E',
                                                 'name': 'Vatican City',
-                                                'time_diff': 'UTC+1 (6 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                                'time_diff': 'UTC+1'},
                                    'coord': ['41 54 N, 12 27 E'],
                                    'popul': 1000,
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VA',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_vt.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/holy-see-vatican-city'},
                           'nameset': [ 'holy see',
                                        'holy see (vatican city state)',
                                        'holy see (vatican city)',
@@ -14372,7 +15701,15 @@ P1_CNTR = \
                           'tel': { 'code': '39',
                                    'domestic': ['connected via fiber-optic cable to Telecom Italia network', 2018],
                                    'general': ['automatic digital exchange', 2018],
-                                   'intl': ['uses Italian system', 2000],
+                                   'intl': ['uses Italian system', 0],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'tld': '.va',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.va'}},
                'mcc': ['222'],
@@ -14385,17 +15722,14 @@ P1_CNTR = \
                  'infos': { 'codes': {'cc3': 'VEN', 'ccn': '862', 'gec': 'VE', 'stan': 'VEN'},
                             'geo': { 'airports': 444,
                                      'bound': {'bord': {'Brazil': 2137, 'Colombia': 2341, 'Guyana': 789}, 'len': 5267},
-                                     'capital': { 'coord': '10 29 N, 66 52 W',
-                                                  'name': 'Caracas',
-                                                  'time_diff': 'UTC-4 (1 hour ahead of Washington, DC, during Standard '
-                                                               'Time)'},
-                                     'coast': {'bord': {}, 'len': 2800},
+                                     'capital': {'coord': '10 29 N, 66 52 W', 'name': 'Caracas', 'time_diff': 'UTC-4'},
+                                     'coast': 2800,
                                      'coord': ['8 00 N, 66 00 W'],
                                      'popul': 28644603,
-                                     'ports': {'major seaport': 'La Guaira, Maracaibo, Puerto Cabello, Punta Cardon'},
+                                     'ports': {'seaport': 'La Guaira, Maracaibo, Puerto Cabello, Punta Cardon'},
                                      'region': 'South America',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VE',
-                                     'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ve.html'},
+                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/venezuela'},
                             'nameset': [ 'bolivarian republic of venezuela',
                                          'republica bolivariana de venezuela',
                                          'the bolivarian republic of venezuela',
@@ -14426,6 +15760,14 @@ P1_CNTR = \
                                                'connectivity to the Caribbean, Central and South America, and US',
                                                'satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat',
                                                2020],
+                                     'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                               'production and supply chains globally',
+                                               'consumer spending on telecom devices and services has also slowed due '
+                                               "to the pandemic's effect on economies worldwide",
+                                               'overall progress towards improvements in all facets of the telecom '
+                                               'industry - mobile, fixed-line, broadband, submarine cable and '
+                                               'satellite - has moderated',
+                                               0],
                                      'subs': {'bb': 2604578, 'fix': 5501135, 'internet': 21354499, 'mob': 16664106},
                                      'tld': '.ve',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.ve'}},
@@ -14441,16 +15783,15 @@ P1_CNTR = \
                                    'bound': {'bord': {'Cambodia': 1158, 'China': 1297, 'Laos': 2161}, 'len': 4616},
                                    'capital': { 'coord': '21 02 N, 105 51 E',
                                                 'name': 'Hanoi (Ha Noi)',
-                                                'time_diff': 'UTC+7 (12 hours ahead of Washington, DC, during Standard '
-                                                             'Time)'},
-                                   'coast': {'bord': {}},
+                                                'time_diff': 'UTC+7'},
+                                   'coast': 3444,
                                    'coord': ['16 10 N, 107 50 E'],
                                    'popul': 98721275,
-                                   'ports': { 'container port': 'Saigon (6,155,535), Cai Mep (3,065,014)',
-                                              'major seaport': 'Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon'},
+                                   'ports': { 'container': 'Saigon (6,155,535), Cai Mep (3,065,014) (2017)',
+                                              'seaport': 'Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon'},
                                    'region': 'Southeast Asia',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VN',
-                                   'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_vm.html'},
+                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/vietnam'},
                           'nameset': [ 'cong hoa xa hoi chu nghia viet nam',
                                        'socialist republic of viet nam',
                                        'socialist republic of vietnam',
@@ -14466,8 +15807,9 @@ P1_CNTR = \
                                                  'fixed-line 4 per 100 and mobile-cellular 141 per 100',
                                                  2019],
                                    'general': [ 'despite being a communist country there are plans to part privatize '
-                                                'the state’s holdings in telecom companies as well as a large number '
-                                                'of other enterprises',
+                                                'the state&rsquo',
+                                                's holdings in telecom companies as well as a large number of other '
+                                                'enterprises',
                                                 'competition is thriving in the market place',
                                                 'mobile dominates over fixed-line',
                                                 'FttH market growing, as is e-commerce',
@@ -14483,6 +15825,14 @@ P1_CNTR = \
                                              'Middle East, Asia, Southeast Asia, Australia, and the US',
                                              'satellite earth stations - 2 Intersputnik (Indian Ocean region)',
                                              2020],
+                                   'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                             'production and supply chains globally',
+                                             'consumer spending on telecom devices and services has also slowed due to '
+                                             "the pandemic's effect on economies worldwide",
+                                             'overall progress towards improvements in all facets of the telecom '
+                                             'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                             '- has moderated',
+                                             0],
                                    'subs': {'bb': 12994451, 'fix': 3710210, 'internet': 68267875, 'mob': 138256733},
                                    'tld': '.vn',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.vn'}},
@@ -14498,15 +15848,14 @@ P1_CNTR = \
                                              'bound': {'bord': {}, 'len': 0},
                                              'capital': { 'coord': '13 57 S, 171 56 W',
                                                           'name': 'Mata-Utu (on Ile Uvea)',
-                                                          'time_diff': 'UTC+12 (17 hours ahead of Washington, DC, '
-                                                                       'during Standard Time)'},
-                                             'coast': {'bord': {}, 'len': 129},
+                                                          'time_diff': 'UTC+12'},
+                                             'coast': 129,
                                              'coord': ['13 18 S, 176 12 W'],
                                              'popul': 15854,
-                                             'ports': {'major seaport': 'Leava, Mata-Utu'},
+                                             'ports': {'seaport': 'Leava, Mata-Utu'},
                                              'region': 'Oceania',
                                              'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:WF',
-                                             'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_wf.html'},
+                                             'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/wallis-and-futuna'},
                                     'nameset': [ 'territoire des iles wallis et futuna',
                                                  'territory of the wallis and futuna islands',
                                                  'the territory of the wallis and futuna islands',
@@ -14529,6 +15878,14 @@ P1_CNTR = \
                                              'intl': [ 'landing point for the Tui-Samoa submarine cable network '
                                                        'connecting Wallis & Futuna, Samoa and Fiji',
                                                        2020],
+                                             'note': [ 'the COVID-19 outbreak is negatively impacting '
+                                                       'telecommunications production and supply chains globally',
+                                                       'consumer spending on telecom devices and services has also '
+                                                       "slowed due to the pandemic's effect on economies worldwide",
+                                                       'overall progress towards improvements in all facets of the '
+                                                       'telecom industry - mobile, fixed-line, broadband, submarine '
+                                                       'cable and satellite - has moderated',
+                                                       0],
                                              'subs': {'fix': 4012, 'internet': 3450},
                                              'tld': '.wf',
                                              'url_tld': 'https://en.wikipedia.org/wiki/.wf'}},
@@ -14543,25 +15900,32 @@ P1_CNTR = \
                                  'geo': { 'airports': 6,
                                           'bound': { 'bord': {'Algeria': 41, 'Mauritania': 1564, 'Morocco': 444},
                                                      'len': 2049},
-                                          'capital': { 'time_diff': 'UTC 0 (5 hours ahead of Washington, DC, during '
-                                                                    'Standard Time)'},
-                                          'coast': {'bord': {}, 'len': 1110},
+                                          'capital': {'time_diff': 'UTC 0'},
+                                          'coast': 1110,
                                           'coord': ['24 30 N, 13 00 W'],
                                           'popul': 652271,
-                                          'ports': {'major seaport': 'Ad Dakhla, Laayoune (El Aaiun)'},
+                                          'ports': {'seaport': 'Ad Dakhla, Laayoune (El Aaiun)'},
                                           'region': 'Africa',
                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EH',
-                                          'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_wi.html'},
+                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/western-sahara'},
                                  'nameset': [ 'sahrawi arab democratic republic',
                                               'the sahrawi arab democratic republic',
                                               'western sahara'],
                                  'tel': { 'code': '212',
-                                          'general': ['sparse and limited system', 2000],
+                                          'general': ['sparse and limited system', 0],
                                           'intl': [ "tied into Morocco's system by microwave radio relay, tropospheric "
                                                     'scatter, and satellite',
                                                     'satellite earth stations - 2 Intelsat (Atlantic Ocean) linked to '
                                                     'Rabat, Morocco',
-                                                    2000]}},
+                                                    0],
+                                          'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                                    'production and supply chains globally',
+                                                    'consumer spending on telecom devices and services has also slowed '
+                                                    "due to the pandemic's effect on economies worldwide",
+                                                    'overall progress towards improvements in all facets of the '
+                                                    'telecom industry - mobile, fixed-line, broadband, submarine cable '
+                                                    'and satellite - has moderated',
+                                                    0]}},
                       'mcc': ['604'],
                       'mccmnc': [],
                       'msisdn': ['212'],
@@ -14572,17 +15936,14 @@ P1_CNTR = \
              'infos': { 'codes': {'cc3': 'YEM', 'ccn': '887', 'gec': 'YM', 'stan': 'YEM'},
                         'geo': { 'airports': 57,
                                  'bound': {'bord': {'Oman': 294, 'Saudi Arabia': 1307}, 'len': 1601},
-                                 'capital': { 'coord': '15 21 N, 44 12 E',
-                                              'name': 'Sanaa',
-                                              'time_diff': 'UTC+3 (8 hours ahead of Washington, DC, during Standard '
-                                                           'Time)'},
-                                 'coast': {'bord': {}, 'len': 1906},
+                                 'capital': {'coord': '15 21 N, 44 12 E', 'name': 'Sanaa', 'time_diff': 'UTC+3'},
+                                 'coast': 1906,
                                  'coord': ['15 00 N, 48 00 E'],
                                  'popul': 29884405,
-                                 'ports': {'major seaport': 'Aden, Al Hudaydah, Al Mukalla'},
+                                 'ports': {'seaport': 'Aden, Al Hudaydah, Al Mukalla'},
                                  'region': 'Middle East',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:YE',
-                                 'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_ym.html'},
+                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/yemen'},
                         'nameset': [ 'al jumhuriyah al yamaniyah',
                                      'al yaman',
                                      'republic of yemen',
@@ -14616,6 +15977,14 @@ P1_CNTR = \
                                            'Ocean), 1 Intersputnik (Atlantic Ocean region), and 2 Arabsat',
                                            'microwave radio relay to Saudi Arabia and Djibouti',
                                            2020],
+                                 'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                           'production and supply chains globally',
+                                           'consumer spending on telecom devices and services has also slowed due to '
+                                           "the pandemic's effect on economies worldwide",
+                                           'overall progress towards improvements in all facets of the telecom '
+                                           'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                           'has moderated',
+                                           0],
                                  'subs': {'bb': 386330, 'fix': 1253287, 'internet': 7659884, 'mob': 16158028},
                                  'tld': '.ye',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.ye'}},
@@ -14640,14 +16009,12 @@ P1_CNTR = \
                                   'capital': { 'coord': '15 25 S, 28 17 E',
                                                'name': 'Lusaka; note - a proposal to build a new capital city in '
                                                        'Ngabwe was announced in May 2017',
-                                               'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                            'Time)'},
-                                  'coast': {'bord': {}},
+                                               'time_diff': 'UTC+2'},
                                   'coord': ['15 00 S, 30 00 E'],
                                   'popul': 17426623,
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ZM',
-                                  'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_za.html'},
+                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/zambia'},
                          'nameset': ['republic of zambia', 'the republic of zambia', 'zambia'],
                          'tel': { 'code': '260',
                                   'domestic': [ 'fiber optic connections are available between most larger towns and '
@@ -14672,7 +16039,15 @@ P1_CNTR = \
                                   'intl': [ 'multiple providers operate overland fiber optic routes via Zimbabwe/South '
                                             'Africa, Botswana/Namibia and Tanzania provide access to the major '
                                             'undersea cables',
-                                            2000],
+                                            0],
+                                  'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                            'production and supply chains globally',
+                                            'consumer spending on telecom devices and services has also slowed due to '
+                                            "the pandemic's effect on economies worldwide",
+                                            'overall progress towards improvements in all facets of the telecom '
+                                            'industry - mobile, fixed-line, broadband, submarine cable and satellite - '
+                                            'has moderated',
+                                            0],
                                   'subs': {'bb': 43365, 'fix': 91422, 'internet': 2351646, 'mob': 16322168},
                                   'tld': '.zm',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.zm'}},
@@ -14690,16 +16065,12 @@ P1_CNTR = \
                                                          'South Africa': 230,
                                                          'Zambia': 763},
                                                'len': 3229},
-                                    'capital': { 'coord': '17 49 S, 31 02 E',
-                                                 'name': 'Harare',
-                                                 'time_diff': 'UTC+2 (7 hours ahead of Washington, DC, during Standard '
-                                                              'Time)'},
-                                    'coast': {'bord': {}},
+                                    'capital': {'coord': '17 49 S, 31 02 E', 'name': 'Harare', 'time_diff': 'UTC+2'},
                                     'coord': ['20 00 S, 30 00 E'],
                                     'popul': 14546314,
                                     'region': 'Africa',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ZW',
-                                    'url_wfb': 'https://www.cia.gov/library/publications/the-world-factbook/geos/print_zi.html'},
+                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/zimbabwe'},
                            'nameset': ['republic of zimbabwe', 'the republic of zimbabwe', 'zimbabwe'],
                            'tel': { 'code': '263',
                                     'domestic': [ 'consists of microwave radio relay links, open-wire lines, '
@@ -14724,7 +16095,15 @@ P1_CNTR = \
                                               'international networks via undersea cable',
                                               'satellite earth stations - 2 Intelsat',
                                               '5 international digital gateway exchanges',
-                                              2000],
+                                              0],
+                                    'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications '
+                                              'production and supply chains globally',
+                                              'consumer spending on telecom devices and services has also slowed due '
+                                              "to the pandemic's effect on economies worldwide",
+                                              'overall progress towards improvements in all facets of the telecom '
+                                              'industry - mobile, fixed-line, broadband, submarine cable and satellite '
+                                              '- has moderated',
+                                              0],
                                     'subs': {'bb': 203056, 'fix': 258419, 'internet': 3796618, 'mob': 12863830},
                                     'tld': '.zw',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.zw'}},
