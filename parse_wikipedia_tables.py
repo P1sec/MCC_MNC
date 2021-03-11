@@ -512,8 +512,11 @@ def parse_table_msisdn_pref():
     #
     for L in T_C[1:]:
         name = explore_text(L[0]).text.strip()
-        pref = list(map(lambda s: RE_WIKI_MSISDN_PREF.search(s.strip()).group().replace(' ', '')[1:],
-                        ''.join(L[1].itertext()).split(',')))
+        pref = []
+        for num in map(str.strip, ''.join(L[1].itertext()).split(',')):
+            if not num:
+                continue
+            pref.append( RE_WIKI_MSISDN_PREF.search(num).group().replace(' ', '')[1:] )
         assert( name not in D_C )
         D_C[name] = pref
     #
@@ -559,21 +562,24 @@ REC_BORDERS = {
     }
 
 
+# list of countries for which Wikipédia count of borders does not correspond
+# to the list of border countries
+BORDER_ISSUE = {'Afghanistan', 'China', 'Georgia', 'India', 'Israel', }
+
 
 _stripbordref = lambda s: re.sub('\s{1,}', ' ', re.sub(r'\(.*?\)|\[.*?\]', ' ', s).strip())
 
 def _get_bord(e):
-    b = []
+    b = set()
     for s in map(str.strip, ''.join(e.itertext()).split('\xa0')):
-        if s:
-            s = _stripbordref(s)
-            if ':' in s:
-                name = s.split(':')[0].strip()
-                if name in CRAPPY_BORDERS:
-                    name = CRAPPY_BORDERS[name]
-                b.append(name)
-    b.sort()
-    return b
+        if s and s[0].isupper():
+            name = _stripbordref(s)
+            if ':' in name:
+                name = name.split(':')[0].strip()
+            if name in CRAPPY_BORDERS:
+                name = CRAPPY_BORDERS[name]
+            b.add(name)
+    return list(sorted(b))
 
 
 def _get_int(s):
@@ -611,9 +617,13 @@ def read_entry_borders(T, off):
             sub.sort(key=lambda t: t[0])
             rec['country_sub'] = sub
     #
-    if len(L) >= 6 and len(L[5]) >= 1 and len(L[5][0]) >= 2:
-        rec['neigh'] = _get_bord(L[5][0][1])
-        if rec['neigh_num'] and not rec['neigh']:
+    if len(L) >= 6:
+        #if len(L[5]) >= 1 and len(L[5][0]) >= 2:
+        #    rec['neigh'] = _get_bord(L[5][0][1])
+        #rec['dbg'] = L
+        rec['neigh'] = _get_bord(L[5])
+        #
+        if rec['country_name'] not in BORDER_ISSUE and rec['neigh_num'] != len(rec['neigh']):
             assert()
     #
     return rec

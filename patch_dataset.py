@@ -738,7 +738,8 @@ BORD_DUP_DEL = [
     # Netherlands:
     # 1st entry corresponds to metropolitan Netherlands
     # 2nd entry corresponds to the Kingdom of Netherlands including oversea territories: delete it
-    'Netherlands',
+    #'Netherlands',
+    # 2021/03/11: not anymore...
     #
     # United Kingdom:
     # 1st entry corresponds to metropolitan France
