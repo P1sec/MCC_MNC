@@ -45,7 +45,7 @@
           "local_long": "Jamhuri-ye Islami-ye Afghanistan",
           "local_short": "Afghanistan"
         },
-        "population": 36643815,
+        "population": 37466414,
         "ports": {},
         "region": [
           "Asia"
@@ -166,7 +166,7 @@
           "local_long": "Republika e Shqiperise",
           "local_short": "Shqiperia"
         },
-        "population": 3074579,
+        "population": 3088385,
         "ports": {
           "seaport": "Durres, Sarande, Shengjin, Vlore"
         },
@@ -230,10 +230,9 @@
             "Libya": 989,
             "Mali": 1359,
             "Mauritania": 460,
-            "Morocco": 1900,
+            "Morocco": 1941,
             "Niger": 951,
-            "Tunisia": 1034,
-            "Western Sahara": 41
+            "Tunisia": 1034
           },
           "len": 6734
         },
@@ -252,7 +251,7 @@
           "local_long": "Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah",
           "local_short": "Al Jaza'ir"
         },
-        "population": 42972878,
+        "population": 43576691,
         "ports": {
           "seaport": "Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda"
         },
@@ -336,7 +335,7 @@
           "conv_long": "American Samoa",
           "conv_short": "American Samoa"
         },
-        "population": 49437,
+        "population": 46366,
         "ports": {
           "seaport": "Pago Pago"
         },
@@ -410,7 +409,7 @@
           "local_long": "Principat d'Andorra",
           "local_short": "Andorra"
         },
-        "population": 77000,
+        "population": 85645,
         "region": [
           "Europe"
         ],
@@ -485,7 +484,7 @@
           "local_long": "Republica de Angola",
           "local_short": "Angola"
         },
-        "population": 32522339,
+        "population": 33642646,
         "ports": {
           "seaport": "Cabinda, Lobito, Luanda, Namibe"
         },
@@ -559,7 +558,7 @@
           "conv_long": "none",
           "conv_short": "Anguilla"
         },
-        "population": 18090,
+        "population": 18403,
         "ports": {
           "seaport": "Blowing Point, Road Bay"
         },
@@ -686,7 +685,7 @@
           "conv_long": "none",
           "conv_short": "Antigua and Barbuda"
         },
-        "population": 98179,
+        "population": 99175,
         "ports": {
           "seaport": "Saint John's"
         },
@@ -769,7 +768,7 @@
           "local_long": "Republica Argentina",
           "local_short": "Argentina"
         },
-        "population": 45479118,
+        "population": 45864941,
         "ports": {
           "container": "Buenos Aires (1,851,701)",
           "seaport": "Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia"
@@ -853,7 +852,7 @@
           "local_long": "Hayastani Hanrapetut'yun",
           "local_short": "Hayastan"
         },
-        "population": 3021324,
+        "population": 3011609,
         "region": [
           "Asia"
         ],
@@ -928,7 +927,7 @@
           "local_long": "Land Aruba (Dutch); Pais Aruba (Papiamento)",
           "local_short": "Aruba"
         },
-        "population": 119428,
+        "population": 120917,
         "ports": {
           "seaport": "Barcadera, Oranjestad"
         },
@@ -1040,7 +1039,7 @@
           "conv_long": "Commonwealth of Australia",
           "conv_short": "Australia"
         },
-        "population": 25466459,
+        "population": 25809973,
         "ports": {
           "container": "Melbourne (2,806,436), Sydney (2,530,122) (2017)",
           "seaport": "Brisbane, Cairns, Darwin, Fremantle, Geelong, Gladstone, Hobart, Melbourne, Newcastle, Port Adelaide, Port Kembla, Sydney"
@@ -1131,7 +1130,7 @@
           "local_long": "Republik Oesterreich",
           "local_short": "Oesterreich"
         },
-        "population": 8859449,
+        "population": 8884864,
         "ports": {},
         "region": [
           "Europe"
@@ -1217,7 +1216,7 @@
           "local_long": "Azarbaycan Respublikasi",
           "local_short": "Azarbaycan"
         },
-        "population": 10205810,
+        "population": 10282283,
         "ports": {
           "seaport": "Baku (Baki) located on the Caspian Sea"
         },
@@ -1292,7 +1291,7 @@
           "conv_long": "Commonwealth of The Bahamas",
           "conv_short": "The Bahamas"
         },
-        "population": 337721,
+        "population": 352655,
         "ports": {
           "container": "Freeport (1,116,272)(2011)",
           "seaport": "Freeport, Nassau, South Riding Point"
@@ -1370,7 +1369,7 @@
           "local_long": "Mamlakat al Bahrayn",
           "local_short": "Al Bahrayn"
         },
-        "population": 1505003,
+        "population": 1526929,
         "ports": {
           "seaport": "Mina' Salman, Sitrah"
         },
@@ -1466,7 +1465,7 @@
           "local_long": "Gana Prajatantri Bangladesh",
           "local_short": "Bangladesh"
         },
-        "population": 162650853,
+        "population": 164098818,
         "ports": {
           "container": "Chittagong (2,566,597) (2017)",
           "seaport": "Chittagong"
@@ -1543,7 +1542,7 @@
           "conv_long": "none",
           "conv_short": "Barbados"
         },
-        "population": 294560,
+        "population": 301865,
         "ports": {
           "seaport": "Bridgetown"
         },
@@ -1638,7 +1637,7 @@
           "local_long": "Respublika Byelarus'/Respublika Belarus'",
           "local_short": "Byelarus'/Belarus'"
         },
-        "population": 9477918,
+        "population": 9441842,
         "ports": {},
         "region": [
           "Europe"
@@ -1724,7 +1723,7 @@
           "local_long": "Royaume de Belgique (French)/Koninkrijk Belgie (Dutch)/Koenigreich Belgien (German)",
           "local_short": "Belgique/Belgie/Belgien"
         },
-        "population": 11720716,
+        "population": 11778842,
         "ports": {
           "container": "Antwerp (10,450,000) (2017)",
           "seaport": "Oostende, Zeebrugge"
@@ -1806,7 +1805,7 @@
           "conv_long": "none",
           "conv_short": "Belize"
         },
-        "population": 399598,
+        "population": 405633,
         "ports": {
           "seaport": "Belize City, Big Creek"
         },
@@ -1887,7 +1886,7 @@
           "local_long": "Republique du Benin",
           "local_short": "Benin"
         },
-        "population": 12864634,
+        "population": 13301694,
         "ports": {
           "seaport": "Cotonou"
         },
@@ -1962,7 +1961,7 @@
           "conv_long": "none",
           "conv_short": "Bermuda"
         },
-        "population": 71750,
+        "population": 72084,
         "ports": {
           "seaport": "Hamilton, Ireland Island, Saint George"
         },
@@ -2039,7 +2038,7 @@
           "local_long": "Druk Gyalkhap",
           "local_short": "Druk Yul"
         },
-        "population": 782318,
+        "population": 857423,
         "region": [
           "Asia"
         ],
@@ -2118,7 +2117,7 @@
           "local_long": "Estado Plurinacional de Bolivia",
           "local_short": "Bolivia"
         },
-        "population": 11639909,
+        "population": 11758869,
         "ports": {},
         "region": [
           "South America"
@@ -2202,7 +2201,7 @@
           "local_long": "none",
           "local_short": "Bosna i Hercegovina"
         },
-        "population": 3835586,
+        "population": 3824782,
         "ports": {},
         "region": [
           "Europe"
@@ -2280,7 +2279,7 @@
           "local_long": "Republic of Botswana",
           "local_short": "Botswana"
         },
-        "population": 2317233,
+        "population": 2350667,
         "region": [
           "Africa"
         ],
@@ -2406,7 +2405,7 @@
           "local_long": "Republica Federativa do Brasil",
           "local_short": "Brasil"
         },
-        "population": 211715973,
+        "population": 213445417,
         "ports": {
           "container": "Santos (3,853,719) (2017)",
           "seaport": "Belem, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao"
@@ -2541,7 +2540,7 @@
           "conv_long": "none",
           "conv_short": "British Virgin Islands"
         },
-        "population": 37381,
+        "population": 37891,
         "ports": {
           "seaport": "Road Harbor"
         },
@@ -2617,7 +2616,7 @@
           "local_long": "Negara Brunei Darussalam",
           "local_short": "Brunei"
         },
-        "population": 464478,
+        "population": 471103,
         "ports": {
           "seaport": "Muara"
         },
@@ -2701,7 +2700,7 @@
           "local_long": "Republika Bulgaria",
           "local_short": "Bulgaria"
         },
-        "population": 6966899,
+        "population": 6919180,
         "ports": {
           "seaport": "Burgas, Varna (Black Sea)"
         },
@@ -2787,7 +2786,7 @@
           "local_long": "none",
           "local_short": "Burkina Faso"
         },
-        "population": 20835401,
+        "population": 21382659,
         "region": [
           "Africa"
         ],
@@ -2866,7 +2865,7 @@
           "local_long": "Pyidaungzu Thammada Myanma Naingngandaw (translated as the Republic of the Union of Myanmar)",
           "local_short": "Myanma Naingngandaw"
         },
-        "population": 56590071,
+        "population": 57069099,
         "ports": {
           "seaport": "Mawlamyine (Moulmein), Sittwe"
         },
@@ -2946,7 +2945,7 @@
           "local_long": "Republique du Burundi/Republika y'u Burundi",
           "local_short": "Burundi"
         },
-        "population": 11865821,
+        "population": 12241065,
         "ports": {},
         "region": [
           "Africa"
@@ -3022,7 +3021,7 @@
           "local_long": "Republica de Cabo Verde",
           "local_short": "Cabo Verde"
         },
-        "population": 583255,
+        "population": 589451,
         "ports": {
           "seaport": "Porto Grande"
         },
@@ -3105,7 +3104,7 @@
           "local_long": "Preahreacheanachakr Kampuchea (phonetic transliteration)",
           "local_short": "Kampuchea"
         },
-        "population": 16926984,
+        "population": 17304363,
         "ports": {
           "seaport": "Sihanoukville (Kampong Saom)"
         },
@@ -3192,7 +3191,7 @@
           "local_long": "Republique du Cameroun/Republic of Cameroon",
           "local_short": "Cameroun/Cameroon"
         },
-        "population": 27744989,
+        "population": 28524175,
         "ports": {},
         "region": [
           "Africa"
@@ -3266,7 +3265,7 @@
           "conv_long": "none",
           "conv_short": "Canada"
         },
-        "population": 37694085,
+        "population": 37943231,
         "ports": {
           "container": "Montreal (1,537,669), Vancouver (3,252,225) (2017)",
           "seaport": "Halifax, Saint John (New Brunswick), Vancouver"
@@ -3344,7 +3343,7 @@
           "conv_long": "none",
           "conv_short": "Cayman Islands"
         },
-        "population": 61944,
+        "population": 63131,
         "ports": {
           "seaport": "Cayman Brac, George Town"
         },
@@ -3426,7 +3425,7 @@
           "local_long": "Republique Centrafricaine",
           "local_short": "none"
         },
-        "population": 5990855,
+        "population": 5357984,
         "ports": {},
         "region": [
           "Africa"
@@ -3506,7 +3505,7 @@
           "local_long": "Republique du Tchad/Jumhuriyat Tshad",
           "local_short": "Tchad/Tshad"
         },
-        "population": 16877357,
+        "population": 17414108,
         "region": [
           "Africa"
         ],
@@ -3581,7 +3580,7 @@
           "local_long": "Republica de Chile",
           "local_short": "Chile"
         },
-        "population": 18186770,
+        "population": 18307925,
         "ports": {
           "container": "San Antonio (1,296,890), Valparaiso (1,073,734) (2017)",
           "seaport": "Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso"
@@ -3654,12 +3653,12 @@
             "Nepal": 1389,
             "North Korea": 1352,
             "Pakistan": 438,
-            "Russia": 4179,
+            "Russia": 4133,
             "Tajikistan": 477,
             "Vietnam": 1297
           },
           "len": 22457,
-          "note": "border with Russia (northeast); border with Russia (northwest)"
+          "note": "border with Russia (northeast)"
         },
         "capital": {
           "coord": "39 55 N, 116 23 E",
@@ -3676,7 +3675,7 @@
           "local_long": "Zhonghua Renmin Gongheguo",
           "local_short": "Zhongguo"
         },
-        "population": 1394015977,
+        "population": 1397897720,
         "ports": {
           "container": "Dalian (9,707,000), Guangzhou (18,858,000), Ningbo (24,607,000), Qingdao (18,262,000), Shanghai (40,233,000), Shenzhen (25,208,000), Tianjin (15,040,000) (2017)",
           "seaport": "Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin"
@@ -3927,7 +3926,7 @@
           "local_long": "Republica de Colombia",
           "local_short": "Colombia"
         },
-        "population": 49084841,
+        "population": 50355650,
         "ports": {
           "container": "Cartagena (2,663,415) (2017)",
           "seaport": "Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo"
@@ -4009,7 +4008,7 @@
           "local_long": "Udzima wa Komori (Comorian), Union des Comores (French), Jumhuriyat al Qamar al Muttahidah (Arabic)",
           "local_short": "Komori (Comorian), Comores (French), Juzur al Qamar (Arabic)"
         },
-        "population": 846281,
+        "population": 864335,
         "ports": {
           "seaport": "Moroni, Moutsamoudou"
         },
@@ -4094,7 +4093,7 @@
           "local_long": "Republique Democratique du Congo",
           "local_short": "RDC"
         },
-        "population": 101780263,
+        "population": 105044646,
         "ports": {
           "seaport": "Banana"
         },
@@ -4179,7 +4178,7 @@
           "local_long": "Republique du Congo",
           "local_short": "Congo"
         },
-        "population": 5293070,
+        "population": 5417414,
         "ports": {
           "seaport": "Pointe-Noire"
         },
@@ -4252,7 +4251,7 @@
           "conv_long": "none",
           "conv_short": "Cook Islands"
         },
-        "population": 8574,
+        "population": 8327,
         "ports": {
           "seaport": "Avatiu"
         },
@@ -4368,7 +4367,7 @@
           "local_long": "Republica de Costa Rica",
           "local_short": "Costa Rica"
         },
-        "population": 5097988,
+        "population": 5151140,
         "ports": {
           "seaport": "Atlantic Ocean (Caribbean) - Puerto Limon"
         },
@@ -4453,7 +4452,7 @@
           "local_long": "Republique de Cote d'Ivoire",
           "local_short": "Cote d'Ivoire"
         },
-        "population": 27481086,
+        "population": 28088455,
         "ports": {
           "seaport": "Abidjan, San-Pedro"
         },
@@ -4538,7 +4537,7 @@
           "local_long": "Republika Hrvatska",
           "local_short": "Hrvatska"
         },
-        "population": 4227746,
+        "population": 4208973,
         "ports": {
           "seaport": "Ploce, Rijeka, Sibenik, Split"
         },
@@ -4620,7 +4619,7 @@
           "local_long": "Republica de Cuba",
           "local_short": "Cuba"
         },
-        "population": 11059062,
+        "population": 11032343,
         "ports": {
           "seaport": "Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba"
         },
@@ -4689,7 +4688,7 @@
           "local_long": "Land Curacao (Dutch); Pais Korsou (Papiamento)",
           "local_short": "Curacao (Dutch); Korsou (Papiamento)"
         },
-        "population": 151345,
+        "population": 151885,
         "ports": {
           "seaport": "Willemstad"
         },
@@ -4765,7 +4764,7 @@
           "local_long": "Kypriaki Dimokratia/Kibris Cumhuriyeti",
           "local_short": "Kypros/Kibris"
         },
-        "population": 1266676,
+        "population": 1281506,
         "ports": {
           "seaport": "area under government control: Larnaca, Limassol, Vasilikos"
         },
@@ -4849,7 +4848,7 @@
           "local_long": "Ceska republika",
           "local_short": "Cesko"
         },
-        "population": 10702498,
+        "population": 10702596,
         "ports": {},
         "region": [
           "Europe"
@@ -4926,7 +4925,7 @@
           "local_long": "Kongeriget Danmark",
           "local_short": "Danmark"
         },
-        "population": 5869410,
+        "population": 5894687,
         "ports": {
           "seaport": "Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg"
         },
@@ -5048,7 +5047,7 @@
           "local_long": "Republique de Djibouti/Jumhuriyat Jibuti",
           "local_short": "Djibouti/Jibuti"
         },
-        "population": 921804,
+        "population": 938413,
         "ports": {
           "seaport": "Djibouti"
         },
@@ -5125,7 +5124,7 @@
           "conv_long": "Commonwealth of Dominica",
           "conv_short": "Dominica"
         },
-        "population": 74243,
+        "population": 74584,
         "ports": {
           "seaport": "Portsmouth, Roseau"
         },
@@ -5203,7 +5202,7 @@
           "local_long": "Republica Dominicana",
           "local_short": "La Dominicana"
         },
-        "population": 10499707,
+        "population": 10597348,
         "ports": {
           "seaport": "Puerto Haina, Puerto Plata, Santo Domingo"
         },
@@ -5286,7 +5285,7 @@
           "local_long": "Republica del Ecuador",
           "local_short": "Ecuador"
         },
-        "population": 16904867,
+        "population": 17093159,
         "ports": {
           "container": "Guayaquil (1,871,591) (2017)",
           "seaport": "Esmeraldas, Manta, Puerto Bolivar"
@@ -5368,7 +5367,7 @@
           "local_long": "Jumhuriyat Misr al-Arabiyah",
           "local_short": "Misr"
         },
-        "population": 104124440,
+        "population": 106437241,
         "ports": {
           "container": "Alexandria (1,613,000), Port Said (East) (2,968,308) (2017)",
           "seaport": "Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said"
@@ -5451,7 +5450,7 @@
           "local_long": "Republica de El Salvador",
           "local_short": "El Salvador"
         },
-        "population": 6481102,
+        "population": 6528135,
         "ports": {
           "seaport": "Puerto Cutuco"
         },
@@ -5532,7 +5531,7 @@
           "local_long": "Republica de Guinea Ecuatorial/Republique de Guinee Equatoriale",
           "local_short": "Guinea Ecuatorial/Guinee Equatoriale"
         },
-        "population": 836178,
+        "population": 857008,
         "ports": {
           "seaport": "Bata, Luba, Malabo"
         },
@@ -5610,7 +5609,7 @@
           "local_long": "Hagere Ertra",
           "local_short": "Ertra"
         },
-        "population": 6081196,
+        "population": 6147398,
         "ports": {
           "seaport": "Assab, Massawa"
         },
@@ -5692,7 +5691,7 @@
           "local_long": "Eesti Vabariik",
           "local_short": "Eesti"
         },
-        "population": 1228624,
+        "population": 1220042,
         "ports": {
           "seaport": "Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn"
         },
@@ -5775,7 +5774,7 @@
           "local_long": "Umbuso weSwatini",
           "local_short": "eSwatini"
         },
-        "population": 1104479,
+        "population": 1113276,
         "region": [
           "Africa"
         ],
@@ -5856,7 +5855,7 @@
           "local_long": "Ityop'iya Federalawi Demokrasiyawi Ripeblik",
           "local_short": "Ityop'iya"
         },
-        "population": 108113150,
+        "population": 110871031,
         "ports": {},
         "region": [
           "Africa"
@@ -6011,7 +6010,7 @@
           "local_long": "none",
           "local_short": "Foroyar"
         },
-        "population": 51628,
+        "population": 51943,
         "ports": {
           "seaport": "Fuglafjordur, Torshavn, Vagur"
         },
@@ -6085,7 +6084,7 @@
           "local_long": "Republic of Fiji/Matanitu ko Viti",
           "local_short": "Fiji/Viti"
         },
-        "population": 935974,
+        "population": 939535,
         "ports": {
           "seaport": "Lautoka, Levuka, Suva"
         },
@@ -6166,7 +6165,7 @@
           "local_long": "Suomen tasavalta/Republiken Finland",
           "local_short": "Suomi/Finland"
         },
-        "population": 5571665,
+        "population": 5587442,
         "ports": {
           "seaport": "Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma"
         },
@@ -6277,7 +6276,7 @@
           "local_long": "Republique francaise",
           "local_short": "France"
         },
-        "population": 67848156,
+        "population": 68084217,
         "ports": {
           "container": "Le Havre (2,870,000) (2017)",
           "ferry": "Calais, Cherbourg, Le Havre",
@@ -6416,7 +6415,7 @@
           "local_long": "Pays d'outre-mer de la Polynesie Francaise",
           "local_short": "Polynesie Francaise"
         },
-        "population": 295121,
+        "population": 297154,
         "ports": {
           "seaport": "Papeete"
         },
@@ -6570,7 +6569,7 @@
           "local_long": "Republique Gabonaise",
           "local_short": "Gabon"
         },
-        "population": 2230908,
+        "population": 2284912,
         "ports": {
           "seaport": "Libreville, Owendo, Port-Gentil"
         },
@@ -6647,7 +6646,7 @@
           "conv_long": "Republic of The Gambia",
           "conv_short": "The Gambia"
         },
-        "population": 2173999,
+        "population": 2221301,
         "ports": {
           "seaport": "Banjul"
         },
@@ -6724,7 +6723,7 @@
           "local_long": "none",
           "local_short": "Qita' Ghazzah"
         },
-        "population": 1918221,
+        "population": 1957062,
         "ports": {
           "seaport": "Gaza"
         },
@@ -6803,7 +6802,7 @@
           "local_long": "none",
           "local_short": "Sak'art'velo"
         },
-        "population": 3997000,
+        "population": 4933674,
         "ports": {
           "seaport": "Black Sea - Bat'umi, P'ot'i"
         },
@@ -6893,7 +6892,7 @@
           "local_long": "Bundesrepublik Deutschland",
           "local_short": "Deutschland"
         },
-        "population": 80159662,
+        "population": 79903481,
         "ports": {
           "container": "Bremen/Bremerhaven (5,510,000), Hamburg (8,860,000) (2017)",
           "seaport": "Baltic Sea - Rostock"
@@ -6977,7 +6976,7 @@
           "conv_long": "Republic of Ghana",
           "conv_short": "Ghana"
         },
-        "population": 29340248,
+        "population": 32372889,
         "ports": {
           "seaport": "Takoradi, Tema"
         },
@@ -7059,7 +7058,7 @@
           "conv_long": "none",
           "conv_short": "Gibraltar"
         },
-        "population": 29581,
+        "population": 29516,
         "ports": {
           "seaport": "Gibraltar"
         },
@@ -7146,7 +7145,7 @@
           "local_long": "Elliniki Dimokratia",
           "local_short": "Ellas or Ellada"
         },
-        "population": 10607051,
+        "population": 10569703,
         "ports": {
           "container": "Piraeus (4,145,079) (2017)",
           "seaport": "Aspropyrgos, Pachi, Piraeus, Thessaloniki"
@@ -7225,7 +7224,7 @@
           "local_long": "none",
           "local_short": "Kalaallit Nunaat note: named by Norwegian adventurer Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to entice settlers to the island"
         },
-        "population": 57616,
+        "population": 57799,
         "ports": {
           "seaport": "Sisimiut"
         },
@@ -7298,7 +7297,7 @@
           "conv_long": "none",
           "conv_short": "Grenada"
         },
-        "population": 113094,
+        "population": 113570,
         "ports": {
           "seaport": "Saint George's"
         },
@@ -7387,7 +7386,7 @@
           "local_long": "none",
           "local_short": "Guahan"
         },
-        "population": 168485,
+        "population": 168801,
         "ports": {
           "seaport": "Apra Harbor"
         },
@@ -7464,7 +7463,7 @@
           "local_long": "Republica de Guatemala",
           "local_short": "Guatemala"
         },
-        "population": 17153288,
+        "population": 17422821,
         "ports": {
           "seaport": "Puerto Quetzal, Santo Tomas de Castilla"
         },
@@ -7542,7 +7541,7 @@
           "conv_long": "Bailiwick of Guernsey",
           "conv_short": "Guernsey"
         },
-        "population": 67052,
+        "population": 67334,
         "ports": {
           "seaport": "Braye Bay, Saint Peter Port"
         },
@@ -7620,7 +7619,7 @@
           "local_long": "Republique de Guinee",
           "local_short": "Guinee"
         },
-        "population": 12527440,
+        "population": 12877894,
         "ports": {
           "seaport": "Conakry, Kamsar"
         },
@@ -7702,7 +7701,7 @@
           "local_long": "Republica da Guine-Bissau",
           "local_short": "Guine-Bissau"
         },
-        "population": 1927104,
+        "population": 1976187,
         "ports": {
           "seaport": "Bissau, Buba, Cacheu, Farim"
         },
@@ -7779,7 +7778,7 @@
           "conv_long": "Cooperative Republic of Guyana",
           "conv_short": "Guyana"
         },
-        "population": 750204,
+        "population": 787971,
         "ports": {
           "seaport": "Georgetown"
         },
@@ -7860,7 +7859,7 @@
           "local_long": "Republique d'Haiti/Repiblik d Ayiti",
           "local_short": "Haiti/Ayiti"
         },
-        "population": 11067777,
+        "population": 11198240,
         "ports": {
           "seaport": "Cap-Haitien, Gonaives, Jacmel, Port-au-Prince"
         },
@@ -8042,7 +8041,7 @@
           "local_long": "Republica de Honduras",
           "local_short": "Honduras"
         },
-        "population": 9235340,
+        "population": 9346277,
         "ports": {
           "seaport": "La Ceiba, Puerto Cortes, San Lorenzo, Tela"
         },
@@ -8117,7 +8116,7 @@
           "local_long": "Heung Kong Takpit Hangching Ku (Eitel/Dyer-Ball)",
           "local_short": "Heung Kong (Eitel/Dyer-Ball)"
         },
-        "population": 7249907,
+        "population": 7263234,
         "ports": {
           "container": "Hong Kong (20,770,000) (2017)",
           "seaport": "Hong Kong"
@@ -8218,7 +8217,7 @@
           "local_long": "none",
           "local_short": "Magyarorszag"
         },
-        "population": 9771827,
+        "population": 9728337,
         "ports": {},
         "region": [
           "Europe"
@@ -8293,7 +8292,7 @@
           "local_long": "Lydveldid Island",
           "local_short": "Island"
         },
-        "population": 350734,
+        "population": 354234,
         "ports": {
           "seaport": "Grundartangi, Hafnarfjordur, Reykjavik"
         },
@@ -8377,7 +8376,7 @@
           "local_long": "Republic of India/Bharatiya Ganarajya",
           "local_short": "India/Bharat"
         },
-        "population": 1326093247,
+        "population": 1339330514,
         "ports": {
           "container": "Chennai (1,549,457), Jawaharal Nehru Port (4,833,397), Mundra (4,240,260) (2017)",
           "seaport": "Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam"
@@ -8461,7 +8460,7 @@
           "local_long": "Republik Indonesia",
           "local_short": "Indonesia"
         },
-        "population": 267026366,
+        "population": 275122131,
         "ports": {
           "container": "Tanjung Perak (3,553,370), Tanjung Priok (6,090,000) (2017)",
           "seaport": "Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok"
@@ -8550,7 +8549,7 @@
           "local_long": "Jomhuri-ye Eslami-ye Iran",
           "local_short": "Iran"
         },
-        "population": 84923314,
+        "population": 85888910,
         "ports": {
           "container": "Bandar Abbas (2,607,000) (2017)",
           "seaport": "Bandar-e Asaluyeh, Bandar Abbas, Bandar Emam"
@@ -8638,7 +8637,7 @@
           "local_long": "Jumhuriyat al-Iraq/Komar-i Eraq",
           "local_short": "Al Iraq/Eraq"
         },
-        "population": 38872655,
+        "population": 39650145,
         "ports": {},
         "region": [
           "Middle East"
@@ -8720,7 +8719,7 @@
           "local_long": "none",
           "local_short": "Eire"
         },
-        "population": 5176569,
+        "population": 5224884,
         "ports": {
           "container": "Dublin (529,563) (2016)",
           "seaport": "Dublin, Shannon Foynes"
@@ -8799,7 +8798,7 @@
           "conv_long": "none",
           "conv_short": "Isle of Man"
         },
-        "population": 90499,
+        "population": 90895,
         "ports": {
           "seaport": "Douglas, Ramsey"
         },
@@ -8847,12 +8846,12 @@
           "bord": {
             "Egypt": 206,
             "Gaza Strip": 59,
-            "Jordan": 336,
-            "Lebanon": 107,
-            "Syria": 79,
+            "Jordan": 328,
+            "Lebanon": 106,
+            "Syria": 80,
             "West Bank": 278
           },
-          "len": 1065
+          "len": 1057
         },
         "capital": {
           "coord": "31 46 N, 35 14 E",
@@ -8869,7 +8868,7 @@
           "local_long": "Medinat Yisra'el",
           "local_short": "Yisra'el"
         },
-        "population": 8675475,
+        "population": 8787045,
         "ports": {
           "container": "Ashdod (1,443,000) (2016)",
           "seaport": "Ashdod, Elat (Eilat), Hadera, Haifa"
@@ -8959,7 +8958,7 @@
           "local_long": "Repubblica Italiana",
           "local_short": "Italia"
         },
-        "population": 62402659,
+        "population": 62390364,
         "ports": {
           "container": "Genoa (2,622,200), Gioia Tauro (2,448,600) (2017)",
           "seaport": "Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice"
@@ -9035,7 +9034,7 @@
           "conv_long": "none",
           "conv_short": "Jamaica"
         },
-        "population": 2808570,
+        "population": 2816602,
         "ports": {
           "container": "Kingston (1,681,706) (2017)",
           "seaport": "Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, Port Esquivel, Port Kaiser, Rocky Point"
@@ -9149,7 +9148,7 @@
           "local_long": "Nihon-koku/Nippon-koku",
           "local_short": "Nihon/Nippon"
         },
-        "population": 125507472,
+        "population": 124687293,
         "ports": {
           "container": "Kobe (2,924,179), Nagoya (2,784,109), Osaka (2,326,852), Tokyo (4,500,156), Yokohama (2,926,698) (2017)",
           "seaport": "Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama"
@@ -9240,7 +9239,7 @@
           "conv_long": "Bailiwick of Jersey",
           "conv_short": "Jersey"
         },
-        "population": 101073,
+        "population": 101476,
         "ports": {
           "seaport": "Gorey, Saint Aubin, Saint Helier"
         },
@@ -9308,12 +9307,12 @@
         "boundaries": {
           "bord": {
             "Iraq": 179,
-            "Israel": 307,
+            "Israel": 328,
             "Saudi Arabia": 731,
-            "Syria": 379,
+            "Syria": 341,
             "West Bank": 148
           },
-          "len": 1744
+          "len": 1727
         },
         "capital": {
           "coord": "31 57 N, 35 56 E",
@@ -9330,7 +9329,7 @@
           "local_long": "Al Mamlakah al Urduniyah al Hashimiyah",
           "local_short": "Al Urdun"
         },
-        "population": 10820644,
+        "population": 10909567,
         "ports": {
           "seaport": "Al 'Aqabah"
         },
@@ -9428,7 +9427,7 @@
           "local_long": "Qazaqstan Respublikasy",
           "local_short": "Qazaqstan"
         },
-        "population": 19091949,
+        "population": 19245793,
         "ports": {
           "seaport": "Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)"
         },
@@ -9511,7 +9510,7 @@
           "local_long": "Republic of Kenya/Jamhuri ya Kenya",
           "local_short": "Kenya"
         },
-        "population": 53527936,
+        "population": 54685051,
         "ports": {
           "seaport": "Kisumu, Mombasa"
         },
@@ -9604,7 +9603,7 @@
           "local_long": "Republic of Kiribati",
           "local_short": "Kiribati"
         },
-        "population": 111796,
+        "population": 113001,
         "ports": {
           "seaport": "Betio (Tarawa Atoll), Canton Island, English Harbor"
         },
@@ -9685,7 +9684,7 @@
           "local_long": "Choson-minjujuui-inmin-konghwaguk",
           "local_short": "Choson"
         },
-        "population": 25643466,
+        "population": 25831360,
         "ports": {
           "seaport": "Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly Unggi), Wonsan"
         },
@@ -9766,7 +9765,7 @@
           "local_long": "Taehan-min'guk",
           "local_short": "Han'guk"
         },
-        "population": 51835110,
+        "population": 51715162,
         "ports": {
           "container": "Busan (20,493,000), Incheon (3,050,000), Kwangyang (2,230,000) (2017)",
           "seaport": "Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu"
@@ -9852,7 +9851,7 @@
           "local_long": "Republika e Kosoves (Republika Kosovo)",
           "local_short": "Kosove (Kosovo)"
         },
-        "population": 1932774,
+        "population": 1935259,
         "region": [
           "Europe"
         ],
@@ -9925,7 +9924,7 @@
           "local_long": "Dawlat al Kuwayt",
           "local_short": "Al Kuwayt"
         },
-        "population": 2993706,
+        "population": 3032065,
         "ports": {
           "seaport": "Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, Mina' al Ahmadi"
         },
@@ -10011,7 +10010,7 @@
           "local_long": "Kyrgyz Respublikasy",
           "local_short": "Kyrgyzstan"
         },
-        "population": 5964897,
+        "population": 6018789,
         "ports": {},
         "region": [
           "Asia"
@@ -10093,7 +10092,7 @@
           "local_long": "Sathalanalat Paxathipatai Paxaxon Lao",
           "local_short": "Mueang Lao (unofficial)"
         },
-        "population": 7447396,
+        "population": 7574356,
         "region": [
           "Southeast Asia"
         ],
@@ -10171,7 +10170,7 @@
           "local_long": "Latvijas Republika",
           "local_short": "Latvija"
         },
-        "population": 1881232,
+        "population": 1862687,
         "ports": {
           "seaport": "Riga, Ventspils"
         },
@@ -10229,10 +10228,10 @@
         },
         "boundaries": {
           "bord": {
-            "Israel": 81,
-            "Syria": 403
+            "Israel": 106,
+            "Syria": 369
           },
-          "len": 484
+          "len": 475
         },
         "capital": {
           "coord": "33 52 N, 35 30 E",
@@ -10249,7 +10248,7 @@
           "local_long": "Al Jumhuriyah al Lubnaniyah",
           "local_short": "Lubnan"
         },
-        "population": 5469612,
+        "population": 5261372,
         "ports": {
           "container": "Beirut (1,305,038) (2017)",
           "seaport": "Beirut, Tripoli"
@@ -10326,7 +10325,7 @@
           "local_long": "Kingdom of Lesotho",
           "local_short": "Lesotho"
         },
-        "population": 1969334,
+        "population": 2177740,
         "region": [
           "Africa"
         ],
@@ -10403,7 +10402,7 @@
           "conv_long": "Republic of Liberia",
           "conv_short": "Liberia"
         },
-        "population": 5073296,
+        "population": 5214030,
         "ports": {
           "seaport": "Buchanan, Monrovia"
         },
@@ -10489,7 +10488,7 @@
           "local_long": "Dawiat Libiya",
           "local_short": "Libiya"
         },
-        "population": 6890535,
+        "population": 7017224,
         "ports": {
           "seaport": "Marsa al Burayqah (Marsa el Brega), Tripoli"
         },
@@ -10572,7 +10571,7 @@
           "local_long": "Fuerstentum Liechtenstein",
           "local_short": "Liechtenstein"
         },
-        "population": 39137,
+        "population": 39425,
         "region": [
           "Europe"
         ],
@@ -10649,7 +10648,7 @@
           "local_long": "Lietuvos Respublika",
           "local_short": "Lietuva"
         },
-        "population": 2731464,
+        "population": 2711566,
         "ports": {
           "seaport": "Klaipeda"
         },
@@ -10736,7 +10735,7 @@
           "local_long": "Grand Duche de Luxembourg",
           "local_short": "Luxembourg"
         },
-        "population": 628381,
+        "population": 639589,
         "ports": {},
         "region": [
           "Europe"
@@ -10803,7 +10802,7 @@
           "conv_long": "Macau Special Administrative Region",
           "conv_short": "Macau"
         },
-        "population": 614458,
+        "population": 630396,
         "ports": {
           "seaport": "Macau"
         },
@@ -10880,7 +10879,7 @@
           "local_long": "Republique de Madagascar/Repoblikan'i Madagasikara",
           "local_short": "Madagascar/Madagasikara"
         },
-        "population": 26955737,
+        "population": 27534354,
         "ports": {
           "seaport": "Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)"
         },
@@ -10959,7 +10958,7 @@
           "local_long": "Dziko la Malawi",
           "local_short": "Malawi"
         },
-        "population": 21196629,
+        "population": 20308502,
         "ports": {},
         "region": [
           "Africa"
@@ -11044,7 +11043,7 @@
           "local_long": "none",
           "local_short": "Malaysia"
         },
-        "population": 32652083,
+        "population": 33519406,
         "ports": {
           "container": "Port Kelang (Port Klang) (11,978,000), Tanjung Pelepas (8,260,000) (2017)",
           "seaport": "Bintulu, Johor Bahru, George Town (Penang), Port Kelang (Port Klang), Tanjung Pelepas"
@@ -11124,7 +11123,7 @@
           "local_long": "Dhivehi Raajjeyge Jumhooriyyaa",
           "local_short": "Dhivehi Raajje"
         },
-        "population": 391904,
+        "population": 390669,
         "ports": {
           "seaport": "Male"
         },
@@ -11208,7 +11207,7 @@
           "local_long": "Republique de Mali",
           "local_short": "Mali"
         },
-        "population": 19553397,
+        "population": 20137527,
         "ports": {},
         "region": [
           "Africa"
@@ -11288,7 +11287,7 @@
           "local_long": "Repubblika ta' Malta",
           "local_short": "Malta"
         },
-        "population": 457267,
+        "population": 460891,
         "ports": {
           "container": "Marsaxlokk (3,150,000) (2017)",
           "seaport": "Marsaxlokk (Malta Freeport), Valletta"
@@ -11366,7 +11365,7 @@
           "local_long": "Republic of the Marshall Islands",
           "local_short": "Marshall Islands"
         },
-        "population": 77917,
+        "population": 78831,
         "ports": {
           "seaport": "Enitwetak Island, Kwajalein, Majuro"
         },
@@ -11442,8 +11441,8 @@
           "bord": {
             "Algeria": 460,
             "Mali": 2236,
-            "Senegal": 742,
-            "Western Sahara": 1564
+            "Morocco": 1564,
+            "Senegal": 742
           },
           "len": 5002
         },
@@ -11462,7 +11461,7 @@
           "local_long": "Al Jumhuriyah al Islamiyah al Muritaniyah",
           "local_short": "Muritaniyah"
         },
-        "population": 4005475,
+        "population": 4079284,
         "ports": {
           "seaport": "Nouadhibou, Nouakchott"
         },
@@ -11545,7 +11544,7 @@
           "local_long": "Republic of Mauritius",
           "local_short": "Mauritius"
         },
-        "population": 1379365,
+        "population": 1386129,
         "ports": {
           "seaport": "Port Louis"
         },
@@ -11642,7 +11641,7 @@
           "local_long": "Estados Unidos Mexicanos",
           "local_short": "Mexico"
         },
-        "population": 128649565,
+        "population": 130207371,
         "ports": {
           "container": "Manzanillo (2,830,370), Lazaro Cardenas (1,149,079) (2017)",
           "seaport": "Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz"
@@ -11731,7 +11730,7 @@
           "local_long": "Federated States of Micronesia",
           "local_short": "none"
         },
-        "population": 102436,
+        "population": 101675,
         "ports": {
           "seaport": "Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor"
         },
@@ -11821,7 +11820,7 @@
           "local_long": "Republica Moldova",
           "local_short": "Moldova"
         },
-        "population": 3364496,
+        "population": 3323875,
         "region": [
           "Europe"
         ],
@@ -11898,7 +11897,7 @@
           "local_long": "Principaute de Monaco",
           "local_short": "Monaco"
         },
-        "population": 39000,
+        "population": 31223,
         "ports": {
           "seaport": "Hercules Port"
         },
@@ -11977,7 +11976,7 @@
           "local_long": "none",
           "local_short": "Mongol Uls"
         },
-        "population": 3168026,
+        "population": 3198913,
         "region": [
           "Asia"
         ],
@@ -12058,7 +12057,7 @@
           "local_long": "none",
           "local_short": "Crna Gora"
         },
-        "population": 609859,
+        "population": 607414,
         "ports": {
           "seaport": "Bar"
         },
@@ -12133,7 +12132,7 @@
           "conv_long": "none",
           "conv_short": "Montserrat"
         },
-        "population": 5373,
+        "population": 5387,
         "ports": {
           "seaport": "Little Bay, Plymouth"
         },
@@ -12182,7 +12181,7 @@
       "cmt": "",
       "gec": "MO",
       "infos": {
-        "airports": 55,
+        "airports": 62,
         "area": {
           "land": "716,300 sq km",
           "total": "716,550 sq km",
@@ -12192,10 +12191,10 @@
           "bord": {
             "Algeria": 1941,
             "Mauritania": 1564,
-            "Spain": 18
+            "Spain": 8
           },
           "len": 3523,
-          "note": "an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera; border with Spain (Ceuta); border with Spain (Melilla)"
+          "note": "an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera; border with Spain (Ceuta)"
         },
         "capital": {
           "coord": "34 01 N, 6 49 W",
@@ -12212,10 +12211,10 @@
           "local_long": "Al Mamlakah al Maghribiyah",
           "local_short": "Al Maghrib"
         },
-        "population": 35561654,
+        "population": 36561813,
         "ports": {
           "container": "Tangier (3,312,409) (2017)",
-          "seaport": "Casablanca, Jorf Lasfar, Mohammedia, Safi, Tangier"
+          "seaport": "Ad Dakhla, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier"
         },
         "region": [
           "Africa"
@@ -12301,7 +12300,7 @@
           "local_long": "Republica de Mocambique",
           "local_short": "Mocambique"
         },
-        "population": 30098197,
+        "population": 30888034,
         "ports": {
           "seaport": "Beira, Maputo, Nacala"
         },
@@ -12399,7 +12398,7 @@
           "local_long": "Republic of Namibia",
           "local_short": "Namibia"
         },
-        "population": 2630073,
+        "population": 2678191,
         "ports": {
           "seaport": "Luderitz, Walvis Bay"
         },
@@ -12475,7 +12474,7 @@
           "local_long": "Republic of Nauru",
           "local_short": "Nauru"
         },
-        "population": 11000,
+        "population": 9770,
         "ports": {
           "seaport": "Nauru"
         },
@@ -12582,12 +12581,12 @@
           "28 00 N, 84 00 E"
         ],
         "country_name": {
-          "conv_long": "Federal Democratic Republic of Nepal",
+          "conv_long": "none",
           "conv_short": "Nepal",
-          "local_long": "Sanghiya Loktantrik Ganatantra Nepal",
+          "local_long": "none",
           "local_short": "Nepal"
         },
-        "population": 30327877,
+        "population": 30424878,
         "region": [
           "Asia"
         ],
@@ -12662,7 +12661,7 @@
         },
         "coastline": 451,
         "coord": [
-          "52 30 N, 5 45 E"
+          "52 31 N, 5 46 E"
         ],
         "country_name": {
           "conv_long": "Kingdom of the Netherlands",
@@ -12670,7 +12669,7 @@
           "local_long": "Koninkrijk der Nederlanden",
           "local_short": "Nederland"
         },
-        "population": 17280397,
+        "population": 17337403,
         "ports": {
           "container": "Rotterdam (13,734,000) (2017)",
           "seaport": "IJmuiden, Vlissingen"
@@ -12764,7 +12763,7 @@
           "local_long": "Territoire des Nouvelle-Caledonie et Dependances",
           "local_short": "Nouvelle-Caledonie"
         },
-        "population": 290009,
+        "population": 293608,
         "ports": {
           "seaport": "Noumea"
         },
@@ -12837,7 +12836,7 @@
           "conv_long": "none",
           "conv_short": "New Zealand"
         },
-        "population": 4925477,
+        "population": 4991442,
         "ports": {
           "seaport": "Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington"
         },
@@ -12918,7 +12917,7 @@
           "local_long": "Republica de Nicaragua",
           "local_short": "Nicaragua"
         },
-        "population": 6203441,
+        "population": 6243931,
         "ports": {
           "seaport": "Bluefields, Corinto"
         },
@@ -13008,7 +13007,7 @@
           "local_long": "Republique du Niger",
           "local_short": "Niger"
         },
-        "population": 22772361,
+        "population": 23605767,
         "region": [
           "Africa"
         ],
@@ -13086,7 +13085,7 @@
           "conv_long": "Federal Republic of Nigeria",
           "conv_short": "Nigeria"
         },
-        "population": 214028302,
+        "population": 219463862,
         "ports": {
           "seaport": "Bonny Inshore Terminal, Calabar, Lagos"
         },
@@ -13313,7 +13312,7 @@
           "local_long": "Republika Severna Makedonija",
           "local_short": "Severna Makedonija"
         },
-        "population": 2125971,
+        "population": 2128262,
         "region": [
           "Europe"
         ],
@@ -13384,7 +13383,7 @@
           "conv_long": "Commonwealth of the Northern Mariana Islands",
           "conv_short": "Northern Mariana Islands"
         },
-        "population": 51433,
+        "population": 51659,
         "ports": {
           "seaport": "Saipan, Tinian, Rota"
         },
@@ -13461,7 +13460,7 @@
           "local_long": "Kongeriket Norge",
           "local_short": "Norge"
         },
-        "population": 5467439,
+        "population": 5509591,
         "ports": {
           "seaport": "Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture"
         },
@@ -13545,7 +13544,7 @@
           "local_long": "Saltanat Uman",
           "local_short": "Uman"
         },
-        "population": 4664844,
+        "population": 3694755,
         "ports": {
           "container": "Salalah (3,946,421) (2017)",
           "seaport": "Mina' Qabus, Salalah, Suhar"
@@ -13627,7 +13626,7 @@
           "local_long": "Jamhuryat Islami Pakistan",
           "local_short": "Pakistan"
         },
-        "population": 233500636,
+        "population": 238181034,
         "ports": {
           "container": "Karachi (2,224,000) (2017)",
           "seaport": "Karachi, Port Muhammad Bin Qasim"
@@ -13709,7 +13708,7 @@
           "local_long": "Beluu er a Belau",
           "local_short": "Belau"
         },
-        "population": 21685,
+        "population": 21613,
         "ports": {
           "seaport": "Koror"
         },
@@ -13799,7 +13798,7 @@
           "local_long": "Republica de Panama",
           "local_short": "Panama"
         },
-        "population": 3894082,
+        "population": 3928646,
         "ports": {
           "container": "Balboa (2,905,049), Colon (3,891,209) (2017)",
           "seaport": "Balboa, Colon, Cristobal"
@@ -13879,7 +13878,7 @@
           "conv_short": "Papua New Guinea",
           "local_short": "Papuaniugini"
         },
-        "population": 7259456,
+        "population": 7399757,
         "ports": {
           "seaport": "Kimbe, Lae, Madang, Rabaul, Wewak"
         },
@@ -13999,7 +13998,7 @@
           "local_long": "Republica del Paraguay",
           "local_short": "Paraguay"
         },
-        "population": 7191685,
+        "population": 7272639,
         "ports": {},
         "region": [
           "South America"
@@ -14082,7 +14081,7 @@
           "local_long": "Republica del Peru",
           "local_short": "Peru"
         },
-        "population": 31914989,
+        "population": 32201224,
         "ports": {
           "container": "Callao (2,250,200) (2017)",
           "seaport": "Callao, Matarani, Paita"
@@ -14160,7 +14159,7 @@
           "local_long": "Republika ng Pilipinas",
           "local_short": "Pilipinas"
         },
-        "population": 109180815,
+        "population": 110818325,
         "ports": {
           "container": "Manila (4,782,240) (2017)",
           "seaport": "Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila"
@@ -14318,7 +14317,7 @@
           "local_long": "Rzeczpospolita Polska",
           "local_short": "Polska"
         },
-        "population": 38282325,
+        "population": 38185913,
         "ports": {
           "container": "Gdansk (1,593,761) (2017)",
           "seaport": "Gdansk, Gdynia, Swinoujscie"
@@ -14403,7 +14402,7 @@
           "local_long": "Republica Portuguesa",
           "local_short": "Portugal"
         },
-        "population": 10302674,
+        "population": 10263850,
         "ports": {
           "container": "Sines (1,669,057) (2017)",
           "seaport": "Leixoes, Lisbon, Setubal, Sines"
@@ -14483,7 +14482,7 @@
           "conv_long": "Commonwealth of Puerto Rico",
           "conv_short": "Puerto Rico"
         },
-        "population": 3189068,
+        "population": 3142779,
         "ports": {
           "container": "San Juan (1,210,503) (2015)",
           "seaport": "Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, San Juan"
@@ -14565,7 +14564,7 @@
           "local_long": "Dawlat Qatar",
           "local_short": "Qatar"
         },
-        "population": 2444174,
+        "population": 2479995,
         "ports": {
           "seaport": "Doha, Musay'id, Ra's Laffan"
         },
@@ -14665,7 +14664,7 @@
           "local_long": "none",
           "local_short": "Romania"
         },
-        "population": 21302893,
+        "population": 21230362,
         "ports": {
           "seaport": "Constanta, Midia"
         },
@@ -14731,7 +14730,7 @@
           "bord": {
             "Azerbaijan": 338,
             "Belarus": 1312,
-            "China": 4179,
+            "China": 4133,
             "Estonia": 324,
             "Finland": 1309,
             "Georgia": 894,
@@ -14745,7 +14744,7 @@
             "Ukraine": 1944
           },
           "len": 22408,
-          "note": "border with China (southeast); border with China (south); border with Lithuania (Kaliningrad Oblast); border with Poland (Kaliningrad Oblast)"
+          "note": "border with China (southeast); border with Lithuania (Kaliningrad Oblast); border with Poland (Kaliningrad Oblast)"
         },
         "capital": {
           "coord": "55 45 N, 37 36 E",
@@ -14762,7 +14761,7 @@
           "local_long": "Rossiyskaya Federatsiya",
           "local_short": "Rossiya"
         },
-        "population": 141722205,
+        "population": 142320790,
         "ports": {
           "container": "Saint Petersburg (1,848,700) (2017)",
           "seaport": "Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy"
@@ -14851,7 +14850,7 @@
           "local_long": "Republika y'u Rwanda",
           "local_short": "Rwanda"
         },
-        "population": 12712431,
+        "population": 12943132,
         "ports": {},
         "region": [
           "Africa"
@@ -14928,7 +14927,7 @@
           "local_long": "Collectivite d'outre mer de Saint-Barthelemy",
           "local_short": "Saint-Barthelemy"
         },
-        "population": 7122,
+        "population": 7116,
         "ports": {
           "seaport": "Gustavia"
         },
@@ -15006,7 +15005,7 @@
           "conv_long": "Saint Helena, Ascension, and Tristan da Cunha",
           "conv_short": "none"
         },
-        "population": 7862,
+        "population": 7915,
         "ports": {
           "seaport": "Saint Helena"
         },
@@ -15083,7 +15082,7 @@
           "conv_long": "Federation of Saint Kitts and Nevis",
           "conv_short": "Saint Kitts and Nevis"
         },
-        "population": 53821,
+        "population": 54149,
         "ports": {
           "seaport": "Basseterre, Charlestown"
         },
@@ -15159,7 +15158,7 @@
           "conv_long": "none",
           "conv_short": "Saint Lucia"
         },
-        "population": 166487,
+        "population": 166637,
         "ports": {
           "seaport": "Castries, Cul-de-Sac, Vieux-Fort"
         },
@@ -15240,7 +15239,7 @@
           "local_long": "Collectivite d'outre mer de Saint-Martin",
           "local_short": "Saint-Martin"
         },
-        "population": 32556,
+        "population": 32680,
         "region": [
           "Central America and the Caribbean"
         ],
@@ -15312,7 +15311,7 @@
           "local_long": "Departement de Saint-Pierre et Miquelon",
           "local_short": "Saint-Pierre et Miquelon"
         },
-        "population": 5347,
+        "population": 5321,
         "ports": {
           "seaport": "Saint-Pierre"
         },
@@ -15381,7 +15380,7 @@
           "conv_long": "none",
           "conv_short": "Saint Vincent and the Grenadines"
         },
-        "population": 101390,
+        "population": 101145,
         "ports": {
           "seaport": "Kingstown"
         },
@@ -15461,7 +15460,7 @@
           "local_long": "Malo Sa'oloto Tuto'atasi o Samoa",
           "local_short": "Samoa"
         },
-        "population": 203774,
+        "population": 204898,
         "ports": {
           "seaport": "Apia"
         },
@@ -15539,7 +15538,7 @@
           "local_long": "Repubblica di San Marino",
           "local_short": "San Marino"
         },
-        "population": 34232,
+        "population": 34467,
         "region": [
           "Europe"
         ],
@@ -15607,7 +15606,7 @@
           "local_long": "Republica Democratica de Sao Tome e Principe",
           "local_short": "Sao Tome e Principe"
         },
-        "population": 211122,
+        "population": 213948,
         "ports": {
           "seaport": "Sao Tome"
         },
@@ -15690,7 +15689,7 @@
           "local_long": "Al Mamlakah al Arabiyah as Suudiyah",
           "local_short": "Al Arabiyah as Suudiyah"
         },
-        "population": 34173498,
+        "population": 34783757,
         "ports": {
           "container": "Ad Dammam (1,582,388), Jeddah (4,150,000), King Abdulla (1,695,322) (2017)",
           "seaport": "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'"
@@ -15776,7 +15775,7 @@
           "local_long": "Republique du Senegal",
           "local_short": "Senegal"
         },
-        "population": 15736368,
+        "population": 16082442,
         "ports": {
           "seaport": "Dakar"
         },
@@ -15864,7 +15863,7 @@
           "local_long": "Republika Srbija",
           "local_short": "Srbija"
         },
-        "population": 7012165,
+        "population": 6974289,
         "ports": {},
         "region": [
           "Europe"
@@ -15938,7 +15937,7 @@
           "local_long": "Republic of Seychelles",
           "local_short": "Seychelles"
         },
-        "population": 95981,
+        "population": 96387,
         "ports": {
           "seaport": "Victoria"
         },
@@ -16019,7 +16018,7 @@
           "local_long": "Republic of Sierra Leone",
           "local_short": "Sierra Leone"
         },
-        "population": 6624933,
+        "population": 6807277,
         "ports": {
           "seaport": "Freetown, Pepel, Sherbro Islands"
         },
@@ -16096,7 +16095,7 @@
           "local_long": "Republic of Singapore",
           "local_short": "Singapore"
         },
-        "population": 6209660,
+        "population": 5866139,
         "ports": {
           "container": "Singapore (33,666,000) (2017)",
           "seaport": "Singapore"
@@ -16183,7 +16182,7 @@
           "local_long": "Land Sint Maarten (Dutch); Country of Sint Maarten (English)",
           "local_short": "Sint Maarten (Dutch and English)"
         },
-        "population": 43847,
+        "population": 44564,
         "ports": {
           "seaport": "Philipsburg"
         },
@@ -16263,7 +16262,7 @@
           "local_long": "Slovenska republika",
           "local_short": "Slovensko"
         },
-        "population": 5440602,
+        "population": 5436066,
         "ports": {},
         "region": [
           "Europe"
@@ -16349,7 +16348,7 @@
           "local_long": "Republika Slovenija",
           "local_short": "Slovenija"
         },
-        "population": 2102678,
+        "population": 2102106,
         "ports": {
           "seaport": "Koper"
         },
@@ -16426,7 +16425,7 @@
           "local_long": "none",
           "local_short": "Solomon Islands"
         },
-        "population": 685097,
+        "population": 690598,
         "ports": {
           "seaport": "Honiara, Malloco Bay, Viru Harbor, Tulaghi"
         },
@@ -16507,7 +16506,7 @@
           "local_long": "Jamhuuriyadda Federaalkaa Soomaaliya",
           "local_short": "Soomaaliya"
         },
-        "population": 11757124,
+        "population": 12094640,
         "ports": {
           "seaport": "Berbera, Kismaayo"
         },
@@ -16590,7 +16589,7 @@
           "conv_long": "Republic of South Africa",
           "conv_short": "South Africa"
         },
-        "population": 56463617,
+        "population": 56978635,
         "ports": {
           "container": "Durban (2,699,978) (2017)",
           "seaport": "Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay"
@@ -16716,7 +16715,7 @@
           "conv_long": "Republic of South Sudan",
           "conv_short": "South Sudan"
         },
-        "population": 10561244,
+        "population": 10984074,
         "region": [
           "Africa"
         ],
@@ -16773,11 +16772,11 @@
             "Andorra": 63,
             "France": 646,
             "Gibraltar": 1,
-            "Morocco": 18,
+            "Morocco": 8,
             "Portugal": 1224
           },
           "len": 1952,
-          "note": "an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera; border with Morocco (Ceuta); border with Morocco (Melilla)"
+          "note": "an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera; border with Morocco (Ceuta)"
         },
         "capital": {
           "coord": "40 24 N, 3 41 W",
@@ -16794,7 +16793,7 @@
           "local_long": "Reino de Espana",
           "local_short": "Espana"
         },
-        "population": 50015792,
+        "population": 47260584,
         "ports": {
           "container": "Algeciras (4,389,836), Barcelona (2,968,757), Valencia (4,832,156) (2017)",
           "seaport": "Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, Valencia (all in Spain); Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)"
@@ -16911,7 +16910,7 @@
           "local_long": "Shri Lanka Prajatantrika Samajavadi Janarajaya/Ilankai Jananayaka Choshalichak Kutiyarachu",
           "local_short": "Shri Lanka/Ilankai"
         },
-        "population": 22889201,
+        "population": 23044123,
         "ports": {
           "container": "Colombo (6,209,000) (2017)",
           "seaport": "Colombo"
@@ -16999,7 +16998,7 @@
           "local_long": "Jumhuriyat as-Sudan",
           "local_short": "As-Sudan"
         },
-        "population": 45561556,
+        "population": 46751152,
         "ports": {
           "seaport": "Port Sudan"
         },
@@ -17079,7 +17078,7 @@
           "local_long": "Republiek Suriname",
           "local_short": "Suriname"
         },
-        "population": 609569,
+        "population": 614749,
         "ports": {
           "seaport": "Paramaribo, Wageningen"
         },
@@ -17227,7 +17226,7 @@
           "local_long": "Konungariket Sverige",
           "local_short": "Sverige"
         },
-        "population": 10202491,
+        "population": 10261767,
         "ports": {
           "seaport": "Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby"
         },
@@ -17311,7 +17310,7 @@
           "local_long": "Schweizerische Eidgenossenschaft (German); Confederation Suisse (French); Confederazione Svizzera (Italian); Confederaziun Svizra (Romansh)",
           "local_short": "Schweiz (German); Suisse (French); Svizzera (Italian); Svizra (Romansh)"
         },
-        "population": 8403994,
+        "population": 8453550,
         "ports": {},
         "region": [
           "Europe"
@@ -17372,12 +17371,12 @@
         "boundaries": {
           "bord": {
             "Iraq": 599,
-            "Israel": 79,
-            "Jordan": 362,
-            "Lebanon": 394,
+            "Israel": 80,
+            "Jordan": 341,
+            "Lebanon": 369,
             "Turkey": 909
           },
-          "len": 2343
+          "len": 2298
         },
         "capital": {
           "coord": "33 30 N, 36 18 E",
@@ -17394,7 +17393,7 @@
           "local_long": "Al Jumhuriyah al Arabiyah as Suriyah",
           "local_short": "Suriyah"
         },
-        "population": 19398448,
+        "population": 20384316,
         "ports": {
           "seaport": "Baniyas, Latakia, Tartus"
         },
@@ -17478,7 +17477,7 @@
           "local_long": "none",
           "local_short": "Taiwan"
         },
-        "population": 23603049,
+        "population": 23572052,
         "ports": {
           "container": "Kaohsiung (10,271,018), Taichung (1,660,663), Taipei (1,561,743) (2017)",
           "seaport": "Keelung (Chi-lung), Kaohsiung, Hualian, Taichung"
@@ -17563,7 +17562,7 @@
           "local_long": "Jumhurii Tojikiston",
           "local_short": "Tojikiston"
         },
-        "population": 8873669,
+        "population": 8990874,
         "region": [
           "Asia"
         ],
@@ -17649,7 +17648,7 @@
           "local_long": "Jamhuri ya Muungano wa Tanzania",
           "local_short": "Tanzania"
         },
-        "population": 58552845,
+        "population": 62092761,
         "ports": {
           "seaport": "Dar es Salaam, Zanzibar"
         },
@@ -17734,7 +17733,7 @@
           "local_long": "Ratcha Anachak Thai",
           "local_short": "Prathet Thai"
         },
-        "population": 68977400,
+        "population": 69480520,
         "ports": {
           "container": "Laem Chabang (7,227,431) (2017)",
           "seaport": "Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha"
@@ -17817,7 +17816,7 @@
           "local_long": "Republika Demokratika Timor Lorosa'e [Tetum]; Republica Democratica de Timor-Leste [Portuguese]",
           "local_short": "Timor Lorosa'e [Tetum]; Timor-Leste [Portuguese]"
         },
-        "population": 1383723,
+        "population": 1413958,
         "ports": {
           "seaport": "Dili"
         },
@@ -17899,7 +17898,7 @@
           "local_long": "Republique Togolaise",
           "local_short": "none"
         },
-        "population": 8608444,
+        "population": 8283189,
         "ports": {
           "seaport": "Kpeme, Lome"
         },
@@ -18044,7 +18043,7 @@
           "local_long": "Pule'anga Fakatu'i 'o Tonga",
           "local_short": "Tonga"
         },
-        "population": 106095,
+        "population": 105780,
         "ports": {
           "seaport": "Nuku'alofa, Neiafu, Pangai"
         },
@@ -18120,7 +18119,7 @@
           "conv_long": "Republic of Trinidad and Tobago",
           "conv_short": "Trinidad and Tobago"
         },
-        "population": 1208789,
+        "population": 1221047,
         "ports": {
           "seaport": "Point Fortin, Point Lisas, Port of Spain, Scarborough"
         },
@@ -18216,7 +18215,7 @@
           "local_long": "Al Jumhuriyah at Tunisiyah",
           "local_short": "Tunis"
         },
-        "population": 11721177,
+        "population": 11811335,
         "ports": {
           "seaport": "Bizerte, Gabes, Rades, Sfax, Skhira"
         },
@@ -18313,7 +18312,7 @@
           "local_long": "Turkiye Cumhuriyeti",
           "local_short": "Turkiye"
         },
-        "population": 82017514,
+        "population": 82482383,
         "ports": {
           "container": "Ambarli (3,131,621), Mersin (Icel) (1,592,000) (2017)",
           "seaport": "Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca"
@@ -18399,7 +18398,7 @@
           "local_long": "none",
           "local_short": "Turkmenistan"
         },
-        "population": 5528627,
+        "population": 5579889,
         "ports": {
           "seaport": "Caspian Sea - Turkmenbasy"
         },
@@ -18477,7 +18476,7 @@
           "conv_long": "none",
           "conv_short": "Turks and Caicos Islands"
         },
-        "population": 55926,
+        "population": 57196,
         "ports": {
           "seaport": "Cockburn Harbour, Grand Turk, Providenciales"
         },
@@ -18553,7 +18552,7 @@
           "local_long": "none",
           "local_short": "Tuvalu"
         },
-        "population": 11342,
+        "population": 11448,
         "ports": {
           "seaport": "Funafuti"
         },
@@ -18634,7 +18633,7 @@
           "conv_long": "Republic of Uganda",
           "conv_short": "Uganda"
         },
-        "population": 43252966,
+        "population": 44712143,
         "ports": {},
         "region": [
           "Africa"
@@ -18721,7 +18720,7 @@
           "local_long": "none",
           "local_short": "Ukraina"
         },
-        "population": 43922939,
+        "population": 43745640,
         "ports": {
           "seaport": "Feodosiya (Theodosia), Chornomosk (Illichivsk), Mariupol, Mykolayiv, Odesa, Yuzhnyy"
         },
@@ -18804,7 +18803,7 @@
           "local_long": "Al Imarat al Arabiyah al Muttahidah",
           "local_short": "none"
         },
-        "population": 9992083,
+        "population": 9856612,
         "ports": {
           "container": "Dubai Port (15,368,000), Khor Fakkan (Khawr Fakkan) (Sharjah) (2,321,000) (2017)",
           "seaport": "Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)"
@@ -18886,7 +18885,7 @@
           "conv_long": "United Kingdom of Great Britain and Northern Ireland; note - the island of Great Britain includes England, Scotland, and Wales",
           "conv_short": "United Kingdom"
         },
-        "population": 65761117,
+        "population": 66052076,
         "ports": {
           "container": "Felixstowe (3,849,700), London (2,431,000), Southampton (2,040,000) (2017)",
           "seaport": "Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales)"
@@ -18971,7 +18970,7 @@
           "conv_long": "United States of America",
           "conv_short": "United States"
         },
-        "population": 332639102,
+        "population": 334998398,
         "ports": {
           "container": "Charleston (2,177,000), Hampton Roads (2,841,000), Houston (2,459,000), Long Beach (7,544,000), Los Angeles (9,343,000), New York/New Jersey (6,710,000), Oakland (2,420,000), Savannah (4,046,000), Seattle/Tacoma (3,665,000) (2017)"
         },
@@ -19064,7 +19063,7 @@
           "local_long": "Republica Oriental del Uruguay",
           "local_short": "Uruguay"
         },
-        "population": 3387605,
+        "population": 3398239,
         "ports": {
           "seaport": "Montevideo"
         },
@@ -19151,7 +19150,7 @@
           "local_long": "O'zbekiston Respublikasi",
           "local_short": "O'zbekiston"
         },
-        "population": 30565411,
+        "population": 30842796,
         "ports": {},
         "region": [
           "Asia"
@@ -19230,7 +19229,7 @@
           "local_long": "Ripablik blong Vanuatu",
           "local_short": "Vanuatu"
         },
-        "population": 298333,
+        "population": 303009,
         "ports": {
           "seaport": "Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila"
         },
@@ -19314,7 +19313,7 @@
           "local_long": "Republica Bolivariana de Venezuela",
           "local_short": "Venezuela"
         },
-        "population": 28644603,
+        "population": 29069153,
         "ports": {
           "seaport": "La Guaira, Maracaibo, Puerto Cabello, Punta Cardon"
         },
@@ -19399,7 +19398,7 @@
           "local_long": "Cong Hoa Xa Hoi Chu Nghia Viet Nam",
           "local_short": "Viet Nam"
         },
-        "population": 98721275,
+        "population": 102789598,
         "ports": {
           "container": "Saigon (6,155,535), Cai Mep (3,065,014) (2017)",
           "seaport": "Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon"
@@ -19479,7 +19478,7 @@
           "conv_long": "none",
           "conv_short": "Virgin Islands"
         },
-        "population": 106235,
+        "population": 105870,
         "ports": {
           "seaport": "Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree Bay"
         },
@@ -19627,7 +19626,7 @@
           "local_long": "Territoire des Iles Wallis et Futuna",
           "local_short": "Wallis et Futuna"
         },
-        "population": 15854,
+        "population": 15851,
         "ports": {
           "seaport": "Leava, Mata-Utu"
         },
@@ -19699,7 +19698,7 @@
           "conv_long": "none",
           "conv_short": "West Bank"
         },
-        "population": 2900034,
+        "population": 2949246,
         "region": [
           "Middle East"
         ],
@@ -19743,58 +19742,7 @@
       "ccn": "732",
       "cmt": "",
       "gec": "WI",
-      "infos": {
-        "airports": 6,
-        "area": {
-          "land": "266,000 sq km",
-          "total": "266,000 sq km",
-          "water": "0 sq km"
-        },
-        "boundaries": {
-          "bord": {
-            "Algeria": 41,
-            "Mauritania": 1564,
-            "Morocco": 444
-          },
-          "len": 2049
-        },
-        "capital": {
-          "time_diff": "UTC 0"
-        },
-        "coastline": 1110,
-        "coord": [
-          "24 30 N, 13 00 W"
-        ],
-        "country_name": {
-          "conv_long": "none",
-          "conv_short": "Western Sahara"
-        },
-        "population": 652271,
-        "ports": {
-          "seaport": "Ad Dakhla, Laayoune (El Aaiun)"
-        },
-        "region": [
-          "Africa"
-        ],
-        "telecom": {
-          "code": "212",
-          "general": [
-            "sparse and limited system",
-            0
-          ],
-          "intl": [
-            "tied into Morocco's system by microwave radio relay, tropospheric scatter, and satellite",
-            "satellite earth stations - 2 Intelsat (Atlantic Ocean) linked to Rabat, Morocco",
-            0
-          ],
-          "note": [
-            "the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally",
-            "consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide",
-            "overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated",
-            0
-          ]
-        }
-      },
+      "infos": {},
       "json": "https://www.cia.gov/the-world-factbook/page-data/countries/western-sahara/page-data.json",
       "name": "Western Sahara",
       "stan": "ESH",
@@ -19835,7 +19783,7 @@
         "capital": {},
         "coastline": 356000,
         "country_name": {},
-        "population": 7684292383,
+        "population": 7772850805,
         "ports": {},
         "region": [
           "Physical Map of the World"
@@ -19887,7 +19835,7 @@
           "local_long": "Al Jumhuriyah al Yamaniyah",
           "local_short": "Al Yaman"
         },
-        "population": 29884405,
+        "population": 30399243,
         "ports": {
           "seaport": "Aden, Al Hudaydah, Al Mukalla"
         },
@@ -19989,7 +19937,7 @@
           "conv_long": "Republic of Zambia",
           "conv_short": "Zambia"
         },
-        "population": 17426623,
+        "population": 19077816,
         "ports": {},
         "region": [
           "Africa"
@@ -20069,7 +20017,7 @@
           "conv_long": "Republic of Zimbabwe",
           "conv_short": "Zimbabwe"
         },
-        "population": 14546314,
+        "population": 14829988,
         "ports": {},
         "region": [
           "Africa"

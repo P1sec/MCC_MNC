@@ -2087,13 +2087,12 @@
         "bord": [
           "Algeria",
           "Mali",
+          "Morocco",
           "Senegal",
           "Western Sahara"
         ],
         "less100": [],
-        "less30": [
-          "Morocco"
-        ]
+        "less30": []
       }
     },
     "Mauritius": {
@@ -2298,7 +2297,8 @@
       "neigh": {
         "bord": [
           "Belgium",
-          "Germany"
+          "Germany",
+          "Saint Martin"
         ],
         "less100": [
           "France",
@@ -2829,6 +2829,7 @@
       "dep": "FR",
       "neigh": {
         "bord": [
+          "Netherlands",
           "Sint Maarten"
         ],
         "less100": [

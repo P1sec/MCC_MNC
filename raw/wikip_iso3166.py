@@ -1442,7 +1442,7 @@ WIKIP_ISO3166 = \
           'country_url': 'https://en.wikipedia.org/wiki/North_Macedonia',
           'regions_url': 'https://en.wikipedia.org/wiki/ISO_3166-2:MK',
           'sovereignity': 'UN member',
-          'state_name': 'Republic of North Macedonia'},
+          'state_name': 'The Republic of North Macedonia'},
   'ML': { 'cc_tld': '.ml',
           'cc_tld_url': 'https://en.wikipedia.org/wiki/.ml',
           'code_alpha_2': 'ML',

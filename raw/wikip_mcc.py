@@ -1569,7 +1569,7 @@ WIKIP_MCC = \
     'mcc': '651',
     'mcc_url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Lesotho_–_LS',
     'notes': ''},
-  { 'authority': '',
+  { 'authority': 'Botswana Communications Regulatory Authority (BOCRA)',
     'code_alpha_2': 'BW',
     'country_name': 'Botswana',
     'country_url': 'https://en.wikipedia.org/wiki/Botswana',

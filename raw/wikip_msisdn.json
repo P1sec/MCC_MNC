@@ -1015,13 +1015,6 @@
         "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
       ]
     ],
-    "388": [
-      [
-        "EU",
-        "European Telephony Numbering Space",
-        "https://en.wikipedia.org/wiki/European_Telephony_Numbering_Space"
-      ]
-    ],
     "389": [
       [
         "MK",
@@ -1085,6 +1078,11 @@
     ],
     "44": [
       [
+        "GB",
+        "United Kingdom",
+        "https://en.wikipedia.org/wiki/United_Kingdom"
+      ],
+      [
         "GG",
         "Guernsey",
         "https://en.wikipedia.org/wiki/Guernsey"
@@ -1098,11 +1096,6 @@
         "JE",
         "Jersey",
         "https://en.wikipedia.org/wiki/Jersey"
-      ],
-      [
-        "UK",
-        "United Kingdom",
-        "https://en.wikipedia.org/wiki/United_Kingdom"
       ]
     ],
     "45": [

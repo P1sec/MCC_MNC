@@ -1086,6 +1086,7 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/India",
       "neigh": [
+        "Afghanistan",
         "Bangladesh",
         "Bhutan",
         "Myanmar",
@@ -1720,18 +1721,6 @@
       "neigh_num": 2
     },
     {
-      "border_len_km": 1027,
-      "border_len_mi": 638,
-      "country_name": "Netherlands",
-      "country_sub": [],
-      "country_url": "https://en.wikipedia.org/wiki/Netherlands",
-      "neigh": [
-        "Belgium",
-        "Germany"
-      ],
-      "neigh_num": 2
-    },
-    {
       "border_len_km": 0,
       "border_len_mi": 0,
       "country_name": "New Zealand",
@@ -2024,7 +2013,7 @@
         "South Ossetia",
         "Ukraine"
       ],
-      "neigh_num": 14
+      "neigh_num": 16
     },
     {
       "border_len_km": 893,

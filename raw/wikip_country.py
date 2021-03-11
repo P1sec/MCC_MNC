@@ -129,7 +129,7 @@ WIKIP_COUNTRY = \
   'Israel': ['972'],
   'Italy': ['39'],
   'Ivory Coast': ['225'],
-  'Jamaica': ['1876'],
+  'Jamaica': ['1658', '1876'],
   'Jan Mayen': ['4779'],
   'Japan': ['81'],
   'Jersey': ['441534'],

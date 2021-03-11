@@ -160,7 +160,6 @@ P1_MSISDN = \
   '385': ['Croatia'],
   '386': ['Slovenia'],
   '387': ['Bosnia and Herzegovina'],
-  '388': ['European Telephony Numbering Space'],
   '389': ['North Macedonia'],
   '39': ['Italy', 'Vatican'],
   '3906698': ['Vatican'],

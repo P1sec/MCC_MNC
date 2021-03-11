@@ -63,7 +63,7 @@
           "coord": [
             "33 00 N, 65 00 E"
           ],
-          "popul": 36643815,
+          "popul": 37466414,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:AF",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/afghanistan"
@@ -181,7 +181,7 @@
           "coord": [
             "41 00 N, 20 00 E"
           ],
-          "popul": 3074579,
+          "popul": 3088385,
           "ports": {
             "seaport": "Durres, Sarande, Shengjin, Vlore"
           },
@@ -265,10 +265,9 @@
               "Libya": 989,
               "Mali": 1359,
               "Mauritania": 460,
-              "Morocco": 1900,
+              "Morocco": 1941,
               "Niger": 951,
-              "Tunisia": 1034,
-              "Western Sahara": 41
+              "Tunisia": 1034
             },
             "len": 6734
           },
@@ -281,7 +280,7 @@
           "coord": [
             "28 00 N, 3 00 E"
           ],
-          "popul": 42972878,
+          "popul": 43576691,
           "ports": {
             "seaport": "Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda"
           },
@@ -382,7 +381,7 @@
           "coord": [
             "14 20 S, 170 00 W"
           ],
-          "popul": 49437,
+          "popul": 46366,
           "ports": {
             "seaport": "Pago Pago"
           },
@@ -467,7 +466,7 @@
           "coord": [
             "42 30 N, 1 30 E"
           ],
-          "popul": 77000,
+          "popul": 85645,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:AD",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/andorra"
@@ -552,7 +551,7 @@
           "coord": [
             "12 30 S, 18 30 E"
           ],
-          "popul": 32522339,
+          "popul": 33642646,
           "ports": {
             "seaport": "Cabinda, Lobito, Luanda, Namibe"
           },
@@ -640,7 +639,7 @@
           "coord": [
             "18 15 N, 63 10 W"
           ],
-          "popul": 18090,
+          "popul": 18403,
           "ports": {
             "seaport": "Blowing Point, Road Bay"
           },
@@ -783,7 +782,7 @@
           "coord": [
             "17 03 N, 61 48 W"
           ],
-          "popul": 98179,
+          "popul": 99175,
           "ports": {
             "seaport": "Saint John's"
           },
@@ -878,7 +877,7 @@
           "coord": [
             "34 00 S, 64 00 W"
           ],
-          "popul": 45479118,
+          "popul": 45864941,
           "ports": {
             "container": "Buenos Aires (1,851,701)",
             "seaport": "Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia"
@@ -982,7 +981,7 @@
           "coord": [
             "40 00 N, 45 00 E"
           ],
-          "popul": 3021324,
+          "popul": 3011609,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:AM",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/armenia"
@@ -1071,7 +1070,7 @@
           "coord": [
             "12 30 N, 69 58 W"
           ],
-          "popul": 119428,
+          "popul": 120917,
           "ports": {
             "seaport": "Barcadera, Oranjestad"
           },
@@ -1181,7 +1180,7 @@
           "coord": [
             "27 00 S, 133 00 E"
           ],
-          "popul": 25466459,
+          "popul": 25809973,
           "ports": {
             "container": "Melbourne (2,806,436), Sydney (2,530,122) (2017)",
             "seaport": "Brisbane, Cairns, Darwin, Fremantle, Geelong, Gladstone, Hobart, Melbourne, Newcastle, Port Adelaide, Port Kembla, Sydney"
@@ -1288,6 +1287,7 @@
         "50548",
         "50549",
         "50550",
+        "50551",
         "50561",
         "50562",
         "50568",
@@ -1336,7 +1336,7 @@
           "coord": [
             "47 20 N, 13 20 E"
           ],
-          "popul": 8859449,
+          "popul": 8884864,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:AT",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/austria"
@@ -1457,7 +1457,7 @@
           "coord": [
             "40 30 N, 47 30 E"
           ],
-          "popul": 10205810,
+          "popul": 10282283,
           "ports": {
             "seaport": "Baku (Baki) located on the Caspian Sea"
           },
@@ -1550,7 +1550,7 @@
           "coord": [
             "26 00 N, 50 33 E"
           ],
-          "popul": 1505003,
+          "popul": 1526929,
           "ports": {
             "seaport": "Mina' Salman, Sitrah"
           },
@@ -1648,7 +1648,7 @@
           "coord": [
             "24 00 N, 90 00 E"
           ],
-          "popul": 162650853,
+          "popul": 164098818,
           "ports": {
             "container": "Chittagong (2,566,597) (2017)",
             "seaport": "Chittagong"
@@ -1745,7 +1745,7 @@
           "coord": [
             "13 10 N, 59 32 W"
           ],
-          "popul": 294560,
+          "popul": 301865,
           "ports": {
             "seaport": "Bridgetown"
           },
@@ -1839,7 +1839,7 @@
           "coord": [
             "53 00 N, 28 00 E"
           ],
-          "popul": 9477918,
+          "popul": 9441842,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BY",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/belarus"
@@ -1941,7 +1941,7 @@
           "coord": [
             "50 50 N, 4 00 E"
           ],
-          "popul": 11720716,
+          "popul": 11778842,
           "ports": {
             "container": "Antwerp (10,450,000) (2017)",
             "seaport": "Oostende, Zeebrugge"
@@ -2064,7 +2064,7 @@
           "coord": [
             "17 15 N, 88 45 W"
           ],
-          "popul": 399598,
+          "popul": 405633,
           "ports": {
             "seaport": "Belize City, Big Creek"
           },
@@ -2155,7 +2155,7 @@
           "coord": [
             "9 30 N, 2 15 E"
           ],
-          "popul": 12864634,
+          "popul": 13301694,
           "ports": {
             "seaport": "Cotonou"
           },
@@ -2247,7 +2247,7 @@
           "coord": [
             "32 20 N, 64 45 W"
           ],
-          "popul": 71750,
+          "popul": 72084,
           "ports": {
             "seaport": "Hamilton, Ireland Island, Saint George"
           },
@@ -2341,7 +2341,7 @@
           "coord": [
             "27 30 N, 90 30 E"
           ],
-          "popul": 782318,
+          "popul": 857423,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BT",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/bhutan"
@@ -2432,7 +2432,7 @@
           "coord": [
             "17 00 S, 65 00 W"
           ],
-          "popul": 11639909,
+          "popul": 11758869,
           "region": "South America",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BO",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/bolivia"
@@ -2580,7 +2580,7 @@
           "coord": [
             "44 00 N, 18 00 E"
           ],
-          "popul": 3835586,
+          "popul": 3824782,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BA",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/bosnia-and-herzegovina"
@@ -2666,7 +2666,7 @@
           "coord": [
             "22 00 S, 24 00 E"
           ],
-          "popul": 2317233,
+          "popul": 2350667,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BW",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/botswana"
@@ -2803,7 +2803,7 @@
           "coord": [
             "10 00 S, 55 00 W"
           ],
-          "popul": 211715973,
+          "popul": 213445417,
           "ports": {
             "container": "Santos (3,853,719) (2017)",
             "seaport": "Belem, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao"
@@ -2988,7 +2988,7 @@
           "coord": [
             "18 30 N, 64 30 W"
           ],
-          "popul": 37381,
+          "popul": 37891,
           "ports": {
             "seaport": "Road Harbor"
           },
@@ -3077,7 +3077,7 @@
           "coord": [
             "4 30 N, 114 40 E"
           ],
-          "popul": 464478,
+          "popul": 471103,
           "ports": {
             "seaport": "Muara"
           },
@@ -3176,7 +3176,7 @@
           "coord": [
             "43 00 N, 25 00 E"
           ],
-          "popul": 6966899,
+          "popul": 6919180,
           "ports": {
             "seaport": "Burgas, Varna (Black Sea)"
           },
@@ -3279,7 +3279,7 @@
           "coord": [
             "13 00 N, 2 00 W"
           ],
-          "popul": 20835401,
+          "popul": 21382659,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BF",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/burkina-faso"
@@ -3364,7 +3364,7 @@
           "coord": [
             "3 30 S, 30 00 E"
           ],
-          "popul": 11865821,
+          "popul": 12241065,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BI",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/burundi"
@@ -3458,7 +3458,7 @@
           "coord": [
             "13 00 N, 105 00 E"
           ],
-          "popul": 16926984,
+          "popul": 17304363,
           "ports": {
             "seaport": "Sihanoukville (Kampong Saom)"
           },
@@ -3566,7 +3566,7 @@
           "coord": [
             "6 00 N, 12 00 E"
           ],
-          "popul": 27744989,
+          "popul": 28524175,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:CM",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/cameroon"
@@ -3655,7 +3655,7 @@
           "coord": [
             "60 00 N, 95 00 W"
           ],
-          "popul": 37694085,
+          "popul": 37943231,
           "ports": {
             "container": "Montreal (1,537,669), Vancouver (3,252,225) (2017)",
             "seaport": "Halifax, Saint John (New Brunswick), Vancouver"
@@ -3817,7 +3817,7 @@
           "coord": [
             "16 00 N, 24 00 W"
           ],
-          "popul": 583255,
+          "popul": 589451,
           "ports": {
             "seaport": "Porto Grande"
           },
@@ -3908,7 +3908,7 @@
           "coord": [
             "19 30 N, 80 30 W"
           ],
-          "popul": 61944,
+          "popul": 63131,
           "ports": {
             "seaport": "Cayman Brac, George Town"
           },
@@ -4003,7 +4003,7 @@
           "coord": [
             "7 00 N, 21 00 E"
           ],
-          "popul": 5990855,
+          "popul": 5357984,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:CF",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/central-african-republic"
@@ -4093,7 +4093,7 @@
           "coord": [
             "15 00 N, 19 00 E"
           ],
-          "popul": 16877357,
+          "popul": 17414108,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:TD",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/chad"
@@ -4182,7 +4182,7 @@
           "coord": [
             "30 00 S, 71 00 W"
           ],
-          "popul": 18186770,
+          "popul": 18307925,
           "ports": {
             "container": "San Antonio (1,296,890), Valparaiso (1,073,734) (2017)",
             "seaport": "Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso"
@@ -4297,12 +4297,12 @@
               "Nepal": 1389,
               "North Korea": 1352,
               "Pakistan": 438,
-              "Russia": 4179,
+              "Russia": 4133,
               "Tajikistan": 477,
               "Vietnam": 1297
             },
             "len": 22457,
-            "note": "border with Russia (northeast); border with Russia (northwest)"
+            "note": "border with Russia (northeast)"
           },
           "capital": {
             "coord": "39 55 N, 116 23 E",
@@ -4314,7 +4314,7 @@
           "coord": [
             "35 00 N, 105 00 E"
           ],
-          "popul": 1394015977,
+          "popul": 1397897720,
           "ports": {
             "container": "Dalian (9,707,000), Guangzhou (18,858,000), Ningbo (24,607,000), Qingdao (18,262,000), Shanghai (40,233,000), Shenzhen (25,208,000), Tianjin (15,040,000) (2017)",
             "seaport": "Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin"
@@ -4507,6 +4507,7 @@
         "50548",
         "50549",
         "50550",
+        "50551",
         "50561",
         "50562",
         "50568",
@@ -4638,6 +4639,7 @@
         "50548",
         "50549",
         "50550",
+        "50551",
         "50561",
         "50562",
         "50568",
@@ -4685,7 +4687,7 @@
           "coord": [
             "4 00 N, 72 00 W"
           ],
-          "popul": 49084841,
+          "popul": 50355650,
           "ports": {
             "container": "Cartagena (2,663,415) (2017)",
             "seaport": "Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo"
@@ -4801,7 +4803,7 @@
           "coord": [
             "12 10 S, 44 15 E"
           ],
-          "popul": 846281,
+          "popul": 864335,
           "ports": {
             "seaport": "Moroni, Moutsamoudou"
           },
@@ -4890,7 +4892,7 @@
           "coord": [
             "21 14 S, 159 46 W"
           ],
-          "popul": 8574,
+          "popul": 8327,
           "ports": {
             "seaport": "Avatiu"
           },
@@ -4976,7 +4978,7 @@
           "coord": [
             "10 00 N, 84 00 W"
           ],
-          "popul": 5097988,
+          "popul": 5151140,
           "ports": {
             "seaport": "Atlantic Ocean (Caribbean) - Puerto Limon"
           },
@@ -5075,7 +5077,7 @@
           "coord": [
             "45 10 N, 15 30 E"
           ],
-          "popul": 4227746,
+          "popul": 4208973,
           "ports": {
             "seaport": "Ploce, Rijeka, Sibenik, Split"
           },
@@ -5171,7 +5173,7 @@
           "coord": [
             "21 30 N, 80 00 W"
           ],
-          "popul": 11059062,
+          "popul": 11032343,
           "ports": {
             "seaport": "Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba"
           },
@@ -5249,7 +5251,7 @@
           "coord": [
             "12 10 N, 69 00 W"
           ],
-          "popul": 151345,
+          "popul": 151885,
           "ports": {
             "seaport": "Willemstad"
           },
@@ -5356,7 +5358,7 @@
           "coord": [
             "35 00 N, 33 00 E"
           ],
-          "popul": 1266676,
+          "popul": 1281506,
           "ports": {
             "seaport": "area under government control: Larnaca, Limassol, Vasilikos"
           },
@@ -5455,7 +5457,7 @@
           "coord": [
             "49 45 N, 15 30 E"
           ],
-          "popul": 10702498,
+          "popul": 10702596,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:CZ",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/czechia"
@@ -5560,7 +5562,7 @@
           "coord": [
             "0 00 N, 25 00 E"
           ],
-          "popul": 101780263,
+          "popul": 105044646,
           "ports": {
             "seaport": "Banana"
           },
@@ -5657,7 +5659,7 @@
           "coord": [
             "56 00 N, 10 00 E"
           ],
-          "popul": 5869410,
+          "popul": 5894687,
           "ports": {
             "seaport": "Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg"
           },
@@ -5778,7 +5780,7 @@
           "coord": [
             "11 30 N, 43 00 E"
           ],
-          "popul": 921804,
+          "popul": 938413,
           "ports": {
             "seaport": "Djibouti"
           },
@@ -5868,7 +5870,7 @@
           "coord": [
             "15 25 N, 61 20 W"
           ],
-          "popul": 74243,
+          "popul": 74584,
           "ports": {
             "seaport": "Portsmouth, Roseau"
           },
@@ -5959,7 +5961,7 @@
           "coord": [
             "19 00 N, 70 40 W"
           ],
-          "popul": 10499707,
+          "popul": 10597348,
           "ports": {
             "seaport": "Puerto Haina, Puerto Plata, Santo Domingo"
           },
@@ -6059,7 +6061,7 @@
           "coord": [
             "8 50 S, 125 55 E"
           ],
-          "popul": 1383723,
+          "popul": 1413958,
           "ports": {
             "seaport": "Dili"
           },
@@ -6154,7 +6156,7 @@
           "coord": [
             "2 00 S, 77 30 W"
           ],
-          "popul": 16904867,
+          "popul": 17093159,
           "ports": {
             "container": "Guayaquil (1,871,591) (2017)",
             "seaport": "Esmeraldas, Manta, Puerto Bolivar"
@@ -6249,7 +6251,7 @@
           "coord": [
             "27 00 N, 30 00 E"
           ],
-          "popul": 104124440,
+          "popul": 106437241,
           "ports": {
             "container": "Alexandria (1,613,000), Port Said (East) (2,968,308) (2017)",
             "seaport": "Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said"
@@ -6346,7 +6348,7 @@
           "coord": [
             "13 50 N, 88 55 W"
           ],
-          "popul": 6481102,
+          "popul": 6528135,
           "ports": {
             "seaport": "Puerto Cutuco"
           },
@@ -6441,7 +6443,7 @@
           "coord": [
             "2 00 N, 10 00 E"
           ],
-          "popul": 836178,
+          "popul": 857008,
           "ports": {
             "seaport": "Bata, Luba, Malabo"
           },
@@ -6531,7 +6533,7 @@
           "coord": [
             "15 00 N, 39 00 E"
           ],
-          "popul": 6081196,
+          "popul": 6147398,
           "ports": {
             "seaport": "Assab, Massawa"
           },
@@ -6623,7 +6625,7 @@
           "coord": [
             "59 00 N, 26 00 E"
           ],
-          "popul": 1228624,
+          "popul": 1220042,
           "ports": {
             "seaport": "Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn"
           },
@@ -6701,6 +6703,7 @@
         "24818",
         "24819",
         "24820",
+        "24821",
         "24871"
       ],
       "msisdn": [
@@ -6736,7 +6739,7 @@
           "coord": [
             "26 30 S, 31 30 E"
           ],
-          "popul": 1104479,
+          "popul": 1113276,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:SZ",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/eswatini"
@@ -6827,7 +6830,7 @@
           "coord": [
             "8 00 N, 38 00 E"
           ],
-          "popul": 108113150,
+          "popul": 110871031,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:ET",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/ethiopia"
@@ -6989,7 +6992,7 @@
           "coord": [
             "62 00 N, 7 00 W"
           ],
-          "popul": 51628,
+          "popul": 51943,
           "ports": {
             "seaport": "Fuglafjordur, Torshavn, Vagur"
           },
@@ -7075,7 +7078,7 @@
           "coord": [
             "6 55 N, 158 15 E"
           ],
-          "popul": 102436,
+          "popul": 101675,
           "ports": {
             "seaport": "Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor"
           },
@@ -7157,7 +7160,7 @@
           "coord": [
             "18 00 S, 175 00 E"
           ],
-          "popul": 935974,
+          "popul": 939535,
           "ports": {
             "seaport": "Lautoka, Levuka, Suva"
           },
@@ -7252,7 +7255,7 @@
           "coord": [
             "64 00 N, 26 00 E"
           ],
-          "popul": 5571665,
+          "popul": 5587442,
           "ports": {
             "seaport": "Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma"
           },
@@ -7430,7 +7433,7 @@
               "21 06 S, 55 36 E"
             ]
           ],
-          "popul": 67848156,
+          "popul": 68084217,
           "ports": {
             "container": "Le Havre (2,870,000) (2017)",
             "ferry": "Calais, Cherbourg, Le Havre",
@@ -7628,7 +7631,7 @@
           "coord": [
             "15 00 S, 140 00 W"
           ],
-          "popul": 295121,
+          "popul": 297154,
           "ports": {
             "seaport": "Papeete"
           },
@@ -7804,7 +7807,7 @@
           "coord": [
             "1 00 S, 11 45 E"
           ],
-          "popul": 2230908,
+          "popul": 2284912,
           "ports": {
             "seaport": "Libreville, Owendo, Port-Gentil"
           },
@@ -7900,7 +7903,7 @@
           "coord": [
             "42 00 N, 43 30 E"
           ],
-          "popul": 3997000,
+          "popul": 4933674,
           "ports": {
             "seaport": "Black Sea - Bat'umi, P'ot'i"
           },
@@ -8014,7 +8017,7 @@
           "coord": [
             "51 00 N, 9 00 E"
           ],
-          "popul": 80159662,
+          "popul": 79903481,
           "ports": {
             "container": "Bremen/Bremerhaven (5,510,000), Hamburg (8,860,000) (2017)",
             "seaport": "Baltic Sea - Rostock"
@@ -8149,7 +8152,7 @@
           "coord": [
             "8 00 N, 2 00 W"
           ],
-          "popul": 29340248,
+          "popul": 32372889,
           "ports": {
             "seaport": "Takoradi, Tema"
           },
@@ -8258,7 +8261,7 @@
           "coord": [
             "36 08 N, 5 21 W"
           ],
-          "popul": 29581,
+          "popul": 29516,
           "ports": {
             "seaport": "Gibraltar"
           },
@@ -8343,7 +8346,7 @@
           "coord": [
             "39 00 N, 22 00 E"
           ],
-          "popul": 10607051,
+          "popul": 10569703,
           "ports": {
             "container": "Piraeus (4,145,079) (2017)",
             "seaport": "Aspropyrgos, Pachi, Piraeus, Thessaloniki"
@@ -8448,7 +8451,7 @@
           "coord": [
             "72 00 N, 40 00 W"
           ],
-          "popul": 57616,
+          "popul": 57799,
           "ports": {
             "seaport": "Sisimiut"
           },
@@ -8534,7 +8537,7 @@
           "coord": [
             "12 07 N, 61 40 W"
           ],
-          "popul": 113094,
+          "popul": 113570,
           "ports": {
             "seaport": "Saint George's"
           },
@@ -8663,7 +8666,7 @@
           "coord": [
             "13 28 N, 144 47 E"
           ],
-          "popul": 168485,
+          "popul": 168801,
           "ports": {
             "seaport": "Apra Harbor"
           },
@@ -8768,7 +8771,7 @@
           "coord": [
             "15 30 N, 90 15 W"
           ],
-          "popul": 17153288,
+          "popul": 17422821,
           "ports": {
             "seaport": "Puerto Quetzal, Santo Tomas de Castilla"
           },
@@ -8858,7 +8861,7 @@
           "coord": [
             "49 28 N, 2 35 W"
           ],
-          "popul": 67052,
+          "popul": 67334,
           "ports": {
             "seaport": "Braye Bay, Saint Peter Port"
           },
@@ -8955,7 +8958,7 @@
           "coord": [
             "11 00 N, 10 00 W"
           ],
-          "popul": 12527440,
+          "popul": 12877894,
           "ports": {
             "seaport": "Conakry, Kamsar"
           },
@@ -9051,7 +9054,7 @@
           "coord": [
             "12 00 N, 15 00 W"
           ],
-          "popul": 1927104,
+          "popul": 1976187,
           "ports": {
             "seaport": "Bissau, Buba, Cacheu, Farim"
           },
@@ -9143,7 +9146,7 @@
           "coord": [
             "5 00 N, 59 00 W"
           ],
-          "popul": 750204,
+          "popul": 787971,
           "ports": {
             "seaport": "Georgetown"
           },
@@ -9238,7 +9241,7 @@
           "coord": [
             "19 00 N, 72 25 W"
           ],
-          "popul": 11067777,
+          "popul": 11198240,
           "ports": {
             "seaport": "Cap-Haitien, Gonaives, Jacmel, Port-au-Prince"
           },
@@ -9377,7 +9380,7 @@
           "coord": [
             "15 00 N, 86 30 W"
           ],
-          "popul": 9235340,
+          "popul": 9346277,
           "ports": {
             "seaport": "La Ceiba, Puerto Cortes, San Lorenzo, Tela"
           },
@@ -9467,7 +9470,7 @@
           "coord": [
             "22 15 N, 114 10 E"
           ],
-          "popul": 7249907,
+          "popul": 7263234,
           "ports": {
             "container": "Hong Kong (20,770,000) (2017)",
             "seaport": "Hong Kong"
@@ -9603,7 +9606,7 @@
           "coord": [
             "47 00 N, 20 00 E"
           ],
-          "popul": 9771827,
+          "popul": 9728337,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:HU",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/hungary"
@@ -9693,7 +9696,7 @@
           "coord": [
             "65 00 N, 18 00 W"
           ],
-          "popul": 350734,
+          "popul": 354234,
           "ports": {
             "seaport": "Grundartangi, Hafnarfjordur, Reykjavik"
           },
@@ -9801,7 +9804,7 @@
           "coord": [
             "20 00 N, 77 00 E"
           ],
-          "popul": 1326093247,
+          "popul": 1339330514,
           "ports": {
             "container": "Chennai (1,549,457), Jawaharal Nehru Port (4,833,397), Mundra (4,240,260) (2017)",
             "seaport": "Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam"
@@ -10217,7 +10220,7 @@
           "coord": [
             "5 00 S, 120 00 E"
           ],
-          "popul": 267026366,
+          "popul": 275122131,
           "ports": {
             "container": "Tanjung Perak (3,553,370), Tanjung Priok (6,090,000) (2017)",
             "seaport": "Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok"
@@ -10331,7 +10334,7 @@
           "coord": [
             "32 00 N, 53 00 E"
           ],
-          "popul": 84923314,
+          "popul": 85888910,
           "ports": {
             "container": "Bandar Abbas (2,607,000) (2017)",
             "seaport": "Bandar-e Asaluyeh, Bandar Abbas, Bandar Emam"
@@ -10447,7 +10450,7 @@
           "coord": [
             "33 00 N, 44 00 E"
           ],
-          "popul": 38872655,
+          "popul": 39650145,
           "region": "Middle East",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:IQ",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/iraq"
@@ -10561,7 +10564,7 @@
           "coord": [
             "54 15 N, 4 30 W"
           ],
-          "popul": 90499,
+          "popul": 90895,
           "ports": {
             "seaport": "Douglas, Ramsey"
           },
@@ -10631,12 +10634,12 @@
             "bord": {
               "Egypt": 206,
               "Gaza Strip": 59,
-              "Jordan": 336,
-              "Lebanon": 107,
-              "Syria": 79,
+              "Jordan": 328,
+              "Lebanon": 106,
+              "Syria": 80,
               "West Bank": 278
             },
-            "len": 1065
+            "len": 1057
           },
           "capital": {
             "coord": "31 46 N, 35 14 E",
@@ -10647,7 +10650,7 @@
           "coord": [
             "31 30 N, 34 45 E"
           ],
-          "popul": 8675475,
+          "popul": 8787045,
           "ports": {
             "container": "Ashdod (1,443,000) (2016)",
             "seaport": "Ashdod, Elat (Eilat), Hadera, Haifa"
@@ -10775,7 +10778,7 @@
           "coord": [
             "42 50 N, 12 50 E"
           ],
-          "popul": 62402659,
+          "popul": 62390364,
           "ports": {
             "container": "Genoa (2,622,200), Gioia Tauro (2,448,600) (2017)",
             "seaport": "Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice"
@@ -10898,7 +10901,7 @@
           "coord": [
             "8 00 N, 5 00 W"
           ],
-          "popul": 27481086,
+          "popul": 28088455,
           "ports": {
             "seaport": "Abidjan, San-Pedro"
           },
@@ -10997,7 +11000,7 @@
           "coord": [
             "18 15 N, 77 30 W"
           ],
-          "popul": 2808570,
+          "popul": 2816602,
           "ports": {
             "container": "Kingston (1,681,706) (2017)",
             "seaport": "Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, Port Esquivel, Port Kaiser, Rocky Point"
@@ -11087,7 +11090,7 @@
           "coord": [
             "36 00 N, 138 00 E"
           ],
-          "popul": 125507472,
+          "popul": 124687293,
           "ports": {
             "container": "Kobe (2,924,179), Nagoya (2,784,109), Osaka (2,326,852), Tokyo (4,500,156), Yokohama (2,926,698) (2017)",
             "seaport": "Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama"
@@ -11233,7 +11236,6 @@
         "44088",
         "44089",
         "44090",
-        "44091",
         "44092",
         "44093",
         "44094",
@@ -11297,7 +11299,7 @@
           "coord": [
             "49 15 N, 2 10 W"
           ],
-          "popul": 101073,
+          "popul": 101476,
           "ports": {
             "seaport": "Gorey, Saint Aubin, Saint Helier"
           },
@@ -11374,12 +11376,12 @@
           "bound": {
             "bord": {
               "Iraq": 179,
-              "Israel": 307,
+              "Israel": 328,
               "Saudi Arabia": 731,
-              "Syria": 379,
+              "Syria": 341,
               "West Bank": 148
             },
-            "len": 1744
+            "len": 1727
           },
           "capital": {
             "coord": "31 57 N, 35 56 E",
@@ -11390,7 +11392,7 @@
           "coord": [
             "31 00 N, 36 00 E"
           ],
-          "popul": 10820644,
+          "popul": 10909567,
           "ports": {
             "seaport": "Al 'Aqabah"
           },
@@ -11488,7 +11490,7 @@
           "coord": [
             "48 00 N, 68 00 E"
           ],
-          "popul": 19091949,
+          "popul": 19245793,
           "ports": {
             "seaport": "Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)"
           },
@@ -11588,7 +11590,7 @@
           "coord": [
             "1 00 N, 38 00 E"
           ],
-          "popul": 53527936,
+          "popul": 54685051,
           "ports": {
             "seaport": "Kisumu, Mombasa"
           },
@@ -11689,7 +11691,7 @@
           "coord": [
             "1 25 N, 173 00 E"
           ],
-          "popul": 111796,
+          "popul": 113001,
           "ports": {
             "seaport": "Betio (Tarawa Atoll), Canton Island, English Harbor"
           },
@@ -11780,7 +11782,7 @@
           "coord": [
             "42 35 N, 21 00 E"
           ],
-          "popul": 1932774,
+          "popul": 1935259,
           "region": "Europe",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/kosovo"
         },
@@ -11867,7 +11869,7 @@
           "coord": [
             "29 30 N, 45 45 E"
           ],
-          "popul": 2993706,
+          "popul": 3032065,
           "ports": {
             "seaport": "Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, Mina' al Ahmadi"
           },
@@ -11965,7 +11967,7 @@
           "coord": [
             "41 00 N, 75 00 E"
           ],
-          "popul": 5964897,
+          "popul": 6018789,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:KG",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/kyrgyzstan"
@@ -12061,7 +12063,7 @@
           "coord": [
             "18 00 N, 105 00 E"
           ],
-          "popul": 7447396,
+          "popul": 7574356,
           "region": "Southeast Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:LA",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/laos"
@@ -12154,7 +12156,7 @@
           "coord": [
             "57 00 N, 25 00 E"
           ],
-          "popul": 1881232,
+          "popul": 1862687,
           "ports": {
             "seaport": "Riga, Ventspils"
           },
@@ -12237,10 +12239,10 @@
           "airports": 8,
           "bound": {
             "bord": {
-              "Israel": 81,
-              "Syria": 403
+              "Israel": 106,
+              "Syria": 369
             },
-            "len": 484
+            "len": 475
           },
           "capital": {
             "coord": "33 52 N, 35 30 E",
@@ -12251,7 +12253,7 @@
           "coord": [
             "33 50 N, 35 50 E"
           ],
-          "popul": 5469612,
+          "popul": 5261372,
           "ports": {
             "container": "Beirut (1,305,038) (2017)",
             "seaport": "Beirut, Tripoli"
@@ -12348,7 +12350,7 @@
           "coord": [
             "29 30 S, 28 30 E"
           ],
-          "popul": 1969334,
+          "popul": 2177740,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:LS",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/lesotho"
@@ -12438,7 +12440,7 @@
           "coord": [
             "6 30 N, 9 30 W"
           ],
-          "popul": 5073296,
+          "popul": 5214030,
           "ports": {
             "seaport": "Buchanan, Monrovia"
           },
@@ -12538,7 +12540,7 @@
           "coord": [
             "25 00 N, 17 00 E"
           ],
-          "popul": 6890535,
+          "popul": 7017224,
           "ports": {
             "seaport": "Marsa al Burayqah (Marsa el Brega), Tripoli"
           },
@@ -12635,7 +12637,7 @@
           "coord": [
             "47 16 N, 9 32 E"
           ],
-          "popul": 39137,
+          "popul": 39425,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:LI",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/liechtenstein"
@@ -12731,7 +12733,7 @@
           "coord": [
             "56 00 N, 24 00 E"
           ],
-          "popul": 2731464,
+          "popul": 2711566,
           "ports": {
             "seaport": "Klaipeda"
           },
@@ -12838,7 +12840,7 @@
           "coord": [
             "49 45 N, 6 10 E"
           ],
-          "popul": 628381,
+          "popul": 639589,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:LU",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/luxembourg"
@@ -12926,7 +12928,7 @@
           "coord": [
             "22 10 N, 113 33 E"
           ],
-          "popul": 614458,
+          "popul": 630396,
           "ports": {
             "seaport": "Macau"
           },
@@ -13019,7 +13021,7 @@
           "coord": [
             "20 00 S, 47 00 E"
           ],
-          "popul": 26955737,
+          "popul": 27534354,
           "ports": {
             "seaport": "Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)"
           },
@@ -13112,7 +13114,7 @@
           "coord": [
             "13 30 S, 34 00 E"
           ],
-          "popul": 21196629,
+          "popul": 20308502,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:MW",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/malawi"
@@ -13208,7 +13210,7 @@
           "coord": [
             "2 30 N, 112 30 E"
           ],
-          "popul": 32652083,
+          "popul": 33519406,
           "ports": {
             "container": "Port Kelang (Port Klang) (11,978,000), Tanjung Pelepas (8,260,000) (2017)",
             "seaport": "Bintulu, Johor Bahru, George Town (Penang), Port Kelang (Port Klang), Tanjung Pelepas"
@@ -13313,7 +13315,7 @@
           "coord": [
             "3 15 N, 73 00 E"
           ],
-          "popul": 391904,
+          "popul": 390669,
           "ports": {
             "seaport": "Male"
           },
@@ -13408,7 +13410,7 @@
           "coord": [
             "17 00 N, 4 00 W"
           ],
-          "popul": 19553397,
+          "popul": 20137527,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:ML",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/mali"
@@ -13499,7 +13501,7 @@
           "coord": [
             "35 50 N, 14 35 E"
           ],
-          "popul": 457267,
+          "popul": 460891,
           "ports": {
             "container": "Marsaxlokk (3,150,000) (2017)",
             "seaport": "Marsaxlokk (Malta Freeport), Valletta"
@@ -13590,7 +13592,7 @@
           "coord": [
             "9 00 N, 168 00 E"
           ],
-          "popul": 77917,
+          "popul": 78831,
           "ports": {
             "seaport": "Enitwetak Island, Kwajalein, Majuro"
           },
@@ -13711,8 +13713,8 @@
             "bord": {
               "Algeria": 460,
               "Mali": 2236,
-              "Senegal": 742,
-              "Western Sahara": 1564
+              "Morocco": 1564,
+              "Senegal": 742
             },
             "len": 5002
           },
@@ -13725,7 +13727,7 @@
           "coord": [
             "20 00 N, 12 00 W"
           ],
-          "popul": 4005475,
+          "popul": 4079284,
           "ports": {
             "seaport": "Nouadhibou, Nouakchott"
           },
@@ -13820,7 +13822,7 @@
           "coord": [
             "20 17 S, 57 33 E"
           ],
-          "popul": 1379365,
+          "popul": 1386129,
           "ports": {
             "seaport": "Port Louis"
           },
@@ -13958,7 +13960,7 @@
           "coord": [
             "23 00 N, 102 00 W"
           ],
-          "popul": 128649565,
+          "popul": 130207371,
           "ports": {
             "container": "Manzanillo (2,830,370), Lazaro Cardenas (1,149,079) (2017)",
             "seaport": "Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz"
@@ -14082,7 +14084,7 @@
           "coord": [
             "47 00 N, 29 00 E"
           ],
-          "popul": 3364496,
+          "popul": 3323875,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:MD",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/moldova"
@@ -14176,7 +14178,7 @@
           "coord": [
             "43 44 N, 7 24 E"
           ],
-          "popul": 39000,
+          "popul": 31223,
           "ports": {
             "seaport": "Hercules Port"
           },
@@ -14268,7 +14270,7 @@
           "coord": [
             "46 00 N, 105 00 E"
           ],
-          "popul": 3168026,
+          "popul": 3198913,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:MN",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/mongolia"
@@ -14363,7 +14365,7 @@
           "coord": [
             "42 30 N, 19 18 E"
           ],
-          "popul": 609859,
+          "popul": 607414,
           "ports": {
             "seaport": "Bar"
           },
@@ -14451,7 +14453,7 @@
           "coord": [
             "16 45 N, 62 12 W"
           ],
-          "popul": 5373,
+          "popul": 5387,
           "ports": {
             "seaport": "Little Bay, Plymouth"
           },
@@ -14519,15 +14521,15 @@
           "stan": "MAR"
         },
         "geo": {
-          "airports": 55,
+          "airports": 62,
           "bound": {
             "bord": {
               "Algeria": 1941,
               "Mauritania": 1564,
-              "Spain": 18
+              "Spain": 8
             },
             "len": 3523,
-            "note": "an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera; border with Spain (Ceuta); border with Spain (Melilla)"
+            "note": "an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera; border with Spain (Ceuta)"
           },
           "capital": {
             "coord": "34 01 N, 6 49 W",
@@ -14538,10 +14540,10 @@
           "coord": [
             "28 30 N, 10 00 W"
           ],
-          "popul": 35561654,
+          "popul": 36561813,
           "ports": {
             "container": "Tangier (3,312,409) (2017)",
-            "seaport": "Casablanca, Jorf Lasfar, Mohammedia, Safi, Tangier"
+            "seaport": "Ad Dakhla, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier"
           },
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:MA",
@@ -14644,7 +14646,7 @@
           "coord": [
             "18 15 S, 35 00 E"
           ],
-          "popul": 30098197,
+          "popul": 30888034,
           "ports": {
             "seaport": "Beira, Maputo, Nacala"
           },
@@ -14744,7 +14746,7 @@
           "coord": [
             "22 00 N, 98 00 E"
           ],
-          "popul": 56590071,
+          "popul": 57069099,
           "ports": {
             "seaport": "Mawlamyine (Moulmein), Sittwe"
           },
@@ -14875,7 +14877,7 @@
           "coord": [
             "22 00 S, 17 00 E"
           ],
-          "popul": 2630073,
+          "popul": 2678191,
           "ports": {
             "seaport": "Luderitz, Walvis Bay"
           },
@@ -14966,7 +14968,7 @@
           "coord": [
             "0 32 S, 166 55 E"
           ],
-          "popul": 11000,
+          "popul": 9770,
           "ports": {
             "seaport": "Nauru"
           },
@@ -15052,7 +15054,7 @@
           "coord": [
             "28 00 N, 84 00 E"
           ],
-          "popul": 30327877,
+          "popul": 30424878,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:NP",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/nepal"
@@ -15060,7 +15062,6 @@
         "nameset": [
           "federal democratic republic of nepal",
           "nepal",
-          "sanghiya loktantrik ganatantra nepal",
           "the federal democratic republic of nepal"
         ],
         "tel": {
@@ -15146,9 +15147,9 @@
           },
           "coast": 451,
           "coord": [
-            "52 30 N, 5 45 E"
+            "52 31 N, 5 46 E"
           ],
-          "popul": 17280397,
+          "popul": 17337403,
           "ports": {
             "container": "Rotterdam (13,734,000) (2017)",
             "seaport": "IJmuiden, Vlissingen"
@@ -15284,7 +15285,7 @@
           "coord": [
             "21 30 S, 165 30 E"
           ],
-          "popul": 290009,
+          "popul": 293608,
           "ports": {
             "seaport": "Noumea"
           },
@@ -15368,7 +15369,7 @@
           "coord": [
             "41 00 S, 174 00 E"
           ],
-          "popul": 4925477,
+          "popul": 4991442,
           "ports": {
             "seaport": "Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington"
           },
@@ -15465,7 +15466,7 @@
           "coord": [
             "13 00 N, 85 00 W"
           ],
-          "popul": 6203441,
+          "popul": 6243931,
           "ports": {
             "seaport": "Bluefields, Corinto"
           },
@@ -15566,7 +15567,7 @@
           "coord": [
             "16 00 N, 8 00 E"
           ],
-          "popul": 22772361,
+          "popul": 23605767,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:NE",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/niger"
@@ -15661,7 +15662,7 @@
           "coord": [
             "10 00 N, 8 00 E"
           ],
-          "popul": 214028302,
+          "popul": 219463862,
           "ports": {
             "seaport": "Bonny Inshore Terminal, Calabar, Lagos"
           },
@@ -15932,7 +15933,7 @@
           "coord": [
             "40 00 N, 127 00 E"
           ],
-          "popul": 25643466,
+          "popul": 25831360,
           "ports": {
             "seaport": "Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly Unggi), Wonsan"
           },
@@ -16029,7 +16030,7 @@
           "coord": [
             "41 50 N, 22 00 E"
           ],
-          "popul": 2125971,
+          "popul": 2128262,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:MK",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/north-macedonia"
@@ -16038,7 +16039,8 @@
           "north macedonia",
           "republic of north macedonia",
           "republika severna makedonija",
-          "severna makedonija"
+          "severna makedonija",
+          "the republic of north macedonia"
         ],
         "tel": {
           "code": "389",
@@ -16139,7 +16141,7 @@
           "coord": [
             "15 12 N, 145 45 E"
           ],
-          "popul": 51433,
+          "popul": 51659,
           "ports": {
             "seaport": "Saipan, Tinian, Rota"
           },
@@ -16234,7 +16236,7 @@
           "coord": [
             "62 00 N, 10 00 E"
           ],
-          "popul": 5467439,
+          "popul": 5509591,
           "ports": {
             "seaport": "Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture"
           },
@@ -16350,7 +16352,7 @@
           "coord": [
             "21 00 N, 57 00 E"
           ],
-          "popul": 4664844,
+          "popul": 3694755,
           "ports": {
             "container": "Salalah (3,946,421) (2017)",
             "seaport": "Mina' Qabus, Salalah, Suhar"
@@ -16446,7 +16448,7 @@
           "coord": [
             "30 00 N, 70 00 E"
           ],
-          "popul": 233500636,
+          "popul": 238181034,
           "ports": {
             "container": "Karachi (2,224,000) (2017)",
             "seaport": "Karachi, Port Muhammad Bin Qasim"
@@ -16545,7 +16547,7 @@
           "coord": [
             "7 30 N, 134 30 E"
           ],
-          "popul": 21685,
+          "popul": 21613,
           "ports": {
             "seaport": "Koror"
           },
@@ -16636,7 +16638,7 @@
           "coord": [
             "9 00 N, 80 00 W"
           ],
-          "popul": 3894082,
+          "popul": 3928646,
           "ports": {
             "container": "Balboa (2,905,049), Colon (3,891,209) (2017)",
             "seaport": "Balboa, Colon, Cristobal"
@@ -16733,7 +16735,7 @@
           "coord": [
             "6 00 S, 147 00 E"
           ],
-          "popul": 7259456,
+          "popul": 7399757,
           "ports": {
             "seaport": "Kimbe, Lae, Madang, Rabaul, Wewak"
           },
@@ -16827,7 +16829,7 @@
           "coord": [
             "23 00 S, 58 00 W"
           ],
-          "popul": 7191685,
+          "popul": 7272639,
           "region": "South America",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:PY",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/paraguay"
@@ -16924,7 +16926,7 @@
           "coord": [
             "10 00 S, 76 00 W"
           ],
-          "popul": 31914989,
+          "popul": 32201224,
           "ports": {
             "container": "Callao (2,250,200) (2017)",
             "seaport": "Callao, Matarani, Paita"
@@ -17021,7 +17023,7 @@
           "coord": [
             "13 00 N, 122 00 E"
           ],
-          "popul": 109180815,
+          "popul": 110818325,
           "ports": {
             "container": "Manila (4,782,240) (2017)",
             "seaport": "Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila"
@@ -17088,6 +17090,7 @@
         "51511",
         "51518",
         "51524",
+        "51566",
         "51588"
       ],
       "msisdn": [
@@ -17211,7 +17214,7 @@
           "coord": [
             "52 00 N, 20 00 E"
           ],
-          "popul": 38282325,
+          "popul": 38185913,
           "ports": {
             "container": "Gdansk (1,593,761) (2017)",
             "seaport": "Gdansk, Gdynia, Swinoujscie"
@@ -17356,7 +17359,7 @@
           "coord": [
             "39 30 N, 8 00 W"
           ],
-          "popul": 10302674,
+          "popul": 10263850,
           "ports": {
             "container": "Sines (1,669,057) (2017)",
             "seaport": "Leixoes, Lisbon, Setubal, Sines"
@@ -17461,7 +17464,7 @@
           "coord": [
             "18 15 N, 66 30 W"
           ],
-          "popul": 3189068,
+          "popul": 3142779,
           "ports": {
             "container": "San Juan (1,210,503) (2015)",
             "seaport": "Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, San Juan"
@@ -17564,7 +17567,7 @@
           "coord": [
             "25 30 N, 51 15 E"
           ],
-          "popul": 2444174,
+          "popul": 2479995,
           "ports": {
             "seaport": "Doha, Musay'id, Ra's Laffan"
           },
@@ -17660,7 +17663,7 @@
           "coord": [
             "53 00 N, 8 00 W"
           ],
-          "popul": 5176569,
+          "popul": 5224884,
           "ports": {
             "container": "Dublin (529,563) (2016)",
             "seaport": "Dublin, Shannon Foynes"
@@ -17770,7 +17773,7 @@
           "coord": [
             "1 00 S, 15 00 E"
           ],
-          "popul": 5293070,
+          "popul": 5417414,
           "ports": {
             "seaport": "Pointe-Noire"
           },
@@ -17866,7 +17869,7 @@
           "coord": [
             "46 00 N, 25 00 E"
           ],
-          "popul": 21302893,
+          "popul": 21230362,
           "ports": {
             "seaport": "Constanta, Midia"
           },
@@ -17955,7 +17958,7 @@
             "bord": {
               "Azerbaijan": 338,
               "Belarus": 1312,
-              "China": 4179,
+              "China": 4133,
               "Estonia": 324,
               "Finland": 1309,
               "Georgia": 894,
@@ -17969,7 +17972,7 @@
               "Ukraine": 1944
             },
             "len": 22408,
-            "note": "border with China (southeast); border with China (south); border with Lithuania (Kaliningrad Oblast); border with Poland (Kaliningrad Oblast)"
+            "note": "border with China (southeast); border with Lithuania (Kaliningrad Oblast); border with Poland (Kaliningrad Oblast)"
           },
           "capital": {
             "coord": "55 45 N, 37 36 E",
@@ -17980,7 +17983,7 @@
           "coord": [
             "60 00 N, 100 00 E"
           ],
-          "popul": 141722205,
+          "popul": 142320790,
           "ports": {
             "container": "Saint Petersburg (1,848,700) (2017)",
             "seaport": "Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy"
@@ -18065,6 +18068,7 @@
         "25021",
         "25022",
         "25023",
+        "25026",
         "25027",
         "25028",
         "25029",
@@ -18074,7 +18078,9 @@
         "25035",
         "25038",
         "25039",
+        "25040",
         "25044",
+        "25045",
         "25050",
         "25054",
         "25060",
@@ -18126,7 +18132,7 @@
           "coord": [
             "2 00 S, 30 00 E"
           ],
-          "popul": 12712431,
+          "popul": 12943132,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:RW",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/rwanda"
@@ -18255,7 +18261,7 @@
           "coord": [
             "17 90 N, 62 85 W"
           ],
-          "popul": 7122,
+          "popul": 7116,
           "ports": {
             "seaport": "Gustavia"
           },
@@ -18354,7 +18360,7 @@
               "37 15 S, 12 30 W"
             ]
           ],
-          "popul": 7862,
+          "popul": 7915,
           "ports": {
             "seaport": "Saint Helena"
           },
@@ -18442,7 +18448,7 @@
           "coord": [
             "17 20 N, 62 45 W"
           ],
-          "popul": 53821,
+          "popul": 54149,
           "ports": {
             "seaport": "Basseterre, Charlestown"
           },
@@ -18531,7 +18537,7 @@
           "coord": [
             "13 53 N, 60 58 W"
           ],
-          "popul": 166487,
+          "popul": 166637,
           "ports": {
             "seaport": "Castries, Cul-de-Sac, Vieux-Fort"
           },
@@ -18623,7 +18629,7 @@
           "coord": [
             "18 05 N, 63 57 W"
           ],
-          "popul": 32556,
+          "popul": 32680,
           "region": "Central America and the Caribbean",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:MF",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/saint-martin"
@@ -18715,7 +18721,7 @@
           "coord": [
             "46 50 N, 56 20 W"
           ],
-          "popul": 5347,
+          "popul": 5321,
           "ports": {
             "seaport": "Saint-Pierre"
           },
@@ -18800,7 +18806,7 @@
           "coord": [
             "13 15 N, 61 12 W"
           ],
-          "popul": 101390,
+          "popul": 101145,
           "ports": {
             "seaport": "Kingstown"
           },
@@ -18891,7 +18897,7 @@
           "coord": [
             "13 35 S, 172 20 W"
           ],
-          "popul": 203774,
+          "popul": 204898,
           "ports": {
             "seaport": "Apia"
           },
@@ -18980,7 +18986,7 @@
           "coord": [
             "43 46 N, 12 25 E"
           ],
-          "popul": 34232,
+          "popul": 34467,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:SM",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/san-marino"
@@ -19058,7 +19064,7 @@
           "coord": [
             "1 00 N, 7 00 E"
           ],
-          "popul": 211122,
+          "popul": 213948,
           "ports": {
             "seaport": "Sao Tome"
           },
@@ -19154,7 +19160,7 @@
           "coord": [
             "25 00 N, 45 00 E"
           ],
-          "popul": 34173498,
+          "popul": 34783757,
           "ports": {
             "container": "Ad Dammam (1,582,388), Jeddah (4,150,000), King Abdulla (1,695,322) (2017)",
             "seaport": "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'"
@@ -19258,7 +19264,7 @@
           "coord": [
             "14 00 N, 14 00 W"
           ],
-          "popul": 15736368,
+          "popul": 16082442,
           "ports": {
             "seaport": "Dakar"
           },
@@ -19357,7 +19363,7 @@
           "coord": [
             "44 00 N, 21 00 E"
           ],
-          "popul": 7012165,
+          "popul": 6974289,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:RS",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/serbia"
@@ -19448,7 +19454,7 @@
           "coord": [
             "4 35 S, 55 40 E"
           ],
-          "popul": 95981,
+          "popul": 96387,
           "ports": {
             "seaport": "Victoria"
           },
@@ -19541,7 +19547,7 @@
           "coord": [
             "8 30 N, 11 30 W"
           ],
-          "popul": 6624933,
+          "popul": 6807277,
           "ports": {
             "seaport": "Freetown, Pepel, Sherbro Islands"
           },
@@ -19637,7 +19643,7 @@
           "coord": [
             "1 22 N, 103 48 E"
           ],
-          "popul": 6209660,
+          "popul": 5866139,
           "ports": {
             "container": "Singapore (33,666,000) (2017)",
             "seaport": "Singapore"
@@ -19741,7 +19747,7 @@
           "coord": [
             "18 4 N, 63 4 W"
           ],
-          "popul": 43847,
+          "popul": 44564,
           "ports": {
             "seaport": "Philipsburg"
           },
@@ -19848,7 +19854,7 @@
           "coord": [
             "48 40 N, 19 30 E"
           ],
-          "popul": 5440602,
+          "popul": 5436066,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:SK",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/slovakia"
@@ -19955,7 +19961,7 @@
           "coord": [
             "46 07 N, 14 49 E"
           ],
-          "popul": 2102678,
+          "popul": 2102106,
           "ports": {
             "seaport": "Koper"
           },
@@ -20049,7 +20055,7 @@
           "coord": [
             "8 00 S, 159 00 E"
           ],
-          "popul": 685097,
+          "popul": 690598,
           "ports": {
             "seaport": "Honiara, Malloco Bay, Viru Harbor, Tulaghi"
           },
@@ -20140,7 +20146,7 @@
           "coord": [
             "10 00 N, 49 00 E"
           ],
-          "popul": 11757124,
+          "popul": 12094640,
           "ports": {
             "seaport": "Berbera, Kismaayo"
           },
@@ -20248,7 +20254,7 @@
           "coord": [
             "29 00 S, 24 00 E"
           ],
-          "popul": 56463617,
+          "popul": 56978635,
           "ports": {
             "container": "Durban (2,699,978) (2017)",
             "seaport": "Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay"
@@ -20421,7 +20427,7 @@
           "coord": [
             "37 00 N, 127 30 E"
           ],
-          "popul": 51835110,
+          "popul": 51715162,
           "ports": {
             "container": "Busan (20,493,000), Incheon (3,050,000), Kwangyang (2,230,000) (2017)",
             "seaport": "Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu"
@@ -20530,7 +20536,7 @@
           "coord": [
             "8 00 N, 30 00 E"
           ],
-          "popul": 10561244,
+          "popul": 10984074,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:SS",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/south-sudan"
@@ -20610,11 +20616,11 @@
               "Andorra": 63,
               "France": 646,
               "Gibraltar": 1,
-              "Morocco": 18,
+              "Morocco": 8,
               "Portugal": 1224
             },
             "len": 1952,
-            "note": "an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera; border with Morocco (Ceuta); border with Morocco (Melilla)"
+            "note": "an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera; border with Morocco (Ceuta)"
           },
           "capital": {
             "coord": "40 24 N, 3 41 W",
@@ -20625,7 +20631,7 @@
           "coord": [
             "40 00 N, 4 00 W"
           ],
-          "popul": 50015792,
+          "popul": 47260584,
           "ports": {
             "container": "Algeciras (4,389,836), Barcelona (2,968,757), Valencia (4,832,156) (2017)",
             "seaport": "Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, Valencia (all in Spain); Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)"
@@ -20753,7 +20759,7 @@
           "coord": [
             "7 00 N, 81 00 E"
           ],
-          "popul": 22889201,
+          "popul": 23044123,
           "ports": {
             "container": "Colombo (6,209,000) (2017)",
             "seaport": "Colombo"
@@ -20894,7 +20900,7 @@
           "coord": [
             "15 00 N, 30 00 E"
           ],
-          "popul": 45561556,
+          "popul": 46751152,
           "ports": {
             "seaport": "Port Sudan"
           },
@@ -20997,7 +21003,7 @@
           "coord": [
             "4 00 N, 56 00 W"
           ],
-          "popul": 609569,
+          "popul": 614749,
           "ports": {
             "seaport": "Paramaribo, Wageningen"
           },
@@ -21165,7 +21171,7 @@
           "coord": [
             "62 00 N, 15 00 E"
           ],
-          "popul": 10202491,
+          "popul": 10261767,
           "ports": {
             "seaport": "Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby"
           },
@@ -21315,7 +21321,7 @@
           "coord": [
             "47 00 N, 8 00 E"
           ],
-          "popul": 8403994,
+          "popul": 8453550,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:CH",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/switzerland"
@@ -21396,6 +21402,7 @@
         "22862",
         "22863",
         "22864",
+        "22866",
         "22899"
       ],
       "msisdn": [
@@ -21419,12 +21426,12 @@
           "bound": {
             "bord": {
               "Iraq": 599,
-              "Israel": 79,
-              "Jordan": 362,
-              "Lebanon": 394,
+              "Israel": 80,
+              "Jordan": 341,
+              "Lebanon": 369,
               "Turkey": 909
             },
-            "len": 2343
+            "len": 2298
           },
           "capital": {
             "coord": "33 30 N, 36 18 E",
@@ -21435,7 +21442,7 @@
           "coord": [
             "35 00 N, 38 00 E"
           ],
-          "popul": 19398448,
+          "popul": 20384316,
           "ports": {
             "seaport": "Baniyas, Latakia, Tartus"
           },
@@ -21531,7 +21538,7 @@
           "coord": [
             "23 30 N, 121 00 E"
           ],
-          "popul": 23603049,
+          "popul": 23572052,
           "ports": {
             "container": "Kaohsiung (10,271,018), Taichung (1,660,663), Taipei (1,561,743) (2017)",
             "seaport": "Keelung (Chi-lung), Kaohsiung, Hualian, Taichung"
@@ -21643,7 +21650,7 @@
           "coord": [
             "39 00 N, 71 00 E"
           ],
-          "popul": 8873669,
+          "popul": 8990874,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:TJ",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/tajikistan"
@@ -21745,7 +21752,7 @@
           "coord": [
             "6 00 S, 35 00 E"
           ],
-          "popul": 58552845,
+          "popul": 62092761,
           "ports": {
             "seaport": "Dar es Salaam, Zanzibar"
           },
@@ -21852,7 +21859,7 @@
           "coord": [
             "15 00 N, 100 00 E"
           ],
-          "popul": 68977400,
+          "popul": 69480520,
           "ports": {
             "container": "Laem Chabang (7,227,431) (2017)",
             "seaport": "Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha"
@@ -21958,7 +21965,7 @@
           "coord": [
             "24 15 N, 76 00 W"
           ],
-          "popul": 337721,
+          "popul": 352655,
           "ports": {
             "container": "Freeport (1,116,272)(2011)",
             "seaport": "Freeport, Nassau, South Riding Point"
@@ -22052,7 +22059,7 @@
           "coord": [
             "13 28 N, 16 34 W"
           ],
-          "popul": 2173999,
+          "popul": 2221301,
           "ports": {
             "seaport": "Banjul"
           },
@@ -22150,7 +22157,7 @@
           "coord": [
             "8 00 N, 1 10 E"
           ],
-          "popul": 8608444,
+          "popul": 8283189,
           "ports": {
             "seaport": "Kpeme, Lome"
           },
@@ -22314,7 +22321,7 @@
           "coord": [
             "20 00 S, 175 00 W"
           ],
-          "popul": 106095,
+          "popul": 105780,
           "ports": {
             "seaport": "Nuku'alofa, Neiafu, Pangai"
           },
@@ -22404,7 +22411,7 @@
           "coord": [
             "11 00 N, 61 00 W"
           ],
-          "popul": 1208789,
+          "popul": 1221047,
           "ports": {
             "seaport": "Point Fortin, Point Lisas, Port of Spain, Scarborough"
           },
@@ -22525,7 +22532,7 @@
           "coord": [
             "34 00 N, 9 00 E"
           ],
-          "popul": 11721177,
+          "popul": 11811335,
           "ports": {
             "seaport": "Bizerte, Gabes, Rades, Sfax, Skhira"
           },
@@ -22635,7 +22642,7 @@
           "coord": [
             "39 00 N, 35 00 E"
           ],
-          "popul": 82017514,
+          "popul": 82482383,
           "ports": {
             "container": "Ambarli (3,131,621), Mersin (Icel) (1,592,000) (2017)",
             "seaport": "Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca"
@@ -22734,7 +22741,7 @@
           "coord": [
             "40 00 N, 60 00 E"
           ],
-          "popul": 5528627,
+          "popul": 5579889,
           "ports": {
             "seaport": "Caspian Sea - Turkmenbasy"
           },
@@ -22823,7 +22830,7 @@
           "coord": [
             "21 45 N, 71 35 W"
           ],
-          "popul": 55926,
+          "popul": 57196,
           "ports": {
             "seaport": "Cockburn Harbour, Grand Turk, Providenciales"
           },
@@ -22914,7 +22921,7 @@
           "coord": [
             "8 00 S, 178 00 E"
           ],
-          "popul": 11342,
+          "popul": 11448,
           "ports": {
             "seaport": "Funafuti"
           },
@@ -23003,7 +23010,7 @@
           "coord": [
             "1 00 N, 32 00 E"
           ],
-          "popul": 43252966,
+          "popul": 44712143,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:UG",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/uganda"
@@ -23112,7 +23119,7 @@
           "coord": [
             "49 00 N, 32 00 E"
           ],
-          "popul": 43922939,
+          "popul": 43745640,
           "ports": {
             "seaport": "Feodosiya (Theodosia), Chornomosk (Illichivsk), Mariupol, Mykolayiv, Odesa, Yuzhnyy"
           },
@@ -23220,7 +23227,7 @@
           "coord": [
             "24 00 N, 54 00 E"
           ],
-          "popul": 9992083,
+          "popul": 9856612,
           "ports": {
             "container": "Dubai Port (15,368,000), Khor Fakkan (Khawr Fakkan) (Sharjah) (2,321,000) (2017)",
             "seaport": "Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)"
@@ -23319,7 +23326,7 @@
           "coord": [
             "54 00 N, 2 00 W"
           ],
-          "popul": 65761117,
+          "popul": 66052076,
           "ports": {
             "container": "Felixstowe (3,849,700), London (2,431,000), Southampton (2,040,000) (2017)",
             "seaport": "Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales)"
@@ -23491,7 +23498,7 @@
           "coord": [
             "38 00 N, 97 00 W"
           ],
-          "popul": 332639102,
+          "popul": 334998398,
           "ports": {
             "container": "Charleston (2,177,000), Hampton Roads (2,841,000), Houston (2,459,000), Long Beach (7,544,000), Los Angeles (9,343,000), New York/New Jersey (6,710,000), Oakland (2,420,000), Savannah (4,046,000), Seattle/Tacoma (3,665,000) (2017)"
           },
@@ -24070,7 +24077,7 @@
           "coord": [
             "18 20 N, 64 50 W"
           ],
-          "popul": 106235,
+          "popul": 105870,
           "ports": {
             "seaport": "Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree Bay"
           },
@@ -24163,7 +24170,7 @@
           "coord": [
             "33 00 S, 56 00 W"
           ],
-          "popul": 3387605,
+          "popul": 3398239,
           "ports": {
             "seaport": "Montevideo"
           },
@@ -24263,7 +24270,7 @@
           "coord": [
             "41 00 N, 64 00 E"
           ],
-          "popul": 30565411,
+          "popul": 30842796,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:UZ",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/uzbekistan"
@@ -24359,7 +24366,7 @@
           "coord": [
             "16 00 S, 167 00 E"
           ],
-          "popul": 298333,
+          "popul": 303009,
           "ports": {
             "seaport": "Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila"
           },
@@ -24534,7 +24541,7 @@
           "coord": [
             "8 00 N, 66 00 W"
           ],
-          "popul": 28644603,
+          "popul": 29069153,
           "ports": {
             "seaport": "La Guaira, Maracaibo, Puerto Cabello, Punta Cardon"
           },
@@ -24633,7 +24640,7 @@
           "coord": [
             "16 10 N, 107 50 E"
           ],
-          "popul": 98721275,
+          "popul": 102789598,
           "ports": {
             "container": "Saigon (6,155,535), Cai Mep (3,065,014) (2017)",
             "seaport": "Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon"
@@ -24735,7 +24742,7 @@
           "coord": [
             "13 18 S, 176 12 W"
           ],
-          "popul": 15854,
+          "popul": 15851,
           "ports": {
             "seaport": "Leava, Mata-Utu"
           },
@@ -24807,53 +24814,14 @@
           "stan": "ESH"
         },
         "geo": {
-          "airports": 6,
-          "bound": {
-            "bord": {
-              "Algeria": 41,
-              "Mauritania": 1564,
-              "Morocco": 444
-            },
-            "len": 2049
-          },
-          "capital": {
-            "time_diff": "UTC 0"
-          },
-          "coast": 1110,
-          "coord": [
-            "24 30 N, 13 00 W"
-          ],
-          "popul": 652271,
-          "ports": {
-            "seaport": "Ad Dakhla, Laayoune (El Aaiun)"
-          },
-          "region": "Africa",
-          "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:EH",
-          "url_wfb": "https://www.cia.gov/the-world-factbook/countries/western-sahara"
+          "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:EH"
         },
         "nameset": [
           "sahrawi arab democratic republic",
           "the sahrawi arab democratic republic",
           "western sahara"
         ],
-        "tel": {
-          "code": "212",
-          "general": [
-            "sparse and limited system",
-            0
-          ],
-          "intl": [
-            "tied into Morocco's system by microwave radio relay, tropospheric scatter, and satellite",
-            "satellite earth stations - 2 Intelsat (Atlantic Ocean) linked to Rabat, Morocco",
-            0
-          ],
-          "note": [
-            "the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally",
-            "consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide",
-            "overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated",
-            0
-          ]
-        }
+        "tel": {}
       },
       "mcc": [
         "604"
@@ -24893,7 +24861,7 @@
           "coord": [
             "15 00 N, 48 00 E"
           ],
-          "popul": 29884405,
+          "popul": 30399243,
           "ports": {
             "seaport": "Aden, Al Hudaydah, Al Mukalla"
           },
@@ -24997,7 +24965,7 @@
           "coord": [
             "15 00 S, 30 00 E"
           ],
-          "popul": 17426623,
+          "popul": 19077816,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:ZM",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/zambia"
@@ -25088,7 +25056,7 @@
           "coord": [
             "20 00 S, 30 00 E"
           ],
-          "popul": 14546314,
+          "popul": 14829988,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:ZW",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/zimbabwe"
