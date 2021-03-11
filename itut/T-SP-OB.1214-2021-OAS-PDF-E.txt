@@ -1,0 +1,573 @@
+                        ITU Operational Bulletin
+                                                          www.itu.int/itu-t/bulletin
+
+       No. 1214              15.II.2021                   (Information received by 29 January 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                            Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                                Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                                Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                               E-mail: brmail@itu.int
+
+
+
+
+                                                                  Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                      3
+Mobile Country or Geographical Area Codes: Note from TSB .......................................................................                                         4
+Assignment of Signalling Area/Network Codes (SANC): Note from TSB ........................................................                                               4
+Telephone Service:
+     Malta (Malta Communications Authority (MCA), Floriana) .....................................................................                                        5
+Other communication:
+     Serbia ........................................................................................................................................................     6
+Service Restrictions ........................................................................................................................................            7
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                       7
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                               8
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                                       8
+List of Mobile Country or Geographical Area Codes ......................................................................................                                 9
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................            10
+List of ITU Carrier Codes .................................................................................................................................             10
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                            11
+List of International Signalling Point Codes (ISPC) .........................................................................................                           11
+National Numbering Plan ...............................................................................................................................                 14
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1215              1.III.2021            12.II.2021
+               1216             15.III.2021            1.III.2021
+               1217              1.IV.2021             15.III.2021
+               1218             15.IV.2021             26.III.2021
+               1219              1.V.2021              15.IV.2021
+               1220             15.V.2021              30.IV.2021
+               1221              1.VI.2021             14.V.2021
+               1222             15.VI.2021             30.V.2021
+               1223             1.VII.2021             15.VI.2021
+               1224             15.VII.2021            30.VI.2021
+               1225             1.VIII.2021           15.VII.2021
+               1226            15.VIII.2021           30.VII.2021
+               1227              1.IX.2021            13.VIII.2021
+               1228             15.IX.2021             1.IX.2021
+               1229              1.X.2021              15.IX.2021
+               1230             15.X.2021              30.IX.2021
+               1231              1.XI.2021             15.X.2021
+               1232             15.XI.2021             1.XI.2021
+               1233             1.XII.2021             15.XI.2021
+               1234             15.XII.2021            1.XII.2021
+               1235              1.I.2022              10.XII.2021
+
+
+
+
+No. 1214 – 2                                                              ITU Operational Bulletin
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+ ITU Operational Bulletin                                                                         No. 1214 – 3
+                         Mobile Country or Geographical Area Codes
+                          (Recommendation ITU-T E.212 (09/2016))
+Note from TSB
+Following the approval of Annex H to Recommendation ITU-T E.212 at ITU-T Study Group 2 meeting in December
+2020, Virtual, the Director of the TSB has assigned the ITU-T E.212 Mobile Country Code (MCC) 902 as a shared
+MCC for regional and other international organizations (ROIO)/standard development organization (SDO)-
+specified networks.
+
+
+
+
+                  Assignment of Signalling Area/Network Codes (SANC)
+                        (Recommendation ITU-T Q.708 (03/99))
+Note from TSB
+At the request of the Administration of the Republic of the Philippines, the Director of TSB has assigned the
+following signalling area/network code (SANC) for use in the international part of the signalling system No. 7
+network of this country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+        Country/geographical area or signalling network            SANC
+
+        Philippines (Republic of the)                              5-029
+
+____________
+
+SANC: Signalling Area/Network Code.
+      Code de zone/réseau sémaphore (CZRS).
+      Código de zona/red de señalización (CZRS).
+
+
+
+
+ No. 1214 – 4                                                                       ITU Operational Bulletin
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+Malta (country code +356)
+Communication of 19.I.2021:
+The Malta Communications Authority (MCA), Floriana, announces an update of the National Numbering Plan
+(NNP) of Malta. The main numbering ranges are:
+
+
+
+                        Service                                  Operator         Numbering Ranges
+                                                                                        2100 ‒ 2399 XXXX
+                                                                     GO
+                                                                                        2500 ‒ 2599 XXXX
+                                                                                        2700 ‒ 2799 XXXX
+                                                                                        2010 ‒ 2018 XXXX
+                            Fixed                                 Melita
+                                                                                               2060 XXXX
+                                                                                               2065 XXXX
+                                                                  Vanilla               2031 ‒ 2034 XXXX
+                                                                     epic               2090 ‒ 2099 XXXX
+                                                                                        7900 ‒ 7999 XXXX
+                                                                GO Mobile                      9889 XXXX
+                                                                                               7210 XXXX
+                                                                                        9900 ‒ 9999 XXXX
+                                                                                               9897 XXXX
+                        Mobile                                       epic
+                                                                                        9210 ‒ 9211 XXXX
+                                                                                               9231 XXXX
+                                                                                        7700 ‒ 7799 XXXX
+                                                              Melita Mobile
+                                                                                        9811 ‒ 9813 XXXX
+                                                                     YOM                9696 ‒ 9697 XXXX
+                                                                  Melita                    40005 XXXXX
+      M2M/IoT Connectivity Services and other
+                                                                     GO                     40079 XXXXX
+     Non-Interpersonal Communications Services
+                                                                     epic                   40099 XXXXX
+
+All Administrations and Recognized Operating Agencies (ROAs) are requested to urgently programme their
+switches to enable immediate access to these numbering ranges. Furthermore, the National Numbering Plan is
+updated in real-time and is made available on the MCA website at the following link:
+https://www.mca.org.mt/regulatory/numbering/numbering-plans
+
+Contact:
+             Alistair Farrugia / Deborah Pisani / Claude Azzopardi
+             Malta Communications Authority (MCA)
+             Valletta Waterfront
+             Pinto Wharf
+             Floriana FRN1913
+             Malta
+             Tel:      +356 2133 6840
+             E-mail: numbering@mca.org.mt
+             URL:      www.mca.org.mt
+
+
+
+
+ ITU Operational Bulletin                                                                    No. 1214 – 5
+                                        Other communication
+
+Serbia
+Communication of 14.I. 2021:
+On the occasion of the 70rd anniversary of continuous activity of the call sign YU1ANO, the Serbian Administration
+authorizes radio stations of the Amateur Radio Union "Belgrade Amateur Radio Club YU1ANO" to use the special
+call sign YU51ANO from 15 February to 15 June 2021.
+
+
+
+
+ No. 1214 – 6                                                                          ITU Operational Bulletin
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+ITU Operational Bulletin                                                     No. 1214 – 7
+                     AMENDMENTS TO SERVICE PUBLICATIONS
+                                             Abbreviations used
+                               ADD    Insert                     PAR    Paragraph
+                               COL    Column                     REP    Replace
+                               LIR    Read                       SUP    Delete
+                               P      Page(s)
+
+
+
+
+                          List of Ship Stations and Maritime Mobile
+                                  Service Identity Assignments
+                                             (List V)
+                                         Edition of 2020
+
+                                                Section VI
+
+ADD
+
+      JP11      JP Marine Corporation, No. 202 1-5-1 Makabi, Naha, Okinawa 902-0068, Japan.
+
+REP
+
+      LV06      Hansael Ltd, Andrejostas street 29, Riga, LV-1045, Latvia.
+                E-mail: airtime@hansael.lv, Tel: +371 67325352, Fax: +371 67320772
+
+
+
+
+                           List of Issuer Identifier Numbers for
+                   the International Telecommunication Charge Card
+             (in accordance with Recommendation ITU-T E.118 (05/2006))
+                              (Position on 1 December 2018)
+                           (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                            (Amendment No. 43)
+
+Belgium      ADD
+
+     Country/          Company Name/Address       Issuer Identifier                 Contact                  Effective
+ Geographical area                                    Number                                                   date
+                                                                                                             of usage
+ Belgium               Lycamobile BVBA                89 32 06        Lycamobile BVBA, Legal                 9.XII.2012
+                       Hermesstraat 8 C                               Hermesstraat 8 C
+                       1930 ZAVENTEM                                  1930 ZAVENTEM
+                                                                      E-mail: legal@lycamobile.com
+
+
+
+
+ No. 1214 – 8                                                                          ITU Operational Bulletin
+                     List of Mobile Country or Geographical Area Codes
+                  (Complement to Recommendation ITU-T E.212 (09/2016)
+                               (Position on 1 February 2017)
+                                   (Annex to ITU Operational Bulletin No. 1117 – 1.II.2017)
+                                                    (Amendment No. 3)
+
+
+ Code (MCC)          Country or Geographical Area                                                      Note
+
+Numerical Order                 LIR
+
+ 902                 regional and other international organizations (ROIO)/standards                    e
+                     development organization (SDO)-specified networks, shared code
+
+Alphabetical Order             LIR
+
+ 902                 regional and other international organizations (ROIO)/standards                    e
+                     development organization (SDO)-specified networks, shared code
+
+
+
+
+                           Notes common to Numerical and Alphabetical Lists of
+                 Recommendation ITU-T E.212 Mobile Country or Geographical Area Codes (MCCs)
+e. Associated with shared mobile country code 902 (MCC), the following two-digit mobile network code (MNC)
+has been assigned:
+                                                   Mobile Country Code (MCC) and              Date of assignment
+     Applicant / Network
+                                                    Mobile Network Code (MNC)
+MulteFire Alliance                                                902 01                          6.IX.2018
+
+
+__________
+See page 4 of the present Operational Bulletin No. 1214 of 15.II.2021.
+
+
+
+
+ ITU Operational Bulletin                                                                              No. 1214 – 9
+        Mobile Network Codes (MNC) for the international identification plan
+                       for public networks and subscriptions
+               (According to Recommendation ITU-T E.212 (09/2016))
+                          (Position on 15 December 2018)
+                               (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                                (Amendment No. 48)
+
+
+Country/Geographical area                                        MCC+MNC * Applicant/Network
+
+regional and other international organizations (ROIO)
+/standards development organization (SDO)
+-specified networks, shared code LIR                                902 01       MulteFire Alliance
+
+
+____________
+
+*      MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+       MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                  List of ITU Carrier Codes
+                  (According to Recommendation ITU-T M.1400 (03/2013))
+                              (Position on 15 September 2014)
+                               (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                               (Amendment No. 109)
+
+
+    Country or area/ISO code                           Company Code           Contact
+     Company Name/Address                               (carrier code)
+
+
+Philippines (Republic of the) / PHL         ADD
+
+
+    Dito Telecommunity Corporation                          DITO              Atty. Holy T. Ampaguey
+    11/F Udenna Tower,                                                        Atty. Niño Martin Cruz
+    Rizal Drive cor. 4th Avenue                                               Tel:     +63 2 82822888
+    Bonifacio Global City, Taguig City 1634                                   E-mail: holy.ampaguey@dito.ph;
+                                                                                       nino.cruz@dito.ph
+
+
+
+
+    No. 1214 – 10                                                                               ITU Operational Bulletin
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                (Position on 1 June 2017)
+                                 (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                 (Amendment No. 12)
+
+
+
+ Numerical order        ADD
+           5-029          Philippines (Republic of the)
+
+
+
+ Alphabetical order ADD
+           5-029     Philippines (Republic of the)
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                 (Amendment No. 9)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point   Name of the signalling point operator
+
+ Myanmar ADD
+ 4-225-4       9996         MSSZYA101                             Ooredoo Myanmar Limited
+ 4-225-5       9997         MSSZMA101                             Ooredoo Myanmar Limited
+ 4-225-6       9998         STPZYA101                             Ooredoo Myanmar Limited
+ 4-225-7       9999         STPZMA101                             Ooredoo Myanmar Limited
+
+ Philippines SUP
+ 5-031-5       10493        SCC, Makati City                      CAPWIRE
+ 5-031-6       10494        SCC, Makati City                      CAPWIRE
+ 5-031-7       10495        SCC, Makati City                      CAPWIRE
+ 5-033-4       10508        …                                     Aces
+ 5-033-5       10509        …                                     Aces
+ 5-033-6       10510        …                                     Capwire
+ 5-033-7       10511        …                                     BellTelecom
+ 5-034-3       10515        …                                     Capwire
+ 5-034-7       10519        …                                     Capwire
+ 5-035-0       10520        …                                     Capwire
+ 5-036-2       10530        …                                     CURE CMTS
+
+ ITU Operational Bulletin                                                                                 No. 1214 – 11
+Country/
+Geographical Area
+ISPC       DEC      Unique name of the signalling point   Name of the signalling point operator
+5-036-3    10531    …                                     CURE CMTS
+5-037-1    10537    philipppines                          Smart Communications Inc. (SMART)
+5-037-6    10542                                          FIBERTEL/Fiber Telecommunications, Inc.
+
+Philippines ADD
+5-031-5    10493    Makati-1                              DITO TELECOMMUNITY (DITO)
+5-031-6    10494    Makati-3                              DITO TELECOMMUNITY (DITO)
+5-031-7    10495    Carmona-3                             DITO TELECOMMUNITY (DITO)
+5-033-4    10508    Sampaloc 9                            Smart Communications Inc. (SMART)
+5-033-5    10509    Sampaloc 10                           Smart Communications Inc. (SMART)
+5-033-6    10510    Makati-4                              DITO TELECOMMUNITY (DITO)
+5-033-7    10511    Carmona-4                             DITO TELECOMMUNITY (DITO)
+5-034-3    10515    Makati-5                              DITO TELECOMMUNITY (DITO)
+5-034-7    10519    Carmona-5                             DITO TELECOMMUNITY (DITO)
+5-035-0    10520    Carmona-1                             DITO TELECOMMUNITY (DITO)
+5-036-2    10530    Sampaloc 7                            Smart Communications Inc. (SMART)
+5-036-3    10531    Sampaloc 8                            Smart Communications Inc. (SMART)
+5-037-1    10537    Metro Manila 4                        BAYAN TELECOMMUNICATIONS INC. (BAYANTEL)
+5-037-6    10542    Makati-2                              DITO TELECOMMUNITY (DITO)
+5-038-1    10545    Parañaque 7                           Smart Communications Inc. (SMART)
+5-038-3    10547    Carmona-2                             DITO TELECOMMUNITY (DITO)
+5-038-4    10548    Makati-6                              DITO TELECOMMUNITY (DITO)
+5-038-5    10549    Carmona-6                             DITO TELECOMMUNITY (DITO)
+5-038-6    10550    Sampaloc 4                            Smart Communications Inc. (SMART)
+5-038-7    10551    Sampaloc 5                            Smart Communications Inc. (SMART)
+
+Philippines LIR
+5-030-0    10480    Cebu IGF                              INNOVE COMMUNICATIONS, INC. (INNOVE)
+5-030-1    10481    Makati Toll Switch 1                  Philippine Long Distance Telephone Company Inc. (PLDT)
+5-030-2    10482    Sampaloc Toll Swich                   Philippine Long Distance Telephone Company Inc. (PLDT)
+5-030-3    10483    Makat Toll Switch 2                   Philippine Long Distance Telephone Company Inc. (PLDT)
+5-030-4    10484    Pasay Toll Switch                     Philippine Long Distance Telephone Company Inc. (PLDT)
+5-030-5    10485    Lucena Toll Switch                    Philippine Long Distance Telephone Company Inc. (PLDT)
+5-030-6    10486    PGC Makati 1 - National               Philippine Global Communications Inc. (PHILCOM)
+5-030-7    10487    PGC Makati 2 - IGF                    Philippine Global Communications Inc. (PHILCOM)
+5-031-0    10488    Metro Manila 1                        BAYAN TELECOMMUNICATIONS INC. (BAYANTEL)
+5-031-1    10489    Metro Manila 2                        BAYAN TELECOMMUNICATIONS INC. (BAYANTEL)
+5-031-2    10490    Ermita IGF                            Globe Telecom Inc. (GLOBE)
+5-031-3    10491    Mandaluyong IGF                       Globe Telecom Inc. (GLOBE)
+5-031-4    10492    Cebu IGF 2                            INNOVE COMMUNICATIONS, INC. (INNOVE)
+5-032-0    10496    Parañaque 1                           Smart Communications Inc. (SMART)
+5-032-1    10497    Parañaque 2                           Smart Communications Inc. (SMART)
+5-032-2    10498    Sampaloc 1                            Smart Communications Inc. (SMART)
+5-032-3    10499    Subic Bay Freeport                    Subic Bay Metropolitan Authority (SBMA)
+5-032-4    10500    Ermita IGF 2                          INNOVE COMMUNICATIONS, INC. (INNOVE)
+
+
+No. 1214 – 12                                                                          ITU Operational Bulletin
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point   Name of the signalling point operator
+ 5-032-5       10501        Mandaluyong IGF 2                     INNOVE COMMUNICATIONS, INC. (INNOVE)
+ 5-032-6       10502        SCCP Aurora                           Globe Telecom Inc. (GLOBE)
+ 5-032-7       10503        Valero IGF 2                          INNOVE COMMUNICATIONS, INC. (INNOVE)
+ 5-033-0       10504        Cebu                                  PHILIPPINE COMMUNICATIONS SATELLITE CORPORATION
+                                                                  (PHILCOMSAT)
+ 5-033-1       10505        Makati                                PHILIPPINE COMMUNICATIONS SATELLITE CORPORATION
+                                                                  (PHILCOMSAT)
+ 5-033-2       10506        Baras                                 PHILIPPINE COMMUNICATIONS SATELLITE CORPORATION
+                                                                  (PHILCOMSAT)
+ 5-033-3       10507        Sampaloc MSO                          Nextel
+ 5-034-0       10512        Makati 1                              EASTERN TELECOMMUNICATIONS PHILIPPINES, INC. (EPTI)
+ 5-034-1       10513        Makati 2                              EASTERN TELECOMMUNICATIONS PHILIPPINES, INC. (EPTI)
+ 5-034-2       10514        Makati 3                              EASTERN TELECOMMUNICATIONS PHILIPPINES, INC. (EPTI)
+ 5-034-4       10516        Manila 2                              DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)
+ 5-034-5       10517        Makati 1                              DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)
+ 5-034-6       10518        QC 2                                  DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)
+ 5-035-1       10521        SCCP Canero                           Globe Telecom Inc. (GLOBE)
+ 5-035-2       10522        QC 3                                  DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)
+ 5-035-3       10523        Valero IGF                            Globe Telecom Inc. (GLOBE)
+ 5-035-4       10524        Paranaque 3                           Smart Communications Inc. (SMART)
+ 5-035-5       10525        Cebu 1                                DIGITAL TELECOMMUNICATIONS PHILIPPINES INC.
+                                                                  (DIGITEL)
+ 5-035-6       10526        Cebu 2                                DIGITAL TELECOMMUNICATIONS PHILIPPINES INC.
+                                                                  (DIGITEL)
+ 5-035-7       10527        PGC Makati 3                          Philippine Global Communications Inc. (PHILCOM)
+ 5-036-0       10528        PGC Makati 4                          Philippine Global Communications Inc. (PHILCOM)
+ 5-036-1       10529        Cebu 3                                DIGITAL TELECOMMUNICATIONS PHILIPPINES INC.
+                                                                  (DIGITEL)
+ 5-036-4       10532        Subic 1                               Smart Communications Inc. (SMART)
+ 5-036-5       10533        Subic 1                               Smart Communications Inc. (SMART)
+ 5-036-6       10534        Sampaloc 2                            Smart Communications Inc. (SMART)
+ 5-036-7       10535        Parañaque 4                           Smart Communications Inc. (SMART)
+ 5-037-0       10536        Metro Manila 3                        BAYAN TELECOMMUNICATIONS INC. (BAYANTEL)
+ 5-037-2       10538        Sampaloc 3                            Smart Communications Inc. (SMART)
+ 5-037-3       10539        QC 1                                  DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)
+ 5-037-4       10540        Mandaluyong 1                         DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)
+ 5-037-5       10541        Manila1                               DIGITAL TELECOMMUNICATIONS PHILIPPINES INC.
+                                                                  (DIGITEL)
+ 5-037-7       10543        Parañaque 5                           Smart Communications Inc. (SMART)
+ 5-038-0       10544        Parañaque 6                           Smart Communications Inc. (SMART)
+ 5-038-2       10546        Sampaloc 6                            Smart Communications Inc. (SMART)
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+ ITU Operational Bulletin                                                                                 No. 1214 – 13
+                                National Numbering Plan
+                 (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.I.2021, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                         Country/ Geographical area                     Country Code (CC)
+               Mauritius                                                      +230
+               Morocco                                                        +212
+
+
+
+
+ No. 1214 – 14                                                                        ITU Operational Bulletin

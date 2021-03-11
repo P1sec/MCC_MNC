@@ -1,0 +1,490 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1207             1.XI.2020                   (Information received by 15 October 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                               3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+Telephone Service:
+     Kenya (Communications Authority of Kenya (CA), Nairobi) .....................................................................                                5
+     Papua New Guinea (National Information & Communications Technology Authority (NICTA), Boroko) .                                                              8
+Service Restrictions ........................................................................................................................................     9
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                9
+AMENDMENTS TO SERVICE PUBLICATIONS
+Service Identity Assignments (List V) .............................................................................................................              10
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                               11
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................     12
+National Numbering Plan ...............................................................................................................................          12
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021              11.XII.2020
+
+
+
+
+No. 1207 – 2                                                              ITU Operational Bulletin
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+ ITU Operational Bulletin                                                                         No. 1207 – 3
+                            Approval of ITU-T Recommendations
+By AAP-91, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T E.804.1 (10/2020): Application guide for Recommendation ITU-T E.804: Quality of service aspects
+      for popular services in mobile networks
+–     ITU-T G.1072 (2020) Cor. 1 (10/2020)
+–     ITU-T P.381 (10/2020): Technical requirements and test methods for the universal wired headset or
+      headphone interface of digital mobile terminals
+–     ITU-T P.382 (10/2020): Technical requirements and test methods for multi-microphone wired headset or
+      headphone interfaces of digital wireless terminals
+–     ITU-T P.919 (10/2020): Subjective test methodologies for 360º video on head-mounted displays
+–     ITU-T Y.3525 (09/2020): Cloud computing - Requirements for cloud service development and operation
+      management
+
+By TSB Circular 270 of 20 October 2020, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+–     ITU-T X.1254 (09/2020): Entity authentication assurance framework
+–     ITU-T X.1148 (09/2020): Framework of de-identification process for telecommunication service
+      providers
+–     ITU-T X.1216 (09/2020): Requirements for collection and preservation of cybersecurity incident
+      evidence
+–     ITU-T X.1279 (09/2020): Framework of enhanced authentication using telebiometrics with anti-spoofing
+      detection mechanisms
+–     ITU-T X.1366 (09/2020): Aggregate message authentication schemes for IoT environment
+–     ITU-T X.1367 (09/2020): Standard format for Internet of things error logs for security incident operations
+–     ITU-T X.1403 (09/2020): Security guidelines for using DLT for decentralized identity management
+–     ITU-T X.1606 (09/2020): Security requirements for communications as a service application
+      environments
+–     ITU-T X.1750 (09/2020): Guidelines on security of big data as a service for Big Data Service Providers
+–     ITU-T X.1751 (09/2020): Security guidelines on big data lifecycle management for telecommunication
+      operators
+
+
+
+
+ No. 1207 – 4                                                                         ITU Operational Bulletin
+                                           Telephone Service
+                                      (Recommendation ITU-T E.164)
+                                             url: www.itu.int/itu-t/inr/nnp
+    Kenya (country code +254)
+    Communication of 14.X.2020:
+    The Communications Authority of Kenya (CA), Nairobi, announces the following updated National Numbering
+    Plan of Kenya.
+
+                 Description of Updated National E.164 Numbering Plan for Kenya, Country Code 254:
+    a)   Overview:
+         Minimum number length (excluding the country code):           seven (7) digits
+         Maximum number length (excluding the country code):           twelve (12) digits
+
+    b) Detail of numbering plan:
+
+          (1)                     (2)                                (3)                              (4)
+   NDC (national          N(S)N number length
+ destination code)
+ or leading digits of
+                        Minimum        Maximum           Usage of E.164 number              Additional information
+  N(S)N (national
+     (significant)       length         length
+       number)
+100 to 106 (NDC)         Nine (9)       Nine (9)     Non Geographical number for        Mobile Telephony Services
+                                                     mobile telephony services          assigned to Airtel Networks
+                                                                                        Kenya Ltd
+110 to 115 (NDC)         Nine (9)       Nine (9)     Non Geographical number for        Mobile Telephony Services
+                                                     mobile telephony services          assigned to Safaricom PLC
+120(NDC)                 Nine (9)       Nine (9)     Non Geographical number for        Mobile Telephony Services
+                                                     mobile telephony services          assigned to Jambo Telcoms Ltd
+121(NDC)                 Nine (9)       Nine (9)     Non Geographical number for        Mobile Telephony Services
+                                                     mobile telephony services          assigned to Infura Ltd
+124(NDC)                 Nine (9)       Nine (9)     Non Geographical number for        Mobile Telephony Services
+                                                     mobile telephony services          assigned to Finserve Africa Ltd
+20 (NDC)                 Eight (8)      Nine (9)     Geographical number for            Area Code for Nairobi
+                                                     fixed telephony services
+30 (NDC)                Twelve (12)    Twelve (12)   M2M numbers                        300 00X XXX XXX Assigned to
+                                                                                        Safaricom PLC
+40 (NDC)                 Eight (8)      Nine (9)     Geographical number for            Area Code for Kwale
+                                                     fixed telephony services
+41 (NDC)                 Nine (9)       Nine (9)     Geographical number for            Area Code for Mombasa
+                                                     fixed telephony services
+42 (NDC)                 Seven (7)      Nine (9)     Geographical number for            Area Code for Malindi, Lamu
+                                                     fixed telephony services           and Garsen
+43 (NDC)                 Nine (9)       Nine (9)     Geographical number for            Area Code for Voi
+                                                     fixed telephony services
+44 (NDC)                 Seven (7)      Nine (9)     Geographical number for            Area Code for Machakos,
+                                                     fixed telephony services           Makueni and Kitui
+45 (NDC)                 Seven (7)      Nine (9)     Geographical number for            Area Code for Athi-River,
+                                                     fixed telephony services           Kajiado and Loitokitok
+46 (NDC)                 Nine (9)       Nine (9)     Geographical number for            Area Code for Garissa, Wajir
+                                                     fixed telephony services           and Mandera
+50 (NDC)                 Nine (9)       Nine (9)     Geographical number for            Area Code for Naivasha, Gilgil
+                                                     fixed telephony services           and Narok of Nakuru region
+
+     ITU Operational Bulletin                                                                         No. 1207 – 5
+          (1)                    (2)                         (3)                            (4)
+   NDC (national         N(S)N number length
+ destination code)
+ or leading digits of
+                        Minimum     Maximum        Usage of E.164 number          Additional information
+  N(S)N (national
+     (significant)       length      length
+       number)
+51 (NDC)                Eight (8)    Nine (9)   Geographical number for       Area Code for Nakuru, Njoro,
+                                                fixed telephony services      Molo areas of Nakuru
+52(NDC)                 Seven (7)    Nine (9)   Geographical number for       Area Code for Kericho and
+                                                fixed telephony services      Bomet
+53(NDC)                 Seven (7)    Nine (9)   Geographical number for       Area Code for Eldoret, Turbo,
+                                                fixed telephony services      Kapsabet, Iten and Kabarnet
+54 (NDC)                Seven (7)    Nine (9)   Geographical number for       Area Code for Kitale,
+                                                fixed telephony services      Moisbridge, Kapenguria and
+                                                                              Lodwar
+55 (NDC)                Seven (7)    Nine (9)   Geographical number for       Area Code for Bungoma and
+                                                fixed telephony services      Busia
+56 (NDC)                Seven (7)    Nine (9)   Geographical number for       Area Code for Kakamega, and
+                                                fixed telephony services      Vihiga regions
+57 (NDC)                Seven (7)    Nine (9)   Geographical number for       Area Code for Kisumu, and
+                                                fixed telephony services      Siaya regions
+58 (NDC)                Nine (9)     Nine (9)   Geographical number for       Area Code for Kisii, Kilgoris,
+                                                fixed telephony services      Oyugis and Nyamira
+59 (NDC)                Seven (7)    Nine (9)   Geographical number for       Area Code for Homabay and
+                                                fixed telephony services      Migori
+60 (NDC)                Seven (7)    Nine (9)   Geographical number for       Area Code for Muranga and
+                                                fixed telephony services      Kirinyaga
+61 (NDC)                Seven (7)    Nine (9)   Geographical number for       Area Code for Nyeri
+                                                fixed telephony services
+62 (NDC)                Nine (9)     Nine (9)   Geographical number for       Area Code for Nanyuki
+                                                fixed telephony services
+64 (NDC)                 Seven       Nine (9)   Geographical number for       Area Code for Meru, Maua and
+                                                fixed telephony services      Chuka
+66 (NDC)                Eight (8)    Nine (9)   Geographical number for       Area Code for Thika and Ruiru
+                                                fixed telephony services
+67 (NDC)                Seven (7)    Nine (9)   Geographical number for       Area Code for Kiambu and
+                                                fixed telephony services      Kikuyu towns
+68 (NDC)                Nine (9)     Nine (9)   Geographical number for       Area Code for Embu
+                                                fixed telephony services
+69 (NDC)                Seven (7)    Nine (9)   Geographical number for       Area Code for Marsabit and
+                                                fixed telephony services      Moyale
+700 to 709 (NDC)        Nine (9)     Nine (9)   Non Geographical number for   Mobile Telephony Services
+710 to 719 (NDC)                                mobile telephony services     assigned to Safaricom PLC
+720 to 729 (NDC)
+730 to 739 (NDC)        Nine (9)     Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                mobile telephony services     assigned to Airtel Networks
+                                                                              Kenya Ltd
+740 to 743(NDC)         Nine (9)     Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                mobile telephony services     assigned to Safaricom PLC
+744 (NDC)               Nine (9)     Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                mobile telephony services     assigned to Homeland Media
+                                                                              Ltd
+
+
+     No. 1207 – 6                                                               ITU Operational Bulletin
+          (1)                      (2)                           (3)                            (4)
+   NDC (national           N(S)N number length
+ destination code)
+ or leading digits of
+                         Minimum       Maximum          Usage of E.164 number        Additional information
+  N(S)N (national
+     (significant)        length        length
+       number)
+745 to 746(NDC)           Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Safaricom PLC
+747 (NDC)                 Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Jamii Telecoms Ltd
+748 (NDC)                 Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Safaricom PLC
+749 (NDC)                 Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services
+750 to 756 (NDC)          Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Airtel Networks
+                                                                                 Kenya Ltd
+757 to 759(NDC)           Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Safaricom PLC
+760 (NDC)                 Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Mobile Pay Ltd
+761(NDC)                  Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Eferio Kenya Ltd
+762 (NDC)                 Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Airtel Networks
+                                                                                 Kenya Ltd
+763 to 766 (NDC)          Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Finserve Africa Ltd
+767 (NDC)                 Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Airtel Networks
+                                                                                 Kenya Ltd
+768 to 769(NDC)           Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Safaricom PLC
+770 to 779 (NDC)          Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Telkom Kenya Ltd
+780 to 789 (NDC)          Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Airtel Networks
+                                                                                 Kenya Ltd
+790 to 799 (NDC)          Nine (9)      Nine (9)   Non Geographical number for   Mobile Telephony Services
+                                                   mobile telephony services     assigned to Safaricom PLC
+
+    Contact:
+               Communications Authority of Kenya (CA)
+               Waiyaki Way, Nairobi.
+               P.O. Box 14448
+               NAIROBI 00800
+               Kenya
+               Tel: +254 20 4242000/+254 703 042000
+               E-mail: info@ca.go.ke
+               URL: www.ca.go.ke
+
+
+
+
+     ITU Operational Bulletin                                                                  No. 1207 – 7
+Papua New Guinea (country code +675)
+Communication of 15.X.2020:
+The National Information & Communications Technology Authority (NICTA), Boroko, announces the following
+update in the national numbering plan of Papua New Guinea.
+
+     Description of introduction of new resource for national E.164 numbering plan for country code 675:
+
+     NDC (national           N(S)N number length
+  destination code) or
+                                                                 Usage of                      Additional
+leading digits of N(S)N     Maximum      Minimum            ITU-T E.164 number                information
+ (national (significant)     length       length
+        number)
+
+88000000 – 88999999             8            8       Non-geographic number.               GSM mobile service
+(NDC)                                                Assigned to Digicel (PNG) Limited
+
+
+Contact:
+                Mr Kila Gulo-Vui
+                National Information & Communications Technology Authority (NICTA)
+                Corner of Frangipani & Croton Street, HOHOLA
+                P.O. Box 8222
+                111 BOROKO, NCD
+                Papua New Guinea
+                Tel: +675 303 3227
+                Fax: +675 325 6868
+                E-mail: kgulovui@nicta.gov.pg
+                URL: www.nicta.gov.pg
+
+
+
+
+ No. 1207 – 8                                                                        ITU Operational Bulletin
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+No. 1207 – 9                                                                  ITU Operational Bulletin
+                  AMENDMENTS TO SERVICE PUBLICATIONS
+                                          Abbreviations used
+                            ADD    Insert                   PAR    Paragraph
+                            COL    Column                   REP    Replace
+                            LIR    Read                     SUP    Delete
+                            P      Page(s)
+
+
+
+
+                                   Service Identity Assignments
+                                          (List V)
+                                      Edition of 2020
+
+                                             Section VI
+
+
+ADD
+
+      CV76      ANTÃO SHIPPING – TRANSPORTE DE COMBUSTÍVEIS, SOCIEDADE
+                UNIPESSOAL LDA, Rua Senador Vera Cruz – Mindelo - S. Vicente –
+                Cabo Verde Mindelo - São Vicente República de Cabo Verde.
+                Contact Person: Lorenz Weinstabl, Tel: (+238) 9829293,
+                E-mail: lorenz.weinstabl@atlantis-tankers.com
+
+
+
+
+No. 1207 – 10                                                                    ITU Operational Bulletin
+                               List of Issuer Identifier Numbers for
+                       the International Telecommunication Charge Card
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                  (Position on 1 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                              (Amendment No. 36)
+
+
+Japan            ADD
+
+
+    Country/           Company Name/Address       Issuer Identifier                  Contact                  Effective
+  geographical                                        Number                                                   date of
+      area                                                                                                     usage
+     Japan         NEC Networks & System             89 81 14         Business Design Operation Unit          1.X.2020
+                   Integration Corporation                            Nihonbashi Muromachi Mitsui Tower
+                   Iidabashi First Tower,                             3-2-1 Muromachi Nihonbashi Chuoku
+                   2-6-1 Koraku, Bunkyo-ku                            TOKYO 103-0022
+                   TOKYO 112-8560                                     Tel:    +81 3 4582 2950
+                                                                      E-mail: arikawa.yohei@nesic.com
+
+
+
+United States ADD
+    Country/           Company Name/Address       Issuer Identifier                 Contact                   Effective
+  Geographical                                        Number                                                    date
+      area                                                                                                    of usage
+ United States    JCI US INC                         89 1 056         SIM Administrator                      7.IX.2020
+                  61 Inverness Drive E # 108                          JCI US INC
+                  Englewood, CO 80112                                 61 Inverness Drive E # 108
+                                                                      Englewood, CO 80112
+                                                                      E-mail: usimadmin@jcius.com
+
+
+
+
+ ITU Operational Bulletin                                                                           No. 1207 – 11
+frrrrrrrrrrrrrrzx
+
+
+
+
+                            Mobile Network Codes (MNC) for the international identification plan
+                                          for public networks and subscriptions
+                                  (According to Recommendation ITU-T E.212 (09/2016))
+                                              (Position on 15 December 2018)
+                                             (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                                              (Amendment No. 42)
+
+
+                         Country/Geographical area           MCC+MNC *                      Operator/Network
+                        Brazil ADD
+                                                                724 21         LIGUE
+
+                        Kenya ADD
+                                                                639 11         Jambo Telcoms Limited
+                                                                639 12         Infura Limited
+
+
+                    ____________
+
+                    *          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+                               MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                                     National Numbering Plan
+                                      (According to Recommendation ITU-T E.129 (01/2013))
+                                                       Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.X.2020, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                                             Country/ Geographical area                         Country Code (CC)
+                                     China                                                              +86
+                                     Mauritius                                                          +230
+                                     Myanmar                                                            +95
+                                     Palau                                                              +680
+
+
+
+
+             No. 1207 – 12                                                                                      ITU Operational Bulletin

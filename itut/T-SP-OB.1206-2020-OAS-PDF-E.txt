@@ -1,0 +1,512 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1206             15.X.2020                   (Information received by 1 October 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Telephone Service:
+     Congo (Agence de Régulation des Postes et des Communications Electroniques (ARPCE), Brazzaville) ..                                                           5
+     Senegal (Autorité de Régulation des Télécommunications et des Postes (ARTP), Dakar) ........................                                                  6
+Service Restrictions ........................................................................................................................................      9
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                 9
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) .........................................                                         10
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               10
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................      12
+List of ITU Carrier Codes .................................................................................................................................       13
+National Numbering Plan ...............................................................................................................................           13
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1207              1.XI.2020             15.X.2020
+               1208             15.XI.2020             30.X.2020
+               1209             1.XII.2020             16.XI.2020
+               1210             15.XII.2020            1.XII.2020
+               1211              1.I.2021             11.XII.2020
+
+
+
+
+No. 1206 – 2                                                              ITU Operational Bulletin
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+ ITU Operational Bulletin                                                                         No. 1206 – 3
+                            Approval of ITU-T Recommendations
+By AAP-90, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T L.1023 (09/2020): Assessment method for Circular Scoring
+–     ITU-T L.1310 (09/2020): Energy efficiency metrics and measurement methods for telecommunication
+      equipment
+–     ITU-T L.1331 (09/2020): Assessment of mobile network energy efficiency
+–     ITU-T Q.3058 (09/2020): Signalling architecture of orchestration in NGNe
+–     ITU-T Q.3059 (09/2020): Signalling requirements for service function discovery
+–     ITU-T Q.3645 (09/2020): Protocol at interface between two distributed ENUM servers for IMS
+–     ITU-T Q.3720 (09/2020): Procedures for vBNG acceleration with programmable acceleration card
+–     ITU-T Q.3915 (09/2020): Set of parameters of vBNG for monitoring
+–     ITU-T Q.3961 (09/2020): Parameters for evaluating bottleneck of web-browsing service
+–     ITU-T Q.4062 (09/2020): Framework for IoT Testing
+–     ITU-T Q.4063 (09/2020): The framework of testing of identification systems used in IoT
+–     ITU-T Q.4064 (09/2020): Interoperability testing requirements of virtual Broadband Network Gateway
+–     ITU-T Q.4066 (09/2020): Testing procedures of Augmented Reality applications
+–     ITU-T Q.4100 (09/2020): Hybrid peer-to-peer (P2P) communications: Functional architecture
+–     ITU-T Q.5052 (09/2020): Addressing mobile devices with duplicate unique identifier
+–     ITU-T T.701.11 (09/2020): Guidance on audio descriptions (twin text of ISO/IEC TS 20071-11:2019,
+      Information technology - Guidance on alternative text for images - Part 11)
+–     ITU-T X.609.9 (09/2020): Managed P2P communications: Overlay content management protocol
+–     ITU-T X.609.10 (09/2020): Managed P2P communications: Signalling requirements for data streaming
+–     ITU-T Y.2245 (09/2020): Service model of the Agriculture Information based Convergence Service
+–     ITU-T Y.3055 (09/2020): Framework for Trust based Personal Data Management
+–     ITU-T Y.3075 (09/2020): Requirements and capabilities of Information Centric Networking routing and
+      forwarding based on control and user plane separation in IMT-2020
+–     ITU-T Y.3076 (09/2020): Architecture of ICN-enabled Edge Network in IMT-2020
+–     ITU-T Y.3134 (09/2020): IMT-2020 fixed mobile convergence functional requirements for management
+      and orchestration
+–     ITU-T Y.3136 (09/2020): Session management for fixed mobile convergence in IMT-2020 networks
+–     ITU-T Y.3150 (09/2020): High-level technical characteristics of network softwarization for IMT-2020
+–     ITU-T Y.3155 (09/2020): Enhanced SDN Data Plane for IMT-2020
+–     ITU-T Y.3156 (09/2020): Framework of network slicing with AI-assisted analysis in IMT-2020 networks
+–     ITU-T Y.3176 (09/2020): Machine learning marketplace integration in future networks including
+      IMT-2020
+–     ITU-T Y.3530 (09/2020): Cloud computing - Functional requirements for blockchain as a service
+–     ITU-T Y.3531 (09/2020): Cloud computing - Functional requirements for machine learning as a service
+–     ITU-T Y.3605 (09/2020): Big data - Reference architecture
+
+
+
+
+ No. 1206 – 4                                                                          ITU Operational Bulletin
+                                      Telephone Service
+                                 (Recommendation ITU-T E.164)
+                                          url: www.itu.int/itu-t/inr/nnp
+Congo (country code +242)
+Communication of 24.IX.2020:
+The Agence de Régulation des Postes et des Communications Electroniques (ARPCE), Brazzaville, announces the
+assignment of the following new number series in the national numbering plan of the Republic of the Congo.
+
+                                     Number series                           Types of        Date of
+       Operator
+                                       (9 digits)                          technologies   introduction
+   CONGO TELECOM            +242 02.400.00.00 – 02.409.99.99         Mobile telephony     5.VIII.2020
+                            +242 02.550.00.00 – 02.589.99.99
+                            +242 02.666.00.00 – 02 699.99.99
+                            +242 02.600.00.00 – 02.615.99.99
+
+X= 0 to 9
+International dialling format: +242 XXX XX XX XX
+The minimum number length (excluding the country code) is: Nine (9) digits
+The maximum number length (excluding the country code) is: Nine (9) digits
+Contact:
+      Mr Abel DOSSOU
+      Agence de Régulation des Postes et des Communications Electroniques (ARPCE)
+      Immeuble ARPCE
+      91 bis, Avenue de l'Amitié
+      B.P. 2490
+      BRAZZAVILLE
+      Congo (Rep. of the)
+      Tel:     +242 05 300 92 47
+      E-mail: abel.dossou@arpce.cg
+      URL:     www.arpce.cg
+
+
+
+
+ ITU Operational Bulletin                                                                        No. 1206 – 5
+Senegal (country code +221)
+Communication of 1.X.2020:
+The Autorité de Régulation des Télécommunications et des Postes (ARTP), Dakar, announces the following update
+of the national numbering plan (NNP) for telephony in Senegal.
+         Description of introduction of new resource for national numbering plan for country code 221:
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading                                            Usage of                      Time and date of
+ digits of national   Maximum       Minimum             ITU-T E.164 number                   introduction
+    (significant)      length        length
+  number (N(S)N)
+ 754                      9             9        Non-geographic number – Mobile        09 January 2019
+                                                 telephone service for the mobile
+                                                 virtual network operator (MVNO)
+                                                 SIRIUS TELECOMS AFRIQUE
+                                                 (PROMOBILE)
+ 755                      9             9        Non-geographic number – Mobile        09 January 2019
+                                                 telephone service for the mobile
+                                                 virtual network operator (MVNO)
+                                                 SIRIUS TELECOMS AFRIQUE
+                                                 (PROMOBILE)
+ 756                      9             9        Non-geographic number – Mobile        09 January 2019
+                                                 telephone service for the mobile
+                                                 virtual network operator (MVNO)
+                                                 SIRIUS TELECOMS AFRIQUE
+                                                 (PROMOBILE)
+ 757                      9             9        Non-geographic number – Mobile        28 June 2019
+                                                 telephone service for the mobile
+                                                 virtual network operator (MVNO)
+                                                 ORIGINES SA
+
+
+
+
+                        Presentation of national numbering plan for country code 221:
+a)     Overview:
+       The minimum number length (excluding the country code) is             9   digits.
+       The maximum number length (excluding the country code) is             9   digits.
+b)     Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+       numbering plan (if any): n/a
+c)     Link to the real-time database reflecting ported ITU-T E.164 numbers (if any):n/a
+
+
+
+
+ No. 1206 – 6                                                                              ITU Operational Bulletin
+d)      Detail of numbering plan:
+
+
+      National destination     N(S)N number length
+     code (NDC) or leading
+                                                            Usage of
+        digits of national    Maximum     Minimum                                Additional information
+                                                       ITU-T E.164 number
+      (significant) number     length      length
+              (N(S)N)
+ 30                                 9        9       Non-geographic number     Operator Expresso
+                                                     – Fixed telephony         Sénégal
+                                                     service
+ 32                                 9        9       Non-geographic number     Operator FREE Sénégal
+                                                     – Fixed telephony
+                                                     service
+ 338                                9        9       Geographic number –       Operator SONATEL
+                                                     Fixed telephony service   (Orange), Région de Dakar
+ 339                                9        9       Geographic number –       Operator SONATEL
+                                                     Fixed telephony service   (Orange), autres régions
+ 3611                               9        9       Non-geographic number     Operator CSU SA (HAYO)
+                                                     – Fixed telephony
+                                                     service
+ 390                                9        9       Non-geographic number     ADIE
+                                                     – Fixed telephony
+                                                     service
+ 391                                9        9       Non-geographic number     ADIE
+                                                     – Fixed telephony
+                                                     service
+ 70                                 9        9       Non-geographic number     Operator Expresso
+                                                     – Mobile telephone        Sénégal
+                                                     service
+ 7211                               9        9       Non-geographic number     Operator CSU SA (HAYO)
+                                                     – Mobile telephone
+                                                     service
+ 754                                9        9       Non-geographic number     MVNO PROMOBILE
+                                                     – Mobile telephone
+                                                     service
+ 755                                9        9       Non-geographic number     MVNO PROMOBILE
+                                                     – Mobile telephone
+                                                     service
+ 756                                9        9       Non-geographic number     MVNO PROMOBILE
+                                                     – Mobile telephone
+                                                     service
+ 757                                9        9       Non-geographic number     MVNO ORIGINES SA
+                                                     – Mobile telephone
+                                                     service
+ 76                                 9        9       Non-geographic number     Operator FREE Sénégal
+                                                     – Mobile telephone
+                                                     service
+ 77                                 9        9       Non-geographic number     Operator SONATEL
+                                                     – Mobile telephone        (Orange)
+                                                     service
+
+
+
+
+ ITU Operational Bulletin                                                                    No. 1206 – 7
+   National destination      N(S)N number length
+  code (NDC) or leading
+                                                             Usage of
+     digits of national     Maximum      Minimum                              Additional information
+                                                        ITU-T E.164 number
+   (significant) number      length       length
+           (N(S)N)
+ 78                             9            9       Non-geographic number   Operator SONATEL
+                                                     – Mobile telephone      (Orange)
+                                                     service
+ 790                            9            9       Non-geographic number   ADIE
+                                                     – Mobile telephone
+                                                     service
+
+Contact:
+       Ms Mana AIDARA and Mr Mamadou Ousmane FAYE
+       Autorité de Régulation des Télécommunications et des Postes (ARTP)
+       B.P. 14130
+       DAKAR PEYTAVIN
+       Senegal
+       Tel:     +221 33 869 0369 / direct: +221 33 869 03 93
+       Fax:     +221 33 869 0370
+       E-mail: mana.aidara@artp.sn; mamadou.faye@artp.sn
+       URL:     www.artp.sn
+
+
+
+
+ No. 1206 – 8                                                                 ITU Operational Bulletin
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+No. 1206 – 9                                                                  ITU Operational Bulletin
+                     AMENDMENTS TO SERVICE PUBLICATIONS
+                                             Abbreviations used
+                              ADD    Insert                       PAR    Paragraph
+                              COL    Column                       REP    Replace
+                              LIR    Read                         SUP    Delete
+                              P      Page(s)
+
+
+
+                         List of Ship Stations and Maritime Mobile
+                                 Service Identity Assignments
+                                            (List V)
+                                        Edition of 2020
+
+                                                Section VI
+SUP
+
+
+         AB01    FBS sh.p.k., Rr. "Myslym Shyri", nr. 9/1, Tirana, Albania.
+                 E-mail: fbs@fbs.al,
+                 Tel:     +355 4 2233 207 / +355 4 2253 226, Fax: +355 4 2233 940.
+                 URL:     www.fbs.al.
+
+
+
+
+                          List of Issuer Identifier Numbers for
+                  the International Telecommunication Charge Card
+            (in accordance with ITU-T Recommendation E.118 (05/2006))
+                             (Position on 1 December 2018)
+                          (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                           (Amendment No. 35)
+France     ADD
+
+     Country/             Company                Issuer                 Contact               Effective
+ Geographical area      Name/Address           Identifier                                      date of
+                                                Number                                         usage
+France               Lycamobile SARL           89 33 13     Lycamobile SARL Legal           12.VIII.2020
+                     107 Boulevard Pereire                  107 Boulevard Pereire
+                     75017 PARIS                            75017 PARIS
+                                                            E-mail: legal@lycamobile.com
+France               Vectone Mobile SAS        89 33 31     Channa Kurera                   24.VI.2020
+                     58 Avenue de                           Vectone Mobile,
+                     Wagram                                 54 Marsh Wall
+                     75017 PARIS                            LONDON, E14 9TP
+                                                            (United Kingdom)
+                                                            Tel :    +44 7939 560057
+                                                            E-mail: legal@vectone.com
+
+
+
+
+ No. 1206 – 10                                                                        ITU Operational Bulletin
+Guadeloupe        ADD
+
+   Country/            Company         Issuer                 Contact                Effective
+ Geographical        Name/Address    Identifier                                       date of
+     area                             Number                                          usage
+Guadeloupe      Dauphin Telecom      89 590 08    Directrice Générale               6.VII.2020
+                12 Rue de la                      Dauphin Telecom
+                République                        12 Rue de la République
+                Marigot,                          Marigot, 97150 SAINT MARTIN
+                97150 SAINT MARTIN                E-mail: info@dauphintelecom.com
+
+Switzerland       ADD
+
+   Country/            Company         Issuer                 Contact                Effective
+ Geographical        Name/Address    Identifier                                       date of
+     area                             Number                                          usage
+Switzerland      Vectone Mobile      89 41 28     Alkesh Dave                       6.VIII.2020
+                 Limited                          54 Marsh Wall
+                 54 Marsh Wall                    E14 9TP LONDON
+                 E14 9TP LONDON                   (United Kingdom)
+                 (United Kingdom)                 Tel: +44 7451491230
+                                                  E-mail: legal@vectone.com
+
+
+
+
+ ITU Operational Bulletin                                                              No. 1206 – 11
+     Mobile Network Codes (MNC) for the international identification plan
+                   for public networks and subscriptions
+           (According to Recommendation ITU-T E.212 (09/2016))
+                      (Position on 15 December 2018)
+
+                            (Annex to ITU Operational Bulletin No. 1162 – 15.XII.2018)
+                                             (Amendment No. 41)
+
+ Country/Geographical area           MCC+MNC *           Operator/Network
+ Estonia ADD
+                                           248 19        OkTelecom OÜ
+ Mexico ADD
+                                          334 100        TELECOMUNICACIONES DE MÉXICO
+                                          334 110        MAXCOM TELECOMUNICACIONES, S.A.B. DE C.V.
+                                          334 120        QUICKLY PHONE, S.A. DE C.V.
+                                          334 130        AXTEL, S.A.B. DE C.V.
+                                          334 140        ALTÁN REDES, S.A.P.I. DE C.V.
+                                          334 150        ULTRAVISIÓN, S.A. DE C.V.
+                                          334 160        CABLEVISIÓN RED, S.A. DE C.V.
+                                          334 170        OXIO MOBILE, S.A. DE C.V.
+ Mexico LIR
+                                          334 010        AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V.
+                                          334 030        PEGASO PCS, S.A. DE C.V.
+                                                         AT&T NORTE, S. DE R.L. DE C.V. Y AT&T DESARROLLO EN
+                                          334 040
+                                                         COMUNICACIONES DE MÉXICO, S. DE R.L. DE C.V.
+                                          334 050        GRUPO AT&T CELULLAR, S. DE R.L. DE C.V.
+                                          334 070        AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.
+                                          334 080        AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.
+                                          334 090        AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V.
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+No. 1206 – 12                                                                               ITU Operational Bulletin
+                            List of ITU Carrier Codes
+             (According to Recommendation ITU-T M.1400 (03/2013))
+                        (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                            (Amendment No. 103)
+
+
+ Country or area/ISO code                       Company Code          Contact
+  Company Name/Address                           (carrier code)
+
+Germany (Federal Republic of) / DEU           ADD
+
+ EnBW Energie Baden-Württemberg AG                  ENBW97            Mrs Kristina Nielsen
+ Durlacher Allee 93                                                   Tel:    +49 711 28981741
+ D-76131 KARLSRUHE                                                    Email: k.nielsen@enbw.com
+
+
+ Stadtwerke Neustadt a. Rbge. GmbH                  SWNRUE            Mr. Dieter Lindauer
+ An der Eisenbahn 18                                                  Tel.:   +49 5032 897 400
+ D-31535 Neustadt a. Rbge.                                            Fax:    +49 5032 897 459
+                                                                      Email: dieter.lindauer@stadtwerke-
+                                                                              neustadt.de
+
+
+
+
+                              National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                   Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.IX.2020, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                 Country/ Geographical area                               Country Code (CC)
+    Mauritius                                                                    +230
+
+
+
+
+ ITU Operational Bulletin                                                                        No. 1206 – 13

@@ -1,0 +1,663 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1212             15.I.2021                   (Information received by 24 December 2020) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                               3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+Telephone Service:
+     Côte d'Ivoire (Autorité de Régulation des Télécommunications/TIC de Côte d’Ivoire (ARTCI), Abidjan) ..                                                       5
+     Mauritius (Information and Communication Technologies Authority (ICTA), Port-Louis) ........................                                                11
+     Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) ....................                                                      11
+Service Restrictions ........................................................................................................................................    12
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                               12
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                               13
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................     14
+List of ITU Carrier Codes .................................................................................................................................      15
+National Numbering Plan ...............................................................................................................................          15
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1213              1.II.2021             15.I.2021
+               1214             15.II.2021             29.I.2021
+               1215              1.III.2021            12.II.2021
+               1216             15.III.2021            1.III.2021
+               1217              1.IV.2021             15.III.2021
+               1218             15.IV.2021             26.III.2021
+               1219              1.V.2021              15.IV.2021
+               1220             15.V.2021              30.IV.2021
+               1221              1.VI.2021             14.V.2021
+               1222             15.VI.2021             30.V.2021
+               1223             1.VII.2021             15.VI.2021
+               1224             15.VII.2021            30.VI.2021
+               1225             1.VIII.2021           15.VII.2021
+               1226            15.VIII.2021           30.VII.2021
+               1227              1.IX.2021            13.VIII.2021
+               1228             15.IX.2021             1.IX.2021
+               1229              1.X.2021              15.IX.2021
+               1230             15.X.2021              30.IX.2021
+               1231              1.XI.2021             15.X.2021
+               1232             15.XI.2021             1.XI.2021
+               1233             1.XII.2021             15.XI.2021
+               1234             15.XII.2021            1.XII.2021
+               1235              1.I.2022              10.XII.2021
+
+
+
+
+No. 1212 – 2                                                              ITU Operational Bulletin
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+ ITU Operational Bulletin                                                                         No. 1212 – 3
+                            Approval of ITU-T Recommendations
+By TSB Circular 285 of 17 December 2020, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+–     ITU-T Y.4559 (12/2020): Requirements and functional architecture of base station inspection services
+      using unmanned aerial vehicles
+–     ITU-T Y.4908 (12/2020): Performance evaluation frameworks of e-health systems in the IoT
+
+By TSB Circular 286 of 21 December 2020, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+–     ITU-T E.212 (2016) Amd. 3 (12/2020): The international identification plan for public networks and
+      subscriptions - Annex H: Criteria and procedures for the assignment and reclamation of shared ITU-T E.212
+      mobile country codes (MCC) for regional and other international organizations (ROIO)/standards
+      development organization (SDO)-specified networks and their respective mobile network codes (MNCs)
+
+
+
+
+ No. 1212 – 4                                                                       ITU Operational Bulletin
+                                      Telephone Service
+                                 (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+Côte d'Ivoire (country code +225)
+Communication of 24.XII.2020:
+The Autorité de Régulation des Télécommunications/TIC de Côte d’Ivoire (ARTCI), Abidjan, wishes to reiterate its
+announcement of July 2020 regarding the change in format and the introduction of the new national numbering
+plan, effective as of 0000 hours GMT on 31 January 2021.
+All administrations, recognized operating agencies and service providers are requested to initiate the necessary
+programming of the changes announced in July 2020 (see below) into their networks by 31 January 2021 (0000
+hours GMT) to enable subscribers to access related services.
+In complement to the communication issued in July 2020, ARTCI wishes to emphasize that, following the
+changeover to the new dialling format, all calls to Côte d'Ivoire mobile numbers must include the digit "0" after
+the ITU-T E.164 country code "225", as it is part of the national (significant) number (N(S)N). The numbers for
+mobile telephone service providers will therefore be as follows: +225 01 XX XX XXXX, +225 05 XX XX XXXX and
++225 07 XX XX XXXX for MOOV CI, MTN CI and ORANGE CI respectively.
+
+
+
+Communication of 13.VII.2020: (published in Operational Bulletin No. 1201 (1.VIII.2020))
+The Autorité de Régulation des Télécommunications/TIC de Côte d’Ivoire (ARTCI), Abidjan, hereby announces the
+modification of the national numbering plan of Côte d’Ivoire, from eight (8) to ten (10) digits, effective
+31 January 2021 in Côte d’Ivoire (country code: 225).
+The change to ten (10) figures is being made in order to cope with the saturation of mobile service number
+resources on the one hand and ensure the availability of numbers on the other, thereby meeting the ever
+increasing demands of mobile telephone operators and future services, such as the Internet of Things.
+Under the new ten-digit numbering plan, numbers will be structured as follows: XZABPQMCDU.
+The theoretical maximum capacity of the ten-digit numbering plan is ten (10) billion numbers for all
+telecommunication services.
+The minimum number length (excluding country code) is 3 digits and the maximum number length (excluding
+country code) is 10 digits.
+
+
+1. Presentation of national ten-digit numbering plan
+a) General
+The method by which the numbering plan is used is based on sharing according to service type.
+In the chain XZABPQMCDU, X denotes the services as follows:
+    •   X = 0 for mobile telephone services;
+    •   X = 1 for assistance and emergency services;
+    •   X = 2 for fixed telephone services (geographic and non-geographic);
+    •   X = 3, 4, 5, 6 and 7 for future services (future reserves);
+    •   X = 8, 9 for value-added services.
+
+b) Detailed presentation of new national numbering plan
+(see Annex 1)
+
+
+
+
+ ITU Operational Bulletin                                                                          No. 1212 – 5
+2. Changeover
+Aside from the country code (225) preceding the subscriber number in the event of calls originating from abroad,
+the changeover will consist in adding a prefix XZ to the old eight-digit numbers (ABPQMCDU) of the fixed and
+mobile telephone services. After the changeover on 31 January 2021, this will result in the following:
+a) Mobile telephone services
+    – To call a MOOV CI subscriber, it is necessary to dial "01" followed by the old eight-digit number;
+    – To call an MTN CI subscriber, it is necessary to dial "05" followed by the old eight-digit number;
+    – To call an ORANGE CI subscriber, it is necessary to dial "07" followed by the old eight-digit number;
+
+b) Fixed telephone services
+     – To call a MOOV CI subscriber, it is necessary to dial "21" followed by the old eight-digit number;
+     – To call an MTN CI subscriber, it is necessary to dial "25" followed by the old eight-digit number;
+     – To call an ORANGE CI subscriber, it is necessary to dial "27" followed by the old eight-digit number;
+
+c) Emergency, assistance and value-added services
+The numbers for emergency, assistance and value-added services, which vary in length from three to eight digits,
+remain unchanged.
+(see Annex 2)
+
+
+
+
+ No. 1212 – 6                                                                        ITU Operational Bulletin
+Annex 1
+                Detailed presentation of new national number plan (according to Rec. ITU-T E.129)
+                                               (31 January 2021)
+   National destination
+  code (NDC) or leading        N(S)N number length
+                                                               Usage of
+     digits of national                                                                  Additional information
+                               Minimum   Maximum          ITU-T E.164 number
+   (significant) number
+           (N(S)N)              length    length
+             00                   -          -       International access prefix
+                                                                                     Operator
+         01 (NDC)                10         10       Mobile telephony
+                                                                                     Atlantique Telecom CI
+         05 (NDC)                10         10       Mobile telephony                Operator MTN CI
+         07 (NDC)                10         10       Mobile telephony                Operator Orange CI
+                                                     Assistance,
+                                                     emergency,
+          1 (LDS)                 3          4       social,
+                                                     health
+                                                     and other services
+           21 0
+           21 1
+           21 2 (NDC)                                Fixed telephony                 Operator
+                                 10         10
+           21 3                                      (geographic numbers)            Atlantique Telecom CI
+           21 4
+
+           25 0
+           25 1
+                                                     Fixed telephony
+           25 2 (NDC)            10         10                                       Operator MTN CI
+                                                     (geographic numbers)
+           25 3
+           25 4
+           27 0
+           27 1
+                                                     Fixed telephony
+           27 2 (NDC)            10         10                                       Operator Orange CI
+                                                     (geographic numbers)
+           27 3
+           27 4
+           21 5
+           21 6
+                                                     Fixed telephony                 Operator
+           21 7 (NDC)            10         10
+                                                     (non-geographic numbers)        Atlantique Telecom CI
+           21 8
+           21 9
+           25 5
+           25 6
+                                                     Fixed telephony
+           25 7 (NDC)            10         10                                       Operator MTN CI
+                                                     (non-geographic numbers)
+           25 8
+           25 9
+           27 5
+           27 6
+                                                     Fixed telephony
+           27 7 (NDC)            10         10                                       Operator Orange CI
+                                                     (non-geographic numbers)
+           27 8
+           27 9
+           8 (LDS)                8          8       Value-added services            -
+           9 (LDS)                4          8       Value-added services            -
+
+LDS = Leading digit of N(S)N
+
+
+
+
+ ITU Operational Bulletin                                                                           No. 1212 – 7
+Annex 2
+                      Presentation of modifications made to the ITU-T E.164 numbering plan
+                of the Republic of Côte d’Ivoire (country code: 225) (according to Rec. ITU-T E.129)
+
+
+
+    Announced                        N(S)N                                          Parallel running
+                                                                  Usage of
+ time and date of                                                                                         Operator
+                                                             ITU-T E.164 number
+   change (UTC)
+
+                       Old number         New number                                 Start         End
+                      01 PQ MCDU        01 01 PQ MCDU       Mobile telephony                 N/A
+                      02 PQ MCDU        01 02 PQ MCDU       Mobile telephony                 N/A
+                      03 PQ MCDU        01 03 PQ MCDU       Mobile telephony                 N/A
+                      40 PQ MCDU        01 40 PQ MCDU       Mobile telephony                 N/A
+                      41 PQ MCDU        01 41 PQ MCDU       Mobile telephony                 N/A
+                      42 PQ MCDU        01 42 PQ MCDU       Mobile telephony                 N/A
+                      43 PQ MCDU        01 43 PQ MCDU       Mobile telephony                 N/A
+31 January 2021                                                                                          Atlantique
+                      50 PQ MCDU        01 50 PQ MCDU       Mobile telephony                 N/A
+– 00:00                                                                                                  Telecom CI
+                      51 PQ MCDU        01 51 PQ MCDU       Mobile telephony                 N/A
+                      52 PQ MCDU        01 52 PQ MCDU       Mobile telephony                 N/A
+                      53 PQ MCDU        01 53 PQ MCDU       Mobile telephony                 N/A
+                      70 PQ MCDU        01 70 PQ MCDU       Mobile telephony                 N/A
+                      71 PQ MCDU        01 71 PQ MCDU       Mobile telephony                 N/A
+                      72 PQ MCDU        01 72 PQ MCDU       Mobile telephony                 N/A
+                      73 PQ MCDU        01 73 PQ MCDU       Mobile telephony                 N/A
+                      04 PQ MCDU        05 04 PQ MCDU       Mobile telephony                 N/A
+                      05 PQ MCDU        05 05 PQ MCDU       Mobile telephony                 N/A
+                      06 PQ MCDU        05 06 PQ MCDU       Mobile telephony                 N/A
+                      44 PQ MCDU        05 44 PQ MCDU       Mobile telephony                 N/A
+                      45 PQ MCDU        05 45 PQ MCDU       Mobile telephony                 N/A
+                      46 PQ MCDU        05 46 PQ MCDU       Mobile telephony                 N/A
+                      54 PQ MCDU        05 54 PQ MCDU       Mobile telephony                 N/A
+                      55 PQ MCDU        05 55 PQ MCDU       Mobile telephony                 N/A
+                      56 PQ MCDU        05 56 PQ MCDU       Mobile telephony                 N/A
+                      64 PQ MCDU        05 64 PQ MCDU       Mobile telephony                 N/A
+31 January 2021
+                      65 PQ MCDU        05 65 PQ MCDU       Mobile telephony                 N/A         MTN CI
+– 00:00
+                      66 PQ MCDU        05 66 PQ MCDU       Mobile telephony                 N/A
+                      74 PQ MCDU        05 74 PQ MCDU       Mobile telephony                 N/A
+                      75 PQ MCDU        05 75 PQ MCDU       Mobile telephony                 N/A
+                      76 PQ MCDU        05 76 PQ MCDU       Mobile telephony                 N/A
+                      84 PQ MCDU        05 84 PQ MCDU       Mobile telephony                 N/A
+                      85 PQ MCDU        05 85 PQ MCDU       Mobile telephony                 N/A
+                      86 PQ MCDU        05 86 PQ MCDU       Mobile telephony                 N/A
+                      94 PQ MCDU        05 94 PQ MCDU       Mobile telephony                 N/A
+                      95 PQ MCDU        05 95 PQ MCDU       Mobile telephony                 N/A
+                      96 PQ MCDU        05 96 PQ MCDU       Mobile telephony                 N/A
+
+
+
+
+ No. 1212 – 8                                                                           ITU Operational Bulletin
+   Announced                     N(S)N                                   Parallel running
+                                                         Usage of
+time and date of                                                                                Operator
+                                                    ITU-T E.164 number
+  change (UTC)
+
+                    Old number       New number                          Start         End
+                   07 PQ MCDU       07 07 PQ MCDU   Mobile telephony             N/A
+                   08 PQ MCDU       07 08 PQ MCDU   Mobile telephony             N/A
+                   09 PQ MCDU       07 09 PQ MCDU   Mobile telephony             N/A
+                   47 PQ MCDU       07 47 PQ MCDU   Mobile telephony             N/A
+                   48 PQ MCDU       07 48 PQ MCDU   Mobile telephony             N/A
+                   49 PQ MCDU       07 49 PQ MCDU   Mobile telephony             N/A
+                   57 PQ MCDU       07 57 PQ MCDU   Mobile telephony             N/A
+                   58 PQ MCDU       07 58 PQ MCDU   Mobile telephony             N/A
+                   59 PQ MCDU       07 59 PQ MCDU   Mobile telephony             N/A
+31 January 2021    67 PQ MCDU       07 67 PQ MCDU   Mobile telephony             N/A
+                                                                                               ORANGE CI
+– 00:00            68 PQ MCDU       07 68 PQ MCDU   Mobile telephony             N/A
+                   69 PQ MCDU       07 69 PQ MCDU   Mobile telephony             N/A
+                   77 PQ MCDU       07 77 PQ MCDU   Mobile telephony             N/A
+                   78 PQ MCDU       07 78 PQ MCDU   Mobile telephony             N/A
+                   79 PQ MCDU       07 79 PQ MCDU   Mobile telephony             N/A
+                   87 PQ MCDU       07 87 PQ MCDU   Mobile telephony             N/A
+                   88 PQ MCDU       07 88 PQ MCDU   Mobile telephony             N/A
+                   89 PQ MCDU       07 89 PQ MCDU   Mobile telephony             N/A
+                   97 PQ MCDU       07 97 PQ MCDU   Mobile telephony             N/A
+                   98 PQ MCDU       07 98 PQ MCDU   Mobile telephony             N/A
+                                                                                               Atlantique
+                   20 8 QMCDU       21 20 8 QMCDU   Fixed telephony              N/A
+                                                                                               Telecom
+                                                                                               Atlantique
+                   21 8 QMCDU       21 21 8 QMCDU   Fixed telephony              N/A
+                                                                                               Telecom
+                                                                                               Atlantique
+                   22 8 QMCDU       21 22 8 QMCDU   Fixed telephony              N/A
+                                                                                               Telecom
+                                                                                               Atlantique
+                   23 8 QMCDU       21 23 8 QMCDU   Fixed telephony              N/A
+                                                                                               Telecom
+                   20 0 QMCDU       25 20 0 QMCDU   Fixed telephony              N/A           MTN CI
+                   21 0 QMCDU       25 21 0 QMCDU   Fixed telephony              N/A           MTN CI
+31 January 2021
+– 00:00            22 0 QMCDU       25 22 0 QMCDU   Fixed telephony              N/A           MTN CI
+                   23 0 QMCDU       25 23 0 QMCDU   Fixed telephony              N/A           MTN CI
+                   24 0 QMCDU       25 24 0 QMCDU   Fixed telephony              N/A           MTN CI
+                   30 0 QMCDU       25 30 0 QMCDU   Fixed telephony              N/A           MTN CI
+                   31 0 QMCDU       25 31 0 QMCDU   Fixed telephony              N/A           MTN CI
+                   32 0 QMCDU       25 32 0 QMCDU   Fixed telephony              N/A           MTN CI
+                   33 0 QMCDU       25 33 0 QMCDU   Fixed telephony              N/A           MTN CI
+                   34 0 QMCDU       25 34 0 QMCDU   Fixed telephony              N/A           MTN CI
+                   35 0 QMCDU       25 35 0 QMCDU   Fixed telephony              N/A           MTN CI
+                   36 0 QMCDU       25 36 0 QMCDU   Fixed telephony              N/A           MTN CI
+
+
+
+
+ITU Operational Bulletin                                                                     No. 1212 – 9
+    Announced                       N(S)N                                        Parallel running
+                                                                Usage of
+ time and date of                                                                                       Operator
+                                                           ITU-T E.164 number
+   change (UTC)
+
+                       Old number        New number                               Start         End
+                       20 2 QMCDU       27 20 2 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       20 3 QMCDU       27 20 3 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       21 2 QMCDU       27 21 2 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       21 3 QMCDU       27 21 3 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       21 5 QMCDU       27 21 5 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       21 7 QMCDU       27 21 7 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       22 4 QMCDU       27 22 4 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       22 5 QMCDU       27 22 5 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       23 4 QMCDU       27 23 4 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       23 5 QMCDU       27 23 5 QMCDU     Fixed telephony                 N/A         ORANGE CI
+31 January 2021
+                       24 3 QMCDU       27 24 3 QMCDU     Fixed telephony                 N/A         ORANGE CI
+– 00:00
+                       24 4 QMCDU       27 24 4 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       24 5 QMCDU       27 24 5 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       30 6 QMCDU       27 30 6 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       31 6 QMCDU       27 31 6 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       31 9 QMCDU       27 31 9 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       32 7 QMCDU       27 32 7 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       33 7 QMCDU       27 33 7 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       34 7 QMCDU       27 34 7 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       35 7 QMCDU       27 35 7 QMCDU     Fixed telephony                 N/A         ORANGE CI
+                       36 7 QMCDU       27 36 7 QMCDU     Fixed telephony                 N/A         ORANGE CI
+
+N/A = Not applicable
+
+Contact:
+           Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire (ARTCI)
+           Marcory Anoumanbo
+           18 BP 2203 ABIDJAN
+           Côte d'Ivoire
+           Tel: +225 20344373
+           Fax: +225 20344375
+           URL: www.artci.ci
+
+
+
+
+ No. 1212 – 10                                                                          ITU Operational Bulletin
+Mauritius (country code +230)
+Communication of 18.XII.2020:
+The Information and Communication Technologies Authority (ICTA), Port-Louis, announces that new mobile
+number range has been opened in the Republic of Mauritius by the following mobile operator in October 2020.
+
+
+    Operator                                 Usage of ITU-T E.164 number               Dialling Format
+
+    Cellplus Mobile Communications Ltd       Non-geographic mobile numbers             +230 550X XXXX
+
+
+
+Contact:
+           Mr J. Louis
+           Information and Communication Technologies Authority (ICTA)
+           Level 12 The Celicourt
+           6, Sir Celicourt Antelme Street
+           PORT LOUIS
+           Mauritius
+           Tel:      +230 217 2222
+           Fax:      +230 217 7777
+           E-mail: icta@intnet.mu
+
+
+Morocco (country code +212)
+Communication of 18.XII.2020:
+The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following
+update of the national telephone-numbering plan of Morocco.
+
+•     Description of introduction of new resource for national E.164 numbering plan for country code +212:
+
+         NDC (national          N(S)N number length
+      destination code) or
+    leading digits of N(S)N    Maximum     Minimum          Usage of E.164 number          Additional information
+     (national (significant)    length      length
+            number)
+               774                9            9          Mobile services 2G/3G/4G        Médi Telecom 1
+               775                9            9          Mobile services 2G/3G/4G        Médi Telecom
+
+
+1
+    : ORANGE
+
+Contact:
+           Motiaa Abdelhay
+           Agence Nationale de Réglementation des Télécommunications (ANRT)
+           Centre d'affaires
+           Boulevard Ar-Riad, Hay Riad
+           B.P. 2939
+           RABAT 10100
+           Morocco
+           Tel:    +212 5 37 71 85 64
+           E-mail: numerotation@anrt.ma
+           URL:    www.anrt.ma
+
+
+
+
+    ITU Operational Bulletin                                                                    No. 1212 – 11
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+No. 1212 – 12                                                                 ITU Operational Bulletin
+                     AMENDMENTS TO SERVICE PUBLICATIONS
+                                                    Abbreviations used
+                                 ADD     Insert                           PAR       Paragraph
+                                 COL     Column                           REP       Replace
+                                 LIR     Read                             SUP       Delete
+                                 P       Page(s)
+
+
+                                List of Issuer Identifier Numbers for
+                        the International Telecommunication Charge Card
+                  (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                   (Position on 1 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                              (Amendment No. 41)
+
+
+Japan    ADD
+
+
+     Country/       Company Name/Address             Issuer Identifier    Contact                                  Effective date
+   geographical                                          Number                                                       of usage
+       area
+ Japan              Dai Nippon Printing Co., Ltd.       89 81 16          Manager of IIN registration affairs       21.XII.2020
+                    1-1-1,     Ichigaya-Kagacho,                          Information Innovation Operations
+                    Shinjuku-ku                                           Dai Nippon Printing Co., Ltd.
+                    TOKYO 162-8001                                        1-1-1, Ichigaya-Kagacho, Shinjuku-ku
+                                                                          TOKYO 162-8001
+                                                                          Tel:     +81 50 3753 1749
+                                                                          Fax:     +81 3 6735 0665
+                                                                          E-mail: dnpsim-iin@team.dnp.co.jp
+
+
+
+United States ADD
+     Country/        Company Name/Address                  Issuer Identifier    Contact                          Effective date of
+   Geographical                                                Number                                                 usage
+       area
+ United States       Celona Inc.                               89 1 052         Puneet Shetty                       1.XII.2020
+                     10061 Bubb Road, Suite 300                                 Celona Inc.
+                     CUPERTINO CA 95014                                         10061 Bubb Road, Suite 300
+                                                                                CUPERTINO CA 95014
+                                                                                Tel:    +1 408 906 8198
+                                                                                E-mail: hello@celona.io
+
+
+
+
+ ITU Operational Bulletin                                                                                    No. 1212 – 13
+        Mobile Network Codes (MNC) for the international identification plan
+                      for public networks and subscriptions
+              (According to Recommendation ITU-T E.212 (09/2016))
+                          (Position on 15 December 2018)
+
+                       (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                        (Amendment No. 46)
+
+
+    Country/Geographical area         MCC+MNC *            Operator/Network
+    Barbados SUP
+                                            342 820        Sunbeach Communications
+    Barbados ADD
+                                            342 800        Ozone
+                                            342 820        Neptune Communications Inc.
+    Barbados LIR
+                                            342 600        Cable & Wireless
+
+
+____________
+
+*          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+No. 1212 – 14                                                                                ITU Operational Bulletin
+                               List of ITU Carrier Codes
+               (According to Recommendation ITU-T M.1400 (03/2013))
+                           (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                            (Amendment No. 107)
+
+
+ Country or area/ISO code                        Company Code         Contact
+  Company Name/Address                            (carrier code)
+
+
+Germany (Federal Republic of) / DEU           ADD
+
+
+ PHILUNET GmbH                                      PNET42            Mr. Philip Berndroth
+ Vorm Eichholz 2                                                      Tel.: +49 202 404050
+ D-42119 WUPPERTAL                                                    Fax: +49 202 404059
+                                                                      Email: info@philunet.de
+ Tecsee GmbH                                          TECSEE          Mrs Lee-Lou Hellwig
+ Mannheimer Strasse 12                                                Tel.: +49 7131 766 9721
+ 74072 HEILBRONN                                                      Email: marketing@tecsee.de
+
+ Unsere Grüne Glasfaser GmbH & Co.KG                UGGLAS            Mr Jens-Olaf Berwig
+ Adalperostr. 82 - 86                                                 Tel.: +49 40 36803 0
+ c/o Telefónica Global Services GmbH                                  Fax: +49 40 36803 280
+ D-85737 ISMANING                                                     Email: info@unseregrueneglasfaser.de
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                   Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.XII.2020, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                         Country/ Geographical area                     Country Code (CC)
+               Côte d'Ivoire                                                    +225
+               Iran (Islamic Republic of)                                       +98
+               Vanuatu                                                          +678
+
+
+
+
+ ITU Operational Bulletin                                                                        No. 1212 – 15
