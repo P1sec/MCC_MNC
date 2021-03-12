@@ -99,13 +99,18 @@ def main():
             print(k)
     else:
         for mccmnc in args.MCCMNC:
-            if not 5 <= len(mccmnc) <= 6 or not mccmnc.isdigit():
-                print('> invalid MCC-MNC: %s\n' % mccmnc)
+            mcc, mnc = mccmnc[:3], mccmnc[3:]
+            if len(mcc) != 3 or mcc not in P1_MCC:
+                print('> unknown MCC: %s\n' % mcc)
                 continue
+            elif not mnc:
+                # country code only, print all MCCMNC for the given MCC
+                for _mccmnc in P1_MCC[mcc]['mncs']:
+                    print_mnos(_mccmnc, args.x)
             elif mccmnc not in P1_MNC:
                 print('> unknown MCC-MNC: %s\n' % mccmnc)
-                continue
-            print_mnos(mccmnc, args.x)
+            else:
+                print_mnos(mccmnc, args.x)
             print('')
     #
     return 0
