@@ -4551,7 +4551,7 @@ P1_ISPC = \
                '11120'],
   '5-110-5': ['Palau', 'Palau Mobile Communications Inc. (PMCI)', 'PMCI STP01', '11125'],
   '5-110-6': ['Palau', 'Palau Mobile Communications Inc. (PMCI)', 'PMCI STP02', '11126'],
-  '5-113-0': ['Northern Marianas', 'Verizon Pacifica', 'Saipan, Northern Marianas', '11144'],
+  '5-113-0': ['Northern Mariana Islands', 'Verizon Pacifica', 'Saipan, Northern Marianas', '11144'],
   '5-115-0': ['Australia', 'Optus Ltd', 'SYF 10', '11160'],
   '5-115-1': ['Australia', 'Optus Ltd', 'SYF 11', '11161'],
   '5-115-2': ['Australia', 'Optus Ltd', 'SYF 12', '11162'],

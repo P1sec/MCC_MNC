@@ -105,7 +105,16 @@ def main():
                 continue
             elif not mnc:
                 # country code only, print all MCCMNC for the given MCC
-                for _mccmnc in P1_MCC[mcc]['mncs']:
+                mcc_cntr = P1_MCC[mcc]
+                if isinstance(mcc_cntr, list):
+                    # MCC used for several countries / territories
+                    mncs = set()
+                    for mcc_cntr_sin in mcc_cntr:
+                        mncs.update(mcc_cntr_sin['mncs'])
+                    mncs = list(sorted(mncs))
+                else:
+                    mncs = mcc_cntr['mncs']
+                for _mccmnc in mncs:
                     print_mnos(_mccmnc, args.x)
             elif mccmnc not in P1_MNC:
                 print('> unknown MCC-MNC: %s\n' % mccmnc)
