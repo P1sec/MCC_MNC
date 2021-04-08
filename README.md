@@ -271,6 +271,19 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
   -x          provides extended country-related information
+
+$ chk_ispc.py --help
+usage: chk_ispc.py [-h] [-x] [ISPC [ISPC ...]]
+
+provides information related to ISPC (International Signaling Point Code); if no 
+argument is passed, lists all known ISPC
+
+positional arguments:
+  ISPC        0 or more 3-8-3 formatted or integer ISPC values
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -x          provides extended information for associated country
 ```
 
 
