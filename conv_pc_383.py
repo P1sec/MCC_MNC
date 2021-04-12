@@ -42,9 +42,9 @@ def conv_pc_383(pcval):
     else:
         pcint = int(pcval)
         return '%i-%i-%i' % (
-                (pcint>>11),
+                ((pcint>>11) & 0x7),
                 ((pcint>>3) & 0xff),
-                (pcint & 0x7) )
+                 (pcint & 0x7) )
 
 
 def help():

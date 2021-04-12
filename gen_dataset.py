@@ -408,6 +408,15 @@ MSISDN, MSISDNEXT = gen_dict_msisdn()
 
 
 #------------------------------------------------------------------------------#
+# SANC dict
+#------------------------------------------------------------------------------#
+
+# no transform is required for the SANC dict
+
+SANC = ITUT_SANC_1125
+
+
+#------------------------------------------------------------------------------#
 # SPC dict
 #------------------------------------------------------------------------------#
 
@@ -424,6 +433,8 @@ def gen_dict_ispc():
             else:
                 R_383[spc_info[0]] = [cntr, spc_info[3], spc_info[2], spc_info[1]]
     return R_383
+    #
+    # no need for an additional dict with PC in integer format as key
     #        if spc[1] in R_dec:
     #            print('> duplicated ISPC: %s' % spc[1])
     #        else:
@@ -741,6 +752,8 @@ def main():
     generate_python(MSISDNEXT, PATH_PRE + 'p1_msisdnext.py', [URL_SRC], URL_LIC)
     generate_json(ISPC, PATH_PRE + 'p1_ispc.json', [URL_SRC], URL_LIC)
     generate_python(ISPC, PATH_PRE + 'p1_ispc.py', [URL_SRC], URL_LIC)
+    generate_json(SANC, PATH_PRE + 'p1_sanc.json', [URL_SRC], URL_LIC)
+    generate_python(SANC, PATH_PRE + 'p1_sanc.py', [URL_SRC], URL_LIC)
     generate_json(CC2, PATH_PRE + 'p1_cc2.json', [URL_SRC], URL_LIC)
     generate_python(CC2, PATH_PRE + 'p1_cc2.py', [URL_SRC], URL_LIC)
     generate_json(CNTR, PATH_PRE + 'p1_cntr.json', [URL_SRC], URL_LIC)

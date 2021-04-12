@@ -93,7 +93,7 @@ P1_MSISDNEXT = \
   '243': ['Democratic Republic of the Congo'],
   '244': ['Angola'],
   '245': ['Guinea-Bissau'],
-  '246': ['British Indian Ocean Territory', 'Diego Garcia'],
+  '246': ['British Indian Ocean Territory'],
   '247': ['Ascension'],
   '248': ['Seychelles'],
   '249': ['Sudan'],

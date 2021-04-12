@@ -47,6 +47,7 @@ __all__ = [
     'ITUT_MNC_1111',
     'ITUT_MNC_1162',
     'ITUT_SPC_1199',
+    'ITUT_SANC_1125',
     # Custom structures
     'WFB_UNINHABITED',
     'COUNTRY_SPEC',
@@ -85,19 +86,23 @@ try:
     from raw.wikip_territory    import WIKIP_TERRITORY
 except ImportError:
     raise(Exception('error: please run first ./parse_wikipedia_tables.py'))
+
 try:
     from raw.world_fb           import WORLD_FB
 except ImportError:
     raise(Exception('error: please run first ./parse_worldfactbook_infos.py'))
+
 try:
     from raw.csv_egal_min_dist  import CSV_EGAL_MIN_DIST
     from raw.csv_txtn_mccmnc    import CSV_TXTN_MCCMNC
 except ImportError:
     raise(Exception('error: please run first ./parse_various_csv.py'))
+
 try:
     from raw.itut_mnc_1111      import ITUT_MNC_1111
     from raw.itut_mnc_1162      import ITUT_MNC_1162
     from raw.itut_spc_1199      import ITUT_SPC_1199
+    from raw.itut_sanc_1125     import ITUT_SANC_1125
 except ImportError:
     raise(Exception('error: please run first ./parse_itut_bulletins.py'))
 
@@ -213,6 +218,7 @@ COUNTRY_RENAME = {
     'Laos P.D.R.'               : 'Laos',
     'Lao P.D.R.'                : 'Laos',
     'Viet Nam'                  : 'Vietnam',
+    'Viet Nam (Socialist Republic of)' : 'Vietnam',
     'Korea, North'              : 'North Korea',
     'Korea N., Dem. People\'s Rep.' : 'North Korea',
     'Korea, South'              : 'South Korea',
@@ -220,6 +226,7 @@ COUNTRY_RENAME = {
     'Brunei Darussalam'         : 'Brunei',
     'Macao, China'              : 'Macau',
     'Hong Kong, China'          : 'Hong Kong',
+    'Taiwan, China'             : 'Taiwan',
     'Palau (Republic of)'       : 'Palau',
     'People\'s Republic of China'   : 'China',
     'Artsakh'                   : 'Nagorno-Karabakh',
@@ -233,9 +240,11 @@ COUNTRY_RENAME = {
     # Africa
     'Somaliland'                : 'Somalia',
     'Swaziland'                 : 'Eswatini',
+    'Swaziland (Kingdom of)'    : 'Eswatini',
     'Central African Rep.'      : 'Central African Republic',
     'Congo'                     : 'Republic of the Congo',
     'Republic of Congo'         : 'Republic of the Congo',
+    'Congo (Republic of the)'   : 'Republic of the Congo',
     'Congo, Republic'           : 'Republic of the Congo',
     'Congo, Dem. Rep.'          : 'Democratic Republic of the Congo',
     'Dem. Rep. of the Congo'    : 'Democratic Republic of the Congo',
@@ -260,6 +269,7 @@ COUNTRY_RENAME = {
     'Reunion'                   : 'Réunion',
     'Saint Barthelemy'          : 'Saint Barthélemy',
     'Timor-Leste'               : 'East Timor',
+    'Timor-Leste (Democratic Republic of)' : 'East Timor',
     'Virgin Islands, British'   : 'British Virgin Islands',
     'Virgin Islands, US'        : 'United States Virgin Islands',
     'US Virgin Islands'         : 'United States Virgin Islands',
@@ -270,9 +280,11 @@ COUNTRY_RENAME = {
     'Midway Island, USA'        : 'Midway Island',
     'Dominican Rep.'            : 'Dominican Republic',
     'Northern Marianas'         : 'Northern Mariana Islands',
+    'Diego Garcia'              : 'British Indian Ocean Territory',
     'Chatham Island, New Zealand'   : 'Chatham Island',
     'Collectivity of Saint Martin'  : 'Saint Martin', # needed
     'Micronesia, Federated States of'       : 'Federated States of Micronesia',
+    'Micronesia (Federated States of)'      : 'Federated States of Micronesia',
     'French Southern and Antarctic Lands'   : 'French Southern Territories',
     #
     # others
@@ -853,7 +865,7 @@ WFB_UNINHABITED = {
     'Europa Island'         : _URL_Scattered_Islands,
     'Jarvis Island'         : _URL_US_Insular_area,
     'Spratly Islands'       : 'https://en.wikipedia.org/wiki/Spratly_Islands', # disputed  
-    #   between China / Taiwan / Malaysia / Philippines / Vietnam
+    # between China / Taiwan / Malaysia / Philippines / Vietnam
     'Howland Island'        : _URL_US_Insular_area,
     'Kingman Reef'          : _URL_US_Insular_area,
     }
@@ -1011,4 +1023,17 @@ def patch_itut_spc(spclist):
                 spclist[newname] = spcs
 
 patch_itut_spc(ITUT_SPC_1199)
+
+
+def patch_itut_sanc(sanclist):
+    print('[+] patch ITU-T list of SANC: %r' % id(sanclist))
+    #
+    isonameset  = set([r['country_name'] for r in WIKIP_ISO3166.values()])
+    for sanc, cntr in list(sanclist.items()):
+        if cntr not in isonameset:
+            newname = _patch_country_name(cntr)
+            if newname:
+                sanclist[sanc] = newname
+
+patch_itut_sanc(ITUT_SANC_1125)
 

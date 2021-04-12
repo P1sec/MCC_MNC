@@ -32,6 +32,7 @@ import sys
 import argparse
 #
 from gen.p1_ispc    import P1_ISPC
+from gen.p1_sanc    import P1_SANC
 from gen.p1_cc2     import P1_CC2
 from gen.p1_cntr    import P1_CNTR
 from gen.p1_terr    import P1_TERR
@@ -41,12 +42,22 @@ from patch_country_dep import COUNTRY_SPEC
 
 
 def print_ispc(ispc, ext=0):
-    cntr, ope, city, pcint = P1_ISPC[ispc]
+    #
+    if ispc in P1_ISPC:
+        cntr, ope, uname, pcint = P1_ISPC[ispc]
+    else:
+        pcint = conv_pc_383(ispc)
+        uname = ''
+        ope   = ''
+        # check with the 3-8 prefix only against the SANC list
+        pc_pref = '-'.join(ispc.split('-')[:2])
+        cntr  = P1_SANC.get(pc_pref, 'unknown')   
     assert( int(pcint) == conv_pc_383(ispc) )
+    #
     print('> %s: International Signaling Point Code' % ispc)
     print('  PC integer    : %s' % pcint)
     print('  country       : %s' % cntr)
-    print('  city          : %s' % city)
+    print('  unique name   : %s' % uname)
     print('  operator      : %s' % ope)
     if ext:
         if cntr in P1_CNTR:
@@ -66,7 +77,7 @@ def print_ispc(ispc, ext=0):
                     for cc2 in cntr_spec['sub_cc2']:
                         print_cntr(P1_CC2[cc2], ext=ext-1)
                 found = True
-            if not found:
+            if not found and cntr.lower() not in ('reserved', 'unknown'):
                 print('> unknown country: %s' % cntr)
 
 
@@ -86,12 +97,27 @@ def main():
     else:
         for ispc in args.ISPC:
             if '-' not in ispc:
-                ispc = conv_pc_383(ispc)
-            #
-            if ispc not in P1_ISPC:
-                print('> unknown ISPC: %s\n' % ispc)
+                # convert from integer to 3-8-3 format
+                try:
+                    ispc = conv_pc_383(ispc)
+                except Exception:
+                    print('invalid format for ISPC: 3-8-3 or integer format required')
+                    return 0
             else:
-                print_ispc(ispc, args.x)
+                if ispc.count('-') != 2:
+                    print('invalid format for ISPC: 3-8-3 or integer format required')
+                    return 0
+                try:
+                    a, b, c = map(int, ispc.split('-'))
+                except Exception:
+                    print('invalid format for ISPC: 3-8-3 or integer format required')
+                    return 0
+                else:
+                    if not 0 <= a <= 7 or not 0 <= b <= 255 or not 0 <= c <= 7:
+                        print('invalid format for ISPC: 3-8-3 or integer format required')
+                        return 0
+            #
+            print_ispc(ispc, args.x)
             print('')
     #
     return 0
