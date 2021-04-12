@@ -606,7 +606,8 @@
       "mccmnc": [
         "63102",
         "63103",
-        "63104"
+        "63104",
+        "63105"
       ],
       "msisdn": [
         "244"
@@ -1650,8 +1651,8 @@
           ],
           "popul": 164098818,
           "ports": {
-            "container": "Chittagong (2,566,597) (2017)",
-            "seaport": "Chittagong"
+            "container": "Chattogram (2,566,597) (2017)",
+            "seaport": "Chattogram"
           },
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BD",
@@ -3358,7 +3359,7 @@
           },
           "capital": {
             "coord": "3 25 S, 29 55 E",
-            "name": "Gitega (political capital), Bujumbura (commercial capital); note - in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; all branches of the government are expected to have moved from Bujumbura to Gitega by 2021",
+            "name": "Gitega (political capital), Bujumbura (commercial capital); note - in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; all branches of the government are expected to have moved from Bujumbura to Gitega by 2022",
             "time_diff": "UTC+2"
           },
           "coord": [
@@ -3643,8 +3644,7 @@
             "bord": {
               "United States": 8893
             },
-            "len": 8893,
-            "note": "Canada is the world's largest country that borders only one country"
+            "len": 8893
           },
           "capital": {
             "coord": "45 25 N, 75 42 W",
@@ -5161,8 +5161,7 @@
             "bord": {
               "US Naval Base at Guantanamo Bay": 28
             },
-            "len": 28,
-            "note": "Guantanamo Naval Base is leased by the US and remains part of Cuba"
+            "len": 28
           },
           "capital": {
             "coord": "23 07 N, 82 21 W",
@@ -6526,7 +6525,7 @@
           },
           "capital": {
             "coord": "15 20 N, 38 56 E",
-            "name": "Asmara (Asmera)",
+            "name": "Asmara",
             "time_diff": "UTC+3"
           },
           "coast": 2234,
@@ -8461,9 +8460,7 @@
         },
         "nameset": [
           "greenland",
-          "kalaallit nunaat",
-          "kalaallit nunaat note: named by norwegian adventurer erik thorvaldsson",
-          "kalaallit nunaat note: named by norwegian adventurer erik thorvaldsson (erik the red) in a.d. 985 in order to entice settlers to the island"
+          "kalaallit nunaat"
         ],
         "tel": {
           "code": "299",
@@ -14277,9 +14274,7 @@
         },
         "nameset": [
           "mongol uls",
-          "mongolia",
-          "state of mongolia",
-          "the state of mongolia"
+          "mongolia"
         ],
         "tel": {
           "code": "976",
@@ -14529,7 +14524,7 @@
               "Spain": 8
             },
             "len": 3523,
-            "note": "an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera; border with Spain (Ceuta)"
+            "note": "border with Spain (Ceuta)"
           },
           "capital": {
             "coord": "34 01 N, 6 49 W",
@@ -20057,7 +20052,7 @@
           ],
           "popul": 690598,
           "ports": {
-            "seaport": "Honiara, Malloco Bay, Viru Harbor, Tulaghi"
+            "seaport": "Honiara, Malloco Bay, Viru Harbor, Tulagi"
           },
           "region": "Oceania",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:SB",
@@ -20524,8 +20519,7 @@
               "Sudan": 2158,
               "Uganda": 475
             },
-            "len": 6018,
-            "note": "South Sudan-Sudan boundary represents 1 January 1956 alignment; final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan"
+            "len": 6018
           },
           "capital": {
             "coord": "04 51 N, 31 37 E",
@@ -20620,7 +20614,7 @@
               "Portugal": 1224
             },
             "len": 1952,
-            "note": "an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera; border with Morocco (Ceuta)"
+            "note": "border with Morocco (Ceuta)"
           },
           "capital": {
             "coord": "40 24 N, 3 41 W",
@@ -20888,8 +20882,7 @@
               "Libya": 382,
               "South Sudan": 2158
             },
-            "len": 6819,
-            "note": "Sudan-South Sudan boundary represents 1 January 1956 alignment; final alignment pending negotiations and demarcation; final sovereignty status of Abyei region pending negotiations between Sudan and South Sudan"
+            "len": 6819
           },
           "capital": {
             "coord": "15 36 N, 32 32 E",
@@ -21276,6 +21269,7 @@
         "24046",
         "24047",
         "24048",
+        "24049",
         "24060",
         "24061",
         "24063",
@@ -23486,8 +23480,7 @@
               "Canada": 8893,
               "Mexico": 3155
             },
-            "len": 12048,
-            "note": "US Naval Base at Guantanamo Bay, Cuba is leased by the US and is part of Cuba; the base boundary is 28.5 km"
+            "len": 12048
           },
           "capital": {
             "coord": "38 53 N, 77 02 W",

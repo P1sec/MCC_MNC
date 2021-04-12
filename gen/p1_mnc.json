@@ -4078,7 +4078,9 @@
         "LTE 900",
         "LTE 1800",
         "LTE 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 1800",
+        "5G 2100"
       ],
       "brand": "Vodafone",
       "cc2s": [
@@ -6630,7 +6632,7 @@
       ],
       "country": "Sweden",
       "ope": false,
-      "operator": "Tele2 Business AB",
+      "operator": "Tele2 Sverige AB",
       "src": "Wikipedia"
     },
     "24015": {
@@ -7077,6 +7079,19 @@
       "country": "Sweden",
       "ope": false,
       "operator": "Tismi BV",
+      "src": "Wikipedia"
+    },
+    "24049": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "SE"
+      ],
+      "country": "Sweden",
+      "ope": false,
+      "operator": "Telia Sverige AB",
       "src": "Wikipedia"
     },
     "24060": {
@@ -12840,7 +12855,7 @@
         "UMTS 2100",
         "LTE 1800"
       ],
-      "brand": "",
+      "brand": "TOSA",
       "cc2s": [
         "FO"
       ],
@@ -29932,7 +29947,9 @@
         "GSM 900",
         "UMTS 900",
         "UMTS 2100",
+        "LTE 900",
         "LTE 1800",
+        "LTE 2100",
         "LTE 2600"
       ],
       "brand": "IR-TCI (Hamrah-e-Avval)",
@@ -29947,7 +29964,7 @@
     "43212": {
       "bands": [
         "LTE 800",
-        "TD-LTE 1900"
+        "TD-LTE 2600"
       ],
       "brand": "Avacell(HiWEB)",
       "cc2s": [
@@ -30034,10 +30051,12 @@
         "GSM 900",
         "UMTS 900",
         "UMTS 2100",
+        "LTE 900",
         "LTE 1800",
+        "LTE 2100",
         "LTE 2600",
         "TD-LTE 3500",
-        "5G"
+        "5G 3500"
       ],
       "brand": "MTN Irancell",
       "cc2s": [
@@ -30221,7 +30240,8 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "Ucell",
       "cc2s": [
@@ -30818,7 +30838,8 @@
         "LTE 2100",
         "TD-LTE 2500",
         "TD-LTE 3500",
-        "5G 3700"
+        "5G 3700",
+        "5G 28000"
       ],
       "brand": "SoftBank",
       "cc2s": [
@@ -30840,7 +30861,8 @@
         "LTE 2100",
         "TD-LTE 2500",
         "TD-LTE 3500",
-        "5G 3700"
+        "5G 3700",
+        "5G 28000"
       ],
       "brand": "SoftBank",
       "cc2s": [
@@ -31169,6 +31191,7 @@
         "LTE 2100",
         "TD-LTE 2500",
         "TD-LTE 3500",
+        "5G 800",
         "5G 3500",
         "5G 3700",
         "5G 28000"
@@ -31192,6 +31215,7 @@
         "LTE 2100",
         "TD-LTE 2500",
         "TD-LTE 3500",
+        "5G 800",
         "5G 3500",
         "5G 3700",
         "5G 28000"
@@ -31215,6 +31239,7 @@
         "LTE 2100",
         "TD-LTE 2500",
         "TD-LTE 3500",
+        "5G 800",
         "5G 3500",
         "5G 3700",
         "5G 28000"
@@ -31238,6 +31263,7 @@
         "LTE 2100",
         "TD-LTE 2500",
         "TD-LTE 3500",
+        "5G 800",
         "5G 3500",
         "5G 3700",
         "5G 28000"
@@ -33739,7 +33765,7 @@
         "BD"
       ],
       "country": "Bangladesh",
-      "ope": true,
+      "ope": false,
       "operator": "Bangladesh Internet Exchange Limited (BIEL)",
       "src": "Wikipedia"
     },
@@ -38891,6 +38917,19 @@
       "operator": "MOVICEL Telecommunications S.A.",
       "src": "Wikipedia"
     },
+    "63105": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "AO"
+      ],
+      "country": "Angola",
+      "ope": false,
+      "operator": "Africell",
+      "src": "Wikipedia"
+    },
     "63201": {
       "bands": [
         "GSM 900",
@@ -41965,7 +42004,9 @@
         "UMTS 850",
         "LTE 700",
         "LTE 1900",
-        "TD-LTE 3500"
+        "TD-LTE 3500",
+        "5G 3500",
+        "5G 39000"
       ],
       "brand": "Claro",
       "cc2s": [
@@ -41995,7 +42036,8 @@
       "bands": [
         "UMTS 1900",
         "LTE 1700",
-        "TD-LTE 2300"
+        "TD-LTE 2300",
+        "5G 3500"
       ],
       "brand": "Entel",
       "cc2s": [
@@ -42442,13 +42484,13 @@
       "bands": [
         "MVNO"
       ],
-      "brand": "Correios",
+      "brand": "Surf Telecom",
       "cc2s": [
         "BR"
       ],
       "country": "Brazil",
       "ope": true,
-      "operator": "Correios Celular",
+      "operator": "Correios Celular[pt]",
       "src": "Wikipedia"
     },
     "72418": {
@@ -44521,7 +44563,7 @@
       "cc2s": [],
       "country": "International_operators",
       "ope": true,
-      "operator": "Deutsche Telekom AG",
+      "operator": "Inmarsat Ltd.",
       "src": "Wikipedia"
     },
     "90154": {

@@ -719,6 +719,7 @@
         "24046",
         "24047",
         "24048",
+        "24049",
         "24060",
         "24061",
         "24063",
@@ -1320,7 +1321,7 @@
         "28803"
       ],
       "notes": "",
-      "reg": "",
+      "reg": "Faroese Telecommunications Authority / Fjarskiftiseftirliti\u00f0",
       "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Faroe_Islands_(Kingdom_of_Denmark)_\u2013_FO"
     },
     "289": {
@@ -4488,7 +4489,8 @@
       "mncs": [
         "63102",
         "63103",
-        "63104"
+        "63104",
+        "63105"
       ],
       "notes": "",
       "reg": "",
@@ -5185,7 +5187,7 @@
       "mncs": [
         "74204"
       ],
-      "notes": "French Guinana shares MCC 340 in addition to using the assigned MCC 742",
+      "notes": "French Guiana shares MCC 340 in addition to using the assigned MCC 742",
       "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
       "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#French_Guiana_(France)_\u2013_GF"
     },

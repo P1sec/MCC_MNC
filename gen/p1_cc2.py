@@ -425,7 +425,7 @@ P1_CC2 = \
                               'tld': '.ao',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ao'}},
           'mcc': ['631'],
-          'mccmnc': ['63102', '63103', '63104'],
+          'mccmnc': ['63102', '63103', '63104', '63105'],
           'msisdn': ['244'],
           'name': 'Angola',
           'url': 'https://en.wikipedia.org/wiki/Angola'},
@@ -985,7 +985,7 @@ P1_CC2 = \
                               'coast': 580,
                               'coord': ['24 00 N, 90 00 E'],
                               'popul': 164098818,
-                              'ports': {'container': 'Chittagong (2,566,597) (2017)', 'seaport': 'Chittagong'},
+                              'ports': {'container': 'Chattogram (2,566,597) (2017)', 'seaport': 'Chattogram'},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BD',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bangladesh'},
@@ -1280,7 +1280,7 @@ P1_CC2 = \
                                                    'in January 2019, the Burundian parliament voted to make Gitega the '
                                                    'political capital of the country while Bujumbura would remain its '
                                                    'economic capital; all branches of the government are expected to '
-                                                   'have moved from Bujumbura to Gitega by 2021',
+                                                   'have moved from Bujumbura to Gitega by 2022',
                                            'time_diff': 'UTC+2'},
                               'coord': ['3 30 S, 30 00 E'],
                               'popul': 12241065,
@@ -1997,9 +1997,7 @@ P1_CC2 = \
           'dep': None,
           'infos': { 'codes': {'cc3': 'CAN', 'ccn': '124', 'gec': 'CA', 'stan': 'CAN'},
                      'geo': { 'airports': 1467,
-                              'bound': { 'bord': {'United States': 8893},
-                                         'len': 8893,
-                                         'note': "Canada is the world's largest country that borders only one country"},
+                              'bound': {'bord': {'United States': 8893}, 'len': 8893},
                               'capital': {'coord': '45 25 N, 75 42 W', 'name': 'Ottawa', 'time_diff': 'UTC-5'},
                               'coast': 202080,
                               'coord': ['60 00 N, 95 00 W'],
@@ -2963,9 +2961,7 @@ P1_CC2 = \
           'dep': None,
           'infos': { 'codes': {'cc3': 'CUB', 'ccn': '192', 'gec': 'CU', 'stan': 'CUB'},
                      'geo': { 'airports': 133,
-                              'bound': { 'bord': {'US Naval Base at Guantanamo Bay': 28},
-                                         'len': 28,
-                                         'note': 'Guantanamo Naval Base is leased by the US and remains part of Cuba'},
+                              'bound': {'bord': {'US Naval Base at Guantanamo Bay': 28}, 'len': 28},
                               'capital': {'coord': '23 07 N, 82 21 W', 'name': 'Havana', 'time_diff': 'UTC-5'},
                               'coast': 3735,
                               'coord': ['21 30 N, 80 00 W'],
@@ -3940,7 +3936,7 @@ P1_CC2 = \
           'infos': { 'codes': {'cc3': 'ERI', 'ccn': '232', 'gec': 'ER', 'stan': 'ERI'},
                      'geo': { 'airports': 13,
                               'bound': {'bord': {'Djibouti': 125, 'Ethiopia': 1033, 'Sudan': 682}, 'len': 1840},
-                              'capital': {'coord': '15 20 N, 38 56 E', 'name': 'Asmara (Asmera)', 'time_diff': 'UTC+3'},
+                              'capital': {'coord': '15 20 N, 38 56 E', 'name': 'Asmara', 'time_diff': 'UTC+3'},
                               'coast': 2234,
                               'coord': ['15 00 N, 39 00 E'],
                               'popul': 6147398,
@@ -3990,9 +3986,7 @@ P1_CC2 = \
                                                    'Morocco': 8,
                                                    'Portugal': 1224},
                                          'len': 1952,
-                                         'note': 'an additional 75-meter border segment exists between Morocco and the '
-                                                 'Spanish exclave of Penon de Velez de la Gomera; border with Morocco '
-                                                 '(Ceuta)'},
+                                         'note': 'border with Morocco (Ceuta)'},
                               'capital': {'coord': '40 24 N, 3 41 W', 'name': 'Madrid', 'time_diff': 'UTC+1'},
                               'coast': 4964,
                               'coord': ['40 00 N, 4 00 W'],
@@ -5032,11 +5026,7 @@ P1_CC2 = \
                               'region': 'Arctic Region',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GL',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/greenland'},
-                     'nameset': [ 'greenland',
-                                  'kalaallit nunaat',
-                                  'kalaallit nunaat note: named by norwegian adventurer erik thorvaldsson',
-                                  'kalaallit nunaat note: named by norwegian adventurer erik thorvaldsson (erik the '
-                                  'red) in a.d. 985 in order to entice settlers to the island'],
+                     'nameset': ['greenland', 'kalaallit nunaat'],
                      'tel': { 'code': '299',
                               'domestic': [ '13 per 100 for fixed-line subscriptions and 115 per 100 for '
                                             'mobile-cellular',
@@ -8358,9 +8348,7 @@ P1_CC2 = \
                      'geo': { 'airports': 62,
                               'bound': { 'bord': {'Algeria': 1941, 'Mauritania': 1564, 'Spain': 8},
                                          'len': 3523,
-                                         'note': 'an additional 75-meter border segment exists between Morocco and the '
-                                                 'Spanish exclave of Penon de Velez de la Gomera; border with Spain '
-                                                 '(Ceuta)'},
+                                         'note': 'border with Spain (Ceuta)'},
                               'capital': {'coord': '34 01 N, 6 49 W', 'name': 'Rabat', 'time_diff': 'UTC 0'},
                               'coast': 2945,
                               'coord': ['28 30 N, 10 00 W'],
@@ -8901,7 +8889,7 @@ P1_CC2 = \
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MN',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mongolia'},
-                     'nameset': ['mongol uls', 'mongolia', 'state of mongolia', 'the state of mongolia'],
+                     'nameset': ['mongol uls', 'mongolia'],
                      'tel': { 'code': '976',
                               'domestic': [ 'very low fixed-line teledensity 12 per 100',
                                             'there are four mobile-cellular providers and subscribership is increasing '
@@ -11494,7 +11482,7 @@ P1_CC2 = \
                               'coast': 5313,
                               'coord': ['8 00 S, 159 00 E'],
                               'popul': 690598,
-                              'ports': {'seaport': 'Honiara, Malloco Bay, Viru Harbor, Tulaghi'},
+                              'ports': {'seaport': 'Honiara, Malloco Bay, Viru Harbor, Tulagi'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SB',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/solomon-islands'},
@@ -11588,11 +11576,7 @@ P1_CC2 = \
                                                    'Ethiopia': 744,
                                                    'Libya': 382,
                                                    'South Sudan': 2158},
-                                         'len': 6819,
-                                         'note': 'Sudan-South Sudan boundary represents 1 January 1956 alignment; '
-                                                 'final alignment pending negotiations and demarcation; final '
-                                                 'sovereignty status of Abyei region pending negotiations between '
-                                                 'Sudan and South Sudan'},
+                                         'len': 6819},
                               'capital': {'coord': '15 36 N, 32 32 E', 'name': 'Khartoum', 'time_diff': 'UTC+3'},
                               'coast': 853,
                               'coord': ['15 00 N, 30 00 E'],
@@ -11754,6 +11738,7 @@ P1_CC2 = \
                       '24046',
                       '24047',
                       '24048',
+                      '24049',
                       '24060',
                       '24061',
                       '24063',
@@ -12290,11 +12275,7 @@ P1_CC2 = \
                                                    'Kenya': 317,
                                                    'Sudan': 2158,
                                                    'Uganda': 475},
-                                         'len': 6018,
-                                         'note': 'South Sudan-Sudan boundary represents 1 January 1956 alignment; '
-                                                 'final alignment pending negotiations and demarcation; final '
-                                                 'sovereignty status of Abyei Area pending negotiations between South '
-                                                 'Sudan and Sudan'},
+                                         'len': 6018},
                               'capital': {'coord': '04 51 N, 31 37 E', 'name': 'Juba', 'time_diff': 'UTC+3'},
                               'cmt': 'IANA has designated .ss as the ccTLD for South Sudan, however it has not been '
                                      'activated in DNS root zone',
@@ -13813,10 +13794,7 @@ P1_CC2 = \
           'dep': None,
           'infos': { 'codes': {'cc3': 'USA', 'ccn': '840', 'gec': 'US', 'stan': 'USA'},
                      'geo': { 'airports': 13513,
-                              'bound': { 'bord': {'Canada': 8893, 'Mexico': 3155},
-                                         'len': 12048,
-                                         'note': 'US Naval Base at Guantanamo Bay, Cuba is leased by the US and is '
-                                                 'part of Cuba; the base boundary is 28.5 km'},
+                              'bound': {'bord': {'Canada': 8893, 'Mexico': 3155}, 'len': 12048},
                               'capital': {'coord': '38 53 N, 77 02 W', 'name': 'Washington, DC', 'time_diff': 'UTC-5'},
                               'coast': 19924,
                               'coord': ['38 00 N, 97 00 W'],
