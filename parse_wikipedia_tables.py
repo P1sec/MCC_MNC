@@ -50,6 +50,16 @@ def _strip_wiki_ref(s):
         return s.strip()
 
 
+RE_WIKI_REFNOTE = re.compile(r'\[[ a-zA-Z0-9]*\]')
+
+def _strip_wiki_refnote(s):
+    m = RE_WIKI_REFNOTE.match(s)
+    if m:
+        return s[m.end():].strip()
+    else:
+        return s.strip()
+
+
 #------------------------------------------------------------------------------#
 # parsing Wikipedia ISO-3166 codes
 #------------------------------------------------------------------------------#
@@ -348,7 +358,8 @@ def read_entry_mnc(T_MNC, off):
     rec['operator']     = ''.join(L[3].itertext()).strip()
     rec['status']       = explore_text(L[4]).text.strip().lower()
     rec['bands']        = ''.join(L[5].itertext()).strip()
-    rec['notes']        = _strip_wiki_ref(''.join(L[6].itertext()).strip())
+    rec['notes']        = _strip_wiki_refnote(_strip_wiki_ref(''.join(L[6].itertext())))
+    #
     if len(rec['mcc']) > 3:
         # some HTML tab/ref in wikipedia may add the country name before the MCC
         rec['mcc'] = rec['mcc'][-3:]
