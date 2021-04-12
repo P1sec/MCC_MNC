@@ -92,12 +92,28 @@ Some other sources may be found online ; additionally, it seems the R programmin
 has nice geography-related packages.
 
 
+## For international signaling point codes
+
+ITU-T seems to be the only entity to maintain the list of ISPC. Point codes are 
+the addresses used by each routing equipment at the MTP3 / M3UA layer. Those ISPC
+correspond most often to STP used by telecom operators for international routing of 
+SS7 signaling.
+
+The geographical relation between ISCP prefixes (most significant bits) and countries
+are provided in the document from 2017:
+- https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-Q.708A-2017-PDF-E.pdf
+
+The operational bulletin 1199 from 2020 provides the complete list of those ISPC at the
+time. This is however evolving with differences provided from time to time in other
+operational bulletins.
+
+
 ### Working with ITU-T operational bulletins
 
 ITU-T is publishing bi-mensual bulletins (23 or 24 a year, depends...), containing
-all additions and modifications to numbering plans and MNC identifiers. Complete
-lists of MCC-MNC can be found in bulletin 1111 from 2016 and bulletin 1162 from 2018.
-Moreover, differentials can be provided into individual bulletin.
+all additions and modifications to numbering plans, MNC identifiers and other signaling-related
+information. Complete lists of MCC-MNC can be found in bulletin 1111 from 2016 and 
+bulletin 1162 from 2018. Moreover, differentials can be provided into individual bulletin.
 
 One of the script can be used to download all bulletins in PDF (starting from 1111),
 and convert them into text, using the Linux command ```pdftotext```. All resulting
