@@ -1338,7 +1338,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Belgium",
         "mcc": "206",
         "mnc": "30",
-        "notes": "[20] Uses Orange network",
+        "notes": "Uses Orange network",
         "operator": "Unleashed NV",
         "status": "operational"
       },
@@ -2298,7 +2298,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Spain",
         "mcc": "214",
         "mnc": "02",
-        "notes": "[143] Some MVNO use this MNC (Fibracat, Aircom, Anxanet, Netports)",
+        "notes": "Some MVNO use this MNC (Fibracat, Aircom, Anxanet, Netports)",
         "operator": "Alta Tecnologia en Comunicacions SL",
         "status": "operational"
       },
@@ -2448,7 +2448,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Spain",
         "mcc": "214",
         "mnc": "12",
-        "notes": "Former Contacta Servicios Avanzados de Telecomunicaciones SL",
+        "notes": "Former Contacta Servicios Avanzados de Telecomunicaciones SL;",
         "operator": "SAC CONVERGENT AGGREGATION SERVICES, S.L.U.",
         "status": "unknown"
       },
@@ -4298,7 +4298,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 1800 / 5G 2100",
         "brand": "Vodafone",
         "codes_alpha_2": [
           "CZ"
@@ -7003,7 +7003,7 @@
         "mcc": "240",
         "mnc": "14",
         "notes": "Former TDC Sverige AB (MVNO)",
-        "operator": "Tele2 Business AB",
+        "operator": "Tele2 Sverige AB",
         "status": "unknown"
       },
       {
@@ -7514,6 +7514,21 @@
         "mnc": "48",
         "notes": "",
         "operator": "Tismi BV",
+        "status": "unknown"
+      },
+      {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [
+          "SE"
+        ],
+        "country_name": "Sweden",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Sweden",
+        "mcc": "240",
+        "mnc": "49",
+        "notes": "",
+        "operator": "Telia Sverige AB",
         "status": "unknown"
       },
       {
@@ -11517,7 +11532,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Germany",
         "mcc": "262",
         "mnc": "18",
-        "notes": "[105] CDMA 450 shut down",
+        "notes": "CDMA 450 shut down",
         "operator": "NetCologne",
         "status": "operational"
       },
@@ -13449,7 +13464,7 @@
       },
       {
         "bands": "GSM 900 / UMTS 2100 / LTE 1800",
-        "brand": "",
+        "brand": "TOSA",
         "codes_alpha_2": [
           "FO"
         ],
@@ -14386,7 +14401,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Canada",
         "mcc": "302",
         "mnc": "550",
-        "notes": "[34] Private LTE",
+        "notes": "Private LTE",
         "operator": "Star Solutions International Inc.",
         "status": "unknown"
       },
@@ -14821,7 +14836,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Canada",
         "mcc": "302",
         "mnc": "760",
-        "notes": "[26] Acquired by Telus, CDMA network shut down 2014",
+        "notes": "Acquired by Telus, CDMA network shut down 2014",
         "operator": "Telus Mobility",
         "status": "operational"
       },
@@ -22943,7 +22958,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Barbados",
         "mcc": "342",
         "mnc": "820",
-        "notes": "[14] Former Sunbeach Communications",
+        "notes": "Former Sunbeach Communications",
         "operator": "Neptune Communications Inc.",
         "status": "unknown"
       },
@@ -23942,7 +23957,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
         "mcc": "374",
         "mnc": "12",
-        "notes": "[52] LTE bands 2 / 28 / 41",
+        "notes": "LTE bands 2 / 28 / 41",
         "operator": "TSTT",
         "status": "operational"
       },
@@ -24002,7 +24017,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
         "mcc": "374",
         "mnc": "140",
-        "notes": "[53] Shut down 2008; Withdrawn",
+        "notes": "Shut down 2008; Withdrawn",
         "operator": "LaqTel Ltd.",
         "status": "unknown"
       },
@@ -24214,7 +24229,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Kazakhstan",
         "mcc": "401",
         "mnc": "07",
-        "notes": "CDMA 800 closed 1 July 2015;[21] acquired by Tele2",
+        "notes": "CDMA 800 closed 1 July 2015;[22] acquired by Tele2",
         "operator": "Altel",
         "status": "operational"
       },
@@ -24349,7 +24364,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "05",
-        "notes": "[27] Former Hutch, Fascel, Vodafone India",
+        "notes": "Former Hutch, Fascel, Vodafone India",
         "operator": "Gujarat",
         "status": "operational"
       },
@@ -24364,7 +24379,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "07",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Andhra Pradesh and Telangana",
         "status": "operational"
       },
@@ -24409,7 +24424,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "11",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Delhi & NCR",
         "status": "operational"
       },
@@ -24424,7 +24439,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "12",
-        "notes": "[27] Former Escotel, IDEA",
+        "notes": "Former Escotel, IDEA",
         "operator": "Haryana",
         "status": "operational"
       },
@@ -24439,7 +24454,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "13",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Andhra Pradesh and Telangana",
         "status": "operational"
       },
@@ -24454,7 +24469,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "14",
-        "notes": "[27] Former Spice, IDEA",
+        "notes": "Former Spice, IDEA",
         "operator": "Punjab",
         "status": "operational"
       },
@@ -24469,7 +24484,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "15",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Uttar Pradesh (East)",
         "status": "operational"
       },
@@ -24529,7 +24544,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "19",
-        "notes": "[27] Former Escotel, IDEA",
+        "notes": "Former Escotel, IDEA",
         "operator": "Kerala",
         "status": "operational"
       },
@@ -24544,7 +24559,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "20",
-        "notes": "[27] Former Hutchison Maxtouch, Orange, Hutch, Vodafone India",
+        "notes": "Former Hutchison Maxtouch, Orange, Hutch, Vodafone India",
         "operator": "Mumbai",
         "status": "operational"
       },
@@ -24574,7 +24589,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "22",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Maharashtra & Goa",
         "status": "operational"
       },
@@ -24589,7 +24604,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "24",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Gujarat",
         "status": "operational"
       },
@@ -24619,7 +24634,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "27",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Maharashtra & Goa",
         "status": "operational"
       },
@@ -24664,7 +24679,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "30",
-        "notes": "[27] Former Vodafone India, Command, Hutch",
+        "notes": "Former Vodafone India, Command, Hutch",
         "operator": "Kolkata",
         "status": "operational"
       },
@@ -24694,7 +24709,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "34",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Haryana",
         "status": "operational"
       },
@@ -24709,7 +24724,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "35",
-        "notes": "[28][29] Bankrupt in 2018",
+        "notes": "[30] Bankrupt in 2018",
         "operator": "Himachal Pradesh",
         "status": "unknown"
       },
@@ -24754,7 +24769,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "38",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Assam",
         "status": "operational"
       },
@@ -24814,7 +24829,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "43",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Tamil Nadu",
         "status": "operational"
       },
@@ -24829,7 +24844,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "44",
-        "notes": "[27] Former Spice, IDEA",
+        "notes": "Former Spice, IDEA",
         "operator": "Karnataka",
         "status": "operational"
       },
@@ -24859,7 +24874,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "46",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Kerala",
         "status": "operational"
       },
@@ -24919,7 +24934,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "51",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Himachal Pradesh",
         "status": "operational"
       },
@@ -24949,7 +24964,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "53",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Punjab",
         "status": "operational"
       },
@@ -24964,7 +24979,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "54",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Uttar Pradesh (West)",
         "status": "operational"
       },
@@ -24979,7 +24994,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "55",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Uttar Pradesh (East)",
         "status": "operational"
       },
@@ -24994,7 +25009,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "56",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Uttar Pradesh (West)",
         "status": "operational"
       },
@@ -25009,7 +25024,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "57",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Gujarat",
         "status": "operational"
       },
@@ -25024,7 +25039,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "58",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Madhya Pradesh & Chhattisgarh",
         "status": "operational"
       },
@@ -25039,7 +25054,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "59",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Rajasthan",
         "status": "operational"
       },
@@ -25054,7 +25069,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "60",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Rajasthan",
         "status": "operational"
       },
@@ -25069,7 +25084,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "62",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Jammu & Kashmir",
         "status": "operational"
       },
@@ -25084,7 +25099,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "64",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Chennai",
         "status": "operational"
       },
@@ -25099,7 +25114,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "66",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Maharashtra & Goa",
         "status": "operational"
       },
@@ -25129,7 +25144,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "68",
-        "notes": "[27] To be merged with BSNL",
+        "notes": "To be merged with BSNL",
         "operator": "Delhi & NCR",
         "status": "operational"
       },
@@ -25144,7 +25159,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "69",
-        "notes": "[27] To be merged with BSNL",
+        "notes": "To be merged with BSNL",
         "operator": "Mumbai",
         "status": "operational"
       },
@@ -25174,7 +25189,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "71",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Karnataka (Bangalore)",
         "status": "operational"
       },
@@ -25189,7 +25204,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "72",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Kerala",
         "status": "operational"
       },
@@ -25204,7 +25219,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "73",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Andhra Pradesh and Telangana",
         "status": "operational"
       },
@@ -25219,7 +25234,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "74",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "West Bengal",
         "status": "operational"
       },
@@ -25234,7 +25249,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "75",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Bihar",
         "status": "operational"
       },
@@ -25249,7 +25264,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "76",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Odisha",
         "status": "operational"
       },
@@ -25264,7 +25279,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "77",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "North East",
         "status": "operational"
       },
@@ -25279,7 +25294,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "78",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Madhya Pradesh & Chattishgarh",
         "status": "operational"
       },
@@ -25309,7 +25324,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "80",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Tamil Nadu",
         "status": "operational"
       },
@@ -25324,7 +25339,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "81",
-        "notes": "[27] Former CellOne",
+        "notes": "Former CellOne",
         "operator": "Kolkata",
         "status": "operational"
       },
@@ -25339,7 +25354,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "82",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Himachal Pradesh",
         "status": "operational"
       },
@@ -25369,7 +25384,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "84",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Chennai",
         "status": "operational"
       },
@@ -25399,7 +25414,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "86",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Karnataka",
         "status": "operational"
       },
@@ -25414,7 +25429,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "87",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Rajasthan",
         "status": "operational"
       },
@@ -25429,7 +25444,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "88",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Punjab",
         "status": "operational"
       },
@@ -25444,7 +25459,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "404",
         "mnc": "89",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Uttar Pradesh (East)",
         "status": "operational"
       },
@@ -26329,7 +26344,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "66",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Uttar Pradesh (West)",
         "status": "operational"
       },
@@ -26344,7 +26359,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "67",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "West Bengal",
         "status": "operational"
       },
@@ -26359,7 +26374,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "70",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Bihar & Jharkhand",
         "status": "operational"
       },
@@ -26374,7 +26389,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "750",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Jammu & Kashmir",
         "status": "operational"
       },
@@ -26389,7 +26404,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "751",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Assam",
         "status": "operational"
       },
@@ -26404,7 +26419,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "752",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Bihar & Jharkhand",
         "status": "operational"
       },
@@ -26419,7 +26434,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "753",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Odisha",
         "status": "operational"
       },
@@ -26434,7 +26449,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "754",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Himachal Pradesh",
         "status": "operational"
       },
@@ -26449,7 +26464,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "755",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "North East",
         "status": "operational"
       },
@@ -26464,7 +26479,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "756",
-        "notes": "[27] Former Vodafone India",
+        "notes": "Former Vodafone India",
         "operator": "Madhya Pradesh & Chhattisgarh",
         "status": "operational"
       },
@@ -26479,7 +26494,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "799",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Mumbai",
         "status": "operational"
       },
@@ -26839,7 +26854,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "845",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Assam",
         "status": "operational"
       },
@@ -26854,7 +26869,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "846",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Jammu & Kashmir",
         "status": "operational"
       },
@@ -26869,7 +26884,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "847",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Karnataka",
         "status": "operational"
       },
@@ -26884,7 +26899,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "848",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Kolkata",
         "status": "operational"
       },
@@ -26899,7 +26914,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "849",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "North East",
         "status": "operational"
       },
@@ -26914,7 +26929,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "850",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Odisha",
         "status": "operational"
       },
@@ -26929,7 +26944,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "851",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Punjab",
         "status": "operational"
       },
@@ -26944,7 +26959,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "852",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Tamil Nadu",
         "status": "operational"
       },
@@ -26959,7 +26974,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "853",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "West Bengal",
         "status": "operational"
       },
@@ -27334,7 +27349,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "908",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Andhra Pradesh and Telangana",
         "status": "operational"
       },
@@ -27349,7 +27364,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "909",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Delhi",
         "status": "operational"
       },
@@ -27364,7 +27379,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "910",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Haryana",
         "status": "operational"
       },
@@ -27379,7 +27394,7 @@
         "country_url": "https://en.wikipedia.org/wiki/India",
         "mcc": "405",
         "mnc": "911",
-        "notes": "[27] Former IDEA",
+        "notes": "Former IDEA",
         "operator": "Maharashtra",
         "status": "operational"
       },
@@ -28699,7 +28714,7 @@
         "country_url": "https://en.wikipedia.org/wiki/State_of_Palestine",
         "mcc": "425",
         "mnc": "06",
-        "notes": "[2] (Ooredoo)",
+        "notes": "(Ooredoo)",
         "operator": "Wataniya Palestine Mobile Telecommunications Company",
         "status": "operational"
       },
@@ -29349,7 +29364,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600",
         "brand": "IR-TCI (Hamrah-e-Avval)",
         "codes_alpha_2": [
           "IR"
@@ -29364,7 +29379,7 @@
         "status": "operational"
       },
       {
-        "bands": "LTE 800 / TD-LTE 1900",
+        "bands": "LTE 800 / TD-LTE 2600",
         "brand": "Avacell(HiWEB)",
         "codes_alpha_2": [
           "IR"
@@ -29454,7 +29469,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 1800 / LTE 2600 / TD-LTE 3500 / 5G",
+        "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / TD-LTE 3500 / 5G 3500",
         "brand": "MTN Irancell",
         "codes_alpha_2": [
           "IR"
@@ -29649,7 +29664,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600 / 5G 3500",
         "brand": "Ucell",
         "codes_alpha_2": [
           "UZ"
@@ -29989,7 +30004,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Japan",
         "mcc": "440",
         "mnc": "01",
-        "notes": "band 41;[47] WiMAX 2500 shut down 31 Mar 2020",
+        "notes": "band 41;[48] WiMAX 2500 shut down 31 Mar 2020",
         "operator": "UQ Communications Inc.",
         "status": "operational"
       },
@@ -30159,7 +30174,7 @@
         "status": "unknown"
       },
       {
-        "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700",
+        "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700 / 5G 28000",
         "brand": "SoftBank",
         "codes_alpha_2": [
           "JP"
@@ -30174,7 +30189,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700",
+        "bands": "UMTS 900 / UMTS 2100 / LTE 700 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3700 / 5G 28000",
         "brand": "SoftBank",
         "codes_alpha_2": [
           "JP"
@@ -30189,7 +30204,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700 / 5G 28000",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 800 / 5G 3500 / 5G 3700 / 5G 28000",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -30204,7 +30219,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700 / 5G 28000",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 800 / 5G 3500 / 5G 3700 / 5G 28000",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -30219,7 +30234,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700 / 5G 28000",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 800 / 5G 3500 / 5G 3700 / 5G 28000",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -30234,7 +30249,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 3500 / 5G 3700 / 5G 28000",
+        "bands": "CDMA 850 / LTE 700 / LTE 850 / LTE 1500 / LTE 1800 / LTE 2100 / TD-LTE 2500 / TD-LTE 3500 / 5G 800 / 5G 3500 / 5G 3700 / 5G 28000",
         "brand": "au",
         "codes_alpha_2": [
           "JP"
@@ -30424,7 +30439,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Japan",
         "mcc": "441",
         "mnc": "10",
-        "notes": "band 41;[47] WiMAX 2500 shut down 31 Mar 2020",
+        "notes": "band 41;[48] WiMAX 2500 shut down 31 Mar 2020",
         "operator": "UQ Communications Inc.",
         "status": "operational"
       },
@@ -30499,7 +30514,7 @@
         "country_url": "https://en.wikipedia.org/wiki/South_Korea",
         "mcc": "450",
         "mnc": "04",
-        "notes": "NB-IoT network (LTE Cat NB1);[24][2] former CDMA 1800",
+        "notes": "NB-IoT network (LTE Cat NB1);[25][2] former CDMA 1800",
         "operator": "KT",
         "status": "operational"
       },
@@ -32151,7 +32166,7 @@
         "mnc": "09",
         "notes": "",
         "operator": "Bangladesh Internet Exchange Limited (BIEL)",
-        "status": "operational"
+        "status": "unknown"
       },
       {
         "bands": "TD-LTE 2600 / WiMAX 3500",
@@ -32226,7 +32241,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Malaysia",
         "mcc": "502",
         "mnc": "10",
-        "notes": "[54] Former Celcom",
+        "notes": "Former Celcom",
         "operator": "Maxis, DiGi, Celcom, XOX",
         "status": "operational"
       },
@@ -32361,7 +32376,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Malaysia",
         "mcc": "502",
         "mnc": "154",
-        "notes": "[54] Uses Digi",
+        "notes": "Uses Digi",
         "operator": "Talk Focus Sdn Bhd",
         "status": "operational"
       },
@@ -32406,7 +32421,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Malaysia",
         "mcc": "502",
         "mnc": "157",
-        "notes": "[54] Uses U Mobile",
+        "notes": "Uses U Mobile",
         "operator": "Telekomunikasi Indonesia International (M) Sdn Bhd",
         "status": "operational"
       },
@@ -33448,7 +33463,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Australia",
         "mcc": "505",
         "mnc": "88",
-        "notes": "[36] Former Localstar Holding Pty. Ltd.",
+        "notes": "Former Localstar Holding Pty. Ltd.",
         "operator": "Pivotel Group Pty Limited",
         "status": "operational"
       },
@@ -33992,7 +34007,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Thailand",
         "mcc": "520",
         "mnc": "05",
-        "notes": "[80][84] LTE 2300 roaming with 520-47",
+        "notes": "[84] LTE 2300 roaming with 520-47",
         "operator": "DTAC TriNet Company Ltd.",
         "status": "operational"
       },
@@ -35194,7 +35209,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Algeria",
         "mcc": "603",
         "mnc": "03",
-        "notes": "[1] Former Nedjma",
+        "notes": "Former Nedjma",
         "operator": "Wataniya Telecom Alg\u00e9rie",
         "status": "operational"
       },
@@ -37359,6 +37374,21 @@
         "status": "operational"
       },
       {
+        "bands": "Unknown",
+        "brand": "",
+        "codes_alpha_2": [
+          "AO"
+        ],
+        "country_name": "Angola",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Angola",
+        "mcc": "631",
+        "mnc": "05",
+        "notes": "Network to launch by end of 2021",
+        "operator": "Africell",
+        "status": "unknown"
+      },
+      {
         "bands": "GSM 900 / GSM 1800",
         "brand": "Guinetel",
         "codes_alpha_2": [
@@ -38119,7 +38149,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Tanzania",
         "mcc": "640",
         "mnc": "05",
-        "notes": "Former Celtel (Zain);[85][6] LTE band 28",
+        "notes": "Former Celtel (Zain);[86][7] LTE band 28",
         "operator": "Bharti Airtel",
         "status": "operational"
       },
@@ -38795,7 +38825,7 @@
         "country_url": "https://en.wikipedia.org/wiki/List_of_French_islands_in_the_Indian_and_Pacific_oceans",
         "mcc": "647",
         "mnc": "03",
-        "notes": "R\u00e9union\nFormer Only[6][25][26]",
+        "notes": "R\u00e9union\nFormer Only[7][26][27]",
         "operator": "Telco OI",
         "status": "operational"
       },
@@ -40325,7 +40355,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 1900 / UMTS 850 / LTE 700 / LTE 1900 / TD-LTE 3500",
+        "bands": "GSM 1900 / UMTS 850 / LTE 700 / LTE 1900 / TD-LTE 3500 / 5G 3500 / 5G 39000",
         "brand": "Claro",
         "codes_alpha_2": [
           "PE"
@@ -40355,7 +40385,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 1900 / LTE 1700 / TD-LTE 2300",
+        "bands": "UMTS 1900 / LTE 1700 / TD-LTE 2300 / 5G 3500",
         "brand": "Entel",
         "codes_alpha_2": [
           "PE"
@@ -40545,7 +40575,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Brazil",
         "mcc": "724",
         "mnc": "01",
-        "notes": "[5] Through Vivo S.A. network",
+        "notes": "Through Vivo S.A. network",
         "operator": "SISTEER DO BRASIL TELECOMUNICA\u00c7\u00d4ES",
         "status": "unknown"
       },
@@ -40686,7 +40716,7 @@
       },
       {
         "bands": "MVNO",
-        "brand": "Correios",
+        "brand": "Surf Telecom",
         "codes_alpha_2": [
           "BR"
         ],
@@ -40696,7 +40726,7 @@
         "mcc": "724",
         "mnc": "17",
         "notes": "Through TIM network",
-        "operator": "Correios Celular",
+        "operator": "Correios Celular[pt]",
         "status": "operational"
       },
       {
@@ -40710,7 +40740,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Brazil",
         "mcc": "724",
         "mnc": "18",
-        "notes": "[5] Through TIM network",
+        "notes": "Through TIM network",
         "operator": "Datora (Vodafone)",
         "status": "operational"
       },
@@ -42684,7 +42714,7 @@
         "country_url": "",
         "mcc": "901",
         "mnc": "37",
-        "notes": "[58] Global SIM for Data Mobile Broadband and M2M",
+        "notes": "Global SIM for Data Mobile Broadband and M2M",
         "operator": "Transatel",
         "status": "operational"
       },
@@ -42892,8 +42922,8 @@
         "country_url": "",
         "mcc": "901",
         "mnc": "53",
-        "notes": "LTE band 65; ground-based network for aircraft",
-        "operator": "Deutsche Telekom AG",
+        "notes": "Former Deutsche Telekom; LTE band 65; ground-based network for aircraft",
+        "operator": "Inmarsat Ltd.",
         "status": "operational"
       },
       {

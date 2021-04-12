@@ -1472,7 +1472,7 @@ WIKIP_ISO3166 = \
           'country_url': 'https://en.wikipedia.org/wiki/Mongolia',
           'regions_url': 'https://en.wikipedia.org/wiki/ISO_3166-2:MN',
           'sovereignity': 'UN member',
-          'state_name': 'The State of Mongolia'},
+          'state_name': 'Mongolia'},
   'MO': { 'cc_tld': '.mo',
           'cc_tld_url': 'https://en.wikipedia.org/wiki/.mo',
           'code_alpha_2': 'MO',

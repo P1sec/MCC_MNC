@@ -439,7 +439,7 @@
       "notes": ""
     },
     {
-      "authority": "",
+      "authority": "Faroese Telecommunications Authority / Fjarskiftiseftirliti\u00f0",
       "code_alpha_2": "FO",
       "country_name": "Faroe Islands",
       "country_url": "https://en.wikipedia.org/wiki/Faroe_Islands",
@@ -2227,7 +2227,7 @@
       "country_url": "https://en.wikipedia.org/wiki/French_Guiana",
       "mcc": "742",
       "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#French_Guiana_(France)_\u2013_GF",
-      "notes": "French Guinana shares MCC 340 in addition to using the assigned MCC 742"
+      "notes": "French Guiana shares MCC 340 in addition to using the assigned MCC 742"
     },
     {
       "authority": "",
