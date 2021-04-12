@@ -1047,7 +1047,7 @@ WORLD_FB = \
                                                'local_long': 'Gana Prajatantri Bangladesh',
                                                'local_short': 'Bangladesh'},
                              'population': 164098818,
-                             'ports': {'container': 'Chittagong (2,566,597) (2017)', 'seaport': 'Chittagong'},
+                             'ports': {'container': 'Chattogram (2,566,597) (2017)', 'seaport': 'Chattogram'},
                              'region': ['Asia'],
                              'subs_broadband': 10237003,
                              'subs_fixed': 1433460,
@@ -2142,7 +2142,7 @@ WORLD_FB = \
                                                'January 2019, the Burundian parliament voted to make Gitega the '
                                                'political capital of the country while Bujumbura would remain its '
                                                'economic capital; all branches of the government are expected to have '
-                                               'moved from Bujumbura to Gitega by 2021',
+                                               'moved from Bujumbura to Gitega by 2022',
                                        'time_diff': 'UTC+2'},
                           'coastline': 0,
                           'coord': ['3 30 S, 30 00 E'],
@@ -2372,9 +2372,7 @@ WORLD_FB = \
               'gec': 'CA',
               'infos': { 'airports': 1467,
                          'area': {'land': '9,093,507 sq km', 'total': '9,984,670 sq km', 'water': '891,163 sq km'},
-                         'boundaries': { 'bord': {'US': 8893},
-                                         'len': 8893,
-                                         'note': "Canada is the world's largest country that borders only one country"},
+                         'boundaries': {'bord': {'US': 8893}, 'len': 8893},
                          'capital': {'coord': '45 25 N, 75 42 W', 'name': 'Ottawa', 'time_diff': 'UTC-5'},
                          'coastline': 202080,
                          'coord': ['60 00 N, 95 00 W'],
@@ -3395,9 +3393,7 @@ WORLD_FB = \
             'gec': 'CU',
             'infos': { 'airports': 133,
                        'area': {'land': '109,820 sq km', 'total': '110,860 sq km', 'water': '1,040 sq km'},
-                       'boundaries': { 'bord': {'US Naval Base at Guantanamo Bay': 28},
-                                       'len': 28,
-                                       'note': 'Guantanamo Naval Base is leased by the US and remains part of Cuba'},
+                       'boundaries': {'bord': {'US Naval Base at Guantanamo Bay': 28}, 'len': 28},
                        'capital': {'coord': '23 07 N, 82 21 W', 'name': 'Havana', 'time_diff': 'UTC-5'},
                        'coastline': 3735,
                        'coord': ['21 30 N, 80 00 W'],
@@ -4106,7 +4102,7 @@ WORLD_FB = \
                'infos': { 'airports': 13,
                           'area': {'land': '101,000 sq km', 'total': '117,600 sq km', 'water': '16,600 sq km'},
                           'boundaries': {'bord': {'Djibouti': 125, 'Ethiopia': 1033, 'Sudan': 682}, 'len': 1840},
-                          'capital': {'coord': '15 20 N, 38 56 E', 'name': 'Asmara (Asmera)', 'time_diff': 'UTC+3'},
+                          'capital': {'coord': '15 20 N, 38 56 E', 'name': 'Asmara', 'time_diff': 'UTC+3'},
                           'coastline': 2234,
                           'coord': ['15 00 N, 39 00 E'],
                           'country_name': { 'conv_long': 'State of Eritrea',
@@ -5444,9 +5440,7 @@ WORLD_FB = \
                             'country_name': { 'conv_long': 'none',
                                               'conv_short': 'Greenland',
                                               'local_long': 'none',
-                                              'local_short': 'Kalaallit Nunaat note: named by Norwegian adventurer '
-                                                             'Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to '
-                                                             'entice settlers to the island'},
+                                              'local_short': 'Kalaallit Nunaat'},
                             'population': 57799,
                             'ports': {'seaport': 'Sisimiut'},
                             'region': ['Arctic Region'],
@@ -9058,9 +9052,7 @@ WORLD_FB = \
                           'area': {'land': '716,300 sq km', 'total': '716,550 sq km', 'water': '250 sq km'},
                           'boundaries': { 'bord': {'Algeria': 1941, 'Mauritania': 1564, 'Spain': 8},
                                           'len': 3523,
-                                          'note': 'an additional 75-meter border segment exists between Morocco and '
-                                                  'the Spanish exclave of Penon de Velez de la Gomera; border with '
-                                                  'Spain (Ceuta)'},
+                                          'note': 'border with Spain (Ceuta)'},
                           'capital': {'coord': '34 01 N, 6 49 W', 'name': 'Rabat', 'time_diff': 'UTC 0'},
                           'coastline': 2945,
                           'coord': ['28 30 N, 10 00 W'],
@@ -12109,7 +12101,7 @@ WORLD_FB = \
                                                     'local_long': 'none',
                                                     'local_short': 'Solomon Islands'},
                                   'population': 690598,
-                                  'ports': {'seaport': 'Honiara, Malloco Bay, Viru Harbor, Tulaghi'},
+                                  'ports': {'seaport': 'Honiara, Malloco Bay, Viru Harbor, Tulagi'},
                                   'region': ['Oceania'],
                                   'subs_broadband': 1488,
                                   'subs_fixed': 7130,
@@ -12320,11 +12312,7 @@ WORLD_FB = \
                                                         'Kenya': 317,
                                                         'Sudan': 2158,
                                                         'Uganda': 475},
-                                              'len': 6018,
-                                              'note': 'South Sudan-Sudan boundary represents 1 January 1956 alignment; '
-                                                      'final alignment pending negotiations and demarcation; final '
-                                                      'sovereignty status of Abyei Area pending negotiations between '
-                                                      'South Sudan and Sudan'},
+                                              'len': 6018},
                               'capital': {'coord': '04 51 N, 31 37 E', 'name': 'Juba', 'time_diff': 'UTC+3'},
                               'coastline': 0,
                               'coord': ['8 00 N, 30 00 E'],
@@ -12384,9 +12372,7 @@ WORLD_FB = \
                                                   'Morocco': 8,
                                                   'Portugal': 1224},
                                         'len': 1952,
-                                        'note': 'an additional 75-meter border segment exists between Morocco and the '
-                                                'Spanish exclave of Penon de Velez de la Gomera; border with Morocco '
-                                                '(Ceuta)'},
+                                        'note': 'border with Morocco (Ceuta)'},
                         'capital': {'coord': '40 24 N, 3 41 W', 'name': 'Madrid', 'time_diff': 'UTC+1'},
                         'coastline': 4964,
                         'coord': ['40 00 N, 4 00 W'],
@@ -12539,11 +12525,7 @@ WORLD_FB = \
                                                   'Ethiopia': 744,
                                                   'Libya': 382,
                                                   'South Sudan': 2158},
-                                        'len': 6819,
-                                        'note': 'Sudan-South Sudan boundary represents 1 January 1956 alignment; final '
-                                                'alignment pending negotiations and demarcation; final sovereignty '
-                                                'status of Abyei region pending negotiations between Sudan and South '
-                                                'Sudan'},
+                                        'len': 6819},
                         'capital': {'coord': '15 36 N, 32 32 E', 'name': 'Khartoum', 'time_diff': 'UTC+3'},
                         'coastline': 853,
                         'coord': ['15 00 N, 30 00 E'],
@@ -13965,11 +13947,12 @@ WORLD_FB = \
                       'gec': 'UK',
                       'infos': { 'airports': 460,
                                  'area': { 'land': '241,930 sq km',
+                                           'note 1': 'the percentage area breakdown of the four UK countries is: '
+                                                     'England 53%, Scotland 32%, Wales 9%, and Northern Ireland 6%<br '
+                                                     '/><br /> note 2: includes Rockall and the Shetland Islands, '
+                                                     'which are part of Scotland',
                                            'total': '243,610 sq km',
-                                           'water': '1,680 sq km note 1: the percentage area breakdown of the four UK '
-                                                    'countries is: England 53%, Scotland 32%, Wales 9%, and Northern '
-                                                    'Ireland 6%<br /><br /> note 2: includes Rockall and the Shetland '
-                                                    'Islands, which are part of Scotland'},
+                                           'water': '1,680 sq km'},
                                  'boundaries': {'bord': {'Ireland': 499}, 'len': 499},
                                  'capital': {'coord': '51 30 N, 0 05 W', 'name': 'London', 'time_diff': 'UTC 0'},
                                  'coastline': 12429,
@@ -14047,10 +14030,7 @@ WORLD_FB = \
                                                   'territories',
                                           'total': '9,833,517 sq km',
                                           'water': '685,924 sq km'},
-                                'boundaries': { 'bord': {'Canada': 8893, 'Mexico': 3155},
-                                                'len': 12048,
-                                                'note': 'US Naval Base at Guantanamo Bay, Cuba is leased by the US and '
-                                                        'is part of Cuba; the base boundary is 28.5 km'},
+                                'boundaries': {'bord': {'Canada': 8893, 'Mexico': 3155}, 'len': 12048},
                                 'capital': { 'coord': '38 53 N, 77 02 W',
                                              'name': 'Washington, DC',
                                              'time_diff': 'UTC-5'},
