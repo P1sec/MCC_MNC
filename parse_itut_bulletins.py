@@ -174,7 +174,7 @@ def strip_all_txt(dbg=True):
 #------------------------------------------------------------------------------#
 
 """
-Bulletin 1111 (2016) and 1162 (2018) contains both the complete list of updated 
+Bulletins 1111 (2016) and 1162 (2018) contain both the complete list of updated 
 MCC-MNC per country.
 The following script extract this list from both bulletins. 
 """
@@ -378,9 +378,92 @@ def _parse_mnc_line(line, mnos, mno, mnc):
 #------------------------------------------------------------------------------#
 
 """
-Bulletin 1199 (2020) contains both the complete list of updated Signaling Point
+Bulletin 1125 (2017) contains the complete list of Signaling Area Network Code
+per country.
+The following script extract this list from the bulletin. 
+"""
+
+RE_SANC_LIST_BEG    = re.compile(
+    '\n\s{1,}List of Signalling Area/Network Codes \(SANC\)'\
+    '\n\s{1,}\(Complement to Recommendation ITU-T Q\.708 \(03/99\)\)'\
+    '\n\s{1,}\(Position on 1 June 2017\)\n'\
+    '\n\s{1,}\(Annex to ITU Operational Bulletin No\. 1125 - 1\.VI\.2017\)\n',
+    re.IGNORECASE)
+
+
+RE_SANC_LIST_END    = re.compile(
+    '\n\s{1,}Code\s{1,}Geographical Area or Signalling Network\s{1,}–\s{1,}alphabetical order\n',
+    re.IGNORECASE)
+
+
+def parse_sanc_list(fn=PATH_PRE+'T-SP-OB.1125-2017-OAS-PDF-E.txt', dbg=False):
+    with open(fn, encoding='utf-8') as fd:
+        txt = fd.read()
+        #
+        # keep only the list of SPC
+        beg = RE_SANC_LIST_BEG.search(txt)
+        if not beg:
+            print('> no SANC list found, beg')
+            return None
+        txt = txt[beg.end():].strip()
+        end = RE_SANC_LIST_END.search(txt)
+        if not end:
+            print('> no SANC list found, end')
+            return None
+        txt = txt[:end.start()].strip()
+        #
+        return parse_sanc_lines([l.strip() for l in txt.split('\n') if l.strip()], dbg)
+    #
+    return None
+
+
+# Some table titles need to be stripped properly
+
+RE_SANC_LINE_IGNORE  = re.compile(
+    'Code\s{1,}Geographical Area or Signalling Network\s{1,}–\s{1,}numerical order\s{0,}',
+    re.IGNORECASE
+    )
+
+# SANC declaration:
+#  SANC country
+#
+# SANC: W-XYZ digits
+# 
+RE_SANC = re.compile(
+    '([0-9]-[0-9]{3})\s{1,}(.*)',
+    re.IGNORECASE
+    )
+
+
+def parse_sanc_lines(lines, dbg=True):
+    R       = {}
+    #
+    for line in lines:
+        if RE_SANC_LINE_IGNORE.match(line):
+            continue
+        #
+        if dbg:
+            print(line)
+        #
+        m = RE_SANC.match(line)
+        if m:
+            sanc, cntr = m.groups()
+            assert( sanc not in R )
+            R[sanc] = cntr
+        else:
+            assert( len(line) == 0 )
+    #
+    return R
+
+
+#------------------------------------------------------------------------------#
+# parse SPC list
+#------------------------------------------------------------------------------#
+
+"""
+Bulletin 1199 (2020) contains the complete list of International Signaling Point
 Codes per country.
-The following script extract this list the bulletin. 
+The following script extract this list from the bulletin. 
 """
 
 # to extract the list
@@ -428,6 +511,7 @@ RE_SPC_LINE_IGNORE  = re.compile(
     '(declaration of independence.)$',
     re.IGNORECASE
     )
+
 
 # Country declaration:
 #
@@ -543,15 +627,22 @@ def main():
     except Exception as err:
         print('> error occured during SPC extraction: %s' % err)
         return 1
+    try:
+        SANC_1125 = parse_sanc_list(PATH_PRE + 'T-SP-OB.1125-2017-OAS-PDF-E.txt', dbg=False)
+    except Exception as err:
+        print('> error occured during SANC extraction: %s' % err)
+        return 1
     #
     if args.j:
         generate_json(MNC_1111, PATH_RAW + 'itut_mnc_1111.json', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
         generate_json(MNC_1162, PATH_RAW + 'itut_mnc_1162.json', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
         generate_json(SPC_1199, PATH_RAW + 'itut_spc_1199.json', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
+        generate_json(SANC_1125, PATH_RAW + 'itut_sanc_1125.json', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
     if args.p:
         generate_python(MNC_1111, PATH_RAW + 'itut_mnc_1111.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
         generate_python(MNC_1162, PATH_RAW + 'itut_mnc_1162.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
         generate_python(SPC_1199, PATH_RAW + 'itut_spc_1199.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
+        generate_python(SANC_1125, PATH_RAW + 'itut_sanc_1125.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
     return 0
 
 

@@ -99,13 +99,12 @@ the addresses used by each routing equipment at the MTP3 / M3UA layer. Those ISP
 correspond most often to STP used by telecom operators for international routing of 
 SS7 signaling.
 
-The geographical relation between ISCP prefixes (most significant bits) and countries
-are provided in the document from 2017:
-- https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-Q.708A-2017-PDF-E.pdf
-
-The operational bulletin 1199 from 2020 provides the complete list of those ISPC at the
-time. This is however evolving with differences provided from time to time in other
-operational bulletins.
+The geographical relation between ISCP prefixes (most significant bits), also called
+Signaling Area Network Codes (SANC), and countries are provided in the operational 
+bulletin 1125 from 2017.
+Additionally, the operational bulletin 1199 from 2020 provides the complete list of 
+those ISPC at the time. This is however evolving with differences provided from time 
+to time in other operational bulletins.
 
 
 ### Working with ITU-T operational bulletins
