@@ -1,0 +1,719 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1217             1.IV.2021                   (Information received by 16 March 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                         Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                             Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                             Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                            E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ....................................................................                                      3
+Approval of ITU-T Recommendations .........................................................................................................                            4
+The International Public Telecommunication Numbering Plan and the International Identification Plan
+   for Public Networks and Subscriptions: Note from TSB .........................................................................                                      4
+International Identification Plan for Public Networks and Subscriptions: Note from TSB ............................                                                    4
+Telephone Service:
+     Burkina Faso (Autorité de Régulation des Communications Electroniques et des Postes (ARCEP),
+        Ouagadougou) ......................................................................................................................................... 5
+     Faroe Islands (Faroese Telecommunications Authority, Tórshavn) ................................................................. 5
+     Georgia (Georgian National Communications Commission, Tbilisi) ................................................................ 6
+     Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) .......................... 10
+Changes in Administrations/ROAs and other entities or Organizations: Germany ......................................                                                  11
+Other communication:
+     Austria ......................................................................................................................................................... 11
+Service Restrictions ....................................................................................................................................            12
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ..............................................................                                     12
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Recommendation ITU-T E.164 assigned Country Codes ...................................................................                                        13
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ........................................................................................................................................             14
+List of ITU Carrier Codes ...........................................................................................................................                14
+List of International Signalling Point Codes (ISPC).......................................................................................                           15
+National Numbering Plan .........................................................................................................................                    17
+
+
+
+
+                                                                                                                                 www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1218             15.IV.2021             26.III.2021
+               1219              1.V.2021              15.IV.2021
+               1220             15.V.2021              30.IV.2021
+               1221              1.VI.2021             14.V.2021
+               1222             15.VI.2021             30.V.2021
+               1223             1.VII.2021             15.VI.2021
+               1224             15.VII.2021            30.VI.2021
+               1225             1.VIII.2021           15.VII.2021
+               1226            15.VIII.2021           30.VII.2021
+               1227              1.IX.2021            13.VIII.2021
+               1228             15.IX.2021             1.IX.2021
+               1229              1.X.2021              15.IX.2021
+               1230             15.X.2021              30.IX.2021
+               1231              1.XI.2021             15.X.2021
+               1232             15.XI.2021             1.XI.2021
+               1233             1.XII.2021             15.XI.2021
+               1234             15.XII.2021            1.XII.2021
+               1235              1.I.2022              10.XII.2021
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+       (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+       subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+       Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+       optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+       Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+       (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+       (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+       (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+       E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+       2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+       (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+       to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+       (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+       operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+       (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+       (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+       Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+       (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+       (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+       series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+       on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+       Recommendation F.1 (03/1998))
+B.     The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                               Approval of ITU-T Recommendations
+By AAP-100, it was announced that the following ITU-T Recommendations were approved, in accordance with
+      the procedures outlined in Recommendation ITU-T A.8:
+–        ITU-T J.482 (03/2021): Requirements of RF/IP switching system
+–        ITU-T Y.4472 (08/2020): Open data application programming interface (APIs) for IoT data in smart cities
+         and communities
+
+
+
+
+           The International Public Telecommunication Numbering Plan
+                    (Recommendation ITU-T E.164 (11/2010))
+                                        and
+    The International Identification Plan for Public Networks and Subscriptions
+                    (Recommendation ITU-T E.212 (09/2016))
+Note from TSB
+                            Identification codes for international non-commercial trials
+Following the completion of the trial by World’s Global Telecom (WGT), TSB informs of the expiration of the
+assignment to WGT of trial numbering resources E.164.2 CC +991 with TIC 001 and E.212 MCC 991 with MNC 01.
+The assignee has duly discontinued the use of the trial resources and has returned them to TSB at the end of the
+assignment period, 15 January 2021. The returned trial numbering resources E.164.2 CC +991 with TIC 001 and
+E.212 MCC 991 with MNC 01 are at disposal of the TSB Director.
+
+
+
+
+       International Identification Plan for Public Networks and Subscriptions
+                      (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                              Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC)
+has changed of assignment.
+
+                                              Mobile Country Code (MCC) and                  Date of change of
+                Network
+                                               Mobile Network Code (MNC)                       assignment
+    Inmarsat Ltd                                          901 53                                 16.III.2021
+    (replacing Deutsche Telekom AG)
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+
+Burkina Faso (country code +226)
+Communication of 11.III.2021:
+The Autorité de Régulation des Communications Electroniques et des Postes (ARCEP), Ouagadougou, announces
+the following updates to the national numbering plan Burkina Faso.
+•        assignment of new prefix AB=06:
+      NDC (national        N(S)N number
+    destination code)          length
+     or leading digits                             Usage of                  Additional     Time and date of
+    of N(S)N (national   Maximu Minimum       ITU-T E.164 number            information       introduction
+       (significant)     m length length
+         number)
+           06              8         8     Non-geographic number -        ORANGE           2021-02-16-00:00
+                                           Mobile telephone service     Burkina Faso            (UTC)
+
+Contact:
+      Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+      B.P. 6437
+      OUAGADOUGOU 01
+      Burkina Faso
+      Tel:     +226 25 37 53 60/61/62
+      Fax:     +226 25 37 53 64
+      E-mail: secretariat@arcep.bf
+      URL:     www.arcep.bf
+
+Faroe Islands (country code +298)
+Communication of 12.III.2021:
+The Faroese Telecommunications Authority, Tórshavn, wishes to reiterate its announcements of November 2018
+and July 2020 regarding the assignment of ITU-T E.212 MCC+MNC= 288 03 and number block “+298 91xxxx” in
+the national numbering plan, for the provision of mobile telephone services by the operator "Sp/f Tosa" and fully
+operational since 1 December 2020.
+All Administrations recognized operating agencies and service providers are kindly requested to initiate the
+necessary programming of the above-mentioned numbers into their networks to enable subscribers to access
+related services.
+The assignment of numbers can be consulted on the following Faroese Telecommunications Authority web page
+(see file Nummarætlan.xls): http://www.fjarskiftiseftirlitid.fo/fo/fjarskifti/nummarskipan/
+Contact:
+      Faroese Telecommunications Authority
+      Skálatrøð 20, Postrúm 73,
+      FO-110 Tórshavn
+      Faroe Islands
+      Tel:     +298 35 60 20
+      E-mail: fjarskiftiseftirlitid@vs.fo
+      URL:     www.fjarskiftiseftirlitid.fo
+
+         For tests:
+         NOC
+         Sp/f Tosa
+         Vestara Bryggja 15. 3. Floor
+         FO-100 Tórshavn
+         Faroe Islands
+         Tel:     +298 91 02 00 / +298 91 00 00
+         E-mail: noc@tosa.fo
+
+Georgia (country code +995)
+Communication of 15.III.2021:
+The Georgian National Communications Commission, Tbilisi, announces the following national numbering plan
+for Georgia:
+
+ Locality          NDC                National        Usage E.164 number       Additional information
+ or                                 (Significant)
+ operator                          Number N(S)N
+                                  Max.      Min.
+ Batumi            422              9        9      Geographic number
+ Tbilisi           32               9        9      Geographic number
+ Rustavi           341              9        9      Geographic number
+ Kobuleti          426              9        9      Geographic number
+ Samtredia         411              9        9      Geographic number
+ Abasha            412              9        9      Geographic number
+ Senaki            413              9        9      Geographic number
+ Zugdidi           415              9        9      Geographic number
+ Tsalendjikha      416              9        9      Geographic number
+ Chkhorotskhu      417              9        9      Geographic number
+ Martvili          418              9        9      Geographic number
+ Kutaisi           431              9        9      Geographic number
+ Vani              432              9        9      Geographic number
+ Kharagauli        433              9        9      Geographic number
+ Sachkhere         435              9        9      Geographic number
+ Lentekhi          437              9        9      Geographic number
+ Ambrolauri        439              9        9      Geographic number
+ Tskaltubo         436              9        9      Geographic number
+ Akhalgori         342              9        9      Geographic number
+ Tskhinvali        344              9        9      Geographic number
+ Stefanstminda     345              9        9      Geographic number
+ (Kazbegi)
+ Dusheti           346              9        9      Geographic number
+ Djava             347              9        9      Geographic number
+ Tianeti           348              9        9      Geographic number
+ Akhmeta           349              9        9      Geographic number
+ Telavi            350              9        9      Geographic number
+ Sagaredjo         351              9        9      Geographic number
+ Kvareli           352              9        9      Geographic number
+ Gurdjaani         353              9        9      Geographic number
+ Lagodekhi         354              9        9      Geographic number
+ Signagi           355              9        9      Geographic number
+ DedoplisTskaro    356              9        9      Geographic number
+ Marneuli          357              9        9      Geographic number
+ Bolnisi           358              9        9      Geographic number
+ TetriTskaro       359              9        9      Geographic number
+ Dmanisi           360              9        9      Geographic number
+ Ninotsminda       361              9        9      Geographic number
+ Akhalkalaki       362              9        9      Geographic number
+ Tsalka            363              9        9      Geographic number
+
+Locality          NDC             National        Usage E.164 number        Additional information
+or                              (Significant)
+operator                       Number N(S)N
+                               Max.     Min.
+Aspindza          364           9        9      Geographic number
+Akhaltsikhe       365           9        9      Geographic number
+Adigeni           366           9        9      Geographic number
+Bordjomi          367           9        9      Geographic number
+Khashuri          368           9        9      Geographic number
+Kareli            369           9        9      Geographic number
+Gori              370           9        9      Geographic number
+Kaspi             371           9        9      Geographic number
+Gardabani         372           9        9      Geographic number
+Mtskheta          373           9        9      Geographic number
+Tigvi             374           9        9      Geographic number
+Chiatura          479           9        9      Geographic number
+Terdjola          491           9        9      Geographic number
+Zestafoni         492           9        9      Geographic number
+Poti              493           9        9      Geographic number
+Khoni             495           9        9      Geographic number
+Ozurgeti          496           9        9      Geographic number
+Tkibuli           497           9        9      Geographic number
+lanchxuti         494           9        9      Geographic number
+Tsageri           472           9        9      Geographic number
+Oni               473           9        9      Geographic number
+Mestia            410           9        9      Geographic number
+Xobi              414           9        9      Geographic number
+Xulo              423           9        9      Geographic number
+Shuaxevi          424           9        9      Geographic number
+Qeda              425           9        9      Geographic number
+Choxatauri        419           9        9      Geographic number
+Bagdati           434           9        9      Geographic number
+xelvachauri       427           9        9      Geographic number
+Sukhumi           442           9        9      Geographic number
+Gagra             443           9        9      Geographic number
+Gulripshi         448           9        9      Geographic number
+Gudauta           444           9        9      Geographic number
+Gali              447           9        9      Geographic number
+Ochamchire        445           9        9      Geographic number
+Tkvarcheli        446           9        9      Geographic number
+Mobilaive         500000000-    9        9      Non-geographic number   Mobile network operator
+                  500009999
+UTS               500055000-    9        9      Non-geographic number   Mobile network operator
+                  500059999
+Magticom          500500000-    9        9      Non-geographic number   Mobile network operator
+                  500509999
+Myphone           500700000-    9        9      Non-geographic number   Mobile network operator
+                  500704999
+
+
+
+Locality            NDC             National        Usage E.164 number        Additional information
+or                                (Significant)
+operator                         Number N(S)N
+                                 Max.     Min.
+Magticom            505555000-    9        9      Non-geographic number   Mobile network operator
+                    505559999
+Magticom            511100000-    9        9      Non-geographic number   Mobile network operator
+                    511199999
+Geo Cell            514           9        9      Non-geographic number   Mobile network operator
+Magticom            522220000-    9        9      Non-geographic number   Mobile network operator
+                    522224999
+Magticom            533330000-    9        9      Non-geographic number   Mobile network operator
+                    533334999
+Magticom            544440000-    9        9      Non-geographic number   Mobile network operator
+                    544449999
+Geo Cell            550000000-    9        9      Non-geographic number   Mobile network operator
+                    550009999
+Geo Cell            550050000-    9        9      Non-geographic number   Mobile network operator
+                    550059999
+Geo Cell            550500000-    9        9      Non-geographic number   Mobile network operator
+                    550509999
+Telecom 1           550550000-    9        9      Non-geographic number   Mobile network operator
+                    550554999
+Magticom            551           9        9      Non-geographic number   Mobile network operator
+Premium Net         552000000-    9        9      Non-geographic number   Mobile network operator
+International SRL   552009999
+Asanet              552220000-    9        9      Non-geographic number   Mobile network operator
+                    552224999
+Geo Cell            555           9        9      Non-geographic number   Mobile network operator
+Geo Cell            557           9        9      Non-geographic number   Mobile network operator
+Geo Cell            558           9        9      Non-geographic number   Mobile network operator
+Global Cell         559000000-    9        9      Non-geographic number   Mobile network operator
+                    559009999
+Veon Georgia        568           9        9      Non-geographic number   Mobile network operator
+Silknet             570           9        9      Non-geographic number   Mobile network operator
+Veon Georgia        571           9        9      Non-geographic number   Mobile network operator
+Veon Georgia        574           9        9      Non-geographic number   Mobile network operator
+Magticom            575000000-    9        9      Non-geographic number   Mobile network operator
+                    575004999
+Magticom            575777000-    9        9      Non-geographic number   Mobile network operator
+                    575781999
+Geo Cell            577           9        9      Non-geographic number   Mobile network operator
+Veon Georgia        579           9        9      Non-geographic number   Mobile network operator
+Magticom            585888000-    9        9      Non-geographic number   Mobile network operator
+                    585892999
+Geo Cell            588550000-    9        9      Non-geographic number   Mobile network operator
+                    588559999
+Geo Cell            588880000-    9        9      Non-geographic number   Mobile network operator
+                    588889999
+Magticom            591           9        9      Non-geographic number   Mobile network operator
+Veon Georgia        592           9        9      Non-geographic number   Mobile network operator
+Geo Cell            593           9        9      Non-geographic number   Mobile network operator
+Magticom            595           9        9      Non-geographic number   Mobile network operator
+
+ Locality          NDC              National        Usage E.164 number        Additional information
+ or                               (Significant)
+ operator                        Number N(S)N
+                                Max.      Min.
+ Magticom          596            9        9      Non-geographic number   Mobile network operator
+ Veon Georgia      597            9        9      Non-geographic number   Mobile network operator
+ Magticom          598            9        9      Non-geographic number   Mobile network operator
+ Magticom          599            9        9      Non-geographic number   Mobile network operator
+                   706-707        9        9      Non-geographic number   For service with VOIP – Voice over
+                                                                          Internet Protocol
+ Magticom          708000000-     9        9      Non-geographic number   M2M/IoT services
+                   708049999
+ Magticom          708070000-     9        9      Non-geographic number
+                   708169999
+ Veon Georgia      708270000-     9        9      Non-geographic number   M2M/IoT services
+                   708274999
+ Silknet           711000000-     9        9      Non-geographic number   M2M/IoT services
+                   711019999
+ Magticom          790            9        9      Non-geographic number   Digital fix(CDMA) telephony
+                                                                          services
+
+Contact:
+      Georgian National Communications Commission
+      50/18 Ketevan Tsamebuli-Bochorma Str.
+      TBILISI 0144
+      Georgia
+      Tel:     +995 32 2921667
+      Fax:     +995 32 2921625
+      E-mail: post@comcom.ge
+      URL:     www.comcom.ge
+
+
+
+
+Morocco (country code +212)
+Communication of 5.III.2021:
+The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following
+update of the national telephone-numbering plan of Morocco.
+•        Description of introduction of new resource for national E.164 numbering plan for country code +212:
+
+         NDC (national         N(S)N number length
+      destination code) or
+    leading digits of N(S)N    Maximum    Minimum        Usage of E.164 number         Additional information
+     (national (significant)    length     length
+            number)
+
+             709                  9          9          Mobile services 2G/3G/4G      Wana Corporate 1
+
+
+1
+    : INWI
+
+Contact:
+      Motiaa Abdelhay
+      Agence Nationale de Réglementation des Télécommunications (ANRT)
+      Centre d'affaires
+      Boulevard Ar-Riad, Hay Riad
+      B.P. 2939
+      RABAT 10100
+      Morocco
+      Tel:    +212 5 37 71 85 64
+      E-mail: numerotation@anrt.ma
+      URL:    www.anrt.ma
+
+
+
+
+                  Changes in Administrations/ROAs and other entities
+                                  or Organizations
+Germany
+Communication of 11.III.2021:
+
+                             Granting of Recognized Operating Agency (ROA) status
+The Bundesnetzagentur (BNetzA), the Federal Network Agency for Electricity, Gas, Telecommunications, Post and
+Railway, Mainz, announces that the following telecommunication operator and service provider has been
+granted the status of Recognized Operating Agency (ROA), in accordance with Article 6 of, and Nos. 1007 and
+1008 of the Annex to, the Constitution of ITU.
+The name of the telecommunication operator and service provider to which the status of Recognized Operating
+Agency (ROA) has been granted, is QuestNet GmbH.
+Contact:
+       QuestNet GmbH
+       Byhlener Straße 1
+       DE-03044 COTTBUS
+       Germany
+       Tel:    +49 355 357590
+       Fax:    +49 355 3575910
+       E-mail: bestellung@questnet.de
+
+The list of ROAs for Germany can be consulted on this web site:
+https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehm
+en_Institutionen/Anbieterpflichten/Meldepflicht/TKDiensteanbieterPDF.pdf?__blob=publicationFile&v=104
+
+
+For further information, please contact:
+       Federal Network Agency for Electricity, Gas, Telecommunications, Post and Railway
+       Canisiusstr. 21
+       55122 MAINZ
+       Germany
+       Tel:     +49 6131 18 2246
+       E-mail: focalpoint@bnetza.de
+
+
+
+
+                                           Other communication
+
+Austria
+Communication of 15.III.2021:
+On the occasion of the "Jubiläum 130 Jahre erster k. u. k. Telegraphistenkurs in der Franz Josef-Kaserne in Tulln",
+the Austrian Administration authorizes an Austrian amateur station to use the special call sign OE130KUK from
+1 September to 30 October 2021.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                          AMENDMENTS TO SERVICE PUBLICATIONS
+                                                    Abbreviations used
+                                     ADD    Insert                       PAR    Paragraph
+                                     COL    Column                       REP    Replace
+                                     LIR    Read                         SUP    Delete
+                                     P      Page(s)
+
+
+
+
+               List of Recommendation ITU-T E.164 assigned Country Codes
+                 (Complement to Recommendation ITU-T E.164 (11/2010))
+                            (Position on 15 December 2016)
+                                 (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                  (Amendment No. 20)
+
+ Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+
+Note s)      +991 001          SUP
+
+                                                Country Code and               Effective date of   Reclamation date
+                   Applicant                                                      assignment
+                                             Trial Identification Code
+
+    World’s Global Telecom                          +991 001                      15.I.2020           15.I.2021
+
+
+
+Note s)      LIR
+
+s        Associated with shared country code 991, no three-digit trial identification code temporarily assigned for
+         the international non-commercial trials.
+
+__________
+
+See page 4 of the present Operational Bulletin No. 1217 of 1.IV.2021.
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                    for public networks and subscriptions
+            (According to Recommendation ITU-T E.212 (09/2016))
+                        (Position on 15 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                              (Amendment No. 51)
+
+
+ Country/Geographical area                MCC+MNC                  Operator/Network
+ Spain SUP
+                                                                   SAC CONVERGENT AGGREGATION SERVICES,
+                                                 214 12
+                                                                   S.L.U.
+ Sweden ADD
+                                                 240 49            Telia Sverige AB
+ Sweden LIR
+                                                 240 14            Tele2 Sverige AB
+ International Mobile, shared code
+ LIR *                                                             Inmarsat Ltd.
+                                                 901 53
+                                                                   (replacing Deutsche Telekom AG)
+ Trial of a proposed new
+ international telecommunication                                   World's Global Telecom
+ service, shared code SUP*                       991 01            (end of temporary assignment for trial on
+                                                                   15.I.2021)
+____________
+          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+* See page 4 of the present Operational Bulletin No. 1217 of 1.IV.2021.
+
+
+
+
+                                List of ITU Carrier Codes
+                (According to Recommendation ITU-T M.1400 (03/2013))
+                            (Position on 15 September 2014)
+                             (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 112)
+
+ Country or area/ISO code                            Company Code           Contact
+  Company Name/Address                                (carrier code)
+
+
+Germany (Federal Republic of) / DEU               ADD
+
+ Victor Blaga                                           NTSERV            Mr Victor Blaga
+ - NT Services -                                                          Tel.: +49 89 67346930
+ Lerchenstrasse 32                                                        Fax: +49 89 67346940
+ D-82110 GERMERING                                                        Email: victor.blaga@nt-services.de
+
+
+
+
+                    List of International Signalling Point Codes (ISPC)
+                 (According to Recommendation ITU-T Q.708 (03/1999))
+                                  (Position on 1 July 2020)
+
+                           (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                            (Amendment No. 12)
+
+
+
+
+Country/
+Geographical Area
+ISPC      DEC        Unique name of the signalling point    Name of the signalling point operator
+
+
+Lithuania ADD
+7-230-5   16181      Vilnius                                UAB Bité Lietuva
+7-230-6   16182      Vilnius                                UAB Bité Lietuva
+
+Lithuania LIR
+2-236-0   5984       Vilnius                                Telia Lietuva, AB
+2-236-1   5985       Vilnius                                UAB Mediafon Carrier Services
+2-236-2   5986       Vilnius                                UAB Tele2
+2-236-3   5987       Vilnius                                UAB Bité Lietuva
+2-236-4   5988       Vilnius                                Telia Lietuva, AB
+2-236-5   5989       Vilnius                                UAB Tele2
+2-236-6   5990       Vilnius                                Telia Lietuva, AB
+2-236-7   5991       Vilnius                                UAB Bité Lietuva
+4-236-0   10080      Vilnius                                Telia Lietuva, AB
+4-236-1   10081      Vilnius                                UAB Telco Consulting Group
+4-236-2   10082      Vilnius                                UAB EcoFon
+4-236-3   10083      Vilnius                                UAB EcoFon
+4-236-4   10084      Vilnius                                Telia Lietuva, AB
+4-236-5   10085      Vilnius                                AB LTG Infra
+4-236-6   10086      Vilnius                                Telia Lietuva, AB
+4-236-7   10087      Vilnius                                Telia Lietuva, AB
+7-230-0   16176      Vilnius                                UAB Tele2
+7-230-1   16177      Vilnius                                UAB Tele2
+7-230-2   16178      Vilnius                                UAB Tele2
+7-230-3   16179      Vilnius                                UAB Tele2
+7-230-4   16180      Vilnius                                UAB Mediafon Carrier Services
+7-252-0   16352      Vilnius                                UAB Tele2 fiksuotas rysys
+7-252-1   16353      Vilnius                                Telia Lietuva, AB
+7-252-2   16354      Vilnius                                UAB CSC Telecom
+7-252-3   16355      Vilnius                                UAB CSC Telecom
+7-252-4   16356      Vilnius                                UAB Tele2
+7-252-5   16357      Vilnius                                UAB Nacionanalinis telekomunikaciju tinklas
+7-252-6   16358      Vilnius                                AB LTG Infra
+7-252-7   16359      Vilnius                                Telia Lietuva, AB
+
+
+
+
+ Country/
+ Geographical Area
+ ISPC        DEC          Unique name of the signalling point     Name of the signalling point operator
+
+
+ Spain SUP
+ 2-237-0     5992         Madrid-Atocha                           Telefónica Móviles España, S.A.U.
+ 2-237-3     5995         Barcelona-Cerdá                         Telefónica Móviles España, S.A.U.
+
+ Sweden LIR
+ 2-081-5     4749         SNVH1-INT                               Tele2 Sverige AB
+ 2-081-6     4750         SNKT1-INT                               Tele2 Sverige AB
+
+ United States SUP
+ 3-033-4     6412         New York, NY                            Mundetel Communications. Inc
+ 3-194-2     7698         Los Angeles, CA                         China Netcom (USA) Operations Ltd
+ 3-195-0     7704         Los Angeles, CA                         China Unicom USA Corporation
+ 3-199-2     7738         Los Angeles, CA                         China Unicom USA Corporation
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.III.2021, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                        Country/ Geographical area                      Country Code (CC)
+               Sierra Leone                                                   +232
+
+
+
+
