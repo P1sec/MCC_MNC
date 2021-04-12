@@ -146,12 +146,11 @@ def dl_bull(bnum=1111, byear=2016, dbg=True):
     raise(Exception('unable to write local file %s' % (PATH_PRE + fn, )))
 
 
-def dl_bull_all(dbg=False):
+def dl_bull_all(bnum=1111, dbg=False):
     """download all ITU-T bulletins starting from bulletin 1111 in 2016 in PDF
     format and convert them to text files
     """
     # start with bulletin 1111 from 2016
-    bnum  = 1111
     byear = 2016
     #
     while byear <= time.gmtime().tm_year:
@@ -520,14 +519,15 @@ URL_LICENSE_ITUT = 'https://www.itu.int/pub/T-SP'
 def main():
     parser = argparse.ArgumentParser(description=
         'download ITU-T operational bulletins, convert them to text, extract lists of MNC and SPC')
-    parser.add_argument('-d', action='store_true', help='download and convert all ITU-T bulletins, starting from the 1111')
+    parser.add_argument('-d', action='store_true', help='download and convert from pdf to text all ITU-T bulletins (requires pdftotext)')
+    parser.add_argument('-b', default=1111, type=int, help='ITU-T bulletin number to start with, default is 1111')
     parser.add_argument('-j', action='store_true', help='produce a JSON file listing all MNC and SPC (with suffix .json)')
     parser.add_argument('-p', action='store_true', help='produce a Python file listing all MNC and SPC (with suffix .py)')
     args = parser.parse_args()
     #
     if args.d:
         try:
-            dl_bull_all(dbg=False)
+            dl_bull_all(bnum=args.b, dbg=False)
         except Exception as err:
             print('> error occured during downloading: %s' % err)
             return 1
