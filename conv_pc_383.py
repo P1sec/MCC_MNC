@@ -41,7 +41,7 @@ def conv_pc_383(pcval):
                 int(pc_comps[2])
     else:
         pcint = int(pcval)
-        return '%i-%i-%i' % (
+        return '%i-%.3i-%i' % (
                 ((pcint>>11) & 0x7),
                 ((pcint>>3) & 0xff),
                  (pcint & 0x7) )
