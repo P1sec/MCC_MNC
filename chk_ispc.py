@@ -116,6 +116,7 @@ def main():
                     if not 0 <= a <= 7 or not 0 <= b <= 255 or not 0 <= c <= 7:
                         print('invalid format for ISPC: 3-8-3 or integer format required')
                         return 0
+                    ispc = '%i-%.3i-%i' % (a, b, c)
             #
             print_ispc(ispc, args.x)
             print('')
