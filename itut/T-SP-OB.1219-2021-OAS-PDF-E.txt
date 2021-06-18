@@ -40,7 +40,7 @@ National Numbering Plan ........................................................
 
 
                                                                                                                                 www.itu.int
-               Dates of publication of the next   Including information
+               Dates of publication of the next   Including information
                    Operational Bulletins               received by:
                1220             15.V.2021              30.IV.2021
                1221              1.VI.2021             14.V.2021
@@ -62,8 +62,7 @@ National Numbering Plan ........................................................
 
 
 
-No. 1219 – 2                                                              ITU Operational Bulletin
-                                       GENERAL INFORMATION
+                                       GENERAL INFORMATION
                           Lists annexed to the ITU Operational Bulletin
 Note from TSB
 A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
@@ -121,8 +120,7 @@ List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr
 
 
 
- ITU Operational Bulletin                                                                         No. 1219 – 3
-                                    Approval of ITU-T Recommendations
+                                    Approval of ITU-T Recommendations
 By AAP-102, it was announced that the following ITU-T Recommendations were approved, in accordance with
 the procedures outlined in Recommendation ITU-T A.8:
 –         ITU-T Y.3109 (04/2021): QoS assurance-related requirements and framework for virtual reality delivery
@@ -182,8 +180,7 @@ has been assigned.
 
 
 
- No. 1219 – 4                                                                                ITU Operational Bulletin
-     International Identification Plan for Public Networks and Subscriptions
+     International Identification Plan for Public Networks and Subscriptions
                     (Recommendation ITU-T E.212 (09/2016))
 
 Note from TSB
@@ -218,8 +215,7 @@ temporary assignment of the E.212 shared MCC and trial-MNC 991 03 is effective f
 
 
 
- ITU Operational Bulletin                                                                                   No. 1219 – 5
-                                      Telephone Service
+                                      Telephone Service
                                  (Recommendation ITU-T E.164)
                                            url: www.itu.int/itu-t/inr/nnp
 
@@ -267,8 +263,7 @@ to their customers.
 
 
 
- No. 1219 – 6                                                                         ITU Operational Bulletin
-ACRONYMS
+ACRONYMS
 CRA Act         Communications Regulatory Authority Act
 BOCRA           Botswana Communications Regulatory Authority,
 CRASA           Communications Regulators Association of Southern Africa.
@@ -313,8 +308,7 @@ VoIP            Voice Over Internet Protocol
 
 
 
- ITU Operational Bulletin                                                                           No. 1219 – 7
-2. PURPOSE
+2. PURPOSE
 The purpose of the National Numbering Plan is to ensure transparent, non-discriminatory and efficient use of
 numbers. This practice assures service providers and end-users of excellent provision and consumption of
 telecommunications services.
@@ -365,8 +359,7 @@ PRS: premium rate services (non-geographic)
 
 
 
- No. 1219 – 8                                                                             ITU Operational Bulletin
-4.2     Unique Numbers and Short Code numbers
+4.2     Unique Numbers and Short Code numbers
         4.2.1   Level 0 - International Access and Freephone Numbers
 Levels 0 is used for International access (00), the freephone numbers commencing with 0800 and shared calls
 allocated the 08XX numbering range.
@@ -414,8 +407,7 @@ The Premium Rate Services (PRS) in level 09 remains unused and reserved.
 
 
 
- ITU Operational Bulletin                                                                       No. 1219 – 9
-4.3   Fixed Numbers
+4.3   Fixed Numbers
 
 
       4.3.1      Levels 2 to 6: Fixed numbers
@@ -461,8 +453,7 @@ The Premium Rate Services (PRS) in level 09 remains unused and reserved.
 
 
 
- No. 1219 – 10                                                                         ITU Operational Bulletin
-5. OTHER NUMBERING RESOURCES
+5. OTHER NUMBERING RESOURCES
 5.1     The other numbering resources that enable seamless communications services and these are the known
         as Codes reference is made to table 5 below. These codes are listed as in the Recommendation ITU-T
         E.164.
@@ -516,8 +507,7 @@ currently 6 spare ISPCs for Botswana. The following are assigned codes to Botswa
                     6-105-6                     Spare
                     6-105-7                     Spare
 
- ITU Operational Bulletin                                                                            No. 1219 – 11
-6. NUMBERING ALLOCATIONS AND ASSIGNMENTS
+6. NUMBERING ALLOCATIONS AND ASSIGNMENTS
 6.1   Application for Number
       6.1.1      All operators of a Public Switched Telephone Network (PSTN), Public Land Mobile Network
                  (PLMN), or a Public Switched Data Network(PSDN), providing, or intending to provide within a
@@ -569,8 +559,7 @@ currently 6 spare ISPCs for Botswana. The following are assigned codes to Botswa
 
 
 
- No. 1219 – 12                                                                            ITU Operational Bulletin
-6.2.2 The table 9 below shows the 8 digits active VoIP numbering allocations made to both the MNOs and the
+6.2.2 The table 9 below shows the 8 digits active VoIP numbering allocations made to both the MNOs and the
 VANs:
                                   Table 9: VoIP Numbers as of April 2021
 
@@ -617,8 +606,7 @@ VANs:
 
 
 
- ITU Operational Bulletin                                                                  No. 1219 – 13
-7. CONCLUSION
+7. CONCLUSION
 7.1    The National Numbering Plan is a way of ensuring that:
        7.1.1     The limited numbering resources are used prudently and efficiently and this allows for effective
                  number management. This exercise enables customers to have access to services using numbers
@@ -676,8 +664,7 @@ Contact:
 
 
 
- No. 1219 – 14                                                                         ITU Operational Bulletin
-                                         Service Restrictions
+                                         Service Restrictions
                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
 
 
@@ -703,8 +690,7 @@ Contact:
 
 
 
-ITU Operational Bulletin                                                     No. 1219 – 15
-                      AMENDMENTS TO SERVICE PUBLICATIONS
+                      AMENDMENTS TO SERVICE PUBLICATIONS
                                                 Abbreviations used
                                  ADD     Insert                       PAR   Paragraph
                                  COL     Column                       REP   Replace
@@ -762,8 +748,7 @@ Sweden     LIR
 
 
 
- No. 1219 – 16                                                                            ITU Operational Bulletin
-               List of Recommendation ITU-T E.164 assigned Country Codes
+               List of Recommendation ITU-T E.164 assigned Country Codes
                  (Complement to Recommendation ITU-T E.164 (11/2010))
                             (Position on 15 December 2016)
                                  (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
@@ -804,8 +789,7 @@ See page 4 of the present Operational Bulletin No. 1219 of 1.V.2021.
 
 
 
-    ITU Operational Bulletin                                                                       No. 1219 – 17
-      Mobile Network Codes (MNC) for the international identification plan
+      Mobile Network Codes (MNC) for the international identification plan
                      for public networks and subscriptions
              (According to Recommendation ITU-T E.212 (09/2016))
                         (Position on 15 December 2018)
@@ -852,8 +836,7 @@ Germany (Federal Republic of) / DEU               LIR
 
 
 
- No. 1219 – 18                                                                                ITU Operational Bulletin
-                     List of Signalling Area/Network Codes (SANC)
+                     List of Signalling Area/Network Codes (SANC)
                 (Complement to Recommendation ITU-T Q.708 (03/1999))
                                 (Position on 1 June 2017)
                                  (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
@@ -907,8 +890,7 @@ ISPC:   International Signalling Point Codes.
 
 
 
- ITU Operational Bulletin                                                                               No. 1219 – 19
-                                National Numbering Plan
+                                National Numbering Plan
                  (According to Recommendation ITU-T E.129 (01/2013))
                                   Web: www.itu.int/itu-t/inr/nnp/index.html
 Administrations are requested to notify ITU about their national numbering plan changes, or to give an
@@ -930,5 +912,3 @@ site:
 
 
 
- No. 1219 – 20                                                                        ITU Operational Bulletin
-

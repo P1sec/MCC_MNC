@@ -36,7 +36,7 @@ National Numbering Plan ........................................................
 
 
                                                                                                                                 www.itu.int
-               Dates of publication of the next   Including information
+               Dates of publication of the next   Including information
                    Operational Bulletins               received by:
                1221              1.VI.2021             14.V.2021
                1222             15.VI.2021             30.V.2021
@@ -57,8 +57,7 @@ National Numbering Plan ........................................................
 
 
 
-No. 1220 – 2                                                              ITU Operational Bulletin
-                                       GENERAL INFORMATION
+                                       GENERAL INFORMATION
                           Lists annexed to the ITU Operational Bulletin
 Note from TSB
 A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
@@ -116,8 +115,7 @@ List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr
 
 
 
- ITU Operational Bulletin                                                                         No. 1220 – 3
-                               Approval of ITU-T Recommendations
+                               Approval of ITU-T Recommendations
 By AAP-103, it was announced that the following ITU-T Recommendations were approved, in accordance with
 the procedures outlined in Recommendation ITU-T A.8:
 –       ITU-T G.997.3 (04/2021): Physical layer management for MGfast transceivers
@@ -159,8 +157,7 @@ SANC:    Signalling Area/Network Code.
 
 
 
- No. 1220 – 4                                                                           ITU Operational Bulletin
-                                      Telephone Service
+                                      Telephone Service
                                  (Recommendation ITU-T E.164)
                                           url: www.itu.int/itu-t/inr/nnp
 Denmark (country code +45)
@@ -219,8 +216,7 @@ TDC Net A/S                          32310fgh; 32311fgh; 32318fgh; 32319fgh; 323
 
 
 
-    ITU Operational Bulletin                                                              No. 1220 – 5
-                                                                                                    Date of
+                                                                                                    Date of
                    Provider                               Numbering series
                                                                                                    withdrawal
 Gigabit ApS                            69886fgh                                                     15.II.2021
@@ -277,8 +273,7 @@ Comtalk DK ApS                         703450gh, 70706fgh, 7273efgh, 8182efgh   
 
 
 
-    No. 1220 – 6                                                                         ITU Operational Bulletin
-•     Assignment – M2M communication
+•     Assignment – M2M communication
                                                                                                   Date of
                 Provider                                 Numbering series
                                                                                                 assignment
@@ -338,8 +333,7 @@ Contact:
 
 
 
-    ITU Operational Bulletin                                                                         No. 1220 – 7
-                                       Service Restrictions
+                                       Service Restrictions
                                  See URL: www.itu.int/pub/T-SP-SR.1-2012
 
 
@@ -365,8 +359,7 @@ Contact:
 
 
 
-No. 1220 – 8                                                                  ITU Operational Bulletin
-                       AMENDMENTS TO SERVICE PUBLICATIONS
+                       AMENDMENTS TO SERVICE PUBLICATIONS
                                               Abbreviations used
                                 ADD    Insert                        PAR   Paragraph
                                 COL    Column                        REP   Replace
@@ -425,8 +418,7 @@ United States    ADD
 
 
 
- ITU Operational Bulletin                                                                             No. 1220 – 9
-        Mobile Network Codes (MNC) for the international identification plan
+        Mobile Network Codes (MNC) for the international identification plan
                        for public networks and subscriptions
                (According to Recommendation ITU-T E.212 (09/2016))
                           (Position on 15 December 2018)
@@ -451,8 +443,7 @@ ____________
 
 
 
-    No. 1220 – 10                                                                               ITU Operational Bulletin
-                                 List of ITU Carrier Codes
+                                 List of ITU Carrier Codes
                  (According to Recommendation ITU-T M.1400 (03/2013))
                              (Position on 15 September 2014)
                                 (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
@@ -493,8 +484,7 @@ SANC:   Signalling Area/Network Code.
 
 
 
- ITU Operational Bulletin                                                                           No. 1220 – 11
-                        List of International Signalling Point Codes (ISPC)
+                        List of International Signalling Point Codes (ISPC)
                      (According to Recommendation ITU-T Q.708 (03/1999))
                                       (Position on 1 July 2020)
                                  (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
@@ -549,8 +539,7 @@ ISPC:   International Signalling Point Codes.
 
 
 
- No. 1220 – 12                                                                               ITU Operational Bulletin
-                               National Numbering Plan
+                               National Numbering Plan
                 (According to Recommendation ITU-T E.129 (01/2013))
                                   Web: www.itu.int/itu-t/inr/nnp/index.html
 
@@ -575,5 +564,3 @@ site:
 
 
 
- ITU Operational Bulletin                                                                        No. 1220 – 13
-

@@ -35,7 +35,7 @@ National Numbering Plan ........................................................
 
 
                                                                                                                                 www.itu.int
-               Dates of publication of the next   Including information
+               Dates of publication of the next   Including information
                    Operational Bulletins               received by:
                1219              1.V.2021              15.IV.2021
                1220             15.V.2021              30.IV.2021
@@ -58,8 +58,7 @@ National Numbering Plan ........................................................
 
 
 
-No. 1218 – 2                                                              ITU Operational Bulletin
-                                       GENERAL INFORMATION
+                                       GENERAL INFORMATION
                           Lists annexed to the ITU Operational Bulletin
 Note from TSB
 A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
@@ -117,8 +116,7 @@ List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr
 
 
 
- ITU Operational Bulletin                                                                         No. 1218 – 3
-                                                 Telephone Service
+                                                 Telephone Service
                                             (Recommendation ITU-T E.164)
                                                    url: www.itu.int/itu-t/inr/nnp
      Belize (country code +501)
@@ -180,8 +178,7 @@ code) or leading digits of                                                      
                      E-mail: telecom@puc.bz
                      URL: www.puc.bz
 
-      No. 1218 – 4                                                                               ITU Operational Bulletin
-Morocco (country code +212)
+Morocco (country code +212)
 Communication of 24.III.2021:
 The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following
 update of the national telephone-numbering plan of Morocco.
@@ -213,8 +210,7 @@ Contact:
 
 
 
-    ITU Operational Bulletin                                                                      No. 1218 – 5
-     Papua New Guinea (country code +675)
+     Papua New Guinea (country code +675)
      Communication of 26.III.2021:
      The National Information & Communications Technology Authority (NICTA), Boroko, announces the following
      update in the national numbering plan of Papua New Guinea.
@@ -277,8 +273,7 @@ date of change         number        number
                                                                                                            Telikom PNG Limited
 
 
-      No. 1218 – 6                                                                                ITU Operational Bulletin
-Please note that the notifications are being made for Bemobile, an ICT operator in Papua New Guinea (PNG), that
+Please note that the notifications are being made for Bemobile, an ICT operator in Papua New Guinea (PNG), that
 has taken over the number resources once held by Telikom (PNG) Limited.
 This is due to a PNG Government decision to restructure these two government owned operators making
 Bemobile the mobile operator while Telikom PNG remains the fixed line operator.
@@ -333,8 +328,7 @@ Contact:
 
 
 
- ITU Operational Bulletin                                                                        No. 1218 – 7
-                                       Service Restrictions
+                                       Service Restrictions
                                  See URL: www.itu.int/pub/T-SP-SR.1-2012
 
 
@@ -360,8 +354,7 @@ Contact:
 
 
 
-No. 1218 – 8                                                                  ITU Operational Bulletin
-                       AMENDMENTS TO SERVICE PUBLICATIONS
+                       AMENDMENTS TO SERVICE PUBLICATIONS
                                               Abbreviations used
                                 ADD    Insert                        PAR   Paragraph
                                 COL    Column                        REP   Replace
@@ -407,8 +400,7 @@ Switzerland      ADD
 
 
 
- ITU Operational Bulletin                                                                             No. 1218 – 9
-       Mobile Network Codes (MNC) for the international identification plan
+       Mobile Network Codes (MNC) for the international identification plan
                       for public networks and subscriptions
               (According to Recommendation ITU-T E.212 (09/2016))
                          (Position on 15 December 2018)
@@ -444,8 +436,7 @@ ____________
 
 
 
-No. 1218 – 10                                                                               ITU Operational Bulletin
-                              List of ITU Carrier Codes
+                              List of ITU Carrier Codes
               (According to Recommendation ITU-T M.1400 (03/2013))
                           (Position on 15 September 2014)
                             (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
@@ -486,8 +477,7 @@ Germany (Federal Republic of) / DEU           LIR
 
 
 
- ITU Operational Bulletin                                                                     No. 1218 – 11
-                        List of International Signalling Point Codes (ISPC)
+                        List of International Signalling Point Codes (ISPC)
                      (According to Recommendation ITU-T Q.708 (03/1999))
                                       (Position on 1 July 2020)
                                  (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
@@ -538,8 +528,7 @@ ISPC:   International Signalling Point Codes.
         Códigos de puntos de señalización internacional (CPSI).
 
 
- No. 1218 – 12                                                                                ITU Operational Bulletin
-                               National Numbering Plan
+                               National Numbering Plan
                 (According to Recommendation ITU-T E.129 (01/2013))
                                    Web: www.itu.int/itu-t/inr/nnp/index.html
 Administrations are requested to notify ITU about their national numbering plan changes, or to give an
@@ -559,5 +548,3 @@ site:
 
 
 
- ITU Operational Bulletin                                                                        No. 1218 – 13
-

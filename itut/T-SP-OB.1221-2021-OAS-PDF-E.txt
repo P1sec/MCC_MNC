@@ -36,7 +36,7 @@ National Numbering Plan ........................................................
 
 
                                                                                                                                 www.itu.int
-               Dates of publication of the next   Including information
+               Dates of publication of the next   Including information
                    Operational Bulletins               received by:
                1222             15.VI.2021             30.V.2021
                1223             1.VII.2021             15.VI.2021
@@ -56,8 +56,7 @@ National Numbering Plan ........................................................
 
 
 
-No. 1221 – 2                                                              ITU Operational Bulletin
-                                       GENERAL INFORMATION
+                                       GENERAL INFORMATION
                           Lists annexed to the ITU Operational Bulletin
 Note from TSB
 A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
@@ -115,8 +114,7 @@ List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr
 
 
 
- ITU Operational Bulletin                                                                         No. 1221 – 3
-                              Approval of ITU-T Recommendations
+                              Approval of ITU-T Recommendations
 By AAP-104, it was announced that the following ITU-T Recommendations were approved, in accordance with
 the procedures outlined in Recommendation ITU-T A.8:
 –      ITU-T Q.3961 (2020) Cor.1 (05/2021)
@@ -154,8 +152,7 @@ SANC: Signalling Area/Network Code.
 
 
 
- No. 1221 – 4                                                                        ITU Operational Bulletin
-                                         Telephone Service
+                                         Telephone Service
                                     (Recommendation ITU-T E.164)
                                               url: www.itu.int/itu-t/inr/nnp
 Hungary (country code +36)
@@ -207,8 +204,7 @@ Numbering Plan (NNP) for Hungary (country code +36).
           31                9             9           Non-geographic number            Mobile
 
 
- ITU Operational Bulletin                                                                                  No. 1221 – 5
-      NDC            N(S)N number length
+      NDC            N(S)N number length
     (National       Maximum     Minimum        Usage of E.164 Number      Additional information
 Destination Code)    length      length
        32              8            8      Geographic number           Area code for Salgótarján
@@ -253,8 +249,7 @@ Destination Code)    length      length
        70              9            9      Non-geographic number       Mobile
        71              12          12      Non-geographic number       M2M
 
-No. 1221 – 6                                                               ITU Operational Bulletin
-       NDC              N(S)N number length
+       NDC              N(S)N number length
      (National        Maximum      Minimum         Usage of E.164 Number      Additional information
  Destination Code)     length       length
            72               8          8       Geographic number           Area code for Pécs
@@ -299,8 +294,7 @@ Contact:
 
 
 
- ITU Operational Bulletin                                                                  No. 1221 – 7
-                                       Service Restrictions
+                                       Service Restrictions
                                  See URL: www.itu.int/pub/T-SP-SR.1-2012
 
 
@@ -326,8 +320,7 @@ Contact:
 
 
 
-No. 1221 – 8                                                                  ITU Operational Bulletin
-                   AMENDMENTS TO SERVICE PUBLICATIONS
+                   AMENDMENTS TO SERVICE PUBLICATIONS
                                           Abbreviations used
                              ADD   Insert                  PAR   Paragraph
                              COL   Column                  REP   Replace
@@ -354,8 +347,7 @@ ADD
 
 
 
- ITU Operational Bulletin                                                     No. 1221 – 9
-                                List of Issuer Identifier Numbers for
+                                List of Issuer Identifier Numbers for
                         the International Telecommunication Charge Card
                   (in accordance with Recommendation ITU-T E.118 (05/2006))
                                    (Position on 1 December 2018)
@@ -403,8 +395,7 @@ Palau       LIR
 
 
 
- No. 1221 – 10                                                                        ITU Operational Bulletin
-         Mobile Network Codes (MNC) for the international identification plan
+         Mobile Network Codes (MNC) for the international identification plan
                        for public networks and subscriptions
                 (According to Recommendation ITU-T E.212 (09/2016))
                            (Position on 15 December 2018)
@@ -432,8 +423,7 @@ ____________
 
 
 
-    ITU Operational Bulletin                                                                               No. 1221 – 11
-                                 List of ITU Carrier Codes
+                                 List of ITU Carrier Codes
                  (According to Recommendation ITU-T M.1400 (03/2013))
                              (Position on 15 September 2014)
                                 (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
@@ -488,8 +478,7 @@ SANC:   Signalling Area/Network Code.
 
 
 
- No. 1221 – 12                                                                              ITU Operational Bulletin
-                        List of International Signalling Point Codes (ISPC)
+                        List of International Signalling Point Codes (ISPC)
                      (According to Recommendation ITU-T Q.708 (03/1999))
                                       (Position on 1 July 2020)
 
@@ -528,8 +517,7 @@ ISPC:   International Signalling Point Codes.
 
 
 
- ITU Operational Bulletin                                                                                No. 1221 – 13
-                                National Numbering Plan
+                                National Numbering Plan
                  (According to Recommendation ITU-T E.129 (01/2013))
                                   Web: www.itu.int/itu-t/inr/nnp/index.html
 Administrations are requested to notify ITU about their national numbering plan changes, or to give an
@@ -550,5 +538,3 @@ site:
 
 
 
- No. 1221 – 14                                                                        ITU Operational Bulletin
-

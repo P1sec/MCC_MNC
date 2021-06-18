@@ -39,7 +39,7 @@ National Numbering Plan ........................................................
 
 
                                                                                                                                  www.itu.int
-               Dates of publication of the next   Including information
+               Dates of publication of the next   Including information
                    Operational Bulletins               received by:
                1223             1.VII.2021             15.VI.2021
                1224             15.VII.2021            30.VI.2021
@@ -58,8 +58,7 @@ National Numbering Plan ........................................................
 
 
 
-No. 1222 – 2                                                              ITU Operational Bulletin
-                                       GENERAL INFORMATION
+                                       GENERAL INFORMATION
                           Lists annexed to the ITU Operational Bulletin
 Note from TSB
 A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
@@ -117,8 +116,7 @@ List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr
 
 
 
- ITU Operational Bulletin                                                                         No. 1222 – 3
-                                  Approval of ITU-T Recommendations
+                                  Approval of ITU-T Recommendations
 By AAP-105, it was announced that the following ITU-T Recommendations were approved, in accordance with
 the procedures outlined in Recommendation ITU-T A.8:
 –       ITU-T G.703 (2016) Amd. 1 (05/2021): Physical/electrical characteristics of hierarchical digital interfaces -
@@ -170,8 +168,7 @@ SANC:   Signalling Area/Network Code.
 
 
 
- No. 1222 – 4                                                                             ITU Operational Bulletin
-     International Identification Plan for Public Networks and Subscriptions
+     International Identification Plan for Public Networks and Subscriptions
                     (Recommendation ITU-T E.212 (09/2016))
 Note from TSB
                              Identification codes for International Mobile Networks
@@ -228,8 +225,7 @@ Contact:
       Fax:     +233 302 763 449
       E-mail: info@nca.org.gh
       URL:     www.nca.org.gh
-  ITU Operational Bulletin                                                                       No. 1222 – 5
-Iran (Islamic Republic of) (country code +98)
+Iran (Islamic Republic of) (country code +98)
 Communication of 18.V.2021:
 The Communications Regulatory Authority (CRA), Tehran, announces the following updated National
 Numbering Plan of the Islamic Republic of Iran.
@@ -283,8 +279,7 @@ The maximum number length (excluding the country code) is          10 digits
                                                                    vaBakhtiari)
  41                5             10         Fixed Phone            Area Code (Geographic Number for Fixed
                                                                    telephony Numbers- East Azarbayjan)
- No. 1222 – 6                                                                          ITU Operational Bulletin
-              NSN Number length
+              NSN Number length
   NDC                                Usage of E.164    Additional Information
             Minimum        Maximum
 44              5             10     Fixed Phone       Area Code (Geographic Number for Fixed
@@ -338,8 +333,7 @@ The maximum number length (excluding the country code) is          10 digits
 9045           10            10      Mobile services
 9046           10            10      Mobile services
 
-ITU Operational Bulletin                                                            No. 1222 – 7
-                NSN Number length
+                NSN Number length
   NDC                               Usage of E.164        Additional Information
                Minimum    Maximum
 905               10         10     Mobile services
@@ -391,8 +385,7 @@ ITU Operational Bulletin                                                        
 99911            10          10     Mobile services
 
 
-No. 1222 – 8                                                                  ITU Operational Bulletin
-                  NSN Number length
+                  NSN Number length
    NDC                                    Usage of E.164           Additional Information
                Minimum       Maximum
  99912            10            10         Mobile services
@@ -429,8 +422,7 @@ Contact:
 
 
 
- ITU Operational Bulletin                                                                   No. 1222 – 9
-                                Issuer Identifier Number (IIN)
+                                Issuer Identifier Number (IIN)
                            (Recommendation ITU-T E.118 (05/2006))
 Note from TSB
 
@@ -472,8 +464,7 @@ A public team name/tel/mailbox email address responsible for handling these quer
 
 
 
- No. 1222 – 10                                                                          ITU Operational Bulletin
-More particularly, the companies indicated in the document below are requested to send all modifications
+More particularly, the companies indicated in the document below are requested to send all modifications
 concerning their company and contact details and the updates would need to be endorsed by the national
 Administration or sent by the national Administration.
 The document available at the following link contains only the list of ITU-T E.118 IINs for which the assignee
@@ -513,8 +504,7 @@ station to use the special call sign OE60ANT from 1 July to 31 December 2021.
 
 
 
-    ITU Operational Bulletin                                                                    No. 1222 – 11
-                                       Service Restrictions
+                                       Service Restrictions
                                  See URL: www.itu.int/pub/T-SP-SR.1-2012
 
 
@@ -540,8 +530,7 @@ station to use the special call sign OE60ANT from 1 July to 31 December 2021.
 
 
 
-No. 1222 – 12                                                                 ITU Operational Bulletin
-                           AMENDMENTS TO SERVICE PUBLICATIONS
+                           AMENDMENTS TO SERVICE PUBLICATIONS
                                                            Abbreviations used
                                         ADD       Insert                           PAR       Paragraph
                                         COL       Column                           REP       Replace
@@ -596,8 +585,7 @@ ____________
 
 
 
-    ITU Operational Bulletin                                                                                               No. 1222 – 13
-        2. PSDN (mobile-to-shore)
+        2. PSDN (mobile-to-shore)
            a) Singapore: 0.18 SDR/256 bits.
            b) Other countries: 0.18 SDR/256 bits.
         3. CPLUS charges
@@ -649,8 +637,7 @@ CS3     Inmarsat–BGAN (Charging duration is per block of 15 seconds)
 
 
 
-No. 1222 – 14                                                                       ITU Operational Bulletin
-                             Services                         Charge Unit            SDR
+                             Services                         Charge Unit            SDR
            ...(Cont.)
            32kbps Streaming IP                                    min.                2.62
            64kbps Streaming IP                                    min.                5.03
@@ -686,8 +673,7 @@ CS4      Inmarsat–FleetBroadband (Charging duration is per block of 15 seconds
 
 
 
- ITU Operational Bulletin                                                                    No. 1222 – 15
-        b) Mobile-to-shore
+        b) Mobile-to-shore
 
                                         Services                           SDR/MB
                     Monthly Subscription fee (SDR)                          338
@@ -738,8 +724,7 @@ CS5     Inmarsat–Fleet One (Charging duration is per block of 15 seconds)
 
 
 
-No. 1222 – 16                                                                       ITU Operational Bulletin
-         b) Mobile-to-shore
+         b) Mobile-to-shore
 
                                          Services                           SDR/MB
                      Monthly Subscription fee (SDR)                         116.64
@@ -788,8 +773,7 @@ CS6      Inmarsat–Isatphone Pro (Charging duration is per block of 15 seconds)
 
 
 
- ITU Operational Bulletin                                                                    No. 1222 – 17
-        b) Mobile-to-shore
+        b) Mobile-to-shore
 
 
                                         Services                           SDR/min.
@@ -826,8 +810,7 @@ CS7     Iridium Plan (Charging duration is per block of 20 seconds)
 
 
 
-No. 1222 – 18                                                                         ITU Operational Bulletin
-         b) Mobile-to-shore
+         b) Mobile-to-shore
 
                                             Services                             SDR/MB
                      Monthly Subscription fee (SDR)                               38.20
@@ -878,8 +861,7 @@ CS8      Iridium Open Port (Charging duration is per block of 20 seconds)
 
 
 
- ITU Operational Bulletin                                                                           No. 1222 – 19
-CS9      Global Express (Charging duration is per block of 15 seconds)
+CS9      Global Express (Charging duration is per block of 15 seconds)
          Charges applicable in the maritime mobile-satellite service via IOR SAS – Fucino, Italy and Nemea,
          Greece; AOR SAS – Winnipeg, Canada, Lino Lakes, Minnesota, USA;
          POR SAS – Warkworth and Auckand, New Zealand
@@ -933,15 +915,13 @@ CS8      Iridium Open Port (Charging duration is per block of 20 seconds)
 
 
 
-No. 1222 – 20                                                                      ITU Operational Bulletin
-CS10 Composition of destination zones
+CS10 Composition of destination zones
        Voice for GX/FX
 
 
 
 
- ITU Operational Bulletin               No. 1222 – 21
-CS11     TracPhone V7HTS AgilePlans Packages
+CS11     TracPhone V7HTS AgilePlans Packages
 (Select one package each from Part One and Part Two)
 
 
@@ -977,8 +957,7 @@ V7HTS
 
 
 
- No. 1222 – 22                                                               ITU Operational Bulletin
-                            List of Issuer Identifier Numbers for
+                            List of Issuer Identifier Numbers for
                     the International Telecommunication Charge Card
               (in accordance with Recommendation ITU-T E.118 (05/2006))
                                (Position on 1 December 2018)
@@ -1027,8 +1006,7 @@ Martinique       ADD
 
 
 
- ITU Operational Bulletin                                                                           No. 1222 – 23
-Mobile Network Codes (MNC) for the international identification plan
+Mobile Network Codes (MNC) for the international identification plan
                for public networks and subscriptions
        (According to Recommendation ITU-T E.212 (09/2016))
                   (Position on 15 December 2018)
@@ -1054,8 +1032,7 @@ ____________
 
 
 
-No. 1222 – 24                                                                                 ITU Operational Bulletin
-                              List of ITU Carrier Codes
+                              List of ITU Carrier Codes
               (According to Recommendation ITU-T M.1400 (03/2013))
                           (Position on 15 September 2014)
                             (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
@@ -1110,8 +1087,7 @@ Germany (Federal Republic of) / DEU           ADD
 
 
 
- ITU Operational Bulletin                                                                      No. 1222 – 25
-                     List of Signalling Area/Network Codes (SANC)
+                     List of Signalling Area/Network Codes (SANC)
                 (Complement to Recommendation ITU-T Q.708 (03/1999))
                                  (Position on 1 June 2017)
                                  (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
@@ -1163,8 +1139,7 @@ ISPC:   International Signalling Point Codes.
 
 
 
- No. 1222 – 26                                                                               ITU Operational Bulletin
-                               National Numbering Plan
+                               National Numbering Plan
                 (According to Recommendation ITU-T E.129 (01/2013))
                                   Web: www.itu.int/itu-t/inr/nnp/index.html
 
@@ -1185,5 +1160,3 @@ site:
 
 
 
- ITU Operational Bulletin                                                                        No. 1222 – 27
-
