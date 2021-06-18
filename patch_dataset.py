@@ -211,6 +211,7 @@ COUNTRY_RENAME = {
     'The Kingdom of the Netherlands': 'Netherlands', # needed
     'Macedonia'                 : 'North Macedonia',
     'The Former Yugoslav Republic of Macedonia': 'North Macedonia',
+    'Bosnia & Herzegov.'        : 'Bosnia and Herzegovina',
     #
     # Middle-East / Asia
     'Burma'                     : 'Myanmar',
@@ -230,6 +231,7 @@ COUNTRY_RENAME = {
     'Palau (Republic of)'       : 'Palau',
     'People\'s Republic of China'   : 'China',
     'Artsakh'                   : 'Nagorno-Karabakh',
+    #'Nagorno-Karabakh'          : 'Artsakh',
     'The Islamic Republic of Iran'  : 'Iran',
     'Iran (Islamic Republic of)'    : 'Iran', # needed
     'Palestine'                 : 'State of Palestine',
@@ -248,9 +250,10 @@ COUNTRY_RENAME = {
     'Congo, Republic'           : 'Republic of the Congo',
     'Congo, Dem. Rep.'          : 'Democratic Republic of the Congo',
     'Dem. Rep. of the Congo'    : 'Democratic Republic of the Congo',
-    'Congo, Democratic Republic of the (Zaire)' : 'Democratic Republic of the Congo',
+    'Congo, Democratic Republic of the' : 'Democratic Republic of the Congo',
     'Côte d\'Ivoire'            : 'Ivory Coast',
     'Cote d\'Ivoire'            : 'Ivory Coast',
+    'Ivory Coast (C\u00f4te d\'Ivoire)' : 'Ivory Coast',
     'Gambia'                    : 'The Gambia', # needed
     #
     # America
@@ -270,6 +273,7 @@ COUNTRY_RENAME = {
     'Saint Barthelemy'          : 'Saint Barthélemy',
     'Timor-Leste'               : 'East Timor',
     'Timor-Leste (Democratic Republic of)' : 'East Timor',
+    'East Timor (Timor-Leste)'  : 'East Timor',
     'Virgin Islands, British'   : 'British Virgin Islands',
     'Virgin Islands, US'        : 'United States Virgin Islands',
     'US Virgin Islands'         : 'United States Virgin Islands',
@@ -286,6 +290,8 @@ COUNTRY_RENAME = {
     'Micronesia, Federated States of'       : 'Federated States of Micronesia',
     'Micronesia (Federated States of)'      : 'Federated States of Micronesia',
     'French Southern and Antarctic Lands'   : 'French Southern Territories',
+    'Saint Vincent & Grenadines'    : 'Saint Vincent and the Grenadines',
+    
     #
     # others
     'International Networks (country code)' : 'International Networks' # needed
@@ -749,6 +755,7 @@ def patch_wikip_country():
             WIKIP_COUNTRY[newname] = preflist
             del WIKIP_COUNTRY[country]
             print('> country name changed from %s to %s' % (country, newname))
+            country = newname
             found = True
         #
         elif country in isonameset:
@@ -766,6 +773,7 @@ def patch_wikip_country():
                     WIKIP_COUNTRY[newname] = preflist
                     del WIKIP_COUNTRY[country]
                     print('> country name changed from %s to %s' % (country, newname))
+                    country = newname
                     found = True
                     break
         #
