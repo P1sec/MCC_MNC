@@ -206,6 +206,7 @@ COUNTRY_RENAME = {
     'Holy See'                  : 'Vatican', # needed
     'UK'                        : 'United Kingdom',
     'Czech Rep.'                : 'Czech Republic',
+    'Czechia'                   : 'Czech Republic',
     'Ireland'                   : 'Republic of Ireland', # needed
     'Vatican City State (Holy See)' : 'Vatican',
     'The Kingdom of the Netherlands': 'Netherlands', # needed
