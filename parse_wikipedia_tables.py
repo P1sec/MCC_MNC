@@ -126,11 +126,11 @@ def import_html_doc(url):
 
 def explore_text(E):
     #print(E)
-    if E.text is not None and is_text_valid(E.text):
+    if hasattr(E, 'text') and E.text is not None and is_text_valid(E.text):
         return E
     for e in E:
         t = explore_text(e)
-        if t is not None and t.text is not None and is_text_valid(t.text):
+        if t is not None and hasattr(t, 'text') and t.text is not None and is_text_valid(t.text):
             return t
 
 
@@ -522,14 +522,8 @@ def parse_table_msisdn_pref():
     T_C = T[1][0]
     #
     for L in T_C[1:]:
-        name = explore_text(L[0]).text.strip()
-        pref = []
-        for num in map(str.strip, ''.join(L[1].itertext()).split(',')):
-            if not num:
-                continue
-            pref.append( RE_WIKI_MSISDN_PREF.search(num).group().replace(' ', '')[1:] )
-        assert( name not in D_C )
-        D_C[name] = pref
+        fields = tuple(map(str.strip, ''.join(L.itertext()).split('\n\n')))
+        D_C[fields[0]] = RE_WIKI_MSISDN_PREF.search(fields[1]).group().replace(' ', '')[1:]
     #
     # 3) extract the dict of {location with no country code: MSISDN prefix}
     D_T = {}
@@ -663,15 +657,30 @@ def parse_table_borders():
 def get_wiki_infos():
     try:
         D_iso  = parse_table_iso3166()
+    except Exception as err:
+        print('parse_table_iso3166: unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
+        return None, None, None, None, None, None, None
+    try:
         L_mcc  = parse_table_mcc()
+    except Exception as err:
+        print('parse_table_mcc: unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
+        return None, None, None, None, None, None, None
+    try:
         D_mnc  = parse_table_mnc_all()
+    except Exception as err:
+        print('parse_table_mnc_all: unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
+        return None, None, None, None, None, None, None
+    try:
         D_pref, D_count, D_terr = parse_table_msisdn_pref()
+    except Exception as err:
+        print('parse_table_msisdn_pref: unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
+        return None, None, None, None, None, None, None
+    try:
         L_bord = parse_table_borders()
     except Exception as err:
-        print('unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
+        print('parse_table_borders: unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
         return None, None, None, None, None, None, None
-    else:
-        return D_iso, L_mcc, D_mnc, D_pref, D_count, D_terr, L_bord
+    return D_iso, L_mcc, D_mnc, D_pref, D_count, D_terr, L_bord
 
 
 def generate_json(d, destfile, src, license):
