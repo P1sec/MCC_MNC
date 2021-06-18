@@ -36,6 +36,10 @@
     "Armenia": [
       "374"
     ],
+    "Artsakh": [
+      "37447",
+      "37497"
+    ],
     "Aruba": [
       "297"
     ],
@@ -173,7 +177,7 @@
     "Congo": [
       "242"
     ],
-    "Congo, Democratic Republic of the (Zaire)": [
+    "Congo, Democratic Republic of the": [
       "243"
     ],
     "Cook Islands": [
@@ -217,7 +221,7 @@
     "EMSAT (Mobile Satellite service)": [
       "88213"
     ],
-    "East Timor": [
+    "East Timor (Timor-Leste)": [
       "670"
     ],
     "Easter Island": [
@@ -396,7 +400,7 @@
     "Italy": [
       "39"
     ],
-    "Ivory Coast": [
+    "Ivory Coast (C\u00f4te d'Ivoire)": [
       "225"
     ],
     "Jamaica": [
@@ -536,10 +540,6 @@
     ],
     "Myanmar": [
       "95"
-    ],
-    "Nagorno-Karabakh": [
-      "37447",
-      "37497"
     ],
     "Namibia": [
       "264"

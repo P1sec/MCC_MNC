@@ -941,6 +941,19 @@
       "operator": "Citymesh NV",
       "src": "Wikipedia"
     },
+    "20604": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "MWingz",
+      "cc2s": [
+        "BE"
+      ],
+      "country": "Belgium",
+      "ope": false,
+      "operator": "Proximus/Orange Belgium",
+      "src": "Wikipedia"
+    },
     "20605": {
       "bands": [
         "MVNO"
@@ -1034,7 +1047,7 @@
         "BE"
       ],
       "country": "Belgium",
-      "ope": true,
+      "ope": false,
       "operator": "L-Mobi Mobile",
       "src": "Wikipedia"
     },
@@ -1091,7 +1104,7 @@
         "BE"
       ],
       "country": "Belgium",
-      "ope": true,
+      "ope": false,
       "operator": "FEBO Telecom",
       "src": "Wikipedia"
     },
@@ -1687,7 +1700,7 @@
       ],
       "country": "France",
       "ope": false,
-      "operator": "Airbus Defence and Space SAS",
+      "operator": "Airmob Infra Full",
       "src": "Wikipedia"
     },
     "20829": {
@@ -1817,17 +1830,17 @@
       "operator": "IP Directions",
       "src": "Wikipedia"
     },
-    "20850": {
+    "20838": {
       "bands": [
-        "Unknown"
+        "MVNO"
       ],
       "brand": "",
       "cc2s": [
         "FR"
       ],
       "country": "France",
-      "ope": false,
-      "operator": "EDF",
+      "ope": true,
+      "operator": "Lebara France Ltd",
       "src": "Wikipedia"
     },
     "208500": {
@@ -1841,7 +1854,7 @@
       "operator": "EDF",
       "src": "ITU-T"
     },
-    "20870": {
+    "208700": {
       "bands": [
         "Unknown"
       ],
@@ -1854,16 +1867,187 @@
       "operator": "Weaccess group",
       "src": "Wikipedia"
     },
-    "208700": {
-      "bands": "",
+    "208701": {
+      "bands": [
+        "Unknown"
+      ],
       "brand": "",
       "cc2s": [
         "FR"
       ],
       "country": "France",
       "ope": false,
-      "operator": "Weaccess group",
-      "src": "ITU-T"
+      "operator": "GIP Vend\u00e9e num\u00e9rique",
+      "src": "Wikipedia"
+    },
+    "208702": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "17-Numerique",
+      "src": "Wikipedia"
+    },
+    "208703": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Nivertel",
+      "src": "Wikipedia"
+    },
+    "208704": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Axione Limousin",
+      "src": "Wikipedia"
+    },
+    "208705": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Hautes-Pyr\u00e9n\u00e9es Num\u00e9rique",
+      "src": "Wikipedia"
+    },
+    "208706": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Tours M\u00e9tropole Num\u00e9rique",
+      "src": "Wikipedia"
+    },
+    "208707": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Sartel THD",
+      "src": "Wikipedia"
+    },
+    "208708": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Melis@ territoires ruraux",
+      "src": "Wikipedia"
+    },
+    "208709": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Quimper communaut\u00e9 t\u00e9l\u00e9com",
+      "src": "Wikipedia"
+    },
+    "208710": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Losange",
+      "src": "Wikipedia"
+    },
+    "208711": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Nomotech",
+      "src": "Wikipedia"
+    },
+    "208712": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Syndicat Audois d'\u00e9nergies et du Num\u00e9rique",
+      "src": "Wikipedia"
+    },
+    "208713": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "SD NUM SAS",
+      "src": "Wikipedia"
+    },
+    "208714": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "D\u00e9partement de l'Is\u00e8re",
+      "src": "Wikipedia"
     },
     "20886": {
       "bands": [
@@ -2856,6 +3040,19 @@
       "operator": "Telemach",
       "src": "Wikipedia"
     },
+    "21904": {
+      "bands": [
+        "MVNO"
+      ],
+      "brand": "",
+      "cc2s": [
+        "HR"
+      ],
+      "country": "Croatia",
+      "ope": false,
+      "operator": "NTH Mobile d.o.o.",
+      "src": "Wikipedia"
+    },
     "21910": {
       "bands": [
         "GSM 900",
@@ -2884,6 +3081,19 @@
       "country": "Croatia",
       "ope": false,
       "operator": "TELE FOCUS d.o.o.",
+      "src": "Wikipedia"
+    },
+    "21920": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "T-Mobile",
+      "cc2s": [
+        "HR"
+      ],
+      "country": "Croatia",
+      "ope": false,
+      "operator": "T-Hrvatski Telekom",
       "src": "Wikipedia"
     },
     "22001": {
@@ -3004,6 +3214,19 @@
       "country": "Serbia",
       "ope": true,
       "operator": "GLOBALTEL d.o.o.",
+      "src": "Wikipedia"
+    },
+    "22020": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "VIP",
+      "cc2s": [
+        "RS"
+      ],
+      "country": "Serbia",
+      "ope": false,
+      "operator": "VIP Mobile",
       "src": "Wikipedia"
     },
     "22101": {
@@ -3163,8 +3386,6 @@
     "22210": {
       "bands": [
         "GSM 900",
-        "UMTS 900",
-        "UMTS 2100",
         "LTE 800",
         "LTE 1500",
         "LTE 1800",
@@ -3355,8 +3576,8 @@
     "22250": {
       "bands": [
         "UMTS 900",
-        "UMTS 2100",
         "LTE 1800",
+        "LTE 2100",
         "LTE 2600",
         "5G 3500"
       ],
@@ -3424,13 +3645,14 @@
     "22288": {
       "bands": [
         "GSM 900",
-        "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
+        "5G 1800",
+        "5G 2600",
         "5G 3500"
       ],
       "brand": "WINDTRE",
@@ -3753,7 +3975,7 @@
       ],
       "country": "Switzerland",
       "ope": true,
-      "operator": "TelCommunication Services AG",
+      "operator": "Sunrise Communications AG",
       "src": "Wikipedia"
     },
     "22809": {
@@ -4003,6 +4225,19 @@
       "operator": "Nth AG",
       "src": "Wikipedia"
     },
+    "22865": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "CH"
+      ],
+      "country": "Switzerland",
+      "ope": false,
+      "operator": "Nexphone AG",
+      "src": "Wikipedia"
+    },
     "22866": {
       "bands": [
         "Unknown"
@@ -4014,6 +4249,32 @@
       "country": "Switzerland",
       "ope": false,
       "operator": "Inovia Services SA",
+      "src": "Wikipedia"
+    },
+    "22867": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "CH"
+      ],
+      "country": "Switzerland",
+      "ope": false,
+      "operator": "Datatrade Managed AG",
+      "src": "Wikipedia"
+    },
+    "22868": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "CH"
+      ],
+      "country": "Switzerland",
+      "ope": false,
+      "operator": "Intellico AG",
       "src": "Wikipedia"
     },
     "22899": {
@@ -4073,9 +4334,7 @@
       "bands": [
         "GSM 900",
         "GSM 1800",
-        "UMTS 2100",
         "LTE 800",
-        "LTE 900",
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
@@ -4203,7 +4462,8 @@
         "UMTS 900",
         "UMTS 2100",
         "LTE 800",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "Orange",
       "cc2s": [
@@ -4306,13 +4566,13 @@
       "bands": [
         "Unknown"
       ],
-      "brand": "",
+      "brand": "Orange",
       "cc2s": [
         "SK"
       ],
       "country": "Slovakia",
       "ope": false,
-      "operator": "Towercom, a. s.",
+      "operator": "Orange Slovensko",
       "src": "Wikipedia"
     },
     "23108": {
@@ -4429,6 +4689,7 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
+        "5G 700",
         "5G 2100",
         "5G 3500"
       ],
@@ -4735,6 +4996,19 @@
       "country": "Austria",
       "ope": false,
       "operator": "Holding Graz Kommunale Dienstleistungen GmbH",
+      "src": "Wikipedia"
+    },
+    "23226": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "AT"
+      ],
+      "country": "Austria",
+      "ope": false,
+      "operator": "LIWEST Kabelmedien GmbH",
       "src": "Wikipedia"
     },
     "23291": {
@@ -5196,15 +5470,15 @@
     },
     "23427": {
       "bands": [
-        "MVNE"
+        "MVNO"
       ],
-      "brand": "",
+      "brand": "Teleena",
       "cc2s": [
         "GB"
       ],
       "country": "United Kingdom",
       "ope": true,
-      "operator": "Teleena UK Limited",
+      "operator": "Tata Communications Move UK Ltd",
       "src": "Wikipedia"
     },
     "23428": {
@@ -5241,6 +5515,7 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
+        "5G 700",
         "5G 3500"
       ],
       "brand": "T-Mobile UK",
@@ -5260,6 +5535,7 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
+        "5G 700",
         "5G 3500"
       ],
       "brand": "T-Mobile UK",
@@ -5279,6 +5555,7 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
+        "5G 700",
         "5G 3500"
       ],
       "brand": "T-Mobile UK",
@@ -5297,7 +5574,9 @@
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 700",
+        "5G 3500"
       ],
       "brand": "Orange",
       "cc2s": [
@@ -5315,7 +5594,9 @@
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 700",
+        "5G 3500"
       ],
       "brand": "Orange",
       "cc2s": [
@@ -5594,7 +5875,7 @@
       ],
       "country": "United Kingdom",
       "ope": false,
-      "operator": "CESG",
+      "operator": "National Cyber Security Centre",
       "src": "Wikipedia"
     },
     "23457": {
@@ -6064,7 +6345,7 @@
       ],
       "country": "Denmark",
       "ope": false,
-      "operator": "NextGen Mobile Ltd T/A CardBoardFish",
+      "operator": "Nexcon.io ApS",
       "src": "Wikipedia"
     },
     "23805": {
@@ -6409,6 +6690,19 @@
       "country": "Denmark",
       "ope": true,
       "operator": "Telenor Denmark",
+      "src": "Wikipedia"
+    },
+    "23888": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "DK"
+      ],
+      "country": "Denmark",
+      "ope": false,
+      "operator": "Cobira ApS",
       "src": "Wikipedia"
     },
     "23896": {
@@ -7389,6 +7683,19 @@
       "operator": "eRate Norway AS",
       "src": "Wikipedia"
     },
+    "24216": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "NO"
+      ],
+      "country": "Norway",
+      "ope": false,
+      "operator": "Iristel Norway AS",
+      "src": "Wikipedia"
+    },
     "24220": {
       "bands": [
         "GSM-R 900"
@@ -7694,15 +8001,15 @@
     },
     "24416": {
       "bands": [
-        "MVNO"
+        "Unknown"
       ],
-      "brand": "Tele2",
+      "brand": "",
       "cc2s": [
         "FI"
       ],
       "country": "Finland",
       "ope": false,
-      "operator": "Oy Finland Tele2 AB",
+      "operator": "Digita Oy",
       "src": "Wikipedia"
     },
     "24417": {
@@ -7780,7 +8087,7 @@
       ],
       "country": "Finland",
       "ope": false,
-      "operator": "TTY-s\u00e4\u00e4ti\u00f6",
+      "operator": "Nord Connect UAB",
       "src": "Wikipedia"
     },
     "24425": {
@@ -7811,14 +8118,19 @@
     },
     "24427": {
       "bands": [
-        "Unknown"
+        "LTE 450",
+        "LTE 1800",
+        "LTE 2100",
+        "LTE 2600",
+        "5G 3500",
+        "5G MMWAVE"
       ],
       "brand": "",
       "cc2s": [
         "FI"
       ],
       "country": "Finland",
-      "ope": false,
+      "ope": true,
       "operator": "Teknologian tutkimuskeskus VTT Oy",
       "src": "Wikipedia"
     },
@@ -8266,6 +8578,19 @@
       "operator": "TeliaSonera Finland Oyj",
       "src": "Wikipedia"
     },
+    "24495": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "FI"
+      ],
+      "country": "Finland",
+      "ope": false,
+      "operator": "S\u00e4teilyturvakeskus",
+      "src": "Wikipedia"
+    },
     "24499": {
       "bands": [
         "Unknown"
@@ -8439,6 +8764,45 @@
       "country": "Lithuania",
       "ope": false,
       "operator": "Nord connect OU",
+      "src": "Wikipedia"
+    },
+    "24613": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "LT"
+      ],
+      "country": "Lithuania",
+      "ope": false,
+      "operator": "Travel Communication SIA",
+      "src": "Wikipedia"
+    },
+    "24614": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "LT"
+      ],
+      "country": "Lithuania",
+      "ope": false,
+      "operator": "Tismi BV",
+      "src": "Wikipedia"
+    },
+    "24615": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "LT"
+      ],
+      "country": "Lithuania",
+      "ope": false,
+      "operator": "Esim telecom, UAB",
       "src": "Wikipedia"
     },
     "24701": {
@@ -8892,7 +9256,7 @@
         "LTE 2100",
         "LTE 2600",
         "TD-LTE 2600",
-        "5G 26000"
+        "5G 4700"
       ],
       "brand": "MTS",
       "cc2s": [
@@ -9182,7 +9546,8 @@
         "LTE 800",
         "LTE 1800",
         "LTE 2600",
-        "TD-LTE 2300"
+        "TD-LTE 2300",
+        "TD-LTE 2500"
       ],
       "brand": "Tele2",
       "cc2s": [
@@ -9422,13 +9787,13 @@
       "bands": [
         "MVNO"
       ],
-      "brand": "MTS",
+      "brand": "SberMobile",
       "cc2s": [
         "RU"
       ],
       "country": "Russia",
       "ope": true,
-      "operator": "Bezlimitno.ru",
+      "operator": "Sberbank-Telecom",
       "src": "Wikipedia"
     },
     "25054": {
@@ -10118,7 +10483,6 @@
       "bands": [
         "GSM 1800",
         "UMTS 900",
-        "UMTS 2100",
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
@@ -10314,7 +10678,7 @@
       ],
       "country": "Poland",
       "ope": false,
-      "operator": "Wysy\u0142aj SMS Polska Sp. z o.o.",
+      "operator": "TISMI B.V.",
       "src": "Wikipedia"
     },
     "26021": {
@@ -10695,6 +11059,19 @@
       "operator": "Messagebird B.V.",
       "src": "Wikipedia"
     },
+    "26090": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "PL"
+      ],
+      "country": "Poland",
+      "ope": false,
+      "operator": "Polska Sp\u00f3\u0142ka Gazownictwa Sp. z o.o.",
+      "src": "Wikipedia"
+    },
     "26097": {
       "bands": [
         "Unknown"
@@ -10725,6 +11102,7 @@
       "bands": [
         "GSM 900",
         "UMTS 2100",
+        "LTE 700",
         "LTE 800",
         "LTE 900",
         "LTE 1800",
@@ -11150,6 +11528,19 @@
       "operator": "DB Telematik",
       "src": "Wikipedia"
     },
+    "26270": {
+      "bands": [
+        "Tetra"
+      ],
+      "brand": "",
+      "cc2s": [
+        "DE"
+      ],
+      "country": "Germany",
+      "ope": true,
+      "operator": "BDBOS",
+      "src": "Wikipedia"
+    },
     "26271": {
       "bands": [
         "Unknown"
@@ -11427,7 +11818,7 @@
       ],
       "country": "Portugal",
       "ope": true,
-      "operator": "Telecomunica\u00e7\u00f5es M\u00f3veis Nacionais",
+      "operator": "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A.",
       "src": "Wikipedia"
     },
     "26807": {
@@ -11441,6 +11832,19 @@
       "country": "Portugal",
       "ope": false,
       "operator": "Mundio Mobile (Portugal) Limited",
+      "src": "Wikipedia"
+    },
+    "26808": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "MEO",
+      "cc2s": [
+        "PT"
+      ],
+      "country": "Portugal",
+      "ope": false,
+      "operator": "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A.",
       "src": "Wikipedia"
     },
     "26811": {
@@ -11505,7 +11909,7 @@
       ],
       "country": "Portugal",
       "ope": false,
-      "operator": "Telecomunica\u00e7\u00f5es M\u00f3veis Nacionais",
+      "operator": "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A.",
       "src": "Wikipedia"
     },
     "26891": {
@@ -11563,6 +11967,19 @@
       "country": "Luxembourg",
       "ope": false,
       "operator": "MTX Connect S.a.r.l.",
+      "src": "Wikipedia"
+    },
+    "27005": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "LU"
+      ],
+      "country": "Luxembourg",
+      "ope": false,
+      "operator": "Luxembourg Online S.A.",
       "src": "Wikipedia"
     },
     "27007": {
@@ -12240,7 +12657,8 @@
         "UMTS 900",
         "UMTS 2100",
         "LTE 800",
-        "LTE 2100"
+        "LTE 2100",
+        "5G"
       ],
       "brand": "Melita",
       "cc2s": [
@@ -12662,7 +13080,8 @@
         "UMTS 900",
         "UMTS 2100",
         "LTE 1800",
-        "LTE 2100"
+        "LTE 2100",
+        "5G 3500"
       ],
       "brand": "Telenor",
       "cc2s": [
@@ -12966,6 +13385,19 @@
       "operator": "S\u017d - Infrastruktura, d.o.o.",
       "src": "Wikipedia"
     },
+    "29311": {
+      "bands": [
+        "5G 700"
+      ],
+      "brand": "",
+      "cc2s": [
+        "SI"
+      ],
+      "country": "Slovenia",
+      "ope": false,
+      "operator": "BeeIN d.o.o.",
+      "src": "Wikipedia"
+    },
     "29320": {
       "bands": [
         "Unknown"
@@ -12977,6 +13409,19 @@
       "country": "Slovenia",
       "ope": false,
       "operator": "COMPATEL Ltd",
+      "src": "Wikipedia"
+    },
+    "29321": {
+      "bands": [
+        "MVNO"
+      ],
+      "brand": "",
+      "cc2s": [
+        "SI"
+      ],
+      "country": "Slovenia",
+      "ope": false,
+      "operator": "NOVATEL d.o.o.",
       "src": "Wikipedia"
     },
     "29340": {
@@ -13317,7 +13762,8 @@
         "UMTS 2100",
         "LTE 800",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 2100"
       ],
       "brand": "T-Mobile",
       "cc2s": [
@@ -14309,6 +14755,19 @@
       "operator": "Shared Telus, Bell, and SaskTel",
       "src": "Wikipedia"
     },
+    "302910": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "CA"
+      ],
+      "country": "Canada",
+      "ope": false,
+      "operator": "Halton Regional Police Service",
+      "src": "Wikipedia"
+    },
     "302920": {
       "bands": [
         "Unknown"
@@ -14906,13 +15365,13 @@
           "LTE 850",
           "LTE 1900"
         ],
-        "brand": "Sprint",
+        "brand": "",
         "cc2s": [
           "US"
         ],
         "country": "United States",
         "ope": true,
-        "operator": "Sprint Corporation",
+        "operator": "T-Mobile US",
         "src": "Wikipedia"
       },
       {
@@ -16255,13 +16714,13 @@
       "bands": [
         "WiMAX"
       ],
-      "brand": "Sprint",
+      "brand": "",
       "cc2s": [
         "US"
       ],
       "country": "United States",
       "ope": false,
-      "operator": "Sprint Corporation",
+      "operator": "T-Mobile US",
       "src": "Wikipedia"
     },
     "310840": {
@@ -16997,13 +17456,13 @@
       "bands": [
         "WiMAX"
       ],
-      "brand": "Sprint",
+      "brand": "",
       "cc2s": [
         "US"
       ],
       "country": "United States",
       "ope": false,
-      "operator": "Sprint Corporation",
+      "operator": "T-Mobile US",
       "src": "Wikipedia"
     },
     "311270": {
@@ -17689,13 +18148,13 @@
         "LTE 1900",
         "TD-LTE 2500"
       ],
-      "brand": "Sprint",
+      "brand": "",
       "cc2s": [
         "US"
       ],
       "country": "United States",
       "ope": true,
-      "operator": "Sprint Corporation",
+      "operator": "T-Mobile US",
       "src": "Wikipedia"
     },
     "311500": {
@@ -17796,16 +18255,15 @@
     },
     "311570": {
       "bands": [
-        "UMTS 1700",
-        "LTE 1700"
+        "Unknown"
       ],
-      "brand": "BendBroadband",
+      "brand": "",
       "cc2s": [
         "US"
       ],
       "country": "United States",
       "ope": false,
-      "operator": "Bend Cable Communications LLC",
+      "operator": "Mediacom",
       "src": "Wikipedia"
     },
     "311580": {
@@ -18215,33 +18673,33 @@
       ],
       "country": "United States",
       "ope": true,
-      "operator": "Sprint Corporation",
+      "operator": "T-Mobile US",
       "src": "Wikipedia"
     },
     "311880": {
       "bands": [
         "Unknown"
       ],
-      "brand": "Sprint",
+      "brand": "",
       "cc2s": [
         "US"
       ],
       "country": "United States",
       "ope": false,
-      "operator": "Sprint Corporation",
+      "operator": "T-Mobile US",
       "src": "Wikipedia"
     },
     "311882": {
       "bands": [
         "Unknown"
       ],
-      "brand": "Sprint",
+      "brand": "",
       "cc2s": [
         "US"
       ],
       "country": "United States",
       "ope": false,
-      "operator": "Sprint Corporation",
+      "operator": "T-Mobile US",
       "src": "Wikipedia"
     },
     "311890": {
@@ -18314,13 +18772,13 @@
       "bands": [
         "WiMAX"
       ],
-      "brand": "Sprint",
+      "brand": "",
       "cc2s": [
         "US"
       ],
       "country": "United States",
       "ope": false,
-      "operator": "Sprint Corporation",
+      "operator": "T-Mobile US",
       "src": "Wikipedia"
     },
     "311950": {
@@ -18629,13 +19087,13 @@
       "bands": [
         "Unknown"
       ],
-      "brand": "Sprint",
+      "brand": "",
       "cc2s": [
         "US"
       ],
       "country": "United States",
       "ope": false,
-      "operator": "Sprint Corporation",
+      "operator": "T-Mobile US",
       "src": "Wikipedia"
     },
     "312200": {
@@ -18707,13 +19165,13 @@
       "bands": [
         "Unknown"
       ],
-      "brand": "Sprint",
+      "brand": "",
       "cc2s": [
         "US"
       ],
       "country": "United States",
       "ope": false,
-      "operator": "Sprint Corporation",
+      "operator": "T-Mobile US",
       "src": "Wikipedia"
     },
     "312260": {
@@ -19073,13 +19531,13 @@
       "bands": [
         "Unknown"
       ],
-      "brand": "Sprint",
+      "brand": "",
       "cc2s": [
         "US"
       ],
       "country": "United States",
       "ope": true,
-      "operator": "Sprint Corporation",
+      "operator": "T-Mobile US",
       "src": "Wikipedia"
     },
     "312540": {
@@ -20674,7 +21132,7 @@
       ],
       "country": "United States",
       "ope": false,
-      "operator": "313-CellTex Networks, LLC",
+      "operator": "CellTex Networks, LLC",
       "src": "Wikipedia"
     },
     "313760": {
@@ -20701,6 +21159,19 @@
       "country": "United States",
       "ope": false,
       "operator": "Tango Networks",
+      "src": "Wikipedia"
+    },
+    "313780": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "Windstream Holdings",
       "src": "Wikipedia"
     },
     "313790": [
@@ -20745,6 +21216,266 @@
         "src": "Wikipedia"
       }
     ],
+    "313800": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": "Wireless Technologies of Nebraska",
+      "src": "Wikipedia"
+    },
+    "313810": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": "Watch Communications",
+      "src": "Wikipedia"
+    },
+    "313820": {
+      "bands": [
+        "LTE"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": "Inland Cellular Telephone Company",
+      "src": "Wikipedia"
+    },
+    "313830": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "360 Communications",
+      "src": "Wikipedia"
+    },
+    "313840": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "CellBlox Acqusitions",
+      "src": "Wikipedia"
+    },
+    "313850": {
+      "bands": [
+        "LTE"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": "Softcom Internet Communications, Inc",
+      "src": "Wikipedia"
+    },
+    "313860": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "Nextlink",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": "AMG Technology Investment Group",
+      "src": "Wikipedia"
+    },
+    "313870": {
+      "bands": [
+        "5G 3500"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": "ElektraFi LLC",
+      "src": "Wikipedia"
+    },
+    "313880": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "Shuttle wireless",
+      "src": "Wikipedia"
+    },
+    "313890": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "TCOE",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": "Tulare County Office of Education]",
+      "src": "Wikipedia"
+    },
+    "313900": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "Tribal Networks",
+      "src": "Wikipedia"
+    },
+    "313910": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "San Diego Gas & Electric",
+      "src": "Wikipedia"
+    },
+    "313920": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "JCI",
+      "src": "Wikipedia"
+    },
+    "313930": {
+      "bands": [
+        "LTE 2500"
+      ],
+      "brand": "Rock Wireless",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": true,
+      "operator": "Standing Rock Telecom",
+      "src": "Wikipedia"
+    },
+    "313940": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "Motorola Solutions",
+      "src": "Wikipedia"
+    },
+    "313950": {
+      "bands": [
+        "2500"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "Cheyenne and Arapaho Development Group",
+      "src": "Wikipedia"
+    },
+    "313960": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "Townes 5G, LLC",
+      "src": "Wikipedia"
+    },
+    "313970": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "Tycrhron",
+      "src": "Wikipedia"
+    },
+    "313980": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "Next Generation Application LLC",
+      "src": "Wikipedia"
+    },
+    "313990": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "Ericsson US",
+      "src": "Wikipedia"
+    },
     "314010": {
       "bands": [
         "Unknown"
@@ -21294,11 +22025,11 @@
       {
         "bands": [
           "GSM 900",
-          "GSM 1800",
-          "CDMA 1900",
+          "GSM 1900",
           "UMTS 850",
           "LTE 700",
-          "LTE 1700"
+          "LTE 1700",
+          "LTE 1900"
         ],
         "brand": "Digicel",
         "cc2s": [
@@ -21480,7 +22211,7 @@
         "UMTS",
         "LTE 1800"
       ],
-      "brand": "Chippie",
+      "brand": "FLOW",
       "cc2s": [
         "BL",
         "GF",
@@ -21810,14 +22541,14 @@
     },
     "346001": {
       "bands": [
-        "Unknown"
+        "LTE 2500"
       ],
       "brand": "Logic",
       "cc2s": [
         "KY"
       ],
       "country": "Cayman Islands",
-      "ope": false,
+      "ope": true,
       "operator": "WestTel Ltd.",
       "src": "Wikipedia"
     },
@@ -21975,6 +22706,19 @@
       "ope": false,
       "operator": "Bermuda Digital Communications Ltd (CellOne)",
       "src": "ITU-T"
+    },
+    "350007": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "BM"
+      ],
+      "country": "Bermuda",
+      "ope": false,
+      "operator": "Paradise Mobile",
+      "src": "Wikipedia"
     },
     "35001": {
       "bands": [
@@ -22149,7 +22893,7 @@
       "bands": [
         ""
       ],
-      "brand": "Chippie",
+      "brand": "FLOW",
       "cc2s": [
         "KN"
       ],
@@ -22231,7 +22975,7 @@
       "cc2s": [
         "VC"
       ],
-      "country": "Saint Vincent & Grenadines",
+      "country": "Saint Vincent and the Grenadines",
       "ope": false,
       "operator": "Digicel (St. Vincent and the Grenadines) Limited",
       "src": "txtNation"
@@ -22331,7 +23075,7 @@
         "GSM 900",
         "GSM 1800"
       ],
-      "brand": "Chippie",
+      "brand": "FLOW",
       "cc2s": [
         "BQ",
         "CW",
@@ -22347,7 +23091,7 @@
         "UMTS 2100",
         "LTE 1800"
       ],
-      "brand": "Chippie",
+      "brand": "FLOW",
       "cc2s": [
         "BQ",
         "CW",
@@ -22474,7 +23218,7 @@
         "UMTS 2100",
         "LTE 1800"
       ],
-      "brand": "Chippie",
+      "brand": "FLOW",
       "cc2s": [
         "BQ",
         "CW",
@@ -22904,7 +23648,6 @@
     "37412": {
       "bands": [
         "GSM 850",
-        "GSM 1900",
         "UMTS 850",
         "UMTS 1900",
         "LTE 700",
@@ -22956,7 +23699,6 @@
     "374130": {
       "bands": [
         "GSM 850",
-        "GSM 1900",
         "UMTS 850",
         "UMTS 1900",
         "LTE 700",
@@ -28876,6 +29618,7 @@
         "GSM 1800",
         "UMTS 2100",
         "LTE 1800",
+        "5G 2100",
         "5G 3500"
       ],
       "brand": "STC",
@@ -29926,7 +30669,7 @@
       ],
       "country": "Iran",
       "ope": true,
-      "operator": "Shatel Mobile",
+      "operator": "Shatel Group",
       "src": "Wikipedia"
     },
     "43210": {
@@ -30083,15 +30826,15 @@
     },
     "43250": {
       "bands": [
-        "MVNO"
+        "TD-LTE 2600 MHZ"
       ],
-      "brand": "Shatel",
+      "brand": "Shatel Mobile",
       "cc2s": [
         "IR"
       ],
       "country": "Iran",
       "ope": true,
-      "operator": "Arya Resaneh Tadbir",
+      "operator": "Shatel Group",
       "src": "Wikipedia"
     },
     "43270": {
@@ -32337,6 +33080,7 @@
         "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
+        "LTE 900",
         "LTE 1800",
         "LTE 2600"
       ],
@@ -32427,6 +33171,7 @@
       "bands": [
         "GSM 900",
         "GSM 1800",
+        "UMTS 850",
         "UMTS 2100",
         "LTE 900",
         "LTE 1800",
@@ -32478,7 +33223,7 @@
         "HK"
       ],
       "country": "Hong Kong",
-      "ope": true,
+      "ope": false,
       "operator": "China Motion Telecom",
       "src": "Wikipedia"
     },
@@ -32511,6 +33256,8 @@
     "45412": {
       "bands": [
         "GSM 1800",
+        "UMTS 2100",
+        "LTE 900",
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
@@ -32752,13 +33499,13 @@
       "bands": [
         "Unknown"
       ],
-      "brand": "",
+      "brand": "CMCC HK",
       "cc2s": [
         "HK"
       ],
       "country": "Hong Kong",
       "ope": false,
-      "operator": "China Data Enterprises Ltd",
+      "operator": "China Mobile Hong Kong Company Limited",
       "src": "Wikipedia"
     },
     "45431": {
@@ -32798,6 +33545,19 @@
       "country": "Hong Kong",
       "ope": true,
       "operator": "Webbing Hong Kong Ltd",
+      "src": "Wikipedia"
+    },
+    "45436": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "HK"
+      ],
+      "country": "Hong Kong",
+      "ope": false,
+      "operator": "Easco Telecommunications Limited",
       "src": "Wikipedia"
     },
     "45440": {
@@ -33673,7 +34433,8 @@
         "GSM 1800",
         "UMTS 2100",
         "LTE 900",
-        "LTE 1800"
+        "LTE 1800",
+        "LTE 2100"
       ],
       "brand": "Robi",
       "cc2s": [
@@ -34126,6 +34887,7 @@
         "LTE 2600",
         "TD-LTE 2300",
         "5G 3500",
+        "5G 28000",
         "TD-5G 2300"
       ],
       "brand": "Optus",
@@ -34136,7 +34898,7 @@
       ],
       "country": "Australia",
       "ope": true,
-      "operator": "Singtel Optus Proprietary Limited",
+      "operator": "Singtel Optus Pty Ltd",
       "src": "Wikipedia"
     },
     "50503": {
@@ -34156,7 +34918,7 @@
       ],
       "country": "Australia",
       "ope": true,
-      "operator": "Vodafone Hutchison Australia Proprietary Limited",
+      "operator": "Vodafone Hutchison Australia Pty Ltd",
       "src": "Wikipedia"
     },
     "50504": {
@@ -34201,7 +34963,7 @@
       ],
       "country": "Australia",
       "ope": false,
-      "operator": "Vodafone Hutchison Australia Proprietary Limited",
+      "operator": "Vodafone Hutchison Australia Pty Ltd",
       "src": "Wikipedia"
     },
     "50507": {
@@ -34216,7 +34978,7 @@
       ],
       "country": "Australia",
       "ope": false,
-      "operator": "Vodafone Network Pty. Ltd.",
+      "operator": "Vodafone Network Pty Ltd",
       "src": "Wikipedia"
     },
     "50508": {
@@ -34292,7 +35054,7 @@
       ],
       "country": "Australia",
       "ope": false,
-      "operator": "Telstra Corporation Ltd.",
+      "operator": "Telstra Corporation Limited",
       "src": "Wikipedia"
     },
     "50512": {
@@ -34307,7 +35069,7 @@
       ],
       "country": "Australia",
       "ope": false,
-      "operator": "Vodafone Hutchison Australia Proprietary Limited",
+      "operator": "Vodafone Hutchison Australia Pty Ltd",
       "src": "Wikipedia"
     },
     "50513": {
@@ -34322,7 +35084,7 @@
       ],
       "country": "Australia",
       "ope": true,
-      "operator": "Railcorp, Transport for New South Wales",
+      "operator": "Railcorp, Transport for NSW",
       "src": "Wikipedia"
     },
     "50514": {
@@ -34488,7 +35250,7 @@
       ],
       "country": "Australia",
       "ope": false,
-      "operator": "Advanced Communications Technologies Pty. Ltd.",
+      "operator": "Advanced Communications Technologies Pty Ltd",
       "src": "Wikipedia"
     },
     "50525": {
@@ -34518,7 +35280,7 @@
       ],
       "country": "Australia",
       "ope": false,
-      "operator": "Dialogue Communications Pty. Ltd.",
+      "operator": "Dialogue Communications Pty Ltd",
       "src": "Wikipedia"
     },
     "50527": {
@@ -34578,7 +35340,7 @@
       ],
       "country": "Australia",
       "ope": false,
-      "operator": "BHP Billiton",
+      "operator": "BHP",
       "src": "Wikipedia"
     },
     "50532": {
@@ -34653,7 +35415,7 @@
       ],
       "country": "Australia",
       "ope": false,
-      "operator": "Optus Mobile Pty. Ltd.",
+      "operator": "Optus Mobile Pty Ltd",
       "src": "Wikipedia"
     },
     "50537": {
@@ -34863,7 +35625,7 @@
       ],
       "country": "Australia",
       "ope": true,
-      "operator": "Pivotel Group Pty Limited",
+      "operator": "Pivotel Group Pty Ltd",
       "src": "Wikipedia"
     },
     "50551": {
@@ -34879,6 +35641,39 @@
       "country": "Australia",
       "ope": false,
       "operator": "Fortescue Metals Group",
+      "src": "Wikipedia"
+    },
+    "50552": {
+      "bands": [
+        "LTE 1800",
+        "LTE 2100",
+        "5G 1800",
+        "5G 2100"
+      ],
+      "brand": "",
+      "cc2s": [
+        "AU",
+        "CC",
+        "CX"
+      ],
+      "country": "Australia",
+      "ope": true,
+      "operator": "OptiTel Australia",
+      "src": "Wikipedia"
+    },
+    "50553": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "AU",
+        "CC",
+        "CX"
+      ],
+      "country": "Australia",
+      "ope": false,
+      "operator": "Shell Australia Pty Ltd",
       "src": "Wikipedia"
     },
     "50561": {
@@ -34971,7 +35766,7 @@
       ],
       "country": "Australia",
       "ope": true,
-      "operator": "Pivotel Group Pty Limited",
+      "operator": "Pivotel Group Pty Ltd",
       "src": "Wikipedia"
     },
     "50590": {
@@ -34986,7 +35781,7 @@
       ],
       "country": "Australia",
       "ope": true,
-      "operator": "Singtel Optus Proprietary Limited",
+      "operator": "Singtel Optus Proprietary Ltd",
       "src": "Wikipedia"
     },
     "50599": {
@@ -35097,7 +35892,8 @@
         "UMTS 2100",
         "LTE 900",
         "LTE 1800",
-        "TD-LTE 2300"
+        "TD-LTE 2300",
+        "5G 2300"
       ],
       "brand": "Telkomsel",
       "cc2s": [
@@ -35472,9 +36268,11 @@
     "52003": {
       "bands": [
         "UMTS 2100",
+        "LTE 700",
         "LTE 900",
         "LTE 1800",
         "LTE 2100",
+        "5G 700",
         "5G 2500"
       ],
       "brand": "AIS",
@@ -35489,9 +36287,11 @@
     "52004": {
       "bands": [
         "UMTS 2100",
+        "LTE 700",
         "LTE 900",
         "LTE 1800",
         "LTE 2100",
+        "5G 700",
         "5G 2500"
       ],
       "brand": "TrueMove H",
@@ -35507,8 +36307,10 @@
       "bands": [
         "UMTS 900",
         "UMTS 2100",
+        "LTE 700",
         "LTE 1800",
-        "LTE 2100"
+        "LTE 2100",
+        "5G 700"
       ],
       "brand": "dtac",
       "cc2s": [
@@ -35644,6 +36446,7 @@
         "LTE 900",
         "LTE 1800",
         "LTE 2600",
+        "5G 3500",
         "5G 28000"
       ],
       "brand": "SingTel",
@@ -35692,7 +36495,8 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
-        "TD-LTE 2500"
+        "TD-LTE 2500",
+        "5G 3500"
       ],
       "brand": "StarHub",
       "cc2s": [
@@ -37676,7 +38480,8 @@
       "bands": [
         "GSM 900",
         "GSM 1800",
-        "UMTS 2100"
+        "UMTS 2100",
+        "LTE"
       ],
       "brand": "Lonestar Cell MTN",
       "cc2s": [
@@ -39616,7 +40421,7 @@
     },
     "63908": {
       "bands": [
-        "MVNO"
+        "Unknown"
       ],
       "brand": "",
       "cc2s": [
@@ -39624,7 +40429,7 @@
       ],
       "country": "Kenya",
       "ope": false,
-      "operator": "Sema Mobile Services Limited",
+      "operator": "Wetribe Ltd",
       "src": "Wikipedia"
     },
     "63909": {
@@ -39677,6 +40482,19 @@
       "country": "Kenya",
       "ope": false,
       "operator": "Infura Limited",
+      "src": "Wikipedia"
+    },
+    "63913": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "KE"
+      ],
+      "country": "Kenya",
+      "ope": false,
+      "operator": "Hidiga Investments Ltd",
       "src": "Wikipedia"
     },
     "64001": {
@@ -40719,7 +41537,8 @@
         "GSM 900",
         "UMTS 2100",
         "LTE 1800",
-        "LTE 2100"
+        "LTE 2100",
+        "TD-LTE"
       ],
       "brand": "Orange",
       "cc2s": [
@@ -40824,7 +41643,9 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 5200",
-        "LTE 5800"
+        "LTE 5800",
+        "5G 700",
+        "5G 3500"
       ],
       "brand": "Vodacom",
       "cc2s": [
@@ -40914,7 +41735,12 @@
         "UMTS 2100",
         "LTE 900",
         "LTE 1800",
-        "LTE 2100"
+        "LTE 2100",
+        "5G 700",
+        "5G 1800",
+        "5G 2100",
+        "5G 3500",
+        "5G 28000"
       ],
       "brand": "MTN",
       "cc2s": [
@@ -44830,6 +45656,50 @@
       "operator": "Bouygues Telecom",
       "src": "Wikipedia"
     },
+    "90178": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": false,
+      "operator": "Telecom Italia Sparkle S.p.A.",
+      "src": "Wikipedia"
+    },
+    "90179": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": false,
+      "operator": "Nokia Corporation",
+      "src": "Wikipedia"
+    },
+    "90180": {
+      "bands": [
+        "MVNO"
+      ],
+      "brand": "",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": true,
+      "operator": "Flo Live Limited",
+      "src": "Wikipedia"
+    },
+    "90181": {
+      "bands": [
+        "MVNO"
+      ],
+      "brand": "",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": false,
+      "operator": "Airnity SAS",
+      "src": "Wikipedia"
+    },
     "90188": {
       "bands": [
         "Unknown"
@@ -44872,6 +45742,17 @@
       "country": "International_operators",
       "ope": false,
       "operator": "Orange S.A.",
+      "src": "Wikipedia"
+    },
+    "99103": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [],
+      "country": "International_operators",
+      "ope": false,
+      "operator": "Halys SAS",
       "src": "Wikipedia"
     },
     "99501": {

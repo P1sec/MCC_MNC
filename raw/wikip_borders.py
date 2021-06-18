@@ -1106,7 +1106,7 @@ WIKIP_BORDERS = \
                'Poland',
                'South Ossetia',
                'Ukraine'],
-    'neigh_num': 16},
+    'neigh_num': 17},
   { 'border_len_km': 893,
     'border_len_mi': 555,
     'country_name': 'Rwanda',

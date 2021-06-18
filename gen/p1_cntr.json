@@ -1289,6 +1289,8 @@
         "50549",
         "50550",
         "50551",
+        "50552",
+        "50553",
         "50561",
         "50562",
         "50568",
@@ -1419,6 +1421,7 @@
         "23223",
         "23224",
         "23225",
+        "23226",
         "23291",
         "23292"
       ],
@@ -1826,11 +1829,11 @@
             "bord": {
               "Latvia": 161,
               "Lithuania": 640,
-              "Poland": 418,
+              "Poland": 375,
               "Russia": 1312,
               "Ukraine": 1111
             },
-            "len": 3642
+            "len": 3599
           },
           "capital": {
             "coord": "53 54 N, 27 34 E",
@@ -2006,6 +2009,7 @@
         "20601",
         "20602",
         "20603",
+        "20604",
         "20605",
         "20606",
         "20607",
@@ -2300,6 +2304,7 @@
         "338050",
         "35000",
         "350000",
+        "350007",
         "35001",
         "35002",
         "35003",
@@ -3642,9 +3647,9 @@
           "airports": 1467,
           "bound": {
             "bord": {
-              "United States": 8893
+              "United States": 8891
             },
-            "len": 8893
+            "len": 8891
           },
           "capital": {
             "coord": "45 25 N, 75 42 W",
@@ -3778,6 +3783,7 @@
         "302820",
         "302860",
         "302880",
+        "302910",
         "302920",
         "302940",
         "302990",
@@ -4508,6 +4514,8 @@
         "50549",
         "50550",
         "50551",
+        "50552",
+        "50553",
         "50561",
         "50562",
         "50568",
@@ -4640,6 +4648,8 @@
         "50549",
         "50550",
         "50551",
+        "50552",
+        "50553",
         "50561",
         "50562",
         "50568",
@@ -5136,8 +5146,10 @@
       "mccmnc": [
         "21901",
         "21902",
+        "21904",
         "21910",
-        "21912"
+        "21912",
+        "21920"
       ],
       "msisdn": [
         "385"
@@ -5443,10 +5455,10 @@
             "bord": {
               "Austria": 402,
               "Germany": 704,
-              "Poland": 796,
+              "Poland": 699,
               "Slovakia": 241
             },
-            "len": 2143
+            "len": 2046
           },
           "capital": {
             "coord": "50 05 N, 14 28 E",
@@ -5742,6 +5754,7 @@
         "23866",
         "23873",
         "23877",
+        "23888",
         "23896"
       ],
       "msisdn": [
@@ -7366,6 +7379,7 @@
         "24482",
         "24491",
         "24492",
+        "24495",
         "24499"
       ],
       "msisdn": [
@@ -7537,10 +7551,23 @@
         "20835",
         "20836",
         "20837",
-        "20850",
+        "20838",
         "208500",
-        "20870",
         "208700",
+        "208701",
+        "208702",
+        "208703",
+        "208704",
+        "208705",
+        "208706",
+        "208707",
+        "208708",
+        "208709",
+        "208710",
+        "208711",
+        "208712",
+        "208713",
+        "208714",
         "20886",
         "20887",
         "20888",
@@ -8002,10 +8029,10 @@
               "France": 418,
               "Luxembourg": 128,
               "Netherlands": 575,
-              "Poland": 467,
+              "Poland": 447,
               "Switzerland": 348
             },
-            "len": 3714
+            "len": 3694
           },
           "capital": {
             "coord": "52 31 N, 13 24 E",
@@ -8105,6 +8132,7 @@
         "26242",
         "26243",
         "26260",
+        "26270",
         "26271",
         "26272",
         "26273",
@@ -9562,6 +9590,7 @@
         "45431",
         "45432",
         "45435",
+        "45436",
         "45440",
         "45447"
       ],
@@ -10629,14 +10658,14 @@
           "airports": 42,
           "bound": {
             "bord": {
-              "Egypt": 206,
+              "Egypt": 208,
               "Gaza Strip": 59,
-              "Jordan": 328,
-              "Lebanon": 106,
-              "Syria": 80,
-              "West Bank": 278
+              "Jordan": 327,
+              "Lebanon": 81,
+              "Syria": 83,
+              "West Bank": 330
             },
-            "len": 1057
+            "len": 1068
           },
           "capital": {
             "coord": "31 46 N, 35 14 E",
@@ -11373,12 +11402,12 @@
           "bound": {
             "bord": {
               "Iraq": 179,
-              "Israel": 328,
+              "Israel": 307,
               "Saudi Arabia": 731,
-              "Syria": 341,
+              "Syria": 379,
               "West Bank": 148
             },
-            "len": 1727
+            "len": 1744
           },
           "capital": {
             "coord": "31 57 N, 35 56 E",
@@ -11655,7 +11684,8 @@
         "63909",
         "63910",
         "63911",
-        "63912"
+        "63912",
+        "63913"
       ],
       "msisdn": [
         "254"
@@ -12236,10 +12266,10 @@
           "airports": 8,
           "bound": {
             "bord": {
-              "Israel": 106,
-              "Syria": 369
+              "Israel": 81,
+              "Syria": 403
             },
-            "len": 475
+            "len": 484
           },
           "capital": {
             "coord": "33 52 N, 35 30 E",
@@ -12715,10 +12745,10 @@
             "bord": {
               "Belarus": 640,
               "Latvia": 544,
-              "Poland": 104,
+              "Poland": 100,
               "Russia": 261
             },
-            "len": 1549,
+            "len": 1545,
             "note": "border with Russia (Kaliningrad)"
           },
           "capital": {
@@ -12801,7 +12831,10 @@
         "24608",
         "24609",
         "24611",
-        "24612"
+        "24612",
+        "24613",
+        "24614",
+        "24615"
       ],
       "msisdn": [
         "370"
@@ -12887,6 +12920,7 @@
       "mccmnc": [
         "27001",
         "27002",
+        "27005",
         "27007",
         "27010",
         "27071",
@@ -16303,6 +16337,7 @@
         "24212",
         "24214",
         "24215",
+        "24216",
         "24220",
         "24221",
         "24222",
@@ -17189,15 +17224,15 @@
           "airports": 126,
           "bound": {
             "bord": {
-              "Belarus": 418,
-              "Czech Republic": 796,
+              "Belarus": 375,
+              "Czech Republic": 699,
               "Germany": 467,
-              "Lithuania": 104,
-              "Russia": 210,
-              "Slovakia": 541,
-              "Ukraine": 535
+              "Lithuania": 100,
+              "Russia": 209,
+              "Slovakia": 517,
+              "Ukraine": 498
             },
-            "len": 3071,
+            "len": 2865,
             "note": "border with Russia (Kaliningrad Oblast)"
           },
           "capital": {
@@ -17318,6 +17353,7 @@
         "26047",
         "26048",
         "26049",
+        "26090",
         "26097",
         "26098"
       ],
@@ -17420,6 +17456,7 @@
         "26805",
         "26806",
         "26807",
+        "26808",
         "26811",
         "26812",
         "26813",
@@ -17963,10 +18000,10 @@
               "Mongolia": 3452,
               "North Korea": 18,
               "Norway": 191,
-              "Poland": 210,
+              "Poland": 209,
               "Ukraine": 1944
             },
-            "len": 22408,
+            "len": 22407,
             "note": "border with China (southeast); border with Lithuania (Kaliningrad Oblast); border with Poland (Kaliningrad Oblast)"
           },
           "capital": {
@@ -19416,7 +19453,8 @@
         "22005",
         "22007",
         "22009",
-        "22011"
+        "22011",
+        "22020"
       ],
       "msisdn": [
         "381"
@@ -19836,10 +19874,10 @@
               "Austria": 105,
               "Czech Republic": 241,
               "Hungary": 627,
-              "Poland": 541,
+              "Poland": 517,
               "Ukraine": 97
             },
-            "len": 1611
+            "len": 1587
           },
           "capital": {
             "coord": "48 09 N, 17 07 E",
@@ -20012,7 +20050,9 @@
       ],
       "mccmnc": [
         "29310",
+        "29311",
         "29320",
+        "29321",
         "29340",
         "29341",
         "29364",
@@ -20524,7 +20564,7 @@
           "capital": {
             "coord": "04 51 N, 31 37 E",
             "name": "Juba",
-            "time_diff": "UTC+3"
+            "time_diff": "UTC+2"
           },
           "cmt": "IANA has designated .ss as the ccTLD for South Sudan, however it has not been activated in DNS root zone",
           "coord": [
@@ -21396,7 +21436,10 @@
         "22862",
         "22863",
         "22864",
+        "22865",
         "22866",
+        "22867",
+        "22868",
         "22899"
       ],
       "msisdn": [
@@ -21420,12 +21463,12 @@
           "bound": {
             "bord": {
               "Iraq": 599,
-              "Israel": 80,
-              "Jordan": 341,
-              "Lebanon": 369,
-              "Turkey": 909
+              "Israel": 83,
+              "Jordan": 379,
+              "Lebanon": 403,
+              "Turkey": 899
             },
-            "len": 2298
+            "len": 2363
           },
           "capital": {
             "coord": "33 30 N, 36 18 E",
@@ -23097,12 +23140,12 @@
               "Belarus": 1111,
               "Hungary": 128,
               "Moldova": 1202,
-              "Poland": 535,
+              "Poland": 498,
               "Romania": 601,
               "Russia": 1944,
               "Slovakia": 97
             },
-            "len": 5618
+            "len": 5581
           },
           "capital": {
             "coord": "50 26 N, 30 31 E",
@@ -23138,7 +23181,7 @@
             "competition available between 3 alternative operators moving from 3G services, but some areas still use 2G",
             "LTE services available in some areas",
             "FttP networks taking over DSL platforms",
-            "political tensions have not added to growth and telecom regulators must not count Crimea numbers (Annexed by Russia in 2014)",
+            "political tensions have not added to growth and telecom regulators must not count Crimea numbers (annexed by Russia in 2014)",
             "mobile broadband services present a growth opportunity",
             2020
           ],
@@ -23477,10 +23520,10 @@
           "airports": 13513,
           "bound": {
             "bord": {
-              "Canada": 8893,
-              "Mexico": 3155
+              "Canada": 8891,
+              "Mexico": 3111
             },
-            "len": 12048
+            "len": 12002
           },
           "capital": {
             "coord": "38 53 N, 77 02 W",
@@ -23997,7 +24040,28 @@
         "313750",
         "313760",
         "313770",
+        "313780",
         "313790",
+        "313800",
+        "313810",
+        "313820",
+        "313830",
+        "313840",
+        "313850",
+        "313860",
+        "313870",
+        "313880",
+        "313890",
+        "313900",
+        "313910",
+        "313920",
+        "313930",
+        "313940",
+        "313950",
+        "313960",
+        "313970",
+        "313980",
+        "313990",
         "314010",
         "314020",
         "314030",

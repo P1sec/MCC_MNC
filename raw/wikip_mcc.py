@@ -1058,7 +1058,7 @@ WIKIP_MCC = \
     'mcc': '515',
     'mcc_url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Philippines_–_PH',
     'notes': ''},
-  { 'authority': '',
+  { 'authority': 'National Broadcasting and Telecommunications Commission (NBTC)',
     'code_alpha_2': 'TH',
     'country_name': 'Thailand',
     'country_url': 'https://en.wikipedia.org/wiki/Thailand',
