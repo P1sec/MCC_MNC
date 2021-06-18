@@ -523,7 +523,15 @@ def parse_table_msisdn_pref():
     #
     for L in T_C[1:]:
         fields = tuple(map(str.strip, ''.join(L.itertext()).split('\n\n')))
-        D_C[fields[0]] = RE_WIKI_MSISDN_PREF.search(fields[1]).group().replace(' ', '')[1:]
+        name, prefstr = fields[0:2]
+        off, pref = 0, []
+        m = RE_WIKI_MSISDN_PREF.search(prefstr)
+        while m is not None:
+            # some countries have several prefixes, often coma-separated
+            pref.append( m.group().replace(' ', '')[1:] )
+            off += m.end()
+            m = RE_WIKI_MSISDN_PREF.search(prefstr[off:])
+        D_C[name] = pref
     #
     # 3) extract the dict of {location with no country code: MSISDN prefix}
     D_T = {}
