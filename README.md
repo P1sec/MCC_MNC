@@ -180,11 +180,16 @@ and
 
 ```
 $ ./parse_itut_bulletins.py --help
-usage: parse_itut_bulletins.py [-h] [-d] [-j] [-p]
+usage: parse_itut_bulletins.py [-h] [-d] [-b B] [-j] [-p]
 
-download ITU-T operational bulletins, convert them to text, extract lists of
-MNC and SPC
+download ITU-T operational bulletins, convert them to text, extract lists of MNC and SPC
 
+optional arguments:
+  -h, --help  show this help message and exit
+  -d          download and convert from pdf to text all ITU-T bulletins (requires pdftotext)
+  -b B        ITU-T bulletin number to start with, default is 1111
+  -j          produce a JSON file listing all MNC and SPC (with suffix .json)
+  -p          produce a Python file listing all MNC and SPC (with suffix .py)
 ```
 
 

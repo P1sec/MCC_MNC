@@ -103,7 +103,7 @@ def strip_footer(fn, dbg=True):
         fd.write(''.join(lines))
 
 
-def dl_bull(bnum=1111, byear=2016, dbg=True):
+def dl_bull(bnum=1111, byear=2016, dbg=True, rmpdf=True):
     """try to download an ITU-T bulletin with the given bulletin number `bnum'
     from the given year `byear'
     """
@@ -140,7 +140,10 @@ def dl_bull(bnum=1111, byear=2016, dbg=True):
         if not err:
             # strip header line into the txt file
             strip_footer(PATH_PRE + fn[:-3] + 'txt', dbg=dbg)
-        #            
+        #
+        if rmpdf:
+            os.remove(PATH_PRE + fn)
+        #
         return True
     #
     raise(Exception('unable to write local file %s' % (PATH_PRE + fn, )))
