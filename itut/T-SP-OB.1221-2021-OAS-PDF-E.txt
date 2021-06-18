@@ -1,0 +1,554 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1221             1.VI.2021                   (Information received by 14 May 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                               3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+Assignment of Signalling Area/Network Codes (SANC): Note from TSB ........................................................                                        4
+Telephone Service:
+     Hungary (National Media and Infocommunications Authority, Budapest) ..............................................                                           5
+Service Restrictions ........................................................................................................................................     8
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                8
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                        9
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                               10
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................     11
+List of ITU Carrier Codes .................................................................................................................................      12
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                     12
+List of International Signalling Point Codes (ISPC) .........................................................................................                    13
+National Numbering Plan ...............................................................................................................................          14
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1222             15.VI.2021             30.V.2021
+               1223             1.VII.2021             15.VI.2021
+               1224             15.VII.2021            30.VI.2021
+               1225             1.VIII.2021           15.VII.2021
+               1226            15.VIII.2021           30.VII.2021
+               1227              1.IX.2021            13.VIII.2021
+               1228             15.IX.2021             1.IX.2021
+               1229              1.X.2021              15.IX.2021
+               1230             15.X.2021              30.IX.2021
+               1231              1.XI.2021             15.X.2021
+               1232             15.XI.2021             1.XI.2021
+               1233             1.XII.2021             15.XI.2021
+               1234             15.XII.2021            1.XII.2021
+               1235              1.I.2022              10.XII.2021
+
+
+
+
+No. 1221 – 2                                                              ITU Operational Bulletin
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+ ITU Operational Bulletin                                                                         No. 1221 – 3
+                              Approval of ITU-T Recommendations
+By AAP-104, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–      ITU-T Q.3961 (2020) Cor.1 (05/2021)
+–      ITU-T Q.4065 (05/2021): Framework of model network for Tactile Internet testing
+–      ITU-T Q.4067 (05/2021): Signalling requirements for VNF lifecycle management under the testing
+       environment
+
+By TSB Circular 314 of 7 May 2021, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+–      ITU-T X.1054 (04/2021): Information security, cybersecurity and privacy protection – Governance of
+       information security
+–      ITU-T X.1252 (04/2021): Baseline identity management terms and definitions
+–      ITU-T X.1811 (04/2021): Security guidelines for applying quantum-safe algorithms in 5G systems
+
+
+
+
+                  Assignment of Signalling Area/Network Codes (SANC)
+                        (Recommendation ITU-T Q.708 (03/99))
+Note from TSB
+At the request of the Administration of the Sultanate of Oman, the Director of TSB has assigned the following
+signalling area/network code (SANC) for use in the international part of the signalling system No. 7 network of
+this country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                                Country/geographical area or signalling network                SANC
+
+                                Oman (Sultanate of)                                            4-202
+
+____________
+
+SANC: Signalling Area/Network Code.
+       Code de zone/réseau sémaphore (CZRS).
+       Código de zona/red de señalización (CZRS).
+
+
+
+
+ No. 1221 – 4                                                                        ITU Operational Bulletin
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                              url: www.itu.int/itu-t/inr/nnp
+Hungary (country code +36)
+Communication of 6.V.2021:
+The National Media and Infocommunications Authority, Budapest, announces the updated E.164 National
+Numbering Plan (NNP) for Hungary (country code +36).
+
+               Description of deletion of resource for national E.164 numbering plan for Hungary
+                                               (country code +36)
+
+                 NDC
+                                                      Usage of E.164 Number                     Time and date of deletion
+      (National Destination Code)
+
+                  51                      Non-geographic number                                        31.XII.2021
+
+
+
+                       Presentation of E.164 National Numbering Plan (NNP) for Hungary
+                                              (country code +36)
+(a)     Overview:
+        Minimum number length (excluding country code):                 eight (8) digits.
+        Maximum number length (excluding country code):                 twelve (12) digits.
+(b)     Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the
+        national numbering plan (if any):
+        NMIAH Assignment of Communication Identifiers:
+        http://english.nmhh.hu/stakeholders/identifier-management/identifier-registry
+(c)     Link to the real-time database reflecting ported ITU-T E.164 numbers (if any):
+        Phone number ported status: http://szamhordozottsag.nmhh.hu/
+(d)     Detail of numbering scheme:
+
+       NDC               N(S)N number length
+     (National         Maximum        Minimum            Usage of E.164 Number                Additional information
+ Destination Code)      length         length
+           1                8             8           Geographic number                Area code for Budapest
+          20                9             9           Non-geographic number            Mobile
+          21                9             9           Non-geographic number            Nomadic telephone service
+          22                8             8           Geographic number                Area code for
+                                                                                       Székesfehérvár
+          23                8             8           Geographic number                Area code for Biatorbágy
+          24                8             8           Geographic number                Area code for
+                                                                                       Szigetszentmiklós
+          25                8             8           Geographic number                Area code for Dunaújváros
+          26                8             8           Geographic number                Area code for Szentendre
+          27                8             8           Geographic number                Area code for Vác
+          28                8             8           Geographic number                Area code for Gödöllő
+          29                8             8           Geographic number                Area code for Monor
+          30                9             9           Non-geographic number            Mobile
+          31                9             9           Non-geographic number            Mobile
+
+
+ ITU Operational Bulletin                                                                                  No. 1221 – 5
+      NDC            N(S)N number length
+    (National       Maximum     Minimum        Usage of E.164 Number      Additional information
+Destination Code)    length      length
+       32              8            8      Geographic number           Area code for Salgótarján
+       33              8            8      Geographic number           Area code for Esztergom
+       34              8            8      Geographic number           Area code for Tatabánya
+       35              8            8      Geographic number           Area code for
+                                                                       Balassagyarmat
+       36              8            8      Geographic number           Area code for Eger
+       37              8            8      Geographic number           Area code for Gyöngyös
+       38              9            9      Non-geographic number       Corporate networks
+       39              –            –      –
+       40              –            –      –
+       41              –            –      –
+       42              8            8      Geographic number           Area code for Nyíregyháza
+       43              –            –      –
+       44              8            8      Geographic number           Area code for Mátészalka
+       45              8            8      Geographic number           Area code for Kisvárda
+       46              8            8      Geographic number           Area code for Miskolc
+       47              8            8      Geographic number           Area code for Szerencs
+       48              8            8      Geographic number           Area code for Ózd
+       49              8            8      Geographic number           Area code for Mezőkövesd
+       50              9            9      Non-geographic number       Mobile
+       51              –            –      –
+       52              8            8      Geographic number           Area code for Debrecen
+       53              8            8      Geographic number           Area code for Cegléd
+       54              8            8      Geographic number           Area code for Berettyóújfalu
+       55              8            8      Geographic number           Test number
+       56              8            8      Geographic number           Area code for Szolnok
+       57              8            8      Geographic number           Area code for Jászberény
+       58              –            –      –
+       59              8            8      Geographic number           Area code for Karcag
+       60              –            –      –
+       61              –            –      –
+       62              8            8      Geographic number           Area code for Szeged
+       63              8            8      Geographic number           Area code for Szentes
+       64              –            –      –
+       65              –            –      –
+       66              8            8      Geographic number           Area code for Békéscsaba
+       67              –            –      –
+       68              8            8      Geographic number           Area code for Orosháza
+       69              8            8      Geographic number           Area code for Mohács
+       70              9            9      Non-geographic number       Mobile
+       71              12          12      Non-geographic number       M2M
+
+No. 1221 – 6                                                               ITU Operational Bulletin
+       NDC              N(S)N number length
+     (National        Maximum      Minimum         Usage of E.164 Number      Additional information
+ Destination Code)     length       length
+           72               8          8       Geographic number           Area code for Pécs
+           73               8          8       Geographic number           Area code for Szigetvár
+           74               8          8       Geographic number           Area code for Szekszárd
+           75               8          8       Geographic number           Area code for Paks
+           76               8          8       Geographic number           Area code for Kecskemét
+           77               8          8       Geographic number           Area code for Kiskunhalas
+           78               8          8       Geographic number           Area code for Kiskőrös
+           79               8          8       Geographic number           Area code for Baja
+           80               8          8       Non-geographic number       Freephone service (national)
+           81               –          –       –
+           82               8          8       Geographic number           Area code for Kaposvár
+           83               8          8       Geographic number           Area code for Keszthely
+           84               8          8       Geographic number           Area code for Siófok
+           85               8          8       Geographic number           Area code for Marcali
+           86               –          –       –
+           87               8          8       Geographic number           Area code for Tapolca
+           88               8          8       Geographic number           Area code for Veszprém
+           89               8          8       Geographic number           Area code for Pápa
+           90               8          8       Non-geographic number       Premium-rate service (adult)
+           91               8          8       Non-geographic number       Premium-rate service
+           92               8          8       Geographic number           Area code for Zalaegerszeg
+           93               8          8       Geographic number           Area code for Nagykanizsa
+           94               8          8       Geographic number           Area code for Szombathely
+           95               8          8       Geographic number           Area code for Sárvár
+           96               8          8       Geographic number           Area code for Győr
+           97               –          –       –
+           98               –          –       –
+           99               8          8       Geographic number           Area code for Sopron
+
+Contact:
+            Mr Tamás Puss
+            National Media and Infocommunications Authority, Hungary
+            Visegrádi utca 106.
+            1133 Budapest
+            Hungary
+            Tel:    +36 1 468 0666
+            E-mail: puss.tamas@nmhh.hu / numbering@nmhh.hu
+            URL:    www.nmhh.hu
+
+
+
+
+ ITU Operational Bulletin                                                                  No. 1221 – 7
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+No. 1221 – 8                                                                  ITU Operational Bulletin
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                          Abbreviations used
+                             ADD   Insert                  PAR   Paragraph
+                             COL   Column                  REP   Replace
+                             LIR   Read                    SUP   Delete
+                             P     Page(s)
+
+
+
+
+                       List of Ship Stations and Maritime Mobile
+                             Service Identity Assignments
+                                         (List V)
+                                     Edition of 2021
+
+                                             Section VI
+
+
+ADD
+
+      DP14        Marlink GmbH, Riehler Str. 50, D-50668 Köln, Germany.
+                  E-mail: achim.bomm@marlink.com, Mob: +49 151 50 46 06 00,
+                  Tel: +49 40 228 60 28 13.
+
+
+
+
+ ITU Operational Bulletin                                                     No. 1221 – 9
+                                List of Issuer Identifier Numbers for
+                        the International Telecommunication Charge Card
+                  (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                   (Position on 1 December 2018)
+                          (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                           (Amendment No. 49)
+
+
+Germany       ADD
+
+
+        Country/             Company                 Issuer                   Contact                  Effective
+                           Name/Address            Identifier                                           date of
+ geographical area
+                                                    Number                                               usage
+ Germany               NXP Semiconductors          89 49 41         Hauke Meyn                         1.IV.2021
+                       Germany GmbH                                 Troplowitzstr. 20
+                       Troplowitzstr. 20                            22529 HAMBURG
+                       22529 HAMBURG                                Tel:    +49 40 56130
+                                                                    E-mail: hauke.meyn@nxp.com
+
+
+
+Palau       LIR
+
+         Country/          Company Name/Address                   Issuer                   Contact
+                                                                Identifier
+  geographical area
+                                                                 Number
+ Palau                  Palau National                          89 680 01    Myers Techitong
+                        Communications Corporation                           PNCC Airai HQ Building,
+                        PNCC Airai HQ Building,                              One Airport Rd,
+                        One Airport Rd,                                      P.O. Box 99
+                        P.O. Box 99                                          KOROR, PW 96940
+                        KOROR, PW 96940                                      Tel: +680 587 9000
+                                                                             Fax: +680 587 1888
+                                                                             E-mail: tmyers@pnccpalau.com
+ Palau                  Palau Mobile                            89 680 99    Billy Takamine
+                        Communications Inc.                                  PDC Building
+                        PDC Building                                         P.O. Box 401461
+                        P.O. Box 401461                                      Medalaii, Koror
+                        Medalaii, Koror                                      PW 96940
+                        PW 96940                                             Tel: +680 488 1189
+                                                                             E-mail: info@pmci.pw
+
+
+
+
+ No. 1221 – 10                                                                        ITU Operational Bulletin
+         Mobile Network Codes (MNC) for the international identification plan
+                       for public networks and subscriptions
+                (According to Recommendation ITU-T E.212 (09/2016))
+                           (Position on 15 December 2018)
+
+                        (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                         (Amendment No. 55)
+
+
+    Country/Geographical area             MCC+MNC *         Operator/Network
+    Australia ADD
+                                             505 53         Shell Australia Pty Ltd
+    Canada ADD
+                                             302 910        Halton Regional Police Service (reserved)
+    Canada LIR
+                                             302 770        TNW Wireless Inc.
+    Switzerland ADD
+                                             228 67         Datatrade Managed AG
+                                             228 68         Intellico AG
+
+____________
+
+*           MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+            MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+    ITU Operational Bulletin                                                                               No. 1221 – 11
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                                (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                                (Amendment No. 116)
+
+
+ Country or area/ISO code                                   Company Code        Contact
+  Company Name/Address                                       (carrier code)
+
+
+Palau / PLW       ADD
+ Palau National Communications Corporation                      PNCC             Mr Myers Techitong
+ PNCC Building                                                                   Tel: +680 488 9000
+ P.O. Box 99                                                                     Fax: +680 488 1888
+ One Airport Road, Koror                                                         E-mail: tmyers@pnccpalau.com
+ Palau 96940
+
+
+
+Palau / PLW       LIR
+ Palau Communication and Electronics Company                     PCEC            Mr Sebastian Masang
+ PECI Building                                                                   Tel: +680 488 2628
+ P.O. Box 605                                                                    Fax: +680 488 2733
+ Malakal, Koror,                                                                 E-mail: regulatory_b2b@palautelecoms.com
+ Palau 96940
+
+
+ Palau Mobile Communications Incorporated                       PMCI             Mr Billy Takamine
+ PDC Building                                                                    Tel: +680 488 1189
+ P.O. Box 401461                                                                 E-mail: info@pmci.pw
+ Medalaii, Koror
+ Palau 96940
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                (Position on 1 June 2017)
+                                 (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                 (Amendment No. 15)
+
+ Numerical order        ADD
+               4-202        Oman (Sultanate of)
+
+ Alphabetical order ADD
+               4-202        Oman (Sultanate of)
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+ No. 1221 – 12                                                                              ITU Operational Bulletin
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 16)
+
+
+ Country/ Geographical Area
+ ISPC          DEC                     Unique name of the signalling point   Name of the signalling point operator
+
+
+ Oman ADD
+ 4-044-5       8549                    MUSTP01(INAT0)                        Ooredoo
+ 4-044-6       8550                    WCSSS01 and SOHSS02                   Omantel
+ 4-044-7       8551                    STP Quram                             Omantel
+ 4-045-0       8552                    STP Gala                              Omantel
+ 4-045-1       8553                    BOIGW1                                Ooredoo
+ 4-045-2       8554                    MUSTP1                                Vodafone
+ 4-045-3       8555                    BSSTP1                                Vodafone
+ 4-045-6       8558                    SOIGW1                                Ooredoo
+
+ Oman LIR
+ 4-044-2       8546                    Nawras1                               Ooredoo
+ 4-044-3       8547                    Nawras2                               Ooredoo
+ 4-044-4       8548                    SOHSS02                               Omantel
+
+ Palau ADD
+ 5-110-1       11121                   PNCC IG                               Palau National Communications Corporation
+ 5-110-2       11122                   PNCC MG                               Palau National Communications Corporation
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+ ITU Operational Bulletin                                                                                No. 1221 – 13
+                                National Numbering Plan
+                 (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.V.2021, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                        Country/ Geographical area                      Country Code (CC)
+               Botswana                                                       +267
+               Luxembourg                                                     +352
+
+
+
+
+ No. 1221 – 14                                                                        ITU Operational Bulletin
+

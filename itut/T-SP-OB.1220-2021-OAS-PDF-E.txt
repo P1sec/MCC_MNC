@@ -1,0 +1,579 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1220             15.V.2021                   (Information received by 30 April 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Assignment of Signalling Area/Network Codes (SANC): Note from TSB ........................................................                                         4
+Telephone Service:
+     Denmark (Danish Energy Agency, Copenhagen) ......................................................................................                             5
+     Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) ....................                                                        7
+Service Restrictions ........................................................................................................................................      8
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                 8
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                9
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................      10
+List of ITU Carrier Codes .................................................................................................................................       11
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                      11
+List of International Signalling Point Codes (ISPC) .........................................................................................                     12
+National Numbering Plan ...............................................................................................................................           13
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1221              1.VI.2021             14.V.2021
+               1222             15.VI.2021             30.V.2021
+               1223             1.VII.2021             15.VI.2021
+               1224             15.VII.2021            30.VI.2021
+               1225             1.VIII.2021           15.VII.2021
+               1226            15.VIII.2021           30.VII.2021
+               1227              1.IX.2021            13.VIII.2021
+               1228             15.IX.2021             1.IX.2021
+               1229              1.X.2021              15.IX.2021
+               1230             15.X.2021              30.IX.2021
+               1231              1.XI.2021             15.X.2021
+               1232             15.XI.2021             1.XI.2021
+               1233             1.XII.2021             15.XI.2021
+               1234             15.XII.2021            1.XII.2021
+               1235              1.I.2022             10.XII.2021
+
+
+
+
+No. 1220 – 2                                                              ITU Operational Bulletin
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+ ITU Operational Bulletin                                                                         No. 1220 – 3
+                               Approval of ITU-T Recommendations
+By AAP-103, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T G.997.3 (04/2021): Physical layer management for MGfast transceivers
+–       ITU-T G.9711 (04/2021): Multi-gigabit fast access to subscriber terminals (MGfast) - Physical layer
+        specification (New)
+–       ITU-T G.9961 (2018) Amd. 3 (04/2021)
+–       ITU-T G.9963 (2018) Amd. 1 (04/2021)
+–       ITU-T G.9991 (2019) Amd. 2 (04/2021)
+–       ITU-T J.481 (04/2021): Requirements of cable network for RF and IP secondary distribution of television
+        programmes
+–       ITU-T Y.2343 (04/2021): Scenarios and Capability Requirements of Programmable Log Analysis in Next
+        Generation Networks
+–       ITU-T Y.2623 (04/2021): Requirements and framework of Industrial Internet networking based on future
+        packet based network evolution
+–       ITU-T Y.3179 (04/2021): Architectural framework for ML model serving in future networks including
+        IMT-2020
+–       ITU-T Y.3653 (04/2021): Big data driven networking - Functional architecture
+
+
+
+
+                  Assignment of Signalling Area/Network Codes (SANC)
+                       (Recommendation ITU-T Q.708 (03/1999))
+Note from TSB
+At the request of the Administration of the Republic of Uzbekistan, the Director of TSB has assigned the following
+signalling area/network code (SANC) for use in the international part of the signalling system No. 7 network of
+this country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/1999):
+
+        Country/geographical area or signalling network                                            SANC
+
+        Uzbekistan (Republic of)                                                                   4-166
+
+____________
+
+SANC:    Signalling Area/Network Code.
+         Code de zone/réseau sémaphore (CZRS).
+         Código de zona/red de señalización (CZRS).
+
+
+
+
+ No. 1220 – 4                                                                           ITU Operational Bulletin
+                                      Telephone Service
+                                 (Recommendation ITU-T E.164)
+                                          url: www.itu.int/itu-t/inr/nnp
+Denmark (country code +45)
+Communication of 29.IV.2021:
+The Danish Energy Agency, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     Withdrawal – Mobile communication services
+                                                                                          Date of
+                Provider                                Numbering series
+                                                                                         withdrawal
+Mifon familie c/o Maxtel.dk.dk ApS   66201fgh, 66203fgh, 66204fgh, 66205fgh,             28.IX.2020
+                                     66206fgh, 66207fgh, 66208fgh, 66209fgh,
+                                     77102fgh, 77103fgh, 77104fgh, 77105fgh,
+                                     77106fgh, 77107fgh, 77108fgh, 77109fgh
+Maxtel.dk ApS                        43400fgh, 62600fgh                                  30.IX.2020
+5tel c/o Maxtel.dk ApS               73733fgh, 46466fgh, 48486fgh, 72722fgh              30.IX.2020
+5tel c/o Maxtel.dk ApS               66220fgh, 66221fgh, 66223fgh, 66224fgh,             30.IX.2020
+                                     66225fgh, 66226fgh, 66227fgh, 66228fgh,
+                                     66229fgh, 77110fgh, 77112fgh, 77113fgh,
+                                     77114fgh, 77115fgh, 77116fgh
+Twilio Sweden AB                     9229efgh                                            20.X.2020
+TDC Net A/S                          32310fgh; 32311fgh; 32318fgh; 32319fgh; 32347fgh;   31.XII.2020
+                                     32348fgh; 32349fgh; 33294fgh; 33295fgh; 33452fgh;
+                                     33453fgh; 33540fgh; 33541fgh; 33542fgh; 33660fgh;
+                                     35443fgh; 36325fgh; 36326fgh; 36385fgh; 36386fgh;
+                                     36387fgh; 38159fgh; 38547fgh; 38548fgh; 38549fgh;
+                                     39148fgh; 39149fgh; 43343fgh; 43344fgh; 43346fgh;
+                                     43348fgh; 43349fgh; 43385fgh; 43509fgh; 43849fgh;
+                                     43867fgh; 44215fgh; 44273fgh; 44511fgh; 44512fgh;
+                                     44513fgh; 44514fgh; 44589fgh; 44692fgh; 44801fgh;
+                                     44802fgh; 44804fgh; 45466fgh; 45471fgh; 45472fgh;
+                                     45713fgh; 45718fgh; 45920fgh; 45921fgh; 45995fgh;
+                                     46472fgh; 46479fgh; 47184fgh; 47185fgh; 47186fgh;
+                                     47378fgh; 47379fgh; 48384fgh; 48385fgh; 48386fgh;
+                                     48387fgh; 49285fgh; 54670fgh; 54671fgh; 54970fgh;
+                                     56207fgh; 56208fgh; 57878fgh; 57879fgh; 58219fgh;
+                                     58517fgh; 58518fgh; 59984fgh; 59985fgh; 59986fgh;
+                                     63272fgh; 63273fgh; 63274fgh; 63445fgh; 63446fgh;
+                                     63447fgh; 63448fgh; 64820fgh; 65567fgh; 65591fgh;
+                                     65596fgh; 65597fgh; 65598fgh; 65599fgh; 65710fgh;
+                                     73925fgh; 74314fgh; 74315fgh; 74333fgh; 74660fgh;
+                                     75608fgh; 76145fgh; 79139fgh; 79156fgh; 79213fgh;
+                                     79373fgh; 79374fgh; 79375fgh; 79376fgh; 79377fgh;
+                                     79378fgh; 79379fgh; 86734fgh; 86735fgh; 87285fgh;
+                                     87286fgh; 87287fgh; 87288fgh; 87289fgh; 87461fgh;
+                                     89201fgh; 89256fgh; 89257fgh; 89258fgh; 89273fgh;
+                                     89274fgh; 89275fgh; 89326fgh; 89335fgh; 89394fgh;
+                                     89396fgh; 89420fgh; 89421fgh; 89422fgh; 89424fgh;
+                                     89425fgh; 89426fgh; 89443fgh; 89521fgh; 89554fgh;
+                                     89555fgh; 89556fgh; 89557fgh; 89558fgh; 89559fgh;
+                                     96618fgh; 96619fgh; 96734fgh; 97219fgh; 97408fgh;
+                                     99215fgh; 99376fgh; 99391fgh; 99393fgh; 99394fgh;
+                                     99641fgh; 99642fgh; 99643fgh; 99759fgh; 99801fgh;
+                                     99897fgh
+
+
+
+
+    ITU Operational Bulletin                                                              No. 1220 – 5
+                                                                                                    Date of
+                   Provider                               Numbering series
+                                                                                                   withdrawal
+Gigabit ApS                            69886fgh                                                     15.II.2021
+Twilio Ireland Limited                 78108fgh, 78109fgh, 79444fgh, 80902fgh,                      16.II.2021
+                                       89104fgh, 91304fgh, 91308fgh, 91309fgh
+Gigsky ApS                             9240efgh, 9241efgh, 9242efgh, 9281efgh,                      31.III.2021
+                                       9283efgh
+
+•      Withdrawal – Carrier selection code
+                                                                                                    Date of
+                   Provider                               Numbering series
+                                                                                                   withdrawal
+Colt Technology Services ApS           1071, 1072                                                  11.XII.2020
+Orange Business Denmark A/S            1009                                                         19.II.2021
+
+•      Withdrawal – M2M communication
+                                                                                                    Date of
+                   Provider                               Numbering series
+                                                                                                   withdrawal
+Ipnordic A/S                           37108888ijkl                                                 11.II.2021
+Gigsky ApS                             37100103ijkl, 37100104ijkl, 37100105ijkl, 37100106ijkl,      31.III.2021
+                                       37100107ijkl, 37100140ijkl, 37100141ijkl, 37100142ijkl,
+                                       37100143ijkl, 37100144ijkl, 37100145ijkl, 37100146ijkl,
+                                       37100147ijkl, 37100148ijkl, 37100149ijkl
+
+•      Withdrawal – NSPC
+                                                                                                    Date of
+                   Provider                               Numbering series
+                                                                                                   withdrawal
+Gigabit ApS                            NSPC4-5-50                                                   15.II.2021
+
+•      Assignment – Mobile communication services
+                                                                                                     Date of
+                   Provider                               Numbering series
+                                                                                                   assignment
+XPLORA Mobile Denmark ApS              61495fgh, 61496fgh, 61498fgh, 61499fgh, 91307fgh            01.VIII.2020
+Ipnordic A/S                           49818fgh                                                     04.IX.2020
+Firstcome Europe                       5436efgh                                                     21.IX.2020
+Flexonet ApS                           30395fgh                                                     01.X.2020
+GULDNUMMER                             3838efgh                                                     01.X.2020
+Twilio Ireland Limited                 9229efgh                                                     21.X.2020
+Telavox ApS                            3267efgh                                                     21.X.2020
+BSG Estonia OÜ                         30841fgh                                                     26.X.2020
+Lancelot BV                            4626efgh                                                     15.XI.2020
+Alka Fordele A/S                       6930efgh                                                     17.XI.2020
+Telcom X ApS                           70180fgh, 70170fgh                                           23.XI.2020
+Ipnordic A/S                           4310efgh, 4880efgh                                          18.XII.2020
+Flexfone A/S                           4314efgh, 6917efgh                                           01.I.2021
+Cobira ApS                             91300fgh                                                     28.I.2021
+Uni-tel A/S                            5434efgh                                                     11.II.2021
+Link Mobility A/S                      61490fgh, 30842fgh                                           12.III.2021
+SimService A/S                         3570efgh, 3571efgh, 5710efgh, 5711efgh                       12.III.2021
+Comtalk DK ApS                         703450gh, 70706fgh, 7273efgh, 8182efgh                       12.III.2021
+
+
+
+    No. 1220 – 6                                                                         ITU Operational Bulletin
+•     Assignment – M2M communication
+                                                                                                  Date of
+                Provider                                 Numbering series
+                                                                                                assignment
+Greenwave Mobile IoT ApS                 37100158ijkl                                            12.III.2021
+
+Contact:
+         Danish Energy Agency
+         43 Carsten Niebuhrs Gade
+         1577 COPENHAGEN V
+         Denmark
+         Tel.:        +45 33 92 67 00
+         Fax:         +45 33 11 47 43
+         E-mail:      ens@ens.dk
+         URL:         www.ens.dk
+
+
+Morocco (country code +212)
+Communication of 26.IV.2021:
+The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following
+updates to the national telephone-numbering plan of Morocco.
+
+•     Description of introduction of new resource for national E.164 numbering plan for country code +212:
+
+        NDC (national          N(S)N number length
+     destination code) or
+       leading digits of       Maximum     Minimum       Usage of E.164 number         Additional information
+        N(S)N (national         length      length
+    (significant) number)
+
+            5221                   9           9        Fixed telephone networks     Itissalat Al-Maghrib 1
+
+1
+    MAROC TELECOM
+
+
+•     Description of deletion of resource for national E.164 numbering plan for country code +212:
+
+      NDC (national destination code) or leading                                         Time and date of
+                                                         Usage of E.164 number
+     digits of N(S)N (national (significant) number)                                         deletion
+
+                            5230                        Fixed telephone networks            26/04/2021
+
+
+Contact:
+           Motiaa Abdelhay
+           Agence Nationale de Réglementation des Télécommunications (ANRT)
+           Centre d'affaires
+           Boulevard Ar-Riad, Hay Riad
+           B.P. 2939
+           RABAT 10100
+           Morocco
+           Tel.:       +212 5 37 71 85 64
+           E-mail:     numerotation@anrt.ma
+           URL:        www.anrt.ma
+
+
+
+
+    ITU Operational Bulletin                                                                         No. 1220 – 7
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+No. 1220 – 8                                                                  ITU Operational Bulletin
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                              Abbreviations used
+                                ADD    Insert                        PAR   Paragraph
+                                COL    Column                        REP   Replace
+                                LIR    Read                          SUP   Delete
+                                P      Page(s)
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+                            (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                             (Amendment No. 48)
+France           ADD
+
+    Country/                                                                                                  Effective
+                        Company Name/            Issuer Identifier
+  Geographical                                                                    Contact                       date
+                           Address                   Number
+      area                                                                                                    of usage
+ France           IP Directions                     89 33 37         IP Directions, NOC                       1.I.2021
+                  32 rue de Mogador                                  32 rue de Mogador
+                  75 009 PARIS                                       75 009 PARIS
+                                                                     Tel.:     +33 (0)8 11 09 74 02
+                                                                     E-mail: noc@ipdirections.net
+
+
+Sweden           LIR
+    Country/
+                        Company Name/            Issuer Identifier
+  geographical                                                                              Contact
+                           Address                   Number
+      area
+ Sweden           Sinch Sweden AB                   89 46 11         Ola Hanson
+                  Lindhagensgatan 72                                 Lindhagensgatan 72
+                  SE-112 18 STOCKHOLM                                SE-112 18 STOCKHOLM
+                                                                     Tel.:    +46 70 933 55 23
+                                                                     E-mail: ola.hanson@sinch.com
+
+
+United States    ADD
+
+    Country/                                                                                                  Effective
+                        Company Name/            Issuer Identifier
+  Geographical                                                                    Contact                       date
+                           Address                   Number
+      area                                                                                                    of usage
+ United States    Expeto Wireless Inc.              89 1 057         Brian Anderson                          26.IV.2021
+                  920 SW 6th Avenue                                  920 SW 6th Avenue
+                  Portland, OR 97204                                 Portland, OR 97204
+                                                                     Tel.:    +1 855 273 5782
+                                                                     Fax:     +1 503 776 7267
+                                                                     E-mail: info@expeto.io
+
+
+
+
+ ITU Operational Bulletin                                                                             No. 1220 – 9
+        Mobile Network Codes (MNC) for the international identification plan
+                       for public networks and subscriptions
+               (According to Recommendation ITU-T E.212 (09/2016))
+                          (Position on 15 December 2018)
+                              (Annex to ITU Operational Bulletin No. 1162 − 15.XII.2018)
+                                               (Amendment No. 54)
+
+Country/Geographical area                 MCC+MNC *             Operator/Network
+
+Australia ADD
+                                                505 52          Optitel Pty Ltd
+
+Canada        ADD
+                                                302 996         Powertech Labs (experimental)
+
+Denmark ADD
+                                                238 88          Cobira ApS
+____________
+
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+         MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+    No. 1220 – 10                                                                               ITU Operational Bulletin
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                                (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                                (Amendment No. 115)
+
+
+ Country or area/ISO code                            Company Code     Contact
+  Company Name/Address                               (carrier code)
+
+
+Germany (Federal Republic of) / DEU                    ADD
+ Stadtwerke Dingolfing GmbH                             STWDGF        Mr Tobias Frank
+ Wollerstrasse 3                                                      Tel.:    +49 8731 5060 129
+ D-84130 DINGOLFING                                                   Fax:     +49 8731 5060 39
+                                                                      E-mail: tobias.frank@stadtwerke-dingolfing.de
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                 (Position on 1 June 2017)
+                                 (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                 (Amendment No. 14)
+
+
+ Numerical order          ADD
+               4-166        Uzbekistan (Republic of)
+
+
+
+ Alphabetical order ADD
+               4-166        Uzbekistan (Republic of)
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+ ITU Operational Bulletin                                                                           No. 1220 – 11
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 15)
+
+ Country/ Geographical Area
+ ISPC          DEC                    Unique name of the signalling point     Name of the signalling point operator
+
+
+ Germany ADD
+ 2-037-7       4399                   Frankfurt                               UAB Intis Telecom
+
+ Germany LIR
+ 2-248-4       6084                   Drillisch-Mobil-Duesseldorf             Drillisch Netz AG
+ 2-251-6       6110                   Drillisch-Mobil-Frankfurt               Drillisch Netz AG
+ 5-251-6       12254                  Frankfurt                               STROTH Telecom GmbH
+ 5-251-7       12255                  Frankfurt                               STROTH Telecom GmbH
+ 7-249-7       16335                  Frankfurt                               STROTH Telecom GmbH
+
+ Switzerland ADD
+ 2-053-3       4523                   Zürich-1                                Datatrade AG
+ 2-061-4       4588                   Zürich-2                                Datatrade AG
+ 2-061-5       4589                   Zürich-3                                Datatrade AG
+ 2-063-2       4602                   Zürich-1                                Intellico AG
+ 2-063-4       4604                   Zürich-2                                Intellico AG
+ 7-228-7       16167                  Zürich-3                                Intellico AG
+
+ Uzbekistan ADD
+ 4-164-0       9504                   STP1                                    Universal Mobile Systems LLC
+ 4-164-4       9508                   MSS                                     Coscom LLC
+ 4-164-5       9509                   MSC151003                               Unitel LLC
+ 4-164-6       9510                   Kokand                                  Uzbektelecom JSC
+ 4-164-7       9511                   Bukhara                                 Uzbektelecom JSC
+ 4-165-0       9512                   STP2                                    Universal Mobile Systems LLC
+ 4-165-1       9513                   Bukhara AXE-810                         Uzbektelecom JSC
+ 4-165-2       9514                   Kokand AXE-810                          Uzbektelecom JSC
+ 4-165-3       9515                   IMS                                     Uzbektelecom JSC
+ 4-165-4       9516                   SPS-1                                   UzMobile branch of Uzbektelecom JSC
+ 4-165-5       9517                   IMS-1                                   Uzbektelecom JSC
+ 4-165-6       9518                   IMS-2                                   Uzbektelecom JSC
+
+ Uzbekistan LIR
+ 4-164-1       9505                   SPS-2                                   UzMobile branch of Uzbektelecom JSC
+ 4-164-2       9506                   Tashkent AXE-810                        Uzbektelecom JSC
+ 4-164-3       9507                   Pakhta AXE-810                          Uzbektelecom JSC
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+ No. 1220 – 12                                                                               ITU Operational Bulletin
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.IV.2021, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                         Country/ Geographical area                     Country Code (CC)
+               Belize                                                         +501
+               Morocco                                                        +212
+               Papua New Guinea                                               +675
+               Vanuatu                                                        +678
+
+
+
+
+ ITU Operational Bulletin                                                                        No. 1220 – 13
+
