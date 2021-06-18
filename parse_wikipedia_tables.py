@@ -569,7 +569,7 @@ REC_BORDERS = {
 
 # list of countries for which Wikipédia count of borders does not correspond
 # to the list of border countries
-BORDER_ISSUE = {'Afghanistan', 'China', 'Georgia', 'India', 'Israel', }
+BORDER_ISSUE = {'Afghanistan', 'China', 'Georgia', 'India', 'Israel', 'Russia', }
 
 
 _stripbordref = lambda s: re.sub('\s{1,}', ' ', re.sub(r'\(.*?\)|\[.*?\]', ' ', s).strip())
