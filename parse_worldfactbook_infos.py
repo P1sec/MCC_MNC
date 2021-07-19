@@ -33,6 +33,7 @@ import argparse
 import urllib.request
 import re
 import json
+import time
 
 from parse_wikipedia_tables import (
     import_html_doc,
@@ -140,9 +141,17 @@ def parse_table_country_all():
 
 
 def parse_json_country(url):
-    try:
-        J = json.loads(import_json_doc(url)['result']['data']['country']['json'])
-    except Exception as err:
+    # the web server may not be fully responsive when we scan all URLs,
+    # let's do some sleep / retry
+    J, err = None, 0
+    while J is None and err < 3:
+        if err:
+            time.sleep(2)
+        try:
+            J = json.loads(import_json_doc(url)['result']['data']['country']['json'])
+        except Exception as exc:
+            err += 1
+    if J is None:
         return {}
     #
     D = {}
@@ -497,6 +506,8 @@ def _extract_tel_year(s):
 def _extract_tel(l):
     r = {}
     for s in l:
+        # it seems some "&rsquo;" expr remains in textual description
+        s = s.replace('&rsquo;', '\'') 
         if s.startswith('general assess'):
             r['general'] = _extract_tel_year(s.split(':', 1)[1].strip())
         elif s.startswith('domestic'):
