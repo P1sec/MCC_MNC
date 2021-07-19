@@ -42,14 +42,18 @@ P1_CC2 = \
                               'intl': [ 'landline circuits to France and Spain',
                                         'modern system with microwave radio relay connections between exchanges',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 35663, 'fix': 44050, 'internet': 78483, 'mob': 97645},
+                              'subs': {'bb': 36358, 'fix': 39657, 'internet': 78483, 'mob': 87909},
                               'tld': '.ad',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ad'}},
           'mcc': ['213'],
@@ -81,16 +85,26 @@ P1_CC2 = \
                               'domestic': [ 'microwave radio relay, fiber-optic and coaxial cable',
                                             'fixed-line 24 per 100 and mobile-cellular 201 per 100',
                                             2019],
-                              'general': [ 'modern fiber-optic integrated services',
-                                           'digital network with rapidly growing use of mobile-cellular telephones',
-                                           'key centers are Abu Dhabi and Dubai',
-                                           '5G capabilities launched in 2019',
-                                           'two operators are competitive, but majority owned by the government',
-                                           'HSPA (high speed packet access) + LTE networks cover most of the '
-                                           'population',
-                                           'low cost smart phones readily available',
-                                           "mobile penetration levels among the world's highest",
-                                           'well-established fiber-broadband network provides future growth',
+                              'general': [ "one of the world's most connected countries with modern infrastructure and "
+                                           'record Internet, broadband, and mobile use',
+                                           'low-cost smartphones drive mobile-broadband penetration',
+                                           'LTE networks cover most of the population with launch of 5G in partnership '
+                                           'with Chinese company ZTE',
+                                           'submarine cables connect to South Africa, Middle East, Pakistan, and '
+                                           'Europe',
+                                           'ISPs are fully or partially owned by state, allowing control over flow of '
+                                           'information',
+                                           'during pandemic, there was a surge of Internet use from home, with '
+                                           'temporary government relaxation of restrictions on streaming such as Zoom, '
+                                           'Skype, and Microsoft Teams',
+                                           'government censorship and surveillance of online platforms',
+                                           "service prices are highest in the region, yet affordable for population's "
+                                           'affluent users',
+                                           'government launched free digital platforms for students',
+                                           'Dubai and Abu Dhabi are smart cities with government plan to digitize '
+                                           'services across country',
+                                           'major importer of broadcasting equipment from China and exporter of '
+                                           'broadcasting equipment to Iraq and Saudi Arabia (2021)',
                                            2020],
                               'intl': [ 'landing points for the FLAG, SEA-ME-WE-3 ,-4 & -5, Qater UAE Submarine Cable '
                                         'System, FALCON, FOG, Tat TGN-Gulf, OMRAN/EPEG Cable System, AAE-1, BBG, EIG, '
@@ -99,14 +113,18 @@ P1_CC2 = \
                                         'Australia',
                                         'satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian)',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3024565, 'fix': 2380238, 'internet': 9550945, 'mob': 19749674},
+                              'subs': {'bb': 3045957, 'fix': 2362602, 'internet': 9550945, 'mob': 19602815},
                               'tld': '.ae',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ae'}},
           'mcc': ['424', '430', '431'],
@@ -140,27 +158,39 @@ P1_CC2 = \
                                             '59 per 100 for mobile-cellular',
                                             'an increasing number of Afghans utilize mobile-cellular phone networks',
                                             2019],
-                              'general': [ "progress has been made on Afghanistan's first limited fixed-line telephone "
-                                           'service and nationwide optical fiber backbone',
-                                           'aided by the presence of multiple providers, mobile-cellular telephone '
-                                           'service continues to improve swiftly',
-                                           'the Afghan Ministry of Communications and Information claims that more '
-                                           'than 90% of the population live in areas with access to mobile cellular '
-                                           'service',
-                                           'moderate growth through 2024, assuming stable governance and improving '
-                                           'economic environment',
+                              'general': [ 'despite decades of war, Afghanistan has successfully rebuilt '
+                                           'infrastructure to create a functional telecom sector that covers nearly '
+                                           'all of the population',
+                                           'due to mountainous geography, country relies on its mobile network',
+                                           'mobile broadband penetration growing, but is still low compared to other '
+                                           'countries in Asia',
+                                           'operator launched LTE in Kabul',
+                                           'World Bank and other donors support development of a nationwide fiber '
+                                           'backbone',
+                                           'terrestrial cable connectivity to five neighboring countries',
+                                           'work on the &lsquo',
+                                           "Wakhan Corridor Fiber Optic Survey Project' to connect to China is nearing "
+                                           'completion',
+                                           'major importer of broadcasting equipment from UAE (2020)',
                                            2020],
                               'intl': [ "multiple VSAT's provide international and domestic voice and data "
                                         'connectivity',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments <p '
+                                        'style="background: white',
+                                        'margin: 0in 0in 6.4pt 0in',
+                                        '">',
                                         0],
-                              'subs': {'bb': 15999, 'fix': 125232, 'internet': 4717013, 'mob': 21239280},
+                              'subs': {'bb': 19683, 'fix': 134636, 'internet': 4717013, 'mob': 22580071},
                               'tld': '.af',
                               'url_tld': 'https://en.wikipedia.org/wiki/.af'}},
           'mcc': ['412'],
@@ -198,12 +228,16 @@ P1_CC2 = \
                                         'systems with links to other islands in the eastern Caribbean',
                                         'satellite earth stations - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 9261, 'fix': 24403, 'internet': 72870, 'mob': 187095},
                               'tld': '.ag',
@@ -240,12 +274,16 @@ P1_CC2 = \
                                         'submarine cable links to Caribbean islands and to the US',
                                         'microwave radio relay to island of Saint Martin/Sint Maarten',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 7461, 'internet': 14211, 'mob': 32332},
                               'tld': '.ai',
@@ -291,16 +329,18 @@ P1_CC2 = \
                                             'mobile-cellular telephone use is widespread and generally effective, 91 '
                                             'per 100 for mobile-cellular',
                                             2019],
-                              'general': [ 'mobile-cellular phone service has been available since 1996 and dominates '
-                                           'over fixed-line capacity',
-                                           'Internet broadband services initiated in 2005 and the government continues '
-                                           'to supports the improvement of broadband availability and access '
-                                           'conditions',
-                                           'Albania has received financial aid to build its infrastructure and works '
-                                           'towards the EU accession process, an adherence to careful scrutiny of its '
-                                           'regulatory regime helps the telecom sector advance',
-                                           'Internet cafes are popular in major urban areas',
-                                           '1.3 million use mobile broadband services (3G/4G)',
+                              'general': [ "Albania's small telecom market has improved through signatory status of EU "
+                                           'accession plan',
+                                           'EU financial aid will build infrastructure and enhance cooperation',
+                                           'operator committed &euro',
+                                           '100 million to upgrade fixed-line infrastructure, supporting broadband '
+                                           'services nationally',
+                                           'consistent with the region, fixed-line telephony use and penetration is '
+                                           'declining as subscribers prefer mobile solutions',
+                                           'mobile sector is supported through LTE networks',
+                                           'operators have invested in 5G, including the intention to create a '
+                                           'corridor with Kosovo',
+                                           'importer of broadcasting equipment from EU neighbors (2021)',
                                            2020],
                               'intl': [ 'submarine cables for the Adria 1 and Italy-Albania provide connectivity to '
                                         'Italy, Croatia, and Greece',
@@ -309,14 +349,18 @@ P1_CC2 = \
                                         'international traffic carried by fiber-optic cable and, when necessary, by '
                                         'microwave radio relay from the Tirana exchange to Italy and Greece',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 361947, 'fix': 258474, 'internet': 2196613, 'mob': 2799066},
+                              'subs': {'bb': 436192, 'fix': 242859, 'internet': 2196613, 'mob': 2630076},
                               'tld': '.al',
                               'url_tld': 'https://en.wikipedia.org/wiki/.al'}},
           'mcc': ['276'],
@@ -347,14 +391,21 @@ P1_CC2 = \
                                             'Yerevan and in major cities and towns',
                                             'mobile-cellular coverage available in most rural areas',
                                             2019],
-                              'general': [ 'telecommunications investments have made major inroads in modernizing and '
-                                           'upgrading the outdated telecommunications network inherited from the '
-                                           'Soviet era',
-                                           'now 100% privately owned and undergoing continued modernization and '
-                                           'expansion',
-                                           'strong growth in mobile broadband sector and mobile services dominate over '
-                                           'fixed-line',
-                                           'rollout of 4G networks and falling prices due to growing competition',
+                              'general': [ 'telecom market struggles to provide an effective national telecom service',
+                                           'country remains dependent on the economic health of Russian and EU '
+                                           'economies',
+                                           'fixed-line penetration falling, driven by growth in mobile and fixed-line '
+                                           'broadband',
+                                           'growth of 4G networks and falling prices due to growing competition',
+                                           'fixed broadband is growing but remains low by international comparisons',
+                                           'flat mobile market',
+                                           'strong growth predicted for mobile broadband market',
+                                           'government participating in a project to ensure eventual nationwide 5G '
+                                           'network',
+                                           'government approved plans for a new data center built via public-private '
+                                           'partnership',
+                                           'communication technologies sectors have attracted foreign investment',
+                                           'top importer of broadcast equipment from China (2021)',
                                            2020],
                               'intl': [ 'Yerevan is connected to the Caucasus Cable System fiber-optic cable through '
                                         'Georgia and Iran to Europe',
@@ -364,14 +415,18 @@ P1_CC2 = \
                                         'to the rest of the world',
                                         'satellite earth stations - 3',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 347448, 'fix': 462725, 'internet': 1966942, 'mob': 3707557},
+                              'subs': {'bb': 385704, 'fix': 451571, 'internet': 1966942, 'mob': 3618747},
                               'tld': '.am',
                               'url_tld': 'https://en.wikipedia.org/wiki/.am'}},
           'mcc': ['283'],
@@ -401,27 +456,37 @@ P1_CC2 = \
                               'domestic': [ 'only about one fixed-line per 100 persons',
                                             'mobile-cellular teledensity about 47 telephones per 100 persons',
                                             2019],
-                              'general': [ 'progress in opening up the telecom sector to new competitors, while still '
-                                           'retaining a 45% govt. portion of the share',
-                                           'slow progress in LTE network development, with only about 12% of the '
-                                           'country covered by network infrastructure',
-                                           'regulator offers 4th service license to be issued for competition, cracks '
-                                           'down on informal SIM card sales, and auctions 800MHz spectrum',
-                                           'M-commerce services launch pending',
+                              'general': [ "Angola's telecom sector shows consistent recovery following political "
+                                           'stability, encouraging foreign investment',
+                                           'while the government opened the telecom sector to new competitors, there '
+                                           'has been slow progress in LTE network development',
+                                           'only a small proportion of the country is covered by the 3G network '
+                                           'infrastructure',
+                                           'Internet and mobile phone penetration remains low, hindered by high costs '
+                                           'and poor infrastructure that limits access, especially in rural areas',
+                                           'upgrading telecom will support e-commerce, and rural access to education '
+                                           'and health care',
+                                           'AngoSat-2 satellite expected to be ready in 2021',
+                                           'government aims to connect an additional 160,000 people to free Wi-Fi',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the SAT-3/WASC, WACS, ACE and SACS fiber-optic submarine '
                                         'cable that provides connectivity to other countries in west Africa, Brazil, '
                                         'Europe and Asia',
                                         'satellite earth stations - 29, Angosat-2 satellite expected by 2021',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 109561, 'fix': 122566, 'internet': 4353033, 'mob': 14645106},
+                              'subs': {'bb': 119068, 'fix': 124726, 'internet': 4353033, 'mob': 14830154},
                               'tld': '.ao',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ao'}},
           'mcc': ['631'],
@@ -481,30 +546,34 @@ P1_CC2 = \
                                             'microwave radio relay, fiber-optic cable, and a domestic satellite system '
                                             'with 40 earth stations serve the trunk network',
                                             2019],
-                              'general': [ 'one of the highest broadband penetrations in Latin America, supported by '
-                                           'operator investment and govt. programs aimed at expansion',
-                                           'govt. provides 20 million euros for two 5G trials, Chinese company Huawei '
-                                           'conducts 5G trials',
-                                           'major networks are entirely digital and the availability of telephone '
-                                           'service continues to improve to rural areas',
-                                           "Argentinians' own multiple SIM cards for work and personal use",
-                                           'even with numerous providers there is a lack of competition for broadband '
-                                           'and mobile services',
-                                           'still Argentina is the 3rd largest in the region after Brazil and Mexico',
+                              'general': [ 'Argentina has one of the most vigorous mobile markets in Latin America',
+                                           'with additional operators in the market, mobile penetration fell in 2020 '
+                                           'as incentives for multiple-SIM card ownership eased',
+                                           'LTE with tests of 5G',
+                                           'government plan to boost fixed broadband coverage nationally and declared '
+                                           'TV, cable, and mobile services were essential public services',
+                                           'submarine system linking Sao Paolo and Rio De Janeiro with Buenos Aires is '
+                                           'operational',
+                                           'national operator increased investment in Uruguay',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the UNISUR, Bicentenario, Atlantis-2, SAm-1, and SAC, '
                                         'Tannat, Malbec and ARBR submarine cable systems that provide links to Europe, '
                                         'Africa, South and Central America, and US',
                                         'satellite earth stations - 112',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 8473655, 'fix': 7791464, 'internet': 33203320, 'mob': 59008618},
+                              'subs': {'bb': 8793181, 'fix': 7757243, 'internet': 33203320, 'mob': 56352947},
                               'tld': '.ar',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ar'}},
           'mcc': ['722'],
@@ -551,12 +620,16 @@ P1_CC2 = \
                                         'and SAS connecting American Samoa with Samoa',
                                         'satellite earth station - 1 (Intelsat-Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 8984, 'internet': 17000},
                               'tld': '.as',
@@ -597,28 +670,31 @@ P1_CC2 = \
                                             'broadband: 138 per 100 on smartphones',
                                             '62 per 100 fixed broadband, 54 per 100 mobile broadband',
                                             2019],
-                              'general': [ 'mobile-cellular subscribership is everywhere',
-                                           'cable networks are very extensive',
-                                           'all telephone applications and Internet services are accessible',
-                                           'broadband is available in all large municipalities',
-                                           'one company is in the process of extending fiber infrastructure to an '
-                                           'additional 300,000 premises, affecting some 500 towns, as a consequence '
-                                           'the number of DSL lines is likely to fall as customers move to fiber',
-                                           'the govt. vows to spend 1 billion euros to upgrade the national broadband '
-                                           'availability',
-                                           'the roll-out of 5G has begun in a test phase in 2019 and is planned to be '
-                                           'available nation-wide in 2025',
+                              'general': [ 'mature telecom market benefitting from effective competition',
+                                           'government and regulator are focused on improving telecom infrastructure',
+                                           'program to provide a national gigabit service by 2030 based on 5G networks',
+                                           'fixed-line broadband market is dominated by DSL sector, while cable '
+                                           'broadband enjoys steady share of connections',
+                                           'fiber penetration remains low pending build out network infrastructure',
+                                           "EU-funded projects develop infrastructure to enable an 'Internet of "
+                                           'Services',
+                                           'Vienna is a smart city',
+                                           'importer of broadcasting equipment from Vietnam and China (2021)',
                                            2020],
                               'intl': [ 'earth stations available in the Astra, Intelsat, Eutelsat satellite systems',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2521100, 'fix': 3700006, 'internet': 7712665, 'mob': 10574725},
+                              'subs': {'bb': 2519000, 'fix': 3722128, 'internet': 7712665, 'mob': 10726000},
                               'tld': '.at',
                               'url_tld': 'https://en.wikipedia.org/wiki/.at'}},
           'mcc': ['232'],
@@ -677,13 +753,22 @@ P1_CC2 = \
                                             '90% of all mobile device sales are now smartphones, growth in mobile '
                                             'traffic brisk',
                                             2019],
-                              'general': [ 'excellent domestic and international service',
+                              'general': [ 'excellent domestic and international service with comprehensive population '
+                                           'coverage through LTE',
                                            'domestic satellite system',
-                                           'significant use of radiotelephone in areas of low population density',
-                                           'rapid growth of mobile telephones',
-                                           'continue to enhance 4G networks while migrating to 5G technologies',
-                                           '5G connections are predicted to account for around 50 - 60% of total '
-                                           'connections by 2025',
+                                           'rapid growth of mobile and fixed-wireless broadband services through '
+                                           'multi-technology architecture',
+                                           'emphasis on new technologies',
+                                           'diminished fixed-line market due to mobile and mobile broadband',
+                                           'in fixed broadband, shift to fiber networks through infrastructure build '
+                                           'out',
+                                           'mobile network operators continue to work towards the launch of 5G',
+                                           'predicted to be one of the top markets driving the growth of 5G and data '
+                                           'markets in Asia',
+                                           'fiber backbone to connect with submarine cables',
+                                           'Oman-Australia cable to be completed by end of 2021',
+                                           "two of Australia's major imports are broadcast equipment and computers "
+                                           'from China (2021)',
                                            2020],
                               'intl': [ 'landing points for more than 20 submarine cables including: the SeaMeWe-3 '
                                         'optical telecommunications submarine cable with links to Asia, the Middle '
@@ -698,14 +783,18 @@ P1_CC2 = \
                                         'satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), '
                                         '2 Inmarsat, 2 Globalstar, 5 other',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 7640000, 'fix': 7792701, 'internet': 21419302, 'mob': 27780491},
+                              'subs': {'bb': 8752830, 'fix': 7820000, 'internet': 21419302, 'mob': 27880000},
                               'tld': '.au',
                               'url_tld': 'https://en.wikipedia.org/wiki/.au'}},
           'mcc': ['505'],
@@ -808,12 +897,16 @@ P1_CC2 = \
                                         'Peru and Chile',
                                         'extensive interisland microwave radio relay links',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 39582, 'internet': 113277, 'mob': 159471},
                               'tld': '.aw',
@@ -865,26 +958,36 @@ P1_CC2 = \
                                             'satellite service connects Baku to a modern switch in its exclave of '
                                             'Naxcivan (Nakhchivan)',
                                             2019],
-                              'general': [ 'after the oil sector, the telecommunications sector contributes the most '
-                                           'to the GDP',
-                                           'more competition will allow for falling prices and the strengthening of '
-                                           'the 4G TD-LTE standard and the migration to 5G',
-                                           'Azerbaijan has moderate mobile, mobile broadband and fixed broadband '
-                                           'penetration compared to other Asian nations',
+                              'general': [ 'a landlocked country with historically poor infrastructure',
+                                           'state control of telecom systems',
+                                           'progress with Digital Hub project despite economic contraction in 2020',
+                                           'government launched e-school and e-service programs',
+                                           'risk of delays in infrastructure and launch of new technologies, including '
+                                           '5G due to slow market demand',
+                                           'LTE supports most data traffic while mobile broadband subscribership grows '
+                                           'rapidly',
+                                           'fixed-line broadband market has slight upward trend',
+                                           'Internet access is expensive and suffers from outages and intentional '
+                                           'government disruption',
+                                           'importer of broadcasting equipment from Russia (2021)',
                                            2020],
                               'intl': [ 'the TAE fiber-optic link transits Azerbaijan providing international '
                                         'connectivity to neighboring countries',
                                         'the old Soviet system of cable and microwave is still serviceable',
                                         'satellite earth stations - 2',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1890913, 'fix': 1686316, 'internet': 8017120, 'mob': 10835974},
+                              'subs': {'bb': 1943013, 'fix': 1673211, 'internet': 8017120, 'mob': 10750300},
                               'tld': '.az',
                               'url_tld': 'https://en.wikipedia.org/wiki/.az'}},
           'mcc': ['400'],
@@ -910,24 +1013,32 @@ P1_CC2 = \
                                             'subscribership has been increasing rapidly and stands at roughly 112 '
                                             'telephones per 100 persons',
                                             2019],
-                              'general': [ 'mobile services dominate fixed-line',
-                                           'integration with the EU has given stability to the present economy, as an '
-                                           'EU candidate country, the regulatory framework and telecom market has been '
-                                           'liberalized and the regulator has given LTE license to 3 MNOs',
-                                           'DSL and cable are the chief platforms for fixed-line connectivity, there '
-                                           'is a small market presence of fiber broadband',
-                                           'new mobile roaming fees come into effect similar to other EU countries',
-                                           'rural areas still suffer from insufficient connectivity',
+                              'general': [ 'Bosnia-Herzegovina aims for national LTE coverage through integration with '
+                                           'European Union (EU)',
+                                           'roaming agreements with EU and Balkan neighbors',
+                                           'fixed-line broadband is underdeveloped, investments in mobile upgrades '
+                                           'facilitate broadband connectivity to a greater extent than in Europe',
+                                           'DSL and cable are the main platforms for fixed-line connectivity while '
+                                           'fiber broadband has a small market presence',
+                                           'operators support broadband in rural areas where fixed-line infrastructure '
+                                           'is insufficient',
+                                           'LTE services under test licenses',
+                                           '5G awaits market maturity',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': ['no satellite earth stations', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 693554, 'fix': 920407, 'internet': 2699544, 'mob': 4300743},
+                              'subs': {'bb': 745887, 'fix': 728322, 'internet': 2699544, 'mob': 3755521},
                               'tld': '.ba',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ba'}},
           'mcc': ['218'],
@@ -964,14 +1075,18 @@ P1_CC2 = \
                                         'satellite earth stations - 1 (Intelsat - Atlantic Ocean)',
                                         'tropospheric scatter to Trinidad and Saint Lucia',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 89340, 'fix': 141618, 'internet': 239664, 'mob': 319177},
+                              'subs': {'bb': 106803, 'fix': 128043, 'internet': 239664, 'mob': 329326},
                               'tld': '.bb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bb'}},
           'mcc': ['342'],
@@ -1003,11 +1118,18 @@ P1_CC2 = \
                                             'mobile subscriber growth is anticipated over the next five years to 2023',
                                             'strong local competition',
                                             2019],
-                              'general': [ 'slow to moderate growth in mobile subscriber rate',
-                                           "regulator's recent budget allowance and telecoms investment in LTE "
-                                           'infrastructure is leading the way to the migration of 5G',
-                                           'fixed broadband penetration in Bangladesh remains very low mainly due to '
-                                           'the dominance of the mobile platform',
+                              'general': [ "Bangladesh's economic constraints hinder network infrastructure, resulting "
+                                           'in the lowest fixed-line penetration rate in South Asia and a very low '
+                                           'fixed broadband rate',
+                                           'most consumers utilize mobile broadband for data on LTE networks but rates '
+                                           'are still well below that of most other Asian countries',
+                                           'the government approved a modernization project to support investment and '
+                                           'prepare for 5G launches',
+                                           '2020 test of 5G technology in Dhaka',
+                                           'government directive allows IoT for smart buildings and automation '
+                                           'industries',
+                                           'government project aims to provide network to services and schools',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic submarine cable '
                                         'system that provides links to Europe, the Middle East, and Asia',
@@ -1015,14 +1137,18 @@ P1_CC2 = \
                                         'international radiotelephone communications and landline service to '
                                         'neighboring countries',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 10237003, 'fix': 1433460, 'internet': 23917950, 'mob': 163559380},
+                              'subs': {'bb': 8085500, 'fix': 1449646, 'internet': 23917950, 'mob': 165572000},
                               'tld': '.bd',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bd'}},
           'mcc': ['470'],
@@ -1056,30 +1182,34 @@ P1_CC2 = \
                                             'extensive cable network',
                                             'limited microwave radio relay network',
                                             2019],
-                              'general': [ 'highly developed, technologically advanced, and completely automated '
-                                           'domestic and international telephone and telegraph facilities',
-                                           'LTE availability is nearly universal in mobile sector',
-                                           'ongoing investments in developing applications and services for migration '
-                                           'to 5G, operators are looking into repurposing 3G infrastructure and '
-                                           'spectrum as they gear up for 5G',
-                                           'Europe-wide approach to simultaneous movement to 5G on going',
-                                           '5G will be main motivation for growth and revenue in years to come',
-                                           'consumer are interested in quad-play/bundled services (broadband '
-                                           '+television +telephone +wireless services) which will mean MNOs (mobile '
-                                           'network operators) are enhancing their fixed-line offerings',
+                              'general': [ 'Belgium has a highly developed, technologically advanced telecom system',
+                                           'LTE is nearly universal',
+                                           'ongoing investment in 5G with services to dozens of cities and towns',
+                                           'competition between the DSL and cable platforms with investment in fiber '
+                                           'networks',
+                                           '5G',
+                                           'operators accelerating fiber roll-out program',
+                                           'Brussels Airport collaborating with operator to deploy 5G and IoT '
+                                           'solutions',
+                                           'international connections through satellite and submarine cables',
+                                           'importer of broadcast equipment from EU neighbors (2021)',
                                            2020],
                               'intl': [ 'landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine '
                                         'cables that provide links to Europe, the Middle East, Australia and Asia',
                                         'satellite earth stations - 7 (Intelsat - 3)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4502950, 'fix': 3967054, 'internet': 10258638, 'mob': 11616970},
+                              'subs': {'bb': 4590707, 'fix': 3930410, 'internet': 10258638, 'mob': 11509573},
                               'tld': '.be',
                               'url_tld': 'https://en.wikipedia.org/wiki/.be'}},
           'mcc': ['206'],
@@ -1139,25 +1269,34 @@ P1_CC2 = \
                                             'competition and the hope for growth from a low base',
                                             'Internet penetration is 11% countrywide, but higher in urban areas',
                                             2019],
-                              'general': [ 'system includes microwave radio relay, open-wire, and radiotelephone '
-                                           'communication stations',
-                                           'insufficient mobile spectrum, and poor condition of fixed-line networks '
-                                           'hinders the development of fixed-line Internet services and leaves Burkina '
-                                           'Faso with some of the most expensive telecommunications globally',
-                                           'mobile telephony has experienced growth, but below the African average',
-                                           'govt. proposes technology-neutral licenses to boost mobile broadband '
-                                           'connectivity and amend legislation to improve regulators and legalize the '
-                                           'framework governing the telecom sector',
+                              'general': [ "Burkina Faso's telecom services are some of the most expensive in the "
+                                           'world, hindered by regulatory procedures, insufficient mobile spectrum, '
+                                           'poor fixed-line networks',
+                                           'mobile telephony but below African average',
+                                           'Internet is provided by mobile operators',
+                                           'Internet penetration is low and expensive, despite improved international '
+                                           'bandwidth via fiber links through submarine cables to adjacent countries',
+                                           'increased telecom tax',
+                                           'government infrastructure project largely completed',
+                                           'parliament launched inquiry on mobile network infrastructure coverage, '
+                                           'pricing of services, and quality of service',
+                                           'government began computer subsidy program for university students',
+                                           'government progressed with large project to provide metropolitan '
+                                           'fiber-optic infrastructure (2021)',
                                            2020],
                               'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 13818, 'fix': 75066, 'internet': 3158834, 'mob': 20330657},
+                              'subs': {'bb': 12015, 'fix': 75291, 'internet': 3158834, 'mob': 20364508},
                               'tld': '.bf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bf'}},
           'mcc': ['613'],
@@ -1188,15 +1327,17 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line 14 per 100 persons, mobile-cellular teledensity, fostered by '
                                             'multiple service providers, is over 116 telephones per 100 persons',
                                             2019],
-                              'general': [ "telecom sector has benefited from Bulgaria's adaptation of EU regulatory "
-                                           'measures, more privatization and less govt. monopoly',
-                                           'population is moving to fiber networks for broadband',
-                                           'govt. investment in programs for broadband in rural areas',
-                                           '5G trials by 2 operators',
-                                           'quality has improved with a modern digital trunk line connecting switching '
-                                           'centers in most of the regions',
-                                           'remaining areas are connected by digital microwave radio relay',
-                                           'Bulgaria has a mature mobile market with active competition',
+                              'general': [ "Bulgaria's telecoms sector benefited from adaptation of EU regulatory "
+                                           'measures and privatization',
+                                           'population is moving to fiber over DSL for broadband connection',
+                                           'investment towards rural areas',
+                                           'migration from fixed-line voice to mobile and VoIP',
+                                           'private networks pursuing upgrades and development of services based on 5G',
+                                           'broadband market in Bulgaria enjoys cross-platform competition',
+                                           'operators deploy NB-IoT platform in several cities and released smart '
+                                           'platform for utilities',
+                                           'government launched e-learning platform to help students continue their '
+                                           'studies during lockdown (2021)',
                                            2020],
                               'intl': [ 'Caucasus Cable System via submarine cable provides connectivity to Ukraine, '
                                         'Georgia and Russia',
@@ -1205,14 +1346,18 @@ P1_CC2 = \
                                         'satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 '
                                         'Intelsat in the Atlantic and Indian Ocean regions)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1903946, 'fix': 974056, 'internet': 4571851, 'mob': 8149389},
+                              'subs': {'bb': 2014772, 'fix': 975355, 'internet': 4571851, 'mob': 8134581},
                               'tld': '.bg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bg'}},
           'mcc': ['284'],
@@ -1243,12 +1388,17 @@ P1_CC2 = \
                                             'modern fiber-optic integrated services',
                                             'digital network with rapidly expanding mobile-cellular telephones',
                                             2019],
-                              'general': [ 'well-developed LTE networks, 5G trials tested and deployment in the near '
-                                           'future',
-                                           'mobile penetration is high compared to the region',
-                                           'development of its own national broadband network',
-                                           'competition is good and telecoms are regulated',
-                                           'telecom contributes 4% to the GDP',
+                              'general': [ 'Bahrain is one of the most technically advanced and connected countries in '
+                                           'the world',
+                                           'NGN for increased mobile and Wi-Fi traffic',
+                                           'mobile infrastructure and fiber-optic Internet allows greater Internet '
+                                           'penetration and competitive prices',
+                                           'government provides free Internet in schools and public areas, and '
+                                           'national broadband with sole control over network',
+                                           'regulator controlled by monarchy',
+                                           'Internet freedom restricted through blocks',
+                                           'well served by satellite and submarine cable access',
+                                           'importer of broadcasting equipment from UAE (2021)',
                                            2020],
                               'intl': [ 'landing points for the FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG submarine '
                                         'cable network that provides links to Asia, the Middle East, and Africa',
@@ -1256,14 +1406,18 @@ P1_CC2 = \
                                         'microwave radio relay to Saudi Arabia',
                                         'satellite earth station - 1',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 184603, 'fix': 246603, 'internet': 1423039, 'mob': 1706763},
+                              'subs': {'bb': 140992, 'fix': 272614, 'internet': 1423039, 'mob': 1900361},
                               'tld': '.bh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bh'}},
           'mcc': ['426'],
@@ -1300,14 +1454,13 @@ P1_CC2 = \
                                             'fixed-line connections stand at well less than 1 per 100 persons',
                                             'mobile-cellular usage is 58 per 100 persons',
                                             2019],
-                              'general': [ 'with the great population density Burundi remains one of the most alluring '
-                                           'telecom markets in Africa for investors',
-                                           'the government in early 2018 began the Burundi Broadband project, which '
-                                           'plans to deliver nationwide connectivity by 2025',
-                                           'mobile operators have launched 3G and LTE mobile services to capitalize on '
-                                           'the expanding demand for Internet access',
-                                           'mobile penetration is at 52%, and remains low by regional standards',
-                                           'future plans to privatize the national telecoms',
+                              'general': [ "Burundi's high population density and low telecom penetration rates make "
+                                           'it an attractive market for investors',
+                                           'mobile operators have launched 3G and LTE to meet the demand for Internet',
+                                           'mobile subscription remains low',
+                                           'government/World Bank joint project to build a national broadband backbone '
+                                           'connecting to submarine cable landings in Kenya and Tanzania',
+                                           'government launched e-health project (2021)',
                                            2020],
                               'intl': [ 'satellite earth station - 1 Intelsat (Indian Ocean)',
                                         'the government, supported by the Word Bank, has backed a joint venture with a '
@@ -1315,14 +1468,18 @@ P1_CC2 = \
                                         'offering onward connectivity to submarine cable infrastructure landings in '
                                         'Kenya and Tanzania',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3935, 'fix': 20758, 'internet': 298684, 'mob': 6644833},
+                              'subs': {'bb': 3891, 'fix': 20936, 'internet': 298684, 'mob': 6532039},
                               'tld': '.bi',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bi'}},
           'mcc': ['642'],
@@ -1353,25 +1510,35 @@ P1_CC2 = \
                                             'telephone subscribership has increased rapidly, exceeding 88 per 100 '
                                             'persons',
                                             2019],
-                              'general': [ 'fixed-line network characterized by aging, deteriorating equipment',
-                                           'mobile networks account for almost all Internet connections',
-                                           'govt. to provide telecom services to 80% of the country, mostly via mobile '
-                                           'infrastructure by restructuring state-owned telecom companies',
-                                           '(mobile number portability) MNP is available',
-                                           'Benin joins free roaming scheme',
+                              'general': [ "Benin's telecom market is restricted by poor fixed-line infrastructure",
+                                           'low use of fixed-line voice and Internet',
+                                           'mobile networks account for almost all Internet and voice traffic',
+                                           'progress on fiber infrastructure through World Bank and the government '
+                                           'investment to extend broadband and develop Smart Government program',
+                                           'monopolized fixed-line Internet services access is limited',
+                                           'ICT development will provide telecom services to 80% of the country, '
+                                           'mostly via mobile and DSL infrastructure',
+                                           'Benin Smart City construction has begun',
+                                           'improved international Internet connectivity supports growth of m-commerce '
+                                           'and m-banking',
+                                           'submarine cable connectivity from African coast to Europe (2021)',
                                            2019],
                               'intl': [ 'landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that '
                                         'provides connectivity to Europe, and most West African countries',
                                         'satellite earth stations - 7 (Intelsat-Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 27034, 'fix': 37305, 'internet': 2403596, 'mob': 10905559},
+                              'subs': {'bb': 25032, 'fix': 35917, 'internet': 2403596, 'mob': 10349847},
                               'tld': '.bj',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bj'}},
           'mcc': ['616'],
@@ -1407,12 +1574,16 @@ P1_CC2 = \
                               'intl': [ 'landing points for the SSCS and the Southern Caribbean Fiber submarine cables '
                                         'providing voice and data connectivity to numerous Caribbean Islands',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'tld': '.bl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bl'}},
@@ -1449,12 +1620,16 @@ P1_CC2 = \
                                         'cables to the Caribbean, South America and the US',
                                         'satellite earth stations - 3',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 24808, 'internet': 70016, 'mob': 73680},
                               'tld': '.bm',
@@ -1500,29 +1675,31 @@ P1_CC2 = \
                               'domestic': [ 'every service available',
                                             '20 per 100 fixed-line, 129 per 100 mobile-cellular',
                                             2019],
-                              'general': [ 'service throughout the country is excellent',
-                                           'international service is good to Southeast Asia, Middle East, Western '
-                                           'Europe, and the US',
-                                           'lots of investment given the high GDP per capita',
-                                           'launch of 5G in 2021 anticipated',
-                                           'while fixed-line is slowing down, mobile broadband has taken over in the '
-                                           'advancement in the telecoms access market',
-                                           'broadband penetration slow to moderate growth predicted over the next five '
-                                           'years to 2023',
+                              'general': [ 'Brunei is improving its national telecom network',
+                                           'telecommunications infrastructure and services are of high standard, due '
+                                           'to healthy investment in networks and services',
+                                           'relatively mature telecom system compared to other Asian countries',
+                                           'mobile subscription increasing steadily to high penetration',
+                                           'launch of 5G services in 2021 will boost the mobile broadband sector',
+                                           'access to telecom services via the Kacific-1 satellite (2020)',
                                            2020],
                               'intl': [ 'landing points for the SEA-ME-WE-3, SJC, AAG, Lubuan-Brunei Submarine Cable '
                                         'via optical telecommunications submarine cables that provides links to Asia, '
                                         'the Middle East, Southeast Asia, Africa, Australia, and the US',
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 49452, 'fix': 91415, 'internet': 426234, 'mob': 588616},
+                              'subs': {'bb': 54195, 'fix': 86590, 'internet': 426234, 'mob': 574799},
                               'tld': '.bn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bn'}},
           'mcc': ['528'],
@@ -1559,35 +1736,41 @@ P1_CC2 = \
                                             'most telephones are concentrated in La Paz, Santa Cruz, and other capital '
                                             'cities',
                                             2019],
-                              'general': [ 'lowest GDP in the area',
-                                           'much of the population live in remote valleys and telecommunications is '
-                                           'poor',
-                                           'consumers pick from multiple long-distance carriers for each call',
-                                           'reliability, and coverage have steadily improved, but some remote areas '
-                                           'are still underserved',
-                                           'operators plan to extend fiber to all 339 municipal capital cities by 2022',
-                                           'move from 3G to LTE available by all 3 mobile companies',
-                                           '92% of all Internet is through smartphone',
-                                           'broadband services remain expensive by the lack of competition and that '
-                                           'fact that Bolivia is landlocked and does not have access through submarine '
-                                           'cables',
-                                           'MNP (mobile number portability) launched in October 2018',
-                                           'Bolivian Space Agency planning to launch a second telecom satellite after '
-                                           '2020',
+                              'general': [ "with low national GDP and remote landlocked geography, Bolivia's telecom "
+                                           'services are historically expensive and neglected resulting in low '
+                                           'penetration',
+                                           'fixed telecom market is provided by non-profit cooperatives focused on '
+                                           'improvement of services such as broadband and paid TV services',
+                                           'some operators adopted fixed-wireless technologies and fiber-optic '
+                                           'capacity',
+                                           'fixed broadband services migrating from DSL to fiber remain expensive and '
+                                           'largely unavailable in many areas',
+                                           'historically relied on satellite services or terrestrial links and '
+                                           'inaugurated a new cable running via Peru to the Pacific',
+                                           'operator aims to increase coverage through mobile networks for voice and '
+                                           'data access, especially to rural areas',
+                                           'space agency plans to boost satellite-based Internet',
+                                           'in 2020, communications towers in Yapacani were destroyed due to pandemic '
+                                           'conspiracy fears',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'Bolivia has no direct access to submarine cable networks and must therefore '
                                         'connect to the rest of the world either via satellite or through terrestrial '
                                         'links across neighboring countries',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 504097, 'fix': 719399, 'internet': 4955569, 'mob': 11567760},
+                              'subs': {'bb': 746872, 'fix': 652272, 'internet': 4955569, 'mob': 11688830},
                               'tld': '.bo',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bo'}},
           'mcc': ['736'],
@@ -1662,13 +1845,18 @@ P1_CC2 = \
                                             'broadening telephone service to the lower-income segments of the '
                                             'population with mobile-cellular teledensity roughly 99 per 100 persons',
                                             2019],
-                              'general': [ 'Brazil is one of the largest mobile and broadband markets in Latin America',
-                                           '5G auction delayed due to interference issues',
-                                           'four major (mobile network operators) MNOs offering a range of voice and '
-                                           'data services',
-                                           'broadband penetration only behind Chile, Argentina, and Uruguay',
-                                           'country is a pioneer in the region for M-commerce (electronic commerce '
-                                           'conducted on mobile phones)',
+                              'general': [ 'Brazil is one of the largest mobile and broadband markets in Latin America '
+                                           'with healthy competition and pricing',
+                                           '5G launched on limited basis',
+                                           'large fixed-line broadband market with focus on fiber',
+                                           'landing point for submarine cables and investment into terrestrial fiber '
+                                           'cables to neighboring countries',
+                                           'Internet penetration has increased, access varies along geographic and '
+                                           'socio-economic lines',
+                                           'government provides free WiFi in urban public spaces',
+                                           'pioneer in the region for M-commerce',
+                                           'major importer of integrated circuits from South Korea and China, and '
+                                           'broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for a number of submarine cables, including Malbec, ARBR, '
                                         'Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, BRUSA, GlobeNet, '
@@ -1681,14 +1869,18 @@ P1_CC2 = \
                                         'satellites is a major communication platform, as it is almost impossible to '
                                         'lay fiber optic cable in the thick vegetation',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 31233004, 'fix': 33585164, 'internet': 140908998, 'mob': 207862093},
+                              'subs': {'bb': 32914496, 'fix': 33712877, 'internet': 140908998, 'mob': 202009290},
                               'tld': '.br',
                               'url_tld': 'https://en.wikipedia.org/wiki/.br'}},
           'mcc': ['724'],
@@ -1764,14 +1956,18 @@ P1_CC2 = \
                                         'satellite earth stations - 2',
                                         'the Bahamas Domestic Submarine Network links all of the major islands',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 87067, 'fix': 78439, 'internet': 282739, 'mob': 366217},
+                              'subs': {'bb': 82295, 'fix': 91129, 'internet': 282739, 'mob': 425507},
                               'tld': '.bs',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bs'}},
           'mcc': ['364'],
@@ -1795,25 +1991,33 @@ P1_CC2 = \
                               'domestic': [ '3 to 100 fixed-line, 96 to 100 mobile cellular',
                                             'domestic service inadequate, notably in rural areas',
                                             2019],
-                              'general': [ '4G platforms now gaining traction',
-                                           '4G/WiMAX networks now cover well over half of the country',
-                                           'fixed broadband penetration remains very low, due to the preeminence of '
-                                           'the mobile platform',
-                                           'low to moderate growth is expected from this small base with a maturing '
-                                           'mobile subscriber market',
+                              'general': [ "Bhutan's telecom market is dominated by the mobile sector for voice and "
+                                           'data connections due to poor fixed-line infrastructure and topographic '
+                                           'issues',
+                                           'investment is focused on mobile infrastructure and an emergency telecom '
+                                           'network for natural disasters',
+                                           'extended LTE to 60% of all mobile Internet users',
+                                           'regulator developing 5G plan',
+                                           'international communication through landline and microwave relay',
+                                           'nascent satellite service',
+                                           'importer of broadcast equipment from India (2021)',
                                            2020],
                               'intl': [ 'international telephone and telegraph service via landline and microwave '
                                         'relay through India',
                                         'satellite earth station - 1 Intelsat',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 10802, 'fix': 21916, 'internet': 368714, 'mob': 740026},
+                              'subs': {'bb': 8774, 'fix': 21581, 'internet': 368714, 'mob': 729239},
                               'tld': '.bt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bt'}},
           'mcc': ['402'],
@@ -1856,18 +2060,18 @@ P1_CC2 = \
                                             'mobile-cellular teledensity has advanced to 174 telephones per 100 '
                                             'persons',
                                             2019],
-                              'general': [ 'the Botswana Telecommunications Corp is rolling out 4G service to over 95 '
-                                           'sites in the country that will improve network connectivity',
-                                           "an effective regulatory reform has turned the Botswana's telecom market "
-                                           'into one of the most liberalized in the region',
-                                           'Botswana has one of the highest mobile penetration rates in Africa',
-                                           '3 MNOs have entered the underdeveloped broadband sector with the adoption '
-                                           'of 3G, LTE and WiMAX technologies',
-                                           'mobile Internet remains the preferred choice',
-                                           'the expansion of a fully digital system with fiber-optic cables along with '
-                                           'a system of open-wire lines links the major population centers in the east',
-                                           'the use of multiple SIM cards has delayed the introduction of (mobile '
-                                           'number portability) MNP',
+                              'general': [ "due to effective regulatory reform and active competition, Botswana's "
+                                           'telecom market is one of the most liberalized in the region',
+                                           'strategy to drive nationwide ICT penetration is slowed',
+                                           'one of the highest mobile penetration rates in Africa',
+                                           'operators developing 3G and LTE',
+                                           'Internet use rising due to lower prices',
+                                           'government has embraced digitalization, e-government and identity programs '
+                                           'that require citizens to provide detailed personal information',
+                                           'previously dependent on satellites for international connectivity, '
+                                           "country's new submarine cable landings improved competition and tripled "
+                                           'international Internet capacity',
+                                           'importer of broadcast equipment from Hong Kong and China (2020)',
                                            2020],
                               'intl': [ 'international calls are made via satellite, using international direct '
                                         'dialing',
@@ -1876,14 +2080,18 @@ P1_CC2 = \
                                         'Africa',
                                         'satellite earth station - 1 Intelsat (Indian Ocean)',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 40044, 'fix': 139735, 'internet': 1057079, 'mob': 3968526},
+                              'subs': {'bb': 49295, 'fix': 142587, 'internet': 1057079, 'mob': 3746760},
                               'tld': '.bw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bw'}},
           'mcc': ['652'],
@@ -1917,15 +2125,18 @@ P1_CC2 = \
                                             'underserved, 48 per 100 fixed-line',
                                             'mobile-cellular teledensity now approaches 123 telephones per 100 persons',
                                             2019],
-                              'general': [ 'govt. and telecom regulator have plans to develop the telecom sector for '
-                                           'the migration to 5G',
-                                           'Chinese company Huawei have started 5G trials to deliver data at 2Gb/s',
-                                           'fiber network reaches two million establishments',
-                                           '10,000km of fiber cabling laid',
-                                           'August 2018 almost two million GPON connections (Gigabit Passive Optical '
-                                           'Network, point-to-multi point access mechanism)',
-                                           'Belarus launched its first telecoms satellite in 2016',
-                                           'LTE use reaches 75% of mobile subscribers',
+                              'general': [ 'government owns and administers backbone network and much of telecom '
+                                           'market with no independent regulator',
+                                           'government and telecom regulator are concluding three major programs aimed '
+                                           'at developing the telecom sector and digital economy to enable 5G services '
+                                           'and extension of fiber infrastructure',
+                                           'growing applications for smart cities',
+                                           'developing mobile broadband and data services to rural areas',
+                                           'commercial LTE services extended to 80% of the population',
+                                           'operators provide standalone 5G service and NB-IoT services',
+                                           'international connection through fiber optic and terrestrial link, nascent '
+                                           'satellite system',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'Belarus is landlocked and therefore a member of the Trans-European Line '
                                         '(TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the '
@@ -1937,14 +2148,18 @@ P1_CC2 = \
                                         'Intelsat, Eutelsat, and Intersputnik earth stations',
                                         'almost 31,000 base stations in service in 2019',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3201519, 'fix': 4513255, 'internet': 7539145, 'mob': 11682764},
+                              'subs': {'bb': 3214869, 'fix': 4451144, 'internet': 7539145, 'mob': 11627249},
                               'tld': '.by',
                               'url_tld': 'https://en.wikipedia.org/wiki/.by'}},
           'mcc': ['257'],
@@ -1971,26 +2186,34 @@ P1_CC2 = \
                                             '100 persons',
                                             'mobile sector accounting for over 90% of all phone subscriptions',
                                             2019],
-                              'general': [ 'govt. telecom company, Belize Telemedia Ltd., continues to hold a monopoly '
-                                           'in fixed-line services, mobile and broadband fixed-line teledensity',
-                                           'it is a small market',
-                                           'fixed-line teledensity and mobile penetration below regional average',
-                                           'lack of competition and underinvestment in telecom system, make it pricey '
-                                           'for consumer',
+                              'general': [ "Belize's fixed-line tele-density and mobile penetration is lower than "
+                                           'average for the region, due to insufficient competition, underinvestment '
+                                           'in services, and lax standards',
+                                           'mobile accounts for 90% of all phones',
+                                           'operator aims to provide cheaper prices and customer retention through '
+                                           'investment in broadband to over 80% of premises and LTE infrastructure',
+                                           'operator launched safe cities project to fight crime',
+                                           'government distributed tablets to students to promote e-learning',
+                                           'submarine cable to Ambergris Caye enables FttP service in San Pedro',
+                                           'importer of broadcast equipment from the United States (2021)',
                                            2020],
                               'intl': [ 'landing points for the ARCOS and SEUL fiber-optic telecommunications '
                                         'submarine cable that provides links to South and Central America, parts of '
                                         'the Caribbean, and the US',
                                         'satellite earth station - 8 (Intelsat - 2, unknown - 6)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 24658, 'fix': 18617, 'internet': 181660, 'mob': 256479},
+                              'subs': {'bb': 29600, 'fix': 18500, 'internet': 181660, 'mob': 254919},
                               'tld': '.bz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bz'}},
           'mcc': ['702'],
@@ -2019,14 +2242,19 @@ P1_CC2 = \
                                             'comparatively low mobile penetration provides further room for growth',
                                             'domestic satellite system with about 300 earth stations',
                                             2019],
-                              'general': [ 'excellent service provided by first-rate technology',
-                                           'offers 99% coverage with LTE',
-                                           'consumer demand for mobile data services have prompted telecom companies '
-                                           'to invest and advance LTE infrastructure, and further investment in 5G',
-                                           'govt. policy has aided the extension of broadband to rural and regional '
-                                           'areas, with the result that services are almost universally accessible',
-                                           'govt. sets up $400 million public-private partnership to exploit benefits '
-                                           'of 5G',
+                              'general': [ 'Canada has highly developed, technologically advanced telecom services',
+                                           'LTE and broadband are nearly universal',
+                                           'competition between the DSL and cable platforms with investment in fiber '
+                                           'networks',
+                                           'regulatory efforts ensure operators have spectrum available to develop 5G '
+                                           'services',
+                                           'policy to improve service speeds and enable digital economy and e-services',
+                                           "operator's 5G network facilitates smart-city vehicle and pedestrian "
+                                           'traffic',
+                                           'high value in e-commerce transactions',
+                                           'international connections through submarine, terrestrial, and satellite '
+                                           'systems',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the Nunavut Undersea Fiber Optic Network System, Greenland '
                                         'Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable '
@@ -2035,14 +2263,18 @@ P1_CC2 = \
                                         'satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific '
                                         'Ocean, and 2 Intersputnik - Atlantic Ocean region)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 14445606, 'fix': 13258721, 'internet': 33743954, 'mob': 34597559},
+                              'subs': {'bb': 15273496, 'fix': 13267000, 'internet': 33743954, 'mob': 34366950},
                               'tld': '.ca',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ca'}},
           'mcc': ['302'],
@@ -2228,13 +2460,13 @@ P1_CC2 = \
                               'bound': { 'bord': { 'Angola': 2646,
                                                    'Burundi': 236,
                                                    'Central African Republic': 1747,
-                                                   'Republic of the Congo': 1229,
+                                                   'Republic of the Congo': 1775,
                                                    'Rwanda': 221,
                                                    'South Sudan': 714,
                                                    'Tanzania': 479,
                                                    'Uganda': 877,
                                                    'Zambia': 2332},
-                                         'len': 10481},
+                                         'len': 11027},
                               'capital': {'coord': '4 19 S, 15 18 E', 'name': 'Kinshasa', 'time_diff': 'UTC+1'},
                               'cmt': 'formerly Zaire',
                               'coast': 37,
@@ -2254,24 +2486,32 @@ P1_CC2 = \
                                             'given the backdrop of a wholly inadequate fixed-line infrastructure, the '
                                             'use of mobile-cellular services is over 43 per 100 persons',
                                             2019],
-                              'general': [ 'poorly developed national and international infrastructure',
-                                           'bandwidth is limited',
-                                           'Internet pricing is expensive',
-                                           'domestic satellite system with 14 earth stations',
-                                           'wars and social upheaval have not promoted advancement',
-                                           'a revised Telecommunications Act adopted in May 2018',
-                                           'govt. only loosely regulates the telecom sector, much of the investment is '
-                                           'from donor countries (specifically China)',
+                              'general': [ 'due to decades of conflict and poor infrastructure, the Democratic '
+                                           "Republic of Congo's telecom system is one of the least developed in the "
+                                           'region',
+                                           'government aims to improve loose regulation through legislation',
+                                           'mobile networks are principal providers of telecom',
+                                           'LTE is geographically limited',
+                                           'investment from China and other foreign donors for fiber backbone',
+                                           'international bandwidth through WACS submarine cable',
+                                           'operator licensed to build landing station for submarine cable and tower '
+                                           'upgrade that will provide competition in broadband, fixed, and mobile '
+                                           'Internet services',
+                                           'operator added fiber link between Brazzaville and Kinshasa (2021)',
                                            2020],
                               'intl': [ 'ACE and WACS submarine cables to West and South Africa and Europe',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 4620, 'internet': 8231357, 'mob': 42166976},
                               'tld': '.cd',
@@ -2316,14 +2556,18 @@ P1_CC2 = \
                                            'carriers, radio is the most-popular communications medium',
                                            2018],
                               'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 608, 'fix': 2934, 'internet': 249336, 'mob': 1892114},
+                              'subs': {'bb': 499, 'fix': 2934, 'internet': 249336, 'mob': 1595294},
                               'tld': '.cf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cf'}},
           'mcc': ['623'],
@@ -2338,9 +2582,9 @@ P1_CC2 = \
                               'bound': { 'bord': { 'Angola': 231,
                                                    'Cameroon': 494,
                                                    'Central African Republic': 487,
-                                                   'Democratic Republic of the Congo': 1229,
+                                                   'Democratic Republic of the Congo': 1775,
                                                    'Gabon': 2567},
-                                         'len': 5008},
+                                         'len': 5554},
                               'capital': {'coord': '4 15 S, 15 17 E', 'name': 'Brazzaville', 'time_diff': 'UTC+1'},
                               'coast': 169,
                               'coord': ['1 00 S, 15 00 E'],
@@ -2361,23 +2605,33 @@ P1_CC2 = \
                                             'in the absence of an adequate fixed-line infrastructure, mobile-cellular '
                                             'subscribership has surged to 95 per 100 persons',
                                             2019],
-                              'general': [ 'primary network consists of microwave radio relay and coaxial cable with '
+                              'general': [ 'suffering from economic challenges of stimulating recovery and reducing '
+                                           'poverty',
+                                           'primary network consists of microwave radio relay and coaxial cable with '
                                            'services barely adequate for government use',
                                            'key exchanges are in Brazzaville, Pointe-Noire, and Loubomo',
                                            'intercity lines frequently out of order',
-                                           'youth are seeking the Internet more than their parents and often gaining '
-                                           'access in cyber cafes, only the most affluent have Internet access in '
-                                           'their homes',
+                                           'youth are seeking the Internet more than their parents and often gain '
+                                           'access through cyber cafes',
+                                           'only the most affluent have Internet access in their homes',
+                                           'operator has plans to upgrade national broadband through fiber link to '
+                                           'WACS landing station at Pointe-Noire with connections to Angola and DRC',
+                                           'fiber network project with aims to connect north and south regions',
+                                           'DRC operator added fiber link between Brazzaville and Kinshasa (2020)',
                                            2020],
                               'intl': [ 'WACS submarine cables to Europe and Western and South Africa',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 17076, 'internet': 437865, 'mob': 4933529},
                               'tld': '.cg',
@@ -2418,30 +2672,27 @@ P1_CC2 = \
                                             'persons',
                                             'extensive cable and microwave radio relay networks',
                                             2019],
-                              'general': [ 'highly developed telecommunications infrastructure with extensive domestic '
-                                           'and international services',
-                                           'one of the highest broadband penetration rates in Europe',
+                              'general': [ 'Switzerland emerged as a European leader for 1Gb/s fiber broadband, '
+                                           'complemented by 5G to 97% of the population',
+                                           'competitive market buttressed by regulator assurances of 5G-compatible '
+                                           'network infrastructure',
                                            "although not a member of the EU, Switzerland follows the EU's telecom "
-                                           'framework, and regulations',
-                                           'expansive cable broadband network with effective cross-platform '
-                                           'competition',
-                                           'despite the countries expansion of 5G services, and switching off 2G '
-                                           'infrastructure, the Environmental Agency has raised concern regarding the '
-                                           '2,000 5G mobile antennas and asked the govt. to halt 5G transmissions, the '
-                                           'developers of the 5G infrastructure are allowed to continue with future '
-                                           'checks to be studied of the health implications of the radio frequency '
-                                           'radiation',
-                                           'regulator auction of 5G spectrum',
+                                           'framework and regulations',
+                                           'Zurich is being developed as a smart city (2021)',
                                            2020],
                               'intl': ['satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean)', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3957669, 'fix': 3012224, 'internet': 7437820, 'mob': 10618759},
+                              'subs': {'bb': 4029445, 'fix': 3102504, 'internet': 7437820, 'mob': 10829031},
                               'tld': '.ch',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ch'}},
           'mcc': ['228'],
@@ -2515,30 +2766,33 @@ P1_CC2 = \
                                             'providers competing in the market, usage has increased to about 145 per '
                                             '100 persons',
                                             2019],
-                              'general': [ 'strongest sector in the overall market is the mobile sector',
-                                           'fixed internet and broadband sectors have remained underdeveloped',
-                                           'country 90% digitalized',
-                                           'C&ocirc',
-                                           "te d'Ivoire continues to benefit from strong economic growth",
-                                           'progress has been made in building out the national backbone network and '
-                                           'connecting in 2019 to the MainOne submarine cable',
-                                           'this development puts the country in a better position to develop its '
-                                           'broadband market and work on its digital economy',
-                                           'government further tightens SIM card registration rules',
+                              'general': [ 'C&ocirc',
+                                           "te d'Ivoire telecom systems continue to benefit from strong economic "
+                                           'growth',
+                                           'fixed-line, Internet, and broadband sectors remain underdeveloped',
+                                           'mobile sector is strong',
+                                           'progress in national backbone network and connection to submarine cable '
+                                           'that will increase Internet bandwidth',
+                                           'country is poised to develop broadband market and digital economy',
+                                           'government further tightened SIM card registration rules (2020)',
                                            2020],
                               'intl': [ 'landing point for the SAT-3/WASC, ACE, MainOne, and WACS fiber-optic '
                                         'submarine cable that provides connectivity to Europe and South and West '
                                         'Africa',
                                         'satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 175918, 'fix': 284799, 'internet': 12295204, 'mob': 39049743},
+                              'subs': {'bb': 216723, 'fix': 271724, 'internet': 12295204, 'mob': 37376603},
                               'tld': '.ci',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ci'}},
           'mcc': ['612'],
@@ -2578,12 +2832,16 @@ P1_CC2 = \
                                         'submarine fiber-optic networks are expensive to build and maintain',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 3305, 'internet': 4881, 'mob': 7308},
                               'tld': '.ck',
@@ -2618,31 +2876,36 @@ P1_CC2 = \
                                             'telephones per 100 persons',
                                             'domestic satellite system with 3 earth stations',
                                             2019],
-                              'general': [ 'most advanced telecommunications infrastructure in South America',
-                                           'although Chile has one of the highest mobile penetration rates in the '
-                                           'region, the number of subscribers has fallen due to subscribers ending '
-                                           'multiple SIM card use',
-                                           'the country ranks second highest in South and Central America in terms of '
-                                           'available broadband speeds',
-                                           'effective competition in the broadband and mobile sectors',
-                                           'LTE infrastructure is extensive but national plan for 5G services awaits '
-                                           'spectrum auctions',
-                                           'during the COVID-19 pandemic Chile provided free access to educational '
-                                           'content for about 3 million school pupils',
+                              'general': [ "Chile's telecom systems are highly competitive and rapidly evolving",
+                                           'mobile penetration rate is among the highest in South America',
+                                           'deployment of 5G networks expected',
+                                           'fixed broadband penetration is high for region, with fast and inexpensive '
+                                           'services',
+                                           'government initiatives provide high-capacity connectivity across the '
+                                           'country and increase fixed-line broadband penetration',
+                                           'progress with national satellite system',
+                                           'schools received free broadband as part of the &lsquo',
+                                           "Connectivity for Education 2030' program",
+                                           'submarine cable project to link Chile with New Zealand and Australia',
+                                           'importer of broadcasting equipment from USA (2020)',
                                            2020],
                               'intl': [ 'landing points for the Pan-Am, Prat, SAm-1, American Movil-Telxius West Coast '
                                         'Cable, FOS Quellon-Chacabuco, Fibra Optical Austral, SAC and Curie submarine '
                                         'cables providing links to the US, Caribbean and to Central and South America',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3250678, 'fix': 2620195, 'internet': 14757868, 'mob': 23870679},
+                              'subs': {'bb': 3429305, 'fix': 2750272, 'internet': 14757868, 'mob': 25051668},
                               'tld': '.cl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cl'}},
           'mcc': ['730'],
@@ -2704,26 +2967,36 @@ P1_CC2 = \
                                             'mobile-cellular usage has increased sharply, reaching a subscribership '
                                             'base of over 82 per 100 persons',
                                             2019],
-                              'general': [ '3G service and LTE service both developing given growing competition, '
-                                           'along with a fast-developing mobile broadband sector',
-                                           "govt. supportive of launching programs who's aim is to improve connections "
-                                           'nationally',
-                                           'about 95% of electronic transactions carried out through M-commerce '
-                                           'services',
+                              'general': [ "Cameroon's 3G and LTE services are improving through growing competition "
+                                           'and a government program to improve national connectivity and support '
+                                           'digital economy',
+                                           'saturated use of transactions through m-commerce',
+                                           'developing broadband sector',
+                                           'improved submarine and terrestrial cable connectivity strengthened '
+                                           'international bandwidth and lowered prices',
+                                           'pushing start of fiber link to Congo',
+                                           'fiber rollout continues with new government funding',
+                                           'operators opened new data center in 2020 and developed contracts for '
+                                           'satellite broadband',
+                                           'government awarded contract to provide connectivity to universities (2021)',
                                            2020],
                               'intl': [ 'landing points for the SAT-3/WASC, SAIL, ACE, NCSCS, Ceiba-2, and WACS '
                                         'fiber-optic submarine cable that provides connectivity to Europe, South '
                                         'America, and West Africa',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 17987, 'fix': 966035, 'internet': 6089200, 'mob': 22062303},
+                              'subs': {'bb': 400929, 'fix': 856411, 'internet': 6089200, 'mob': 21400736},
                               'tld': '.cm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cm'}},
           'mcc': ['624'],
@@ -2774,15 +3047,21 @@ P1_CC2 = \
                                             'a domestic satellite system with several earth stations has been in place '
                                             'since 2018',
                                             2019],
-                              'general': [ 'the largest Internet market in the world, with the majority, 98.6% of '
-                                           'users accessing the Internet through mobile devices',
-                                           'moderate growth is predicted over the next five years in the fixed '
-                                           'broadband segment',
-                                           'one of the biggest drivers of commercial growth is its increasing '
-                                           'urbanization rate as rural residents move to cities',
-                                           "China will be the world's largest 5G market",
-                                           'the Chinese mobile market to reach penetration of 134% by 2024',
-                                           'maintains the largest M2M market in the world',
+                              'general': [ 'China has the largest Internet market in the world with almost all '
+                                           'subscribers accessing Internet through mobile devices',
+                                           'market is driven through government-allied investment',
+                                           'fast-developing data center market',
+                                           'government aims to provide universal and affordable broadband coverage '
+                                           'through market competition and private investment in state-controlled '
+                                           'enterprises',
+                                           '3G and LTE subscribers will migrate to 5G aiming for 1M 5G base stations',
+                                           'government strengthens IoT policies to boost economic growth',
+                                           'China is pushing development of smart cities beyond Beijing',
+                                           'Beijing residents carry virtual card integrating identity, social '
+                                           'security, health, and education documents',
+                                           'government controls gateways to global Internet through censorship, '
+                                           'surveillance, and shut-downs',
+                                           'major exporter of broadcasting equipment world-wide (2021)',
                                            2020],
                               'intl': [ 'landing points for the RJCN, EAC-C2C, TPE, APCN-2, APG, NCP, TEA, SeaMeWe-3, '
                                         'SJC2, Taiwan Strait Express-1, AAE-1, APCN-2, AAG, FEA, FLAG and TSE '
@@ -2792,14 +3071,18 @@ P1_CC2 = \
                                         '1 Intersputnik - Indian Ocean region',
                                         'and 1 Inmarsat - Pacific and Indian Ocean regions)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 407382000, 'fix': 185097221, 'internet': 751886119, 'mob': 1672545161},
+                              'subs': {'bb': 449279000, 'fix': 191033000, 'internet': 751886119, 'mob': 1746238000},
                               'tld': '.cn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cn'}},
           'mcc': ['460', '461'],
@@ -2849,18 +3132,13 @@ P1_CC2 = \
                                             'decline in the market share of fixed-line services',
                                             'domestic satellite system with 41 earth stations',
                                             2019],
-                              'general': [ 'fastest growing sector is mobile broadband with LTE infrastructure and '
-                                           'investment in 5G',
-                                           'strong demand in rural areas for mobile broadband, potential is high while '
-                                           'penetration is low',
-                                           'fiber-optic network linking 50 cities',
-                                           'the cable sector commands about half of the market by subscribers, with '
-                                           'DSL having a declining share while fiber-based broadband is developing '
-                                           'strongly',
-                                           'competition among the MVNO (mobile virtual network operator) sector has '
-                                           'promoted 2.9 million subscribers as of mid-2018',
-                                           'most infrastructure is primarily in high-density urban areas',
-                                           'growing popularity of bundled services',
+                              'general': [ "Colombia's telecom infrastructure has improved through a government "
+                                           'program of competition to upgrade services based on LTE and 5G, focusing '
+                                           'on infrastructure in small urban centers and rural areas',
+                                           'national ICT Plan increased broadband and fiber connectivity',
+                                           'operators testing 5G and completed 20k terrestrial cable connecting 80% of '
+                                           'the country',
+                                           'benefit due to access to commercial submarine cable (2021)',
                                            2020],
                               'intl': [ 'landing points for the SAC, Maya-1, SAIT, ACROS, AMX-1, CFX-1, PCCS, Deep '
                                         'Blue Cable, Globe Net, PAN-AM, SAm-1 submarine cable systems providing links '
@@ -2868,14 +3146,18 @@ P1_CC2 = \
                                         'satellite earth stations - 10 (6 Intelsat, 1 Inmarsat, 3 fully digitalized '
                                         'international switching centers)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 6678543, 'fix': 6774363, 'internet': 29990017, 'mob': 64033049},
+                              'subs': {'bb': 6949852, 'fix': 7012306, 'internet': 29990017, 'mob': 66283175},
                               'tld': '.co',
                               'url_tld': 'https://en.wikipedia.org/wiki/.co'}},
           'mcc': ['732'],
@@ -2930,14 +3212,14 @@ P1_CC2 = \
                                             'coaxial cable link rural areas',
                                             'Internet service is available',
                                             2019],
-                              'general': [ 'good domestic telephone service in terms of breadth of coverage',
-                                           'in recent years growth has been achieved from liberalization of the '
-                                           'telecom sector and has seen substantial expansion in all sectors',
-                                           "Costa Rica's broadband market is the most advanced in Central America, "
-                                           'with the highest broadband penetration for this sub-region',
-                                           'broadband penetration does lag behind many South American countries',
-                                           'with the implementation of number portability there is greater opportunity '
-                                           'for increased competition in the future',
+                              'general': [ 'Costa Rica has broad telecom coverage though geographical distribution of '
+                                           'digital service is unequal',
+                                           'recent regulator liberalization spurred expansion in all sectors',
+                                           'broadband market is the most advanced and highest penetration in Central '
+                                           'America yet lags behind many South American countries',
+                                           'operators investing in NGN technology',
+                                           'number portability and cheaper broadband costs will increase competition',
+                                           'government aims to subsidize tele-health and e-learning (2021)',
                                            2018],
                               'intl': [ 'landing points for the ARCOS-1, MAYA-1, and the PAC submarine cables that '
                                         'provide links to South and Central America, parts of the Caribbean, and the '
@@ -2945,14 +3227,18 @@ P1_CC2 = \
                                         'connected to Central American Microwave System',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 834784, 'fix': 630386, 'internet': 3694974, 'mob': 8163744},
+                              'subs': {'bb': 904734, 'fix': 640302, 'internet': 3694974, 'mob': 8550243},
                               'tld': '.cr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cr'}},
           'mcc': ['712'],
@@ -2986,16 +3272,31 @@ P1_CC2 = \
                      'tel': { 'domestic': [ 'fixed-line density remains low at about 13 per 100 inhabitants',
                                             'mobile-cellular service is expanding to about 53 per 100 persons',
                                             2019],
-                              'general': [2020],
+                              'general': [ 'state control of the telecom sector hinders development',
+                                           'Cuba has the lowest mobile phone and Internet penetration rates in the '
+                                           'region',
+                                           'fixed-line density is also very low',
+                                           'thaw of US-Cuba relations encouraged access to services, such as Wi-Fi '
+                                           'hotspots',
+                                           'access to sites is controlled and censored',
+                                           'DSL and Internet available in Havana, though costs are too high for most '
+                                           'Cubans',
+                                           'international investment and agreement to improve Internet access through '
+                                           'cost-free and direct connection between networks (2021)',
+                                           2020],
                               'intl': [2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 98838, 'fix': 1475679, 'internet': 6353020, 'mob': 5911586},
+                              'subs': {'bb': 182732, 'fix': 1447134, 'internet': 6353020, 'mob': 6042629},
                               'tld': '.cu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cu'}},
           'mcc': ['368'],
@@ -3040,14 +3341,18 @@ P1_CC2 = \
                                         'HF radiotelephone to Senegal and Guinea-Bissau',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 15657, 'fix': 60233, 'internet': 330623, 'mob': 623749},
+                              'subs': {'bb': 19066, 'fix': 57511, 'internet': 330623, 'mob': 595681},
                               'tld': '.cv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cv'}},
           'mcc': ['625'],
@@ -3092,14 +3397,18 @@ P1_CC2 = \
                               'intl': [ 'country code - +599, PCCS submarine cable system to US, Caribbean and Central '
                                         'and South America',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 51836, 'fix': 57443, 'internet': 102359, 'mob': 174260},
+                              'subs': {'bb': 53297, 'fix': 53500, 'internet': 102359, 'mob': 184236},
                               'tld': '.cw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cw'}},
           'mcc': ['362'],
@@ -3241,17 +3550,22 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line is 37 per 100, and 144 per 100 for mobile-cellular',
                                             'open-wire, fiber-optic cable, and microwave radio relay',
                                             2019],
-                              'general': [ 'broadband market steadily developing with one of the highest penetrations '
-                                           'rates in the region',
-                                           "despite the growth of Cyprus's telecom sector, the market overall "
-                                           'continues to be dominated by the incumbent, Cyprus Telecommunications '
-                                           'Authority (CyTA), which is still fully-owned by the state, but it is '
-                                           'losing ground to its competition annually',
-                                           'improved regulatory circumstances, especially in relation to network '
-                                           'interconnection and access, has given competing operators the certainty to '
-                                           'invest in network infrastructure, and to launch competing services',
-                                           'fiber infrastructure in the early days and DSL remains the dominate access '
-                                           'platform',
+                              'general': [ "despite the growth of Cyprus's telecom sector, the market is dominated by "
+                                           'its state-owned operator',
+                                           'one of the highest broadband penetration rates in the region',
+                                           'DSL remains the dominant access platform as broadband is restricted to a '
+                                           'few towns',
+                                           'fixed-line and mobile cable infrastructure available for more than half of '
+                                           'premises',
+                                           'fiber infrastructure in development',
+                                           'improved regulations provide confidence for investment in network '
+                                           'infrastructure and competing services',
+                                           'operator expanded FttP services and initiated cable connection to France '
+                                           'and Egypt',
+                                           'operator signed vendor agreement with international investor, Huawei, to '
+                                           'develop 5G',
+                                           'operators extended LTE services and upgraded transmission capacity on '
+                                           'TE-North Cable System (2021)',
                                            2020],
                               'intl': [ '(area administered by Turkish Cypriots uses the country code of Turkey - 90)',
                                         'a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus '
@@ -3265,14 +3579,18 @@ P1_CC2 = \
                                         'satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian '
                                         'Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 313462, 'fix': 469305, 'internet': 1044473, 'mob': 1801213},
+                              'subs': {'bb': 326565, 'fix': 323914, 'internet': 1044473, 'mob': 1243151},
                               'tld': '.cy',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cy'}},
           'mcc': ['280'],
@@ -3298,27 +3616,31 @@ P1_CC2 = \
                                             'mobile-cellular, the number of cellular telephone subscriptions now '
                                             'greatly exceeds the population',
                                             2019],
-                              'general': [ 'good telephone and Internet service',
-                                           'the Czech Republic has a sophisticated telecom market',
-                                           'mobile sector showing steady growth, but perhaps without enough '
-                                           'competition, regulator makes progress for 5G services',
-                                           'the govt. trying to stimulate competition, improve end-users pricing and '
-                                           'step up quality',
-                                           'strong growth in cable and fiber sectors',
-                                           'fixed wireless broadband remains strong, with penetration among the '
-                                           'highest in the EU',
+                              'general': [ 'Czechia has a sophisticated telecom market with a developed telephone and '
+                                           'Internet service attracting European investment',
+                                           'mobile sector showing steady growth through regulatory support for '
+                                           'competition',
+                                           'licensees expanding reach of 5G and LTE networks',
+                                           'mobile penetration among the highest in the EU',
+                                           'operators extended fiber to an additional 143 rural zones in 2020 and '
+                                           'commit to extending fiber to one million premises by 2027',
+                                           'its top import is broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean '
                                         'regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3222835, 'fix': 1473846, 'internet': 8622750, 'mob': 13213279},
+                              'subs': {'bb': 3739614, 'fix': 1494175, 'internet': 8622750, 'mob': 13213279},
                               'tld': '.cz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cz'}},
           'mcc': ['230'],
@@ -3362,18 +3684,16 @@ P1_CC2 = \
                                             'includes roaming service to many foreign countries',
                                             '48 per 100 for fixed-line and 128 per 100 for mobile-cellular',
                                             2019],
-                              'general': [ "one of the world's most technologically advanced telecommunications "
-                                           'systems',
-                                           'as a result of intensive capital expenditures since reunification, the '
-                                           'formerly backward system of the eastern part of the country, dating back '
-                                           'to World War II, has been modernized and integrated with that of the '
-                                           'western part',
-                                           'universal 3G infrastructure available and LTE networks',
-                                           'mobile market the largest in Europe 107.5 million as of 2019',
-                                           'available reach of 5G services in 5 cities',
-                                           '98% LTE coverage',
-                                           'penetration in broadband and mobile sectors average for region',
-                                           'Hamburg develops smart city concept',
+                              'general': [ "one of the world's most technologically advanced telecom systems with "
+                                           'additional security measures',
+                                           'LTE universally available and 5G service to over 80% of population',
+                                           'mobile market is driven by data, with increased broadband subscribership',
+                                           'regulatory measures aimed at facilitating wholesale network access to '
+                                           'provide fiber-based broadband services',
+                                           'government aims to provide smart technology solutions',
+                                           'over 60 cities use smart technology in urban development, many through '
+                                           'joint initiative with private sector, utility companies, and universities',
+                                           'importer of broadcast equipment and computers from China (2021)',
                                            2020],
                               'intl': [ 'landing points for SeaMeWe-3, TAT-14, AC-1, CONTACT-3, Fehmarn Balt, C-Lion1, '
                                         'GC1, GlobalConnect-KPN, and Germany-Denmark 2 & 3 - submarine cables to '
@@ -3381,14 +3701,18 @@ P1_CC2 = \
                                         'as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and '
                                         'Intersputnik satellite systems',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 34174900, 'fix': 38847530, 'internet': 72202773, 'mob': 103090116},
+                              'subs': {'bb': 35071539, 'fix': 40400000, 'internet': 72202773, 'mob': 107200000},
                               'tld': '.de',
                               'url_tld': 'https://en.wikipedia.org/wiki/.de'}},
           'mcc': ['262'],
@@ -3462,15 +3786,18 @@ P1_CC2 = \
                                             'mobile cellular coverage is primarily limited to the area in and around '
                                             'Djibouti city',
                                             2019],
-                              'general': [ 'telephone facilities in the city of Djibouti are adequate, as are the '
-                                           'microwave radio relay connections to outlying areas of the country',
-                                           'Djibouti is one of the few remaining countries in which the national '
-                                           'telco, Djibouti Telecom (DT), has a monopoly on all telecom services, '
-                                           'including fixed lines, mobile, Internet and broadband',
-                                           'the lack of competition has meant that the market has not lived up to its '
-                                           'potential',
-                                           "broadband's growth held back by the expense and mobile and Internet "
-                                           'markets need foreign investment',
+                              'general': [ 'Djibouti has a poor domestic infrastructure and a monopolized telecom '
+                                           'system relying on microwave radio relay',
+                                           'rural areas connected via wireless local loop',
+                                           'mobile coverage limited to Djibouti city',
+                                           'despite challenges, foreign investment lends progress toward improvements',
+                                           'one of the best international fiber cables in the region, the Djibouti '
+                                           'Internet Exchange, is a meeting point for cable systems passing between '
+                                           'the Red Sea and Indian Ocean',
+                                           'national operator managed the Australia West Cable landing and signed an '
+                                           'agreement for IP traffic through Paris and Marseille',
+                                           'international operator signed MoU for extension of cable from the Gulf to '
+                                           'Djibouti (2021)',
                                            2020],
                               'intl': [ 'landing points for the SEA-ME-WE-3 & 5, EASSy, Aden-Djibouti, Africa-1, '
                                         'DARE-1, EIG, MENA, Bridge International, PEACE Cable, and SEACOM fiber-optic '
@@ -3478,14 +3805,18 @@ P1_CC2 = \
                                         'Southeast Asia, Australia and Africa',
                                         'satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 25508, 'fix': 34671, 'internet': 492221, 'mob': 371992},
+                              'subs': {'bb': 24416, 'fix': 37107, 'internet': 492221, 'mob': 413866},
                               'tld': '.dj',
                               'url_tld': 'https://en.wikipedia.org/wiki/.dj'}},
           'mcc': ['638'],
@@ -3513,14 +3844,15 @@ P1_CC2 = \
                                   'the kingdom of denmark'],
                      'tel': { 'code': '45',
                               'domestic': ['fixed-line 17 per 100, 126 per 100 for mobile-cellular', 2019],
-                              'general': [ 'excellent telephone and Internet services',
-                                           "Denmark's competitive telecom market has led to the country having the "
-                                           'second highest broadband penetration rate in Europe',
-                                           'the fixed-line sector continues to see a decline in revenue while '
-                                           'customers move to VoIP (Voice over Internet Protocol) and mobile '
-                                           'alternatives',
-                                           'comprehensive LTE coverage and a fast-developing 5G segment',
-                                           'the government is able to offer broadband coverage in rural areas',
+                              'general': [ 'Denmark has one of the highest broadband penetration rates globally, with '
+                                           'near universal availability of superfast connections',
+                                           'progressive regulator encouraged upgrades to cable and DSL infrastructure',
+                                           'fast growing fiber networks with aim for nation-wide build-out',
+                                           'comprehensive LTE with 90% coverage of 5G',
+                                           'operator expands NB-IoT across its LTE network',
+                                           'survey underway for cable connecting Denmark to Norway',
+                                           'upgrades to submarine cable connection to North America',
+                                           'importer of broadcasting equipment from EU neighbors (2021)',
                                            2020],
                               'intl': [ 'landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, '
                                         'TAT-14m Denmark-Norway-5 & 6, Skagenfiber West & East, GC1, GC2, GC3, GC-KPN, '
@@ -3536,14 +3868,18 @@ P1_CC2 = \
                                         'share the Danish earth station and the Eik, Norway, station for worldwide '
                                         'Inmarsat access',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2534348, 'fix': 1017009, 'internet': 5672398, 'mob': 7331110},
+                              'subs': {'bb': 2536508, 'fix': 1003524, 'internet': 5672398, 'mob': 7243465},
                               'tld': '.dk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.dk'}},
           'mcc': ['238'],
@@ -3614,12 +3950,16 @@ P1_CC2 = \
                                         'Guadeloupe',
                                         'VHF and UHF radiotelephone links to Saint Lucia',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 11514, 'fix': 2751, 'internet': 51538, 'mob': 78437},
                               'tld': '.dm',
@@ -3653,14 +3993,15 @@ P1_CC2 = \
                                             'multiple providers of mobile-cellular service with a subscribership of 83 '
                                             'per 100 persons',
                                             2019],
-                              'general': [ 'there are multiple operators licensed to provide services, most of them '
-                                           'are small and localized',
-                                           'the telecom sector across the Caribbean region remains one of the key '
-                                           'growth areas',
-                                           'fixed-line teledensity well-below Latin America averages',
-                                           'development of LTE and HSPA (high speed packet access) services, mobile '
-                                           'broadband has taken off',
-                                           'income inequalities seen in telephone accesses',
+                              'general': [ "the Dominican Republic's fixed-line tele-density is well below the Latin "
+                                           'American average due to lack of infrastructure',
+                                           'distribution of telephony services is proportionate to income inequalities',
+                                           'small, localized operators provide services',
+                                           'telecom and mobile broadband growing with LTE available to most of the '
+                                           'population',
+                                           'government program aims for universal access to broadband services, and '
+                                           'development of a national backbone',
+                                           '5G launch anticipated in 2021 (2021)',
                                            2020],
                               'intl': [ '1-829',
                                         '1-849',
@@ -3669,14 +4010,18 @@ P1_CC2 = \
                                         'Central America, parts of the Caribbean, and US',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 794788, 'fix': 1172083, 'internet': 7705529, 'mob': 8665302},
+                              'subs': {'bb': 951970, 'fix': 1211081, 'internet': 7705529, 'mob': 8948107},
                               'tld': '.do',
                               'url_tld': 'https://en.wikipedia.org/wiki/.do'}},
           'mcc': ['370'],
@@ -3715,15 +4060,14 @@ P1_CC2 = \
                                             'mobile-cellular subscribership',
                                             'mobile-cellular teledensity was roughly 109 telephones per 100 persons',
                                             2019],
-                              'general': [ "improved international connectivity and privatization of Algeria's "
-                                           'telecommunications sector began in 2000',
-                                           'three mobile-cellular licenses have been issued',
-                                           'LTE service growth in additional provinces and rural areas',
-                                           'upgrade to LTE infrastructure and migration to 5G',
-                                           'LTE subscriber rate up 82% in 2018',
-                                           'Chinese company Huawei opens smart phone assembly plant in Algeria',
-                                           'the end of monopolies have made broadband services more affordable',
-                                           'Algeria and Tunisia end roaming charges for travelers',
+                              'general': [ 'Algeria has a steadily developing telecom infrastructure through sound '
+                                           'regulatory measures and government policies aimed at providing Internet '
+                                           'connections across the country, including underserved areas',
+                                           'mobile penetration and LTE services are growing steadily',
+                                           'in common with other markets in the region, mobile connections account for '
+                                           'the vast majority of Internet accesses',
+                                           'well served by satellite and submarine cable connections',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'ALPAL-2 is a submarine telecommunications cable system in the Mediterranean '
                                         'Sea linking Algeria and the Spanish Balearic island of Majorca',
@@ -3737,14 +4081,18 @@ P1_CC2 = \
                                         'connects to other fiber networks in the region',
                                         'Alcomstat-1 satellite offering telemedicine network',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3067022, 'fix': 4558502, 'internet': 24819531, 'mob': 46287629},
+                              'subs': {'bb': 3582739, 'fix': 4635217, 'internet': 24819531, 'mob': 47081131},
                               'tld': '.dz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.dz'}},
           'mcc': ['603'],
@@ -3774,26 +4122,32 @@ P1_CC2 = \
                                             'mobile-cellular use has surged and subscribership has reached 91 per 100 '
                                             'persons',
                                             2019],
-                              'general': [ "much of the country's fixed-line structure is influenced by topographical "
-                                           'challenges associated with the Andes Mountains',
-                                           'Ecuador has a small telecom market with a dominant mobile sector',
-                                           'the state-owned incumbent CNT dominates the fixed-line market, and '
-                                           'therefore the DSL broadband market as well',
-                                           'mobile broadband market growing and expanding LTE services',
+                              'general': [ "Ecuador's remote and mountainous geography lends challenges to "
+                                           'tele-density',
+                                           'government-owned provider to improve fixed-line and LTE infrastructure, '
+                                           'with emphasis on fiber expansion from urban to rural areas and '
+                                           'installation of a 5G network',
+                                           'small telecom market dominated by the non-competitive mobile sector',
+                                           'inadequate fixed-line infrastructure and slowed fixed-line broadband '
+                                           'services (2021)',
                                            2020],
                               'intl': [ 'landing points for the PAN-AM, PCCS, America Movil-Telxius West Coast Cable '
                                         'and SAm-1 submarine cables that provide links to South and Central America, '
                                         'and extending onward to the Caribbean and the US',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1953607, 'fix': 2111291, 'internet': 9448692, 'mob': 15241719},
+                              'subs': {'bb': 2092458, 'fix': 2195840, 'internet': 9448692, 'mob': 15853100},
                               'tld': '.ec',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ec'}},
           'mcc': ['740'],
@@ -3830,27 +4184,33 @@ P1_CC2 = \
                                             'being introduced in 2005',
                                             'a large percent of Estonian households have broadband access',
                                             2019],
-                              'general': [ 'a range of regulatory measures, competition and foreign investment in the '
-                                           'form of joint business ventures has greatly improved telephone service '
-                                           'with a wide range of high-quality voice, data, and Internet services',
-                                           'one of the most advanced mobile markets in Europe',
-                                           'one of the highest broadband penetration in Europe',
-                                           'govt. commits 20 million euro to rural broadband program',
-                                           'regulator auctions spectrum in the 2.6GHz band for LTE and 5G services',
+                              'general': [ 'greatly improved telecom service through a range of regulatory measures, '
+                                           'competition, and foreign investment, leading to high-quality voice, data, '
+                                           'and Internet services',
+                                           'one of the most advanced mobile markets and highest broadband penetration '
+                                           'rates in Europe',
+                                           'government commits 20 million euro to rural broadband program',
+                                           'operators supporting LTE infrastructure and launch of smart services',
+                                           '5G services in major cities',
+                                           'government provides Internet to schools and libraries (2021)',
                                            2020],
                               'intl': [ 'landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and '
                                         'EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and '
                                         'Sweden',
                                         '2 international switches are located in Tallinn',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 441167, 'fix': 302606, 'internet': 1111896, 'mob': 1820088},
+                              'subs': {'bb': 431251, 'fix': 324388, 'internet': 1111896, 'mob': 1951051},
                               'tld': '.ee',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ee'}},
           'mcc': ['248'],
@@ -3901,13 +4261,17 @@ P1_CC2 = \
                                   'the arab republic of egypt'],
                      'tel': { 'code': '20',
                               'domestic': ['fixed-line 9 per 100, mobile-cellular 95 per 100', 2019],
-                              'general': [ 'one of the biggest fixed-line systems in Africa and the Arab region',
-                                           'one of the largest mobile telecom markets in North Africa',
-                                           'penetration rate of about 94%',
-                                           'LTE launch in late 2017, which greatly helped the capabilities of mobile '
-                                           'broadband services, and the beginning of developing the 5G network',
-                                           'recent govt. efforts to fund next generation networks, develop technology '
-                                           'parks and extend broadband availability',
+                              'general': [ 'with a large urbanized population and effective competition, Egypt has one '
+                                           'of the largest fixed-line and mobile telecom markets in North Africa',
+                                           'investment has spurred broadband infrastructure and migration to digital '
+                                           'economy',
+                                           'operator has ambitions for satellite/smart infrastructure based on 5G and '
+                                           'fiber networks',
+                                           "Egypt's geographical position enabled inexpensive bandwidth through fiber "
+                                           'and cable connection to Europe, Middle East, and Asia',
+                                           'rural Internet connections continue to suffer from poor quality and low '
+                                           'speeds',
+                                           'government disrupted service during political crises (2021)',
                                            2020],
                               'intl': [ 'landing points for Aletar, Africa-1, FEA, Hawk, IMEWE, and the SEA-ME-WE-3 & '
                                         '4 submarine cable networks linking to Asia, Africa, the Middle East, and '
@@ -3918,14 +4282,18 @@ P1_CC2 = \
                                         'microwave radio relay to Israel',
                                         'a participant in Medarabtel',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 6579762, 'fix': 8885103, 'internet': 46644728, 'mob': 96657295},
+                              'subs': {'bb': 7598941, 'fix': 8760436, 'internet': 46644728, 'mob': 95340262},
                               'tld': '.eg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.eg'}},
           'mcc': ['602'],
@@ -3964,24 +4332,27 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line subscribership is less than 2 per 100 person and '
                                             'mobile-cellular 20 per 100',
                                             2019],
-                              'general': [ 'woefully inadequate service provided by state-owned telecom monopoly',
+                              'general': [ 'least developed telecommunications market in Africa, largely due to '
+                                           'restrictions of state-owned telecom monopoly',
                                            'most fixed-line telephones are in Asmara',
                                            'cell phone use is limited by government control of SIM card issuance',
-                                           'no data service',
-                                           'only about 4% of households having computers with 2% Internet',
-                                           'untapped market ripe for competition',
-                                           'direct phone service between Eritrea and Ethiopia was restored in '
-                                           'September 2018',
-                                           'government telco working on roll-out of 3G network',
-                                           'in 2019 11% mobile penetration',
+                                           'low penetration of computer use and Internet',
+                                           'market ripe for competition and investment',
+                                           'direct phone service between Eritrea and Ethiopia restored in September '
+                                           '2018',
+                                           'government operator working on roll-out of 3G network (2020)',
                                            2020],
                               'intl': [2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 600, 'fix': 116882, 'internet': 78215, 'mob': 1226660},
                               'tld': '.er',
@@ -4018,13 +4389,16 @@ P1_CC2 = \
                      'tel': { 'code': '34',
                               'domestic': [ 'fixed-line 42 per 100 and mobile-cellular 118 telephones per 100 persons',
                                             2019],
-                              'general': [ 'well-developed, one of the largest telecom markets in Europe, average '
-                                           'mobile penetration for Europe',
-                                           'LTE universal',
-                                           'launch of 5G services',
+                              'general': [ 'well-developed and one of the largest telecom markets in Europe, with '
+                                           'average mobile penetration for Europe',
                                            'regulator has championed competition',
-                                           'Chinese company Huawei contributes to the telecom sector',
-                                           'fiber broadband accounts for 62% of all fixed-line broadband connections',
+                                           'LTE is nearly universal with shifts of service to 5G',
+                                           'operator joined government smart cities project',
+                                           'fixed-line broadband is backed by investment in fiber infrastructure',
+                                           'fiber broadband accounts for most of all fixed-line broadband connections',
+                                           'Chinese company Huawei contributes investment to the telecom sector',
+                                           'increased connectivity through submarine cable connection to Brazil',
+                                           'importer of broadcasting equipment from Europe (2021)',
                                            2020],
                               'intl': [ 'landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, SAT-3/WASC, '
                                         'Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FEA, Balalink, ORVAL '
@@ -4034,14 +4408,18 @@ P1_CC2 = \
                                         'NA Eutelsat',
                                         'tropospheric scatter to adjacent countries',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 15176954, 'fix': 21065700, 'internet': 42478990, 'mob': 58750448},
+                              'subs': {'bb': 15616585, 'fix': 19639778, 'internet': 42478990, 'mob': 55354944},
                               'tld': '.es',
                               'url_tld': 'https://en.wikipedia.org/wiki/.es'}},
           'mcc': ['214'],
@@ -4114,27 +4492,37 @@ P1_CC2 = \
                                             'per 100',
                                             'the number of mobile telephones is increasing steadily',
                                             2019],
-                              'general': [ 'Ethio Telecom maintained a monopoly over telecommunication services until '
-                                           'recently and is now part-private',
+                              'general': [ 'telecom market challenged by political factionalism and reorganization of '
+                                           'ruling party',
+                                           'despite some gains in access, Ethiopia remains one of the least-connected '
+                                           'countries in the world',
+                                           'state-owned telecom held a monopoly over services until 2019 when '
+                                           'government approved legislation and opened the market to competition and '
+                                           'foreign investment',
                                            'new expansion of LTE services',
-                                           'in 2019 govt. approved legislations which opened the market to competition '
-                                           'and provides much needed foreign investment',
-                                           'one of the tech companies is Chinese company Huawei',
-                                           'govt. reduces tariffs by up to 50% in 2018, the result is an increase in '
-                                           'data and voice traffic',
-                                           'govt. launches mobile app as part of e-govt initiative to build tech city',
+                                           'government reduced tariffs leading to increases in data and voice traffic',
+                                           'government launched mobile app as part of e-government initiative to build '
+                                           'smart city',
+                                           'Huawei provides infrastructure to government operator and built data '
+                                           'center in Addis Ababa',
+                                           'government disrupted service during political crises',
+                                           'importer of broadcasting equipment from China (2020)',
                                            2020],
                               'intl': [ 'open-wire to Sudan and Djibouti',
                                         'microwave radio relay to Kenya and Djibouti',
                                         '2 domestic satellites provide the national trunk service',
                                         'satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean)',
                                         2016],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 580120, 'fix': 1095946, 'internet': 19118470, 'mob': 38147361},
                               'tld': '.et',
@@ -4164,14 +4552,14 @@ P1_CC2 = \
                                   'the republic of finland'],
                      'tel': { 'code': '358',
                               'domestic': ['fixed-line 5 per 100 subscription and 129 per 100 mobile-cellular', 2019],
-                              'general': [ 'excellent service',
-                                           'one of the most progressive in Europe',
-                                           'one of the highest broadband and mobile penetrations rates in the region',
-                                           'for 2025 and 2030 FttP (fiber to the home) and DOCSIS3.1 (new generation '
-                                           'of cable services for high speed connections) technologies',
-                                           'subscribers are migrating from 3G to LTE and 5G networks',
-                                           'astute regulatory measures have encouraged market competition and company '
-                                           'investment',
+                              'general': [ "Finland's telecom market is among most progressive in Europe through "
+                                           'favorable regulatory action and competitive technological innovation',
+                                           'orientation towards high technology, research, and development with high '
+                                           'investment in information and communication sectors',
+                                           'large proportion of population on 5G and most on LTE',
+                                           'high broadband and mobile penetration',
+                                           'fixed-voice density falling',
+                                           'government provided universal 5Mb/s broadband (2021)',
                                            2020],
                               'intl': [ 'landing points for Botnia, BCS North-1 & 2, SFL, SFS-4, C-Lion1, Eastern '
                                         'Lights, Baltic Sea Submarine Cable, FEC, and EESF-2 & 3 submarine cables that '
@@ -4182,14 +4570,18 @@ P1_CC2 = \
                                         'note - Finland shares the Inmarsat earth station with the other Nordic '
                                         'countries (Denmark, Iceland, Norway, and Sweden)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1737000, 'fix': 269980, 'internet': 4922163, 'mob': 7179481},
+                              'subs': {'bb': 1797000, 'fix': 269000, 'internet': 4922163, 'mob': 7150000},
                               'tld': '.fi',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fi'}},
           'mcc': ['244'],
@@ -4279,15 +4671,16 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line 9 per 100 persons and mobile-cellular teledensity roughly 118 '
                                             'per 100 persons',
                                             2019],
-                              'general': [ 'local, interisland, and international telecommunications',
-                                           'subject to occasional devastating cyclones',
-                                           'Fiji is a leader in the Pacific region in terms of development of its ICT '
-                                           '(Information & Communications Technology) sector and investment in '
-                                           'telecoms infrastructure',
-                                           'mobile services the primary source of Internet access across the region',
-                                           'most advanced economy in the Pacific island region as well as hosting the '
-                                           'highest mobile Internet penetration',
-                                           'initial progress towards 5G readiness',
+                              'general': [ 'Fiji has a relatively sophisticated communications infrastructure with the '
+                                           'highest mobile and Internet penetration in the Pacific Islands',
+                                           'aggressively developing LTE and 5G, though the pandemic negatively '
+                                           'affected the economy, largely reliant on tourism',
+                                           'population is spread across more than 100 islands, yet most live on two '
+                                           'main islands, with communications based on link by a submarine cable '
+                                           'system',
+                                           'cables provide a secure link during natural disasters, protecting telecom '
+                                           'connectivity',
+                                           'provider plans to expand fiber infrastructure to remote islands (2021)',
                                            2020],
                               'intl': [ 'landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and '
                                         'Tui-Samoa submarine cable links to US, NZ, Australia and Pacific islands of '
@@ -4295,12 +4688,16 @@ P1_CC2 = \
                                         'Samoa',
                                         'satellite earth stations - 2 Inmarsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 13033, 'fix': 80650, 'internet': 462860, 'mob': 1097345},
                               'tld': '.fj',
@@ -4369,12 +4766,16 @@ P1_CC2 = \
                                         'system linking the Federated States of Micronesia and the US',
                                         'satellite earth stations - 5 Intelsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 3776, 'fix': 6420, 'internet': 36586, 'mob': 21374},
                               'tld': '.fm',
@@ -4411,12 +4812,16 @@ P1_CC2 = \
                                         'cables from the Faeroe Islands, to Denmark, Germany, UK and Iceland',
                                         'satellite earth stations - 1 Orion',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 18181, 'fix': 19137, 'internet': 49783, 'mob': 59771},
                               'tld': '.fo',
@@ -4438,7 +4843,7 @@ P1_CC2 = \
                                                    'Monaco': 6,
                                                    'Spain': 646,
                                                    'Switzerland': 525},
-                                         'len': 2751},
+                                         'len': 3956},
                               'capital': {'coord': '48 52 N, 2 20 E', 'name': 'Paris', 'time_diff': 'UTC+1'},
                               'cmt': 'ISO includes metropolitan France along with the dependencies of Clipperton '
                                      'Island, French Guiana, French Polynesia, French Southern and Antarctic Lands, '
@@ -4463,13 +4868,17 @@ P1_CC2 = \
                               'domestic': [ '58 per 100 persons for fixed-line and 111 per 100 for mobile-cellular '
                                             'subscriptions',
                                             2019],
-                              'general': [ 'one of the largest mobile phone markets in Europe, worth 13 billion '
-                                           'annually',
-                                           'LTE has universal coverage with extensive 5G launching any day, one of the '
-                                           'largest broadband subscriber bases in Europe',
-                                           'regional govt. and telecom companies have invested in higher bandwidth w/ '
-                                           'fiber infrastructure improvements, an investment more than 20 billion '
-                                           'euros',
+                              'general': [ 'one of the largest mobile phone markets in Europe',
+                                           'LTE has universal coverage with extensive 5G',
+                                           'one of the largest broadband subscriber bases in Europe',
+                                           'regional government and telecom companies have invested in higher '
+                                           'bandwidth with fiber infrastructure improvements, an investment of more '
+                                           'than 20 billion euros',
+                                           'operator investment in developing markets, and on the greater use of '
+                                           'artificial intelligence and data',
+                                           'satellite broadband connectivity across France',
+                                           'Paris adopted smart city technology',
+                                           'importer of broadcast equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for Circe South, TAT-14, INGRID, FLAG Atlantic-1, Apollo, '
                                         'HUGO, IFC-1, ACE, SeaMeWe-3 & 4, Dunant, Africa-1, AAE-1, Atlas Offshore, '
@@ -4482,12 +4891,16 @@ P1_CC2 = \
                                         'Atlantic Ocean region)',
                                         'HF radiotelephone communications with more than 20 countries',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'overseas departments': [ 'country codes: French Guiana - 594',
                                                         'landing points for Ella Link, Kanawa, Americas II to South '
@@ -4506,7 +4919,7 @@ P1_CC2 = \
                                                         'Asia, South and East Africa, Southeast Asia and nearby Indian '
                                                         'Ocean Island countries of Mauritius, and Madagascar',
                                                         2019],
-                              'subs': {'bb': 29100000, 'fix': 39234941, 'internet': 55265718, 'mob': 74791818},
+                              'subs': {'bb': 29760000, 'fix': 37797000, 'internet': 55265718, 'mob': 72040000},
                               'tld': '.fr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fr'}},
           'mcc': ['208'],
@@ -4604,28 +5017,35 @@ P1_CC2 = \
                                             'telephone service more widely available with mobile cellular teledensity '
                                             'at 138 per 100 persons',
                                             2019],
-                              'general': [ 'fixed-line and Internet sectors have remained underdeveloped due to the '
-                                           'lack of competition and high prices',
-                                           'sufficient international bandwidth due to submarine cable systems, but '
-                                           'monopolized by Gabon Telecom',
-                                           '3G and mobile LTE services and mobile broadband available',
-                                           'govt. commits to XAF 150 billion in backbone infrastructure work through '
-                                           '2020',
-                                           'efforts towards new legal and regulatory improvements',
+                              'general': [ 'politically stable and oil laden, Gabon is one of wealthiest nations in '
+                                           'Africa',
+                                           'liberalized and competitive market led development of mobile broadband, '
+                                           'data service, and tests of 5G',
+                                           'fixed-line sector underdeveloped due to the lack of competition and high '
+                                           'prices',
+                                           'South Korean investment in fiber segments as part of Central African '
+                                           'backbone',
+                                           'sufficient international bandwidth through submarine cable systems',
+                                           'government committed to backbone infrastructure and e-health services',
+                                           'efforts towards new legal and regulatory improvements (2020)',
                                            2020],
                               'intl': [ 'landing points for the SAT-3/WASC, ACE and Libreville-Port Gentil Cable '
                                         'fiber-optic submarine cable that provides connectivity to Europe and West '
                                         'Africa',
                                         'satellite earth stations - 3 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 29099, 'fix': 22412, 'internet': 1313802, 'mob': 3008814},
+                              'subs': {'bb': 22332, 'fix': 22291, 'internet': 1313802, 'mob': 2992811},
                               'tld': '.ga',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ga'}},
           'mcc': ['628'],
@@ -4643,7 +5063,7 @@ P1_CC2 = \
                                      'code UK in lieu of the ISO 3166-2 code of GB',
                               'coast': 12429,
                               'coord': ['54 00 N, 2 00 W'],
-                              'popul': 66052076,
+                              'popul': 67081000,
                               'ports': { 'container': 'Felixstowe (3,849,700), London (2,431,000), Southampton '
                                                       '(2,040,000) (2017)',
                                          'seaport': 'Dover, Felixstowe, Immingham, Liverpool, London, Southampton, '
@@ -4664,15 +5084,18 @@ P1_CC2 = \
                                             'systems',
                                             'fixed-line 48 per 100 and mobile-cellular 118 per 100',
                                             2019],
-                              'general': [ 'technologically advanced domestic and international system',
-                                           'one of the largest mobile and telecom markets in Europe for revenue and '
-                                           'subscribers',
-                                           'will complete the switch to fiber by 2033',
+                              'general': [ "UK's telecom market remains one of the largest in Europe, characterized by "
+                                           'competition, affordable pricing, and its technologically advanced systems',
                                            'mobile penetration above the EU average',
-                                           'govt. to invest in fiber infrastructure and 5G technologies',
-                                           'operators expanded the reach of 5G services',
-                                           'FttP provided to over a million customers',
+                                           'government to invest in infrastructure and 5G technologies with ambition '
+                                           'for a fully-fibered nation by 2033',
+                                           'operators expanded the reach of 5G services in 2020',
                                            'super-fast broadband available to about 95% of customers',
+                                           'London is developing smart city technology, in collaboration with private, '
+                                           'tech, and academic sectors',
+                                           'legislation banned Chinese company Huawei from UK 5G networks following '
+                                           'advisement from the National Cyber Security Centre (NCSC)',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'Landing points for the GTT Atlantic, Scotland-Northern Ireland -1, & -2, '
                                         'Lanis 1,-2, &-3, Sirius North, BT-MT-1, SHEFA-2, BT Highlands and Islands '
@@ -4689,14 +5112,18 @@ P1_CC2 = \
                                         '1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat',
                                         'at least 8 large international switching centers',
                                         2018],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 26586110, 'fix': 31160866, 'internet': 61784878, 'mob': 76920618},
+                              'subs': {'bb': 26786963, 'fix': 32287999, 'internet': 61784878, 'mob': 80967000},
                               'tld': '.gb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gb'}},
           'mcc': ['234', '235'],
@@ -4807,14 +5234,18 @@ P1_CC2 = \
                                         'SHF radiotelephone links to Trinidad and Tobago and Saint Vincent',
                                         'VHF and UHF radio links to Trinidad',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 22235, 'fix': 33011, 'internet': 66281, 'mob': 115008},
+                              'subs': {'bb': 25577, 'fix': 33011, 'internet': 66281, 'mob': 115008},
                               'tld': '.gd',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gd'}},
           'mcc': ['352'],
@@ -4844,14 +5275,16 @@ P1_CC2 = \
                                             "intercity facilities include a fiber-optic line between T'bilisi and "
                                             "K'ut'aisi",
                                             2019],
-                              'general': [ "telecommunications fastest growing area of Georgia's economy",
-                                           'LTE services now cover the vast majority of the population',
+                              'general': [ "despite economic challenges, the telecom market is one of Georgia's "
+                                           'fastest growth sectors',
+                                           'LTE services cover the majority of citizens',
+                                           'regulators have strategy to introduce 5G',
                                            'fixed-line telecommunications network has limited coverage outside Tbilisi',
                                            'multiple mobile-cellular providers provide services to an increasing '
                                            'subscribership throughout the country',
                                            'broadband subscribers steadily increasing',
-                                           'with the recent investment in infrastructure customers are moving from '
-                                           'copper to fiber networks',
+                                           'with investment in infrastructure, customers are moving from copper to '
+                                           'fiber networks (2021)',
                                            2020],
                               'intl': [ 'landing points for the Georgia-Russia, Diamond Link Global, and Caucasus '
                                         'Cable System fiber-optic submarine cable that provides connectivity to '
@@ -4860,14 +5293,18 @@ P1_CC2 = \
                                         'through the Moscow switch',
                                         'international electronic mail and telex service are available',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 840603, 'fix': 638092, 'internet': 3151218, 'mob': 6638125},
+                              'subs': {'bb': 941509, 'fix': 518624, 'internet': 3151218, 'mob': 5384462},
                               'tld': '.ge',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ge'}},
           'mcc': ['282'],
@@ -4925,12 +5362,16 @@ P1_CC2 = \
                               'intl': [ 'landing points for Guernsey-Jersey, HUGO, INGRID, Channel Islands -9 Liberty '
                                         'and UK-Channel Islands-7 submarine cable to UK and France',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 36547, 'internet': 55050, 'mob': 71249},
                               'tld': '.gg',
@@ -4959,16 +5400,15 @@ P1_CC2 = \
                                             'competition among multiple mobile-cellular providers has spurred growth '
                                             'with a subscribership of more than 134 per 100 persons and rising',
                                             2019],
-                              'general': [ 'highly competitive Internet market',
-                                           'govt. helped fund programs for telecom services nationally',
-                                           'mobile accounts for how people access the Internet',
-                                           'LTE service launched in 2019',
-                                           'the government invested in fiber infrastructure and set up 600 additional '
-                                           'towers to provide basic mobile services',
-                                           'm-money inter-operability launched',
-                                           'international submarine cables and new terrestrial cables have improved '
-                                           'Internet capacity and reduced price for end-users',
-                                           'one of the most active mobile markets in Africa',
+                              'general': [ 'challenged by unreliable electricity, Ghana seeks to extend telecom '
+                                           'services nationally',
+                                           'investment in fiber infrastructure enabled 600 additional towers to '
+                                           'provide basic mobile services',
+                                           'launch of LTE has improved mobile data services, including m-commerce and '
+                                           'banking',
+                                           'highly competitive Internet market, most through mobile networks',
+                                           'international submarine cables, and terrestrial cables have improved '
+                                           'Internet capacity and reduced prices (2020)',
                                            2020],
                               'intl': [ 'landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic '
                                         'submarine cables that provide connectivity to South and West Africa, and '
@@ -4977,14 +5417,18 @@ P1_CC2 = \
                                         'microwave radio relay link to Panaftel system connects Ghana to its neighbors',
                                         'Ghana-1 satellite launched in 2020',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 62320, 'fix': 272801, 'internet': 10959964, 'mob': 38571189},
+                              'subs': {'bb': 58518, 'fix': 288531, 'internet': 10959964, 'mob': 40857077},
                               'tld': '.gh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gh'}},
           'mcc': ['620'],
@@ -5026,7 +5470,9 @@ P1_CC2 = \
                               'domestic': [ 'automatic exchange facilities',
                                             '50 per 100 fixed-line and 120 per 100 mobile-cellular',
                                             2019],
-                              'general': [ 'adequate, automatic domestic system and adequate international facilities',
+                              'general': [ "Gibraltar's population is urban based, served by a digital telephone "
+                                           'exchange supported by a fiber optic and copper infrastructure',
+                                           'near universal mobile and Internet use (2020)',
                                            2018],
                               'intl': [ 'landing point for the EIG to Europe, Asia, Africa and the Middle East via '
                                         'submarine cables',
@@ -5034,7 +5480,7 @@ P1_CC2 = \
                                         'microwave radio relay',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 19232, 'fix': 14865, 'internet': 27823, 'mob': 35510},
+                              'subs': {'bb': 19497, 'fix': 16968, 'internet': 27823, 'mob': 40537},
                               'tld': '.gi',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gi'}},
           'mcc': ['266'],
@@ -5075,14 +5521,18 @@ P1_CC2 = \
                                         'satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all '
                                         'Atlantic Ocean))',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 13192, 'fix': 7259, 'internet': 40084, 'mob': 66009},
+                              'subs': {'bb': 14404, 'fix': 7133, 'internet': 40084, 'mob': 61656},
                               'tld': '.gl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gl'}},
           'mcc': ['290'],
@@ -5109,27 +5559,33 @@ P1_CC2 = \
                                             'and mobile-cellular teledensity, aided by multiple mobile-cellular '
                                             'providers, is over 140 per 100 persons',
                                             2019],
-                              'general': [ 'state-owned Gambia Telecommunications partially privatized but still '
-                                           'retaining a monopoly with fixed-line service',
-                                           'multiple mobile networks offering effective competition',
-                                           'three licensed ISPs which serve local area without much competition',
-                                           'mobile penetrations above the African average',
-                                           'lack of availability of fixed-line services in many rural areas of the '
-                                           'country',
-                                           'govt. started a National Broadband Network program aimed at closing the '
-                                           'digital divide but not funded by Parliament in 2018',
-                                           'the Chinese company Huawei helping in the telecommunications sector',
+                              'general': [ 'state-owned telecom partially privatized but retains a monopoly with '
+                                           'fixed-line service',
+                                           'multiple mobile networks provide 2G to almost all citizens and above the '
+                                           'African average',
+                                           'high poverty rates continue to limit access to the Internet, especially '
+                                           'via fixed-line services in rural areas',
+                                           'weak political support for development of communications infrastructure, '
+                                           'including National Broadband Network program',
+                                           'government depends on donors and loans from China and Islamic Development '
+                                           'banks',
+                                           'two submarine cables provide international connectivity within African '
+                                           'continent and Europe (2021)',
                                            2020],
                               'intl': [ 'landing point for the ACE submarine cable to West Africa and Europe',
                                         'microwave radio relay links to Senegal and Guinea-Bissau',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 4433, 'fix': 41179, 'internet': 406918, 'mob': 2977068},
                               'tld': '.gm',
@@ -5170,26 +5626,32 @@ P1_CC2 = \
                                             'mobile-cellular subscribership is expanding rapidly and now 101 per 100 '
                                             'persons',
                                             2019],
-                              'general': [ 'huge improvement over the last ten years',
-                                           'in May 2019, 4G Wi-Fi was launched in the capital',
-                                           'the regional administrative centers all have 3G access',
-                                           'the 2018 set up of an IXP (Internet Exchange Point) reduced the cost of '
-                                           'Internet bandwidth and improved infrastructure',
-                                           'a National Backbone Network is nearing completion to connect '
-                                           'administrative centers',
+                              'general': [ "Guinea's mobile subscribership growing through investment of South African "
+                                           'telecom operators and Chinese Huawei management',
+                                           'm-transactions supported commerce',
+                                           'broadband still limited and expensive though submarine cable and IXP '
+                                           'improved reliability of infrastructure',
+                                           '4G Wi-Fi in the capital',
+                                           'National Backbone Network will connect regional administrative centers',
+                                           'ECOWAS countries to launch free roaming',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'ACE submarine cable connecting Guinea with 20 landing points in Western and '
                                         'South Africa and Europe',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1213, 'internet': 2133974, 'mob': 12283911},
+                              'subs': {'bb': 1250, 'internet': 2133974, 'mob': 12873000},
                               'tld': '.gn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gn'}},
           'mcc': ['611'],
@@ -5234,22 +5696,28 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line density is about 1 per 100 persons and mobile-cellular '
                                             'subscribership is 45 per 100',
                                             2019],
-                              'general': [ 'digital fixed-line network in most major urban areas and decent mobile '
-                                           'cellular coverage',
-                                           '3G technology has allowed for estimated 9.5% of growth during 2016 -2021',
-                                           'mobile data will be the fastest-growing segment 2016-2021',
+                              'general': [ "Equatorial Guinea's climate for operator competition boosted mobile "
+                                           'subscribership',
+                                           'broadband services are limited and expensive',
+                                           'submarine cable supported broadband and reliability of infrastructure',
+                                           'government backbone network will connect administrative centers',
+                                           'regional roaming agreement in process (2021)',
                                            2018],
                               'intl': [ 'landing points for the ACE, Ceiba-1, and Ceiba-2 submarine cables providing '
                                         'communication from Bata and Malabo, Equatorial Guinea to numerous Western '
                                         'African and European countries',
                                         'satellite earth station - 1 Intelsat (Indian Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 1620, 'fix': 6779, 'internet': 209253, 'mob': 368920},
                               'tld': '.gq',
@@ -5290,11 +5758,15 @@ P1_CC2 = \
                                             'submarine cable to offshore islands',
                                             '48 per 100 for fixed-line and 114 per 100 for mobile-cellular',
                                             2019],
-                              'general': [ 'good mobile telephone and international services',
-                                           '3 mobile network operators',
-                                           'broadband penetration developing steadily despite rough economic '
-                                           'conditions',
-                                           'plans to repurpose 3G network for LTE and 5G by 2022',
+                              'general': [ "telecom market is susceptible to country's volatile economy, but renewed "
+                                           'confidence has been renewed through foreign and European Commission '
+                                           'investment',
+                                           'increasing urban population with well-developed mobile market',
+                                           'growing adoption of IoT technology',
+                                           'steady development of broadband',
+                                           'investment in LTE and launch of 5G',
+                                           'government project for ultra-fast broadband, largely funded by European '
+                                           'Commission with focus on underserved areas (2021)',
                                            2020],
                               'intl': [ 'landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, '
                                         'MedNautilus Submarine System, Aphrodite 2, AAE-1 and Silphium optical '
@@ -5304,14 +5776,18 @@ P1_CC2 = \
                                         'satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian '
                                         'Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3961864, 'fix': 5080386, 'internet': 7783381, 'mob': 12070571},
+                              'subs': {'bb': 4149146, 'fix': 4820898, 'internet': 7783381, 'mob': 11882081},
                               'tld': '.gr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gr'}},
           'mcc': ['202'],
@@ -5373,16 +5849,15 @@ P1_CC2 = \
                                             'fixed-line investments are concentrating on improving rural connectivity',
                                             'mobile-cellular teledensity about 119 per 100 persons',
                                             2019],
-                              'general': [ 'network centered in the city of Guatemala',
-                                           'one of the lowest teledensities in the region especially in the country, '
-                                           'rural areas have no fixed-line access so mobile services adopted as '
-                                           'necessary',
-                                           'state-owned telecommunications company privatized in the late 1990s opened '
-                                           'the way for competition',
-                                           'steady improvement of fixed-line which has also spurred growth in '
-                                           'mobile-cellular and broadband',
-                                           'open regulatory framework coupled with competition and greater disposable '
-                                           'household revenue spurs growth',
+                              'general': [ 'due to years of underinvestment in infrastructure, has one of the lowest '
+                                           'fixed-line tele densities in the region',
+                                           'rural areas rely on mobile services with little access to fixed-line '
+                                           'access',
+                                           'mobile tele-density on par with region and is the most developed sector, '
+                                           'with near universal phone connections',
+                                           'private investment to bring free Internet to parks',
+                                           'two submarine cables due for completion will support growth in fixed and '
+                                           'mobile broadband (2021)',
                                            2020],
                               'intl': [ 'landing points for the ARCOS, AMX-1, American Movil-Texius West Coast Cable '
                                         'and the SAm-1 fiber-optic submarine cable system that, together, provide '
@@ -5390,14 +5865,18 @@ P1_CC2 = \
                                         'connected to Central American Microwave System',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 506000, 'fix': 1894179, 'internet': 10777827, 'mob': 20026347},
+                              'subs': {'bb': 506000, 'fix': 1974006, 'internet': 10777827, 'mob': 20874130},
                               'tld': '.gt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gt'}},
           'mcc': ['704'],
@@ -5435,12 +5914,16 @@ P1_CC2 = \
                                         'communications hub for major carriers linking the US and Asia)',
                                         'satellite earth stations - 2 Intelsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 70639, 'internet': 135073, 'mob': 181000},
                               'tld': '.gu',
@@ -5498,14 +5981,18 @@ P1_CC2 = \
                               'intl': [ 'ACE submarine cable connecting Guinea-Bissau with 20 landing points in '
                                         'Western and South Africa and Europe',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1204, 'internet': 72047, 'mob': 1555961},
+                              'subs': {'bb': 1227, 'internet': 72047, 'mob': 1590381},
                               'tld': '.gw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gw'}},
           'mcc': ['632'],
@@ -5534,25 +6021,29 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line teledensity is about 18 per 100 persons',
                                             'mobile-cellular teledensity about 83 per 100 persons',
                                             2019],
-                              'general': [ 'reliable international long distance service',
-                                           '100% digital network',
-                                           'national transmission supported by fiber optic cable and rural network by '
-                                           'microwaves',
-                                           'more than 150,000 lines',
-                                           'many areas still lack fixed-line telephone services',
-                                           '2019 budget allocates funds for ICT (Information and Communications '
-                                           'Technology) development',
-                                           'broadband subscribers remains small and end-users incur expense to use',
+                              'general': [ 'revenues gained from newly tapped off-shore oil reserves may provide a '
+                                           "boost of Guyana's infrastructure, including upgrade of aging telecom "
+                                           'systems to LTE and fiber broadband',
+                                           'competition in mobile services but monopoly in fixed-line',
+                                           'submarine cable improved broadband availability but service is still slow '
+                                           'and expensive',
+                                           'second cable will improve delivery and pricing',
+                                           'government promotes ICT for e-government, e-health, and tele-education, '
+                                           'and connection to remote locations (2021)',
                                            2020],
                               'intl': [ 'landing point for the SG-SCS submarine cable to Suriname, and the Caribbean',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 64889, 'fix': 130497, 'internet': 276498, 'mob': 617998},
                               'tld': '.gy',
@@ -5587,14 +6078,18 @@ P1_CC2 = \
                                             'fixed-line is 55 per 100 and mobile-cellular is 289 per 100',
                                             2019],
                               'general': [ 'excellent domestic and international services',
-                                           'some of the highest peak average broadband speeds in the world',
-                                           'HK aims to be among the earliest adopters of 5G mobile technology',
-                                           'almost all households have access to high-speed broadband connectivity',
-                                           'HK broadband penetration rate is among the highest in the world',
-                                           'in the next five years the government has organized the development of '
-                                           '\'smart cities\' in six areas - "smart mobility", "smart living", "smart '
-                                           'environment", "smart people", "smart government", and "smart economy" by '
-                                           '2024',
+                                           'some of the highest peak average broadband speeds and penetration rates in '
+                                           'the world',
+                                           'HK government helps subsidize 5G projects and aims to be among earliest '
+                                           'adopters of 5G mobile technology',
+                                           'almost all households have access to high-speed broadband connectivity '
+                                           'through fiber',
+                                           'high mobile subscribership reflects tourism and multiple-device culture',
+                                           'government has organized the development of smart city and digital economy '
+                                           'to encourage social inclusion and economic development, including health '
+                                           'care, education, and utilities',
+                                           'US prevented use of Pacific Light submarine cable network due to security '
+                                           'issues (2020)',
                                            2020],
                               'intl': [ 'landing points for the APG, ASE, EAC-C2C, HK-G, Bay-to-Bay Express Cable '
                                         'System, H2 Cable, HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, APCN-2, AAG, FLAG '
@@ -5603,14 +6098,18 @@ P1_CC2 = \
                                         'satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean)',
                                         'coaxial cable to Guangzhou, China',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2714679, 'fix': 3942605, 'internet': 6450167, 'mob': 20868827},
+                              'subs': {'bb': 2804790, 'fix': 4029603, 'internet': 6450167, 'mob': 21455736},
                               'tld': '.hk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hk'}},
           'mcc': ['454'],
@@ -5702,29 +6201,25 @@ P1_CC2 = \
                                             'teledensity 5 per 100',
                                             'mobile-cellular subscribership is roughly 73 per 100 persons',
                                             2019],
-                              'general': [ 'fixed-line connections are increasing but still limited',
-                                           'competition among multiple providers of mobile-cellular services and '
-                                           'international investment has contributed to a sharp increase in '
-                                           'subscribership',
-                                           'demand for broadband increasing and some investment needed in network '
-                                           'upgrades',
-                                           'mobile penetration below regional average',
-                                           'free access to the Internet in public schools',
-                                           2020],
+                              'general': ['<p style="background: white', 'margin: 0in 0in 6.4pt 0in', '">', 2020],
                               'intl': [ 'landing points for both the ARCOS and the MAYA-1 fiber-optic submarine cable '
                                         'systems that together provide connectivity to South and Central America, '
                                         'parts of the Caribbean, and the US',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         'connected to Central American Microwave System',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 354861, 'fix': 458696, 'internet': 2853505, 'mob': 6633309},
+                              'subs': {'bb': 390377, 'fix': 490103, 'internet': 2853505, 'mob': 7559829},
                               'tld': '.hn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hn'}},
           'mcc': ['708'],
@@ -5759,17 +6254,15 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line teledensity has dropped somewhat to about 32 per 100 persons',
                                             'mobile-cellular telephone subscriptions 107 per 100',
                                             2019],
-                              'general': [ 'the mobile market has one of the highest penetration rates in the Balkans '
-                                           'region',
-                                           'covering much of what were once inaccessible areas',
+                              'general': [ "Croatia's telecom market improved through partnership with the EU in 2013, "
+                                           'opening a competitive market in mobile and broadband and conducive '
+                                           'regulatory environment',
+                                           'one of the highest mobile penetration rates in the Balkans, covering most '
+                                           'remote areas',
                                            'local lines are digital',
-                                           'telecom market in Croatia has been shaped by Croatia becoming part of the '
-                                           'European Union in 2013, a process which opened up the market and the '
-                                           'creation of a regulatory environment leading to competition in mobile and '
-                                           'broadband',
-                                           'investment among operators has led to a relatively high broadband '
-                                           'penetration in the region',
-                                           'trials for 5G technologies underway',
+                                           'international operator investment provides relatively high broadband '
+                                           'penetration',
+                                           'tests for 5G technologies in 2020 (2020)',
                                            2020],
                               'intl': [ 'the ADRIA-1 submarine cable provides connectivity to Albania and Greece',
                                         'digital international service is provided through the main switch in Zagreb',
@@ -5777,14 +6270,18 @@ P1_CC2 = \
                                         'consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic '
                                         'trunk line from Rijeka to Split and Dubrovnik',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1127591, 'fix': 1371999, 'internet': 3104212, 'mob': 4531122},
+                              'subs': {'bb': 1154773, 'fix': 1333661, 'internet': 3104212, 'mob': 4404652},
                               'tld': '.hr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hr'}},
           'mcc': ['219'],
@@ -5817,25 +6314,33 @@ P1_CC2 = \
                                             'pay-as-you-go plans',
                                             'mobile-cellular teledensity is 58 per 100 persons',
                                             2019],
-                              'general': [ 'telecommunications infrastructure is among the least-developed in Latin '
-                                           'America and the Caribbean',
-                                           'domestic cell service is functional',
-                                           'Hurricane Matthew in 2016 caused $35 million worth of damage to telecoms '
-                                           'infrastructure',
-                                           'some expansion of LTE services',
+                              'general': [ 'plagued by political and economic turmoil complicated by natural '
+                                           "disasters, Haiti's telecommunications infrastructure is among the "
+                                           'least-developed in the world',
+                                           'reliance on satellite and wireless mobile technology due to poor '
+                                           'fixed-line infrastructure',
+                                           'investment boosted broadband availability though customer base is poor and '
+                                           'theft of equipment remains problematic',
+                                           'promotion of LTE will enable access to remote areas and e-money services',
+                                           'World Bank grant to provide digital preparation and response for any '
+                                           'future crises (2021)',
                                            2020],
                               'intl': [ 'landing points for the BDSNi and Fibralink submarine cables to 14 points in '
                                         'the Bahamas and Dominican Republic',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 31100, 'fix': 5464, 'internet': 3503006, 'mob': 6287411},
+                              'subs': {'bb': 31100, 'fix': 5952, 'internet': 3503006, 'mob': 6843380},
                               'tld': '.ht',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ht'}},
           'mcc': ['372'],
@@ -5868,11 +6373,18 @@ P1_CC2 = \
                                             'number of fixed-line connections, 31 per 100 persons, while '
                                             'mobile-cellular is 106 per 100',
                                             2019],
-                              'general': [ 'telephone system is digital and highly automated',
-                                           'broadband penetration is the highest in Eastern Europe',
-                                           'replacement of all copper infrastructure with fiber nationally',
-                                           'govt. expands e-payment systems',
-                                           'regulator makes preparations for 5G service',
+                              'general': [ 'Hungary benefits from a well-developed telecom infrastructure, with '
+                                           'adoption of 5G and upgrade of fixed networks to 1Gb/s service',
+                                           'fixed-line subscribership fell as subscribers migrated to mobile for voice '
+                                           'and data',
+                                           'effective infrastructure-based competition, with an extensive cable '
+                                           'network competing against DSL and expanding fiber sector',
+                                           'high mobile penetration and highest fixed broadband penetration rate in '
+                                           'Eastern Europe',
+                                           'government supports private partnership in smart agriculture applications',
+                                           'as part of EU, fully liberalized and open to investment',
+                                           "broadcasting equipment is one of the country's top five imports, plus "
+                                           'mobile phones, from China (2021)',
                                            2020],
                               'intl': [ 'Hungary has fiber-optic cable connections with all neighboring countries',
                                         'the international switch is in Budapest',
@@ -5880,14 +6392,18 @@ P1_CC2 = \
                                         'regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground '
                                         'terminals',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3079549, 'fix': 3084836, 'internet': 7474413, 'mob': 10394172},
+                              'subs': {'bb': 3189689, 'fix': 3048754, 'internet': 7474413, 'mob': 10272694},
                               'tld': '.hu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hu'}},
           'mcc': ['216'],
@@ -5921,17 +6437,13 @@ P1_CC2 = \
                                             '200,000 telephone kiosks many located in remote areas',
                                             'mobile-cellular subscribership growing rapidly',
                                             2019],
-                              'general': [ 'international service good',
-                                           'Indonesia has very low fixed line and fixed broadband penetration, high '
-                                           'mobile penetration and moderate mobile broadband penetration',
-                                           '4G mobile services are relatively advanced, 7 operators compete for '
-                                           'revenue in the Indonesian market',
-                                           'Chinese company Huawei working on the development of 5G technology in the '
-                                           'country',
-                                           'mobile broadband market still in early stages of development',
-                                           'data center market has experienced significant growth',
-                                           'Kacific-1 satellite launched in 2019 to significantly improve '
-                                           'telecommunications',
+                              'general': [ 'with large population, disbursed island geography, and slow economic '
+                                           "growth, Indonesia's telecom sector is based on 3G/LTE mobile "
+                                           'infrastructure and inadequate fixed-line capacity',
+                                           'market is attracting foreign investment, especially in data center and '
+                                           'cloud based services',
+                                           'tests of 5G challenged by lack of spectrum',
+                                           'satellite improvements in 2020 (2021)',
                                            2020],
                               'intl': [ 'landing points for the SEA-ME-WE-3 & 5, DAMAI, JASUKA, BDM, Dumai-Melaka '
                                         'Cable System, IGG, JIBA, Link 1, 3, 4, & 5, PGASCOM, B3J2, Tanjung '
@@ -5943,14 +6455,18 @@ P1_CC2 = \
                                         'Africa and Europe',
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 8874116, 'fix': 9272754, 'internet': 104563108, 'mob': 337766682},
+                              'subs': {'bb': 10284364, 'fix': 9662135, 'internet': 104563108, 'mob': 341277549},
                               'tld': '.id',
                               'url_tld': 'https://en.wikipedia.org/wiki/.id'}},
           'mcc': ['510'],
@@ -5992,16 +6508,13 @@ P1_CC2 = \
                                             'fixed-line 36 per 100 and mobile-cellular 105 per 100 subscriptions',
                                             'digital system using cable and microwave radio relay',
                                             2019],
-                              'general': [ 'a previous depressed economic climate has changed to one with Ireland '
-                                           'having one of the highest GDP growth rates in Europe, which translates to '
-                                           'mean spending among telecom consumers',
-                                           'introduction of flat-rate plans',
-                                           'upgraded LTE technologies in rural areas',
-                                           'govt. intends to spend millions on the National Broadband Plan (NBP) '
-                                           'initiative to change the broadband landscape',
-                                           'plans to auction spectrum suitable for 5G services',
-                                           'broadband market seen steady development',
-                                           '20 towns see commercial 5G services',
+                              'general': [ 'infrastructure projects are underway, including the national plan to '
+                                           'deliver fiber-based service of at least 150Mb/s nationally by the end of '
+                                           '2022',
+                                           'operators invested in fiber-based networks to deliver a 1Gb/s service to '
+                                           'most premises, and on 5G to cover more than half of population',
+                                           'operator test of satellite broadband',
+                                           'Dublin is smart city (2021)',
                                            2020],
                               'intl': [ 'landing point for the AEConnect -1, Celtic-Norse, Havfrue/AEC-2, GTT Express, '
                                         'Celtic, ESAT-1, IFC-1, Solas, Pan European Crossing, ESAT-2, CeltixConnect -1 '
@@ -6009,14 +6522,18 @@ P1_CC2 = \
                                         'submarine cable with links to the US, Canada, Norway, Isle of Man and UK',
                                         'satellite earth stations - 81',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1430160, 'fix': 1854605, 'internet': 4283516, 'mob': 5398848},
+                              'subs': {'bb': 1462549, 'fix': 1766937, 'internet': 4283516, 'mob': 5160309},
                               'tld': '.ie',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ie'}},
           'mcc': ['272'],
@@ -6070,26 +6587,32 @@ P1_CC2 = \
                                             'in good coverage countrywide',
                                             'fixed-line 36 per 100 and 127 per 100 for mobile-cellular subscriptions',
                                             2019],
-                              'general': [ 'one of the most highly developed system in the Middle East',
-                                           'mobile broadband 100% population penetration',
-                                           'consumers enjoy inexpensive 3G and 4G cellular service',
-                                           'fixed broadband available to 99% of all households',
-                                           '6 mobile operators in fierce competition',
-                                           'in 2019 govt. began process of 5G licensing',
+                              'general': [ 'Israel has a highly developed economy with focus on technology products',
+                                           'investment in cyber-security industry and hub for start-ups',
+                                           'near universal broadband delivery to households and mobile penetration',
+                                           'LTE coverage, expanded fiber network with plans for 5G',
+                                           'emergency law allows mobile tracking',
+                                           'importer of broadcast equipment, integrated circuits, and computers from '
+                                           'China',
+                                           'submarine cable connectivity to Europe (2021)',
                                            2020],
                               'intl': [ 'landing points for the MedNautilus Submarine System, Tameres North, Jonah and '
                                         'Lev Submarine System, submarine cables that provide links to Europe, Cyprus, '
                                         'and parts of the Middle East',
                                         'satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2410000, 'fix': 3050693, 'internet': 6873037, 'mob': 10839024},
+                              'subs': {'bb': 2481000, 'fix': 3140000, 'internet': 6873037, 'mob': 11700000},
                               'tld': '.il',
                               'url_tld': 'https://en.wikipedia.org/wiki/.il'}},
           'mcc': ['425'],
@@ -6144,12 +6667,16 @@ P1_CC2 = \
                               'intl': [ 'fiber-optic cable, microwave radio relay, satellite earth station, submarine '
                                         'cable',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'tld': '.im',
                               'url_tld': 'https://en.wikipedia.org/wiki/.im'}},
@@ -6197,17 +6724,20 @@ P1_CC2 = \
                                             'systems, the Indian National Satellite system (INSAT), with 6 satellites '
                                             'supporting 33,000 (very small aperture terminals) VSAT',
                                             2019],
-                              'general': [ 'supported by deregulation and liberalization of telecommunication laws and '
-                                           'policies, India has emerged as one of the fastest-growing telecom markets '
-                                           'in the world',
-                                           'implementation of 4G/LTE services shift to data services across the '
-                                           'country',
-                                           'highly competitive mobile market with price wars and value-added-services '
-                                           'of mobile data',
-                                           'potential to become one of the largest five data center markets globally',
-                                           'steps taken towards 5G services',
-                                           'fixed broadband penetration is expected to grow at a moderate rate over '
-                                           'the next five years to 2023',
+                              'general': [ 'supported by deregulation, India is one of the fastest-growing telecom '
+                                           'markets in the world',
+                                           'implementation of 4G/LTE',
+                                           'fixed-line/broadband underdeveloped',
+                                           'government investment in national infrastructure',
+                                           'project aims to connect 250,000 villages to broadband networks',
+                                           'expansive foreign investment with reliance of operators on Chinese vendors',
+                                           'imports of integrated circuits and broadcast equipment from China',
+                                           'steps taken towards a 5G auction and tests',
+                                           'submarine cable linking mainland to the Andaman and Nicobar Islands',
+                                           'smart cities mission to promote 100 model cities in providing core '
+                                           'infrastructure, sustainable environment, and quality of life through '
+                                           'economic growth and competition, including focus on social, economic, and '
+                                           'institutional pillars (2021)',
                                            2020],
                               'intl': [ 'a number of major international submarine cable systems, including '
                                         'SEA-ME-WE-3 & 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, SEACOM/ '
@@ -6218,14 +6748,18 @@ P1_CC2 = \
                                         'satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian '
                                         'Ocean region',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 18170000, 'fix': 20198012, 'internet': 446759327, 'mob': 1105250941},
+                              'subs': {'bb': 19156559, 'fix': 21004534, 'internet': 446759327, 'mob': 1151480361},
                               'tld': '.in',
                               'url_tld': 'https://en.wikipedia.org/wiki/.in'}},
           'mcc': ['404', '405', '406'],
@@ -6610,15 +7144,14 @@ P1_CC2 = \
                                             '7 per 100 for fixed-line and 95 per 100 for mobile-cellular subscriptions',
                                             2019],
                               'general': [ 'the 2003 liberation of Iraq severely disrupted telecommunications '
-                                           'throughout Iraq',
+                                           'throughout the country',
                                            'widespread government efforts to rebuild domestic and international '
                                            'communications have slowed due to political unrest',
-                                           '2018 showed signs of stability and installations of new fiber-optic cables '
-                                           'and growth in mobile broadband subscribers',
+                                           'recent efforts create stability and developments in 4G and 5G technologies',
+                                           'operators focus on installations of new fiber-optic cables and growth in '
+                                           'mobile broadband subscribers',
                                            'the most popular plans are pre-paid',
-                                           '3 major operators in mobile sector preparing 4G and even 5G technologies',
-                                           'operators focused on fixing and replacing networks damaged during civil '
-                                           'war',
+                                           'operators focused on fixing and replacing networks (2020)',
                                            2020],
                               'intl': [ 'landing points for FALCON, and GBICS/MENA submarine cables providing '
                                         'connections to the Middle East, Africa and India',
@@ -6627,14 +7160,18 @@ P1_CC2 = \
                                         'local microwave radio relay connects border regions to Jordan, Kuwait, Syria, '
                                         'and Turkey',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4492328, 'fix': 2678046, 'internet': 18364390, 'mob': 36092758},
+                              'subs': {'bb': 4559053, 'fix': 2859094, 'internet': 18364390, 'mob': 37224759},
                               'tld': '.iq',
                               'url_tld': 'https://en.wikipedia.org/wiki/.iq'}},
           'mcc': ['418'],
@@ -6684,7 +7221,7 @@ P1_CC2 = \
                               'coord': ['32 00 N, 53 00 E'],
                               'popul': 85888910,
                               'ports': { 'container': 'Bandar Abbas (2,607,000) (2017)',
-                                         'seaport': 'Bandar-e Asaluyeh, Bandar Abbas, Bandar Emam'},
+                                         'seaport': 'Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni'},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IR',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/iran'},
@@ -6700,14 +7237,14 @@ P1_CC2 = \
                                             'a huge percentage of the cell phones in the market have been smuggled '
                                             'into the country',
                                             2019],
-                              'general': [ 'opportunities for telecoms growth, but disadvantaged by the lack of '
-                                           'significant investment',
-                                           'one of the largest populations in the Middle East with a huge demand for '
-                                           'services',
-                                           'mobile penetration is high with over 90% accessing 4G LTE coverage',
-                                           'Iranian-net, is currently expanding a fiber network to reach 8 million '
-                                           'customers',
-                                           'govt. is proactively preparing regulations for 5G development',
+                              'general': [ 'challenged by censorship and international sanctions',
+                                           'large, youthful, tech-savvy demographic with unmet demand',
+                                           'state-owned operators provided special offerings for services during '
+                                           'pandemic, driving mobile broadband and deployment of 4G to nearly all of '
+                                           'the population',
+                                           'government expanding fiber network and preparing for 5G to grow digital '
+                                           'economy and smart city infrastructure',
+                                           'importer of broadcasting and computer equipment from UAE and China (2021)',
                                            2020],
                               'intl': [ 'landing points for Kuwait-Iran, GBICS & MENA, FALCON, OMRAN/3PEG Cable '
                                         'System, POI and UAE-Iran submarine fiber-optic cable to the Middle East, '
@@ -6718,14 +7255,18 @@ P1_CC2 = \
                                         'Afghanistan, Turkmenistan, Syria, Kuwait, Tajikistan, and Uzbekistan',
                                         'satellite earth stations - 13 (9 Intelsat and 4 Inmarsat)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 9806123, 'fix': 29330454, 'internet': 58117322, 'mob': 119598034},
+                              'subs': {'bb': 8771251, 'fix': 28954855, 'internet': 58117322, 'mob': 118061419},
                               'tld': '.ir',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ir'}},
           'mcc': ['432'],
@@ -6742,6 +7283,7 @@ P1_CC2 = \
                       '43232',
                       '43235',
                       '43240',
+                      '43245',
                       '43250',
                       '43270',
                       '43271',
@@ -6772,12 +7314,17 @@ P1_CC2 = \
                                             '37 per 100 for fixed line and 122 per 100 for mobile-cellular '
                                             'subscriptions',
                                             2019],
-                              'general': [ 'telecommunications infrastructure is modern and fully digitized, with '
-                                           'satellite-earth stations, fiber-optic cables, and an extensive broadband '
-                                           'network',
-                                           'LTE licenses providing 99% population coverage',
-                                           'small but most progressive telecom market in Europe',
+                              'general': [ 'small but most progressive telecom market in Europe',
+                                           'telecom infrastructure is modern and fully digitized, with satellite-earth '
+                                           'stations, fiber-optic cables, and an extensive broadband network',
+                                           'near universal fixed broadband service of at least 100Mb/s by the end of '
+                                           '2021',
+                                           'operator aims for national 5G coverage by end of 2022',
                                            'good competition among mobile and broadband markets',
+                                           'investment by operators and government in support of NGN, particularly in '
+                                           'rural areas',
+                                           'submarine cable to Ireland',
+                                           'importer of broadcasting equipment from Vietnam and China (2021)',
                                            2020],
                               'intl': [ 'landing points for the CANTAT-3, FARICE-1, Greenland Connect and DANICE '
                                         'submarine cable system that provides connectivity to Canada, the Faroe '
@@ -6787,14 +7334,18 @@ P1_CC2 = \
                                         'note - Iceland shares the Inmarsat earth station with the other Nordic '
                                         'countries (Denmark, Finland, Norway, and Sweden)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 136556, 'fix': 128597, 'internet': 340117, 'mob': 423390},
+                              'subs': {'bb': 139241, 'fix': 125567, 'internet': 340117, 'mob': 413446},
                               'tld': '.is',
                               'url_tld': 'https://en.wikipedia.org/wiki/.is'}},
           'mcc': ['274'],
@@ -6844,11 +7395,13 @@ P1_CC2 = \
                                             'subscriptions',
                                             2019],
                               'general': [ 'well-developed, fully automated telephone, and data services',
-                                           'highest mobile penetration rates in Europe, benefitted from progressive '
-                                           'govt. programs aimed at developing fiber in broadband sector',
-                                           'leading edge of development with 5G in 6 cities',
-                                           'regulator consults on extending 3.5 Gz licensing',
-                                           'fiber network reaches 60% of population',
+                                           'among highest mobile penetration rates in Europe',
+                                           'benefitted from progressive government programs aimed at developing fiber '
+                                           'in broadband sector',
+                                           'leading edge of development with 5G in six cities',
+                                           'fiber network reaches more than half of population',
+                                           'Milan developing smart city technology',
+                                           'importer of broadcasting equipment and computers from China (2021)',
                                            2020],
                               'intl': [ 'landing points for Italy-Monaco, Italy-Libya, Italy-Malta, Italy-Greece-1, '
                                         'Italy-Croatia, BlueMed, Janna, FEA, SeaMeWe-3 & 4 & 5, Trapani-Kelibia, '
@@ -6859,14 +7412,18 @@ P1_CC2 = \
                                         'satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for '
                                         'Atlantic Ocean and 2 for Indian Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 17060505, 'fix': 20196475, 'internet': 46305301, 'mob': 82955151},
+                              'subs': {'bb': 17470489, 'fix': 19519434, 'internet': 46305301, 'mob': 79480756},
                               'tld': '.it',
                               'url_tld': 'https://en.wikipedia.org/wiki/.it'}},
           'mcc': ['222'],
@@ -6924,12 +7481,16 @@ P1_CC2 = \
                               'intl': [ 'landing points for the INGRID, UK-Channel Islands-8, and Guernsey-Jersey-4, '
                                         'submarine cable connectivity to Guernsey, the UK, and France',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 55938, 'internet': 58000, 'mob': 122668},
                               'tld': '.je',
@@ -6960,8 +7521,16 @@ P1_CC2 = \
                                             'cellular-mobile has grown 103 per 100 subscriptions',
                                             2019],
                               'general': [ 'good domestic and international service',
-                                           'mobile sector dominates, accounting for 82% of the Internet connections',
-                                           'extensive LTE networks providing coverage to 90% of the island population',
+                                           'mobile sector dominates, accounting for majority of the Internet '
+                                           'connections and half of telecom sector revenue',
+                                           'extensive LTE networks providing coverage to most of the island population',
+                                           'regulator encouraging competition with little success due to breach of '
+                                           'license',
+                                           'government announced support of national broadband network to aid access '
+                                           'to education, hospitals, police, and municipal institutions',
+                                           'operators provided customers with data plans to support educational '
+                                           'platforms',
+                                           'US grant to fund New Kingston smart city program (2021)',
                                            2020],
                               'intl': [ 'and 1-658',
                                         'landing points for the ALBA-1, CFX-1, Fibralink, East-West, and '
@@ -6969,14 +7538,18 @@ P1_CC2 = \
                                         'America, parts of the Caribbean, Central America and the US',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 284756, 'fix': 379420, 'internet': 1548618, 'mob': 2882469},
+                              'subs': {'bb': 317907, 'fix': 398048, 'internet': 1548618, 'mob': 3023873},
                               'tld': '.jm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.jm'}},
           'mcc': ['338'],
@@ -7015,29 +7588,33 @@ P1_CC2 = \
                                             'currently fixed-line 4 per 100 persons and multiple mobile-cellular '
                                             'providers with subscribership up to 77 per 100 persons',
                                             2019],
-                              'general': [ 'microwave radio relay transmission and coaxial and fiber-optic cable are '
-                                           'employed on trunk lines',
-                                           'growing mobile-cellular usage in both urban and rural areas is reducing '
-                                           'use of fixed-line services',
-                                           "recent influx of refugees putting burden on country's economy, "
-                                           'infrastructure and society',
-                                           'mobile broadband is area of growth with 4G services',
-                                           'govt. recently launched Ministry of Digital Economy & Entrepreneurship',
-                                           'preparing for next wave of development with 5G and IoT/MsM services',
+                              'general': [ 'Jordan is host to a growing number of ICT companies and has emerged as a '
+                                           'technology start-up hub for the Middle East',
+                                           'recently focused on telecom solutions to pandemic issues such as e-health '
+                                           'and education',
+                                           'progress in the digital financial services',
+                                           'economic goals rely on digital economy, developed mobile sector, and '
+                                           'extensive LTE infrastructure',
+                                           'preparation for 5G and e-commerce',
+                                           'importer of broadcasting equipment from Vietnam and China (2021)',
                                            2020],
                               'intl': [ 'landing point for the FEA and Taba-Aqaba submarine cable networks providing '
                                         'connectivity to Europe, the Middle East, Southeast Asia and Asia',
                                         'satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and '
                                         'maritime Inmarsat terminals',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 399596, 'fix': 375576, 'internet': 6985174, 'mob': 8215735},
+                              'subs': {'bb': 457496, 'fix': 355537, 'internet': 6985174, 'mob': 7778770},
                               'tld': '.jo',
                               'url_tld': 'https://en.wikipedia.org/wiki/.jo'}},
           'mcc': ['416'],
@@ -7068,15 +7645,14 @@ P1_CC2 = \
                                             'subscriptions',
                                             2019],
                               'general': [ 'excellent domestic and international service',
-                                           'exceedingly high mobile, mobile broadband and fixed broadband penetration',
-                                           'strong govt. policies for over a decade see over 90% of households with '
-                                           'FttX',
+                                           'exceedingly high mobile, mobile broadband, and fixed broadband penetration',
+                                           'in last decade, government policies supported delivery of fiber-optic '
+                                           'broadband to over 90% of households',
                                            "one of Japan's largest e-commerce companies planning to build its own "
                                            'nationwide stand-alone 5G mobile network',
-                                           'govt. to implement a telecom tax to pay for rural 5G network',
-                                           'FttH will continue to increase its share of total fixed broadband '
-                                           'subscriptions as DSL is phased out',
-                                           'mature telecom system will show slow growth in the next few years to 2024',
+                                           'government to implement a telecom tax to pay for rural 5G network',
+                                           'fixed broadband subscriptions grow as DSL is phased out',
+                                           'major importer of integrated circuits from China (2020)',
                                            2020],
                               'intl': [ 'numerous submarine cables with landing points for HSCS, JIH, RJCN, APCN-2, '
                                         'JUS, EAC-C2C, PC-1, Tata TGN-Pacific, FLAG North Asia Loop/REACH North Asia '
@@ -7088,14 +7664,18 @@ P1_CC2 = \
                                         'Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean '
                                         'regions), and 8 SkyPerfect JSAT',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 41496293, 'fix': 62775494, 'internet': 106725643, 'mob': 175187425},
+                              'subs': {'bb': 42502489, 'fix': 62743196, 'internet': 106725643, 'mob': 186514109},
                               'tld': '.jp',
                               'url_tld': 'https://en.wikipedia.org/wiki/.jp'}},
           'mcc': ['440', '441'],
@@ -7252,15 +7832,17 @@ P1_CC2 = \
                                             'a boom in mobile-cellular telephone usage with teledensity reaching 104 '
                                             'per 100 persons',
                                             2019],
-                              'general': [ 'the mobile-cellular system is generally good with a mobile subscriber base '
-                                           'of 47 million, especially in urban areas',
-                                           'fixed-line telephone system is small and inefficient',
-                                           'trunks are primarily microwave radio relay',
-                                           'to encourage advancement of the LTE services the govt. has fostered an '
-                                           'open-access approach and pushed for a national broadband strategy',
-                                           'more licensing being awarded has led to competition which is good for '
-                                           'growth',
-                                           'govt. commits KE 300 million to its free Wi-Fi project',
+                              'general': [ "through increased competition, Kenya's telecom market has improved "
+                                           'international bandwidth and experienced rapid development in mobile '
+                                           'sector, including remote regions',
+                                           'four fiber-optic submarine cables reduced costs and increased service to '
+                                           'population',
+                                           'government supported LTE and broadband, promising economic support of free '
+                                           'WiFi',
+                                           'mobile operators progress with 5G tests',
+                                           'e-commerce interoperability',
+                                           'importer of broadcasting equipment, video displays, and computers from '
+                                           'China (2021)',
                                            2020],
                               'intl': [ 'landing point for the EASSy, TEAMS, LION2, DARE1, PEACE Cable, and SEACOM '
                                         'fiber-optic submarine cable systems covering East, North and South Africa, '
@@ -7268,14 +7850,18 @@ P1_CC2 = \
                                         'satellite earth stations - 4 Intelsat',
                                         'launched first micro satellites in 2018',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 371498, 'fix': 68072, 'internet': 9129243, 'mob': 54336841},
+                              'subs': {'bb': 491183, 'fix': 70394, 'internet': 9129243, 'mob': 54555497},
                               'tld': '.ke',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ke'}},
           'mcc': ['639'],
@@ -7316,14 +7902,17 @@ P1_CC2 = \
                                             'urban areas',
                                             'mobile-cellular subscribership up to over 134 per 100 persons',
                                             2019],
-                              'general': [ 'fixed-line phones declining quickly by roll-out of 4G LTE mobile networks',
-                                           'digital radio-relay stations, and fiber-optic links',
-                                           'low fixed-line and fixed-broadband penetration and moderate mobile '
-                                           'broadband penetration',
-                                           'international connectivity continues to grow',
-                                           '4 mobile networks in operation',
-                                           '4G networks cover over 50% of the nation, eventually 5G networks will be '
-                                           'available',
+                              'general': [ 'fixed-line declining as 4G LTE mobile is universally available',
+                                           'brief interruptions of service with security as pretext',
+                                           'ICT sector rocked by allegation of corruption in 2020',
+                                           'digital radio-relay stations and fiber-optic links',
+                                           '5G in development',
+                                           'importer of broadcasting equipment from UAE and computers from China',
+                                           'Chinese Economic Corridor investment into domestic backbone',
+                                           'World Bank investment into digital infrastructure with aims to provide '
+                                           'broadband Internet to 60% of the population',
+                                           'social disparity evident in pandemic as many school children could not '
+                                           'attend classes on-line (2021)',
                                            2020],
                               'intl': [ 'connections with other CIS (Commonwealth of Independent States, 9 members '
                                         'post-Soviet Republics in EU) countries by landline or microwave radio relay '
@@ -7331,14 +7920,18 @@ P1_CC2 = \
                                         'gateway switch and by satellite',
                                         'satellite earth stations - 2 (1 Intersputnik, 1 Intelsat)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 355640, 'fix': 275311, 'internet': 2222732, 'mob': 7940306},
+                              'subs': {'bb': 269091, 'fix': 298855, 'internet': 2222732, 'mob': 8622565},
                               'tld': '.kg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kg'}},
           'mcc': ['437'],
@@ -7370,32 +7963,31 @@ P1_CC2 = \
                                             'mobile-cellular usage, aided by competition among service providers, has '
                                             'increased to about 130 per 100 persons',
                                             2019],
-                              'general': [ 'well on its way to rollout 5G services, Chinese company Huawei dealing '
-                                           'with the infrastructure for the 5G rollout',
-                                           'mobile-cellular phone systems are widely used in urban areas to bypass '
-                                           'deficiencies in the fixed-line network',
-                                           'mobile-phone coverage is rapidly spreading in rural areas',
-                                           'competition among mobile operators strong',
-                                           'about 50% of Cambodians own at least one smart phone',
-                                           'in 2018, the MPTC began a free Wi-Fi service for visitors and residents of '
-                                           'Phnom Penh, in selected parks around the city customers can access free '
-                                           'Wi-Fi services',
-                                           'fixed broadband penetration is predicted to reach over 2% by 2023',
-                                           'in 2021, Cambodia hopes to launch it first communications satellite into '
-                                           'orbit',
+                              'general': [ "Cambodia's telecom infrastructure struggles with poor infrastructure and "
+                                           'power outages',
+                                           'improvement through competition and foreign investment',
+                                           'fixed-line and fixed/mobile broadband penetration is still low compared to '
+                                           'other Asian nations',
+                                           "government and operators preparing for 5G services through Huawei's "
+                                           'infrastructure that will drive mobile broadband through faster speeds',
+                                           'online Internet content subject to government restrictions (2021)',
                                            2020],
                               'intl': [ 'landing points for MCT and AAE-1 via submarine cables providing communication '
                                         'to Asia, the Middle East, Europe and Africa',
                                         'satellite earth station - 1 Intersputnik (Indian Ocean region)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 166200, 'fix': 56749, 'internet': 6579808, 'mob': 21684767},
+                              'subs': {'bb': 184379, 'fix': 56445, 'internet': 6579808, 'mob': 21418681},
                               'tld': '.kh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kh'}},
           'mcc': ['456'],
@@ -7433,14 +8025,18 @@ P1_CC2 = \
                                         'Australia, 7 Pacific Ocean island countries to the US',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 884, 'fix': 22, 'internet': 15946, 'mob': 51401},
+                              'subs': {'bb': 105, 'fix': 22, 'internet': 15946, 'mob': 54658},
                               'tld': '.ki',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ki'}},
           'mcc': ['545'],
@@ -7484,14 +8080,18 @@ P1_CC2 = \
                                         'Europe',
                                         'HF radiotelephone communications to Madagascar and Reunion',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1531, 'fix': 9840, 'internet': 69635, 'mob': 563722},
+                              'subs': {'bb': 1181, 'fix': 10042, 'internet': 69635, 'mob': 575218},
                               'tld': '.km',
                               'url_tld': 'https://en.wikipedia.org/wiki/.km'}},
           'mcc': ['654'],
@@ -7528,12 +8128,16 @@ P1_CC2 = \
                               'intl': [ 'landing points for the ECFS, Southern Caribbean Fiber and the SSCS submarine '
                                         'cables providing connectivity for numerous Caribbean Islands',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 16400, 'fix': 17766, 'internet': 42852, 'mob': 78970},
                               'tld': '.kn',
@@ -7569,27 +8173,30 @@ P1_CC2 = \
                                             'considerable progress in expanding to other parts of the country since',
                                             'fixed-lines are 5 per 100 and mobile-cellular 15 per 100 persons',
                                             2019],
-                              'general': [ 'nationwide fiber-optic network',
-                                           'mobile-cellular service expanded beyond Pyongyang',
-                                           'infrastructure underdeveloped yet growing mobile penetration by means of '
-                                           'foreign investment',
-                                           'Chinese services being increasingly favored and FaceBook and Instagram '
-                                           'actions dropped and now absent',
+                              'general': [ 'underdeveloped yet growing market dependent on 3G',
+                                           'nationwide fiber-optic network',
+                                           'some mobile-cellular service beyond Pyongyang',
+                                           'remote areas on manual switchboards',
+                                           'though currently under sanction, dependent on foreign investment '
+                                           '(primarily Chinese) for equipment and infrastructure',
                                            'low broadband penetration',
-                                           'mobile penetration in North Korea believed to stay well below other Asian '
-                                           'nations due to government restrictions',
-                                           '3G network deployed among universal population',
+                                           'international communication restricted and domestic use monitored by state '
+                                           '(2021)',
                                            2020],
                               'intl': [ 'satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian '
                                         'Ocean region)',
                                         'other international connections through Moscow and Beijing',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 1183806, 'mob': 3821857},
                               'tld': '.kp',
@@ -7631,18 +8238,17 @@ P1_CC2 = \
                                             2019],
                               'general': [ 'excellent domestic and international services featuring rapid '
                                            'incorporation of new technologies',
-                                           'ranked 2nd out of 34 Asian telecom companies',
-                                           'exceedingly high mobile and mobile broadband penetration and very high '
-                                           'fixed broadband penetration',
-                                           'highest number of broadband per capita',
-                                           'strong support from govt., savvy population has catapulted the nation into '
-                                           "one of the world's most active telecommunication markets",
-                                           '5G services live for enterprise customers in 2019, all 3 mobile operators '
-                                           'offer 5G networks',
-                                           'slower growth predicted over the next five years to 2023 due to saturation '
-                                           'and maturity of market',
-                                           'Chinese telecommunications company Huawei has partnered with other MNOs in '
-                                           'South Korea',
+                                           'exceedingly high mobile, mobile broadband, and fixed broadband penetration',
+                                           'strong support from government for initiatives',
+                                           "tech-savvy population has catapulted the nation into one of the world's "
+                                           'most active telecommunication markets',
+                                           'all mobile operators offer 5G networks',
+                                           'Chinese telecom Huawei partnered with operators including launch of Seoul '
+                                           'TechCity',
+                                           'import of integrated circuits, broadcasting equipment, and phones from '
+                                           'China',
+                                           'government and private partnership on national e-commerce and smart city '
+                                           'development (2021)',
                                            2020],
                               'intl': [ 'landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, FLAG North Asia '
                                         'Loop/REACH North Asia Loop, KJCN, NCP, and SJC2 submarine cables providing '
@@ -7650,14 +8256,18 @@ P1_CC2 = \
                                         'Asia and US',
                                         'satellite earth stations - 66',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 21285858, 'fix': 24924607, 'internet': 49309955, 'mob': 69445005},
+                              'subs': {'bb': 21906172, 'fix': 24727415, 'internet': 49309955, 'mob': 68892541},
                               'tld': '.kr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kr'}},
           'mcc': ['450'],
@@ -7686,15 +8296,15 @@ P1_CC2 = \
                                             2019],
                               'general': [ 'the quality of service is excellent',
                                            'new telephone exchanges provide a large capacity for new subscribers',
-                                           'trunk traffic is carried by microwave radio relay, coaxial cable, and '
-                                           'open-wire and fiber-optic cable',
+                                           'trunk traffic is carried by microwave radio relay, coaxial cable, '
+                                           'open-wire, and fiber-optic cable',
                                            'a 4G LTE mobile-cellular telephone system operates throughout Kuwait',
                                            'Internet access is available via 4G LTE connections for fixed and mobile '
                                            'users',
-                                           'high ownership of smart phone in Kuwait',
+                                           'high ownership levels of smart phones in Kuwait',
                                            'one of the highest mobile penetration rates in the world',
                                            'exploring 5G opportunities',
-                                           'improvements to fiber-broadband underway',
+                                           'improvements to fiber-broadband underway (2020)',
                                            2020],
                               'intl': [ 'landing points for the FOG, GBICS, MENA, Kuwait-Iran, and FALCON submarine '
                                         'cables linking Africa, the Middle East, and Asia',
@@ -7702,14 +8312,18 @@ P1_CC2 = \
                                         'satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian '
                                         'Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 103821, 'fix': 368305, 'internet': 2904801, 'mob': 5147990},
+                              'subs': {'bb': 84595, 'fix': 583463, 'internet': 2904801, 'mob': 7327028},
                               'tld': '.kw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kw'}},
           'mcc': ['419'],
@@ -7751,12 +8365,16 @@ P1_CC2 = \
                                         'South America',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 24535, 'fix': 33338, 'internet': 48328, 'mob': 92691},
                               'tld': '.ky',
@@ -7794,25 +8412,30 @@ P1_CC2 = \
                                             'mobile-cellular usage increased rapidly and the subscriber base '
                                             'approaches 139 per 100 persons',
                                             2019],
-                              'general': [ 'one of the most progressive telecoms sectors in Central Asia',
+                              'general': [ 'one of the most progressive telecom sectors in Central Asia',
                                            'vast 4G network',
-                                           'low fixed-line and fixed-broadband penetration, moderate mobile broadband '
-                                           'penetration and high mobile penetration',
-                                           'mobile market highly competitive and slow growth due to saturation',
+                                           'low fixed-line and fixed-broadband penetration',
+                                           'moderate mobile broadband penetration and high mobile penetration',
+                                           'mobile market highly competitive and growth is slow due to saturation '
+                                           '(2020)',
                                            2020],
                               'intl': [ 'international traffic with other former Soviet republics and China carried by '
                                         'landline and microwave radio relay and with other countries by satellite and '
                                         'by the TAE fiber-optic cable',
                                         'satellite earth stations - 2 Intelsat',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2462900, 'fix': 3275584, 'internet': 14789448, 'mob': 26223595},
+                              'subs': {'bb': 2511100, 'fix': 3072500, 'internet': 14789448, 'mob': 25717700},
                               'tld': '.kz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kz'}},
           'mcc': ['401'],
@@ -7847,30 +8470,34 @@ P1_CC2 = \
                      'tel': { 'code': '856',
                               'domestic': [ 'fixed-line 21 per 100 and 61 per 100 for mobile-cellular subscriptions',
                                             2019],
-                              'general': [ 'the government relies on a radiotelephone network to communicate with '
-                                           'remote areas',
-                                           'the regulatory reform is below industry standards but is trying to '
-                                           'strengthen its telecommunication infrastructure and subsequently attract '
-                                           'foreign investment',
-                                           'low fixed-broadband penetration due to dominance of mobile platforms',
-                                           'strong boost in mobile broadband penetration but still low compared to '
-                                           'other Asian markets',
-                                           'mobile sector growth held back by regulators trying to keep hold on '
-                                           'pricing and open competition',
-                                           'development of mobile broadband Internet services given the expansion of '
-                                           '4G services',
+                              'general': [ 'reliance on radio network to communicate with remote areas',
+                                           'regulatory reform is below industry standards',
+                                           'government aims to strengthen infrastructure and attract foreign '
+                                           'investment',
+                                           'low fixed-broadband penetration',
+                                           'dominance in mobile broadband with 4G and LTE, but low compared to other '
+                                           'Asian markets',
+                                           'ASEAN Digital Hub investment provides international capacity',
+                                           'state owns almost all media, except for some entertainment outlets, and '
+                                           'has suppressed some news',
+                                           'importer of broadcasting equipment and computers from China',
+                                           'providers examining m-payment platforms and 5G tests (2021)',
                                            2020],
                               'intl': [ 'satellite earth station - 1 Intersputnik (Indian Ocean region) and a second '
                                         'to be developed by China',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 45379, 'fix': 1526232, 'internet': 1845437, 'mob': 4466375},
+                              'subs': {'bb': 45379, 'fix': 1490831, 'internet': 1845437, 'mob': 4362183},
                               'tld': '.la',
                               'url_tld': 'https://en.wikipedia.org/wiki/.la'}},
           'mcc': ['457'],
@@ -7899,25 +8526,36 @@ P1_CC2 = \
                      'tel': { 'code': '961',
                               'domestic': [ 'fixed-line 13 per 100 and 62 per 100 for mobile-cellular subscriptions',
                                             2019],
-                              'general': [ 'two mobile-cellular networks provide good service, with 4G LTE services',
-                                           'future improvements to fiber-optic infrastructure for total nation '
-                                           'coverage proposed by 2020',
-                                           'in 2018 first successful 5G trial conducted and in 2019 first live mobile '
-                                           '5G site launched, unfortunately, the COVID-19 pandemic has impacted '
-                                           'telecoms industry and pricing has been raised',
+                              'general': [ 'struggling with effects of economic malaise during pandemic and following '
+                                           'explosion in Beirut port',
+                                           "Lebanon's telecom infrastructure is relatively weak, and services are "
+                                           'expensive',
+                                           'rural areas are less connected and have power cuts',
+                                           'state retains a monopoly over the Internet backbone and dominant ownership '
+                                           'of the telecom industry',
+                                           'government backed improvements to fixed infrastructure',
+                                           'new landlines and fiber-optic networks provide faster DSL',
+                                           'limited 5G services',
+                                           'three international gateways through submarine cables',
+                                           'importer of broadcasting equipment from UAE',
+                                           'UAE investment in tech solutions (2021)',
                                            2020],
                               'intl': [ 'landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to '
                                         'Europe, Africa, the Middle East and Asia',
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 9395, 'fix': 752547, 'internet': 4769039, 'mob': 3614797},
+                              'subs': {'bb': 420000, 'fix': 882175, 'internet': 4769039, 'mob': 4237962},
                               'tld': '.lb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lb'}},
           'mcc': ['415'],
@@ -7957,12 +8595,16 @@ P1_CC2 = \
                                         'Grenadines',
                                         'tropospheric scatter to Barbados',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 32265, 'fix': 33285, 'internet': 84112, 'mob': 168797},
                               'tld': '.lc',
@@ -7994,14 +8636,18 @@ P1_CC2 = \
                                            'fiber network reaches 3/4 of the population',
                                            2020],
                               'intl': ['linked to Swiss networks by cable and microwave radio relay', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 16712, 'fix': 14337, 'internet': 37815, 'mob': 49355},
+                              'subs': {'bb': 17173, 'fix': 13727, 'internet': 37815, 'mob': 47748},
                               'tld': '.li',
                               'url_tld': 'https://en.wikipedia.org/wiki/.li'}},
           'mcc': ['295'],
@@ -8052,14 +8698,18 @@ P1_CC2 = \
                                         'Australia, the Middle East, and Europe',
                                         'satellite earth stations - 2 Intelsat (Indian Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1544313, 'fix': 2641982, 'internet': 7700876, 'mob': 26160623},
+                              'subs': {'bb': 1666317, 'fix': 2291464, 'internet': 7700876, 'mob': 30778582},
                               'tld': '.lk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lk'}},
           'mcc': ['413'],
@@ -8086,28 +8736,33 @@ P1_CC2 = \
                                             'mobile-cellular subscription base growing and teledensity approached 57 '
                                             'per 100 persons',
                                             2019],
-                              'general': [ 'the limited services available are found almost exclusively in the '
-                                           'capital, Monrovia',
+                              'general': [ 'due to history of civil war and ruin of infrastructure, almost entirely '
+                                           'wireless telecom market',
+                                           'good competition for mobile services',
+                                           'high cost and limited bandwidth means Internet access is low',
+                                           'additional investment needed for increased submarine cable access',
+                                           'progress in creating an attractive business-friendly environment is '
+                                           'hampered by a weak regulatory environment, corruption, lack of '
+                                           'transparency, poor infrastructure, and low private sector capacity',
+                                           'rural areas have little access',
                                            'fixed-line service is stagnant and extremely limited',
-                                           'telephone coverage recently extended to a number of other towns and rural '
-                                           'areas by four mobile-cellular network operators',
-                                           'Liberia is almost entirely a wireless telecommunications market',
-                                           'a number of operators avoid paying dues and operate despite regulations',
-                                           'govt. regulatory impose SIM card registration in an attempt to reduce '
-                                           'crime, but makes mobile penetration seem low',
-                                           'the high cost and limited bandwidth of connections means that Internet '
-                                           'access is expensive and data rates are very low',
+                                           'operators introducing e-commerce',
+                                           'importer of broadcast equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing point for the ACE submarine cable linking 20 West African countries '
                                         'and Europe',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 8000, 'fix': 8394, 'internet': 383819, 'mob': 2793316},
                               'tld': '.lr',
@@ -8137,26 +8792,32 @@ P1_CC2 = \
                                             'microwave radio relay system, and a small radiotelephone communication '
                                             'system',
                                             2019],
-                              'general': [ 'mobile penetration remains below regional average',
-                                           'introduction of mobile broadband in the country & LTE technology, with 5G '
-                                           'trials in early 2019',
-                                           'fixed-line teledensity is low',
-                                           'mobile-cellular telephone system is growth sector',
-                                           'regulator considering improving SIM card registration',
+                              'general': [ 'small market with few business incentives',
+                                           'fixed-line tele-density and mobile penetration remains below regional '
+                                           'average',
+                                           'introduction of mobile broadband in the country and LTE technology',
+                                           '5G testing among first in region',
+                                           'landlocked, Lesotho has access to several submarine cables on African '
+                                           'coast through neighboring countries yet Internet is expensive',
+                                           'importer of broadcasting equipment and computers from South Africa (2021)',
                                            2020],
                               'intl': [ 'Internet accessibility has improved with several submarine fiber optic cables '
                                         "that land on African east and west coasts, but the country's land locked "
                                         'position makes access prices expensive',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 5763, 'fix': 7865, 'internet': 569114, 'mob': 2238186},
+                              'subs': {'bb': 6329, 'fix': 13426, 'internet': 569114, 'mob': 1583192},
                               'tld': '.ls',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ls'}},
           'mcc': ['651'],
@@ -8190,32 +8851,33 @@ P1_CC2 = \
                                             'decline in the number of fixed-line connections',
                                             'mobile-cellular teledensity stands at about 169 per 100 persons',
                                             2019],
-                              'general': [ 'adequate',
+                              'general': [ "Lithuania's small telecom market is among the most advanced in Europe, "
+                                           'with universal access to LTE, extensive fiber footprint, and tests of 5G',
+                                           'operators focus on data speeds',
                                            'improved international capability and better residential access',
-                                           'SIM card penetration is high for the region',
-                                           'prepaid sector accounts for most subscribers',
-                                           'postpaid subscribers is increasing',
-                                           'LTE networks available to more than 99% of the population',
-                                           'Lithuanian FttP (fiber to the home cable connections for Internet) '
-                                           'penetration ranked third highest in Europe',
-                                           'govt. and telecoms invest in fiber, fiber accounts for most new broadband '
-                                           'connections',
-                                           'effective competition with 3 network operators in mobile sector and all '
-                                           'investing in LTE and mobile data services',
+                                           'high SIM card penetration',
+                                           'increased demand for high-speed Internet for education, entertainment, and '
+                                           'shopping during pandemic supporting growth in revenue through fiber lines',
+                                           'importer of broadcast equipment and video displays from neighboring EU '
+                                           'countries (2021)',
                                            2020],
                               'intl': [ 'landing points for the BCS East, BCS East-West Interlink and NordBalt '
                                         'connecting Lithuania to Sweden, and Latvia',
                                         'further transmission by satellite',
                                         'landline connections to Latvia and Poland',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 788743, 'fix': 368515, 'internet': 2226806, 'mob': 4663627},
+                              'subs': {'bb': 791826, 'fix': 368213, 'internet': 2226806, 'mob': 4658823},
                               'tld': '.lt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lt'}},
           'mcc': ['246'],
@@ -8257,22 +8919,28 @@ P1_CC2 = \
                                             'mobile-cellular phones virtually saturated with 136 per 100 '
                                             'mobile-cellular',
                                             2019],
-                              'general': [ 'highly developed',
-                                           'by 2020 the government is to provide a 1Gb/s service to all citizens, and '
-                                           'to make Luxembourg the first fully fibered country in Europe',
-                                           'new law requiring SIM cards be registered has slowed down growth for '
-                                           'mobile subscribers',
-                                           'regulator planning a multi-spectrum auction for 5G use by mid-2020',
+                              'general': [ 'small but highly developed telecom system dominated by state-owned '
+                                           'operator',
+                                           'gains in fixed-line and drop in mobile/roving sector during 2020 travel '
+                                           'restrictions',
+                                           'government-state operator extended 1GB/s service with aims to make '
+                                           'Luxembourg the first fully fiber country in Europe',
+                                           'regulator completed auction for 5G spectrum',
+                                           'importer of broadcast equipment from China (2021)',
                                            2020],
                               'intl': [0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 224300, 'fix': 268043, 'internet': 587955, 'mob': 837890},
+                              'subs': {'bb': 230100, 'fix': 267400, 'internet': 587955, 'mob': 835900},
                               'tld': '.lu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lu'}},
           'mcc': ['270'],
@@ -8314,25 +8982,32 @@ P1_CC2 = \
                               'domestic': ['fixed-line 12 per 100 and mobile-cellular 109 per 100 subscriptions', 2019],
                               'general': [ 'recent efforts focused on bringing competition to the telecommunications '
                                            'sector',
-                                           'the number of fixed-line is decreasing as mobile-cellular telephone '
+                                           'the number of fixed-line phones is decreasing as mobile-cellular telephone '
                                            'service expands',
                                            'EU regulatory policies, and framework provide guidelines for growth',
-                                           'govt. adopted measures to build a national fiber broadband network, '
-                                           'part-funded by European Commission',
+                                           'government adopted measures to build a national fiber broadband network, '
+                                           'partially funded by European Commission',
                                            'new competition in mobile markets with extensive LTE-A technologies and 5G '
                                            'service growth',
+                                           'developing sophisticated digital economy with e-commerce and e-government '
+                                           'widely available',
+                                           "operator working on cable to Sakhalin in Russia's Far East (2021)",
                                            2020],
                               'intl': [ 'the Latvian network is now connected via fiber-optic cable to Estonia, '
                                         'Finland, and Sweden',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 525995, 'fix': 227149, 'internet': 1607711, 'mob': 2067174},
+                              'subs': {'bb': 508894, 'fix': 227616, 'internet': 1607711, 'mob': 2071814},
                               'tld': '.lv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lv'}},
           'mcc': ['247'],
@@ -8366,14 +9041,17 @@ P1_CC2 = \
                               'domestic': [ '24 per 100 fixed-line and 91 per 100 mobile-cellular subscriptions',
                                             'service generally adequate',
                                             2019],
-                              'general': [ 'political and security instability in Libya has disrupted its '
-                                           'telecommunications sector, but much of its infrastructure remains superior '
-                                           'to that in most other African countries',
-                                           'registering a SIM card now requires proof of ID',
-                                           'govt. established new independent regulatory authority',
-                                           'LTE-based fixed broadband network launched',
-                                           'highest market penetration rates in Africa',
-                                           'growth opportunity in broadband sector',
+                              'general': [ 'political and security instability in Libya has disrupted its telecom '
+                                           'sector, as warring factions make mobile towers a target and construction '
+                                           'workers regularly cut cables by mistake',
+                                           'much of its infrastructure remains superior to that in most other African '
+                                           'countries',
+                                           'rival operators fight for control',
+                                           'investment in fiber backbone and upgrades to international cables',
+                                           'limited LTE and 5G service',
+                                           'some satellite broadband',
+                                           'importer of broadcasting equipment from UAE and video displays from China '
+                                           '(2021)',
                                            2020],
                               'intl': [ 'landing points for LFON, EIG, Italy-Libya, Silphium and Tobrok-Emasaed '
                                         'submarine cable system connecting Europe, Africa, the Middle East and Asia',
@@ -8382,12 +9060,16 @@ P1_CC2 = \
                                         'tropospheric scatter to Greece',
                                         'participant in Medarabtel',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 168920, 'fix': 1618511, 'internet': 1440859, 'mob': 6182105},
                               'tld': '.ly',
@@ -8426,14 +9108,22 @@ P1_CC2 = \
                                             'relay links',
                                             'principal switching centers are Casablanca and Rabat',
                                             2019],
-                              'general': [ 'national network nearly 100% digital using fiber-optic links',
+                              'general': [ "despite Morocco's economic progress, the country suffers from high "
+                                           'unemployment and illiteracy affecting telecom market, particularly in '
+                                           'rural areas',
+                                           'national network nearly 100% digital using fiber-optic links',
                                            'improved rural service employs microwave radio relay',
                                            'one of the most state-of-the-art markets in Africa',
                                            'high mobile penetration rates in the region with low cost for broadband '
                                            'Internet access',
-                                           'improvement in LTE and VoD (Video on Demand) reach and capabilities',
-                                           'some market limitations with lack of competition',
-                                           'mobile internet accounts for 93.2% of all Internet connections',
+                                           'improvement in LTE reach and capabilities',
+                                           '5G tests underway',
+                                           'mobile Internet accounts for 93% of all Internet connections',
+                                           "World Bank provided funds for Morocco's digital transformation",
+                                           'government supported digital education during pandemic',
+                                           'submarine cables and satellite provide connectivity to Asia, Africa, the '
+                                           'Middle East, Europe, and Australia',
+                                           'importer of broadcasting equipment and video displays from China (2021)',
                                            2020],
                               'intl': [ 'landing point for the Atlas Offshore, Estepona-Tetouan, Canalink and '
                                         'SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide '
@@ -8441,14 +9131,18 @@ P1_CC2 = \
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat',
                                         'microwave radio relay to Gibraltar, Spain, and Western Sahara',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1552599, 'fix': 1982934, 'internet': 22596729, 'mob': 45065083},
+                              'subs': {'bb': 1751341, 'fix': 2054545, 'internet': 22596729, 'mob': 46666722},
                               'tld': '.ma',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ma'}},
           'mcc': ['604'],
@@ -8487,14 +9181,18 @@ P1_CC2 = \
                                         'no satellite earth stations',
                                         'connected by cable into the French communications system',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 19822, 'fix': 34903, 'internet': 29821, 'mob': 26725},
+                              'subs': {'bb': 20476, 'fix': 44119, 'internet': 29821, 'mob': 33783},
                               'tld': '.mc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mc'}},
           'mcc': ['212'],
@@ -8521,27 +9219,31 @@ P1_CC2 = \
                                             'little interest in expanding fixed-line service 27 per 100',
                                             'mobile-cellular teledensity sits at 89 per 100 persons',
                                             2019],
-                              'general': [ 'the mobile market has extended the reach of services to outside the cities '
-                                           'and across most of the country',
-                                           'endeavors to join the EU have promoted regulatory issues to be in line '
-                                           'with EU principles and standards',
+                              'general': [ 'high unemployment and economic pressures have reduced consumer spending in '
+                                           'telecom market',
+                                           'endeavors to join the EU have promoted regulatory issues in line with EU '
+                                           'standards',
+                                           'mobile market extended outside of cities and across most of the country',
                                            'LTE services available',
-                                           'market is competitive with 94 ISPs active',
-                                           'by mid-2019 fiber accounted for about 62% of all fixed broadband '
-                                           'connections',
-                                           'most telecom revenue is from the mobile market',
+                                           'market is competitive, fiber accounts for 62% of all fixed broadband '
+                                           'connections and most telecom revenue is from the mobile market',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'service through Romania and Russia via landline',
                                         'satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 623135, 'fix': 901317, 'internet': 2616792, 'mob': 3039990},
+                              'subs': {'bb': 670530, 'fix': 1071514, 'internet': 2616792, 'mob': 3613846},
                               'tld': '.md',
                               'url_tld': 'https://en.wikipedia.org/wiki/.md'}},
           'mcc': ['259'],
@@ -8576,24 +9278,28 @@ P1_CC2 = \
                                             'national coverage growing',
                                             'fixed-line 30 per 100 and mobile-cellular 183 per 100 persons',
                                             2019],
-                              'general': [ 'modern telecommunications system with access to European satellites',
-                                           'telecom sector in-line with EU norms which means competition, access and '
-                                           'tariff structures',
-                                           'DSL, cable, leased line, fiber and wireless available',
-                                           'seasonal tourist have boosted mobile penetration',
-                                           'wide availability of LTE technologies has made mobile broadband a viable '
-                                           'alternative to fixed-line broadband in rural areas',
-                                           '5G services anticipated in the future',
+                              'general': [ 'a small population, with a compact but modern telecommunications system '
+                                           'and access to European satellites',
+                                           'fiber network is dominant platform',
+                                           'mobile penetration is high due to tourism',
+                                           'mobile broadband based on LTE even in rural areas',
+                                           'operators testing 5G in 2021',
+                                           'telecom sector in-line with EU norms provides competition, access, and '
+                                           'tariff structures (2021)',
                                            2020],
                               'intl': ['2 international switches connect the national system', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 159029, 'fix': 183387, 'internet': 439311, 'mob': 1121870},
+                              'subs': {'bb': 178781, 'fix': 188175, 'internet': 439311, 'mob': 1150998},
                               'tld': '.me',
                               'url_tld': 'https://en.wikipedia.org/wiki/.me'}},
           'mcc': ['297'],
@@ -8633,12 +9339,16 @@ P1_CC2 = \
                               'intl': [ 'landing points for the SMPR-1, Southern Caribbean Fiber and the SSCS '
                                         'submarine cables providing connectivity to numerous Caribbean islands',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'internet': 1100},
                               'tld': '.mf',
@@ -8671,12 +9381,16 @@ P1_CC2 = \
                               'domestic': [ 'less than 1 per 100 for fixed-line and mobile-cellular teledensity about '
                                             '41 per 100 persons',
                                             2019],
-                              'general': [ 'system is above average for the region',
-                                           'competition among the four mobile service providers has spurred recent '
-                                           'growth in the mobile market and helped the service to be less expensive '
-                                           'for the consumer',
+                              'general': [ 'penetration rates below African average',
+                                           'competition among mobile service providers has spurred recent growth in '
+                                           'the mobile market and reduced consumer costs',
                                            '3G and LTE services available',
-                                           'Telecom service tax raised to 10%',
+                                           'fiber backbone connects major cities with wireless networks upgraded to '
+                                           'LTE',
+                                           'government committed to free WiFi hotspots to ensure universal access',
+                                           'telecom service tax raised to 10%',
+                                           'investment in submarine cable to South Africa and Mauritius',
+                                           'importer of broadcasting and video equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the EASSy, METISS, and LION fiber-optic submarine cable '
                                         'systems connecting to numerous Indian Ocean Islands, South Africa, and '
@@ -8684,12 +9398,16 @@ P1_CC2 = \
                                         'satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - '
                                         'Atlantic Ocean region)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 27211, 'fix': 68426, 'internet': 2516994, 'mob': 10677153},
                               'tld': '.mg',
@@ -8739,12 +9457,16 @@ P1_CC2 = \
                               'intl': [ 'satellite earth stations - 2 Intelsat (Pacific Ocean)',
                                         'US Government satellite communications system on Kwajalein',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 1000, 'fix': 3172, 'internet': 29290, 'mob': 21169},
                               'tld': '.mh',
@@ -8777,23 +9499,28 @@ P1_CC2 = \
                                   'the republic of north macedonia'],
                      'tel': { 'code': '389',
                               'domestic': ['fixed-line 19 per 100 and mobile-cellular 99 per 100 subscriptions', 2019],
-                              'general': [ 'being part of the EU pre-accession process has led to stronger teledensity '
-                                           'with a closer regulatory framework and independent regulators',
-                                           'administrative ties with the European Union have led to progress',
+                              'general': [ 'EU pre-accession process has led to stronger tele-density with a closer '
+                                           'regulatory framework and independent regulators',
+                                           'administrative ties with the EU have led to progress',
                                            'broadband services are widely available',
                                            'more customers moving to fiber networks',
-                                           '2 mobile network operators',
-                                           'end of roaming tariffs',
+                                           'operators investing in LTE',
+                                           'importer of broadcasting equipment from Vietnam and China',
+                                           'MOU for 5G with US (2021)',
                                            2020],
                               'intl': [0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 427964, 'fix': 402250, 'internet': 1677569, 'mob': 2094037},
+                              'subs': {'bb': 454300, 'fix': 400454, 'internet': 1677569, 'mob': 1921013},
                               'tld': '.mk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mk'}},
           'mcc': ['294'],
@@ -8827,31 +9554,33 @@ P1_CC2 = \
                                             'increasing use of local radio loops to extend network coverage to remote '
                                             'areas',
                                             2019],
-                              'general': [ 'telecoms infrastructure is barely adequate in most town and not available '
-                                           'in many areas of the country',
-                                           'geography is a challenge for telecommunications',
-                                           'poverty, security, high illiteracy and low PC use has taken its toll',
-                                           '4 mobile operators in market',
-                                           'mobile penetration high and potential for mobile broadband service',
-                                           'local plans for Internet Exchange Point',
-                                           'as Mali is landlocked there is hope that neighboring countries will allow '
-                                           'use of international bandwidth',
-                                           'G5 Sahel countries adopt free roaming measures',
-                                           'Chinese company Huawei attempts to build a national backbone network but '
-                                           'security issues make this difficult',
+                              'general': [ "Mali's telecom systems are challenged by recent conflict, geography, areas "
+                                           'of low population, poverty, security issues, and high illiteracy',
+                                           'telecom infrastructure is barely adequate in urban areas and not available '
+                                           'in most of the country with underinvestment in fixed-line networks',
+                                           'high mobile penetration and potential for mobile broadband service',
+                                           'local plans for IXP',
+                                           'dependent on neighboring countries for international bandwidth and access '
+                                           'to submarine cables',
+                                           'Chinese investment in infrastructure stymied by security issues',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'satellite communications center and fiber-optic links to neighboring '
                                         'countries',
                                         'satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean)',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 120934, 'fix': 227831, 'internet': 2395886, 'mob': 21850850},
+                              'subs': {'bb': 142522, 'fix': 242241, 'internet': 2395886, 'mob': 22925482},
                               'tld': '.ml',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ml'}},
           'mcc': ['610'],
@@ -8894,25 +9623,36 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line is 1 per 100, while mobile-cellular is 114 per 100 and shows '
                                             'great potential for the future',
                                             2019],
-                              'general': [ 'use to claim to be one of the last underdeveloped telecom markets in Asia',
-                                           'the mobile market has recently experienced rapid growth, in 2014 foreign '
-                                           'competition was allowed to compete in the market and now they have moved '
-                                           'from 1 operator to 3',
-                                           'low compared to other nations in the region, but expanding nationally',
-                                           'moving past fixed broadband to mobile device access for Internet services',
-                                           'rollout of 4G to eventually 5G networks',
+                              'general': [ 'Burma, one of the last underdeveloped telecom markets in Asia, saw growth '
+                                           'in mobile and broadband services through foreign competition and roll out '
+                                           'of 4G and 5G networks',
+                                           'infrastructure development challenged by flooding, unreliable electricity, '
+                                           'inefficient bureaucracy, and corruption',
+                                           'digital divide affects rural areas',
+                                           'fixed broadband remains low due to number of fixed-lines and near '
+                                           'saturation of the mobile platform',
+                                           'healthy m-banking platform',
+                                           'tests for NB-IoT',
+                                           'benefit from launch of regional satellite',
+                                           'government utilizes intermittent censorship and shut-down of Internet in '
+                                           'political crisis',
+                                           'top importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the SeaMeWe-3, SeaMeWe-5, AAE-1 and Singapore-Myanmar '
                                         'optical telecommunications submarine cable that provides links to Asia, the '
                                         'Middle East, Africa, Southeast Asia, Australia and Europe',
                                         'satellite earth stations - 2, Intelsat (Indian Ocean) and ShinSat',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 129050, 'fix': 544283, 'internet': 17064985, 'mob': 63877526},
                               'tld': '.mm',
@@ -8950,30 +9690,33 @@ P1_CC2 = \
                                             'there are four mobile-cellular providers and subscribership is increasing '
                                             'with 137 per 100 persons',
                                             2019],
-                              'general': [ 'liberalized and competitive telecoms market',
-                                           'mobile broadband seen steady growth, but fixed-line broadband is an '
-                                           'attractive option',
-                                           'a fiber-optic network has been installed that is improving broadband and '
-                                           'communication services between major urban centers with multiple companies '
-                                           'providing inter-city fiber-optic cable services',
-                                           "compared to other Asian countries, Mongolia's growth in telecommunications "
-                                           'is moderate',
-                                           'mobile broadband is growing with 4 competitive MNOs (mobile network '
-                                           'operators) along with better tariffs',
-                                           '3G mobile broadband products are very popular, launch of 4G LTE services '
-                                           'by all major operators',
-                                           'in May 2018 a South Korean company completed the sale of 40% stake back to '
-                                           'Mongolian government',
+                              'general': [ 'liberalized and competitive telecom market',
+                                           'steady growth in mobile broadband, but fixed-line broadband is still an '
+                                           'economical option',
+                                           'installation of a fiber-optic network improved broadband and communication '
+                                           'services between major urban centers',
+                                           "compared to other Asian countries, Mongolia's growth in telecom is "
+                                           'moderate',
+                                           'mobile broadband rate is growing through competition among operators with '
+                                           'reasonable tariffs',
+                                           'launch of 4G LTE services by all major operators',
+                                           'South Korean investment in landline and cellular services',
+                                           "partner in China's economic corridor project",
+                                           'import of broadcasting equipment from China (2020)',
                                            2020],
                               'intl': ['satellite earth stations - 7', 2016],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 306150, 'fix': 385191, 'internet': 735823, 'mob': 4297643},
+                              'subs': {'bb': 317317, 'fix': 351361, 'internet': 735823, 'mob': 4418919},
                               'tld': '.mn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mn'}},
           'mcc': ['428'],
@@ -8998,26 +9741,34 @@ P1_CC2 = \
                                   'macau special administrative region'],
                      'tel': { 'code': '853',
                               'domestic': ['fixed-line 20 per 100 and mobile-cellular 345 per 100 persons', 2019],
-                              'general': [ 'modern communication facilities maintained for domestic and international '
+                              'general': [ "Macau's sophisticated telecom market boasts one of the highest mobile "
+                                           'penetration rates in the world due to high tourism',
+                                           'liberalized market is managed by independent regulator with effective '
+                                           'competition in the mobile market',
+                                           'modern communication facilities maintained for domestic and international '
                                            'services',
-                                           'high mobile subscriber numbers and mobile penetration with 4 network '
-                                           'operators',
-                                           'offering 4G, LTE services and 1st phase of 5G network rollout',
+                                           'high mobile subscriber numbers and mobile penetration',
+                                           'offering 4G, LTE services and first phase of 5G network rollout',
                                            'possible synchronizing with neighboring regions',
                                            "Macau's smart city project spans areas of transportation, medical "
-                                           'services, tourism and 3-government',
+                                           'services, tourism, and e-government',
+                                           'importer of broadcast and video equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing point for the SEA-ME-WE-3 submarine cable network that provides links '
                                         'to Asia, Africa, Australia, the Middle East, and Europe',
                                         'HF radiotelephone communication facility',
                                         'satellite earth station - 1 Intelsat (Indian Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 193057, 'fix': 119355, 'internet': 508052, 'mob': 2108274},
                               'tld': '.mo',
@@ -9059,12 +9810,16 @@ P1_CC2 = \
                                         'Mariana islands to Guam',
                                         'satellite earth stations - 2 Intelsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 20398, 'internet': 16000},
                               'tld': '.mp',
@@ -9112,30 +9867,34 @@ P1_CC2 = \
                                             'a domestic satellite telecommunications system links Nouakchott with '
                                             'regional capitals',
                                             2019],
-                              'general': [ 'limited system of cable and open-wire lines, minor microwave radio relay '
-                                           'links, and radiotelephone communications stations',
-                                           'mobile-cellular services expanding',
-                                           '3 mobile network operators',
-                                           'monopolies and little stimulus for competition',
-                                           '3G penetration high yet little development in LTE and consequently mobile '
-                                           'broadband access speeds are low',
-                                           'World Bank and European Investment Bank support attempts to improve '
-                                           'telecom and improve regulatory measures',
-                                           'regulator struggles to enforce good quality of service',
-                                           'efforts to improve backbone of network',
+                              'general': [ "Mauritania's small population and low economic output limit sustained "
+                                           'growth',
+                                           'transparency and tax burdens hinder foreign investment',
+                                           'World Bank and European Investment Bank support regulations to promote '
+                                           'fixed-line broadband, improvement of the national backbone network, and '
+                                           'connectivity to international cables',
+                                           'limited system of cable and open-wire lines, mobile-cellular services '
+                                           'expanding though monopolies, and little stimulus for competition',
+                                           '3G penetration high yet little development in LTE',
+                                           'mobile broadband access speeds are low',
+                                           'importer of broadcasting equipment from UAE (2021)',
                                            2020],
                               'intl': [ 'landing point for the ACE submarine cable for connectivity to 19 West African '
                                         'countries and 2 European countries',
                                         'satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 13222, 'fix': 53742, 'internet': 798809, 'mob': 4083199},
+                              'subs': {'bb': 10815, 'fix': 61858, 'internet': 798809, 'mob': 4710800},
                               'tld': '.mr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mr'}},
           'mcc': ['609'],
@@ -9175,12 +9934,16 @@ P1_CC2 = \
                                         'islands in the eastern Caribbean extending from the British Virgin Islands to '
                                         'Trinidad',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 3227, 'internet': 2860, 'mob': 5377},
                               'tld': '.ms',
@@ -9211,25 +9974,33 @@ P1_CC2 = \
                                             'automatic system featuring submarine cable and microwave radio relay '
                                             'between islands',
                                             2019],
-                              'general': [ 'one of the most advanced telecoms in Europe, high penetration of mobile '
-                                           'and broadband, and a way forward to expand e-commerce opportunities',
-                                           'stimulated by regulator measures to reduce consumer prices',
-                                           'extensive FttP network and investment in LTE and fiber thru 2023',
-                                           'launches 5G ready network',
+                              'general': [ 'blessed with advantageous topography and tech-savvy consumers, Malta has '
+                                           'one of the most advanced telecom systems in Europe, with high penetration '
+                                           'of mobile and broadband',
+                                           'expansion of e-commerce',
+                                           'government and regulator measures in 2020 reduced consumer prices and '
+                                           'allowed extensive FttP network and investment in LTE and fiber thru 2023',
+                                           'operator delivered fiber network to public schools in 2020',
+                                           'launch of 5G network by 2020',
+                                           'submarine cable to France and Egypt in progress (2021)',
                                            2020],
                               'intl': [ 'landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable '
                                         'System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine '
                                         'cable connections to Italy',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 191833, 'fix': 264557, 'internet': 365521, 'mob': 653414},
+                              'subs': {'bb': 202513, 'fix': 256838, 'internet': 365521, 'mob': 634386},
                               'tld': '.mt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mt'}},
           'mcc': ['278'],
@@ -9255,16 +10026,19 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line teledensity 34 per 100 persons and mobile-cellular services '
                                             'teledensity approaching 151 per 100 persons',
                                             2019],
-                              'general': [ 'small system with good service',
-                                           'LTE and fiber broadband service are available',
-                                           'government supports building a national Wi-Fi network',
-                                           'partial privatization of biggest telecommunications company, open to '
-                                           'competition',
-                                           '3 mobile network operators',
-                                           'the country is a hub for submarine cables providing international '
-                                           'connectivity',
-                                           'successfully pursuing a policy to make telecommunications a pillar of '
-                                           'economic growth and to have a fully digital-based infrastructure',
+                              'general': [ 'Mauritius is successfully pursuing a policy to make telecommunications a '
+                                           'pillar of economic growth, and to have a fully digital-based smart '
+                                           'infrastructure',
+                                           'the island nation is a pioneer in the telecom sector, with the first '
+                                           'market in greater Africa to launch mobile networks and provide 3G, the '
+                                           'first in the world to develop a nationwide WiMAX wireless broadband '
+                                           'network, and one of the first to launch IPTV',
+                                           'LTE and fiber broadband are nationally available, and the government '
+                                           'supports national Wi-Fi',
+                                           'international cable connectivity has improved, increasing bandwidth '
+                                           'capacity',
+                                           'submarine cable provides connectivity to South Africa and beyond',
+                                           'major importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the SAFE, MARS, IOX Cable System, METISS and LION '
                                         'submarine cable system that provides links to Asia, Africa, Southeast Asia, '
@@ -9273,14 +10047,18 @@ P1_CC2 = \
                                         'new microwave link to Reunion',
                                         'HF radiotelephone links to several countries',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 274200, 'fix': 470166, 'internet': 799470, 'mob': 2076577},
+                              'subs': {'bb': 307200, 'fix': 458700, 'internet': 799470, 'mob': 1866600},
                               'tld': '.mu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mu'}},
           'mcc': ['617'],
@@ -9314,22 +10092,25 @@ P1_CC2 = \
                                            'two mobile operators extend LTE coverage',
                                            'tourism has strengthened the telecom market with investment and accounts '
                                            'for the high mobile penetration rate',
-                                           'mobile penetration passes 250%',
-                                           'launches 5G trials',
+                                           'launched 5G tests (2020)',
                                            2020],
                               'intl': [ 'landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT Submarine '
                                         'Cable Networks and WARF submarine cables providing connections to 8 points in '
                                         'Maldives, India, and Sri Lanka',
                                         'satellite earth station - 3 Intelsat (Indian Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 53470, 'fix': 12316, 'internet': 248004, 'mob': 611662},
+                              'subs': {'bb': 52976, 'fix': 16664, 'internet': 248004, 'mob': 828042},
                               'tld': '.mv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mv'}},
           'mcc': ['472'],
@@ -9355,30 +10136,31 @@ P1_CC2 = \
                                             'and is based around the main urban areas',
                                             'mobile-cellular subscribership 48 per 100 households',
                                             2019],
-                              'general': [ 'rudimentary',
-                                           '2 fixed-line and 3 mobile-cellular operators govern the market',
+                              'general': [ "Malawi remains one of the world's least developed countries, with few "
+                                           'resources to build efficient fixed-line telecom infrastructure',
+                                           'mobile penetration low compared to region with ample opportunity for '
+                                           'growth and competition',
                                            'some mobile services to rural areas',
-                                           'in a resolution to discourage crime the regulatory has imposed SIM card '
-                                           'registration since 2018',
-                                           '50 licensed ISPs',
-                                           'DSL services are available',
                                            'LTE services are available',
-                                           'mobile penetration low in comparison to the region average',
-                                           'potential for growth',
-                                           'national fiber backbone nearing completion',
-                                           'prospect of gaining access to international submarine fiber optic cables '
-                                           'from neighboring countries',
+                                           'national fiber backbone near completion',
+                                           'progress in m-payment methods',
+                                           'prospect of international submarine cables from neighboring countries',
+                                           'importer of broadcast equipment from China (2021)',
                                            2020],
                               'intl': [ 'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 11358, 'fix': 14357, 'internet': 2734305, 'mob': 9799352},
+                              'subs': {'bb': 11358, 'fix': 13101, 'internet': 2734305, 'mob': 8901027},
                               'tld': '.mw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mw'}},
           'mcc': ['650'],
@@ -9412,18 +10194,19 @@ P1_CC2 = \
                                             'mobile-cellular teledensity is about 95 per 100 persons',
                                             'domestic satellite system with 120 earth stations',
                                             2019],
-                              'general': [ 'adequate telephone service for business and government',
+                              'general': [ 'with a large population and relatively low broadband and mobile '
+                                           "penetration, Mexico's telecom sector has potential for growth",
+                                           'adequate telephone service for business and government',
                                            'improving quality and increasing mobile cellular availability, with mobile '
                                            'subscribers far outnumbering fixed-line subscribers',
-                                           'relatively low broadband and mobile penetration, potential for growth',
+                                           'relatively low broadband and mobile penetration, potential for growth and '
+                                           'international investment',
                                            'extensive microwave radio relay network',
                                            'considerable use of fiber-optic cable and coaxial cable',
-                                           'two main MNOs despite efforts for competition',
                                            '5G development slow given the existing capabilities of LTE',
-                                           'Mexico&rsquo',
-                                           's first local Internet Exchange Point opens in Mexico City',
-                                           'regulator strives to bring competition and foreign investment to Mexico',
-                                           'regulator brings back SIM card registration program',
+                                           'IXP in Mexico City',
+                                           'exporter of computers and broadcasting equipment to USA, and importer of '
+                                           'same from China (2021)',
                                            2020],
                               'intl': [ 'Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, '
                                         'Canary Islands, Spain, and Italy',
@@ -9435,14 +10218,18 @@ P1_CC2 = \
                                         'earth stations)',
                                         'linked to Central American Microwave System of trunk connections',
                                         2016],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable, and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 18359028, 'fix': 22471647, 'internet': 82843369, 'mob': 121117720},
+                              'subs': {'bb': 19354980, 'fix': 22717180, 'internet': 82843369, 'mob': 122040789},
                               'tld': '.mx',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mx'}},
           'mcc': ['334'],
@@ -9507,7 +10294,10 @@ P1_CC2 = \
                                            'closing the urban rural divide',
                                            '4G and 5G networks with strong competition, mobile dominance over '
                                            'fixed-broadband',
-                                           'roll-out of a national broadband network',
+                                           'government development of five-year fiber and connectivity plan',
+                                           "some of Malaysia's key exports are integrated circuits and broadcasting "
+                                           'equipment to North America and China',
+                                           'importer of integrated circuits from Singapore and China (2021)',
                                            2020],
                               'intl': [ 'landing points for BBG, FEA, SAFE, SeaMeWe-3 & 4 & 5, AAE-1, JASUKA, BDM, '
                                         'Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West Submarine Cable System, '
@@ -9517,14 +10307,18 @@ P1_CC2 = \
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean)',
                                         'launch of Kacific-1 satellite in 2019',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable, and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2696000, 'fix': 6530410, 'internet': 25829444, 'mob': 44997299},
+                              'subs': {'bb': 2964500, 'fix': 7446300, 'internet': 25829444, 'mob': 44600700},
                               'tld': '.my',
                               'url_tld': 'https://en.wikipedia.org/wiki/.my'}},
           'mcc': ['502'],
@@ -9581,14 +10375,16 @@ P1_CC2 = \
                                             'roads',
                                             'fixed-line less than 1 per 100 and 48 per 100 mobile-cellular teledensity',
                                             2019],
-                              'general': [ 'the mobile segment has shown strong growth',
+                              'general': [ 'one of the first countries in the region to reform telecom market and open '
+                                           'it to competition',
+                                           'the mobile segment has shown strong growth',
                                            'poor fixed-line infrastructure means most Internet access is through '
                                            'mobile accounts',
-                                           'DSL, cable broadband, WiMAX (broadband over long distances), 3G and some '
-                                           'fiber broadband available',
-                                           'first LTE services launched in 2018',
-                                           'govt. implemented legislation to enforce the registration of SIM cards',
+                                           'DSL, cable broadband, 3G, and some fiber broadband available',
+                                           'LTE tests underway',
+                                           'roll out of national fiber backbone and upgrades to infrastructure',
                                            'submarine cables reduced the cost of bandwidth',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic '
                                         'submarine cable systems linking numerous east African countries, the Middle '
@@ -9596,14 +10392,18 @@ P1_CC2 = \
                                         'satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean)',
                                         'TdM contracts for Itelsat for satellite broadband and bulk haul services',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 70142, 'fix': 61575, 'internet': 2855670, 'mob': 13992090},
+                              'subs': {'bb': 69975, 'fix': 80791, 'internet': 2855670, 'mob': 14773364},
                               'tld': '.mz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mz'}},
           'mcc': ['643'],
@@ -9633,26 +10433,28 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line subscribership is 6 per 100 and mobile-cellular 113 per 100 '
                                             'persons',
                                             2019],
-                              'general': [ 'fixed-line still a govt. monopoly',
-                                           'penetration rates rise above regional average with the rise of competition '
-                                           'in the mobile market',
-                                           '3G and LTE-A services',
-                                           'Internet and broadband sector fairly competitive',
-                                           'infrastructure investment through 2021',
-                                           'working on implementing 5G',
+                              'general': [ 'good competition in mobile market and investment in LTE government program '
+                                           'to provide 95% of population with broadband by 2024',
+                                           '5G delayed due to public concerns of privacy and security',
+                                           'high prices for international bandwidth due to lack of submarine cables, '
+                                           'yet improved by diversification of satellite access (2021)',
                                            2020],
                               'intl': [ 'landing points for the ACE and WACS fiber-optic submarine cable linking '
                                         'southern and western African countries to Europe',
                                         'satellite earth stations - 4 Intelsat',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 61968, 'fix': 144575, 'internet': 1291944, 'mob': 2921697},
+                              'subs': {'bb': 63314, 'fix': 139698, 'internet': 1291944, 'mob': 2823655},
                               'tld': '.na',
                               'url_tld': 'https://en.wikipedia.org/wiki/.na'}},
           'mcc': ['649'],
@@ -9681,22 +10483,28 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line 29 per 100 and mobile-cellular telephone subscribership 96 per '
                                             '100 persons',
                                             2019],
-                              'general': [ 'well advanced telecoms sector',
-                                           '3G & 4G network services',
+                              'general': [ 'New Caledonia has a well-developed telecom sector with 3G and LTE network '
+                                           'services',
                                            'one of the highest smart phone adoption rates in the region',
-                                           'telecommunications sector is dominated by govt. owned company with a '
-                                           'monopoly on fixed and mobile services, Internet and broadband access',
+                                           'telecommunications sector is dominated by government-owned company with a '
+                                           'monopoly on fixed and mobile services, Internet, and broadband access',
+                                           'hub for submarine cables that will increase competition and capacity',
+                                           'importer of broadcasting equipment and computers from France (2020)',
                                            2020],
                               'intl': [ 'landing points for the Gondwana-1 and Picot-1 providing connectivity via '
                                         'submarine cables around New Caledonia and to Australia',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 82111, 'internet': 231887, 'mob': 275002},
                               'tld': '.nc',
@@ -9737,21 +10545,28 @@ P1_CC2 = \
                                             'relay links concentrated in southwestern Niger',
                                             'domestic satellite system with 3 earth stations and 1 planned',
                                             2019],
-                              'general': [ 'mobile services stronger than fixed telecoms',
-                                           'broadband penetration inconsequential',
-                                           'adopts free mobile roaming with other G5 Sahel countries',
-                                           'govt. contributes to Trans-Sahara Backbone network',
+                              'general': [ 'difficult economic climate, with lack of fixed telecom infrastructure',
+                                           'mobile services stronger than fixed telecom',
+                                           'low broadband penetration',
+                                           'adopted free mobile roaming with other G5 Sahel countries',
+                                           'World Bank project to facilitate digital progress',
+                                           'government contributes to Trans-Sahara Backbone network, with aims to '
+                                           'extend fiber-optic and international capacity',
                                            'LTE license awarded',
-                                           'govt. tax of telecom sector',
+                                           'government substantially taxes telecom sector (2021)',
                                            2020],
                               'intl': [ 'satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 8650, 'fix': 116352, 'internet': 1110778, 'mob': 8921769},
                               'tld': '.ne',
@@ -9781,12 +10596,16 @@ P1_CC2 = \
                               'intl': [ 'submarine cable links with Australia and New Zealand',
                                         'satellite earth station - 1',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'internet': 765},
                               'tld': '.nf',
@@ -9818,32 +10637,36 @@ P1_CC2 = \
                                             'multiple cellular providers operate nationally with subscribership base '
                                             'over 88 per 100 persons',
                                             2019],
-                              'general': [ 'one of the larger telecom markets in Africa',
+                              'general': [ 'one of the larger telecom markets in Africa subject to sporadic access to '
+                                           'electricity and vandalism of infrastructure',
                                            'most Internet connections are via mobile networks',
-                                           'foreign investment presence, particularly China',
-                                           'market competition',
-                                           'LTE-A technologies available but GSM technology dominate',
-                                           'mobile penetration rate of 123% and 173 million subscribers',
-                                           'unified licensing regime',
+                                           'foreign investment presence, particularly from China',
+                                           'market competition with affordable access',
+                                           'LTE technologies available but GSM is dominate',
+                                           'mobile penetration high due to use of multiple SIM cards and phones',
                                            'government committed to expanding broadband penetration',
-                                           'in Q1 2018, the Nigerian Communications Commission approved seven licenses '
-                                           'to telecom companies to deploy fiber optic cable in the six geopolitical '
-                                           'zones and Lagos',
-                                           'operators invest in base stations to take care of network congestion',
+                                           'operators to deploy fiber optic cable in six geopolitical zones and Lagos',
+                                           'operators invested in base stations to deplete network congestion',
+                                           'submarine cable break in 2020 slowed speeds and interrupted connectivity',
+                                           'importer of phones and broadcast equipment from China (2020)',
                                            2020],
                               'intl': [ 'landing point for the SAT-3/WASC, NCSCS, MainOne, Glo-1 & 2, ACE, and Equiano '
                                         'fiber-optic submarine cable that provides connectivity to Europe and South '
                                         'and West Africa',
                                         'satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 73965, 'fix': 146075, 'internet': 85450052, 'mob': 184013243},
+                              'subs': {'bb': 83360, 'fix': 107154, 'internet': 85450052, 'mob': 184592255},
                               'tld': '.ng',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ng'}},
           'mcc': ['621'],
@@ -9891,31 +10714,37 @@ P1_CC2 = \
                                             'mobile-cellular telephone subscribership has increased to 88 per 100 '
                                             'persons',
                                             2019],
-                              'general': [ 'system being upgraded by foreign investment',
-                                           'new canal being built between Pacific and Caribbean with Chinese funding',
-                                           'nearly all installed telecommunications capacity now uses digital '
-                                           'technology, owing to investments since privatization of the formerly '
-                                           'state-owned telecommunications company',
-                                           'lowest fixed-line teledensity and mobile penetration in Central America',
-                                           "Internet cafe's provide access to Internet and email services",
-                                           'telecom is bigger in the cities and marginal in rural area',
-                                           'liberalization slow',
-                                           'a Russian state corporation is operating in the area',
-                                           'LTE service in 60 towns and cities',
+                              'general': [ 'with authoritarian government, weak public institutions, and impoverished '
+                                           "citizenry, Nicaragua's telecom system is dependent on upgrades through "
+                                           'foreign investment, primarily from Russia and China',
+                                           'World Bank funded national fiber broadband network and links to Caribbean '
+                                           'submarine cables',
+                                           'Chinese-financed projects, including airport, oil pipeline, and roads in '
+                                           'process',
+                                           'nearly all installed telecom capacity now uses financed digital technology',
+                                           'lowest fixed-line tele-density and mobile penetration in Central America',
+                                           'Internet cafes provide access to Internet and email services',
+                                           'rural areas lack access to most basic telecom infrastructure',
+                                           'LTE service in dozens of towns and cities',
+                                           'importer of broadcasting equipment and computers from China (2021)',
                                            2020],
                               'intl': [ 'landing point for the ARCOS fiber-optic submarine cable which provides '
                                         'connectivity to South and Central America, parts of the Caribbean, and the US',
                                         'satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 '
                                         'Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 192413, 'fix': 215055, 'internet': 1695340, 'mob': 5433530},
+                              'subs': {'bb': 217618, 'fix': 228782, 'internet': 1695340, 'mob': 5788432},
                               'tld': '.ni',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ni'}},
           'mcc': ['710'],
@@ -9953,13 +10782,18 @@ P1_CC2 = \
                                             'fixed-line 33 per 100 and mobile-cellular 127 per 100 persons',
                                             2019],
                               'general': [ 'highly developed and well maintained',
-                                           'while fixed-line voice market is in decline the VoIP (voice over Internet '
-                                           'protocol) and mobile platforms advance',
-                                           'one of the highest fixed broadband penetration rates in the world, due to '
-                                           'government investments',
-                                           'plans for 3G network shutdown in 2022',
+                                           'Dutch telecom market is gradually migrating to upgraded platforms',
+                                           'operators repurposing their spectrum and physical assets for LTE and 5G',
+                                           'one of the highest fixed broadband penetration rates in the world, with '
+                                           'competition between DSL and fiber networks',
+                                           'fixed-line voice market is in decline while VoIP and mobile platforms '
+                                           'advance',
+                                           'plans for 3G network shutdown in 2023',
                                            'operators are concentrating investment on LTE-A and 5G services',
-                                           'MNOs and banks launch m-payments system',
+                                           'operators and banks launch m-payments system',
+                                           'adoption of smart city concepts and technology in major cities',
+                                           'major exporter of broadcasting equipment and computers to Europe, and '
+                                           'importer of same from China (2021)',
                                            2020],
                               'intl': [ 'landing points for Farland North, TAT-14, Circe North, Concerto, Ulysses 2, '
                                         'AC-1, UK-Netherlands 14, and COBRAcable submarine cables which provide links '
@@ -9967,14 +10801,18 @@ P1_CC2 = \
                                         'satellite earth stations - 5 (3 Intelsat - 1 Indian Ocean and 2 Atlantic '
                                         'Ocean, 1 Eutelsat, and 1 Inmarsat)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 7406700, 'fix': 5598798, 'internet': 16243928, 'mob': 21914852},
+                              'subs': {'bb': 7459000, 'fix': 5560000, 'internet': 16243928, 'mob': 21762000},
                               'tld': '.nl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.nl'}},
           'mcc': ['204'],
@@ -10046,14 +10884,18 @@ P1_CC2 = \
                                             'systems',
                                             'fixed-line 11 per 100 and mobile-cellular 107 per 100',
                                             2019],
-                              'general': [ 'one of the most advanced telecommunications networks in Europe',
-                                           'high mobile and broadband penetration rates and highly developed digital '
-                                           'media sector',
-                                           'forward leaning in LTE-A developments',
-                                           'migrate all DSL subscribers to fiber by 2023',
-                                           'looking to close 2G and 3G networks by 2025',
-                                           'regulator competes 700 MHz auction and assigns spectrum for 5G, partners '
-                                           'with Chinese company Huawei',
+                              'general': [ 'sophisticated telecom market with high broadband and mobile penetration '
+                                           'rates and a highly developed digital media sector',
+                                           'synchronized with EC legislation',
+                                           'comprehensive LTE and focus on 5G',
+                                           'broadband penetration among highest in Europe',
+                                           'operators will migrate all DSL subscribers to fiber by 2023 and close 2G '
+                                           'and 3G networks by 2025',
+                                           'regulator assigned spectrum for 5G',
+                                           'operator partners with Huawei for smart agriculture project',
+                                           'Oslo utilizes smart city technology',
+                                           'municipalities access EU-funded public Wi-Fi',
+                                           'importer of broadcasting equipment and computers from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the Svalbard Undersea Cable System, Polar Circle Cable, '
                                         'Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC Network, '
@@ -10065,14 +10907,18 @@ P1_CC2 = \
                                         'note - Norway shares the Inmarsat earth station with the other Nordic '
                                         'countries (Denmark, Finland, Iceland, and Sweden)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2206519, 'fix': 571958, 'internet': 5183627, 'mob': 5810113},
+                              'subs': {'bb': 2260605, 'fix': 444600, 'internet': 5183627, 'mob': 5775830},
                               'tld': '.no',
                               'url_tld': 'https://en.wikipedia.org/wiki/.no'}},
           'mcc': ['242'],
@@ -10125,14 +10971,19 @@ P1_CC2 = \
                                             '20% of the market share is fixed (wired) broadband, 2% is fixed '
                                             '(wireless) broadband, and 78% is mobile broadband',
                                             2019],
-                              'general': [ 'mountainous topography hinders development of telecom infrastructure',
-                                           'mobile service has been extended to all 75 districts covering 90% of '
-                                           'Nepal&rsquo',
-                                           's land area',
-                                           'fixed broadband is low due to limited number of fixed lines and '
-                                           'preeminence of the mobile platform, with overall penetration 2.8%',
-                                           '3G and 4G subscribers, early stages for mobile broadband market',
-                                           'first launch of a Nepalese satellite',
+                              'general': [ 'poverty, inconsistent electricity, and mountainous topography stymie '
+                                           'development of telecom infrastructure',
+                                           'mobile market is developed and has been extended to all districts covering '
+                                           '90% of Nepal',
+                                           'fixed broadband is low due to limited number of fixed-lines and '
+                                           'preeminence of the mobile platform',
+                                           'increasing 3G and 4G subscribers',
+                                           'fiber-optic networks developing under private and public funding to meet '
+                                           'demand for Internet',
+                                           'government supports digital society, whereby 90% of the population will '
+                                           'have access to broadband and free Internet access for students',
+                                           'plans to launch a Nepalese satellite by 2022',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'Nepal, China and Tibet connected across borders with underground and '
                                         'all-dielectric self-supporting (ADSS) fiber-optic cables',
@@ -10140,12 +10991,16 @@ P1_CC2 = \
                                         'microwave and fiber landlines to India',
                                         'satellite earth station - 1 Intelsat (Indian Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 791961, 'fix': 855926, 'internet': 10103980, 'mob': 41880311},
                               'tld': '.np',
@@ -10180,12 +11035,16 @@ P1_CC2 = \
                                            'mobile technology is booming',
                                            2018],
                               'intl': ['satellite earth station - 1 Intelsat (Pacific Ocean)', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 1900, 'internet': 5524, 'mob': 9212},
                               'tld': '.nr',
@@ -10223,12 +11082,16 @@ P1_CC2 = \
                                         'Pacific Ocean Islands',
                                         'expansion of satellite services',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'internet': 1090},
                               'tld': '.nu',
@@ -10257,28 +11120,32 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line 37 per 100 and mobile-cellular telephone subscribership 135 '
                                             'per 100 persons',
                                             2019],
-                              'general': [ 'excellent domestic and international systems',
-                                           'mobile and P2P services soar',
+                              'general': [ 'excellent domestic and international systems with progress in mobile '
+                                           'services',
                                            'LTE rates some of the fastest in the world',
                                            'growth in mobile broadband and fiber sectors',
                                            'roll out of 5G',
-                                           'investment and development of infrastructure enable network capabilities '
-                                           'to propel the digital economy, digital media sector along with '
-                                           'e-government, e-commerce across the country',
-                                           'newest and most powerful commercial satellite, Kacific-1 satellite, '
-                                           'launched in 2019 to improve telecommunications in the Asia Pacific region',
+                                           'investment and development of infrastructure enabled network capabilities '
+                                           'to propel the digital economy, e-government, and e-commerce across the '
+                                           'country',
+                                           'new satellite to improve telecom in the Asia Pacific region',
+                                           'importer of broadcasting equipment and computers from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the Southern Cross NEXT, Aqualink, Nelson-Levin, SCCN and '
                                         'Hawaiki submarine cable system providing links to Australia, Fiji, American '
                                         'Samoa, Kiribati, Samo, Tokelau, US and around New Zealand',
                                         'satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 1647000, 'fix': 1801645, 'internet': 4340672, 'mob': 6550687},
                               'tld': '.nz',
@@ -10311,11 +11178,14 @@ P1_CC2 = \
                                             2019],
                               'general': [ 'modern system consisting of open-wire, microwave, and radiotelephone '
                                            'communication stations',
-                                           'coaxial cable',
-                                           'domestic satellite system with 8 earth stations',
-                                           'progressive mobile sector with both 3G and 4G LTE networks and reediness '
+                                           'domestic satellite system',
+                                           'progressive mobile sector with both 3G and 4G LTE networks and readiness '
                                            'for 5G launch',
-                                           'competition among 3 (mobile network operators) MNO',
+                                           'competition among mobile operators',
+                                           'government program to improve fiber network',
+                                           'important communications hub in the Middle East, with access to numerous '
+                                           'submarine cables enabling increased bandwidth',
+                                           'major importer of broadcasting equipment and computers from UAE (2021)',
                                            2020],
                               'intl': [ 'landing points for GSA, AAE-1, SeaMeWe-5, Tata TGN-Gulf, FALCON, GBICS/MENA, '
                                         'MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, and POI submarine '
@@ -10323,14 +11193,18 @@ P1_CC2 = \
                                         'Asia and Europe',
                                         'satellite earth stations - 2 Intelsat (Indian Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 422035, 'fix': 456940, 'internet': 2801932, 'mob': 4926899},
+                              'subs': {'bb': 473070, 'fix': 592196, 'internet': 2801932, 'mob': 6383458},
                               'tld': '.om',
                               'url_tld': 'https://en.wikipedia.org/wiki/.om'}},
           'mcc': ['422'],
@@ -10363,12 +11237,13 @@ P1_CC2 = \
                                             'telephone 132 per 100',
                                             2019],
                               'general': [ 'domestic and international facilities well-developed',
-                                           'investment from international operators',
-                                           'competition among operators helps reduce price of services',
+                                           'steady increase in telecom revenue with effective competition',
+                                           'mobile connections account for 90% of connections',
+                                           'government-funded program to improve Internet infrastructure',
+                                           'connectivity through two submarine cables',
                                            'launch of LTE services',
-                                           'govt. fixed-line projects and popularity of mobile broadband connectivity '
-                                           'see growth',
-                                           'Chinese company Huawei helps with G-fast technologies',
+                                           'Chinese company Huawei investment in bandwidth technologies',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the PAN-AM, ARCOS, SAC, AURORA, PCCS, PAC, and the MAYA-1 '
                                         'submarine cable systems that together provide links to the US and parts of '
@@ -10376,14 +11251,18 @@ P1_CC2 = \
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         'connected to the Central American Microwave System',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 540220, 'fix': 671799, 'internet': 2199433, 'mob': 5073123},
+                              'subs': {'bb': 523530, 'fix': 741269, 'internet': 2199433, 'mob': 5599005},
                               'tld': '.pa',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pa'}},
           'mcc': ['714'],
@@ -10422,25 +11301,35 @@ P1_CC2 = \
                                             'nationwide microwave radio relay system and a domestic satellite system '
                                             'with 12 earth stations',
                                             2019],
-                              'general': [ 'good mobile operator competition with LTE services',
-                                           'broadband subscriber penetration low compared to other Latin American '
-                                           'countries',
+                              'general': [ 'economic impact on telcom services during pandemic due to consumer '
+                                           'unemployment',
+                                           'good mobile operator competition with LTE services',
+                                           'fixed-line tele-density remains among lowest in South America, with '
+                                           'obstacles to growth including widespread poverty, fixed-to-mobile '
+                                           'substitution, expensive telephone services, and geographical '
+                                           'inaccessibility in the Andean mountains and Amazon jungles',
+                                           'government investment in underserved areas with fiber backbone',
+                                           'government facilitated virtual learning during pandemic via tablets with '
+                                           'Internet connectivity',
                                            '3G network and new LTE services expanded providing mobile broadband to '
-                                           'rural communities, regulator auctions of 700 MHz spectrum for LTE services',
-                                           'Peru is seen as a potential market for growth in broadband, with '
-                                           'government work to install fiber-optic backbone to remote areas',
+                                           'rural communities, though low penetration still exists',
+                                           'major importer of broadcasting equipment and computers from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the SAM-1, IGW, American Movil-Telxius, SAC and PAN-AM '
                                         'submarine cable systems that provide links to parts of Central and South '
                                         'America, the Caribbean, and US',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 2310217, 'fix': 3099172, 'internet': 16461427, 'mob': 39138119},
                               'tld': '.pe',
@@ -10473,26 +11362,31 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line subscriptions 22 per 100 persons and mobile-cellular density '
                                             'is roughly 104 per 100 persons',
                                             2019],
-                              'general': [ 'one of the most advanced telecom infrastructures for the Pacific island '
-                                           'region',
-                                           '85% mobile broadband coverage',
-                                           '40% of its mobile connections using 3G and the rest using emerging 4G LTE '
-                                           'technology',
-                                           '100% mobile penetration',
-                                           'uses Uplink systems of the Galileo satellite network',
-                                           'and with the launch of the Kacific-1 satellite in 2019, it will allow '
-                                           'speedy access to the Internet for Pacific islands',
+                              'general': [ 'French Polynesia has one of the most advanced telecom infrastructures in '
+                                           'the Pacific islands',
+                                           'high penetration of mobile broadband coverage',
+                                           'almost half of mobile connections on 3G, growing subscribership to 4G LTE',
+                                           'universal mobile penetration',
+                                           'host of uplink systems for the Galileo satellite network, creating hub for '
+                                           'communications in the region and vastly improving international '
+                                           'connectivity',
+                                           'submarine cable connections increase international bandwidth',
+                                           'additional domestic submarine cable will connect remote islands (2021)',
                                            2020],
                               'intl': [ 'landing points for the NATITUA, Manatua, and Honotua submarine cables to '
                                         'other French Polynesian Islands, Cook Islands, Niue, Samoa and US',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 59790, 'fix': 63769, 'internet': 211101, 'mob': 305233},
                               'tld': '.pf',
@@ -10524,27 +11418,36 @@ P1_CC2 = \
                                             'fixed-line 2 per 100 and mobile-cellular 48 per 100 person, teledensity '
                                             'has increased',
                                             2019],
-                              'general': [ 'services are minimal',
-                                           'Internet slow and expensive',
-                                           'facilities provide radiotelephone and telegraph, coastal radio, '
-                                           'aeronautical radio, and international radio communication services',
-                                           'a great deal of the population is under served in telecommunications',
-                                           'terrain, living conditions and economic stability is not high',
-                                           '2G still exists in rural areas, 3G and 4G LTE in urban areas',
-                                           'the launch of the Kacific-1 satellite in 2019, will improve most services '
-                                           'in the region',
+                              'general': [ 'telecom services stymied by rugged terrain, high cost of infrastructure, '
+                                           'and poverty of citizens',
+                                           'services are minimal with little change in fixed-line tele-density in two '
+                                           'decades',
+                                           'progress in mobile platforms with almost 90% coverage on 3G and LTE',
+                                           'GSM available in remote areas',
+                                           'Internet slow and expensive, available to pockets of the population',
+                                           'facilities provide radiotelephone, telegraph, coastal radio, aeronautical '
+                                           'radio, and international radio communication services',
+                                           'launch of satellite and landing of submarine cable will improve most '
+                                           'services in the region',
+                                           'government supports training to boost digital transformation',
+                                           'Australia attempted to block Chinese investment in cooperative network',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the Kumul Domestic Submarine Cable System, PNG-LNG, '
                                         'APNG-2, CSCS and the PPC-1 submarine cables to Australia, Guam, PNG and '
                                         'Solomon Islands',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 17000, 'fix': 133593, 'internet': 787764, 'mob': 3401971},
                               'tld': '.pg',
@@ -10581,17 +11484,16 @@ P1_CC2 = \
                                             'international connectivity',
                                             'fixed-line 4 per 100 and mobile-cellular 155 per 100',
                                             2019],
-                              'general': [ 'good international radiotelephone and submarine cable services',
-                                           'domestic and interisland service adequate',
-                                           'National Broadband Plan to improve connectivity in rural areas underway',
-                                           'dominance of mobile platform and mobile broadband over fixed broadband '
-                                           'penetration',
-                                           '4G available now in most areas with 5G roll outs soon',
-                                           'smart city pilot has begun',
-                                           'with more mobile services there is demand for data center services and '
-                                           'iCloud',
-                                           'launch of the Kacific-1 satellite in 2019 will improve telecommunication '
-                                           'for the region',
+                              'general': [ 'high unemployment and rural population impede investment in fixed '
+                                           'infrastructure',
+                                           'dominance in the mobile segment and rapid development of mobile broadband',
+                                           'investment focused on fiber infrastructure in urban areas with 4G '
+                                           'available in most areas',
+                                           'national broadband plan to improve connectivity in rural areas underway',
+                                           'data center and smart city pilot in Manila',
+                                           'submarine cable link and satellite improves telecom for the region',
+                                           'major exporter of integrated circuits to China, and importer of circuits '
+                                           'and broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the NDTN, TGN-IA, AAG, PLCN, EAC-02C, DFON, SJC, APCN-2, '
                                         'SeaMeWe, Boracay-Palawan Submarine Cable System, Palawa-Illoilo Cable System, '
@@ -10599,14 +11501,18 @@ P1_CC2 = \
                                         'connectivity to the US, Southeast Asia, Asia, Europe, Africa, the Middle '
                                         'East, and Australia',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3919713, 'fix': 4140108, 'internet': 63588975, 'mob': 166421595},
+                              'subs': {'bb': 5920087, 'fix': 4255808, 'internet': 63588975, 'mob': 167322432},
                               'tld': '.ph',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ph'}},
           'mcc': ['515'],
@@ -10642,14 +11548,22 @@ P1_CC2 = \
                                             'still relatively low',
                                             'fixed-line 1 per 100 and mobile-cellular 76 per 100 persons',
                                             2019],
-                              'general': [ 'the telecommunications infrastructure is improving, with investments in '
-                                           'mobile-cellular networks increasing, fixed-line subscriptions declining',
+                              'general': [ "Pakistan's telecom market recently transitioned from a regulated "
+                                           'state-owned monopoly to a deregulated competitive structure, now aided by '
+                                           'foreign investment',
+                                           'moderate growth over the last six years, supported by a young population '
+                                           'and a rising use of mobile services',
+                                           'telecom infrastructure is improving, with investments in mobile-cellular '
+                                           'networks, fixed-line subscriptions declining',
                                            'system consists of microwave radio relay, coaxial cable, fiber-optic '
                                            'cable, cellular, and satellite networks',
                                            '4G mobile services broadly available',
-                                           '5G not before 2030',
-                                           'mobile platform and mobile broadband doing well and dominate over fixed '
-                                           'broadband sector',
+                                           '5G tests ongoing',
+                                           'data centers in major cities',
+                                           'mobile and broadband doing well and dominate over fixed-broadband sector',
+                                           'China-Pakistan Fiber Optic Project became operational in 2020',
+                                           'partner to Chinese Economic Corridor project',
+                                           'importer of broadcasting equipment and computers from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient Express, '
                                         'PEACE Cable, and TW1 submarine cable systems that provide links to Europe, '
@@ -10659,14 +11573,18 @@ P1_CC2 = \
                                         'Islamabad)',
                                         'microwave radio relay to neighboring countries',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1811365, 'fix': 2607495, 'internet': 34734689, 'mob': 174702132},
+                              'subs': {'bb': 1760870, 'fix': 2461916, 'internet': 34734689, 'mob': 165405847},
                               'tld': '.pk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pk'}},
           'mcc': ['410'],
@@ -10707,14 +11625,14 @@ P1_CC2 = \
                                             'fixed-line 18 per 100 service lags in rural areas, mobile-cellular 138 '
                                             'per 100 persons',
                                             2019],
-                              'general': [ 'fixed-line service is dominated by the former state-owned company, yet it '
-                                           'is dwarfed by the growth in mobile-cellular services',
-                                           'regulatory is framed by EU principles of competition',
-                                           'regulator measures have improved wholesale market access',
+                              'general': [ 'liberalized telecom market supported by market competition in broadband '
+                                           'and mobile sectors ensuring access to cable and fiber infrastructure',
                                            'rapid extension of LTE networks and development of mobile data service',
                                            'mobile penetration is above European average',
-                                           'regulator to auction 700MHz spectrum of 5G services',
-                                           'good market competition',
+                                           'fixed broadband benefits from DSL infrastructure and investment in fiber '
+                                           'through EU support',
+                                           'major importer of broadcasting equipment and accessories from Germany '
+                                           '(2021)',
                                            2020],
                               'intl': [ 'landing points for the Baltica and the Denmark-Poland2 submarine cables '
                                         'connecting Poland, Denmark and Sweden',
@@ -10722,14 +11640,18 @@ P1_CC2 = \
                                         'satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and '
                                         'Intersputnik',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 6114926, 'fix': 6907937, 'internet': 29791401, 'mob': 52916105},
+                              'subs': {'bb': 7783887, 'fix': 6824896, 'internet': 29791401, 'mob': 48392944},
                               'tld': '.pl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pl'}},
           'mcc': ['260'],
@@ -10815,12 +11737,16 @@ P1_CC2 = \
                                         'radiotelephone communication with most countries in the world',
                                         'satellite earth station - 1 in French domestic satellite system',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 4086, 'internet': 4500},
                               'tld': '.pm',
@@ -10858,12 +11784,16 @@ P1_CC2 = \
                                            'telecommunications in the region',
                                            2020],
                               'intl': ['satellite earth station - 1 Inmarsat', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'internet': 54},
                               'tld': '.pn',
@@ -10894,15 +11824,16 @@ P1_CC2 = \
                                             'mobile-cellular services',
                                             'fixed-line 23 per 100 and mobile-cellular 115 per 100 persons',
                                             2019],
-                              'general': [ 'modern system integrated with that of the US by high-capacity submarine '
-                                           'cable and Intelsat with high-speed data capability',
-                                           'havoc caused by hurricane Maria in 2017 and earthquake in 2020, has left '
-                                           'the island lagging behind the mainland US both economically and '
-                                           'technologically',
-                                           'competition among network operators helps with growth',
-                                           'availability of LTE coverage increasing to 90%',
-                                           'operators expanding and securing 600 MHz spectrum, LTE reach and launching '
-                                           'services based on 5G to majority of the population',
+                              'general': [ 'small telecom market affected by mismanagement and natural disasters',
+                                           'hurricanes in 2017 and earthquake in 2020 caused destruction of telecom '
+                                           'infrastructure, leading to market decline',
+                                           'US provided funds to rebuild after some delay',
+                                           'lags behind US in fixed and broadband penetration due to high unemployment '
+                                           'and lack of operator investment',
+                                           'multi-national telcoms enable LTE and launch of 5G',
+                                           'growing number of submarine cables helps to reduce costs and supports '
+                                           'streaming of international content and cloud services',
+                                           'operator launched connectivity for school children during pandemic (2021)',
                                            2020],
                               'intl': [ ', 939',
                                         'landing points for the GTMO-PR, AMX-1, BRUSA, GCN, PCCS, SAm-1, Southern '
@@ -10911,14 +11842,18 @@ P1_CC2 = \
                                         'Central and South America',
                                         'satellite earth station - 1 Intelsat',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 609027, 'fix': 758869, 'internet': 2326006, 'mob': 3724680},
+                              'subs': {'bb': 609943, 'fix': 686901, 'internet': 2326006, 'mob': 3371969},
                               'tld': '.pr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pr'}},
           'mcc': ['330'],
@@ -10967,15 +11902,16 @@ P1_CC2 = \
                                             'and domestic satellite earth stations',
                                             'fixed-line 50 per 100 persons and mobile-cellular 116 per 100 persons',
                                             2019],
-                              'general': [ 'telephone system has a state-of-the-art network with broadband, high-speed '
-                                           'capabilities',
-                                           'FttP in 2020',
-                                           '3G universal and 4G upgrades',
-                                           'regulator release 700MHz spectrum for 5G use',
-                                           'DSL moves to fiber services',
-                                           'FttP for over 5 million customers in 2020 providing national coverage',
-                                           'fiber subscriber base grows 24% in 2018',
-                                           'development in M-payment solutions',
+                              'general': [ 'Portugal has a medium-sized telecom market with a strong mobile sector and '
+                                           'a growing broadband customer base',
+                                           'mobile market dominated by one operator with room for competition',
+                                           '3G infrastructure is universal, with investment directed towards provision '
+                                           'of 90% LTE coverage in rural areas and 5G technologies',
+                                           'cable sector shifting to fiber, with access to 66% of population',
+                                           'developments in m-commerce',
+                                           'operator assessing installation of submarine cable between islands and '
+                                           'mainland',
+                                           'importer of broadcasting equipment from EU (2021)',
                                            2020],
                               'intl': [ 'landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, '
                                         'MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III '
@@ -10985,14 +11921,18 @@ P1_CC2 = \
                                         'NA Eutelsat',
                                         'tropospheric scatter to Azores',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3784684, 'fix': 5179685, 'internet': 7731411, 'mob': 12028436},
+                              'subs': {'bb': 3967699, 'fix': 5087977, 'internet': 7731411, 'mob': 11909751},
                               'tld': '.pt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pt'}},
           'mcc': ['268'],
@@ -11042,12 +11982,16 @@ P1_CC2 = \
                                         'Micronesia, Indonesia, Hawaii (US), Guam (US) and California (US)',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 8808, 'internet': 7650, 'mob': 29033},
                               'tld': '.pw',
@@ -11079,29 +12023,36 @@ P1_CC2 = \
                                             'Internet market also open to competition',
                                             'fixed-line 4 per 100 and mobile-cellular 107 per 100',
                                             2019],
-                              'general': [ 'the fixed-line market is a state monopoly and fixed-line telephone service '
-                                           'is meager',
-                                           'principal switching center is in Asuncion',
-                                           'DSL, cable modem, FttP (fiber to the home) and WiMAX technologies '
-                                           'available',
-                                           'competition in mobile market among 4 operators',
-                                           '18 mobile phones for every fixed-line service phone',
-                                           'mobile and Internet market operators bring new investment and working '
-                                           'towards LTE',
+                              'general': [ 'limited progress on structural reform and deficient infrastructure of the '
+                                           'landlocked country are obstacles to telecom platform',
+                                           'monopolized fixed-line service',
+                                           'effective competition in mobile market, serving 96% of population through '
+                                           'LTE',
+                                           'deployment of fiber',
+                                           'South Korean investment in education centers',
+                                           'operator enabled 100 free Internet points across the country',
+                                           'Inter-American Development Bank loan supports modernization within '
+                                           'regulatory framework',
+                                           'dependent on neighboring countries for access to submarine cables',
+                                           'major importer of broadcasting equipment from the USA (2021)',
                                            2020],
                               'intl': [ "Paraguay's landlocked position means they must depend on neighbors for "
                                         'interconnection with submarine cable networks, making it cost more for '
                                         'broadband services',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 320700, 'fix': 309221, 'internet': 4566043, 'mob': 7602566},
+                              'subs': {'bb': 377379, 'fix': 272656, 'internet': 4566043, 'mob': 7761848},
                               'tld': '.py',
                               'url_tld': 'https://en.wikipedia.org/wiki/.py'}},
           'mcc': ['744'],
@@ -11127,15 +12078,14 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line 16 per 100 and mobile-cellular telephone subscribership 138 '
                                             'telephones per 100 persons (209)',
                                             0],
-                              'general': [ 'regional leaders in telecom',
-                                           'highest fixed-line and mobile penetrations in Middle East',
-                                           'deployed over 90 5G base stations for 5G launch, claiming 1st commercial '
-                                           'launch of 5G in the world May 2018',
-                                           'telecom system centered in Doha',
-                                           'steady LTE networks',
-                                           'good broadband penetration, ADSL, (Fiber-to-the-Home/Premises) FttP, '
-                                           'wireless and mobile services',
-                                           'largest users of the Internet and use of OTT services and bundled services',
+                              'general': [ 'telecom infrastructure in Qatar demonstrated resilience during the '
+                                           'pandemic, following surge in Internet usage',
+                                           'highest fixed-line and mobile penetrations in Middle East with almost 100% '
+                                           'LTE coverage',
+                                           'operator deployed 5G across the country with positive subscribership, '
+                                           'primarily around Doha',
+                                           'largest user of the Internet in the Middle East',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the Qatar-UAE Submarine Cable System, AAE-1, FOG, '
                                         'GBICS/East North Africa MENA and the FALCON submarine cable network that '
@@ -11146,14 +12096,18 @@ P1_CC2 = \
                                         'and 1 Arabsat',
                                         "retains full ownership of two commercial satellites, Es'hailSat 1 and 2",
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 267906, 'fix': 392048, 'internet': 2355297, 'mob': 3329155},
+                              'subs': {'bb': 284679, 'fix': 461289, 'internet': 2355297, 'mob': 3917571},
                               'tld': '.qa',
                               'url_tld': 'https://en.wikipedia.org/wiki/.qa'}},
           'mcc': ['427'],
@@ -11204,29 +12158,32 @@ P1_CC2 = \
                                             'mobile market served by four mobile network operators',
                                             'mobile-cellular teledensity over 117 telephones per 100 persons',
                                             2019],
-                              'general': [ 'the telecommunications sector is being expanded',
+                              'general': [ "Romania's telecom sector benefits from infrastructure-based competition",
                                            'domestic and international service improving rapidly, especially '
                                            'mobile-cellular services',
-                                           'competition among a number of telecoms',
-                                           'LTE and 5G services',
-                                           '1Gb/FttP offering',
-                                           'govt. secures EU funding to extend broadband to areas of the country not '
-                                           'yet connected and does away with SIM card registration',
-                                           'operators invest in networks capacity upgrades',
+                                           'fiber sector is one of strongest in Europe',
+                                           'government secured EU funding to extend broadband to rural areas',
+                                           "operators invest in networks' capacity upgrades",
+                                           'operator testing IoT',
+                                           'importer of broadcasting equipment from EU neighbors (2021)',
                                            2020],
                               'intl': [ 'landing point for the Diamond Link Global submarine cable linking Romania '
                                         'with Georgia',
                                         'satellite earth stations - 10',
                                         'digital, international, direct-dial exchanges operate in Bucharest',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 5083000, 'fix': 3731047, 'internet': 15165890, 'mob': 25033292},
+                              'subs': {'bb': 5277700, 'fix': 3380000, 'internet': 15165890, 'mob': 22671000},
                               'tld': '.ro',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ro'}},
           'mcc': ['226'],
@@ -11262,24 +12219,29 @@ P1_CC2 = \
                                   'the republic of serbia'],
                      'tel': { 'code': '381',
                               'domestic': ['fixed-line 29 per 100 and mobile-cellular 96 per 100 persons', 2019],
-                              'general': [ "Serbia's integration with the EU has helped regulator reforms and "
-                                           'promotion of telecoms',
+                              'general': [ "Serbia's integration with the EU helped regulator reforms and promotion of "
+                                           'telecom',
+                                           'EU development loans for broadband to rural areas',
+                                           'pandemic spurred use of mobile data and other services',
                                            'wireless service is available through multiple providers',
-                                           'national coverage is growing very rapidly',
-                                           'best telecommunications services are centered in urban centers',
+                                           'national coverage is growing rapidly',
+                                           'best telecom services are centered in urban centers',
                                            '4G/LTE mobile network launched',
-                                           '5G trials',
-                                           'high mobile penetration the result of multiple SIM cards',
+                                           '5G tests ongoing with Ericsson and Huawei (2021)',
                                            2020],
                               'intl': [0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1552160, 'fix': 2060005, 'internet': 5192501, 'mob': 6789423},
+                              'subs': {'bb': 1623790, 'fix': 2565392, 'internet': 5192501, 'mob': 8453887},
                               'tld': '.rs',
                               'url_tld': 'https://en.wikipedia.org/wiki/.rs'}},
           'mcc': ['220'],
@@ -11332,17 +12294,21 @@ P1_CC2 = \
                                             'low-density',
                                             '22 per 100 for fixed-line and mobile-cellular 164 per 100 persons',
                                             2019],
-                              'general': [ 'telecom sector impacted by sanctions related to the annexations in Ukraine',
-                                           'the estimated number of mobile subscribers jumped from fewer than 1 '
-                                           'million in 1998 to 255 million in 2016',
-                                           'fixed-line service has improved but a large demand remains',
-                                           "Russia with low broadband penetration is one of Europe's fastest growing "
-                                           'markets for fiber-based broadband and moving from DSL to fiber',
-                                           'use by the population of multiple SIM cards',
-                                           'regulator ended roaming charges and works to bring down prices',
-                                           '4 major operators in the mobile market',
-                                           'deployment of LTE support mobile broadband and data services, mobile on '
-                                           'the cusp of 5G',
+                              'general': [ 'telecom market is largest in Europe, centered in large cities',
+                                           'competition active in Moscow and St Petersburg',
+                                           'most users access Internet through mobile platforms',
+                                           'fiber broadband sector is growing, supported by government in aim to '
+                                           'extend reach to outlying regions',
+                                           'tests of 5G with Moscow adopting smart city technology',
+                                           'government justifies censorship and website blocks under a range of laws '
+                                           'and regulations',
+                                           'government program aims to provide 97% of households with fixed broadband '
+                                           'by 2024',
+                                           'publicly accessible Internet connections in institutions such as '
+                                           'hospitals, libraries, schools, and mass transit available in cities',
+                                           'in rural areas, the availability of public Internet connections remains '
+                                           'limited',
+                                           'major importer of broadcasting equipment and computers from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril '
                                         'Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the '
@@ -11351,14 +12317,18 @@ P1_CC2 = \
                                         'satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, '
                                         'Inmarsat, and Orbita systems',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 32062780, 'fix': 31171043, 'internet': 114920477, 'mob': 233342795},
+                              'subs': {'bb': 32857614, 'fix': 27674128, 'internet': 114920477, 'mob': 239795946},
                               'tld': '.ru',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ru'}},
           'mcc': ['250'],
@@ -11435,15 +12405,15 @@ P1_CC2 = \
                                             'fixed-line less than 1 per 100 and mobile-cellular telephone density has '
                                             'increased to 76 telephones per 100 persons',
                                             2019],
-                              'general': [ 'govt. invests in smart city infrastructure',
-                                           'expanding wholesale LTE services',
-                                           'govt. launches SIM card registration',
-                                           'growing economy and foreign aid help launch telecom sector, despite '
-                                           'widespread poverty',
-                                           'slow to liberalize mobile sector',
-                                           'competing operators roll out national fiber optic backbone that connects '
-                                           'to submarine cables of neighboring countries ending expensive dependence '
-                                           'on satellite',
+                              'general': [ 'telecom market impacted by energy shortages and instability in neighboring '
+                                           'states',
+                                           'government investing in smart city infrastructure',
+                                           'growing economy and foreign aid from South Korea help launch telecom '
+                                           'sector, despite widespread poverty',
+                                           'expansion of LTE services',
+                                           'competing operators roll out national fiber optic backbone through '
+                                           'connection to submarine cables, ending expensive dependence on satellite',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'international connections employ microwave radio relay to neighboring '
                                         'countries and satellite communications to more distant countries',
@@ -11452,14 +12422,18 @@ P1_CC2 = \
                                         'international submarine fiber-optic cables on the African east coast has '
                                         'brought international bandwidth and lessened the dependency on satellites',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 7501, 'fix': 11215, 'internet': 2653197, 'mob': 9531609},
+                              'subs': {'bb': 8885, 'fix': 11393, 'internet': 2653197, 'mob': 9658548},
                               'tld': '.rw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.rw'}},
           'mcc': ['635'],
@@ -11502,9 +12476,13 @@ P1_CC2 = \
                                            'mobile penetration high, with a saturated market',
                                            'mobile operators competitive and meeting the demand for workers, students '
                                            'and citizens working from home',
-                                           '5G launched, partners include Chinese company Huawei',
+                                           'Huawei partners with operator to provide 5G to dozens of cities',
                                            'broadband is available with DSL, fiber, and wireless',
-                                           'mobile penetration is steep in Saudi Arabia',
+                                           'mobile penetration is high',
+                                           'restrictive monarchy places limits on information and services available '
+                                           'online',
+                                           'authorities operate extensive censorship and surveillance systems',
+                                           'major importer of broadcasting equipment from UAE and China (2020)',
                                            2020],
                               'intl': [ 'landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, IMEWE, '
                                         'MENA/Gulf Bridge International, SEACOM, SAS-1, -2, GBICS/MENA, and the Tata '
@@ -11516,14 +12494,18 @@ P1_CC2 = \
                                         'satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), '
                                         '1 Arabsat, and 1 Inmarsat (Indian Ocean region)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 6821873, 'fix': 5276773, 'internet': 30877318, 'mob': 40532610},
+                              'subs': {'bb': 6801949, 'fix': 5377978, 'internet': 30877318, 'mob': 41298629},
                               'tld': '.sa',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sa'}},
           'mcc': ['420'],
@@ -11562,14 +12544,18 @@ P1_CC2 = \
                                         'from Solomon Islands, to PNG, Vanuatu and Australia',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1488, 'fix': 7130, 'internet': 78686, 'mob': 480124},
+                              'subs': {'bb': 1045, 'fix': 7104, 'internet': 78686, 'mob': 478116},
                               'tld': '.sb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sb'}},
           'mcc': ['540'],
@@ -11608,14 +12594,18 @@ P1_CC2 = \
                                         'African coastal countries',
                                         'satellite earth station - 1 Intelsat (Indian Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 19696, 'fix': 19627, 'internet': 55616, 'mob': 188879},
+                              'subs': {'bb': 26974, 'fix': 20122, 'internet': 55616, 'mob': 193672},
                               'tld': '.sc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sc'}},
           'mcc': ['633'],
@@ -11656,26 +12646,33 @@ P1_CC2 = \
                                             'teledensity fixed-line less than 1 per 100 and mobile-cellular 77 '
                                             'telephones per 100 persons',
                                             2019],
-                              'general': [ 'well-equipped system by regional standards and being upgraded',
-                                           'despite economic hardships govt. boosts mobile infrastructure and builds '
-                                           'fiber broadband network across country',
-                                           'economic climate has not encouraged growth in telecoms, but some '
+                              'general': [ 'well-equipped system by regional standards with ongoing upgrades',
+                                           'despite economic challenges, government continues to boost mobile '
+                                           'infrastructure through build-out of fiber-broadband network across country',
+                                           'economic climate has not encouraged client growth in telecom, but some '
                                            'investment has been made to build mobile towers and expand LTE services',
-                                           'launches its own Chinese built satellite in 2019 to develop space '
-                                           'technology sector',
+                                           'growth of e-money services',
+                                           '2020 launch of Chinese-based satellite to develop space technology sector',
+                                           'interim constitution safeguards rights and freedoms, though some Internet '
+                                           'users continue to face harassment for activities',
+                                           'importer of broadcasting equipment from UAE and China (2021)',
                                            2020],
                               'intl': [ 'landing points for the EASSy, FALCON and SAS-1,-2, fiber-optic submarine '
                                         'cable systems linking Africa, the Middle East, Indian Ocean Islands and Asia',
                                         'satellite earth stations - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 31352, 'fix': 141922, 'internet': 13311404, 'mob': 34198859},
+                              'subs': {'bb': 32762, 'fix': 137842, 'internet': 13311404, 'mob': 33014160},
                               'tld': '.sd',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sd'}},
           'mcc': ['634'],
@@ -11719,11 +12716,14 @@ P1_CC2 = \
                                             'parallel microwave radio relay systems carry some additional telephone '
                                             'channels',
                                             2019],
-                              'general': [ 'highly developed telecommunications infrastructure',
+                              'general': [ "Sweden's telecom market includes mature mobile and broadband sectors "
+                                           'stimulated by investment of the main operators in new technologies',
+                                           'one of the best developed LTE infrastructures in the region',
                                            'ranked among leading countries for fixed-line, mobile-cellular, Internet, '
                                            'and broadband penetration',
-                                           'best developed LTE infrastructures in the region',
-                                           'first in the world to deliver 5G services',
+                                           'best developed LTE infrastructure in the region',
+                                           'government promotes national broadband strategy to increase connectivity '
+                                           '(2021)',
                                            2020],
                               'intl': [ 'landing points for Botina, SFL, SFS-4, Baltic Sea Submarine Cable, Eastern '
                                         'Light, Sweden-Latvia, BCS North-Phase1, EE-S1, LV-SE1, BCS East-West '
@@ -11736,14 +12736,18 @@ P1_CC2 = \
                                         'note - Sweden shares the Inmarsat earth station with the other Nordic '
                                         'countries (Denmark, Finland, Iceland, and Norway)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3973622, 'fix': 1941360, 'internet': 9251773, 'mob': 12785850},
+                              'subs': {'bb': 4038725, 'fix': 1750989, 'internet': 9251773, 'mob': 12895854},
                               'tld': '.se',
                               'url_tld': 'https://en.wikipedia.org/wiki/.se'}},
           'mcc': ['240'],
@@ -11827,18 +12831,18 @@ P1_CC2 = \
                                             'fixed-line 33 per 100 and mobile-cellular 156 per 100 teledensity',
                                             'multiple providers of high-speed Internet connectivity',
                                             2019],
-                              'general': [ 'excellent service',
-                                           "world leader in telecommunications and perhaps the first 'Smart Nation' "
-                                           'where a sensor network is implemented, for water and air, smart logistics '
-                                           'and smart sensor in the home of elderly or chronically ill',
-                                           'roll out of 4G and 5G networks to ensure faster speeds',
-                                           'wireless and fiber broadband growing segments of telecommunications',
-                                           "roll out of 'Next Generation Network' (NGNBN) almost complete with FttH "
-                                           'and wireless network fiber based services',
-                                           'mobile sector saturated, but with mobile operators competing to offer more '
-                                           'to the consumer such as value-added services',
-                                           '4 MNVO',
-                                           'demand for data storage in Singapore',
+                              'general': [ 'a wealthy city-state, Singapore has a highly developed ICT infrastructure',
+                                           'government supported near universal home broadband penetration and free '
+                                           'public access to wireless network',
+                                           'operators proceeded with investment programs, particularly in 5G '
+                                           'standalone networks',
+                                           'government actively promoting Smart Nation initiative supporting digital '
+                                           'innovation',
+                                           'government oversees service providers, controls Internet content, and '
+                                           'regulators lack independence',
+                                           'well served by submarine cable and satellite connections',
+                                           'major importer of integrated circuits and broadcasting equipment from '
+                                           'China and exporter of same to SE Asian neighboring countries (2021)',
                                            2020],
                               'intl': [ 'landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn, '
                                         'PGASCOM, BSCS, IGG, B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, '
@@ -11847,14 +12851,18 @@ P1_CC2 = \
                                         'satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa',
                                         'supplemented by VSAT coverage',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1610500, 'fix': 2003594, 'internet': 5286665, 'mob': 9543773},
+                              'subs': {'bb': 1504000, 'fix': 1911200, 'internet': 5286665, 'mob': 9034300},
                               'tld': '.sg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sg'}},
           'mcc': ['525'],
@@ -11901,12 +12909,16 @@ P1_CC2 = \
                                         'satellite voice and data communications',
                                         'satellite earth stations - 5 (Ascension Island - 4, Saint Helena - 1)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 1347, 'fix': 3921, 'internet': 1800, 'mob': 5228},
                               'tld': '.sh',
@@ -11937,25 +12949,28 @@ P1_CC2 = \
                                   'the republic of slovenia'],
                      'tel': { 'code': '386',
                               'domestic': ['fixed-line 34 per 100 and mobile-cellular 121 per 100 teledensity', 2019],
-                              'general': [ 'well-developed telecommunications infrastructure',
-                                           'four mobile network operators',
-                                           'increase in Internet community demanding e-govt., e-commerce and e-health',
-                                           'govt. funds to improve broadband to more municipalities',
-                                           'high mobile penetration rate and therefore retaining customers with '
-                                           'bundled products',
-                                           'regulatory intervention has improved telecommunications',
-                                           'trials for use of 5G',
-                                           'FttP to 90% of population by 2020',
+                              'general': [ 'well-developed telecom infrastructure with sound regulatory intervention',
+                                           'increase in Internet community utilizing e-government, e-commerce, and '
+                                           'e-health',
+                                           'government funds to improve broadband to more municipalities',
+                                           'high mobile penetration rate retaining customers with bundled products',
+                                           'extensive reach of 5G',
+                                           'FttP to 90% of premises',
+                                           'importer of broadcasting equipment from neighboring Central Europe (2021)',
                                            2020],
                               'intl': [2016],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 612737, 'fix': 715283, 'internet': 1676445, 'mob': 2540917},
+                              'subs': {'bb': 627939, 'fix': 707059, 'internet': 1676445, 'mob': 2511979},
                               'tld': '.si',
                               'url_tld': 'https://en.wikipedia.org/wiki/.si'}},
           'mcc': ['293'],
@@ -11994,12 +13009,16 @@ P1_CC2 = \
                                         'connects Svalbard to mainland Norway',
                                         'the system is the sole telecommunications link to the archipelago',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0]}},
           'mcc': ['242'],
           'mccmnc': [],
@@ -12033,16 +13052,17 @@ P1_CC2 = \
                                             'a few other companies provide services but do not have their own networks',
                                             'fixed-line 12 per 100 and mobile-cellular 136 per 100 teledensity',
                                             2019],
-                              'general': [ 'a modern telecommunications system',
-                                           'near monopoly of fixed-line market',
-                                           'competition in mobile and fixed broadband market',
+                              'general': [ 'a modern telecom system',
+                                           'one operator has near monopoly of fixed-line market',
+                                           'competition in mobile- and fixed-broadband market',
                                            'broadband growth in recent years',
-                                           'competition among DSL, cable and fiber platforms',
+                                           'competition among DSL, cable, and fiber platforms',
                                            'FttP growth in cities',
-                                           'mid-2019 launched 1G cable broadband service in 3 cities and 200,000 '
-                                           'premises',
-                                           'EU funds development and improvement of e-govt. and online services',
-                                           'regulator prepares groundwork for 5G services',
+                                           'operator launched 1Gb/s cable broadband service in 3 cities and 200,000 '
+                                           'premises in 2019',
+                                           'EU funding for development and improvement of e-government and online '
+                                           'services',
+                                           'regulator prepared groundwork for 5G services in 2020 (2021)',
                                            2020],
                               'intl': [ '3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) are '
                                         'available',
@@ -12050,14 +13070,18 @@ P1_CC2 = \
                                         'projects that will increase the availability of external services',
                                         'connects to DREAM cable',
                                         2017],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1507998, 'fix': 673341, 'internet': 4391969, 'mob': 7381164},
+                              'subs': {'bb': 1585092, 'fix': 675297, 'internet': 4391969, 'mob': 7399534},
                               'tld': '.sk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sk'}},
           'mcc': ['231'],
@@ -12092,28 +13116,32 @@ P1_CC2 = \
                      'nameset': ['republic of sierra leone', 'sierra leone', 'the republic of sierra leone'],
                      'tel': { 'code': '232',
                               'domestic': ['fixed-line less than 1 per 100 and mobile-cellular 86 per 100', 2019],
-                              'general': [ 'the stability in the country has led to international investment',
-                                           'telecom regulator continues to improve the market',
-                                           'telephone service improving with the expansion of the mobile sector',
-                                           'mobile-cellular service has grown rapidly from a small base, overcoming '
-                                           'the deficiencies of the fixed-line sector',
-                                           'mobile sector has a high penetration',
-                                           'regulator approves 27% price increase for mobile voice calls',
-                                           'LTE launched in 2018 to compete with state owned almost monopoly on '
-                                           'fixed-line',
+                              'general': [ 'telecom sector is recovering from the decades of war, yet still '
+                                           'constrained by inadequate power and pervasive corruption',
+                                           'recently installed terrestrial fiber backbone infrastructure',
+                                           'telephone service improving with the rapid growth of mobile sector',
+                                           'operators increased investment to provide national coverage',
+                                           'LTE available in some parts of the country',
+                                           'construction of 600 km ECOWAS Wide Area Network completed',
+                                           'fiber link to Guinea completed',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing point for the ACE submarine cable linking to South Africa, over 20 '
                                         'western African countries and Europe',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 2586, 'internet': 568099, 'mob': 5569221},
+                              'subs': {'fix': 3434, 'internet': 568099, 'mob': 6729804},
                               'tld': '.sl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sl'}},
           'mcc': ['619'],
@@ -12143,14 +13171,18 @@ P1_CC2 = \
                                             2019],
                               'general': ['automatic telephone system completely integrated into Italian system', 2018],
                               'intl': ['connected to Italian international network', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 12500, 'fix': 16070, 'internet': 20328, 'mob': 38921},
+                              'subs': {'bb': 11081, 'fix': 16000, 'internet': 20328, 'mob': 38750},
                               'tld': '.sm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sm'}},
           'mcc': ['292'],
@@ -12184,26 +13216,29 @@ P1_CC2 = \
                                             'in urban areas',
                                             'fixed-line 1 per 100 and mobile-cellular 110 per 100 persons',
                                             2019],
-                              'general': [ 'mobile penetration reached 108% in March 2019',
-                                           'mobile broadband accounts for close to 100% (97.2%) Internet accesses',
-                                           '3G and LTE services for 50% of population',
-                                           'growth in the intel market along with economic growth for the country',
-                                           'regulator awards more MVNO licenses, deactivated some 5 million '
-                                           'unregistered SIM cards',
+                              'general': [ 'universal mobile penetration since 2019',
+                                           'mobile broadband accounts for 97% of Internet access',
+                                           '3G and LTE services for half of the population',
+                                           'African consortium issued a bond to finance network upgrades and services',
+                                           'importer of broadcasting equipment from UAE and China (2021)',
                                            2020],
                               'intl': [ 'landing points for the ACE, Atlantis-2, MainOne and SAT-3/WASC submarine '
                                         'cables providing connectivity from South Africa, numerous western African '
                                         'countries, Europe and South America',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 129820, 'fix': 195288, 'internet': 6909635, 'mob': 16871654},
+                              'subs': {'bb': 152047, 'fix': 207592, 'internet': 6909635, 'mob': 17880594},
                               'tld': '.sn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sn'}},
           'mcc': ['608'],
@@ -12235,27 +13270,30 @@ P1_CC2 = \
                                             'services',
                                             'fixed-line less than 1 per 100 and mobile-cellular 49 per 100',
                                             2019],
-                              'general': [ 'the public telecom system was almost completely destroyed or dismantled '
-                                           'during the civil war',
-                                           'private companies offer limited local fixed-line service, and private '
-                                           'wireless companies offer service in most major cities',
-                                           'mobile sector has 7 networks improving the telecom sector along with '
-                                           'submarine cables ending the expensive satellite dependency for Internet '
-                                           'access',
-                                           'Al Shabaab Islamic militant group has forced closure of Internet services '
-                                           'in some parts of the country',
-                                           'new telecom regulatory sector in place',
+                              'general': [ 'the public telecom system was almost completely destroyed during years of '
+                                           'civil war',
+                                           'private companies offer limited local fixed-line and wireless service in '
+                                           'most major cities',
+                                           'early 2020 landing of DARE 1 submarine cables in Mogadishu and Bossaso '
+                                           'eased dependence on expensive satellite dependency for Internet access',
+                                           'in 2019, Al Shabaab Islamic militant group forced closure of Internet '
+                                           'services in some parts of the country',
+                                           'new telecom regulatory sector in place (2020)',
                                            2020],
                               'intl': [ 'landing points for the G2A, DARE1, PEACE, and EASSy fiber-optic submarine '
                                         'cable system linking East Africa, Indian Ocean Islands, the Middle East, '
                                         'North Africa and Europe',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 92000, 'fix': 74800, 'internet': 225181, 'mob': 5612338},
                               'tld': '.so',
@@ -12297,25 +13335,32 @@ P1_CC2 = \
                                             '100 persons',
                                             'microwave radio relay network is in place',
                                             2019],
-                              'general': [ 'international facilities are good',
-                                           'state-owned fixed-line teledensity and broadband services below regional '
-                                           'average for Latin America and Caribbean, but mobile penetration is above '
-                                           'regional average',
-                                           'fixed-line effective along the coastline and poor in the interior',
+                              'general': [ 'smallest nation in South America with low population and client base',
+                                           'state-owned fixed-line tele-density rates and broadband services below '
+                                           'regional average for Latin America and Caribbean',
+                                           'operator building out fiber network',
+                                           'mobile penetration is above regional average',
+                                           'fixed-line effective along the coastline yet poor in the interior',
                                            'competition in the mobile sector',
+                                           'launch of 5G in Paramaribo',
+                                           'importer of broadcasting equipment from USA (2021)',
                                            2020],
                               'intl': [ 'landing point for the SG-SCS submarine cable linking South America with the '
                                         'Caribbean',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 73176, 'fix': 96310, 'internet': 292685, 'mob': 845292},
+                              'subs': {'bb': 80320, 'fix': 92756, 'internet': 292685, 'mob': 813844},
                               'tld': '.sr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sr'}},
           'mcc': ['746'],
@@ -12347,25 +13392,38 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line less than 1 per 100 subscriptions, mobile-cellular 33 per 100 '
                                             'persons',
                                             2019],
-                              'general': [ 'one of the least developed telecommunications and Internet systems in the '
-                                           'world',
-                                           'the international community has provided billions in aid to help the young '
-                                           'country, unfortunate instability, widespread poverty and low literacy rate '
-                                           'all contribute to a struggle for their telecom sector',
-                                           'the few carriers in the market have reduced the areas in which they offer '
-                                           'service, not expanded them',
-                                           'recently the government shut down the largest cellphone carrier isolating '
-                                           '1.4 million customers over a disputed service fee arrangement',
+                              'general': [ 'landlocked and war-torn with little infrastructure and electricity, Sudan '
+                                           'has one of the least developed telecom and Internet systems in the world '
+                                           'and one of the lowest mobile penetration rates in Africa',
+                                           'instability, widespread poverty, and low literacy rate all contribute to a '
+                                           'struggling telecom sector',
+                                           'due to revenue losses, the few carriers in the market have reduced the '
+                                           'areas in which they offer service',
+                                           'the government recognizes positive effects of ICT on development and is '
+                                           'providing a range of investment incentives',
+                                           'international community provided billions in aid to help the young country',
+                                           'Chinese investment plays a growing role in the infrastructure build-out '
+                                           'and energy sectors',
+                                           'by 2020, one operator had initiated e-money service',
+                                           'international fiber cable link from Juba to Mombasa will drive down costs '
+                                           'of Internet',
+                                           'government utilizes unchecked power to conduct surveillance and monitor '
+                                           'communications',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [2017],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 200, 'internet': 814326, 'mob': 3439784},
+                              'subs': {'bb': 200, 'internet': 814326, 'mob': 2221967},
                               'tld': '.ss',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ss'}},
           'mcc': ['659'],
@@ -12406,14 +13464,18 @@ P1_CC2 = \
                                         'to over 20 West African countries and Europe',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1557, 'fix': 4614, 'internet': 61193, 'mob': 160189},
+                              'subs': {'bb': 1642, 'fix': 4784, 'internet': 61193, 'mob': 165761},
                               'tld': '.st',
                               'url_tld': 'https://en.wikipedia.org/wiki/.st'}},
           'mcc': ['626'],
@@ -12442,25 +13504,26 @@ P1_CC2 = \
                               'domestic': [ 'growth in fixed-line services 14 per 100, has slowed in the face of '
                                             'mobile-cellular competition at 147 per 100',
                                             2019],
-                              'general': [ 'multiple mobile-cellular operators began rolling out (Long Term Evolution) '
-                                           'LTE data services in late-2016',
-                                           'Internet usage grew almost 400% between 2007 and 2015',
-                                           '6% of phones are fixed-line, while 94% are mobile-cellular',
-                                           'as of March 2019, the regulator launched a public dialog that allowed '
-                                           'mobile network operators to improve the reach and quality of service',
-                                           'telecom legislation encourages competition and foreign investment',
-                                           'only 1 DSL market leader retaining a monopoly',
-                                           'govt. increases tax on telecom services to 18%',
+                              'general': [ "El Salvador's telecom sector is challenged by low population, poor "
+                                           'infrastructure, and unequal income distribution compounded by corruption '
+                                           'and criminal influence',
+                                           'liberal regulation promotes mobile penetration in replacement of '
+                                           'fixed-line density',
+                                           'operators testing 5G in 2020 (2020)',
                                            2020],
                               'intl': [ 'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         'connected to Central American Microwave System',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 492265, 'fix': 882498, 'internet': 2153776, 'mob': 9442667},
                               'tld': '.sv',
@@ -12504,12 +13567,16 @@ P1_CC2 = \
                                         'connectivity to the Caribbean',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'mob': 84773},
                               'tld': '.sx',
@@ -12563,18 +13630,18 @@ P1_CC2 = \
                                             'civil war in 2011 and now stands at 17 per 100',
                                             'mobile-cellular service stands at about 114 per 100 persons',
                                             2019],
-                              'general': [ 'the armed insurgency that began in 2011 has led to major disruptions to '
-                                           'the network and has caused telephone and Internet outages throughout the '
-                                           'country',
-                                           '2018 saw some stabilizing',
-                                           'telecoms have become decentralized',
-                                           'fairly high mobile penetration of 98%',
-                                           'potential for growth given that subscription numbers are low',
+                              'general': [ "Syria's telecom sector has paid a heavy toll from years of civil war and "
+                                           'destruction leading to major disruptions to the network',
+                                           'operators focusing on rebuilding damaged networks, though lack of basic '
+                                           'infrastructure, including power and security, hamper efforts',
+                                           'fairly high mobile penetration for region',
                                            'remote areas rely on expensive satellite communications',
                                            'mobile broadband infrastructure is predominantly 3G for about 85% of the '
-                                           'population',
-                                           'LTE launched in 2017',
-                                           'Syria has two mobile telephone operators',
+                                           'population with some LTE',
+                                           'international aid network provides emergency Internet and telecom services '
+                                           'when necessary',
+                                           'government restrictions of Internet freedom',
+                                           'major importer of broadcasting equipment from UAE (2021)',
                                            2020],
                               'intl': [ 'landing points for the Aletar, BERYTAR and UGART submarine cable connections '
                                         'to Egypt, Lebanon, and Cyprus',
@@ -12583,14 +13650,18 @@ P1_CC2 = \
                                         'coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey',
                                         'participant in Medarabtel',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1328688, 'fix': 3097164, 'internet': 6077510, 'mob': 21115000},
+                              'subs': {'bb': 1490344, 'fix': 2843103, 'internet': 6077510, 'mob': 21115000},
                               'tld': '.sy',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sy'}},
           'mcc': ['417'],
@@ -12622,18 +13693,27 @@ P1_CC2 = \
                                             'telephone system consists of carrier-equipped, open-wire lines and '
                                             'low-capacity, microwave radio relay',
                                             2019],
-                              'general': [ 'earlier government monopoly in telecommunications hindered its growth',
-                                           'new regulatory authority established in 2013 has aided expansion in the '
-                                           'telecom sector',
-                                           '2G, 3G, 4G and LTE services',
+                              'general': [ 'earlier government monopoly in telecom market hindered growth',
+                                           'liberalized regulators aided expansion in the telecom sector',
+                                           'lack of fixed-line infrastructure and competition stymies development of '
+                                           'DSL and backbone network',
+                                           '2G, 3G, 4G, and LTE services with coverage to most of the population',
+                                           'landlocked country depends on neighbors for international bandwidth',
+                                           'operator completed terrestrial cable linking Maputo through Eswatini to '
+                                           'Johannesburg',
+                                           'importer of broadcasting equipment from South Africa (2020)',
                                            2019],
                               'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 7000, 'fix': 40003, 'internet': 510984, 'mob': 1025061},
                               'tld': '.sz',
@@ -12684,12 +13764,16 @@ P1_CC2 = \
                                         'and the US',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 6096},
                               'tld': '.tc',
@@ -12725,23 +13809,28 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line connections less than 1 per 100 persons, with mobile-cellular '
                                             'subscribership base of about 48 per 100 persons',
                                             2019],
-                              'general': [ 'inadequate system of radio telephone communication stations with high '
-                                           'maintenance costs and low telephone density',
-                                           'Chad remains one of the least developed on the African continent, telecom '
-                                           'infrastructure is particularly low, with penetration rates in all sectors '
-                                           '- fixed, mobile and Internet -well below African averages',
-                                           'low usage also due to 18% excise duty tax on telecom services and a '
-                                           'negative impact on operator revenue',
+                              'general': [ "Chad's inadequate telecom infrastructure, corruption, and high taxes "
+                                           'hinder penetration in fixed, mobile, and Internet sectors',
+                                           'with tax reform, operators are investing in voice and data infrastructure '
+                                           'to 3G/4G',
+                                           'government approved telecom infrastructure upgrade',
+                                           'World Bank-funded Central African Backbone (CAB) project',
+                                           'Trans-Saharan Backbone project will link a fiber cable to Nigeria and '
+                                           'Algeria (2021)',
                                            2020],
                               'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 334, 'fix': 6540, 'internet': 1029153, 'mob': 7857758},
+                              'subs': {'bb': 68, 'fix': 6524, 'internet': 1029153, 'mob': 7664839},
                               'tld': '.td',
                               'url_tld': 'https://en.wikipedia.org/wiki/.td'}},
           'mcc': ['622'],
@@ -12808,14 +13897,18 @@ P1_CC2 = \
                                         'coast of Africa with each other and with Portugal',
                                         'satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 26156, 'fix': 45311, 'internet': 1010609, 'mob': 6477816},
+                              'subs': {'bb': 31899, 'fix': 43605, 'internet': 1010609, 'mob': 6239183},
                               'tld': '.tg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tg'}},
           'mcc': ['615'],
@@ -12849,29 +13942,41 @@ P1_CC2 = \
                                             'wireless service expanding rapidly',
                                             'fixed-line 4 per 100 and mobile-cellular 186 per 100',
                                             2019],
-                              'general': [ 'high quality system, especially in urban areas like Bangkok',
+                              'general': [ 'high-quality system, especially in urban areas',
                                            'mobile and mobile broadband penetration are on the increase',
-                                           'Fiber-to-the-home (FttH) has seen strong growth in the major cities',
-                                           '4G TD-LTE available and moving to 5G services',
-                                           'seven smart cities with the hope of 100 smart cities within its borders in '
-                                           'the next two decades',
+                                           'FttH has strong growth in cities',
+                                           '4G-LTE available with adoption of 5G services',
+                                           'seven smart cities with aim for 100 smart cities by 2024',
                                            'one of the biggest e-commerce markets in Southeast Asia',
-                                           'fixed broadband remains relative compared to other developed Asian telecom '
-                                           'markets and with the dominance of the mobile platform',
+                                           'fixed-broadband and mobile marketplace on par with other developed Asian '
+                                           'markets',
+                                           'development of Asian data center underway',
+                                           'Internet connectivity supported by international bandwidth to Singapore, '
+                                           'Malaysia, and Hong Kong, and terrestrial cables with neighboring countries',
+                                           'two more submarine cables under construction with anticipated landings in '
+                                           '2022',
+                                           'government restricts Internet and freedom of press, with additional '
+                                           'constraints in response to pandemic-related criticism in 2020',
+                                           'importer of broadcasting equipment and integrated circuits from China and '
+                                           'export of same to neighboring countries in Asia (2021)',
                                            2020],
                               'intl': [ 'landing points for the AAE-1, FEA, SeaMeWe-3,-4, APG, SJC2, TIS, MCT and AAG '
                                         'submarine cable systems providing links throughout Asia, Australia, Africa, '
                                         'Middle East, Europe, and US',
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 9189000, 'fix': 2580166, 'internet': 38987531, 'mob': 128086321},
+                              'subs': {'bb': 10108819, 'fix': 5415000, 'internet': 38987531, 'mob': 129614000},
                               'tld': '.th',
                               'url_tld': 'https://en.wikipedia.org/wiki/.th'}},
           'mcc': ['520'],
@@ -12920,13 +14025,21 @@ P1_CC2 = \
                                             'coverage now extends to all major cities and towns',
                                             'fixed-line 5 per 100 and mobile-cellular 112 per 100',
                                             2019],
-                              'general': [ 'foreign investment in the telephone system has resulted in major '
-                                           'improvements',
-                                           'an increase in mobile broadband penetration, but still in the early stages '
-                                           'and remains low compared to those in the region',
-                                           'the country has endeavored to launch 4G/LTE services with mixed results',
-                                           '7 major cities have 4G coverage',
-                                           '5 major operators in the market',
+                              'general': [ "Tajikistan's telecom sector continues to struggle due to geographic "
+                                           'isolation, lack of electricity, dysfunctional business climate, and '
+                                           'impoverished citizenry',
+                                           'despite the launch of 4G/LTE services, one of the lowest fixed-line '
+                                           'penetrations in Asia and one of the lowest broadband levels in the world',
+                                           'with help from foreign investment, mobile sector near saturation phase',
+                                           'Russian loans and Chinese investment in infrastructure through Economic '
+                                           'Corridor initiatives',
+                                           'a few cities have 4G coverage',
+                                           'LTE-based smart city concept in Dushanbe',
+                                           'government restricts political rights and civil liberties, controlling '
+                                           'information through media interruptions',
+                                           'government raised rates on Internet-based calls and Internet services in '
+                                           '2020, making price one of the highest in the world',
+                                           'importer of video displays and broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'linked by cable and microwave radio relay to other CIS republics and by '
                                         'leased connections to the Moscow international gateway switch',
@@ -12934,12 +14047,16 @@ P1_CC2 = \
                                         '(Turkey)',
                                         '3 satellite earth stations - 2 Intelsat and 1 Orbita',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 6000, 'fix': 471090, 'internet': 1889632, 'mob': 9747803},
                               'tld': '.tj',
@@ -12978,12 +14095,16 @@ P1_CC2 = \
                                         'government-regulated telephone service (TeleTok)',
                                         'satellite earth stations - 3',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 300, 'internet': 805},
                               'tld': '.tk',
@@ -13020,29 +14141,34 @@ P1_CC2 = \
                                             'services have been expanding and are now available in urban and most '
                                             'rural areas with teledensity of 110 per 100',
                                             2019],
-                              'general': [ 'service in urban and some rural areas, which is expanding with the '
-                                           'entrance of new competitors',
-                                           '4G LTE service, with about 97% of population having access, among 3 mobile '
-                                           'operators',
-                                           'increase in mobile broadband penetration',
-                                           'govt. aims to boost e-govt. services with new national terrestrial optical '
-                                           'fiber network',
-                                           'the launch in 2019 of the Kacific-1 satellite is important to the telecom '
-                                           'sector for the entire region',
+                              'general': [ 'following years of civil unrest, the government and operators are working '
+                                           'toward regeneration of the economy and telecom infrastructure',
+                                           'service in urban and some rural areas expanding with competition',
+                                           'most of the population has access to 4G LTE service',
+                                           'increase in mobile-broadband penetration',
+                                           'government aims to boost e-government services with new national '
+                                           'terrestrial fiber-optic network',
+                                           'launch of satellite and approval for submarine cable link to Australia '
+                                           'will boost sector growth',
+                                           'importer of broadcasting equipment from Indonesia and China (2021)',
                                            2020],
                               'intl': [ 'international service is available',
                                         'partnership with Australia telecom companies for potential deployment of a '
                                         'submarine fiber-optic link (NWCS)',
                                         'geostationary earth orbit satellite',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 603, 'fix': 2164, 'internet': 363398, 'mob': 1490966},
+                              'subs': {'bb': 600, 'fix': 2075, 'internet': 363398, 'mob': 1425256},
                               'tld': '.tl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tl'}},
           'mcc': ['514'],
@@ -13074,17 +14200,18 @@ P1_CC2 = \
                                             '100 persons',
                                             'first telecommunication satellite was launched in 2015',
                                             2019],
-                              'general': [ 'telecommunications network is gradually improving from the former Soviet '
-                                           'republic',
-                                           'state control over most economic activities has not helped growth',
-                                           'in cooperation with foreign partners, the telecom sector has installed '
-                                           "high-speed fiber-optic lines and has upgraded most of the country's "
-                                           'telephone exchanges and switching centers with new digital technology',
-                                           'the mobile market will see slow growth',
-                                           'some rural areas are still without telephones',
+                              'general': [ 'stagnant economy, rural geography, and authoritarian rule limit '
+                                           'development of the telecom sector',
+                                           'in cooperation with Russian-based partners, operators have installed '
+                                           "high-speed fiber-optic lines and upgraded most of the country's telephone "
+                                           'switch centers with digital technology',
+                                           'some rural areas lack fixed-line coverage',
                                            'mobile broadband is in the early stages of development',
-                                           'in 2019 Russia-based operator said to be leaving the country and leaving '
-                                           'only 1 public operator',
+                                           'services are extremely slow, though Trans-Caspian cable will provide '
+                                           'international Internet capacity and improvement in services',
+                                           'freedom of press and expression restricted through monitoring, media '
+                                           'interruption, and removal of receivers from households',
+                                           'importer of broadcasting equipment from UAE (2021)',
                                            2020],
                               'intl': [ 'linked by fiber-optic cable and microwave radio relay to other CIS republics '
                                         'and to other countries by leased connections to the Moscow international '
@@ -13093,12 +14220,16 @@ P1_CC2 = \
                                         'Intelsat',
                                         'satellite earth stations - 1 Orbita and 1 Intelsat',
                                         2018],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 4000, 'fix': 648223, 'internet': 1149840, 'mob': 8908821},
                               'tld': '.tm',
@@ -13137,20 +14268,21 @@ P1_CC2 = \
                                             'fixed-line is 12 per 100 and mobile-cellular teledensity has reached '
                                             'about 126 telephones per 100 persons',
                                             2019],
-                              'general': [ 'above the African average and continuing to be upgraded',
-                                           'key centers are Sfax, Sousse, Bizerte, and Tunis',
-                                           'telephone network is completely digitized',
-                                           'Internet access available throughout the country',
+                              'general': [ 'Tunisia has one of the most sophisticated telecom infrastructures in North '
+                                           'Africa',
                                            'penetration rates for mobile and Internet services are among the highest '
                                            'in the region',
-                                           '3 MNOs (mobile network operator)',
-                                           'government Internet censorship abolished in 2013',
-                                           'telecom invests in LTE network and fiber infrastructure with FttP (fiber '
-                                           'to the premises) services',
-                                           '5G license expected to be launched soon',
-                                           'auction of spectrum in the 800MHz band loT (location of Things) and mobile '
-                                           'services',
-                                           'use of Chinese company Huawei to develop LTE network',
+                                           'government program of regulation and infrastructure projects aims to '
+                                           'improve Internet connectivity to underserved areas',
+                                           'operators built extensive LTE infrastructure in 2019, and are developing '
+                                           '5G networks and services',
+                                           'Chinese company Huawei invested in LTE network',
+                                           'operator planning nano-satellite launches in 2023',
+                                           'Internet censorship abolished, though concerns of government surveillance '
+                                           'remain',
+                                           'legislation passed in 2017 supporting e-commerce and active e-government',
+                                           'importer of integrated circuits and broadcasting equipment from China '
+                                           '(2021)',
                                            2020],
                               'intl': [ 'landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and '
                                         'Trapani-Kelibia submarine cable systems that provides links to Europe, '
@@ -13160,14 +14292,18 @@ P1_CC2 = \
                                         'participant in Medarabtel',
                                         '2 international gateway digital switches',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1014395, 'fix': 1444631, 'internet': 7392242, 'mob': 14679917},
+                              'subs': {'bb': 1193359, 'fix': 1454183, 'internet': 7392242, 'mob': 14771048},
                               'tld': '.tn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tn'}},
           'mcc': ['605'],
@@ -13209,14 +14345,18 @@ P1_CC2 = \
                                         'separate Tonga islands',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2519, 'fix': 6748, 'internet': 43889, 'mob': 63156},
+                              'subs': {'bb': 3703, 'fix': 6637, 'internet': 43889, 'mob': 62104},
                               'tld': '.to',
                               'url_tld': 'https://en.wikipedia.org/wiki/.to'}},
           'mcc': ['539'],
@@ -13262,15 +14402,16 @@ P1_CC2 = \
                                             'fixed-line 14 per 100 and mobile-cellular teledensity is 97 telephones '
                                             'per 100 persons',
                                             2019],
-                              'general': [ 'comprehensive telecommunications network undergoing rapid modernization '
-                                           'and expansion, especially in mobile-cellular services',
-                                           'rise in subscribers and increase in bundled packages',
-                                           'while mobile broadband becoming increasingly popular DSL has largest share '
-                                           'of fixed broadband technologies, but fiber-optic is growing with '
-                                           'significant investment',
-                                           '4G LTE networks well incorporated in Turkey, 93% coverage of the '
-                                           'population',
-                                           'strides made with 5G trials with help from Chinese company Huawei',
+                              'general': [ 'following earthquake damage to infrastructure in 2020, telecom sector '
+                                           'undergoing rapid modernization and expansion, especially in '
+                                           'mobile-cellular services',
+                                           'mobile broadband becoming increasingly popular',
+                                           'near saturation of 4G LTE coverage for the population',
+                                           'strides made with 5G through investment by Huawei and Ericcson',
+                                           'fixed and mobile infrastructure will help to underpin Smart City '
+                                           'initiatives',
+                                           'tight government control on social media platforms',
+                                           'importer of broadcasting equipment and computers from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the SeaMeWe-3 & -5, MedNautilus Submarine System, '
                                         'Turcyos-1 & -2 submarine cables providing connectivity to Europe, Africa, the '
@@ -13278,14 +14419,18 @@ P1_CC2 = \
                                         'satellite earth stations - 12 Intelsat',
                                         'mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 13407226, 'fix': 11283768, 'internet': 57725143, 'mob': 79068023},
+                              'subs': {'bb': 14231978, 'fix': 11532903, 'internet': 57725143, 'mob': 80790877},
                               'tld': '.tr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tr'}},
           'mcc': ['286'],
@@ -13329,14 +14474,18 @@ P1_CC2 = \
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         'tropospheric scatter to Barbados and Guyana',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 341045, 'fix': 298493, 'internet': 939967, 'mob': 1880555},
+                              'subs': {'bb': 339340, 'fix': 343385, 'internet': 939967, 'mob': 2163725},
                               'tld': '.tt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tt'}},
           'mcc': ['374'],
@@ -13375,12 +14524,16 @@ P1_CC2 = \
                                            'telecommunication sector for the Asia Pacific region',
                                            2020],
                               'intl': ['international calls can be made by satellite', 0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 1000, 'fix': 1978, 'internet': 5498, 'mob': 7911},
                               'tld': '.tv',
@@ -13408,15 +14561,15 @@ P1_CC2 = \
                      'nameset': ['china', 'republic of china', 'taiwan', 'the republic of china'],
                      'tel': { 'code': '886',
                               'domestic': ['fixed-line 55 per 100 and mobile-cellular 123 per 100', 2019],
-                              'general': [ 'good telecommunications infrastructure and competitive mobile market',
-                                           'Taiwan has a stable regulatory system and an educated workforce building '
-                                           'on availability of fixed and mobile broadband networks',
-                                           'investors attracted to this excellent telecom infrastructure',
-                                           'fixed-line will decline in the next 5 years',
-                                           '6 mobile network operators',
-                                           '4G LTE service',
-                                           'regulator begins multi-spectrum auction for 5G services',
-                                           'govt. to release NT $20.5 billion to encourage development of 5G services',
+                              'general': [ 'dynamic telecommunications industry defined by excellent infrastructure '
+                                           'and competitive mobile market',
+                                           'solid availability of fixed and mobile broadband networks',
+                                           'investors attracted to regulatory certainty, market maturity, an educated '
+                                           'workforce, and ICT sector at the heart of economic development',
+                                           '4G LTE service with fiber is the most popular platform',
+                                           '5G to 80% of subscribers',
+                                           'government funds development of 5G and IoT market',
+                                           "concerns include China's efforts to influence media and ICT policy (2021)",
                                            2020],
                               'intl': [ 'landing points for the EAC-C2C, APCN-2, FASTER, SJC2, TSE-1, TPE, APG, '
                                         'SeaMeWe-3, FLAG North Asia Loop/REACH North Asia Loop, HKA, NCP, and PLCN '
@@ -13424,14 +14577,18 @@ P1_CC2 = \
                                         'East, Europe, Africa and the US',
                                         'satellite earth stations - 2',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 5725022, 'fix': 12863860, 'internet': 21845944, 'mob': 29049784},
+                              'subs': {'bb': 5831467, 'fix': 12971902, 'internet': 21845944, 'mob': 29049784},
                               'tld': '.tw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tw'}},
           'mcc': ['466'],
@@ -13500,27 +14657,30 @@ P1_CC2 = \
                                             'scatter, and fiber-optic cable',
                                             'some links being made digital',
                                             2019],
-                              'general': [ 'telecommunications services are marginal and operating below capacity',
-                                           '1 fixed-line operator and 8 operational mobile networks',
-                                           'unfortunate high tariffs on telecoms',
-                                           'mobile use is growing at 85% penetration',
-                                           '3G/LTE services',
-                                           'govt. allocates TZ $17.5 billion to improve rural telecom infrastructure '
+                              'general': [ "Tanzania's telecom services are marginal and operating below capacity",
+                                           'one fixed-line operator with competition in mobile networks',
+                                           'high tariffs on telecom',
+                                           'mobile use is growing with popularity of 3G/LTE services',
+                                           'government allocated funds in 2019 to improve rural telecom infrastructure '
                                            'and work on national fiber backbone network connecting population around '
-                                           'country',
+                                           'country (2020)',
                                            2020],
                               'intl': [ 'landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS fiber-optic '
                                         'submarine cable system linking East Africa with the Middle East',
                                         'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 861234, 'fix': 74081, 'internet': 13862836, 'mob': 46847405},
+                              'subs': {'bb': 1039655, 'fix': 76288, 'internet': 13862836, 'mob': 47685232},
                               'tld': '.tz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tz'}},
           'mcc': ['640'],
@@ -13567,16 +14727,20 @@ P1_CC2 = \
                                             "the mobile-cellular telephone system's expansion has slowed, largely due "
                                             'to saturation of the market that is now 131 mobile phones per 100 persons',
                                             2019],
-                              'general': [ 'telecommunication development plan emphasizes improving domestic trunk '
-                                           'lines, international connections, and the mobile-cellular system',
-                                           "Turkey and Russia have made investments to Ukraine's telecom market",
-                                           'competition available between 3 alternative operators moving from 3G '
-                                           'services, but some areas still use 2G',
-                                           'LTE services available in some areas',
+                              'general': [ "Ukraine's telecom market continues to face challenges resulting from the "
+                                           'annexation of Crimea by Russia and unrest in eastern regions',
+                                           'developing telecom market has attracted international investors from '
+                                           'Russia, Turkey, and Azerbaijan',
+                                           'government plan emphasizes improvement of domestic trunk lines, '
+                                           'international connections, and a national mobile-cellular system',
+                                           'operators moving from 3G services to 4G, but some areas still use 2G',
+                                           'LTE services available in cities',
                                            'FttP networks taking over DSL platforms',
-                                           'political tensions have not added to growth and telecom regulators must '
-                                           'not count Crimea numbers (annexed by Russia in 2014)',
-                                           'mobile broadband services present a growth opportunity',
+                                           'government approved plan in 2020 for 5G migration and operator is '
+                                           'developing IoT capabilities',
+                                           'improvement of licensing requirements for operators and positive reforms '
+                                           'for users',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing point for the Kerch Strait Cable connecting Ukraine to Russia',
                                         '2 new domestic trunk lines are a part of the fiber-optic TAE system and 3 '
@@ -13587,14 +14751,18 @@ P1_CC2 = \
                                         'unknown number of earth stations in the Intelsat, Inmarsat, and Intersputnik '
                                         'satellite systems',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 5405125, 'fix': 4378911, 'internet': 25883509, 'mob': 57431439},
+                              'subs': {'bb': 6784185, 'fix': 4182994, 'internet': 25883509, 'mob': 54842940},
                               'tld': '.ua',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ua'}},
           'mcc': ['255'],
@@ -13642,32 +14810,34 @@ P1_CC2 = \
                                             'intercity traffic by wire, microwave radio relay, and radiotelephone '
                                             'communication stations',
                                             2019],
-                              'general': [ 'in recent years, telecommunications infrastructure has developed through '
-                                           'private partnerships',
-                                           'as of 2018, fixed fiber backbone infrastructure is available in over half '
-                                           'of Uganda&rsquo',
-                                           's districts',
+                              'general': [ 'telecom infrastructure has developed through private partnerships',
+                                           'as of 2018, fixed-fiber backbone infrastructure is available in over half '
+                                           "of Uganda's districts",
                                            'mobile phone companies now provide 4G networks across all major cities and '
-                                           'national parks, while offering 3G coverage in second-tier cities and most '
-                                           'rural areas with road access',
-                                           'between 2016 and 2018, commercial Internet services dropped in price from '
-                                           '$300/Mbps to $80/Mbps',
+                                           'national parks, while offering 3G coverage in small cities and most rural '
+                                           'areas with road access',
+                                           'price of commercial Internet services dropped substantially in 2019',
                                            'consumers rely on mobile infrastructure to provide voice and broadband '
                                            'services as fixed-line infrastructure is poor',
-                                           '5G migration is a few years off',
-                                           'govt. commissions broadband satellite services for rural areas',
+                                           '5G migration is developing slowly',
+                                           'government commissioned broadband satellite services for rural areas in '
+                                           '2019 (2020)',
                                            2020],
                               'intl': [ 'satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat',
                                         'analog and digital links to Kenya and Tanzania',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 9485, 'fix': 184065, 'internet': 9620681, 'mob': 23957740},
+                              'subs': {'bb': 9485, 'fix': 76492, 'internet': 9620681, 'mob': 25395503},
                               'tld': '.ug',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ug'}},
           'mcc': ['641'],
@@ -13700,7 +14870,7 @@ P1_CC2 = \
                                      'code UK in lieu of the ISO 3166-2 code of GB',
                               'coast': 12429,
                               'coord': ['54 00 N, 2 00 W'],
-                              'popul': 66052076,
+                              'popul': 67081000,
                               'ports': { 'container': 'Felixstowe (3,849,700), London (2,431,000), Southampton '
                                                       '(2,040,000) (2017)',
                                          'seaport': 'Dover, Felixstowe, Immingham, Liverpool, London, Southampton, '
@@ -13721,15 +14891,18 @@ P1_CC2 = \
                                             'systems',
                                             'fixed-line 48 per 100 and mobile-cellular 118 per 100',
                                             2019],
-                              'general': [ 'technologically advanced domestic and international system',
-                                           'one of the largest mobile and telecom markets in Europe for revenue and '
-                                           'subscribers',
-                                           'will complete the switch to fiber by 2033',
+                              'general': [ "UK's telecom market remains one of the largest in Europe, characterized by "
+                                           'competition, affordable pricing, and its technologically advanced systems',
                                            'mobile penetration above the EU average',
-                                           'govt. to invest in fiber infrastructure and 5G technologies',
-                                           'operators expanded the reach of 5G services',
-                                           'FttP provided to over a million customers',
+                                           'government to invest in infrastructure and 5G technologies with ambition '
+                                           'for a fully-fibered nation by 2033',
+                                           'operators expanded the reach of 5G services in 2020',
                                            'super-fast broadband available to about 95% of customers',
+                                           'London is developing smart city technology, in collaboration with private, '
+                                           'tech, and academic sectors',
+                                           'legislation banned Chinese company Huawei from UK 5G networks following '
+                                           'advisement from the National Cyber Security Centre (NCSC)',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'Landing points for the GTT Atlantic, Scotland-Northern Ireland -1, & -2, '
                                         'Lanis 1,-2, &-3, Sirius North, BT-MT-1, SHEFA-2, BT Highlands and Islands '
@@ -13746,14 +14919,18 @@ P1_CC2 = \
                                         '1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat',
                                         'at least 8 large international switching centers',
                                         2018],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 26586110, 'fix': 31160866, 'internet': 61784878, 'mob': 76920618},
+                              'subs': {'bb': 26786963, 'fix': 32287999, 'internet': 61784878, 'mob': 80967000},
                               'tld': '.gb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gb'}},
           'mcc': ['234', '235'],
@@ -13873,10 +15050,28 @@ P1_CC2 = \
                                             'fixed-line 33 per 100 and mobile-cellular 124 per 100',
                                             2019],
                               'general': [ 'a large, technologically advanced, multipurpose communications system',
-                                           'mobile subscriber penetration rate of about 129%',
-                                           'national LTE-M services, closes down 2G infrastructure and reassigns '
-                                           'spectrum for 5G',
-                                           'FttP rather than FttN efforts',
+                                           'reliable Internet available for most of the population though challenges '
+                                           'remain in rural areas and tribal lands',
+                                           'concentration among industry operators',
+                                           'saturated mobile subscriber penetration rate',
+                                           'national LTE-M services with reassignment of 2G spectrum for 5G, centered '
+                                           'in urban areas',
+                                           'operators signed alliance to develop 6G in line with technology standards, '
+                                           'and government policies',
+                                           'almost all citizens have access to both fixed-line and mobile-broadband '
+                                           'services',
+                                           'government fund to connect 5.3 million residences and businesses in rural '
+                                           'areas',
+                                           'in pandemic, emergency funding for Internet and devices related to '
+                                           'education',
+                                           'cooperative approach to e-commerce, health, education, and energy with '
+                                           'smart city technology in several areas',
+                                           'federal subsidies to private satellite Internet constellation with aims '
+                                           'for fast, world-wide connections',
+                                           'government policy designated Chinese companies Huawei and ZTE as national '
+                                           'security threats and restricted partnership',
+                                           'importer of broadcasting equipment from China with export of same to Hong '
+                                           'Kong (2021)',
                                            2020],
                               'intl': [ 'landing points for the Quintillion Subsea Cable Network, TERRA SW, '
                                         'AU-Aleutian, KKFL, AKORN, Alaska United -West, & -East & -Southeast, North '
@@ -13896,14 +15091,18 @@ P1_CC2 = \
                                         'Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and '
                                         'Atlantic Ocean regions)',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 110568000, 'fix': 107667642, 'internet': 285519020, 'mob': 408509528},
+                              'subs': {'bb': 114259000, 'fix': 107568000, 'internet': 285519020, 'mob': 442457000},
                               'tld': '.us',
                               'url_tld': 'https://en.wikipedia.org/wiki/.us'}},
           'mcc': ['310', '311', '312', '313', '314', '315', '316'],
@@ -14408,14 +15607,18 @@ P1_CC2 = \
                                             'overall fixed-line 34 per 100 and mobile-cellular teledensity 138 per 100 '
                                             'persons',
                                             2019],
-                              'general': [ 'fully digitalized',
-                                           'one of the highest broadband penetrations in Latin America',
-                                           'high fixed-line and mobile penetrations as well',
-                                           'FttP coverage by 2022',
+                              'general': [ 'Uruguay has an advanced telecom market, with excellent infrastructure and '
+                                           'one of the highest broadband penetration rates in Latin America',
+                                           'fully digitized',
+                                           'high computer use and fixed-line/mobile penetrations',
+                                           'deployment of fiber infrastructure will encourage economic growth and '
+                                           'stimulate e-commerce',
+                                           'state-owned monopoly on fixed-line market and dominance of mobile market',
                                            'nationwide 3G coverage and LTE networks',
                                            'limited 5G commercial reach',
-                                           'strong focus on fiber infrastructure with 70% residential fixed-broadband '
-                                           'connections and all business connections',
+                                           'strong focus on fiber infrastructure with high percentage of residential '
+                                           'fixed-broadband connections and near total business connections',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the Unisor, Tannat, and Bicentenario submarine cable '
                                         'system providing direct connectivity to Brazil and Argentina',
@@ -14423,14 +15626,18 @@ P1_CC2 = \
                                         'bandwidth',
                                         'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 977390, 'fix': 1137193, 'internet': 2300557, 'mob': 4664993},
+                              'subs': {'bb': 1012410, 'fix': 1165373, 'internet': 2300557, 'mob': 4779787},
                               'tld': '.uy',
                               'url_tld': 'https://en.wikipedia.org/wiki/.uy'}},
           'mcc': ['748'],
@@ -14470,12 +15677,23 @@ P1_CC2 = \
                                             'mobile-cellular services are provided by 2 private and 3 state-owned '
                                             'operators with a total subscriber base of 22.8 million as of January 2018',
                                             2019],
-                              'general': [ 'digital exchanges in large cities and in rural areas',
-                                           'increased investment in infrastructure and growing subscriber base',
+                              'general': [ 'land-locked, authoritarian state with government grip on ICT technology '
+                                           'and no integrated plan',
+                                           'government plans to develop infrastructure to improve geographical '
+                                           'disparities in service',
+                                           'increased investment in infrastructure, with aims of expanding subscriber '
+                                           'base and rising revenue',
+                                           'some villages have no connectivity, and 70% have 2G with development of 3G '
+                                           'and 4G',
+                                           'free WiFi spots across country to boost tourism',
+                                           'Russian operator invested in joint venture on mobile services',
+                                           'government in discussion with Huawei on additional ventures',
+                                           'digital exchanges in large cities and some rural areas',
                                            'fixed-line is underdeveloped due to preeminence of mobile market',
                                            'introduction of prepaid Internet has contributed to home Internet usage',
-                                           'increase in mobile broadband penetration yet still early stages',
-                                           'Wi-Fi hotspot in the city of Tashkent in the future',
+                                           'consumers largely reliant on terrestrial links and VSAT networks',
+                                           'media controlled by state',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'linked by fiber-optic cable or microwave radio relay with CIS member states '
                                         'and to other countries by leased connection via the Moscow international '
@@ -14484,14 +15702,18 @@ P1_CC2 = \
                                         'Uzbekistan has supported the national fiber-optic backbone project of '
                                         'Afghanistan since 2008',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4123508, 'fix': 3262896, 'internet': 15705402, 'mob': 30662740},
+                              'subs': {'bb': 4597265, 'fix': 3553310, 'internet': 15705402, 'mob': 33380000},
                               'tld': '.uz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.uz'}},
           'mcc': ['434'],
@@ -14570,14 +15792,18 @@ P1_CC2 = \
                                         'SHF radiotelephone to Grenada and Saint Lucia',
                                         'access to Intelsat earth station in Martinique through Saint Lucia',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 24613, 'fix': 11889, 'internet': 22803, 'mob': 94367},
+                              'subs': {'bb': 22491, 'fix': 12934, 'internet': 22803, 'mob': 102700},
                               'tld': '.vc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vc'}},
           'mcc': ['360'],
@@ -14610,31 +15836,39 @@ P1_CC2 = \
                                             'fixed-line 19 per 100 and mobile-cellular telephone subscribership about '
                                             '58 per 100 persons',
                                             2019],
-                              'general': [ 'by late 2018 teledensity has fallen due to political upheaval in the '
-                                           'country with people holding on to mobile service, but cancelling '
-                                           'fixed-line telecom services',
-                                           'poor quality of service in many areas of the country due to financial '
-                                           'concerns of customers, decrepit sate of fixed-line network and difficulty '
-                                           'to pay for equipment from foreign vendors',
-                                           'popularity of social networks has given growth to mobile data traffic',
-                                           'LTE population coverage about 46%',
-                                           'govt. launches National Fiber Optic backbone project',
-                                           'mobile penetration below average for South America',
-                                           'MNO suffering from stolen or damaged infrastructure',
+                              'general': [ 'telecom industry struggling due to political upheaval in the country',
+                                           'poor quality of service in many areas of the country due to decrepit state '
+                                           "of fixed-line network and operators' inability to pay for equipment from "
+                                           'foreign vendors',
+                                           'operator suffering from stolen or damaged infrastructure',
+                                           'many consumers favor mobile service, and cancel their fixed-line services',
+                                           'popularity of social networks caused growth in mobile data traffic',
+                                           'LTE coverage to about half of the population',
+                                           'government launched National Fiber Optic backbone project in 2019',
+                                           'national satellite drifted off course and became non-operational',
+                                           'American company closed a telecom service due to government sanction and a '
+                                           'Chilean company later acquired the service',
+                                           'Internet freedom deteriorating amid crisis, with frequent disruptions to '
+                                           'service and monitoring',
+                                           'importer of broadcasting equipment from the USA (2021)',
                                            2020],
                               'intl': [ 'landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, GlobeNet, '
                                         'ALBA-1 and Americas II submarine cable system providing connectivity to the '
                                         'Caribbean, Central and South America, and US',
                                         'satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2604578, 'fix': 5501135, 'internet': 21354499, 'mob': 16664106},
+                              'subs': {'bb': 2560994, 'fix': 5351312, 'internet': 21354499, 'mob': 13476287},
                               'tld': '.ve',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ve'}},
           'mcc': ['734'],
@@ -14672,12 +15906,16 @@ P1_CC2 = \
                                         'System, Taino-Carib, and Americas I- North via submarine cable to Caribbean, '
                                         'Central and South America, and US',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 4715, 'fix': 7640, 'internet': 27818, 'mob': 72589},
                               'tld': '.vg',
@@ -14725,12 +15963,16 @@ P1_CC2 = \
                                         'US, the Caribbean, Central and South America',
                                         'satellite earth stations - NA',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 77212, 'internet': 68872},
                               'tld': '.vi',
@@ -14768,33 +16010,34 @@ P1_CC2 = \
                                             'growing rapidly',
                                             'fixed-line 4 per 100 and mobile-cellular 141 per 100',
                                             2019],
-                              'general': [ 'despite being a communist country there are plans to part privatize the '
-                                           'state&rsquo',
-                                           's holdings in telecom companies as well as a large number of other '
-                                           'enterprises',
-                                           'competition is thriving in the market place',
+                              'general': [ "though communist, government plans to partially privatize the state's "
+                                           'holdings in telecom companies',
+                                           'competition is thriving in the telecom market place and driving e-commerce',
                                            'mobile dominates over fixed-line',
-                                           'FttH market growing, as is e-commerce',
-                                           'govt. is the driving force for growth and moving towards commercializing '
-                                           '5G services with test licenses issued in 2019',
-                                           '5 major operators',
+                                           'FttH market is growing',
+                                           'government is the driving force for growth with aims of commercializing 5G '
+                                           'services with test licenses',
                                            'Ho Chi Minh City to become the first smart city in Vietnam with cloud '
-                                           'computing infrastructure, big data, data centers and security-monitoring '
-                                           'centers',
+                                           'computing infrastructure, big data, data centers, and security-monitoring '
+                                           'centers (2020)',
                                            2020],
                               'intl': [ 'landing points for the SeaMeWe-3, APG, SJC2, AAE-1, AAG and the TGN-IA '
                                         'submarine cable system providing connectivity to Europe, Africa, the Middle '
                                         'East, Asia, Southeast Asia, Australia, and the US',
                                         'satellite earth stations - 2 Intersputnik (Indian Ocean region)',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 12994451, 'fix': 3710210, 'internet': 68267875, 'mob': 138256733},
+                              'subs': {'bb': 14802380, 'fix': 3658005, 'internet': 68267875, 'mob': 136230406},
                               'tld': '.vn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vn'}},
           'mcc': ['452'],
@@ -14820,32 +16063,36 @@ P1_CC2 = \
                      'nameset': ['republic of vanuatu', 'ripablik blong vanuatu', 'the republic of vanuatu', 'vanuatu'],
                      'tel': { 'code': '678',
                               'domestic': ['fixed-line 1 per 100 and mobile-cellular 88 per 100', 2019],
-                              'general': [ 'telecom services have progressed significantly in recent years',
-                                           'mobile phones are now the primary means of communication and more than 92% '
-                                           'of the population is covered by a mobile network',
-                                           '2016 saw the launch of LTE services and the introduction of rural '
-                                           'satellite broadband services',
+                              'general': [ 'liberalized telecom services',
+                                           'mobile phones are primary means of communication',
+                                           'LTE services and rural satellite broadband services',
                                            'mobile phone use in some rural areas is constrained by electricity '
                                            'shortages',
-                                           'investment in fixed broadband saw recent growth with fiber-optic cables',
-                                           'mobile broadband infrastructure also expanded with a reduction in prices',
-                                           'general broadband penetration is at 45%',
-                                           'Kacific-1 broadband satellite launch in 2019 will change '
-                                           'telecommunications for the region',
+                                           'investment in fixed-broadband infrastructure and installation of '
+                                           'fiber-optic cables supported sector growth',
+                                           'mobile broadband infrastructure expanded in 2020, resulting in reduced '
+                                           'consumer prices',
+                                           'Kacific-1 broadband satellite has improved broadband capacity and access '
+                                           'since 2019',
+                                           'importer of broadcasting equipment from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the ICN1 & ICN2 submarine cables providing connectivity to '
                                         'the Solomon Islands and Fiji',
                                         'cables helped end-users with Internet bandwidth',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4718, 'fix': 3724, 'internet': 74083, 'mob': 259317},
+                              'subs': {'bb': 7888, 'fix': 3809, 'internet': 74083, 'mob': 265219},
                               'tld': '.vu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vu'}},
           'mcc': ['541'],
@@ -14890,12 +16137,16 @@ P1_CC2 = \
                               'intl': [ 'landing point for the Tui-Samoa submarine cable network connecting Wallis & '
                                         'Futuna, Samoa and Fiji',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 4012, 'internet': 3450},
                               'tld': '.wf',
@@ -14926,16 +16177,18 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line 4 per 100 and mobile-cellular teledensity 64 telephones per '
                                             '100 persons',
                                             2019],
-                              'general': [ 'most households have at least one mobile phone',
-                                           'all businesses in the greater Apia area have access to broadband and '
-                                           'Wi-Fi, which is reasonably reliable and fast',
-                                           'in rural Upolu and on Savaii Island there is now readily available '
-                                           'high-speed Internet and Wi-Fi',
-                                           'due to the establishment of a regulatory infrastructure, liberalization '
-                                           'and competition of the mobile market the telecom market has increased '
-                                           'coverage and reduced cost',
-                                           '4G LTE services accessible to about 95% of residents',
-                                           'working to increase speed, reliability and connectivity',
+                              'general': [ 'development of infrastructure is hampered by geography of remote islands, '
+                                           'vulnerable to devastating storms',
+                                           'telecom sector has been inhibited by lack of international connectivity',
+                                           'most households have at least one mobile phone',
+                                           'businesses in the capital area have access to broadband and Wi-Fi',
+                                           'rural islands have some access to Internet and Wi-Fi',
+                                           'liberalized regulatory infrastructure and competition in the mobile market '
+                                           'increased coverage and reduced cost',
+                                           'access to submarine cables improved Internet data rates and reliability',
+                                           'Australian companies countering Chinese companies in the acquisition of '
+                                           'Pacific operations',
+                                           'importer of broadcasting equipment from USA (2020)',
                                            2020],
                               'intl': [ 'landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT '
                                         'submarine cables providing connectivity to Samoa, Fiji, Wallis & Futuna, Cook '
@@ -14943,12 +16196,16 @@ P1_CC2 = \
                                         'Kiribati, Los Angeles (US), and Tokelau',
                                         'satellite earth station - 1 Intelsat (Pacific Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 1692, 'fix': 8770, 'internet': 67662, 'mob': 128776},
                               'tld': '.ws',
@@ -15009,22 +16266,25 @@ P1_CC2 = \
                      'tel': { 'code': '383',
                               'domestic': [ 'fixed-line stands at 6 per 100 and mobile-cellular 32 per 100 persons',
                                             2019],
-                              'general': [ 'Kosovo being part of the EU pre-accession process has helped with their '
-                                           'progress in the telecom industry, following a regulatory framework, '
-                                           'European standards, and a market of new players encourages development in '
-                                           'its telecommunications',
-                                           '2 MNOs dominate the sector',
-                                           'poor telecom infrastructure means low fixed-line penetration',
+                              'general': [ 'EU pre-accession process supported progress in the telecom industry with a '
+                                           'regulatory framework, European standards, and a market of new players '
+                                           'encouraging development',
+                                           'two operators dominate the sector',
+                                           'under-developed telecom infrastructure leads to low fixed-line penetration',
                                            'little expansion of fiber networks for broadband',
-                                           'expansion of LTE services',
+                                           'expansion of LTE services (2020)',
                                            2020],
                               'intl': [0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'fix': 117317, 'internet': 1706150, 'mob': 620186},
                               'tld': '.xk',
@@ -15098,19 +16358,15 @@ P1_CC2 = \
                                             'fixed-line teledensity remains low by regional standards at 4 per 100 but '
                                             'mobile cellular use expanding at 55 per 100',
                                             2019],
-                              'general': [ 'large percent of the population is in need of humanitarian assistance, and '
-                                           'given the civil conflict, telecommunications services are vital but '
-                                           'disrupted',
+                              'general': [ 'large percent of the population is in need of humanitarian assistance and '
+                                           'telecom services are vital but disrupted',
                                            'mobile towers are often deliberately targeted',
                                            'maintenance is dangerous to staff',
-                                           'aid organization rely on satellite and radio communications',
-                                           'there is a scarcity of telecommunications equipment in rural areas',
-                                           'ownership of telecommunications services and the related revenues and '
-                                           'taxes have become a political issue',
-                                           'Chinese company Huawei helping with rebuilding and moving some equipment',
-                                           'little progress in the near future until civil unrest stabilizes',
-                                           'earlier damage to the FALCON submarine cable, left Internet service '
-                                           'interrupted for a month until repaired',
+                                           'aid organizations rely on satellite and radio communications',
+                                           'scarcity of telecom equipment in rural areas',
+                                           'ownership of telecom services and the related revenues and taxes have '
+                                           'become a political issue',
+                                           'Chinese company Huawei helping to rebuild some equipment (2020)',
                                            2020],
                               'intl': [ 'landing points for the FALCON, SeaMeWe-5, Aden-Djibouti, and the AAE-1 '
                                         'international submarine cable connecting Europe, Africa, the Middle East, '
@@ -15119,12 +16375,16 @@ P1_CC2 = \
                                         '1 Intersputnik (Atlantic Ocean region), and 2 Arabsat',
                                         'microwave radio relay to Saudi Arabia and Djibouti',
                                         2020],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
                               'subs': {'bb': 386330, 'fix': 1253287, 'internet': 7659884, 'mob': 16158028},
                               'tld': '.ye',
@@ -15178,15 +16438,15 @@ P1_CC2 = \
                                             'key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port '
                                             'Elizabeth, and Pretoria',
                                             2019],
-                              'general': [ 'the telecommunication system is the best-developed and most modern in '
-                                           'Africa',
-                                           'mobile Internet accounts for about 95% of Internet connections',
-                                           '94% with access to WiMAX/LTE services',
-                                           'LTE-A services launched for commercial use',
-                                           'the mobile sector for both voice and data service demand most investment',
-                                           'first region to launch commercial 5G services',
-                                           'regulator made provisions to anticipate spike in data traffic resulting '
-                                           'from COVID-19 lockdown',
+                              'general': [ 'one of the most advanced infrastructures on the continent',
+                                           'investment by operators and municipal providers to improve network '
+                                           'capability focused on fiber and LTE to extend connectivity',
+                                           'increase in Internet use for e-commerce, e-government, and e-health',
+                                           'government funds to improve broadband to more municipalities',
+                                           'high mobile penetration rate and FttP to 90% of the premises',
+                                           'regulatory intervention has improved telecommunications market',
+                                           '5G in Capetown with additional auction and tests',
+                                           'importer of broadcasting equipment and computers from China (2021)',
                                            2020],
                               'intl': [ 'landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, SAEx1, SAEx2, '
                                         'IOX Cable System, METISS, EASSy, and SEACOM/ Tata TGN-Eurasia fiber-optic '
@@ -15194,14 +16454,18 @@ P1_CC2 = \
                                         'Europe, Southeast Asia, Asia, South America, Indian Ocean Islands, and the US',
                                         'satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1107013, 'fix': 1934778, 'internet': 31107064, 'mob': 92600942},
+                              'subs': {'bb': 1250356, 'fix': 2024730, 'internet': 31107064, 'mob': 96972459},
                               'tld': '.za',
                               'url_tld': 'https://en.wikipedia.org/wiki/.za'}},
           'mcc': ['655'],
@@ -15276,30 +16540,32 @@ P1_CC2 = \
                                             'fixed-line 1 per 100 and mobile-cellular 96 per 100',
                                             2019],
                               'general': [ 'service is among the best in Sub-Saharan Africa',
-                                           'regulatory promotes competition and is a partner to private sector service '
+                                           'regulator promotes competition and is a partner to private sector service '
                                            'providers, offering mobile voice and Internet at some of the lowest prices '
                                            'in the region',
-                                           'investment made in data centers, education centers and computer assembly '
+                                           'investment made in data centers, education centers, and computer assembly '
                                            'training plants',
                                            'operators invest in 3G and LTE-based services',
                                            'Chinese company Huawei is helping to upgrade state-owned mobile '
                                            'infrastructure for 5G services',
-                                           '3 cellular telephone providers currently in operation, plus several data '
-                                           'only ISPs',
-                                           '1,010 towers project to soon be completed',
+                                           'operators focused on improvements to towers (2020)',
                                            2020],
                               'intl': [ 'multiple providers operate overland fiber optic routes via Zimbabwe/South '
                                         'Africa, Botswana/Namibia and Tanzania provide access to the major undersea '
                                         'cables',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 43365, 'fix': 91422, 'internet': 2351646, 'mob': 16322168},
+                              'subs': {'bb': 88891, 'fix': 96719, 'internet': 2351646, 'mob': 17220607},
                               'tld': '.zm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.zm'}},
           'mcc': ['645'],
@@ -15332,27 +16598,40 @@ P1_CC2 = \
                                             'two government owned and two private cellular providers',
                                             'fixed-line 2 per 100 and mobile-cellular 90 per 100',
                                             2019],
-                              'general': [ 'competition has driven the expansion of the telecommunications sector, '
-                                           'particularly cellular voice and mobile broadband, in recent years',
-                                           '3 mobile network operators continue to invest in M-commerce and M-banking '
-                                           'facilities',
-                                           'continued advancement with national and international fiber backbone '
-                                           'network as well as 3G and LTE mobile broadband services',
-                                           'mobile Internet connections make up 98% of all Internet connections',
+                              'general': [ 'the pandemic, drought, and rising hyperinflation have devastated the '
+                                           'economy and hindered foreign investment',
+                                           'regulator extended tax exemption for Huawei, raising concerns of '
+                                           'independence',
+                                           'mobile tariffs were increased three times since mid-2019, raising consumer '
+                                           'prices',
+                                           'Internet is limited, exacerbated by inadequate electricity',
+                                           'mobile Internet connections make up almost all Internet connections',
+                                           'competition has driven some expansion of the telecommunications sector, '
+                                           'though operators warn that lack of government investment will cause '
+                                           'further deterioration, especially in rural areas',
+                                           'mobile network operators continue to invest in e-commerce and e-banking',
+                                           'slow progress on national and international fiber backbone network, as '
+                                           'well as 3G and LTE mobile-broadband services',
+                                           'international bandwidth through submarine cables via neighboring countries '
+                                           '(2021)',
                                            2020],
                               'intl': [ 'fiber-optic connections to neighboring states provide access to international '
                                         'networks via undersea cable',
                                         'satellite earth stations - 2 Intelsat',
                                         '5 international digital gateway exchanges',
                                         0],
-                              'note': [ 'the COVID-19 outbreak is negatively impacting telecommunications production '
+                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
-                                        'consumer spending on telecom devices and services has also slowed due to the '
-                                        "pandemic's effect on economies worldwide",
-                                        'overall progress towards improvements in all facets of the telecom industry - '
-                                        'mobile, fixed-line, broadband, submarine cable and satellite - has moderated',
+                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
+                                        'particularly in mobile device production',
+                                        'many network operators delayed upgrades to infrastructure',
+                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'consumer spending on telecom services and devices was affected by large-scale '
+                                        'job losses and the consequent restriction on disposable incomes',
+                                        'the crucial nature of telecom services as a tool for work and school from '
+                                        'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 203056, 'fix': 258419, 'internet': 3796618, 'mob': 12863830},
+                              'subs': {'bb': 204424, 'fix': 265734, 'internet': 3796618, 'mob': 13195902},
                               'tld': '.zw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.zw'}},
           'mcc': ['648'],

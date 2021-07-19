@@ -6453,7 +6453,7 @@
       },
       {
         "bands": "various",
-        "brand": "",
+        "brand": "5G RuralFirst, 5G NewThinking, 5G RailNext, various other brands",
         "codes_alpha_2": [
           "GB"
         ],
@@ -6462,13 +6462,13 @@
         "country_url": "https://en.wikipedia.org/wiki/United_Kingdom",
         "mcc": "235",
         "mnc": "04",
-        "notes": "",
-        "operator": "University of Strathclyde",
+        "notes": "for more info, see StrathSDR",
+        "operator": "University of Strathclyde StrathSDR",
         "status": "unknown"
       },
       {
         "bands": "various",
-        "brand": "",
+        "brand": "5G RuralFirst, 5G NewThinking, 5G RailNext, various other brands",
         "codes_alpha_2": [
           "GB"
         ],
@@ -6477,13 +6477,13 @@
         "country_url": "https://en.wikipedia.org/wiki/United_Kingdom",
         "mcc": "235",
         "mnc": "06",
-        "notes": "",
-        "operator": "University of Strathclyde",
+        "notes": "for more info, see StrathSDR",
+        "operator": "University of Strathclyde StrathSDR",
         "status": "unknown"
       },
       {
         "bands": "various",
-        "brand": "",
+        "brand": "5G RuralFirst, 5G NewThinking, 5G RailNext, various other brands",
         "codes_alpha_2": [
           "GB"
         ],
@@ -6492,8 +6492,8 @@
         "country_url": "https://en.wikipedia.org/wiki/United_Kingdom",
         "mcc": "235",
         "mnc": "07",
-        "notes": "",
-        "operator": "University of Strathclyde",
+        "notes": "for more info, see StrathSDR",
+        "operator": "University of Strathclyde StrathSDR",
         "status": "unknown"
       },
       {
@@ -10595,7 +10595,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / UMTS 2100 / LTE 1800 / LTE 2600",
+        "bands": "GSM 900 / UMTS 2100 / LTE 900 / LTE 1800 / LTE 2600",
         "brand": "lifecell",
         "codes_alpha_2": [
           "UA"
@@ -11705,7 +11705,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
+        "bands": "GSM 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
         "brand": "Telekom",
         "codes_alpha_2": [
           "DE"
@@ -11720,7 +11720,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 3500",
+        "bands": "GSM 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 1800 / 5G 3500",
         "brand": "Vodafone",
         "codes_alpha_2": [
           "DE"
@@ -11780,7 +11780,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / UMTS 2100 / LTE 800 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
+        "bands": "GSM 900 / LTE 800 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 2100 / 5G 3500",
         "brand": "Telekom",
         "codes_alpha_2": [
           "DE"
@@ -11825,7 +11825,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 2600",
+        "bands": "GSM 900 / GSM 1800 / LTE 2600",
         "brand": "Vodafone",
         "codes_alpha_2": [
           "DE"
@@ -15264,7 +15264,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 / 5G 600 / 5G 1700 / TD-5G 2600",
+        "bands": "GSM 850 / UMTS 850 / LTE 700 / LTE 850 / LTE 1700 / LTE 1900 / LTE 2600 / 5G 600 / 5G 1700 / TD-5G 2600",
         "brand": "Rogers Wireless",
         "codes_alpha_2": [
           "CA"
@@ -15274,7 +15274,7 @@
         "country_url": "https://en.wikipedia.org/wiki/Canada",
         "mcc": "302",
         "mnc": "720",
-        "notes": "former Rogers AT&T Wireless; LTE bands 12, 4, 7; GSM 1900 / UMTS 1900 to shut down 7 June 2021, GSM 850 to shut down 31 Dec 2021",
+        "notes": "former Rogers AT&T Wireless; LTE bands 12, 5, 4, 2, 7; GSM 1900 / UMTS 1900 shut down 7 June 2021, GSM 850 to shut down 31 Dec 2021",
         "operator": "Rogers Communications",
         "status": "operational"
       },
@@ -16699,7 +16699,7 @@
         "country_url": "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
         "mcc": "310",
         "mnc": "410",
-        "notes": "Formerly AT&T Mobility",
+        "notes": "Formerly AT&T Mobility;",
         "operator": "Liberty",
         "status": "operational"
       },
@@ -18871,7 +18871,7 @@
         "country_url": "https://en.wikipedia.org/wiki/United_States_of_America",
         "mcc": "311",
         "mnc": "430",
-        "notes": "Former Cellular 29 Plus;[56] acquired by Chat Mobility in 2009;[116] Iowa",
+        "notes": "Former Cellular 29 Plus;[56] acquired by Chat Mobility in 2009;[118] Iowa",
         "operator": "RSA 1 LP",
         "status": "unknown"
       },
@@ -22745,7 +22745,7 @@
         "mcc": "313",
         "mnc": "890",
         "notes": "California",
-        "operator": "Tulare County Office of Education]",
+        "operator": "Tulare County Office of Education",
         "status": "operational"
       },
       {
@@ -23064,7 +23064,7 @@
         "status": "unknown"
       },
       {
-        "bands": "UMTS 850 / UMTS 1900 / LTE 1700 / LTE 2600",
+        "bands": "UMTS 850 / UMTS 1900 / LTE 850 / LTE 1700 / LTE 2600",
         "brand": "Telcel",
         "codes_alpha_2": [
           "MX"
@@ -23394,7 +23394,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / GSM 1900 / LTE 700",
+        "bands": "GSM 900 / GSM 1900 / LTE 700 / LTE 1700",
         "brand": "Digicel",
         "codes_alpha_2": [
           "TC"
@@ -24076,7 +24076,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700",
+        "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 700 / LTE 1900",
         "brand": "Digicel",
         "codes_alpha_2": [
           "GD"
@@ -24670,7 +24670,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / GSM 1900 / UMTS 900 / LTE 850 / LTE 1700 / LTE 1900",
+        "bands": "GSM 900 / GSM 1800 / GSM 1900 / UMTS 900 / LTE 850 / LTE 900 / LTE 1700 / LTE 1900",
         "brand": "Altice",
         "codes_alpha_2": [
           "DO"
@@ -24895,7 +24895,7 @@
         "status": "unknown"
       },
       {
-        "bands": "GSM 850 / UMTS 850 / LTE 700",
+        "bands": "GSM 850 / GSM 1900 / UMTS 850 / LTE 700",
         "brand": "FLOW",
         "codes_alpha_2": [
           "TC"
@@ -30357,7 +30357,22 @@
         "status": "operational"
       },
       {
-        "bands": "TD-LTE 2600 MHz",
+        "bands": "TD-LTE",
+        "brand": "Zi-Tel",
+        "codes_alpha_2": [
+          "IR"
+        ],
+        "country_name": "Iran",
+        "country_sub": null,
+        "country_url": "https://en.wikipedia.org/wiki/Iran",
+        "mcc": "432",
+        "mnc": "45",
+        "notes": "",
+        "operator": "Farabord Dadeh Haye Iranian Co.",
+        "status": "operational"
+      },
+      {
+        "bands": "TD-LTE 2600\u00a0MHz",
         "brand": "Shatel Mobile",
         "codes_alpha_2": [
           "IR"
@@ -31392,7 +31407,7 @@
         "status": "operational"
       },
       {
-        "bands": "CDMA 1800 / LTE 850 / LTE 2100 / LTE 2600 / 5G 3500 / 5G 28000",
+        "bands": "LTE 850 / LTE 2100 / LTE 2600 / 5G 3500 / 5G 28000",
         "brand": "LG U+",
         "codes_alpha_2": [
           "KR"
@@ -31402,7 +31417,7 @@
         "country_url": "https://en.wikipedia.org/wiki/South_Korea",
         "mcc": "450",
         "mnc": "06",
-        "notes": "",
+        "notes": "CDMA 1800 shut down June 2021",
         "operator": "LG Telecom",
         "status": "operational"
       },
@@ -33408,7 +33423,7 @@
         "status": "operational"
       },
       {
-        "bands": "UMTS 900 / UMTS 2100 / LTE 850 / LTE 1800 / LTE 2100 / 5G 3500",
+        "bands": "UMTS 900 / UMTS 2100 / LTE 850 / LTE 1800 / LTE 2100 / 5G 700 / 5G 3500",
         "brand": "Vodafone",
         "codes_alpha_2": [
           "AU",
@@ -34424,7 +34439,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800",
+        "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 900 / LTE 1800 / 5G 1800",
         "brand": "Indosat Ooredoo",
         "codes_alpha_2": [
           "ID"
@@ -41167,12 +41182,12 @@
         "country_url": "https://en.wikipedia.org/wiki/Costa_Rica",
         "mcc": "712",
         "mnc": "20",
-        "notes": "Closed on 06 February 2019",
+        "notes": "Closed on 6 February 2019",
         "operator": "Virtualis S.A.",
         "status": "unknown"
       },
       {
-        "bands": "GSM 850 / UMTS 850 / LTE 700",
+        "bands": "GSM 850 / UMTS 850 / LTE 700 / LTE 1900",
         "brand": "Cable & Wireless",
         "codes_alpha_2": [
           "PA"
@@ -41182,12 +41197,12 @@
         "country_url": "https://en.wikipedia.org/wiki/Panama",
         "mcc": "714",
         "mnc": "01",
-        "notes": "LTE band 28",
+        "notes": "LTE band 28 / 2",
         "operator": "Cable & Wireless Panama S.A.",
         "status": "operational"
       },
       {
-        "bands": "GSM 850 / UMTS 850 / UMTS 1900 / LTE 700",
+        "bands": "GSM 850 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 1900",
         "brand": "movistar",
         "codes_alpha_2": [
           "PA"
@@ -41197,12 +41212,12 @@
         "country_url": "https://en.wikipedia.org/wiki/Panama",
         "mcc": "714",
         "mnc": "02",
-        "notes": "CDMA2000 800, TDMA 800 and NAMPS 800 are closed.",
+        "notes": "CDMA 800, TDMA 800 and NAMPS 800 are closed.",
         "operator": "Telef\u00f3nica Moviles Panama S.A, Bell South Corp. (BSC)",
         "status": "operational"
       },
       {
-        "bands": "GSM 850 / 3G 2100 / LTE 700",
+        "bands": "GSM 850 / LTE 700",
         "brand": "movistar",
         "codes_alpha_2": [
           "PA"
@@ -41442,7 +41457,7 @@
         "status": "operational"
       },
       {
-        "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 / 5G",
+        "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 700 / LTE 1700 / LTE 2600 / 5G 2600",
         "brand": "Personal",
         "codes_alpha_2": [
           "AR"
