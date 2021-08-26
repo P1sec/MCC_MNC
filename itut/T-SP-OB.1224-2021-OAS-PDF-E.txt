@@ -1,0 +1,720 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1224             15.VII.2021                 (Information received by 30 June 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                3
+Approval of ITU-T Recommendations ............................................................................................................                     4
+Telephone Service:
+     Senegal (Autorité de Régulation des Télécommunications et des Postes (ARTP), Dakar) ........................                                                  5
+     South Sudan (National Communication Authority (NCA), Juba)...............................................................                                     8
+     Uganda (Uganda Communications Commission (UCC), Kampala) ...........................................................                                          9
+Service Restrictions ........................................................................................................................................     12
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                12
+AMENDMENTS TO SERVICE PUBLICATIONS
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ...........................................................................................................................................       13
+List of ITU Carrier Codes .................................................................................................................................       14
+List of International Signalling Point Codes (ISPC) .........................................................................................                     16
+National Numbering Plan .............................................................................................................................             17
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1225             1.VIII.2021           15.VII.2021
+               1226            15.VIII.2021           30.VII.2021
+               1227              1.IX.2021            13.VIII.2021
+               1228             15.IX.2021             1.IX.2021
+               1229              1.X.2021              15.IX.2021
+               1230             15.X.2021              30.IX.2021
+               1231              1.XI.2021             15.X.2021
+               1232             15.XI.2021             1.XI.2021
+               1233             1.XII.2021             15.XI.2021
+               1234             15.XII.2021            1.XII.2021
+               1235              1.I.2022             10.XII.2021
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                             Approval of ITU-T Recommendations
+By AAP-107, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+
+– ITU-T G.7719 (06/2021): Management information model for MC components and functions
+
+– ITU-T G.8265.1/Y.1365.1 (06/2021): Precision time protocol telecom profile for frequency synchronization
+
+– ITU-T G.8275.1/Y.1369.1 (2020) Amd. 2 (06/2021)
+
+– ITU-T G.8275.2/Y.1369.2 (2020) Amd. 2 (06/2021)
+
+– ITU-T K.20 (06/2021): Resistibility of telecommunication equipment installed in a telecommunication centre
+to overvoltages and overcurrents
+
+– ITU-T K.52 (06/2021): Guidance on complying with limits for human exposure to electromagnetic fields
+
+– ITU-T K.100 (06/2021): Measurement of radio frequency electromagnetic fields to determine compliance
+with human exposure limits when a base station is put into service
+
+– ITU-T L.201 (05/2021): Performance requirements for passive optical nodes: Sealed closures for outdoor
+environments
+
+– ITU-T X.1060 (06/2021): Framework for the creation and operation of a Cyber Defence Centre
+
+– ITU-T X.1405 (06/2021): Security threats and requirements for digital payment services based on distributed
+ledger technology
+
+By TSB Circular 329 of 17 June 2021, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+– ITU-T E.157 (06/2021): International calling party number delivery
+
+
+
+
+                                     Telephone Service
+                                (Recommendation ITU-T E.164)
+                                            url: www.itu.int/itu-t/inr/nnp
+Senegal (country code +221)
+Communication of 30.VI.2021:
+
+The Autorité de Régulation des Télécommunications et des Postes (ARTP), Dakar, announces the following
+update of the national numbering plan (NNP) for telephony in Senegal.
+
+        Description of introduction of new resource for national numbering plan for country code 221:
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading                                                Usage of                 Time and date of
+ digits of national   Maximum      Minimum                  ITU-T E.164 number              introduction
+    (significant)      length       length
+  number (N(S)N)
+                                                    Non-geographic number – Mobile     23 January 2021
+                                                    telephone service for the mobile
+ 7501                       9           9           virtual network operator (MVNO)
+                                                    SIRIUS TELECOMS AFRIQUE
+                                                    (PROMOBILE)
+                                                    Non-geographic number – Mobile     23 January 2021
+                                                    telephone service for the mobile
+ 7533                       9           9           virtual network operator (MVNO)
+                                                    SIRIUS TELECOMS AFRIQUE
+                                                    (PROMOBILE)
+                                                    Non-geographic number – Mobile     06 January 2021
+                                                    telephone service for the mobile
+ 7574                       9           9           virtual network operator (MVNO)
+                                                    SIRIUS TELECOMS AFRIQUE
+                                                    (PROMOBILE)
+                                                    Non-geographic number – Mobile     23 January 2021
+                                                    telephone service for the mobile
+ 7583                       9           9           virtual network operator (MVNO)
+                                                    SIRIUS TELECOMS AFRIQUE
+                                                    (PROMOBILE)
+                                                    Non-geographic number – Mobile     23 January 2021
+                                                    telephone service for the mobile
+ 7563                       9           9           virtual network operator (MVNO)
+                                                    SIRIUS TELECOMS AFRIQUE
+                                                    (PROMOBILE)
+                                                    Non-geographic number – Mobile     09 January 2019
+                                                    telephone service for the mobile
+ 7563                       9           9           virtual network operator (MVNO)
+                                                    SIRIUS TELECOMS AFRIQUE
+                                                    (PROMOBILE)
+                                                    Non-geographic number – Mobile     09 January 2019
+                                                    telephone service for the mobile
+ 7552                       9           9           virtual network operator (MVNO)
+                                                    SIRIUS TELECOMS AFRIQUE
+                                                    (PROMOBILE)
+
+
+
+
+          National         N(S)N number length
+     destination code
+     (NDC) or leading                                            Usage of                    Time and date of
+     digits of national   Maximum       Minimum             ITU-T E.164 number                 introduction
+        (significant)      length        length
+      number (N(S)N)
+                                                     Non-geographic number – Mobile       09 January 2019
+                                                     telephone service for the mobile
+ 7544                         9             9        virtual network operator (MVNO)
+                                                     SIRIUS TELECOMS AFRIQUE
+                                                     (PROMOBILE)
+                                                     Non-geographic number – Mobile       28 June 2019
+                                                     telephone service for the mobile
+ 7570                         9             9
+                                                     virtual network operator (MVNO)
+                                                     ORIGINES SA
+                                                     Non-geographic number – fixed        12 June 2020
+                                                     VoIP telephony services for the
+ 93310                        9             9
+                                                     internet service provider
+                                                     ARC TELECOM SA
+                                                     Non-geographic number – fixed        04 January 2021
+                                                     VoIP telephony services for the
+ 93929                        9             9
+                                                     internet service provider
+                                                     WAW SAS
+
+
+                            Presentation of national numbering plan for country code 221:
+
+a)           Overview:
+             The minimum number length (excluding the country code) is 9 digits.
+             The maximum number length (excluding the country code) is 9 digits.
+
+b)           Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the
+             national numbering plan (if any): n/a
+
+c)           Link to the real-time database reflecting ported ITU-T E.164 numbers (if any):n/a
+
+d) Detail of numbering plan:
+
+     National destination code      N(S)N number length
+     (NDC) or leading digits of                                       Usage of                    Additional
+       national (significant)     Maximum        Minimum         ITU-T E.164 number              information
+          number (N(S)N)           length         length
+
+ 30                                    9             9        Non-geographic number –       Operator Expresso
+                                                              Fixed telephony service       Sénégal
+ 32                                    9             9        Non-geographic number –       Operator FREE
+                                                              Fixed telephony service       Sénégal
+ 338                                   9             9        Geographic number –           Operator SONATEL
+                                                              Fixed telephony service       (Orange), region of
+                                                                                            Dakar
+ 339                                   9             9        Geographic number –           Operator SONATEL
+                                                              Fixed telephony service       (Orange), other
+                                                                                            regions
+ 36                                    9             9        Non-geographic number –       Operator CSU SA
+                                                              Fixed telephony service       (HAYO)
+
+
+
+ National destination code        N(S)N number length
+ (NDC) or leading digits of                                        Usage of                   Additional
+   national (significant)       Maximum       Minimum         ITU-T E.164 number             information
+      number (N(S)N)             length        length
+
+ 39                                 9             9       Non-geographic number –     ADIE
+                                                          Fixed telephony service
+ 70                                 9             9       Non-geographic number –     Operator Expresso
+                                                          Mobile telephone service    Sénégal
+ 72                                 9             9       Non-geographic number –     Operator CSU SA
+                                                          Mobile telephone service    (HAYO)
+ 75                                 9             9       Non-geographic number –     Dedicated for mobile
+                                                          Mobile telephone service    virtual network
+                                                                                      operators (MVNO)
+ 76                                 9             9       Non-geographic number –     Operator FREE
+                                                          Mobile telephone service    Sénégal
+ 77                                 9             9       Non-geographic number –     Operator SONATEL
+                                                          Mobile telephone service    (Orange)
+ 78                                 9             9       Non-geographic number –     Operator SONATEL
+                                                          Mobile telephone service    (Orange)
+ 79                                 9             9       Non-geographic number –     ADIE
+                                                          Mobile telephone service
+ 93                                 9             9       Non-geographic number –     Dedicated for
+                                                          Fixed Voice over Internet   internet service
+                                                          Protocol (VoIP) telephony   providers
+                                                          service                     (Fournisseurs d’accès
+                                                                                      à internet (FAI))
+
+Contact:
+           Ms Mana AIDARA and Mr Mamadou Ousmane FAYE
+           Autorité de Régulation des Télécommunications et des Postes (ARTP)
+           B.P. 14130
+           DAKAR PEYTAVIN
+           Senegal
+           Tel:     +221 33 869 0369 / direct: +221 33 869 03 93
+           Fax:     +221 33 869 0370
+           E-mail: mana.aidara@artp.sn; mamadou.faye@artp.sn
+           URL:     www.artp.sn
+
+
+
+
+South Sudan (country code +211)
+Communication of 17.VI.2021:
+The National Communication Authority (NCA), Juba, announces that, Digitel Holdings. Ltd has been licensed to
+offer mobile services, in the Republic of South Sudan.
+The following modified plan will be implemented as from 15 June 2021 at 1200 hours UTC:
+International dialing format is twelve digits (including country code): +211 T P XXX XXXX, where:
+       Country code:            +211
+       International prefix: 00
+       T:                       Service Type Identifier (9)
+       P:                       Service Provider Identifier (8)
+       XXX XXXX:                Subscriber number (seven (7) digits).
+
+      Description of introduction of new resource for national E.164 numbering plan for country code 211:
+
+     NDC (National         N(S)N Number Length
+  Destination Code) or
+                                                                                                    Time and date of
+    leading digits of     Maximum       Minimum          Usage of ITU-T E. 164 Number
+                                                                                                      introduction
+    N(S)N (National        Length        Length
+ (Significant) Number)
+ 98                          Nine          Nine       Non-geographical number –               Digitel mobile (GSM)
+                                                      (Find Me Anywhere)                      telephony services;
+                                                                                              (2021/6/1)
+
+
+Contact:
+      National Communications Authority (NCA)
+      P.O. Box 531
+      Ministry Gateway Complex
+      Gumbo JUBA
+      South Sudan
+      Tel:     +211 922232222
+      E-mail: info@nca.gov.ss
+      URL:     www.nca.gov.ss
+
+
+
+
+Uganda (country code +256)
+Communication of 17.VI.2021:
+The Uganda Communications Commission (UCC), Kampala, announces the National Numbering Plan of Uganda.
+                     ITU-T E.164 NATIONAL NUMBERING PLAN FOR COUNTRY CODE 256
+
+a)     Overview
+       The minimum number length (excluding the country code) is 9 digits
+       The maximum number length (excluding the country code) is 9 digits
+
+b)     Details of numbering scheme
+
+    NDC (National           N(S)N Number Length
+ Destination Code) or
+   leading digits of
+                            Maximum    Minimum      Usage of ITU-T E. 164 Number      Additional information
+   N(S)N (National
+     (Significant)           Length     Length
+       Number)
+ 200                           9           9       Fixed telephony services for     Network fully operational
+ 201                                               Airtel Uganda Limited
+ 20240                         9           9       Fixed telephony services for     Network fully operational
+                                                   Altech Infocom Limited/Liquid
+ 20306                         9           9       Fixed telephony services for     Network fully operational
+ 20307                                             Sombha Solutions store Limited
+ 204                           9           9       Fixed telephony services for     Network fully operational
+                                                   Africell Uganda Limited
+ 2050                          9           9       Fixed telephony services for     Network fully operational
+ 2051                                              Roke Investment International
+ 2052                                              Limited
+ 2053
+ 2054
+ 206300                        9           9       Fixed telephony services for     Network fully operational
+ 206301                                            Simbanet Uganda Limited
+ 206302
+ 206303
+ 206304
+ 207                           9           9       Fixed telephony services for     Network fully operational
+                                                   Airtel Uganda Limited
+ 3                             9           9       Fixed telephony services for     Network is fully operational
+                                                   MTN Uganda Limited
+ 4                             9           9       Fixed telephony services for     Network is fully operational
+                                                   Uganda Telecom Limited
+ 700                           9           9       Mobile telephony services for    Network is fully operational
+ 701                                               Airtel Uganda Limited
+ 702
+ 703
+ 704
+ 705
+ 706
+ 707
+ 708
+ 709
+
+
+
+
+   NDC (National       N(S)N Number Length
+Destination Code) or
+  leading digits of
+                       Maximum    Minimum    Usage of ITU-T E. 164 Number         Additional information
+  N(S)N (National
+    (Significant)       Length     Length
+      Number)
+710                       9          9       Mobile telephony services for     Network is fully operational
+711                                          Uganda Telecom Limited
+712
+713
+714
+715
+716
+717
+718
+719
+720                       9          9       Mobile telephony services for     Network is fully operational
+                                             Smile Communications (U) Ltd
+7260                      9          9       Mobile telephony services for     Network is fully operational
+                                             Tangerine Limited
+7261                      9          9       Mobile telephony services for     Network is fully operational
+                                             Tangerine Limited
+740                       9          9       Mobile telephony services for     Network is fully operational
+                                             Airtel Uganda Limited
+750                       9          9       Mobile telephony services for     Network is fully operational
+751                                          Airtel Uganda Limited
+752
+753
+754
+755
+756
+757
+758
+759
+760                       9          9       Mobile telephony services for     Network is fully operational
+                                             MTN Uganda Limited
+770                       9          9       Mobile telephony services for     Network is fully operational
+771                                          MTN Uganda Limited
+772
+773
+774
+775
+776
+777
+778
+779
+780                       9          9       Mobile telephony services for     Network is fully operational
+781                                          MTN Uganda Limited
+782
+783
+784
+785
+786
+787
+788
+789
+
+
+
+
+    NDC (National           N(S)N Number Length
+ Destination Code) or
+   leading digits of
+                            Maximum    Minimum    Usage of ITU-T E. 164 Number      Additional information
+   N(S)N (National
+     (Significant)           Length     Length
+       Number)
+ 790                           9          9       Mobile telephony services for   Network is fully operational
+ 791                                              Africell Uganda Limited
+ 792
+ 793
+ 794
+ 795
+ 796
+ 7970
+ 7971
+ 7972
+ 7973
+ 7974
+
+Contact:
+      Ms Irene Kaggwa Sewankambo
+      Ag. Executive Director
+      Uganda Communications Commission (UCC)
+      Plot 42-44 Spring Road, Bugolobi
+      P.O. Box 7376, Kampala, Uganda
+      Tel:     +256 41 433 9000
+      Fax:     +256 41 434 8832
+      E-mail: ucc@ucc.co.ug
+      URL:     www.ucc.co.ug
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                                 Abbreviations used
+                                 ADD     Insert                       PAR    Paragraph
+                                 COL     Column                       REP    Replace
+                                 LIR     Read                         SUP    Delete
+                                 P       Page(s)
+
+
+
+
+    Mobile Network Codes (MNC) for the international identification plan
+                   for public networks and subscriptions
+           (According to Recommendation ITU-T E.212 (09/2016))
+                      (Position on 15 December 2018)
+                       (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                        (Amendment No. 57)
+
+  Country/Geographical area           MCC+MNC *           Operator/Network
+  Albania SUP
+                                            276 04        Mobile 4 AL
+  Albania LIR
+                                            276 01        ONE TELECOMMUNICATIONS sh.a
+                                            276 03        ALBTELECOM sh.a.
+  Spain SUP
+                                            214 30        Compatel Limited
+  Uganda SUP
+                                            641 18        Suretelecom Uganda Limited
+                                            641 20        Hamilton Telecom Limited
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                         (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                         (Amendment No. 118)
+
+
+ Country or area/ISO code                         Company Code      Contact
+  Company Name/Address                             (carrier code)
+
+
+Germany (Federal Republic of) / DEU        ADD
+
+
+ BEW Bergische Energie- und Wasser GmbH              BEWNET         Mr Dirk Deitermann
+ Sonnenweg 30                                                       Tel.: +49 2267 686 600
+ D-51688 WIPPERFUERTH                                               Email: glasfaser.abrechnung@bergische-energie.de
+
+ Energieversorgung Selb Marktredwitz GmbH            ESMSEL         Mr Christoph Brossmann
+ Gebrueder-Netzsch-Strasse 14                                       Tel.: +49 9287 802 440
+ D-95100 SELB                                                       Email: christoph.brossmann@esm-selb.de
+
+
+ Freitaler Stadtwerke GmbH                           DEUFSW         Mr Tom Trautmann
+ Potschappler Strasse 2                                             Tel.: +49 351 64828 410
+ D-01705 FREITAL                                                    Fax: +49 351 64828 151
+                                                                    Email: vertrieb-management@ftl-stadtwerke.de
+
+ Gemeindewerke Wendelstein Breitband GmbH            90530W         Mr Michael Heubeck
+ Nuernberger Strasse 5                                              Tel: +49 9129 401 259
+ 90530 WENDELSTEIN                                                  Fax: +49 9129 401 208269
+                                                                    E-mail: michael.heubeck@wendelstein.de
+
+ Licht- und Kraftwerke Helmbrechts GmbH               LUKHEL        Mr Joerg Koeppel
+ Muenchberger Strasse 65                                            Tel.: +49 9252 704 149
+ D-95233 HELMBRECHTS                                                Fax: +49 9252 704 111
+                                                                    Email: koeppel@luk-helmbrechts.de
+
+ Michael Korn                                        KORNLU         Mr Michael Korn
+ Breitband Korn                                                     Tel.: +49 9263 974188
+ Kronacher Strasse 2                                                Fax: +49 9263 297570
+ D-96337 LUDWIGSSTADT                                               Email: korn.michael@gmx.de
+
+ Stadtwerke Karlsruhe GmbH                            SWKA          Mr Robin Birk
+ Daxlander Strasse 72                                               Tel.: +49 721 5991034
+ D-76185 KARLSRUHE                                                  Email: robin.birk@stadtwerke-karlsruhe.de
+
+
+
+
+ Country or area/ISO code                   Company Code      Contact
+  Company Name/Address                       (carrier code)
+
+Germany (Federal Republic of) / DEU   ADD
+
+ Stadtwerke Kelheim GmbH & Co.KG                SWKEL         Mr Sebastian Mauksch
+ Hallstattstrasse 15                                          Tel.: +49 9441 5032 402
+ D-93309 KELHEIM                                              Fax: +49 9441 5032 499
+                                                              Email: mauksch@stadtwerke-kelheim.de
+ Stadtwerke Langenfeld GmbH                    STWLGF         Mr Hans-Werner Graffweg
+ Elisabeth-Selbert-Strasse 2                                  Tel.: +49 2173 979 545
+ D-40764 LANGENFELD                                           Email: hans-werner.graffweg@stw-langenfeld.de
+
+ Stadtwerke Nürtingen GmbH                    SWNNUE          Mr Dennis Richter
+ Porschestrasse 5 - 9                                         Tel.: +49 7022 406 535
+ D-72622 NUERTINGEN                                           Email: dennis.richter@sw-nuertingen.de
+
+ Stadtwerke Radolfzell GmbH                    SWRAD          Mrs Rebekka Drews
+ Untertorstrasse 7 - 9                                        Tel.: +49 7732 8008 157
+ D-78315 RADOLFZELL                                           Fax: +49 7732 8008 500
+                                                              Email: rebekka.drews@stadtwerke-radolfzell.de
+ Stadtwerke Rhede GmbH                         SWRRHE         Mr Christian Knipping
+ Krommerter Weg 13                                            Tel.: +49 2872 937 200
+ D-46414 RHEDE                                                Fax: +49 2872 937 211
+                                                              Email: rhespeed@stadtwerke-rhede.de
+
+ Stadtwerke Soest GmbH                          SWSO          Mr Dominik Schlueter
+ Aldegreverwall 12                                            Tel.: +49 2921 392 285
+ D-59494 SOEST                                                Fax: +49 2921 392 222
+                                                              Email: d.schlueter@stadtwerke-soest.de
+
+ Stadtwerke Stein GmbH & Co.KG                   STST         Mr Simon Kranz
+ Wilhelmstrasse 5                                             Tel.: +49 911 996705 540
+ D-90547 STEIN                                                Fax: +49 911 996705 506
+                                                              Email: info@stst.de
+
+ Stadtwerke Wertheim GmbH                     SWWERT          Mr Jochen May
+ Muehlenstrasse 90                                            Tel.: +49 9342 909 116
+ D-97877 WERTHEIM                                             Fax: +49 9342 909 205
+                                                              Email: breitband@stadtwerke-wertheim.de
+
+ Thüga Energie GmbH                            THEVHB         Mr Peter Ehret
+ Industriestrasse 9                                           Tel.: +49 7731 5900 1444
+ D-78224 SINGEN                                               Fax: +49 7731 5900 1595
+                                                              Email: peter.ehret@thuega-energie.de
+
+
+
+
+                      List of International Signalling Point Codes (ISPC)
+                   (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 18)
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point         Name of the signalling point operator
+
+ Albania SUP
+ 2-152-6 5318               GMSC – Tirana                               Mobile 4 AL
+ 2-152-7       5319         STP- Tirana                                 PLUS COMMUNICATIONS
+ 7-219-1       16089        Alb.Tel.Partner                             Albanian Telecommunication Partners sh.p.k
+ 7-219-2       16090        PROTON Communication                        Proton Communication Sh.p.k
+ 7-219-4       16092        UNIFI Albania                               UNIFI Holdings INC Dega në Shqiperi
+
+ Albania ADD
+ 2-152-2 5314               GMSC-Tirana1                                ONE TELECOMMUNICATIONS sh.a
+ 2-152-5       5317         TELE.CO Albania                             Tele.Co & Construction sh.p.k
+ 4-227-4       10012        271C                                        ONE TELECOMMUNICATIONS sh.a
+ 4-227-5       10013        271D                                        ONE TELECOMMUNICATIONS sh.a
+ 4-227-6       10014        271E                                        ONE TELECOMMUNICATIONS sh.a
+ 4-227-7       10015        271F                                        ONE TELECOMMUNICATIONS sh.a
+ 7-219-6       16094        Metis Communications Albania                Metis Communications sh.p.k.
+
+ Albania LIR
+ 2-152-1 5313               GMSC – Tirana                               ONE TELECOMMUNICATIONS sh.a
+ 3-228-4       7972         VIVO IXFR                                   TIBO Communications sh.p.k.
+ 3-233-1       8009         GMSC-AMC2                                   ONE TELECOMMUNICATIONS sh.a
+ 3-233-5       8013         ABCom TS1-SOIP                              Vodafone Albania sh.a.
+
+ Uganda SUP
+ 6-131-2 13338              Kmpms - 01/S11                              Sure Telecom
+ 6-131-3       13339        Sure Telecom                                kmpms - 01/S2I
+ 6-131-4       13340        Kmpms - 01/S31                              Sure Telecom
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                   Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.VI.2021, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                        Country/ Geographical area                      Country Code (CC)
+               Ghana                                                           +233
+               Iran (Islamic Republic of)                                      +98
+
+
+
+
