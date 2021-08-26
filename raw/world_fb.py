@@ -787,7 +787,9 @@ WORLD_FB = \
                                                         'water': '0 sq km'},
                                               'boundaries': {'bord': {}, 'len': 0},
                                               'coastline': 74,
-                                              'coord': ['12 14 S, 123 05 E'],
+                                              'coord': [ 'Cartier Islet - 12 32 S, 123 32 E',
+                                                         '12 25 S, 123 20 E<br><br> note - Ashmore Reef - 12 14 S, 123 '
+                                                         '05 E'],
                                               'country_name': { 'conv_long': 'Territory of Ashmore and Cartier Islands',
                                                                 'conv_short': 'Ashmore and Cartier Islands'},
                                               'population': 0,
@@ -4346,7 +4348,7 @@ WORLD_FB = \
                                             'local_long': 'Republica del Ecuador',
                                             'local_short': 'Ecuador'},
                           'population': 17093159,
-                          'ports': { 'container': 'Guayaquil (1,871,591) (2017)',
+                          'ports': { 'container': 'Guayaquil (1,680,751) (2019)',
                                      'seaport': 'Esmeraldas, Manta, Puerto Bolivar'},
                           'region': ['South America'],
                           'subs_broadband': 2092458,
@@ -4411,7 +4413,7 @@ WORLD_FB = \
                                           'local_long': 'Jumhuriyat Misr al-Arabiyah',
                                           'local_short': 'Misr'},
                         'population': 106437241,
-                        'ports': { 'container': 'Alexandria (1,613,000), Port Said (East) (2,968,308) (2017)',
+                        'ports': { 'container': 'Port Said (East) (3,816,084) (2019)',
                                    'seaport': 'Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said'},
                         'region': ['Africa'],
                         'subs_broadband': 7598941,
@@ -5128,7 +5130,7 @@ WORLD_FB = \
                                            'local_long': 'Republique francaise',
                                            'local_short': 'France'},
                          'population': 68084217,
-                         'ports': { 'container': 'Le Havre (2,870,000) (2017)',
+                         'ports': { 'container': 'Le Havre (2,822,910) (2019)',
                                     'ferry': 'Calais, Cherbourg, Le Havre',
                                     'seaport': 'Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes,'},
                          'region': [ ('metropolitan France', 'Europe'),
@@ -5796,7 +5798,7 @@ WORLD_FB = \
                                             'local_long': 'Bundesrepublik Deutschland',
                                             'local_short': 'Deutschland'},
                           'population': 79903481,
-                          'ports': { 'container': 'Bremen/Bremerhaven (5,510,000), Hamburg (8,860,000) (2017)',
+                          'ports': { 'container': 'Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)',
                                      'seaport': 'Baltic Sea - Rostock'},
                           'region': ['Europe'],
                           'subs_broadband': 35071539,
@@ -5979,7 +5981,7 @@ WORLD_FB = \
                                            'local_long': 'Elliniki Dimokratia',
                                            'local_short': 'Ellas or Ellada'},
                          'population': 10569703,
-                         'ports': { 'container': 'Piraeus (4,145,079) (2017)',
+                         'ports': { 'container': 'Piraeus (5,648,000) (2019)',
                                     'seaport': 'Aspropyrgos, Pachi, Piraeus, Thessaloniki'},
                          'region': ['Europe'],
                          'subs_broadband': 4149146,
@@ -6713,7 +6715,7 @@ WORLD_FB = \
                                               'local_long': 'Heung Kong Takpit Hangching Ku (Eitel/Dyer-Ball)',
                                               'local_short': 'Heung Kong (Eitel/Dyer-Ball)'},
                             'population': 7263234,
-                            'ports': {'container': 'Hong Kong (20,770,000) (2017)', 'seaport': 'Hong Kong'},
+                            'ports': {'container': 'Hong Kong (18,361,000) (2019)', 'seaport': 'Hong Kong'},
                             'region': ['Southeast Asia'],
                             'subs_broadband': 2804790,
                             'subs_fixed': 4029603,
@@ -6941,8 +6943,7 @@ WORLD_FB = \
                                           'local_long': 'Republic of India/Bharatiya Ganarajya',
                                           'local_short': 'India/Bharat'},
                         'population': 1339330514,
-                        'ports': { 'container': 'Chennai (1,549,457), Jawaharal Nehru Port (4,833,397), Mundra '
-                                                '(4,240,260) (2017)',
+                        'ports': { 'container': 'Jawaharal Nehru Port (5,100,891), Mundra (4,732,699) (2019)',
                                    'seaport': 'Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai '
                                               '(Bombay), Sikka, Vishakhapatnam'},
                         'region': ['Asia'],
@@ -7024,7 +7025,7 @@ WORLD_FB = \
                                               'local_long': 'Republik Indonesia',
                                               'local_short': 'Indonesia'},
                             'population': 275122131,
-                            'ports': { 'container': 'Tanjung Perak (3,553,370), Tanjung Priok (6,090,000) (2017)',
+                            'ports': { 'container': 'Tanjung Perak (3,900,000), Tanjung Priok (7,600,000) (2019)',
                                        'seaport': 'Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, '
                                                   'Sungai Pakning, Tanjung Perak, Tanjung Priok'},
                             'region': ['Southeast Asia'],
@@ -7100,7 +7101,7 @@ WORLD_FB = \
                                          'local_long': 'Jomhuri-ye Eslami-ye Iran',
                                          'local_short': 'Iran'},
                        'population': 85888910,
-                       'ports': { 'container': 'Bandar Abbas (2,607,000) (2017)',
+                       'ports': { 'container': 'Bandar Abbas',
                                   'seaport': 'Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni'},
                        'region': ['Middle East'],
                        'subs_broadband': 8771251,
@@ -7355,7 +7356,7 @@ WORLD_FB = \
                                            'local_long': "Medinat Yisra'el",
                                            'local_short': "Yisra'el"},
                          'population': 8787045,
-                         'ports': { 'container': 'Ashdod (1,443,000) (2016)',
+                         'ports': { 'container': 'Ashdod (1,584,000) (2019)',
                                     'seaport': 'Ashdod, Elat (Eilat), Hadera, Haifa'},
                          'region': ['Middle East'],
                          'subs_broadband': 2481000,
@@ -7431,7 +7432,7 @@ WORLD_FB = \
                                           'local_long': 'Repubblica Italiana',
                                           'local_short': 'Italia'},
                         'population': 62390364,
-                        'ports': { 'container': 'Genoa (2,622,200), Gioia Tauro (2,448,600) (2017)',
+                        'ports': { 'container': 'Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)',
                                    'seaport': 'Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice'},
                         'region': ['Europe'],
                         'subs_broadband': 17470489,
@@ -7493,7 +7494,7 @@ WORLD_FB = \
                           'coord': ['18 15 N, 77 30 W'],
                           'country_name': {'conv_long': 'none', 'conv_short': 'Jamaica'},
                           'population': 2816602,
-                          'ports': { 'container': 'Kingston (1,681,706) (2017)',
+                          'ports': { 'container': 'Kingston (1,647,609) (2019)',
                                      'seaport': 'Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, '
                                                 'Port Esquivel, Port Kaiser, Rocky Point'},
                           'region': ['Central America and the Caribbean'],
@@ -7583,8 +7584,8 @@ WORLD_FB = \
                                           'local_long': 'Nihon-koku/Nippon-koku',
                                           'local_short': 'Nihon/Nippon'},
                         'population': 124687293,
-                        'ports': { 'container': 'Kobe (2,924,179), Nagoya (2,784,109), Osaka (2,326,852), Tokyo '
-                                                '(4,500,156), Yokohama (2,926,698) (2017)',
+                        'ports': { 'container': 'Kobe (2,871,642), Nagoya (2,844,004), Osaka (2,456,028), Tokyo '
+                                                '(4,510,000), Yokohama (2,990,000) (2019)',
                                    'seaport': 'Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, '
                                               'Tomakomai, Yokohama'},
                         'region': ['Asia'],
@@ -8082,8 +8083,8 @@ WORLD_FB = \
                                                  'local_long': "Taehan-min'guk",
                                                  'local_short': "Han'guk"},
                                'population': 51715162,
-                               'ports': { 'container': 'Busan (20,493,000), Incheon (3,050,000), Kwangyang (2,230,000) '
-                                                       '(2017)',
+                               'ports': { 'container': 'Busan (21,992,001), Incheon (3,091,955), Kwangyang (2,378,337) '
+                                                       '(2019)',
                                           'seaport': 'Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu'},
                                'region': ['Asia'],
                                'subs_broadband': 21906172,
@@ -8469,7 +8470,7 @@ WORLD_FB = \
                                             'local_long': 'Al Jumhuriyah al Lubnaniyah',
                                             'local_short': 'Lubnan'},
                           'population': 5261372,
-                          'ports': {'container': 'Beirut (1,305,038) (2017)', 'seaport': 'Beirut, Tripoli'},
+                          'ports': {'container': 'Beirut (1,229,100) (2019)', 'seaport': 'Beirut, Tripoli'},
                           'region': ['Middle East'],
                           'subs_broadband': 420000,
                           'subs_fixed': 882175,
@@ -9087,8 +9088,8 @@ WORLD_FB = \
                                              'local_long': 'none',
                                              'local_short': 'Malaysia'},
                            'population': 33519406,
-                           'ports': { 'container': 'Port Kelang (Port Klang) (11,978,000), Tanjung Pelepas (8,260,000) '
-                                                   '(2017)',
+                           'ports': { 'container': 'Port Kelang (Port Klang) (13,580,717), Tanjung Pelepas (9,100,000) '
+                                                   '(2019)',
                                       'seaport': 'Bintulu, Johor Bahru, George Town (Penang), Port Kelang (Port '
                                                  'Klang), Tanjung Pelepas'},
                            'region': ['Southeast Asia'],
@@ -9287,7 +9288,7 @@ WORLD_FB = \
                                           'local_long': "Repubblika ta' Malta",
                                           'local_short': 'Malta'},
                         'population': 460891,
-                        'ports': { 'container': 'Marsaxlokk (3,150,000) (2017)',
+                        'ports': { 'container': 'Marsaxlokk (2,722,889) (2019)',
                                    'seaport': 'Marsaxlokk (Malta Freeport), Valletta'},
                         'region': ['Europe'],
                         'subs_broadband': 202513,
@@ -9590,7 +9591,8 @@ WORLD_FB = \
                                            'local_long': 'Estados Unidos Mexicanos',
                                            'local_short': 'Mexico'},
                          'population': 130207371,
-                         'ports': { 'container': 'Manzanillo (2,830,370), Lazaro Cardenas (1,149,079) (2017)',
+                         'ports': { 'container': 'Lazaro Cardenas (1,318,732), Manzanillo (3,069,189), Veracruz '
+                                                 '(1,144,156) (2019)',
                                     'seaport': 'Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz'},
                          'region': ['North America'],
                          'subs_broadband': 19354980,
@@ -10048,7 +10050,7 @@ WORLD_FB = \
                                             'local_long': 'Al Mamlakah al Maghribiyah',
                                             'local_short': 'Al Maghrib'},
                           'population': 36561813,
-                          'ports': { 'container': 'Tangier (3,312,409) (2017)',
+                          'ports': { 'container': 'Tangier (4,801,713) (2019)',
                                      'seaport': 'Ad Dakhla, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, '
                                                 'Safi, Tangier'},
                           'region': ['Africa'],
@@ -10407,7 +10409,7 @@ WORLD_FB = \
                                                 'local_long': 'Koninkrijk der Nederlanden',
                                                 'local_short': 'Nederland'},
                               'population': 17337403,
-                              'ports': { 'container': 'Rotterdam (13,734,000) (2017)',
+                              'ports': { 'container': 'Rotterdam (14,810,804) (2019)',
                                          'seaport': 'IJmuiden, Vlissingen'},
                               'region': ['Europe'],
                               'subs_broadband': 7459000,
@@ -11117,7 +11119,7 @@ WORLD_FB = \
                                          'local_long': 'Saltanat Uman',
                                          'local_short': 'Uman'},
                        'population': 3694755,
-                       'ports': {'container': 'Salalah (3,946,421) (2017)', 'seaport': "Mina' Qabus, Salalah, Suhar"},
+                       'ports': {'container': 'Salalah (4,109,000) (2019)', 'seaport': "Mina' Qabus, Salalah, Suhar"},
                        'region': ['Middle East'],
                        'subs_broadband': 473070,
                        'subs_fixed': 592196,
@@ -11182,7 +11184,7 @@ WORLD_FB = \
                                              'local_long': 'Jamhuryat Islami Pakistan',
                                              'local_short': 'Pakistan'},
                            'population': 238181034,
-                           'ports': { 'container': 'Karachi (2,224,000) (2017)',
+                           'ports': { 'container': 'Karachi (2,097,855) (2019)',
                                       'seaport': 'Karachi, Port Muhammad Bin Qasim'},
                            'region': ['Asia'],
                            'subs_broadband': 1760870,
@@ -11329,7 +11331,7 @@ WORLD_FB = \
                                            'local_long': 'Republica de Panama',
                                            'local_short': 'Panama'},
                          'population': 3928646,
-                         'ports': { 'container': 'Balboa (2,905,049), Colon (3,891,209) (2017)',
+                         'ports': { 'container': 'Balboa (2,894,654), Colon (4,379,477) (2019)',
                                     'seaport': 'Balboa, Colon, Cristobal'},
                          'region': ['Central America and the Caribbean'],
                          'subs_broadband': 523530,
@@ -11554,7 +11556,7 @@ WORLD_FB = \
                                          'local_long': 'Republica del Peru',
                                          'local_short': 'Peru'},
                        'population': 32201224,
-                       'ports': {'container': 'Callao (2,250,200) (2017)', 'seaport': 'Callao, Matarani, Paita'},
+                       'ports': {'container': 'Callao (2,313,907) (2019)', 'seaport': 'Callao, Matarani, Paita'},
                        'region': ['South America'],
                        'subs_broadband': 2310217,
                        'subs_fixed': 3099172,
@@ -11621,7 +11623,7 @@ WORLD_FB = \
                                                 'local_long': 'Republika ng Pilipinas',
                                                 'local_short': 'Pilipinas'},
                               'population': 110818325,
-                              'ports': { 'container': 'Manila (4,782,240) (2017)',
+                              'ports': { 'container': 'Manila (5,315,500) (2019)',
                                          'seaport': 'Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila'},
                               'region': ['Southeast Asia'],
                               'subs_broadband': 5920087,
@@ -11749,7 +11751,7 @@ WORLD_FB = \
                                            'local_long': 'Rzeczpospolita Polska',
                                            'local_short': 'Polska'},
                          'population': 38185913,
-                         'ports': {'container': 'Gdansk (1,593,761) (2017)', 'seaport': 'Gdansk, Gdynia, Swinoujscie'},
+                         'ports': {'container': 'Gdansk (2,073,215) (2019)', 'seaport': 'Gdansk, Gdynia, Swinoujscie'},
                          'region': ['Europe'],
                          'subs_broadband': 7783887,
                          'subs_fixed': 6824896,
@@ -11815,7 +11817,7 @@ WORLD_FB = \
                                              'local_long': 'Republica Portuguesa',
                                              'local_short': 'Portugal'},
                            'population': 10263850,
-                           'ports': { 'container': 'Sines (1,669,057) (2017)',
+                           'ports': { 'container': 'Sines (1,420,000) (2019)',
                                       'seaport': 'Leixoes, Lisbon, Setubal, Sines'},
                            'region': ['Europe'],
                            'subs_broadband': 3967699,
@@ -11881,7 +11883,7 @@ WORLD_FB = \
                               'coord': ['18 15 N, 66 30 W'],
                               'country_name': {'conv_long': 'Commonwealth of Puerto Rico', 'conv_short': 'Puerto Rico'},
                               'population': 3142779,
-                              'ports': { 'container': 'San Juan (1,210,503) (2015)',
+                              'ports': { 'container': 'San Juan (2,142,662) (2019)',
                                          'seaport': 'Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, '
                                                     'San Juan'},
                               'region': ['Central America and the Caribbean'],
@@ -12107,7 +12109,7 @@ WORLD_FB = \
                                            'local_long': 'Rossiyskaya Federatsiya',
                                            'local_short': 'Rossiya'},
                          'population': 142320790,
-                         'ports': { 'container': 'Saint Petersburg (1,848,700) (2017)',
+                         'ports': { 'container': 'Saint Petersburg (2,221,724) (2019)',
                                     'seaport': 'Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy'},
                          'region': ['Asia'],
                          'subs_broadband': 32857614,
@@ -12896,8 +12898,8 @@ WORLD_FB = \
                                                  'local_long': 'Al Mamlakah al Arabiyah as Suudiyah',
                                                  'local_short': 'Al Arabiyah as Suudiyah'},
                                'population': 34783757,
-                               'ports': { 'container': 'Ad Dammam (1,582,388), Jeddah (4,150,000), King Abdulla '
-                                                       '(1,695,322) (2017)',
+                               'ports': { 'container': 'Ad Dammam (1,822,642), Jeddah (4,433,991), King Abdulla '
+                                                       '(2,020,683) (2019)',
                                           'seaport': "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'"},
                                'region': ['Middle East'],
                                'subs_broadband': 6801949,
@@ -13216,7 +13218,7 @@ WORLD_FB = \
                                               'local_long': 'Republic of Singapore',
                                               'local_short': 'Singapore'},
                             'population': 5866139,
-                            'ports': {'container': 'Singapore (33,666,000) (2017)', 'seaport': 'Singapore'},
+                            'ports': {'container': 'Singapore (37,195,636) (2019)', 'seaport': 'Singapore'},
                             'region': ['Southeast Asia'],
                             'subs_broadband': 1504000,
                             'subs_fixed': 1911200,
@@ -13609,7 +13611,7 @@ WORLD_FB = \
                                'coord': ['29 00 S, 24 00 E'],
                                'country_name': {'conv_long': 'Republic of South Africa', 'conv_short': 'South Africa'},
                                'population': 56978635,
-                               'ports': { 'container': 'Durban (2,699,978) (2017)',
+                               'ports': { 'container': 'Durban (2,769,869) (2019)',
                                           'seaport': 'Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay'},
                                'region': ['Africa'],
                                'subs_broadband': 1250356,
@@ -13791,8 +13793,8 @@ WORLD_FB = \
                                           'local_long': 'Reino de Espana',
                                           'local_short': 'Espana'},
                         'population': 47260584,
-                        'ports': { 'container': 'Algeciras (4,389,836), Barcelona (2,968,757), Valencia (4,832,156) '
-                                                '(2017)',
+                        'ports': { 'container': 'Algeciras (5,125,385), Barcelona (3,324,650), Valencia (5,439,827) '
+                                                '(2019)',
                                    'seaport': 'Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, Valencia '
                                               '(all in Spain); Las Palmas, Santa Cruz de Tenerife (in the Canary '
                                               'Islands)'},
@@ -13889,7 +13891,7 @@ WORLD_FB = \
                                                             'Jananayaka Choshalichak Kutiyarachu',
                                               'local_short': 'Shri Lanka/Ilankai'},
                             'population': 23044123,
-                            'ports': {'container': 'Colombo (6,209,000) (2017)', 'seaport': 'Colombo'},
+                            'ports': {'container': 'Colombo (7,228,337) (2019)', 'seaport': 'Colombo'},
                             'region': ['Asia'],
                             'subs_broadband': 1666317,
                             'subs_fixed': 2291464,
@@ -14351,8 +14353,8 @@ WORLD_FB = \
                                            'local_long': 'none',
                                            'local_short': 'Taiwan'},
                          'population': 23572052,
-                         'ports': { 'container': 'Kaohsiung (10,271,018), Taichung (1,660,663), Taipei (1,561,743) '
-                                                 '(2017)',
+                         'ports': { 'container': 'Kaohsiung (10,428,634), Taichung (1,793,966), Taipei (1,620,392) '
+                                                 '(2019)',
                                     'seaport': 'Keelung (Chi-lung), Kaohsiung, Hualian, Taichung'},
                          'region': ['Southeast Asia'],
                          'subs_broadband': 5831467,
@@ -14575,7 +14577,7 @@ WORLD_FB = \
                                              'local_long': 'Ratcha Anachak Thai',
                                              'local_short': 'Prathet Thai'},
                            'population': 69480520,
-                           'ports': { 'container': 'Laem Chabang (7,227,431) (2017)',
+                           'ports': { 'container': 'Laem Chabang (8,106,928) (2019)',
                                       'seaport': 'Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha'},
                            'region': ['Southeast Asia'],
                            'subs_broadband': 10108819,
@@ -15045,7 +15047,8 @@ WORLD_FB = \
                                            'local_long': 'Turkiye Cumhuriyeti',
                                            'local_short': 'Turkiye'},
                          'population': 82482383,
-                         'ports': { 'container': 'Ambarli (3,131,621), Mersin (Icel) (1,592,000) (2017)',
+                         'ports': { 'container': 'Ambarli (3,104,882), Mersin (Icel) (1,854,312), Izmet (1,715,193) '
+                                                 '(2019)',
                                     'seaport': 'Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin '
                                                '(Icel), Limani, Yarimca'},
                          'region': ['Middle East'],
@@ -15462,8 +15465,7 @@ WORLD_FB = \
                                                          'local_long': 'Al Imarat al Arabiyah al Muttahidah',
                                                          'local_short': 'none'},
                                        'population': 9856612,
-                                       'ports': { 'container': 'Dubai Port (15,368,000), Khor Fakkan (Khawr Fakkan) '
-                                                               '(Sharjah) (2,321,000) (2017)',
+                                       'ports': { 'container': 'Dubai Port (14,111,000) (2019)',
                                                   'seaport': "Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan "
                                                              '(Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), '
                                                              "Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)"},
@@ -15559,8 +15561,8 @@ WORLD_FB = \
                                                                 'Scotland, and Wales',
                                                    'conv_short': 'United Kingdom'},
                                  'population': 67081000,
-                                 'ports': { 'container': 'Felixstowe (3,849,700), London (2,431,000), Southampton '
-                                                         '(2,040,000) (2017)',
+                                 'ports': { 'container': 'Felixstowe (3,584,000), London (2,790,000), Southampton '
+                                                         '(1,924,847) (2019)',
                                             'seaport': 'Dover, Felixstowe, Immingham, Liverpool, London, Southampton, '
                                                        'Teesport (England); Forth Ports (Scotland); Milford Haven '
                                                        '(Wales)'},
@@ -15647,10 +15649,10 @@ WORLD_FB = \
                                 'country_name': { 'conv_long': 'United States of America',
                                                   'conv_short': 'United States'},
                                 'population': 334998398,
-                                'ports': { 'container': 'Charleston (2,177,000), Hampton Roads (2,841,000), Houston '
-                                                        '(2,459,000), Long Beach (7,544,000), Los Angeles (9,343,000), '
-                                                        'New York/New Jersey (6,710,000), Oakland (2,420,000), '
-                                                        'Savannah (4,046,000), Seattle/Tacoma (3,665,000) (2017)'},
+                                'ports': { 'container': 'Charleston (2,436,185), Hampton Roads (2,937,962), Houston '
+                                                        '(2,987,291), Long Beach (7,632,032), Los Angeles (9,337,632), '
+                                                        'New York/New Jersey (7,471,131), Oakland (2,500,431), '
+                                                        'Savannah (4,599,177), Seattle/Tacoma (3,775,303) (2019)'},
                                 'region': ['North America'],
                                 'subs_broadband': 114259000,
                                 'subs_fixed': 107568000,
@@ -16056,7 +16058,8 @@ WORLD_FB = \
                                             'local_long': 'Cong Hoa Xa Hoi Chu Nghia Viet Nam',
                                             'local_short': 'Viet Nam'},
                           'population': 102789598,
-                          'ports': { 'container': 'Saigon (6,155,535), Cai Mep (3,065,014) (2017)',
+                          'ports': { 'container': 'Saigon (7,220,377), Cai Mep (3,742,384), Haiphong (5,133,150) '
+                                                  '(2019)',
                                      'seaport': 'Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon'},
                           'region': ['Southeast Asia'],
                           'subs_broadband': 14802380,

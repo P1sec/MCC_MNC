@@ -491,7 +491,7 @@
         "Tajikistan",
         "Vietnam"
       ],
-      "neigh_num": 13
+      "neigh_num": 14
     },
     {
       "border_len_km": 6004,
@@ -2011,7 +2011,7 @@
         "South Ossetia",
         "Ukraine"
       ],
-      "neigh_num": 17
+      "neigh_num": 16
     },
     {
       "border_len_km": 893,
@@ -2375,6 +2375,15 @@
       "country_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+      "neigh": [],
+      "neigh_num": 0
+    },
+    {
+      "border_len_km": 0,
+      "border_len_mi": 0,
+      "country_name": "Taiwan",
+      "country_sub": [],
+      "country_url": "https://en.wikipedia.org/wiki/Taiwan",
       "neigh": [],
       "neigh_num": 0
     },

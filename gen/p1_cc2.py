@@ -70,8 +70,7 @@ P1_CC2 = \
                               'coast': 1318,
                               'coord': ['24 00 N, 54 00 E'],
                               'popul': 9856612,
-                              'ports': { 'container': 'Dubai Port (15,368,000), Khor Fakkan (Khawr Fakkan) (Sharjah) '
-                                                      '(2,321,000) (2017)',
+                              'ports': { 'container': 'Dubai Port (14,111,000) (2019)',
                                          'seaport': "Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) "
                                                     "(Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), "
                                                     "Mina' Saqr (Ra's al Khaymah)"},
@@ -3666,7 +3665,7 @@ P1_CC2 = \
                               'coast': 2389,
                               'coord': ['51 00 N, 9 00 E'],
                               'popul': 79903481,
-                              'ports': { 'container': 'Bremen/Bremerhaven (5,510,000), Hamburg (8,860,000) (2017)',
+                              'ports': { 'container': 'Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)',
                                          'seaport': 'Baltic Sea - Rostock'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DE',
@@ -4109,7 +4108,7 @@ P1_CC2 = \
                               'coast': 2237,
                               'coord': ['2 00 S, 77 30 W'],
                               'popul': 17093159,
-                              'ports': { 'container': 'Guayaquil (1,871,591) (2017)',
+                              'ports': { 'container': 'Guayaquil (1,680,751) (2019)',
                                          'seaport': 'Esmeraldas, Manta, Puerto Bolivar'},
                               'region': 'South America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EC',
@@ -4235,6 +4234,7 @@ P1_CC2 = \
                       '24819',
                       '24820',
                       '24821',
+                      '24822',
                       '24871'],
           'msisdn': ['372'],
           'name': 'Estonia',
@@ -4249,7 +4249,7 @@ P1_CC2 = \
                               'coast': 2450,
                               'coord': ['27 00 N, 30 00 E'],
                               'popul': 106437241,
-                              'ports': { 'container': 'Alexandria (1,613,000), Port Said (East) (2,968,308) (2017)',
+                              'ports': { 'container': 'Port Said (East) (3,816,084) (2019)',
                                          'seaport': 'Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EG',
@@ -4377,8 +4377,8 @@ P1_CC2 = \
                               'coast': 4964,
                               'coord': ['40 00 N, 4 00 W'],
                               'popul': 47260584,
-                              'ports': { 'container': 'Algeciras (4,389,836), Barcelona (2,968,757), Valencia '
-                                                      '(4,832,156) (2017)',
+                              'ports': { 'container': 'Algeciras (5,125,385), Barcelona (3,324,650), Valencia '
+                                                      '(5,439,827) (2019)',
                                          'seaport': 'Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, '
                                                     'Valencia (all in Spain); Las Palmas, Santa Cruz de Tenerife (in '
                                                     'the Canary Islands)'},
@@ -4857,7 +4857,7 @@ P1_CC2 = \
                                          ('Mayotte', '12 50 S, 45 10 E'),
                                          ('Reunion', '21 06 S, 55 36 E')],
                               'popul': 68084217,
-                              'ports': { 'container': 'Le Havre (2,870,000) (2017)',
+                              'ports': { 'container': 'Le Havre (2,822,910) (2019)',
                                          'ferry': 'Calais, Cherbourg, Le Havre',
                                          'seaport': 'Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes,'},
                               'region': 'Europe',
@@ -5064,8 +5064,8 @@ P1_CC2 = \
                               'coast': 12429,
                               'coord': ['54 00 N, 2 00 W'],
                               'popul': 67081000,
-                              'ports': { 'container': 'Felixstowe (3,849,700), London (2,431,000), Southampton '
-                                                      '(2,040,000) (2017)',
+                              'ports': { 'container': 'Felixstowe (3,584,000), London (2,790,000), Southampton '
+                                                      '(1,924,847) (2019)',
                                          'seaport': 'Dover, Felixstowe, Immingham, Liverpool, London, Southampton, '
                                                     'Teesport (England); Forth Ports (Scotland); Milford Haven '
                                                     '(Wales)'},
@@ -5742,7 +5742,7 @@ P1_CC2 = \
                               'coast': 13676,
                               'coord': ['39 00 N, 22 00 E'],
                               'popul': 10569703,
-                              'ports': { 'container': 'Piraeus (4,145,079) (2017)',
+                              'ports': { 'container': 'Piraeus (5,648,000) (2019)',
                                          'seaport': 'Aspropyrgos, Pachi, Piraeus, Thessaloniki'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GR',
@@ -6061,7 +6061,7 @@ P1_CC2 = \
                               'coast': 733,
                               'coord': ['22 15 N, 114 10 E'],
                               'popul': 7263234,
-                              'ports': {'container': 'Hong Kong (20,770,000) (2017)', 'seaport': 'Hong Kong'},
+                              'ports': {'container': 'Hong Kong (18,361,000) (2019)', 'seaport': 'Hong Kong'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HK',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/hong-kong'},
@@ -6421,7 +6421,7 @@ P1_CC2 = \
                               'coast': 54716,
                               'coord': ['5 00 S, 120 00 E'],
                               'popul': 275122131,
-                              'ports': { 'container': 'Tanjung Perak (3,553,370), Tanjung Priok (6,090,000) (2017)',
+                              'ports': { 'container': 'Tanjung Perak (3,900,000), Tanjung Priok (7,600,000) (2019)',
                                          'seaport': 'Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, '
                                                     'Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok'},
                               'region': 'Southeast Asia',
@@ -6574,7 +6574,7 @@ P1_CC2 = \
                               'coast': 273,
                               'coord': ['31 30 N, 34 45 E'],
                               'popul': 8787045,
-                              'ports': { 'container': 'Ashdod (1,443,000) (2016)',
+                              'ports': { 'container': 'Ashdod (1,584,000) (2019)',
                                          'seaport': 'Ashdod, Elat (Eilat), Hadera, Haifa'},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IL',
@@ -6700,8 +6700,7 @@ P1_CC2 = \
                               'coast': 7000,
                               'coord': ['20 00 N, 77 00 E'],
                               'popul': 1339330514,
-                              'ports': { 'container': 'Chennai (1,549,457), Jawaharal Nehru Port (4,833,397), Mundra '
-                                                      '(4,240,260) (2017)',
+                              'ports': { 'container': 'Jawaharal Nehru Port (5,100,891), Mundra (4,732,699) (2019)',
                                          'seaport': 'Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai '
                                                     '(Bombay), Sikka, Vishakhapatnam'},
                               'region': 'Asia',
@@ -7220,7 +7219,7 @@ P1_CC2 = \
                               'coast': 2440,
                               'coord': ['32 00 N, 53 00 E'],
                               'popul': 85888910,
-                              'ports': { 'container': 'Bandar Abbas (2,607,000) (2017)',
+                              'ports': { 'container': 'Bandar Abbas',
                                          'seaport': 'Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni'},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IR',
@@ -7383,7 +7382,7 @@ P1_CC2 = \
                               'coast': 7600,
                               'coord': ['42 50 N, 12 50 E'],
                               'popul': 62390364,
-                              'ports': { 'container': 'Genoa (2,622,200), Gioia Tauro (2,448,600) (2017)',
+                              'ports': { 'container': 'Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)',
                                          'seaport': 'Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IT',
@@ -7509,7 +7508,7 @@ P1_CC2 = \
                               'coast': 1022,
                               'coord': ['18 15 N, 77 30 W'],
                               'popul': 2816602,
-                              'ports': { 'container': 'Kingston (1,681,706) (2017)',
+                              'ports': { 'container': 'Kingston (1,647,609) (2019)',
                                          'seaport': 'Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port '
                                                     'Antonio, Port Esquivel, Port Kaiser, Rocky Point'},
                               'region': 'Central America and the Caribbean',
@@ -7631,8 +7630,8 @@ P1_CC2 = \
                               'coast': 29751,
                               'coord': ['36 00 N, 138 00 E'],
                               'popul': 124687293,
-                              'ports': { 'container': 'Kobe (2,924,179), Nagoya (2,784,109), Osaka (2,326,852), Tokyo '
-                                                      '(4,500,156), Yokohama (2,926,698) (2017)',
+                              'ports': { 'container': 'Kobe (2,871,642), Nagoya (2,844,004), Osaka (2,456,028), Tokyo '
+                                                      '(4,510,000), Yokohama (2,990,000) (2019)',
                                          'seaport': 'Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, '
                                                     'Tomakomai, Yokohama'},
                               'region': 'Asia',
@@ -8219,8 +8218,8 @@ P1_CC2 = \
                               'coast': 2413,
                               'coord': ['37 00 N, 127 30 E'],
                               'popul': 51715162,
-                              'ports': { 'container': 'Busan (20,493,000), Incheon (3,050,000), Kwangyang (2,230,000) '
-                                                      '(2017)',
+                              'ports': { 'container': 'Busan (21,992,001), Incheon (3,091,955), Kwangyang (2,378,337) '
+                                                      '(2019)',
                                          'seaport': 'Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu'},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KR',
@@ -8514,7 +8513,7 @@ P1_CC2 = \
                               'coast': 225,
                               'coord': ['33 50 N, 35 50 E'],
                               'popul': 5261372,
-                              'ports': {'container': 'Beirut (1,305,038) (2017)', 'seaport': 'Beirut, Tripoli'},
+                              'ports': {'container': 'Beirut (1,229,100) (2019)', 'seaport': 'Beirut, Tripoli'},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LB',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/lebanon'},
@@ -8667,7 +8666,7 @@ P1_CC2 = \
                               'coast': 1340,
                               'coord': ['7 00 N, 81 00 E'],
                               'popul': 23044123,
-                              'ports': {'container': 'Colombo (6,209,000) (2017)', 'seaport': 'Colombo'},
+                              'ports': {'container': 'Colombo (7,228,337) (2019)', 'seaport': 'Colombo'},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LK',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/sri-lanka'},
@@ -9090,7 +9089,7 @@ P1_CC2 = \
                               'coast': 2945,
                               'coord': ['28 30 N, 10 00 W'],
                               'popul': 36561813,
-                              'ports': { 'container': 'Tangier (3,312,409) (2017)',
+                              'ports': { 'container': 'Tangier (4,801,713) (2019)',
                                          'seaport': 'Ad Dakhla, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), '
                                                     'Mohammedia, Safi, Tangier'},
                               'region': 'Africa',
@@ -9962,7 +9961,7 @@ P1_CC2 = \
                               'coast': 196,
                               'coord': ['35 50 N, 14 35 E'],
                               'popul': 460891,
-                              'ports': { 'container': 'Marsaxlokk (3,150,000) (2017)',
+                              'ports': { 'container': 'Marsaxlokk (2,722,889) (2019)',
                                          'seaport': 'Marsaxlokk (Malta Freeport), Valletta'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MT',
@@ -10179,7 +10178,8 @@ P1_CC2 = \
                               'coast': 9330,
                               'coord': ['23 00 N, 102 00 W'],
                               'popul': 130207371,
-                              'ports': { 'container': 'Manzanillo (2,830,370), Lazaro Cardenas (1,149,079) (2017)',
+                              'ports': { 'container': 'Lazaro Cardenas (1,318,732), Manzanillo (3,069,189), Veracruz '
+                                                      '(1,144,156) (2019)',
                                          'seaport': 'Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz'},
                               'region': 'North America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MX',
@@ -10274,8 +10274,8 @@ P1_CC2 = \
                               'coast': 4675,
                               'coord': ['2 30 N, 112 30 E'],
                               'popul': 33519406,
-                              'ports': { 'container': 'Port Kelang (Port Klang) (11,978,000), Tanjung Pelepas '
-                                                      '(8,260,000) (2017)',
+                              'ports': { 'container': 'Port Kelang (Port Klang) (13,580,717), Tanjung Pelepas '
+                                                      '(9,100,000) (2019)',
                                          'seaport': 'Bintulu, Johor Bahru, George Town (Penang), Port Kelang (Port '
                                                     'Klang), Tanjung Pelepas'},
                               'region': 'Southeast Asia',
@@ -10763,7 +10763,7 @@ P1_CC2 = \
                               'coast': 451,
                               'coord': ['52 31 N, 5 46 E'],
                               'popul': 17337403,
-                              'ports': { 'container': 'Rotterdam (13,734,000) (2017)',
+                              'ports': { 'container': 'Rotterdam (14,810,804) (2019)',
                                          'seaport': 'IJmuiden, Vlissingen'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NL',
@@ -11165,7 +11165,7 @@ P1_CC2 = \
                               'coast': 2092,
                               'coord': ['21 00 N, 57 00 E'],
                               'popul': 3694755,
-                              'ports': { 'container': 'Salalah (3,946,421) (2017)',
+                              'ports': { 'container': 'Salalah (4,109,000) (2019)',
                                          'seaport': "Mina' Qabus, Salalah, Suhar"},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:OM',
@@ -11221,7 +11221,7 @@ P1_CC2 = \
                               'coast': 2490,
                               'coord': ['9 00 N, 80 00 W'],
                               'popul': 3928646,
-                              'ports': { 'container': 'Balboa (2,905,049), Colon (3,891,209) (2017)',
+                              'ports': { 'container': 'Balboa (2,894,654), Colon (4,379,477) (2019)',
                                          'seaport': 'Balboa, Colon, Cristobal'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PA',
@@ -11284,7 +11284,7 @@ P1_CC2 = \
                               'coast': 2414,
                               'coord': ['10 00 S, 76 00 W'],
                               'popul': 32201224,
-                              'ports': {'container': 'Callao (2,250,200) (2017)', 'seaport': 'Callao, Matarani, Paita'},
+                              'ports': {'container': 'Callao (2,313,907) (2019)', 'seaport': 'Callao, Matarani, Paita'},
                               'region': 'South America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PE',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/peru'},
@@ -11466,7 +11466,7 @@ P1_CC2 = \
                               'coast': 36289,
                               'coord': ['13 00 N, 122 00 E'],
                               'popul': 110818325,
-                              'ports': { 'container': 'Manila (4,782,240) (2017)',
+                              'ports': { 'container': 'Manila (5,315,500) (2019)',
                                          'seaport': 'Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PH',
@@ -11530,7 +11530,7 @@ P1_CC2 = \
                               'coast': 1046,
                               'coord': ['30 00 N, 70 00 E'],
                               'popul': 238181034,
-                              'ports': { 'container': 'Karachi (2,224,000) (2017)',
+                              'ports': { 'container': 'Karachi (2,097,855) (2019)',
                                          'seaport': 'Karachi, Port Muhammad Bin Qasim'},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PK',
@@ -11609,7 +11609,7 @@ P1_CC2 = \
                               'coast': 440,
                               'coord': ['52 00 N, 20 00 E'],
                               'popul': 38185913,
-                              'ports': { 'container': 'Gdansk (1,593,761) (2017)',
+                              'ports': { 'container': 'Gdansk (2,073,215) (2019)',
                                          'seaport': 'Gdansk, Gdynia, Swinoujscie'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PL',
@@ -11812,7 +11812,7 @@ P1_CC2 = \
                               'coast': 501,
                               'coord': ['18 15 N, 66 30 W'],
                               'popul': 3142779,
-                              'ports': { 'container': 'San Juan (1,210,503) (2015)',
+                              'ports': { 'container': 'San Juan (2,142,662) (2019)',
                                          'seaport': 'Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, '
                                                     'San Juan'},
                               'region': 'Central America and the Caribbean',
@@ -11858,6 +11858,7 @@ P1_CC2 = \
                               'url_tld': 'https://en.wikipedia.org/wiki/.pr'}},
           'mcc': ['330'],
           'mccmnc': [ '310017',
+                      '310260',
                       '310280',
                       '313510',
                       '313790',
@@ -11891,7 +11892,7 @@ P1_CC2 = \
                               'coast': 1793,
                               'coord': ['39 30 N, 8 00 W'],
                               'popul': 10263850,
-                              'ports': { 'container': 'Sines (1,669,057) (2017)',
+                              'ports': { 'container': 'Sines (1,420,000) (2019)',
                                          'seaport': 'Leixoes, Lisbon, Setubal, Sines'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PT',
@@ -12274,7 +12275,7 @@ P1_CC2 = \
                               'coast': 37653,
                               'coord': ['60 00 N, 100 00 E'],
                               'popul': 142320790,
-                              'ports': { 'container': 'Saint Petersburg (1,848,700) (2017)',
+                              'ports': { 'container': 'Saint Petersburg (2,221,724) (2019)',
                                          'seaport': 'Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy'},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RU',
@@ -12457,8 +12458,8 @@ P1_CC2 = \
                               'coast': 2640,
                               'coord': ['25 00 N, 45 00 E'],
                               'popul': 34783757,
-                              'ports': { 'container': 'Ad Dammam (1,582,388), Jeddah (4,150,000), King Abdulla '
-                                                      '(1,695,322) (2017)',
+                              'ports': { 'container': 'Ad Dammam (1,822,642), Jeddah (4,433,991), King Abdulla '
+                                                      '(2,020,683) (2019)',
                                          'seaport': "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'"},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SA',
@@ -12821,7 +12822,7 @@ P1_CC2 = \
                               'coast': 193,
                               'coord': ['1 22 N, 103 48 E'],
                               'popul': 5866139,
-                              'ports': {'container': 'Singapore (33,666,000) (2017)', 'seaport': 'Singapore'},
+                              'ports': {'container': 'Singapore (37,195,636) (2019)', 'seaport': 'Singapore'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SG',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/singapore'},
@@ -13926,7 +13927,7 @@ P1_CC2 = \
                               'coast': 3219,
                               'coord': ['15 00 N, 100 00 E'],
                               'popul': 69480520,
-                              'ports': { 'container': 'Laem Chabang (7,227,431) (2017)',
+                              'ports': { 'container': 'Laem Chabang (8,106,928) (2019)',
                                          'seaport': 'Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TH',
@@ -14381,7 +14382,8 @@ P1_CC2 = \
                               'coast': 7200,
                               'coord': ['39 00 N, 35 00 E'],
                               'popul': 82482383,
-                              'ports': { 'container': 'Ambarli (3,131,621), Mersin (Icel) (1,592,000) (2017)',
+                              'ports': { 'container': 'Ambarli (3,104,882), Mersin (Icel) (1,854,312), Izmet '
+                                                      '(1,715,193) (2019)',
                                          'seaport': 'Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), '
                                                     'Mersin (Icel), Limani, Yarimca'},
                               'region': 'Middle East',
@@ -14552,8 +14554,8 @@ P1_CC2 = \
                               'coast': 1566,
                               'coord': ['23 30 N, 121 00 E'],
                               'popul': 23572052,
-                              'ports': { 'container': 'Kaohsiung (10,271,018), Taichung (1,660,663), Taipei '
-                                                      '(1,561,743) (2017)',
+                              'ports': { 'container': 'Kaohsiung (10,428,634), Taichung (1,793,966), Taipei '
+                                                      '(1,620,392) (2019)',
                                          'seaport': 'Keelung (Chi-lung), Kaohsiung, Hualian, Taichung'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TW',
@@ -14871,8 +14873,8 @@ P1_CC2 = \
                               'coast': 12429,
                               'coord': ['54 00 N, 2 00 W'],
                               'popul': 67081000,
-                              'ports': { 'container': 'Felixstowe (3,849,700), London (2,431,000), Southampton '
-                                                      '(2,040,000) (2017)',
+                              'ports': { 'container': 'Felixstowe (3,584,000), London (2,790,000), Southampton '
+                                                      '(1,924,847) (2019)',
                                          'seaport': 'Dover, Felixstowe, Immingham, Liverpool, London, Southampton, '
                                                     'Teesport (England); Forth Ports (Scotland); Milford Haven '
                                                     '(Wales)'},
@@ -15034,10 +15036,10 @@ P1_CC2 = \
                               'coast': 19924,
                               'coord': ['38 00 N, 97 00 W'],
                               'popul': 334998398,
-                              'ports': { 'container': 'Charleston (2,177,000), Hampton Roads (2,841,000), Houston '
-                                                      '(2,459,000), Long Beach (7,544,000), Los Angeles (9,343,000), '
-                                                      'New York/New Jersey (6,710,000), Oakland (2,420,000), Savannah '
-                                                      '(4,046,000), Seattle/Tacoma (3,665,000) (2017)'},
+                              'ports': { 'container': 'Charleston (2,436,185), Hampton Roads (2,937,962), Houston '
+                                                      '(2,987,291), Long Beach (7,632,032), Los Angeles (9,337,632), '
+                                                      'New York/New Jersey (7,471,131), Oakland (2,500,431), Savannah '
+                                                      '(4,599,177), Seattle/Tacoma (3,775,303) (2019)'},
                               'region': 'North America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:US',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/united-states'},
@@ -15991,7 +15993,8 @@ P1_CC2 = \
                               'coast': 3444,
                               'coord': ['16 10 N, 107 50 E'],
                               'popul': 102789598,
-                              'ports': { 'container': 'Saigon (6,155,535), Cai Mep (3,065,014) (2017)',
+                              'ports': { 'container': 'Saigon (7,220,377), Cai Mep (3,742,384), Haiphong (5,133,150) '
+                                                      '(2019)',
                                          'seaport': 'Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VN',
@@ -16423,7 +16426,7 @@ P1_CC2 = \
                               'coast': 2798,
                               'coord': ['29 00 S, 24 00 E'],
                               'popul': 56978635,
-                              'ports': { 'container': 'Durban (2,699,978) (2017)',
+                              'ports': { 'container': 'Durban (2,769,869) (2019)',
                                          'seaport': 'Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ZA',
@@ -16505,7 +16508,8 @@ P1_CC2 = \
                       '65573',
                       '65574',
                       '65575',
-                      '65576'],
+                      '65576',
+                      '65577'],
           'msisdn': ['27'],
           'name': 'South Africa',
           'url': 'https://en.wikipedia.org/wiki/South_Africa'},

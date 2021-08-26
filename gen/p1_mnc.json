@@ -3059,7 +3059,9 @@
         "GSM 1800",
         "UMTS 2100",
         "LTE 800",
-        "LTE 1800"
+        "LTE 1800",
+        "5G 700",
+        "5G 3500"
       ],
       "brand": "A1",
       "cc2s": [
@@ -3870,6 +3872,7 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
+        "5G 700",
         "5G 2100",
         "5G 3500"
       ],
@@ -4420,13 +4423,13 @@
       "bands": [
         "MVNO"
       ],
-      "brand": "Vectone Mobile",
+      "brand": "Unimobile",
       "cc2s": [
         "CZ"
       ],
       "country": "Czech Republic",
       "ope": false,
-      "operator": "Mundio Distribution Czech Republic s.r.o.",
+      "operator": "Uniphone, s.r.o.",
       "src": "Wikipedia"
     },
     "23098": {
@@ -6807,8 +6810,7 @@
     },
     "24006": {
       "bands": [
-        "UMTS 2100",
-        "5G 3500"
+        "UMTS 2100"
       ],
       "brand": "Telenor",
       "cc2s": [
@@ -6825,8 +6827,7 @@
         "LTE 800",
         "LTE 900",
         "LTE 1800",
-        "LTE 2600",
-        "5G 3500"
+        "LTE 2600"
       ],
       "brand": "Tele2",
       "cc2s": [
@@ -7052,7 +7053,8 @@
         "LTE 800",
         "LTE 900",
         "LTE 1800",
-        "LTE 2600"
+        "LTE 2600",
+        "5G 3500"
       ],
       "brand": "Sweden 2G",
       "cc2s": [
@@ -9231,6 +9233,19 @@
       "operator": "Tismi B.V.",
       "src": "Wikipedia"
     },
+    "24822": {
+      "bands": [
+        "Unknown"
+      ],
+      "brand": "",
+      "cc2s": [
+        "EE"
+      ],
+      "country": "Estonia",
+      "ope": false,
+      "operator": "M2MConnect O\u00dc",
+      "src": "Wikipedia"
+    },
     "24871": {
       "bands": [
         "Unknown"
@@ -10738,13 +10753,13 @@
       "bands": [
         "Unknown"
       ],
-      "brand": "",
+      "brand": "TeleCube.PL",
       "cc2s": [
         "PL"
       ],
       "country": "Poland",
-      "ope": false,
-      "operator": "Polskie Sieci Radiowe Sp. z o.o. Sp. k.a.",
+      "ope": true,
+      "operator": "Claude ICT Poland Sp. z o.o.",
       "src": "Wikipedia"
     },
     "26026": {
@@ -12535,13 +12550,13 @@
         "LTE 1800",
         "LTE 2600"
       ],
-      "brand": "Telekom.al",
+      "brand": "ONE",
       "cc2s": [
         "AL"
       ],
       "country": "Albania",
       "ope": true,
-      "operator": "Telekom Albania",
+      "operator": "One Telecommunications",
       "src": "Wikipedia"
     },
     "27602": {
@@ -12568,7 +12583,7 @@
         "UMTS 2100",
         "LTE 1800"
       ],
-      "brand": "Eagle Mobile",
+      "brand": "ALBtelecom",
       "cc2s": [
         "AL"
       ],
@@ -12616,7 +12631,7 @@
         "MT"
       ],
       "country": "Malta",
-      "ope": true,
+      "ope": false,
       "operator": "YOM Ltd.",
       "src": "Wikipedia"
     },
@@ -13482,9 +13497,11 @@
         "GSM 1800",
         "UMTS 900",
         "UMTS 2100",
+        "LTE 700",
         "LTE 800",
         "LTE 1800",
         "LTE 2100",
+        "5G 700",
         "5G 3500"
       ],
       "brand": "Telemach",
@@ -15608,6 +15625,26 @@
       "src": "Wikipedia"
     },
     "310260": [
+      {
+        "bands": [
+          "GSM 1900",
+          "UMTS 1900",
+          "UMTS 1700",
+          "LTE 850",
+          "LTE 700",
+          "LTE 1900",
+          "LTE 1700",
+          "5G 600"
+        ],
+        "brand": "T-Mobile",
+        "cc2s": [
+          "PR"
+        ],
+        "country": "Puerto Rico",
+        "ope": true,
+        "operator": "T-Mobile US",
+        "src": "Wikipedia"
+      },
       {
         "bands": [
           "GSM 1900",
@@ -23082,7 +23119,7 @@
       ],
       "country": "Former Netherlands Antilles",
       "ope": true,
-      "operator": "United Telecommunication Service N.V. (UTS)",
+      "operator": "Liberty Latin America",
       "src": "Wikipedia"
     },
     "36260": {
@@ -23098,7 +23135,7 @@
       ],
       "country": "Former Netherlands Antilles",
       "ope": true,
-      "operator": "United Telecommunication Service N.V. (UTS)",
+      "operator": "Liberty Latin America",
       "src": "Wikipedia"
     },
     "36263": {
@@ -23225,7 +23262,7 @@
       ],
       "country": "Former Netherlands Antilles",
       "ope": true,
-      "operator": "United Telecommunication Service N.V. (UTS)",
+      "operator": "Liberty Latin America",
       "src": "Wikipedia"
     },
     "36294": {
@@ -24051,7 +24088,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24106,12 +24143,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Delhi & NCR",
       "src": "Wikipedia"
     },
@@ -24125,7 +24162,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24155,7 +24192,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24206,7 +24243,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24223,12 +24260,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Haryana",
       "src": "Wikipedia"
     },
@@ -24242,12 +24279,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Andhra Pradesh and Telangana",
       "src": "Wikipedia"
     },
@@ -24261,7 +24298,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24280,7 +24317,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24345,12 +24382,12 @@
         "TD-LTE-2300",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Kerala",
       "src": "Wikipedia"
     },
@@ -24364,7 +24401,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24397,7 +24434,7 @@
         "TD-LTE 2300",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24427,12 +24464,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Gujarat",
       "src": "Wikipedia"
     },
@@ -24461,12 +24498,12 @@
         "TD-LTE 2300",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Maharashtra & Goa",
       "src": "Wikipedia"
     },
@@ -24506,7 +24543,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24663,7 +24700,7 @@
         "LTE 1800",
         "LTE 2100"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24681,12 +24718,12 @@
         "LTE 1800",
         "LTE 2100"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Karnataka",
       "src": "Wikipedia"
     },
@@ -24719,7 +24756,7 @@
         "TD-LTE-2300",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24856,7 +24893,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -24920,7 +24957,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -25186,7 +25223,7 @@
         "TD-LTE 2300",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -25259,7 +25296,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -25288,12 +25325,12 @@
         "LTE 1800",
         "LTE 2100"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Chennai",
       "src": "Wikipedia"
     },
@@ -25319,7 +25356,7 @@
         "LTE 1800",
         "LTE 2100"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -25338,12 +25375,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Rajasthan",
       "src": "Wikipedia"
     },
@@ -25357,12 +25394,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Punjab",
       "src": "Wikipedia"
     },
@@ -25376,12 +25413,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Uttar Pradesh (East)",
       "src": "Wikipedia"
     },
@@ -26444,12 +26481,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Uttar Pradesh (West)",
       "src": "Wikipedia"
     },
@@ -26463,7 +26500,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -26491,7 +26528,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -26552,7 +26589,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -26569,7 +26606,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -26586,12 +26623,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Bihar & Jharkhand",
       "src": "Wikipedia"
     },
@@ -26605,7 +26642,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -26622,12 +26659,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Himachal Pradesh",
       "src": "Wikipedia"
     },
@@ -26639,7 +26676,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -26659,12 +26696,12 @@
         "TD-LTE 2300",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Madhya Pradesh & Chhattisgarh",
       "src": "Wikipedia"
     },
@@ -26700,12 +26737,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Mumbai",
       "src": "Wikipedia"
     },
@@ -27304,12 +27341,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Assam",
       "src": "Wikipedia"
     },
@@ -27321,12 +27358,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Jammu & Kashmir",
       "src": "Wikipedia"
     },
@@ -27339,12 +27376,12 @@
         "LTE 1800",
         "LTE 2100"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Karnataka",
       "src": "Wikipedia"
     },
@@ -27358,12 +27395,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Kolkata",
       "src": "Wikipedia"
     },
@@ -27375,12 +27412,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "North East",
       "src": "Wikipedia"
     },
@@ -27405,12 +27442,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Odisha",
       "src": "Wikipedia"
     },
@@ -27424,12 +27461,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Punjab",
       "src": "Wikipedia"
     },
@@ -27440,12 +27477,12 @@
         "LTE 1800",
         "LTE 2100"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Tamil Nadu",
       "src": "Wikipedia"
     },
@@ -27459,12 +27496,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "West Bengal",
       "src": "Wikipedia"
     },
@@ -28171,7 +28208,7 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -28190,12 +28227,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Delhi",
       "src": "Wikipedia"
     },
@@ -28207,12 +28244,12 @@
         "LTE 2100",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
       "country": "India",
-      "ope": true,
+      "ope": false,
       "operator": "Haryana",
       "src": "Wikipedia"
     },
@@ -28227,7 +28264,7 @@
         "TD-LTE 2300",
         "TD-LTE 2500"
       ],
-      "brand": "V!",
+      "brand": "Vi India",
       "cc2s": [
         "IN"
       ],
@@ -30572,6 +30609,7 @@
       "bands": [
         "GSM 900",
         "UMTS 2100",
+        "LTE 900",
         "LTE 1800"
       ],
       "brand": "Ncell",
@@ -33950,6 +33988,7 @@
         "UMTS 900",
         "UMTS 2100",
         "LTE 1800",
+        "LTE 2100",
         "TD-LTE 2300",
         "TD-LTE 2500",
         "5G 3500"
@@ -34877,7 +34916,9 @@
         "LTE 1800",
         "LTE 2100",
         "LTE 2600",
-        "5G 3500"
+        "5G 850",
+        "5G 3500",
+        "5G 28000"
       ],
       "brand": "Telstra",
       "cc2s": [
@@ -35925,7 +35966,9 @@
         "GSM 1800",
         "UMTS 2100",
         "LTE 900",
-        "LTE 1800"
+        "LTE 1800",
+        "5G 1800",
+        "5G 2100"
       ],
       "brand": "XL",
       "cc2s": [
@@ -36461,6 +36504,7 @@
         "LTE 900",
         "LTE 1800",
         "LTE 2600",
+        "5G 2100",
         "5G 3500",
         "5G 28000"
       ],
@@ -36492,7 +36536,8 @@
         "UMTS 2100",
         "LTE 1800",
         "LTE 2600",
-        "5G 2100"
+        "5G 2100",
+        "5G 3500"
       ],
       "brand": "M1",
       "cc2s": [
@@ -36511,6 +36556,7 @@
         "LTE 2100",
         "LTE 2600",
         "TD-LTE 2500",
+        "5G 2100",
         "5G 3500"
       ],
       "brand": "StarHub",
@@ -38436,7 +38482,8 @@
         "GSM 900",
         "GSM 1800",
         "UMTS 2100",
-        "LTE 1800"
+        "LTE 1800",
+        "5G 3500"
       ],
       "brand": "my.t",
       "cc2s": [
@@ -40811,12 +40858,14 @@
         "UG"
       ],
       "country": "Uganda",
-      "ope": true,
+      "ope": false,
       "operator": "Suretelecom Uganda Ltd.",
       "src": "Wikipedia"
     },
     "64120": {
-      "bands": "",
+      "bands": [
+        "Unknown"
+      ],
       "brand": "",
       "cc2s": [
         "UG"
@@ -40824,7 +40873,7 @@
       "country": "Uganda",
       "ope": false,
       "operator": "Hamilton Telecom Limited",
-      "src": "ITU-T"
+      "src": "Wikipedia"
     },
     "64122": {
       "bands": [
@@ -42157,6 +42206,19 @@
       "country": "South Africa",
       "ope": true,
       "operator": "Comsol Networks (Pty) Ltd",
+      "src": "Wikipedia"
+    },
+    "65577": {
+      "bands": [
+        "5G"
+      ],
+      "brand": "Umoja Connect",
+      "cc2s": [
+        "ZA"
+      ],
+      "country": "South Africa",
+      "ope": false,
+      "operator": "One Telecom (Pty) Ltd",
       "src": "Wikipedia"
     },
     "65701": {
@@ -44674,7 +44736,7 @@
         "UMTS 2100",
         "LTE 700",
         "LTE 1800",
-        "5G"
+        "5G 3700"
       ],
       "brand": "Telesur",
       "cc2s": [
