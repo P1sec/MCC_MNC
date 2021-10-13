@@ -1,0 +1,941 @@
+                        ITU Operational Bulletin
+                                                          www.itu.int/itu-t/bulletin
+
+       No. 1228              15.IX.2021                   (Information received by 2 September 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                            Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                                Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                                Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                               E-mail: brmail@itu.int
+
+
+
+
+                                                                  Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                      3
+Approval of ITU-T Recommendations ............................................................................................................                           4
+Telephone Service:
+     Kuwait (Communication and Information Technology Regulatory Authority (CITRA), Kuwait City) ........                                                                4
+     Paraguay (Comisión Nacional de Telecomunicaciones (CONATEL), Asunción) .........................................                                                    5
+Other communication:
+     Serbia ........................................................................................................................................................    14
+Service Restrictions ........................................................................................................................................           14
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                      14
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                              15
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                                      16
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................            16
+List of ITU Carrier Codes .................................................................................................................................             17
+List of International Signalling Point Codes (ISPC) .........................................................................................                           18
+National Numbering Plan ...............................................................................................................................                 18
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1229              1.X.2021              15.IX.2021
+               1230             15.X.2021              30.IX.2021
+               1231              1.XI.2021             15.X.2021
+               1232             15.XI.2021             1.XI.2021
+               1233             1.XII.2021             15.XI.2021
+               1234             15.XII.2021            1.XII.2021
+               1235              1.I.2022              10.XII.2021
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                Approval of ITU-T Recommendations
+By AAP-111, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–        ITU-T G.876 (08/2021): Management Requirement and Information Model for the optical media network
+–        ITU-T H.264 (V14) (08/2021): Advanced video coding for generic audiovisual services
+–        ITU-T H.265 (V8) (08/2021): High efficiency video coding
+–        ITU-T Q.4044 (08/2021): Test suite for interoperability testing of virtual switch
+–        ITU-T Q.4068 (08/2021): Open APIs for interoperable testbed federations
+–        ITU-T Q.4101 (08/2021): Hybrid peer-to-peer (P2P) communications: Tree and data recovery procedures
+–        ITU-T Q.5023 (08/2021): Protocol for managing intelligent network slicing with AI-assisted analysis in
+         IMT-2020 network
+–        ITU-T X.1061 (08/2021): Cyber insurance acquisition guideline
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                              url: www.itu.int/itu-t/inr/nnp
+
+Kuwait (country code +965)
+Communication of 30.VIII.2021:
+The Communication and Information Technology Regulatory Authority (CITRA), Kuwait City, announces the
+following update to the National Numbering Plan (NNP) of Kuwait.
+The full Kuwait National Numbering Plan (NNP) Policy is available on CITRA website (http://www.citra.gov.kw).
+                       Presentation of national E.164 numbering plan for country code +965:
+a)       Overview:
+         The minimum number length (excluding the country code) is 3 digits
+         The maximum number length (excluding the country code) is 8 digits
+b)       Detail of numbering scheme:
+
+
+     Leading digits     N(S)N number length
+        of N(S)N
+       (National      Maximum       Minimum           Usage of E.164 number            Additional Information
+      (Significant)    length        length
+        Number)
+           10             3              3         Non-geographic Number           Emergency & Short Numbers
+           11             3              3         Non-geographic Number           Emergency & Short Numbers
+           12             3              3         Non-geographic Number           Emergency & Short Numbers
+           13             3              3         Non-geographic Number           Emergency & Short Numbers
+           14             3              3         Non-geographic Number           Emergency & Short Numbers
+           15             3              3         Non-geographic Number           Emergency & Short Numbers
+           16             3              3         Non-geographic Number           Emergency & Short Numbers
+           17             3              3         Non-geographic Number           Emergency & Short Numbers
+           18             7              7         Non-geographic Number           Corporate Numbers
+            2             8              8         Fixed Telephony Services        MoC
+           41             8              8         Mobile Telephony Services       Virgin
+            5             8              8         Mobile Telephony Services       STC
+            6             8              8         Mobile Telephony Services       Ooredoo
+            9             8              8         Mobile Telephony Services       Zain
+
+All Kuwaiti eight-digit number ranges starting with the digits (41), (5), (6), and (9) are to be considered valid
+numbers in Kuwait’s National Numbering Plan.
+Individual number blocks within these ranges will be allocated to individual licensed operators by CITRA in
+accordance with the National Numbering Plan “NNP” Policy and in response to valid applications received from
+the licensed operators.
+CITRA does not notify ITU-T when it allocates individual number blocks from these ranges to licensed operators.
+Contact:
+           Mr. Zuhair M. AlZuhair
+           Head of Interconnection and Numbering
+           Communication and Information Technology Regulatory Authority (CITRA)
+           P.O. Box 898
+           Safat 13009
+           Kuwait
+           Tel:        +965 22330008
+           Fax:        +965 22330607
+           E-mail:     z.alzuhair@citra.gov.kw
+           URL:        www.citra.gov.kw
+
+
+
+Paraguay (country code +595)
+Communications of 17.VIII.2021:
+The Comisión Nacional de Telecomunicaciones (CONATEL), Asunción, announces the following updates to the
+national ITU-T E.164 numbering plan for Paraguay (in accordance with Recommendation ITU-T E.129).
+                Presentation of ITU-T E.164 National Numbering Plan (NNP) for country code +595
+a)        Overview
+          Minimum number length (excluding the country code):      3        digits
+          Maximum number length (excluding the country code):      9        digits
+b)        Detailed description of the numbering plan:
+
+            NDC                 N(S)N number length
+   (national destination                                     Usage of
+ code) or leading digits of    Maximum      Minimum        ITU-T E.164               Additional information
+      N(S)N [national           length       length          number
+   (significant) number]
+                                                                             Where:
+                                                             National        21 = NDC;
+                                                             number
+     21   X Y Z M C D U          9 digits     9 digits                       XYZMCDU = SN;
+                                                         (basic telephone
+                                                             service)        X  0 y 1;
+                                                                             Assigned to COPACO S.A.
+
+
+
+
+           NDC               N(S)N number length
+  (national destination                                 Usage of
+code) or leading digits of   Maximum     Minimum      ITU-T E.164             Additional information
+     N(S)N [national          length      length        number
+  (significant) number]
+                                                                        Where:
+                                                                        9 = NDC;
+                                                                        XYZWMCDU = SN;
+                                                                        X  0 y 1;
+                                                        Mobile
+9 X Y ZW M C D U              9 digits   9 digits     telephone         Procedure for access to service
+                                                    service number      0 + NDC + SN;
+                                                                        Assigned to TELECEL S.A.E.,
+                                                                        NÚCLEO S.A., AMX PARAGUAY
+                                                                        S.A., HOLA PARAGUAY S.A.,
+                                                                        COPACO S.A.
+                                                                        Where: W  0;
+                                                      IP telephone
+8 WXYZ          M C D U       9 digits   9 digits                       Procedure for access to Service:
+                                                         service
+                                                                        8 + WXYZMCDU
+                                                    Non-geographic      Where:
+                                                        services        600 = NDC y ABC = SN;
+        600 ABC               6 digits   6 digits
+                                                      (access to        Procedure for access to Service:
+                                                       Internet)        0 + 600 + ABC
+                                                                        Where:
+                                                    Non-geographic      800 = NDC;
+  800    A B C D E F          9 digits   9 digits       services        SN = ABCDEF;
+                                                     (collect calls)    Procedure for access to service:
+                                                                        0 + 800 + ABCDEF
+                                                     Non-geographic     Procedure for access to service:
+   9 0 A       B C D E        7 digits   7 digits       services        0 + 90A + BCDE
+                                                    (audiotext voice)
+
+        A B C D                                     Non-geographic
+                                                       services         Procedure for access to service:
+           or                 5 digits   4 digits
+                                                      (audiotext        ABCD or ABCDE
+        ABCDE                                         messages)
+
+
+
+
+           NDC               N(S)N number length
+  (national destination                                Usage of
+code) or leading digits of   Maximum     Minimum     ITU-T E.164           Additional information
+     N(S)N [national          length      length       number
+  (significant) number]
+                                                                     The following numbers will be held
+                                                                     in reserve. There will be one
+                                                                     assignment for all telephone
+                                                                     networks:
+                                                                     0BC, 21C, 25C, 27C, 28C, 29C, 31C,
+                                                                     33C, 34C, 35C, 37C, 38C, 39C, 41C,
+                                                                     42C, 47C, 48C, 49C, 51C, 52C, 53C,
+                                                                     54C, 56C, 57C, 58C, 59C, 60C, 62C,
+                                                                     63C, 66C, 67C, 68C, 69C, 70C, 71C,
+                                                                     74C, 75C, 76C, 79C, 80C, 81C, 82C,
+                                                                     83C, 84C, 85C, 87C, 89C, 90C, 91C,
+                                                                     92C, 93C, 94C, 95C, 96C, 97C, 98C;
+                                                                     B and C = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9;
+                                                    Non-geographic
+                                                                     The following 260 numbers are
+                                                       services
+                                                                     assigned for use at the discretion
+                                                     Unstructured    of telephone providers. The
+          ABC                 3 digits   3 digits
+                                                    supplementary    assignment may be different for
+                                                     service data    each telephone network:
+                                                        (USSD)
+                                                                     11C, 12C, 13C, 14C, 20C, 22C, 23C,
+                                                                     24C, 26C, 30C, 32C, 36C, 40C, 43C,
+                                                                     44C, 45C, 46C, 50C, 61C, 64C, 65C,
+                                                                     72C, 73C, 78C, 86C, 88C;
+                                                                     C = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9;
+                                                                     The following 50 numbers are
+                                                                     assigned for the exclusive use of
+                                                                     public entities and/or matters of
+                                                                     national social interest. There will
+                                                                     be one assignment for all
+                                                                     telephone networks:
+                                                                     15C, 16C, 17C, 18C, 19C;
+                                                                     C = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+                                                                     Where A B = 10, 55, 77, 99
+                                                                     C = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9;
+                                                                     40 numbers will be designated for
+                                                                     user access and progress of PUSH
+                                                                     instructions for wallets managed
+                                                                     by CONATEL;
+                                                    Non-geographic   The use of the numbering resource
+                                                       services      for electronic payment companies
+                                                     Unstructured    will be exclusively for the mobile
+                                                    supplementary    financial services;
+          ABC                 3 digits   3 digits    service data    Procedure for access to service:
+                                                      (USSD) for     (*) + (Service code) + [+(*)…] + (#)
+                                                      electronic     + (SEND);
+                                                       payment       Note:
+                                                      companies      Asterisks (*) and hashtags (#) are
+                                                                     used for the beginning and end of
+                                                                     the instructions respectively.
+                                                                     e.g.: * A B C #.
+                                                                     Intermediate asterisks (*) are for
+                                                                     selecting functions.
+                                                                     e.g.: * ABC * D… E*…*F…G#.
+
+            NDC                 N(S)N number length
+   (national destination                                           Usage of
+ code) or leading digits of     Maximum         Minimum          ITU-T E.164             Additional information
+      N(S)N [national            length          length            number
+   (significant) number]
+                                                                                   Where A B = 10, 55, 77, 99
+                                                                                   C = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9;
+                                                              Non-geographic       40 numbers will be designated for
+                                                                 services          user access and progress of PUSH
+                                                              SMS service for      instructions for wallets managed
+             ABC                 3 digits        3 digits
+                                                                electronic         by CONATEL;
+                                                                 payment           The use of the numbering resource
+                                                                companies          for electronic payment companies
+                                                                                   will be exclusively for the mobile
+                                                                                   financial services.
+                                                             Non-geographic
+                                                                   services
+                                                                SMS Service
+                                                               (broadcasting       The length of the SMS format and
+          ABC                                                and information       the preferred number will be
+                                                              services, alerts     indicated when making the
+           or
+                                                             and/or services       request to CONATEL, which will
+         ABCDEF                  7 digits        3 digits
+                                                                that include       evaluate its availability and
+           or
+                                                                interactivity      assignment. There will be one
+        ABCDEFG                                                  with users,       assignment for all telephone
+                                                                  excluding        networks.
+                                                                 audiotext
+                                                                  message
+                                                                  services)
+             1 X Y               3 digits        3 digits    Special services      Where X = 1, 2,…,9
+Identification code for basic long-distance service provider
+The identification code for the basic long-distance service provider consists of two (2) digits, as follows:
+
+                                            Service provider identification code
+                                                            QR
+                                     Where Q  0, 1, 8 and 9; P and R  0 and 9
+
+The service provider identification code is not part of the numbering structure and will be dialled after the
+prefix 00 for each international long-distance call.
+Procedure for dialling international long-distance calls
+
+                                             00 + Q R + international number
+
+Note:
+         –     Q R will be used when there is more than one provider for the basic international long-distance
+               service.
+
+
+Procedure for making freephone calls
+               National calls
+
+                                     101 + 0 + mobile telephone service number
+
+
+
+
+              International long-distance calls
+
+                          100 + 00 + Q R + international number for destination country
+
+Use of special characters
+The assignment of the special characters (asterisk * and hashtag #) to the unstructured supplementary service
+data (USSD), whose structure is defined as *ABC#, will be regulated by the Basic Technical National Numbering
+Plan.
+The assignment and use of other special characters (asterisk * and hashtag #) not included in the provisions of
+the Basic Technical National Numbering Plan regulating USSD remain at the discretion of telephone service
+providers. Although the assignment and use of these special characters is not regulated, they may NOT be used
+in tariffed communications.
+
+
+       Description of deletion of resources for national E.164 numbering plan for country code +595:
+
+ NDC (national destination code) or
+  leading digits of N(S)N [national                Usage of E.164 number           Time and date of deletion
+       (significant) number]
+                                            National number (basic telephone         Directorate Resolution
+      A B E    X Y      M C D U
+                                                        service)                         No. 1626/2011
+                                                                                     Directorate Resolution
+                  109                             Local freephone number
+                                                                                         No. 1626/2011
+                                                                                     Directorate Resolution
+       X 0 A     B C D E F G                      Non-geographic services
+                                                                                         No. 1626/2011
+
+
+                     Presentation of important numbers related to emergency services and
+                                        other services of social value:
+
+                                                                              ITU-T E.164
+ Important                                                                     number or
+                            Service                Allocated or Assigned                          Note
+  Number                                                                     national-only
+                                                                                number
+                                                                                              Directorate
+                                                                             National-only
+     111                    Helpline              CUSTOMER CARE CENTRES                       Resolution
+                                                                               number
+                                                                                             No. 0256/1999
+                     National information                                    National-only     Information
+     112                                          ENQUIRIES (COPACO S.A.)
+                           service                                             number             service
+                     National information            TELEPHONOGRAM           National-only     Information
+     117
+                           service                     (COPACO S.A.)           number             service
+                                                  COMPLAINTS REGARDING
+                     National information                                    National-only     Information
+     118                                            TELEPHONE SERVICE
+                           service                                             number             service
+                                                       (COPACO S.A.)
+                     National information          BILLING INFORMATION       National-only     Information
+     119
+                           service                      (COPACO S.A.)          number             service
+                     National information                                    National-only     Information
+     123                                            CITSA (COPACO S.A.)
+                           service                                             number             service
+                     National information                                    National-only     Information
+     124                                            TESYS (COPACO S.A.)
+                           service                                             number             service
+                     National information              OFFICIAL TIME         National-only     Information
+     125
+                           service                     (COPACO S.A.)           number             service
+
+
+
+
+                                                                     ITU-T E.164
+Important                                                             number or
+                      Service            Allocated or Assigned                           Note
+ Number                                                             national-only
+                                                                       number
+                                       SERVICE FOR ANSWERING                          Directorate
+                                         AND RESPONDING TO          National-only     Resolution
+   128           Emergency service
+                                          EMERGENCY CALLS,            number        Nos. 0551/2000
+                                           MERCOSUR AREA                            and 1151/2003
+                                                                                     Directorate
+                                                                    National-only
+   130           Emergency service              POLICE                               Resolution
+                                                                      number
+                                                                                    No. 0039/1998
+                                                                                     Directorate
+                                                                    National-only
+   131           Emergency service       POLICE FIRE SERVICE                         Resolution
+                                                                      number
+                                                                                    No. 0039/1998
+                                                                                      Directorate
+                                       PARAGUAYAN VOLUNTEER         National-only     Resolution
+   132           Emergency service
+                                            FIRE SERVICE              number        Nos. 039/1998
+                                                                                    and 1696/2004
+                                                                                     Directorate
+                                        OFFICE OF THE PUBLIC        National-only
+   133                Helpline                                                       Resolution
+                                             DEFENDER                 number
+                                                                                    No. 2778/2019
+                                                                                     Directorate
+                National information        HIGH COURT OF           National-only
+   134                                                                               Resolution
+                      service             ELECTORAL JUSTICE           number
+                                                                                    No. 2874/2020
+                                                                                      Directorate
+                                        STATE OF EMERGENCY                            Resolution
+                                          DECLARED BY ACT           National-only   Nos. 0039/1998;
+   135                Helpline
+                                           No. 3.159/2007             number          0288/2007;
+                                         (DENGUE EPIDEMIC)                          0510/2013 and
+                                                                                      0879/2013
+                                                                                      Directorate
+                                           MINISTRY OF THE          National-only
+   136                Helpline                                                        Resolution
+                                              INTERIOR                number
+                                                                                     No. 878/2020
+                                                                                     Directorate
+                                                                    National-only
+   137                Helpline          MINISTRY FOR WOMEN                           Resolution
+                                                                      number
+                                                                                    No. 1438/2011
+                                                                                      Directorate
+                                         MINISTRY OF PUBLIC
+                                                                    National-only     Resolution
+   138                Helpline           HEALTH AND SOCIAL
+                                                                      number         No. 815/2021
+                                              WELFARE
+                                                                                      (500/2021)
+                                                                                     Directorate
+                                         PUBLIC PROSECUTION         National-only
+   139                Helpline                                                       Resolution
+                                               SERVICE                number
+                                                                                    No. 1697/2004
+                                                                                     Directorate
+                                                                    National-only
+   140           Emergency service             FIRST AID                             Resolution
+                                                                      number
+                                                                                    No. 0039/1998
+                                        Service of the emergency
+                                                                                     Directorate
+                                       response centre under the    National-only
+   141           Emergency service                                                   Resolution
+                                        Ministry of Public Health     number
+                                                                                    No. 0941/2008
+                                           and Social Welfare
+                                                                                     Directorate
+                                                                    National-only
+   142           Emergency service        CLINICAL HOSPITAL                          Resolution
+                                                                      number
+                                                                                    No. 0039/1998
+
+
+                                                                   ITU-T E.164
+Important                                                           number or
+                           Service        Allocated or Assigned                       Note
+ Number                                                           national-only
+                                                                     number
+                                                                                   Directorate
+                 National information       GENERAL NAVAL         National-only
+   143                                                                             Resolution
+                       service               PREFECTURE             number
+                                                                                  No. 0141/2014
+                                                                                   Directorate
+                                                                  National-only
+   144            Emergency service       NATIONAL HOSPITAL                        Resolution
+                                                                    number
+                                                                                  No. 0039/1998
+                                                                                   Directorate
+                                         NATIONAL SEARCH AND      National-only
+   145            Emergency service                                                Resolution
+                                            RESCUE SERVICE          number
+                                                                                  No. 1772/2004
+                                                                                   Directorate
+                                          CANCER AND BURNS        National-only
+   146                 Helpline                                                    Resolution
+                                              HOSPITAL              number
+                                                                                  No. 0039/1998
+                                           HELPLINE OF THE                          Directorate
+                                         NATIONAL SECRETARIAT     National-only     Resolution
+   147                 Helpline
+                                          FOR CHILDREN AND          number        Nos. 1133/2006
+                                             ADOLESCENTS                          and 1604/2006
+                                                                                   Directorate
+                                                                  National-only
+   148            Emergency service        MILITARY HOSPITAL                       Resolution
+                                                                    number
+                                                                                  No. 0039/1998
+                                                                                   Directorate
+                                          PARAGUAYAN SUICIDE      National-only
+   149                 Helpline                                                    Resolution
+                                        PREVENTION ASSOCIATION      number
+                                                                                  No. 0940/2008
+                                                                                   Directorate
+                                                                  National-only
+   150            Emergency service         POLICE HOSPITAL                        Resolution
+                                                                    number
+                                                                                  No. 0039/1998
+                                              MINISTRY OF
+                                                                                   Directorate
+                 National information      INFORMATION AND        National-only
+   151                                                                             Resolution
+                       service              COMMUNICATION           number
+                                                                                  No. 864/2021
+                                             TECHNOLOGIES
+                                                                                   Directorate
+                                            SOCIAL SECURITY       National-only
+   152            Emergency service                                                Resolution
+                                               INSTITUTE            number
+                                                                                  No. 0039/1998
+                                          MINISTRY OF PUBLIC                       Directorate
+                                                                  National-only
+   153            Emergency service       HEALTH –TRAUMA                           Resolution
+                                                                    number
+                                              HOSPITAL                            No. 1187/2016
+                                          MINISTRY OF PUBLIC                       Directorate
+                                                                  National-only
+   154                 Helpline           HEALTH – COVID-19                        Resolution
+                                                                    number
+                                            PROGRAMME                             No. 519/2020
+                                                                                   Directorate
+                                         MINISTRY OF HEALTH –     National-only
+   155                 Helpline                                                    Resolution
+                                           MENTAL HEALTH            number
+                                                                                  No. 1539/2021
+                                                                                   Directorate
+                 National information    NATIONAL ELECTRICITY     National-only
+   160                                                                             Resolution
+                       service             ADMINISTRATION           number
+                                                                                  No. 0039/1998
+                                                                                    Directorate
+                 National information   DIRECTORATE GENERAL OF    National-only     Resolution
+   161
+                       service                  POSTS               number        Nos. 0620/2000
+                                                                                  and 0049/2010
+
+
+
+                                                                                 ITU-T E.164
+ Important                                                                        number or
+                            Service                Allocated or Assigned                             Note
+  Number                                                                        national-only
+                                                                                   number
+                                                                                                 Directorate
+                     National information         PARAGUAYAN SANITARY           National-only
+    162                                                                                          Resolution
+                           service                  SERVICES COMPANY              number
+                                                                                                No. 0039/1998
+                                                                                                 Directorate
+                     National information            NATIONAL ANTI-             National-only
+    163                                                                                          Resolution
+                           service               CORRUPTION SECRETARIAT           number
+                                                                                                No. 0896/2013
+                                                                                                 Directorate
+                     National information                                       National-only
+    164                                                MUNICIPALITY                              Resolution
+                           service                                                number
+                                                                                                No. 0039/1998
+                                                                                                 Directorate
+                                                      CUSTOMER CARE             National-only
+    170                    Helpline                                                              Resolution
+                                                     CENTRE – CONATEL             number
+                                                                                                No. 0264/2015
+                                                                                                  Directorate
+                     National information         DIRECTORATE OF SOCIAL         National-only     Resolution
+    171
+                           service               WELFARE AND ASSISTANCE           number        Nos. 0520/1999
+                                                                                                and 0069/2010
+                                                                                                 Directorate
+                                                   NATIONAL ANTI-DRUG           National-only
+    172                    Helpline                                                              Resolution
+                                                  SECRETARIAT– HELPLINE           number
+                                                                                                No. 2375/2018
+                                                   NATIONAL ANTI-DRUG                            Directorate
+                     National information                                       National-only
+    173                                               SECRETARIAT –                              Resolution
+                           service                                                number
+                                                       COMPLAINTS                               No. 2408/2018
+                                                                                                  Directorate
+                     National information        DIRECTORATE GENERAL OF         National-only
+    174                                                                                           Resolution
+                           service                  THE CIVIL REGISTRY            number
+                                                                                                 No. 109/2019
+                                                     ACCESS TO THE
+                                                                                                 Directorate
+                     National information         COMPLAINTS CENTRE OF          National-only
+    175                                                                                          Resolution
+                           service                  THE CIVIL SERVICE             number
+                                                                                                No. 0866/2011
+                                                      SECRETARIAT
+                                                                                                 Directorate
+                     National information        Social Affairs Office of the   National-only
+    177                                                                                          Resolution
+                           service               President of the Republic        number
+                                                                                                No. 1095/2014
+                                                                                                 Directorate
+                                                  Social Security Institute –   National-only
+    179                    Helpline                                                              Resolution
+                                                     customer services            number
+                                                                                                No. 2085/2020
+                                                                                                  Directorate
+                                                  Social Security Institute –   National-only
+    180                    Helpline                                                               Resolution
+                                                    COVID-19 pandemic             number
+                                                                                                 No. 527/2020
+
+Contact:
+           Mr Alejandro Godoy
+           Comisión Nacional de Telecomunicaciones (CONATEL)
+           Presidente Franco N°780 y Ayolas – Edificio Ayfra – 16º Piso
+           ASUNCIÓN
+           Paraguay
+           Tel:        +595 21 432 2601
+           E-mail:     agodoy@conatel.gov.py
+           URL:        www.conatel.gov.py/conatel/
+
+
+
+
+            Description of implementation of number portability of ITU-T E.164 numbers in the NNP:
+
+                            Geographic     Non-geographic                          Mobile numbers
+                             numbers       numbers other
+                                             than mobile
+                                               numbers
+                                         (e.g. premium rate
+                                         services, freephone
+                                               services)
+ State of NP                    -                 -            Implemented in 2012
+ Regulatory                     -                 -            YES
+ obligation for
+ operators to
+ implement NP?
+ Type of NP                     -                 -            (ACQ, all call query)
+ implementation
+ Limitations                    -                 -                                      -
+ Specifications                 -                 -            https://www.conatel.gov.py/conatel/portabilidad/
+ available on website
+ Contact information                                           Gerencia de Servicios de Telecomunicaciones
+ for                                                           Tel.:        +595 21 438 2601
+ nationalAdministrati                                          E-mail:      agodoy@conatel.gov.py
+ on/Numbering Plan
+ Administrator (NPA)
+ Central reference                                             Inetum for NP in Paraguay
+ database (CRDB)                                               Postal address:
+                                                               Travesía de la Costa Brava 4,
+                                                               28034, Madrid – Spain
+                                                               NPA E-mail: patricia.sanchezortega@inetum.world
+                                                                              marceloe.comino@inetum.world
+NP = Number portability
+
+Contact:
+           Mr Luis Alberto Cardozo Giménez
+           Comisión Nacional de Telecomunicaciones (CONATEL)
+           Presidente Franco N°780 y Ayolas – Edificio Ayfra
+           ASUNCIÓN
+           Paraguay
+           Tel:        +595 21 438 2606
+           E-mail:     luis.cardozo@conatel.gov.py
+
+
+
+
+                                        Other communications
+
+Serbia
+Communications of 13.VIII.2021:
+On the occasion of the event "Novi Sad – European Capital of Culture", to be held in 2022, the Serbian
+Administration authorizes radio stations of the Amateur Radio Union "Novi Sad" to use the special call sign
+YU2022NS from 15 August to 30 December 2021.
+On the occasion of the celebration of the Serbian army's battles (1914), the Serbian Administration authorizes
+radio stations of the Amateur Radio Union "Belgrade Amateur Radio Club YU1ANO" to use the special call signs
+YT1914CER, YT1914DRI and YT1915KOL from 15 August to 30 November 2021.
+
+
+
+
+                                          Service Restrictions
+                                  See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+   Country/geographical area       OB
+
+  Seychelles                1006 (p.13)
+  Slovakia                  1007 (p.12)
+  Malaysia                  1013 (p.5)
+  Thailand                  1034 (p.5)
+  São Tomé and Principe     1039 (p.14)
+  Uruguay                   1039 (p.14)
+  Hong Kong, China          1068 (p.4)
+  Ukraine                   1148 (p.5)
+
+
+
+
+                                         Call-Back
+                 and alternative calling procedures (Res. 21 Rev. PP-06)
+                               See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                             Abbreviations used
+                               ADD   Insert                     PAR    Paragraph
+                               COL   Column                     REP    Replace
+                               LIR   Read                       SUP    Delete
+                               P     Page(s)
+
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2021
+
+                                               Section VI
+REP
+      IA11            PT. Jagat Samudera Perkasa, Jl. Abdul Muis No. 50, 3A Floor,
+                      Jakarta 10160, Indonesia.
+                      E-mail: igde.sukanadi@jagatsamperkasa.com,
+                      Tel: +62 21 3505350, +62 21 3505355, Fax: +62 21 3847683,
+                      Contact Person: I Gde Rai Sukanadi.
+
+
+
+
+                                List of Issuer Identifier Numbers for
+                        the International Telecommunication Charge Card
+                  (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                   (Position on 1 December 2018)
+                              (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                               (Amendment No. 54)
+France            ADD
+   Country/        Company Name/Address              Issuer        Contact                                      Effective
+ geographica                                       Identifier                                                    date of
+    l area                                          Number                                                       usage
+ France            Airnity SAS                     89 883 10       Roaming department,                         6.VIII.2021
+                   751 chemin de Pigranel                          Airnity SAS
+                   06250 MOUGINS                                   751 chemin de Pigranel
+                                                                   06250 MOUGINS
+                                                                   E-mail: roaming@airnity.com
+Colombia          ADD
+   Country/        Company Name/Address              Issuer        Contact                                      Effective
+ geographica                                       Identifier                                                    date of
+    l area                                          Number                                                       usage
+ Colombia          SUMA MÓVIL S.A.S.               89 57 287       Departamento Legal,                         22.VI.2021
+                   Carrera 7 No. 19-48                             SUMA MÓVIL S.A.S.
+                   Edificio Banco Popular                          Carrera 7 No. 19-48 Edificio Banco
+                   piso 6                                          Popular piso 6
+                   PERERIA                                         PERERIA
+                                                                   Tel:     +57 3206754137
+                                                                   E-mail: legal.co@sumamovil.com
+
+
+ Mobile Network Codes (MNC) for the international identification plan
+                for public networks and subscriptions
+        (According to Recommendation ITU-T E.212 (09/2016))
+                   (Position on 15 December 2018)
+
+                         (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                          (Amendment No. 61)
+
+
+      Country/Geographical area           MCC+MNC *             Operator/Network
+      Australia       ADD
+                                               505 54           Nokia Solutions and Networks Australia Pty Ltd
+      Canada            ADD
+                                               302 350          Naskapi Imuun Inc.
+      South Africa    ADD
+                                               655 03           Telkom SA SOC Ltd
+
+
+  ____________
+  *       MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                            (Amendment No. 122)
+
+
+ Country or area/ISO code                    Company Code      Contact
+  Company Name/Address                       (carrier code)
+
+
+
+
+Germany (Federal Republic of) / DEU           ADD
+
+
+ Clevernet GmbH                                 CLEVER                Mr Gregor Tuerpe
+ Wilhelm-Sammet-Strasse 37                                            Tel.:  +49 341 233877 0
+ D-04157 LEIPZIG                                                      Fax:   +49 341 233877 99
+                                                                      Email: info@clevernet.de
+
+
+ Paketsparer GmbH                               PAKSPA                Mr Jens Grallert
+ Grossbeerenstrasse 2 - 10                                            Tel.:   +49 30 206143 862
+ D-12107 BERLIN                                                       Fax:    +49 30 206143 650
+                                                                      Email: schaltung-tk@primaholding.de
+
+ Stadtwerke Stassfurt GmbH                      SFTNET                Mr Eugen Keller
+ Athenslebener Weg 15                                                 Tel.:  +49 3925 960 0
+ D-39418 STASSFURT                                                    Fax:   +49 3925 960 292
+                                                                      Email: info@sw-stassfurt.de
+
+
+ The Cloud Networks Germany GmbH                 TCNG                 Mr Achim Moehrlein
+ Leuchtenbergring 3                                                   Tel.:  +49 89 419422 147
+ D-81677 MUNICH                                                       Fax:   +49 89 419422 111
+                                                                      Email: info@thecloud.eu
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 22)
+
+
+ Country/Geographical Area
+ ISPC          DEC                       Unique name of the signalling point        Name of the signalling point operator
+
+
+ Switzerland SUP
+ 2-057-7       4559                      Zürich                                     Calltrade Carrier Services AG
+ 2-058-3       4563                      Zürich                                     Calltrade Carrier Services AG
+ 2-062-3       4595                      Zürich                                     Calltrade Carrier Services AG
+ 2-063-3       4603                      Zürich                                     Calltrade Carrier Services AG
+
+____________
+ISPC:  International Signalling Point Codes.
+       Codes de points sémaphores internationaux (CPSI).
+       Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                         Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.VIII.2021, the following countries/geographical areas have updated their national numbering plan on
+our site:
+
+
+                             Country/Geographical area                         Country Code (CC)
+                  Azerbaijan                                                         +994
+                  Iran (Islamic Republic of)                                         +98
+                  Malta                                                              +356
+                  Papua New Guinea                                                   +675
+
+
+
+

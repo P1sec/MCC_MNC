@@ -1,0 +1,1047 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1229             1.X.2021                    (Information received by 17 September 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                               3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+Assignment of Signalling Area/Network Codes (SANC): Note from TSB ........................................................                                        4
+Telephone Service:
+     Greece (Hellenic Telecommunications & Post Commission (EETT), Athens) ............................................                                           5
+Service Restrictions ........................................................................................................................................    18
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                               18
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                       19
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                               19
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................     20
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                     20
+List of International Signalling Point Codes (ISPC) .........................................................................................                    21
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1230             15.X.2021              30.IX.2021
+               1231              1.XI.2021             15.X.2021
+               1232             15.XI.2021             1.XI.2021
+               1233             1.XII.2021             15.XI.2021
+               1234             15.XII.2021            1.XII.2021
+               1235              1.I.2022              10.XII.2021
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                  Approval of ITU-T Recommendations
+By AAP-112, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T G.988 (2017) Amd. 4 (09/2021): ONU management and control interface (OMCI) specification:
+        Amendment 4
+–       ITU-T G.9804.2 (09/2021): Higher Speed Passive Optical Networks: Common Transmission Convergence
+        layer Specification
+–       ITU-T G.9804.3 (09/2021): 50-Gigabit-capable passive optical networks (50G-PON): Physical media
+        dependent (PMD) layer specification
+–       ITU-T Y.2246 (09/2021): Smart Farming Education Service based on u-learning environment
+–       ITU-T Y.2501 (09/2021): Computing Power Network - framework and architecture
+–       ITU-T Y.3077 (09/2021): Framework for interworking of heterogeneous application domain connected
+        objects through information-centric networking in IMT-2020
+–       ITU-T Y.3527 (09/2021): Cloud computing - End-to-end fault and performance management framework
+        of network services in inter-cloud
+
+By TSB Circular 341 of 8 September 2021, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+–       ITU-T X.1233 (09/2021): Guidelines for countering spam over instant messaging
+
+
+
+
+                    Assignment of Signalling Area/Network Codes (SANC)
+                         (Recommendation ITU-T Q.708 (03/1999))
+
+Note from TSB
+At the request of the Administration of Thailand, the Director of TSB has assigned the following signalling
+area/network code (SANC) for use in the international part of the signalling system No. 7 network of this
+country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/1999):
+
+                                    Country/geographical area or signalling network             SANC
+
+                                    Thailand                                                   5-136
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                            Telephone Service
+                                       (Recommendation ITU-T E.164)
+                                             url: www.itu.int/itu-t/inr/nnp
+
+   Greece (country code +30)
+   Communications of 9.IX.2021 and 17.IX.2021:
+   The Hellenic Telecommunications & Post Commission (EETT), Athens, announces the following national
+   numbering plan of Greece.
+                     Presentation of national ITU-T E.164 numbering plan for country code +30:
+
+   a)     Overview:
+          The minimum number length (excluding the country code) is           3    digits.
+          The maximum number length (excluding the country code) is           10   digits.
+
+   b)     Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the
+             national numbering plan:
+          https://eregpublic.eett.gr/searchnum.php?lan=en
+
+   c)     Link to the real-time database reflecting ported ITU-T E.164 numbers:
+          http://www.foritotita.gr/?page_id=504&lang=en
+
+   d)     Detail of numbering plan:
+
+NDC (national destination       N(S)N number length
+code) or leading digits of                                                                             Additional
+                               Maximum     Minimum              Usage of E.164 number
+     N(S)N (national                                                                                  information
+                                length      length
+  (significant) number)
+1                                 6            3        Emergency service numbers, social
+                                                        value services, directory enquiries
+                                                        services, value added services,
+                                                        commercial numbers, public services
+2+NDC (NDC’s and                  10          10        Geographic numbers
+corresponding
+geographic areas follow
+in a separate table)
+40-42                             10          10        M2M services
+50                                10          10        Virtual private network numbers
+70                                10          10        Personal numbers
+690−1,                            10          10        Mobile numbers
+693−5,
+697−9,
+685−9
+800                               10          10        Freephone services
+801                               10          10        Shared cost services (Maximum price
+                                                        that of calls to domestic geographic
+                                                        numbers)
+807                               7           7         Prepaid cards numbers
+Numbering ranges                  10          10        Value added services (charged
+806, 812, 825, 850, 875                                 0.06 euro/min, 0,12 euro/min,
+                                                        0.25 euro/min, 0.50 euro/min and
+                                                        0.75 euro/min respectively)
+896 and 899                       10          10        Dial up numbers
+90                                10          10        Value added services
+
+
+
+
+NDC’s according to the NNP:
+          Geographic Area     NDC
+ ATHENS                       1
+ HALKIDA                      221
+ KYMI                         222
+ ALIVERI                      223
+ KARYSTOS                     224
+ LOUTRA AIDIPSOU              226
+ MANTOUDI                     227
+ PSACHNA                      228
+ ERETRIA                      229
+ LAMIA                        231
+ DOMOKOS                      232
+ ATALANTI                     233
+ AMFIKLEIA                    234
+ KAM.VOURLA                   235
+ MAKRAKOMI                    236
+ KARPENISI                    237
+ STILIDA                      238
+ RHODES                       241
+ KOS                          242
+ KALIMNOS                     243
+ ARCHAGELOS                   244
+ KARPATHOS                    245
+ SALAKOS                      246
+ LEROS                        247
+ MITILINI                     251
+ AGIASOS                      252
+ KALLONI                      253
+ MIRINA                       254
+ LIVADEIA                     261
+ THIVA                        262
+ VILIA                        263
+ DOMVRENA                     264
+ AMFISSA                      265
+ LIDORIKI                     266
+ DISTOMO                      267
+ ALIARTOS                     268
+ CHIOS                        271
+ KARDAMILA                    272
+ SAMOS                        273
+ VOLISSOS                     274
+ AG. KIRIKOS                  275
+ SIROS                        281
+ ANDROS                       282
+ TINOS                        283
+ PAROS                        284
+ NAXOS                        285
+ THIRA                        286
+ MILOS                        287
+ KEA                          288
+ MIKONOS                      289
+ LAGONISI                     291
+ LAVRION                      292
+ AG. SOTIRA                   293
+ RAFINA                       294
+ AFIDNES                      295
+
+         Geographic Area   NDC
+MEGARA                     296
+AEGINA                     297
+POROS                      298
+MARKOPOULO                 299
+THESSALONIKI               31
+SERRES                     321
+NIGRITA                    322
+SIDIROKASTRO               323
+N. ZICHNI                  324
+HERAKLEIA                  325
+RODOPOLI                   327
+VEROIA                     331
+NAOUSA                     332
+ALEXANDRIA                 333
+KILKIS                     341
+POLIKASTRO                 343
+KATERINI                   351
+PLAKA                      352
+AEGINIO                    353
+POLYGYROS                  371
+ARNEA                      372
+N. MOUDANIA                373
+KASSANDREIA                374
+NIKITAS                    375
+STRATONI                   376
+IERISSOS                   377
+EDESSA                     381
+GIANNITSA                  382
+ARIDEA                     384
+FLORINA                    385
+AMYNTEO                    386
+CHLKIDONA                  391
+PEREA                      392
+LAGADIKIA                  393
+LAGADAS                    394
+SOCHOS                     395
+VASILIKA                   396
+ASPROVALTA                 397
+N. KALLIKRATEIA            399
+LARISSA                    41
+VOLOS                      421
+ALMYROS                    422
+KALA NERA                  423
+SKOPELOS                   424
+VELESTINO                  425
+ZAGORA                     426
+SKIATHOS                   427
+VOLOS                      428
+TRIKALA                    431
+KALABAKA                   432
+FARKADONA                  433
+PYLI                       434
+KARDITSA                   441
+SOFADES                    443
+PALAMAS                    444
+MOUZAKI                    445
+
+         Geographic Area   NDC
+KOZANI                     461
+GREVENA                    462
+PTOLEMAIDA                 463
+SERVIA                     464
+SIATISTA                   465
+KASTORIA                   467
+NEAPOLI KOZANIS            468
+FARSALA                    491
+TYRNAVOS                   492
+ELASSONA                   493
+AGIA                       494
+MAKRYCHORI                 495
+KAVALA                     51
+DRAMA                      521
+PROSOTSANI                 522
+K. NEVROKOPI               523
+PARANESTI                  524
+KOMOTINI                   531
+SAPES                      532
+XYLAGANI                   533
+IASMOS                     534
+KALLISTI                   535
+XANTHI                     541
+STAVROUPOLI                542
+ECHINOS                    544
+ALEXANDROUPOLI             551
+ORESTIADA                  552
+DIDYMOTICHO                553
+SOUFLI                     554
+FERES                      555
+KYPRINOS                   556
+CHRYSOUPOLI                591
+ELEFTHEROUPOLI             592
+LIMENARI                   593
+N. PERAMOS                 594
+PATRA                      61
+PYRGOS                     621
+AMALIADA                   622
+LECHENA                    623
+ANC. OLYMPIA               624
+KRESTENA                   625
+ANDRITSENA                 626
+MESSOLOGI                  631
+AITOLIKO                   632
+NAFPAKTOS                  634
+MATARAGA                   635
+AGRINIO                    641
+AMFILOCHIA                 642
+VONITSA                    643
+THERMO                     644
+LEFKADA                    645
+FYTIES                     646
+N. CHALKIOPOULO            647
+IOANNINA                   651
+KARIES                     653
+PERDIKA                    654
+KONITSA                    655
+         Geographic Area   NDC
+TAMPOURIA                  656
+DELVINAKI                  657
+ZITSA                      658
+KALENTZI                   659
+CORFU                      661
+LEFKIMI                    662
+SKRIPERO                   663
+FILIATES                   664
+IGOUMENITSA                665
+PARAMYTHIA                 666
+ARGOSTOLI                  671
+SAMI                       674
+ARTA                       681
+PREVEZA                    682
+PHILIPPIADA                683
+KANALAKI                   684
+VOULGARELI                 685
+AEGIO                      691
+KALAVRITA                  692
+K. ACHAIA                  693
+CHALANDRITSA               694
+ZAKYNTHOS                  695
+AKRATA                     696
+TRIPOLI                    71
+KALAMATA                   721
+MESSINI                    722
+PYLOS                      723
+MELIGALAS                  724
+KORONI                     725
+SPARTI                     731
+MOLAOI                     732
+GYTHEIO                    733
+NEAPOLI LAKONIAS           734
+SKALA                      735
+KYTHIRA                    736
+KORINTHOS                  741
+KIATO                      742
+XYLOKASTRO                 743
+LOUTRAKI                   744
+NEMEA                      746
+KALIANOI                   747
+ARGOS                      751
+NAFPLION                   752
+LYGOURGIO                  753
+KRANIDI                    754
+ASTROS                     755
+LEONIDIO                   757
+KYPARISSIA                 761
+GARGALIANOI                763
+KOPANAKI                   765
+MEGALOPOLI                 791
+KASTRI                     792
+VITINA                     795
+LEVIDI                     796
+TROPEA                     797
+IRAKLION                   81
+
+        Geographic Area   NDC
+CHANIA                    821
+KISSAMOS                  822
+KANTANOS                  823
+KOLYMPARI                 824
+VAMOS                     825
+RETHYMNO                  831
+SPILI                     832
+AMARI                     833
+PERAMA                    834
+AG. NIKOLAOS              841
+IERAPETRA                 842
+SITIA                     843
+TZERMIADES                844
+ARKALOCHORI               891
+MOIRES                    892
+PYRGOS (CRETA)            893
+AG. VARVARA               894
+AN. VIANNOS               895
+LIMIN CHERSONISOU         897
+
+
+
+
+      Description of important numbers related to emergency services and other services of social value:
+
+      Important              Service          Allocated or assigned      E.164 number or           Note
+       number                                                          national-only number
+112                   Emergency services     Allocated in the NNP     National-only number
+                      (European
+                      emergency number)
+100                   Emergency services     Allocated in the NNP     National-only number
+                      (Police)
+199                   Emergency services     Allocated in the NNP     National-only number
+                      (Fire services)
+166                   Emergency services     Allocated in the NNP     National-only number
+                      (Medical emergency
+                      service)
+108                   Emergency services     Allocated in the NNP     National-only number
+                      (Coast Guard)
+1056                  Emergency services     Allocated in the NNP     National-only number
+                      (Child protection)
+11112                 Emergency services     Allocated in the NNP     National-only number
+                      (reserved by the 112
+                      service)
+11118                 Emergency services     Allocated in the NNP     National-only number
+                      (Emergency police
+                      cybercrime line)
+116000                Emergency services     Assigned to the smile    National-only number
+                      (EU hotline for        of the child
+                      missing children)
+197                   Emergency services     Allocated in the NNP     National-only number
+                      (Emergency social
+                      support)
+                                             Assigned to the Smile    National-only number
+116111                Child Helpline         of the child
+116123                Emotional support      Assigned to Life Line    National-only number
+109                   Police services on     Assigned to Ministry     National-only number
+                      drugs                  of citizen protection
+1010                  Medical services       Assigned to              National-only number
+                                             INTERAMERICAN
+1011                  Medical services       Assigned to              National-only number
+                                             Euroroclinic
+1012                  Medical services       Assigned to Iatriko      National-only number
+                                             Athinon
+1014                  Ministry of citizen    Assigned to Ministry     National-only number
+                      protection             of citizen protection
+1015                  National Cadastre      Assigned to National     National-only number
+                      information            Cadastre
+1016                  Medical services       Assigned to SOS          National-only number
+                                             Medicines
+1017                  Child support          Assigned to Smile of     National-only number
+                                             the child
+1018                  Social services        Assigned to KLIMAKA      National-only number
+10195                 Information on         Assigned to Bicycle      National-only number
+                      bicycle parking        parking services
+                      services
+1021                  Failure or leak        Assigned to Water        National-only number
+                      reporting              provision services
+                                             (DEYAS)
+
+
+   Important           Service         Allocated or assigned        E.164 number or          Note
+     number                                                       national-only number
+1022            Failure or leak        Assigned to Water         National-only number
+                reporting              supply and Sewerage
+                                       company (EYDAP)
+1024            Road assistance        Assigned to Attikes       National-only number
+                                       diadromes
+1025            vehicle inspection     Assigned to Apion         National-only number
+                and control            Kleous
+10200           vehicle inspection     Assigned to CAR           National-only number
+                and control            CONTROL
+10202           Social services        Assigned to               National-only number
+                                       Volunteers "Agaliazo"
+10203           vehicle inspection     Assigned to AVAX          National-only number
+                and control services
+10204           Road assistance        Assigned to EXTRA         National-only number
+                services               ASSISTANCE
+10205           Red Cross              Assigned to Hellenic      National-only number
+                                       Red Cross
+10230           vehicle inspection     Assigned to KTEO          National-only number
+                services               VOULIAGMENIS
+10234           Road assistance and    Assigned to Atlantic      National-only number
+                medical services       union
+1031            Social services        Assigned to OKANA         National-only number
+                                       (organisation against
+                                       dependencies)
+1033            Ministry of citizen    Assigned to Ministry      National-only number
+                protection             of citizen protection
+10300           vehicle inspection     Assigned to               National-only number
+                services               EUROPEAN KTEO
+10301           Internal affairs       Assigned to Ministry      National-only number
+                                       of citizen protection
+10302           Failure reporting      Assigned to Gas           National-only number
+                                       distribution
+                                       Thessaloniki
+10303           Road assistance        Assigned to NGN           National-only number
+                services               AUTOPROTECT
+                                       HELLAS
+10304           vehicle inspection     Assigned to               National-only number
+                services               AUTOMOTO IKTEO
+10306           Psychological          Assigned to National      National-only number
+                support for COVID-     and Kapodistrian
+                19 pandemic            university of Athens
+10321           Road assistance        Assigned to INTER         National-only number
+                services               PARTNER ASSISTANCE
+10365           Road assistance        Assigned to INTER         National-only number
+                                       PARTNER ASSISTANCE
+10380           Medical services       Assigned to Nosileutiki   National-only number
+10400           Road assistance        Assigned to ELPA          National-only number
+10401           vehicle inspection     Assigned to Komvos        National-only number
+                and control services   Amfitheas
+10411           Road assistance        Assigned to               National-only number
+                                       INTER.GL.ASSISTANCE
+10414           Terrorism              Assigned to Ministry      National-only number
+                information services   of citizen protection
+
+
+
+   Important               Service           Allocated or assigned       E.164 number or          Note
+    number                                                             national-only number
+10420               Nautical network         Assigned to Nautical     National-only number
+                    "Olympia Radio"          network "Olympia
+                                             Radio"
+10440               Hellenic Financial       Assigned to Hellenic     National-only number
+                    Ombudsman                Financial Ombudsman
+10450               Road assistance          Assigned to DYNAMIC      National-only number
+                    services                 SAFE ROAD
+10454               Social services- Child   Assigned to Eliza-       National-only number
+                    protection               Against child abuse
+1051                Medical services         Assigned to Hygeia       National-only number
+1055                Medical services         Assigned to              National-only number
+                                             METROPOLITAN
+                                             HOSPITAL
+1057                Road assistance          Assigned to HELLAS       National-only number
+                    services                 SERVICE
+10500               Failure reporting        Assigned to DEI          National-only number
+10525               Child protection         Assigned to Child        National-only number
+                    services                 health Institute
+1062                Medical services         Assigned to              National-only number
+                                             EUROMEDICA
+1065                Help at home             Assigned to Life line    National-only number
+1066                Social services          Assigned to Hellenic     National-only number
+                                             cancer society
+1069                Social support           Assigned to "Be          National-only number
+                                             strong"
+10600               Vehicle inspection       Assigned to              National-only number
+                    services                 AUTOVISION SAKAR
+10601               Vehicle inspection       Assigned to KTEO         National-only number
+                    services                 ACHAIAS
+10606               Vehicle inspection       Assigned to KTEO         National-only number
+                    services                 Athanasopoulos
+10610               Medical services         Assigned to I.           National-only number
+                                             Grigoriadis
+10611               Vehicle inspection       Assigned to Tarantilis   National-only number
+                    services                 KTEO
+10612               Vehicle inspection       Assigned to Tarantilis   National-only number
+                    services                 KTEO
+10616               Recycling services       Assigned to City and     National-only number
+                                             region of Larissa
+1070                Medical services         Assigned to Imithea      National-only number
+1075                Road assistance          Assigned to GEK          National-only number
+                                             TERNA
+1077                Road assistance          Assigned to EGNATIA      National-only number
+                                             ODOS
+10710               Vehicle inspection       Assigned to Pigasos      National-only number
+                    services                 KTEO
+10717               Medical services         Assigned to I.           National-only number
+                                             Grigoriadis
+10787               Vehicle inspection       Assigned to KTEO N.      National-only number
+                    services                 Lasithiou
+1100                MONDIAL                  Assigned to MONDIAL      National-only number
+                    ASSISTANCE SERVICE       ASSISTANCE SERVICE
+                    HELLAS AE                HELLAS AE
+
+
+   Important           Service            Allocated or assigned       E.164 number or          Note
+     number                                                         national-only number
+1102            Social services           Assigned to              National-only number
+                                          ALZHEIMER
+                                          Association
+1107            Social services           Assigned to centre for   National-only number
+                                          national solidarity
+1109            Social services           Assigned to A-21         National-only number
+                                          Canceling injustice in
+                                          the 21st century
+11010           Vehicle inspection        Assigned to              National-only number
+                services                  Technokinisi KTEO
+11011           Vehicle inspection        Assigned to Komvos       National-only number
+                services                  Kifissias KTEO
+11012           Non-Emergency             Assigned to Police       National-only number
+                police services
+11040           Social services - Child   Assigned to Smile of     National-only number
+                protection                the child
+11050           Road assistance           Assigned to Info         National-only number
+                                          assistance
+11085           Public transport          Assigned to OASTh        National-only number
+                information in the
+                city of Thessaloniki
+11088           Vehicle inspection        Assigned to KTEO N.      National-only number
+                services                  Irakleiou
+1110            Information on            Assigned to Attica       National-only number
+                COVID-19                  prefecture
+1114            Social support for        Assigned to KETHEA       National-only number
+                gambling problems
+1116            Medical services          Assigned to              National-only number
+                                          Kostarellou Despina
+11120           Post information          Assigned to ELTA         National-only number
+                services
+11121           Failure or leak           Assigned to Water        National-only number
+                reporting                 supply and Sewerage
+                                          company of Kerkyra
+11122           Failure or leak           Assigned to Water        National-only number
+                reporting                 supply and Sewerage
+                                          company of Irakleion
+11123           Failure or leak           Assigned to Water        National-only number
+                reporting                 supply and Sewerage
+                                          company of Katerini
+11124           Failure or leak           Assigned to Water        National-only number
+                reporting                 supply and Sewerage
+                                          company of
+                                          Thessaliniki
+11125           Information on bus        Assigned to KTEL         National-only number
+                transportation            Ioanninon
+11126           Medical services          Assigned to Mastoras     National-only number
+                                          medical services
+11127           Failure or leak           Assigned to Water        National-only number
+                reporting                 supply and Sewerage
+                                          company of Thira
+11128           Medical services          Assigned to AYTONOI      National-only number
+11131           Information on            Assigned to HDIKA        National-only number
+                public digital services
+
+
+   Important               Service        Allocated or assigned        E.164 number or          Note
+    number                                                           national-only number
+11132               Social support        Assigned to Patients'     National-only number
+                                          Union
+11135               Failure reporting     Assigned to ELTA          National-only number
+                                          Energy
+11150               Failure reporting     Assigned to Gas           National-only number
+                                          provision Thessaloniki
+11151               Failure reporting     Assigned to Gas           National-only number
+                                          provision company
+                                          Thessaloniki
+11152               Failure reporting     Assigned to Gas           National-only number
+                                          provision company
+                                          Thessalia
+11154               Vehicle inspection    Assigned to Thalassis     National-only number
+                    services              KTEO
+11155               Medical services      Assigned to Iatriko       National-only number
+                                          Athinon
+11156               Medical services      Assigned to DOC4U         National-only number
+11157               Social support        Assigned to FAIRLIFE -    National-only number
+                    services              Lung cancer care and
+                                          support
+11177               Medical services      Assigned to ANIMUS        National-only number
+11180               Vehicle inspection    Assigned to               National-only number
+                    services              ECOCHECK
+11185               Public transport      Assigned to OASA          National-only number
+                    information in the
+                    city of Athens
+11199               Road assistance       Assigned to Interlife     National-only number
+1133                Failure reporting     Assigned to Attica gas    National-only number
+                                          provision company
+1135                Public health         Assigned to               National-only number
+                    management            Organisation for
+                    services              public health
+1136                Road assistance       Assigned to EUROP         National-only number
+                                          ASSISTANCE S.A.
+                                          GREEK BRANCH
+1137                Road assistance and   Assigned to European      National-only number
+                    medical services      Reliance
+11300               Failure reporting     Assigned to VOLTON        National-only number
+11310               Bus information       Assigned to KTEL          National-only number
+                                          Prevezas
+11311               Medical services      Assigned to E.            National-only number
+                                          Giardartzis OE
+11313               Postal services       Assigned to ELTA          National-only number
+11314               Student security      Assigned to               National-only number
+                    services              Dimokrition University
+11320               Manpower              Assigned to OAED-         National-only number
+                    employment services   Public manpower
+                                          employment
+                                          organisation
+11321               Cystic fibrosis       Assigned to Cystic        National-only number
+                    patients support      fibrosis Association
+11322               Failure provision     Assigned to Attica gas    National-only number
+                                          provision company
+11323               Medical services      Assigned to Polyiatriko   National-only number
+
+   Important           Service          Allocated or assigned       E.164 number or          Note
+    number                                                        national-only number
+11343           Failure reporting       Assigned to HELLENIC     National-only number
+                                        NATURAL GAS
+                                        DISTRIBUTION
+11344           Road assistance         Assigned to Interlife    National-only number
+                services
+11399           Medical services        Assigned to 24 hour      National-only number
+                                        medical assistance
+1142            Implementation of       Assigned to Ministry     National-only number
+                law against smoking     of health
+1144            Medical services        Assigned to Ilias        National-only number
+                                        papazisis
+1145            Social support on       Assigned to KETHEA       National-only number
+                drug abuse
+1147            Organ donation and      Assigned to Ministry     National-only number
+                transplantation         of health
+11400           Medical services        Assigned to EXPRESS      National-only number
+                                        SERVICE
+11404           Reporting of issues     Assigned to Railway      National-only number
+                on railway network      network company
+                (failures, theft etc)
+11411           Medical services        Assigned to AFFIDEA      National-only number
+11414           Racism incident         Assigned to Ministry     National-only number
+                reporting               of citizen protection
+11415           Social support          Assigned to Disabled     National-only number
+                services                children association
+1151            Medical services        Assigned to Doctors at   National-only number
+                                        home
+1154            Medical services        Assigned to EXPRESS      National-only number
+                                        SERVICE
+1156            Missing children        Assigned to Ministry     National-only number
+                services                of citizen protection
+1158            Road assistance         Assigned to              National-only number
+                                        INTERAMERICAN
+11500           Failure reporting       Assigned to DEDDIE       National-only number
+11525           Children support        Assigned to Together     National-only number
+                services                for the child
+11527           Medical services        Assigned to Mitera       National-only number
+                                        clinic
+11528           Psychological           Assigned to "ATHENS      National-only number
+                support                 PRIDE" festival
+11552           Road assistance         Assigned to KLIMAKA      National-only number
+11555           Road assistance         Assigned to              National-only number
+                                        Intersallonica
+11556           Medical services        Assigned to              National-only number
+                                        Intersallonica
+1175            Road assistance         Assigned to SBAI         National-only number
+                                        MONDIAL ASSISTANCE
+11700           Medical services        Assigned to Day          National-only number
+                                        medical care unit
+                                        Trikala
+11710           vehicle inspection      Assigned to Goumas       National-only number
+                services                OE
+11711           Failure reporting       Assigned to Public gas   National-only number
+                                        distribution network
+
+       Important                   Service           Allocated or assigned       E.164 number or           Note
+        number                                                                 national-only number
+    11717                   Food products safety    Assigned to Food          National-only number
+                                                    products control body
+    11718                   Medical services        Assigned to Iatriko       National-only number
+                                                    Athinon
+    11770                   Failure reporting       Assigned to DEI-          National-only number
+                                                    Electricity provision
+    11771                   Student security        Assigned to University    National-only number
+                            services                of Patras
+    11777                   Medical services        Assigned to Iaso S.A.     National-only number
+
+
+                       Description of implementation of NP of ITU-T E.164 numbers in the NNP:
+                                Geographic numbers             Non-geographic numbers        Mobile numbers
+                                                               other than mobile numbers
+                                                               (e.g., premium rate
+                                                               services, freephone
+                                                               services, nomadic services)
+State of NP                     Implemented since 2004         Implemented since 2004        Implemented since 2004
+Regulatory obligation for       Yes                            Yes                           Yes
+operators to implement
+NP?
+Type of NP                      Central reference database     Central reference database    Central reference database
+implementation                  with all call query (ACQ) or   with all call query (ACQ)     with all call query (ACQ)
+                                query onrelease (QoR)
+                                (depending on the
+                                agreement between
+                                operators).
+Limitations                     Numbering area coverage
+Specifications available on     www.eett.gr                    www.eett.gr                   www.eett.gr
+website
+Contact information for         Telecommunications             Telecommunications            Telecommunications
+national                        Monitoring and                 Monitoring and                Monitoring and Supervision
+Administration/NPA              Supervision Department         Supervision Department        Department
+                                Tel.:+30 210 6151009,          Tel.:+30 210 6151009,         Tel.:+30 210 6151009,
+                                +30 210 6151130                +30 210 6151130               +30 210 6151130
+                                email: info@eett.gr            email: info@eett.gr           email: info@eett.gr
+Central reference               Telcordia Technologies Inc.    Telcordia Technologies Inc.   Telcordia Technologies Inc.
+database (if any)               dba iconectiv,                 dba iconectiv,                dba iconectiv,
+managed/operated by             Tel.: +30 210 9420 049         Tel.: +30 210 9420 049        Tel.: +30 210 9420 049
+
+   Contact:
+              Hellenic Telecommunications & Post Commission (EETT)
+              Telecommunications Regulation Department
+              60, Kifissias Avenue
+              P.O. Box Maroussi
+              151 25 MAROUSSI
+              Greece
+              Tel: +30 210 6151000
+              Fax: +30 210 6105049
+              E-mail: info@eett.gr
+              URL: www.eett.gr
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+                                ADD    Insert                     PAR   Paragraph
+                                COL    Column                     REP   Replace
+                                LIR    Read                       SUP   Delete
+                                P      Page(s)
+
+
+
+
+                       List of Ship Stations and Maritime Mobile
+                             Service Identity Assignments
+                                         (List V)
+                                     Edition of 2021
+
+                                                 Section VI
+
+
+ADD
+
+      DP08        MT Germany Gmbh Überseeallee 1, 20457, Hamburg Germany.
+                  E-mail: ole.peters@milanoteleport.com,
+                  Tel: +49 151 67524090, +49 40 226391146, Fax: +49 40 226391120,
+                  URL: www.milanoteleport.com, contact person: Ole Peters.
+
+
+                       List of Issuer Identifier Numbers for
+               the International Telecommunication Charge Card
+         (in accordance with Recommendation ITU-T E.118 (05/2006))
+                          (Position on 1 December 2018)
+                            (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                             (Amendment No. 55)
+United States ADD
+
+   Country/       Company Name/Address                 Issuer       Contact                                    Effective
+ Geographical                                        Identifier                                                  date
+     area                                             Number                                                   of usage
+
+ United States    Comcast Corporation                89 1 059       Tim Farrell                                1.XI.2021
+                  One Comcast Center                                One Comcast Center
+                  1701 John F. Kennedy Blvd.                        1701 John F. Kennedy Blvd.
+                  PHILADELPHIA PA 19103                             PHILADELPHIA PA 19103
+                                                                    Tel: +1 267 735 3275
+                                                                    E-mail: tim_farrell@comcast.com
+ United States    TRACFONE WIRELESS, INC             89 1 060       Maria Pena                                 1.X.2021
+                  9700 112th Avenue                                 9700 112th Avenue
+                  MEDLEY, FL 33178                                  MEDLEY, FL 33178
+                                                                    Tel: +1 305 715 6500
+                                                                    E-mail: mpena@tracfone.com
+
+
+
+
+              Mobile Network Codes (MNC) for the international identification plan
+                            for public networks and subscriptions
+                    (According to Recommendation ITU-T E.212 (09/2016))
+                                (Position on 15 December 2018)
+
+                                    (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                                     (Amendment No. 62)
+
+
+Country/Geographical area                             MCC+MNC *       Operator/Network
+
+Switzerland        ADD
+                                                         228 69       MTEL Schweiz GmbH
+
+                                                         228 70       Tismi BV
+
+
+____________
+
+*       MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+        MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                      List of Signalling Area/Network Codes (SANC)
+                 (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                 (Position on 1 June 2017)
+
+                                  (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                  (Amendment No. 18)
+
+
+
+ Numerical order         ADD
+               5-136         Thailand
+
+
+
+ Alphabetical order ADD
+               5-136         Thailand
+
+____________
+SANC:    Signalling Area/Network Code.
+         Code de zone/réseau sémaphore (CZRS).
+         Código de zona/red de señalización (CZRS).
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 23)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point        Name of the signalling point operator
+
+
+ Cyprus ADD
+ 5-215-7       11967        Alias for NN STP-1&STP-2                   Cablenet Communication Systems Ltd
+ 5-219-0       11992        NN-STP-1, Nicosia                          Cablenet Communication Systems Ltd
+ 5-219-1       11993        NN-STP-2, Limassol                         Cablenet Communication Systems Ltd
+
+ Thailand ADD
+ 5-039-6       10558        TUC-MTG(IDD)                               True Move H Universal Communication
+ 5-039-7       10559        TUC-PBI(IDD)                               True Move H Universal Communication
+ 5-135-0       11320        TUC-TYN SCCP                               True Move H Universal Communication
+ 5-135-1       11321        TIC-MTG SCCP                               True Move H Universal Communication
+ 5-135-2       11322        TUC-TYN SCCP                               True Move H Universal Communication
+ 5-135-3       11323        TIC-MTG SCCP                               True Move H Universal Communication
+ 5-135-4       11324        BPL2/POI                                   Advance Wireless Network
+ 5-135-5       11325        TWA2/POI                                   Advance Wireless Network
+
+ Thailand LIR
+ 5-039-2       10554        TIC-TYN-1                                  True Move H Universal Communication
+ 5-039-3       10555        TIC-MTG-1                                  True Move H Universal Communication
+ 5-039-4       10556        TIC-TYN-3                                  True Move H Universal Communication
+ 5-039-5       10557        TIC-MTG-3                                  True Move H Universal Communication
+ 5-041-0       10568        ST-RST                                     DTAC TriNet
+ 5-042-0       10576        IG – RST                                   DTAC TriNet
+ 5-042-3       10579        N&T STP – A                                True Move H Universal Communication
+ 5-042-4       10580        N&T STP – B                                True Move H Universal Communication
+ 5-042-5       10581        N&T SG                                     True Move H Universal Communication
+ 5-042-6       10582        ST – SNK                                   DTAC TriNet
+ 5-042-7       10583        IG – SNK                                   DTAC TriNet
+ 5-043-2       10586        TUC-TYN SCCP                               True Move H Universal Communication
+ 5-043-3       10587        TIC-MTG SCCP                               True Move H Universal Communication
+ 5-044-2       10594        IGW_RST2 (MSC-S)                           DTAC TriNet
+ 5-044-3       10595        IGW_RST2 (MGW)                             DTAC TriNet
+ 5-044-4       10596        IGW_SNK2 (MSC-S)                           DTAC TriNet
+ 5-044-5       10597        IGW_SNK2 (MGW)                             DTAC TriNet
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+

@@ -149,7 +149,7 @@ def main():
             else:
                 found = False
                 for name, inf in P1_CNTR.items():
-                    if country in inf['infos']['nameset']:
+                    if country.lower() in inf['infos']['nameset']:
                         print_cntr(inf, ext=args.x)
                         found = True
                         break
