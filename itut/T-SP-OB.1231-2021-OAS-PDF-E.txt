@@ -1,0 +1,578 @@
+                      ITU Operational Bulletin
+                                                      www.itu.int/itu-t/bulletin
+
+       No. 1231             1.XI.2021                 (Information received by 15 October 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                             Standardization Bureau (TSB)                                       Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                               Tel:     +41 22 730 5211                                           Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                             Fax:     +41 22 730 5853                                           Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                               E-mail: tsbmail@itu.int / tsbtson@itu.int                          E-mail: brmail@itu.int
+
+
+
+
+                                                              Table of Contents
+                                                                                                                                                            Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ....................................................................                             3
+Approval of ITU-T Recommendations .........................................................................................................                   4
+Telephone Service:
+     North Macedonia (Agency for Electronic Communications, Skopje) ......................................................                                    5
+Service Restrictions ....................................................................................................................................    10
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ..............................................................                             10
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card ............................                                           11
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ........................................................................................................................................     12
+List of ITU Carrier Codes .............................................................................................................................      13
+National Numbering Plan ...........................................................................................................................          14
+
+
+
+
+                                                                                                                             www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1232             15.XI.2021             1.XI.2021
+               1233             1.XII.2021             15.XI.2021
+               1234             15.XII.2021            1.XII.2021
+               1235              1.I.2022              10.XII.2021
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+       (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+       subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+       Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+       optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+       Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+       (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+       (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+       (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+       E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+       2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+       (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+       to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+       (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+       operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+       (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+       (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+       Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+       (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+       (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+       series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+       on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+       Recommendation F.1 (03/1998))
+B.     The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-114, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T L.1383 (10/2021): Smart energy solutions for cities and home applications
+–     ITU-T M.3365 (10/2021): Requirements for QoE management of video in visual surveillance
+–     ITU-T X.501 (2019) Amd. 1 (10/2021): Information Technology - Open systems Interconnection - The
+      Directory - Models : Amendment 1
+–     ITU-T X.509 (2019) Cor. 1 (10/2021): Information Technology - Open systems Interconnection - The
+      Directory – Public-key and attribute certificate frameworks : Corrigendum 1
+–     ITU-T Y.3806 (09/2021): Quantum key distribution networks - Requirements for QoS assurance
+–     ITU-T Z.161 (10/2021): Testing and Test Control Notation version 3: TTCN-3 core language
+–     ITU-T Z.161.2 (10/2021): Testing and Test Control Notation version 3: TTCN-3 language extensions:
+      Configuration and deployment support
+–     ITU-T Z.161.3 (10/2021): Testing and Test Control Notation version 3: TTCN-3 language extensions:
+      Advanced parameterization
+–     ITU-T Z.161.4 (10/2021): Testing and Test Control Notation version 3: TTCN-3 language extensions:
+      Behaviour types
+–     ITU-T Z.161.7 (10/2021): Testing and Test Control Notation version 3: TTCN-3 Language Extensions:
+      Object-Oriented Features
+–     ITU-T Z.167 (10/2021): Testing and Test Control Notation version 3: Using ASN.1 with TTCN-3
+–     ITU-T Z.168 (10/2021): Testing and Test Control Notation version 3: The IDL to TTCN-3 mapping
+–     ITU-T Z.169 (10/2021): Testing and Test Control Notation version 3: Using XML schema with TTCN-3
+–     ITU-T Z.171 (10/2021): Testing and Test Control Notation version 3: Using JSON with TTCN-3
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+
+North Macedonia (country code +389)
+Communication of 15.X.2021:
+The Agency for Electronic Communications, Skopje, announces the updated National Numbering Plan NNP of
+North Macedonia.
+
+           Presentation of E.164 National Numbering Plan for country code +389 (North Macedonia):
+
+a)     Overview:
+       The minimum number length (excluding the country code) is 3 digits.
+       The maximum number length (excluding the country code) is 8 digits.
+
+b)     Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+       numbering plan:
+       https://e-agencija.aek.mk/aek-crm-portal/Pages/Public/PublicNumerationSerie/PublicNumerationSerie
+
+c)     Link to the real-time database reflecting ported ITU-T E.164 numbers:
+       http://komuniciraj.mk/mk/prenoslivostnabroj/
+
+d)     Detail of numbering plan:
+
+    NDC (national           N(S)N number length
+ destination code) or
+   leading digits of
+                         Maximum       Minimum                  Usage of E.164 number               Additional information
+   N(S)N (national
+                          length        length
+     (significant)
+       number)
+ 10ab (a,b=0,….,9)            4             4        Carrier selection codes
+ 11a(b)cd                     6             3        European harmonised short codes
+ 1188                         4             4        Universal service providers                    Telephone information
+                                                                                                    service from the entire
+                                                                                                     telephone directory,
+                                                                                                      assign to R3 Media
+ 12abcd                       6             3        Customer care services from operator’s                    (¹)
+                                                     own network
+ 13abc                        5             5        Short numbers in numbering areas                          (¹)
+                                                     Public Electronic Communication
+                                                     Networks
+ 14abcdef                     8             3        Special services for own network                          (¹)
+ (a,b,c,d,e,f,=0,.,9)                                subscribers (value added services,
+                                                     content-based services, premium rate
+                                                     services, revenue shared services,
+                                                     transaction services, …)
+ 15abc                        5             5        Short numbers in numbering areas Public                   (¹)
+                                                     Electronic Communication Networks
+ 16abcdef                                            Reserved for future requirements in the                   (²)
+ (a,b,c,d,e,f,=0,.,9)                                Numbering Plan
+ 17abcd                       6             3        Customer care services from operator’s                    (¹)
+ (a,b,c,d,=0,….,9)                                   own network
+ 18abcd                       6             3        Customer care services from operator’s                    (¹)
+ (a,b,c,d,=0,….,9)                                   own network
+
+
+
+   NDC (national        N(S)N number length
+destination code) or
+  leading digits of
+                       Maximum     Minimum              Usage of E.164 number                Additional information
+  N(S)N (national
+                        length      length
+    (significant)
+      number)
+190                       3            3      National Short codes of national meaning       Agency for Electronic
+                                                                                               Communications
+191                       3            3      National Short codes of national meaning         reserve for public
+                                                                                                   services (²)
+192                       3            3      National Short codes of national meaning                Police
+193                       3            3      National Short codes of national meaning          Fire Department
+194                       3            3      National Short codes of national meaning        Ambulance Service
+195                       3            3      National Short codes of national meaning       Crises Management
+                                                                                                     center
+196                       3            3      National Short codes of national meaning          Road Assistance
+197                       3            3      National Short codes of national meaning              Customs
+                                                                                                 Administration
+198                       3            3      National Short codes of national meaning           Public Revenue
+                                                                                                 Administration
+199                       3            3      National Short codes of national meaning        Ministry of Interior
+2 (NDC)                   7            7      Geographic numbers                                        (¹)
+2abcdefg                                      2 -Area code for Skopje
+a=2,3,4,5,6,7,8,9
+31 (NDC)                  6            6      Geographic numbers                                       (¹)
+31abcdef                                      31 -Area code for Kumanovo, Kriva
+a=2,3,4,5,6,7,8,9                             Palanka, Kratovo
+32 (NDC)                  6            6      Geographic numbers                                       (¹)
+32abcdef                                      32 -Area code for Stip, Probistip, Sveti
+a=2,3,4,5,6,7,8,9                             Nikole, Radovis
+33 (NDC)                  6            6      Geographic numbers                                       (¹)
+33abcdef                                      33 -Area code for
+a=2,3,4,5,6,7,8,9                             Kocani, Berovo, Delcevo, Vinica
+34 (NDC)                  6            6      Geographic numbers                                       (¹)
+34 abcdef                                     34 -Area code for Gevgelija, Valandovo,
+a=2,3,4,5,6,7,8,9                             Strumica, Dojran
+42(NDC)                   6            6      Geographic numbers                                       (¹)
+42 abcdef                                     42 -Area code for Gostivar
+a=2,3,4,5,6,7,8,9
+43(NDC)                   6            6      Geographic numbers                                       (¹)
+43 abcdef                                     43 -Area code for Veles, Kavadarci,
+a=2,3,4,5,6,7,8,9                             Negotino
+44(NDC)                   6            6      Geographic numbers                                       (¹)
+44 abcdef                                     44 -Area code for Tetovo
+a=2,3,4,5,6,7,8,9
+45(NDC)                   6            6      Geographic numbers                                       (¹)
+45 abcdef                                     45 -Area code for Kicevo, Makedonski
+a=2,3,4,5,6,7,8,9                             Brod
+46(NDC)                   6            6      Geographic numbers                                       (¹)
+46 abcdef                                     46 -Area code for Ohrid, Struga, Debar
+a=2,3,4,5,6,7,8,9
+47(NDC)                   6            6      Geographic numbers                                       (¹)
+47 abcdef                                     47 -Area code for Bitola, Demir Hisar,
+a=2,3,4,5,6,7,8,9                             Resen
+
+   NDC (national           N(S)N number length
+destination code) or
+  leading digits of
+                       Maximum        Minimum              Usage of E.164 number               Additional information
+  N(S)N (national
+                        length         length
+    (significant)
+      number)
+48(NDC)                      6            6      Geographic numbers                                      (¹)
+48 abcdef                                        48 -Area code for Prilep, Krusevo
+a=2,3,4,5,6,7,8,9
+500 abcde                    8            8      Premium rate services for adult services                (¹)
+abcde (0,…,9)
+5xy abcde                    8            8      Premium rate services:                                  (¹)
+abcde (0,…,9)                                    X=2, 3, 4 charging per event (call, SMS, …)
+                                                 X=5, 6, 7, 8, 9, 0 charging per duration
+6                                                Reserved for future requirements in the                (²)
+                                                 Numbering Plan
+70(NDC)                      6            6      Non-geographic numbers                        Assigned to Macedonia
+70 abcdef                                        - public mobile networks                       Telecom AD Skopje (¹)
+a=2,3,4,5,6,7,8,9
+71(NDC)                      6            6      Non-geographic numbers                        Assigned to Macedonia
+71 abcdef                                        - public mobile networks                       Telecom AD Skopje (¹)
+a=2,3,4,5,6,7,8,9
+72(NDC)                      6            6      Non-geographic numbers                        Assigned to Macedonia
+72 abcdef                                        - public mobile networks                       Telecom AD Skopje (¹)
+a=2,3,4,5,6,7,8,9
+73(NDC)                      6            6      Non-geographic numbers                            Assigned to
+73 abcdef                                        - public mobile networks                        A1 Macedonia (¹)
+a=2,3,4,5,6,7,8,9
+74(NDC)                      6            6      Non-geographic numbers                             Assigned to
+74 abcdef                                        - public mobile networks                       TRD Robi DOOEL Stip
+a=2,3,4,5,6,7,8,9                                                                                    MVNO (¹)
+75(NDC)                      6            6      Non-geographic numbers                            Assigned to
+75 abcdef                                        - public mobile networks                        A1 Macedonia (¹)
+a=2,3,4,5,6,7,8,9
+76(NDC)                      6            6      Non-geographic numbers                             Assigned to
+76 abcdef                                        - public mobile networks                         A1 Macedonia (¹)
+a=2,3,4,5,6,7,8,9
+77(NDC)                      6            6      Non-geographic numbers                            Assigned to
+77 abcdef                                        - public mobile networks                        A1 Macedonia (¹)
+a=2,3,4,5,6,7,8,9
+78(NDC)                      6            6      Non-geographic numbers                            Assigned to
+78 abcdef                                        - public mobile networks                        A1 Macedonia (¹)
+a=2,3,4,5,6,7,8,9
+79(NDC)                      6            6      Non-geographic numbers                        Assigned to Lycamobile
+79 abcdef                                        - public mobile networks                             MVNO (¹)
+a=2,3,4,5,6,7,8,9
+800 adcde                    8            8      Free phone services, Green numbers                      (¹)
+abcde=(0,….,9
+8xy abcde                    8            8      Share cost services, Blue numbers                       (¹)
+xy≠00
+abcde=(0,….,9
+8009abcd                     8            8      Free phone services for calls over                      (¹)
+abcd=(0,….,9                                     Intelligent Networks platform (pre-paid
+                                                 calling cards, Direct Home, …)
+
+      NDC (national          N(S)N number length
+   destination code) or
+     leading digits of
+                           Maximum       Minimum               Usage of E.164 number                 Additional information
+     N(S)N (national
+                            length        length
+       (significant)
+         number)
+   9                                                  Reserved for future requirements in the                 (²)
+                                                      Numbering Plan
+
+  Notice:
+  (¹)    see the details of the allocation in the register -
+         https://e-agencija.aek.mk/aek-crm-portal/Pages/Public/PublicNumerationSerie/PublicNumerationSerie
+  (²)    reserved numbering ranges are all non- geographic and are intended for new types of public
+         communications networks/services or in cases when the existing numbering ranges are exhausted.
+         About the length of the numbers from this numbering ranges will be decided upon activation.
+
+
+                  Description of implementation of NP (Number Portability) of E.164 numbers in the
+                                   National Numbering Plan for country code +389:
+
+                              Geographic numbers          Non-geographic numbers              Mobile numbers
+                                                         other than mobile numbers
+                                                        (e.g., premium rate services,
+                                                        freephone services, nomadic
+                                                                  services)
+State of NP                 Implemented since          Implemented since                Implemented since
+                            1st of September 2008      1st of April 2014                1st of September 2008
+
+Regulatory obligation       Yes                        Yes                              Yes
+for operators to
+implement NP?
+Type of NP                  Central reference          Central reference database       Central reference database
+implementation              database both for          both for geographical and        both for geographical and
+                            geographical and mobile    mobile with QoR                  mobile with QoR
+                            with QoR
+
+Limitations                 Geographical numbering
+                            area coverage
+
+Specifications available    www.aec.mk                 www.aec.mk                       www.aec.mk
+on website
+Contact information for     Agency for electronic      Agency for electronic            Agency for electronic
+national                    communications             communications                   communications
+Administration/NPA          Telecommunications         Telecommunications               Telecommunications
+                            department                 department                       department
+                            Tel: +389 2 328 9200       Tel: +389 2 328 9200             Tel: +389 2 328 9200
+                            Fax: +389 2 322 4611       Fax: +389 2 322 4611             Fax: +389 2 322 4611
+                            E-mail: contact@aec.mk     E-mail: contact@aec.mk           E-mail: contact@aec.mk
+
+Central reference           Agency for electronic      Agency for electronic            Agency for electronic
+database (if any)           communications             communications                   communications
+managed/operated by         Postal Address:            Postal Address:                  Postal Address:
+                            Key Dimitar Vlahov, 21     Key Dimitar Vlahov, 21           Key Dimitar Vlahov, 21
+                            1000 Skopje                1000 Skopje                      1000 Skopje
+                            E-mail: contact@aec.mk     E-mail: contact@aec.mk           E-mail: contact@aec.mk
+
+
+
+
+Contact:
+           Agency for Electronic Communications (AEC)
+           Telecommunications Department
+           21 Kay Dimitar Vlahov
+           1000 SKOPJE
+           North Macedonia
+           Tel: +389 23 289 200
+           Fax: +389 23 224 611
+           E-mail: contact@aec.mk
+           URL: www.aec.mk
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+                                ADD    Insert                       PAR   Paragraph
+                                COL    Column                       REP   Replace
+                                LIR    Read                         SUP   Delete
+                                P      Page(s)
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+                            (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                             (Amendment No. 57)
+
+Colombia         ADD
+
+    Country/       Company Name/Address                  Issuer                  Contact                 Effective date
+  geographical                                         Identifier                                           of usage
+      area                                              Number
+ Colombia          LOV TELECOMUNICACIONES SAS          89 57 777     LOV IIN,                                1.XI.2021
+                   Calle 97 # 23-60 Of. 306                          LOV TELECOMUNICACIONES SAS
+                   BOGOTÁ                                            Calle 97 # 23-60 Of. 306
+                                                                     BOGOTÁ
+                                                                     Tel: +57 1 7042284
+                                                                     E-mail: lov-iin@lov.com.co
+
+Luxembourg       ADD
+
+   Country/             Company Name/Address             Issuer                  Contact                 Effective date
+ geographical                                          Identifier                                           of usage
+     area                                               Number
+ Luxembourg        Luxembourg Online S.A.              89 352 05     Luxembourg Online NOC                   1.XI.2021
+                   14, avenue du X Septembre                         14, avenue du X Septembre
+                   L-2550 LUXEMBOURG                                 L-2550 LUXEMBOURG
+                                                                     Tel: +352 4525641
+                                                                     Fax: +352 459334
+                                                                     E-mail: network@online.lu
+
+Turkey           LIR
+
+    Country/       Company Name/Address                  Issuer                            Contact
+  geographical                                         Identifier
+      area                                              Number
+ Turkey            Turkcell İletişim Hizmetleri AŞ     89 90 01      Hatice TUTKAN
+                   Aydınevler Mah. İnönü Cad. No:20                  Aydınevler Mah. İnönü Cad. No:20
+                   Maltepe, ISTANBUL                                 Maltepe, ISTANBUL
+                                                                     Tel: +90 532 210 0990
+                                                                     E-mail: hatice.tutkan@turkcell.com.tr
+
+
+
+
+         Mobile Network Codes (MNC) for the international identification plan
+                        for public networks and subscriptions
+                (According to Recommendation ITU-T E.212 (09/2016))
+                           (Position on 15 December 2018)
+
+                           (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                            (Amendment No. 64)
+
+    Country/Geographical area           MCC+MNC *           Operator/Network
+    Bhutan ADD
+                                              402 77        Tashi InfoComm Limited (Tashi Cell)
+    Bhutan LIR
+                                              402 11        Bhutan Telecom Limited (Bmobile)
+                                              402 17        Bhutan Telecom Limited (Bmobile)
+    Jamaica SUP
+                                             338 040        Symbiote Investment Limited
+    Jamaica ADD
+                                             338 080        Rock Mobile Limited
+    Japan SUP
+                                              441 10        UQ Communications Inc.
+    Japan ADD
+                                              440 13        NTT Communications Corporation
+                                              440 14        GRAPE ONE LTD.
+                                              440 15        BB Backbone Corp.
+                                              440 16        Nokia Innovations Japan G.K.
+                                              440 17        OSAKA GAS BUSINESS CREATE CORPORATION
+                                              440 18        Kintetsu Cable Network, Ltd
+                                              440 19        NEC Networks & System Integration Corporation
+                                              440 22        JTOWER Inc.
+                                              440 23        FUJITSU LIMITED
+                                             441 200        SORACOM, Inc.
+                                             441 201        Aurens Co.,Ltd.
+                                             441 202        Sony Wireless Communications Inc.
+                                             441 203        GujoCity
+                                             441 204        Wicom Inc.
+                                             441 205        KATCH NETWORK INC.
+                                             441 206        MITSUBISHI ELECTRIC CORPORATION
+    Japan LIR
+                                              440 07        closip, Inc.
+
+
+
+____________
+
+*     MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+      MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                            (Amendment No. 124)
+
+
+ Country or area/ISO code                           Company Code       Contact
+  Company Name/Address                               (carrier code)
+
+
+Germany (Federal Republic of) / DEU           ADD
+
+ GIBY GmbH                                               GIBY          Mr Jens Oehlert
+ Maximilianallee 4                                                     Tel.: +49 341 3504540
+ D-04129 LEIPZIG                                                       Fax: +49 341 3504229
+                                                                       Email: jens.oehlert@giby.glasfaser.de
+
+ Stadtwerke Greven GmbH                                SWGREV          Mr Simon Werning
+ Saerbecker Strasse 77 - 81                                            Tel.: +49 2571 509455
+ D-48268 GREVEN                                                        Email: info@stadtwerke-greven.de
+
+
+ Stadtwerke Hof Energie+Wasser GmbH                   STWHEW           Mr Juergen Bolz
+ Unterkotzauer Weg 25                                                  Tel.: +49 9281 812 210
+ D-95028 HOF                                                           Fax: +49 9281 812 480
+                                                                       Email: juergen.bolz@stadtwerke-hof.de
+
+ Stadtwerke Niesky GmbH                                SWN22           Mr Rene Noack
+ Hausmannstrasse 10                                                    Tel.: +49 3588 253230
+ D-02906 NIESKY                                                        Fax: +49 3588 253222
+                                                                       Email: breitband@stadtwerke-niesky.de
+
+Germany (Federal Republic of) / DEU           LIR
+
+ Stadtwerke Lauterbach GmbH                           STWLAU           Mrs Lisa Martens
+ Hinter dem Spittel 15                                                 Tel: +49 151 401 773 74
+ D-36341 LAUTERBACH                                                    Fax: +49 30 235 919 299
+                                                                       E-mail: l.martens@vivax-consulting.de
+
+ TELE AG                                              TELEAG           Mrs Anne Hafermalz
+ Wilhelm-Sammet-Strasse 37                                             Tel: +49 341 523801 302
+ D-04157 LEIPZIG                                                       Fax: +49 341 523801 99
+                                                                       E-mail: anne.hafermalz@tele-ag.de
+
+ TELE AG Bulk-Account                                  FLTELE          Mrs Anne Hafermalz
+ Wilhelm-Sammet-Strasse 37                                             Tel: +49 341 523801 302
+ D-04157 LEIPZIG                                                       Fax: +49 341 523801 99
+                                                                       E-mail: anne.hafermalz@tele-ag.de
+
+
+
+
+                                National Numbering Plan
+                 (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.X.2021, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                        Country/ Geographical area                      Country Code (CC)
+               Greece                                                          +30
+
+
+
+

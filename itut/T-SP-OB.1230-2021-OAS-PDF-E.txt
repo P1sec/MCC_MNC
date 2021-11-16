@@ -1,0 +1,622 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1230             15.X.2021                   (Information received by 30 September 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                        Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                            Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                            Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                           E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                               3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+Telephone Service:
+     Bhutan (Bhutan InfoComm and Media Authority (BICMA), Thimphu) .....................................................                                          4
+     Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) ....................                                                       7
+     Zambia (Zambia Information & Communications Technology Authority (ZICTA), Lusaka).......................                                                     7
+Service Restrictions ........................................................................................................................................    10
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                               10
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                               11
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................     12
+List of ITU Carrier Codes .................................................................................................................................      13
+List of International Signalling Point Codes (ISPC) .........................................................................................                    14
+National Numbering Plan ...............................................................................................................................          14
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1231              1.XI.2021             15.X.2021
+               1232             15.XI.2021             1.XI.2021
+               1233             1.XII.2021             15.XI.2021
+               1234             15.XII.2021            1.XII.2021
+               1235              1.I.2022              10.XII.2021
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                Approval of ITU-T Recommendations
+By AAP-113, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–        ITU-T L.1471 (09/2021): Guidance and criteria for information and communication technology
+         organisations on setting Net Zero targets and strategies
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                            url: www.itu.int/itu-t/inr/nnp
+
+Bhutan (country code +975)
+Communication of 28.IX.2021:
+The Bhutan InfoComm and Media Authority (BICMA), Thimphu, announces the following update to national
+numbering plan in Bhutan:
+                    Presentation of national ITU-T E.164 numbering plan for country code +975:
+
+a)       Overview:
+         The minimum number length (excluding the country code) is           7 digits.
+         The maximum number length (excluding the country code) is           8 digits.
+
+b)       Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the
+         national numbering plan:
+         https://www.bicma.gov.bt/bicmanew/data/publications/rules-regulations-
+         guidelines/National_Numbering_Plan_2018.pdf
+c)       Link to the real-time database reflecting ported ITU-T E.164 numbers: n/a
+d)       Detail of mobile service numbering plan:
+
+       NDC (national         N(S)N number length         Usage of E.164 number              Additional information
+    destination code) or    Maximum    Minimum
+      leading digits of      length      length
+       N(S)N (national
+        (significant)
+          number)
+    17                         8             8          Non-geographic number.      NDC assigned to
+                                                        It is a mobile number       Bhutan Telecom Limited (BTL).
+                                                                                    BTL is the state-owned mobile operator
+    77                         8             8          Non-geographic number.      NDC assigned to
+                                                        It is a mobile number       Tashi InfoComm Limited (TashiCell).
+                                                                                    TashiCell is the private mobile operator
+
+e)       Detail of fixed service numbering plan:
+
+                Country Code                       Length of Area Code           Length of Subscriber Number
+                     +975                               one digit                         six digits
+
+
+
+
+Operational Area           Locality   Area Code      Subscriber               Remark
+                                                   Number Range
+        I           Thimphu                   2   32XYYY          X = 0 to 9
+                                                  33YYYY
+                                                  34YYYY
+                    Simtokha                  2   35XYYY          X = 0,1
+                    Dechencholing             2   36XYYY          X = 0,1,2,3,4
+                    Taba                      2   365YYY
+                    Khasadrapchu              2   37XYYY          [X=0,1,2,3,4,5,7,8,9]
+                    Basochu                   2   47XYYY          X = 0,1,2,3,4,5]
+                    Wangdue                   2   48XYYY          X = 0,1
+                    Punakha                   2   58YYYY
+                    Lobesa                    2   376YYY
+                    Gasa                      2   688YYY
+        II          Trongsa                   3   52XYYY          X = 0,1,2
+                    Bubja                     3   525YYY
+                    Baling                    3   526YYY
+                    Tshangkha                 3   527YYY
+                    Dangdung                  3   528XYY          X = 0,1,2
+                    Yebilabtsa                3   5296YY
+                    Namther                   3   540XYY          X = 0,2,3,8,9
+                    Jakar                     3   63XYYY          X = 0,1,2,3,4,5
+                    Chumey                    3   64XYYY          X = 0,1,2,3,4,5
+                    Zhemgang                  3   74XYYY          X = 0,1,2,3,4
+                    Panbang                   3   74XYYY          X = 2,3,4,5,6,7,8,9
+                    Tingtibi                  3   744YYY
+       III          Trashigang                4   52XYYY          X = 0,1,2,3,4
+                    Kanglung                  4   535YYY
+                    Bartsham                  4   53900Y
+                                              4   563YYY
+                    Lhuntse                   4   54XYYY          X =5,7,8,9
+                    Rangjung                  4   56XYYY          X = 0,1,2
+                    Wamrong                   4   57XYYY          X = 0,1,2,3
+                    Khaling                   4   58XYYY          X = 0,1,2,3
+                    Mongar                    4   64XYYY          X = 0,1
+                    Gelpoyshing               4   74XYYY          X = 4,5
+                    TrashiYangtse             4   78XYYY          X = 0,1
+       IV           Phuntsholing              5   25XYYY          X = 0,1,2,3,4,8,9
+                    Pasakha                   5   26XYYY          X = 0,1,2,3,4
+                    Gedu                      5   28XYYY          X = 0,1,2
+                    Tsimasham                 5   290XYY          X = 0,1
+                    Wangkha                   5   2904YY
+                    TrashiGatshel             5   2906XY          X = 0,1,2,3,4
+                    Samtse                    5   36XYYY          X = 5,6
+                    Gomtu                     5   37XYYY          X = 0,1,2,3
+                    Chargary                  5   38XYYY          X = 0,1
+                    Sibsoo                    5   382YYY
+
+
+
+
+ Operational Area                Locality             Area Code       Subscriber                     Remark
+                                                                    Number Range
+            V            Gelephu                               6   25XYYY                  X = 0,1,2,3,4
+                         Suray                                 6   255YYY
+                         Sarpang                               6   365YYY
+                         Tsirang [Damphu]                      6   47XYYY                  X = 0,1,2,3,4
+                         Drujegang                             6   48XYYY                  X = 7,8
+            VI           S/Jongkhar                            7   25XYYY                  X = 0,1,2
+                         Deothang                              7   26XYYY                  X = 0,1,2
+                         Daifam /                              7   264XYY                  X = 0,1
+                         Jomotshangkha
+                         P/Gatshel                             7   47XYYY                  X = 0,1,2,3,4,5
+                         Nganglam                              7   480YYY
+                                                               7   481XYY                  X = 0,1,2,3,4,5
+            VII          Paro                                  8   27XYYY                  X = 0,1
+                         Haa                                   8   37XYYY                  X = 5,6
+                                                               8   373YYY
+                         Haa (Damthang)                        8   371YYY
+                         Chapcha                               8   471YYY
+                                                               8   2407YY
+                         Tsimasham                             8   478YYY
+
+Notes:
+Y= 0 to 9
+
+                  List of some of the short access codes for essential emergency and security services:
+
+
+                     Number                                        Service
+
+
+                       110          Fire
+
+
+                       111          Thimphu Traffic
+
+
+                       112          Health Help Centre / Ambulance Services
+
+
+                       113          Police
+
+
+Contact:
+            Bhutan InfoComm and Media Authority (BICMA)
+            P.O. Box 1072
+            THIMPHU
+            Bhutan
+            Tel:    +975 2 321506/+975 2 321507
+            E-mail: bicma@bicma.bt; spectrum@bicma.bt
+            URL:    www.bicma.gov.bt
+
+
+
+
+   Morocco (country code +212)
+   Communication of 27.IX.2021:
+   The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following
+   updates to the national telephone-numbering plan of Morocco.
+
+   •      Description of introduction of new resource for national E.164 numbering plan for country code +212:
+
+             NDC (national               N(S)N number length
+          destination code) or
+        leading digits of N(S)N        Maximum        Minimum         Usage of E.164 number            Additional information
+         (national (significant)        length         length
+                number)
+                  714                      9             9           Mobile services 2G/3G/4G      Wana Corporate 1
+                  715                      9             9           Mobile services 2G/3G/4G      Wana Corporate
+
+   1
+       : INWI
+
+   Contact:
+                Agence Nationale de Réglementation des Télécommunications (ANRT)
+                Centre d'affaires
+                Boulevard Ar-Riad, Hay Riad
+                B.P. 2939
+                RABAT 10100
+                Morocco
+                Tel:    +212 5 37 71 85 64
+                E-mail: numerotation@anrt.ma
+                URL:    www.anrt.ma
+
+   Zambia (country code +260)
+   Communication of 22.IX.2021:
+   The Zambia Information & Communications Technology Authority (ZICTA), Lusaka, announces the following
+   update to the national numbering plan of Zambia:
+
+                                          Description of introduction of new resource for
+                                       national E.164 numbering plan for country code +260:
+    NDC (national            N(S)N number length
+ destination code) or
+                                                                                        Time and date         Additional
+   leading digits of        Maximum            Minimum       Usage of E.164 number
+                                                                                        of introduction      Information
+    N(S)N (national          length             length
+(significant) number)
+          63                       9              9       Non-geographic number for     11:41 am CAT      Assigned to
+                                                          VOIP services                 22/09/2021        Liquid Telecom
+                                                                                                          Zambia
+
+                        Presentation of national ITU-T E.164 numbering plan for country code +260
+
+   a)       Overview:
+            The minimum number length (excluding the country code) is nine (9) digits.
+            The maximum number length (excluding the country code) is nine (9) digits.
+
+
+
+
+ b)      Detail of numbering plan
+
+     NDC (national          N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum     Minimum      Usage of E.164 number        Additional information
+ (national (significant)    length      length
+        number)
+            1                 9            9      Future services             Reserved
+           20                 9            9      Geographic number for       Reserved
+                                                  fixed telephony services
+         210                  9            9      Geographic number for       Unusable
+                                                  fixed telephony services
+                                                  (area code)
+         211                  9            9      Geographic number for       Area code for Lusaka Province
+                                                  fixed telephony services    (assigned to ZAMTEL)
+                                                  (area code)
+         212                  9            9      Geographic number for       Area code for Copperbelt
+                                                  fixed telephony services    (assigned to ZAMTEL)
+                                                  (area code)
+         213                  9            9      Geographic number for       Area code for Livingstone
+                                                  fixed telephony services    (assigned to ZAMTEL)
+                                                  (area code)
+         214                  9            9      Geographic number for       Area code for Kasama
+                                                  fixed telephony services    (assigned to ZAMTEL)
+                                                  (area code)
+         215                  9            9      Geographic number for       Area code for Kabwe
+                                                  fixed telephony services    (assigned to ZAMTEL)
+                                                  (area code)
+         216                  9            9      Geographic number for       Area code for Chipata
+                                                  fixed telephony services    (assigned to ZAMTEL)
+                                                  (area code)
+         217                  9            9      Geographic number for       Area code for Solwezi
+                                                  fixed telephony services    (assigned to ZAMTEL)
+                                                  (area code)
+         218                  9            9      Geographic number for       Area code for Mongu
+                                                  fixed telephony services    (assigned to ZAMTEL)
+                                                  (area code)
+         219                  9            9      Geographic number for       Free
+                                                  fixed telephony services
+        22-29                 9            9      Geographic number for       Free
+                                                  fixed telephony services
+                                                  (area code)
+           3                  9            9      Non-geographic number for   Reserved
+                                                  future services
+           4                  9            9      Non-geographic number for   Reserved
+                                                  future services
+           5                  9            9      Non-geographic number for   Reserved
+                                                  future services
+        60-62                 9            9      Non-geographic number for   Free
+                                                  VoIP services
+          63                  9            9      Non-geographic number for   Assigned to Liquid Telecom
+                                                  VoIP services               Zambia
+        64-69                 9            9      Non-geographic number for   Free
+                                                  VoIP services
+        70-74                 9            9      Non-geographic number for   Free
+                                                  mobile Services
+          75                  9            9      Non-geographic number for   Reserved for ZAMTEL
+                                                  mobile services
+
+     NDC (national            N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum       Minimum      Usage of E.164 number            Additional information
+ (national (significant)    length        length
+        number)
+           76                   9            9      Non-geographic number for      Assigned to MTN
+                                                    mobile services
+          77                    9            9      Non-geographic number for      Assigned to Airtel
+                                                    mobile services
+          78                    9            9      Non-geographic number for      Free
+                                                    mobile services
+          79                    9            9      Non-geographic number for      Free
+                                                    mobile services
+            8                   9            9      Non-geographic number for      Free
+                                                    special services (e.g. free-
+                                                    phone numbers, local rate
+                                                    numbers)
+          90                    9            9      Non-geographic number for      Free
+                                                    premium rate services
+        91-94                   9            9      Non-geographic number for      Free
+                                                    mobile services
+          95                    9            9      Non-geographic number for      Assigned to ZAMTEL
+                                                    mobile services
+          96                    9            9      Non-geographic number for      Assigned to MTN
+                                                    mobile services
+          97                    9            9      Non-geographic number for      Assigned to Airtel
+                                                    mobile services
+          98                    9            9      Non-geographic number for      Free
+                                                    mobile services
+          99                    9            9      Non-geographic number for      Free
+                                                    mobile services
+
+
+ Contact:
+         Mr Elliot Kabalo
+         Zambia Information & Communications Technology Authority (ZICTA)
+         Plot 4909, Corner of Independence and United Nations Avenues
+         LUSAKA
+         Zambia
+         Tel:     +260 211 378200
+         Fax:     +260 211 246701
+         E-mail: ekabalo@zicta.zm; numbering@zicta.zm
+         URL:     www.zicta.zm
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                              Abbreviations used
+                                ADD    Insert                     PAR   Paragraph
+                                COL    Column                     REP   Replace
+                                LIR    Read                       SUP   Delete
+                                P      Page(s)
+
+
+
+
+                            List of Issuer Identifier Numbers for
+                    the International Telecommunication Charge Card
+              (in accordance with Recommendation ITU-T E.118 (05/2006))
+                               (Position on 1 December 2018)
+                            (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                             (Amendment No. 56)
+
+
+France     ADD
+
+
+      Country/        Company                          Issuer                 Contact               Effective
+                      Name/Address                   Identifier                                      date of
+ geographical area
+                                                      Number                                         usage
+ France               Netwo                          89 33 39      General information, Netwo      20.IX.2021
+                      35 rue des Jeûneurs                          35 rue des Jeûneurs
+                      75002 PARIS                                  75002 PARIS
+                                                                   E-mail: contact@netwo.io
+
+
+
+
+       Mobile Network Codes (MNC) for the international identification plan
+                     for public networks and subscriptions
+             (According to Recommendation ITU-T E.212 (09/2016))
+                         (Position on 15 December 2018)
+
+                       (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                        (Amendment No. 63)
+
+
+    Country/Geographical area          MCC+MNC *           Operator/Network
+
+    Mexico ADD
+                                            334 180        FREEDOMPOP MÉXICO, S.A. DE C.V.
+
+                                            334 190        VIASAT TECNOLOGÍA, S.A. DE C.V.
+
+    Zambia ADD
+                                             645 07        Liquid Telecom Zambia Limited
+
+    Zambia LIR
+                                             645 01        Airtel Zambia Limited
+
+                                             645 02        MTN Zambia Limited
+
+
+____________
+
+*          MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                           List of ITU Carrier Codes
+            (According to Recommendation ITU-T M.1400 (03/2013))
+                       (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                            (Amendment No. 123)
+
+
+ Country or area/ISO code                           Company Code       Contact
+  Company Name/Address                               (carrier code)
+
+
+Germany (Federal Republic of) / DEU           ADD
+
+ Deutsche Giga Access GmbH                             DEGIGA          Mr Ulf Moehring
+ Zeche Katharina 2                                                     Tel.: +49 201 21767 105
+ D-45307 ESSEN                                                         Email: ulf.moehring@dga-gmbh.com
+
+
+ energis GmbH                                          ENERGS          Mr Jochen Strobel
+ Heinrich-Boecking-Strasse 10 - 14                                     Tel.: +49 681 9069 1570
+ D-66121 SAARBRUECKEN                                                  Fax: +49 681 4030 2632
+                                                                       Email: jochen.strobel@energis.de
+
+ GlasfaserPlus GmbH                                     GFPS           Mr Alexander Overmeyer
+ Landgrabenweg 151                                                     Tel.: +49 171 522 1724
+ 53227 BONN                                                            Email: alexander.overmeyer@telekom.de
+
+
+ multiConnect GmbH                                     MULTIC          Mr Robert Bertol
+ Platzl 2                                                              Tel.: +49 89 139959 0
+ D-80333 MUNICH                                                        Fax: +49 89 139959 959
+                                                                       Email: recht@multiconnect.de
+
+ simple Communication GmbH                             SIMCOM          Mr Stefan Bergmann
+ Salzdahlumer Strasse 196                                              Tel.: +49 531 4905 9000
+ D-38126 BRAUNSCHWEIG                                                  Fax: +49 531 4905 9001
+                                                                       Email: support@simple-communication.de
+
+ Telefon-Systeme Ernst Schmid GmbH                     MCSTSS          Mr Matthias Schmid
+ Schwaerzbuehl 8                                                       Tel.: +49 7584 920313
+ D-88361 ALTSHAUSEN                                                    Fax: +49 7584 3303
+                                                                       Email: info@mcs-schmid.de
+
+
+Germany (Federal Republic of) / DEU           LIR
+
+ Vattenfall Eurofiber GmbH                              VBIG           Mrs Ute Irene Hindenlang
+ Hardenbergstrasse 32                                                  Tel.: +49 152 3770 3416
+ D-10623 BERLIN                                                        E-mail : ute.hindenlang@vattenfall-eurofiber.de
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 24)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point         Name of the signalling point operator
+
+
+ Egypt ADD
+ 6-003-6       12318        SGW                                         Telecom Egypt
+ 6-003-7       12319        MSC                                         Telecom Egypt
+ 6-004-4       12324        vCTC Ramsis                                 Telecom Egypt
+ 6-004-7       12327        Vctc Auto                                   Telecom Egypt
+ 6-005-0       12328        IP-STP Ramsis                               Telecom Egypt
+ 6-005-1       12329        IP-STP Auto                                 Telecom Egypt
+ 6-005-7       12335        EL AMMARIYA INT                             Telecom Egypt
+
+ Egypt LIR
+ 6-004-2       12322        Heliopolis                                  Orange
+ 6-004-3       12323        Obour                                       Orange
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                          Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.IX.2021, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                             Country/ Geographical area                      Country Code (CC)
+                  Kuwait                                                              +965
+                  Paraguay                                                            +595
+
+
+
+
