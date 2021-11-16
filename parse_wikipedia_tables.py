@@ -88,20 +88,21 @@ is_text_valid   = lambda t: True if t.strip() and not RE_TEXT_INVAL.search(t) el
 
 
 SOVEREIGNITY_LUT = {
-    'Finland'           : 'FI',
-    'United States'     : 'US',
-    'United Kingdom'    : 'GB',
-    'Netherlands'       : 'NL',
-    'Norway'            : 'NO',
-    'Australia'         : 'AU',
-    'New Zealand'       : 'NZ',
-    'Denmark'           : 'DK',
-    'France'            : 'FR',
-    'British Crown'     : 'GB', # this is not exactly true, however...
-    'China'             : 'CN',
-    'UN member state'   : 'UN member',
-    'UN observer'       : 'UN observer',
-    'Antarctic Treaty'  : 'Antarctica',
+    'finland'           : 'FI',
+    'united states'     : 'US',
+    'united kingdom'    : 'GB',
+    'netherlands'       : 'NL',
+    'norway'            : 'NO',
+    'australia'         : 'AU',
+    'new zealand'       : 'NZ',
+    'denmark'           : 'DK',
+    'france'            : 'FR',
+    'british crown'     : 'GB', # this is not exactly true, however...
+    'china'             : 'CN',
+    'un member state'   : 'UN member',
+    'un observer'       : 'UN observer',
+    'un observer state' : 'UN observer',
+    'antarctic treaty'  : 'Antarctica',
     'disputed'          : 'disputed'
     }
 
@@ -158,7 +159,7 @@ def read_entry_iso3166(T, off):
     #
     rec['country_name'], rec['country_url'] = _get_country_url(L[0])
     rec['state_name']   = explore_text(L[1]).text.strip()
-    rec['sovereignity'] = SOVEREIGNITY_LUT[explore_text(L[2]).text.strip()]
+    rec['sovereignity'] = SOVEREIGNITY_LUT[explore_text(L[2]).text.strip().lower()]
     rec['code_alpha_2'] = explore_text(L[3]).text.strip().upper()
     rec['code_alpha_3'] = explore_text(L[4]).text.strip().upper()
     rec['code_num']     = explore_text(L[5]).text.strip()
