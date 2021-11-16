@@ -306,7 +306,7 @@ P1_MSISDNEXT = \
   '853': ['Macau'],
   '855': ['Cambodia'],
   '856': ['Laos'],
-  '86': ['China', 'Great Wall Station', 'Zhongshan (Sun Yat-Sen) Station'],
+  '86': ['China', 'Great Wall Station', 'Zhongshan Station'],
   '870': ['Inmarsat SNAC'],
   '878': ['Universal Personal Telecommunications'],
   '880': ['Bangladesh'],

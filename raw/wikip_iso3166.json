@@ -36,8 +36,8 @@
       "code_alpha_2": "AF",
       "code_alpha_3": "AFG",
       "code_num": "004",
-      "country_name": "Afghanistan",
-      "country_url": "https://en.wikipedia.org/wiki/Afghanistan",
+      "country_name": "Islamic Republic of Afghanistan",
+      "country_url": "https://en.wikipedia.org/wiki/Islamic_Republic_of_Afghanistan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AF",
       "sovereignity": "UN member",
       "state_name": "The Islamic Republic of Afghanistan"
@@ -1780,7 +1780,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Macau",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MO",
       "sovereignity": "CN",
-      "state_name": "Macao Special Administrative Region of China"
+      "state_name": "The Macao Special Administrative Region of China"
     },
     "MP": {
       "cc_tld": ".mp",
@@ -2592,8 +2592,8 @@
       "code_alpha_2": "TF",
       "code_alpha_3": "ATF",
       "code_num": "260",
-      "country_name": "French Southern Territories",
-      "country_url": "https://en.wikipedia.org/wiki/French_Southern_Territories",
+      "country_name": "French Southern and Antarctic Lands",
+      "country_url": "https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TF",
       "sovereignity": "FR",
       "state_name": "The French Southern and Antarctic Lands"

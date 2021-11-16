@@ -82,6 +82,7 @@ WIKIP_COUNTRY = \
   'Equatorial Guinea': ['240'],
   'Eritrea': ['291'],
   'Estonia': ['372'],
+  'Eswatini': ['268'],
   'Ethiopia': ['251'],
   'Falkland Islands': ['500'],
   'Faroe Islands': ['298'],
@@ -281,5 +282,4 @@ WIKIP_COUNTRY = \
   'Zambia': ['260'],
   'Zanzibar': ['25524'],
   'Zimbabwe': ['263'],
-  'eSwatini': ['268'],
   'Åland Islands': ['35818']}

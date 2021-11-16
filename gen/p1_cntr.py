@@ -54,7 +54,7 @@ P1_CNTR = \
                                                     'work on the &lsquo',
                                                     "Wakhan Corridor Fiber Optic Survey Project' to connect to China "
                                                     'is nearing completion',
-                                                    'major importer of broadcasting equipment from UAE (2020)',
+                                                    'major importer of broadcasting equipment from UAE',
                                                     2020],
                                        'intl': [ "multiple VSAT's provide international and domestic voice and data "
                                                  'connectivity',
@@ -82,7 +82,7 @@ P1_CNTR = \
                    'mccmnc': ['41201', '41220', '41230', '41240', '41250', '41255', '41280', '41288'],
                    'msisdn': ['93'],
                    'name': 'Afghanistan',
-                   'url': 'https://en.wikipedia.org/wiki/Afghanistan'},
+                   'url': 'https://en.wikipedia.org/wiki/Islamic_Republic_of_Afghanistan'},
   'Akrotiri and Dhekelia': { 'cc2': 'AK',
                              'dep': 'GB',
                              'infos': { 'codes': {},
@@ -135,7 +135,7 @@ P1_CNTR = \
                                                 'mobile sector is supported through LTE networks',
                                                 'operators have invested in 5G, including the intention to create a '
                                                 'corridor with Kosovo',
-                                                'importer of broadcasting equipment from EU neighbors (2021)',
+                                                'importer of broadcasting equipment from EU neighbors',
                                                 2020],
                                    'intl': [ 'submarine cables for the Adria 1 and Italy-Albania provide connectivity '
                                              'to Italy, Croatia, and Greece',
@@ -157,7 +157,7 @@ P1_CNTR = \
                                              'the crucial nature of telecom services as a tool for work and school '
                                              'from home became evident, and received some support from governments',
                                              0],
-                                   'subs': {'bb': 436192, 'fix': 242859, 'internet': 2196613, 'mob': 2630076},
+                                   'subs': {'bb': 508937, 'fix': 223469, 'internet': 2196613, 'mob': 2618880},
                                    'tld': '.al',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.al'}},
                'mcc': ['276'],
@@ -204,7 +204,7 @@ P1_CNTR = \
                                                 'in common with other markets in the region, mobile connections '
                                                 'account for the vast majority of Internet accesses',
                                                 'well served by satellite and submarine cable connections',
-                                                'importer of broadcasting equipment from China (2021)',
+                                                'importer of broadcasting equipment from China',
                                                 2020],
                                    'intl': [ 'ALPAL-2 is a submarine telecommunications cable system in the '
                                              'Mediterranean Sea linking Algeria and the Spanish Balearic island of '
@@ -232,7 +232,7 @@ P1_CNTR = \
                                              'the crucial nature of telecom services as a tool for work and school '
                                              'from home became evident, and received some support from governments',
                                              0],
-                                   'subs': {'bb': 3582739, 'fix': 4635217, 'internet': 24819531, 'mob': 47081131},
+                                   'subs': {'bb': 3790459, 'fix': 4784306, 'internet': 24819531, 'mob': 45555673},
                                    'tld': '.dz',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.dz'}},
                'mcc': ['603'],
@@ -376,8 +376,8 @@ P1_CNTR = \
                                                'education and health care',
                                                'AngoSat-2 satellite expected to be ready in 2021',
                                                'government aims to connect an additional 160,000 people to free Wi-Fi',
-                                               'importer of broadcasting equipment from China (2021)',
-                                               2020],
+                                               'importer of broadcasting equipment from China',
+                                               2021],
                                   'intl': [ 'landing points for the SAT-3/WASC, WACS, ACE and SACS fiber-optic '
                                             'submarine cable that provides connectivity to other countries in west '
                                             'Africa, Brazil, Europe and Asia',
@@ -396,7 +396,7 @@ P1_CNTR = \
                                             'the crucial nature of telecom services as a tool for work and school from '
                                             'home became evident, and received some support from governments',
                                             0],
-                                  'subs': {'bb': 119068, 'fix': 124726, 'internet': 4353033, 'mob': 14830154},
+                                  'subs': {'bb': 230610, 'fix': 119164, 'internet': 4353033, 'mob': 14645050},
                                   'tld': '.ao',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.ao'}},
               'mcc': ['631'],
@@ -445,9 +445,11 @@ P1_CNTR = \
                                               'large-scale job losses and the consequent restriction on disposable '
                                               'incomes',
                                               'the crucial nature of telecom services as a tool for work and school '
-                                              'from home became evident, and received some support from governments',
+                                              'from home became evident, and received some support from governments '
+                                              'but the contribution to the sector has been insufficient to offset '
+                                              'steep falls in other areas of the market',
                                               0],
-                                    'subs': {'fix': 7461, 'internet': 14211, 'mob': 32332},
+                                    'subs': {'fix': 6000, 'internet': 14211, 'mob': 26000},
                                     'tld': '.ai',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.ai'}},
                 'mcc': ['365'],
@@ -532,7 +534,7 @@ P1_CNTR = \
                                                          'and school from home became evident, and received some '
                                                          'support from governments',
                                                          0],
-                                               'subs': {'bb': 9261, 'fix': 24403, 'internet': 72870, 'mob': 187095},
+                                               'subs': {'bb': 9261, 'fix': 24000, 'internet': 72870, 'mob': 184000},
                                                'tld': '.ag',
                                                'url_tld': 'https://en.wikipedia.org/wiki/.ag'}},
                            'mcc': ['344'],
@@ -556,7 +558,7 @@ P1_CNTR = \
                                      'coast': 4989,
                                      'coord': ['34 00 S, 64 00 W'],
                                      'popul': 45864941,
-                                     'ports': { 'container': 'Buenos Aires (1,851,701)',
+                                     'ports': { 'container': 'Buenos Aires (1,485,328) (2019)',
                                                 'seaport': 'Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, '
                                                            'Ushuaia'},
                                      'region': 'South America',
@@ -582,8 +584,8 @@ P1_CNTR = \
                                                   'submarine system linking Sao Paolo and Rio De Janeiro with Buenos '
                                                   'Aires is operational',
                                                   'national operator increased investment in Uruguay',
-                                                  'importer of broadcasting equipment from China (2021)',
-                                                  2020],
+                                                  'importer of broadcasting equipment from China',
+                                                  2021],
                                      'intl': [ 'landing points for the UNISUR, Bicentenario, Atlantis-2, SAm-1, and '
                                                'SAC, Tannat, Malbec and ARBR submarine cable systems that provide '
                                                'links to Europe, Africa, South and Central America, and US',
@@ -602,7 +604,7 @@ P1_CNTR = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0],
-                                     'subs': {'bb': 8793181, 'fix': 7757243, 'internet': 33203320, 'mob': 56352947},
+                                     'subs': {'bb': 9571562, 'fix': 7356165, 'internet': 33203320, 'mob': 54763900},
                                      'tld': '.ar',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.ar'}},
                  'mcc': ['722'],
@@ -660,7 +662,7 @@ P1_CNTR = \
                                                 'government approved plans for a new data center built via '
                                                 'public-private partnership',
                                                 'communication technologies sectors have attracted foreign investment',
-                                                'top importer of broadcast equipment from China (2021)',
+                                                'top importer of broadcast equipment from China',
                                                 2020],
                                    'intl': [ 'Yerevan is connected to the Caucasus Cable System fiber-optic cable '
                                              'through Georgia and Iran to Europe',
@@ -683,7 +685,7 @@ P1_CNTR = \
                                              'the crucial nature of telecom services as a tool for work and school '
                                              'from home became evident, and received some support from governments',
                                              0],
-                                   'subs': {'bb': 385704, 'fix': 451571, 'internet': 1966942, 'mob': 3618747},
+                                   'subs': {'bb': 430407, 'fix': 427539, 'internet': 1966942, 'mob': 3488797},
                                    'tld': '.am',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.am'}},
                'mcc': ['283'],
@@ -740,7 +742,7 @@ P1_CNTR = \
                                            'the crucial nature of telecom services as a tool for work and school from '
                                            'home became evident, and received some support from governments',
                                            0],
-                                 'subs': {'fix': 39582, 'internet': 113277, 'mob': 159471},
+                                 'subs': {'bb': 19000, 'fix': 35000, 'internet': 113277, 'mob': 141000},
                                  'tld': '.aw',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.aw'}},
              'mcc': ['363'],
@@ -768,9 +770,10 @@ P1_CNTR = \
                                      'coast': 25760,
                                      'coord': ['27 00 S, 133 00 E'],
                                      'popul': 25809973,
-                                     'ports': { 'container': 'Melbourne (2,806,436), Sydney (2,530,122) (2017)',
-                                                'seaport': 'Brisbane, Cairns, Darwin, Fremantle, Geelong, Gladstone, '
-                                                           'Hobart, Melbourne, Newcastle, Port Adelaide, Port Kembla, '
+                                     'ports': { 'container': 'Melbourne (2,967,315), Sydney (2,572,714) (2019)',
+                                                'seaport': '<em><br />Indian Ocean:</em> Adelaide, Darwin, Fremantle, '
+                                                           'Geelong, Melbourne<br /><em>Pacific Ocean:</em> Brisbane, '
+                                                           'Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, '
                                                            'Sydney'},
                                      'region': 'Oceania',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AU',
@@ -797,7 +800,7 @@ P1_CNTR = \
                                                   'fiber backbone to connect with submarine cables',
                                                   'Oman-Australia cable to be completed by end of 2021',
                                                   "two of Australia's major imports are broadcast equipment and "
-                                                  'computers from China (2021)',
+                                                  'computers from China',
                                                   2020],
                                      'intl': [ 'landing points for more than 20 submarine cables including: the '
                                                'SeaMeWe-3 optical telecommunications submarine cable with links to '
@@ -825,7 +828,7 @@ P1_CNTR = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0],
-                                     'subs': {'bb': 8752830, 'fix': 7820000, 'internet': 21419302, 'mob': 27880000},
+                                     'subs': {'bb': 8937550, 'fix': 6200000, 'internet': 21419302, 'mob': 27454000},
                                      'tld': '.au',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.au'}},
                  'mcc': ['505'],
@@ -881,6 +884,7 @@ P1_CNTR = \
                              '50551',
                              '50552',
                              '50553',
+                             '50554',
                              '50561',
                              '50562',
                              '50568',
@@ -935,7 +939,7 @@ P1_CNTR = \
                                                 "EU-funded projects develop infrastructure to enable an 'Internet of "
                                                 'Services',
                                                 'Vienna is a smart city',
-                                                'importer of broadcasting equipment from Vietnam and China (2021)',
+                                                'importer of broadcasting equipment from Vietnam and China',
                                                 2020],
                                    'intl': [ 'earth stations available in the Astra, Intelsat, Eutelsat satellite '
                                              'systems',
@@ -953,7 +957,7 @@ P1_CNTR = \
                                              'the crucial nature of telecom services as a tool for work and school '
                                              'from home became evident, and received some support from governments',
                                              0],
-                                   'subs': {'bb': 2519000, 'fix': 3722128, 'internet': 7712665, 'mob': 10726000},
+                                   'subs': {'bb': 2606000, 'fix': 3786725, 'internet': 7712665, 'mob': 10682294},
                                    'tld': '.at',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.at'}},
                'mcc': ['232'],
@@ -1032,7 +1036,7 @@ P1_CNTR = \
                                                    'fixed-line broadband market has slight upward trend',
                                                    'Internet access is expensive and suffers from outages and '
                                                    'intentional government disruption',
-                                                   'importer of broadcasting equipment from Russia (2021)',
+                                                   'importer of broadcasting equipment from Russia',
                                                    2020],
                                       'intl': [ 'the TAE fiber-optic link transits Azerbaijan providing international '
                                                 'connectivity to neighboring countries',
@@ -1052,7 +1056,7 @@ P1_CNTR = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0],
-                                      'subs': {'bb': 1943013, 'fix': 1673211, 'internet': 8017120, 'mob': 10750300},
+                                      'subs': {'bb': 1995474, 'fix': 1652688, 'internet': 8017120, 'mob': 10344300},
                                       'tld': '.az',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.az'}},
                   'mcc': ['400'],
@@ -1082,7 +1086,7 @@ P1_CNTR = \
                                    'domestic': [ '17 per 100 fixed-line, 116 per 100 mobile-cellular',
                                                  'modern fiber-optic integrated services',
                                                  'digital network with rapidly expanding mobile-cellular telephones',
-                                                 2019],
+                                                 2020],
                                    'general': [ 'Bahrain is one of the most technically advanced and connected '
                                                 'countries in the world',
                                                 'NGN for increased mobile and Wi-Fi traffic',
@@ -1093,7 +1097,7 @@ P1_CNTR = \
                                                 'regulator controlled by monarchy',
                                                 'Internet freedom restricted through blocks',
                                                 'well served by satellite and submarine cable access',
-                                                'importer of broadcasting equipment from UAE (2021)',
+                                                'importer of broadcasting equipment from UAE',
                                                 2020],
                                    'intl': [ 'landing points for the FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG '
                                              'submarine cable network that provides links to Asia, the Middle East, '
@@ -1115,7 +1119,7 @@ P1_CNTR = \
                                              'the crucial nature of telecom services as a tool for work and school '
                                              'from home became evident, and received some support from governments',
                                              0],
-                                   'subs': {'bb': 140992, 'fix': 272614, 'internet': 1423039, 'mob': 1900361},
+                                   'subs': {'bb': 148595, 'fix': 266659, 'internet': 1423039, 'mob': 1748672},
                                    'tld': '.bh',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.bh'}},
                'mcc': ['426'],
@@ -1132,7 +1136,8 @@ P1_CNTR = \
                                       'coast': 580,
                                       'coord': ['24 00 N, 90 00 E'],
                                       'popul': 164098818,
-                                      'ports': {'container': 'Chattogram (2,566,597) (2017)', 'seaport': 'Chattogram'},
+                                      'ports': { 'container': 'Chattogram (Chittagong) (3,088,187) (2019)',
+                                                 'seaport': 'Chattogram (Chittagong)'},
                                       'region': 'Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BD',
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bangladesh'},
@@ -1159,7 +1164,7 @@ P1_CNTR = \
                                                    'government directive allows IoT for smart buildings and automation '
                                                    'industries',
                                                    'government project aims to provide network to services and schools',
-                                                   'importer of broadcasting equipment from China (2021)',
+                                                   'importer of broadcasting equipment from China',
                                                    2020],
                                       'intl': [ 'landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic submarine '
                                                 'cable system that provides links to Europe, the Middle East, and Asia',
@@ -1180,7 +1185,7 @@ P1_CNTR = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0],
-                                      'subs': {'bb': 8085500, 'fix': 1449646, 'internet': 23917950, 'mob': 165572000},
+                                      'subs': {'bb': 9521970, 'fix': 1450321, 'internet': 23917950, 'mob': 170136762},
                                       'tld': '.bd',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.bd'}},
                   'mcc': ['470'],
@@ -1278,7 +1283,7 @@ P1_CNTR = \
                                                 'operators provide standalone 5G service and NB-IoT services',
                                                 'international connection through fiber optic and terrestrial link, '
                                                 'nascent satellite system',
-                                                'importer of broadcasting equipment from China (2021)',
+                                                'importer of broadcasting equipment from China',
                                                 2020],
                                    'intl': [ 'Belarus is landlocked and therefore a member of the Trans-European Line '
                                              '(TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the '
@@ -1303,7 +1308,7 @@ P1_CNTR = \
                                              'the crucial nature of telecom services as a tool for work and school '
                                              'from home became evident, and received some support from governments',
                                              0],
-                                   'subs': {'bb': 3214869, 'fix': 4451144, 'internet': 7539145, 'mob': 11627249},
+                                   'subs': {'bb': 3255552, 'fix': 4406585, 'internet': 7539145, 'mob': 11704084},
                                    'tld': '.by',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.by'}},
                'mcc': ['257'],
@@ -1324,7 +1329,7 @@ P1_CNTR = \
                                    'coast': 66,
                                    'coord': ['50 50 N, 4 00 E'],
                                    'popul': 11778842,
-                                   'ports': { 'container': 'Antwerp (10,450,000) (2017)',
+                                   'ports': { 'container': 'Antwerp (11,860,204) (2019)',
                                               'seaport': 'Oostende, Zeebrugge'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BE',
@@ -1341,7 +1346,7 @@ P1_CNTR = \
                                                  'nationwide mobile-cellular telephone system',
                                                  'extensive cable network',
                                                  'limited microwave radio relay network',
-                                                 2019],
+                                                 2020],
                                    'general': [ 'Belgium has a highly developed, technologically advanced telecom '
                                                 'system',
                                                 'LTE is nearly universal',
@@ -1353,7 +1358,7 @@ P1_CNTR = \
                                                 'Brussels Airport collaborating with operator to deploy 5G and IoT '
                                                 'solutions',
                                                 'international connections through satellite and submarine cables',
-                                                'importer of broadcast equipment from EU neighbors (2021)',
+                                                'importer of broadcast equipment from EU neighbors',
                                                 2020],
                                    'intl': [ 'landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, '
                                              'submarine cables that provide links to Europe, the Middle East, '
@@ -1373,7 +1378,7 @@ P1_CNTR = \
                                              'the crucial nature of telecom services as a tool for work and school '
                                              'from home became evident, and received some support from governments',
                                              0],
-                                   'subs': {'bb': 4590707, 'fix': 3930410, 'internet': 10258638, 'mob': 11509573},
+                                   'subs': {'bb': 4734210, 'fix': 3634639, 'internet': 10258638, 'mob': 11529728},
                                    'tld': '.be',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.be'}},
                'mcc': ['206'],
@@ -1437,7 +1442,7 @@ P1_CNTR = \
                                                'operator launched safe cities project to fight crime',
                                                'government distributed tablets to students to promote e-learning',
                                                'submarine cable to Ambergris Caye enables FttP service in San Pedro',
-                                               'importer of broadcast equipment from the United States (2021)',
+                                               'importer of broadcast equipment from the United States',
                                                2020],
                                   'intl': [ 'landing points for the ARCOS and SEUL fiber-optic telecommunications '
                                             'submarine cable that provides links to South and Central America, parts '
@@ -1500,8 +1505,8 @@ P1_CNTR = \
                                               'Benin Smart City construction has begun',
                                               'improved international Internet connectivity supports growth of '
                                               'm-commerce and m-banking',
-                                              'submarine cable connectivity from African coast to Europe (2021)',
-                                              2019],
+                                              'submarine cable connectivity from African coast to Europe',
+                                              2020],
                                  'intl': [ 'landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that '
                                            'provides connectivity to Europe, and most West African countries',
                                            'satellite earth stations - 7 (Intelsat-Atlantic Ocean)',
@@ -1519,7 +1524,7 @@ P1_CNTR = \
                                            'the crucial nature of telecom services as a tool for work and school from '
                                            'home became evident, and received some support from governments',
                                            0],
-                                 'subs': {'bb': 25032, 'fix': 35917, 'internet': 2403596, 'mob': 10349847},
+                                 'subs': {'bb': 29981, 'fix': 32386, 'internet': 2403596, 'mob': 11140891},
                                  'tld': '.bj',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.bj'}},
              'mcc': ['616'],
@@ -1568,7 +1573,7 @@ P1_CNTR = \
                                              'the crucial nature of telecom services as a tool for work and school '
                                              'from home became evident, and received some support from governments',
                                              0],
-                                   'subs': {'fix': 24808, 'internet': 70016, 'mob': 73680},
+                                   'subs': {'bb': 21883, 'fix': 21883, 'internet': 70016, 'mob': 64997},
                                    'tld': '.bm',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.bm'}},
                'mcc': ['350'],
@@ -1616,8 +1621,8 @@ P1_CNTR = \
                                                'regulator developing 5G plan',
                                                'international communication through landline and microwave relay',
                                                'nascent satellite service',
-                                               'importer of broadcast equipment from India (2021)',
-                                               2020],
+                                               'importer of broadcast equipment from India',
+                                               2021],
                                   'intl': [ 'international telephone and telegraph service via landline and microwave '
                                             'relay through India',
                                             'satellite earth station - 1 Intelsat',
@@ -1688,8 +1693,8 @@ P1_CNTR = \
                                                 'space agency plans to boost satellite-based Internet',
                                                 'in 2020, communications towers in Yapacani were destroyed due to '
                                                 'pandemic conspiracy fears',
-                                                'importer of broadcasting equipment from China (2021)',
-                                                2020],
+                                                'importer of broadcasting equipment from China',
+                                                2021],
                                    'intl': [ 'Bolivia has no direct access to submarine cable networks and must '
                                              'therefore connect to the rest of the world either via satellite or '
                                              'through terrestrial links across neighboring countries',
@@ -1782,8 +1787,8 @@ P1_CNTR = \
                                                                'fixed-line infrastructure is insufficient',
                                                                'LTE services under test licenses',
                                                                '5G awaits market maturity',
-                                                               'importer of broadcasting equipment from China (2021)',
-                                                               2020],
+                                                               'importer of broadcasting equipment from China',
+                                                               2021],
                                                   'intl': ['no satellite earth stations', 0],
                                                   'note': [ 'the COVID-19 pandemic continues to have a significant '
                                                             'impact on production and supply chains globally',
@@ -1911,9 +1916,10 @@ P1_CNTR = \
                                   'coast': 7491,
                                   'coord': ['10 00 S, 55 00 W'],
                                   'popul': 213445417,
-                                  'ports': { 'container': 'Santos (3,853,719) (2017)',
-                                             'seaport': 'Belem, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao '
-                                                        'Sebastiao, Tubarao'},
+                                  'ports': { 'container': 'Itajai (1,223,262), Paranagua (865,110), Santos (4,165,248) '
+                                                          '(2019)',
+                                             'seaport': 'Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, '
+                                                        'Sao Sebastiao, Tubarao'},
                                   'region': 'South America',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BR',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/brazil'},
@@ -2272,7 +2278,7 @@ P1_CNTR = \
                                                      'government began computer subsidy program for university '
                                                      'students',
                                                      'government progressed with large project to provide metropolitan '
-                                                     'fiber-optic infrastructure (2021)',
+                                                     'fiber-optic infrastructure',
                                                      2020],
                                         'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
                                         'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -2289,7 +2295,7 @@ P1_CNTR = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0],
-                                        'subs': {'bb': 12015, 'fix': 75291, 'internet': 3158834, 'mob': 20364508},
+                                        'subs': {'bb': 13979, 'fix': 75039, 'internet': 3158834, 'mob': 22117218},
                                         'tld': '.bf',
                                         'url_tld': 'https://en.wikipedia.org/wiki/.bf'}},
                     'mcc': ['613'],
@@ -2502,7 +2508,7 @@ P1_CNTR = \
                                   'coast': 202080,
                                   'coord': ['60 00 N, 95 00 W'],
                                   'popul': 37943231,
-                                  'ports': { 'container': 'Montreal (1,537,669), Vancouver (3,252,225) (2017)',
+                                  'ports': { 'container': 'Montreal (1,745,244), Vancouver (3,398,860) (2019)',
                                              'seaport': 'Halifax, Saint John (New Brunswick), Vancouver'},
                                   'region': 'North America',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CA',
@@ -2807,7 +2813,7 @@ P1_CNTR = \
                                                               'some support from governments',
                                                               0],
                                                     'subs': { 'bb': 499,
-                                                              'fix': 2934,
+                                                              'fix': 2193,
                                                               'internet': 249336,
                                                               'mob': 1595294},
                                                     'tld': '.cf',
@@ -2885,7 +2891,7 @@ P1_CNTR = \
                                  'coast': 6435,
                                  'coord': ['30 00 S, 71 00 W'],
                                  'popul': 18307925,
-                                 'ports': { 'container': 'San Antonio (1,296,890), Valparaiso (1,073,734) (2017)',
+                                 'ports': { 'container': 'San Antonio (1,709,635), Valparaiso (898,715) (2019)',
                                             'seaport': 'Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San '
                                                        'Vicente, Valparaiso'},
                                  'region': 'South America',
@@ -2989,9 +2995,9 @@ P1_CNTR = \
                                  'coast': 14500,
                                  'coord': ['35 00 N, 105 00 E'],
                                  'popul': 1397897720,
-                                 'ports': { 'container': 'Dalian (9,707,000), Guangzhou (18,858,000), Ningbo '
-                                                         '(24,607,000), Qingdao (18,262,000), Shanghai (40,233,000), '
-                                                         'Shenzhen (25,208,000), Tianjin (15,040,000) (2017)',
+                                 'ports': { 'container': 'Dalian (8,760,000), Guangzhou (23,236,200), Ningbo '
+                                                         '(27,530,000), Qingdao (21,010,000), Shanghai (43,303,000), '
+                                                         'Shenzhen (25,770,000), Tianjin (17,264,000) (2019)',
                                             'seaport': 'Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, '
                                                        'Tianjin'},
                                  'region': 'Asia',
@@ -3149,6 +3155,7 @@ P1_CNTR = \
                                     '50551',
                                     '50552',
                                     '50553',
+                                    '50554',
                                     '50561',
                                     '50562',
                                     '50568',
@@ -3246,6 +3253,7 @@ P1_CNTR = \
                                  '50551',
                                  '50552',
                                  '50553',
+                                 '50554',
                                  '50561',
                                  '50562',
                                  '50568',
@@ -3271,8 +3279,9 @@ P1_CNTR = \
                                     'coast': 3208,
                                     'coord': ['4 00 N, 72 00 W'],
                                     'popul': 50355650,
-                                    'ports': { 'container': 'Cartagena (2,663,415) (2017)',
-                                               'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo'},
+                                    'ports': { 'container': 'Buenaventura (1,121,267), Cartagena (2,995,031) (2019)',
+                                               'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, '
+                                                          'Turbo<br />Pacific Ocean - Buenaventura'},
                                     'region': 'South America',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CO',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/colombia'},
@@ -3398,7 +3407,7 @@ P1_CNTR = \
                                              'the crucial nature of telecom services as a tool for work and school '
                                              'from home became evident, and received some support from governments',
                                              0],
-                                   'subs': {'bb': 1181, 'fix': 10042, 'internet': 69635, 'mob': 575218},
+                                   'subs': {'bb': 912, 'fix': 7573, 'internet': 69635, 'mob': 472815},
                                    'tld': '.km',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.km'}},
                'mcc': ['654'],
@@ -4110,7 +4119,7 @@ P1_CNTR = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0],
-                                    'subs': {'bb': 24416, 'fix': 37107, 'internet': 492221, 'mob': 413866},
+                                    'subs': {'bb': 25053, 'fix': 38866, 'internet': 492221, 'mob': 434035},
                                     'tld': '.dj',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.dj'}},
                 'mcc': ['638'],
@@ -4597,7 +4606,7 @@ P1_CNTR = \
                                              'the crucial nature of telecom services as a tool for work and school '
                                              'from home became evident, and received some support from governments',
                                              0],
-                                   'subs': {'bb': 600, 'fix': 116882, 'internet': 78215, 'mob': 1226660},
+                                   'subs': {'bb': 1000, 'fix': 66170, 'internet': 78215, 'mob': 695000},
                                    'tld': '.er',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.er'}},
                'mcc': ['657'],
@@ -4816,7 +4825,7 @@ P1_CNTR = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0],
-                                    'subs': {'bb': 580120, 'fix': 1095946, 'internet': 19118470, 'mob': 38147361},
+                                    'subs': {'bb': 62950, 'fix': 1181000, 'internet': 19118470, 'mob': 39600000},
                                     'tld': '.et',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.et'}},
                 'mcc': ['636'],
@@ -5189,7 +5198,8 @@ P1_CNTR = \
                                   'popul': 68084217,
                                   'ports': { 'container': 'Le Havre (2,822,910) (2019)',
                                              'ferry': 'Calais, Cherbourg, Le Havre',
-                                             'seaport': 'Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes,'},
+                                             'seaport': '<br /><em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le '
+                                                        'Havre, Nantes<br /><em>Mediterranean Sea:</em> Marseille'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FR',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/france'},
@@ -5448,7 +5458,7 @@ P1_CNTR = \
                                    'mccmnc': [],
                                    'msisdn': ['262'],
                                    'name': 'French Southern Territories',
-                                   'url': 'https://en.wikipedia.org/wiki/French_Southern_Territories'},
+                                   'url': 'https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands'},
   'Gabon': { 'cc2': 'GA',
              'dep': None,
              'infos': { 'codes': {'cc3': 'GAB', 'ccn': '266', 'gec': 'GB', 'stan': 'GAB'},
@@ -5607,7 +5617,9 @@ P1_CNTR = \
                                    'coord': ['51 00 N, 9 00 E'],
                                    'popul': 79903481,
                                    'ports': { 'container': 'Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)',
-                                              'seaport': 'Baltic Sea - Rostock'},
+                                              'seaport': '<br /><em>Baltic Sea:</em> Kiel, Rostock<br /><em>North '
+                                                         'Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, '
+                                                         'Wilhelmshaven'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DE',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/germany'},
@@ -7663,6 +7675,7 @@ P1_CNTR = \
                          '22237',
                          '22238',
                          '22239',
+                         '22241',
                          '22243',
                          '22244',
                          '22247',
@@ -7809,7 +7822,7 @@ P1_CNTR = \
                                    'tld': '.jm',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.jm'}},
                'mcc': ['338'],
-               'mccmnc': ['338020', '338040', '338050', '338070', '338110', '338180'],
+               'mccmnc': ['338020', '338040', '338050', '338070', '338080', '338110', '338180'],
                'msisdn': ['1', '1658', '1876'],
                'name': 'Jamaica',
                'url': 'https://en.wikipedia.org/wiki/Jamaica'},
@@ -7973,6 +7986,13 @@ P1_CNTR = \
                          '44100',
                          '44101',
                          '44110',
+                         '441200',
+                         '441201',
+                         '441202',
+                         '441203',
+                         '441204',
+                         '441205',
+                         '441206',
                          '44140',
                          '44141',
                          '44142',
@@ -8232,7 +8252,7 @@ P1_CNTR = \
                                            'the crucial nature of telecom services as a tool for work and school from '
                                            'home became evident, and received some support from governments',
                                            0],
-                                 'subs': {'bb': 491183, 'fix': 70394, 'internet': 9129243, 'mob': 54555497},
+                                 'subs': {'bb': 674191, 'fix': 66646, 'internet': 9129243, 'mob': 61408904},
                                  'tld': '.ke',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.ke'}},
              'mcc': ['639'],
@@ -8545,7 +8565,7 @@ P1_CNTR = \
                                 'tld': '.la',
                                 'url_tld': 'https://en.wikipedia.org/wiki/.la'}},
             'mcc': ['457'],
-            'mccmnc': ['45701', '45702', '45703', '45708'],
+            'mccmnc': ['45701', '45702', '45703', '45707', '45708'],
             'msisdn': ['856'],
             'name': 'Laos',
             'url': 'https://en.wikipedia.org/wiki/Laos'},
@@ -9071,7 +9091,8 @@ P1_CNTR = \
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/macau'},
                         'nameset': [ 'macao special administrative region of china',
                                      'macau',
-                                     'macau special administrative region'],
+                                     'macau special administrative region',
+                                     'the macao special administrative region of china'],
                         'tel': { 'code': '853',
                                  'domestic': ['fixed-line 20 per 100 and mobile-cellular 345 per 100 persons', 2019],
                                  'general': [ "Macau's sophisticated telecom market boasts one of the highest mobile "
@@ -9803,6 +9824,8 @@ P1_CNTR = \
                           '334150',
                           '334160',
                           '334170',
+                          '334180',
+                          '334190',
                           '33450'],
               'msisdn': ['52'],
               'name': 'Mexico',
@@ -10095,8 +10118,8 @@ P1_CNTR = \
                                    'coord': ['28 30 N, 10 00 W'],
                                    'popul': 36561813,
                                    'ports': { 'container': 'Tangier (4,801,713) (2019)',
-                                              'seaport': 'Ad Dakhla, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), '
-                                                         'Mohammedia, Safi, Tangier'},
+                                              'seaport': 'Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El '
+                                                         'Aaiun), Mohammedia, Safi, Tangier'},
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MA',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/morocco'},
@@ -10833,7 +10856,7 @@ P1_CNTR = \
                                               'government contributes to Trans-Sahara Backbone network, with aims to '
                                               'extend fiber-optic and international capacity',
                                               'LTE license awarded',
-                                              'government substantially taxes telecom sector (2021)',
+                                              'government substantially taxes telecom sector',
                                               2020],
                                  'intl': [ 'satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian '
                                            'Ocean)',
@@ -11634,7 +11657,7 @@ P1_CNTR = \
                                             'tld': '.pg',
                                             'url_tld': 'https://en.wikipedia.org/wiki/.pg'}},
                         'mcc': ['537'],
-                        'mccmnc': ['53701', '53702', '53703'],
+                        'mccmnc': ['53701', '53702', '53703', '53704'],
                         'msisdn': ['675'],
                         'name': 'Papua New Guinea',
                         'url': 'https://en.wikipedia.org/wiki/Papua_New_Guinea'},
@@ -12159,7 +12182,6 @@ P1_CNTR = \
                    'mccmnc': [ '310017',
                                '310260',
                                '310280',
-                               '313510',
                                '313790',
                                '33000',
                                '330000',
@@ -12305,7 +12327,8 @@ P1_CNTR = \
                                        '27216',
                                        '27217',
                                        '27218',
-                                       '27221'],
+                                       '27221',
+                                       '27268'],
                            'msisdn': ['353'],
                            'name': 'Republic of Ireland',
                            'url': 'https://en.wikipedia.org/wiki/Republic_of_Ireland'},
@@ -12485,7 +12508,10 @@ P1_CNTR = \
                                   'coord': ['60 00 N, 100 00 E'],
                                   'popul': 142320790,
                                   'ports': { 'container': 'Saint Petersburg (2,221,724) (2019)',
-                                             'seaport': 'Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy'},
+                                             'seaport': '<em><br />Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br '
+                                                        '/>Baltic Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br '
+                                                        '/><em>Black Sea:</em> Novorossiysk<br /><em>Pacific '
+                                                        'Ocean:</em> Nakhodka, Vladivostok, Vostochnyy'},
                                   'region': 'Asia',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RU',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/russia'},
@@ -13996,7 +14022,7 @@ P1_CNTR = \
                                                 'Internet access',
                                                 'in 2019, Al Shabaab Islamic militant group forced closure of Internet '
                                                 'services in some parts of the country',
-                                                'new telecom regulatory sector in place (2020)',
+                                                'new telecom regulatory sector in place',
                                                 2020],
                                    'intl': [ 'landing points for the G2A, DARE1, PEACE, and EASSy fiber-optic '
                                              'submarine cable system linking East Africa, Indian Ocean Islands, the '
@@ -14111,6 +14137,7 @@ P1_CNTR = \
                     'mcc': ['655'],
                     'mccmnc': [ '65501',
                                 '65502',
+                                '65503',
                                 '65504',
                                 '65505',
                                 '65506',
@@ -14289,7 +14316,7 @@ P1_CNTR = \
                                                     'down costs of Internet',
                                                     'government utilizes unchecked power to conduct surveillance and '
                                                     'monitor communications',
-                                                    'importer of broadcasting equipment from China (2021)',
+                                                    'importer of broadcasting equipment from China',
                                                     2020],
                                        'intl': [2017],
                                        'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -14340,9 +14367,10 @@ P1_CNTR = \
                                  'popul': 47260584,
                                  'ports': { 'container': 'Algeciras (5,125,385), Barcelona (3,324,650), Valencia '
                                                          '(5,439,827) (2019)',
-                                            'seaport': 'Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, '
-                                                       'Valencia (all in Spain); Las Palmas, Santa Cruz de Tenerife '
-                                                       '(in the Canary Islands)'},
+                                            'seaport': '<br /><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, '
+                                                       'Santa Cruz de Tenerife (in the Canary Islands)<br '
+                                                       '/><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, '
+                                                       'Tarragona, Valencia'},
                                  'region': 'Europe',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ES',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/spain'},
@@ -14550,7 +14578,7 @@ P1_CNTR = \
                                               'sector',
                                               'interim constitution safeguards rights and freedoms, though some '
                                               'Internet users continue to face harassment for activities',
-                                              'importer of broadcasting equipment from UAE and China (2021)',
+                                              'importer of broadcasting equipment from UAE and China',
                                               2020],
                                  'intl': [ 'landing points for the EASSy, FALCON and SAS-1,-2, fiber-optic submarine '
                                            'cable systems linking Africa, the Middle East, Indian Ocean Islands and '
@@ -14916,6 +14944,8 @@ P1_CNTR = \
                                '22866',
                                '22867',
                                '22868',
+                               '22869',
+                               '22870',
                                '22899'],
                    'msisdn': ['41'],
                    'name': 'Switzerland',
@@ -15191,7 +15221,7 @@ P1_CNTR = \
                                                  'mobile use is growing with popularity of 3G/LTE services',
                                                  'government allocated funds in 2019 to improve rural telecom '
                                                  'infrastructure and work on national fiber backbone network '
-                                                 'connecting population around country (2020)',
+                                                 'connecting population around country',
                                                  2020],
                                     'intl': [ 'landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS '
                                               'fiber-optic submarine cable system linking East Africa with the Middle '
@@ -15330,7 +15360,7 @@ P1_CNTR = \
                                        'coast': 3542,
                                        'coord': ['24 15 N, 76 00 W'],
                                        'popul': 352655,
-                                       'ports': { 'container': 'Freeport (1,116,272)(2011)',
+                                       'ports': { 'container': 'Freeport (1,396,568) (2019)',
                                                   'seaport': 'Freeport, Nassau, South Riding Point'},
                                        'region': 'Central America and the Caribbean',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BS',
@@ -16034,7 +16064,7 @@ P1_CNTR = \
                                                'services as fixed-line infrastructure is poor',
                                                '5G migration is developing slowly',
                                                'government commissioned broadband satellite services for rural areas '
-                                               'in 2019 (2020)',
+                                               'in 2019',
                                                2020],
                                   'intl': [ 'satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat',
                                             'analog and digital links to Kenya and Tanzania',
@@ -16431,7 +16461,11 @@ P1_CNTR = \
                                                                  'Houston (2,987,291), Long Beach (7,632,032), Los '
                                                                  'Angeles (9,337,632), New York/New Jersey '
                                                                  '(7,471,131), Oakland (2,500,431), Savannah '
-                                                                 '(4,599,177), Seattle/Tacoma (3,775,303) (2019)'},
+                                                                 '(4,599,177), Seattle/Tacoma (3,775,303) (2019)',
+                                                    'seaport': '<em><br />Atlantic Ocean:</em> Charleston, Hampton '
+                                                               'Roads, New York/New Jersey, Savannah<br /><em>Pacific '
+                                                               'Ocean:</em> Long Beach, Los Angele, Oakland, '
+                                                               'Seattle/Tacoma<br /><em>Gulf of Mexico:</em> Houston'},
                                          'region': 'North America',
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:US',
                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/united-states'},
@@ -17652,7 +17686,7 @@ P1_CNTR = \
                                   'tld': '.zm',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.zm'}},
               'mcc': ['645'],
-              'mccmnc': ['64501', '64502', '64503'],
+              'mccmnc': ['64501', '64502', '64503', '64507'],
               'msisdn': ['260'],
               'name': 'Zambia',
               'url': 'https://en.wikipedia.org/wiki/Zambia'},

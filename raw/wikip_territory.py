@@ -81,4 +81,4 @@ WIKIP_TERRITORY = \
   'Vernadsky Research Base': ('380', 'Ukraine', 'https://en.wikipedia.org/wiki/Vernadsky_Research_Base'),
   'Vostok Station': ('7', 'Russia', 'https://en.wikipedia.org/wiki/Vostok_Station'),
   'Wasa Research Station': ('46', 'Sweden', 'https://en.wikipedia.org/wiki/Wasa_Research_Station'),
-  'Zhongshan (Sun Yat-Sen) Station': ('86', 'China', 'https://en.wikipedia.org/wiki/Sun_Yat-Sen_Station')}
+  'Zhongshan Station': ('86', 'China', 'https://en.wikipedia.org/wiki/Zhongshan_Station_(Antarctica)')}

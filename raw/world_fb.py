@@ -50,7 +50,7 @@ WORLD_FB = \
                                                         'work on the &lsquo',
                                                         "Wakhan Corridor Fiber Optic Survey Project' to connect to "
                                                         'China is nearing completion',
-                                                        'major importer of broadcasting equipment from UAE (2020)',
+                                                        'major importer of broadcasting equipment from UAE',
                                                         2020],
                                            'intl': [ "multiple VSAT's provide international and domestic voice and "
                                                      'data connectivity',
@@ -118,9 +118,9 @@ WORLD_FB = \
                           'population': 3088385,
                           'ports': {'seaport': 'Durres, Sarande, Shengjin, Vlore'},
                           'region': ['Europe'],
-                          'subs_broadband': 436192,
-                          'subs_fixed': 242859,
-                          'subs_mobile': 2630076,
+                          'subs_broadband': 508937,
+                          'subs_fixed': 223469,
+                          'subs_mobile': 2618880,
                           'telecom': { 'code': '355',
                                        'domestic': [ 'fixed-line 8 per 100, teledensity continues to decline due to '
                                                      'heavy use of mobile-cellular telephone services',
@@ -139,7 +139,7 @@ WORLD_FB = \
                                                     'mobile sector is supported through LTE networks',
                                                     'operators have invested in 5G, including the intention to create '
                                                     'a corridor with Kosovo',
-                                                    'importer of broadcasting equipment from EU neighbors (2021)',
+                                                    'importer of broadcasting equipment from EU neighbors',
                                                     2020],
                                        'intl': [ 'submarine cables for the Adria 1 and Italy-Albania provide '
                                                  'connectivity to Italy, Croatia, and Greece',
@@ -193,9 +193,9 @@ WORLD_FB = \
                           'ports': { 'seaport': 'Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, '
                                                 'Skikda'},
                           'region': ['Africa'],
-                          'subs_broadband': 3582739,
-                          'subs_fixed': 4635217,
-                          'subs_mobile': 47081131,
+                          'subs_broadband': 3790459,
+                          'subs_fixed': 4784306,
+                          'subs_mobile': 45555673,
                           'telecom': { 'code': '213',
                                        'domestic': [ 'a limited network of fixed-lines with a teledensity of less than '
                                                      '11 telephones per 100 persons has been offset by the rapid '
@@ -211,7 +211,7 @@ WORLD_FB = \
                                                     'in common with other markets in the region, mobile connections '
                                                     'account for the vast majority of Internet accesses',
                                                     'well served by satellite and submarine cable connections',
-                                                    'importer of broadcasting equipment from China (2021)',
+                                                    'importer of broadcasting equipment from China',
                                                     2020],
                                        'intl': [ 'ALPAL-2 is a submarine telecommunications cable system in the '
                                                  'Mediterranean Sea linking Algeria and the Spanish Balearic island of '
@@ -252,7 +252,7 @@ WORLD_FB = \
                       'gec': 'AQ',
                       'infos': { 'airports': 3,
                                  'area': { 'land': '224 sq km',
-                                           'note': 'includes Rose Island and Swains Island',
+                                           'note': 'includes Rose Atoll and Swains Island',
                                            'total': '224 sq km',
                                            'water': '0 sq km'},
                                  'boundaries': {'bord': {}, 'len': 0},
@@ -371,9 +371,9 @@ WORLD_FB = \
                          'population': 33642646,
                          'ports': {'seaport': 'Cabinda, Lobito, Luanda, Namibe'},
                          'region': ['Africa'],
-                         'subs_broadband': 119068,
-                         'subs_fixed': 124726,
-                         'subs_mobile': 14830154,
+                         'subs_broadband': 230610,
+                         'subs_fixed': 119164,
+                         'subs_mobile': 14645050,
                          'telecom': { 'code': '244',
                                       'domestic': [ 'only about one fixed-line per 100 persons',
                                                     'mobile-cellular teledensity about 47 telephones per 100 persons',
@@ -392,8 +392,8 @@ WORLD_FB = \
                                                    'AngoSat-2 satellite expected to be ready in 2021',
                                                    'government aims to connect an additional 160,000 people to free '
                                                    'Wi-Fi',
-                                                   'importer of broadcasting equipment from China (2021)',
-                                                   2020],
+                                                   'importer of broadcasting equipment from China',
+                                                   2021],
                                       'intl': [ 'landing points for the SAT-3/WASC, WACS, ACE and SACS fiber-optic '
                                                 'submarine cable that provides connectivity to other countries in west '
                                                 'Africa, Brazil, Europe and Asia',
@@ -433,8 +433,8 @@ WORLD_FB = \
                            'population': 18403,
                            'ports': {'seaport': 'Blowing Point, Road Bay'},
                            'region': ['Central America and the Caribbean'],
-                           'subs_fixed': 7461,
-                           'subs_mobile': 32332,
+                           'subs_fixed': 6000,
+                           'subs_mobile': 26000,
                            'telecom': { 'code': '1264',
                                         'domestic': [ 'fixed-line teledensity is about 42 per 100 persons',
                                                       'mobile-cellular teledensity is roughly 182 per 100 persons',
@@ -462,7 +462,8 @@ WORLD_FB = \
                                                   'incomes',
                                                   'the crucial nature of telecom services as a tool for work and '
                                                   'school from home became evident, and received some support from '
-                                                  'governments',
+                                                  'governments but the contribution to the sector has been '
+                                                  'insufficient to offset steep falls in other areas of the market',
                                                   0]},
                            'users_internet': 14211},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/anguilla/page-data.json',
@@ -525,8 +526,8 @@ WORLD_FB = \
                                       'ports': {'seaport': "Saint John's"},
                                       'region': ['Central America and the Caribbean'],
                                       'subs_broadband': 9261,
-                                      'subs_fixed': 24403,
-                                      'subs_mobile': 187095,
+                                      'subs_fixed': 24000,
+                                      'subs_mobile': 184000,
                                       'telecom': { 'code': '1268',
                                                    'domestic': [ 'fixed-line teledensity roughly 25 per 100 persons',
                                                                  'mobile-cellular teledensity is about 193 per 100 '
@@ -591,12 +592,12 @@ WORLD_FB = \
                                               'local_long': 'Republica Argentina',
                                               'local_short': 'Argentina'},
                             'population': 45864941,
-                            'ports': { 'container': 'Buenos Aires (1,851,701)',
+                            'ports': { 'container': 'Buenos Aires (1,485,328) (2019)',
                                        'seaport': 'Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia'},
                             'region': ['South America'],
-                            'subs_broadband': 8793181,
-                            'subs_fixed': 7757243,
-                            'subs_mobile': 56352947,
+                            'subs_broadband': 9571562,
+                            'subs_fixed': 7356165,
+                            'subs_mobile': 54763900,
                             'telecom': { 'code': '54',
                                          'domestic': [ '17 per 100 fixed-line, 131 per 100 mobile-cellular',
                                                        'microwave radio relay, fiber-optic cable, and a domestic '
@@ -615,8 +616,8 @@ WORLD_FB = \
                                                       'submarine system linking Sao Paolo and Rio De Janeiro with '
                                                       'Buenos Aires is operational',
                                                       'national operator increased investment in Uruguay',
-                                                      'importer of broadcasting equipment from China (2021)',
-                                                      2020],
+                                                      'importer of broadcasting equipment from China',
+                                                      2021],
                                          'intl': [ 'landing points for the UNISUR, Bicentenario, Atlantis-2, SAm-1, '
                                                    'and SAC, Tannat, Malbec and ARBR submarine cable systems that '
                                                    'provide links to Europe, Africa, South and Central America, and US',
@@ -660,9 +661,9 @@ WORLD_FB = \
                                             'local_short': 'Hayastan'},
                           'population': 3011609,
                           'region': ['Asia'],
-                          'subs_broadband': 385704,
-                          'subs_fixed': 451571,
-                          'subs_mobile': 3618747,
+                          'subs_broadband': 430407,
+                          'subs_fixed': 427539,
+                          'subs_mobile': 3488797,
                           'telecom': { 'code': '374',
                                        'domestic': [ '15 per 100 fixed-line, 122 per 100 mobile-cellular',
                                                      'reliable fixed-line and mobile-cellular services are available '
@@ -687,7 +688,7 @@ WORLD_FB = \
                                                     'public-private partnership',
                                                     'communication technologies sectors have attracted foreign '
                                                     'investment',
-                                                    'top importer of broadcast equipment from China (2021)',
+                                                    'top importer of broadcast equipment from China',
                                                     2020],
                                        'intl': [ 'Yerevan is connected to the Caucasus Cable System fiber-optic cable '
                                                  'through Georgia and Iran to Europe',
@@ -734,8 +735,9 @@ WORLD_FB = \
                         'population': 120917,
                         'ports': {'seaport': 'Barcadera, Oranjestad'},
                         'region': ['Central America and the Caribbean'],
-                        'subs_fixed': 39582,
-                        'subs_mobile': 159471,
+                        'subs_broadband': 19000,
+                        'subs_fixed': 35000,
+                        'subs_mobile': 141000,
                         'telecom': { 'code': '297',
                                      'domestic': [ 'ongoing changes in regulations and competition improving '
                                                    'teledensity',
@@ -816,13 +818,14 @@ WORLD_FB = \
                             'coord': ['27 00 S, 133 00 E'],
                             'country_name': {'conv_long': 'Commonwealth of Australia', 'conv_short': 'Australia'},
                             'population': 25809973,
-                            'ports': { 'container': 'Melbourne (2,806,436), Sydney (2,530,122) (2017)',
-                                       'seaport': 'Brisbane, Cairns, Darwin, Fremantle, Geelong, Gladstone, Hobart, '
-                                                  'Melbourne, Newcastle, Port Adelaide, Port Kembla, Sydney'},
+                            'ports': { 'container': 'Melbourne (2,967,315), Sydney (2,572,714) (2019)',
+                                       'seaport': '<em><br />Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, '
+                                                  'Melbourne<br /><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, '
+                                                  'Hobart, Newcastle, Port Port Kembla, Sydney'},
                             'region': ['Oceania'],
-                            'subs_broadband': 8752830,
-                            'subs_fixed': 7820000,
-                            'subs_mobile': 27880000,
+                            'subs_broadband': 8937550,
+                            'subs_fixed': 6200000,
+                            'subs_mobile': 27454000,
                             'telecom': { 'code': '61',
                                          'domestic': [ '31 per 100 fixed-line, 111 per 100 mobile-cellular',
                                                        'more subscribers to mobile services than there are people',
@@ -845,7 +848,7 @@ WORLD_FB = \
                                                       'fiber backbone to connect with submarine cables',
                                                       'Oman-Australia cable to be completed by end of 2021',
                                                       "two of Australia's major imports are broadcast equipment and "
-                                                      'computers from China (2021)',
+                                                      'computers from China',
                                                       2020],
                                          'intl': [ 'landing points for more than 20 submarine cables including: the '
                                                    'SeaMeWe-3 optical telecommunications submarine cable with links to '
@@ -907,9 +910,9 @@ WORLD_FB = \
                           'population': 8884864,
                           'ports': {},
                           'region': ['Europe'],
-                          'subs_broadband': 2519000,
-                          'subs_fixed': 3722128,
-                          'subs_mobile': 10726000,
+                          'subs_broadband': 2606000,
+                          'subs_fixed': 3786725,
+                          'subs_mobile': 10682294,
                           'telecom': { 'code': '43',
                                        'domestic': [ 'developed and efficient',
                                                      '41 per 100 fixed-line for households, 174 per 100 for companies',
@@ -929,7 +932,7 @@ WORLD_FB = \
                                                     "EU-funded projects develop infrastructure to enable an 'Internet "
                                                     'of Services',
                                                     'Vienna is a smart city',
-                                                    'importer of broadcasting equipment from Vietnam and China (2021)',
+                                                    'importer of broadcasting equipment from Vietnam and China',
                                                     2020],
                                        'intl': [ 'earth stations available in the Astra, Intelsat, Eutelsat satellite '
                                                  'systems',
@@ -983,9 +986,9 @@ WORLD_FB = \
                              'population': 10282283,
                              'ports': {'seaport': 'Baku (Baki) located on the Caspian Sea'},
                              'region': ['Asia'],
-                             'subs_broadband': 1943013,
-                             'subs_fixed': 1673211,
-                             'subs_mobile': 10750300,
+                             'subs_broadband': 1995474,
+                             'subs_fixed': 1652688,
+                             'subs_mobile': 10344300,
                              'telecom': { 'code': '994',
                                           'domestic': [ 'teledensity of some 17 fixed-lines per 100 persons',
                                                         'mobile-cellular teledensity has increased to 107 telephones '
@@ -1005,7 +1008,7 @@ WORLD_FB = \
                                                        'fixed-line broadband market has slight upward trend',
                                                        'Internet access is expensive and suffers from outages and '
                                                        'intentional government disruption',
-                                                       'importer of broadcasting equipment from Russia (2021)',
+                                                       'importer of broadcasting equipment from Russia',
                                                        2020],
                                           'intl': [ 'the TAE fiber-optic link transits Azerbaijan providing '
                                                     'international connectivity to neighboring countries',
@@ -1046,7 +1049,7 @@ WORLD_FB = \
                                'country_name': { 'conv_long': 'Commonwealth of The Bahamas',
                                                  'conv_short': 'The Bahamas'},
                                'population': 352655,
-                               'ports': { 'container': 'Freeport (1,116,272)(2011)',
+                               'ports': { 'container': 'Freeport (1,396,568) (2019)',
                                           'seaport': 'Freeport, Nassau, South Riding Point'},
                                'region': ['Central America and the Caribbean'],
                                'subs_broadband': 82295,
@@ -1110,15 +1113,15 @@ WORLD_FB = \
                           'population': 1526929,
                           'ports': {'seaport': "Mina' Salman, Sitrah"},
                           'region': ['Middle East'],
-                          'subs_broadband': 140992,
-                          'subs_fixed': 272614,
-                          'subs_mobile': 1900361,
+                          'subs_broadband': 148595,
+                          'subs_fixed': 266659,
+                          'subs_mobile': 1748672,
                           'telecom': { 'code': '973',
                                        'domestic': [ '17 per 100 fixed-line, 116 per 100 mobile-cellular',
                                                      'modern fiber-optic integrated services',
                                                      'digital network with rapidly expanding mobile-cellular '
                                                      'telephones',
-                                                     2019],
+                                                     2020],
                                        'general': [ 'Bahrain is one of the most technically advanced and connected '
                                                     'countries in the world',
                                                     'NGN for increased mobile and Wi-Fi traffic',
@@ -1129,7 +1132,7 @@ WORLD_FB = \
                                                     'regulator controlled by monarchy',
                                                     'Internet freedom restricted through blocks',
                                                     'well served by satellite and submarine cable access',
-                                                    'importer of broadcasting equipment from UAE (2021)',
+                                                    'importer of broadcasting equipment from UAE',
                                                     2020],
                                        'intl': [ 'landing points for the FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG '
                                                  'submarine cable network that provides links to Asia, the Middle '
@@ -1184,11 +1187,12 @@ WORLD_FB = \
                                                'local_long': 'Gana Prajatantri Bangladesh',
                                                'local_short': 'Bangladesh'},
                              'population': 164098818,
-                             'ports': {'container': 'Chattogram (2,566,597) (2017)', 'seaport': 'Chattogram'},
+                             'ports': { 'container': 'Chattogram (Chittagong) (3,088,187) (2019)',
+                                        'seaport': 'Chattogram (Chittagong)'},
                              'region': ['Asia'],
-                             'subs_broadband': 8085500,
-                             'subs_fixed': 1449646,
-                             'subs_mobile': 165572000,
+                             'subs_broadband': 9521970,
+                             'subs_fixed': 1450321,
+                             'subs_mobile': 170136762,
                              'telecom': { 'code': '880',
                                           'domestic': [ 'fixed-line teledensity remains less than 1 per 100 persons',
                                                         'mobile-cellular telephone subscribership has been increasing '
@@ -1210,7 +1214,7 @@ WORLD_FB = \
                                                        'automation industries',
                                                        'government project aims to provide network to services and '
                                                        'schools',
-                                                       'importer of broadcasting equipment from China (2021)',
+                                                       'importer of broadcasting equipment from China',
                                                        2020],
                                           'intl': [ 'landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic '
                                                     'submarine cable system that provides links to Europe, the Middle '
@@ -1327,9 +1331,9 @@ WORLD_FB = \
                           'population': 9441842,
                           'ports': {},
                           'region': ['Europe'],
-                          'subs_broadband': 3214869,
-                          'subs_fixed': 4451144,
-                          'subs_mobile': 11627249,
+                          'subs_broadband': 3255552,
+                          'subs_fixed': 4406585,
+                          'subs_mobile': 11704084,
                           'telecom': { 'code': '375',
                                        'domestic': [ 'fixed-line teledensity is improving although rural areas '
                                                      'continue to be underserved, 48 per 100 fixed-line',
@@ -1348,7 +1352,7 @@ WORLD_FB = \
                                                     'operators provide standalone 5G service and NB-IoT services',
                                                     'international connection through fiber optic and terrestrial '
                                                     'link, nascent satellite system',
-                                                    'importer of broadcasting equipment from China (2021)',
+                                                    'importer of broadcasting equipment from China',
                                                     2020],
                                        'intl': [ 'Belarus is landlocked and therefore a member of the Trans-European '
                                                  'Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access '
@@ -1401,17 +1405,17 @@ WORLD_FB = \
                                                           '(Dutch)/Koenigreich Belgien (German)',
                                             'local_short': 'Belgique/Belgie/Belgien'},
                           'population': 11778842,
-                          'ports': {'container': 'Antwerp (10,450,000) (2017)', 'seaport': 'Oostende, Zeebrugge'},
+                          'ports': {'container': 'Antwerp (11,860,204) (2019)', 'seaport': 'Oostende, Zeebrugge'},
                           'region': ['Europe'],
-                          'subs_broadband': 4590707,
-                          'subs_fixed': 3930410,
-                          'subs_mobile': 11509573,
+                          'subs_broadband': 4734210,
+                          'subs_fixed': 3634639,
+                          'subs_mobile': 11529728,
                           'telecom': { 'code': '32',
                                        'domestic': [ '34 per 100 fixed-line, 100 per 100 mobile-cellular',
                                                      'nationwide mobile-cellular telephone system',
                                                      'extensive cable network',
                                                      'limited microwave radio relay network',
-                                                     2019],
+                                                     2020],
                                        'general': [ 'Belgium has a highly developed, technologically advanced telecom '
                                                     'system',
                                                     'LTE is nearly universal',
@@ -1424,7 +1428,7 @@ WORLD_FB = \
                                                     'Brussels Airport collaborating with operator to deploy 5G and IoT '
                                                     'solutions',
                                                     'international connections through satellite and submarine cables',
-                                                    'importer of broadcast equipment from EU neighbors (2021)',
+                                                    'importer of broadcast equipment from EU neighbors',
                                                     2020],
                                        'intl': [ 'landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, '
                                                  'submarine cables that provide links to Europe, the Middle East, '
@@ -1484,7 +1488,7 @@ WORLD_FB = \
                                                    'government distributed tablets to students to promote e-learning',
                                                    'submarine cable to Ambergris Caye enables FttP service in San '
                                                    'Pedro',
-                                                   'importer of broadcast equipment from the United States (2021)',
+                                                   'importer of broadcast equipment from the United States',
                                                    2020],
                                       'intl': [ 'landing points for the ARCOS and SEUL fiber-optic telecommunications '
                                                 'submarine cable that provides links to South and Central America, '
@@ -1531,9 +1535,9 @@ WORLD_FB = \
                         'population': 13301694,
                         'ports': {'seaport': 'Cotonou'},
                         'region': ['Africa'],
-                        'subs_broadband': 25032,
-                        'subs_fixed': 35917,
-                        'subs_mobile': 10349847,
+                        'subs_broadband': 29981,
+                        'subs_fixed': 32386,
+                        'subs_mobile': 11140891,
                         'telecom': { 'code': '229',
                                      'domestic': [ 'fixed-line teledensity only about 1 per 100 persons',
                                                    'spurred by the presence of multiple mobile-cellular providers, '
@@ -1553,8 +1557,8 @@ WORLD_FB = \
                                                   'Benin Smart City construction has begun',
                                                   'improved international Internet connectivity supports growth of '
                                                   'm-commerce and m-banking',
-                                                  'submarine cable connectivity from African coast to Europe (2021)',
-                                                  2019],
+                                                  'submarine cable connectivity from African coast to Europe',
+                                                  2020],
                                      'intl': [ 'landing points for the SAT-3/WASC and ACE fiber-optic submarine cable '
                                                'that provides connectivity to Europe, and most West African countries',
                                                'satellite earth stations - 7 (Intelsat-Atlantic Ocean)',
@@ -1593,8 +1597,9 @@ WORLD_FB = \
                           'population': 72084,
                           'ports': {'seaport': 'Hamilton, Ireland Island, Saint George'},
                           'region': ['North America'],
-                          'subs_fixed': 24808,
-                          'subs_mobile': 73680,
+                          'subs_broadband': 21883,
+                          'subs_fixed': 21883,
+                          'subs_mobile': 64997,
                           'telecom': { 'code': '1441',
                                        'domestic': [ 'the system has a high fixed-line teledensity 35 per 100, coupled '
                                                      'with a mobile-cellular teledensity of roughly 103 per 100 '
@@ -1663,8 +1668,8 @@ WORLD_FB = \
                                                    'regulator developing 5G plan',
                                                    'international communication through landline and microwave relay',
                                                    'nascent satellite service',
-                                                   'importer of broadcast equipment from India (2021)',
-                                                   2020],
+                                                   'importer of broadcast equipment from India',
+                                                   2021],
                                       'intl': [ 'international telephone and telegraph service via landline and '
                                                 'microwave relay through India',
                                                 'satellite earth station - 1 Intelsat',
@@ -1740,8 +1745,8 @@ WORLD_FB = \
                                                     'space agency plans to boost satellite-based Internet',
                                                     'in 2020, communications towers in Yapacani were destroyed due to '
                                                     'pandemic conspiracy fears',
-                                                    'importer of broadcasting equipment from China (2021)',
-                                                    2020],
+                                                    'importer of broadcasting equipment from China',
+                                                    2021],
                                        'intl': [ 'Bolivia has no direct access to submarine cable networks and must '
                                                  'therefore connect to the rest of the world either via satellite or '
                                                  'through terrestrial links across neighboring countries',
@@ -1810,9 +1815,8 @@ WORLD_FB = \
                                                                    'fixed-line infrastructure is insufficient',
                                                                    'LTE services under test licenses',
                                                                    '5G awaits market maturity',
-                                                                   'importer of broadcasting equipment from China '
-                                                                   '(2021)',
-                                                                   2020],
+                                                                   'importer of broadcasting equipment from China',
+                                                                   2021],
                                                       'intl': ['no satellite earth stations', 0],
                                                       'note': [ 'the COVID-19 pandemic continues to have a significant '
                                                                 'impact on production and supply chains globally',
@@ -1956,9 +1960,9 @@ WORLD_FB = \
                                            'local_long': 'Republica Federativa do Brasil',
                                            'local_short': 'Brasil'},
                          'population': 213445417,
-                         'ports': { 'container': 'Santos (3,853,719) (2017)',
-                                    'seaport': 'Belem, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, '
-                                               'Tubarao'},
+                         'ports': { 'container': 'Itajai (1,223,262), Paranagua (865,110), Santos (4,165,248) (2019)',
+                                    'seaport': 'Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao '
+                                               'Sebastiao, Tubarao'},
                          'region': ['South America'],
                          'subs_broadband': 32914496,
                          'subs_fixed': 33712877,
@@ -2275,9 +2279,9 @@ WORLD_FB = \
                                                  'local_short': 'Burkina Faso'},
                                'population': 21382659,
                                'region': ['Africa'],
-                               'subs_broadband': 12015,
-                               'subs_fixed': 75291,
-                               'subs_mobile': 20364508,
+                               'subs_broadband': 13979,
+                               'subs_fixed': 75039,
+                               'subs_mobile': 22117218,
                                'telecom': { 'code': '226',
                                             'domestic': [ 'fixed-line connections stand at less than 1 per 100 persons',
                                                           'mobile-cellular usage 100 per 100, with multiple providers '
@@ -2301,7 +2305,7 @@ WORLD_FB = \
                                                          'government began computer subsidy program for university '
                                                          'students',
                                                          'government progressed with large project to provide '
-                                                         'metropolitan fiber-optic infrastructure (2021)',
+                                                         'metropolitan fiber-optic infrastructure',
                                                          2020],
                                             'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
                                             'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -2674,7 +2678,7 @@ WORLD_FB = \
                          'coord': ['60 00 N, 95 00 W'],
                          'country_name': {'conv_long': 'none', 'conv_short': 'Canada'},
                          'population': 37943231,
-                         'ports': { 'container': 'Montreal (1,537,669), Vancouver (3,252,225) (2017)',
+                         'ports': { 'container': 'Montreal (1,745,244), Vancouver (3,398,860) (2019)',
                                     'seaport': 'Halifax, Saint John (New Brunswick), Vancouver'},
                          'region': ['North America'],
                          'subs_broadband': 15273496,
@@ -2818,7 +2822,7 @@ WORLD_FB = \
                                            'ports': {},
                                            'region': ['Africa'],
                                            'subs_broadband': 499,
-                                           'subs_fixed': 2934,
+                                           'subs_fixed': 2193,
                                            'subs_mobile': 1595294,
                                            'telecom': { 'code': '236',
                                                         'domestic': [ 'very limited telephone service with less than 1 '
@@ -2944,7 +2948,7 @@ WORLD_FB = \
                                           'local_long': 'Republica de Chile',
                                           'local_short': 'Chile'},
                         'population': 18307925,
-                        'ports': { 'container': 'San Antonio (1,296,890), Valparaiso (1,073,734) (2017)',
+                        'ports': { 'container': 'San Antonio (1,709,635), Valparaiso (898,715) (2019)',
                                    'seaport': 'Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, '
                                               'Valparaiso'},
                         'region': ['South America'],
@@ -3027,9 +3031,9 @@ WORLD_FB = \
                                           'local_long': 'Zhonghua Renmin Gongheguo',
                                           'local_short': 'Zhongguo'},
                         'population': 1397897720,
-                        'ports': { 'container': 'Dalian (9,707,000), Guangzhou (18,858,000), Ningbo (24,607,000), '
-                                                'Qingdao (18,262,000), Shanghai (40,233,000), Shenzhen (25,208,000), '
-                                                'Tianjin (15,040,000) (2017)',
+                        'ports': { 'container': 'Dalian (8,760,000), Guangzhou (23,236,200), Ningbo (27,530,000), '
+                                                'Qingdao (21,010,000), Shanghai (43,303,000), Shenzhen (25,770,000), '
+                                                'Tianjin (17,264,000) (2019)',
                                    'seaport': 'Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin'},
                         'region': ['Asia'],
                         'subs_broadband': 449279000,
@@ -3203,8 +3207,9 @@ WORLD_FB = \
                                              'local_long': 'Republica de Colombia',
                                              'local_short': 'Colombia'},
                            'population': 50355650,
-                           'ports': { 'container': 'Cartagena (2,663,415) (2017)',
-                                      'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo'},
+                           'ports': { 'container': 'Buenaventura (1,121,267), Cartagena (2,995,031) (2019)',
+                                      'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br '
+                                                 '/>Pacific Ocean - Buenaventura'},
                            'region': ['South America'],
                            'subs_broadband': 6949852,
                            'subs_fixed': 7012306,
@@ -3274,9 +3279,9 @@ WORLD_FB = \
                           'population': 864335,
                           'ports': {'seaport': 'Moroni, Moutsamoudou'},
                           'region': ['Africa'],
-                          'subs_broadband': 1181,
-                          'subs_fixed': 10042,
-                          'subs_mobile': 575218,
+                          'subs_broadband': 912,
+                          'subs_fixed': 7573,
+                          'subs_mobile': 472815,
                           'telecom': { 'code': '269',
                                        'domestic': [ 'fixed-line connections only about 1 per 100 persons',
                                                      'mobile-cellular usage over 68 per 100 persons',
@@ -3344,7 +3349,6 @@ WORLD_FB = \
                                                     'ports': {'seaport': 'Banana'},
                                                     'region': ['Africa'],
                                                     'subs_broadband': 4620,
-                                                    'subs_fixed': 0,
                                                     'subs_mobile': 42166976,
                                                     'telecom': { 'code': '243',
                                                                  'domestic': [ 'fixed-line connections less than 1 per '
@@ -4146,9 +4150,9 @@ WORLD_FB = \
                            'population': 938413,
                            'ports': {'seaport': 'Djibouti'},
                            'region': ['Africa'],
-                           'subs_broadband': 24416,
-                           'subs_fixed': 37107,
-                           'subs_mobile': 413866,
+                           'subs_broadband': 25053,
+                           'subs_fixed': 38866,
+                           'subs_mobile': 434035,
                            'telecom': { 'code': '253',
                                         'domestic': [ '4 per 100 fixed-line and 41 per 100 mobile-cellular',
                                                       'Djibouti Telecom (DT) is the sole provider of '
@@ -4601,9 +4605,9 @@ WORLD_FB = \
                           'population': 6147398,
                           'ports': {'seaport': 'Assab, Massawa'},
                           'region': ['Africa'],
-                          'subs_broadband': 600,
-                          'subs_fixed': 116882,
-                          'subs_mobile': 1226660,
+                          'subs_broadband': 1000,
+                          'subs_fixed': 66170,
+                          'subs_mobile': 695000,
                           'telecom': { 'code': '291',
                                        'domestic': [ 'fixed-line subscribership is less than 2 per 100 person and '
                                                      'mobile-cellular 20 per 100',
@@ -4802,9 +4806,9 @@ WORLD_FB = \
                            'population': 110871031,
                            'ports': {},
                            'region': ['Africa'],
-                           'subs_broadband': 580120,
-                           'subs_fixed': 1095946,
-                           'subs_mobile': 38147361,
+                           'subs_broadband': 62950,
+                           'subs_fixed': 1181000,
+                           'subs_mobile': 39600000,
                            'telecom': { 'code': '251',
                                         'domestic': [ 'fixed-line subscriptions at 1 per 100 while mobile-cellular '
                                                       'stands at 36 per 100',
@@ -5132,7 +5136,8 @@ WORLD_FB = \
                          'population': 68084217,
                          'ports': { 'container': 'Le Havre (2,822,910) (2019)',
                                     'ferry': 'Calais, Cherbourg, Le Havre',
-                                    'seaport': 'Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes,'},
+                                    'seaport': '<br /><em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le Havre, '
+                                               'Nantes<br /><em>Mediterranean Sea:</em> Marseille'},
                          'region': [ ('metropolitan France', 'Europe'),
                                      ('French Guiana', 'South America'),
                                      ('Guadeloupe', 'Central America and the Caribbean'),
@@ -5799,7 +5804,8 @@ WORLD_FB = \
                                             'local_short': 'Deutschland'},
                           'population': 79903481,
                           'ports': { 'container': 'Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)',
-                                     'seaport': 'Baltic Sea - Rostock'},
+                                     'seaport': '<br /><em>Baltic Sea:</em> Kiel, Rostock<br /><em>North Sea:</em> '
+                                                'Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven'},
                           'region': ['Europe'],
                           'subs_broadband': 35071539,
                           'subs_fixed': 40400000,
@@ -7876,9 +7882,9 @@ WORLD_FB = \
                         'population': 54685051,
                         'ports': {'seaport': 'Kisumu, Mombasa'},
                         'region': ['Africa'],
-                        'subs_broadband': 491183,
-                        'subs_fixed': 70394,
-                        'subs_mobile': 54555497,
+                        'subs_broadband': 674191,
+                        'subs_fixed': 66646,
+                        'subs_mobile': 61408904,
                         'telecom': { 'code': '254',
                                      'domestic': [ 'fixed-line subscriptions stand at less than 1 per 100 persons',
                                                    'multiple providers in the mobile-cellular segment of the market '
@@ -10051,8 +10057,8 @@ WORLD_FB = \
                                             'local_short': 'Al Maghrib'},
                           'population': 36561813,
                           'ports': { 'container': 'Tangier (4,801,713) (2019)',
-                                     'seaport': 'Ad Dakhla, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, '
-                                                'Safi, Tangier'},
+                                     'seaport': 'Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), '
+                                                'Mohammedia, Safi, Tangier'},
                           'region': ['Africa'],
                           'subs_broadband': 1751341,
                           'subs_fixed': 2054545,
@@ -10723,7 +10729,7 @@ WORLD_FB = \
                                                   'government contributes to Trans-Sahara Backbone network, with aims '
                                                   'to extend fiber-optic and international capacity',
                                                   'LTE license awarded',
-                                                  'government substantially taxes telecom sector (2021)',
+                                                  'government substantially taxes telecom sector',
                                                   2020],
                                      'intl': [ 'satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian '
                                                'Ocean)',
@@ -12110,7 +12116,10 @@ WORLD_FB = \
                                            'local_short': 'Rossiya'},
                          'population': 142320790,
                          'ports': { 'container': 'Saint Petersburg (2,221,724) (2019)',
-                                    'seaport': 'Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy'},
+                                    'seaport': '<em><br />Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br />Baltic '
+                                               'Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br /><em>Black '
+                                               'Sea:</em> Novorossiysk<br /><em>Pacific Ocean:</em> Nakhodka, '
+                                               'Vladivostok, Vostochnyy'},
                          'region': ['Asia'],
                          'subs_broadband': 32857614,
                          'subs_fixed': 27674128,
@@ -13560,7 +13569,7 @@ WORLD_FB = \
                                                     'Internet access',
                                                     'in 2019, Al Shabaab Islamic militant group forced closure of '
                                                     'Internet services in some parts of the country',
-                                                    'new telecom regulatory sector in place (2020)',
+                                                    'new telecom regulatory sector in place',
                                                     2020],
                                        'intl': [ 'landing points for the G2A, DARE1, PEACE, and EASSy fiber-optic '
                                                  'submarine cable system linking East Africa, Indian Ocean Islands, '
@@ -13742,7 +13751,7 @@ WORLD_FB = \
                                                         'drive down costs of Internet',
                                                         'government utilizes unchecked power to conduct surveillance '
                                                         'and monitor communications',
-                                                        'importer of broadcasting equipment from China (2021)',
+                                                        'importer of broadcasting equipment from China',
                                                         2020],
                                            'intl': [2017],
                                            'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -13795,9 +13804,9 @@ WORLD_FB = \
                         'population': 47260584,
                         'ports': { 'container': 'Algeciras (5,125,385), Barcelona (3,324,650), Valencia (5,439,827) '
                                                 '(2019)',
-                                   'seaport': 'Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, Valencia '
-                                              '(all in Spain); Las Palmas, Santa Cruz de Tenerife (in the Canary '
-                                              'Islands)'},
+                                   'seaport': '<br /><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz '
+                                              'de Tenerife (in the Canary Islands)<br /><em>Mediterranean Sea:</em> '
+                                              'Algeciras, Barcelona, Cartagena, Tarragona, Valencia'},
                         'region': ['Europe'],
                         'subs_broadband': 15616585,
                         'subs_fixed': 19639778,
@@ -13985,7 +13994,7 @@ WORLD_FB = \
                                                   'sector',
                                                   'interim constitution safeguards rights and freedoms, though some '
                                                   'Internet users continue to face harassment for activities',
-                                                  'importer of broadcasting equipment from UAE and China (2021)',
+                                                  'importer of broadcasting equipment from UAE and China',
                                                   2020],
                                      'intl': [ 'landing points for the EASSy, FALCON and SAS-1,-2, fiber-optic '
                                                'submarine cable systems linking Africa, the Middle East, Indian Ocean '
@@ -14532,7 +14541,7 @@ WORLD_FB = \
                                                      'mobile use is growing with popularity of 3G/LTE services',
                                                      'government allocated funds in 2019 to improve rural telecom '
                                                      'infrastructure and work on national fiber backbone network '
-                                                     'connecting population around country (2020)',
+                                                     'connecting population around country',
                                                      2020],
                                         'intl': [ 'landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS '
                                                   'fiber-optic submarine cable system linking East Africa with the '
@@ -15337,7 +15346,7 @@ WORLD_FB = \
                                                    'broadband services as fixed-line infrastructure is poor',
                                                    '5G migration is developing slowly',
                                                    'government commissioned broadband satellite services for rural '
-                                                   'areas in 2019 (2020)',
+                                                   'areas in 2019',
                                                    2020],
                                       'intl': [ 'satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat',
                                                 'analog and digital links to Kenya and Tanzania',
@@ -15652,7 +15661,11 @@ WORLD_FB = \
                                 'ports': { 'container': 'Charleston (2,436,185), Hampton Roads (2,937,962), Houston '
                                                         '(2,987,291), Long Beach (7,632,032), Los Angeles (9,337,632), '
                                                         'New York/New Jersey (7,471,131), Oakland (2,500,431), '
-                                                        'Savannah (4,599,177), Seattle/Tacoma (3,775,303) (2019)'},
+                                                        'Savannah (4,599,177), Seattle/Tacoma (3,775,303) (2019)',
+                                           'seaport': '<em><br />Atlantic Ocean:</em> Charleston, Hampton Roads, New '
+                                                      'York/New Jersey, Savannah<br /><em>Pacific Ocean:</em> Long '
+                                                      'Beach, Los Angele, Oakland, Seattle/Tacoma<br /><em>Gulf of '
+                                                      'Mexico:</em> Houston'},
                                 'region': ['North America'],
                                 'subs_broadband': 114259000,
                                 'subs_fixed': 107568000,
