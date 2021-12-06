@@ -249,7 +249,7 @@ $ ./parse_wikipedia_tables.py -j -p && ./parse_worldfactbook_infos.py -j -p && .
 Now you can use those dictionnaries to get complete information for any MCC, MNC,
 MSISDN prefix, and related geographical information.
 
-Finally, 3 little command-line tools are provided to make direct use of the 
+Finally, 4 little command-line tools are provided to make direct use of the 
 extracted and engineered dataset:
 
 ```
