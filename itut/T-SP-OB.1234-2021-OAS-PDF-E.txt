@@ -1,0 +1,1226 @@
+                        ITU Operational Bulletin
+                                                         www.itu.int/itu-t/bulletin
+
+       No. 1234              15.XII.2021                  (Information received by 1 December 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                           Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                               Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                               Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                              E-mail: brmail@itu.int
+
+
+
+
+                                                                  Table of Contents
+                                                                                                                                                                      Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                     3
+Approval of ITU-T Recommendations ............................................................................................................                          4
+Telephone Service:
+     Cabo Verde (Agência Reguladora Multissectorial da Economia (ARME), Praia) ......................................                                                   5
+     Iran (Islamic Republic of) (Communications Regulatory Authority (CRA), Tehran) ..................................                                                  9
+     Montserrat (Montserrat Info-Communications Authority (MICA)) ..........................................................                                           13
+     Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) ....................                                                            14
+     Seychelles (Office of the President, Department of Information Communications Technology, Victoria)                                                               15
+Other communications:
+     Austria ......................................................................................................................................................    22
+Service Restrictions ........................................................................................................................................          23
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                     23
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                                     24
+List of ITU Carrier Codes .................................................................................................................................            25
+List of International Signalling Point Codes (ISPC) .........................................................................................                          25
+National Numbering Plan ...............................................................................................................................                26
+
+
+
+
+                                                                                                                                     www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1235              1.I.2022              10.XII.2021
+               1236              15.I.2022             20.XII.2021
+               1237              1.II.2022             14.I.2022
+               1238             15.II.2022             31.I.2022
+               1239              1.III.2022            11.II.2022
+               1240             15.III.2022            1.III.2022
+               1241              1.IV.2022             15.III.2022
+               1242             15.IV.2022             31.III.2022
+               1243              1.V.2022              10.IV.2022
+               1244             15.V.2022              29.IV.2022
+               1245              1.VI.2022             13.V.2022
+               1246             15.VI.2022             31.V.2022
+               1247             1.VII.2022             15.VI.2022
+               1248             15.VII.2022            1.VII.2022
+               1249             1.VIII.2022           15.VII.2022
+               1250            15.VIII.2022           29.VII.2022
+               1251              1.IX.2022            12.VIII.2022
+               1252             15.IX.2022            31.VIII.2022
+               1253              1.X.2022              15.IX.2022
+               1254             15.X.2022              30.IX.2022
+               1255              1.XI.2022             14.X.2022
+               1256             15.XI.2022             1.XI.2022
+               1257             1.XII.2022             15.XI.2022
+               1258             15.XII.2022            30.XI.2022
+               1259              1.I.2023              9.XII.2022
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                             Approval of ITU-T Recommendations
+By AAP-117, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.1027 (11/2021): QoS metrics for the assessment of the impact of fixed geographic structures on
+      telephony quality and call stability
+–     ITU-T G.1035 (11/2021): Influencing factors on quality of experience for virtual reality services
+–     ITU-T J.1631 (11/2021): Functional requirements of E2E network platform for Cloud-VR services
+–     ITU-T L.1317 (11/2021): Guidelines on energy efficient blockchain systems
+–     ITU-T P.565 (11/2021): Framework for creation and performance testing of machine learning based
+      models for the assessment of transmission network impact on speech quality for mobile packet-
+      switched voice services
+–     ITU-T P.565.1 (11/2021): Machine learning model for the assessment of transmission network impact on
+      speech quality for mobile packet-switched voice services
+–     ITU-T P.910 (11/2021): Subjective video quality assessment methods for multimedia applications
+–     ITU-T Y.4004 (11/2021): Overview of smart oceans and seas, and requirements for their ICT
+      implementations
+–     ITU-T Y.4212 (11/2021): Requirements and capabilities of network connectivity management in the
+      Internet of things
+–     ITU-T Y.4213 (11/2021): IoT requirements and capability framework for monitoring physical city assets
+–     ITU-T Y.4477 (11/2021): Framework of service interworking with device discovery and management in
+      heterogeneous Internet of things environments
+–     ITU-T Y.4478 (11/2021): Requirements and functional architecture for smart construction site services
+–     ITU-T Y.4480 (11/2021): Low power protocol for wide area wireless networks
+–     ITU-T Y.4563 (11/2021): Requirements and functional model to support data interoperability in IoT
+      environments
+–     ITU-T Y.4810 (11/2021): Requirements of data security for the heterogeneous IoT devices
+–     ITU-T Y.4811 (11/2021): Reference framework of converged service for identification and authentication
+      for IoT devices in decentralized environment
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+
+Cabo Verde (country code +238)
+Communication of 19.XI.2021:
+The Agência Reguladora Multissectorial da Economia (ARME), Praia, announces the following national
+numbering plan for Cabo Verde.
+                              Presentation of national ITU-T E.164 numbering plan
+                                              for country code 238
+a)     Overview:
+       The minimum number length (excluding the country code) is            7 digits.
+       The maximum number length (excluding the country code) is            7 digits.
+
+b)     Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+       numbering plan: n/a
+
+c)     Link to the real-time database reflecting ported ITU-T E.164 numbers: n/a
+
+d)     Detail of numbering plan:
+
+       NDC (national          N(S)N number length
+    destination code) or
+  leading digits of N(S)N    Maximum       Minimum          Usage of E.164 number            Additional information
+   (national (significant)    length        length
+          number)
+ 221 (NDC)                         7           7         Geographic number for           Area code for Ribeira Grande
+                                                         fixed telephony services        (Santo Antão Island)
+                                                         (area code)
+ 222 (NDC)                         7           7         Geographic number for           Area code for Porto Novo
+                                                         fixed telephony services        (Santo Antão Island)
+                                                         (area code)
+ 223 (NDC)                         7           7         Geographic number for           Area code for Paul
+                                                         fixed telephony services        (Santo Antão Island)
+                                                         (area code)
+ 224 (NDC)                         7           7         Geographic number for           Area code for Coculi
+                                                         fixed telephony services        (Santo Antão Island)
+                                                         (area code)
+ 225 (NDC)                         7           7         Geographic number for           Area code for Ponta de Sol
+                                                         fixed telephony services        (Santo Antão Island)
+                                                         (area code)
+ 226 (NDC)                         7           7         Geographic number for           Area code for Manta
+                                                         fixed telephony services        Velha/Chã de Igreja
+                                                         (area code)                     (Santo Antão Island)
+ 227 (NDC)                         7           7         Geographic number for           Area code for Lajedos/Alto
+                                                         fixed telephony services        Mira (Santo Antão Island)
+                                                         (area code)
+ 230 (NDC)                         7           7         Geographic number for           Area code for Mindelo
+                                                         fixed telephony services        (São Vicente Island)
+                                                         (area code)
+ 231 (NDC)                         7           7         Geographic number for           Area code for Mindelo
+                                                         fixed telephony services        (São Vicente Island)
+                                                         (area code)
+ 232 (NDC)                         7           7         Geographic number for           Area code for Mindelo
+                                                         fixed telephony services        (São Vicente Island)
+                                                         (area code)
+
+      NDC (national          N(S)N number length
+   destination code) or
+ leading digits of N(S)N    Maximum     Minimum      Usage of E.164 number         Additional information
+  (national (significant)    length      length
+         number)
+235 (NDC)                      7            7      Geographic number for       Area code for Ribeira Brava
+                                                   fixed telephony services    (São Nicolau Island)
+                                                   (area code)
+236 (NDC)                      7            7      Geographic number for       Area code for Tarrafal de São
+                                                   fixed telephony services    Nilolau (São Nicolau Island)
+                                                   (area code)
+237 (NDC)                      7            7      Geographic number for       Area code for Fajã (São
+                                                   fixed telephony services    Nicolau Island)
+                                                   (area code)
+238 (NDC)                      7            7      Geographic number for       Area code for Praia Branca
+                                                   fixed telephony services    (São Nicolau Island)
+                                                   (area code)
+241 (NDC)                      7            7      Geographic number for       Area code for Espargos
+                                                   fixed telephony services    (Sal Island)
+                                                   (area code)
+242 (NDC)                      7            7      Geographic number for       Area code for Santa Maria
+                                                   fixed telephony services    (Sal Island)
+                                                   (area code)
+251 (NDC)                      7            7      Geographic number for       Area code for Sal Rei
+                                                   fixed telephony services    (Boavista Island)
+                                                   (area code)
+252 (NDC)                      7            7      Geographic number for       Area code for Fundo das
+                                                   fixed telephony services    Figueiras (Boavista Island)
+                                                   (area code)
+255 (NDC)                      7            7      Geographic number for       Area code for Vila Maio
+                                                   fixed telephony services    (Maio Island)
+                                                   (area code)
+256 (NDC)                      7            7      Geographic number for       Area code for Calheta do
+                                                   fixed telephony services    Maio (Maio Island)
+                                                   (area code)
+260 (NDC)                      7            7      Geographic number for       Area code for Praia
+                                                   fixed telephony services    (Santiago Island)
+                                                   (area code)
+261 (NDC)                      7            7      Geographic number for       Area code for Praia
+                                                   fixed telephony services    (Santiago Island)
+                                                   (area code)
+262 (NDC)                      7            7      Geographic number for       Area code for Praia
+                                                   fixed telephony services    (Santiago Island)
+                                                   (area code)
+263 (NDC)                      7            7      Geographic number for       Area code for Praia
+                                                   fixed telephony services    (Santiago Island)
+                                                   (area code)
+264 (NDC)                      7            7      Geographic number for       Area code for Praia
+                                                   fixed telephony services    (Santiago Island)
+                                                   (area code)
+265 (NDC)                      7            7      Geographic number for       Area code for Santa Catarina
+                                                   fixed telephony services    (Santiago Island)
+                                                   (area code)
+266 (NDC)                      7            7      Geographic number for       Area code for Tarrafal
+                                                   fixed telephony services    Santiago (Santiago Island)
+                                                   (area code)
+267 (NDC)                      7            7      Geographic number for       Area code for Cidade Velha
+                                                   fixed telephony services    (Santiago Island)
+                                                   (area code)
+
+      NDC (national          N(S)N number length
+   destination code) or
+ leading digits of N(S)N    Maximum     Minimum      Usage of E.164 number        Additional information
+  (national (significant)    length      length
+         number)
+268 (NDC)                      7            7      Geographic number for       Area code for São Domingos
+                                                   fixed telephony services    (Santiago Island)
+                                                   (area code)
+269 (NDC)                      7            7      Geographic number for       Area code for Pedra Badejo
+                                                   fixed telephony services    (Santiago Island)
+                                                   (area code)
+271 (NDC)                      7            7      Geographic number for       Area code for Orgão/São
+                                                   fixed telephony services    Jorge (Santiago Island)
+                                                   (area code)
+272 (NDC)                      7            7      Geographic number for       Area code for Picos
+                                                   fixed telephony services    (Santiago Island)
+                                                   (area code)
+273 (NDC)                      7            7      Geographic number for       Area code for Calheta São
+                                                   fixed telephony services    Miguel (Santiago Island)
+                                                   (area code)
+281 (NDC)                      7            7      Geographic number for       Area code for São Filipe
+                                                   fixed telephony services    (Fogo Island)
+                                                   (area code)
+282 (NDC)                      7            7      Geographic number for       Area code for Cova Figueira
+                                                   fixed telephony services    (Fogo Island)
+                                                   (area code)
+283 (NDC)                      7            7      Geographic number for       Area code for Mosteiros
+                                                   fixed telephony services    (Santiago Island)
+                                                   (area code)
+284 (NDC)                      7            7      Geographic number for       Area code for São Jorge
+                                                   fixed telephony services    (Fogo Island)
+                                                   (area code)
+285 (NDC)                      7            7      Geographic number for       Area code for Nova Sintra
+                                                   fixed telephony services    (Brava Island)
+                                                   (area code)
+33 (NDC)                       7            7      Geographic number for       NDC assigned to Unitel T+
+                                                   fixed VoIP telephony
+                                                   services (area code)
+34 (NDC)                       7            7      Geographic number for       NDC assigned to
+                                                   fixed VoIP services         CVMultimédia
+                                                   telephony (area code)
+35 (NDC)                       7            7      Geographic number for       NDC assigned to CVMóvel
+                                                   fixed VoIP services
+                                                   telephony (area code)
+43 (NDC)                       7            7      Non-Geographic number for   NDC assigned to Unitel T+
+                                                   nomadic VoIP telephony
+                                                   services (area code)
+45 (NDC)                       7            7      Non-Geographic number for   NDC assigned to
+                                                   nomadic VoIP telephony      CVMultimédia
+                                                   services (area code)
+46 (NDC)                       7            7      Non-Geographic number for   NDC assigned to CVMóvel
+                                                   nomadic VoIP telephony
+                                                   services (area code)
+51 (NDC)                       7            7      Non-Geographic number for   NDC assigned to Unitel T+
+                                                   Mobile telephony services
+52 (NDC)                       7            7      Non-Geographic number for   NDC assigned to Unitel T+
+                                                   Mobile telephony services
+53 (NDC)                       7            7      Non-Geographic number for   NDC assigned to Unitel T+
+                                                   Mobile telephony services
+       NDC (national          N(S)N number length
+    destination code) or
+  leading digits of N(S)N    Maximum     Minimum      Usage of E.164 number               Additional information
+   (national (significant)    length      length
+          number)
+ 58 (NDC)                       7            7      Non-Geographic number for         NDC assigned to CVMóvel
+                                                    Mobile telephony services
+ 59 (NDC)                       7            7      Non-Geographic number for         NDC assigned to CVMóvel
+                                                    Mobile telephony services
+ 6 (N(S)N)                      7            7      Non-Geographic number for
+                                                    Value Added telephony
+                                                    services
+ 8 (N(S)N)                      7            7      Non-Geographic number for
+                                                    Free Calling Services, Calling
+                                                    with Shared Costs, Virtual
+                                                    Calling Card, Personal
+                                                    Number telephony services
+ 91 (NDC)                       7            7      Non-Geographic number for         NDC assigned to Unitel T+
+                                                    Mobile telephony services
+ 92 (NDC)                       7            7      Non-Geographic number for         NDC assigned to Unitel T+
+                                                    Mobile telephony services
+ 93 (NDC)                       7            7      Non-Geographic number for         NDC assigned to Unitel T+
+                                                    Mobile telephony services
+ 95 (NDC)                       7            7      Non-Geographic number for         NDC assigned to CVMóvel
+                                                    Mobile telephony services
+ 97 (NDC)                       7            7      Non-Geographic number for         NDC assigned to CVMóvel
+                                                    Mobile telephony services
+ 98 (NDC)                       7            7      Non-Geographic number for         NDC assigned to CVMóvel
+                                                    Mobile telephony services
+ 99 (NDC)                       7            7      Non-Geographic number for         NDC assigned to CVMóvel
+                                                    Mobile telephony services
+
+Contact:
+      Departamento de Gestão e Controlo do Espetro Radioelétrico (DGCE)
+      Agência Reguladora Multissectorial da Economia (ARME)
+      Avenida da China – Chã d’Areia, 5.º Piso, C.P. Nº 892
+      PRAIA
+      Cabo Verde
+      Tel.:     +238 2604400/2604469
+      Fax:      +238 2613069
+      E-mail: dgce@arme.cv
+      URL:      www.arme.cv
+
+
+
+
+Iran (Islamic Republic of) (country code +98)
+Communication of 27.XI.2021:
+The Communications Regulatory Authority (CRA), Tehran, announces the following updated National
+Numbering Plan of the Islamic Republic of Iran.
+                                  Presentation of the Iran E.164 numbering plan
+1 – General Information
+The E.164 numbering Plan of Iran:
+      •    Country Code: +98
+      •    International Prefix: "00"
+      •    National Prefix: "0"
+           For national calls, it must be dialled before all telephone numbers except short numbers.
+           It must not be dialled from abroad.
+      •    National destination Code: 2 digits.
+2 – Detail of Numbering Scheme
+      •    NDC: National Destination Code
+      •    NSN: National Significant Number (NDC + SN)
+The minimum number length (excluding the country code) is            5 digits
+The maximum number length (excluding the country code) is           10 digits
+
+                                                Numbering Scheme
+
+                      NSN Number length             Usage of
+          NDC                                                                     Additional Information
+                     Minimum Maximum             E.164 number
+ 11                     5          10           Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Mazandaran)
+ 13                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Gilan)
+ 17                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Golestan)
+ 21                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Tehran)
+ 23                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Semnan)
+ 24                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Zanjan)
+ 25                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Qom)
+ 26                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Alborz)
+ 28                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Ghazvin )
+ 31                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Isfahan)
+ 34                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Kerman)
+ 35                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Yazd)
+ 38                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – Chahar Mahal vaBakhtiari)
+ 41                      5            10        Fixed Phone         Area Code (Geographic Number for Fixed
+                                                                    telephony Numbers – East Azarbayjan)
+
+
+                 NSN Number length       Usage of
+       NDC                                                         Additional Information
+                Minimum Maximum       E.164 number
+44                 5          10     Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – West Azarbayjan)
+45                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Ardabil)
+51                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Razavi Khorasan)
+54                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – SistanvaBalochestan)
+56                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – South Khorasan)
+58                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – North Khorasan)
+61                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Khuzestan)
+66                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Lorestan)
+71                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Fars)
+74                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Kohgiluoyeva Boyer Ahmad)
+76                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Hormozgan)
+77                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Bushehr)
+81                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Hamadan)
+83                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Kermanshahan)
+84                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Ilam)
+86                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Markazi)
+87                 5         10      Fixed Phone       Area Code (Geographic Number for Fixed
+                                                       telephony Numbers – Kurdestan)
+9001              10         10      Mobile services
+9002              10         10      Mobile services
+9003              10         10      Mobile services
+9004              10         10      Mobile services
+9005              10         10      Mobile services
+9006              10         10      Mobile services
+9007              10         10      Mobile services
+9008              10         10      Mobile services
+9009              10         10      Mobile services
+901               10         10      Mobile services
+902               10         10      Mobile services
+903               10         10      Mobile services
+9044              10         10      Mobile services
+9045              10         10      Mobile services
+9046              10         10      Mobile services
+905               10         10      Mobile services
+91                10         10      Mobile services
+                  NSN Number length       Usage of
+    NDC                                                               Additional Information
+                 Minimum Maximum       E.164 number
+920                 10         10     Mobile services
+921                 10         10     Mobile services
+922                 10         10     Mobile services
+923                 10         10     Mobile services
+93                  10         10     Mobile services
+942121              10         10     Fixed Phone       Non geographical
+94220               10         10     Fixed Phone       Non geographical
+94260               6          10     Fixed Phone       Non geographical
+942800              10         10     Fixed Phone       Non geographical
+942801              10         10     Fixed Phone       Non geographical
+942802              10         10     Fixed Phone       Non geographical
+942900              10         10     Fixed Phone       Non geographical
+942901              10         10     Fixed Phone       Non geographical
+942902              10         10     Fixed Phone       Non geographical
+942903              10         10     Fixed Phone       Non geographical
+942904              10         10     Fixed Phone       Non geographical
+9430130             10         10     Fixed Phone       Non geographical
+943016              10         10     Fixed Phone       Non geographical
+                                      Fixed Phone
+940000              10        10      (fiber)           Non geographical
+                                      Fixed Phone
+940009              10        10      (fiber)           Non geographical
+94440               10        10      Fixed Phone       Just Originating from Iran
+                                      (Fixed wireless
+                                      Access)
+96                  4         10      Services Codes
+990                 10        10      Mobile services
+991                 10        10      Mobile services
+992                 10        10      Mobile services
+993                 10        10      Mobile services
+9940                10        10      Mobile services
+9941                10        10      Mobile services
+9944                10        10      Mobile services
+9945                10        10      Mobile services
+9950                5         10      Public Trunk
+99510               10        10      Mobile services
+99550               10        10      Mobile services
+99810               10        10      Mobile services
+99811               10        10      Mobile services
+99812               10        10      Mobile services
+99813               10        10      Mobile services
+99814               10        10      Mobile services
+99815               10        10      Mobile services
+99816               10        10      Mobile services
+99817               10        10      Mobile services
+99818               10        10      Mobile services
+99888               10        10      Mobile services
+99900               10        10      Mobile services
+
+                  NSN Number length            Usage of
+      NDC                                                     Additional Information
+                 Minimum Maximum            E.164 number
+ 99901              10         10         Mobile services
+ 99903              10         10         Mobile services
+ 99910              10         10         Mobile services
+ 99911              10         10         Mobile services
+ 99912              10         10         Mobile services
+ 99913              10         10         Mobile services
+ 99914              10         10         Mobile services
+ 99921              10         10         Mobile services
+ 99977              10         10         Mobile services
+ 99987              10         10         Mobile services
+ 99988              10         10         Mobile services
+ 99989              10         10         Mobile services
+ 99990              10         10         Mobile services
+ 99991              10         10         Mobile services
+ 99992              10         10         Mobile services
+ 99993              10         10         Mobile services
+ 99994              10         10         Mobile services
+ 99995              10         10         Mobile services
+ 99996              10         10         Mobile services
+ 99997              10         10         Mobile services
+ 99998              10         10         Mobile services
+ 99999              10         10         Mobile services
+
+Contact:
+      Alireza Darvishi
+      Director General, International Organizations Bureau,
+      Communications Regulatory Authority (CRA)
+      Ministry of Information and Communication Technology
+      15598 TEHRAN
+      Iran (Islamic Republic of)
+      Tel.:      +98 21 89662201
+      Fax:       +98 21 88468999
+      E-mail: darvishi@cra.ir
+      URL:       www.cra.ir
+
+
+
+
+Montserrat (country code +1 664)
+Communication of 18.XI.2021:
+The Montserrat Info-Communications Authority (MICA), announces the following number ranges within the
+North American Numbering Plan (Numbering Plan Area (NPA) – 664) for Montserrat.
+               Presentation of E.164 National Numbering Plan for country code +1 664 (Montserrat):
+
+a)       Overview:
+         The minimum number length (excluding the country code) is          7 digits
+         The maximum number length (excluding the country code) is          10 digits
+
+b)       Detail of numbering scheme:
+
+          NDC (national          N(S)N number length
+       destination code) or
+                                                                                                        Additional
+     leading digits of N(S)N    Maximum      Minimum              Usage of E.164 number
+                                                                                                       information
+      (national (significant)    length       length
+             number)
+            391 (NDC)              7             7         Public Switch Telephone Number       Digicel
+                                                           (PSTN)
+           392 (NDC)               7             7         GSM Mobile Post-paid                 Digicel
+           393 (NDC)               7             7         GSM Mobile Pre-paid                  Digicel
+           394 (NDC)               7             7         GSM Mobile Reserved                  Digicel
+           395 (NDC)               7             7         GSM Mobile Post-paid                 Digicel
+           396 (NDC)               7             7         GSM Mobile Post-paid                 Digicel
+           491 (NDC)               7             7         PSTN                                 FLOW
+           492 (NDC)               7             7         Post-Paid Cellular                   FLOW
+           493 (NDC)               7             7         Pre-paid Cellular                    FLOW
+           494 (NDC)               7             7         Pre-paid Cellular Reserved           FLOW
+           495 (NDC)               7             7         GSM Mobile Post-paid                 FLOW
+           496 (NDC)               7             7         GSM Mobile Post-paid                 FLOW
+              410                  7             7         Audio-Text                           FLOW
+              411                  3             3         Directory Services                   FLOW
+              412                  7             7         Audio-Text                           FLOW
+              413                  7             7         Audio-Text                           FLOW
+           414 (NDC)               7             7         PSTN Expansion                       FLOW
+           415 (NDC)               7             7         PSTN Expansion                       FLOW
+           349 (NDC)               7             7         Fixed Cellular                       FLOW
+      492-0000,492-7999            7             7         Audio-text (USA)                     FLOW
+      492-3000; 492-0999           7             7         Audio-Text (USA)                     FLOW
+              114                  3             3         Internal Dispatch                    FLOW
+              999                  3             3         Emergency                            Police
+              911                  3             3         Emergency                            Fire
+              311                  3             3         To be confirmed                      FLOW
+              211                  3             3         Customer Care Services
+        1-899-804-2994            10             10        Contact Centre
+
+international dialling format: +1 664 NXX XXXX
+
+
+          Description of important numbers related to emergency services and other services of social value:
+
+                                                                         E.164 number or
+                                                       Allocated or
+    Important number             Service                                   national-only                Note
+                                                        assigned
+                                                                             number
+    911                    Emergency             Assigned               National-only          Fire
+                                                                        number
+    999                    Emergency             Assigned               ditto                  Police
+    211                    Customer Care         Assigned               Ditto
+
+Contact:
+          Montserrat Info-Communications Authority (MICA)
+          Corporate Secretary
+          P. O. Box 165, St. Peters Main Road
+          MSR1110, Montserrat
+          Tel.:      +1 664 491 3789
+          Fax:       +1 664 491 3789
+          E-mail: secretary@mica.ms
+                     authority@mica.ms
+          URL:       www.mica.ms
+
+
+Morocco (country code +212)
+Communication of 19.XI.2021:
+The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following
+updates to the national telephone-numbering plan of Morocco.
+
+•      Description of introduction of new resource for national E.164 numbering plan for country code +212:
+
+          NDC (national           N(S)N number length
+       destination code) or
+     leading digits of N(S)N    Maximum        Minimum            Usage of E.164 number           Additional information
+      (national (significant)    length         length
+             number)
+               776                  9              9            Mobile services 2G/3G/4G       Médi Telecom 1
+
+               778                  9              9            Mobile services 2G/3G/4G       Médi Telecom
+
+               779                  9              9            Mobile services 2G/3G/4G       Médi Telecom
+
+1
+    : ORANGE
+Contact:
+          Agence Nationale de Réglementation des Télécommunications (ANRT)
+          Centre d'affaires
+          Boulevard Ar-Riad, Hay Riad
+          B.P. 2939
+          RABAT 10100
+          Morocco
+          Tel.:     +212 5 37 71 85 64
+          E-mail: numerotation@anrt.ma
+          URL:      www.anrt.ma
+
+
+
+
+Seychelles (country code +248)
+Communication of 18.XI.2021:
+The Office of the President, Department of Information Communications Technology, Victoria, announces the
+following updated National Numbering Plan (NNP) for Seychelles:
+                                      Summary of the National Numbering Plan
+
+       Leading Digit                                            Services
+                           International dialling prefix code
+             0             International operator selection
+                           International ISDN access code
+                           Short Dialling Codes (To access customer oriented telecommunication services
+             1
+                           e.g. customer support and directory services)
+             2             Mobile Services (Including Fixed Cellular Services)
+             3             Reserved for future services
+             4             Fixed Services
+             5             Reserved for future Services
+             6             Fixed VoIP1 Services
+             7             Reserved for future Services
+             8             Freephone Services and possible future Services
+                           Premium Rate Services
+                           (Short Codes for VAS2 SMS3/MMS4 and Audiotext Services)
+             9
+                           Emergency Services
+                           (Note: The rest of the “99” range is reserved to protect the integrity of “999”.)
+
+
+           Status                                            Description
+        Unallocated        Not allocated to any Operator / Service provider
+         Reserved          Reserved for future services
+    Indicating Operator
+                           Allocated to an Operator / Service provider
+      (e.g. KOKONET)
+             ALL           Allocated to all Operators / Service provider
+
+
+                                                    Digit Length
+    The digit lengths of numbers used for the services are defined in the appropriate columns in the National
+    Numbering Plan. Seychelles utilizes a 7 digit numbering scheme and unless specifically defined otherwise
+    in the appropriate columns, numbers for mobile, fixed, fixed cellular, fixed VoIP and freephone services
+    shall be 7 digits long.
+
+
+
+
+1   VoIP   Voice Over Internet Protocol
+2   VAS    Value Added Service
+3   SMS    Short Message Service
+4   MMS    Multimedia Messaging Service
+           International Codes Assigned by the International Telecommunication Union (ITU) to Seychelles
+
+    International
+                                  Type of Services                                     Remarks
+        Codes
+          6-066
+                                                               For assignment of International Signalling Point
+          6-067       International Signalling Area – SANC
+                                                               Codes (ISPC)
+          6-155
+                                                               For assignment of Data Network Identification Code
+          633         Data Country Code – DCC
+                                                               (DNIC)
+                                                               For assignment of Land Mobile Station identities such
+          633         Mobile Country Code – MCC                as the International Mobile Station Identity (IMSI for
+                                                               international roaming)
+                                                               For assignment of ship station identities such as
+          664         Maritime Identification Digits – MID
+                                                               INMARSAT Mobile Service Identity (MMSI)
+                                                               For call routing purpose in the provision of
+          965         Telex Destination Code
+                                                               international automatic telex service
+          248         Country Code                             For international call routing to Seychelles
+                                                               For assignment of IIN for international
+      89248XX         Issuer Identifier Number – IIN
+                                                               telecommunications charge cards issuers
+           SC         Country Code                             For Public Message Handling Services
+
+
+                                          Number Assignment for Leading Digit 0
+
+    Leading Digits      Digit Length                     Type of Services                   Status       Category
+    00                        2           International Outgoing Code                        ALL            3
+    01                        2           Access Code to International Gateway              CWS*            2
+    010                       3           ISDN International access code                     ALL            3
+    02                        2           Access Code to International Gateway              AIRTEL          2
+    0(3-9)                    2           Reserved for future expansion                    Reserved         –
+
+
+Category 1            Codes which are universally accessible and universally allocated to all operators.
+Category 2            Codes which are universally accessible and allocated to a single operator.
+Category 3            Codes which in general will not be passed across networks and are universally allocated to all
+operators.
+
+* Refer to Appendix A1 for the full name of all operators
+
+
+                                          Number Assignment for Leading Digit 1
+
+    Leading Digits       Digit Length                   Type of Services                    Status       Category
+                                          National Operator Assistance/Prepaid IVR5/
+      100                     3                                                               ALL            3
+                                          Administrative Menu for Customer Services
+      101                     3           Voice Mail                                         ALL             3
+      102                     3           Voice Mail                                         CWS             2
+      103                     3           Voice Mail                                         ALL             3
+      104                                 Reserved                                        Unallocated
+      105                                 Reserved                                        Unallocated
+      106                     3           PSTN Prepaid Calling Card (Outer Islands)          ALL             3
+      107                     3           International Prepaid Calling Card                 ALL             3
+      108                     3           PSTN Prepaid Calling Card (Inner Islands)          ALL             3
+      109                     3           Mobile Prepaid Services                            ALL             3
+      110                     3           Mobile Prepaid Services                            ALL             3
+      111                     3           Fire & Rescue Services                             ALL             1
+
+5
+    IVR      Interactive Voice Response
+
+
+ Leading Digits     Digit Length                   Type of Services                   Status        Category
+  112                     3         Emergency code for all mobile services             ALL             1
+  113                               Reserved                                        Unallocated
+  114                     3         Trafficking in Persons Hotline                     ALL              1
+  115                               Reserved                                        Unallocated
+  116                     3         Child Helpline                                     ALL              1
+  117                     3         PSTN Prepaid Services                              ALL              3
+  11(8-9)                           Reserved                                        Unallocated
+  120                     3         Faults Report (Corporate customers)                CWS              2
+  121                     3         Faults report                                      CWS              2
+  122                               Reserved                                        Unallocated
+  123                     3         Customer helpline                                  CWS              2
+  12(4-9)                           Reserved                                        Unallocated
+  13(0-2)                           Reserved                                        Unallocated
+  133                     3         Police                                             ALL              1
+  13(4-9)                           Reserved                                        Unallocated
+  140                               Reserved                                        Unallocated
+  141                     3         Medical Information Services                       ALL              1
+  14(2-9)                           Reserved                                        Unallocated
+  150                               Reserved                                        Unallocated
+  151                     3         Medical Emergency Services                         ALL              1
+  15(2-9)                           Reserved                                        Unallocated
+  160                     3         Department of Risk and Disaster
+                                                                                        ALL             1
+                                    Management
+  16(1-9)                 3         Testing                                            ALL              3
+  170                               Reserved                                       Unallocated
+  171                     3         Maintenance Control                                ALL              3
+  17(2-9)                           Reserved                                       Unallocated
+  180                               Reserved                                       Unallocated
+  181                     3         Directory Enquiries                                CWS              2
+  18(2-4)                           Reserved                                       Unallocated
+  185                     3         Directory Enquiries                               AIRTEL            2
+  18(6-7)                           Reserved                                       Unallocated
+  188                     3         Directory Enquiries                            INTELVISION          2
+  189                               Reserved                                       Unallocated
+  19(0-9)                           Reserved                                       Unallocated
+
+Category 1        Codes which are universally accessible and universally allocated to all operators.
+Category 2        Codes which are universally accessible and allocated to a single operator.
+Category 3        Codes which in general will not be passed across networks and are universally allocated to all
+operators.
+
+
+
+
+                                      Number Assignment for Leading Digit 2
+
+  Leading Digits      Digit Length                        Type of Services                    Status
+    2(0)                               Mobile Services                                     Unallocated
+    21(0-9)                            Mobile Services                                     INTELVISION
+    22(0-9)                            Mobile Services                                     INTELVISION
+    2(3-4)                             Mobile Services                                     Unallocated
+    25(0-4)                            Mobile Services                                         CWS
+    255(0-5)*                          Fixed Cellular                                          CWS
+    255(6-9)                           Mobile Services                                         CWS
+    25(6-9)                            Mobile Services                                         CWS
+    26(0-9)                 7          Mobile Services                                         CWS
+    27(0-7)                            Mobile Services                                        AIRTEL
+    278(0-1)*                          Fixed Cellular                                         AIRTEL
+    2782                               Mobile Services                                        AIRTEL
+    2783*                              Fixed Cellular                                         AIRTEL
+    278(4-9)                           Mobile Services                                        AIRTEL
+    279(0-9)                           Mobile Services                                        AIRTEL
+    28(0-9)                            Mobile Services                                        AIRTEL
+    29(0-9)                            Mobile Services                                     Unallocated
+* Note that fixed cellular services are tariffed as fixed line services.
+
+
+                                      Number Assignment for Leading Digit 3
+
+  Leading Digits      Digit Length                        Type of Services                    Status
+     3(0-9)                            Reserved                                             Unallocated
+
+                                      Number Assignment for Leading Digit 4
+
+  Leading Digits      Digit Length                        Type of Services                    Status
+
+    4(0-1)                             Fixed Services                                      Unallocated
+    42(0-9)*                           Fixed Services                                          CWS
+    43(0-9)                            Fixed Services                                          CWS
+    44(0-9)                 7          Fixed Services                                      INTELVISION
+    45(0-9)                            Fixed Services                                      Unallocated
+    46(0-9)                            Fixed Services                                         AIRTEL
+    4(7-9)                             Fixed Services                                      Unallocated
+* Note that numbers with the leading digits 4229 are being used to access the Outer Islands and have a different
+tariff from that of fixed line services offered on the Inner Islands (principle group) of Seychelles.
+
+
+                                      Number Assignment for Leading Digit 5
+
+  Leading Digits      Digit Length                        Type of Services                    Status
+     5(0-9)                            Reserved                                             Unallocated
+
+
+                                      Number Assignment for Leading Digit 6
+
+  Leading Digits      Digit Length                        Type of Services                    Status
+     6(0-3)                            Fixed VoIP                                           Unallocated
+     64(0-9)                7          Fixed VoIP                                            KOKONET
+     6(5-9)                            Fixed VoIP                                           Unallocated
+
+
+
+
+                                      Number Assignment for Leading Digit 7
+
+Leading Digits    Digit Length        Type of Services                                     Status
+     7(0-9)                           Reserved                                           Unallocated
+
+
+                                      Number Assignment for Leading Digit 8
+
+ Leading Digits    Digit Length                       Type of Services                     Status
+   800(0)                             Freephone Services                                   AIRTEL
+   800(1-7)                           Freephone Services                                 Unallocated
+   800(8)                             Freephone Services                                    CWS
+                           7
+   800(9)                             Freephone Services                                 Unallocated
+   80(1-9)                            Reserved                                           Unallocated
+   8(1-9)                             Reserved                                           Unallocated
+
+
+                                      Number Assignment for Leading Digit 9
+
+ Leading Digits    Digit Length                          Type of Services                  Status
+   9(0-4)                             Reserved                                           Unallocated
+   95(0-9)                 7          International Audiotext Services                      CWS
+   96(0-9)                 4          Short Codes for VAS SMS/MMS Services                See A.2
+   970                                Reserved                                           Unallocated
+   971                     7          Audiotext Services                                    CWS
+   97(2-9)                            Reserved                                           Unallocated
+   98(0-9)                            Reserved                                           Unallocated
+   99(0-8)                            Reserved                                           Unallocated
+   999                     3          Emergency Services                                    ALL
+
+
+                               Data Network Identification Codes (DNIC) Assignments
+
+     DNIC
+                                                Service                                 Status
+  Assignment
+     6330                                          –                                  Unallocated
+     6331                         Packet Switched Network (INFOLINK)                     CWS
+     6332                                          –                                  Unallocated
+     6333                                          –                                  Unallocated
+     6334                                          –                                  Unallocated
+     6335                                          –                                  Unallocated
+     6336                                          –                                  Unallocated
+     6337                                          –                                  Unallocated
+     6338                                          –                                  Unallocated
+     6339                                          –                                  Unallocated
+
+
+
+
+                           International Signalling Point Code (ISPC) Assignments
+
+        ISPC
+                                           Node/Exchange                                    Status
+    Assignment
+      6-066-0                                 E10S1                                          CWS
+      6-066-1                             Seychelles MSC                                     CWS
+      6-066-2                          Media Gateway (MGW)                                   CWS
+      6-066-3                                                                            Unallocated
+      6-066-4                            INTV-MAHE-01                                    INTELVISION
+      6-066-5                         MEDIA GATEWAY-AIRTEL                                  AIRTEL
+      6-066-6                                 TLS                                           AIRTEL
+      6-066-7                                 MSC                                           AIRTEL
+      6-067-0                              KOKONET-0                                      KOKONET
+      6-067-1                                                                            Unallocated
+      6-067-2                                 HSS Node                                      AIRTEL
+      6-067-3                                 MSC-SC 01                                     AIRTEL
+      6-067-4                                   HLR1                                     INTELVISION
+      6-067-5                                   HLR2                                     INTELVISION
+      6-067-6                                  MSC1                                      INTELVISION
+      6-067-7                                  MSC2                                      INTELVISION
+      6-155-0                                                                            Unallocated
+      6-155-1                                                                            Unallocated
+      6-155-2                                                                            Unallocated
+      6-155-3                                                                            Unallocated
+      6-155-4                                                                            Unallocated
+      6-155-5                                                                            Unallocated
+      6-155-6                                                                            Unallocated
+      6-155-7                                                                            Unallocated
+
+
+                               Issuer Identification Number (IIN) Assignments
+        IIN
+                                           Company Name
+    Assignment
+     89 248 01                                   CWS
+     89 248 10                                  AIRTEL
+     89 248 05                               INTELVISION
+
+
+                 Mobile Country Code (MCC) and Mobile Network Code (MNC) Assignments
+    MCC – MNC
+                                           Mobile Network                             Mobile Operator
+    Assignment
+      633-01                                2G/3G/4G/5G                                     CWS
+      633-05                                 2G/4G/5G                                   INTELVISION
+      633-10                                 2G/3G/4G                                      AIRTEL
+
+
+                                        A.1 Full Name of Operators
+Operators:
+
+CWS              Cable and Wireless (Seychelles) Ltd
+AIRTEL           Airtel (Seychelles) Ltd
+INTELVISION      Intelvision Ltd
+KOKONET          Kokonet Ltd
+
+
+
+
+                                  A.2 Short Codes for VAS SMS/MMS Services
+
+  Leading Digits      Digit Length           Type of Services                 Status          Category
+ 960                                 Cross-Network Services (See A.3)         See A.3          1 or 2
+ 96(1-2)                             Network Specific Services                  ALL              3
+ 963                                 Cross-Network Services                  Reserved           N/A
+                            4
+ 96(4-5)                             Network Specific Services                  ALL              3
+ 966                                 Cross-Network Services                  Reserved           N/A
+ 96(7-9)                             Network Specific Services                  ALL              3
+
+
+Category 1         Codes which are universally accessible and universally allocated to all operators.
+Category 2         Codes which are universally accessible and allocated to a single operator.
+Category 3         Codes which in general will not be passed across networks and are universally allocated to all
+operators.
+
+                          A.3 Short Codes for Cross-Network VAS SMS/MMS Services
+
+     Code                            Type of Services                         Status            Category
+                          Electoral Commissioner’s Office (ECO)
+     9600                                                                       All                 1
+                         Voting Registration Information Service
+                          Seychelles Licensing Authority’s (SLA)
+     9601                                                                       All                 1
+                              Licensing Information Service
+     9602                              Unallocated
+     9603                              Unallocated
+     9604                              Unallocated
+     9605                              Unallocated
+     9606                Seychelles Pension Fund (SPF) Eservice                 All                 1
+     9607                              Unallocated
+     9608                              Unallocated
+     9609                              Unallocated
+
+
+Contact:
+      Vice-President’s Office
+      Department of Information Communications Technology
+      Communications Division
+      3rd Floor, Caravelle House, Manglier Street
+      P.O. Box 737
+      VICTORIA, Mahé
+      Seychelles
+      Tel.:      +248 4 286 600
+      Fax:       +248 4 225 325
+      E-mail: communications@ict.gov.sc
+      URL:       www.ict.gov.sc
+
+
+
+
+                                      Other communications
+
+Austria
+Communication of 12.XI.2021:
+On the occasion of the "YOTA Month 2021" of the IARU-R1, the Austrian Administration authorizes an Austrian
+amateur station to use the special call sign OE0YOTA from 1 to 31 December 2021.
+
+Communication of 17.XI.2021:
+On the occasion of the 50th anniversary of the "Austrian DX Board (ADXB)", the Austrian Administration
+authorizes an Austrian amateur station to use the special call sign OE50ADXB from 1 to 31 December 2021.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                 AMENDMENTS TO SERVICE PUBLICATIONS
+                                             Abbreviations used
+                             ADD      Insert                     PAR    Paragraph
+                             COL      Column                     REP    Replace
+                             LIR      Read                       SUP    Delete
+                             P        Page(s)
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+                         (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                          (Amendment No. 60)
+
+Colombia            ADD
+   Country/
+                    Company             Issuer Identifier                                         Effective date
+ geographical                                                            Contact
+                  Name/Address              Number                                                   of usage
+     area
+ Colombia       LIWA S.A.S. E.S.P.         89 57 700        Nancy Johanna Cañon                      1.II.2022
+                Calle 127 B # 49-48                         Calle 127 B Bis # 49-48
+                BOGOTÁ D.C.                                 BOGOTÁ D.C.
+                                                            Tel.: +57 601 4864710
+                                                            E-mail: nancy.canon@cellvoz.com.co
+
+
+
+
+                                  List of ITU Carrier Codes
+                  (According to Recommendation ITU-T M.1400 (03/2013))
+                              (Position on 15 September 2014)
+                                (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                                (Amendment No. 126)
+
+
+ Country or area/ISO code                                    Company Code      Contact
+   Company Name/Address                                       (carrier code)
+
+
+
+
+Germany (Federal Republic of) / DEU                     ADD
+
+
+ Stadtwerke Lünen GmbH                                            SWL24        Mr Colja Krause
+ Borker Strasse 56-58                                                          Tel.:    +49 2306 707 391
+ D-44534 LUENEN                                                                Fax:     +49 2306 707 161
+                                                                               Email: c.krause@swl24.de
+
+
+ Vitroconnect GmbH                                                FLVTRC       Dr Steffen Mueller
+ Bulk Account                                                                  Tel.:    +49 5241 30893 19
+ Huelsbrockstrasse 23                                                          Fax:     +49 5241 9975 205
+ D-33334 GUETERSLOH                                                            Email: steffen.mueller@vitroconnect.de
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 26)
+
+
+ Country/                   Unique name of the signalling point                Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+
+ Burkina Faso ADD
+ 6-026-7       12503        Complexe technique Moov-Africa de ZAD,             ONATEL S.A.
+                            OUAGADOUGOU
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                National Numbering Plan
+                 (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.XI.2021, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                         Country/ Geographical area                     Country Code (CC)
+               Georgia                                                        +995
+               Malta                                                          +356
+               Morocco                                                        +212
+               Vanuatu                                                        +678
+
+
+
+

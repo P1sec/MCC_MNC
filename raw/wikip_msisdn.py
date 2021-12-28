@@ -138,7 +138,7 @@ WIKIP_MSISDN = \
   '355': [('AL', 'Albania', 'https://en.wikipedia.org/wiki/Albania')],
   '356': [('MT', 'Malta', 'https://en.wikipedia.org/wiki/Malta')],
   '357': [('CY', 'Cyprus', 'https://en.wikipedia.org/wiki/Cyprus')],
-  '358': [ ('AX', 'Åland Islands', 'https://en.wikipedia.org/wiki/%C3%85land_Islands'),
+  '358': [ ('AX', 'Åland', 'https://en.wikipedia.org/wiki/%C3%85land'),
            ('FI', 'Finland', 'https://en.wikipedia.org/wiki/Finland')],
   '359': [('BG', 'Bulgaria', 'https://en.wikipedia.org/wiki/Bulgaria')],
   '36': [('HU', 'Hungary', 'https://en.wikipedia.org/wiki/Hungary')],

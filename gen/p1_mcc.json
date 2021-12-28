@@ -201,7 +201,7 @@
         "20898"
       ],
       "notes": "",
-      "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques, des Postes et de la Distribution de la Presse (ARCEP)",
       "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#France_\u2013_FR"
     },
     "212": {
@@ -1544,7 +1544,7 @@
         "30803"
       ],
       "notes": "",
-      "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques, des Postes et de la Distribution de la Presse (ARCEP)",
       "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#Saint_Pierre_and_Miquelon_(France)_\u2013_PM"
     },
     "310": [
@@ -2220,7 +2220,7 @@
           "34020"
         ],
         "notes": "",
-        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques, des Postes et de la Distribution de la Presse (ARCEP)",
         "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_\u2013_BL/GF/GP/MF/MQ"
       },
       {
@@ -2238,7 +2238,7 @@
           "34020"
         ],
         "notes": "",
-        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques, des Postes et de la Distribution de la Presse (ARCEP)",
         "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_\u2013_BL/GF/GP/MF/MQ"
       },
       {
@@ -2256,7 +2256,7 @@
           "34020"
         ],
         "notes": "",
-        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques, des Postes et de la Distribution de la Presse (ARCEP)",
         "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_\u2013_BL/GF/GP/MF/MQ"
       },
       {
@@ -2274,7 +2274,7 @@
           "34020"
         ],
         "notes": "",
-        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques, des Postes et de la Distribution de la Presse (ARCEP)",
         "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)#French_Antilles_(France)_\u2013_BL/GF/GP/MF/MQ"
       }
     ],
@@ -3300,6 +3300,7 @@
       "mncs": [
         "43201",
         "43202",
+        "43206",
         "43208",
         "43210",
         "43211",
@@ -4321,7 +4322,7 @@
         "61303"
       ],
       "notes": "",
-      "reg": "",
+      "reg": "Autorit\u00e9 de r\u00e9gulation des communications \u00e9lectroniques et des postes (ARCEP)",
       "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Burkina_Faso_\u2013_BF"
     },
     "614": {
@@ -4749,7 +4750,7 @@
         "64282"
       ],
       "notes": "",
-      "reg": "L\u2019Agence de R\u00e9gulation et de Contr\u00f4le des T\u00e9l\u00e9communications (ARCT)",
+      "reg": "Agence de R\u00e9gulation et de Contr\u00f4le des T\u00e9l\u00e9communications (ARCT)",
       "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Burundi_\u2013_BI"
     },
     "643": {
@@ -4800,7 +4801,7 @@
           "64710"
         ],
         "notes": "",
-        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques, des Postes et de la Distribution de la Presse (ARCEP)",
         "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#French_Indian_Ocean_Territories_(France)_\u2013_YT/RE"
       },
       {
@@ -4814,7 +4815,7 @@
           "64710"
         ],
         "notes": "",
-        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+        "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques, des Postes et de la Distribution de la Presse (ARCEP)",
         "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#French_Indian_Ocean_Territories_(France)_\u2013_YT/RE"
       }
     ],
@@ -5270,7 +5271,7 @@
         "74204"
       ],
       "notes": "French Guiana shares MCC 340 in addition to using the assigned MCC 742",
-      "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques et des Postes (ARCEP)",
+      "reg": "Autorit\u00e9 de R\u00e9gulation des Communications \u00c9lectroniques, des Postes et de la Distribution de la Presse (ARCEP)",
       "url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_7xx_(South_America)#French_Guiana_(France)_\u2013_GF"
     },
     "744": {

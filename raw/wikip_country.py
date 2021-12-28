@@ -282,4 +282,4 @@ WIKIP_COUNTRY = \
   'Zambia': ['260'],
   'Zanzibar': ['25524'],
   'Zimbabwe': ['263'],
-  'Åland Islands': ['35818']}
+  'Åland': ['35818']}
