@@ -57,6 +57,7 @@ Several sources are available on the Internet:
 
 - ITU-T documents:
   - https://www.itu.int/pub/T-SP-E.164D
+  - Per-country numbering plan: https://www.itu.int/oth/T0202.aspx?parent=T0202
 - Wikipedia:
   - https://en.wikipedia.org/wiki/List_of_country_calling_codes
   - https://en.wikipedia.org/wiki/List_of_mobile_telephone_prefixes_by_country#International_prefixes_table
