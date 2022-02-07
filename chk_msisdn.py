@@ -3,7 +3,7 @@
 
 # /**
 # * Software Name : MCC_MNC
-# * Version : 0.1
+# * Version : 0.2
 # *
 # * Copyright 2020. Benoit Michau. P1 Security.
 # *
@@ -31,8 +31,8 @@
 import sys
 import argparse
 #
-from gen.p1_msisdn import P1_MSISDN
-from gen.p1_cntr   import P1_CNTR
+from mcc_mnc_lut.p1_msisdn import P1_MSISDN
+from mcc_mnc_lut.p1_cntr   import P1_CNTR
 #
 from chk_cntr  import print_cntr
 from chk_mnc   import print_mcc
@@ -67,7 +67,7 @@ def main():
                     for cntr in cntrs:
                         print_cntr(P1_CNTR[cntr], ext=args.x-1)
                         for mcc in P1_CNTR[cntr]['mcc']:
-                            print_mcc(mcc, {P1_CNTR[cntr]['cc2']})
+                            print_mcc(mcc, {P1_CNTR[cntr]['cc2']}, indent='  ')
                 print('')
                 found = True
             else:
@@ -78,9 +78,9 @@ def main():
                               % (msisdn, msisdn[:-i], ',\n  '.join(cntrs)))
                         if args.x:
                             for cntr in cntrs:
-                                print_cntr(P1_CNTR[cntr], ext=args.x-1)
+                                print_cntr(P1_CNTR[cntr], ext=args.x-1, indent='  ')
                                 for mcc in P1_CNTR[cntr]['mcc']:
-                                    print_mcc(mcc, {P1_CNTR[cntr]['cc2']})
+                                    print_mcc(mcc, {P1_CNTR[cntr]['cc2']}, indent='  ')
                         print('')
                         found = True
                         break

@@ -3,7 +3,7 @@
 
 # /**
 # * Software Name : MCC_MNC
-# * Version : 0.1
+# * Version : 0.2
 # *
 # * Copyright 2020. Benoit Michau. P1 Security.
 # *
@@ -31,45 +31,46 @@
 import sys
 import argparse
 #
-from gen.p1_mnc import P1_MNC
-from gen.p1_mcc import P1_MCC
-from gen.p1_cc2 import P1_CC2
+from mcc_mnc_lut.p1_mnc import P1_MNC
+from mcc_mnc_lut.p1_mcc import P1_MCC
+from mcc_mnc_lut.p1_cc2 import P1_CC2
+
 #
 from chk_cntr import print_cntr
 
 
-def print_mcc(mcc, cc2s):
-    print('> MCC %s' % mcc)
+def print_mcc(mcc, cc2s, indent=''):
+    print('%s> MCC %s' % (indent, mcc))
     mcc = P1_MCC[mcc]
     if isinstance(mcc, list):
         mccs = mcc
         for mcc in mccs:
             if mcc['cc2'] in cc2s:
-                print('  country       : %s' % mcc['cc2'])
-                print('  url Wikipedia : %s' % mcc['url'])
-                print('  regulator     : %s' % mcc['reg'])
+                print('%s  country       : %s' % (indent, mcc['cc2']))
+                print('%s  url Wikipedia : %s' % (indent, mcc['url']))
+                print('%s  regulator     : %s' % (indent, mcc['reg']))
                 if mcc['notes']:
-                    print('  notes         : %s' % mcc['notes'])  
+                    print('%s  notes         : %s' % (indent, mcc['notes']))  
     else:
-        print('  country       : %s' % mcc['cc2'])
-        print('  url Wikipedia : %s' % mcc['url'])
-        print('  regulator     : %s' % mcc['reg'])
+        print('%s  country       : %s' % (indent, mcc['cc2']))
+        print('%s  url Wikipedia : %s' % (indent, mcc['url']))
+        print('%s  regulator     : %s' % (indent, mcc['reg']))
         if mcc['notes']:
-            print('  notes         : %s' % mcc['notes'])
+            print('%s  notes         : %s' % (indent, mcc['notes']))
 
 
-def print_mno(mccmnc, mno, ext):
-    print('  operational   : %s' % repr(mno['ope']).lower())
-    print('  brand         : %s' % mno['brand'])
-    print('  operator      : %s' % mno['operator'])
-    print('  country       : %s' % mno['country'])
-    print('  bands         : %s' % ', '.join(mno['bands']))
-    print('  src           : %s' % mno['src'])
+def print_mno(mccmnc, mno, ext, indent=''):
+    print('%s  operational   : %s' % (indent, repr(mno['ope']).lower()))
+    print('%s  brand         : %s' % (indent, mno['brand']))
+    print('%s  operator      : %s' % (indent, mno['operator']))
+    print('%s  country       : %s' % (indent, mno['country']))
+    print('%s  bands         : %s' % (indent, ', '.join(mno['bands'])))
+    print('%s  src           : %s' % (indent, mno['src']))
     if ext:
         if mccmnc[:3] in P1_MCC:
-            print_mcc(mccmnc[:3], mno['cc2s'])
+            print_mcc(mccmnc[:3], mno['cc2s'], indent='  ')
         for cc2 in mno['cc2s']:
-            print_cntr(P1_CC2[cc2], ext=ext-1)
+            print_cntr(P1_CC2[cc2], ext=ext-1, indent='  ')
 
 
 def print_mnos(mccmnc, ext=0):

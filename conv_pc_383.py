@@ -3,7 +3,7 @@
 
 # /**
 # * Software Name : MCC_MNC
-# * Version : 0.1
+# * Version : 0.2
 # *
 # * Copyright 2021. Benoit Michau. P1 Security.
 # *
@@ -52,13 +52,13 @@ def help():
     print('just pass your value in X-Y-Z format or plain integer as argument')
 
 
-def main(arg):
-    if arg in ('-h', '--help'):
+def main():
+    if len(sys.argv) < 2 or sys.argv[1] in ('-h', '--help'):
         help()
         return 0
     #
     try:
-        pcconv = conv_pc_383(arg)
+        pcconv = conv_pc_383(sys.argv[1])
     except Exception:
         print('invalid arg')
         help()
@@ -68,5 +68,5 @@ def main(arg):
 
 
 if __name__ == '__main__':
-    sys.exit(main(sys.argv[1]))
+    sys.exit(main())
 

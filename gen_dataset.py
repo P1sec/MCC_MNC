@@ -46,7 +46,7 @@ from patch_dataset          import *
 from parse_wikipedia_tables import  generate_json, generate_python
 
 
-PATH_PRE = 'gen/'
+PATH_PRE = 'mcc_mnc_lut/'
 
 #------------------------------------------------------------------------------#
 # utility functions
@@ -734,8 +734,16 @@ complete_cc2()
 
 
 #------------------------------------------------------------------------------#
-# Territory dict
+# main
 #------------------------------------------------------------------------------#
+
+def generate_init(path_pre):
+    with open(path_pre + '__init__.py', 'w') as fd:
+        fd.write('''
+            __all__ = ['p1_mnc', 'p1_mcc', 'p1_msisdn', 'p1_msisdnext', 'p1_ispc', 'p1_sanc', 'p1_cc2', 'p1_cntr', 'p1_terr']
+            '''.strip())
+        fd.write('\n')
+
 
 def main():
             
@@ -760,6 +768,8 @@ def main():
     generate_python(CNTR, PATH_PRE + 'p1_cntr.py', [URL_SRC], URL_LIC)
     generate_json(TERR, PATH_PRE + 'p1_terr.json', [URL_SRC], URL_LIC)
     generate_python(TERR, PATH_PRE + 'p1_terr.py', [URL_SRC], URL_LIC)
+    
+    generate_init(PATH_PRE)
     
     return 0
 

@@ -3,7 +3,7 @@
 
 # /**
 # * Software Name : MCC_MNC
-# * Version : 0.1
+# * Version : 0.2
 # *
 # * Copyright 2021. Benoit Michau. P1 Security.
 # *
@@ -31,14 +31,15 @@
 import sys
 import argparse
 #
-from gen.p1_ispc    import P1_ISPC
-from gen.p1_sanc    import P1_SANC
-from gen.p1_cc2     import P1_CC2
-from gen.p1_cntr    import P1_CNTR
-from gen.p1_terr    import P1_TERR
-from conv_pc_383    import conv_pc_383
-from chk_cntr       import print_cntr
-from patch_country_dep import COUNTRY_SPEC
+from mcc_mnc_lut.p1_ispc    import P1_ISPC
+from mcc_mnc_lut.p1_sanc    import P1_SANC
+from mcc_mnc_lut.p1_cc2     import P1_CC2
+from mcc_mnc_lut.p1_cntr    import P1_CNTR
+from mcc_mnc_lut.p1_terr    import P1_TERR
+#
+from conv_pc_383        import conv_pc_383
+from chk_cntr           import print_cntr
+from patch_country_dep  import COUNTRY_SPEC
 
 
 def print_ispc(ispc, ext=0):
@@ -61,21 +62,21 @@ def print_ispc(ispc, ext=0):
     print('  operator      : %s' % ope)
     if ext:
         if cntr in P1_CNTR:
-            print_cntr(P1_CNTR[cntr], ext=ext-1)
+            print_cntr(P1_CNTR[cntr], ext=ext-1, indent='  ')
         else:
             found = False
             for name, inf in P1_CNTR.items():
                 if cntr in inf['infos']['nameset']:
-                    print_cntr(inf, ext=ext-1)
+                    print_cntr(inf, ext=ext-1, indent='  ')
                     found = True
                     break
             if not found and cntr in COUNTRY_SPEC:
                 cntr_spec = COUNTRY_SPEC[cntr]
                 if 'cc2' in cntr_spec:
-                    print_cntr(P1_CC2[cntr_spec['cc2']], ext=ext-1)
+                    print_cntr(P1_CC2[cntr_spec['cc2']], ext=ext-1, indent='  ')
                 elif 'sub_cc2' in cntr_spec:
                     for cc2 in cntr_spec['sub_cc2']:
-                        print_cntr(P1_CC2[cc2], ext=ext-1)
+                        print_cntr(P1_CC2[cc2], ext=ext-1, indent='  ')
                 found = True
             if not found and cntr.lower() not in ('reserved', 'unknown'):
                 print('> unknown country: %s' % cntr)

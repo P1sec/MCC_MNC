@@ -1,0 +1,642 @@
+                        ITU Operational Bulletin
+                                                         www.itu.int/itu-t/bulletin
+
+       No. 1236              15.I.2022                    (Information received by 20 December 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                           Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                               Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                               Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                              E-mail: brmail@itu.int
+
+
+
+
+                                                                  Table of Contents
+                                                                                                                                                                      Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                     3
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164 (11/2010)):
+       Note from TSB .....................................................................................................................................              4
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+       (09/2016)): Note from TSB ..................................................................................................................                     4
+Telephone Service:
+     Cayman Islands (Utility Regulation and Competition Office (OfReg), Grand Cayman)............................                                                       5
+     Malta (Malta Communications Authority (MCA), Floriana) .....................................................................                                       9
+Changes in Administrations/ROAs and other entities or Organizations:
+Other communication:
+     Austria ......................................................................................................................................................    10
+Service Restrictions ........................................................................................................................................          11
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                     11
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Recommendation ITU-T E.164 assigned Country Codes .....................................................................                                        12
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................              12
+List of ITU Carrier Codes .................................................................................................................................            13
+List of International Signalling Point Codes (ISPC) .........................................................................................                          14
+National Numbering Plan ...............................................................................................................................                15
+
+
+
+
+                                                                                                                                     www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1237              1.II.2022             14.I.2022
+               1238             15.II.2022             31.I.2022
+               1239              1.III.2022            11.II.2022
+               1240             15.III.2022            1.III.2022
+               1241              1.IV.2022             15.III.2022
+               1242             15.IV.2022             31.III.2022
+               1243              1.V.2022              10.IV.2022
+               1244             15.V.2022              29.IV.2022
+               1245              1.VI.2022             13.V.2022
+               1246             15.VI.2022             31.V.2022
+               1247             1.VII.2022             15.VI.2022
+               1248             15.VII.2022            1.VII.2022
+               1249             1.VIII.2022           15.VII.2022
+               1250            15.VIII.2022           29.VII.2022
+               1251              1.IX.2022            12.VIII.2022
+               1252             15.IX.2022            31.VIII.2022
+               1253              1.X.2022              15.IX.2022
+               1254             15.X.2022              30.IX.2022
+               1255              1.XI.2022             14.X.2022
+               1256             15.XI.2022             1.XI.2022
+               1257             1.XII.2022             15.XI.2022
+               1258             15.XII.2022            30.XI.2022
+               1259              1.I.2023              9.XII.2022
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+            The International Public Telecommunication Numbering Plan
+                     (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+
+                                 Identification codes for international networks
+
+Associated with shared country code 883 for international networks, the following three-digit identification code
+has been withdrawn.
+
+
+                                                                     Country Code and           Date of withdrawal
+            Applicant                       Network
+                                                                    Identification Code
+
+ GloTell B.V.                      GloTell B.V.                         +883 270                    15.I.2022
+
+
+
+
+     International Identification Plan for Public Networks and Subscriptions
+                    (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                             Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC)
+has been withdrawn.
+
+                                            Mobile Country Code (MCC) and                  Date of withdrawal
+                Network
+                                             Mobile Network Code (MNC)
+ GloTell B.V.                                            901 63                                 15.I.2022
+
+
+
+
+                                      Telephone Service
+                                 (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+Cayman Islands (country code +1 345)
+Communication of 17.XII.2021:
+The Utility Regulation and Competition Office (OfReg), Grand Cayman, announces the following numbering plan
+for the Cayman Islands:
+
+           Presentation of E.164 National Numbering Plan for country code +1 345, Cayman Islands:
+
+a)    Overview:
+      The minimum number length (excluding the country code) is 7 digits
+      The maximum number length (excluding the country code) is 7 digits
+
+b)    Detail of numbering scheme:
+
+      NDC (national             N(S)N number length
+   destination code) or
+                                                                                              Additional
+ leading digits of N(S)N    Maximum          Minimum            Usage of E.164 number
+                                                                                             information
+  (national (significant)    length           length
+         number)
+           222                    7              7          Non-geographic number –       Assigned to Cable
+                                                            Fixed line                    & Wireless (CI) Ltd
+                                                                                          T/A Flow
+           232                    7              7          Non-geographic – Fixed line   Assigned to Infinity
+                                                                                          Broadband T/A C3
+           233                    7              7          Non-geographic – Fixed line   Assigned to Infinity
+                                                                                          Broadband T/A C3
+           233                    7              7          Non-geographic – Fixed line   Assigned to Infinity
+                                                                                          Broadband T/A C3
+           244                    7              7          Non-geographic – Fixed line   Assigned to Cable
+                                                                                          & Wireless (CI) Ltd
+                                                                                          T/A Flow. Used for
+                                                                                          Government PBX.
+           266                    7              7          Non-geographic – Fixed line   Assigned to Cable
+                                                                                          & Wireless (CI) Ltd
+                                                                                          T/A Flow.
+                                                                                          Used for
+                                                                                          Easy Access
+                                                                                          Internet.
+        321-329                   7              7          Non-geographic – mobile       Assigned to Digicel
+                                                            services                      Cayman Ltd.
+           333                    7              7          Non-geographic – Fixed line   Assigned to Infinity
+                                                                                          Broadband T/A C3
+        420-424                   7              7          Non-geographic – mobile       Assigned to Digicel
+                                                            services                      Cayman Ltd.
+           444                    7              7          Non-geographic number –       Assigned to Cable
+                                                            Fixed line                    & Wireless (CI) Ltd
+                                                                                          T/A Flow
+           516                    7              7          Non-geographic – mobile       Assigned to Digicel
+                                                            services                      Cayman Ltd.
+           517                    7              7          Non-geographic – mobile       Assigned to Digicel
+                                                            services                      Cayman Ltd.
+        525-527                   7              7          Non-geographic – mobile       Assigned to Digicel
+                                                            services                      Cayman Ltd.
+        546-550                   7              7          Non-geographic – mobile       Assigned to Digicel
+                                                            services                      Cayman Ltd.
+     NDC (national          N(S)N number length
+  destination code) or
+                                                                                       Additional
+leading digits of N(S)N    Maximum      Minimum      Usage of E.164 number
+                                                                                      information
+ (national (significant)    length       length
+        number)
+          623                 7             7     Non-geographic – fixed line     Assigned to Digicel
+                                                                                  Cayman Ltd.
+          638                 7             7     Non-geographic – fixed line     Assigned to Cable
+                                                                                  & Wireless (CI) Ltd
+                                                                                  T/A Flow,
+                                                                                  *7873 &*4638
+                                                                                  used for Internet
+                                                                                  service.
+          640                 7             7     Non-geographic – fixed line     Assigned to Digicel
+                                                                                  Cayman Ltd.
+          649                 7             7     Non-geographic – fixed line     Assigned to Digicel
+                                                                                  Cayman Ltd.
+          730                 7             7     Non-geographic – fixed line     Assigned to Cable
+                                                                                  & Wireless (CI) Ltd
+                                                                                  T/A Flow for
+                                                                                  internal use only.
+          743                 7             7     Non-geographic – fixed line     Assigned to
+                                                                                  WestTel Ltd T/A
+                                                                                  Logic
+          745                 7             7     Non-geographic – fixed line     Assigned to
+                                                                                  WestTel Ltd T/A
+                                                                                  Logic
+          746                 7             7     Non-geographic – fixed line     Assigned to
+                                                                                  WestTel Ltd T/A
+                                                                                  Logic
+          747                 7             7     Non-geographic number –         Assigned to Cable
+                                                  Fixed line                      & Wireless (CI) Ltd
+                                                                                  T/A Flow
+          749                 7             7     Non-geographic – fixed line     Assigned to
+                                                                                  WestTel Ltd T/A
+                                                                                  Logic
+          766                 7             7     Non-geographic – fixed line     Assigned to
+                                                                                  WestTel Ltd T/A
+                                                                                  Logic
+          767                                     Reserved                        Reserved for use
+                                                                                  with LNP
+       768-769                7             7     Non-geographic – fixed line     Assigned to
+                                                                                  WestTel Ltd T/A
+                                                                                  Logic
+          777                 7             7     Non-geographic number –         Assigned to Cable
+                                                  Fixed line                      & Wireless (CI) Ltd
+                                                                                  T/A Flow
+          800                 7             7     Non-geographic number –         Assigned to Cable
+                                                  Fixed line                      & Wireless (CI) Ltd
+                                                                                  T/A Flow, national
+                                                                                  use only.
+       814-815                7             7     Non-geographic number –         Assigned to Cable
+                                                  Fixed line                      & Wireless (CI) Ltd
+                                                                                  T/A Flow, DID
+                                                                                  service
+       825-826                7             7     Non-geographic – mobile         Assigned to
+                                                  services                        WestTel Ltd T/A
+                                                                                  Logic
+
+
+      NDC (national            N(S)N number length
+   destination code) or
+                                                                                           Additional
+ leading digits of N(S)N     Maximum         Minimum      Usage of E.164 number
+                                                                                          information
+  (national (significant)     length          length
+         number)
+         848-849                 7               7     Non-geographic number –         Assigned to Cable
+                                                       Fixed line                      & Wireless (CI) Ltd
+                                                                                       T/A Flow
+           888                   7               7     Non-geographic number –         Assigned to Cable
+                                                       Fixed line                      & Wireless (CI) Ltd
+                                                                                       T/A Flow
+           914                   7               7     Non-geographic number –         Assigned to Cable
+                                                       Fixed line                      & Wireless (CI) Ltd
+                                                                                       T/A Flow, DID
+                                                                                       service
+        916-917                  7               7     Non-geographic number –         Assigned to Cable
+                                                       mobile services                 & Wireless (CI) Ltd
+                                                                                       T/A Flow
+           919                   7               7     Non-geographic number –         Assigned to Cable
+                                                       mobile services, reserved for   & Wireless (CI) Ltd
+                                                       TLDNs                           T/A Flow
+        922-929                  7               7     Non-geographic number –         Assigned to Cable
+                                                       mobile services                 & Wireless (CI) Ltd
+                                                                                       T/A Flow
+           930                   7               7     For internal use only.          Assigned to Cable
+                                                                                       & Wireless (CI) Ltd
+                                                                                       T/A Flow
+        936-939                  7               7     Non-geographic number –         Assigned to Cable
+                                                       mobile services                 & Wireless (CI) Ltd
+                                                                                       T/A Flow
+           940                   7               7     Non-geographic number –         Assigned to Cable
+                                                       fixed line                      & Wireless (CI) Ltd
+                                                                                       T/A Flow
+           943                   7               7     Non-geographic number –         Assigned to Cable
+                                                       fixed line                      & Wireless (CI) Ltd
+                                                                                       T/A Flow
+        945-949                  7               7     Non-geographic number –         Assigned to Cable
+                                                       fixed line                      & Wireless (CI) Ltd
+                                                                                       T/A Flow
+           976                   7               7     Non-geographic number –         Assigned to Cable
+                                                       premium services                & Wireless (CI) Ltd
+                                                                                       T/A Flow
+           990                   7               7     Non-geographic number –         Assigned to Cable
+                                                       mobile services                 & Wireless (CI) Ltd
+                                                                                       T/A Flow
+           995                   7               7     Non-dialable, national stop     Assigned to Cable
+                                                       line allocation                 & Wireless (CI) Ltd
+                                                                                       T/A Flow
+
+international dialling format: +1 345 NXX XXXX
+
+
+
+
+                 Description of implementation of NP (Number Portability) of E.164 numbers in the
+                                 National Numbering Plan for country code +1 345:
+
+
+
+                                  Geographic numbers           Non-geographic numbers              Mobile numbers
+                                                                  other than mobile
+                                                                 numbers (national,
+                                                               premium rate numbers,
+                                                                 nomadic numbers)
+
+State of NP                       Implemented in 2011          Implemented in 2011           Implemented in 2011
+Regulatory obligation for         Yes                          Yes                           Yes
+operator to implement NP?
+
+Type of NP implementation         All Call Query (ACQ)         All Call Query (ACQ)          All Call Query (ACQ)
+
+Number portability database       Solution C – centralised     Solution C – centralised      Solution C – centralised
+solution                          database approach.           database approach.            database approach.
+
+Limitations                       Numbering area
+                                  coverage
+Specifications available on
+website
+
+Contact information national      Numbering department         Numbering department          Numbering department
+Administration/NPA                Tel: + 1 345 946 4282        Tel: + 1 345 946 4282         Tel: + 1 345 946 4282
+                                  (Cayman Islands)             (Cayman Islands)              (Cayman Islands)
+                                  Email: ict@ofreg.ky          Email: ict@ofreg.ky           Email: ict@ofreg.ky
+
+Central Reference Database        PortingXS                    PortingXS                     PortingXS
+(if any) managed/operated by      Postal Address:              Postal Address:               Postal Address:
+                                  Watermanweg 106B,            Watermanweg 106B,             Watermanweg 106B,
+                                  3067 GG Rotterdam            3067 GG Rotterdam             3067 GG Rotterdam
+                                  Tel: +31 88 45 67 89 0       Tel: +31 88 45 67 89 0        Tel: +31 88 45 67 89 0
+
+NP = number portability
+
+
+Contact:
+           Numbering department
+           Utility Regulation and Competition Office (OfReg)
+           PO Box 10189
+           Grand Cayman, KY1-1002
+           Cayman Islands
+           Tel:      +1 345 946 4282
+           Fax:      +1 345 945 8284
+           E-mail: ict@ofreg.ky
+           URL:      www.ofreg.ky
+
+
+
+
+Malta (country code +356)
+Communication of 20.XII.2021:
+The Malta Communications Authority (MCA), Floriana, announces an update of the National Numbering Plan
+(NNP) of Malta. The main numbering ranges are:
+
+                         Service                             Operator             Numbering Ranges
+                                                                                        2100 ‒ 2399 XXXX
+                                                                GO
+                                                                                        2500 ‒ 2599 XXXX
+                                                                                        2600 ‒ 2609 XXXX
+                                                                                        2700 ‒ 2799 XXXX
+                            Fixed                             Melita                    2010 ‒ 2018 XXXX
+                                                                                               2060 XXXX
+                                                                                               2065 XXXX
+                                                              Vanilla                   2031 ‒ 2034 XXXX
+                                                               epic                     2090 ‒ 2099 XXXX
+                                                                                        7900 ‒ 7999 XXXX
+                                                            GO Mobile                          9889 XXXX
+                                                                                               7210 XXXX
+                                                                                        9900 ‒ 9999 XXXX
+                                                                                               9696 XXXX
+                         Mobile
+                                                               epic                            9897 XXXX
+                                                                                        9210 ‒ 9211 XXXX
+                                                                                               9231 XXXX
+                                                                                        7700 ‒ 7799 XXXX
+                                                          Melita Mobile
+                                                                                        9811 ‒ 9813 XXXX
+                                                              Melita                40002 – 40006 XXXXX
+      M2M/IoT Connectivity Services and other
+                                                                GO                          40079 XXXXX
+     Non-Interpersonal Communications Services
+                                                               epic                         40099 XXXXX
+
+All Administrations and Recognized Operating Agencies (ROAs) are requested to urgently programme their
+switches to enable immediate access to these numbering ranges. Furthermore, the National Numbering Plan is
+updated in real-time and is made available on the MCA website at the following link:
+https://www.mca.org.mt/regulatory/numbering/numbering-plans
+
+Contact:
+           Alistair Farrugia / Deborah Pisani
+           Malta Communications Authority (MCA)
+           Valletta Waterfront
+           Pinto Wharf
+           Floriana FRN1913
+           Malta
+           Tel:      +356 2133 6840
+           E-mail: numbering@mca.org.mt
+           URL:      www.mca.org.mt
+
+
+
+
+                                         Other communication
+
+Austria
+Communication of 21.XII.2021:
+On the occasion of the 25th anniversary of the reactivation of the "ADL 305 Tulln amateur radio club", the Austrian
+Administration authorizes an Austrian amateur station to use the special call sign OE25TU from 1 September
+to 31 October 2022.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                           AMENDMENTS TO SERVICE PUBLICATIONS
+                                                          Abbreviations used
+                                        ADD      Insert                       PAR   Paragraph
+                                        COL      Column                       REP   Replace
+                                        LIR      Read                         SUP   Delete
+                                        P        Page(s)
+
+
+
+
+                List of Recommendation ITU-T E.164 assigned Country Codes
+                  (Complement to Recommendation ITU-T E.164 (11/2010))
+                             (Position on 15 December 2016)
+                                  (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                   (Amendment No. 26)
+
+
+  Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+ p       Associated with shared country code 883, the following three-digit identification code reservations or
+         assignments have been made for the international networks of:
+
+ Note p)      +883 270       SUP*
+
+                                                                                     Country Code and
+               Applicant                                  Network                                                Status
+                                                                                    Identification Code
+
+GloTell B.V.                               GloTell B.V.                                 +883 270               Withdrawn
+
+ * 15.I.2022
+ __________
+
+ See the present Operational Bulletin No. 1236 of 15.I.2022, page 4.
+
+
+
+
+        Mobile Network Codes (MNC) for the international identification plan
+                       for public networks and subscriptions
+               (According to Recommendation ITU-T E.212 (09/2016))
+                          (Position on 15 December 2018)
+                                  (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                                   (Amendment No. 68)
+
+
+ Country/Geographical area                 MCC+MNC             Operator/Network
+
+ International Mobile,
+ shared code SUP*
+                                                901 63         GloTell B.V.
+
+ ____________
+ MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+ MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+ * See the present ITU Operational Bulletin No 1236 of 15.I.2022, page 4.
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                            (Amendment No. 127)
+
+
+ Country or area/ISO code                           Company Code       Contact
+  Company Name/Address                               (carrier code)
+
+
+Germany (Federal Republic of) / DEU           ADD
+
+
+ neu-medianet GmbH                                    NMSWNB           Mr Steffen Raatz
+ John-Schehr-Strasse 1                                                 Tel.: +49 395 3500 681
+ D-17033 NEUBRANDENBURG                                                Fax: +49 395 3500 699
+                                                                       Email: steffen.raatz@neu-sw.de
+
+ Stadtwerke Winsen (Luhe) GmbH                         STWWIN          Mr Matthias Wolf
+ Schlossring 50                                                        Tel.: +49 4171 7999 450
+ D-21423 WINSEN (LUHE)                                                 Fax: +49 4171 7999 9450
+                                                                       Email: matthias.wolf@stw-winsen.de
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 28)
+
+
+ Country/ Geographical Area
+ ISPC          DEC                 Unique name of the signalling point   Name of the signalling point operator
+
+
+ United States SUP
+ 3-031-5       6397                Washington DC                         Startec Global Communications Corporation
+ 3-033-6       6414                Southbury, CT                         Comsat Mobile Communications
+ 3-033-7       6415                Santa Paula, CA                       Comsat Mobile Communications
+ 3-036-4       6436                Santa Paula, CA                       Comsat, Inc.
+ 3-040-3       6467                New York, NY                          Startec Global Communications Corporation
+ 3-046-6       6518                Southbury, CT                         Comsat, Inc.
+ 3-048-7       6535                New York, NY                          PCCW Pacific Ltd
+ 3-051-7       6559                Los Angeles, CA                       Startec Global Communications Corporation
+ 3-052-0       6560                Miami, FL                             Startec Global Communications Corporation
+ 3-054-4       6580                Seattle, WA                           TeleCommunication Systems, Inc.
+ 3-054-5       6581                Seattle, WA                           Telecommunication Systems, Inc.
+ 3-059-0       6616                New York, NY                          Data Access America Inc
+ 3-182-0       7600                New York, NY                          NextCarrier Telecom, Inc
+ 3-182-1       7601                Los Angeles, CA                       International Access, Inc (d/b/a Access international)
+ 3-183-2       7610                New York (2), NY                      Startec Global Communications Corporation
+ 3-183-3       7611                New York (3), NY                      Startec Global Communications Corporation
+ 3-195-1       7705                New York, NY                          Telco Group, Inc
+ 3-202-1       7761                Overland Park, KS                     Verisign Inc
+
+ United States ADD
+ 3-036-4       6436                Dallas, TX                            Airlinq, Inc.
+
+ United States LIR
+ 3-029-7       6383                San Antonio, TX                       Transaction Network Services, Inc.
+ 3-181-4       7596                Dallas, TX                            Airlinq, Inc.
+ 3-193-6       7694                San Antonio, TX                       Transaction Network Services, Inc.
+ 3-193-7       7695                Dallas, TX                            Transaction Network Services, Inc.
+ 3-198-4       7732                Chicago, IL                           Transaction Network Services, Inc.
+ 3-202-0       7760                Ashburn, VA                           Transaction Network Services, Inc.
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                   Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.XII.2021, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                        Country/ Geographical area                      Country Code (CC)
+               Cabo Verde                                                      +238
+               Iran (Islamic Republic of)                                      +98
+               Montserrat                                                    +1 664
+               Seychelles                                                      +248
+
+
+
+

@@ -1,0 +1,570 @@
+                       ITU Operational Bulletin
+                                                        www.itu.int/itu-t/bulletin
+
+       No. 1235              1.I.2022                   (Information received by 10 December 2021) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                          Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                              Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                              Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                             E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                  Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ....................................................................                                   3
+Approval of ITU-T Recommendations .........................................................................................................                         4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164 (11/2010)):
+       Note from TSB .................................................................................................................................              4
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+       (09/2016)): Note from TSB ..............................................................................................................                     4
+Telephone Service:
+     Myanmar (Ministry of Transport and Communications, Nay Pyi Taw) ...................................................                                            5
+     Saudi Arabia (Communication and Information Technology Commission (CITC), Riyadh) ......................                                                       5
+     Uganda (Uganda Communications Commission (UCC), Kampala)..........................................................                                             6
+Changes in Administrations/ROAs and other entities or Organizations:
+     Mexico .................................................................................................................................................       8
+Other communications:
+     Austria ..................................................................................................................................................     9
+Service Restrictions ....................................................................................................................................          10
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ..............................................................                                   10
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Recommendation ITU-T E.164 assigned Country Codes ...................................................................                                      11
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .................................................................................................................................              12
+List of International Signalling Point Codes (ISPC).......................................................................................                         13
+National Numbering Plan ...........................................................................................................................                13
+
+
+
+
+                                                                                                                                  www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1236              15.I.2022             20.XII.2021
+               1237              1.II.2022             14.I.2022
+               1238             15.II.2022             31.I.2022
+               1239              1.III.2022            11.II.2022
+               1240             15.III.2022            1.III.2022
+               1241              1.IV.2022             15.III.2022
+               1242             15.IV.2022             31.III.2022
+               1243              1.V.2022              10.IV.2022
+               1244             15.V.2022              29.IV.2022
+               1245              1.VI.2022             13.V.2022
+               1246             15.VI.2022             31.V.2022
+               1247             1.VII.2022             15.VI.2022
+               1248             15.VII.2022            1.VII.2022
+               1249             1.VIII.2022           15.VII.2022
+               1250            15.VIII.2022           29.VII.2022
+               1251              1.IX.2022            12.VIII.2022
+               1252             15.IX.2022            31.VIII.2022
+               1253              1.X.2022              15.IX.2022
+               1254             15.X.2022              30.IX.2022
+               1255              1.XI.2022             14.X.2022
+               1256             15.XI.2022             1.XI.2022
+               1257             1.XII.2022             15.XI.2022
+               1258             15.XII.2022            30.XI.2022
+               1259              1.I.2023              9.XII.2022
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+       (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+       subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+       Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+       optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+       Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+       (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+       (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+       (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+       E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+       2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+       (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+       to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+       (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+       operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+       (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+       (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+       Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+       (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+       (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+       series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+       on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+       Recommendation F.1 (03/1998))
+B.     The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                              Approval of ITU-T Recommendations
+By AAP-118, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T Y.3057 (12/2021): A trust index model for ICT infrastructures and services
+–       ITU-T Y.3606 (12/2021): Big data – Deep packet inspection mechanism for big data in network
+–       ITU-T Y.3805 (12/2021): Quantum Key Distribution Networks - Software Defined Networking Control
+–       ITU-T Y.4562 (12/2021): Functions and metadata of spatiotemporal information service for smart cities
+
+
+
+
+             The International Public Telecommunication Numbering Plan
+                      (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+
+                                 Identification codes for international networks
+
+Associated with shared country code 883 for international networks, the following three-digit identification
+codes have been assigned.
+
+
+                                                                          Country Code and           Date of
+              Applicant                          Network
+                                                                         Identification Code       assignment
+
+    TELEFONICA MOVILES ESPAÑA,       TELEFONICA MOVILES ESPAÑA,              +883 400              10.XII.2021
+    S.A. UNIPERSONAL (TME)           S.A. UNIPERSONAL (TME)
+    Telefónica Germany GmbH &        Telefónica Germany GmbH &               +883 410              10.XII.2021
+    Co. OHG                          Co. OHG
+
+
+
+
+       International Identification Plan for Public Networks and Subscriptions
+                      (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                             Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC)
+have been assigned.
+
+                                                Mobile Country Code (MCC) and              Date of assignment
+                  Network
+                                                 Mobile Network Code (MNC)
+    TELEFONICA MOVILES ESPAÑA, S.A.                          901 84                            10.XII.2021
+    UNIPERSONAL (TME)
+    Telefónica Germany GmbH & Co. OHG                        901 85                            10.XII.2021
+
+
+
+
+                                                Telephone Service
+                                           (Recommendation ITU-T E.164)
+                                                       url: www.itu.int/itu-t/inr/nnp
+        Myanmar (country code +95)
+        Communication of 7.XII.2021:
+        The Ministry of Transport and Communications, Nay Pyi Taw, announces that the following updated numbering
+        scheme has been added to the national numbering plan of Myanmar:
+               Description of introduction of new resources for national E.164 numbering plan for country code + 95:
+        Mobile Numbering
+
+                                                                              Digit Length
+         Sr         Area
+                                Number series            System             (including area   Operator
+         No.        Code
+                                                                                 code)
+         1            9          878-xxx-xxx      WCDMA / GSM                      10         Myanma Posts and Telecommunications
+         2            9          651-xxx-xxx      WCDMA / GSM                      10         Telecom International Myanmar Co.,Ltd
+         3            9          652-xxx-xxx      WCDMA / GSM                      10         Telecom International Myanmar Co.,Ltd
+
+        Contact:
+                   Ministry of Transport and Communications
+                   Posts and Telecommunications Department (PTD)
+                   Building No. 2,
+                   NAY PYI TAW
+                   Myanmar
+                   Tel:     +95 67 3407 225
+                   Fax:     +95 67 3407 216
+                   E-mail: dg@ptd.gov.mm
+
+        Saudi Arabia (country code +966)
+        Communication of 6.XII.2021:
+        The Communication and Information Technology Commission (CITC), Riyadh, announces that the following
+        number ranges for mobile services have been allocated to Mobile Virtual Network Operators (MVNOs) in Saudi
+        Arabia:
+ NDC (national destination        N(S)N number length
+ code) or leading digits of                                              Usage of
+                                Maximum         Minimum                                               Additional information
+N(S)N (national (significant)                                       ITU-T E.164 number
+                                 length          length
+         number)
+
+                                                                                                            0510XXXXXX
+                                                                Non Geographic Numbers                      0511XXXXXX
+             51                      9             9
+                                                                        Mobile                Assigned for Integrated Telecom Mobile
+                                                                                                        (Salam Mobile KSA)
+
+
+                                                                                                         0575XXXXXX
+                                                                Non Geographic Numbers
+             57                      9             9                                             Assigned for Future Networks
+                                                                        Mobile
+                                                                                              Communication (Red Bull Mobile KSA)
+
+
+        Contact:
+                   Communications and Information Technology Commission
+                   Technology and Standardization
+                   National Numbering Plan Department
+                   P.O. Box 75606
+                   11588 RIYADH
+                   Saudi Arabia
+                   Tel:         +966 11 461 8281
+                   E-mail:      numbering@citc.gov.sa
+Uganda (country code +256)
+Communication of 3.XII.2021:
+The Uganda Communications Commission (UCC), Kampala, announces the following National Numbering Plan of
+Uganda.
+                     ITU-T E.164 NATIONAL NUMBERING PLAN FOR COUNTRY CODE 256
+
+a)     Overview
+       The minimum number length (excluding the country code) is 9 digits
+       The maximum number length (excluding the country code) is 9 digits
+
+b)     Details of numbering scheme
+
+     NDC (National        N(S)N Number Length
+  Destination Code) or
+    leading digits of    Maximum       Minimum      Usage of ITU-T E. 164 Number         Additional information
+    N(S)N (National       Length        Length
+ (Significant) Number)
+ 200                           9           9       Fixed telephony services for       Network fully operational
+ 201                                               Airtel Uganda Limited
+ 20240                         9           9       Fixed telephony services for       Network fully operational
+                                                   Liquid Telecom Limited
+ 20306                         9           9       Fixed telephony services for       Network fully operational
+ 20307                                             Sombha Solutions store Limited
+ 2050                          9           9       Fixed telephony services for       Network fully operational
+ 2051                                              Roke Investment International
+ 2052                                              Limited
+ 2053
+ 2054
+ 20611                         9           9       Fixed telephony services for       Network operational
+                                                   Hamilton Telecom
+ 206300                        9           9       Fixed telephony services for       Network fully operational
+ 206301                                            Simbanet Uganda Limited
+ 206302
+ 206303
+ 206304
+ 207                           9           9       Fixed telephony services for       Network fully operational
+                                                   Airtel Uganda Limited
+ 20810                         9           9       Fixed telephony services for       Network fully operational
+                                                   Wananchi Cable Uganda
+                                                   Limited
+ 3                             9           9       Fixed telephony services for       Network is fully operational
+                                                   MTN Uganda Limited
+ 4                             9           9       Fixed telephony services for       Network is fully operational
+                                                   Uganda Telecom Limited
+ 700                           9           9       Mobile telephony services for      Network is fully operational
+ 701                                               Airtel Uganda Limited
+ 702
+ 703
+ 704
+ 705
+ 706
+ 707
+ 708
+ 709
+
+
+
+
+     NDC (National          N(S)N Number Length
+  Destination Code) or
+    leading digits of       Maximum    Minimum     Usage of ITU-T E. 164 Number      Additional information
+    N(S)N (National          Length     Length
+ (Significant) Number)
+ 710                           9           9      Mobile telephony services for   Network is fully operational
+ 711                                              Uganda Telecom Limited
+ 712
+ 713
+ 714
+ 715
+ 716
+ 717
+ 718
+ 719
+ 720                           9           9      Mobile telephony services for   Network is fully operational
+                                                  Smile Communications (U) Ltd
+ 7240                          9           9      Mobile telephony services for   Network not yet operational
+                                                  Hamilton Limited
+ 7260                          9           9      Mobile telephony services for   Network is fully operational
+ 7261                                             Tangerine Limited
+ 740                           9           9      Mobile telephony services for   Network is fully operational
+ 741                                              Airtel Uganda Limited
+ 750                           9           9      Mobile telephony services for   Network is fully operational
+ 751                                              Airtel Uganda Limited
+ 752
+ 753
+ 754
+ 755
+ 756
+ 757
+ 758
+ 759
+ 760                           9           9      Mobile telephony services for   Network is fully operational
+ 761                                              MTN Uganda Limited
+ 770                           9           9      Mobile telephony services for   Network is fully operational
+ 771                                              MTN Uganda Limited
+ 772
+ 773
+ 774
+ 775
+ 776
+ 777
+ 778
+ 779
+ 780                           9           9      Mobile telephony services for   Network is fully operational
+ 781                                              MTN Uganda Limited
+ 782
+ 783
+ 784
+ 785
+ 786
+ 787
+ 788
+ 789
+
+
+Please note the withdrawal of the mobile numbers from +256 790000000 to +256 797999999 and fixed
+numbers from +256 204000000 to +256 204999999 from Africell Uganda Limited.
+
+Contact:
+      Ms Irene Kaggwa Sewankambo
+      Ag. Executive Director
+      Uganda Communications Commission (UCC)
+      Plot 42-44 Spring Road, Bugolobi
+      P.O. Box 7376, Kampala, Uganda
+      Tel:     +256 41 433 9000
+      Fax:     +256 41 434 8832
+      E-mail: ucc@ucc.co.ug
+      URL:     www.ucc.co.ug
+
+
+
+
+                 Changes in Administrations/ROAs and other entities
+                                 or Organizations
+
+
+Mexico
+Communication of 9.XII.2021:
+
+                              Granting of Recognized Operating Agency (ROA) status
+The Instituto Federal de Telecomunicaciones (IFT), Ciudad de México, announces that the following
+telecommunication operator and service provider has been granted the status of Recognized Operating Agency
+(ROA), in accordance with Article 6 of, and Nos. 1007 and 1008 of the Annex to, the Constitution of ITU.
+The name of the telecommunication operator and service provider to which the status of Recognized Operating
+Agency (ROA) has been granted, is: Diri Telecomunicaciones S.A de C.V
+Contact:
+           Diri Telecomunicaciones S.A de C.V
+           Avenida Santa Fe 428, interior 2201,
+           Santa Fe Cuajimalpa, Cuajimalpa de Morelos,
+           CIUDAD DE MÉXICO, 05348
+           Mexico
+           Tel:     +52 55 2894 8134
+           E-mail: amaldonado@diri.mx
+
+For further information, please contact:
+           Instituto Federal de Telecomunicaciones (IFT)
+           Avenida Insurgentes Sur 1143
+           Col. Noche Buena
+           03720 CIUDAD DE MÉXICO
+           Mexico
+           Tel:     +52 55 5015 4000
+           E-mail: asuntosinternacionales@ift.org.mx
+           URL:     http://ucsweb.ift.org.mx/vrpc/
+
+
+
+
+                                        Other communication
+
+Austria
+Communication of 9.XII.2021:
+On the occasion of the 100th anniversary of the "Lower Austria as a sovereign federate state", the Austrian
+Administration authorizes an Austrian amateur station to use the special call sign OE100LCR from 1 January to 30
+June 2022.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                         AMENDMENTS TO SERVICE PUBLICATIONS
+                                                          Abbreviations used
+                                       ADD      Insert                     PAR   Paragraph
+                                       COL      Column                     REP   Replace
+                                       LIR      Read                       SUP   Delete
+                                       P        Page(s)
+
+
+
+
+               List of Recommendation ITU-T E.164 assigned Country Codes
+                 (Complement to Recommendation ITU-T E.164 (11/2010))
+                            (Position on 15 December 2016)
+                                 (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                  (Amendment No. 25)
+
+
+ Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+p        Associated with shared country code 883, the following three-digit identification code reservations or
+         assignments have been made for the international networks of:
+
+Note p)      +883 400 and +883 410           ADD*
+
+                                                                                  Country Code and
+             Applicant                                   Network                                           Status
+                                                                                 Identification Code
+
+TELEFONICA MOVILES ESPAÑA,                TELEFONICA MOVILES ESPAÑA,                 +883 400             Assigned
+S.A. UNIPERSONAL (TME)                    S.A. UNIPERSONAL (TME)
+
+Telefónica Germany GmbH &                 Telefónica Germany GmbH &                  +883 410             Assigned
+Co. OHG                                   Co. OHG
+
+* 10.XII.2021
+__________
+
+See page 4 of the present Operational Bulletin No. 1235 of 1.I.2022.
+
+
+
+
+        Mobile Network Codes (MNC) for the international identification plan
+                       for public networks and subscriptions
+               (According to Recommendation ITU-T E.212 (09/2016))
+                          (Position on 15 December 2018)
+                               (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                                (Amendment No. 67)
+
+
+Country/Geographical area              MCC+MNC *            Operator/Network
+Barbados       ADD
+                                            342 646         KW Telecommunications Inc.
+International Mobile,
+shared code ADD
+                                             901 84         TELEFONICA MOVILES ESPAÑA, S.A. UNIPERSONAL (TME)
+                                             901 85         Telefónica Germany GmbH & Co. OHG
+
+____________
+
+*      MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+       MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 27)
+ Country/
+ Geographical Area
+ ISPC          DEC           Unique name of the signalling point        Name of the signalling point operator
+
+
+ Germany SUP
+ 2-226-0       5904          Frankfurt                                  Dentel Netzwerk Telefonie GmbH
+ 7-249-3       16331         Frankfurt                                  Dentel Netzwerk Telefonie GmbH
+
+ Germany ADD
+ 2-127-4       5116          Mainz STP1                                 1&1 Mobilfunk GmbH
+ 2-129-1       5129          Mainz STP2                                 1&1 Mobilfunk GmbH
+ 3-243-1       8089          Muenster STP1                              1&1 Mobilfunk GmbH
+ 5-245-3       12203         Muenster STP2                              1&1 Mobilfunk GmbH
+
+ Germany LIR
+ 2-248-4       6084          Drillisch-Mobil-Duesseldorf                1&1 Mobilfunk GmbH
+ 2-251-6       6110          Drillisch-Mobil-Frankfurt                  1&1 Mobilfunk GmbH
+
+ Namibia ADD
+ 6-099-4       13084         Telepassport                               Telepassport Communications (Pty) Ltd
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                          Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.XII.2021, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                             Country/ Geographical area                      Country Code (CC)
+                  Burundi                                                             +257
+                  Pakistan                                                            +92
+
+
+
