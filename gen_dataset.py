@@ -3,7 +3,7 @@
 
 # /**
 # * Software Name : MCC_MNC
-# * Version : 0.1
+# * Version : 0.2
 # *
 # * Copyright 2020. Benoit Michau. P1 Security.
 # *
@@ -42,8 +42,8 @@ __all__ = [
 import sys
 import re
 
-from patch_dataset          import *
-from parse_wikipedia_tables import  generate_json, generate_python
+from mcc_mnc_genlib.patch_dataset import *
+from parse_wikipedia_tables       import  generate_json, generate_python
 
 
 PATH_PRE = 'mcc_mnc_lut/'

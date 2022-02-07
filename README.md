@@ -308,12 +308,16 @@ optional arguments:
 ```
 
 
+If you want, you can still run `python setup.py install` to install the chk_*.py scripts
+and the look-up tables in your system. The extraction and table generation scripts won't be installed, 
+and you will need to reinstall the package each time you update the tables.
+
+
 ## Directory structure
 
 All command-line tools are available straight in the root directory of the project.
 Data downloaded and extracted from Internet are put in the *raw/* directory, except 
-document from the ITU-T which are downloaded as PDF and converted to text in the *TS/*
+document from the ITU-T which are downloaded as PDF and converted to text in the *itut/*
 directory.
-Re-engineered data are put in the *gen/* directory.
-
+Re-engineered look-up tables put in the *mcc_mnc_gen/* directory.
 

@@ -3,7 +3,7 @@
 
 # /**
 # * Software Name : MCC_MNC
-# * Version : 0.1
+# * Version : 0.2
 # *
 # * Copyright 2020. Benoit Michau. P1 Security.
 # *
@@ -65,6 +65,8 @@ import os
 import re
 import csv
 
+from mcc_mnc_genlib.patch_country_dep import COUNTRY_SPEC
+
 from parse_wikipedia_tables     import (
     REC_ISO3166,
     REC_MCC,
@@ -74,7 +76,6 @@ from parse_wikipedia_tables     import (
 from parse_worldfactbook_infos  import (
     REC_COUNTRY,
     )
-from patch_country_dep          import COUNTRY_SPEC
 
 try:
     from raw.wikip_borders      import WIKIP_BORDERS

@@ -31,15 +31,16 @@
 import sys
 import argparse
 #
-from mcc_mnc_lut.p1_ispc    import P1_ISPC
-from mcc_mnc_lut.p1_sanc    import P1_SANC
-from mcc_mnc_lut.p1_cc2     import P1_CC2
-from mcc_mnc_lut.p1_cntr    import P1_CNTR
-from mcc_mnc_lut.p1_terr    import P1_TERR
+from mcc_mnc_lut.p1_ispc import P1_ISPC
+from mcc_mnc_lut.p1_sanc import P1_SANC
+from mcc_mnc_lut.p1_cc2  import P1_CC2
+from mcc_mnc_lut.p1_cntr import P1_CNTR
+from mcc_mnc_lut.p1_terr import P1_TERR
+#
+from mcc_mnc_genlib.patch_country_dep import COUNTRY_SPEC
 #
 from conv_pc_383        import conv_pc_383
 from chk_cntr           import print_cntr
-from patch_country_dep  import COUNTRY_SPEC
 
 
 def print_ispc(ispc, ext=0):
