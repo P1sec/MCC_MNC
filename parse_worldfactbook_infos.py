@@ -396,7 +396,7 @@ def _extract_bound(l):
                     assert( 'note' not in r )
                     r['note'] = s[m.end():].strip()
                     s = s[:m.start()].strip()
-                countries = list(map(_strip_str, s.split(', ')))
+                countries = list(map(_strip_str, s.split(';')))
                 for country in countries:
                     m = RE_DIST.search(country)
                     if m:
