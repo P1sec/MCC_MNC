@@ -1034,7 +1034,7 @@ WIKIP_MCC = \
     'country_name': 'Australia',
     'country_url': 'https://en.wikipedia.org/wiki/Australia',
     'mcc': '505',
-    'mcc_url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Australia_–_AU',
+    'mcc_url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_5xx_(Oceania)#Australia_–_AU/CC/CX',
     'notes': ''},
   { 'authority': '',
     'code_alpha_2': 'NF',

@@ -1,0 +1,838 @@
+                      ITU Operational Bulletin
+                                                      www.itu.int/itu-t/bulletin
+
+       No. 1239             1.III.2022                (Information received by 11 February 2022) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                             Standardization Bureau (TSB)                                       Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                               Tel:     +41 22 730 5211                                           Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                             Fax:     +41 22 730 5853                                           Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                               E-mail: tsbmail@itu.int / tsbtson@itu.int                          E-mail: brmail@itu.int
+
+
+
+
+                                                              Table of Contents
+                                                                                                                                                            Page
+
+
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ....................................................................                             3
+Approval of ITU-T Recommendations .........................................................................................................                   4
+Telephone Service:
+     Barbados (Ministry of Innovation, Science and Technology, St. Michael)........................................................ 7
+Service Restrictions ....................................................................................................................................    16
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ..............................................................                             16
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card ..........................                                             17
+List of ITU Carrier Codes ...........................................................................................................................        18
+List of International Signalling Point Codes (ISPC).......................................................................................                   18
+National Numbering Plan .........................................................................................................................            19
+
+
+
+
+                                                                                                                             www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1240             15.III.2022            1.III.2022
+               1241              1.IV.2022             15.III.2022
+               1242             15.IV.2022             31.III.2022
+               1243              1.V.2022              10.IV.2022
+               1244             15.V.2022              29.IV.2022
+               1245              1.VI.2022             13.V.2022
+               1246             15.VI.2022             31.V.2022
+               1247             1.VII.2022             15.VI.2022
+               1248             15.VII.2022            1.VII.2022
+               1249             1.VIII.2022           15.VII.2022
+               1250            15.VIII.2022           29.VII.2022
+               1251              1.IX.2022            12.VIII.2022
+               1252             15.IX.2022            31.VIII.2022
+               1253              1.X.2022              15.IX.2022
+               1254             15.X.2022              30.IX.2022
+               1255              1.XI.2022             14.X.2022
+               1256             15.XI.2022             1.XI.2022
+               1257             1.XII.2022             15.XI.2022
+               1258             15.XII.2022            30.XI.2022
+               1259              1.I.2023              9.XII.2022
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+       (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+       subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+       Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+       optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+       Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+       (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+       (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+       (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+       E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+       2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+       (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+       to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+       (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+       operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+       (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+       (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+       Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+       (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+       (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+       series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+       on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+       Recommendation F.1 (03/1998))
+B.     The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                            Approval of ITU-T Recommendations
+By AAP-121, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.709/Y.1331 (2020) Amd. 2 (02/2022): Interfaces for the optical transport network - Amendment 2
+–     ITU-T G.709.4/Y.1331.4 (2020) Cor. 2 (02/2022): OTU25 and OTU50 short-reach interfaces -
+      Corrigendum 2
+–     ITU-T G.781.1 (02/2022): Synchronization Layer Functions for packet-based synchronization
+–     ITU-T G.800 (2016) Cor. 1 (02/2022): Unified functional architecture of transport networks -
+      Corrigendum 1
+–     ITU-T G.805 (2000) Cor. 1 (02/2022): Generic functional architecture of transport networks Corrigendum 1
+–     ITU-T G.873.1 (2017) Amd. 1 (02/2022): Optical transport network: Linear protection - Amendment 1
+–     ITU-T G.984.5 (02/2022): Gigabit-capable passive optical networks (G-PON): Enhancement band
+–     ITU-T G.997.2 (2019) Amd. 3 (02/2022): Physical layer management for G.fast transceivers: Amendment 3
+–     ITU-T G.7711/Y.1702 (02/2022): Generic protocol-neutral information model for transport resources
+–     ITU-T G.7712/Y.1703 (2019) Amd. 1 (02/2022): Architecture and specification of data communication
+      network - Amendment 1
+–     ITU-T G.8012/Y.1308 (02/2022): Ethernet UNI and Ethernet NNI
+–     ITU-T G.8023 (2018) Amd. 1 (02/2022): Characteristics of equipment functional blocks supporting
+      Ethernet physical layer and Flex Ethernet interfaces - Amendment 1
+–     ITU-T G.8032/Y.1344 (2020) Gor. 1 (02/2022): Ethernet ring protection switching - Corrigendum 1
+–     ITU-T G.8265.1/Y.1365.1 (2021) Amd. 1 (02/2022): Precision time protocol telecom profile for frequency
+      synchronization - Amendment1
+–     ITU-T G.8271.1/Y.1366.1 (2020) Amd. 2 (02/2022): Network limits for time synchronization in Packet
+      networks with full timing support from the network - Amendment 2
+–     ITU-T G.8273.2/Y.1368.2 (2020) Amd. 1 (02/2022): Timing characteristics of telecom boundary clocks and
+      telecom time slave clocks for use with full timing support from the network - Amendment 1
+–     ITU-T G.8275/Y.1369 (2020) Amd. 2 (02/2022): Architecture and requirements for packet-based time and
+      phase distribution - Amendment 2
+–     ITU-T G.8275.1/Y.1369.1 (2020) Amd. 3 (02/2022): Precision time protocol telecom profile for phase/time
+      synchronization with full timing support from the network - Amendment 3
+–     ITU-T G.8275.2/Y.1369.2 (2020) Amd. 3 (02/2022): Precision time protocol telecom profile for phase/time
+      synchronization with partial timing support from the network - Amendment 3
+–     ITU-T G.8310 (2020) Cor. 1 (02/2022): Architecture of the metro transport network - Corrigendum 1
+–     ITU-T G.8312 (2020) Amd. 1 (02/2022): Interfaces for metro transport networks
+–     ITU-T G.8331 (02/2022): Metro transport network (MTN) linear protection
+–     ITU-T G.9701 (2019) Amd. 4 (02/2022): Fast access to subscriber terminals (G.fast) - Physical layer
+      specification: Amendment 4
+–     ITU-T G.9803 (2018) Amd. 2 (02/2022): Radio over fibre systems - Amendment 2
+–     ITU-T G.9805 (02/2022): Coexistence of Passive Optical Network Systems
+–     ITU-T G.9806 (2020) Cor. 1 (02/2022): Higher speed bidirectional, single fibre, point-to-point optical
+      access system - Corrigendum 1
+–     ITU-T G.9960 (2018) Amd. 3 (02/2022): Unified high-speed wire-line based home networking transceivers
+      - System architecture and physical layer specification - Amendment 3
+–     ITU-T L.209 (02/2022): Requirements for Fiibre Optic Network Terminal Box (FONT)
+
+
+–        ITU-T L.316 (02/2022): Cable identification for the construction and maintenance of optical fibre cable
+         networks with optical sensing technique
+–        ITU-T L.400/L.12 (02/2022): Optical fibre splices
+–        ITU-T L.1016 (02/2022): Method for Evaluation of the Environmental, Health and Safety Performance of
+         True Wireless Stereo Headphones
+–        ITU-T L.1035 (02/2022): Sustainable Management of Batteries
+–        ITU-T L.1036 (02/2022): Scheduled Waste Management for Base Station (inclusive of e-waste)
+–        ITU-T Q.3061 (02/2022): Signalling requirements for service function paths load balancing traceroute in
+         service function chaining
+–        ITU-T Q.3631 (02/2022): Interworking between ISDN and the IP Multimedia (IM) Core Network (CN)
+         subsystem
+–        ITU-T Q.3646 (02/2022): Framework and protocols for signalling network analyses and optimization in
+         VoLTE
+–        ITU-T Q.4102 (02/2022): Hybrid peer-to-peer (P2P) communications: Peer protocol
+–        ITU-T Q.4103 (02/2022): Hybrid peer-to-peer (P2P) communications: Overlay management protocol
+–        ITU-T Q.5003 (02/2022): Signalling requirement and architecture for federated multi-access edge
+         computing
+–        ITU-T Q.5024 (02/2022): Protocol for providing intelligent analysis services in IMT-2020 network
+–        ITU-T X.1712 (2021) Cor. 1 (02/2022): Security requirements and measures for QKD networks - key
+         management: Corrigendum 1
+–        ITU-T Y.3078 (02/2022): Information centric networking for IMT-2020 and beyond - Requirements and
+         capabilities of data object segmentation
+–        ITU-T Y.3090 (02/2022): Digital twin network - Requirements and architecture
+–        ITU-T Y.3114 (02/2022): Future networks including IMT-2020: requirements and functional architecture
+         of lightweight core for dedicated networks
+–        ITU-T Y.3116 (02/2022): Traffic typization IMT-2020 management based on an artificial intelligent
+         approach
+–        ITU-T Y.3180 (02/2022): Mechanism of traffic awareness for application-descriptor-agnostic traffic based
+         on machine learning
+–        ITU-T Y.3200 (02/2022): Fixed, mobile and satellite convergence - Requirements for IMT-2020 network
+         and beyond
+–        ITU-T Y.3505 (02/2022): Cloud computing – Overview and functional requirements for data storage
+         federation
+–        ITU-T Y.3528 (02/2022): Cloud computing - Framework and requirements of container management in
+         inter-cloud
+–        ITU-T Y.3529 (02/2022): Cloud computing - Data model framework for NaaS OSS virtualized network
+         function
+–        ITU-T Y.3535 (02/2022): Cloud Computing - Functional requirements for container
+–        ITU-T Y.3536 (02/2022): Cloud computing - Functional architecture for cloud service brokerage
+–        ITU-T Y.3654 (02/2022): Big data driven networking - Machine learning mechanism
+–        ITU-T Y.3680 (02/2022): Framework of human-like networking
+–        ITU-T Y.3807 (02/2022): Quantum Key Distribution networks - QoS parameters
+–        ITU-T Y.3808 (02/2022): Framework for integration of quantum key distribution network and secure
+         storage network
+
+
+
+
+By TSB Circular 377 of 1 February 2022, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+–     ITU-T F.747.10 (01/2022): Requirements of distributed ledger systems for secure human factor services
+–     ITU-T H.551 (01/2022): Architecture of vehicular multimedia systems
+By TSB Circular 378 of 4 February 2022, it was announced that the following ITU-T Recommendations were
+approved, in accordance with the procedures outlined in Resolution 1:
+–     ITU-T Y.4214 (02/2022): Requirements of IoT-based civil engineering infrastructure health monitoring
+      system
+–     ITU-T Y.4215 (02/2022): Use cases, requirements and capabilities of unmanned aircraft systems for the
+      Internet of Things
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                           url: www.itu.int/itu-t/inr/nnp
+
+
+Barbados (country code +1 246)
+Communication of 8.II.2022:
+The Ministry of Innovation, Science and Technology, St. Michael, announces the National Numbering Plan of
+Barbados, a Participant in the North American Numbering Plan (NPA – 246 for Barbados).
+Introduction
+This numbering plan applies to telecommunications numbers used by service providers or carriers within
+Barbados, including but not limited to all numbers in the 246 Numbering Plan Area (NPA) code and any
+subsequent or successor NPAs assigned to Barbados.
+All terms used in this document that are not otherwise defined herein have the meaning given to them in the
+Telecommunications Act Cap. 282B.
+
+
+I.        Geographic Telephone Numbers
+          A.   General Principles
+Telecommunications numbering, and the use of numbers in connection with the supply of telecommunications
+services, shall be governed by the standards of the North American Numbering Plan (NANP). Under NANP
+principles, telephone numbers consist of ten digits. The first three digits (the NPA) shall be 246 in Barbados,
+unless an additional area code is assigned in the future to Barbados. The second three digits (the exchange or CO
+code) shall be the three digits that are assigned in the Local Exchange Routing Guide (LERG) to the switch of the
+carrier serving the customer that the number identifies.
+All carriers and services providers shall utilize rating and routing arrangements that conform to the NANP
+numbering scheme and principles. Telecommunications numbers used in Barbados shall be configured in a
+manner consistent with the NANP to allow appropriate recognition by all providers’ switching software and other
+systems for correct rating and routing of calls.
+          B.   Assignment of Numbering Resources
+               a) Number Assignment
+Telephone numbers shall be assigned to carriers and service providers in Barbados only by Digital Infrastructure
+(formerly The Telecommunications Unit), in the Ministry of Industry, Innovation, Science and Technology, (the
+“Ministry”) or its designee. Cable & Wireless (Barbados) Limited ceased to administer numbering resources in
+Barbados, and the number blocks identified in Appendix A to this Numbering Plan with the OCN of Cable &
+Wireless (Barbados) Limited are hereby allocated to Cable & Wireless (Barbados) Limited and may continue to
+be used by it, subject to the Act and other relevant laws and regulations.
+Unless and until the Ministry determines that the public interest would be served by the implementation of
+number portability in Barbados, numbers shall be assigned to requesting carriers and service providers in blocks
+of ten thousand, consisting of an entire CO code (e.g., 246-230-0000 through 246-230-9999). It shall be the
+responsibility of the carrier to ensure that such blocks are properly and promptly identified with that carrier in
+the LERG.
+Carriers and service providers shall assign numbers to their customers only from blocks of numbers properly
+assigned to them by the Minister or his designee. It shall be the responsibility of carriers and service providers
+to establish systems and procedures to track their own use of the numbering resources assigned to them to serve
+their subscribers.
+All new providers of cellular services will be requested to ensure that their mobile switches can support number
+portability.
+
+
+
+
+               b) Applications for Numbering Resources
+All applications for numbering resources must be in accordance with the Telecommunications Numbering
+Regulations (2003) and the Barbados Central Office Code Assignment Guidelines.
+          C.   N11 Codes
+N11 codes shall be used by service providers in Barbados only for the purpose for which they have been
+designated. The Ministry reserves the right to alter such designations based on a finding that the public interest
+thereby would be served. The present designated uses for N11 codes are the following:
+
+                    111                 May not be used
+                    211                 Police
+                    311                 Fire
+                    411                 Service provider’s directory assistance
+                    511                 Ambulance
+                    611                 Service provider’s repair service
+                    711                 (Not designated)
+                    811                 Service provider’s business office
+                    911                 Public Service Answering Point/Emergency number
+
+
+II.       Pay-Per-Call Services
+No carrier or service provider in Barbados shall provide any domestic or international pay-per-call service
+(whereby the calling party or his carrier is billed for information, service, or other charges in excess of properly
+tariffed charges for a telecommunications service) using any numbers other than (1) properly assigned numbers
+in the 246-976 number block; or (2) properly assigned numbers in the 900 NPA.
+
+
+III.      Local Number Portability (LNP)
+521 and 522 codes are reserved for Local Number Portability only and shall be used by carriers and service
+providers in Barbados only for this purpose.
+The Ministry reserves the right to alter such designations based on any findings that the public interest thereby
+would be served. The present Routing Number allocations for the carriers and service providers in Barbados are
+the following:
+
+         Routing              Digicel             Cable & Wireless       KW Telecoms           Ozone Wireless Inc
+       Code Range
+                          Fixed     Mobile        Fixed      Mobile     Fixed     Mobile       Fixed       Mobile
+      5210 to 5220        5210      5211          5213       5214       5216      5217         5219        5220
+
+
+
+
+                                                 APPENDIX A
+                                   Barbados Central Office Code Allocations
+
+                                                   OCN
+ CO CODE                                         (Operating
+                           Usage                                                Remarks
+  (NXX)                                           Company
+                                                  Number)
+
+    111        N11 Code                            N11                     Not To Be Allocated
+    211        N11 Code                            N11                             Police
+    223        International Telephony             070H                 Ace Communications Inc.
+    227        Fixed Telephony                     8904              Cable & Wireless (Barbados) Ltd.
+    228        Fixed Telephony                     8904              Cable & Wireless (Barbados) Ltd.
+    229        ISDN                                8904              Cable & Wireless (Barbados) Ltd.
+    230        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    231        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    232        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    233        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    234        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    235        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    236        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    237        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    238        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    239        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    240        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    241        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    242        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    243        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    244        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    245        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    246        Mobile Telephony                      Y                     Not to be Allocated
+    247        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    248        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    249        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    250        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    251        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    252        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    253        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    254        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    255        Mobile Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+    256        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    257        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    258        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    259        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    260        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    261        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    262        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    263        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    264        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    265        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    266        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    267        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    268        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    269        Mobile Telephony                    059B                    Digicel Barbados Ltd.
+    270        Fixed Telephony (ATM/IP)            8904              Cable & Wireless (Barbados) Ltd.
+    271        Fixed Telephony (ATM/IP)            8904              Cable & Wireless (Barbados) Ltd.
+    272        Fixed Telephony (ATM/IP)            8904              Cable & Wireless (Barbados) Ltd.
+    273        Fixed Telephony (ATM/IP)            8904              Cable & Wireless (Barbados) Ltd.
+
+                                                 OCN
+  CO CODE                                      (Operating
+                           Usage                                       Remarks
+   (NXX)                                        Company
+                                                Number)
+
+    274         Fixed Telephony (ATM/IP)         8904       Cable & Wireless (Barbados) Ltd.
+    280         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    281         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    282         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    283         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    284         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    285         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    286         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    287         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    289         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    292         CENTREX                          8904       Cable & Wireless (Barbados) Ltd.
+    310         Voice over Internet Protocol     8904       Cable & Wireless (Barbados) Ltd.
+    311         N11 Code                         N11                      Fire
+    312         Voice over Internet Protocol     8904       Cable & Wireless (Barbados) Ltd.
+    313         Voice over Internet Protocol     8904       Cable & Wireless (Barbados) Ltd.
+    314         Voice over Internet Protocol     8904       Cable & Wireless (Barbados) Ltd.
+    315         Voice over Internet Protocol     8904       Cable & Wireless (Barbados) Ltd.
+    316         Voice over Internet Protocol     8904       Cable & Wireless (Barbados) Ltd.
+    317         Voice over Internet Protocol     8904       Cable & Wireless (Barbados) Ltd.
+    318         Voice over Internet Protocol     8904       Cable & Wireless (Barbados) Ltd.
+    319         Voice over Internet Protocol     8904       Cable & Wireless (Barbados) Ltd.
+    320         Voice over Internet Protocol       Y                 Not Allocated
+    321         Voice over Internet Protocol       Y                 Not Allocated
+    322         Voice over Internet Protocol       Y                 Not Allocated
+    323         Voice over Internet Protocol       Y                 Not Allocated
+    324         Voice over Internet Protocol       Y                 Not Allocated
+    325         Voice over Internet Protocol       Y                 Not Allocated
+    326         Voice over Internet Protocol       Y                 Not Allocated
+    327         Voice over Internet Protocol       Y                 Not Allocated
+    328         Voice over Internet Protocol       Y                 Not Allocated
+    329         Voice over Internet Protocol       Y                 Not Allocated
+    330         Voice over Internet Protocol       Y                 Not Allocated
+    331         Voice over Internet Protocol       Y                 Not Allocated
+    332         Voice over Internet Protocol       Y                 Not Allocated
+    333         Voice over Internet Protocol       Y                 Not Allocated
+    334         Voice over Internet Protocol       Y                 Not Allocated
+    335         Voice over Internet Protocol       Y                 Not Allocated
+    336         Voice over Internet Protocol       Y                 Not Allocated
+    337         Voice over Internet Protocol       Y                 Not Allocated
+    338         Voice over Internet Protocol       Y                 Not Allocated
+    339         Voice over Internet Protocol       Y                 Not Allocated
+    352         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    353         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    354         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    355         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    356         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    357         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    358         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    359         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    360         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    361         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    362         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    363         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+    364         Mobile Telephony                 8904       Cable & Wireless (Barbados) Ltd.
+                                            OCN
+ CO CODE                                  (Operating
+                           Usage                                      Remarks
+  (NXX)                                    Company
+                                           Number)
+
+   365         Mobile Telephony             8904          Cable & Wireless (Barbados) Ltd.
+   366         Mobile Telephony             8904          Cable & Wireless (Barbados) Ltd.
+   367         Direct Inward Dialing        8904          Cable & Wireless (Barbados) Ltd.
+   410         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   411         N11 Code                     N11        Directory Assistance (Service Provider)
+   412         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   414         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   415         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   416         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   417         CENTREX                      8904          Cable & Wireless (Barbados) Ltd.
+   418         CENTREX                      8904          Cable & Wireless (Barbados) Ltd.
+   419         CENTREX                      8904          Cable & Wireless (Barbados) Ltd.
+   420         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   421         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   422         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   423         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   424         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   425         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   426         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   427         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   428         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   429         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   430         CENTREX                      8904          Cable & Wireless (Barbados) Ltd.
+   431         CENTREX                      8904          Cable & Wireless (Barbados) Ltd.
+   432         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   433         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   434         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   435         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   436         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   437         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   438         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   439         Fixed Telephony              8904          Cable & Wireless (Barbados) Ltd.
+   444         Direct Inward Dialing        8904          Cable & Wireless (Barbados) Ltd.
+   446         Mobile Telephony             641J           Neptune Communications Inc.
+   447         Wireless                     641J           Neptune Communications Inc.
+   448         Wireless                     641J           Neptune Communications Inc.
+   449         Wireless                     641J           Neptune Communications Inc.
+   450         Mobile Telephony               Y                     Not Allocated
+   451         Mobile Telephony               Y                     Not Allocated
+   452         Mobile Telephony               Y                     Not Allocated
+   453         Mobile Telephony               Y                     Not Allocated
+   454         Mobile Telephony               Y                     Not Allocated
+   455         Mobile Telephony               Y                     Not Allocated
+   456         Mobile Telephony               Y                     Not Allocated
+   457         Mobile Telephony               Y                     Not Allocated
+   458         Mobile Telephony               Y                     Not Allocated
+   459         Mobile Telephony               Y                     Not Allocated
+   467         Direct Inward Dialing        8904          Cable & Wireless (Barbados) Ltd.
+   511         N11 Code                     N11                      Ambulance
+   520         Fixed Telephony               C                      Not Allocated
+   521         Local Number Portability                  Reserved For Local No. Portability
+   5210        Fixed LNP                    059B                Digicel Barbados Ltd.
+   5211        Mobile LNP                   059B                Digicel Barbados Ltd.
+
+                                             OCN
+  CO CODE                                  (Operating
+                          Usage                                     Remarks
+   (NXX)                                    Company
+                                            Number)
+
+   5213         Fixed LNP                    8904       Cable & Wireless (Barbados) Ltd.
+   5214         Mobile LNP                   8904       Cable & Wireless (Barbados) Ltd.
+   5216         Fixed LNP                    900J         KW Telecommunications Inc.
+   5217         Mobile LNP                   900J         KW Telecommunications Inc.
+   5219         Fixed LNP                    810H             Ozone Wireless Inc.
+   5220         Mobile LNP                   810H             Ozone Wireless Inc.
+   522          Local Number Portability       Y        Reserved For Local No. Portability
+   523          Fixed Telephony                Y                  Not Allocated
+   524          Fixed Telephony                Y                  Not Allocated
+   525          Fixed Telephony                Y                  Not Allocated
+   526          Fixed Telephony                Y                  Not Allocated
+   527          Fixed Telephony                Y                  Not Allocated
+   528          Fixed Telephony                Y                  Not Allocated
+   529          Fixed Telephony                Y                  Not Allocated
+   530          Fixed Telephony              059B             Digicel Barbados Ltd.
+   531          Fixed Telephony              059B             Digicel Barbados Ltd.
+   532          Fixed Telephony                Y                  Not Allocated
+   533          Fixed Telephony                Y                  Not Allocated
+   534          Fixed Telephony                Y                  Not Allocated
+   535          Fixed Telephony              059B             Digicel Barbados Ltd.
+   536          Fixed Telephony              059B             Digicel Barbados Ltd.
+   537          Fixed Telephony              059B             Digicel Barbados Ltd.
+   538          Fixed Telephony              059B             Digicel Barbados Ltd.
+   539          Fixed Telephony              059B             Digicel Barbados Ltd.
+   540          Fixed Telephony                Y                  Not Allocated
+   541          Fixed Telephony                Y                  Not Allocated
+   542          Fixed Telephony                Y                  Not Allocated
+   543          Fixed Telephony                Y                  Not Allocated
+   544          Fixed Telephony                Y                  Not Allocated
+   545          Fixed Telephony                Y                  Not Allocated
+   546          Fixed Telephony              059B             Digicel Barbados Ltd.
+   547          Fixed Telephony              059B             Digicel Barbados Ltd.
+   548          Fixed Telephony              059B             Digicel Barbados Ltd.
+   549          Fixed Telephony              059B             Digicel Barbados Ltd.
+   554          Fixed Telephony              8904       Cable & Wireless (Barbados) Ltd.
+   555          Directory Assistance         8904       Cable & Wireless (Barbados) Ltd.
+   571          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   572          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   573          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   611          N11 Code                     N11        Repair Service (Service Provider)
+   620          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   621          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   622          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   623          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   624          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   625          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   626          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   627          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   628          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   629          Fixed Line Telephony         8904       Cable & Wireless (Barbados) Ltd.
+   638          Fixed Telephony              8904       Cable & Wireless (Barbados) Ltd.
+   695          Mobile Telephony             810H             Ozone Wireless Inc.
+   696          Mobile Telephony             810H             Ozone Wireless Inc.
+   697          Mobile Telephony             810H             Ozone Wireless Inc.
+                                           OCN
+ CO CODE                                 (Operating
+                           Usage                                  Remarks
+  (NXX)                                   Company
+                                          Number)
+
+    711        N11 Code                    N11                 Not Designated
+    712        Wireless Telephony          900J         KW Telecommunications Inc.
+    713        Wireless Telephony          900J         KW Telecommunications Inc.
+    714        Wireless Telephony          900J         KW Telecommunications Inc.
+    715        Wireless Telephony          900J         KW Telecommunications Inc.
+    716        Wireless Telephony          900J         KW Telecommunications Inc.
+    717        Wireless Telephony          900J         KW Telecommunications Inc.
+    718        Wireless Telephony          900J         KW Telecommunications Inc.
+    719        Wireless Telephony          900J         KW Telecommunications Inc.
+    720        Wireless Telephony          900J         KW Telecommunications Inc.
+    721        Wireless Telephony          900J         KW Telecommunications Inc.
+    722        Wireless Telephony          900J         KW Telecommunications Inc.
+    723        Wireless Telephony          900J         KW Telecommunications Inc.
+    724        Wireless Telephony          900J         KW Telecommunications Inc.
+    725        Wireless Telephony          900J         KW Telecommunications Inc.
+    726        Wireless Telephony          900J         KW Telecommunications Inc.
+    727        Wireless Telephony          900J         KW Telecommunications Inc.
+    728        Wireless Telephony          900J         KW Telecommunications Inc.
+    729        Wireless Telephony          900J         KW Telecommunications Inc.
+    730        Wireless Telephony          900J         KW Telecommunications Inc.
+    731        Wireless Telephony          900J         KW Telecommunications Inc.
+    736        Direct Inward Dialing       8904       Cable & Wireless (Barbados) Ltd.
+    737        Fixed Telephony             8904       Cable & Wireless (Barbados) Ltd.
+    753        Call Centres                8904       Cable & Wireless (Barbados) Ltd.
+    757        Fixed Telephony             8904       Cable & Wireless (Barbados) Ltd.
+    776        International Telephony     070H           Ace Communications Inc.
+    777        International Telephony     070H           Ace Communications Inc.
+    778        International Telephony     070H           Ace Communications Inc.
+    811        N11 Code                    N11        Business Office (Service Provider)
+    820        Mobile Telephony            059B             Digicel Barbados Ltd.
+    821        Mobile Telephony            059B             Digicel Barbados Ltd.
+    822        Mobile Telephony            059B             Digicel Barbados Ltd.
+    823        Mobile Telephony            059B             Digicel Barbados Ltd.
+    824        Mobile Telephony            059B             Digicel Barbados Ltd.
+    825        Mobile Telephony            059B             Digicel Barbados Ltd.
+    826        Mobile Telephony            059B             Digicel Barbados Ltd.
+    827        Mobile Telephony            059B             Digicel Barbados Ltd.
+    828        Mobile Telephony            059B             Digicel Barbados Ltd.
+    829        Mobile Telephony            059B             Digicel Barbados Ltd.
+    830        Mobile Telephony            059B             Digicel Barbados Ltd.
+    831        Mobile Telephony            059B             Digicel Barbados Ltd.
+    832        Mobile Telephony            059B             Digicel Barbados Ltd.
+    833        Mobile Telephony            059B             Digicel Barbados Ltd.
+    834        Mobile Telephony            059B             Digicel Barbados Ltd.
+    835        Mobile Telephony            059B             Digicel Barbados Ltd.
+    836        Mobile Telephony            059B             Digicel Barbados Ltd.
+    837        Mobile Telephony            059B             Digicel Barbados Ltd.
+    838        Mobile Telephony            059B             Digicel Barbados Ltd.
+    839        Mobile Telephony            059B             Digicel Barbados Ltd.
+    840        Mobile Telephony            059B             Digicel Barbados Ltd.
+    841        Mobile Telephony            059B             Digicel Barbados Ltd.
+    842        Mobile Telephony            059B             Digicel Barbados Ltd.
+    843        Mobile Telephony            059B             Digicel Barbados Ltd.
+
+                                                    OCN
+   CO CODE                                        (Operating
+                              Usage                                               Remarks
+    (NXX)                                          Company
+                                                   Number)
+
+     844         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     845         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     846         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     847         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     848         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     849         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     850         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     851         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     852         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     853         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     854         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     855         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     856         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     857         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     858         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     859         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     883         Mobile Telephony                   059B                    Digicel Barbados Ltd.
+     911         N11 Code                           N11          Public Service Answering Point/Emergency
+                                                                                     No.
+     918         Fixed Wireless                       Y                         Not Allocated
+     919         Fixed Wireless                       Y                        Not Allocated
+     958         Station Ringer                     8904              Cable & Wireless (Barbados) Ltd.
+     963         Fixed Telephony                    8904              Cable & Wireless (Barbados) Ltd.
+     976         Pay-per-call services              8904              Cable & Wireless (Barbados) Ltd.
+
+International dialling format: +1 246 NXX XXXX
+
+                                            Summary of Assignments
+             Company                     OCN     No. of Codes   Nxx Ranges
+                                                                (227 to 245) + (247 to 255) + (270 to 274) +
+                                                                (280 to 288) + 292 + (310) + (312 to 319) +
+                                                                (352 to 367) + 410 + 412 + (414 to 439) +
+ Cable & Wireless (Barbados) Ltd.        8904        121
+                                                                444 + 467 + 554 + 555 + (571 to 573) +
+                                                                (620 to 629) + 638 + 736 + 737 + 753 + 757 +
+                                                                958 + 963 + 976
+       Digicel Barbados Ltd.             059B        66         (256 to 269) + 530 + 531 + (535 to 539) +
+                                                                (546 to 549) + (820 to 859) + 883
+   Neptune Communications Inc.           641J         4         446 to 449
+
+     Ace Communications Inc.             070H         4         (223 + (776 to 778)
+
+   KW Telecommunications Inc.            900J        20         712 to 731
+
+        Ozone Wireless Inc.              810H         3         695 to 697
+
+                     Total                           218
+
+
+
+
+                      Barbados Local Number Portability (LNP) Routing Number Allocations
+
+    Routing               Digicel          Cable & Wireless       KW Telecoms          Ozone Wireless Inc
+  Code Range
+                     Fixed     Mobile      Fixed     Mobile      Fixed     Mobile      Fixed      Mobile
+  5210 to 5220       5210      5211        5213      5214        5216      5217        5219       5220
+
+
+Contact:
+           Ministry of Innovation, Science and Technology
+           Level 3 Baobab Tower
+           WARRENS, ST. MICHAEL
+           Barbados
+           URL: www.telecoms.gov.bb
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+                                 ADD    Insert                      PAR   Paragraph
+                                 COL    Column                      REP   Replace
+                                 LIR    Read                        SUP   Delete
+                                 P      Page(s)
+
+
+
+
+                          List of Issuer Identifier Numbers for
+                  the International Telecommunication Charge Card
+            (in accordance with Recommendation ITU‐T E.118 (05/2006))
+                             (Position on 1 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                              (Amendment No. 62)
+
+
+Australia          ADD
+
+   Country/        Company Name/Address                  Issuer      Contact                           Effective date
+ Geographical                                          Identifier                                         of usage
+     area                                               Number
+Australia          OptiTel Pty Ltd                     89 61 90      David Bock                          1.II.2022
+                   5/6 Kent Ct,                                      OptiTel Pty Ltd,
+                   Stuart Park NT 0820                               PO Box 583,
+                                                                     Kununurra WA 6743
+                                                                     Tel:     +61 8 9168 1551
+                                                                     E‐mail: admin@optitel.com.au
+
+
+
+United Kingdom      ADD
+
+   Country/        Company Name/Address                  Issuer      Contact                             Effective
+ Geographical                                          Identifier                                          date
+     area                                               Number                                           of usage
+United Kingdom     Spitfire Network Services Ltd       89 44 51      Harry Bowlby                        1.II.2022
+                   239 Regents Park Road                             Spitfire Network Services Ltd
+                   LONDON N3 3LF                                     The Printworks
+                                                                     139 Clapham Road
+                                                                     LONDON SW9 0HP
+                                                                     Tel:      +44 207 501 3055
+                                                                     E‐mail: H.Bowlby@spitfire.co.uk
+
+
+
+
+                                  List of ITU Carrier Codes
+                  (According to Recommendation ITU-T M.1400 (03/2013))
+                              (Position on 15 September 2014)
+                                (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                                (Amendment No. 130)
+
+ Country or area/ISO code                             Company Code      Contact
+  Company Name/Address                                 (carrier code)
+
+Germany (Federal Republic of) / DEU                     ADD
+
+
+ carrierwerke GmbH                                        CWERKE        Mr Michael Neska
+ Heinrich-Hertz-Strasse 11                                              Tel.: +49 172 7238595
+ D-69190 WALLDORF                                                       Email: mn@carrierwerke.de
+
+ Interactive Network Communications                        INETDE       Mr Michael Neska
+ GmbH                                                                   Tel.: +49 172 7238595
+ Neue Mainzer Strasse 75                                                Email: mn@carrierwerke.de
+ D-60311 FRANKFURT
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 31)
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point           Name of the signalling point operator
+
+
+ Spain SUP
+ 2-237-1       5993         Madrid-Bellas Vistas                          Telefónica Móviles España, S.A.U.
+ 2-237-2       5994         Barcelona-Guipúzcoa                           Telefónica Móviles España, S.A.U.
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                   Web: www.itu.int/itu-t/inr/nnp/index.html
+
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.II.2022, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                        Country/ Geographical area                      Country Code (CC)
+               Iran (Islamic Republic of)                                      +98
+               Sierra Leone                                                    +232
+
+
+
+

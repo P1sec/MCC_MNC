@@ -20,25 +20,27 @@ WORLD_FB = \
                               'capital': {'coord': '34 31 N, 69 11 E', 'name': 'Kabul', 'time_diff': 'UTC+4.5'},
                               'coastline': 0,
                               'coord': ['33 00 N, 65 00 E'],
-                              'country_name': { 'conv_long': 'Islamic Republic of Afghanistan',
+                              'country_name': { 'conv_long': 'formerly Islamic Republic of Afghanistan',
                                                 'conv_short': 'Afghanistan',
-                                                'local_long': 'Jamhuri-ye Islami-ye Afghanistan',
+                                                'local_long': 'formerly Jamhuri-ye Islami-ye Afghanistan',
                                                 'local_short': 'Afghanistan'},
                               'population': 37466414,
                               'ports': {},
                               'region': ['Asia'],
-                              'subs_broadband': 19683,
+                              'subs_broadband': 26570,
                               'subs_fixed': 134636,
                               'subs_mobile': 22580071,
-                              'telecom': { 'code': '93',
-                                           'domestic': [ 'less than 1 per 100 for fixed-line teledensity',
+                              'telecom': { '<p style="background': ['white', 'margin: 0in 0in 6.4pt 0in', '">', 0],
+                                           'code': '93',
+                                           'domestic': [ 'before the Taliban takeover in August 2021, less than 1 per '
+                                                         '100 for fixed-line teledensity',
                                                          '59 per 100 for mobile-cellular',
                                                          'an increasing number of Afghans utilize mobile-cellular '
                                                          'phone networks',
-                                                         2019],
-                                           'general': [ 'despite decades of war, Afghanistan has successfully rebuilt '
-                                                        'infrastructure to create a functional telecom sector that '
-                                                        'covers nearly all of the population',
+                                                         2021],
+                                           'general': [ 'before the Taliban takeover in August 2021, Afghanistan had '
+                                                        'successfully rebuilt infrastructure to create a functional '
+                                                        'telecom sector that covered nearly all of the population',
                                                         'due to mountainous geography, country relies on its mobile '
                                                         'network',
                                                         'mobile broadband penetration growing, but is still low '
@@ -51,27 +53,11 @@ WORLD_FB = \
                                                         "Wakhan Corridor Fiber Optic Survey Project' to connect to "
                                                         'China is nearing completion',
                                                         'major importer of broadcasting equipment from UAE',
-                                                        2020],
+                                                        2021],
                                            'intl': [ "multiple VSAT's provide international and domestic voice and "
                                                      'data connectivity',
-                                                     2019],
-                                           'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
-                                                     'production and supply chains globally',
-                                                     'since 2020, some aspects of the telecom sector have experienced '
-                                                     'downturn, particularly in mobile device production',
-                                                     'many network operators delayed upgrades to infrastructure',
-                                                     'progress towards 5G implementation was postponed or slowed in '
-                                                     'some countries',
-                                                     'consumer spending on telecom services and devices was affected '
-                                                     'by large-scale job losses and the consequent restriction on '
-                                                     'disposable incomes',
-                                                     'the crucial nature of telecom services as a tool for work and '
-                                                     'school from home became evident, and received some support from '
-                                                     'governments <p style="background: white',
-                                                     'margin: 0in 0in 6.4pt 0in',
-                                                     '">',
-                                                     0]},
-                              'users_internet': 4717013},
+                                                     2019]},
+                              'users_internet': 8640000},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/afghanistan/page-data.json',
                    'name': 'Afghanistan',
                    'stan': 'AFG',
@@ -122,11 +108,11 @@ WORLD_FB = \
                           'subs_fixed': 223469,
                           'subs_mobile': 2618880,
                           'telecom': { 'code': '355',
-                                       'domestic': [ 'fixed-line 8 per 100, teledensity continues to decline due to '
-                                                     'heavy use of mobile-cellular telephone services',
+                                       'domestic': [ 'fixed-line approximately 8 per 100, teledensity continues to '
+                                                     'decline due to heavy use of mobile-cellular telephone services',
                                                      'mobile-cellular telephone use is widespread and generally '
                                                      'effective, 91 per 100 for mobile-cellular',
-                                                     2019],
+                                                     2020],
                                        'general': [ "Albania's small telecom market has improved through signatory "
                                                     'status of EU accession plan',
                                                     'EU financial aid will build infrastructure and enhance '
@@ -140,7 +126,7 @@ WORLD_FB = \
                                                     'operators have invested in 5G, including the intention to create '
                                                     'a corridor with Kosovo',
                                                     'importer of broadcasting equipment from EU neighbors',
-                                                    2020],
+                                                    2021],
                                        'intl': [ 'submarine cables for the Adria 1 and Italy-Albania provide '
                                                  'connectivity to Italy, Croatia, and Greece',
                                                  'a combination submarine cable and land fiber-optic system, provides '
@@ -162,7 +148,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 2196613},
+                          'users_internet': 2000000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/albania/page-data.json',
                'name': 'Albania',
                'stan': 'ALB',
@@ -197,12 +183,12 @@ WORLD_FB = \
                           'subs_fixed': 4784306,
                           'subs_mobile': 45555673,
                           'telecom': { 'code': '213',
-                                       'domestic': [ 'a limited network of fixed-lines with a teledensity of less than '
-                                                     '11 telephones per 100 persons has been offset by the rapid '
-                                                     'increase in mobile-cellular subscribership',
-                                                     'mobile-cellular teledensity was roughly 109 telephones per 100 '
-                                                     'persons',
-                                                     2019],
+                                       'domestic': [ 'a limited network of fixed-lines with a teledensity of slightly '
+                                                     'less than 11 telephones per 100 persons has been offset by the '
+                                                     'rapid increase in mobile-cellular subscribership',
+                                                     'mobile-cellular teledensity was approximately 104 telephones per '
+                                                     '100 persons in 2020',
+                                                     2020],
                                        'general': [ 'Algeria has a steadily developing telecom infrastructure through '
                                                     'sound regulatory measures and government policies aimed at '
                                                     'providing Internet connections across the country, including '
@@ -212,7 +198,7 @@ WORLD_FB = \
                                                     'account for the vast majority of Internet accesses',
                                                     'well served by satellite and submarine cable connections',
                                                     'importer of broadcasting equipment from China',
-                                                    2020],
+                                                    2021],
                                        'intl': [ 'ALPAL-2 is a submarine telecommunications cable system in the '
                                                  'Mediterranean Sea linking Algeria and the Spanish Balearic island of '
                                                  'Majorca',
@@ -239,7 +225,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 24819531},
+                          'users_internet': 26350000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/algeria/page-data.json',
                'name': 'Algeria',
                'stan': 'DZA',
@@ -263,11 +249,12 @@ WORLD_FB = \
                                  'population': 46366,
                                  'ports': {'seaport': 'Pago Pago'},
                                  'region': ['Oceania'],
-                                 'subs_fixed': 8984,
+                                 'subs_fixed': 10000,
+                                 'subs_mobile': '',
                                  'telecom': { 'code': '1684',
-                                              'domestic': [ '18 per 100 fixed-line teledensity, domestic satellite '
-                                                            'system with 1 Comsat earth station',
-                                                            2019],
+                                              'domestic': [ 'nearly 18 per 100 fixed-line teledensity, domestic '
+                                                            'satellite system with 1 Comsat earth station',
+                                                            2018],
                                               'general': [ 'good telex, telegraph, facsimile, and cellular telephone '
                                                            'services',
                                                            'one of the most complete and modern telecommunications '
@@ -295,7 +282,7 @@ WORLD_FB = \
                                                         'school from home became evident, and received some support '
                                                         'from governments',
                                                         0]},
-                                 'users_internet': 17000},
+                                 'users_internet': 22200},
                       'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/american-samoa/page-data.json',
                       'name': 'American Samoa',
                       'stan': 'ASM',
@@ -321,7 +308,7 @@ WORLD_FB = \
                           'subs_fixed': 39657,
                           'subs_mobile': 87909,
                           'telecom': { 'code': '376',
-                                       'domestic': ['51 per 100 fixed-line, 113 per 100 mobile-cellular', 2019],
+                                       'domestic': ['about 51 per 100 fixed-line, 114 per 100 mobile-cellular', 2019],
                                        'general': [ 'modern automatic telephone system',
                                                     'broadband Internet and LTE mobile lines for both consumer and '
                                                     'enterprise customers available',
@@ -343,7 +330,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 78483},
+                          'users_internet': 70800},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/andorra/page-data.json',
                'name': 'Andorra',
                'stan': 'AND',
@@ -376,8 +363,8 @@ WORLD_FB = \
                          'subs_mobile': 14645050,
                          'telecom': { 'code': '244',
                                       'domestic': [ 'only about one fixed-line per 100 persons',
-                                                    'mobile-cellular teledensity about 47 telephones per 100 persons',
-                                                    2019],
+                                                    'mobile-cellular teledensity about 45 telephones per 100 persons',
+                                                    2020],
                                       'general': [ "Angola's telecom sector shows consistent recovery following "
                                                    'political stability, encouraging foreign investment',
                                                    'while the government opened the telecom sector to new competitors, '
@@ -412,7 +399,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 4353033},
+                         'users_internet': 10360000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/angola/page-data.json',
               'name': 'Angola',
               'stan': 'AGO',
@@ -433,12 +420,13 @@ WORLD_FB = \
                            'population': 18403,
                            'ports': {'seaport': 'Blowing Point, Road Bay'},
                            'region': ['Central America and the Caribbean'],
+                           'subs_broadband': '',
                            'subs_fixed': 6000,
                            'subs_mobile': 26000,
                            'telecom': { 'code': '1264',
                                         'domestic': [ 'fixed-line teledensity is about 42 per 100 persons',
                                                       'mobile-cellular teledensity is roughly 182 per 100 persons',
-                                                      2019],
+                                                      2018],
                                         'general': [ 'modern internal telephone system with fiber-optic trunk lines',
                                                      'telecom sector provides a relatively high contribution to '
                                                      'overall GDP',
@@ -465,7 +453,7 @@ WORLD_FB = \
                                                   'governments but the contribution to the sector has been '
                                                   'insufficient to offset steep falls in other areas of the market',
                                                   0]},
-                           'users_internet': 14211},
+                           'users_internet': 12300},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/anguilla/page-data.json',
                 'name': 'Anguilla',
                 'stan': 'AIA',
@@ -565,7 +553,7 @@ WORLD_FB = \
                                                              'work and school from home became evident, and received '
                                                              'some support from governments',
                                                              0]},
-                                      'users_internet': 72870},
+                                      'users_internet': 74700},
                            'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/antigua-and-barbuda/page-data.json',
                            'name': 'Antigua and Barbuda',
                            'stan': 'ATG',
@@ -599,11 +587,11 @@ WORLD_FB = \
                             'subs_fixed': 7356165,
                             'subs_mobile': 54763900,
                             'telecom': { 'code': '54',
-                                         'domestic': [ '17 per 100 fixed-line, 131 per 100 mobile-cellular',
+                                         'domestic': [ 'roughly 16 per 100 fixed-line and 121 per 100 mobile-cellular',
                                                        'microwave radio relay, fiber-optic cable, and a domestic '
                                                        'satellite system with 40 earth stations serve the trunk '
                                                        'network',
-                                                       2019],
+                                                       2020],
                                          'general': [ 'Argentina has one of the most vigorous mobile markets in Latin '
                                                       'America',
                                                       'with additional operators in the market, mobile penetration '
@@ -637,7 +625,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 33203320},
+                            'users_internet': 36320000},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/argentina/page-data.json',
                  'name': 'Argentina',
                  'stan': 'ARG',
@@ -665,11 +653,11 @@ WORLD_FB = \
                           'subs_fixed': 427539,
                           'subs_mobile': 3488797,
                           'telecom': { 'code': '374',
-                                       'domestic': [ '15 per 100 fixed-line, 122 per 100 mobile-cellular',
+                                       'domestic': [ 'roughly 14 per 100 fixed-line and 118 per 100 mobile-cellular',
                                                      'reliable fixed-line and mobile-cellular services are available '
                                                      'across Yerevan and in major cities and towns',
                                                      'mobile-cellular coverage available in most rural areas',
-                                                     2019],
+                                                     2020],
                                        'general': [ 'telecom market struggles to provide an effective national telecom '
                                                     'service',
                                                     'country remains dependent on the economic health of Russian and '
@@ -711,7 +699,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1966942},
+                          'users_internet': 2020000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/armenia/page-data.json',
                'name': 'Armenia',
                'stan': 'ARM',
@@ -741,8 +729,9 @@ WORLD_FB = \
                         'telecom': { 'code': '297',
                                      'domestic': [ 'ongoing changes in regulations and competition improving '
                                                    'teledensity',
-                                                   '34 per 100 fixed-line, 135 per 100 mobile-cellular',
-                                                   2019],
+                                                   'approximately 34 per 100 fixed-line and 135 per 100 '
+                                                   'mobile-cellular',
+                                                   2018],
                                      'general': [ 'modern fully automatic telecommunications system',
                                                   'increased competition through privatization has increased '
                                                   'mobile-cellular teledensity',
@@ -771,7 +760,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 113277},
+                        'users_internet': 104000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/aruba/page-data.json',
              'name': 'Aruba',
              'stan': 'ABW',
@@ -827,11 +816,11 @@ WORLD_FB = \
                             'subs_fixed': 6200000,
                             'subs_mobile': 27454000,
                             'telecom': { 'code': '61',
-                                         'domestic': [ '31 per 100 fixed-line, 111 per 100 mobile-cellular',
+                                         'domestic': [ 'roughly 24 per 100 fixed-line and 108 per 100 mobile-cellular',
                                                        'more subscribers to mobile services than there are people',
                                                        '90% of all mobile device sales are now smartphones, growth in '
                                                        'mobile traffic brisk',
-                                                       2019],
+                                                       2020],
                                          'general': [ 'excellent domestic and international service with comprehensive '
                                                       'population coverage through LTE',
                                                       'domestic satellite system',
@@ -878,7 +867,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 21419302},
+                            'users_internet': 22820000},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/australia/page-data.json',
                  'name': 'Australia',
                  'stan': 'AUS',
@@ -915,11 +904,12 @@ WORLD_FB = \
                           'subs_mobile': 10682294,
                           'telecom': { 'code': '43',
                                        'domestic': [ 'developed and efficient',
-                                                     '41 per 100 fixed-line for households, 174 per 100 for companies',
-                                                     '120 per 100 mobile-cellular',
+                                                     '42 per 100 fixed-line for households, 174 per 100 for companies',
+                                                     'roughly 119 per 100 mobile-cellular',
                                                      'broadband: 138 per 100 on smartphones',
-                                                     '62 per 100 fixed broadband, 54 per 100 mobile broadband',
-                                                     2019],
+                                                     'roughly 29 per 100 fixed broadband and 107 per 100 mobile '
+                                                     'broadband',
+                                                     2020],
                                        'general': [ 'mature telecom market benefitting from effective competition',
                                                     'government and regulator are focused on improving telecom '
                                                     'infrastructure',
@@ -950,7 +940,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 7712665},
+                          'users_internet': 8029999},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/austria/page-data.json',
                'name': 'Austria',
                'stan': 'AUT',
@@ -990,12 +980,11 @@ WORLD_FB = \
                              'subs_fixed': 1652688,
                              'subs_mobile': 10344300,
                              'telecom': { 'code': '994',
-                                          'domestic': [ 'teledensity of some 17 fixed-lines per 100 persons',
-                                                        'mobile-cellular teledensity has increased to 107 telephones '
-                                                        'per 100 persons',
+                                          'domestic': [ 'teledensity of some 16 fixed-lines per 100 persons',
+                                                        'mobile-cellular teledensity of 102 telephones per 100 persons',
                                                         'satellite service connects Baku to a modern switch in its '
                                                         'exclave of Naxcivan (Nakhchivan)',
-                                                        2019],
+                                                        2020],
                                           'general': [ 'a landlocked country with historically poor infrastructure',
                                                        'state control of telecom systems',
                                                        'progress with Digital Hub project despite economic contraction '
@@ -1029,7 +1018,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 8017120},
+                             'users_internet': 8260000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/azerbaijan/page-data.json',
                   'name': 'Azerbaijan',
                   'stan': 'AZE',
@@ -1089,7 +1078,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 282739},
+                               'users_internet': 335800},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bahamas-the/page-data.json',
                     'name': 'Bahamas, The',
                     'stan': 'BHS',
@@ -1117,7 +1106,8 @@ WORLD_FB = \
                           'subs_fixed': 266659,
                           'subs_mobile': 1748672,
                           'telecom': { 'code': '973',
-                                       'domestic': [ '17 per 100 fixed-line, 116 per 100 mobile-cellular',
+                                       'domestic': [ 'approximately 16 per 100 fixed-line and 103 per 100 '
+                                                     'mobile-cellular',
                                                      'modern fiber-optic integrated services',
                                                      'digital network with rapidly expanding mobile-cellular '
                                                      'telephones',
@@ -1154,7 +1144,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1423039},
+                          'users_internet': 1710000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bahrain/page-data.json',
                'name': 'Bahrain',
                'stan': 'BHR',
@@ -1196,11 +1186,11 @@ WORLD_FB = \
                              'telecom': { 'code': '880',
                                           'domestic': [ 'fixed-line teledensity remains less than 1 per 100 persons',
                                                         'mobile-cellular telephone subscribership has been increasing '
-                                                        'rapidly and now exceeds 101 telephones per 100 persons',
+                                                        'rapidly and now exceeds 103 telephones per 100 persons',
                                                         'mobile subscriber growth is anticipated over the next five '
                                                         'years to 2023',
                                                         'strong local competition',
-                                                        2019],
+                                                        2020],
                                           'general': [ "Bangladesh's economic constraints hinder network "
                                                        'infrastructure, resulting in the lowest fixed-line penetration '
                                                        'rate in South Asia and a very low fixed broadband rate',
@@ -1237,7 +1227,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 23917950},
+                             'users_internet': 47610000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bangladesh/page-data.json',
                   'name': 'Bangladesh',
                   'stan': 'BGD',
@@ -1262,8 +1252,8 @@ WORLD_FB = \
                            'subs_fixed': 128043,
                            'subs_mobile': 329326,
                            'telecom': { 'code': '1246',
-                                        'domestic': [ 'fixed-line teledensity of roughly 48 per 100 persons',
-                                                      'mobile-cellular telephone density about 109 per 100 persons',
+                                        'domestic': [ 'fixed-line teledensity of roughly 45 per 100 persons',
+                                                      'mobile-cellular telephone density about 115 per 100 persons',
                                                       2019],
                                         'general': [ 'island-wide automatic telephone system',
                                                      'telecom sector across the Caribbean region remains one of the '
@@ -1291,7 +1281,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 239664},
+                           'users_internet': 235100},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/barbados/page-data.json',
                 'name': 'Barbados',
                 'stan': 'BRB',
@@ -1336,10 +1326,10 @@ WORLD_FB = \
                           'subs_mobile': 11704084,
                           'telecom': { 'code': '375',
                                        'domestic': [ 'fixed-line teledensity is improving although rural areas '
-                                                     'continue to be underserved, 48 per 100 fixed-line',
-                                                     'mobile-cellular teledensity now approaches 123 telephones per '
-                                                     '100 persons',
-                                                     2019],
+                                                     'continue to be underserved, approximately 47 per 100 fixed-line',
+                                                     'mobile-cellular teledensity now roughly 124 telephones per 100 '
+                                                     'persons',
+                                                     2020],
                                        'general': [ 'government owns and administers backbone network and much of '
                                                     'telecom market with no independent regulator',
                                                     'government and telecom regulator are concluding three major '
@@ -1378,7 +1368,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 7539145},
+                          'users_internet': 7820000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/belarus/page-data.json',
                'name': 'Belarus',
                'stan': 'BLR',
@@ -1411,7 +1401,7 @@ WORLD_FB = \
                           'subs_fixed': 3634639,
                           'subs_mobile': 11529728,
                           'telecom': { 'code': '32',
-                                       'domestic': [ '34 per 100 fixed-line, 100 per 100 mobile-cellular',
+                                       'domestic': [ 'about 31 per 100 fixed-line and 99 per 100 mobile-cellular',
                                                      'nationwide mobile-cellular telephone system',
                                                      'extensive cable network',
                                                      'limited microwave radio relay network',
@@ -1448,7 +1438,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 10258638},
+                          'users_internet': 10570000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/belgium/page-data.json',
                'name': 'Belgium',
                'stan': 'BEL',
@@ -1473,7 +1463,7 @@ WORLD_FB = \
                          'subs_fixed': 18500,
                          'subs_mobile': 254919,
                          'telecom': { 'code': '501',
-                                      'domestic': [ '5 per 100 fixed-line and mobile-cellular teledensity approaching '
+                                      'domestic': [ 'roughly 5 per 100 fixed-line and mobile-cellular teledensity of '
                                                     '65 per 100 persons',
                                                     'mobile sector accounting for over 90% of all phone subscriptions',
                                                     2019],
@@ -1508,7 +1498,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 181660},
+                         'users_internet': 188900},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/belize/page-data.json',
               'name': 'Belize',
               'stan': 'BLZ',
@@ -1541,9 +1531,9 @@ WORLD_FB = \
                         'telecom': { 'code': '229',
                                      'domestic': [ 'fixed-line teledensity only about 1 per 100 persons',
                                                    'spurred by the presence of multiple mobile-cellular providers, '
-                                                   'cellular telephone subscribership has increased rapidly, exceeding '
-                                                   '88 per 100 persons',
-                                                   2019],
+                                                   'cellular telephone subscribership has increased rapidly, nearing '
+                                                   '92 per 100 persons',
+                                                   2020],
                                      'general': [ "Benin's telecom market is restricted by poor fixed-line "
                                                   'infrastructure',
                                                   'low use of fixed-line voice and Internet',
@@ -1576,7 +1566,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 2403596},
+                        'users_internet': 3500000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/benin/page-data.json',
              'name': 'Benin',
              'stan': 'BEN',
@@ -1601,9 +1591,9 @@ WORLD_FB = \
                           'subs_fixed': 21883,
                           'subs_mobile': 64997,
                           'telecom': { 'code': '1441',
-                                       'domestic': [ 'the system has a high fixed-line teledensity 35 per 100, coupled '
-                                                     'with a mobile-cellular teledensity of roughly 103 per 100 '
-                                                     'persons',
+                                       'domestic': [ 'the system has a high fixed-line teledensity nearing 35 per 100, '
+                                                     'coupled with a mobile-cellular teledensity of roughly 103 per '
+                                                     '100 persons',
                                                      2019],
                                        'general': [ 'a good, fully automatic digital telephone system with fiber-optic '
                                                     'trunk lines',
@@ -1629,7 +1619,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 70016},
+                          'users_internet': 61200},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bermuda/page-data.json',
                'name': 'Bermuda',
                'stan': 'BMU',
@@ -1652,13 +1642,13 @@ WORLD_FB = \
                                            'local_short': 'Druk Yul'},
                          'population': 857423,
                          'region': ['Asia'],
-                         'subs_broadband': 8774,
-                         'subs_fixed': 21581,
-                         'subs_mobile': 729239,
+                         'subs_broadband': 2139,
+                         'subs_fixed': 22987,
+                         'subs_mobile': 745137,
                          'telecom': { 'code': '975',
-                                      'domestic': [ '3 to 100 fixed-line, 96 to 100 mobile cellular',
+                                      'domestic': [ 'approximately 3 to 100 fixed-line and 97 to 100 mobile cellular',
                                                     'domestic service inadequate, notably in rural areas',
-                                                    2019],
+                                                    2020],
                                       'general': [ "Bhutan's telecom market is dominated by the mobile sector for "
                                                    'voice and data connections due to poor fixed-line infrastructure '
                                                    'and topographic issues',
@@ -1687,7 +1677,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 368714},
+                         'users_internet': 373200},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bhutan/page-data.json',
               'name': 'Bhutan',
               'stan': 'BTN',
@@ -1719,15 +1709,15 @@ WORLD_FB = \
                           'population': 11758869,
                           'ports': {},
                           'region': ['South America'],
-                          'subs_broadband': 746872,
-                          'subs_fixed': 652272,
-                          'subs_mobile': 11688830,
+                          'subs_broadband': 931918,
+                          'subs_fixed': 598082,
+                          'subs_mobile': 11804343,
                           'telecom': { 'code': '591',
-                                       'domestic': [ '6 per 100 fixed-line, mobile-cellular telephone use expanding '
+                                       'domestic': [ '5 per 100 fixed-line, mobile-cellular telephone use expanding '
                                                      'rapidly and teledensity stands at 101 per 100 persons',
                                                      'most telephones are concentrated in La Paz, Santa Cruz, and '
                                                      'other capital cities',
-                                                     2019],
+                                                     2020],
                                        'general': [ "with low national GDP and remote landlocked geography, Bolivia's "
                                                     'telecom services are historically expensive and neglected '
                                                     'resulting in low penetration',
@@ -1765,7 +1755,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 4955569},
+                          'users_internet': 5580000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bolivia/page-data.json',
                'name': 'Bolivia',
                'stan': 'BOL',
@@ -1792,15 +1782,14 @@ WORLD_FB = \
                                          'population': 3824782,
                                          'ports': {},
                                          'region': ['Europe'],
-                                         'subs_broadband': 745887,
-                                         'subs_fixed': 728322,
-                                         'subs_mobile': 3755521,
+                                         'subs_broadband': 770624,
+                                         'subs_fixed': 706135,
+                                         'subs_mobile': 3509674,
                                          'telecom': { 'code': '387',
-                                                      'domestic': [ 'fixed-line teledensity roughly 24 per 100 persons '
-                                                                    'and mobile-cellular subscribership has been '
-                                                                    'increasing rapidly and stands at roughly 112 '
+                                                      'domestic': [ 'fixed-line teledensity roughly 22 per 100 persons '
+                                                                    'and mobile-cellular subscribership stands at 107 '
                                                                     'telephones per 100 persons',
-                                                                    2019],
+                                                                    2020],
                                                       'general': [ 'Bosnia-Herzegovina aims for national LTE coverage '
                                                                    'through integration with European Union (EU)',
                                                                    'roaming agreements with EU and Balkan neighbors',
@@ -1834,7 +1823,7 @@ WORLD_FB = \
                                                                 'work and school from home became evident, and '
                                                                 'received some support from governments',
                                                                 0]},
-                                         'users_internet': 2699544},
+                                         'users_internet': 2320000},
                               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bosnia-and-herzegovina/page-data.json',
                               'name': 'Bosnia and Herzegovina',
                               'stan': 'BIH',
@@ -1861,15 +1850,15 @@ WORLD_FB = \
                                              'local_short': 'Botswana'},
                            'population': 2350667,
                            'region': ['Africa'],
-                           'subs_broadband': 49295,
+                           'subs_broadband': 71898,
                            'subs_fixed': 142587,
-                           'subs_mobile': 3746760,
+                           'subs_mobile': 3819019,
                            'telecom': { 'code': '267',
                                         'domestic': [ 'fixed-line teledensity has declined in recent years and now '
                                                       'stands at roughly 6 telephones per 100 persons',
-                                                      'mobile-cellular teledensity has advanced to 174 telephones per '
-                                                      '100 persons',
-                                                      2019],
+                                                      'mobile-cellular teledensity is roughly 162 telephones per 100 '
+                                                      'persons',
+                                                      2020],
                                         'general': [ 'due to effective regulatory reform and active competition, '
                                                      "Botswana's telecom market is one of the most liberalized in the "
                                                      'region',
@@ -1906,7 +1895,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 1057079},
+                           'users_internet': 1120000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/botswana/page-data.json',
                 'name': 'Botswana',
                 'stan': 'BWA',
@@ -1964,20 +1953,20 @@ WORLD_FB = \
                                     'seaport': 'Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao '
                                                'Sebastiao, Tubarao'},
                          'region': ['South America'],
-                         'subs_broadband': 32914496,
-                         'subs_fixed': 33712877,
-                         'subs_mobile': 202009290,
+                         'subs_broadband': 36344670,
+                         'subs_fixed': 30653813,
+                         'subs_mobile': 205834781,
                          'telecom': { 'code': '55',
-                                      'domestic': [ 'fixed-line connections have remained relatively stable in recent '
-                                                    'years and stand at about 16 per 100 persons',
+                                      'domestic': [ 'fixed-line connections stand at roughly 14 per 100 persons',
                                                     'less-expensive mobile-cellular technology has been a major '
                                                     'impetus broadening telephone service to the lower-income segments '
-                                                    'of the population with mobile-cellular teledensity roughly 99 per '
+                                                    'of the population with mobile-cellular teledensity roughly 97 per '
                                                     '100 persons',
-                                                    2019],
+                                                    2020],
                                       'general': [ 'Brazil is one of the largest mobile and broadband markets in Latin '
                                                    'America with healthy competition and pricing',
                                                    '5G launched on limited basis',
+                                                   'countrywide network spectrum auction held in November 2021',
                                                    'large fixed-line broadband market with focus on fiber',
                                                    'landing point for submarine cables and investment into terrestrial '
                                                    'fiber cables to neighboring countries',
@@ -1986,8 +1975,8 @@ WORLD_FB = \
                                                    'government provides free WiFi in urban public spaces',
                                                    'pioneer in the region for M-commerce',
                                                    'major importer of integrated circuits from South Korea and China, '
-                                                   'and broadcasting equipment from China (2021)',
-                                                   2020],
+                                                   'and broadcasting equipment from China <br />',
+                                                   2021],
                                       'intl': [ 'landing points for a number of submarine cables, including Malbec, '
                                                 'ARBR, Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, '
                                                 'BRUSA, GlobeNet, AMX-1, Brazilian Festoon, Bicentenario, Unisur, '
@@ -2013,7 +2002,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 140908998},
+                         'users_internet': 160000000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/brazil/page-data.json',
               'name': 'Brazil',
               'stan': 'BRA',
@@ -2080,14 +2069,14 @@ WORLD_FB = \
                                          'population': 37891,
                                          'ports': {'seaport': 'Road Harbor'},
                                          'region': ['Central America and the Caribbean'],
-                                         'subs_broadband': 4715,
-                                         'subs_fixed': 7640,
-                                         'subs_mobile': 72589,
+                                         'subs_broadband': 6738,
+                                         'subs_fixed': 7311,
+                                         'subs_mobile': 35163,
                                          'telecom': { 'code': '1284',
-                                                      'domestic': [ 'fixed-line connections exceed 21 per 100 persons '
-                                                                    'and mobile cellular subscribership is roughly 198 '
+                                                      'domestic': [ 'fixed-line connections exceed 24 per 100 persons '
+                                                                    'and mobile cellular subscribership is roughly 116 '
                                                                     'per 100 persons',
-                                                                    2019],
+                                                                    2020],
                                                       'general': [ 'good overall telephone service',
                                                                    'major expansion sectors include the mobile '
                                                                    'telephony and data segments, which continue to '
@@ -2119,7 +2108,7 @@ WORLD_FB = \
                                                                 'work and school from home became evident, and '
                                                                 'received some support from governments',
                                                                 0]},
-                                         'users_internet': 27818},
+                                         'users_internet': 23600},
                               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/british-virgin-islands/page-data.json',
                               'name': 'British Virgin Islands',
                               'stan': 'VGB',
@@ -2143,22 +2132,23 @@ WORLD_FB = \
                          'population': 471103,
                          'ports': {'seaport': 'Muara'},
                          'region': ['Southeast Asia'],
-                         'subs_broadband': 54195,
-                         'subs_fixed': 86590,
-                         'subs_mobile': 574799,
+                         'subs_broadband': 71078,
+                         'subs_fixed': 103885,
+                         'subs_mobile': 526732,
                          'telecom': { 'code': '673',
                                       'domestic': [ 'every service available',
-                                                    '20 per 100 fixed-line, 129 per 100 mobile-cellular',
-                                                    2019],
+                                                    'nearly 24 per 100 fixed-line, 120 per 100 mobile-cellular',
+                                                    2020],
                                       'general': [ 'Brunei is improving its national telecom network',
                                                    'telecommunications infrastructure and services are of high '
                                                    'standard, due to healthy investment in networks and services',
                                                    'relatively mature telecom system compared to other Asian countries',
                                                    'mobile subscription increasing steadily to high penetration',
-                                                   'launch of 5G services in 2021 will boost the mobile broadband '
+                                                   'launch of 5G pilot services in April 2021 aimed to increase '
+                                                   'awareness of the benefits of 5G and boost the mobile broadband '
                                                    'sector',
-                                                   'access to telecom services via the Kacific-1 satellite (2020)',
-                                                   2020],
+                                                   'access to telecom services via the Kacific-1 satellite',
+                                                   2021],
                                       'intl': [ 'landing points for the SEA-ME-WE-3, SJC, AAG, Lubuan-Brunei Submarine '
                                                 'Cable via optical telecommunications submarine cables that provides '
                                                 'links to Asia, the Middle East, Southeast Asia, Africa, Australia, '
@@ -2179,7 +2169,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 426234},
+                         'users_internet': 417500},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/brunei/page-data.json',
               'name': 'Brunei',
               'stan': 'BRN',
@@ -2208,14 +2198,14 @@ WORLD_FB = \
                            'population': 6919180,
                            'ports': {'seaport': 'Burgas, Varna (Black Sea)'},
                            'region': ['Europe'],
-                           'subs_broadband': 2014772,
-                           'subs_fixed': 975355,
-                           'subs_mobile': 8134581,
+                           'subs_broadband': 2131606,
+                           'subs_fixed': 872323,
+                           'subs_mobile': 7945739,
                            'telecom': { 'code': '359',
-                                        'domestic': [ 'fixed-line 14 per 100 persons, mobile-cellular teledensity, '
-                                                      'fostered by multiple service providers, is over 116 telephones '
-                                                      'per 100 persons',
-                                                      2019],
+                                        'domestic': [ 'fixed-line over 12 per 100 persons, mobile-cellular '
+                                                      'teledensity, fostered by multiple service providers, is over '
+                                                      '114 telephones per 100 persons',
+                                                      2020],
                                         'general': [ "Bulgaria's telecoms sector benefited from adaptation of EU "
                                                      'regulatory measures and privatization',
                                                      'population is moving to fiber over DSL for broadband connection',
@@ -2250,7 +2240,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 4571851},
+                           'users_internet': 4910000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bulgaria/page-data.json',
                 'name': 'Bulgaria',
                 'stan': 'BGR',
@@ -2284,12 +2274,11 @@ WORLD_FB = \
                                'subs_mobile': 22117218,
                                'telecom': { 'code': '226',
                                             'domestic': [ 'fixed-line connections stand at less than 1 per 100 persons',
-                                                          'mobile-cellular usage 100 per 100, with multiple providers '
-                                                          'there is competition and the hope for growth from a low '
-                                                          'base',
-                                                          'Internet penetration is 11% countrywide, but higher in '
-                                                          'urban areas',
-                                                          2019],
+                                                          'mobile-cellular usage nearly 106 per 100, with multiple '
+                                                          'providers there is competition and the hope for growth from '
+                                                          'a low base',
+                                                          'Internet penetration is 16%',
+                                                          2020],
                                             'general': [ "Burkina Faso's telecom services are some of the most "
                                                          'expensive in the world, hindered by regulatory procedures, '
                                                          'insufficient mobile spectrum, poor fixed-line networks',
@@ -2322,7 +2311,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 3158834},
+                               'users_internet': 5460000},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/burkina-faso/page-data.json',
                     'name': 'Burkina Faso',
                     'stan': 'BFA',
@@ -2355,11 +2344,11 @@ WORLD_FB = \
                         'ports': {'seaport': 'Mawlamyine (Moulmein), Sittwe'},
                         'region': ['Southeast Asia'],
                         'subs_broadband': 129050,
-                        'subs_fixed': 544283,
-                        'subs_mobile': 63877526,
+                        'subs_fixed': 520863,
+                        'subs_mobile': 61143964,
                         'telecom': { 'code': '95',
-                                     'domestic': [ 'fixed-line is 1 per 100, while mobile-cellular is 114 per 100 and '
-                                                   'shows great potential for the future',
+                                     'domestic': [ 'fixed-line is just under 1 per 100, while mobile-cellular is '
+                                                   'roughly 90 per 100',
                                                    2019],
                                      'general': [ 'Burma, one of the last underdeveloped telecom markets in Asia, saw '
                                                   'growth in mobile and broadband services through foreign competition '
@@ -2395,7 +2384,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 17064985},
+                        'users_internet': 23650000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/burma/page-data.json',
              'name': 'Burma',
              'stan': 'MMR',
@@ -2428,14 +2417,14 @@ WORLD_FB = \
                           'population': 12241065,
                           'ports': {},
                           'region': ['Africa'],
-                          'subs_broadband': 3891,
-                          'subs_fixed': 20936,
-                          'subs_mobile': 6532039,
+                          'subs_broadband': 4230,
+                          'subs_fixed': 18300,
+                          'subs_mobile': 6631154,
                           'telecom': { 'code': '257',
                                        'domestic': [ 'telephone density one of the lowest in the world',
-                                                     'fixed-line connections stand at well less than 1 per 100 persons',
-                                                     'mobile-cellular usage is 58 per 100 persons',
-                                                     2019],
+                                                     'fixed-line connections stand at less than 1 per 100 persons',
+                                                     'mobile-cellular usage is about 56 per 100 persons',
+                                                     2020],
                                        'general': [ "Burundi's high population density and low telecom penetration "
                                                     'rates make it an attractive market for investors',
                                                     'mobile operators have launched 3G and LTE to meet the demand for '
@@ -2444,7 +2433,7 @@ WORLD_FB = \
                                                     'government/World Bank joint project to build a national broadband '
                                                     'backbone connecting to submarine cable landings in Kenya and '
                                                     'Tanzania',
-                                                    'government launched e-health project (2021)',
+                                                    'government launched e-health project',
                                                     2020],
                                        'intl': [ 'satellite earth station - 1 Intelsat (Indian Ocean)',
                                                  'the government, supported by the Word Bank, has backed a joint '
@@ -2465,7 +2454,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 298684},
+                          'users_internet': 1610000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/burundi/page-data.json',
                'name': 'Burundi',
                'stan': 'BDI',
@@ -2489,16 +2478,17 @@ WORLD_FB = \
                              'population': 589451,
                              'ports': {'seaport': 'Porto Grande'},
                              'region': ['Africa'],
-                             'subs_broadband': 19066,
-                             'subs_fixed': 57511,
-                             'subs_mobile': 595681,
+                             'subs_broadband': 24839,
+                             'subs_fixed': 57668,
+                             'subs_mobile': 544729,
                              'telecom': { 'code': '238',
-                                          'domestic': [ '11 per 100 fixed-line and 108 per 100 mobile-cellular',
+                                          'domestic': [ 'a little over 10 per 100 fixed-line teledensity and nearly 98 '
+                                                        'per 100 mobile-cellular',
                                                         'fiber-optic ring, completed in 2001, links all islands '
                                                         'providing Internet access and ISDN services',
                                                         'cellular service introduced in 1998',
                                                         'broadband services launched early in the decade',
-                                                        2019],
+                                                        2020],
                                           'general': [ 'LTE reaches almost 40% of the population',
                                                        'regulator awards commercial 4G licenses and starts 5G pilot',
                                                        'govt. extends USD 25 million for submarine fiber-optic cable '
@@ -2526,7 +2516,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 330623},
+                             'users_internet': 346000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cabo-verde/page-data.json',
                   'name': 'Cabo Verde',
                   'stan': 'CPV',
@@ -2550,15 +2540,14 @@ WORLD_FB = \
                            'population': 17304363,
                            'ports': {'seaport': 'Sihanoukville (Kampong Saom)'},
                            'region': ['Southeast Asia'],
-                           'subs_broadband': 184379,
+                           'subs_broadband': 713845,
                            'subs_fixed': 56445,
                            'subs_mobile': 21418681,
                            'telecom': { 'code': '855',
-                                        'domestic': [ 'fixed-line connections stand at about 1 per 100 persons and '
-                                                      'declining',
+                                        'domestic': [ 'fixed-line connections stand at less than 1 per 100 persons',
                                                       'mobile-cellular usage, aided by competition among service '
-                                                      'providers, has increased to about 130 per 100 persons',
-                                                      2019],
+                                                      'providers, is about 130 per 100 persons',
+                                                      2020],
                                         'general': [ "Cambodia's telecom infrastructure struggles with poor "
                                                      'infrastructure and power outages',
                                                      'improvement through competition and foreign investment',
@@ -2567,8 +2556,7 @@ WORLD_FB = \
                                                      'government and operators preparing for 5G services through '
                                                      "Huawei's infrastructure that will drive mobile broadband through "
                                                      'faster speeds',
-                                                     'online Internet content subject to government restrictions '
-                                                     '(2021)',
+                                                     'online Internet content subject to government restrictions',
                                                      2020],
                                         'intl': [ 'landing points for MCT and AAE-1 via submarine cables providing '
                                                   'communication to Asia, the Middle East, Europe and Africa',
@@ -2588,7 +2576,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 6579808},
+                           'users_internet': 8860000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cambodia/page-data.json',
                 'name': 'Cambodia',
                 'stan': 'KHM',
@@ -2618,14 +2606,15 @@ WORLD_FB = \
                            'population': 28524175,
                            'ports': {},
                            'region': ['Africa'],
-                           'subs_broadband': 400929,
-                           'subs_fixed': 856411,
-                           'subs_mobile': 21400736,
+                           'subs_broadband': 713845,
+                           'subs_fixed': 883015,
+                           'subs_mobile': 25245134,
                            'telecom': { 'code': '237',
-                                        'domestic': [ 'only about 4 per 100 persons for fixed-line subscriptions',
+                                        'domestic': [ 'only a little above 3 per 100 persons for fixed-line '
+                                                      'subscriptions',
                                                       'mobile-cellular usage has increased sharply, reaching a '
-                                                      'subscribership base of over 82 per 100 persons',
-                                                      2019],
+                                                      'subscribership base of roughly 95 per 100 persons',
+                                                      2020],
                                         'general': [ "Cameroon's 3G and LTE services are improving through growing "
                                                      'competition and a government program to improve national '
                                                      'connectivity and support digital economy',
@@ -2638,7 +2627,7 @@ WORLD_FB = \
                                                      'operators opened new data center in 2020 and developed contracts '
                                                      'for satellite broadband',
                                                      'government awarded contract to provide connectivity to '
-                                                     'universities (2021)',
+                                                     'universities',
                                                      2020],
                                         'intl': [ 'landing points for the SAT-3/WASC, SAIL, ACE, NCSCS, Ceiba-2, and '
                                                   'WACS fiber-optic submarine cable that provides connectivity to '
@@ -2659,7 +2648,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 6089200},
+                           'users_internet': 9150000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cameroon/page-data.json',
                 'name': 'Cameroon',
                 'stan': 'CMR',
@@ -2681,16 +2670,14 @@ WORLD_FB = \
                          'ports': { 'container': 'Montreal (1,745,244), Vancouver (3,398,860) (2019)',
                                     'seaport': 'Halifax, Saint John (New Brunswick), Vancouver'},
                          'region': ['North America'],
-                         'subs_broadband': 15273496,
-                         'subs_fixed': 13267000,
-                         'subs_mobile': 34366950,
+                         'subs_broadband': 15776602,
+                         'subs_fixed': 13926000,
+                         'subs_mobile': 36093021,
                          'telecom': { 'code': '1',
-                                      'domestic': [ '35 per 100 fixed-line',
-                                                    '93 per 100 mobile-cellular',
-                                                    'comparatively low mobile penetration provides further room for '
-                                                    'growth',
+                                      'domestic': [ 'Nearly 37 per 100 fixed-line and 96 per 100 mobile-cellular '
+                                                    'teledensity',
                                                     'domestic satellite system with about 300 earth stations',
-                                                    2019],
+                                                    2020],
                                       'general': [ 'Canada has highly developed, technologically advanced telecom '
                                                    'services',
                                                    'LTE and broadband are nearly universal',
@@ -2705,7 +2692,7 @@ WORLD_FB = \
                                                    'high value in e-commerce transactions',
                                                    'international connections through submarine, terrestrial, and '
                                                    'satellite systems',
-                                                   'importer of broadcasting equipment from China (2021)',
+                                                   'importer of broadcasting equipment from China',
                                                    2020],
                                       'intl': [ 'landing points for the Nunavut Undersea Fiber Optic Network System, '
                                                 'Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 '
@@ -2727,7 +2714,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 33743954},
+                         'users_internet': 35630000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/canada/page-data.json',
               'name': 'Canada',
               'stan': 'CAN',
@@ -2750,13 +2737,14 @@ WORLD_FB = \
                                  'population': 63131,
                                  'ports': {'seaport': 'Cayman Brac, George Town'},
                                  'region': ['Central America and the Caribbean'],
-                                 'subs_broadband': 24535,
-                                 'subs_fixed': 33338,
-                                 'subs_mobile': 92691,
+                                 'subs_broadband': 31232,
+                                 'subs_fixed': 34768,
+                                 'subs_mobile': 96656,
                                  'telecom': { 'code': '1345',
                                               'domestic': [ 'introduction of competition in the mobile-cellular market '
-                                                            'in 2004 boosted subscriptions dramatically',
-                                                            '55 per 100 fixed-line, 153 per 100 mobile-cellular',
+                                                            'in 2004 boosted subscriptions',
+                                                            'nearly 55 per 100 fixed-line and 153 per 100 '
+                                                            'mobile-cellular',
                                                             2019],
                                               'general': [ 'reasonably good overall telephone system with a high '
                                                            'fixed-line teledensity',
@@ -2766,7 +2754,7 @@ WORLD_FB = \
                                                            'GDP',
                                                            'good competition in all sectors promotes advancement in '
                                                            'mobile telephony and data segments',
-                                                           2018],
+                                                           2017],
                                               'intl': [ 'landing points for the Maya-1, Deep Blue Cable, and the '
                                                         'Cayman-Jamaica Fiber System submarine cables that provide '
                                                         'links to the US and parts of Central and South America',
@@ -2787,7 +2775,7 @@ WORLD_FB = \
                                                         'school from home became evident, and received some support '
                                                         'from governments',
                                                         0]},
-                                 'users_internet': 48328},
+                                 'users_internet': 53600},
                       'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cayman-islands/page-data.json',
                       'name': 'Cayman Islands',
                       'stan': 'CYM',
@@ -2805,7 +2793,6 @@ WORLD_FB = \
                                            'boundaries': { 'bord': { 'Cameroon': 901,
                                                                      'Chad': 1556,
                                                                      'Democratic Republic of the Congo': 1747,
-                                                                     'Republic of the Congo': 487,
                                                                      'South Sudan': 1055,
                                                                      'Sudan': 174},
                                                            'len': 5920},
@@ -2828,8 +2815,8 @@ WORLD_FB = \
                                                         'domestic': [ 'very limited telephone service with less than 1 '
                                                                       'fixed-line connection per 100 persons',
                                                                       'with the presence of multiple providers '
-                                                                      'mobile-cellular service has reached 33 per 100 '
-                                                                      'mobile-cellular subscribers',
+                                                                      'mobile-cellular service has reached nearly 34 '
+                                                                      'per 100 mobile-cellular subscribers',
                                                                       'cellular usage is increasing from a low base',
                                                                       'most fixed-line and mobile-cellular telephone '
                                                                       'services are concentrated in Bangui',
@@ -2862,7 +2849,7 @@ WORLD_FB = \
                                                                   'for work and school from home became evident, and '
                                                                   'received some support from governments',
                                                                   0]},
-                                           'users_internet': 249336},
+                                           'users_internet': 557100},
                                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/central-african-republic/page-data.json',
                                 'name': 'Central African Republic',
                                 'stan': 'CAF',
@@ -2891,13 +2878,13 @@ WORLD_FB = \
                                          'local_short': 'Tchad/Tshad'},
                        'population': 17414108,
                        'region': ['Africa'],
-                       'subs_broadband': 68,
-                       'subs_fixed': 6524,
-                       'subs_mobile': 7664839,
+                       'subs_broadband': 0,
+                       'subs_fixed': 5340,
+                       'subs_mobile': 8687151,
                        'telecom': { 'code': '235',
-                                    'domestic': [ 'fixed-line connections less than 1 per 100 persons, with '
-                                                  'mobile-cellular subscribership base of about 48 per 100 persons',
-                                                  2019],
+                                    'domestic': [ 'fixed-line connections less than 1 per 100 persons',
+                                                  'mobile-cellular subscribership base of about 53 per 100 persons',
+                                                  2020],
                                     'general': [ "Chad's inadequate telecom infrastructure, corruption, and high taxes "
                                                  'hinder penetration in fixed, mobile, and Internet sectors',
                                                  'with tax reform, operators are investing in voice and data '
@@ -2905,7 +2892,7 @@ WORLD_FB = \
                                                  'government approved telecom infrastructure upgrade',
                                                  'World Bank-funded Central African Backbone (CAB) project',
                                                  'Trans-Saharan Backbone project will link a fiber cable to Nigeria '
-                                                 'and Algeria (2021)',
+                                                 'and Algeria',
                                                  2020],
                                     'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
                                     'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -2921,7 +2908,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 1029153},
+                       'users_internet': 2860000},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/chad/page-data.json',
             'name': 'Chad',
             'stan': 'TCD',
@@ -2952,15 +2939,15 @@ WORLD_FB = \
                                    'seaport': 'Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, '
                                               'Valparaiso'},
                         'region': ['South America'],
-                        'subs_broadband': 3429305,
-                        'subs_fixed': 2750272,
-                        'subs_mobile': 25051668,
+                        'subs_broadband': 3751227,
+                        'subs_fixed': 2567938,
+                        'subs_mobile': 25068249,
                         'telecom': { 'code': '56',
-                                     'domestic': [ 'number of fixed-line connections have stagnated to 15 per 100 in '
-                                                   'recent years as mobile-cellular usage continues to increase, '
-                                                   'reaching 132 telephones per 100 persons',
+                                     'domestic': [ 'number of fixed-line connections have dropped to about 13 per 100 '
+                                                   'in recent years as mobile-cellular usage continues to increase, '
+                                                   'reaching 131 telephones per 100 persons',
                                                    'domestic satellite system with 3 earth stations',
-                                                   2019],
+                                                   2020],
                                      'general': [ "Chile's telecom systems are highly competitive and rapidly evolving",
                                                   'mobile penetration rate is among the highest in South America',
                                                   'deployment of 5G networks expected',
@@ -2973,7 +2960,7 @@ WORLD_FB = \
                                                   "Connectivity for Education 2030' program",
                                                   'submarine cable project to link Chile with New Zealand and '
                                                   'Australia',
-                                                  'importer of broadcasting equipment from USA (2020)',
+                                                  'importer of broadcasting equipment from USA',
                                                   2020],
                                      'intl': [ 'landing points for the Pan-Am, Prat, SAm-1, American Movil-Telxius '
                                                'West Coast Cable, FOS Quellon-Chacabuco, Fibra Optical Austral, SAC '
@@ -2994,7 +2981,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 14757868},
+                        'users_internet': 15780000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/chile/page-data.json',
              'name': 'Chile',
              'stan': 'CHL',
@@ -3036,14 +3023,14 @@ WORLD_FB = \
                                                 'Tianjin (17,264,000) (2019)',
                                    'seaport': 'Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin'},
                         'region': ['Asia'],
-                        'subs_broadband': 449279000,
-                        'subs_fixed': 191033000,
-                        'subs_mobile': 1746238000,
+                        'subs_broadband': 483550000,
+                        'subs_fixed': 181908000,
+                        'subs_mobile': 1696356000,
                         'telecom': { 'code': '86',
-                                     'domestic': [ '13 per 100 fixed line and 120 per 100 mobile-cellular',
+                                     'domestic': [ 'nearly 13 per 100 fixed line and 118 per 100 mobile-cellular',
                                                    'a domestic satellite system with several earth stations has been '
                                                    'in place since 2018',
-                                                   2019],
+                                                   2020],
                                      'general': [ 'China has the largest Internet market in the world with almost all '
                                                   'subscribers accessing Internet through mobile devices',
                                                   'market is driven through government-allied investment',
@@ -3059,7 +3046,7 @@ WORLD_FB = \
                                                   'security, health, and education documents',
                                                   'government controls gateways to global Internet through censorship, '
                                                   'surveillance, and shut-downs',
-                                                  'major exporter of broadcasting equipment world-wide (2021)',
+                                                  'major exporter of broadcasting equipment world-wide',
                                                   2020],
                                      'intl': [ 'landing points for the RJCN, EAC-C2C, TPE, APCN-2, APG, NCP, TEA, '
                                                'SeaMeWe-3, SJC2, Taiwan Strait Express-1, AAE-1, APCN-2, AAG, FEA, '
@@ -3083,7 +3070,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 751886119},
+                        'users_internet': 939800000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/china/page-data.json',
              'name': 'China',
              'stan': 'CHN',
@@ -3117,7 +3104,7 @@ WORLD_FB = \
                                                           'satellite earth station - 1 (Intelsat provides telephone '
                                                           'and telex service)',
                                                           2019]},
-                                   'users_internet': 790},
+                                   'users_internet': 1449},
                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/christmas-island/page-data.json',
                         'name': 'Christmas Island',
                         'stan': 'CXR',
@@ -3211,18 +3198,17 @@ WORLD_FB = \
                                       'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br '
                                                  '/>Pacific Ocean - Buenaventura'},
                            'region': ['South America'],
-                           'subs_broadband': 6949852,
-                           'subs_fixed': 7012306,
-                           'subs_mobile': 66283175,
+                           'subs_broadband': 7764772,
+                           'subs_fixed': 7248026,
+                           'subs_mobile': 67672570,
                            'telecom': { 'code': '57',
                                         'domestic': [ 'fixed-line connections stand at about 14 per 100 persons',
-                                                      'mobile cellular telephone subscribership is about 132 per 100 '
-                                                      'persons',
+                                                      'mobile cellular telephone subscribership is 133 per 100 persons',
                                                       'competition among cellular service providers is resulting in '
                                                       'falling local and international calling rates and contributing '
                                                       'to the steep decline in the market share of fixed-line services',
                                                       'domestic satellite system with 41 earth stations',
-                                                      2019],
+                                                      2020],
                                         'general': [ "Colombia's telecom infrastructure has improved through a "
                                                      'government program of competition to upgrade services based on '
                                                      'LTE and 5G, focusing on infrastructure in small urban centers '
@@ -3230,7 +3216,7 @@ WORLD_FB = \
                                                      'national ICT Plan increased broadband and fiber connectivity',
                                                      'operators testing 5G and completed 20k terrestrial cable '
                                                      'connecting 80% of the country',
-                                                     'benefit due to access to commercial submarine cable (2021)',
+                                                     'benefit due to access to commercial submarine cable',
                                                      2020],
                                         'intl': [ 'landing points for the SAC, Maya-1, SAIT, ACROS, AMX-1, CFX-1, '
                                                   'PCCS, Deep Blue Cable, Globe Net, PAN-AM, SAm-1 submarine cable '
@@ -3253,7 +3239,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 29990017},
+                           'users_internet': 34730000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/colombia/page-data.json',
                 'name': 'Colombia',
                 'stan': 'COL',
@@ -3283,11 +3269,11 @@ WORLD_FB = \
                           'subs_fixed': 7573,
                           'subs_mobile': 472815,
                           'telecom': { 'code': '269',
-                                       'domestic': [ 'fixed-line connections only about 1 per 100 persons',
-                                                     'mobile-cellular usage over 68 per 100 persons',
-                                                     'two companies provide domestic and international mobile service '
+                                       'domestic': [ 'fixed-line connections less than 1 per 100 persons',
+                                                     'mobile-cellular usage about 54 per 100 persons',
+                                                     '2 companies provide domestic and international mobile service '
                                                      'and wireless data',
-                                                     2019],
+                                                     2020],
                                        'general': [ 'Qatar launched a special program for the construction of a '
                                                     'wireless network to inter connect the 3 islands of the '
                                                     'archipelago',
@@ -3311,7 +3297,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 69635},
+                          'users_internet': 74500},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/comoros/page-data.json',
                'name': 'Comoros',
                'stan': 'COM',
@@ -3348,15 +3334,15 @@ WORLD_FB = \
                                                     'population': 105044646,
                                                     'ports': {'seaport': 'Banana'},
                                                     'region': ['Africa'],
-                                                    'subs_broadband': 4620,
-                                                    'subs_mobile': 42166976,
+                                                    'subs_broadband': 11900,
+                                                    'subs_fixed': 0,
+                                                    'subs_mobile': 40798396,
                                                     'telecom': { 'code': '243',
-                                                                 'domestic': [ 'fixed-line connections less than 1 per '
-                                                                               '100 persons',
-                                                                               'given the backdrop of a wholly '
-                                                                               'inadequate fixed-line infrastructure, '
-                                                                               'the use of mobile-cellular services is '
-                                                                               'over 43 per 100 persons',
+                                                                 'domestic': [ 'inadequate fixed-line infrastructure '
+                                                                               'with fixed-line connections less than '
+                                                                               '1 per 100 persons',
+                                                                               'mobile-cellular subscriptions over 45 '
+                                                                               'per 100 persons',
                                                                                2019],
                                                                  'general': [ 'due to decades of conflict and poor '
                                                                               'infrastructure, the Democratic Republic '
@@ -3377,7 +3363,7 @@ WORLD_FB = \
                                                                               'in broadband, fixed, and mobile '
                                                                               'Internet services',
                                                                               'operator added fiber link between '
-                                                                              'Brazzaville and Kinshasa (2021)',
+                                                                              'Brazzaville and Kinshasa',
                                                                               2020],
                                                                  'intl': [ 'ACE and WACS submarine cables to West and '
                                                                            'South Africa and Europe',
@@ -3403,7 +3389,7 @@ WORLD_FB = \
                                                                            'became evident, and received some support '
                                                                            'from governments',
                                                                            0]},
-                                                    'users_internet': 8231357},
+                                                    'users_internet': 21140000},
                                          'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/congo-democratic-republic-of-the/page-data.json',
                                          'name': 'Congo, Democratic Republic of the',
                                          'stan': 'COD',
@@ -3436,14 +3422,14 @@ WORLD_FB = \
                                          'population': 5417414,
                                          'ports': {'seaport': 'Pointe-Noire'},
                                          'region': ['Africa'],
-                                         'subs_fixed': 17076,
-                                         'subs_mobile': 4933529,
+                                         'subs_broadband': 500,
+                                         'subs_fixed': 17000,
+                                         'subs_mobile': 5000000,
                                          'telecom': { 'code': '242',
                                                       'domestic': [ 'fixed-line infrastructure inadequate, providing '
                                                                     'less than 1 fixed-line connection per 100 persons',
-                                                                    'in the absence of an adequate fixed-line '
-                                                                    'infrastructure, mobile-cellular subscribership '
-                                                                    'has surged to 95 per 100 persons',
+                                                                    'mobile-cellular subscribership has surged to '
+                                                                    'nearly 99 per 100 persons',
                                                                     2019],
                                                       'general': [ 'suffering from economic challenges of stimulating '
                                                                    'recovery and reducing poverty',
@@ -3463,7 +3449,7 @@ WORLD_FB = \
                                                                    'fiber network project with aims to connect north '
                                                                    'and south regions',
                                                                    'DRC operator added fiber link between Brazzaville '
-                                                                   'and Kinshasa (2020)',
+                                                                   'and Kinshasa',
                                                                    2020],
                                                       'intl': [ 'WACS submarine cables to Europe and Western and South '
                                                                 'Africa',
@@ -3485,7 +3471,7 @@ WORLD_FB = \
                                                                 'work and school from home became evident, and '
                                                                 'received some support from governments',
                                                                 0]},
-                                         'users_internet': 437865},
+                                         'users_internet': 790000},
                               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/congo-republic-of-the/page-data.json',
                               'name': 'Congo, Republic of the',
                               'stan': 'COG',
@@ -3506,12 +3492,14 @@ WORLD_FB = \
                                'population': 8327,
                                'ports': {'seaport': 'Avatiu'},
                                'region': ['Oceania'],
-                               'subs_fixed': 3305,
-                               'subs_mobile': 7308,
+                               'subs_broadband': 2700,
+                               'subs_fixed': 6576,
+                               'subs_mobile': 14539,
                                'telecom': { 'code': '682',
                                             'domestic': [ 'service is provided by small exchanges connected to '
                                                           'subscribers by open-wire, cable, and fiber-optic cable',
-                                                          '38 per 100 fixed-line, 83 per 100 mobile-cellular',
+                                                          'nearly 38 per 100 fixed-line and about 83 per 100 '
+                                                          'mobile-cellular',
                                                           2019],
                                             'general': [ 'demand for mobile broadband is increasing due to mobile '
                                                          'services being the primary and most wide-spread source for '
@@ -3544,7 +3532,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 4881},
+                               'users_internet': 9487},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cook-islands/page-data.json',
                     'name': 'Cook Islands',
                     'stan': 'COK',
@@ -3595,15 +3583,15 @@ WORLD_FB = \
                              'population': 5151140,
                              'ports': {'seaport': 'Atlantic Ocean (Caribbean) - Puerto Limon'},
                              'region': ['Central America and the Caribbean'],
-                             'subs_broadband': 904734,
-                             'subs_fixed': 640302,
-                             'subs_mobile': 8550243,
+                             'subs_broadband': 992725,
+                             'subs_fixed': 559882,
+                             'subs_mobile': 7512370,
                              'telecom': { 'code': '506',
-                                          'domestic': [ '13 per 100 fixed-line, 162 per 100 mobile-cellular',
+                                          'domestic': [ 'roughly 11 per 100 fixed-line and 148 per 100 mobile-cellular',
                                                         'point-to-point and point-to-multi-point microwave, '
                                                         'fiber-optic, and coaxial cable link rural areas',
                                                         'Internet service is available',
-                                                        2019],
+                                                        2020],
                                           'general': [ 'Costa Rica has broad telecom coverage though geographical '
                                                        'distribution of digital service is unequal',
                                                        'recent regulator liberalization spurred expansion in all '
@@ -3614,7 +3602,7 @@ WORLD_FB = \
                                                        'operators investing in NGN technology',
                                                        'number portability and cheaper broadband costs will increase '
                                                        'competition',
-                                                       'government aims to subsidize tele-health and e-learning (2021)',
+                                                       'government aims to subsidize tele-health and e-learning',
                                                        2018],
                                           'intl': [ 'landing points for the ARCOS-1, MAYA-1, and the PAC submarine '
                                                     'cables that provide links to South and Central America, parts of '
@@ -3636,7 +3624,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 3694974},
+                             'users_internet': 4150000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/costa-rica/page-data.json',
                   'name': 'Costa Rica',
                   'stan': 'CRI',
@@ -3671,14 +3659,15 @@ WORLD_FB = \
                                 'population': 28088455,
                                 'ports': {'seaport': 'Abidjan, San-Pedro'},
                                 'region': ['Africa'],
-                                'subs_broadband': 216723,
-                                'subs_fixed': 271724,
-                                'subs_mobile': 37376603,
+                                'subs_broadband': 260097,
+                                'subs_fixed': 264073,
+                                'subs_mobile': 40095246,
                                 'telecom': { 'code': '225',
-                                             'domestic': [ 'less than 1 per 100 fixed-line, with multiple '
-                                                           'mobile-cellular service providers competing in the market, '
-                                                           'usage has increased to about 145 per 100 persons',
-                                                           2019],
+                                             'domestic': [ '1 per 100 fixed-line teledensity',
+                                                           'with multiple mobile-cellular service providers competing '
+                                                           'in the market, mobile subscriptions have increased to 152 '
+                                                           'per 100 persons',
+                                                           2020],
                                              'general': [ 'C&ocirc',
                                                           "te d'Ivoire telecom systems continue to benefit from strong "
                                                           'economic growth',
@@ -3689,8 +3678,7 @@ WORLD_FB = \
                                                           'submarine cable that will increase Internet bandwidth',
                                                           'country is poised to develop broadband market and digital '
                                                           'economy',
-                                                          'government further tightened SIM card registration rules '
-                                                          '(2020)',
+                                                          'government further tightened SIM card registration rules',
                                                           2020],
                                              'intl': [ 'landing point for the SAT-3/WASC, ACE, MainOne, and WACS '
                                                        'fiber-optic submarine cable that provides connectivity to '
@@ -3712,7 +3700,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 12295204},
+                                'users_internet': 12500000},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cote-divoire/page-data.json',
                      'name': "Cote d'Ivoire",
                      'stan': 'CIV',
@@ -3741,14 +3729,14 @@ WORLD_FB = \
                           'population': 4208973,
                           'ports': {'seaport': 'Ploce, Rijeka, Sibenik, Split'},
                           'region': ['Europe'],
-                          'subs_broadband': 1154773,
-                          'subs_fixed': 1333661,
-                          'subs_mobile': 4404652,
+                          'subs_broadband': 1030973,
+                          'subs_fixed': 1300105,
+                          'subs_mobile': 4375699,
                           'telecom': { 'code': '385',
                                        'domestic': [ 'fixed-line teledensity has dropped somewhat to about 32 per 100 '
                                                      'persons',
-                                                     'mobile-cellular telephone subscriptions 107 per 100',
-                                                     2019],
+                                                     'mobile-cellular telephone subscriptions are about 107 per 100',
+                                                     2020],
                                        'general': [ "Croatia's telecom market improved through partnership with the EU "
                                                     'in 2013, opening a competitive market in mobile and broadband and '
                                                     'conducive regulatory environment',
@@ -3757,7 +3745,7 @@ WORLD_FB = \
                                                     'local lines are digital',
                                                     'international operator investment provides relatively high '
                                                     'broadband penetration',
-                                                    'tests for 5G technologies in 2020 (2020)',
+                                                    'tests for 5G technologies in 2020',
                                                     2020],
                                        'intl': [ 'the ADRIA-1 submarine cable provides connectivity to Albania and '
                                                  'Greece',
@@ -3780,7 +3768,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 3104212},
+                          'users_internet': 3270000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/croatia/page-data.json',
                'name': 'Croatia',
                'stan': 'HRV',
@@ -3805,24 +3793,31 @@ WORLD_FB = \
                        'ports': { 'seaport': 'Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, '
                                              'Santiago de Cuba'},
                        'region': ['Central America and the Caribbean'],
-                       'subs_broadband': 182732,
-                       'subs_fixed': 1447134,
-                       'subs_mobile': 6042629,
-                       'telecom': { 'domestic': [ 'fixed-line density remains low at about 13 per 100 inhabitants',
-                                                  'mobile-cellular service is expanding to about 53 per 100 persons',
-                                                  2019],
-                                    'general': [ 'state control of the telecom sector hinders development',
+                       'subs_broadband': 231654,
+                       'subs_fixed': 1502230,
+                       'subs_mobile': 6661763,
+                       'telecom': { 'domestic': [ 'fixed-line density remains low at a little over 13 per 100 '
+                                                  'inhabitants',
+                                                  'mobile-cellular service has expanded to about 59 per 100 persons',
+                                                  2020],
+                                    'general': [ 'internet availability has increased substantially over the past few '
+                                                 'years, but only about 64 percent of Cubans have Internet access, and '
+                                                 'even fewer Cubans--about 60 percent of the population--have access '
+                                                 'to cell phone service',
+                                                 'in 2021 the Cuban Government passed a decree that strengthened its '
+                                                 'authority to censor Internet and telephonic communications',
+                                                 'state control of the telecom sector hinders development',
                                                  'Cuba has the lowest mobile phone and Internet penetration rates in '
                                                  'the region',
                                                  'fixed-line density is also very low',
                                                  'thaw of US-Cuba relations encouraged access to services, such as '
                                                  'Wi-Fi hotspots',
                                                  'access to sites is controlled and censored',
-                                                 'DSL and Internet available in Havana, though costs are too high for '
-                                                 'most Cubans',
+                                                 'DSL and Internet are available in Havana, though costs are too high '
+                                                 'for most Cubans',
                                                  'international investment and agreement to improve Internet access '
-                                                 'through cost-free and direct connection between networks (2021)',
-                                                 2020],
+                                                 'through cost-free and direct connection between networks',
+                                                 2021],
                                     'intl': [2019],
                                     'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                               'production and supply chains globally',
@@ -3837,7 +3832,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 6353020},
+                       'users_internet': 7700000},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cuba/page-data.json',
             'name': 'Cuba',
             'stan': 'CUB',
@@ -3864,12 +3859,12 @@ WORLD_FB = \
                           'subs_broadband': 53297,
                           'subs_fixed': 53500,
                           'subs_mobile': 184236,
-                          'telecom': { 'domestic': [ '39 per 100 users for fixed-line and 116 per 100 users for '
-                                                     'cellular-mobile, majority of the islanders have Internet',
+                          'telecom': { 'domestic': [ 'roughly 33 per 100 users for fixed-line and 113 per 100 users '
+                                                     'for cellular-mobile, majority of the islanders have Internet',
                                                      'market revenue has been affected in recent quarters as a result '
                                                      'of competition and regulatory measures on termination rates and '
                                                      'roaming tariffs',
-                                                     2020],
+                                                     2019],
                                        'general': [ 'fully automatic modern telecommunications system',
                                                     'telecom sector across the Caribbean region continues to be one of '
                                                     'the growth areas',
@@ -3894,7 +3889,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 102359},
+                          'users_internet': 112000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/curacao/page-data.json',
                'name': 'Curacao',
                'stan': '',
@@ -3922,13 +3917,14 @@ WORLD_FB = \
                          'population': 1281506,
                          'ports': {'seaport': 'area under government control: Larnaca, Limassol, Vasilikos'},
                          'region': ['Middle East'],
-                         'subs_broadband': 326565,
-                         'subs_fixed': 323914,
-                         'subs_mobile': 1243151,
+                         'subs_broadband': 332080,
+                         'subs_fixed': 311439,
+                         'subs_mobile': 1230706,
                          'telecom': { 'code': '357',
-                                      'domestic': [ 'fixed-line is 37 per 100, and 144 per 100 for mobile-cellular',
+                                      'domestic': [ 'fixed-line about 35 per 100 and about 139 per 100 for '
+                                                    'mobile-cellular teledensity',
                                                     'open-wire, fiber-optic cable, and microwave radio relay',
-                                                    2019],
+                                                    2020],
                                       'general': [ "despite the growth of Cyprus's telecom sector, the market is "
                                                    'dominated by its state-owned operator',
                                                    'one of the highest broadband penetration rates in the region',
@@ -3944,7 +3940,7 @@ WORLD_FB = \
                                                    'operator signed vendor agreement with international investor, '
                                                    'Huawei, to develop 5G',
                                                    'operators extended LTE services and upgraded transmission capacity '
-                                                   'on TE-North Cable System (2021)',
+                                                   'on TE-North Cable System',
                                                    2020],
                                       'intl': [ '(area administered by Turkish Cypriots uses the country code of '
                                                 'Turkey - 90)',
@@ -3972,7 +3968,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 1044473},
+                         'users_internet': 1040000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cyprus/page-data.json',
               'name': 'Cyprus',
               'stan': 'CYP',
@@ -3997,14 +3993,13 @@ WORLD_FB = \
                           'population': 10702596,
                           'ports': {},
                           'region': ['Europe'],
-                          'subs_broadband': 3739614,
-                          'subs_fixed': 1494175,
-                          'subs_mobile': 13213279,
+                          'subs_broadband': 3802644,
+                          'subs_fixed': 1316316,
+                          'subs_mobile': 12999353,
                           'telecom': { 'code': '420',
-                                       'domestic': [ '14 per 100 fixed-line and mobile telephone usage increased to '
-                                                     '124 per 100 mobile-cellular, the number of cellular telephone '
-                                                     'subscriptions now greatly exceeds the population',
-                                                     2019],
+                                       'domestic': [ 'roughly 12 fixed-telephone subscriptions per 100 inhabitants and '
+                                                     'mobile telephone usage of about 121 per 100 inhabitants',
+                                                     2020],
                                        'general': [ 'Czechia has a sophisticated telecom market with a developed '
                                                     'telephone and Internet service attracting European investment',
                                                     'mobile sector showing steady growth through regulatory support '
@@ -4013,7 +4008,7 @@ WORLD_FB = \
                                                     'mobile penetration among the highest in the EU',
                                                     'operators extended fiber to an additional 143 rural zones in 2020 '
                                                     'and commit to extending fiber to one million premises by 2027',
-                                                    'its top import is broadcasting equipment from China (2021)',
+                                                    'its top import is broadcasting equipment from China',
                                                     2020],
                                        'intl': [ 'satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian '
                                                  'Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar)',
@@ -4031,7 +4026,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 8622750},
+                          'users_internet': 9430000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/czechia/page-data.json',
                'name': 'Czechia',
                'stan': 'CZE',
@@ -4060,11 +4055,13 @@ WORLD_FB = \
                           'population': 5894687,
                           'ports': {'seaport': 'Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg'},
                           'region': ['Europe'],
-                          'subs_broadband': 2536508,
-                          'subs_fixed': 1003524,
-                          'subs_mobile': 7243465,
+                          'subs_broadband': 2571736,
+                          'subs_fixed': 937469,
+                          'subs_mobile': 7144123,
                           'telecom': { 'code': '45',
-                                       'domestic': ['fixed-line 17 per 100, 126 per 100 for mobile-cellular', 2019],
+                                       'domestic': [ 'fixed-line roughly 16 per 100 and about 123 per 100 for '
+                                                     'mobile-cellular subscriptions',
+                                                     2020],
                                        'general': [ 'Denmark has one of the highest broadband penetration rates '
                                                     'globally, with near universal availability of superfast '
                                                     'connections',
@@ -4075,7 +4072,7 @@ WORLD_FB = \
                                                     'operator expands NB-IoT across its LTE network',
                                                     'survey underway for cable connecting Denmark to Norway',
                                                     'upgrades to submarine cable connection to North America',
-                                                    'importer of broadcasting equipment from EU neighbors (2021)',
+                                                    'importer of broadcasting equipment from EU neighbors',
                                                     2020],
                                        'intl': [ 'landing points for the NSC, COBRAcable, CANTAT-3, DANICE, '
                                                  'Havfrue/AEC-2, TAT-14m Denmark-Norway-5 & 6, Skagenfiber West & '
@@ -4105,7 +4102,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 5672398},
+                          'users_internet': 5690000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/denmark/page-data.json',
                'name': 'Denmark',
                'stan': 'DNK',
@@ -4145,8 +4142,9 @@ WORLD_FB = \
                            'coord': ['11 30 N, 43 00 E'],
                            'country_name': { 'conv_long': 'Republic of Djibouti',
                                              'conv_short': 'Djibouti',
-                                             'local_long': 'Republique de Djibouti/Jumhuriyat Jibuti',
-                                             'local_short': 'Djibouti/Jibuti'},
+                                             'local_long': 'Republique de Djibouti (French), Jumhuriyat Jibuti '
+                                                           '(Arabic)',
+                                             'local_short': 'Djibouti (French), Jibuti (Arabic)'},
                            'population': 938413,
                            'ports': {'seaport': 'Djibouti'},
                            'region': ['Africa'],
@@ -4154,7 +4152,8 @@ WORLD_FB = \
                            'subs_fixed': 38866,
                            'subs_mobile': 434035,
                            'telecom': { 'code': '253',
-                                        'domestic': [ '4 per 100 fixed-line and 41 per 100 mobile-cellular',
+                                        'domestic': [ 'about 4 per 100 fixed-line teledensity and nearly 44 per 100 '
+                                                      'mobile-cellular',
                                                       'Djibouti Telecom (DT) is the sole provider of '
                                                       'telecommunications services and utilizes mostly a microwave '
                                                       'radio relay network',
@@ -4162,7 +4161,7 @@ WORLD_FB = \
                                                       'rural areas connected via wireless local loop radio systems',
                                                       'mobile cellular coverage is primarily limited to the area in '
                                                       'and around Djibouti city',
-                                                      2019],
+                                                      2020],
                                         'general': [ 'Djibouti has a poor domestic infrastructure and a monopolized '
                                                      'telecom system relying on microwave radio relay',
                                                      'rural areas connected via wireless local loop',
@@ -4175,7 +4174,7 @@ WORLD_FB = \
                                                      'national operator managed the Australia West Cable landing and '
                                                      'signed an agreement for IP traffic through Paris and Marseille',
                                                      'international operator signed MoU for extension of cable from '
-                                                     'the Gulf to Djibouti (2021)',
+                                                     'the Gulf to Djibouti',
                                                      2020],
                                         'intl': [ 'landing points for the SEA-ME-WE-3 & 5, EASSy, Aden-Djibouti, '
                                                   'Africa-1, DARE-1, EIG, MENA, Bridge International, PEACE Cable, and '
@@ -4198,7 +4197,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 492221},
+                           'users_internet': 554300},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/djibouti/page-data.json',
                 'name': 'Djibouti',
                 'stan': 'DJI',
@@ -4220,14 +4219,14 @@ WORLD_FB = \
                            'ports': {'seaport': 'Portsmouth, Roseau'},
                            'region': ['Central America and the Caribbean'],
                            'subs_broadband': 11514,
-                           'subs_fixed': 2751,
-                           'subs_mobile': 78437,
+                           'subs_fixed': 2660,
+                           'subs_mobile': 75771,
                            'telecom': { 'code': '1767',
                                         'domestic': [ 'fixed-line connections continue to decline slowly with only two '
                                                       'active operators providing about 4 fixed-line connections per '
                                                       '100 persons',
                                                       'subscribership among the three mobile-cellular providers is '
-                                                      'about 106 per 100 persons',
+                                                      'about 105 per 100 persons',
                                                       2019],
                                         'general': [ 'fully automatic network',
                                                      'there are multiple competing operators licensed to provide '
@@ -4257,7 +4256,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 51538},
+                           'users_internet': 50200},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/dominica/page-data.json',
                 'name': 'Dominica',
                 'stan': 'DMA',
@@ -4283,14 +4282,14 @@ WORLD_FB = \
                                      'population': 10597348,
                                      'ports': {'seaport': 'Puerto Haina, Puerto Plata, Santo Domingo'},
                                      'region': ['Central America and the Caribbean'],
-                                     'subs_broadband': 951970,
-                                     'subs_fixed': 1211081,
-                                     'subs_mobile': 8948107,
+                                     'subs_broadband': 1031858,
+                                     'subs_fixed': 1155493,
+                                     'subs_mobile': 8989587,
                                      'telecom': { 'code': '1809',
                                                   'domestic': [ 'fixed-line teledensity is about 11 per 100 persons',
                                                                 'multiple providers of mobile-cellular service with a '
-                                                                'subscribership of 83 per 100 persons',
-                                                                2019],
+                                                                'subscribership of nearly 83 per 100 persons',
+                                                                2020],
                                                   'general': [ "the Dominican Republic's fixed-line tele-density is "
                                                                'well below the Latin American average due to lack of '
                                                                'infrastructure',
@@ -4302,7 +4301,7 @@ WORLD_FB = \
                                                                'government program aims for universal access to '
                                                                'broadband services, and development of a national '
                                                                'backbone',
-                                                               '5G launch anticipated in 2021 (2021)',
+                                                               '5G launch anticipated in 2021',
                                                                2020],
                                                   'intl': [ '1-829',
                                                             '1-849',
@@ -4327,7 +4326,7 @@ WORLD_FB = \
                                                             'and school from home became evident, and received some '
                                                             'support from governments',
                                                             0]},
-                                     'users_internet': 7705529},
+                                     'users_internet': 8160000},
                           'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/dominican-republic/page-data.json',
                           'name': 'Dominican Republic',
                           'stan': 'DOM',
@@ -4355,15 +4354,14 @@ WORLD_FB = \
                           'ports': { 'container': 'Guayaquil (1,680,751) (2019)',
                                      'seaport': 'Esmeraldas, Manta, Puerto Bolivar'},
                           'region': ['South America'],
-                          'subs_broadband': 2092458,
-                          'subs_fixed': 2195840,
-                          'subs_mobile': 15853100,
+                          'subs_broadband': 2346923,
+                          'subs_fixed': 2063044,
+                          'subs_mobile': 15485366,
                           'telecom': { 'code': '593',
                                        'domestic': [ 'fixed-line services with digital networks provided by multiple '
                                                      'telecommunications operators',
-                                                     'fixed-line teledensity stands at about 13 per 100 persons and '
-                                                     'mobile-cellular use has surged and subscribership has reached 91 '
-                                                     'per 100 persons',
+                                                     'fixed-line teledensity stands at about 12 per 100 persons and '
+                                                     'mobile-cellular use nearly 88 per 100 persons',
                                                      2019],
                                        'general': [ "Ecuador's remote and mountainous geography lends challenges to "
                                                     'tele-density',
@@ -4373,7 +4371,7 @@ WORLD_FB = \
                                                     'small telecom market dominated by the non-competitive mobile '
                                                     'sector',
                                                     'inadequate fixed-line infrastructure and slowed fixed-line '
-                                                    'broadband services (2021)',
+                                                    'broadband services',
                                                     2020],
                                        'intl': [ 'landing points for the PAN-AM, PCCS, America Movil-Telxius West '
                                                  'Coast Cable and SAm-1 submarine cables that provide links to South '
@@ -4394,7 +4392,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 9448692},
+                          'users_internet': 10170000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/ecuador/page-data.json',
                'name': 'Ecuador',
                'stan': 'ECU',
@@ -4420,11 +4418,11 @@ WORLD_FB = \
                         'ports': { 'container': 'Port Said (East) (3,816,084) (2019)',
                                    'seaport': 'Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said'},
                         'region': ['Africa'],
-                        'subs_broadband': 7598941,
-                        'subs_fixed': 8760436,
-                        'subs_mobile': 95340262,
+                        'subs_broadband': 9349469,
+                        'subs_fixed': 9858331,
+                        'subs_mobile': 95357427,
                         'telecom': { 'code': '20',
-                                     'domestic': ['fixed-line 9 per 100, mobile-cellular 95 per 100', 2019],
+                                     'domestic': ['fixed-line roughly 10 per 100, mobile-cellular 93 per 100', 2020],
                                      'general': [ 'with a large urbanized population and effective competition, Egypt '
                                                   'has one of the largest fixed-line and mobile telecom markets in '
                                                   'North Africa',
@@ -4436,7 +4434,7 @@ WORLD_FB = \
                                                   'fiber and cable connection to Europe, Middle East, and Asia',
                                                   'rural Internet connections continue to suffer from poor quality and '
                                                   'low speeds',
-                                                  'government disrupted service during political crises (2021)',
+                                                  'government disrupted service during political crises',
                                                   2020],
                                      'intl': [ 'landing points for Aletar, Africa-1, FEA, Hawk, IMEWE, and the '
                                                'SEA-ME-WE-3 & 4 submarine cable networks linking to Asia, Africa, the '
@@ -4460,7 +4458,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 46644728},
+                        'users_internet': 59190000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/egypt/page-data.json',
              'name': 'Egypt',
              'stan': 'EGY',
@@ -4484,19 +4482,20 @@ WORLD_FB = \
                               'population': 6528135,
                               'ports': {'seaport': 'Puerto Cutuco'},
                               'region': ['Central America and the Caribbean'],
-                              'subs_broadband': 492265,
-                              'subs_fixed': 882498,
-                              'subs_mobile': 9442667,
+                              'subs_broadband': 525088,
+                              'subs_fixed': 893630,
+                              'subs_mobile': 10396786,
                               'telecom': { 'code': '503',
-                                           'domestic': [ 'growth in fixed-line services 14 per 100, has slowed in the '
-                                                         'face of mobile-cellular competition at 147 per 100',
+                                           'domestic': [ 'fixed-line services, roughly 14 per 100, has slowed in the '
+                                                         'face of mobile-cellular competition now at 161 subscribers '
+                                                         'per 100 inhabitants',
                                                          2019],
                                            'general': [ "El Salvador's telecom sector is challenged by low population, "
                                                         'poor infrastructure, and unequal income distribution '
                                                         'compounded by corruption and criminal influence',
                                                         'liberal regulation promotes mobile penetration in replacement '
                                                         'of fixed-line density',
-                                                        'operators testing 5G in 2020 (2020)',
+                                                        'operators testing 5G in 2020',
                                                         2020],
                                            'intl': [ 'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                      'connected to Central American Microwave System',
@@ -4515,7 +4514,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 2153776},
+                              'users_internet': 3280000},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/el-salvador/page-data.json',
                    'name': 'El Salvador',
                    'stan': 'SLV',
@@ -4545,11 +4544,11 @@ WORLD_FB = \
                                     'ports': {'seaport': 'Bata, Luba, Malabo'},
                                     'region': ['Africa'],
                                     'subs_broadband': 1620,
-                                    'subs_fixed': 6779,
-                                    'subs_mobile': 368920,
+                                    'subs_fixed': 10848,
+                                    'subs_mobile': 591223,
                                     'telecom': { 'code': '240',
-                                                 'domestic': [ 'fixed-line density is about 1 per 100 persons and '
-                                                               'mobile-cellular subscribership is 45 per 100',
+                                                 'domestic': [ 'fixed-line density is less than 1 per 100 persons and '
+                                                               'mobile-cellular subscribership is roughly 45 per 100',
                                                                2019],
                                                  'general': [ "Equatorial Guinea's climate for operator competition "
                                                               'boosted mobile subscribership',
@@ -4558,7 +4557,7 @@ WORLD_FB = \
                                                               'infrastructure',
                                                               'government backbone network will connect administrative '
                                                               'centers',
-                                                              'regional roaming agreement in process (2021)',
+                                                              'regional roaming agreement in process',
                                                               2018],
                                                  'intl': [ 'landing points for the ACE, Ceiba-1, and Ceiba-2 submarine '
                                                            'cables providing communication from Bata and Malabo, '
@@ -4581,7 +4580,7 @@ WORLD_FB = \
                                                            'and school from home became evident, and received some '
                                                            'support from governments',
                                                            0]},
-                                    'users_internet': 209253},
+                                    'users_internet': 374200},
                          'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/equatorial-guinea/page-data.json',
                          'name': 'Equatorial Guinea',
                          'stan': 'GNQ',
@@ -4609,8 +4608,8 @@ WORLD_FB = \
                           'subs_fixed': 66170,
                           'subs_mobile': 695000,
                           'telecom': { 'code': '291',
-                                       'domestic': [ 'fixed-line subscribership is less than 2 per 100 person and '
-                                                     'mobile-cellular 20 per 100',
+                                       'domestic': [ 'fixed-line subscribership is less than 2 per 100 persons and '
+                                                     'mobile-cellular is just over 20 per 100',
                                                      2019],
                                        'general': [ 'least developed telecommunications market in Africa, largely due '
                                                     'to restrictions of state-owned telecom monopoly',
@@ -4621,7 +4620,7 @@ WORLD_FB = \
                                                     'market ripe for competition and investment',
                                                     'direct phone service between Eritrea and Ethiopia restored in '
                                                     'September 2018',
-                                                    'government operator working on roll-out of 3G network (2020)',
+                                                    'government operator working on roll-out of 3G network',
                                                     2020],
                                        'intl': [2019],
                                        'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -4637,7 +4636,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 78215},
+                          'users_internet': 248200},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/eritrea/page-data.json',
                'name': 'Eritrea',
                'stan': 'ERI',
@@ -4664,11 +4663,12 @@ WORLD_FB = \
                           'population': 1220042,
                           'ports': {'seaport': 'Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn'},
                           'region': ['Europe'],
-                          'subs_broadband': 431251,
-                          'subs_fixed': 324388,
-                          'subs_mobile': 1951051,
+                          'subs_broadband': 415610,
+                          'subs_fixed': 304728,
+                          'subs_mobile': 1925789,
                           'telecom': { 'code': '372',
-                                       'domestic': [ '25 per 100 for fixed-line and 147 per 100 for mobile-cellular',
+                                       'domestic': [ 'just under 23 per 100 for fixed-line subscribership and '
+                                                     'approximately 145 per 100 for mobile-cellular',
                                                      'substantial fiber-optic cable systems carry telephone, TV, and '
                                                      'radio traffic in the digital mode',
                                                      'Internet services are widely available',
@@ -4677,7 +4677,7 @@ WORLD_FB = \
                                                      'and online voting - in local and parliamentary elections - has '
                                                      'climbed steadily since first being introduced in 2005',
                                                      'a large percent of Estonian households have broadband access',
-                                                     2019],
+                                                     2020],
                                        'general': [ 'greatly improved telecom service through a range of regulatory '
                                                     'measures, competition, and foreign investment, leading to '
                                                     'high-quality voice, data, and Internet services',
@@ -4687,7 +4687,7 @@ WORLD_FB = \
                                                     'operators supporting LTE infrastructure and launch of smart '
                                                     'services',
                                                     '5G services in major cities',
-                                                    'government provides Internet to schools and libraries (2021)',
+                                                    'government provides Internet to schools and libraries',
                                                     2020],
                                        'intl': [ 'landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, '
                                                  'FEC and EESF-2 fiber-optic submarine cables to other Estonia points, '
@@ -4707,7 +4707,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1111896},
+                          'users_internet': 1210000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/estonia/page-data.json',
                'name': 'Estonia',
                'stan': 'EST',
@@ -4733,15 +4733,15 @@ WORLD_FB = \
                                              'local_short': 'eSwatini'},
                            'population': 1113276,
                            'region': ['Africa'],
-                           'subs_broadband': 7000,
-                           'subs_fixed': 40003,
-                           'subs_mobile': 1025061,
+                           'subs_broadband': 8000,
+                           'subs_fixed': 41000,
+                           'subs_mobile': 1052000,
                            'telecom': { 'code': '268',
                                         'domestic': [ 'Eswatini has 2 mobile-cellular providers',
                                                       'communication infrastructure has a geographic coverage of about '
                                                       '90% and a rising subscriber base',
-                                                      'fixed-line stands at 4 per 100 and mobile-cellular teledensity '
-                                                      'roughly 94 telephones per 100 persons',
+                                                      'fixed-line stands at nearly 4 per 100 and mobile-cellular '
+                                                      'teledensity roughly 94 telephones per 100 persons',
                                                       'telephone system consists of carrier-equipped, open-wire lines '
                                                       'and low-capacity, microwave radio relay',
                                                       2019],
@@ -4755,7 +4755,7 @@ WORLD_FB = \
                                                      'bandwidth',
                                                      'operator completed terrestrial cable linking Maputo through '
                                                      'Eswatini to Johannesburg',
-                                                     'importer of broadcasting equipment from South Africa (2020)',
+                                                     'importer of broadcasting equipment from South Africa',
                                                      2019],
                                         'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
                                         'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -4772,7 +4772,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 510984},
+                           'users_internet': 548100},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/eswatini/page-data.json',
                 'name': 'Eswatini',
                 'stan': 'SWZ',
@@ -4807,11 +4807,11 @@ WORLD_FB = \
                            'ports': {},
                            'region': ['Africa'],
                            'subs_broadband': 62950,
-                           'subs_fixed': 1181000,
-                           'subs_mobile': 39600000,
+                           'subs_fixed': 1140000,
+                           'subs_mobile': 39540000,
                            'telecom': { 'code': '251',
-                                        'domestic': [ 'fixed-line subscriptions at 1 per 100 while mobile-cellular '
-                                                      'stands at 36 per 100',
+                                        'domestic': [ 'fixed-line subscriptions at about 1 per 100 while '
+                                                      'mobile-cellular stands at a little over 37 per 100',
                                                       'the number of mobile telephones is increasing steadily',
                                                       2019],
                                         'general': [ 'telecom market challenged by political factionalism and '
@@ -4829,7 +4829,7 @@ WORLD_FB = \
                                                      'Huawei provides infrastructure to government operator and built '
                                                      'data center in Addis Ababa',
                                                      'government disrupted service during political crises',
-                                                     'importer of broadcasting equipment from China (2020)',
+                                                     'importer of broadcasting equipment from China',
                                                      2020],
                                         'intl': [ 'open-wire to Sudan and Djibouti',
                                                   'microwave radio relay to Kenya and Djibouti',
@@ -4851,7 +4851,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 19118470},
+                           'users_internet': 23960000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/ethiopia/page-data.json',
                 'name': 'Ethiopia',
                 'stan': 'ETH',
@@ -4891,12 +4891,13 @@ WORLD_FB = \
                                                     'population': 3198,
                                                     'ports': {'seaport': 'Stanley'},
                                                     'region': ['South America'],
-                                                    'subs_broadband': 1610,
-                                                    'subs_fixed': 2255,
-                                                    'subs_mobile': 4674,
+                                                    'subs_broadband': 1000,
+                                                    'subs_fixed': 2000,
+                                                    'subs_mobile': 5000,
                                                     'telecom': { 'code': '500',
-                                                                 'domestic': [ 'fixed-line subscriptions 77 per 100, '
-                                                                               '146 per 100 for mobile-cellular',
+                                                                 'domestic': [ 'fixed-line subscriptions approximately '
+                                                                               '65 per 100, 163 per 100 for '
+                                                                               'mobile-cellular',
                                                                                2019],
                                                                  'general': [ 'government-operated radiotelephone and '
                                                                               'private VHF/CB radiotelephone networks '
@@ -4907,7 +4908,7 @@ WORLD_FB = \
                                                                            '(Atlantic Ocean) with links through London '
                                                                            'to other countries',
                                                                            2015]},
-                                                    'users_internet': 3000},
+                                                    'users_internet': 3393},
                                          'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/falkland-islands-islas-malvinas/page-data.json',
                                          'name': 'Falkland Islands (Islas Malvinas)',
                                          'stan': 'FLK',
@@ -4933,22 +4934,22 @@ WORLD_FB = \
                                 'population': 51943,
                                 'ports': {'seaport': 'Fuglafjordur, Torshavn, Vagur'},
                                 'region': ['Europe'],
-                                'subs_broadband': 18181,
-                                'subs_fixed': 19137,
-                                'subs_mobile': 59771,
+                                'subs_broadband': 18443,
+                                'subs_fixed': 15341,
+                                'subs_mobile': 59003,
                                 'telecom': { 'code': '298',
-                                             'domestic': [ '37 per 100 for fixed-line and 116 per 100 for '
-                                                           'mobile-cellular',
+                                             'domestic': [ 'roughly 31 per 100 teledensity for fixed-line and nearly '
+                                                           '121 per 100 for mobile-cellular',
                                                            'both NMT (analog) and GSM (digital) mobile telephone '
                                                            'systems are installed',
-                                                           2019],
+                                                           2020],
                                              'general': [ 'good international and domestic communications',
                                                           'telecommunications network of high standards with excellent '
                                                           'coverage throughout most parts of the country and at '
                                                           'competitive prices',
                                                           2020],
                                              'intl': [ 'landing points for the SHEFA-2, FARICE-1, and CANTAT-3 '
-                                                       'fiber-optic submarine cables from the Faeroe Islands, to '
+                                                       'fiber-optic submarine cables from the Faroe Islands, to '
                                                        'Denmark, Germany, UK and Iceland',
                                                        'satellite earth stations - 1 Orion',
                                                        2019],
@@ -4966,7 +4967,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 49783},
+                                'users_internet': 47800},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/faroe-islands/page-data.json',
                      'name': 'Faroe Islands',
                      'stan': 'FRO',
@@ -4991,10 +4992,10 @@ WORLD_FB = \
                        'ports': {'seaport': 'Lautoka, Levuka, Suva'},
                        'region': ['Oceania'],
                        'subs_broadband': 13033,
-                       'subs_fixed': 80650,
-                       'subs_mobile': 1097345,
+                       'subs_fixed': 76522,
+                       'subs_mobile': 1033920,
                        'telecom': { 'code': '679',
-                                    'domestic': [ 'fixed-line 9 per 100 persons and mobile-cellular teledensity '
+                                    'domestic': [ 'fixed-line nearly 9 per 100 persons and mobile-cellular teledensity '
                                                   'roughly 118 per 100 persons',
                                                   2019],
                                     'general': [ 'Fiji has a relatively sophisticated communications infrastructure '
@@ -5007,8 +5008,7 @@ WORLD_FB = \
                                                  'cable system',
                                                  'cables provide a secure link during natural disasters, protecting '
                                                  'telecom connectivity',
-                                                 'provider plans to expand fiber infrastructure to remote islands '
-                                                 '(2021)',
+                                                 'provider plans to expand fiber infrastructure to remote islands',
                                                  2020],
                                     'intl': [ 'landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and '
                                               'Tui-Samoa submarine cable links to US, NZ, Australia and Pacific '
@@ -5029,7 +5029,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 462860},
+                       'users_internet': 634100},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/fiji/page-data.json',
             'name': 'Fiji',
             'stan': 'FJI',
@@ -5053,13 +5053,13 @@ WORLD_FB = \
                           'population': 5587442,
                           'ports': {'seaport': 'Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma'},
                           'region': ['Europe'],
-                          'subs_broadband': 1797000,
-                          'subs_fixed': 269000,
-                          'subs_mobile': 7150000,
+                          'subs_broadband': 1846000,
+                          'subs_fixed': 225000,
+                          'subs_mobile': 7120000,
                           'telecom': { 'code': '358',
-                                       'domestic': [ 'fixed-line 5 per 100 subscription and 129 per 100 '
+                                       'domestic': [ 'fixed-line 4 per 100 subscriptions and nearly 129 per 100 '
                                                      'mobile-cellular',
-                                                     2019],
+                                                     2020],
                                        'general': [ "Finland's telecom market is among most progressive in Europe "
                                                     'through favorable regulatory action and competitive technological '
                                                     'innovation',
@@ -5068,7 +5068,7 @@ WORLD_FB = \
                                                     'large proportion of population on 5G and most on LTE',
                                                     'high broadband and mobile penetration',
                                                     'fixed-voice density falling',
-                                                    'government provided universal 5Mb/s broadband (2021)',
+                                                    'government provided universal 5Mb/s broadband',
                                                     2020],
                                        'intl': [ 'landing points for Botnia, BCS North-1 & 2, SFL, SFS-4, C-Lion1, '
                                                  'Eastern Lights, Baltic Sea Submarine Cable, FEC, and EESF-2 & 3 '
@@ -5093,7 +5093,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 4922163},
+                          'users_internet': 5270000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/finland/page-data.json',
                'name': 'Finland',
                'stan': 'FIN',
@@ -5144,13 +5144,13 @@ WORLD_FB = \
                                      ('Martinique', 'Central America and the Caribbean'),
                                      ('Mayotte', 'Africa'),
                                      ('Reunion', 'World')],
-                         'subs_broadband': 29760000,
-                         'subs_fixed': 37797000,
-                         'subs_mobile': 72040000,
+                         'subs_broadband': 30627000,
+                         'subs_fixed': 37759000,
+                         'subs_mobile': 72751000,
                          'telecom': { 'code': '33',
-                                      'domestic': [ '58 per 100 persons for fixed-line and 111 per 100 for '
+                                      'domestic': [ 'nearly 58 per 100 persons for fixed-line and over 111 per 100 for '
                                                     'mobile-cellular subscriptions',
-                                                    2019],
+                                                    2020],
                                       'general': [ 'one of the largest mobile phone markets in Europe',
                                                    'LTE has universal coverage with extensive 5G',
                                                    'one of the largest broadband subscriber bases in Europe',
@@ -5161,7 +5161,7 @@ WORLD_FB = \
                                                    'of artificial intelligence and data',
                                                    'satellite broadband connectivity across France',
                                                    'Paris adopted smart city technology',
-                                                   'importer of broadcast equipment from China (2021)',
+                                                   'importer of broadcast equipment from China',
                                                    2020],
                                       'intl': [ 'landing points for Circe South, TAT-14, INGRID, FLAG Atlantic-1, '
                                                 'Apollo, HUGO, IFC-1, ACE, SeaMeWe-3 & 4, Dunant, Africa-1, AAE-1, '
@@ -5206,7 +5206,7 @@ WORLD_FB = \
                                                                 'and nearby Indian Ocean Island countries of '
                                                                 'Mauritius, and Madagascar',
                                                                 2019]},
-                         'users_internet': 55265718},
+                         'users_internet': 59470000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/france/page-data.json',
               'name': 'France',
               'stan': 'FRA',
@@ -5257,10 +5257,10 @@ WORLD_FB = \
                                    'ports': {'seaport': 'Papeete'},
                                    'region': ['Oceania'],
                                    'subs_broadband': 59790,
-                                   'subs_fixed': 63769,
-                                   'subs_mobile': 305233,
+                                   'subs_fixed': 60123,
+                                   'subs_mobile': 302673,
                                    'telecom': { 'code': '689',
-                                                'domestic': [ 'fixed-line subscriptions 22 per 100 persons and '
+                                                'domestic': [ 'fixed-line subscriptions nearly 22 per 100 persons and '
                                                               'mobile-cellular density is roughly 104 per 100 persons',
                                                               2019],
                                                 'general': [ 'French Polynesia has one of the most advanced telecom '
@@ -5275,7 +5275,7 @@ WORLD_FB = \
                                                              'submarine cable connections increase international '
                                                              'bandwidth',
                                                              'additional domestic submarine cable will connect remote '
-                                                             'islands (2021)',
+                                                             'islands',
                                                              2020],
                                                 'intl': [ 'landing points for the NATITUA, Manatua, and Honotua '
                                                           'submarine cables to other French Polynesian Islands, Cook '
@@ -5297,7 +5297,7 @@ WORLD_FB = \
                                                           'and school from home became evident, and received some '
                                                           'support from governments',
                                                           0]},
-                                   'users_internet': 211101},
+                                   'users_internet': 204800},
                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/french-polynesia/page-data.json',
                         'name': 'French Polynesia',
                         'stan': 'PYF',
@@ -5545,15 +5545,15 @@ WORLD_FB = \
                         'population': 2284912,
                         'ports': {'seaport': 'Libreville, Owendo, Port-Gentil'},
                         'region': ['Africa'],
-                        'subs_broadband': 22332,
-                        'subs_fixed': 22291,
-                        'subs_mobile': 2992811,
+                        'subs_broadband': 44607,
+                        'subs_fixed': 25428,
+                        'subs_mobile': 3088742,
                         'telecom': { 'code': '241',
-                                     'domestic': [ 'fixed-line is 1 per 100 subscriptions',
+                                     'domestic': [ 'fixed-line is a little over 1 per 100 subscriptions',
                                                    'a growing mobile cellular network with multiple providers is '
                                                    'making telephone service more widely available with mobile '
-                                                   'cellular teledensity at 138 per 100 persons',
-                                                   2019],
+                                                   'cellular teledensity at nearly 139 per 100 persons',
+                                                   2020],
                                      'general': [ 'politically stable and oil laden, Gabon is one of wealthiest '
                                                   'nations in Africa',
                                                   'liberalized and competitive market led development of mobile '
@@ -5565,7 +5565,7 @@ WORLD_FB = \
                                                   'sufficient international bandwidth through submarine cable systems',
                                                   'government committed to backbone infrastructure and e-health '
                                                   'services',
-                                                  'efforts towards new legal and regulatory improvements (2020)',
+                                                  'efforts towards new legal and regulatory improvements',
                                                   2020],
                                      'intl': [ 'landing points for the SAT-3/WASC, ACE and Libreville-Port Gentil '
                                                'Cable fiber-optic submarine cable that provides connectivity to Europe '
@@ -5585,7 +5585,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 1313802},
+                        'users_internet': 1400000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/gabon/page-data.json',
              'name': 'Gabon',
              'stan': 'GAB',
@@ -5607,14 +5607,13 @@ WORLD_FB = \
                               'ports': {'seaport': 'Banjul'},
                               'region': ['Africa'],
                               'subs_broadband': 4433,
-                              'subs_fixed': 41179,
-                              'subs_mobile': 2977068,
+                              'subs_fixed': 44000,
+                              'subs_mobile': 2677954,
                               'telecom': { 'code': '220',
-                                           'domestic': [ 'fixed-line stands at 2 per 100 subscriptions with one '
-                                                         'dominant company and mobile-cellular teledensity, aided by '
-                                                         'multiple mobile-cellular providers, is over 140 per 100 '
+                                           'domestic': [ 'fixed-line subscriptions nearly 2 per 100 with one dominant '
+                                                         'company and mobile-cellular teledensity nearly 111 per 100 '
                                                          'persons',
-                                                         2019],
+                                                         2020],
                                            'general': [ 'state-owned telecom partially privatized but retains a '
                                                         'monopoly with fixed-line service',
                                                         'multiple mobile networks provide 2G to almost all citizens '
@@ -5626,7 +5625,7 @@ WORLD_FB = \
                                                         'government depends on donors and loans from China and Islamic '
                                                         'Development banks',
                                                         'two submarine cables provide international connectivity '
-                                                        'within African continent and Europe (2021)',
+                                                        'within African continent and Europe',
                                                         2020],
                                            'intl': [ 'landing point for the ACE submarine cable to West Africa and '
                                                      'Europe',
@@ -5647,7 +5646,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 406918},
+                              'users_internet': 580200},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/gambia-the/page-data.json',
                    'name': 'Gambia, The',
                    'stan': 'GMB',
@@ -5730,16 +5729,16 @@ WORLD_FB = \
                           'population': 4933674,
                           'ports': {'seaport': "Black Sea - Bat'umi, P'ot'i"},
                           'region': ['Asia'],
-                          'subs_broadband': 941509,
-                          'subs_fixed': 518624,
-                          'subs_mobile': 5384462,
+                          'subs_broadband': 997785,
+                          'subs_fixed': 378498,
+                          'subs_mobile': 5100101,
                           'telecom': { 'code': '995',
-                                       'domestic': [ 'fixed-line 13 per 100, cellular telephone networks cover the '
-                                                     'entire country',
-                                                     'mobile-cellular teledensity roughly 135 per 100 persons',
+                                       'domestic': [ 'fixed-line subscriptions over 9 per 100, cellular telephone '
+                                                     'networks cover the entire country',
+                                                     'mobile-cellular teledensity roughly 128 per 100 persons',
                                                      "intercity facilities include a fiber-optic line between T'bilisi "
                                                      "and K'ut'aisi",
-                                                     2019],
+                                                     2020],
                                        'general': [ 'despite economic challenges, the telecom market is one of '
                                                     "Georgia's fastest growth sectors",
                                                     'LTE services cover the majority of citizens',
@@ -5750,7 +5749,7 @@ WORLD_FB = \
                                                     'increasing subscribership throughout the country',
                                                     'broadband subscribers steadily increasing',
                                                     'with investment in infrastructure, customers are moving from '
-                                                    'copper to fiber networks (2021)',
+                                                    'copper to fiber networks',
                                                     2020],
                                        'intl': [ 'landing points for the Georgia-Russia, Diamond Link Global, and '
                                                  'Caucasus Cable System fiber-optic submarine cable that provides '
@@ -5772,7 +5771,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 3151218},
+                          'users_internet': 2740000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/georgia/page-data.json',
                'name': 'Georgia',
                'stan': 'GEO',
@@ -5807,17 +5806,18 @@ WORLD_FB = \
                                      'seaport': '<br /><em>Baltic Sea:</em> Kiel, Rostock<br /><em>North Sea:</em> '
                                                 'Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven'},
                           'region': ['Europe'],
-                          'subs_broadband': 35071539,
-                          'subs_fixed': 40400000,
-                          'subs_mobile': 107200000,
+                          'subs_broadband': 36040739,
+                          'subs_fixed': 38300000,
+                          'subs_mobile': 107500000,
                           'telecom': { 'code': '49',
                                        'domestic': [ 'extensive system of automatic telephone exchanges connected by '
                                                      'modern networks of fiber-optic cable, coaxial cable, microwave '
                                                      'radio relay, and a domestic satellite system',
                                                      'cellular telephone service is widely available, expanding '
                                                      'rapidly, and includes roaming service to many foreign countries',
-                                                     '48 per 100 for fixed-line and 128 per 100 for mobile-cellular',
-                                                     2019],
+                                                     'approximately 46 per 100 for fixed-line and 128 per 100 for '
+                                                     'mobile-cellular',
+                                                     2020],
                                        'general': [ "one of the world's most technologically advanced telecom systems "
                                                     'with additional security measures',
                                                     'LTE universally available and 5G service to over 80% of '
@@ -5830,7 +5830,7 @@ WORLD_FB = \
                                                     'over 60 cities use smart technology in urban development, many '
                                                     'through joint initiative with private sector, utility companies, '
                                                     'and universities',
-                                                    'importer of broadcast equipment and computers from China (2021)',
+                                                    'importer of broadcast equipment and computers from China',
                                                     2020],
                                        'intl': [ 'landing points for SeaMeWe-3, TAT-14, AC-1, CONTACT-3, Fehmarn Balt, '
                                                  'C-Lion1, GC1, GlobalConnect-KPN, and Germany-Denmark 2 & 3 - '
@@ -5852,7 +5852,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 72202773},
+                          'users_internet': 78810000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/germany/page-data.json',
                'name': 'Germany',
                'stan': 'DEU',
@@ -5873,15 +5873,14 @@ WORLD_FB = \
                         'population': 32372889,
                         'ports': {'seaport': 'Takoradi, Tema'},
                         'region': ['Africa'],
-                        'subs_broadband': 58518,
-                        'subs_fixed': 288531,
-                        'subs_mobile': 40857077,
+                        'subs_broadband': 78371,
+                        'subs_fixed': 307668,
+                        'subs_mobile': 40461609,
                         'telecom': { 'code': '233',
-                                     'domestic': [ 'fixed-line 1 per 100 subscriptions',
+                                     'domestic': [ 'fixed-line about 1 per 100 subscriptions',
                                                    'competition among multiple mobile-cellular providers has spurred '
-                                                   'growth with a subscribership of more than 134 per 100 persons and '
-                                                   'rising',
-                                                   2019],
+                                                   'growth with a subscribership of more than 130 per 100 persons',
+                                                   2020],
                                      'general': [ 'challenged by unreliable electricity, Ghana seeks to extend telecom '
                                                   'services nationally',
                                                   'investment in fiber infrastructure enabled 600 additional towers to '
@@ -5890,7 +5889,7 @@ WORLD_FB = \
                                                   'm-commerce and banking',
                                                   'highly competitive Internet market, most through mobile networks',
                                                   'international submarine cables, and terrestrial cables have '
-                                                  'improved Internet capacity and reduced prices (2020)',
+                                                  'improved Internet capacity and reduced prices',
                                                   2020],
                                      'intl': [ 'landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 '
                                                'fiber-optic submarine cables that provide connectivity to South and '
@@ -5913,7 +5912,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 10959964},
+                        'users_internet': 15700000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/ghana/page-data.json',
              'name': 'Ghana',
              'stan': 'GHA',
@@ -5939,20 +5938,20 @@ WORLD_FB = \
                             'subs_mobile': 40537,
                             'telecom': { 'code': '350',
                                          'domestic': [ 'automatic exchange facilities',
-                                                       '50 per 100 fixed-line and 120 per 100 mobile-cellular',
+                                                       'over 50 per 100 fixed-line and 120 per 100 mobile-cellular',
                                                        2019],
                                          'general': [ "Gibraltar's population is urban based, served by a digital "
                                                       'telephone exchange supported by a fiber optic and copper '
                                                       'infrastructure',
-                                                      'near universal mobile and Internet use (2020)',
-                                                      2018],
+                                                      'near universal mobile and Internet use',
+                                                      2019],
                                          'intl': [ 'landing point for the EIG to Europe, Asia, Africa and the Middle '
                                                    'East via submarine cables',
                                                    'radiotelephone',
                                                    'microwave radio relay',
                                                    'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                    2019]},
-                            'users_internet': 27823},
+                            'users_internet': 31800},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/gibraltar/page-data.json',
                  'name': 'Gibraltar',
                  'stan': 'GIB',
@@ -5977,7 +5976,10 @@ WORLD_FB = \
               'gec': 'GR',
               'infos': { 'airports': 77,
                          'area': {'land': '130,647 sq km', 'total': '131,957 sq km', 'water': '1,310 sq km'},
-                         'boundaries': { 'bord': {'Albania': 212, 'Bulgaria': 472, 'Macedonia': 234, 'Turkey': 192},
+                         'boundaries': { 'bord': { 'Albania': 212,
+                                                   'Bulgaria': 472,
+                                                   'North Macedonia': 234,
+                                                   'Turkey': 192},
                                          'len': 1110},
                          'capital': {'coord': '37 59 N, 23 44 E', 'name': 'Athens', 'time_diff': 'UTC+2'},
                          'coastline': 13676,
@@ -5990,15 +5992,16 @@ WORLD_FB = \
                          'ports': { 'container': 'Piraeus (5,648,000) (2019)',
                                     'seaport': 'Aspropyrgos, Pachi, Piraeus, Thessaloniki'},
                          'region': ['Europe'],
-                         'subs_broadband': 4149146,
-                         'subs_fixed': 4820898,
-                         'subs_mobile': 11882081,
+                         'subs_broadband': 4257026,
+                         'subs_fixed': 4743310,
+                         'subs_mobile': 11412995,
                          'telecom': { 'code': '30',
                                       'domestic': [ 'microwave radio relay trunk system',
                                                     'extensive open-wire connections',
                                                     'submarine cable to offshore islands',
-                                                    '48 per 100 for fixed-line and 114 per 100 for mobile-cellular',
-                                                    2019],
+                                                    'nearly 46 per 100 subscribers for fixed-line and 110 per 100 for '
+                                                    'mobile-cellular',
+                                                    2020],
                                       'general': [ "telecom market is susceptible to country's volatile economy, but "
                                                    'renewed confidence has been renewed through foreign and European '
                                                    'Commission investment',
@@ -6007,7 +6010,7 @@ WORLD_FB = \
                                                    'steady development of broadband',
                                                    'investment in LTE and launch of 5G',
                                                    'government project for ultra-fast broadband, largely funded by '
-                                                   'European Commission with focus on underserved areas (2021)',
+                                                   'European Commission with focus on underserved areas',
                                                    2020],
                                       'intl': [ 'landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, '
                                                 'OTEGLOBE, MedNautilus Submarine System, Aphrodite 2, AAE-1 and '
@@ -6031,7 +6034,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 7783381},
+                         'users_internet': 8390000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/greece/page-data.json',
               'name': 'Greece',
               'stan': 'GRC',
@@ -6060,8 +6063,8 @@ WORLD_FB = \
                             'subs_fixed': 7133,
                             'subs_mobile': 61656,
                             'telecom': { 'code': '299',
-                                         'domestic': [ '13 per 100 for fixed-line subscriptions and 115 per 100 for '
-                                                       'mobile-cellular',
+                                         'domestic': [ 'nearly 13 per 100 for fixed-line subscriptions and 109 per 100 '
+                                                       'for mobile-cellular',
                                                        2019],
                                          'general': [ 'adequate domestic and international service provided by '
                                                       'satellite, cables, and microwave radio relay',
@@ -6094,7 +6097,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 40084},
+                            'users_internet': 39500},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/greenland/page-data.json',
                  'name': 'Greenland',
                  'stan': 'GRL',
@@ -6116,8 +6119,8 @@ WORLD_FB = \
                           'ports': {'seaport': "Saint George's"},
                           'region': ['Central America and the Caribbean'],
                           'subs_broadband': 25577,
-                          'subs_fixed': 33011,
-                          'subs_mobile': 115008,
+                          'subs_fixed': 32491,
+                          'subs_mobile': 113177,
                           'telecom': { 'code': '1473',
                                        'domestic': [ 'interisland VHF and UHF radiotelephone links',
                                                      '29 per 100 for fixed-line and 102 per 100 for mobile-cellular',
@@ -6147,7 +6150,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 66281},
+                          'users_internet': 66600},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/grenada/page-data.json',
                'name': 'Grenada',
                'stan': 'GRD',
@@ -6182,12 +6185,14 @@ WORLD_FB = \
                        'population': 168801,
                        'ports': {'seaport': 'Apra Harbor'},
                        'region': ['Oceania'],
-                       'subs_fixed': 70639,
-                       'subs_mobile': 181000,
+                       'subs_broadband': 3000,
+                       'subs_fixed': 68000,
+                       'subs_mobile': 98000,
                        'telecom': { 'code': '1671',
                                     'domestic': [ 'three major companies provide both fixed-line and mobile services, '
                                                   'as well as access to the Internet',
-                                                  'fixed-line 42 per 100 and 113 per 100 for mobile-cellular',
+                                                  'fixed-line subscriptions in 2018 were 42 per 100 and 62 per 100 '
+                                                  'mobile-cellular subscriptions in 2004',
                                                   2019],
                                     'general': [ 'integrated with US facilities for direct dialing, including free use '
                                                  'of 800 numbers',
@@ -6212,7 +6217,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 135073},
+                       'users_internet': 136500},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guam/page-data.json',
             'name': 'Guam',
             'stan': 'GUM',
@@ -6237,15 +6242,15 @@ WORLD_FB = \
                             'population': 17422821,
                             'ports': {'seaport': 'Puerto Quetzal, Santo Tomas de Castilla'},
                             'region': ['Central America and the Caribbean'],
-                            'subs_broadband': 506000,
-                            'subs_fixed': 1974006,
-                            'subs_mobile': 20874130,
+                            'subs_broadband': 531000,
+                            'subs_fixed': 2272467,
+                            'subs_mobile': 20390671,
                             'telecom': { 'code': '502',
-                                         'domestic': [ 'fixed-line teledensity roughly 11 per 100 persons',
+                                         'domestic': [ 'fixed-line teledensity roughly 13 per 100 persons',
                                                        'fixed-line investments are concentrating on improving rural '
                                                        'connectivity',
-                                                       'mobile-cellular teledensity about 119 per 100 persons',
-                                                       2019],
+                                                       'mobile-cellular teledensity about 114 per 100 persons',
+                                                       2020],
                                          'general': [ 'due to years of underinvestment in infrastructure, has one of '
                                                       'the lowest fixed-line tele densities in the region',
                                                       'rural areas rely on mobile services with little access to '
@@ -6254,7 +6259,7 @@ WORLD_FB = \
                                                       'developed sector, with near universal phone connections',
                                                       'private investment to bring free Internet to parks',
                                                       'two submarine cables due for completion will support growth in '
-                                                      'fixed and mobile broadband (2021)',
+                                                      'fixed and mobile broadband',
                                                       2020],
                                          'intl': [ 'landing points for the ARCOS, AMX-1, American Movil-Texius West '
                                                    'Coast Cable and the SAm-1 fiber-optic submarine cable system that, '
@@ -6277,7 +6282,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 10777827},
+                            'users_internet': 11750000},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guatemala/page-data.json',
                  'name': 'Guatemala',
                  'stan': 'GTM',
@@ -6301,11 +6306,12 @@ WORLD_FB = \
                            'population': 67334,
                            'ports': {'seaport': 'Braye Bay, Saint Peter Port'},
                            'region': ['Europe'],
-                           'subs_fixed': 36547,
-                           'subs_mobile': 71249,
+                           'subs_broadband': 25336,
+                           'subs_fixed': 33940,
+                           'subs_mobile': 71622,
                            'telecom': { 'code': '44',
-                                        'domestic': [ 'fixed-line 60 per 100 and mobile-cellular 113 per 100 persons',
-                                                      2019],
+                                        'domestic': [ 'fixed-line 54 per 100 and mobile-cellular 114 per 100 persons',
+                                                      2020],
                                         'general': [ 'high performance global connections with quality service',
                                                      'connections to major cities around the world to rival and '
                                                      'attract future investment and future needs of islanders and '
@@ -6329,7 +6335,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 55050},
+                           'users_internet': 54600},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guernsey/page-data.json',
                 'name': 'Guernsey',
                 'stan': '',
@@ -6366,8 +6372,7 @@ WORLD_FB = \
                                       'domestic': [ 'there is national coverage and Conakry is reasonably well-served',
                                                     'coverage elsewhere remains inadequate but is improving',
                                                     'fixed-line teledensity is less than 1 per 100 persons',
-                                                    'mobile-cellular subscribership is expanding rapidly and now 101 '
-                                                    'per 100 persons',
+                                                    'mobile-cellular subscribership is just over 100 per 100 persons',
                                                     2019],
                                       'general': [ "Guinea's mobile subscribership growing through investment of South "
                                                    'African telecom operators and Chinese Huawei management',
@@ -6378,7 +6383,7 @@ WORLD_FB = \
                                                    'National Backbone Network will connect regional administrative '
                                                    'centers',
                                                    'ECOWAS countries to launch free roaming',
-                                                   'importer of broadcasting equipment from China (2021)',
+                                                   'importer of broadcasting equipment from China',
                                                    2020],
                                       'intl': [ 'ACE submarine cable connecting Guinea with 20 landing points in '
                                                 'Western and South Africa and Europe',
@@ -6397,7 +6402,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 2133974},
+                         'users_internet': 2910000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guinea/page-data.json',
               'name': 'Guinea',
               'stan': 'GIN',
@@ -6421,13 +6426,14 @@ WORLD_FB = \
                                 'population': 1976187,
                                 'ports': {'seaport': 'Bissau, Buba, Cacheu, Farim'},
                                 'region': ['Africa'],
-                                'subs_broadband': 1227,
+                                'subs_broadband': 2383,
                                 'subs_fixed': 0,
-                                'subs_mobile': 1590381,
+                                'subs_mobile': 1913858,
                                 'telecom': { 'code': '245',
                                              'domestic': [ 'fixed-line teledensity less than 1 per 100 persons',
-                                                           'mobile cellular teledensity is roughly 83 per 100 persons',
-                                                           2019],
+                                                           'mobile cellular teledensity is just over 97 per 100 '
+                                                           'persons',
+                                                           2020],
                                              'general': [ 'small system including a combination of microwave radio '
                                                           'relay, open-wire lines, radiotelephone, and mobile cellular '
                                                           'communications',
@@ -6454,7 +6460,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 72047},
+                                'users_internet': 250000},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guinea-bissau/page-data.json',
                      'name': 'Guinea-Bissau',
                      'stan': 'GNB',
@@ -6476,8 +6482,8 @@ WORLD_FB = \
                          'ports': {'seaport': 'Georgetown'},
                          'region': ['South America'],
                          'subs_broadband': 64889,
-                         'subs_fixed': 130497,
-                         'subs_mobile': 617998,
+                         'subs_fixed': 135795,
+                         'subs_mobile': 643210,
                          'telecom': { 'code': '592',
                                       'domestic': [ 'fixed-line teledensity is about 18 per 100 persons',
                                                     'mobile-cellular teledensity about 83 per 100 persons',
@@ -6490,7 +6496,7 @@ WORLD_FB = \
                                                    'still slow and expensive',
                                                    'second cable will improve delivery and pricing',
                                                    'government promotes ICT for e-government, e-health, and '
-                                                   'tele-education, and connection to remote locations (2021)',
+                                                   'tele-education, and connection to remote locations',
                                                    2020],
                                       'intl': [ 'landing point for the SG-SCS submarine cable to Suriname, and the '
                                                 'Caribbean',
@@ -6509,7 +6515,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 276498},
+                         'users_internet': 294300},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guyana/page-data.json',
               'name': 'Guyana',
               'stan': 'GUY',
@@ -6541,7 +6547,7 @@ WORLD_FB = \
                                                    'mobile-cellular telephone services have expanded greatly in the '
                                                    'last decade due to low-cost GSM (Global Systems for Mobile) phones '
                                                    'and pay-as-you-go plans',
-                                                   'mobile-cellular teledensity is 58 per 100 persons',
+                                                   'mobile-cellular teledensity is nearly 61 per 100 persons',
                                                    2019],
                                      'general': [ 'plagued by political and economic turmoil complicated by natural '
                                                   "disasters, Haiti's telecommunications infrastructure is among the "
@@ -6553,7 +6559,7 @@ WORLD_FB = \
                                                   'promotion of LTE will enable access to remote areas and e-money '
                                                   'services',
                                                   'World Bank grant to provide digital preparation and response for '
-                                                  'any future crises (2021)',
+                                                  'any future crises',
                                                   2020],
                                      'intl': [ 'landing points for the BDSNi and Fibralink submarine cables to 14 '
                                                'points in the Bahamas and Dominican Republic',
@@ -6572,7 +6578,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 3503006},
+                        'users_internet': 4280000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/haiti/page-data.json',
              'name': 'Haiti',
              'stan': 'HTI',
@@ -6667,15 +6673,15 @@ WORLD_FB = \
                            'population': 9346277,
                            'ports': {'seaport': 'La Ceiba, Puerto Cortes, San Lorenzo, Tela'},
                            'region': ['Central America and the Caribbean'],
-                           'subs_broadband': 390377,
-                           'subs_fixed': 490103,
-                           'subs_mobile': 7559829,
+                           'subs_broadband': 396454,
+                           'subs_fixed': 531763,
+                           'subs_mobile': 6960654,
                            'telecom': { 'code': '504',
                                         'domestic': [ 'private sub-operators allowed to provide fixed lines in order '
-                                                      'to expand telephone coverage contributing to a small increase '
-                                                      'in fixed-line teledensity 5 per 100',
-                                                      'mobile-cellular subscribership is roughly 73 per 100 persons',
-                                                      2019],
+                                                      'to expand telephone coverage contributing to a fixed-line '
+                                                      'teledensity of slightly over 5 per 100',
+                                                      'mobile-cellular subscribership is roughly 70 per 100 persons',
+                                                      2020],
                                         'general': [ '<p style="background: white',
                                                      'margin: 0in 0in 6.4pt 0in',
                                                      '">',
@@ -6700,7 +6706,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 2853505},
+                           'users_internet': 3810000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/honduras/page-data.json',
                 'name': 'Honduras',
                 'stan': 'HND',
@@ -6723,13 +6729,14 @@ WORLD_FB = \
                             'population': 7263234,
                             'ports': {'container': 'Hong Kong (18,361,000) (2019)', 'seaport': 'Hong Kong'},
                             'region': ['Southeast Asia'],
-                            'subs_broadband': 2804790,
-                            'subs_fixed': 4029603,
-                            'subs_mobile': 21455736,
+                            'subs_broadband': 2871081,
+                            'subs_fixed': 3934129,
+                            'subs_mobile': 21865215,
                             'telecom': { 'code': '852',
                                          'domestic': [ 'microwave radio relay links and extensive fiber-optic network',
-                                                       'fixed-line is 55 per 100 and mobile-cellular is 289 per 100',
-                                                       2019],
+                                                       'fixed-line is over 52 per 100 and mobile-cellular is nearly '
+                                                       '292 subscriptions per 100',
+                                                       2020],
                                          'general': [ 'excellent domestic and international services',
                                                       'some of the highest peak average broadband speeds and '
                                                       'penetration rates in the world',
@@ -6743,7 +6750,7 @@ WORLD_FB = \
                                                       'digital economy to encourage social inclusion and economic '
                                                       'development, including health care, education, and utilities',
                                                       'US prevented use of Pacific Light submarine cable network due '
-                                                      'to security issues (2020)',
+                                                      'to security issues',
                                                       2020],
                                          'intl': [ 'landing points for the APG, ASE, EAC-C2C, HK-G, Bay-to-Bay Express '
                                                    'Cable System, H2 Cable, HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, '
@@ -6767,7 +6774,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 6450167},
+                            'users_internet': 6920000},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/hong-kong/page-data.json',
                  'name': 'Hong Kong',
                  'stan': 'HKG',
@@ -6809,15 +6816,16 @@ WORLD_FB = \
                           'population': 9728337,
                           'ports': {},
                           'region': ['Europe'],
-                          'subs_broadband': 3189689,
-                          'subs_fixed': 3048754,
-                          'subs_mobile': 10272694,
+                          'subs_broadband': 3265308,
+                          'subs_fixed': 2970347,
+                          'subs_mobile': 10332660,
                           'telecom': { 'code': '36',
                                        'domestic': [ 'competition among mobile-cellular service providers has led to a '
                                                      'sharp increase in the use of mobile-cellular phones, and a '
-                                                     'decrease in the number of fixed-line connections, 31 per 100 '
-                                                     'persons, while mobile-cellular is 106 per 100',
-                                                     2019],
+                                                     'decrease in the number of fixed-line connections, with just '
+                                                     'under 31 fixed per 100 persons and 107 mobile-cellular '
+                                                     'subscriptions per 100',
+                                                     2020],
                                        'general': [ 'Hungary benefits from a well-developed telecom infrastructure, '
                                                     'with adoption of 5G and upgrade of fixed networks to 1Gb/s '
                                                     'service',
@@ -6831,7 +6839,7 @@ WORLD_FB = \
                                                     'applications',
                                                     'as part of EU, fully liberalized and open to investment',
                                                     "broadcasting equipment is one of the country's top five imports, "
-                                                    'plus mobile phones, from China (2021)',
+                                                    'plus mobile phones, from China',
                                                     2020],
                                        'intl': [ 'Hungary has fiber-optic cable connections with all neighboring '
                                                  'countries',
@@ -6853,7 +6861,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 7474413},
+                          'users_internet': 8010000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/hungary/page-data.json',
                'name': 'Hungary',
                'stan': 'HUN',
@@ -6877,16 +6885,16 @@ WORLD_FB = \
                           'population': 354234,
                           'ports': {'seaport': 'Grundartangi, Hafnarfjordur, Reykjavik'},
                           'region': ['Arctic Region'],
-                          'subs_broadband': 139241,
-                          'subs_fixed': 125567,
-                          'subs_mobile': 413446,
+                          'subs_broadband': 141816,
+                          'subs_fixed': 107032,
+                          'subs_mobile': 421384,
                           'telecom': { 'code': '354',
                                        'domestic': [ 'liberalization of the telecommunications sector beginning in the '
                                                      'late 1990s has led to increased competition especially in the '
                                                      'mobile services segment of the market',
-                                                     '37 per 100 for fixed line and 122 per 100 for mobile-cellular '
-                                                     'subscriptions',
-                                                     2019],
+                                                     'roughly 31 per 100 for fixed line and nearing 124 per 100 for '
+                                                     'mobile-cellular subscriptions',
+                                                     2020],
                                        'general': [ 'small but most progressive telecom market in Europe',
                                                     'telecom infrastructure is modern and fully digitized, with '
                                                     'satellite-earth stations, fiber-optic cables, and an extensive '
@@ -6898,7 +6906,7 @@ WORLD_FB = \
                                                     'investment by operators and government in support of NGN, '
                                                     'particularly in rural areas',
                                                     'submarine cable to Ireland',
-                                                    'importer of broadcasting equipment from Vietnam and China (2021)',
+                                                    'importer of broadcasting equipment from Vietnam and China',
                                                     2020],
                                        'intl': [ 'landing points for the CANTAT-3, FARICE-1, Greenland Connect and '
                                                  'DANICE submarine cable system that provides connectivity to Canada, '
@@ -6921,7 +6929,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 340117},
+                          'users_internet': 338900},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/iceland/page-data.json',
                'name': 'Iceland',
                'stan': 'ISL',
@@ -6953,12 +6961,12 @@ WORLD_FB = \
                                    'seaport': 'Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai '
                                               '(Bombay), Sikka, Vishakhapatnam'},
                         'region': ['Asia'],
-                        'subs_broadband': 19156559,
-                        'subs_fixed': 21004534,
-                        'subs_mobile': 1151480361,
+                        'subs_broadband': 22290000,
+                        'subs_fixed': 20052162,
+                        'subs_mobile': 1153709832,
                         'telecom': { 'code': '91',
-                                     'domestic': [ 'fixed-line subscriptions stands at 2 per 100 and mobile-cellular '
-                                                   'at 84 per 100',
+                                     'domestic': [ 'fixed-line subscriptions stands at roughly 1 per 100 and '
+                                                   'mobile-cellular at nearly 84 per 100',
                                                    'mobile cellular service introduced in 1994 and organized '
                                                    'nationwide into four metropolitan areas and 19 telecom circles, '
                                                    'each with multiple private service providers and one or more '
@@ -6968,22 +6976,21 @@ WORLD_FB = \
                                                    'satellite systems, the Indian National Satellite system (INSAT), '
                                                    'with 6 satellites supporting 33,000 (very small aperture '
                                                    'terminals) VSAT',
-                                                   2019],
+                                                   2020],
                                      'general': [ 'supported by deregulation, India is one of the fastest-growing '
                                                   'telecom markets in the world',
                                                   'implementation of 4G/LTE',
                                                   'fixed-line/broadband underdeveloped',
                                                   'government investment in national infrastructure',
-                                                  'project aims to connect 250,000 villages to broadband networks',
-                                                  'expansive foreign investment with reliance of operators on Chinese '
-                                                  'vendors',
+                                                  'project aims to connect 600,000 villages to broadband networks',
+                                                  'expansive foreign investment',
                                                   'imports of integrated circuits and broadcast equipment from China',
                                                   'steps taken towards a 5G auction and tests',
                                                   'submarine cable linking mainland to the Andaman and Nicobar Islands',
                                                   'smart cities mission to promote 100 model cities in providing core '
                                                   'infrastructure, sustainable environment, and quality of life '
                                                   'through economic growth and competition, including focus on social, '
-                                                  'economic, and institutional pillars (2021)',
+                                                  'economic, and institutional pillars',
                                                   2020],
                                      'intl': [ 'a number of major international submarine cable systems, including '
                                                'SEA-ME-WE-3 & 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, '
@@ -7008,7 +7015,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 446759327},
+                        'users_internet': 624000000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/india/page-data.json',
              'name': 'India',
              'stan': 'IND',
@@ -7023,7 +7030,12 @@ WORLD_FB = \
                             'area': {'land': '1,811,569 sq km', 'total': '1,904,569 sq km', 'water': '93,000 sq km'},
                             'boundaries': { 'bord': {'Malaysia': 1881, 'Papua New Guinea': 824, 'Timor-Leste': 253},
                                             'len': 2958},
-                            'capital': {'coord': '6 10 S, 106 49 E', 'name': 'Jakarta', 'time_diff': 'UTC+7'},
+                            'capital': { 'coord': '6 10 S, 106 49 E',
+                                         'name': 'Jakarta; note - Indonesian lawmakers on 18 January 2022 approved the '
+                                                 'relocation of the country&rsquo;s capital from Jakarta to a site in '
+                                                 'East Kalimantan, a jungle area of Borneo; the move to Nusantara, the '
+                                                 'name of the new capital, will take several years',
+                                         'time_diff': 'UTC+7'},
                             'coastline': 54716,
                             'coord': ['5 00 S, 120 00 E'],
                             'country_name': { 'conv_long': 'Republic of Indonesia',
@@ -7035,22 +7047,24 @@ WORLD_FB = \
                                        'seaport': 'Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, '
                                                   'Sungai Pakning, Tanjung Perak, Tanjung Priok'},
                             'region': ['Southeast Asia'],
-                            'subs_broadband': 10284364,
-                            'subs_fixed': 9662135,
-                            'subs_mobile': 341277549,
+                            'subs_broadband': 10713107,
+                            'subs_fixed': 9186370,
+                            'subs_mobile': 355748606,
                             'telecom': { 'code': '62',
-                                         'domestic': [ 'fixed-line 4 per 100 and mobile-cellular 127 per 100 persons',
+                                         'domestic': [ 'fixed-line subscribership roughly 3 per 100 and '
+                                                       'mobile-cellular 130 per 100 persons',
                                                        'coverage provided by existing network has been expanded by use '
                                                        'of over 200,000 telephone kiosks many located in remote areas',
                                                        'mobile-cellular subscribership growing rapidly',
-                                                       2019],
-                                         'general': [ 'with large population, disbursed island geography, and slow '
-                                                      "economic growth, Indonesia's telecom sector is based on 3G/LTE "
-                                                      'mobile infrastructure and inadequate fixed-line capacity',
+                                                       2020],
+                                         'general': [ "Indonesia's telecom sector is based on 3G/LTE mobile "
+                                                      'infrastructure and inadequate fixed-line capacity',
+                                                      'large population and disbursed island geography make upgrades '
+                                                      'difficult',
                                                       'market is attracting foreign investment, especially in data '
                                                       'center and cloud based services',
                                                       'tests of 5G challenged by lack of spectrum',
-                                                      'satellite improvements in 2020 (2021)',
+                                                      'satellite improvements in 2020',
                                                       2020],
                                          'intl': [ 'landing points for the SEA-ME-WE-3 & 5, DAMAI, JASUKA, BDM, '
                                                    'Dumai-Melaka Cable System, IGG, JIBA, Link 1, 3, 4, & 5, PGASCOM, '
@@ -7078,7 +7092,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 104563108},
+                            'users_internet': 202600000},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/indonesia/page-data.json',
                  'name': 'Indonesia',
                  'stan': 'IDN',
@@ -7110,18 +7124,18 @@ WORLD_FB = \
                        'ports': { 'container': 'Bandar Abbas',
                                   'seaport': 'Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni'},
                        'region': ['Middle East'],
-                       'subs_broadband': 8771251,
-                       'subs_fixed': 28954855,
-                       'subs_mobile': 118061419,
+                       'subs_broadband': 9564195,
+                       'subs_fixed': 29093587,
+                       'subs_mobile': 127624951,
                        'telecom': { 'code': '98',
-                                    'domestic': [ '35 per 100 for fixed-line and 142 per 100 for mobile-cellular '
-                                                  'subscriptions',
+                                    'domestic': [ 'approximately 35 per 100 for fixed-line and 152 per 100 for '
+                                                  'mobile-cellular subscriptions',
                                                   "investment by Iran's state-owned telecom company has greatly "
                                                   'improved and expanded both the fixed-line and mobile cellular '
                                                   'networks',
                                                   'a huge percentage of the cell phones in the market have been '
                                                   'smuggled into the country',
-                                                  2019],
+                                                  2020],
                                     'general': [ 'challenged by censorship and international sanctions',
                                                  'large, youthful, tech-savvy demographic with unmet demand',
                                                  'state-owned operators provided special offerings for services during '
@@ -7129,8 +7143,7 @@ WORLD_FB = \
                                                  'all of the population',
                                                  'government expanding fiber network and preparing for 5G to grow '
                                                  'digital economy and smart city infrastructure',
-                                                 'importer of broadcasting and computer equipment from UAE and China '
-                                                 '(2021)',
+                                                 'importer of broadcasting and computer equipment from UAE and China',
                                                  2020],
                                     'intl': [ 'landing points for Kuwait-Iran, GBICS & MENA, FALCON, OMRAN/3PEG Cable '
                                               'System, POI and UAE-Iran submarine fiber-optic cable to the Middle '
@@ -7155,7 +7168,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 58117322},
+                       'users_internet': 59160000},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/iran/page-data.json',
             'name': 'Iran',
             'stan': 'IRN',
@@ -7185,17 +7198,16 @@ WORLD_FB = \
                        'population': 39650145,
                        'ports': {},
                        'region': ['Middle East'],
-                       'subs_broadband': 4559053,
-                       'subs_fixed': 2859094,
-                       'subs_mobile': 37224759,
+                       'subs_broadband': 5453799,
+                       'subs_fixed': 4166461,
+                       'subs_mobile': 36946600,
                        'telecom': { 'code': '964',
-                                    'domestic': [ 'the mobile cellular market continues to expand',
-                                                  '3G services offered by three major mobile operators',
+                                    'domestic': [ '3G services offered by three major mobile operators',
                                                   '4G offered by one operator in Iraqi',
                                                   'conflict has destroyed infrastructure in areas',
-                                                  '7 per 100 for fixed-line and 95 per 100 for mobile-cellular '
+                                                  'about 10 per 100 for fixed-line and 92 per 100 for mobile-cellular '
                                                   'subscriptions',
-                                                  2019],
+                                                  2020],
                                     'general': [ 'the 2003 liberation of Iraq severely disrupted telecommunications '
                                                  'throughout the country',
                                                  'widespread government efforts to rebuild domestic and international '
@@ -7205,7 +7217,7 @@ WORLD_FB = \
                                                  'operators focus on installations of new fiber-optic cables and '
                                                  'growth in mobile broadband subscribers',
                                                  'the most popular plans are pre-paid',
-                                                 'operators focused on fixing and replacing networks (2020)',
+                                                 'operators focused on fixing and replacing networks',
                                                  2020],
                                     'intl': [ 'landing points for FALCON, and GBICS/MENA submarine cables providing '
                                               'connections to the Middle East, Africa and India',
@@ -7228,7 +7240,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 18364390},
+                       'users_internet': 30520000},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/iraq/page-data.json',
             'name': 'Iraq',
             'stan': 'IRQ',
@@ -7252,16 +7264,16 @@ WORLD_FB = \
                           'population': 5224884,
                           'ports': {'container': 'Dublin (529,563) (2016)', 'seaport': 'Dublin, Shannon Foynes'},
                           'region': ['Europe'],
-                          'subs_broadband': 1462549,
-                          'subs_fixed': 1766937,
-                          'subs_mobile': 5160309,
+                          'subs_broadband': 1516252,
+                          'subs_fixed': 1678651,
+                          'subs_mobile': 5234027,
                           'telecom': { 'code': '353',
                                        'domestic': [ 'increasing levels of broadband access particularly in urban '
                                                      'areas',
-                                                     'fixed-line 36 per 100 and mobile-cellular 105 per 100 '
+                                                     'fixed-line 34 per 100 and mobile-cellular 106 per 100 '
                                                      'subscriptions',
                                                      'digital system using cable and microwave radio relay',
-                                                     2019],
+                                                     2020],
                                        'general': [ 'infrastructure projects are underway, including the national plan '
                                                     'to deliver fiber-based service of at least 150Mb/s nationally by '
                                                     'the end of 2022',
@@ -7269,7 +7281,7 @@ WORLD_FB = \
                                                     'service to most premises, and on 5G to cover more than half of '
                                                     'population',
                                                     'operator test of satellite broadband',
-                                                    'Dublin is smart city (2021)',
+                                                    'Dublin is a smart city',
                                                     2020],
                                        'intl': [ 'landing point for the AEConnect -1, Celtic-Norse, Havfrue/AEC-2, GTT '
                                                  'Express, Celtic, ESAT-1, IFC-1, Solas, Pan European Crossing, '
@@ -7291,7 +7303,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 4283516},
+                          'users_internet': 4510000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/ireland/page-data.json',
                'name': 'Ireland',
                'stan': 'IRL',
@@ -7330,7 +7342,8 @@ WORLD_FB = \
                                                      'the crucial nature of telecom services as a tool for work and '
                                                      'school from home became evident, and received some support from '
                                                      'governments',
-                                                     0]}},
+                                                     0]},
+                              'users_internet': 63500},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/isle-of-man/page-data.json',
                    'name': 'Isle of Man',
                    'stan': '',
@@ -7365,17 +7378,17 @@ WORLD_FB = \
                          'ports': { 'container': 'Ashdod (1,584,000) (2019)',
                                     'seaport': 'Ashdod, Elat (Eilat), Hadera, Haifa'},
                          'region': ['Middle East'],
-                         'subs_broadband': 2481000,
-                         'subs_fixed': 3140000,
-                         'subs_mobile': 11700000,
+                         'subs_broadband': 2602079,
+                         'subs_fixed': 3080000,
+                         'subs_mobile': 11400000,
                          'telecom': { 'code': '972',
                                       'domestic': [ 'good system of coaxial cable and microwave radio relay',
                                                     'all systems are digital',
                                                     'competition among both fixed-line and mobile cellular providers '
                                                     'results in good coverage countrywide',
-                                                    'fixed-line 36 per 100 and 127 per 100 for mobile-cellular '
-                                                    'subscriptions',
-                                                    2019],
+                                                    'fixed-line nearly 36 per 100 and nearly 132 per 100 for '
+                                                    'mobile-cellular subscriptions',
+                                                    2020],
                                       'general': [ 'Israel has a highly developed economy with focus on technology '
                                                    'products',
                                                    'investment in cyber-security industry and hub for start-ups',
@@ -7385,7 +7398,7 @@ WORLD_FB = \
                                                    'emergency law allows mobile tracking',
                                                    'importer of broadcast equipment, integrated circuits, and '
                                                    'computers from China',
-                                                   'submarine cable connectivity to Europe (2021)',
+                                                   'submarine cable connectivity to Europe',
                                                    2020],
                                       'intl': [ 'landing points for the MedNautilus Submarine System, Tameres North, '
                                                 'Jonah and Lev Submarine System, submarine cables that provide links '
@@ -7406,7 +7419,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 6873037},
+                         'users_internet': 7680000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/israel/page-data.json',
               'name': 'Israel',
               'stan': 'ISR',
@@ -7441,14 +7454,14 @@ WORLD_FB = \
                         'ports': { 'container': 'Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)',
                                    'seaport': 'Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice'},
                         'region': ['Europe'],
-                        'subs_broadband': 17470489,
-                        'subs_fixed': 19519434,
-                        'subs_mobile': 79480756,
+                        'subs_broadband': 17855620,
+                        'subs_fixed': 19430559,
+                        'subs_mobile': 77796840,
                         'telecom': { 'code': '39',
                                      'domestic': [ 'high-capacity cable and microwave radio relay trunks',
-                                                   '32 per 100 for fixed-line and 133 per 100 for mobile-cellular '
-                                                   'subscriptions',
-                                                   2019],
+                                                   '32 per 100 for fixed-line and nearly 128 per 100 for '
+                                                   'mobile-cellular subscriptions',
+                                                   2020],
                                      'general': [ 'well-developed, fully automated telephone, and data services',
                                                   'among highest mobile penetration rates in Europe',
                                                   'benefitted from progressive government programs aimed at developing '
@@ -7456,7 +7469,7 @@ WORLD_FB = \
                                                   'leading edge of development with 5G in six cities',
                                                   'fiber network reaches more than half of population',
                                                   'Milan developing smart city technology',
-                                                  'importer of broadcasting equipment and computers from China (2021)',
+                                                  'importer of broadcasting equipment and computers from China',
                                                   2020],
                                      'intl': [ 'landing points for Italy-Monaco, Italy-Libya, Italy-Malta, '
                                                'Italy-Greece-1, Italy-Croatia, BlueMed, Janna, FEA, SeaMeWe-3 & 4 & 5, '
@@ -7481,7 +7494,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 46305301},
+                        'users_internet': 50540000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/italy/page-data.json',
              'name': 'Italy',
              'stan': 'ITA',
@@ -7504,13 +7517,13 @@ WORLD_FB = \
                                      'seaport': 'Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, '
                                                 'Port Esquivel, Port Kaiser, Rocky Point'},
                           'region': ['Central America and the Caribbean'],
-                          'subs_broadband': 317907,
-                          'subs_fixed': 398048,
-                          'subs_mobile': 3023873,
+                          'subs_broadband': 385603,
+                          'subs_fixed': 436249,
+                          'subs_mobile': 2873259,
                           'telecom': { 'code': '1876',
-                                       'domestic': [ 'while the number of fixed-lines, 14 per 100, subscriptions has '
-                                                     'declined, cellular-mobile has grown 103 per 100 subscriptions',
-                                                     2019],
+                                       'domestic': [ 'fixed-line subscriptions nearly 15 per 100, cellular-mobile '
+                                                     'roughly 97 per 100 subscriptions',
+                                                     2020],
                                        'general': [ 'good domestic and international service',
                                                     'mobile sector dominates, accounting for majority of the Internet '
                                                     'connections and half of telecom sector revenue',
@@ -7523,7 +7536,7 @@ WORLD_FB = \
                                                     'institutions',
                                                     'operators provided customers with data plans to support '
                                                     'educational platforms',
-                                                    'US grant to fund New Kingston smart city program (2021)',
+                                                    'US grant to fund New Kingston smart city program',
                                                     2020],
                                        'intl': [ 'and 1-658',
                                                  'landing points for the ALBA-1, CFX-1, Fibralink, East-West, and '
@@ -7544,7 +7557,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1548618},
+                          'users_internet': 1630000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/jamaica/page-data.json',
                'name': 'Jamaica',
                'stan': 'JAM',
@@ -7563,7 +7576,8 @@ WORLD_FB = \
                             'country_name': {'conv_long': 'none', 'conv_short': 'Jan Mayen'},
                             'population': 0,
                             'ports': {},
-                            'region': ['Arctic Region']},
+                            'region': ['Arctic Region'],
+                            'users_internet': 1542},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/jan-mayen/page-data.json',
                  'name': 'Jan Mayen',
                  'stan': 'SJM',
@@ -7595,15 +7609,15 @@ WORLD_FB = \
                                    'seaport': 'Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, '
                                               'Tomakomai, Yokohama'},
                         'region': ['Asia'],
-                        'subs_broadband': 42502489,
-                        'subs_fixed': 62743196,
-                        'subs_mobile': 186514109,
+                        'subs_broadband': 43633244,
+                        'subs_fixed': 62252837,
+                        'subs_mobile': 192284308,
                         'telecom': { 'code': '81',
                                      'domestic': [ 'high level of modern technology and excellent service of every '
                                                    'kind',
-                                                   '50 per 100 for fixed-line and 140 per 100 for mobile-cellular '
+                                                   '49 per 100 for fixed-line and 152 per 100 for mobile-cellular '
                                                    'subscriptions',
-                                                   2019],
+                                                   2020],
                                      'general': [ 'excellent domestic and international service',
                                                   'exceedingly high mobile, mobile broadband, and fixed broadband '
                                                   'penetration',
@@ -7613,7 +7627,7 @@ WORLD_FB = \
                                                   'own nationwide stand-alone 5G mobile network',
                                                   'government to implement a telecom tax to pay for rural 5G network',
                                                   'fixed broadband subscriptions grow as DSL is phased out',
-                                                  'major importer of integrated circuits from China (2020)',
+                                                  'major importer of integrated circuits from China',
                                                   2020],
                                      'intl': [ 'numerous submarine cables with landing points for HSCS, JIH, RJCN, '
                                                'APCN-2, JUS, EAC-C2C, PC-1, Tata TGN-Pacific, FLAG North Asia '
@@ -7639,7 +7653,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 106725643},
+                        'users_internet': 117400000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/japan/page-data.json',
              'name': 'Japan',
              'stan': 'JPN',
@@ -7671,13 +7685,13 @@ WORLD_FB = \
                          'population': 101476,
                          'ports': {'seaport': 'Gorey, Saint Aubin, Saint Helier'},
                          'region': ['Europe'],
-                         'subs_fixed': 55938,
-                         'subs_mobile': 122668,
+                         'subs_broadband': 39699,
+                         'subs_fixed': 48310,
+                         'subs_mobile': 124262,
                          'telecom': { 'code': '44',
-                                      'domestic': [ 'fixed-line and mobile-cellular services widely available',
-                                                    'fixed-line 58 per 100 and mobile-cellular 119 per 100 '
+                                      'domestic': [ 'fixed-line 45 per 100 and mobile-cellular 115 per 100 '
                                                     'subscriptions',
-                                                    2018],
+                                                    2020],
                                       'general': ['good system with broadband access', 2018],
                                       'intl': [ 'landing points for the INGRID, UK-Channel Islands-8, and '
                                                 'Guernsey-Jersey-4, submarine cable connectivity to Guernsey, the UK, '
@@ -7696,7 +7710,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 58000},
+                         'users_internet': 100300},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/jersey/page-data.json',
               'name': 'Jersey',
               'stan': '',
@@ -7736,18 +7750,18 @@ WORLD_FB = \
                          'population': 10909567,
                          'ports': {'seaport': "Al 'Aqabah"},
                          'region': ['Middle East'],
-                         'subs_broadband': 457496,
-                         'subs_fixed': 355537,
-                         'subs_mobile': 7778770,
+                         'subs_broadband': 625657,
+                         'subs_fixed': 391486,
+                         'subs_mobile': 6987891,
                          'telecom': { 'code': '962',
                                       'domestic': [ '1995 a telecommunications law opened all non-fixed-line services '
                                                     'to private competition',
                                                     'in 2005, the monopoly over fixed-line services terminated and the '
                                                     'entire telecommunications sector was opened to competition',
-                                                    'currently fixed-line 4 per 100 persons and multiple '
-                                                    'mobile-cellular providers with subscribership up to 77 per 100 '
-                                                    'persons',
-                                                    2019],
+                                                    'currently fixed-line stands at nearly 4 per 100 persons and '
+                                                    'multiple mobile-cellular providers with subscribership over 68 '
+                                                    'per 100 persons',
+                                                    2020],
                                       'general': [ 'Jordan is host to a growing number of ICT companies and has '
                                                    'emerged as a technology start-up hub for the Middle East',
                                                    'recently focused on telecom solutions to pandemic issues such as '
@@ -7756,7 +7770,7 @@ WORLD_FB = \
                                                    'economic goals rely on digital economy, developed mobile sector, '
                                                    'and extensive LTE infrastructure',
                                                    'preparation for 5G and e-commerce',
-                                                   'importer of broadcasting equipment from Vietnam and China (2021)',
+                                                   'importer of broadcasting equipment from Vietnam and China',
                                                    2020],
                                       'intl': [ 'landing point for the FEA and Taba-Aqaba submarine cable networks '
                                                 'providing connectivity to Europe, the Middle East, Southeast Asia and '
@@ -7777,7 +7791,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 6985174},
+                         'users_internet': 6840000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/jordan/page-data.json',
               'name': 'Jordan',
               'stan': 'JOR',
@@ -7817,22 +7831,22 @@ WORLD_FB = \
                              'population': 19245793,
                              'ports': {'seaport': "Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)"},
                              'region': ['Asia'],
-                             'subs_broadband': 2511100,
-                             'subs_fixed': 3072500,
-                             'subs_mobile': 25717700,
+                             'subs_broadband': 2616500,
+                             'subs_fixed': 2616500,
+                             'subs_mobile': 25177000,
                              'telecom': { 'code': '7',
                                           'domestic': [ 'intercity by landline and microwave radio relay',
-                                                        'number of fixed-line connections is 17 per 100 persons',
-                                                        'mobile-cellular usage increased rapidly and the subscriber '
-                                                        'base approaches 139 per 100 persons',
-                                                        2019],
+                                                        'number of fixed-line connections is approximately 17 per 100 '
+                                                        'persons',
+                                                        'mobile-cellular subscriber base 134 per 100 persons',
+                                                        2020],
                                           'general': [ 'one of the most progressive telecom sectors in Central Asia',
                                                        'vast 4G network',
                                                        'low fixed-line and fixed-broadband penetration',
                                                        'moderate mobile broadband penetration and high mobile '
                                                        'penetration',
                                                        'mobile market highly competitive and growth is slow due to '
-                                                       'saturation (2020)',
+                                                       'saturation',
                                                        2020],
                                           'intl': [ 'international traffic with other former Soviet republics and '
                                                     'China carried by landline and microwave radio relay and with '
@@ -7853,7 +7867,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 14789448},
+                             'users_internet': 15470000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kazakhstan/page-data.json',
                   'name': 'Kazakhstan',
                   'stan': 'KAZ',
@@ -7889,8 +7903,8 @@ WORLD_FB = \
                                      'domestic': [ 'fixed-line subscriptions stand at less than 1 per 100 persons',
                                                    'multiple providers in the mobile-cellular segment of the market '
                                                    'fostering a boom in mobile-cellular telephone usage with '
-                                                   'teledensity reaching 104 per 100 persons',
-                                                   2019],
+                                                   'teledensity reaching 114 per 100 persons',
+                                                   2020],
                                      'general': [ "through increased competition, Kenya's telecom market has improved "
                                                   'international bandwidth and experienced rapid development in mobile '
                                                   'sector, including remote regions',
@@ -7901,7 +7915,7 @@ WORLD_FB = \
                                                   'mobile operators progress with 5G tests',
                                                   'e-commerce interoperability',
                                                   'importer of broadcasting equipment, video displays, and computers '
-                                                  'from China (2021)',
+                                                  'from China',
                                                   2020],
                                      'intl': [ 'landing point for the EASSy, TEAMS, LION2, DARE1, PEACE Cable, and '
                                                'SEACOM fiber-optic submarine cable systems covering East, North and '
@@ -7922,7 +7936,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 9129243},
+                        'users_internet': 21750000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kenya/page-data.json',
              'name': 'Kenya',
              'stan': 'KEN',
@@ -7962,13 +7976,13 @@ WORLD_FB = \
                            'population': 113001,
                            'ports': {'seaport': 'Betio (Tarawa Atoll), Canton Island, English Harbor'},
                            'region': ['Oceania'],
-                           'subs_broadband': 105,
-                           'subs_fixed': 22,
-                           'subs_mobile': 54658,
+                           'subs_broadband': 185,
+                           'subs_fixed': 33,
+                           'subs_mobile': 54661,
                            'telecom': { 'code': '686',
-                                        'domestic': [ 'fixed-line 1 per 100 and mobile-cellular 46 per 100 '
-                                                      'subscriptions',
-                                                      2019],
+                                        'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular '
+                                                      'approximately 46 per 100 subscriptions',
+                                                      2020],
                                         'general': [ 'generally good national and international service',
                                                      'wireline service available on Tarawa and Kiritimati (Christmas '
                                                      'Island)',
@@ -7999,7 +8013,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 15946},
+                           'users_internet': 17600},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kiribati/page-data.json',
                 'name': 'Kiribati',
                 'stan': 'KIR',
@@ -8032,8 +8046,8 @@ WORLD_FB = \
                                                           'mobile service launched in late 2008 for the Pyongyang area '
                                                           'and considerable progress in expanding to other parts of '
                                                           'the country since',
-                                                          'fixed-lines are 5 per 100 and mobile-cellular 15 per 100 '
-                                                          'persons',
+                                                          'fixed-lines are approximately 5 per 100 and mobile-cellular '
+                                                          '15 per 100 persons',
                                                           2019],
                                             'general': [ 'underdeveloped yet growing market dependent on 3G',
                                                          'nationwide fiber-optic network',
@@ -8044,7 +8058,7 @@ WORLD_FB = \
                                                          'infrastructure',
                                                          'low broadband penetration',
                                                          'international communication restricted and domestic use '
-                                                         'monitored by state (2021)',
+                                                         'monitored by state',
                                                          2020],
                                             'intl': [ 'satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 '
                                                       'Russian - Indian Ocean region)',
@@ -8093,15 +8107,15 @@ WORLD_FB = \
                                                        '(2019)',
                                           'seaport': 'Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu'},
                                'region': ['Asia'],
-                               'subs_broadband': 21906172,
-                               'subs_fixed': 24727415,
-                               'subs_mobile': 68892541,
+                               'subs_broadband': 22330182,
+                               'subs_fixed': 23858239,
+                               'subs_mobile': 70513676,
                                'telecom': { 'code': '82',
-                                            'domestic': [ 'fixed-line 48 per 100 and mobile-cellular services 135 per '
-                                                          '100 persons',
+                                            'domestic': [ 'fixed-line approximately 47 per 100 and mobile-cellular '
+                                                          'services 138 per 100 persons',
                                                           'rapid assimilation of a full range of telecommunications '
                                                           'technologies leading to a boom in e-commerce',
-                                                          2019],
+                                                          2020],
                                             'general': [ 'excellent domestic and international services featuring '
                                                          'rapid incorporation of new technologies',
                                                          'exceedingly high mobile, mobile broadband, and fixed '
@@ -8115,7 +8129,7 @@ WORLD_FB = \
                                                          'import of integrated circuits, broadcasting equipment, and '
                                                          'phones from China',
                                                          'government and private partnership on national e-commerce '
-                                                         'and smart city development (2021)',
+                                                         'and smart city development',
                                                          2020],
                                             'intl': [ 'landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, '
                                                       'FLAG North Asia Loop/REACH North Asia Loop, KJCN, NCP, and SJC2 '
@@ -8137,7 +8151,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 49309955},
+                               'users_internet': 49750000},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/korea-south/page-data.json',
                     'name': 'Korea, South',
                     'stan': 'KOR',
@@ -8151,7 +8165,10 @@ WORLD_FB = \
               'gec': 'KV',
               'infos': { 'airports': 6,
                          'area': {'land': '10,887 sq km', 'total': '10,887 sq km', 'water': '0 sq km'},
-                         'boundaries': { 'bord': {'Albania': 112, 'Macedonia': 160, 'Montenegro': 76, 'Serbia': 366},
+                         'boundaries': { 'bord': { 'Albania': 112,
+                                                   'Montenegro': 76,
+                                                   'North Macedonia': 160,
+                                                   'Serbia': 366},
                                          'len': 714},
                          'capital': { 'coord': '42 40 N, 21 10 E',
                                       'name': 'Pristina (Prishtine, Prishtina)',
@@ -8167,7 +8184,7 @@ WORLD_FB = \
                          'subs_fixed': 117317,
                          'subs_mobile': 620186,
                          'telecom': { 'code': '383',
-                                      'domestic': [ 'fixed-line stands at 6 per 100 and mobile-cellular 32 per 100 '
+                                      'domestic': [ 'fixed-line roughly 6 per 100 and mobile-cellular 32 per 100 '
                                                     'persons',
                                                     2019],
                                       'general': [ 'EU pre-accession process supported progress in the telecom '
@@ -8177,7 +8194,7 @@ WORLD_FB = \
                                                    'under-developed telecom infrastructure leads to low fixed-line '
                                                    'penetration',
                                                    'little expansion of fiber networks for broadband',
-                                                   'expansion of LTE services (2020)',
+                                                   'expansion of LTE services',
                                                    2020],
                                       'intl': [0],
                                       'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -8193,7 +8210,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 1706150},
+                         'users_internet': 1760000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kosovo/page-data.json',
               'name': 'Kosovo',
               'stan': '',
@@ -8218,13 +8235,13 @@ WORLD_FB = \
                          'ports': { 'seaport': "Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, "
                                                "Mina' al Ahmadi"},
                          'region': ['Middle East'],
-                         'subs_broadband': 84595,
+                         'subs_broadband': 73948,
                          'subs_fixed': 583463,
-                         'subs_mobile': 7327028,
+                         'subs_mobile': 6770346,
                          'telecom': { 'code': '965',
-                                      'domestic': [ 'fixed-line subscriptions are 12 per 100 and mobile-cellular '
-                                                    'stands at 174 per 100 subscriptions',
-                                                    2019],
+                                      'domestic': [ 'fixed-line subscriptions are nearly 14 per 100 and '
+                                                    'mobile-cellular stands at nearly 159 per 100 subscriptions',
+                                                    2020],
                                       'general': [ 'the quality of service is excellent',
                                                    'new telephone exchanges provide a large capacity for new '
                                                    'subscribers',
@@ -8237,7 +8254,7 @@ WORLD_FB = \
                                                    'high ownership levels of smart phones in Kuwait',
                                                    'one of the highest mobile penetration rates in the world',
                                                    'exploring 5G opportunities',
-                                                   'improvements to fiber-broadband underway (2020)',
+                                                   'improvements to fiber-broadband underway',
                                                    2020],
                                       'intl': [ 'landing points for the FOG, GBICS, MENA, Kuwait-Iran, and FALCON '
                                                 'submarine cables linking Africa, the Middle East, and Asia',
@@ -8258,7 +8275,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 2904801},
+                         'users_internet': 4260000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kuwait/page-data.json',
               'name': 'Kuwait',
               'stan': 'KWT',
@@ -8290,8 +8307,8 @@ WORLD_FB = \
                              'subs_fixed': 298855,
                              'subs_mobile': 8622565,
                              'telecom': { 'code': '996',
-                                          'domestic': [ 'fixed-line penetration 5 per 100 persons remains low and '
-                                                        'concentrated in urban areas',
+                                          'domestic': [ 'fixed-line penetration at nearly 5 per 100 persons remains '
+                                                        'low and concentrated in urban areas',
                                                         'mobile-cellular subscribership up to over 134 per 100 persons',
                                                         2019],
                                           'general': [ 'fixed-line declining as 4G LTE mobile is universally available',
@@ -8305,7 +8322,7 @@ WORLD_FB = \
                                                        'World Bank investment into digital infrastructure with aims to '
                                                        'provide broadband Internet to 60% of the population',
                                                        'social disparity evident in pandemic as many school children '
-                                                       'could not attend classes on-line (2021)',
+                                                       'could not attend classes on-line',
                                                        2020],
                                           'intl': [ 'connections with other CIS (Commonwealth of Independent States, 9 '
                                                     'members post-Soviet Republics in EU) countries by landline or '
@@ -8328,7 +8345,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 2222732},
+                             'users_internet': 3320000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kyrgyzstan/page-data.json',
                   'name': 'Kyrgyzstan',
                   'stan': 'KGZ',
@@ -8356,11 +8373,11 @@ WORLD_FB = \
                                          'local_short': 'Mueang Lao (unofficial)'},
                        'population': 7574356,
                        'region': ['Southeast Asia'],
-                       'subs_broadband': 45379,
+                       'subs_broadband': 76280,
                        'subs_fixed': 1490831,
                        'subs_mobile': 4362183,
                        'telecom': { 'code': '856',
-                                    'domestic': [ 'fixed-line 21 per 100 and 61 per 100 for mobile-cellular '
+                                    'domestic': [ 'fixed-line nearly 21 per 100 and 61 per 100 for mobile-cellular '
                                                   'subscriptions',
                                                   2019],
                                     'general': [ 'reliance on radio network to communicate with remote areas',
@@ -8374,7 +8391,7 @@ WORLD_FB = \
                                                  'state owns almost all media, except for some entertainment outlets, '
                                                  'and has suppressed some news',
                                                  'importer of broadcasting equipment and computers from China',
-                                                 'providers examining m-payment platforms and 5G tests (2021)',
+                                                 'providers examining m-payment platforms and 5G tests',
                                                  2020],
                                     'intl': [ 'satellite earth station - 1 Intersputnik (Indian Ocean region) and a '
                                               'second to be developed by China',
@@ -8392,7 +8409,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 1845437},
+                       'users_internet': 3550000},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/laos/page-data.json',
             'name': 'Laos',
             'stan': 'LAO',
@@ -8417,13 +8434,13 @@ WORLD_FB = \
                          'population': 1862687,
                          'ports': {'seaport': 'Riga, Ventspils'},
                          'region': ['Europe'],
-                         'subs_broadband': 508894,
-                         'subs_fixed': 227616,
-                         'subs_mobile': 2071814,
+                         'subs_broadband': 503804,
+                         'subs_fixed': 211849,
+                         'subs_mobile': 2051359,
                          'telecom': { 'code': '371',
-                                      'domestic': [ 'fixed-line 12 per 100 and mobile-cellular 109 per 100 '
-                                                    'subscriptions',
-                                                    2019],
+                                      'domestic': [ 'fixed-line roughly 11 per 100 and mobile-cellular nearly 109 per '
+                                                    '100 subscriptions',
+                                                    2020],
                                       'general': [ 'recent efforts focused on bringing competition to the '
                                                    'telecommunications sector',
                                                    'the number of fixed-line phones is decreasing as mobile-cellular '
@@ -8436,7 +8453,7 @@ WORLD_FB = \
                                                    'technologies and 5G service growth',
                                                    'developing sophisticated digital economy with e-commerce and '
                                                    'e-government widely available',
-                                                   "operator working on cable to Sakhalin in Russia's Far East (2021)",
+                                                   "operator working on cable to Sakhalin in Russia's Far East",
                                                    2020],
                                       'intl': [ 'the Latvian network is now connected via fiber-optic cable to '
                                                 'Estonia, Finland, and Sweden',
@@ -8454,7 +8471,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 1607711},
+                         'users_internet': 1670000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/latvia/page-data.json',
               'name': 'Latvia',
               'stan': 'LVA',
@@ -8478,18 +8495,18 @@ WORLD_FB = \
                           'population': 5261372,
                           'ports': {'container': 'Beirut (1,229,100) (2019)', 'seaport': 'Beirut, Tripoli'},
                           'region': ['Middle East'],
-                          'subs_broadband': 420000,
-                          'subs_fixed': 882175,
-                          'subs_mobile': 4237962,
+                          'subs_broadband': 432070,
+                          'subs_fixed': 875480,
+                          'subs_mobile': 4288221,
                           'telecom': { 'code': '961',
-                                       'domestic': [ 'fixed-line 13 per 100 and 62 per 100 for mobile-cellular '
-                                                     'subscriptions',
-                                                     2019],
-                                       'general': [ 'struggling with effects of economic malaise during pandemic and '
-                                                    'following explosion in Beirut port',
-                                                    "Lebanon's telecom infrastructure is relatively weak, and services "
+                                       'domestic': [ 'fixed-line nearly 13 per 100 and nearly 63 per 100 for '
+                                                     'mobile-cellular subscriptions',
+                                                     2020],
+                                       'general': [ 'struggling with effects of the economic crisis compounded by the '
+                                                    'Covid-19 pandemic and the Port of Beirut explosion in 2020',
+                                                    "Lebanon's telecom infrastructure is relatively weak and services "
                                                     'are expensive',
-                                                    'rural areas are less connected and have power cuts',
+                                                    'rural areas are less connected and experience frequent power cuts',
                                                     'state retains a monopoly over the Internet backbone and dominant '
                                                     'ownership of the telecom industry',
                                                     'government backed improvements to fixed infrastructure',
@@ -8497,7 +8514,7 @@ WORLD_FB = \
                                                     'limited 5G services',
                                                     'three international gateways through submarine cables',
                                                     'importer of broadcasting equipment from UAE',
-                                                    'UAE investment in tech solutions (2021)',
+                                                    'UAE investment in tech solutions',
                                                     2020],
                                        'intl': [ 'landing points for the IMEWE, BERYTAR AND CADMOS submarine cable '
                                                  'links to Europe, Africa, the Middle East and Asia',
@@ -8517,7 +8534,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 4769039},
+                          'users_internet': 5310000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/lebanon/page-data.json',
                'name': 'Lebanon',
                'stan': 'LBN',
@@ -8540,17 +8557,16 @@ WORLD_FB = \
                                             'local_short': 'Lesotho'},
                           'population': 2177740,
                           'region': ['Africa'],
-                          'subs_broadband': 6329,
-                          'subs_fixed': 13426,
-                          'subs_mobile': 1583192,
+                          'subs_broadband': 5060,
+                          'subs_fixed': 11574,
+                          'subs_mobile': 1562648,
                           'telecom': { 'code': '266',
-                                       'domestic': [ 'fixed-line is 1 per 100 subscriptions',
-                                                     'mobile-cellular service dominates the market with a '
-                                                     'subscribership now over 114 per 100 persons',
+                                       'domestic': [ 'fixed-line is less than 1 per 100 subscriptions',
+                                                     'mobile-cellular service subscribership nearly 73 per 100 persons',
                                                      'rudimentary system consisting of a modest number of landlines, a '
                                                      'small microwave radio relay system, and a small radiotelephone '
                                                      'communication system',
-                                                     2019],
+                                                     2020],
                                        'general': [ 'small market with few business incentives',
                                                     'fixed-line tele-density and mobile penetration remains below '
                                                     'regional average',
@@ -8561,7 +8577,7 @@ WORLD_FB = \
                                                     'African coast through neighboring countries yet Internet is '
                                                     'expensive',
                                                     'importer of broadcasting equipment and computers from South '
-                                                    'Africa (2021)',
+                                                    'Africa',
                                                     2020],
                                        'intl': [ 'Internet accessibility has improved with several submarine fiber '
                                                  'optic cables that land on African east and west coasts, but the '
@@ -8581,7 +8597,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 569114},
+                          'users_internet': 1030000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/lesotho/page-data.json',
                'name': 'Lesotho',
                'stan': 'LSO',
@@ -8603,9 +8619,9 @@ WORLD_FB = \
                           'population': 5214030,
                           'ports': {'seaport': 'Buchanan, Monrovia'},
                           'region': ['Africa'],
-                          'subs_broadband': 8000,
-                          'subs_fixed': 8394,
-                          'subs_mobile': 2793316,
+                          'subs_broadband': 9000,
+                          'subs_fixed': 8000,
+                          'subs_mobile': 2660000,
                           'telecom': { 'code': '231',
                                        'domestic': [ 'fixed-line less than 1 per 100',
                                                      'mobile-cellular subscription base growing and teledensity '
@@ -8623,7 +8639,7 @@ WORLD_FB = \
                                                     'rural areas have little access',
                                                     'fixed-line service is stagnant and extremely limited',
                                                     'operators introducing e-commerce',
-                                                    'importer of broadcast equipment from China (2021)',
+                                                    'importer of broadcast equipment from China',
                                                     2020],
                                        'intl': [ 'landing point for the ACE submarine cable linking 20 West African '
                                                  'countries and Europe',
@@ -8642,7 +8658,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 383819},
+                          'users_internet': 761000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/liberia/page-data.json',
                'name': 'Liberia',
                'stan': 'LBR',
@@ -8672,11 +8688,12 @@ WORLD_FB = \
                         'population': 7017224,
                         'ports': {'seaport': 'Marsa al Burayqah (Marsa el Brega), Tripoli'},
                         'region': ['Africa'],
-                        'subs_broadband': 168920,
-                        'subs_fixed': 1618511,
-                        'subs_mobile': 6182105,
+                        'subs_broadband': 318000,
+                        'subs_fixed': 1576000,
+                        'subs_mobile': 6020000,
                         'telecom': { 'code': '218',
-                                     'domestic': [ '24 per 100 fixed-line and 91 per 100 mobile-cellular subscriptions',
+                                     'domestic': [ 'nearly 24 per 100 fixed-line and over 91 per 100 mobile-cellular '
+                                                   'subscriptions',
                                                    'service generally adequate',
                                                    2019],
                                      'general': [ 'political and security instability in Libya has disrupted its '
@@ -8688,9 +8705,12 @@ WORLD_FB = \
                                                   'investment in fiber backbone and upgrades to international cables',
                                                   'limited LTE and 5G service',
                                                   'some satellite broadband',
-                                                  'importer of broadcasting equipment from UAE and video displays from '
-                                                  'China (2021)',
-                                                  2020],
+                                                  'Chinese companies have heavily invested in Libyan infrastructure '
+                                                  'and now dominate the telecommunications sector',
+                                                  'in 2021 Libya signed deals and projects with US firms to upgrade '
+                                                  'portions of its infrastructure, increasing the diversity of its '
+                                                  'telecommunications networks',
+                                                  2021],
                                      'intl': [ 'landing points for LFON, EIG, Italy-Libya, Silphium and Tobrok-Emasaed '
                                                'submarine cable system connecting Europe, Africa, the Middle East and '
                                                'Asia',
@@ -8712,7 +8732,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 1440859},
+                        'users_internet': 3190000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/libya/page-data.json',
              'name': 'Libya',
              'stan': 'LBY',
@@ -8734,13 +8754,13 @@ WORLD_FB = \
                                                   'local_short': 'Liechtenstein'},
                                 'population': 39425,
                                 'region': ['Europe'],
-                                'subs_broadband': 17173,
-                                'subs_fixed': 13727,
-                                'subs_mobile': 47748,
+                                'subs_broadband': 18063,
+                                'subs_fixed': 12723,
+                                'subs_mobile': 48904,
                                 'telecom': { 'code': '423',
-                                             'domestic': [ 'fixed-line 37 per 100 and mobile-cellular services 127 per '
-                                                           '100',
-                                                           2019],
+                                             'domestic': [ 'fixed-line roughly 33 per 100 and mobile-cellular services '
+                                                           '128 per 100',
+                                                           2020],
                                              'general': [ 'automatic telephone system',
                                                           '44 Internet service providers in Liechtenstein and '
                                                           'Switzerland combined',
@@ -8763,7 +8783,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 37815},
+                                'users_internet': 37800},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/liechtenstein/page-data.json',
                      'name': 'Liechtenstein',
                      'stan': 'LIE',
@@ -8789,16 +8809,16 @@ WORLD_FB = \
                             'population': 2711566,
                             'ports': {'seaport': 'Klaipeda'},
                             'region': ['Europe'],
-                            'subs_broadband': 791826,
-                            'subs_fixed': 368213,
-                            'subs_mobile': 4658823,
+                            'subs_broadband': 796814,
+                            'subs_fixed': 322108,
+                            'subs_mobile': 4742427,
                             'telecom': { 'code': '370',
-                                         'domestic': [ '13 per 100 for fixed-line subscriptions',
+                                         'domestic': [ 'nearly 12 per 100 for fixed-line subscriptions',
                                                        'rapid expansion of mobile-cellular services has resulted in a '
                                                        'steady decline in the number of fixed-line connections',
-                                                       'mobile-cellular teledensity stands at about 169 per 100 '
+                                                       'mobile-cellular teledensity stands at about 174 per 100 '
                                                        'persons',
-                                                       2019],
+                                                       2020],
                                          'general': [ "Lithuania's small telecom market is among the most advanced in "
                                                       'Europe, with universal access to LTE, extensive fiber '
                                                       'footprint, and tests of 5G',
@@ -8809,7 +8829,7 @@ WORLD_FB = \
                                                       'entertainment, and shopping during pandemic supporting growth '
                                                       'in revenue through fiber lines',
                                                       'importer of broadcast equipment and video displays from '
-                                                      'neighboring EU countries (2021)',
+                                                      'neighboring EU countries',
                                                       2020],
                                          'intl': [ 'landing points for the BCS East, BCS East-West Interlink and '
                                                    'NordBalt connecting Lithuania to Sweden, and Latvia',
@@ -8830,7 +8850,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 2226806},
+                            'users_internet': 2220000},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/lithuania/page-data.json',
                  'name': 'Lithuania',
                  'stan': 'LTU',
@@ -8854,15 +8874,15 @@ WORLD_FB = \
                              'population': 639589,
                              'ports': {},
                              'region': ['Europe'],
-                             'subs_broadband': 230100,
-                             'subs_fixed': 267400,
-                             'subs_mobile': 835900,
+                             'subs_broadband': 235155,
+                             'subs_fixed': 268090,
+                             'subs_mobile': 890000,
                              'telecom': { 'code': '352',
                                           'domestic': [ 'fixed-line teledensity about 43 per 100 persons',
                                                         'nationwide mobile-cellular telephone system with market for '
-                                                        'mobile-cellular phones virtually saturated with 136 per 100 '
-                                                        'mobile-cellular',
-                                                        2019],
+                                                        'mobile-cellular phones virtually saturated with about 142 per '
+                                                        '100 mobile-cellular',
+                                                        2020],
                                           'general': [ 'small but highly developed telecom system dominated by '
                                                        'state-owned operator',
                                                        'gains in fixed-line and drop in mobile/roving sector during '
@@ -8870,7 +8890,7 @@ WORLD_FB = \
                                                        'government-state operator extended 1GB/s service with aims to '
                                                        'make Luxembourg the first fully fiber country in Europe',
                                                        'regulator completed auction for 5G spectrum',
-                                                       'importer of broadcast equipment from China (2021)',
+                                                       'importer of broadcast equipment from China',
                                                        2020],
                                           'intl': [0],
                                           'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -8887,7 +8907,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 587955},
+                             'users_internet': 612100},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/luxembourg/page-data.json',
                   'name': 'Luxembourg',
                   'stan': 'LUX',
@@ -8908,10 +8928,11 @@ WORLD_FB = \
                         'ports': {'seaport': 'Macau'},
                         'region': ['Southeast Asia'],
                         'subs_broadband': 193057,
-                        'subs_fixed': 119355,
-                        'subs_mobile': 2108274,
+                        'subs_fixed': 123469,
+                        'subs_mobile': 2181194,
                         'telecom': { 'code': '853',
-                                     'domestic': [ 'fixed-line 20 per 100 and mobile-cellular 345 per 100 persons',
+                                     'domestic': [ 'fixed-line nearly 20 per 100 and mobile-cellular roughly 329 per '
+                                                   '100 persons',
                                                    2019],
                                      'general': [ "Macau's sophisticated telecom market boasts one of the highest "
                                                   'mobile penetration rates in the world due to high tourism',
@@ -8924,7 +8945,7 @@ WORLD_FB = \
                                                   'possible synchronizing with neighboring regions',
                                                   "Macau's smart city project spans areas of transportation, medical "
                                                   'services, tourism, and e-government',
-                                                  'importer of broadcast and video equipment from China (2021)',
+                                                  'importer of broadcast and video equipment from China',
                                                   2020],
                                      'intl': [ 'landing point for the SEA-ME-WE-3 submarine cable network that '
                                                'provides links to Asia, Africa, Australia, the Middle East, and Europe',
@@ -8944,7 +8965,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 508052},
+                        'users_internet': 565600},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/macau/page-data.json',
              'name': 'Macau',
              'stan': 'MAC',
@@ -8969,11 +8990,11 @@ WORLD_FB = \
                              'ports': {'seaport': 'Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)'},
                              'region': ['Africa'],
                              'subs_broadband': 27211,
-                             'subs_fixed': 68426,
-                             'subs_mobile': 10677153,
+                             'subs_fixed': 69046,
+                             'subs_mobile': 10654710,
                              'telecom': { 'code': '261',
                                           'domestic': [ 'less than 1 per 100 for fixed-line and mobile-cellular '
-                                                        'teledensity about 41 per 100 persons',
+                                                        'teledensity about 34 per 100 persons',
                                                         2019],
                                           'general': [ 'penetration rates below African average',
                                                        'competition among mobile service providers has spurred recent '
@@ -8985,7 +9006,7 @@ WORLD_FB = \
                                                        'access',
                                                        'telecom service tax raised to 10%',
                                                        'investment in submarine cable to South Africa and Mauritius',
-                                                       'importer of broadcasting and video equipment from China (2021)',
+                                                       'importer of broadcasting and video equipment from China',
                                                        2020],
                                           'intl': [ 'landing points for the EASSy, METISS, and LION fiber-optic '
                                                     'submarine cable systems connecting to numerous Indian Ocean '
@@ -9007,7 +9028,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 2516994},
+                             'users_internet': 5450000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/madagascar/page-data.json',
                   'name': 'Madagascar',
                   'stan': 'MDG',
@@ -9031,15 +9052,15 @@ WORLD_FB = \
                          'population': 20308502,
                          'ports': {},
                          'region': ['Africa'],
-                         'subs_broadband': 11358,
-                         'subs_fixed': 13101,
-                         'subs_mobile': 8901027,
+                         'subs_broadband': 12255,
+                         'subs_fixed': 12465,
+                         'subs_mobile': 10004680,
                          'telecom': { 'code': '265',
                                       'domestic': [ 'limited fixed-line subscribership less than 1 per 100 households',
                                                     'mobile-cellular services are expanding but network coverage is '
                                                     'limited and is based around the main urban areas',
-                                                    'mobile-cellular subscribership 48 per 100 households',
-                                                    2019],
+                                                    'mobile-cellular subscribership roughly 52 per 100 households',
+                                                    2020],
                                       'general': [ "Malawi remains one of the world's least developed countries, with "
                                                    'few resources to build efficient fixed-line telecom infrastructure',
                                                    'mobile penetration low compared to region with ample opportunity '
@@ -9050,7 +9071,7 @@ WORLD_FB = \
                                                    'progress in m-payment methods',
                                                    'prospect of international submarine cables from neighboring '
                                                    'countries',
-                                                   'importer of broadcast equipment from China (2021)',
+                                                   'importer of broadcast equipment from China',
                                                    2020],
                                       'intl': [ 'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic '
                                                 'Ocean)',
@@ -9068,7 +9089,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 2734305},
+                         'users_internet': 3450000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/malawi/page-data.json',
               'name': 'Malawi',
               'stan': 'MWI',
@@ -9096,17 +9117,17 @@ WORLD_FB = \
                            'population': 33519406,
                            'ports': { 'container': 'Port Kelang (Port Klang) (13,580,717), Tanjung Pelepas (9,100,000) '
                                                    '(2019)',
-                                      'seaport': 'Bintulu, Johor Bahru, George Town (Penang), Port Kelang (Port '
+                                      'seaport': 'Bintulu, Johor Bahru, George Town (Penang), Pelabuhan Klang (Port '
                                                  'Klang), Tanjung Pelepas'},
                            'region': ['Southeast Asia'],
-                           'subs_broadband': 2964500,
-                           'subs_fixed': 7446300,
-                           'subs_mobile': 44600700,
+                           'subs_broadband': 3358800,
+                           'subs_fixed': 7467900,
+                           'subs_mobile': 43723600,
                            'telecom': { 'code': '60',
-                                        'domestic': [ 'fixed-line 20 per 100 and mobile-cellular teledensity exceeds '
-                                                      '140 per 100 persons',
+                                        'domestic': [ 'fixed-line roughly 23 per 100 and mobile-cellular teledensity '
+                                                      'roughly 135 per 100 persons',
                                                       'domestic satellite system with 2 earth stations',
-                                                      2019],
+                                                      2020],
                                         'general': [ 'one of the most advanced telecom networks in the developing '
                                                      'world',
                                                      'strong commitment to developing a technological society',
@@ -9118,7 +9139,7 @@ WORLD_FB = \
                                                      'government development of five-year fiber and connectivity plan',
                                                      "some of Malaysia's key exports are integrated circuits and "
                                                      'broadcasting equipment to North America and China',
-                                                     'importer of integrated circuits from Singapore and China (2021)',
+                                                     'importer of integrated circuits from Singapore and China',
                                                      2020],
                                         'intl': [ 'landing points for BBG, FEA, SAFE, SeaMeWe-3 & 4 & 5, AAE-1, '
                                                   'JASUKA, BDM, Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West '
@@ -9144,7 +9165,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 25829444},
+                           'users_internet': 27430000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/malaysia/page-data.json',
                 'name': 'Malaysia',
                 'stan': 'MYS',
@@ -9168,18 +9189,18 @@ WORLD_FB = \
                            'population': 390669,
                            'ports': {'seaport': 'Male'},
                            'region': ['Asia'],
-                           'subs_broadband': 52976,
-                           'subs_fixed': 16664,
-                           'subs_mobile': 828042,
+                           'subs_broadband': 63685,
+                           'subs_fixed': 14508,
+                           'subs_mobile': 717708,
                            'telecom': { 'code': '960',
-                                        'domestic': [ 'fixed-line is at 3 per 100 persons and high mobile-cellular '
-                                                      'subscriptions stands at 156 per 100 persons',
-                                                      2019],
+                                        'domestic': [ 'fixed-line is at nearly 3 per 100 persons and mobile-cellular '
+                                                      'subscriptions stands at nearly 133 per 100 persons',
+                                                      2020],
                                         'general': [ 'upgrades to telecom infrastructure extended to outer islands',
                                                      'two mobile operators extend LTE coverage',
                                                      'tourism has strengthened the telecom market with investment and '
                                                      'accounts for the high mobile penetration rate',
-                                                     'launched 5G tests (2020)',
+                                                     'launched 5G tests',
                                                      2020],
                                         'intl': [ 'landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT '
                                                   'Submarine Cable Networks and WARF submarine cables providing '
@@ -9200,7 +9221,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 248004},
+                           'users_internet': 342500},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/maldives/page-data.json',
                 'name': 'Maldives',
                 'stan': 'MDV',
@@ -9218,8 +9239,7 @@ WORLD_FB = \
                                                  "Cote d'Ivoire": 599,
                                                  'Guinea': 1062,
                                                  'Mauritania': 2236,
-                                                 'Niger': 838,
-                                                 'Senegal': 489},
+                                                 'Niger': 838},
                                        'len': 7908},
                        'capital': {'coord': '12 39 N, 8 00 W', 'name': 'Bamako', 'time_diff': 'UTC 0'},
                        'coastline': 0,
@@ -9231,16 +9251,16 @@ WORLD_FB = \
                        'population': 20137527,
                        'ports': {},
                        'region': ['Africa'],
-                       'subs_broadband': 142522,
-                       'subs_fixed': 242241,
-                       'subs_mobile': 22925482,
+                       'subs_broadband': 243806,
+                       'subs_fixed': 281638,
+                       'subs_mobile': 25315598,
                        'telecom': { 'code': '223',
-                                    'domestic': [ 'fixed-line subscribership 1 per 100 persons',
-                                                  'mobile-cellular subscribership has increased sharply to over 115 '
-                                                  'per 100 persons',
+                                    'domestic': [ 'fixed-line subscribership is over 1 per 100 persons',
+                                                  'mobile-cellular subscribership has increased sharply to 125 per 100 '
+                                                  'persons',
                                                   'increasing use of local radio loops to extend network coverage to '
                                                   'remote areas',
-                                                  2019],
+                                                  2020],
                                     'general': [ "Mali's telecom systems are challenged by recent conflict, geography, "
                                                  'areas of low population, poverty, security issues, and high '
                                                  'illiteracy',
@@ -9252,7 +9272,7 @@ WORLD_FB = \
                                                  'dependent on neighboring countries for international bandwidth and '
                                                  'access to submarine cables',
                                                  'Chinese investment in infrastructure stymied by security issues',
-                                                 'importer of broadcasting equipment from China (2021)',
+                                                 'importer of broadcasting equipment from China',
                                                  2020],
                                     'intl': [ 'satellite communications center and fiber-optic links to neighboring '
                                               'countries',
@@ -9272,7 +9292,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 2395886},
+                       'users_internet': 5740000},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mali/page-data.json',
             'name': 'Mali',
             'stan': 'MLI',
@@ -9297,15 +9317,15 @@ WORLD_FB = \
                         'ports': { 'container': 'Marsaxlokk (2,722,889) (2019)',
                                    'seaport': 'Marsaxlokk (Malta Freeport), Valletta'},
                         'region': ['Europe'],
-                        'subs_broadband': 202513,
+                        'subs_broadband': 213419,
                         'subs_fixed': 256838,
                         'subs_mobile': 634386,
                         'telecom': { 'code': '356',
-                                     'domestic': [ 'fixed-line 58 per 100 persons and mobile-cellular subscribership '
-                                                   '144 per 100 persons',
+                                     'domestic': [ 'fixed-line approximately 59 per 100 persons and mobile-cellular '
+                                                   'subscribership 143 per 100 persons',
                                                    'automatic system featuring submarine cable and microwave radio '
                                                    'relay between islands',
-                                                   2019],
+                                                   2020],
                                      'general': [ 'blessed with advantageous topography and tech-savvy consumers, '
                                                   'Malta has one of the most advanced telecom systems in Europe, with '
                                                   'high penetration of mobile and broadband',
@@ -9315,7 +9335,7 @@ WORLD_FB = \
                                                   'thru 2023',
                                                   'operator delivered fiber network to public schools in 2020',
                                                   'launch of 5G network by 2020',
-                                                  'submarine cable to France and Egypt in progress (2021)',
+                                                  'submarine cable to France and Egypt in progress',
                                                   2020],
                                      'intl': [ 'landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean '
                                                'Cable System, Malta Italy Interconnector, Melita-1, and the '
@@ -9335,7 +9355,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 365521},
+                        'users_internet': 380300},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/malta/page-data.json',
              'name': 'Malta',
              'stan': 'MLT',
@@ -9369,16 +9389,16 @@ WORLD_FB = \
                                    'ports': {'seaport': 'Enitwetak Island, Kwajalein, Majuro'},
                                    'region': ['Oceania'],
                                    'subs_broadband': 1000,
-                                   'subs_fixed': 3172,
-                                   'subs_mobile': 21169,
+                                   'subs_fixed': 2361,
+                                   'subs_mobile': 16000,
                                    'telecom': { 'code': '692',
                                                 'domestic': [ 'Majuro Atoll and Ebeye and Kwajalein islands have '
                                                               'regular, seven-digit, direct-dial telephones',
                                                               'other islands interconnected by high frequency '
                                                               'radiotelephone (used mostly for government purposes) '
                                                               'and mini-satellite telephones',
-                                                              'fixed-line 4 per 100 persons and mobile-cellular is 28 '
-                                                              'per 100 persons',
+                                                              'fixed-line roughly 4 per 100 persons and '
+                                                              'mobile-cellular is nearly 28 per 100 persons',
                                                               2019],
                                                 'general': [ 'some telecom infrastructure improvements made in recent '
                                                              'years',
@@ -9410,7 +9430,7 @@ WORLD_FB = \
                                                           'and school from home became evident, and received some '
                                                           'support from governments',
                                                           0]},
-                                   'users_internet': 29290},
+                                   'users_internet': 23000},
                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/marshall-islands/page-data.json',
                         'name': 'Marshall Islands',
                         'stan': 'MHL',
@@ -9446,17 +9466,17 @@ WORLD_FB = \
                              'population': 4079284,
                              'ports': {'seaport': 'Nouadhibou, Nouakchott'},
                              'region': ['Africa'],
-                             'subs_broadband': 10815,
-                             'subs_fixed': 61858,
-                             'subs_mobile': 4710800,
+                             'subs_broadband': 19246,
+                             'subs_fixed': 62099,
+                             'subs_mobile': 4932571,
                              'telecom': { 'code': '222',
-                                          'domestic': [ 'fixed-line teledensity 1 per 100 persons',
+                                          'domestic': [ 'fixed-line teledensity roughly 1 per 100 persons',
                                                         'mobile-cellular network coverage extends mainly to urban '
-                                                        'areas with a teledensity of roughly 104 per 100 persons',
+                                                        'areas with a teledensity of roughly 106 per 100 persons',
                                                         'mostly cable and open-wire lines',
                                                         'a domestic satellite telecommunications system links '
                                                         'Nouakchott with regional capitals',
-                                                        2019],
+                                                        2020],
                                           'general': [ "Mauritania's small population and low economic output limit "
                                                        'sustained growth',
                                                        'transparency and tax burdens hinder foreign investment',
@@ -9468,7 +9488,7 @@ WORLD_FB = \
                                                        'competition',
                                                        '3G penetration high yet little development in LTE',
                                                        'mobile broadband access speeds are low',
-                                                       'importer of broadcasting equipment from UAE (2021)',
+                                                       'importer of broadcasting equipment from UAE',
                                                        2020],
                                           'intl': [ 'landing point for the ACE submarine cable for connectivity to 19 '
                                                     'West African countries and 2 European countries',
@@ -9489,7 +9509,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 798809},
+                             'users_internet': 1560000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mauritania/page-data.json',
                   'name': 'Mauritania',
                   'stan': 'MRT',
@@ -9517,13 +9537,14 @@ WORLD_FB = \
                             'population': 1386129,
                             'ports': {'seaport': 'Port Louis'},
                             'region': ['Africa'],
-                            'subs_broadband': 307200,
-                            'subs_fixed': 458700,
-                            'subs_mobile': 1866600,
+                            'subs_broadband': 322100,
+                            'subs_fixed': 478700,
+                            'subs_mobile': 1912900,
                             'telecom': { 'code': '230',
-                                         'domestic': [ 'fixed-line teledensity 34 per 100 persons and mobile-cellular '
-                                                       'services teledensity approaching 151 per 100 persons',
-                                                       2019],
+                                         'domestic': [ 'fixed-line teledensity over 37 per 100 persons and '
+                                                       'mobile-cellular services teledensity roughly 150 per 100 '
+                                                       'persons',
+                                                       2020],
                                          'general': [ 'Mauritius is successfully pursuing a policy to make '
                                                       'telecommunications a pillar of economic growth, and to have a '
                                                       'fully digital-based smart infrastructure',
@@ -9538,7 +9559,7 @@ WORLD_FB = \
                                                       'bandwidth capacity',
                                                       'submarine cable provides connectivity to South Africa and '
                                                       'beyond',
-                                                      'major importer of broadcasting equipment from China (2021)',
+                                                      'major importer of broadcasting equipment from China',
                                                       2020],
                                          'intl': [ 'landing points for the SAFE, MARS, IOX Cable System, METISS and '
                                                    'LION submarine cable system that provides links to Asia, Africa, '
@@ -9562,7 +9583,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 799470},
+                            'users_internet': 814500},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mauritius/page-data.json',
                  'name': 'Mauritius',
                  'stan': 'MUS',
@@ -9601,15 +9622,14 @@ WORLD_FB = \
                                                  '(1,144,156) (2019)',
                                     'seaport': 'Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz'},
                          'region': ['North America'],
-                         'subs_broadband': 19354980,
-                         'subs_fixed': 22717180,
-                         'subs_mobile': 122040789,
+                         'subs_broadband': 21206911,
+                         'subs_fixed': 23800105,
+                         'subs_mobile': 120481969,
                          'telecom': { 'code': '52',
-                                      'domestic': [ 'competition has spurred the mobile-cellular market',
-                                                    'fixed-line teledensity exceeds 18 per 100 persons',
-                                                    'mobile-cellular teledensity is about 95 per 100 persons',
+                                      'domestic': [ 'fixed-line teledensity exceeds 18 per 100 persons',
+                                                    'mobile-cellular teledensity is about 93 per 100 persons',
                                                     'domestic satellite system with 120 earth stations',
-                                                    2019],
+                                                    2020],
                                       'general': [ 'with a large population and relatively low broadband and mobile '
                                                    "penetration, Mexico's telecom sector has potential for growth",
                                                    'adequate telephone service for business and government',
@@ -9619,10 +9639,10 @@ WORLD_FB = \
                                                    'growth and international investment',
                                                    'extensive microwave radio relay network',
                                                    'considerable use of fiber-optic cable and coaxial cable',
-                                                   '5G development slow given the existing capabilities of LTE',
+                                                   '5G development slow in part due to high costs',
                                                    'IXP in Mexico City',
-                                                   'exporter of computers and broadcasting equipment to USA, and '
-                                                   'importer of same from China (2021)',
+                                                   'exporter of computers and broadcasting equipment to USA and '
+                                                   'importer of same from China',
                                                    2020],
                                       'intl': [ 'Columbus-2 fiber-optic submarine cable with access to the US, Virgin '
                                                 'Islands, Canary Islands, Spain, and Italy',
@@ -9648,7 +9668,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 82843369},
+                         'users_internet': 92010000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mexico/page-data.json',
               'name': 'Mexico',
               'stan': 'MEX',
@@ -9680,8 +9700,8 @@ WORLD_FB = \
                                                                         'Pohnepi Harbor'},
                                                   'region': ['Oceania'],
                                                   'subs_broadband': 3776,
-                                                  'subs_fixed': 6420,
-                                                  'subs_mobile': 21374,
+                                                  'subs_fixed': 6947,
+                                                  'subs_mobile': 23114,
                                                   'telecom': { 'code': '691',
                                                                'domestic': [ 'islands interconnected by shortwave '
                                                                              'radiotelephone, satellite (Intelsat) '
@@ -9689,8 +9709,8 @@ WORLD_FB = \
                                                                              'fiber-optic cable',
                                                                              'mobile-cellular service available on the '
                                                                              'major islands',
-                                                                             'fixed line teledensity 6 per 100 and '
-                                                                             'mobile-cellular 21 per 100',
+                                                                             'fixed line teledensity roughly 6 per 100 '
+                                                                             'and mobile-cellular nearly 21 per 100',
                                                                              2019],
                                                                'general': [ 'adequate system, the demand for mobile '
                                                                             'broadband is increasing due to mobile '
@@ -9724,7 +9744,7 @@ WORLD_FB = \
                                                                          'evident, and received some support from '
                                                                          'governments',
                                                                          0]},
-                                                  'users_internet': 36586},
+                                                  'users_internet': 40800},
                                        'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/micronesia-federated-states-of/page-data.json',
                                        'name': 'Micronesia, Federated States of',
                                        'stan': 'FSM',
@@ -9760,15 +9780,16 @@ WORLD_FB = \
                                             'local_short': 'Moldova'},
                           'population': 3323875,
                           'region': ['Europe'],
-                          'subs_broadband': 670530,
-                          'subs_fixed': 1071514,
-                          'subs_mobile': 3613846,
+                          'subs_broadband': 719001,
+                          'subs_fixed': 1027689,
+                          'subs_mobile': 3420383,
                           'telecom': { 'code': '373',
                                        'domestic': [ 'competition among mobile telephone providers has spurred '
                                                      'subscriptions',
-                                                     'little interest in expanding fixed-line service 27 per 100',
-                                                     'mobile-cellular teledensity sits at 89 per 100 persons',
-                                                     2019],
+                                                     'little interest in expanding fixed-line service which is roughly '
+                                                     '25 per 100',
+                                                     'mobile-cellular teledensity nearly 85 per 100 persons',
+                                                     2020],
                                        'general': [ 'high unemployment and economic pressures have reduced consumer '
                                                     'spending in telecom market',
                                                     'endeavors to join the EU have promoted regulatory issues in line '
@@ -9779,7 +9800,7 @@ WORLD_FB = \
                                                     'market is competitive, fiber accounts for 62% of all fixed '
                                                     'broadband connections and most telecom revenue is from the mobile '
                                                     'market',
-                                                    'importer of broadcasting equipment from China (2021)',
+                                                    'importer of broadcasting equipment from China',
                                                     2020],
                                        'intl': [ 'service through Romania and Russia via landline',
                                                  'satellite earth stations - at least 3 - Intelsat, Eutelsat, and '
@@ -9798,7 +9819,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 2616792},
+                          'users_internet': 3070000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/moldova/page-data.json',
                'name': 'Moldova',
                'stan': 'MDA',
@@ -9821,13 +9842,13 @@ WORLD_FB = \
                          'population': 31223,
                          'ports': {'seaport': 'Hercules Port'},
                          'region': ['Europe'],
-                         'subs_broadband': 20476,
-                         'subs_fixed': 44119,
-                         'subs_mobile': 33783,
+                         'subs_broadband': 20877,
+                         'subs_fixed': 43706,
+                         'subs_mobile': 35485,
                          'telecom': { 'code': '377',
-                                      'domestic': [ 'fixed-line 113 per 100 and mobile-cellular teledensity exceeds 87 '
-                                                    'per 100 persons',
-                                                    2019],
+                                      'domestic': [ 'fixed-line a little over 111 per 100 and mobile-cellular '
+                                                    'teledensity exceeds 90 per 100 persons',
+                                                    2020],
                                       'general': [ 'modern automatic telephone system',
                                                    "the country's sole fixed-line operator offers a full range of "
                                                    'services to residential and business customers',
@@ -9852,7 +9873,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 29821},
+                         'users_internet': 38200},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/monaco/page-data.json',
               'name': 'Monaco',
               'stan': 'MCO',
@@ -9875,14 +9896,14 @@ WORLD_FB = \
                                              'local_short': 'Mongol Uls'},
                            'population': 3198913,
                            'region': ['Asia'],
-                           'subs_broadband': 317317,
-                           'subs_fixed': 351361,
-                           'subs_mobile': 4418919,
+                           'subs_broadband': 307166,
+                           'subs_fixed': 160153,
+                           'subs_mobile': 4363919,
                            'telecom': { 'code': '976',
-                                        'domestic': [ 'very low fixed-line teledensity 12 per 100',
+                                        'domestic': [ 'very low fixed-line teledensity of less than 5 per 100',
                                                       'there are four mobile-cellular providers and subscribership is '
-                                                      'increasing with 137 per 100 persons',
-                                                      2019],
+                                                      'roughly 133 per 100 persons',
+                                                      2020],
                                         'general': [ 'liberalized and competitive telecom market',
                                                      'steady growth in mobile broadband, but fixed-line broadband is '
                                                      'still an economical option',
@@ -9895,7 +9916,7 @@ WORLD_FB = \
                                                      'launch of 4G LTE services by all major operators',
                                                      'South Korean investment in landline and cellular services',
                                                      "partner in China's economic corridor project",
-                                                     'import of broadcasting equipment from China (2020)',
+                                                     'import of broadcasting equipment from China',
                                                      2020],
                                         'intl': ['satellite earth stations - 7', 2016],
                                         'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -9912,7 +9933,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 735823},
+                           'users_internet': 2009999},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mongolia/page-data.json',
                 'name': 'Mongolia',
                 'stan': 'MNG',
@@ -9943,14 +9964,15 @@ WORLD_FB = \
                              'population': 607414,
                              'ports': {'seaport': 'Bar'},
                              'region': ['Europe'],
-                             'subs_broadband': 178781,
-                             'subs_fixed': 188175,
-                             'subs_mobile': 1150998,
+                             'subs_broadband': 184176,
+                             'subs_fixed': 191768,
+                             'subs_mobile': 1080089,
                              'telecom': { 'code': '382',
                                           'domestic': [ 'GSM mobile-cellular service, available through multiple '
-                                                        'providers with national coverage growing',
-                                                        'fixed-line 30 per 100 and mobile-cellular 183 per 100 persons',
-                                                        2019],
+                                                        'providers',
+                                                        'fixed-line over 30 per 100 and mobile-cellular 172 per 100 '
+                                                        'persons',
+                                                        2020],
                                           'general': [ 'a small population, with a compact but modern '
                                                        'telecommunications system and access to European satellites',
                                                        'fiber network is dominant platform',
@@ -9958,7 +9980,7 @@ WORLD_FB = \
                                                        'mobile broadband based on LTE even in rural areas',
                                                        'operators testing 5G in 2021',
                                                        'telecom sector in-line with EU norms provides competition, '
-                                                       'access, and tariff structures (2021)',
+                                                       'access, and tariff structures',
                                                        2020],
                                           'intl': ['2 international switches connect the national system', 0],
                                           'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -9975,7 +9997,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 439311},
+                             'users_internet': 477300},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/montenegro/page-data.json',
                   'name': 'Montenegro',
                   'stan': 'MNE',
@@ -10001,11 +10023,12 @@ WORLD_FB = \
                              'population': 5387,
                              'ports': {'seaport': 'Little Bay, Plymouth'},
                              'region': ['Central America and the Caribbean'],
-                             'subs_fixed': 3227,
-                             'subs_mobile': 5377,
+                             'subs_broadband': 2700,
+                             'subs_fixed': 3000,
+                             'subs_mobile': 5000,
                              'telecom': { 'code': '1664',
-                                          'domestic': [ 'fixed-line 60 per 100 and mobile-cellular teledensity 101 per '
-                                                        '100 persons',
+                                          'domestic': [ 'fixed-line roughly 60 per 100 and mobile-cellular teledensity '
+                                                        'nearly 101 per 100 persons',
                                                         2019],
                                           'general': [ 'telecom market one of growth in Caribbean and fully '
                                                        'digitalized',
@@ -10032,7 +10055,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 2860},
+                             'users_internet': 2806},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/montserrat/page-data.json',
                   'name': 'Montserrat',
                   'stan': 'MSR',
@@ -10048,7 +10071,7 @@ WORLD_FB = \
                           'boundaries': { 'bord': {'Algeria': 1941, 'Mauritania': 1564, 'Spain': 8},
                                           'len': 3523,
                                           'note': 'border with Spain (Ceuta)'},
-                          'capital': {'coord': '34 01 N, 6 49 W', 'name': 'Rabat', 'time_diff': 'UTC 0'},
+                          'capital': {'coord': '34 01 N, 6 49 W', 'name': 'Rabat', 'time_diff': 'UTC+1'},
                           'coastline': 2945,
                           'coord': ['28 30 N, 10 00 W'],
                           'country_name': { 'conv_long': 'Kingdom of Morocco',
@@ -10060,16 +10083,16 @@ WORLD_FB = \
                                      'seaport': 'Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), '
                                                 'Mohammedia, Safi, Tangier'},
                           'region': ['Africa'],
-                          'subs_broadband': 1751341,
-                          'subs_fixed': 2054545,
-                          'subs_mobile': 46666722,
+                          'subs_broadband': 2102434,
+                          'subs_fixed': 2357286,
+                          'subs_mobile': 49421023,
                           'telecom': { 'code': '212',
-                                       'domestic': [ 'fixed-line teledensity is 6 per 100 persons and mobile-cellular '
-                                                     'subscribership exceeds 128 per 100 persons',
+                                       'domestic': [ 'fixed-line teledensity is just over 6 per 100 persons and '
+                                                     'mobile-cellular subscribership is nearly 134 per 100 persons',
                                                      'good system composed of open-wire lines, cables, and microwave '
                                                      'radio relay links',
                                                      'principal switching centers are Casablanca and Rabat',
-                                                     2019],
+                                                     2020],
                                        'general': [ "despite Morocco's economic progress, the country suffers from "
                                                     'high unemployment and illiteracy affecting telecom market, '
                                                     'particularly in rural areas',
@@ -10085,8 +10108,7 @@ WORLD_FB = \
                                                     'government supported digital education during pandemic',
                                                     'submarine cables and satellite provide connectivity to Asia, '
                                                     'Africa, the Middle East, Europe, and Australia',
-                                                    'importer of broadcasting equipment and video displays from China '
-                                                    '(2021)',
+                                                    'importer of broadcasting equipment and video displays from China',
                                                     2020],
                                        'intl': [ 'landing point for the Atlas Offshore, Estepona-Tetouan, Canalink and '
                                                  'SEA-ME-WE-3 fiber-optic telecommunications undersea cables that '
@@ -10108,7 +10130,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 22596729},
+                          'users_internet': 27620000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/morocco/page-data.json',
                'name': 'Morocco',
                'stan': 'MAR',
@@ -10146,8 +10168,8 @@ WORLD_FB = \
                                                         'growth in the mobile-cellular network',
                                                         'operators provide coverage that includes all the main cities '
                                                         'and key roads',
-                                                        'fixed-line less than 1 per 100 and 48 per 100 mobile-cellular '
-                                                        'teledensity',
+                                                        'fixed-line less than 1 per 100 and nearly 49 per 100 '
+                                                        'mobile-cellular teledensity',
                                                         2019],
                                           'general': [ 'one of the first countries in the region to reform telecom '
                                                        'market and open it to competition',
@@ -10159,7 +10181,7 @@ WORLD_FB = \
                                                        'roll out of national fiber backbone and upgrades to '
                                                        'infrastructure',
                                                        'submarine cables reduced the cost of bandwidth',
-                                                       'importer of broadcasting equipment from China (2021)',
+                                                       'importer of broadcasting equipment from China',
                                                        2020],
                                           'intl': [ 'landing points for the EASSy and SEACOM/ Tata TGN-Eurasia '
                                                     'fiber-optic submarine cable systems linking numerous east African '
@@ -10183,7 +10205,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 2855670},
+                             'users_internet': 6720000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mozambique/page-data.json',
                   'name': 'Mozambique',
                   'stan': 'MOZ',
@@ -10222,20 +10244,19 @@ WORLD_FB = \
                           'population': 2678191,
                           'ports': {'seaport': 'Luderitz, Walvis Bay'},
                           'region': ['Africa'],
-                          'subs_broadband': 63314,
-                          'subs_fixed': 139698,
-                          'subs_mobile': 2823655,
+                          'subs_broadband': 71063,
+                          'subs_fixed': 141334,
+                          'subs_mobile': 2594382,
                           'telecom': { 'code': '264',
-                                       'domestic': [ 'fixed-line subscribership is 6 per 100 and mobile-cellular 113 '
-                                                     'per 100 persons',
-                                                     2019],
+                                       'domestic': [ 'fixed-line subscribership is less than 6 per 100 and '
+                                                     'mobile-cellular roughly 102 per 100 persons',
+                                                     2020],
                                        'general': [ 'good competition in mobile market and investment in LTE '
                                                     'government program to provide 95% of population with broadband by '
                                                     '2024',
                                                     '5G delayed due to public concerns of privacy and security',
                                                     'high prices for international bandwidth due to lack of submarine '
-                                                    'cables, yet improved by diversification of satellite access '
-                                                    '(2021)',
+                                                    'cables, yet improved by diversification of satellite access',
                                                     2020],
                                        'intl': [ 'landing points for the ACE and WACS fiber-optic submarine cable '
                                                  'linking southern and western African countries to Europe',
@@ -10254,7 +10275,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1291944},
+                          'users_internet': 1310000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/namibia/page-data.json',
                'name': 'Namibia',
                'stan': 'NAM',
@@ -10279,10 +10300,13 @@ WORLD_FB = \
                         'population': 9770,
                         'ports': {'seaport': 'Nauru'},
                         'region': ['Oceania'],
-                        'subs_fixed': 1900,
-                        'subs_mobile': 9212,
+                        'subs_broadband': 950,
+                        'subs_fixed': 0,
+                        'subs_mobile': 10000,
                         'telecom': { 'code': '674',
-                                     'domestic': ['fixed-line 14 per 100 and mobile-cellular 95 per 100', 2019],
+                                     'domestic': [ 'fixed-line 0 per 100 and mobile-cellular subscribership '
+                                                   'approximately 95 per 100',
+                                                   2019],
                                      'general': [ 'adequate local and international radiotelephone communication '
                                                   'provided via Australian facilities',
                                                   'geography is a challenge for the islands',
@@ -10304,7 +10328,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 5524},
+                        'users_internet': 6771},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/nauru/page-data.json',
              'name': 'Nauru',
              'stan': 'NRU',
@@ -10346,14 +10370,14 @@ WORLD_FB = \
                         'population': 30424878,
                         'region': ['Asia'],
                         'subs_broadband': 791961,
-                        'subs_fixed': 855926,
-                        'subs_mobile': 41880311,
+                        'subs_fixed': 799368,
+                        'subs_mobile': 39178451,
                         'telecom': { 'code': '977',
                                      'domestic': [ '3G coverage is available in 20 major cities (2019)',
                                                    'disparity between high coverage in cities and coverage available '
                                                    'in underdeveloped rural regions',
-                                                   'fixed-line 3 per 100 persons and mobile-cellular 139 per 100 '
-                                                   'persons',
+                                                   'fixed-line less than 3 per 100 persons and mobile-cellular nearly '
+                                                   '131 per 100 persons',
                                                    'fair radiotelephone communication service',
                                                    '20% of the market share is fixed (wired) broadband, 2% is fixed '
                                                    '(wireless) broadband, and 78% is mobile broadband',
@@ -10370,7 +10394,7 @@ WORLD_FB = \
                                                   'government supports digital society, whereby 90% of the population '
                                                   'will have access to broadband and free Internet access for students',
                                                   'plans to launch a Nepalese satellite by 2022',
-                                                  'importer of broadcasting equipment from China (2021)',
+                                                  'importer of broadcasting equipment from China',
                                                   2020],
                                      'intl': [ 'Nepal, China and Tibet connected across borders with underground and '
                                                'all-dielectric self-supporting (ADSS) fiber-optic cables',
@@ -10391,7 +10415,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 10103980},
+                        'users_internet': 10780000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/nepal/page-data.json',
              'name': 'Nepal',
              'stan': 'NPL',
@@ -10418,9 +10442,9 @@ WORLD_FB = \
                               'ports': { 'container': 'Rotterdam (14,810,804) (2019)',
                                          'seaport': 'IJmuiden, Vlissingen'},
                               'region': ['Europe'],
-                              'subs_broadband': 7459000,
-                              'subs_fixed': 5560000,
-                              'subs_mobile': 21762000,
+                              'subs_broadband': 7525016,
+                              'subs_fixed': 4937000,
+                              'subs_mobile': 21415000,
                               'telecom': { 'code': '31',
                                            'domestic': [ 'extensive fixed-line, fiber-optic network',
                                                          'large cellular telephone system with five major operators '
@@ -10428,9 +10452,9 @@ WORLD_FB = \
                                                          'Mobile Communications technology',
                                                          'one in five households now use Voice over the Internet '
                                                          'Protocol services',
-                                                         'fixed-line 33 per 100 and mobile-cellular 127 per 100 '
-                                                         'persons',
-                                                         2019],
+                                                         'fixed-line nearly 29 per 100 and mobile-cellular at 125 per '
+                                                         '100 persons',
+                                                         2020],
                                            'general': [ 'highly developed and well maintained',
                                                         'Dutch telecom market is gradually migrating to upgraded '
                                                         'platforms',
@@ -10447,7 +10471,7 @@ WORLD_FB = \
                                                         'adoption of smart city concepts and technology in major '
                                                         'cities',
                                                         'major exporter of broadcasting equipment and computers to '
-                                                        'Europe, and importer of same from China (2021)',
+                                                        'Europe, and importer of same from China',
                                                         2020],
                                            'intl': [ 'landing points for Farland North, TAT-14, Circe North, Concerto, '
                                                      'Ulysses 2, AC-1, UK-Netherlands 14, and COBRAcable submarine '
@@ -10469,7 +10493,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 16243928},
+                              'users_internet': 16469999},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/netherlands/page-data.json',
                    'name': 'Netherlands',
                    'stan': 'NLD',
@@ -10505,10 +10529,11 @@ WORLD_FB = \
                                 'population': 293608,
                                 'ports': {'seaport': 'Noumea'},
                                 'region': ['Oceania'],
-                                'subs_fixed': 82111,
-                                'subs_mobile': 275002,
+                                'subs_broadband': 55371,
+                                'subs_fixed': 77719,
+                                'subs_mobile': 260277,
                                 'telecom': { 'code': '687',
-                                             'domestic': [ 'fixed-line 29 per 100 and mobile-cellular telephone '
+                                             'domestic': [ 'fixed-line nearly 29 per 100 and mobile-cellular telephone '
                                                            'subscribership 96 per 100 persons',
                                                            2019],
                                              'general': [ 'New Caledonia has a well-developed telecom sector with 3G '
@@ -10520,7 +10545,7 @@ WORLD_FB = \
                                                           'hub for submarine cables that will increase competition and '
                                                           'capacity',
                                                           'importer of broadcasting equipment and computers from '
-                                                          'France (2020)',
+                                                          'France',
                                                           2020],
                                              'intl': [ 'landing points for the Gondwana-1 and Picot-1 providing '
                                                        'connectivity via submarine cables around New Caledonia and to '
@@ -10541,7 +10566,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 231887},
+                                'users_internet': 235200},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/new-caledonia/page-data.json',
                      'name': 'New Caledonia',
                      'stan': 'NCL',
@@ -10568,11 +10593,11 @@ WORLD_FB = \
                                                     'Wellington'},
                               'region': ['Oceania'],
                               'subs_broadband': 1647000,
-                              'subs_fixed': 1801645,
-                              'subs_mobile': 6550687,
+                              'subs_fixed': 1760000,
+                              'subs_mobile': 6400000,
                               'telecom': { 'code': '64',
-                                           'domestic': [ 'fixed-line 37 per 100 and mobile-cellular telephone '
-                                                         'subscribership 135 per 100 persons',
+                                           'domestic': [ 'fixed-line roughly 37 per 100 and mobile-cellular telephone '
+                                                         'subscribership 136 per 100 persons',
                                                          2019],
                                            'general': [ 'excellent domestic and international systems with progress in '
                                                         'mobile services',
@@ -10583,8 +10608,7 @@ WORLD_FB = \
                                                         'capabilities to propel the digital economy, e-government, and '
                                                         'e-commerce across the country',
                                                         'new satellite to improve telecom in the Asia Pacific region',
-                                                        'importer of broadcasting equipment and computers from China '
-                                                        '(2021)',
+                                                        'importer of broadcasting equipment and computers from China',
                                                         2020],
                                            'intl': [ 'landing points for the Southern Cross NEXT, Aqualink, '
                                                      'Nelson-Levin, SCCN and Hawaiki submarine cable system providing '
@@ -10607,7 +10631,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 4340672},
+                              'users_internet': 4550000},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/new-zealand/page-data.json',
                    'name': 'New Zealand',
                    'stan': 'NZL',
@@ -10631,16 +10655,16 @@ WORLD_FB = \
                             'population': 6243931,
                             'ports': {'seaport': 'Bluefields, Corinto'},
                             'region': ['Central America and the Caribbean'],
-                            'subs_broadband': 217618,
-                            'subs_fixed': 228782,
-                            'subs_mobile': 5788432,
+                            'subs_broadband': 290351,
+                            'subs_fixed': 210981,
+                            'subs_mobile': 5976479,
                             'telecom': { 'code': '505',
                                          'domestic': [ 'since privatization, access to fixed-line and mobile-cellular '
                                                        'services has improved',
-                                                       'fixed-line teledensity roughly 4 per 100 persons',
-                                                       'mobile-cellular telephone subscribership has increased to 88 '
-                                                       'per 100 persons',
-                                                       2019],
+                                                       'fixed-line teledensity roughly 3 per 100 persons',
+                                                       'mobile-cellular telephone subscribership has increased to '
+                                                       'roughly 90 per 100 persons',
+                                                       2020],
                                          'general': [ 'with authoritarian government, weak public institutions, and '
                                                       "impoverished citizenry, Nicaragua's telecom system is dependent "
                                                       'on upgrades through foreign investment, primarily from Russia '
@@ -10656,8 +10680,7 @@ WORLD_FB = \
                                                       'Internet cafes provide access to Internet and email services',
                                                       'rural areas lack access to most basic telecom infrastructure',
                                                       'LTE service in dozens of towns and cities',
-                                                      'importer of broadcasting equipment and computers from China '
-                                                      '(2021)',
+                                                      'importer of broadcasting equipment and computers from China',
                                                       2020],
                                          'intl': [ 'landing point for the ARCOS fiber-optic submarine cable which '
                                                    'provides connectivity to South and Central America, parts of the '
@@ -10679,7 +10702,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 1695340},
+                            'users_internet': 2780000},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/nicaragua/page-data.json',
                  'name': 'Nicaragua',
                  'stan': 'NIC',
@@ -10710,12 +10733,12 @@ WORLD_FB = \
                         'population': 23605767,
                         'region': ['Africa'],
                         'subs_broadband': 8650,
-                        'subs_fixed': 116352,
-                        'subs_mobile': 8921769,
+                        'subs_fixed': 114352,
+                        'subs_mobile': 8778880,
                         'telecom': { 'code': '227',
-                                     'domestic': [ 'fixed-line 1 per 100 persons and mobile-cellular teledensity '
-                                                   'remains 41 per 100 persons despite a rapidly increasing cellular '
-                                                   'subscribership base',
+                                     'domestic': [ 'fixed-line less than 1 per 100 persons and mobile-cellular '
+                                                   'teledensity at nearly 41 per 100 persons',
+                                                   'a rapidly increasing cellular subscribership base',
                                                    'small system of wire, radio telephone communications, and '
                                                    'microwave radio relay links concentrated in southwestern Niger',
                                                    'domestic satellite system with 3 earth stations and 1 planned',
@@ -10747,7 +10770,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 1110778},
+                        'users_internet': 3360000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/niger/page-data.json',
              'name': 'Niger',
              'stan': 'NER',
@@ -10770,15 +10793,15 @@ WORLD_FB = \
                           'ports': {'seaport': 'Bonny Inshore Terminal, Calabar, Lagos'},
                           'region': ['Africa'],
                           'subs_broadband': 83360,
-                          'subs_fixed': 107154,
-                          'subs_mobile': 184592255,
+                          'subs_fixed': 107031,
+                          'subs_mobile': 204228678,
                           'telecom': { 'code': '234',
                                        'domestic': [ 'fixed-line subscribership remains less than 1 per 100 persons',
                                                      'mobile-cellular services growing rapidly, in part responding to '
                                                      'the shortcomings of the fixed-line network',
                                                      'multiple cellular providers operate nationally with '
-                                                     'subscribership base over 88 per 100 persons',
-                                                     2019],
+                                                     'subscribership base over 99 per 100 persons',
+                                                     2020],
                                        'general': [ 'one of the larger telecom markets in Africa subject to sporadic '
                                                     'access to electricity and vandalism of infrastructure',
                                                     'most Internet connections are via mobile networks',
@@ -10793,7 +10816,7 @@ WORLD_FB = \
                                                     'operators invested in base stations to deplete network congestion',
                                                     'submarine cable break in 2020 slowed speeds and interrupted '
                                                     'connectivity',
-                                                    'importer of phones and broadcast equipment from China (2020)',
+                                                    'importer of phones and broadcast equipment from China',
                                                     2020],
                                        'intl': [ 'landing point for the SAT-3/WASC, NCSCS, MainOne, Glo-1 & 2, ACE, '
                                                  'and Equiano fiber-optic submarine cable that provides connectivity '
@@ -10814,7 +10837,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 85450052},
+                          'users_internet': 104400000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/nigeria/page-data.json',
                'name': 'Nigeria',
                'stan': 'NGA',
@@ -10835,9 +10858,11 @@ WORLD_FB = \
                        'population': 2000,
                        'ports': {'seaport': 'Alofi'},
                        'region': ['Oceania'],
+                       'subs_fixed': 1000,
                        'telecom': { 'code': '683',
-                                    'domestic': [ 'single-line (fixed line) telephone system connects all villages '
-                                                  '(and virtually all households) on island',
+                                    'domestic': [ 'single-line (fixed line) telephone system connects all villages on '
+                                                  'island',
+                                                  'fixed teledensity at nearly 62 per 100',
                                                   2018],
                                     'general': [ 'sole provider service for over 1000 landlines and fixed wireless '
                                                  'lines',
@@ -10863,7 +10888,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 1090},
+                       'users_internet': 1286},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/niue/page-data.json',
             'name': 'Niue',
             'stan': 'NIU',
@@ -10906,7 +10931,7 @@ WORLD_FB = \
                                                         'school from home became evident, and received some support '
                                                         'from governments',
                                                         0]},
-                                 'users_internet': 765},
+                                 'users_internet': 806},
                       'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/norfolk-island/page-data.json',
                       'name': 'Norfolk Island',
                       'stan': 'NFK',
@@ -10938,8 +10963,8 @@ WORLD_FB = \
                                   'subs_fixed': 400454,
                                   'subs_mobile': 1921013,
                                   'telecom': { 'code': '389',
-                                               'domestic': [ 'fixed-line 19 per 100 and mobile-cellular 99 per 100 '
-                                                             'subscriptions',
+                                               'domestic': [ 'fixed-line roughly 19 per 100 and mobile-cellular 92 per '
+                                                             '100 subscriptions',
                                                              2019],
                                                'general': [ 'EU pre-accession process has led to stronger tele-density '
                                                             'with a closer regulatory framework and independent '
@@ -10949,7 +10974,7 @@ WORLD_FB = \
                                                             'more customers moving to fiber networks',
                                                             'operators investing in LTE',
                                                             'importer of broadcasting equipment from Vietnam and China',
-                                                            'MOU for 5G with US (2021)',
+                                                            'MOU for 5G with US',
                                                             2020],
                                                'intl': [0],
                                                'note': [ 'the COVID-19 pandemic continues to have a significant impact '
@@ -10967,7 +10992,7 @@ WORLD_FB = \
                                                          'and school from home became evident, and received some '
                                                          'support from governments',
                                                          0]},
-                                  'users_internet': 1677569},
+                                  'users_internet': 1710000},
                        'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/north-macedonia/page-data.json',
                        'name': 'North Macedonia',
                        'stan': 'FYR',
@@ -10996,14 +11021,15 @@ WORLD_FB = \
                                            'population': 51659,
                                            'ports': {'seaport': 'Saipan, Tinian, Rota'},
                                            'region': ['Oceania'],
-                                           'subs_fixed': 20398,
+                                           'subs_fixed': 22000,
                                            'telecom': { 'code': '1670',
                                                         'domestic': [ 'wide variety of services available including '
                                                                       'dial-up and broadband Internet, mobile '
                                                                       'cellular, international private lines, '
                                                                       'payphones, phone cards, voicemail, and '
                                                                       'automatic call distribution systems',
-                                                                      'fixed-line teledensity 39 per 100 persons',
+                                                                      'fixed-line teledensity roughly 39 per 100 '
+                                                                      'persons',
                                                                       2019],
                                                         'general': [ 'digital fiber-optic cables and satellites '
                                                                      'connect the islands to worldwide networks',
@@ -11034,7 +11060,7 @@ WORLD_FB = \
                                                                   'for work and school from home became evident, and '
                                                                   'received some support from governments',
                                                                   0]},
-                                           'users_internet': 16000},
+                                           'users_internet': 14500},
                                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/northern-mariana-islands/page-data.json',
                                 'name': 'Northern Mariana Islands',
                                 'stan': 'MNP',
@@ -11058,15 +11084,15 @@ WORLD_FB = \
                          'population': 5509591,
                          'ports': {'seaport': 'Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture'},
                          'region': ['Europe'],
-                         'subs_broadband': 2260605,
-                         'subs_fixed': 444600,
-                         'subs_mobile': 5775830,
+                         'subs_broadband': 2387661,
+                         'subs_fixed': 348808,
+                         'subs_mobile': 5825584,
                          'telecom': { 'code': '47',
                                       'domestic': [ 'Norway has a domestic satellite system',
                                                     'the prevalence of rural areas encourages the wide use of '
                                                     'mobile-cellular systems',
-                                                    'fixed-line 11 per 100 and mobile-cellular 107 per 100',
-                                                    2019],
+                                                    'fixed-line over 6 per 100 and mobile-cellular nearly 108 per 100',
+                                                    2020],
                                       'general': [ 'sophisticated telecom market with high broadband and mobile '
                                                    'penetration rates and a highly developed digital media sector',
                                                    'synchronized with EC legislation',
@@ -11078,7 +11104,7 @@ WORLD_FB = \
                                                    'operator partners with Huawei for smart agriculture project',
                                                    'Oslo utilizes smart city technology',
                                                    'municipalities access EU-funded public Wi-Fi',
-                                                   'importer of broadcasting equipment and computers from China (2021)',
+                                                   'importer of broadcasting equipment and computers from China',
                                                    2020],
                                       'intl': [ 'landing points for the Svalbard Undersea Cable System, Polar Circle '
                                                 'Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore '
@@ -11103,7 +11129,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 5183627},
+                         'users_internet': 5390000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/norway/page-data.json',
               'name': 'Norway',
               'stan': 'NOR',
@@ -11127,15 +11153,14 @@ WORLD_FB = \
                        'population': 3694755,
                        'ports': {'container': 'Salalah (4,109,000) (2019)', 'seaport': "Mina' Qabus, Salalah, Suhar"},
                        'region': ['Middle East'],
-                       'subs_broadband': 473070,
-                       'subs_fixed': 592196,
-                       'subs_mobile': 6383458,
+                       'subs_broadband': 508949,
+                       'subs_fixed': 594550,
+                       'subs_mobile': 6276535,
                        'telecom': { 'code': '968',
-                                    'domestic': [ 'fixed-line 13 per 100 and mobile-cellular 138 per 100, '
-                                                  'subscribership both increasing with fixed-line phone service '
-                                                  'gradually being introduced to remote villages using wireless local '
-                                                  'loop systems',
-                                                  2019],
+                                    'domestic': [ 'fixed-line nearly 13 per 100 and mobile-cellular nearly 134 per 100',
+                                                  'fixed-line phone service gradually being introduced to remote '
+                                                  'villages using wireless local loop systems',
+                                                  2020],
                                     'general': [ 'modern system consisting of open-wire, microwave, and radiotelephone '
                                                  'communication stations',
                                                  'domestic satellite system',
@@ -11145,8 +11170,7 @@ WORLD_FB = \
                                                  'government program to improve fiber network',
                                                  'important communications hub in the Middle East, with access to '
                                                  'numerous submarine cables enabling increased bandwidth',
-                                                 'major importer of broadcasting equipment and computers from UAE '
-                                                 '(2021)',
+                                                 'major importer of broadcasting equipment and computers from UAE',
                                                  2020],
                                     'intl': [ 'landing points for GSA, AAE-1, SeaMeWe-5, Tata TGN-Gulf, FALCON, '
                                               'GBICS/MENA, MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, '
@@ -11167,7 +11191,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 2801932},
+                       'users_internet': 4920000},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/oman/page-data.json',
             'name': 'Oman',
             'stan': 'OMN',
@@ -11193,18 +11217,19 @@ WORLD_FB = \
                            'ports': { 'container': 'Karachi (2,097,855) (2019)',
                                       'seaport': 'Karachi, Port Muhammad Bin Qasim'},
                            'region': ['Asia'],
-                           'subs_broadband': 1760870,
-                           'subs_fixed': 2461916,
+                           'subs_broadband': 2423057,
+                           'subs_fixed': 2876794,
                            'subs_mobile': 165405847,
                            'telecom': { 'code': '92',
-                                        'domestic': [ 'mobile-cellular subscribership has skyrocketed',
+                                        'domestic': [ 'mobile-cellular subscribership has increased',
                                                       'more than 90% of Pakistanis live within areas that have cell '
                                                       'phone coverage',
                                                       'fiber-optic networks are being constructed throughout the '
                                                       'country to increase broadband access, though broadband '
                                                       'penetration in Pakistan is still relatively low',
-                                                      'fixed-line 1 per 100 and mobile-cellular 76 per 100 persons',
-                                                      2019],
+                                                      'fixed-line a little over 1 per 100 and mobile-cellular roughly '
+                                                      '76 per 100 persons',
+                                                      2020],
                                         'general': [ "Pakistan's telecom market recently transitioned from a regulated "
                                                      'state-owned monopoly to a deregulated competitive structure, now '
                                                      'aided by foreign investment',
@@ -11220,9 +11245,7 @@ WORLD_FB = \
                                                      'mobile and broadband doing well and dominate over '
                                                      'fixed-broadband sector',
                                                      'China-Pakistan Fiber Optic Project became operational in 2020',
-                                                     'partner to Chinese Economic Corridor project',
-                                                     'importer of broadcasting equipment and computers from China '
-                                                     '(2021)',
+                                                     'importer of broadcasting equipment and computers from China',
                                                      2020],
                                         'intl': [ 'landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient '
                                                   'Express, PEACE Cable, and TW1 submarine cable systems that provide '
@@ -11248,7 +11271,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 34734689},
+                           'users_internet': 61340000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/pakistan/page-data.json',
                 'name': 'Pakistan',
                 'stan': 'PAK',
@@ -11272,11 +11295,12 @@ WORLD_FB = \
                         'population': 21613,
                         'ports': {'seaport': 'Koror'},
                         'region': ['Oceania'],
-                        'subs_fixed': 8808,
-                        'subs_mobile': 29033,
+                        'subs_broadband': 1224,
+                        'subs_fixed': 7204,
+                        'subs_mobile': 23743,
                         'telecom': { 'code': '680',
-                                     'domestic': [ 'fixed-line 41 per 100 and mobile-cellular services 134 per 100 '
-                                                   'persons',
+                                     'domestic': [ 'fixed-line nearly 41 per 100 and mobile-cellular services roughly '
+                                                   '134 per 100 persons',
                                                    2019],
                                      'general': [ 'well-developed mobile sector, recently boosted by satellite network '
                                                   'capacity upgrades',
@@ -11304,7 +11328,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 7650},
+                        'users_internet': 6752},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/palau/page-data.json',
              'name': 'Palau',
              'stan': 'PLW',
@@ -11340,13 +11364,13 @@ WORLD_FB = \
                          'ports': { 'container': 'Balboa (2,894,654), Colon (4,379,477) (2019)',
                                     'seaport': 'Balboa, Colon, Cristobal'},
                          'region': ['Central America and the Caribbean'],
-                         'subs_broadband': 523530,
-                         'subs_fixed': 741269,
-                         'subs_mobile': 5599005,
+                         'subs_broadband': 562413,
+                         'subs_fixed': 616698,
+                         'subs_mobile': 5708163,
                          'telecom': { 'code': '507',
-                                      'domestic': [ 'fixed-line 17 per 100 and rapid subscribership of mobile-cellular '
-                                                    'telephone 132 per 100',
-                                                    2019],
+                                      'domestic': [ 'fixed-line about 14 per 100 and rapid subscribership of '
+                                                    'mobile-cellular telephone roughly 132 per 100',
+                                                    2020],
                                       'general': [ 'domestic and international facilities well-developed',
                                                    'steady increase in telecom revenue with effective competition',
                                                    'mobile connections account for 90% of connections',
@@ -11354,7 +11378,7 @@ WORLD_FB = \
                                                    'connectivity through two submarine cables',
                                                    'launch of LTE services',
                                                    'Chinese company Huawei investment in bandwidth technologies',
-                                                   'importer of broadcasting equipment from China (2021)',
+                                                   'importer of broadcasting equipment from China',
                                                    2020],
                                       'intl': [ 'landing points for the PAN-AM, ARCOS, SAC, AURORA, PCCS, PAC, and the '
                                                 'MAYA-1 submarine cable systems that together provide links to the US '
@@ -11375,7 +11399,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 2199433},
+                         'users_internet': 2820000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/panama/page-data.json',
               'name': 'Panama',
               'stan': 'PAN',
@@ -11400,13 +11424,13 @@ WORLD_FB = \
                                    'population': 7399757,
                                    'ports': {'seaport': 'Kimbe, Lae, Madang, Rabaul, Wewak'},
                                    'region': ['Oceania'],
-                                   'subs_broadband': 17000,
-                                   'subs_fixed': 133593,
-                                   'subs_mobile': 3401971,
+                                   'subs_broadband': 18000,
+                                   'subs_fixed': 158000,
+                                   'subs_mobile': 4018000,
                                    'telecom': { 'code': '675',
                                                 'domestic': [ 'access to telephone services is not widely available',
-                                                              'fixed-line 2 per 100 and mobile-cellular 48 per 100 '
-                                                              'person, teledensity has increased',
+                                                              'fixed-line nearly 2 per 100 and mobile-cellular nearly '
+                                                              '48 per 100 persons',
                                                               2019],
                                                 'general': [ 'telecom services stymied by rugged terrain, high cost of '
                                                              'infrastructure, and poverty of citizens',
@@ -11426,7 +11450,7 @@ WORLD_FB = \
                                                              'transformation',
                                                              'Australia attempted to block Chinese investment in '
                                                              'cooperative network',
-                                                             'importer of broadcasting equipment from China (2021)',
+                                                             'importer of broadcasting equipment from China',
                                                              2020],
                                                 'intl': [ 'landing points for the Kumul Domestic Submarine Cable '
                                                           'System, PNG-LNG, APNG-2, CSCS and the PPC-1 submarine '
@@ -11448,7 +11472,7 @@ WORLD_FB = \
                                                           'and school from home became evident, and received some '
                                                           'support from governments',
                                                           0]},
-                                   'users_internet': 787764},
+                                   'users_internet': 1370000},
                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/papua-new-guinea/page-data.json',
                         'name': 'Papua New Guinea',
                         'stan': 'PNG',
@@ -11496,10 +11520,11 @@ WORLD_FB = \
                            'subs_mobile': 7761848,
                            'telecom': { 'code': '595',
                                         'domestic': [ 'deficiencies in provision of fixed-line service have resulted '
-                                                      'in a rapid expansion of mobile-cellular services fostered by '
+                                                      'in expansion of mobile-cellular services fostered by '
                                                       'competition among multiple providers',
                                                       'Internet market also open to competition',
-                                                      'fixed-line 4 per 100 and mobile-cellular 107 per 100',
+                                                      'fixed-line just under 4 per 100 and mobile-cellular just over '
+                                                      '110 per 100',
                                                       2019],
                                         'general': [ 'limited progress on structural reform and deficient '
                                                      'infrastructure of the landlocked country are obstacles to '
@@ -11514,7 +11539,7 @@ WORLD_FB = \
                                                      'within regulatory framework',
                                                      'dependent on neighboring countries for access to submarine '
                                                      'cables',
-                                                     'major importer of broadcasting equipment from the USA (2021)',
+                                                     'major importer of broadcasting equipment from the USA',
                                                      2020],
                                         'intl': [ "Paraguay's landlocked position means they must depend on neighbors "
                                                   'for interconnection with submarine cable networks, making it cost '
@@ -11535,7 +11560,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 4566043},
+                           'users_internet': 4920000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/paraguay/page-data.json',
                 'name': 'Paraguay',
                 'stan': 'PRY',
@@ -11564,13 +11589,13 @@ WORLD_FB = \
                        'population': 32201224,
                        'ports': {'container': 'Callao (2,313,907) (2019)', 'seaport': 'Callao, Matarani, Paita'},
                        'region': ['South America'],
-                       'subs_broadband': 2310217,
-                       'subs_fixed': 3099172,
-                       'subs_mobile': 39138119,
+                       'subs_broadband': 2536077,
+                       'subs_fixed': 3082040,
+                       'subs_mobile': 38915400,
                        'telecom': { 'code': '51',
-                                    'domestic': [ 'fixed-line teledensity is only about 10 per 100 persons',
+                                    'domestic': [ 'fixed-line teledensity is nearly 10 per 100 persons',
                                                   'mobile-cellular teledensity, spurred by competition among multiple '
-                                                  'providers, now 124 telephones per 100 persons',
+                                                  'providers, now nearly 124 telephones per 100 persons',
                                                   'nationwide microwave radio relay system and a domestic satellite '
                                                   'system with 12 earth stations',
                                                   2019],
@@ -11586,8 +11611,7 @@ WORLD_FB = \
                                                  'with Internet connectivity',
                                                  '3G network and new LTE services expanded providing mobile broadband '
                                                  'to rural communities, though low penetration still exists',
-                                                 'major importer of broadcasting equipment and computers from China '
-                                                 '(2021)',
+                                                 'major importer of broadcasting equipment and computers from China',
                                                  2020],
                                     'intl': [ 'landing points for the SAM-1, IGW, American Movil-Telxius, SAC and '
                                               'PAN-AM submarine cable systems that provide links to parts of Central '
@@ -11607,7 +11631,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 16461427},
+                       'users_internet': 19900000},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/peru/page-data.json',
             'name': 'Peru',
             'stan': 'PER',
@@ -11641,7 +11665,8 @@ WORLD_FB = \
                                                          'over-the-air TV, radio and (very small aperture terminal) '
                                                          'VSAT, fiber-optic cable, and satellite for redundant '
                                                          'international connectivity',
-                                                         'fixed-line 4 per 100 and mobile-cellular 155 per 100',
+                                                         'fixed-line nearly 4 per 100 and mobile-cellular nearly 155 '
+                                                         'per 100',
                                                          2019],
                                            'general': [ 'high unemployment and rural population impede investment in '
                                                         'fixed infrastructure',
@@ -11655,7 +11680,7 @@ WORLD_FB = \
                                                         'submarine cable link and satellite improves telecom for the '
                                                         'region',
                                                         'major exporter of integrated circuits to China, and importer '
-                                                        'of circuits and broadcasting equipment from China (2021)',
+                                                        'of circuits and broadcasting equipment from China',
                                                         2020],
                                            'intl': [ 'landing points for the NDTN, TGN-IA, AAG, PLCN, EAC-02C, DFON, '
                                                      'SJC, APCN-2, SeaMeWe, Boracay-Palawan Submarine Cable System, '
@@ -11678,7 +11703,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 63588975},
+                              'users_internet': 73910000},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/philippines/page-data.json',
                    'name': 'Philippines',
                    'stan': 'PHL',
@@ -11744,11 +11769,9 @@ WORLD_FB = \
                                                    'Czechia': 699,
                                                    'Germany': 467,
                                                    'Lithuania': 100,
-                                                   'Russia': 209,
                                                    'Slovakia': 517,
                                                    'Ukraine': 498},
-                                         'len': 2865,
-                                         'note': 'border with Russia (Kaliningrad Oblast)'},
+                                         'len': 2865},
                          'capital': {'coord': '52 15 N, 21 00 E', 'name': 'Warsaw', 'time_diff': 'UTC+1'},
                          'coastline': 440,
                          'coord': ['52 00 N, 20 00 E'],
@@ -11759,15 +11782,14 @@ WORLD_FB = \
                          'population': 38185913,
                          'ports': {'container': 'Gdansk (2,073,215) (2019)', 'seaport': 'Gdansk, Gdynia, Swinoujscie'},
                          'region': ['Europe'],
-                         'subs_broadband': 7783887,
-                         'subs_fixed': 6824896,
-                         'subs_mobile': 48392944,
+                         'subs_broadband': 8212601,
+                         'subs_fixed': 5777428,
+                         'subs_mobile': 49350724,
                          'telecom': { 'code': '48',
                                       'domestic': [ 'several nation-wide networks provide mobile-cellular service',
-                                                    'coverage is generally good',
-                                                    'fixed-line 18 per 100 service lags in rural areas, '
-                                                    'mobile-cellular 138 per 100 persons',
-                                                    2019],
+                                                    'fixed-line roughly 15 per 100 (service lags in rural areas), '
+                                                    'mobile-cellular over 130 per 100 persons',
+                                                    2020],
                                       'general': [ 'liberalized telecom market supported by market competition in '
                                                    'broadband and mobile sectors ensuring access to cable and fiber '
                                                    'infrastructure',
@@ -11777,7 +11799,7 @@ WORLD_FB = \
                                                    'fixed broadband benefits from DSL infrastructure and investment in '
                                                    'fiber through EU support',
                                                    'major importer of broadcasting equipment and accessories from '
-                                                   'Germany (2021)',
+                                                   'Germany',
                                                    2020],
                                       'intl': [ 'landing points for the Baltica and the Denmark-Poland2 submarine '
                                                 'cables connecting Poland, Denmark and Sweden',
@@ -11798,7 +11820,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 29791401},
+                         'users_internet': 31970000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/poland/page-data.json',
               'name': 'Poland',
               'stan': 'POL',
@@ -11826,26 +11848,28 @@ WORLD_FB = \
                            'ports': { 'container': 'Sines (1,420,000) (2019)',
                                       'seaport': 'Leixoes, Lisbon, Setubal, Sines'},
                            'region': ['Europe'],
-                           'subs_broadband': 3967699,
-                           'subs_fixed': 5087977,
-                           'subs_mobile': 11909751,
+                           'subs_broadband': 4160895,
+                           'subs_fixed': 5212507,
+                           'subs_mobile': 11854999,
                            'telecom': { 'code': '351',
                                         'domestic': [ 'integrated network of coaxial cables, open-wire, microwave '
                                                       'radio relay, and domestic satellite earth stations',
-                                                      'fixed-line 50 per 100 persons and mobile-cellular 116 per 100 '
-                                                      'persons',
-                                                      2019],
+                                                      'fixed-line roughly 51 per 100 persons and mobile-cellular 116 '
+                                                      'per 100 persons',
+                                                      2020],
                                         'general': [ 'Portugal has a medium-sized telecom market with a strong mobile '
                                                      'sector and a growing broadband customer base',
                                                      'mobile market dominated by one operator with room for '
                                                      'competition',
-                                                     '3G infrastructure is universal, with investment directed towards '
-                                                     'provision of 90% LTE coverage in rural areas and 5G technologies',
-                                                     'cable sector shifting to fiber, with access to 66% of population',
+                                                     '3G infrastructure is universal, with investment directed toward '
+                                                     'expanding provision of 90% LTE coverage in rural areas and 5G '
+                                                     'technologies',
+                                                     'cable sector shifting to wireless, with access to 66% of '
+                                                     'population',
                                                      'developments in m-commerce',
                                                      'operator assessing installation of submarine cable between '
                                                      'islands and mainland',
-                                                     'importer of broadcasting equipment from EU (2021)',
+                                                     'importer of broadcasting equipment from EU',
                                                      2020],
                                         'intl': [ 'landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, '
                                                   'SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, '
@@ -11870,7 +11894,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 7731411},
+                           'users_internet': 8580000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/portugal/page-data.json',
                 'name': 'Portugal',
                 'stan': 'PRT',
@@ -11893,15 +11917,15 @@ WORLD_FB = \
                                          'seaport': 'Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, '
                                                     'San Juan'},
                               'region': ['Central America and the Caribbean'],
-                              'subs_broadband': 609943,
-                              'subs_fixed': 686901,
-                              'subs_mobile': 3371969,
+                              'subs_broadband': 671284,
+                              'subs_fixed': 711512,
+                              'subs_mobile': 3483570,
                               'telecom': { 'code': '1787',
                                            'domestic': [ 'digital telephone system',
                                                          'mobile-cellular services',
-                                                         'fixed-line 23 per 100 and mobile-cellular 115 per 100 '
-                                                         'persons',
-                                                         2019],
+                                                         'fixed-line nearly 25 per 100 and mobile-cellular nearly 122 '
+                                                         'per 100 persons',
+                                                         2020],
                                            'general': [ 'small telecom market affected by mismanagement and natural '
                                                         'disasters',
                                                         'hurricanes in 2017 and earthquake in 2020 caused destruction '
@@ -11914,7 +11938,7 @@ WORLD_FB = \
                                                         'supports streaming of international content and cloud '
                                                         'services',
                                                         'operator launched connectivity for school children during '
-                                                        'pandemic (2021)',
+                                                        'pandemic',
                                                         2020],
                                            'intl': [ ', 939',
                                                      'landing points for the GTMO-PR, AMX-1, BRUSA, GCN, PCCS, SAm-1, '
@@ -11937,7 +11961,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 2326006},
+                              'users_internet': 2210000},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/puerto-rico/page-data.json',
                    'name': 'Puerto Rico',
                    'stan': 'PRI',
@@ -11961,13 +11985,13 @@ WORLD_FB = \
                         'population': 2479995,
                         'ports': {'seaport': "Doha, Musay'id, Ra's Laffan"},
                         'region': ['Middle East'],
-                        'subs_broadband': 284679,
-                        'subs_fixed': 461289,
-                        'subs_mobile': 3917571,
+                        'subs_broadband': 296126,
+                        'subs_fixed': 454701,
+                        'subs_mobile': 3798514,
                         'telecom': { 'code': '974',
-                                     'domestic': [ 'fixed-line 16 per 100 and mobile-cellular telephone subscribership '
-                                                   '138 telephones per 100 persons (209)',
-                                                   0],
+                                     'domestic': [ 'fixed-line nearly 16 per 100 and mobile-cellular telephone '
+                                                   'subscribership nearly 132 telephones per 100 persons',
+                                                   2020],
                                      'general': [ 'telecom infrastructure in Qatar demonstrated resilience during the '
                                                   'pandemic, following surge in Internet usage',
                                                   'highest fixed-line and mobile penetrations in Middle East with '
@@ -11975,7 +11999,7 @@ WORLD_FB = \
                                                   'operator deployed 5G across the country with positive '
                                                   'subscribership, primarily around Doha',
                                                   'largest user of the Internet in the Middle East',
-                                                  'importer of broadcasting equipment from China (2021)',
+                                                  'importer of broadcasting equipment from China',
                                                   2020],
                                      'intl': [ 'landing points for the Qatar-UAE Submarine Cable System, AAE-1, FOG, '
                                                'GBICS/East North Africa MENA and the FALCON submarine cable network '
@@ -12001,7 +12025,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 2355297},
+                        'users_internet': 2880000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/qatar/page-data.json',
              'name': 'Qatar',
              'stan': 'QAT',
@@ -12041,14 +12065,14 @@ WORLD_FB = \
                           'population': 21230362,
                           'ports': {'seaport': 'Constanta, Midia'},
                           'region': ['Europe'],
-                          'subs_broadband': 5277700,
-                          'subs_fixed': 3380000,
-                          'subs_mobile': 22671000,
+                          'subs_broadband': 5685000,
+                          'subs_fixed': 3025000,
+                          'subs_mobile': 22592000,
                           'telecom': { 'code': '40',
-                                       'domestic': [ 'fixed-line teledensity is about 17 telephones per 100 persons',
+                                       'domestic': [ 'fixed-line teledensity is about 16 telephones per 100 persons',
                                                      'mobile market served by four mobile network operators',
                                                      'mobile-cellular teledensity over 117 telephones per 100 persons',
-                                                     2019],
+                                                     2020],
                                        'general': [ "Romania's telecom sector benefits from infrastructure-based "
                                                     'competition',
                                                     'domestic and international service improving rapidly, especially '
@@ -12057,7 +12081,7 @@ WORLD_FB = \
                                                     'government secured EU funding to extend broadband to rural areas',
                                                     "operators invest in networks' capacity upgrades",
                                                     'operator testing IoT',
-                                                    'importer of broadcasting equipment from EU neighbors (2021)',
+                                                    'importer of broadcasting equipment from EU neighbors',
                                                     2020],
                                        'intl': [ 'landing point for the Diamond Link Global submarine cable linking '
                                                  'Romania with Georgia',
@@ -12077,7 +12101,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 15165890},
+                          'users_internet': 15490000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/romania/page-data.json',
                'name': 'Romania',
                'stan': 'ROU',
@@ -12121,9 +12145,9 @@ WORLD_FB = \
                                                'Sea:</em> Novorossiysk<br /><em>Pacific Ocean:</em> Nakhodka, '
                                                'Vladivostok, Vostochnyy'},
                          'region': ['Asia'],
-                         'subs_broadband': 32857614,
+                         'subs_broadband': 33872758,
                          'subs_fixed': 27674128,
-                         'subs_mobile': 239795946,
+                         'subs_mobile': 238733217,
                          'telecom': { 'code': '7',
                                       'domestic': [ 'cross-country digital trunk lines run from Saint Petersburg to '
                                                     'Khabarovsk, and from Moscow to Novorossiysk',
@@ -12133,8 +12157,9 @@ WORLD_FB = \
                                                     'areas',
                                                     'in rural areas, telephone services are still outdated, '
                                                     'inadequate, and low-density',
-                                                    '22 per 100 for fixed-line and mobile-cellular 164 per 100 persons',
-                                                    2019],
+                                                    'nearly 19 per 100 for fixed-line and mobile-cellular a bit over '
+                                                    '164 per 100 persons',
+                                                    2020],
                                       'general': [ 'telecom market is largest in Europe, centered in large cities',
                                                    'competition active in Moscow and St Petersburg',
                                                    'most users access Internet through mobile platforms',
@@ -12150,8 +12175,7 @@ WORLD_FB = \
                                                    'cities',
                                                    'in rural areas, the availability of public Internet connections '
                                                    'remains limited',
-                                                   'major importer of broadcasting equipment and computers from China '
-                                                   '(2021)',
+                                                   'major importer of broadcasting equipment and computers from China',
                                                    2020],
                                       'intl': [ 'landing points for the Far East Submarine Cable System, HSCS, '
                                                 'Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait '
@@ -12173,7 +12197,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 114920477},
+                         'users_internet': 124000000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/russia/page-data.json',
               'name': 'Russia',
               'stan': 'RUS',
@@ -12201,16 +12225,16 @@ WORLD_FB = \
                          'population': 12943132,
                          'ports': {},
                          'region': ['Africa'],
-                         'subs_broadband': 8885,
-                         'subs_fixed': 11393,
-                         'subs_mobile': 9658548,
+                         'subs_broadband': 17685,
+                         'subs_fixed': 11671,
+                         'subs_mobile': 10614408,
                          'telecom': { 'code': '250',
                                       'domestic': [ 'the capital, Kigali, is connected to provincial centers by '
                                                     'microwave radio relay, and recently by cellular telephone service',
                                                     'much of the network depends on wire and HF radiotelephone',
                                                     'fixed-line less than 1 per 100 and mobile-cellular telephone '
-                                                    'density has increased to 76 telephones per 100 persons',
-                                                    2019],
+                                                    'density has increased to nearly 82 telephones per 100 persons',
+                                                    2020],
                                       'general': [ 'telecom market impacted by energy shortages and instability in '
                                                    'neighboring states',
                                                    'government investing in smart city infrastructure',
@@ -12220,7 +12244,7 @@ WORLD_FB = \
                                                    'competing operators roll out national fiber optic backbone through '
                                                    'connection to submarine cables, ending expensive dependence on '
                                                    'satellite',
-                                                   'importer of broadcasting equipment from China (2021)',
+                                                   'importer of broadcasting equipment from China',
                                                    2020],
                                       'intl': [ 'international connections employ microwave radio relay to neighboring '
                                                 'countries and satellite communications to more distant countries',
@@ -12243,7 +12267,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 2653197},
+                         'users_internet': 4120000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/rwanda/page-data.json',
               'name': 'Rwanda',
               'stan': 'RWA',
@@ -12270,7 +12294,7 @@ WORLD_FB = \
                                                 'domestic': [ 'direct dial capability with both fixed and wireless '
                                                               'systems, 3 FM channels, no broadcasting',
                                                               2018],
-                                                'general': ['fully integrated access', '4G and LTE services', 2020],
+                                                'general': ['fully integrated access', '4G and LTE services', 2019],
                                                 'intl': [ 'landing points for the SSCS and the Southern Caribbean '
                                                           'Fiber submarine cables providing voice and data '
                                                           'connectivity to numerous Caribbean Islands',
@@ -12289,7 +12313,8 @@ WORLD_FB = \
                                                           'the crucial nature of telecom services as a tool for work '
                                                           'and school from home became evident, and received some '
                                                           'support from governments',
-                                                          0]}},
+                                                          0]},
+                                   'users_internet': 2025},
                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-barthelemy/page-data.json',
                         'name': 'Saint Barthelemy',
                         'stan': '',
@@ -12326,13 +12351,13 @@ WORLD_FB = \
                                                                 'population': 7915,
                                                                 'ports': {'seaport': 'Saint Helena'},
                                                                 'region': ['Africa'],
-                                                                'subs_broadband': 1347,
-                                                                'subs_fixed': 3921,
-                                                                'subs_mobile': 5228,
+                                                                'subs_broadband': 1000,
+                                                                'subs_fixed': 3000,
+                                                                'subs_mobile': 4000,
                                                                 'telecom': { 'domestic': [ 'automatic digital network',
-                                                                                           'fixed-line 50 per 100 and '
-                                                                                           'mobile-cellular 67 per 100 '
-                                                                                           'persons',
+                                                                                           'fixed-line roughly 50 per '
+                                                                                           '100 and mobile-cellular '
+                                                                                           'nearly 67 per 100 persons',
                                                                                            2019],
                                                                              'general': [ 'capability to communicate '
                                                                                           'worldwide',
@@ -12396,7 +12421,7 @@ WORLD_FB = \
                                                                                        'evident, and received some '
                                                                                        'support from governments',
                                                                                        0]},
-                                                                'users_internet': 1800},
+                                                                'users_internet': 2281},
                                                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-helena-ascension-and-tristan-da-cunha/page-data.json',
                                                      'name': 'Saint Helena, Ascension, and Tristan da Cunha',
                                                      'stan': 'SHN',
@@ -12422,9 +12447,9 @@ WORLD_FB = \
                                         'population': 54149,
                                         'ports': {'seaport': 'Basseterre, Charlestown'},
                                         'region': ['Central America and the Caribbean'],
-                                        'subs_broadband': 16400,
-                                        'subs_fixed': 17766,
-                                        'subs_mobile': 78970,
+                                        'subs_broadband': 29272,
+                                        'subs_fixed': 17293,
+                                        'subs_mobile': 76878,
                                         'telecom': { 'code': '1869',
                                                      'domestic': [ 'interisland links via ECFS',
                                                                    'fixed-line teledensity about 33 per 100 persons',
@@ -12459,7 +12484,7 @@ WORLD_FB = \
                                                                'work and school from home became evident, and received '
                                                                'some support from governments',
                                                                0]},
-                                        'users_internet': 42852},
+                                        'users_internet': 43100},
                              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-kitts-and-nevis/page-data.json',
                              'name': 'Saint Kitts and Nevis',
                              'stan': 'KNA',
@@ -12481,8 +12506,8 @@ WORLD_FB = \
                               'ports': {'seaport': 'Castries, Cul-de-Sac, Vieux-Fort'},
                               'region': ['Central America and the Caribbean'],
                               'subs_broadband': 32265,
-                              'subs_fixed': 33285,
-                              'subs_mobile': 168797,
+                              'subs_fixed': 36469,
+                              'subs_mobile': 184944,
                               'telecom': { 'code': '1758',
                                            'domestic': [ 'fixed-line teledensity is 20 per 100 persons and '
                                                          'mobile-cellular teledensity is roughly 102 per 100 persons',
@@ -12516,7 +12541,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 84112},
+                              'users_internet': 104400},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-lucia/page-data.json',
                    'name': 'Saint Lucia',
                    'stan': 'LCA',
@@ -12568,7 +12593,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 1100},
+                               'users_internet': 7339},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-martin/page-data.json',
                     'name': 'Saint Martin',
                     'stan': '',
@@ -12603,7 +12628,7 @@ WORLD_FB = \
                                             'telecom': { 'code': '508',
                                                          'domestic': [ 'fixed-line teledensity 76 per 100 persons',
                                                                        2019],
-                                                         'general': ['adequate', 2018],
+                                                         'general': ['adequate', 2019],
                                                          'intl': [ 'landing point for the St Pierre and Miquelon Cable '
                                                                    'connecting Saint Pierre & Miquelon and Canada',
                                                                    'radiotelephone communication with most countries '
@@ -12628,7 +12653,7 @@ WORLD_FB = \
                                                                    'for work and school from home became evident, and '
                                                                    'received some support from governments',
                                                                    0]},
-                                            'users_internet': 4500},
+                                            'users_internet': 4600},
                                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-pierre-and-miquelon/page-data.json',
                                  'name': 'Saint Pierre and Miquelon',
                                  'stan': 'SPM',
@@ -12654,14 +12679,14 @@ WORLD_FB = \
                                                    'population': 101145,
                                                    'ports': {'seaport': 'Kingstown'},
                                                    'region': ['Central America and the Caribbean'],
-                                                   'subs_broadband': 22491,
-                                                   'subs_fixed': 12934,
-                                                   'subs_mobile': 102700,
+                                                   'subs_broadband': 24494,
+                                                   'subs_fixed': 12483,
+                                                   'subs_mobile': 97059,
                                                    'telecom': { 'code': '1784',
-                                                                'domestic': [ 'fixed-line teledensity exceeds 12 per '
+                                                                'domestic': [ 'fixed-line teledensity exceeds 11 per '
                                                                               '100 persons and mobile-cellular '
-                                                                              'teledensity is about 93 per 100 persons',
-                                                                              2019],
+                                                                              'teledensity is about 87 per 100 persons',
+                                                                              2020],
                                                                 'general': [ 'adequate island-wide, fully automatic '
                                                                              'telephone system',
                                                                              'broadband access',
@@ -12704,7 +12729,7 @@ WORLD_FB = \
                                                                           'evident, and received some support from '
                                                                           'governments',
                                                                           0]},
-                                                   'users_internet': 22803},
+                                                   'users_internet': 67000},
                                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-vincent-and-the-grenadines/page-data.json',
                                         'name': 'Saint Vincent and the Grenadines',
                                         'stan': 'VCT',
@@ -12729,11 +12754,11 @@ WORLD_FB = \
                         'ports': {'seaport': 'Apia'},
                         'region': ['Oceania'],
                         'subs_broadband': 1692,
-                        'subs_fixed': 8770,
-                        'subs_mobile': 128776,
+                        'subs_fixed': 8454,
+                        'subs_mobile': 124211,
                         'telecom': { 'code': '685',
-                                     'domestic': [ 'fixed-line 4 per 100 and mobile-cellular teledensity 64 telephones '
-                                                   'per 100 persons',
+                                     'domestic': [ 'fixed-line roughly 4 per 100 and mobile-cellular teledensity '
+                                                   'nearly 64 telephones per 100 persons',
                                                    2019],
                                      'general': [ 'development of infrastructure is hampered by geography of remote '
                                                   'islands, vulnerable to devastating storms',
@@ -12748,7 +12773,7 @@ WORLD_FB = \
                                                   'reliability',
                                                   'Australian companies countering Chinese companies in the '
                                                   'acquisition of Pacific operations',
-                                                  'importer of broadcasting equipment from USA (2020)',
+                                                  'importer of broadcasting equipment from USA',
                                                   2020],
                                      'intl': [ 'landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT '
                                                'submarine cables providing connectivity to Samoa, Fiji, Wallis & '
@@ -12769,7 +12794,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 67662},
+                        'users_internet': 67000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/samoa/page-data.json',
              'name': 'Samoa',
              'stan': 'WSM',
@@ -12797,8 +12822,8 @@ WORLD_FB = \
                              'subs_fixed': 16000,
                              'subs_mobile': 38750,
                              'telecom': { 'code': '378',
-                                          'domestic': [ 'fixed-line 47 per 100 and mobile-cellular teledensity 114 '
-                                                        'telephones per 100 persons',
+                                          'domestic': [ 'fixed-line a little over 47 per 100 and mobile-cellular '
+                                                        'teledensity roughly 114 telephones per 100 persons',
                                                         2019],
                                           'general': [ 'automatic telephone system completely integrated into Italian '
                                                        'system',
@@ -12818,7 +12843,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 20328},
+                             'users_internet': 20400},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/san-marino/page-data.json',
                   'name': 'San Marino',
                   'stan': 'SMR',
@@ -12844,13 +12869,13 @@ WORLD_FB = \
                                         'population': 213948,
                                         'ports': {'seaport': 'Sao Tome'},
                                         'region': ['Africa'],
-                                        'subs_broadband': 1642,
-                                        'subs_fixed': 4784,
-                                        'subs_mobile': 165761,
+                                        'subs_broadband': 2512,
+                                        'subs_fixed': 2720,
+                                        'subs_mobile': 174203,
                                         'telecom': { 'code': '239',
-                                                     'domestic': [ 'fixed-line 2 per 100 and mobile-cellular '
-                                                                   'teledensity 77 telephones per 100 persons',
-                                                                   2019],
+                                                     'domestic': [ 'fixed-line roughly 1 per 100 and mobile-cellular '
+                                                                   'teledensity roughly 79 telephones per 100 persons',
+                                                                   2020],
                                                      'general': [ 'local telephone network of adequate quality with '
                                                                   'most lines connected to digital switches',
                                                                   'mobile cellular superior choice to landland',
@@ -12878,7 +12903,7 @@ WORLD_FB = \
                                                                'work and school from home became evident, and received '
                                                                'some support from governments',
                                                                0]},
-                                        'users_internet': 61193},
+                                        'users_internet': 65000},
                              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sao-tome-and-principe/page-data.json',
                              'name': 'Sao Tome and Principe',
                              'stan': 'STP',
@@ -12911,13 +12936,14 @@ WORLD_FB = \
                                                        '(2,020,683) (2019)',
                                           'seaport': "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'"},
                                'region': ['Middle East'],
-                               'subs_broadband': 6801949,
-                               'subs_fixed': 5377978,
-                               'subs_mobile': 41298629,
+                               'subs_broadband': 7890261,
+                               'subs_fixed': 5749058,
+                               'subs_mobile': 43215439,
                                'telecom': { 'code': '966',
-                                            'domestic': [ 'fixed-line 16 per 100 and mobile-cellular subscribership '
-                                                          'has been increasing rapidly to 121 per 100 persons',
-                                                          2019],
+                                            'domestic': [ 'fixed-line over 16 per 100 and mobile-cellular '
+                                                          'subscribership has been increasing rapidly to roughly 124 '
+                                                          'per 100 persons',
+                                                          2020],
                                             'general': [ 'one of the most progressive telecom markets in the Middle '
                                                          'East',
                                                          'mobile penetration high, with a saturated market',
@@ -12931,8 +12957,7 @@ WORLD_FB = \
                                                          'services available online',
                                                          'authorities operate extensive censorship and surveillance '
                                                          'systems',
-                                                         'major importer of broadcasting equipment from UAE and China '
-                                                         '(2020)',
+                                                         'major importer of broadcasting equipment from UAE and China',
                                                          2020],
                                             'intl': [ 'landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, '
                                                       'FEA, IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, '
@@ -12959,7 +12984,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 30877318},
+                               'users_internet': 33580000},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saudi-arabia/page-data.json',
                     'name': 'Saudi Arabia',
                     'stan': 'SAU',
@@ -12988,22 +13013,23 @@ WORLD_FB = \
                           'population': 16082442,
                           'ports': {'seaport': 'Dakar'},
                           'region': ['Africa'],
-                          'subs_broadband': 152047,
+                          'subs_broadband': 177363,
                           'subs_fixed': 207592,
-                          'subs_mobile': 17880594,
+                          'subs_mobile': 19078948,
                           'telecom': { 'code': '221',
                                        'domestic': [ 'generally reliable urban system with a fiber-optic network',
                                                      'about two-thirds of all fixed-line connections are in Dakar',
                                                      'mobile-cellular service is steadily displacing fixed-line '
                                                      'service, even in urban areas',
-                                                     'fixed-line 1 per 100 and mobile-cellular 110 per 100 persons',
-                                                     2019],
+                                                     'fixed-line roughly 1 per 100 and mobile-cellular 114 per 100 '
+                                                     'persons',
+                                                     2020],
                                        'general': [ 'universal mobile penetration since 2019',
                                                     'mobile broadband accounts for 97% of Internet access',
                                                     '3G and LTE services for half of the population',
                                                     'African consortium issued a bond to finance network upgrades and '
                                                     'services',
-                                                    'importer of broadcasting equipment from UAE and China (2021)',
+                                                    'importer of broadcasting equipment from UAE and China',
                                                     2020],
                                        'intl': [ 'landing points for the ACE, Atlantis-2, MainOne and SAT-3/WASC '
                                                  'submarine cables providing connectivity from South Africa, numerous '
@@ -13023,7 +13049,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 6909635},
+                          'users_internet': 7810000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/senegal/page-data.json',
                'name': 'Senegal',
                'stan': 'SEN',
@@ -13041,8 +13067,8 @@ WORLD_FB = \
                                                    'Croatia': 314,
                                                    'Hungary': 164,
                                                    'Kosovo': 366,
-                                                   'Macedonia': 101,
                                                    'Montenegro': 157,
+                                                   'North Macedonia': 101,
                                                    'Romania': 531},
                                          'len': 2322},
                          'capital': {'coord': '44 50 N, 20 30 E', 'name': 'Belgrade (Beograd)', 'time_diff': 'UTC+1'},
@@ -13055,12 +13081,13 @@ WORLD_FB = \
                          'population': 6974289,
                          'ports': {},
                          'region': ['Europe'],
-                         'subs_broadband': 1623790,
-                         'subs_fixed': 2565392,
-                         'subs_mobile': 8453887,
+                         'subs_broadband': 1724392,
+                         'subs_fixed': 2572169,
+                         'subs_mobile': 8260758,
                          'telecom': { 'code': '381',
-                                      'domestic': [ 'fixed-line 29 per 100 and mobile-cellular 96 per 100 persons',
-                                                    2019],
+                                      'domestic': [ 'fixed-line over 37 per 100 and mobile-cellular over 120 per 100 '
+                                                    'persons',
+                                                    2020],
                                       'general': [ "Serbia's integration with the EU helped regulator reforms and "
                                                    'promotion of telecom',
                                                    'EU development loans for broadband to rural areas',
@@ -13069,7 +13096,7 @@ WORLD_FB = \
                                                    'national coverage is growing rapidly',
                                                    'best telecom services are centered in urban centers',
                                                    '4G/LTE mobile network launched',
-                                                   '5G tests ongoing with Ericsson and Huawei (2021)',
+                                                   '5G tests ongoing with Ericsson and Huawei',
                                                    2020],
                                       'intl': [0],
                                       'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -13085,7 +13112,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 5192501},
+                         'users_internet': 6890000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/serbia/page-data.json',
               'name': 'Serbia',
               'stan': '',
@@ -13109,13 +13136,13 @@ WORLD_FB = \
                              'population': 96387,
                              'ports': {'seaport': 'Victoria'},
                              'region': ['Africa'],
-                             'subs_broadband': 26974,
-                             'subs_fixed': 20122,
-                             'subs_mobile': 193672,
+                             'subs_broadband': 34966,
+                             'subs_fixed': 18882,
+                             'subs_mobile': 183498,
                              'telecom': { 'code': '248',
-                                          'domestic': [ 'fixed-line 21 per 100 and mobile-cellular teledensity is 198 '
-                                                        'telephones per 100 persons',
-                                                        2019],
+                                          'domestic': [ 'fixed-line a little over 19 per 100 and mobile-cellular '
+                                                        'teledensity is nearly 187 telephones per 100 persons',
+                                                        2020],
                                           'general': [ 'effective system',
                                                        'direct international calls to over 100 countries',
                                                        'radiotelephone communications between islands in the '
@@ -13145,7 +13172,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 55616},
+                             'users_internet': 58000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/seychelles/page-data.json',
                   'name': 'Seychelles',
                   'stan': 'SYC',
@@ -13169,12 +13196,12 @@ WORLD_FB = \
                                'population': 6807277,
                                'ports': {'seaport': 'Freetown, Pepel, Sherbro Islands'},
                                'region': ['Africa'],
-                               'subs_fixed': 3434,
-                               'subs_mobile': 6729804,
+                               'subs_fixed': 189,
+                               'subs_mobile': 6884201,
                                'telecom': { 'code': '232',
-                                            'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular 86 per '
+                                            'domestic': [ 'fixed-line 0 per 100 and mobile-cellular just over 86 per '
                                                           '100',
-                                                          2019],
+                                                          2020],
                                             'general': [ 'telecom sector is recovering from the decades of war, yet '
                                                          'still constrained by inadequate power and pervasive '
                                                          'corruption',
@@ -13185,7 +13212,7 @@ WORLD_FB = \
                                                          'LTE available in some parts of the country',
                                                          'construction of 600 km ECOWAS Wide Area Network completed',
                                                          'fiber link to Guinea completed',
-                                                         'importer of broadcasting equipment from China (2021)',
+                                                         'importer of broadcasting equipment from China',
                                                          2020],
                                             'intl': [ 'landing point for the ACE submarine cable linking to South '
                                                       'Africa, over 20 western African countries and Europe',
@@ -13205,7 +13232,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 568099},
+                               'users_internet': 2390000},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sierra-leone/page-data.json',
                     'name': 'Sierra Leone',
                     'stan': 'SLE',
@@ -13229,30 +13256,33 @@ WORLD_FB = \
                             'population': 5866139,
                             'ports': {'container': 'Singapore (37,195,636) (2019)', 'seaport': 'Singapore'},
                             'region': ['Southeast Asia'],
-                            'subs_broadband': 1504000,
-                            'subs_fixed': 1911200,
-                            'subs_mobile': 9034300,
+                            'subs_broadband': 1517600,
+                            'subs_fixed': 1891600,
+                            'subs_mobile': 8427500,
                             'telecom': { 'code': '65',
                                          'domestic': [ 'excellent domestic facilities',
-                                                       'fixed-line 33 per 100 and mobile-cellular 156 per 100 '
+                                                       'fixed-line roughly 32 per 100 and mobile-cellular 144 per 100 '
                                                        'teledensity',
                                                        'multiple providers of high-speed Internet connectivity',
-                                                       2019],
+                                                       2020],
                                          'general': [ 'a wealthy city-state, Singapore has a highly developed ICT '
                                                       'infrastructure',
                                                       'government supported near universal home broadband penetration '
                                                       'and free public access to wireless network',
-                                                      'operators proceeded with investment programs, particularly in '
-                                                      '5G standalone networks',
+                                                      "the government's telecommunication regulator, Infocomm Media "
+                                                      'Development Authority (IMDA), issued awards in mid-2020 to '
+                                                      'telecom operators with the goal of having at least 50% of the '
+                                                      'city-state covered with a standalone 5G network by the end of '
+                                                      '2022',
                                                       'government actively promoting Smart Nation initiative '
                                                       'supporting digital innovation',
-                                                      'government oversees service providers, controls Internet '
-                                                      'content, and regulators lack independence',
+                                                      'government oversees service providers and controls Internet '
+                                                      'content',
                                                       'well served by submarine cable and satellite connections',
                                                       'major importer of integrated circuits and broadcasting '
                                                       'equipment from China and exporter of same to SE Asian '
-                                                      'neighboring countries (2021)',
-                                                      2020],
+                                                      'neighboring countries',
+                                                      2021],
                                          'intl': [ 'landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, '
                                                    'i2icn, PGASCOM, BSCS, IGG, B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, '
                                                    'ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables '
@@ -13275,7 +13305,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 5286665},
+                            'users_internet': 5290000},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/singapore/page-data.json',
                  'name': 'Singapore',
                  'stan': 'SGP',
@@ -13305,7 +13335,7 @@ WORLD_FB = \
                                'population': 44564,
                                'ports': {'seaport': 'Philipsburg'},
                                'region': ['Central America and the Caribbean'],
-                               'subs_mobile': 84773,
+                               'subs_mobile': 68840,
                                'telecom': { 'code': '1721',
                                             'domestic': [ 'extensive interisland microwave radio relay links',
                                                           '196 per 100 mobile-cellular teledensity',
@@ -13333,7 +13363,8 @@ WORLD_FB = \
                                                       'the crucial nature of telecom services as a tool for work and '
                                                       'school from home became evident, and received some support from '
                                                       'governments',
-                                                      0]}},
+                                                      0]},
+                               'users_internet': 29600},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sint-maarten/page-data.json',
                     'name': 'Sint Maarten',
                     'stan': '',
@@ -13362,17 +13393,17 @@ WORLD_FB = \
                            'population': 5436066,
                            'ports': {},
                            'region': ['Europe'],
-                           'subs_broadband': 1585092,
-                           'subs_fixed': 675297,
-                           'subs_mobile': 7399534,
+                           'subs_broadband': 1701561,
+                           'subs_fixed': 616148,
+                           'subs_mobile': 7289707,
                            'telecom': { 'code': '421',
                                         'domestic': [ 'four companies have a license to operate cellular networks and '
                                                       'provide nationwide cellular services',
                                                       'a few other companies provide services but do not have their '
                                                       'own networks',
-                                                      'fixed-line 12 per 100 and mobile-cellular 136 per 100 '
-                                                      'teledensity',
-                                                      2019],
+                                                      'fixed-line roughly 11 per 100 and mobile-cellular over 133 per '
+                                                      '100 teledensity',
+                                                      2020],
                                         'general': [ 'a modern telecom system',
                                                      'one operator has near monopoly of fixed-line market',
                                                      'competition in mobile- and fixed-broadband market',
@@ -13383,7 +13414,7 @@ WORLD_FB = \
                                                      '200,000 premises in 2019',
                                                      'EU funding for development and improvement of e-government and '
                                                      'online services',
-                                                     'regulator prepared groundwork for 5G services in 2020 (2021)',
+                                                     'regulator prepared groundwork for 5G services in 2020',
                                                      2020],
                                         'intl': [ '3 international exchanges (1 in Bratislava and 2 in Banska '
                                                   'Bystrica) are available',
@@ -13406,7 +13437,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 4391969},
+                           'users_internet': 4640000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/slovakia/page-data.json',
                 'name': 'Slovakia',
                 'stan': 'SVK',
@@ -13431,13 +13462,13 @@ WORLD_FB = \
                            'population': 2102106,
                            'ports': {'seaport': 'Koper'},
                            'region': ['Europe'],
-                           'subs_broadband': 627939,
-                           'subs_fixed': 707059,
-                           'subs_mobile': 2511979,
+                           'subs_broadband': 651604,
+                           'subs_fixed': 704909,
+                           'subs_mobile': 2550895,
                            'telecom': { 'code': '386',
-                                        'domestic': [ 'fixed-line 34 per 100 and mobile-cellular 121 per 100 '
-                                                      'teledensity',
-                                                      2019],
+                                        'domestic': [ 'fixed-line nearly 34 per 100 and mobile-cellular over 122 per '
+                                                      '100 teledensity',
+                                                      2020],
                                         'general': [ 'well-developed telecom infrastructure with sound regulatory '
                                                      'intervention',
                                                      'increase in Internet community utilizing e-government, '
@@ -13448,7 +13479,7 @@ WORLD_FB = \
                                                      'extensive reach of 5G',
                                                      'FttP to 90% of premises',
                                                      'importer of broadcasting equipment from neighboring Central '
-                                                     'Europe (2021)',
+                                                     'Europe',
                                                      2020],
                                         'intl': [2016],
                                         'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -13465,7 +13496,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 1676445},
+                           'users_internet': 1750000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/slovenia/page-data.json',
                 'name': 'Slovenia',
                 'stan': 'SVN',
@@ -13493,8 +13524,9 @@ WORLD_FB = \
                                   'subs_fixed': 7104,
                                   'subs_mobile': 478116,
                                   'telecom': { 'code': '677',
-                                               'domestic': [ 'fixed-line is 1 per 100 persons and mobile-cellular '
-                                                             'telephone density is about 71 per 100 persons',
+                                               'domestic': [ 'fixed-line is just over 1 per 100 persons and '
+                                                             'mobile-cellular telephone density is about 71 per 100 '
+                                                             'persons',
                                                              'domestic cable system to extend to key major islands',
                                                              2019],
                                                'general': [ 'Internet penetration has reached 20%',
@@ -13527,7 +13559,7 @@ WORLD_FB = \
                                                          'and school from home became evident, and received some '
                                                          'support from governments',
                                                          0]},
-                                  'users_internet': 78686},
+                                  'users_internet': 198900},
                        'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/solomon-islands/page-data.json',
                        'name': 'Solomon Islands',
                        'stan': 'SLB',
@@ -13546,19 +13578,20 @@ WORLD_FB = \
                           'coord': ['10 00 N, 49 00 E'],
                           'country_name': { 'conv_long': 'Federal Republic of Somalia',
                                             'conv_short': 'Somalia',
-                                            'local_long': 'Jamhuuriyadda Federaalkaa Soomaaliya',
-                                            'local_short': 'Soomaaliya'},
+                                            'local_long': 'Jamhuuriyadda Federaalka Soomaaliya (Somali), Jumhuriyat as '
+                                                          'Sumal al Fidiraliyah (Arabic)',
+                                            'local_short': 'Soomaaliya (Somali), As Sumal (Arabic)'},
                           'population': 12094640,
                           'ports': {'seaport': 'Berbera, Kismaayo'},
                           'region': ['Africa'],
-                          'subs_broadband': 92000,
+                          'subs_broadband': 98000,
                           'subs_fixed': 74800,
-                          'subs_mobile': 5612338,
+                          'subs_mobile': 7653040,
                           'telecom': { 'code': '252',
                                        'domestic': [ 'seven networks compete for customers in the mobile sector',
                                                      'some of these mobile-service providers offer fixed-lines and '
                                                      'Internet services',
-                                                     'fixed-line less than 1 per 100 and mobile-cellular 49 per 100',
+                                                     'fixed-line is 0 per 100 and mobile-cellular roughly 51 per 100',
                                                      2019],
                                        'general': [ 'the public telecom system was almost completely destroyed during '
                                                     'years of civil war',
@@ -13588,7 +13621,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 225181},
+                          'users_internet': 1950000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/somalia/page-data.json',
                'name': 'Somalia',
                'stan': 'SOM',
@@ -13623,19 +13656,19 @@ WORLD_FB = \
                                'ports': { 'container': 'Durban (2,769,869) (2019)',
                                           'seaport': 'Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay'},
                                'region': ['Africa'],
-                               'subs_broadband': 1250356,
-                               'subs_fixed': 2024730,
-                               'subs_mobile': 96972459,
+                               'subs_broadband': 1303057,
+                               'subs_fixed': 2098802,
+                               'subs_mobile': 95959439,
                                'telecom': { 'code': '27',
-                                            'domestic': [ 'fixed-line 3 per 100 persons and mobile-cellular 166 '
-                                                          'telephones per 100 persons',
+                                            'domestic': [ 'fixed-line over 3 per 100 persons and mobile-cellular '
+                                                          'nearly 162 telephones per 100 persons',
                                                           'consists of carrier-equipped open-wire lines, coaxial '
                                                           'cables, microwave radio relay links, fiber-optic cable, '
                                                           'radiotelephone communication stations, and wireless local '
                                                           'loops',
                                                           'key centers are Bloemfontein, Cape Town, Durban, '
                                                           'Johannesburg, Port Elizabeth, and Pretoria',
-                                                          2019],
+                                                          2020],
                                             'general': [ 'one of the most advanced infrastructures on the continent',
                                                          'investment by operators and municipal providers to improve '
                                                          'network capability focused on fiber and LTE to extend '
@@ -13647,8 +13680,7 @@ WORLD_FB = \
                                                          'regulatory intervention has improved telecommunications '
                                                          'market',
                                                          '5G in Capetown with additional auction and tests',
-                                                         'importer of broadcasting equipment and computers from China '
-                                                         '(2021)',
+                                                         'importer of broadcasting equipment and computers from China',
                                                          2020],
                                             'intl': [ 'landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, '
                                                       'SAEx1, SAEx2, IOX Cable System, METISS, EASSy, and SEACOM/ Tata '
@@ -13672,7 +13704,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 31107064},
+                               'users_internet': 38190000},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/south-africa/page-data.json',
                     'name': 'South Africa',
                     'stan': 'ZAF',
@@ -13726,32 +13758,28 @@ WORLD_FB = \
                               'population': 10984074,
                               'region': ['Africa'],
                               'subs_broadband': 200,
-                              'subs_fixed': '',
+                              'subs_fixed': 0,
                               'subs_mobile': 2221967,
                               'telecom': { 'code': '211',
                                            'domestic': [ 'fixed-line less than 1 per 100 subscriptions, '
-                                                         'mobile-cellular 33 per 100 persons',
+                                                         'mobile-cellular roughly 20 per 100 persons',
                                                          2019],
-                                           'general': [ 'landlocked and war-torn with little infrastructure and '
-                                                        'electricity, Sudan has one of the least developed telecom and '
-                                                        'Internet systems in the world and one of the lowest mobile '
-                                                        'penetration rates in Africa',
-                                                        'instability, widespread poverty, and low literacy rate all '
+                                           'general': [ 'with little infrastructure and electricity, South Sudan has '
+                                                        'one of the least developed telecom and Internet systems in '
+                                                        'the world and one of the lowest mobile penetration rates in '
+                                                        'Africa',
+                                                        'instability, widespread poverty, and low literacy rates '
                                                         'contribute to a struggling telecom sector',
                                                         'due to revenue losses, the few carriers in the market have '
                                                         'reduced the areas in which they offer service',
-                                                        'the government recognizes positive effects of ICT on '
+                                                        'the government recognizes the positive effects of ICT on '
                                                         'development and is providing a range of investment incentives',
-                                                        'international community provided billions in aid to help the '
-                                                        'young country',
-                                                        'Chinese investment plays a growing role in the infrastructure '
-                                                        'build-out and energy sectors',
+                                                        'the international community has provided billions of dollars '
+                                                        'in aid to help the young country, with Chinese investment '
+                                                        'playing a growing role in the infrastructure and energy '
+                                                        'sectors and South Sudan purchasing broadcasting equipment '
+                                                        'from China',
                                                         'by 2020, one operator had initiated e-money service',
-                                                        'international fiber cable link from Juba to Mombasa will '
-                                                        'drive down costs of Internet',
-                                                        'government utilizes unchecked power to conduct surveillance '
-                                                        'and monitor communications',
-                                                        'importer of broadcasting equipment from China',
                                                         2020],
                                            'intl': [2017],
                                            'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
@@ -13768,7 +13796,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 814326},
+                              'users_internet': 900700},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/south-sudan/page-data.json',
                    'name': 'South Sudan',
                    'stan': '',
@@ -13808,13 +13836,13 @@ WORLD_FB = \
                                               'de Tenerife (in the Canary Islands)<br /><em>Mediterranean Sea:</em> '
                                               'Algeciras, Barcelona, Cartagena, Tarragona, Valencia'},
                         'region': ['Europe'],
-                        'subs_broadband': 15616585,
-                        'subs_fixed': 19639778,
-                        'subs_mobile': 55354944,
+                        'subs_broadband': 15850358,
+                        'subs_fixed': 19455779,
+                        'subs_mobile': 55644651,
                         'telecom': { 'code': '34',
-                                     'domestic': [ 'fixed-line 42 per 100 and mobile-cellular 118 telephones per 100 '
-                                                   'persons',
-                                                   2019],
+                                     'domestic': [ 'fixed-line nearly 42 per 100 and mobile-cellular 119 telephones '
+                                                   'per 100 persons',
+                                                   2020],
                                      'general': [ 'well-developed and one of the largest telecom markets in Europe, '
                                                   'with average mobile penetration for Europe',
                                                   'regulator has championed competition',
@@ -13826,7 +13854,7 @@ WORLD_FB = \
                                                   'connections',
                                                   'Chinese company Huawei contributes investment to the telecom sector',
                                                   'increased connectivity through submarine cable connection to Brazil',
-                                                  'importer of broadcasting equipment from Europe (2021)',
+                                                  'importer of broadcasting equipment from Europe',
                                                   2020],
                                      'intl': [ 'landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, '
                                                'SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, '
@@ -13850,7 +13878,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 42478990},
+                        'users_internet': 42540000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/spain/page-data.json',
              'name': 'Spain',
              'stan': 'ESP',
@@ -13902,17 +13930,18 @@ WORLD_FB = \
                             'population': 23044123,
                             'ports': {'container': 'Colombo (7,228,337) (2019)', 'seaport': 'Colombo'},
                             'region': ['Asia'],
-                            'subs_broadband': 1666317,
-                            'subs_fixed': 2291464,
-                            'subs_mobile': 30778582,
+                            'subs_broadband': 1992429,
+                            'subs_fixed': 2428957,
+                            'subs_mobile': 29730465,
                             'telecom': { 'code': '94',
-                                         'domestic': [ 'fixed-line 12 per 100 and mobile-cellular 115 per 100',
+                                         'domestic': [ 'fixed-line roughly 11 per 100 and mobile-cellular nearly 139 '
+                                                       'per 100',
                                                        'national trunk network consists of digital microwave radio '
                                                        'relay and fiber-optic links',
                                                        'fixed wireless local loops have been installed',
                                                        'competition is strong in mobile cellular systems and mobile '
                                                        'cellular subscribership is increasing',
-                                                       2019],
+                                                       2020],
                                          'general': [ 'telephone services have improved significantly',
                                                       'strong growth anticipated as Sri Lanka is lagging behind other '
                                                       'Asian telecoms',
@@ -13941,7 +13970,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 7700876},
+                            'users_internet': 10900000},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sri-lanka/page-data.json',
                  'name': 'Sri Lanka',
                  'stan': 'LKA',
@@ -13972,16 +14001,16 @@ WORLD_FB = \
                         'population': 46751152,
                         'ports': {'seaport': 'Port Sudan'},
                         'region': ['Africa'],
-                        'subs_broadband': 32762,
-                        'subs_fixed': 137842,
-                        'subs_mobile': 33014160,
+                        'subs_broadband': 28782,
+                        'subs_fixed': 129408,
+                        'subs_mobile': 35195207,
                         'telecom': { 'code': '249',
                                      'domestic': [ 'consists of microwave radio relay, cable, fiber optic, '
                                                    'radiotelephone communications, tropospheric scatter, and a '
                                                    'domestic satellite system with 14 earth stations',
-                                                   'teledensity fixed-line less than 1 per 100 and mobile-cellular 77 '
-                                                   'telephones per 100 persons',
-                                                   2019],
+                                                   'teledensity fixed-line less than 1 per 100 and mobile-cellular '
+                                                   'over 80 telephones per 100 persons',
+                                                   2020],
                                      'general': [ 'well-equipped system by regional standards with ongoing upgrades',
                                                   'despite economic challenges, government continues to boost mobile '
                                                   'infrastructure through build-out of fiber-broadband network across '
@@ -13990,8 +14019,6 @@ WORLD_FB = \
                                                   'some investment has been made to build mobile towers and expand LTE '
                                                   'services',
                                                   'growth of e-money services',
-                                                  '2020 launch of Chinese-based satellite to develop space technology '
-                                                  'sector',
                                                   'interim constitution safeguards rights and freedoms, though some '
                                                   'Internet users continue to face harassment for activities',
                                                   'importer of broadcasting equipment from UAE and China',
@@ -14001,20 +14028,15 @@ WORLD_FB = \
                                                'Islands and Asia',
                                                'satellite earth stations - 1 Intelsat (Atlantic Ocean)',
                                                2019],
-                                     'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
-                                               'production and supply chains globally',
-                                               'since 2020, some aspects of the telecom sector have experienced '
-                                               'downturn, particularly in mobile device production',
+                                     'note': [ 'since 2020, some aspects of the telecom sector have experienced a '
+                                               'downturn because of supply-chain disruptions related to the COVID-19 '
+                                               'pandemic, particularly in mobile device production',
                                                'many network operators delayed upgrades to infrastructure',
-                                               'progress towards 5G implementation was postponed or slowed in some '
-                                               'countries',
                                                'consumer spending on telecom services and devices was affected by '
                                                'large-scale job losses and the consequent restriction on disposable '
                                                'incomes',
-                                               'the crucial nature of telecom services as a tool for work and school '
-                                               'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 13311404},
+                        'users_internet': 13700000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sudan/page-data.json',
              'name': 'Sudan',
              'stan': 'SDN',
@@ -14038,14 +14060,14 @@ WORLD_FB = \
                            'population': 614749,
                            'ports': {'seaport': 'Paramaribo, Wageningen'},
                            'region': ['South America'],
-                           'subs_broadband': 80320,
-                           'subs_fixed': 92756,
-                           'subs_mobile': 813844,
+                           'subs_broadband': 92270,
+                           'subs_fixed': 103240,
+                           'subs_mobile': 899339,
                            'telecom': { 'code': '597',
-                                        'domestic': [ 'fixed-line 16 per 100 and mobile-cellular teledensity 140 '
-                                                      'telephones per 100 persons',
+                                        'domestic': [ 'fixed-line nearly 18 per 100 and mobile-cellular teledensity '
+                                                      'over 153 telephones per 100 persons',
                                                       'microwave radio relay network is in place',
-                                                      2019],
+                                                      2020],
                                         'general': [ 'smallest nation in South America with low population and client '
                                                      'base',
                                                      'state-owned fixed-line tele-density rates and broadband services '
@@ -14056,7 +14078,7 @@ WORLD_FB = \
                                                      'interior',
                                                      'competition in the mobile sector',
                                                      'launch of 5G in Paramaribo',
-                                                     'importer of broadcasting equipment from USA (2021)',
+                                                     'importer of broadcasting equipment from USA',
                                                      2020],
                                         'intl': [ 'landing point for the SG-SCS submarine cable linking South America '
                                                   'with the Caribbean',
@@ -14076,7 +14098,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 292685},
+                           'users_internet': 352100},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/suriname/page-data.json',
                 'name': 'Suriname',
                 'stan': 'SUR',
@@ -14128,7 +14150,8 @@ WORLD_FB = \
                                                   'the crucial nature of telecom services as a tool for work and '
                                                   'school from home became evident, and received some support from '
                                                   'governments',
-                                                  0]}},
+                                                  0]},
+                           'users_internet': 1542},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/svalbard/page-data.json',
                 'name': 'Svalbard',
                 'stan': 'SJM',
@@ -14153,15 +14176,16 @@ WORLD_FB = \
                          'ports': { 'seaport': 'Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, '
                                                'Trelleborg, Visby'},
                          'region': ['Europe'],
-                         'subs_broadband': 4038725,
-                         'subs_fixed': 1750989,
-                         'subs_mobile': 12895854,
+                         'subs_broadband': 4101078,
+                         'subs_fixed': 1624271,
+                         'subs_mobile': 12959858,
                          'telecom': { 'code': '46',
-                                      'domestic': [ 'fixed-line 19 per 100 and mobile-cellular 126 per 100',
+                                      'domestic': [ 'fixed-line just over 16 per 100 and mobile-cellular roughly 128 '
+                                                    'per 100',
                                                     'coaxial and multiconductor cables carry most of the voice traffic',
                                                     'parallel microwave radio relay systems carry some additional '
                                                     'telephone channels',
-                                                    2019],
+                                                    2020],
                                       'general': [ "Sweden's telecom market includes mature mobile and broadband "
                                                    'sectors stimulated by investment of the main operators in new '
                                                    'technologies',
@@ -14170,7 +14194,7 @@ WORLD_FB = \
                                                    'Internet, and broadband penetration',
                                                    'best developed LTE infrastructure in the region',
                                                    'government promotes national broadband strategy to increase '
-                                                   'connectivity (2021)',
+                                                   'connectivity',
                                                    2020],
                                       'intl': [ 'landing points for Botina, SFL, SFS-4, Baltic Sea Submarine Cable, '
                                                 'Eastern Light, Sweden-Latvia, BCS North-Phase1, EE-S1, LV-SE1, BCS '
@@ -14196,7 +14220,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 9251773},
+                         'users_internet': 9930000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sweden/page-data.json',
               'name': 'Sweden',
               'stan': 'SWE',
@@ -14228,23 +14252,21 @@ WORLD_FB = \
                               'population': 8453550,
                               'ports': {},
                               'region': ['Europe'],
-                              'subs_broadband': 4029445,
-                              'subs_fixed': 3102504,
-                              'subs_mobile': 10829031,
+                              'subs_broadband': 4022999,
+                              'subs_fixed': 2952000,
+                              'subs_mobile': 10900000,
                               'telecom': { 'code': '41',
-                                           'domestic': [ 'ranked among leading countries for fixed-line teledensity '
-                                                         'and infrastructure',
-                                                         'fixed-line 36 per 100 and mobile-cellular subscribership 127 '
-                                                         'per 100 persons',
+                                           'domestic': [ 'fixed-line over 34 per 100 and mobile-cellular '
+                                                         'subscribership roughly 126 per 100 persons',
                                                          'extensive cable and microwave radio relay networks',
-                                                         2019],
+                                                         2020],
                                            'general': [ 'Switzerland emerged as a European leader for 1Gb/s fiber '
                                                         'broadband, complemented by 5G to 97% of the population',
                                                         'competitive market buttressed by regulator assurances of '
                                                         '5G-compatible network infrastructure',
                                                         "although not a member of the EU, Switzerland follows the EU's "
                                                         'telecom framework and regulations',
-                                                        'Zurich is being developed as a smart city (2021)',
+                                                        'Zurich is being developed as a smart city',
                                                         2020],
                                            'intl': [ 'satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian '
                                                      'Ocean)',
@@ -14263,7 +14285,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 7437820},
+                              'users_internet': 8420000},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/switzerland/page-data.json',
                    'name': 'Switzerland',
                    'stan': 'CHE',
@@ -14295,14 +14317,14 @@ WORLD_FB = \
                         'population': 20384316,
                         'ports': {'seaport': 'Baniyas, Latakia, Tartus'},
                         'region': ['Middle East'],
-                        'subs_broadband': 1490344,
-                        'subs_fixed': 2843103,
-                        'subs_mobile': 21115000,
+                        'subs_broadband': 1548100,
+                        'subs_fixed': 2892515,
+                        'subs_mobile': 16660253,
                         'telecom': { 'code': '963',
                                      'domestic': [ 'the number of fixed-line connections increased markedly prior to '
-                                                   'the civil war in 2011 and now stands at 17 per 100',
-                                                   'mobile-cellular service stands at about 114 per 100 persons',
-                                                   2019],
+                                                   'the civil war in 2011 and now stands at over 16 per 100',
+                                                   'mobile-cellular service is just over 95 per 100 persons',
+                                                   2020],
                                      'general': [ "Syria's telecom sector has paid a heavy toll from years of civil "
                                                   'war and destruction leading to major disruptions to the network',
                                                   'operators focusing on rebuilding damaged networks, though lack of '
@@ -14314,7 +14336,7 @@ WORLD_FB = \
                                                   'international aid network provides emergency Internet and telecom '
                                                   'services when necessary',
                                                   'government restrictions of Internet freedom',
-                                                  'major importer of broadcasting equipment from UAE (2021)',
+                                                  'major importer of broadcasting equipment from UAE',
                                                   2020],
                                      'intl': [ 'landing points for the Aletar, BERYTAR and UGART submarine cable '
                                                'connections to Egypt, Lebanon, and Cyprus',
@@ -14337,7 +14359,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 6077510},
+                        'users_internet': 8410000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/syria/page-data.json',
              'name': 'Syria',
              'stan': 'SYR',
@@ -14366,11 +14388,13 @@ WORLD_FB = \
                                                  '(2019)',
                                     'seaport': 'Keelung (Chi-lung), Kaohsiung, Hualian, Taichung'},
                          'region': ['Southeast Asia'],
-                         'subs_broadband': 5831467,
-                         'subs_fixed': 12971902,
-                         'subs_mobile': 29049784,
+                         'subs_broadband': 5952411,
+                         'subs_fixed': 12750429,
+                         'subs_mobile': 29351150,
                          'telecom': { 'code': '886',
-                                      'domestic': ['fixed-line 55 per 100 and mobile-cellular 123 per 100', 2019],
+                                      'domestic': [ 'fixed-line over 53 per 100 and mobile-cellular roughly 123 per '
+                                                    '100',
+                                                    2020],
                                       'general': [ 'dynamic telecommunications industry defined by excellent '
                                                    'infrastructure and competitive mobile market',
                                                    'solid availability of fixed and mobile broadband networks',
@@ -14380,8 +14404,7 @@ WORLD_FB = \
                                                    '4G LTE service with fiber is the most popular platform',
                                                    '5G to 80% of subscribers',
                                                    'government funds development of 5G and IoT market',
-                                                   "concerns include China's efforts to influence media and ICT policy "
-                                                   '(2021)',
+                                                   "concerns include China's efforts to influence media and ICT policy",
                                                    2020],
                                       'intl': [ 'landing points for the EAC-C2C, APCN-2, FASTER, SJC2, TSE-1, TPE, '
                                                 'APG, SeaMeWe-3, FLAG North Asia Loop/REACH North Asia Loop, HKA, NCP, '
@@ -14402,7 +14425,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 21845944},
+                         'users_internet': 21450000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/taiwan/page-data.json',
               'name': 'Taiwan',
               'stan': 'TWN',
@@ -14430,14 +14453,15 @@ WORLD_FB = \
                              'population': 8990874,
                              'region': ['Asia'],
                              'subs_broadband': 6000,
-                             'subs_fixed': 471090,
-                             'subs_mobile': 9747803,
+                             'subs_fixed': 479000,
+                             'subs_mobile': 9904000,
                              'telecom': { 'code': '992',
                                           'domestic': [ 'fixed line availability has not changed significantly since '
                                                         '1998, while mobile cellular subscribership, aided by '
-                                                        'competition among multiple operators, has expanded rapidly',
+                                                        'competition among multiple operators, has expanded',
                                                         'coverage now extends to all major cities and towns',
-                                                        'fixed-line 5 per 100 and mobile-cellular 112 per 100',
+                                                        'fixed-line over 5 per 100 and mobile-cellular over 111 per '
+                                                        '100',
                                                         2019],
                                           'general': [ "Tajikistan's telecom sector continues to struggle due to "
                                                        'geographic isolation, lack of electricity, dysfunctional '
@@ -14456,7 +14480,7 @@ WORLD_FB = \
                                                        'government raised rates on Internet-based calls and Internet '
                                                        'services in 2020, making price one of the highest in the world',
                                                        'importer of video displays and broadcasting equipment from '
-                                                       'China (2021)',
+                                                       'China',
                                                        2020],
                                           'intl': [ 'linked by cable and microwave radio relay to other CIS republics '
                                                     'and by leased connections to the Moscow international gateway '
@@ -14479,7 +14503,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 1889632},
+                             'users_internet': 3360000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tajikistan/page-data.json',
                   'name': 'Tajikistan',
                   'stan': 'TJK',
@@ -14505,13 +14529,13 @@ WORLD_FB = \
                                                      'Zambia': 353},
                                            'len': 4161},
                            'capital': { 'coord': '6 48 S, 39 17 E',
-                                        'name': 'Dar es Salaam (administrative capital), Dodoma (legislative capital); '
-                                                'note - Dodoma was designated the national capital in 1996 and serves '
-                                                'as the meeting place for the National Assembly; Dar es Salaam remains '
-                                                "the de facto capital, the country's largest city and commercial "
-                                                'center, and the site of the executive branch offices and diplomatic '
-                                                'representation; the government contends that it will complete the '
-                                                'transfer of the executive branch to Dodoma by 2020',
+                                        'name': 'Dar es Salaam (de facto administrative capital), Dodoma (national '
+                                                'capital); note - Dodoma, designated the national capital in 1996, '
+                                                'serves as the meeting place for the National Assembly and is thus the '
+                                                'legislative capital; Dar es Salaam (the original national capital) '
+                                                "remains the de facto capital, the country's largest city and "
+                                                'commercial center, and the site of the executive branch offices and '
+                                                'diplomatic representation',
                                         'time_diff': 'UTC+3'},
                            'coastline': 1424,
                            'coord': ['6 00 S, 35 00 E'],
@@ -14522,9 +14546,9 @@ WORLD_FB = \
                            'population': 62092761,
                            'ports': {'seaport': 'Dar es Salaam, Zanzibar'},
                            'region': ['Africa'],
-                           'subs_broadband': 1039655,
-                           'subs_fixed': 76288,
-                           'subs_mobile': 47685232,
+                           'subs_broadband': 1084698,
+                           'subs_fixed': 72469,
+                           'subs_mobile': 51220233,
                            'telecom': { 'code': '255',
                                         'domestic': [ 'fixed-line telephone network inadequate with less than 1 '
                                                       'connection per 100 persons',
@@ -14563,7 +14587,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 13862836},
+                           'users_internet': 15150000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tanzania/page-data.json',
                 'name': 'Tanzania',
                 'stan': 'TZA',
@@ -14589,15 +14613,16 @@ WORLD_FB = \
                            'ports': { 'container': 'Laem Chabang (8,106,928) (2019)',
                                       'seaport': 'Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha'},
                            'region': ['Southeast Asia'],
-                           'subs_broadband': 10108819,
-                           'subs_fixed': 5415000,
-                           'subs_mobile': 129614000,
+                           'subs_broadband': 11599513,
+                           'subs_fixed': 5003000,
+                           'subs_mobile': 116294000,
                            'telecom': { 'code': '66',
                                         'domestic': [ 'fixed-line system provided by both a government-owned and '
                                                       'commercial provider',
-                                                      'wireless service expanding rapidly',
-                                                      'fixed-line 4 per 100 and mobile-cellular 186 per 100',
-                                                      2019],
+                                                      'wireless service expanding',
+                                                      'fixed-line over 7 per 100 and mobile-cellular nearly 167 per '
+                                                      '100',
+                                                      2020],
                                         'general': [ 'high-quality system, especially in urban areas',
                                                      'mobile and mobile broadband penetration are on the increase',
                                                      'FttH has strong growth in cities',
@@ -14616,7 +14641,7 @@ WORLD_FB = \
                                                      'additional constraints in response to pandemic-related criticism '
                                                      'in 2020',
                                                      'importer of broadcasting equipment and integrated circuits from '
-                                                     'China and export of same to neighboring countries in Asia (2021)',
+                                                     'China and export of same to neighboring countries in Asia',
                                                      2020],
                                         'intl': [ 'landing points for the AAE-1, FEA, SeaMeWe-3,-4, APG, SJC2, TIS, '
                                                   'MCT and AAG submarine cable systems providing links throughout '
@@ -14638,7 +14663,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 38987531},
+                           'users_internet': 48590000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/thailand/page-data.json',
                 'name': 'Thailand',
                 'stan': 'THA',
@@ -14663,20 +14688,19 @@ WORLD_FB = \
                               'population': 1413958,
                               'ports': {'seaport': 'Dili'},
                               'region': ['Southeast Asia'],
-                              'subs_broadband': 600,
-                              'subs_fixed': 2075,
-                              'subs_mobile': 1425256,
+                              'subs_broadband': 75,
+                              'subs_fixed': 2012,
+                              'subs_mobile': 1377915,
                               'telecom': { 'code': '670',
                                            'domestic': [ 'system suffered significant damage during the violence '
                                                          'associated with independence',
                                                          'limited fixed-line services, less than 1 per 100 and '
-                                                         'mobile-cellular services have been expanding and are now '
-                                                         'available in urban and most rural areas with teledensity of '
-                                                         '110 per 100',
-                                                         2019],
+                                                         'mobile-cellular services are now available in urban and most '
+                                                         'rural areas with teledensity of over 104 per 100',
+                                                         2020],
                                            'general': [ 'following years of civil unrest, the government and operators '
-                                                        'are working toward regeneration of the economy and telecom '
-                                                        'infrastructure',
+                                                        'are working toward rebuilding key infrastructure, including '
+                                                        'telecommunications networks',
                                                         'service in urban and some rural areas expanding with '
                                                         'competition',
                                                         'most of the population has access to 4G LTE service',
@@ -14685,8 +14709,7 @@ WORLD_FB = \
                                                         'national terrestrial fiber-optic network',
                                                         'launch of satellite and approval for submarine cable link to '
                                                         'Australia will boost sector growth',
-                                                        'importer of broadcasting equipment from Indonesia and China '
-                                                        '(2021)',
+                                                        'importer of broadcasting equipment from Indonesia and China',
                                                         2020],
                                            'intl': [ 'international service is available',
                                                      'partnership with Australia telecom companies for potential '
@@ -14707,7 +14730,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 363398},
+                              'users_internet': 599700},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/timor-leste/page-data.json',
                    'name': 'Timor-Leste',
                    'stan': 'TLS',
@@ -14731,13 +14754,13 @@ WORLD_FB = \
                        'population': 8283189,
                        'ports': {'seaport': 'Kpeme, Lome'},
                        'region': ['Africa'],
-                       'subs_broadband': 31899,
-                       'subs_fixed': 43605,
-                       'subs_mobile': 6239183,
+                       'subs_broadband': 52706,
+                       'subs_fixed': 46499,
+                       'subs_mobile': 6516510,
                        'telecom': { 'code': '228',
-                                    'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular 77 telephones '
-                                                  'per 100 persons with mobile-cellular use predominating',
-                                                  2019],
+                                    'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular nearly 79 '
+                                                  'telephones per 100 persons with mobile-cellular use predominating',
+                                                  2020],
                                     'general': [ 'system based on a network of microwave radio relay routes '
                                                  'supplemented by open-wire lines and a mobile-cellular system',
                                                  'telecoms supply 8% of GDP',
@@ -14762,7 +14785,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 1010609},
+                       'users_internet': 1990000},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/togo/page-data.json',
             'name': 'Togo',
             'stan': 'TGO',
@@ -14782,10 +14805,10 @@ WORLD_FB = \
                           'population': 1647,
                           'ports': {},
                           'region': ['Oceania'],
-                          'subs_fixed': 300,
+                          'subs_fixed': 0,
                           'telecom': { 'code': '690',
                                        'domestic': [ 'radiotelephone service between islands',
-                                                     'fixed-line 21 per 100 persons',
+                                                     'fixed-line teledensity is 0 per 100 persons',
                                                      2019],
                                        'general': [ 'modern satellite-based communications system',
                                                     'demand for mobile broadband increasing due to mobile services '
@@ -14814,7 +14837,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 805},
+                          'users_internet': 818},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tokelau/page-data.json',
                'name': 'Tokelau',
                'stan': 'TKL',
@@ -14874,7 +14897,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 43889},
+                        'users_internet': 43800},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tonga/page-data.json',
              'name': 'Tonga',
              'stan': 'TON',
@@ -14898,13 +14921,13 @@ WORLD_FB = \
                                       'population': 1221047,
                                       'ports': {'seaport': 'Point Fortin, Point Lisas, Port of Spain, Scarborough'},
                                       'region': ['Central America and the Caribbean'],
-                                      'subs_broadband': 339340,
-                                      'subs_fixed': 343385,
-                                      'subs_mobile': 2163725,
+                                      'subs_broadband': 375990,
+                                      'subs_fixed': 323905,
+                                      'subs_mobile': 1987996,
                                       'telecom': { 'code': '1868',
-                                                   'domestic': [ 'fixed-line 25 per 100 persons and mobile-cellular '
-                                                                 'teledensity 155 per 100 persons',
-                                                                 2019],
+                                                   'domestic': [ 'fixed-line over 23 per 100 persons and '
+                                                                 'mobile-cellular teledensity 142 per 100 persons',
+                                                                 2020],
                                                    'general': [ 'excellent international service',
                                                                 'good local service',
                                                                 'broadband access',
@@ -14939,7 +14962,7 @@ WORLD_FB = \
                                                              'work and school from home became evident, and received '
                                                              'some support from governments',
                                                              0]},
-                                      'users_internet': 939967},
+                                      'users_internet': 860000},
                            'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/trinidad-and-tobago/page-data.json',
                            'name': 'Trinidad and Tobago',
                            'stan': 'TTO',
@@ -14974,20 +14997,20 @@ WORLD_FB = \
                           'population': 11811335,
                           'ports': {'seaport': 'Bizerte, Gabes, Rades, Sfax, Skhira'},
                           'region': ['Africa'],
-                          'subs_broadband': 1193359,
-                          'subs_fixed': 1454183,
-                          'subs_mobile': 14771048,
+                          'subs_broadband': 1334551,
+                          'subs_fixed': 1533273,
+                          'subs_mobile': 14852857,
                           'telecom': { 'code': '216',
                                        'domestic': [ 'in an effort to jumpstart expansion of the fixed-line network, '
                                                      'the government awarded a concession to build and operate a VSAT '
                                                      'network with international connectivity',
                                                      'rural areas are served by wireless local loops',
                                                      'competition between several mobile-cellular service providers '
-                                                     'has resulted in lower activation and usage charges and a strong '
-                                                     'surge in subscribership',
-                                                     'fixed-line is 12 per 100 and mobile-cellular teledensity has '
-                                                     'reached about 126 telephones per 100 persons',
-                                                     2019],
+                                                     'has resulted in lower activation and usage charges and a surge '
+                                                     'in subscribership',
+                                                     'fixed-line is nearly 13 per 100 and mobile-cellular teledensity '
+                                                     'has reached about 126 telephones per 100 persons',
+                                                     2020],
                                        'general': [ 'Tunisia has one of the most sophisticated telecom infrastructures '
                                                     'in North Africa',
                                                     'penetration rates for mobile and Internet services are among the '
@@ -15003,7 +15026,7 @@ WORLD_FB = \
                                                     'legislation passed in 2017 supporting e-commerce and active '
                                                     'e-government',
                                                     'importer of integrated circuits and broadcasting equipment from '
-                                                    'China (2021)',
+                                                    'China',
                                                     2020],
                                        'intl': [ 'landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and '
                                                  'Trapani-Kelibia submarine cable systems that provides links to '
@@ -15026,7 +15049,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 7392242},
+                          'users_internet': 7920000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tunisia/page-data.json',
                'name': 'Tunisia',
                'stan': 'TUN',
@@ -15048,7 +15071,7 @@ WORLD_FB = \
                                                    'Iraq': 367,
                                                    'Syria': 899},
                                          'len': 2816},
-                         'capital': {'coord': '39 56 N, 32 52 E', 'name': 'Ankara', 'time_diff': 'UTC+2'},
+                         'capital': {'coord': '39 56 N, 32 52 E', 'name': 'Ankara', 'time_diff': 'UTC+3'},
                          'coastline': 7200,
                          'coord': ['39 00 N, 35 00 E'],
                          'country_name': { 'conv_long': 'Republic of Turkey',
@@ -15061,9 +15084,9 @@ WORLD_FB = \
                                     'seaport': 'Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin '
                                                '(Icel), Limani, Yarimca'},
                          'region': ['Middle East'],
-                         'subs_broadband': 14231978,
-                         'subs_fixed': 11532903,
-                         'subs_mobile': 80790877,
+                         'subs_broadband': 16734853,
+                         'subs_fixed': 12448604,
+                         'subs_mobile': 82128104,
                          'telecom': { 'code': '90',
                                       'domestic': [ 'additional digital exchanges are permitting a rapid increase in '
                                                     'subscribers',
@@ -15072,9 +15095,9 @@ WORLD_FB = \
                                                     'microwave radio relay, is facilitating communication between '
                                                     'urban centers',
                                                     'remote areas are reached by a domestic satellite system',
-                                                    'fixed-line 14 per 100 and mobile-cellular teledensity is 97 '
-                                                    'telephones per 100 persons',
-                                                    2019],
+                                                    'fixed-line nearly 15 per 100 and mobile-cellular teledensity is '
+                                                    'over 97 telephones per 100 persons',
+                                                    2020],
                                       'general': [ 'following earthquake damage to infrastructure in 2020, telecom '
                                                    'sector undergoing rapid modernization and expansion, especially in '
                                                    'mobile-cellular services',
@@ -15084,7 +15107,7 @@ WORLD_FB = \
                                                    'fixed and mobile infrastructure will help to underpin Smart City '
                                                    'initiatives',
                                                    'tight government control on social media platforms',
-                                                   'importer of broadcasting equipment and computers from China (2021)',
+                                                   'importer of broadcasting equipment and computers from China',
                                                    2020],
                                       'intl': [ 'landing points for the SeaMeWe-3 & -5, MedNautilus Submarine System, '
                                                 'Turcyos-1 & -2 submarine cables providing connectivity to Europe, '
@@ -15105,7 +15128,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 57725143},
+                         'users_internet': 65800000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/turkey/page-data.json',
               'name': 'Turkey',
               'stan': 'TUR',
@@ -15135,12 +15158,12 @@ WORLD_FB = \
                                'population': 5579889,
                                'ports': {'seaport': 'Caspian Sea - Turkmenbasy'},
                                'region': ['Asia'],
-                               'subs_broadband': 4000,
-                               'subs_fixed': 648223,
-                               'subs_mobile': 8908821,
+                               'subs_broadband': 5000,
+                               'subs_fixed': 682000,
+                               'subs_mobile': 9377000,
                                'telecom': { 'code': '993',
-                                            'domestic': [ 'fixed-line 12 per 100 and mobile-cellular teledensity is '
-                                                          'about 163 per 100 persons',
+                                            'domestic': [ 'fixed-line nearly 12 per 100 and mobile-cellular '
+                                                          'teledensity is about 163 per 100 persons',
                                                           'first telecommunication satellite was launched in 2015',
                                                           2019],
                                             'general': [ 'stagnant economy, rural geography, and authoritarian rule '
@@ -15157,7 +15180,7 @@ WORLD_FB = \
                                                          'freedom of press and expression restricted through '
                                                          'monitoring, media interruption, and removal of receivers '
                                                          'from households',
-                                                         'importer of broadcasting equipment from UAE (2021)',
+                                                         'importer of broadcasting equipment from UAE',
                                                          2020],
                                             'intl': [ 'linked by fiber-optic cable and microwave radio relay to other '
                                                       'CIS republics and to other countries by leased connections to '
@@ -15180,7 +15203,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 1149840},
+                               'users_internet': 2009999},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/turkmenistan/page-data.json',
                     'name': 'Turkmenistan',
                     'stan': 'TKM',
@@ -15204,11 +15227,12 @@ WORLD_FB = \
                                            'population': 57196,
                                            'ports': {'seaport': 'Cockburn Harbour, Grand Turk, Providenciales'},
                                            'region': ['Central America and the Caribbean'],
-                                           'subs_fixed': 6096,
+                                           'subs_fixed': 4000,
                                            'telecom': { 'code': '1649',
                                                         'domestic': [ 'full range of services available',
                                                                       'GSM wireless service available',
-                                                                      'fixed-line teledensity 11 per 100 persons',
+                                                                      'fixed-line teledensity roughly 11 per 100 '
+                                                                      'persons',
                                                                       2019],
                                                         'general': [ 'fully digital system with international direct '
                                                                      'dialing',
@@ -15242,7 +15266,8 @@ WORLD_FB = \
                                                                   'the crucial nature of telecom services as a tool '
                                                                   'for work and school from home became evident, and '
                                                                   'received some support from governments',
-                                                                  0]}},
+                                                                  0]},
+                                           'users_internet': 31000},
                                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/turks-and-caicos-islands/page-data.json',
                                 'name': 'Turks and Caicos Islands',
                                 'stan': 'TCA',
@@ -15269,12 +15294,13 @@ WORLD_FB = \
                          'population': 11448,
                          'ports': {'seaport': 'Funafuti'},
                          'region': ['Oceania'],
-                         'subs_broadband': 1000,
-                         'subs_fixed': 1978,
-                         'subs_mobile': 7911,
+                         'subs_broadband': 450,
+                         'subs_fixed': 2000,
+                         'subs_mobile': 8000,
                          'telecom': { 'code': '688',
                                       'domestic': [ 'radiotelephone communications between islands',
-                                                    'fixed-line 18 per 100 and mobile-cellular 70 per 100',
+                                                    'fixed-line teledensity over 17 per 100 and mobile-cellular over '
+                                                    '70 per 100',
                                                     2019],
                                       'general': [ 'internal communications needs met',
                                                    'small global scale of over 11,000 people on 9 inhabited islands',
@@ -15299,7 +15325,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 5498},
+                         'users_internet': 5849},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tuvalu/page-data.json',
               'name': 'Tuvalu',
               'stan': 'TUV',
@@ -15325,15 +15351,15 @@ WORLD_FB = \
                          'population': 44712143,
                          'ports': {},
                          'region': ['Africa'],
-                         'subs_broadband': 9485,
-                         'subs_fixed': 76492,
-                         'subs_mobile': 25395503,
+                         'subs_broadband': 34596,
+                         'subs_fixed': 90774,
+                         'subs_mobile': 27688987,
                          'telecom': { 'code': '256',
-                                      'domestic': [ 'fixed-line 1 per 100 and mobile- cellular systems teledensity '
-                                                    'about 57 per 100 persons',
+                                      'domestic': [ 'fixed-line less than 1 per 100 and mobile cellular systems '
+                                                    'teledensity about 61 per 100 persons',
                                                     'intercity traffic by wire, microwave radio relay, and '
                                                     'radiotelephone communication stations',
-                                                    2019],
+                                                    2020],
                                       'general': [ 'telecom infrastructure has developed through private partnerships',
                                                    'as of 2018, fixed-fiber backbone infrastructure is available in '
                                                    "over half of Uganda's districts",
@@ -15364,7 +15390,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 9620681},
+                         'users_internet': 12160000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/uganda/page-data.json',
               'name': 'Uganda',
               'stan': 'UGA',
@@ -15375,7 +15401,7 @@ WORLD_FB = \
                'ccn': '804',
                'cmt': '',
                'gec': 'UP',
-               'infos': { 'airports': 187,
+               'infos': { 'airports': 215,
                           'area': { 'land': '579,330 sq km',
                                     'note': "approximately 43,133 sq km, or about 7.1% of Ukraine's area, is Russian "
                                             'occupied; the seized area includes all of Crimea and about one-third of '
@@ -15387,8 +15413,7 @@ WORLD_FB = \
                                                     'Moldova': 1202,
                                                     'Poland': 498,
                                                     'Romania': 601,
-                                                    'Russia': 1944,
-                                                    'Slovakia': 97},
+                                                    'Russia': 1944},
                                           'len': 5581},
                           'capital': {'coord': '50 26 N, 30 31 E', 'name': 'Kyiv (Kiev)', 'time_diff': 'UTC+2'},
                           'coastline': 2782,
@@ -15398,18 +15423,17 @@ WORLD_FB = \
                                             'local_long': 'none',
                                             'local_short': 'Ukraina'},
                           'population': 43745640,
-                          'ports': { 'seaport': 'Feodosiya (Theodosia), Chornomosk (Illichivsk), Mariupol, Mykolayiv, '
-                                                'Odesa, Yuzhnyy'},
+                          'ports': {'seaport': 'Feodosiia, Chornomorsk, Mariupol, Mykolaiv, Odesa, Yuzhne'},
                           'region': ['AsiaEurope'],
-                          'subs_broadband': 6784185,
-                          'subs_fixed': 4182994,
-                          'subs_mobile': 54842940,
+                          'subs_broadband': 7769401,
+                          'subs_fixed': 3314263,
+                          'subs_mobile': 53977690,
                           'telecom': { 'code': '380',
-                                       'domestic': [ 'fixed-line teledensity is 10 per 100',
+                                       'domestic': [ 'fixed-line teledensity is nearly 8 per 100',
                                                      "the mobile-cellular telephone system's expansion has slowed, "
-                                                     'largely due to saturation of the market that is now 131 mobile '
-                                                     'phones per 100 persons',
-                                                     2019],
+                                                     'largely due to saturation of the market that is now just over '
+                                                     '129 mobile phones per 100 persons',
+                                                     2020],
                                        'general': [ "Ukraine's telecom market continues to face challenges resulting "
                                                     'from the annexation of Crimea by Russia and unrest in eastern '
                                                     'regions',
@@ -15425,7 +15449,7 @@ WORLD_FB = \
                                                     'developing IoT capabilities',
                                                     'improvement of licensing requirements for operators and positive '
                                                     'reforms for users',
-                                                    'importer of broadcasting equipment from China (2021)',
+                                                    'importer of broadcasting equipment from China',
                                                     2020],
                                        'intl': [ 'landing point for the Kerch Strait Cable connecting Ukraine to '
                                                  'Russia',
@@ -15450,7 +15474,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 25883509},
+                          'users_internet': 29470000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/ukraine/page-data.json',
                'name': 'Ukraine',
                'stan': 'UKR',
@@ -15479,15 +15503,15 @@ WORLD_FB = \
                                                              '(Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), '
                                                              "Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)"},
                                        'region': ['Middle East'],
-                                       'subs_broadband': 3045957,
-                                       'subs_fixed': 2362602,
-                                       'subs_mobile': 19602815,
+                                       'subs_broadband': 3245123,
+                                       'subs_fixed': 2380866,
+                                       'subs_mobile': 18374332,
                                        'telecom': { 'code': '971',
                                                     'domestic': [ 'microwave radio relay, fiber-optic and coaxial '
                                                                   'cable',
-                                                                  'fixed-line 24 per 100 and mobile-cellular 201 per '
-                                                                  '100',
-                                                                  2019],
+                                                                  'fixed-line roughly 24 per 100 and mobile-cellular '
+                                                                  'nearly 186 per 100',
+                                                                  2020],
                                                     'general': [ "one of the world's most connected countries with "
                                                                  'modern infrastructure and record Internet, '
                                                                  'broadband, and mobile use',
@@ -15513,7 +15537,7 @@ WORLD_FB = \
                                                                  'plan to digitize services across country',
                                                                  'major importer of broadcasting equipment from China '
                                                                  'and exporter of broadcasting equipment to Iraq and '
-                                                                 'Saudi Arabia (2021)',
+                                                                 'Saudi Arabia',
                                                                  2020],
                                                     'intl': [ 'landing points for the FLAG, SEA-ME-WE-3 ,-4 & -5, '
                                                               'Qater UAE Submarine Cable System, FALCON, FOG, Tat '
@@ -15541,7 +15565,7 @@ WORLD_FB = \
                                                               'work and school from home became evident, and received '
                                                               'some support from governments',
                                                               0]},
-                                       'users_internet': 9550945},
+                                       'users_internet': 9940000},
                             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/united-arab-emirates/page-data.json',
                             'name': 'United Arab Emirates',
                             'stan': 'ARE',
@@ -15576,14 +15600,15 @@ WORLD_FB = \
                                                        'Teesport (England); Forth Ports (Scotland); Milford Haven '
                                                        '(Wales)'},
                                  'region': ['Europe'],
-                                 'subs_broadband': 26786963,
-                                 'subs_fixed': 32287999,
-                                 'subs_mobile': 80967000,
+                                 'subs_broadband': 27490258,
+                                 'subs_fixed': 32078000,
+                                 'subs_mobile': 79007000,
                                  'telecom': { 'code': '44',
                                               'domestic': [ 'equal mix of buried cables, microwave radio relay, and '
                                                             'fiber-optic systems',
-                                                            'fixed-line 48 per 100 and mobile-cellular 118 per 100',
-                                                            2019],
+                                                            'fixed-line over 47 per 100 and mobile-cellular over 116 '
+                                                            'per 100',
+                                                            2020],
                                               'general': [ "UK's telecom market remains one of the largest in Europe, "
                                                            'characterized by competition, affordable pricing, and its '
                                                            'technologically advanced systems',
@@ -15594,10 +15619,10 @@ WORLD_FB = \
                                                            'super-fast broadband available to about 95% of customers',
                                                            'London is developing smart city technology, in '
                                                            'collaboration with private, tech, and academic sectors',
-                                                           'legislation banned Chinese company Huawei from UK 5G '
-                                                           'networks following advisement from the National Cyber '
-                                                           'Security Centre (NCSC)',
-                                                           'importer of broadcasting equipment from China (2021)',
+                                                           "in 2020 the UK Government banned Chinese company Huawei's "
+                                                           "5G equipment from the UK's 5G networks following "
+                                                           'advisement from the National Cyber Security Centre (NCSC)',
+                                                           'importer of broadcasting equipment from China',
                                                            2020],
                                               'intl': [ 'Landing points for the GTT Atlantic, Scotland-Northern '
                                                         'Ireland -1, & -2, Lanis 1,-2, &-3, Sirius North, BT-MT-1, '
@@ -15616,7 +15641,7 @@ WORLD_FB = \
                                                         '3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 '
                                                         'Eutelsat',
                                                         'at least 8 large international switching centers',
-                                                        2018],
+                                                        2019],
                                               'note': [ 'the COVID-19 pandemic continues to have a significant impact '
                                                         'on production and supply chains globally',
                                                         'since 2020, some aspects of the telecom sector have '
@@ -15632,7 +15657,7 @@ WORLD_FB = \
                                                         'school from home became evident, and received some support '
                                                         'from governments',
                                                         0]},
-                                 'users_internet': 61784878},
+                                 'users_internet': 65319999},
                       'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/united-kingdom/page-data.json',
                       'name': 'United Kingdom',
                       'stan': 'GBR',
@@ -15664,11 +15689,11 @@ WORLD_FB = \
                                                         'Savannah (4,599,177), Seattle/Tacoma (3,775,303) (2019)',
                                            'seaport': '<em><br />Atlantic Ocean:</em> Charleston, Hampton Roads, New '
                                                       'York/New Jersey, Savannah<br /><em>Pacific Ocean:</em> Long '
-                                                      'Beach, Los Angele, Oakland, Seattle/Tacoma<br /><em>Gulf of '
+                                                      'Beach, Los Angeles, Oakland, Seattle/Tacoma<br /><em>Gulf of '
                                                       'Mexico:</em> Houston'},
                                 'region': ['North America'],
-                                'subs_broadband': 114259000,
-                                'subs_fixed': 107568000,
+                                'subs_broadband': 120531000,
+                                'subs_fixed': 103052000,
                                 'subs_mobile': 442457000,
                                 'telecom': { 'code': '1',
                                              'domestic': [ 'a large system of fiber-optic cable, microwave radio '
@@ -15676,8 +15701,9 @@ WORLD_FB = \
                                                            'every form of telephone traffic',
                                                            'a rapidly growing cellular system carries mobile telephone '
                                                            'traffic throughout the country',
-                                                           'fixed-line 33 per 100 and mobile-cellular 124 per 100',
-                                                           2019],
+                                                           'fixed-line just over 31 per 100 and mobile-cellular over '
+                                                           '134 per 100',
+                                                           2020],
                                              'general': [ 'a large, technologically advanced, multipurpose '
                                                           'communications system',
                                                           'reliable Internet available for most of the population '
@@ -15701,7 +15727,7 @@ WORLD_FB = \
                                                           'government policy designated Chinese companies Huawei and '
                                                           'ZTE as national security threats and restricted partnership',
                                                           'importer of broadcasting equipment from China with export '
-                                                          'of same to Hong Kong (2021)',
+                                                          'of same to Hong Kong',
                                                           2020],
                                              'intl': [ 'landing points for the Quintillion Subsea Cable Network, TERRA '
                                                        'SW, AU-Aleutian, KKFL, AKORN, Alaska United -West, & -East & '
@@ -15738,7 +15764,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 285519020},
+                                'users_internet': 298800000},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/united-states/page-data.json',
                      'name': 'United States',
                      'stan': 'USA',
@@ -15781,8 +15807,8 @@ WORLD_FB = \
                           'telecom': { 'code': '598',
                                        'domestic': [ 'most modern facilities concentrated in Montevideo',
                                                      'nationwide microwave radio relay network',
-                                                     'overall fixed-line 34 per 100 and mobile-cellular teledensity '
-                                                     '138 per 100 persons',
+                                                     'overall fixed-line roughly 34 per 100 and mobile-cellular '
+                                                     'teledensity 138 per 100 persons',
                                                      2019],
                                        'general': [ 'Uruguay has an advanced telecom market, with excellent '
                                                     'infrastructure and one of the highest broadband penetration rates '
@@ -15798,7 +15824,7 @@ WORLD_FB = \
                                                     'strong focus on fiber infrastructure with high percentage of '
                                                     'residential fixed-broadband connections and near total business '
                                                     'connections',
-                                                    'importer of broadcasting equipment from China (2021)',
+                                                    'importer of broadcasting equipment from China',
                                                     2020],
                                        'intl': [ 'landing points for the Unisor, Tannat, and Bicentenario submarine '
                                                  'cable system providing direct connectivity to Brazil and Argentina',
@@ -15819,7 +15845,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 2300557},
+                          'users_internet': 2690000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/uruguay/page-data.json',
                'name': 'Uruguay',
                'stan': 'URY',
@@ -15850,11 +15876,12 @@ WORLD_FB = \
                              'population': 30842796,
                              'ports': {},
                              'region': ['Asia'],
-                             'subs_broadband': 4597265,
-                             'subs_fixed': 3553310,
-                             'subs_mobile': 33380000,
+                             'subs_broadband': 4820009,
+                             'subs_fixed': 3550069,
+                             'subs_mobile': 33387000,
                              'telecom': { 'code': '998',
-                                          'domestic': [ 'fixed-line 11 per 100 person and mobile-cellular 101 per 100',
+                                          'domestic': [ 'fixed-line nearly 11 per 100 persons and mobile-cellular '
+                                                        'teledensity nearly 100 per 100 persons',
                                                         'the state-owned telecommunications company, Uzbek Telecom, '
                                                         'owner of the fixed-line telecommunications system, has used '
                                                         'loans from the Japanese government and the China Development '
@@ -15863,7 +15890,7 @@ WORLD_FB = \
                                                         'mobile-cellular services are provided by 2 private and 3 '
                                                         'state-owned operators with a total subscriber base of 22.8 '
                                                         'million as of January 2018',
-                                                        2019],
+                                                        2020],
                                           'general': [ 'land-locked, authoritarian state with government grip on ICT '
                                                        'technology and no integrated plan',
                                                        'government plans to develop infrastructure to improve '
@@ -15883,7 +15910,7 @@ WORLD_FB = \
                                                        'consumers largely reliant on terrestrial links and VSAT '
                                                        'networks',
                                                        'media controlled by state',
-                                                       'importer of broadcasting equipment from China (2021)',
+                                                       'importer of broadcasting equipment from China',
                                                        2020],
                                           'intl': [ 'linked by fiber-optic cable or microwave radio relay with CIS '
                                                     'member states and to other countries by leased connection via the '
@@ -15907,7 +15934,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 15705402},
+                             'users_internet': 18600000},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/uzbekistan/page-data.json',
                   'name': 'Uzbekistan',
                   'stan': 'UZB',
@@ -15936,11 +15963,13 @@ WORLD_FB = \
                           'population': 303009,
                           'ports': {'seaport': 'Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila'},
                           'region': ['Oceania'],
-                          'subs_broadband': 7888,
-                          'subs_fixed': 3809,
-                          'subs_mobile': 265219,
+                          'subs_broadband': 2785,
+                          'subs_fixed': 3472,
+                          'subs_mobile': 246232,
                           'telecom': { 'code': '678',
-                                       'domestic': ['fixed-line 1 per 100 and mobile-cellular 88 per 100', 2019],
+                                       'domestic': [ 'fixed-line teledensity a bit over 1 per 100 and mobile-cellular '
+                                                     'just over 80 per 100',
+                                                     2020],
                                        'general': [ 'liberalized telecom services',
                                                     'mobile phones are primary means of communication',
                                                     'LTE services and rural satellite broadband services',
@@ -15952,7 +15981,7 @@ WORLD_FB = \
                                                     'reduced consumer prices',
                                                     'Kacific-1 broadband satellite has improved broadband capacity and '
                                                     'access since 2019',
-                                                    'importer of broadcasting equipment from China (2021)',
+                                                    'importer of broadcasting equipment from China',
                                                     2020],
                                        'intl': [ 'landing points for the ICN1 & ICN2 submarine cables providing '
                                                  'connectivity to the Solomon Islands and Fiji',
@@ -15972,7 +16001,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 74083},
+                          'users_internet': 104100},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/vanuatu/page-data.json',
                'name': 'Vanuatu',
                'stan': 'VUT',
@@ -15996,18 +16025,18 @@ WORLD_FB = \
                             'population': 29069153,
                             'ports': {'seaport': 'La Guaira, Maracaibo, Puerto Cabello, Punta Cardon'},
                             'region': ['South America'],
-                            'subs_broadband': 2560994,
-                            'subs_fixed': 5351312,
-                            'subs_mobile': 13476287,
+                            'subs_broadband': 2407187,
+                            'subs_fixed': 5276274,
+                            'subs_mobile': 18028388,
                             'telecom': { 'code': '58',
                                          'domestic': [ 'two domestic satellite systems with three earth stations',
                                                        'recent substantial improvement in telephone service in rural '
                                                        'areas',
                                                        '3 major providers operate in the mobile market and compete '
                                                        'with state-owned company',
-                                                       'fixed-line 19 per 100 and mobile-cellular telephone '
-                                                       'subscribership about 58 per 100 persons',
-                                                       2019],
+                                                       'fixed-line over 18 per 100 and mobile-cellular telephone '
+                                                       'subscribership about 63 per 100 persons',
+                                                       2020],
                                          'general': [ 'telecom industry struggling due to political upheaval in the '
                                                       'country',
                                                       'poor quality of service in many areas of the country due to '
@@ -16023,11 +16052,11 @@ WORLD_FB = \
                                                       '2019',
                                                       'national satellite drifted off course and became '
                                                       'non-operational',
-                                                      'American company closed a telecom service due to government '
-                                                      'sanction and a Chilean company later acquired the service',
+                                                      'American company closed a telecom service due to US sanctions '
+                                                      'and a Chilean company later acquired the service',
                                                       'Internet freedom deteriorating amid crisis, with frequent '
                                                       'disruptions to service and monitoring',
-                                                      'importer of broadcasting equipment from the USA (2021)',
+                                                      'importer of broadcasting equipment from the USA',
                                                       2020],
                                          'intl': [ 'landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, '
                                                    'GlobeNet, ALBA-1 and Americas II submarine cable system providing '
@@ -16049,7 +16078,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 21354499},
+                            'users_internet': 20570000},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/venezuela/page-data.json',
                  'name': 'Venezuela',
                  'stan': 'VEN',
@@ -16075,17 +16104,18 @@ WORLD_FB = \
                                                   '(2019)',
                                      'seaport': 'Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon'},
                           'region': ['Southeast Asia'],
-                          'subs_broadband': 14802380,
-                          'subs_fixed': 3658005,
-                          'subs_mobile': 136230406,
+                          'subs_broadband': 16699249,
+                          'subs_fixed': 3205775,
+                          'subs_mobile': 138934626,
                           'telecom': { 'code': '84',
                                        'domestic': [ 'all provincial exchanges are digitalized and connected to Hanoi, '
                                                      'Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave '
                                                      'radio relay networks',
                                                      'main lines have been increased, and the use of mobile telephones '
                                                      'is growing rapidly',
-                                                     'fixed-line 4 per 100 and mobile-cellular 141 per 100',
-                                                     2019],
+                                                     'fixed-line under 4 per 100 and mobile-cellular nearly 143 per '
+                                                     '100',
+                                                     2020],
                                        'general': [ 'though communist, government plans to partially privatize the '
                                                     "state's holdings in telecom companies",
                                                     'competition is thriving in the telecom market place and driving '
@@ -16096,7 +16126,7 @@ WORLD_FB = \
                                                     'commercializing 5G services with test licenses',
                                                     'Ho Chi Minh City to become the first smart city in Vietnam with '
                                                     'cloud computing infrastructure, big data, data centers, and '
-                                                    'security-monitoring centers (2020)',
+                                                    'security-monitoring centers',
                                                     2020],
                                        'intl': [ 'landing points for the SeaMeWe-3, APG, SJC2, AAE-1, AAG and the '
                                                  'TGN-IA submarine cable system providing connectivity to Europe, '
@@ -16116,7 +16146,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 68267875},
+                          'users_internet': 68720000},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/vietnam/page-data.json',
                'name': 'Vietnam',
                'stan': 'VNM',
@@ -16140,12 +16170,13 @@ WORLD_FB = \
                                  'ports': { 'seaport': 'Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, '
                                                        'Limetree Bay'},
                                  'region': ['Central America and the Caribbean'],
-                                 'subs_fixed': 77212,
+                                 'subs_fixed': 76000,
                                  'telecom': { 'code': '1340',
                                               'domestic': [ 'full range of services available',
-                                                            'fixed-line 72 per 100 persons and mobile-cellular 75 per '
-                                                            '100',
-                                                            2019],
+                                                            'fixed-line roughly 72 per 100 persons, no recent '
+                                                            'teledensity numbers available for mobile-cellular usage, '
+                                                            'although it was approximately 75 per 100 in 2010',
+                                                            2018],
                                               'general': [ 'modern system with total digital switching, uses '
                                                            'fiber-optic cable and microwave radio relay',
                                                            'good interisland and international connections',
@@ -16176,7 +16207,7 @@ WORLD_FB = \
                                                         'school from home became evident, and received some support '
                                                         'from governments',
                                                         0]},
-                                 'users_internet': 68872},
+                                 'users_internet': 67200},
                       'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/virgin-islands/page-data.json',
                       'name': 'Virgin Islands',
                       'stan': 'VIR',
@@ -16252,9 +16283,12 @@ WORLD_FB = \
                                     'population': 15851,
                                     'ports': {'seaport': 'Leava, Mata-Utu'},
                                     'region': ['Oceania'],
-                                    'subs_fixed': 4012,
+                                    'subs_fixed': 3132,
+                                    'subs_mobile': 0,
                                     'telecom': { 'code': '681',
-                                                 'domestic': ['fixed-line teledensity 25 per 100 persons', 2019],
+                                                 'domestic': [ 'fixed-line teledensity 25 per 100 persons and 0 per '
+                                                               '100 mobile subscriptions',
+                                                               2019],
                                                  'general': [ '2G widespread',
                                                               'bandwidth is limited',
                                                               'mobile subscriber numbers are higher than fixed-line '
@@ -16286,7 +16320,7 @@ WORLD_FB = \
                                                            'and school from home became evident, and received some '
                                                            'support from governments',
                                                            0]},
-                                    'users_internet': 3450},
+                                    'users_internet': 5500},
                          'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/wallis-and-futuna/page-data.json',
                          'name': 'Wallis and Futuna',
                          'stan': 'WLF',
@@ -16311,17 +16345,17 @@ WORLD_FB = \
                             'country_name': {'conv_long': 'none', 'conv_short': 'West Bank'},
                             'population': 2949246,
                             'region': ['Middle East'],
-                            'subs_broadband': 371299,
-                            'subs_fixed': 472293,
-                            'subs_mobile': 4135363,
+                            'subs_broadband': 373050,
+                            'subs_fixed': 466283,
+                            'subs_mobile': 4268,
                             'telecom': { 'domestic': [ 'Israeli company BEZEK and the Palestinian company PALTEL are '
                                                        'responsible for fixed-line services',
                                                        'two Palestinian cellular providers, JAWWAL and WATANIYA '
                                                        'MOBILE, launched 3G mobile networks in the West Bank in '
                                                        'January 2018 after Israel lifted its ban',
-                                                       'fixed-line 9 per 100 and mobile-cellular 76 per 100 (includes '
-                                                       'Gaza Strip)',
-                                                       2019],
+                                                       'fixed-line 9 per 100 and mobile-cellular subscriptions 84 per '
+                                                       '100 (includes Gaza Strip)',
+                                                       2020],
                                          'general': [ 'continuing political and economic instability has impeded '
                                                       'liberalization of the telecommunications industry',
                                                       2018],
@@ -16453,14 +16487,15 @@ WORLD_FB = \
                         'ports': {'seaport': 'Aden, Al Hudaydah, Al Mukalla'},
                         'region': ['Middle East'],
                         'subs_broadband': 386330,
-                        'subs_fixed': 1253287,
-                        'subs_mobile': 16158028,
+                        'subs_fixed': 1190000,
+                        'subs_mobile': 15297789,
                         'telecom': { 'code': '967',
                                      'domestic': [ 'the national network consists of microwave radio relay, cable, '
                                                    'tropospheric scatter, GSM and CDMA mobile-cellular telephone '
                                                    'systems',
-                                                   'fixed-line teledensity remains low by regional standards at 4 per '
-                                                   '100 but mobile cellular use expanding at 55 per 100',
+                                                   'fixed-line teledensity remains low by regional standards at '
+                                                   'roughly 4 per 100 but mobile cellular use expanding at over 55 per '
+                                                   '100',
                                                    2019],
                                      'general': [ 'large percent of the population is in need of humanitarian '
                                                   'assistance and telecom services are vital but disrupted',
@@ -16470,7 +16505,7 @@ WORLD_FB = \
                                                   'scarcity of telecom equipment in rural areas',
                                                   'ownership of telecom services and the related revenues and taxes '
                                                   'have become a political issue',
-                                                  'Chinese company Huawei helping to rebuild some equipment (2020)',
+                                                  'Chinese company Huawei helping to rebuild some equipment',
                                                   2020],
                                      'intl': [ 'landing points for the FALCON, SeaMeWe-5, Aden-Djibouti, and the AAE-1 '
                                                'international submarine cable connecting Europe, Africa, the Middle '
@@ -16492,7 +16527,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 7659884},
+                        'users_internet': 8060000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/yemen/page-data.json',
              'name': 'Yemen',
              'stan': 'YEM',
@@ -16535,16 +16570,17 @@ WORLD_FB = \
                          'population': 19077816,
                          'ports': {},
                          'region': ['Africa'],
-                         'subs_broadband': 88891,
-                         'subs_fixed': 96719,
-                         'subs_mobile': 17220607,
+                         'subs_broadband': 82317,
+                         'subs_fixed': 71844,
+                         'subs_mobile': 19104208,
                          'telecom': { 'code': '260',
                                       'domestic': [ 'fiber optic connections are available between most larger towns '
                                                     'and cities with microwave radio relays serving more rural areas',
                                                     '3G and LTE with FttX in limited urban areas and private Ku or Ka '
                                                     'band VSAT terminals in remote locations',
-                                                    'fixed-line 1 per 100 and mobile-cellular 96 per 100',
-                                                    2019],
+                                                    'fixed-line teledensity less than 1 per 100 and mobile-cellular '
+                                                    'roughly 104 per 100',
+                                                    2020],
                                       'general': [ 'service is among the best in Sub-Saharan Africa',
                                                    'regulator promotes competition and is a partner to private sector '
                                                    'service providers, offering mobile voice and Internet at some of '
@@ -16554,7 +16590,7 @@ WORLD_FB = \
                                                    'operators invest in 3G and LTE-based services',
                                                    'Chinese company Huawei is helping to upgrade state-owned mobile '
                                                    'infrastructure for 5G services',
-                                                   'operators focused on improvements to towers (2020)',
+                                                   'operators focused on improvements to towers',
                                                    2020],
                                       'intl': [ 'multiple providers operate overland fiber optic routes via '
                                                 'Zimbabwe/South Africa, Botswana/Namibia and Tanzania provide access '
@@ -16573,7 +16609,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 2351646},
+                         'users_internet': 5480000},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/zambia/page-data.json',
               'name': 'Zambia',
               'stan': 'ZMB',
@@ -16598,9 +16634,9 @@ WORLD_FB = \
                            'population': 14829988,
                            'ports': {},
                            'region': ['Africa'],
-                           'subs_broadband': 204424,
-                           'subs_fixed': 265734,
-                           'subs_mobile': 13195902,
+                           'subs_broadband': 203461,
+                           'subs_fixed': 252067,
+                           'subs_mobile': 13191708,
                            'telecom': { 'code': '263',
                                         'domestic': [ 'consists of microwave radio relay links, open-wire lines, '
                                                       'radiotelephone communication stations, fixed wireless local '
@@ -16609,8 +16645,9 @@ WORLD_FB = \
                                                       'Internet connection is most readily available in Harare and '
                                                       'major towns',
                                                       'two government owned and two private cellular providers',
-                                                      'fixed-line 2 per 100 and mobile-cellular 90 per 100',
-                                                      2019],
+                                                      'fixed-line teledensity at nearly 2 per 100 and mobile-cellular '
+                                                      'nearly 89 per 100',
+                                                      2020],
                                         'general': [ 'the pandemic, drought, and rising hyperinflation have devastated '
                                                      'the economy and hindered foreign investment',
                                                      'regulator extended tax exemption for Huawei, raising concerns of '
@@ -16628,7 +16665,7 @@ WORLD_FB = \
                                                      'slow progress on national and international fiber backbone '
                                                      'network, as well as 3G and LTE mobile-broadband services',
                                                      'international bandwidth through submarine cables via neighboring '
-                                                     'countries (2021)',
+                                                     'countries',
                                                      2020],
                                         'intl': [ 'fiber-optic connections to neighboring states provide access to '
                                                   'international networks via undersea cable',
@@ -16649,7 +16686,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 3796618},
+                           'users_internet': 5010000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/zimbabwe/page-data.json',
                 'name': 'Zimbabwe',
                 'stan': 'ZWE',
