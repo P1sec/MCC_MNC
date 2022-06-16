@@ -214,6 +214,7 @@ COUNTRY_RENAME = {
     'Macedonia'                 : 'North Macedonia',
     'The Former Yugoslav Republic of Macedonia': 'North Macedonia',
     'Bosnia & Herzegov.'        : 'Bosnia and Herzegovina',
+    'Metropolitan France'       : 'France',
     #
     # Middle-East / Asia
     'Burma'                     : 'Myanmar',
@@ -482,19 +483,27 @@ BORD_COUNTRY_DEL = [
 # territory names that are in duplicate to their oversea territories
 BORD_DUP_DEL = [
     #
+    # Denmark:
+    # 1st entry corresponds to metropolitan Danemark
+    # 2nd entry corresponds to Denmark plus Faroe Islands and Greenland: delete it
+    'Denmark',
+    # 2022/06/16: duplicate added
+    #
     # France:
     # 1st entry corresponds to metropolitan France
     # 2nd entry corresponds to France including all overseas territories: delete it
     'France',
+    # 2022/06/16: 1st changed to "Metropolitan France", but patched
     #
     # Netherlands:
     # 1st entry corresponds to metropolitan Netherlands
     # 2nd entry corresponds to the Kingdom of Netherlands including oversea territories: delete it
-    #'Netherlands',
+    'Netherlands',
     # 2021/03/11: not anymore...
+    # 2022/06/16: again
     #
     # United Kingdom:
-    # 1st entry corresponds to metropolitan France
+    # 1st entry corresponds to metropolitan UK
     # 2nd entry corresponds to France including all overseas territories: delete it
     'United Kingdom',
     ]
@@ -536,6 +545,7 @@ def patch_wikip_borders():
                           % (oldname, newname, r['country_name']))
     #
     # 2) delete entries
+    #assert()
     for r in WIKIP_BORDERS[:]:
         if r['country_name'] in BORD_COUNTRY_DEL:
             WIKIP_BORDERS.remove(r)
@@ -595,7 +605,7 @@ def patch_wikip_borders():
                 else:
                     print('>>> border %s not present in ISO3166 dict, country %s'\
                           % (n, r['country_name']))
-    
+
 patch_wikip_borders()
 
 

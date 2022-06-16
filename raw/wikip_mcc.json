@@ -1782,10 +1782,10 @@
     {
       "authority": "",
       "code_alpha_2": "ST",
-      "country_name": "Sao Tome and Principe",
-      "country_url": "https://en.wikipedia.org/wiki/Sao_Tome_and_Principe",
+      "country_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "country_url": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
       "mcc": "626",
-      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#Sao_Tome_and_Principe_\u2013_ST",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_6xx_(Africa)#S\u00e3o_Tom\u00e9_and_Pr\u00edncipe_\u2013_ST",
       "notes": ""
     },
     {

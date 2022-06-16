@@ -25,7 +25,7 @@ P1_CC2 = \
                      'geo': { 'bound': {'bord': {'France': 55, 'Spain': 63}, 'len': 118},
                               'capital': {'coord': '42 30 N, 1 31 E', 'name': 'Andorra la Vella', 'time_diff': 'UTC+1'},
                               'coord': ['42 30 N, 1 30 E'],
-                              'popul': 85645,
+                              'popul': 85560,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AD',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/andorra'},
@@ -53,7 +53,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 36358, 'fix': 39657, 'internet': 70800, 'mob': 87909},
+                              'subs': {'bb': 37000, 'fix': 40000, 'internet': 71084, 'mob': 94000},
                               'tld': '.ad',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ad'}},
           'mcc': ['213'],
@@ -69,7 +69,7 @@ P1_CC2 = \
                               'capital': {'coord': '24 28 N, 54 22 E', 'name': 'Abu Dhabi', 'time_diff': 'UTC+4'},
                               'coast': 1318,
                               'coord': ['24 00 N, 54 00 E'],
-                              'popul': 9856612,
+                              'popul': 9915803,
                               'ports': { 'container': 'Dubai Port (14,111,000) (2019)',
                                          'seaport': "Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) "
                                                     "(Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), "
@@ -123,7 +123,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3245123, 'fix': 2380866, 'internet': 9940000, 'mob': 18374332},
+                              'subs': {'bb': 3245123, 'fix': 2380866, 'internet': 9890400, 'mob': 19602800},
                               'tld': '.ae',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ae'}},
           'mcc': ['424', '430', '431'],
@@ -144,7 +144,7 @@ P1_CC2 = \
                                          'len': 5987},
                               'capital': {'coord': '34 31 N, 69 11 E', 'name': 'Kabul', 'time_diff': 'UTC+4.5'},
                               'coord': ['33 00 N, 65 00 E'],
-                              'popul': 37466414,
+                              'popul': 38346720,
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AF',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/afghanistan'},
@@ -153,17 +153,15 @@ P1_CC2 = \
                                   'formerly jamhuri-ye islami-ye afghanistan',
                                   'islamic republic of afghanistan',
                                   'the islamic republic of afghanistan'],
-                     'tel': { '<p style="background': ['white', 'margin: 0in 0in 6.4pt 0in', '">', 0],
-                              'code': '93',
-                              'domestic': [ 'before the Taliban takeover in August 2021, less than 1 per 100 for '
-                                            'fixed-line teledensity',
+                     'tel': { 'code': '93',
+                              'domestic': [ 'before 15 August 2021, less than 1 per 100 for fixed-line teledensity',
                                             '59 per 100 for mobile-cellular',
                                             'an increasing number of Afghans utilize mobile-cellular phone networks',
                                             2021],
-                              'general': [ 'before the Taliban takeover in August 2021, Afghanistan had successfully '
-                                           'rebuilt infrastructure to create a functional telecom sector that covered '
-                                           'nearly all of the population',
-                                           'due to mountainous geography, country relies on its mobile network',
+                              'general': [ 'before 15 August 2021, Afghanistan had successfully rebuilt infrastructure '
+                                           'to create a functional telecom sector that covered nearly all of the '
+                                           'population',
+                                           'due to mountainous geography, Afghanistan relies on its mobile network',
                                            'mobile broadband penetration growing, but is still low compared to other '
                                            'countries in Asia',
                                            'operator launched LTE in Kabul',
@@ -178,7 +176,7 @@ P1_CC2 = \
                               'intl': [ "multiple VSAT's provide international and domestic voice and data "
                                         'connectivity',
                                         2019],
-                              'subs': {'bb': 26570, 'fix': 134636, 'internet': 8640000, 'mob': 22580071},
+                              'subs': {'bb': 26570, 'fix': 145787, 'internet': 7007101, 'mob': 22678024},
                               'tld': '.af',
                               'url_tld': 'https://en.wikipedia.org/wiki/.af'}},
           'mcc': ['412'],
@@ -194,7 +192,7 @@ P1_CC2 = \
                               'capital': {'coord': '17 07 N, 61 51 W', 'name': "Saint John's", 'time_diff': 'UTC-4'},
                               'coast': 153,
                               'coord': ['17 03 N, 61 48 W'],
-                              'popul': 99175,
+                              'popul': 100335,
                               'ports': {'seaport': "Saint John's"},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AG',
@@ -216,18 +214,7 @@ P1_CC2 = \
                                         'systems with links to other islands in the eastern Caribbean',
                                         'satellite earth stations - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
-                                        'and supply chains globally',
-                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
-                                        'particularly in mobile device production',
-                                        'many network operators delayed upgrades to infrastructure',
-                                        'progress towards 5G implementation was postponed or slowed in some countries',
-                                        'consumer spending on telecom services and devices was affected by large-scale '
-                                        'job losses and the consequent restriction on disposable incomes',
-                                        'the crucial nature of telecom services as a tool for work and school from '
-                                        'home became evident, and received some support from governments',
-                                        0],
-                              'subs': {'bb': 9261, 'fix': 24000, 'internet': 74700, 'mob': 184000},
+                              'subs': {'bb': 8000, 'fix': 27000, 'internet': 73807, 'mob': 184000},
                               'tld': '.ag',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ag'}},
           'mcc': ['344'],
@@ -243,7 +230,7 @@ P1_CC2 = \
                               'capital': {'coord': '18 13 N, 63 03 W', 'name': 'The Valley', 'time_diff': 'UTC-4'},
                               'coast': 61,
                               'coord': ['18 15 N, 63 10 W'],
-                              'popul': 18403,
+                              'popul': 18741,
                               'ports': {'seaport': 'Blowing Point, Road Bay'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AI',
@@ -275,7 +262,7 @@ P1_CC2 = \
                                         'contribution to the sector has been insufficient to offset steep falls in '
                                         'other areas of the market',
                                         0],
-                              'subs': {'fix': 6000, 'internet': 12300, 'mob': 26000},
+                              'subs': {'bb': 5000, 'fix': 6000, 'internet': 12489, 'mob': 26000},
                               'tld': '.ai',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ai'}},
           'mcc': ['365'],
@@ -303,7 +290,7 @@ P1_CC2 = \
                               'capital': {'coord': '41 19 N, 19 49 E', 'name': 'Tirana (Tirane)', 'time_diff': 'UTC+1'},
                               'coast': 362,
                               'coord': ['41 00 N, 20 00 E'],
-                              'popul': 3088385,
+                              'popul': 3095344,
                               'ports': {'seaport': 'Durres, Sarande, Shengjin, Vlore'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AL',
@@ -350,7 +337,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 508937, 'fix': 223469, 'internet': 2000000, 'mob': 2618880},
+                              'subs': {'bb': 508937, 'fix': 223469, 'internet': 2043251, 'mob': 2618880},
                               'tld': '.al',
                               'url_tld': 'https://en.wikipedia.org/wiki/.al'}},
           'mcc': ['276'],
@@ -366,7 +353,7 @@ P1_CC2 = \
                                          'len': 1570},
                               'capital': {'coord': '40 10 N, 44 30 E', 'name': 'Yerevan', 'time_diff': 'UTC+4'},
                               'coord': ['40 00 N, 45 00 E'],
-                              'popul': 3011609,
+                              'popul': 3000756,
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AM',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/armenia'},
@@ -416,7 +403,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 430407, 'fix': 427539, 'internet': 2020000, 'mob': 3488797},
+                              'subs': {'bb': 430407, 'fix': 427539, 'internet': 2281690, 'mob': 3488797},
                               'tld': '.am',
                               'url_tld': 'https://en.wikipedia.org/wiki/.am'}},
           'mcc': ['283'],
@@ -436,7 +423,7 @@ P1_CC2 = \
                               'capital': {'coord': '8 50 S, 13 13 E', 'name': 'Luanda', 'time_diff': 'UTC+1'},
                               'coast': 1600,
                               'coord': ['12 30 S, 18 30 E'],
-                              'popul': 33642646,
+                              'popul': 34795287,
                               'ports': {'seaport': 'Cabinda, Lobito, Luanda, Namibe'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AO',
@@ -476,7 +463,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 230610, 'fix': 119164, 'internet': 10360000, 'mob': 14645050},
+                              'subs': {'bb': 230610, 'fix': 119164, 'internet': 11831857, 'mob': 14645050},
                               'tld': '.ao',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ao'}},
           'mcc': ['631'],
@@ -524,7 +511,7 @@ P1_CC2 = \
                               'capital': {'coord': '34 36 S, 58 22 W', 'name': 'Buenos Aires', 'time_diff': 'UTC-3'},
                               'coast': 4989,
                               'coord': ['34 00 S, 64 00 W'],
-                              'popul': 45864941,
+                              'popul': 46245668,
                               'ports': { 'container': 'Buenos Aires (1,485,328) (2019)',
                                          'seaport': 'Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia'},
                               'region': 'South America',
@@ -536,7 +523,7 @@ P1_CC2 = \
                                             'microwave radio relay, fiber-optic cable, and a domestic satellite system '
                                             'with 40 earth stations serve the trunk network',
                                             2020],
-                              'general': [ 'Argentina has one of the most vigorous mobile markets in Latin America',
+                              'general': [ 'Argentina has one of the most developed mobile markets in Latin America',
                                            'with additional operators in the market, mobile penetration fell in 2020 '
                                            'as incentives for multiple-SIM card ownership eased',
                                            'LTE with tests of 5G',
@@ -563,7 +550,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 9571562, 'fix': 7356165, 'internet': 36320000, 'mob': 54763900},
+                              'subs': {'bb': 9571562, 'fix': 7356165, 'internet': 39024016, 'mob': 54763900},
                               'tld': '.ar',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ar'}},
           'mcc': ['722'],
@@ -590,7 +577,7 @@ P1_CC2 = \
                               'capital': {'coord': '14 16 S, 170 42 W', 'name': 'Pago Pago', 'time_diff': 'UTC-11'},
                               'coast': 116,
                               'coord': ['14 20 S, 170 00 W'],
-                              'popul': 46366,
+                              'popul': 45443,
                               'ports': {'seaport': 'Pago Pago'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AS',
@@ -621,7 +608,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 10000, 'internet': 22200},
+                              'subs': {'fix': 10000, 'internet': 17147, 'mob': 2250},
                               'tld': '.as',
                               'url_tld': 'https://en.wikipedia.org/wiki/.as'}},
           'mcc': ['544'],
@@ -644,7 +631,7 @@ P1_CC2 = \
                                          'len': 2524},
                               'capital': {'coord': '48 12 N, 16 22 E', 'name': 'Vienna', 'time_diff': 'UTC+1'},
                               'coord': ['47 20 N, 13 20 E'],
-                              'popul': 8884864,
+                              'popul': 8913088,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AT',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/austria'},
@@ -684,7 +671,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2606000, 'fix': 3786725, 'internet': 8029999, 'mob': 10682294},
+                              'subs': {'bb': 2606000, 'fix': 3786725, 'internet': 7846840, 'mob': 10717445},
                               'tld': '.at',
                               'url_tld': 'https://en.wikipedia.org/wiki/.at'}},
           'mcc': ['232'],
@@ -730,7 +717,7 @@ P1_CC2 = \
                               'cmt': 'ISO includes Ashmore and Cartier Islands, Coral Sea Islands',
                               'coast': 25760,
                               'coord': ['27 00 S, 133 00 E'],
-                              'popul': 25809973,
+                              'popul': 26141369,
                               'ports': { 'container': 'Melbourne (2,967,315), Sydney (2,572,714) (2019)',
                                          'seaport': '<em><br />Indian Ocean:</em> Adelaide, Darwin, Fremantle, '
                                                     'Geelong, Melbourne<br /><em>Pacific Ocean:</em> Brisbane, Cairns, '
@@ -758,10 +745,10 @@ P1_CC2 = \
                                            'predicted to be one of the top markets driving the growth of 5G and data '
                                            'markets in Asia',
                                            'fiber backbone to connect with submarine cables',
-                                           'Oman-Australia cable to be completed by end of 2021',
+                                           'Oman-Australia cable is estimated to be in service by mid-2022',
                                            "two of Australia's major imports are broadcast equipment and computers "
                                            'from China',
-                                           2020],
+                                           2021],
                               'intl': [ 'landing points for more than 20 submarine cables including: the SeaMeWe-3 '
                                         'optical telecommunications submarine cable with links to Asia, the Middle '
                                         'East, and Europe',
@@ -786,7 +773,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 8937550, 'fix': 6200000, 'internet': 22820000, 'mob': 27454000},
+                              'subs': {'bb': 9099619, 'fix': 6200000, 'internet': 23123940, 'mob': 27453000},
                               'tld': '.au',
                               'url_tld': 'https://en.wikipedia.org/wiki/.au'}},
           'mcc': ['505'],
@@ -862,7 +849,7 @@ P1_CC2 = \
                               'capital': {'coord': '12 31 N, 70 02 W', 'name': 'Oranjestad', 'time_diff': 'UTC-4'},
                               'coast': 68,
                               'coord': ['12 30 N, 69 58 W'],
-                              'popul': 120917,
+                              'popul': 122320,
                               'ports': {'seaport': 'Barcadera, Oranjestad'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AW',
@@ -901,7 +888,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 19000, 'fix': 35000, 'internet': 104000, 'mob': 141000},
+                              'subs': {'bb': 19000, 'fix': 35000, 'internet': 103121, 'mob': 141000},
                               'tld': '.aw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.aw'}},
           'mcc': ['363'],
@@ -934,7 +921,7 @@ P1_CC2 = \
                                            'name': 'Baku (Baki, Baky)',
                                            'time_diff': 'UTC+4'},
                               'coord': ['40 30 N, 47 30 E'],
-                              'popul': 10282283,
+                              'popul': 10353296,
                               'ports': {'seaport': 'Baku (Baki) located on the Caspian Sea'},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AZ',
@@ -979,7 +966,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1995474, 'fix': 1652688, 'internet': 8260000, 'mob': 10344300},
+                              'subs': {'bb': 1995474, 'fix': 1652688, 'internet': 8579153, 'mob': 10344300},
                               'tld': '.az',
                               'url_tld': 'https://en.wikipedia.org/wiki/.az'}},
           'mcc': ['400'],
@@ -995,7 +982,7 @@ P1_CC2 = \
                               'capital': {'coord': '43 52 N, 18 25 E', 'name': 'Sarajevo', 'time_diff': 'UTC+1'},
                               'coast': 20,
                               'coord': ['44 00 N, 18 00 E'],
-                              'popul': 3824782,
+                              'popul': 3816459,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BA',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bosnia-and-herzegovina'},
@@ -1029,7 +1016,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 770624, 'fix': 706135, 'internet': 2320000, 'mob': 3509674},
+                              'subs': {'bb': 770424, 'fix': 706135, 'internet': 2394995, 'mob': 3509674},
                               'tld': '.ba',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ba'}},
           'mcc': ['218'],
@@ -1045,7 +1032,7 @@ P1_CC2 = \
                               'capital': {'coord': '13 06 N, 59 37 W', 'name': 'Bridgetown', 'time_diff': 'UTC-4'},
                               'coast': 97,
                               'coord': ['13 10 N, 59 32 W'],
-                              'popul': 301865,
+                              'popul': 302674,
                               'ports': {'seaport': 'Bridgetown'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BB',
@@ -1066,18 +1053,7 @@ P1_CC2 = \
                                         'satellite earth stations - 1 (Intelsat - Atlantic Ocean)',
                                         'tropospheric scatter to Trinidad and Saint Lucia',
                                         2019],
-                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
-                                        'and supply chains globally',
-                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
-                                        'particularly in mobile device production',
-                                        'many network operators delayed upgrades to infrastructure',
-                                        'progress towards 5G implementation was postponed or slowed in some countries',
-                                        'consumer spending on telecom services and devices was affected by large-scale '
-                                        'job losses and the consequent restriction on disposable incomes',
-                                        'the crucial nature of telecom services as a tool for work and school from '
-                                        'home became evident, and received some support from governments',
-                                        0],
-                              'subs': {'bb': 106803, 'fix': 128043, 'internet': 235100, 'mob': 329326},
+                              'subs': {'bb': 128000, 'fix': 128000, 'internet': 235357, 'mob': 295000},
                               'tld': '.bb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bb'}},
           'mcc': ['342'],
@@ -1093,7 +1069,7 @@ P1_CC2 = \
                               'capital': {'coord': '23 43 N, 90 24 E', 'name': 'Dhaka', 'time_diff': 'UTC+6'},
                               'coast': 580,
                               'coord': ['24 00 N, 90 00 E'],
-                              'popul': 164098818,
+                              'popul': 165650475,
                               'ports': { 'container': 'Chattogram (Chittagong) (3,088,187) (2019)',
                                          'seaport': 'Chattogram (Chittagong)'},
                               'region': 'Asia',
@@ -1140,7 +1116,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 9521970, 'fix': 1450321, 'internet': 47610000, 'mob': 170136762},
+                              'subs': {'bb': 10052819, 'fix': 1390048, 'internet': 41172346, 'mob': 176279465},
                               'tld': '.bd',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bd'}},
           'mcc': ['470'],
@@ -1157,7 +1133,7 @@ P1_CC2 = \
                               'capital': {'coord': '50 50 N, 4 20 E', 'name': 'Brussels', 'time_diff': 'UTC+1'},
                               'coast': 66,
                               'coord': ['50 50 N, 4 00 E'],
-                              'popul': 11778842,
+                              'popul': 11847338,
                               'ports': {'container': 'Antwerp (11,860,204) (2019)', 'seaport': 'Oostende, Zeebrugge'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BE',
@@ -1201,7 +1177,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4734210, 'fix': 3634639, 'internet': 10570000, 'mob': 11529728},
+                              'subs': {'bb': 4734210, 'fix': 3634639, 'internet': 10620701, 'mob': 11529728},
                               'tld': '.be',
                               'url_tld': 'https://en.wikipedia.org/wiki/.be'}},
           'mcc': ['206'],
@@ -1251,7 +1227,7 @@ P1_CC2 = \
                                          'len': 3611},
                               'capital': {'coord': '12 22 N, 1 31 W', 'name': 'Ouagadougou', 'time_diff': 'UTC 0'},
                               'coord': ['13 00 N, 2 00 W'],
-                              'popul': 21382659,
+                              'popul': 21935389,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BF',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/burkina-faso'},
@@ -1289,7 +1265,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 13979, 'fix': 75039, 'internet': 5460000, 'mob': 22117218},
+                              'subs': {'bb': 13979, 'fix': 75039, 'internet': 4598721, 'mob': 22117218},
                               'tld': '.bf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bf'}},
           'mcc': ['613'],
@@ -1310,7 +1286,7 @@ P1_CC2 = \
                               'capital': {'coord': '42 41 N, 23 19 E', 'name': 'Sofia', 'time_diff': 'UTC+2'},
                               'coast': 354,
                               'coord': ['43 00 N, 25 00 E'],
-                              'popul': 6919180,
+                              'popul': 6873253,
                               'ports': {'seaport': 'Burgas, Varna (Black Sea)'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BG',
@@ -1350,7 +1326,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2131606, 'fix': 872323, 'internet': 4910000, 'mob': 7945739},
+                              'subs': {'bb': 2115053, 'fix': 872757, 'internet': 4853811, 'mob': 7945739},
                               'tld': '.bg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bg'}},
           'mcc': ['284'],
@@ -1366,7 +1342,7 @@ P1_CC2 = \
                               'capital': {'coord': '26 14 N, 50 34 E', 'name': 'Manama', 'time_diff': 'UTC+3'},
                               'coast': 161,
                               'coord': ['26 00 N, 50 33 E'],
-                              'popul': 1526929,
+                              'popul': 1540558,
                               'ports': {'seaport': "Mina' Salman, Sitrah"},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BH',
@@ -1410,7 +1386,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 148595, 'fix': 266659, 'internet': 1710000, 'mob': 1748672},
+                              'subs': {'bb': 148928, 'fix': 274106, 'internet': 170158, 'mob': 1748672},
                               'tld': '.bh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bh'}},
           'mcc': ['426'],
@@ -1434,7 +1410,7 @@ P1_CC2 = \
                                                    'have moved from Bujumbura to Gitega by 2022',
                                            'time_diff': 'UTC+2'},
                               'coord': ['3 30 S, 30 00 E'],
-                              'popul': 12241065,
+                              'popul': 12696478,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BI',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/burundi'},
@@ -1472,7 +1448,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4230, 'fix': 18300, 'internet': 1610000, 'mob': 6631154},
+                              'subs': {'bb': 4230, 'fix': 18300, 'internet': 1070170, 'mob': 6631151},
                               'tld': '.bi',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bi'}},
           'mcc': ['642'],
@@ -1491,7 +1467,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+1'},
                               'coast': 121,
                               'coord': ['9 30 N, 2 15 E'],
-                              'popul': 13301694,
+                              'popul': 13754688,
                               'ports': {'seaport': 'Cotonou'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BJ',
@@ -1531,7 +1507,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 29981, 'fix': 32386, 'internet': 3500000, 'mob': 11140891},
+                              'subs': {'bb': 29981, 'fix': 32386, 'internet': 3152032, 'mob': 11140891},
                               'tld': '.bj',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bj'}},
           'mcc': ['616'],
@@ -1547,7 +1523,7 @@ P1_CC2 = \
                               'capital': {'coord': '17 53 N, 62 51 W', 'name': 'Gustavia', 'time_diff': 'UTC-4'},
                               'cmt': 'ccTLD .fr and .gp may also be used',
                               'coord': ['17 90 N, 62 85 W'],
-                              'popul': 7116,
+                              'popul': 7103,
                               'ports': {'seaport': 'Gustavia'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BL',
@@ -1578,7 +1554,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'internet': 2025},
+                              'subs': {'internet': 7128},
                               'tld': '.bl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bl'}},
           'mcc': ['340'],
@@ -1594,7 +1570,7 @@ P1_CC2 = \
                               'capital': {'coord': '32 17 N, 64 47 W', 'name': 'Hamilton', 'time_diff': 'UTC-4'},
                               'coast': 103,
                               'coord': ['32 20 N, 64 45 W'],
-                              'popul': 72084,
+                              'popul': 72337,
                               'ports': {'seaport': 'Hamilton, Ireland Island, Saint George'},
                               'region': 'North America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BM',
@@ -1625,7 +1601,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 21883, 'fix': 21883, 'internet': 61200, 'mob': 64997},
+                              'subs': {'bb': 23000, 'fix': 25000, 'internet': 62625, 'mob': 68000},
                               'tld': '.bm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bm'}},
           'mcc': ['350'],
@@ -1654,7 +1630,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+8'},
                               'coast': 161,
                               'coord': ['4 30 N, 114 40 E'],
-                              'popul': 471103,
+                              'popul': 478054,
                               'ports': {'seaport': 'Muara'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BN',
@@ -1694,7 +1670,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 71078, 'fix': 103885, 'internet': 417500, 'mob': 526732},
+                              'subs': {'bb': 71078, 'fix': 103885, 'internet': 415609, 'mob': 526589},
                               'tld': '.bn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bn'}},
           'mcc': ['528'],
@@ -1717,7 +1693,7 @@ P1_CC2 = \
                                                    '[legislative and judicial] capital)',
                                            'time_diff': 'UTC-4'},
                               'coord': ['17 00 S, 65 00 W'],
-                              'popul': 11758869,
+                              'popul': 12054379,
                               'region': 'South America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BO',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bolivia'},
@@ -1765,7 +1741,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 931918, 'fix': 598082, 'internet': 5580000, 'mob': 11804343},
+                              'subs': {'bb': 931918, 'fix': 598082, 'internet': 7003817, 'mob': 11804343},
                               'tld': '.bo',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bo'}},
           'mcc': ['736'],
@@ -1821,7 +1797,7 @@ P1_CC2 = \
                               'capital': {'coord': '15 47 S, 47 55 W', 'name': 'Brasilia', 'time_diff': 'UTC-3'},
                               'coast': 7491,
                               'coord': ['10 00 S, 55 00 W'],
-                              'popul': 213445417,
+                              'popul': 217240060,
                               'ports': { 'container': 'Itajai (1,223,262), Paranagua (865,110), Santos (4,165,248) '
                                                       '(2019)',
                                          'seaport': 'Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao '
@@ -1842,7 +1818,7 @@ P1_CC2 = \
                                             2020],
                               'general': [ 'Brazil is one of the largest mobile and broadband markets in Latin America '
                                            'with healthy competition and pricing',
-                                           '5G launched on limited basis',
+                                           'national 5G rollout planned for 2022',
                                            'countrywide network spectrum auction held in November 2021',
                                            'large fixed-line broadband market with focus on fiber',
                                            'landing point for submarine cables and investment into terrestrial fiber '
@@ -1876,7 +1852,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 36344670, 'fix': 30653813, 'internet': 160000000, 'mob': 205834781},
+                              'subs': {'bb': 36344670, 'fix': 30653813, 'internet': 172173121, 'mob': 205834781},
                               'tld': '.br',
                               'url_tld': 'https://en.wikipedia.org/wiki/.br'}},
           'mcc': ['724'],
@@ -1924,7 +1900,7 @@ P1_CC2 = \
                               'capital': {'coord': '25 05 N, 77 21 W', 'name': 'Nassau', 'time_diff': 'UTC-5'},
                               'coast': 3542,
                               'coord': ['24 15 N, 76 00 W'],
-                              'popul': 352655,
+                              'popul': 355608,
                               'ports': { 'container': 'Freeport (1,396,568) (2019)',
                                          'seaport': 'Freeport, Nassau, South Riding Point'},
                               'region': 'Central America and the Caribbean',
@@ -1963,7 +1939,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 82295, 'fix': 91129, 'internet': 335800, 'mob': 425507},
+                              'subs': {'bb': 83000, 'fix': 91000, 'internet': 342126, 'mob': 466000},
                               'tld': '.bs',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bs'}},
           'mcc': ['364'],
@@ -1978,7 +1954,7 @@ P1_CC2 = \
                               'bound': {'bord': {'China': 477, 'India': 659}, 'len': 1136},
                               'capital': {'coord': '27 28 N, 89 38 E', 'name': 'Thimphu', 'time_diff': 'UTC+6'},
                               'coord': ['27 30 N, 90 30 E'],
-                              'popul': 857423,
+                              'popul': 867775,
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BT',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bhutan'},
@@ -2013,7 +1989,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2139, 'fix': 22987, 'internet': 373200, 'mob': 745137},
+                              'subs': {'bb': 3189, 'fix': 22987, 'internet': 416671, 'mob': 745137},
                               'tld': '.bt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bt'}},
           'mcc': ['402'],
@@ -2045,7 +2021,7 @@ P1_CC2 = \
                                          'len': 4347},
                               'capital': {'coord': '24 38 S, 25 54 E', 'name': 'Gaborone', 'time_diff': 'UTC+2'},
                               'coord': ['22 00 S, 24 00 E'],
-                              'popul': 2350667,
+                              'popul': 2384246,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BW',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/botswana'},
@@ -2086,7 +2062,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 71898, 'fix': 142587, 'internet': 1120000, 'mob': 3819019},
+                              'subs': {'bb': 259525, 'fix': 140003, 'internet': 1505040, 'mob': 3829408},
                               'tld': '.bw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bw'}},
           'mcc': ['652'],
@@ -2106,7 +2082,7 @@ P1_CC2 = \
                                          'len': 3599},
                               'capital': {'coord': '53 54 N, 27 34 E', 'name': 'Minsk', 'time_diff': 'UTC+2'},
                               'coord': ['53 00 N, 28 00 E'],
-                              'popul': 9441842,
+                              'popul': 9413505,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BY',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/belarus'},
@@ -2154,7 +2130,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3255552, 'fix': 4406585, 'internet': 7820000, 'mob': 11704084},
+                              'subs': {'bb': 3255552, 'fix': 4406560, 'internet': 7972959, 'mob': 11704084},
                               'tld': '.by',
                               'url_tld': 'https://en.wikipedia.org/wiki/.by'}},
           'mcc': ['257'],
@@ -2170,7 +2146,7 @@ P1_CC2 = \
                               'capital': {'coord': '17 15 N, 88 46 W', 'name': 'Belmopan', 'time_diff': 'UTC-6'},
                               'coast': 386,
                               'coord': ['17 15 N, 88 45 W'],
-                              'popul': 405633,
+                              'popul': 412387,
                               'ports': {'seaport': 'Belize City, Big Creek'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BZ',
@@ -2208,7 +2184,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 29600, 'fix': 18500, 'internet': 188900, 'mob': 254919},
+                              'subs': {'bb': 36000, 'fix': 19000, 'internet': 202787, 'mob': 264000},
                               'tld': '.bz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.bz'}},
           'mcc': ['702'],
@@ -2224,7 +2200,7 @@ P1_CC2 = \
                               'capital': {'coord': '45 25 N, 75 42 W', 'name': 'Ottawa', 'time_diff': 'UTC-5'},
                               'coast': 202080,
                               'coord': ['60 00 N, 95 00 W'],
-                              'popul': 37943231,
+                              'popul': 38232593,
                               'ports': { 'container': 'Montreal (1,745,244), Vancouver (3,398,860) (2019)',
                                          'seaport': 'Halifax, Saint John (New Brunswick), Vancouver'},
                               'region': 'North America',
@@ -2267,7 +2243,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 15776602, 'fix': 13926000, 'internet': 35630000, 'mob': 36093021},
+                              'subs': {'bb': 15825813, 'fix': 13340000, 'internet': 36896088, 'mob': 32360000},
                               'tld': '.ca',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ca'}},
           'mcc': ['302'],
@@ -2465,7 +2441,7 @@ P1_CC2 = \
                               'cmt': 'formerly Zaire',
                               'coast': 37,
                               'coord': ['0 00 N, 25 00 E'],
-                              'popul': 105044646,
+                              'popul': 108407721,
                               'ports': {'seaport': 'Banana'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CD',
@@ -2507,7 +2483,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 11900, 'internet': 21140000, 'mob': 40798396},
+                              'subs': {'bb': 31000, 'internet': 12538597, 'mob': 40798396},
                               'tld': '.cd',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cd'}},
           'mcc': ['630'],
@@ -2527,7 +2503,7 @@ P1_CC2 = \
                                          'len': 5920},
                               'capital': {'coord': '4 22 N, 18 35 E', 'name': 'Bangui', 'time_diff': 'UTC+1'},
                               'coord': ['7 00 N, 21 00 E'],
-                              'popul': 5357984,
+                              'popul': 5454533,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CF',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/central-african-republic'},
@@ -2560,7 +2536,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 499, 'fix': 2193, 'internet': 557100, 'mob': 1595294},
+                              'subs': {'bb': 499, 'fix': 2000, 'internet': 482976, 'mob': 1831000},
                               'tld': '.cf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cf'}},
           'mcc': ['623'],
@@ -2581,7 +2557,7 @@ P1_CC2 = \
                               'capital': {'coord': '4 15 S, 15 17 E', 'name': 'Brazzaville', 'time_diff': 'UTC+1'},
                               'coast': 169,
                               'coord': ['1 00 S, 15 00 E'],
-                              'popul': 5417414,
+                              'popul': 5546307,
                               'ports': {'seaport': 'Pointe-Noire'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CG',
@@ -2625,7 +2601,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 500, 'fix': 17000, 'internet': 790000, 'mob': 5000000},
+                              'subs': {'bb': 1000, 'fix': 17000, 'internet': 484245, 'mob': 4890000},
                               'tld': '.cg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cg'}},
           'mcc': ['629'],
@@ -2645,7 +2621,7 @@ P1_CC2 = \
                                          'len': 1770},
                               'capital': {'coord': '46 55 N, 7 28 E', 'name': 'Bern', 'time_diff': 'UTC+1'},
                               'coord': ['47 00 N, 8 00 E'],
-                              'popul': 8453550,
+                              'popul': 8508698,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CH',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/switzerland'},
@@ -2682,7 +2658,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4022999, 'fix': 2952000, 'internet': 8420000, 'mob': 10900000},
+                              'subs': {'bb': 4028238, 'fix': 3071296, 'internet': 8118367, 'mob': 10829000},
                               'tld': '.ch',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ch'}},
           'mcc': ['228'],
@@ -2742,7 +2718,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC 0'},
                               'coast': 515,
                               'coord': ['8 00 N, 5 00 W'],
-                              'popul': 28088455,
+                              'popul': 28713423,
                               'ports': {'seaport': 'Abidjan, San-Pedro'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CI',
@@ -2785,7 +2761,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 260097, 'fix': 264073, 'internet': 12500000, 'mob': 40095246},
+                              'subs': {'bb': 260097, 'fix': 264073, 'internet': 9496179, 'mob': 40095246},
                               'tld': '.ci',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ci'}},
           'mcc': ['612'],
@@ -2801,7 +2777,7 @@ P1_CC2 = \
                               'capital': {'coord': '21 12 S, 159 46 W', 'name': 'Avarua', 'time_diff': 'UTC-10'},
                               'coast': 120,
                               'coord': ['21 14 S, 159 46 W'],
-                              'popul': 8327,
+                              'popul': 8128,
                               'ports': {'seaport': 'Avatiu'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CK',
@@ -2836,7 +2812,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2700, 'fix': 6576, 'internet': 9487, 'mob': 14539},
+                              'subs': {'bb': 2700, 'fix': 6576, 'internet': 9476, 'mob': 14539},
                               'tld': '.ck',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ck'}},
           'mcc': ['548'],
@@ -2855,7 +2831,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC-3'},
                               'coast': 6435,
                               'coord': ['30 00 S, 71 00 W'],
-                              'popul': 18307925,
+                              'popul': 18430408,
                               'ports': { 'container': 'San Antonio (1,709,635), Valparaiso (898,715) (2019)',
                                          'seaport': 'Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San '
                                                     'Vicente, Valparaiso'},
@@ -2898,7 +2874,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3751227, 'fix': 2567938, 'internet': 15780000, 'mob': 25068249},
+                              'subs': {'bb': 3763826, 'fix': 2567938, 'internet': 16822264, 'mob': 25068249},
                               'tld': '.cl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cl'}},
           'mcc': ['730'],
@@ -2946,7 +2922,7 @@ P1_CC2 = \
                               'capital': {'coord': '3 52 N, 11 31 E', 'name': 'Yaounde', 'time_diff': 'UTC+1'},
                               'coast': 402,
                               'coord': ['6 00 N, 12 00 E'],
-                              'popul': 28524175,
+                              'popul': 29321637,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CM',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cameroon'},
@@ -2989,7 +2965,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 713845, 'fix': 883015, 'internet': 9150000, 'mob': 25245134},
+                              'subs': {'bb': 722579, 'fix': 964378, 'internet': 10087428, 'mob': 22350310},
                               'tld': '.cm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cm'}},
           'mcc': ['624'],
@@ -3021,7 +2997,7 @@ P1_CC2 = \
                               'cmt': 'see also Taiwan',
                               'coast': 14500,
                               'coord': ['35 00 N, 105 00 E'],
-                              'popul': 1397897720,
+                              'popul': 1410539758,
                               'ports': { 'container': 'Dalian (8,760,000), Guangzhou (23,236,200), Ningbo '
                                                       '(27,530,000), Qingdao (21,010,000), Shanghai (43,303,000), '
                                                       'Shenzhen (25,770,000), Tianjin (17,264,000) (2019)',
@@ -3047,7 +3023,8 @@ P1_CC2 = \
                                            'government aims to provide universal and affordable broadband coverage '
                                            'through market competition and private investment in state-controlled '
                                            'enterprises',
-                                           '3G and LTE subscribers will migrate to 5G aiming for 1M 5G base stations',
+                                           '3G and LTE subscribers will migrate to 5G aiming for 2 million 5G base '
+                                           'stations by the end of 2022',
                                            'government strengthens IoT policies to boost economic growth',
                                            'China is pushing development of smart cities beyond Beijing',
                                            'Beijing residents carry virtual card integrating identity, social '
@@ -3055,7 +3032,7 @@ P1_CC2 = \
                                            'government controls gateways to global Internet through censorship, '
                                            'surveillance, and shut-downs',
                                            'major exporter of broadcasting equipment world-wide',
-                                           2020],
+                                           2022],
                               'intl': [ 'landing points for the RJCN, EAC-C2C, TPE, APCN-2, APG, NCP, TEA, SeaMeWe-3, '
                                         'SJC2, Taiwan Strait Express-1, AAE-1, APCN-2, AAG, FEA, FLAG and TSE '
                                         'submarine cables providing connectivity to Asia, the Middle East, Europe, and '
@@ -3064,18 +3041,7 @@ P1_CC2 = \
                                         '1 Intersputnik - Indian Ocean region',
                                         'and 1 Inmarsat - Pacific and Indian Ocean regions)',
                                         2019],
-                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
-                                        'and supply chains globally',
-                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
-                                        'particularly in mobile device production',
-                                        'many network operators delayed upgrades to infrastructure',
-                                        'progress towards 5G implementation was postponed or slowed in some countries',
-                                        'consumer spending on telecom services and devices was affected by large-scale '
-                                        'job losses and the consequent restriction on disposable incomes',
-                                        'the crucial nature of telecom services as a tool for work and school from '
-                                        'home became evident, and received some support from governments',
-                                        0],
-                              'subs': {'bb': 483550000, 'fix': 181908000, 'internet': 939800000, 'mob': 1696356000},
+                              'subs': {'bb': 483549500, 'fix': 181908000, 'internet': 987000000, 'mob': 1},
                               'tld': '.cn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cn'}},
           'mcc': ['460', '461'],
@@ -3107,7 +3073,7 @@ P1_CC2 = \
                               'capital': {'coord': '4 36 N, 74 05 W', 'name': 'Bogota', 'time_diff': 'UTC-5'},
                               'coast': 3208,
                               'coord': ['4 00 N, 72 00 W'],
-                              'popul': 50355650,
+                              'popul': 49059221,
                               'ports': { 'container': 'Buenaventura (1,121,267), Cartagena (2,995,031) (2019)',
                                          'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br '
                                                     '/>Pacific Ocean - Buenaventura'},
@@ -3121,17 +3087,18 @@ P1_CC2 = \
                      'tel': { 'code': '57',
                               'domestic': [ 'fixed-line connections stand at about 14 per 100 persons',
                                             'mobile cellular telephone subscribership is 133 per 100 persons',
-                                            'competition among cellular service providers is resulting in falling '
+                                            "Partners Telecom Colombia's (WOM) market entrance in June 2021 increased "
+                                            'competition among cellular service providers and is resulting in falling '
                                             'local and international calling rates and contributing to the steep '
                                             'decline in the market share of fixed-line services',
                                             'domestic satellite system with 41 earth stations',
-                                            2020],
+                                            2021],
                               'general': [ "Colombia's telecom infrastructure has improved through a government "
-                                           'program of competition to upgrade services based on LTE and 5G, focusing '
+                                           'program of competition to upgrade services based on LTE and 4G, focusing '
                                            'on infrastructure in small urban centers and rural areas',
                                            'national ICT Plan increased broadband and fiber connectivity',
-                                           'operators testing 5G and completed 20k terrestrial cable connecting 80% of '
-                                           'the country',
+                                           'operators are testing 5G through unallocated spectrum pilots and have '
+                                           'completed 20k terrestrial cable connecting 80% of the country',
                                            'benefit due to access to commercial submarine cable',
                                            2020],
                               'intl': [ 'landing points for the SAC, Maya-1, SAIT, ACROS, AMX-1, CFX-1, PCCS, Deep '
@@ -3145,13 +3112,13 @@ P1_CC2 = \
                                         'since 2020, some aspects of the telecom sector have experienced downturn, '
                                         'particularly in mobile device production',
                                         'many network operators delayed upgrades to infrastructure',
-                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'progress towards 5G implementation slowed with 5G auction delayed to 2023',
                                         'consumer spending on telecom services and devices was affected by large-scale '
                                         'job losses and the consequent restriction on disposable incomes',
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 7764772, 'fix': 7248026, 'internet': 34730000, 'mob': 67672570},
+                              'subs': {'bb': 7764772, 'fix': 7248026, 'internet': 35618019, 'mob': 67672570},
                               'tld': '.co',
                               'url_tld': 'https://en.wikipedia.org/wiki/.co'}},
           'mcc': ['732'],
@@ -3191,7 +3158,7 @@ P1_CC2 = \
                               'capital': {'coord': '9 56 N, 84 05 W', 'name': 'San Jose', 'time_diff': 'UTC-6'},
                               'coast': 1290,
                               'coord': ['10 00 N, 84 00 W'],
-                              'popul': 5151140,
+                              'popul': 5204411,
                               'ports': {'seaport': 'Atlantic Ocean (Caribbean) - Puerto Limon'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CR',
@@ -3232,7 +3199,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 992725, 'fix': 559882, 'internet': 4150000, 'mob': 7512370},
+                              'subs': {'bb': 992725, 'fix': 559882, 'internet': 4126232, 'mob': 7512370},
                               'tld': '.cr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cr'}},
           'mcc': ['712'],
@@ -3256,7 +3223,7 @@ P1_CC2 = \
                               'capital': {'coord': '23 07 N, 82 21 W', 'name': 'Havana', 'time_diff': 'UTC-5'},
                               'coast': 3735,
                               'coord': ['21 30 N, 80 00 W'],
-                              'popul': 11032343,
+                              'popul': 11008112,
                               'ports': { 'seaport': 'Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, '
                                                     'Nuevitas Bay, Santiago de Cuba'},
                               'region': 'Central America and the Caribbean',
@@ -3296,7 +3263,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 231654, 'fix': 1502230, 'internet': 7700000, 'mob': 6661763},
+                              'subs': {'bb': 231654, 'fix': 1502230, 'internet': 8381696, 'mob': 6661763},
                               'tld': '.cu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cu'}},
           'mcc': ['368'],
@@ -3312,7 +3279,7 @@ P1_CC2 = \
                               'capital': {'coord': '14 55 N, 23 31 W', 'name': 'Praia', 'time_diff': 'UTC-1'},
                               'coast': 965,
                               'coord': ['16 00 N, 24 00 W'],
-                              'popul': 589451,
+                              'popul': 596707,
                               'ports': {'seaport': 'Porto Grande'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CV',
@@ -3353,7 +3320,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 24839, 'fix': 57668, 'internet': 346000, 'mob': 544729},
+                              'subs': {'bb': 24839, 'fix': 57668, 'internet': 361392, 'mob': 544729},
                               'tld': '.cv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cv'}},
           'mcc': ['625'],
@@ -3369,7 +3336,7 @@ P1_CC2 = \
                               'capital': {'coord': '12 06 N, 68 55 W', 'name': 'Willemstad', 'time_diff': 'UTC-4'},
                               'coast': 364,
                               'coord': ['12 10 N, 69 00 W'],
-                              'popul': 151885,
+                              'popul': 152379,
                               'ports': {'seaport': 'Willemstad'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CW',
@@ -3409,7 +3376,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 53297, 'fix': 53500, 'internet': 112000, 'mob': 184236},
+                              'subs': {'bb': 55000, 'fix': 54000, 'internet': 107060, 'mob': 182000},
                               'tld': '.cw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cw'}},
           'mcc': ['362'],
@@ -3460,7 +3427,7 @@ P1_CC2 = \
                                         'ASC submarine cable to Singapore and Australia',
                                         'satellite earth station - 1 (Intelsat provides telephone and telex service)',
                                         2019],
-                              'subs': {'internet': 1449},
+                              'subs': {'internet': 790},
                               'tld': '.cx',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cx'}},
           'mcc': ['505'],
@@ -3538,7 +3505,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+2'},
                               'coast': 648,
                               'coord': ['35 00 N, 33 00 E'],
-                              'popul': 1281506,
+                              'popul': 1295102,
                               'ports': {'seaport': 'area under government control: Larnaca, Limassol, Vasilikos'},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CY',
@@ -3593,7 +3560,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 332080, 'fix': 311439, 'internet': 1040000, 'mob': 1230706},
+                              'subs': {'bb': 332080, 'fix': 311439, 'internet': 1098699, 'mob': 1239960},
                               'tld': '.cy',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cy'}},
           'mcc': ['280'],
@@ -3609,7 +3576,7 @@ P1_CC2 = \
                                          'len': 2046},
                               'capital': {'coord': '50 05 N, 14 28 E', 'name': 'Prague', 'time_diff': 'UTC+1'},
                               'coord': ['49 45 N, 15 30 E'],
-                              'popul': 10702596,
+                              'popul': 10705384,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CZ',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/czechia'},
@@ -3642,7 +3609,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3802644, 'fix': 1316316, 'internet': 9430000, 'mob': 12999353},
+                              'subs': {'bb': 3845426, 'fix': 1335224, 'internet': 8665265, 'mob': 12999812},
                               'tld': '.cz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.cz'}},
           'mcc': ['230'],
@@ -3667,7 +3634,7 @@ P1_CC2 = \
                               'capital': {'coord': '52 31 N, 13 24 E', 'name': 'Berlin', 'time_diff': 'UTC+1'},
                               'coast': 2389,
                               'coord': ['51 00 N, 9 00 E'],
-                              'popul': 79903481,
+                              'popul': 84316622,
                               'ports': { 'container': 'Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)',
                                          'seaport': '<br /><em>Baltic Sea:</em> Kiel, Rostock<br /><em>North Sea:</em> '
                                                     'Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven'},
@@ -3716,7 +3683,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 36040739, 'fix': 38300000, 'internet': 78810000, 'mob': 107500000},
+                              'subs': {'bb': 36215303, 'fix': 38300000, 'internet': 74844784, 'mob': 107400000},
                               'tld': '.de',
                               'url_tld': 'https://en.wikipedia.org/wiki/.de'}},
           'mcc': ['262'],
@@ -3759,7 +3726,8 @@ P1_CC2 = \
                       '26277',
                       '26278',
                       '26279',
-                      '26292'],
+                      '26292',
+                      '26298'],
           'msisdn': ['49'],
           'name': 'Germany',
           'url': 'https://en.wikipedia.org/wiki/Germany'},
@@ -3771,7 +3739,7 @@ P1_CC2 = \
                               'capital': {'coord': '11 35 N, 43 09 E', 'name': 'Djibouti', 'time_diff': 'UTC+3'},
                               'coast': 314,
                               'coord': ['11 30 N, 43 00 E'],
-                              'popul': 938413,
+                              'popul': 957273,
                               'ports': {'seaport': 'Djibouti'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DJ',
@@ -3822,7 +3790,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 25053, 'fix': 38866, 'internet': 554300, 'mob': 434035},
+                              'subs': {'bb': 25053, 'fix': 38866, 'internet': 582921, 'mob': 434035},
                               'tld': '.dj',
                               'url_tld': 'https://en.wikipedia.org/wiki/.dj'}},
           'mcc': ['638'],
@@ -3838,7 +3806,7 @@ P1_CC2 = \
                               'capital': {'coord': '55 40 N, 12 35 E', 'name': 'Copenhagen', 'time_diff': 'UTC+1'},
                               'coast': 7314,
                               'coord': ['56 00 N, 10 00 E'],
-                              'popul': 5894687,
+                              'popul': 5920767,
                               'ports': {'seaport': 'Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DK',
@@ -3887,7 +3855,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2571736, 'fix': 937469, 'internet': 5690000, 'mob': 7144123},
+                              'subs': {'bb': 2590282, 'fix': 734436, 'internet': 5656462, 'mob': 7252675},
                               'tld': '.dk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.dk'}},
           'mcc': ['238'],
@@ -3933,7 +3901,7 @@ P1_CC2 = \
                               'capital': {'coord': '15 18 N, 61 24 W', 'name': 'Roseau', 'time_diff': 'UTC-4'},
                               'coast': 148,
                               'coord': ['15 25 N, 61 20 W'],
-                              'popul': 74584,
+                              'popul': 74629,
                               'ports': {'seaport': 'Portsmouth, Roseau'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DM',
@@ -3969,7 +3937,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 11514, 'fix': 2660, 'internet': 50200, 'mob': 75771},
+                              'subs': {'bb': 16000, 'fix': 1000, 'internet': 50266, 'mob': 76000},
                               'tld': '.dm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.dm'}},
           'mcc': ['366'],
@@ -3985,7 +3953,7 @@ P1_CC2 = \
                               'capital': {'coord': '18 28 N, 69 54 W', 'name': 'Santo Domingo', 'time_diff': 'UTC-4'},
                               'coast': 1288,
                               'coord': ['19 00 N, 70 40 W'],
-                              'popul': 10597348,
+                              'popul': 10694700,
                               'ports': {'seaport': 'Puerto Haina, Puerto Plata, Santo Domingo'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DO',
@@ -4029,7 +3997,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1031858, 'fix': 1155493, 'internet': 8160000, 'mob': 8989587},
+                              'subs': {'bb': 1031858, 'fix': 1155493, 'internet': 8352886, 'mob': 8989587},
                               'tld': '.do',
                               'url_tld': 'https://en.wikipedia.org/wiki/.do'}},
           'mcc': ['370'],
@@ -4051,7 +4019,7 @@ P1_CC2 = \
                               'capital': {'coord': '36 45 N, 3 03 E', 'name': 'Algiers', 'time_diff': 'UTC+1'},
                               'coast': 998,
                               'coord': ['28 00 N, 3 00 E'],
-                              'popul': 43576691,
+                              'popul': 44178884,
                               'ports': { 'seaport': 'Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, '
                                                     'Oran, Skikda'},
                               'region': 'Africa',
@@ -4101,7 +4069,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3790459, 'fix': 4784306, 'internet': 26350000, 'mob': 45555673},
+                              'subs': {'bb': 3790459, 'fix': 4784306, 'internet': 27626157, 'mob': 45555673},
                               'tld': '.dz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.dz'}},
           'mcc': ['603'],
@@ -4117,7 +4085,7 @@ P1_CC2 = \
                               'capital': {'coord': '0 13 S, 78 30 W', 'name': 'Quito', 'time_diff': 'UTC-5'},
                               'coast': 2237,
                               'coord': ['2 00 S, 77 30 W'],
-                              'popul': 17093159,
+                              'popul': 17289554,
                               'ports': { 'container': 'Guayaquil (1,680,751) (2019)',
                                          'seaport': 'Esmeraldas, Manta, Puerto Bolivar'},
                               'region': 'South America',
@@ -4125,11 +4093,13 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ecuador'},
                      'nameset': ['ecuador', 'republic of ecuador', 'republica del ecuador', 'the republic of ecuador'],
                      'tel': { 'code': '593',
-                              'domestic': [ 'fixed-line services with digital networks provided by multiple '
-                                            'telecommunications operators',
-                                            'fixed-line teledensity stands at about 12 per 100 persons and '
-                                            'mobile-cellular use nearly 88 per 100 persons',
-                                            2019],
+                              'domestic': [ 'according to 2021 statistics from the Ministry of Telecommunications and '
+                                            'Information Society, 50 percent of Ecuadorian homes do not have access to '
+                                            "fixed internet. Ecuador's telecoms regulator, ARCOTEL is currently "
+                                            'evaluating and reorganizing the 3.5GHz, 2.5 GHz, 700 MHz and AWS spectrum '
+                                            'for future government tenders. 2G/3G technologies have a 91.11 percent of '
+                                            'penetration and 4G technologies has 60.74 percent (2021).',
+                                            2021],
                               'general': [ "Ecuador's remote and mountainous geography lends challenges to "
                                            'tele-density',
                                            'government-owned provider to improve fixed-line and LTE infrastructure, '
@@ -4137,25 +4107,15 @@ P1_CC2 = \
                                            'installation of a 5G network',
                                            'small telecom market dominated by the non-competitive mobile sector',
                                            'inadequate fixed-line infrastructure and slowed fixed-line broadband '
-                                           'services',
+                                           'services (2020).',
                                            2020],
-                              'intl': [ 'landing points for the PAN-AM, PCCS, America Movil-Telxius West Coast Cable '
-                                        'and SAm-1 submarine cables that provide links to South and Central America, '
-                                        'and extending onward to the Caribbean and the US',
+                              'intl': [ 'landing points for the SPSC (Mistral Submarine Cable), Panamerican Cable '
+                                        'System (PAN-AM), Pacific Caribbean Cable System (PCCS), America Movil-Telxius '
+                                        'West Coast Cable and SAm-1 submarine (SAm-1) cables that provide links to '
+                                        'South and Central America, and extending onward to the Caribbean and the US',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
-                                        'and supply chains globally',
-                                        'since 2020, some aspects of the telecom sector have experienced downturn, '
-                                        'particularly in mobile device production',
-                                        'many network operators delayed upgrades to infrastructure',
-                                        'progress towards 5G implementation was postponed or slowed in some countries',
-                                        'consumer spending on telecom services and devices was affected by large-scale '
-                                        'job losses and the consequent restriction on disposable incomes',
-                                        'the crucial nature of telecom services as a tool for work and school from '
-                                        'home became evident, and received some support from governments',
-                                        0],
-                              'subs': {'bb': 2346923, 'fix': 2063044, 'internet': 10170000, 'mob': 15485366},
+                              'subs': {'bb': 2371297, 'fix': 2063044, 'internet': 11467989, 'mob': 15485366},
                               'tld': '.ec',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ec'}},
           'mcc': ['740'],
@@ -4171,7 +4131,7 @@ P1_CC2 = \
                               'capital': {'coord': '59 26 N, 24 43 E', 'name': 'Tallinn', 'time_diff': 'UTC+2'},
                               'coast': 3794,
                               'coord': ['59 00 N, 26 00 E'],
-                              'popul': 1220042,
+                              'popul': 1211524,
                               'ports': {'seaport': 'Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EE',
@@ -4219,7 +4179,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 415610, 'fix': 304728, 'internet': 1210000, 'mob': 1925789},
+                              'subs': {'bb': 415610, 'fix': 304728, 'internet': 1183236, 'mob': 1925789},
                               'tld': '.ee',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ee'}},
           'mcc': ['248'],
@@ -4247,6 +4207,7 @@ P1_CC2 = \
                       '24822',
                       '24824',
                       '24825',
+                      '24826',
                       '24871'],
           'msisdn': ['372'],
           'name': 'Estonia',
@@ -4260,7 +4221,7 @@ P1_CC2 = \
                               'capital': {'coord': '30 03 N, 31 15 E', 'name': 'Cairo', 'time_diff': 'UTC+2'},
                               'coast': 2450,
                               'coord': ['27 00 N, 30 00 E'],
-                              'popul': 106437241,
+                              'popul': 107770524,
                               'ports': { 'container': 'Port Said (East) (3,816,084) (2019)',
                                          'seaport': 'Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said'},
                               'region': 'Africa',
@@ -4305,7 +4266,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 9349469, 'fix': 9858331, 'internet': 59190000, 'mob': 95357427},
+                              'subs': {'bb': 9349469, 'fix': 9858331, 'internet': 73680770, 'mob': 95357427},
                               'tld': '.eg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.eg'}},
           'mcc': ['602'],
@@ -4334,7 +4295,7 @@ P1_CC2 = \
                               'capital': {'coord': '15 20 N, 38 56 E', 'name': 'Asmara', 'time_diff': 'UTC+3'},
                               'coast': 2234,
                               'coord': ['15 00 N, 39 00 E'],
-                              'popul': 6147398,
+                              'popul': 6209262,
                               'ports': {'seaport': 'Assab, Massawa'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ER',
@@ -4366,7 +4327,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1000, 'fix': 66170, 'internet': 248200, 'mob': 695000},
+                              'subs': {'bb': 5000, 'fix': 66000, 'internet': 53200, 'mob': 1801000},
                               'tld': '.er',
                               'url_tld': 'https://en.wikipedia.org/wiki/.er'}},
           'mcc': ['657'],
@@ -4388,7 +4349,7 @@ P1_CC2 = \
                               'capital': {'coord': '40 24 N, 3 41 W', 'name': 'Madrid', 'time_diff': 'UTC+1'},
                               'coast': 4964,
                               'coord': ['40 00 N, 4 00 W'],
-                              'popul': 47260584,
+                              'popul': 47163418,
                               'ports': { 'container': 'Algeciras (5,125,385), Barcelona (3,324,650), Valencia '
                                                       '(5,439,827) (2019)',
                                          'seaport': '<br /><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa '
@@ -4432,7 +4393,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 15850358, 'fix': 19455779, 'internet': 42540000, 'mob': 55644651},
+                              'subs': {'bb': 16188502, 'fix': 19455658, 'internet': 44047980, 'mob': 55354900},
                               'tld': '.es',
                               'url_tld': 'https://en.wikipedia.org/wiki/.es'}},
           'mcc': ['214'],
@@ -4491,7 +4452,7 @@ P1_CC2 = \
                                          'len': 5925},
                               'capital': {'coord': '9 02 N, 38 42 E', 'name': 'Addis Ababa', 'time_diff': 'UTC+3'},
                               'coord': ['8 00 N, 38 00 E'],
-                              'popul': 110871031,
+                              'popul': 113656596,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ET',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ethiopia'},
@@ -4537,7 +4498,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 62950, 'fix': 1140000, 'internet': 23960000, 'mob': 39540000},
+                              'subs': {'bb': 212000, 'fix': 1252000, 'internet': 27591260, 'mob': 44500000},
                               'tld': '.et',
                               'url_tld': 'https://en.wikipedia.org/wiki/.et'}},
           'mcc': ['636'],
@@ -4553,7 +4514,7 @@ P1_CC2 = \
                               'capital': {'coord': '60 10 N, 24 56 E', 'name': 'Helsinki', 'time_diff': 'UTC+2'},
                               'coast': 1250,
                               'coord': ['64 00 N, 26 00 E'],
-                              'popul': 5587442,
+                              'popul': 5601547,
                               'ports': {'seaport': 'Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FI',
@@ -4595,7 +4556,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1846000, 'fix': 225000, 'internet': 5270000, 'mob': 7120000},
+                              'subs': {'bb': 1846000, 'fix': 225000, 'internet': 5087180, 'mob': 7120000},
                               'tld': '.fi',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fi'}},
           'mcc': ['244'],
@@ -4671,7 +4632,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+12'},
                               'coast': 1129,
                               'coord': ['18 00 S, 175 00 E'],
-                              'popul': 939535,
+                              'popul': 943737,
                               'ports': {'seaport': 'Lautoka, Levuka, Suva'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FJ',
@@ -4714,7 +4675,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 13033, 'fix': 76522, 'internet': 634100, 'mob': 1033920},
+                              'subs': {'bb': 23062, 'fix': 48510, 'internet': 444978, 'mob': 991500},
                               'tld': '.fj',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fj'}},
           'mcc': ['542'],
@@ -4746,7 +4707,7 @@ P1_CC2 = \
                               'intl': [ 'satellite earth station - 1 Intelsat (Atlantic Ocean) with links through '
                                         'London to other countries',
                                         2015],
-                              'subs': {'bb': 1000, 'fix': 2000, 'internet': 3393, 'mob': 5000},
+                              'subs': {'bb': 1000, 'fix': 2000, 'internet': 3343, 'mob': 5000},
                               'tld': '.fk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fk'}},
           'mcc': ['750'],
@@ -4762,7 +4723,7 @@ P1_CC2 = \
                               'capital': {'coord': '6 55 N, 158 09 E', 'name': 'Palikir', 'time_diff': 'UTC+11'},
                               'coast': 6112,
                               'coord': ['6 55 N, 158 15 E'],
-                              'popul': 101675,
+                              'popul': 101009,
                               'ports': {'seaport': 'Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FM',
@@ -4794,7 +4755,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3776, 'fix': 6947, 'internet': 40800, 'mob': 23114},
+                              'subs': {'bb': 6000, 'fix': 7000, 'internet': 39834, 'mob': 22000},
                               'tld': '.fm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fm'}},
           'mcc': ['550'],
@@ -4810,7 +4771,7 @@ P1_CC2 = \
                               'capital': {'coord': '62 00 N, 6 46 W', 'name': 'Torshavn', 'time_diff': 'UTC 0'},
                               'coast': 1117,
                               'coord': ['62 00 N, 7 00 W'],
-                              'popul': 51943,
+                              'popul': 52269,
                               'ports': {'seaport': 'Fuglafjordur, Torshavn, Vagur'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FO',
@@ -4841,7 +4802,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 18443, 'fix': 15341, 'internet': 47800, 'mob': 59003},
+                              'subs': {'bb': 18443, 'fix': 15341, 'internet': 47703, 'mob': 59213},
                               'tld': '.fo',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fo'}},
           'mcc': ['288'],
@@ -4874,7 +4835,7 @@ P1_CC2 = \
                                          ('Martinique', '14 40 N, 61 00 W'),
                                          ('Mayotte', '12 50 S, 45 10 E'),
                                          ('Reunion', '21 06 S, 55 36 E')],
-                              'popul': 68084217,
+                              'popul': 68305148,
                               'ports': { 'container': 'Le Havre (2,822,910) (2019)',
                                          'ferry': 'Calais, Cherbourg, Le Havre',
                                          'seaport': '<br /><em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le '
@@ -4938,7 +4899,7 @@ P1_CC2 = \
                                                         'Asia, South and East Africa, Southeast Asia and nearby Indian '
                                                         'Ocean Island countries of Mauritius, and Madagascar',
                                                         2019],
-                              'subs': {'bb': 30627000, 'fix': 37759000, 'internet': 59470000, 'mob': 72751000},
+                              'subs': {'bb': 30627000, 'fix': 37759000, 'internet': 57272921, 'mob': 72751000},
                               'tld': '.fr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.fr'}},
           'mcc': ['208'],
@@ -4983,6 +4944,8 @@ P1_CC2 = \
                       '20838',
                       '20839',
                       '208500',
+                      '208501',
+                      '208502',
                       '208700',
                       '208701',
                       '208702',
@@ -5025,7 +4988,7 @@ P1_CC2 = \
                               'capital': {'coord': '0 23 N, 9 27 E', 'name': 'Libreville', 'time_diff': 'UTC+1'},
                               'coast': 885,
                               'coord': ['1 00 S, 11 45 E'],
-                              'popul': 2284912,
+                              'popul': 2340613,
                               'ports': {'seaport': 'Libreville, Owendo, Port-Gentil'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GA',
@@ -5065,7 +5028,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 44607, 'fix': 25428, 'internet': 1400000, 'mob': 3088742},
+                              'subs': {'bb': 44607, 'fix': 25428, 'internet': 1379951, 'mob': 3049530},
                               'tld': '.ga',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ga'}},
           'mcc': ['628'],
@@ -5083,7 +5046,7 @@ P1_CC2 = \
                                      'code UK in lieu of the ISO 3166-2 code of GB',
                               'coast': 12429,
                               'coord': ['54 00 N, 2 00 W'],
-                              'popul': 67081000,
+                              'popul': 67791400,
                               'ports': { 'container': 'Felixstowe (3,584,000), London (2,790,000), Southampton '
                                                       '(1,924,847) (2019)',
                                          'seaport': 'Dover, Felixstowe, Immingham, Liverpool, London, Southampton, '
@@ -5144,7 +5107,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 27490258, 'fix': 32078000, 'internet': 65319999, 'mob': 79007000},
+                              'subs': {'bb': 27330297, 'fix': 32037000, 'internet': 63854528, 'mob': 80967000},
                               'tld': '.gb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gb'}},
           'mcc': ['234', '235'],
@@ -5234,7 +5197,7 @@ P1_CC2 = \
                               'capital': {'coord': '12 03 N, 61 45 W', 'name': "Saint George's", 'time_diff': 'UTC-4'},
                               'coast': 121,
                               'coord': ['12 07 N, 61 40 W'],
-                              'popul': 113570,
+                              'popul': 113949,
                               'ports': {'seaport': "Saint George's"},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GD',
@@ -5266,7 +5229,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 25577, 'fix': 32491, 'internet': 66600, 'mob': 113177},
+                              'subs': {'bb': 32000, 'fix': 16000, 'internet': 64136, 'mob': 122000},
                               'tld': '.gd',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gd'}},
           'mcc': ['352'],
@@ -5283,8 +5246,8 @@ P1_CC2 = \
                               'capital': {'coord': '41 41 N, 44 50 E', 'name': 'Tbilisi', 'time_diff': 'UTC+4'},
                               'coast': 310,
                               'coord': ['42 00 N, 43 30 E'],
-                              'popul': 4933674,
-                              'ports': {'seaport': "Black Sea - Bat'umi, P'ot'i"},
+                              'popul': 4935518,
+                              'ports': {'seaport': 'Black Sea - Batumi, Poti'},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GE',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/georgia'},
@@ -5325,7 +5288,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 997785, 'fix': 378498, 'internet': 2740000, 'mob': 5100101},
+                              'subs': {'bb': 972162, 'fix': 387698, 'internet': 2717583, 'mob': 5100101},
                               'tld': '.ge',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ge'}},
           'mcc': ['282'],
@@ -5368,7 +5331,7 @@ P1_CC2 = \
                               'capital': {'coord': '49 27 N, 2 32 W', 'name': 'Saint Peter Port', 'time_diff': 'UTC 0'},
                               'coast': 50,
                               'coord': ['49 28 N, 2 35 W'],
-                              'popul': 67334,
+                              'popul': 67491,
                               'ports': {'seaport': 'Braye Bay, Saint Peter Port'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GG',
@@ -5394,7 +5357,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 25336, 'fix': 33940, 'internet': 54600, 'mob': 71622},
+                              'subs': {'bb': 25336, 'fix': 33940, 'internet': 54726, 'mob': 43824},
                               'tld': '.gg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gg'}},
           'mcc': ['234'],
@@ -5410,33 +5373,33 @@ P1_CC2 = \
                               'capital': {'coord': '5 33 N, 0 13 W', 'name': 'Accra', 'time_diff': 'UTC 0'},
                               'coast': 539,
                               'coord': ['8 00 N, 2 00 W'],
-                              'popul': 32372889,
+                              'popul': 33107275,
                               'ports': {'seaport': 'Takoradi, Tema'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GH',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ghana'},
                      'nameset': ['ghana', 'republic of ghana', 'the republic of ghana'],
                      'tel': { 'code': '233',
-                              'domestic': [ 'fixed-line about 1 per 100 subscriptions',
+                              'domestic': [ 'fixed-line data about 1 per 100 subscriptions',
                                             'competition among multiple mobile-cellular providers has spurred growth '
-                                            'with a subscribership of more than 130 per 100 persons',
+                                            'with a voice subscribership of more than 130 per 100 persons',
                                             2020],
-                              'general': [ 'challenged by unreliable electricity, Ghana seeks to extend telecom '
-                                           'services nationally',
-                                           'investment in fiber infrastructure enabled 600 additional towers to '
-                                           'provide basic mobile services',
+                              'general': [ 'challenged by unreliable electricity and shortage of skilled labor, Ghana '
+                                           'seeks to extend telecom services nationally',
+                                           'investment in fiber infrastructure and off-grid solutions provide data '
+                                           'coverage to over 23 million people',
                                            'launch of LTE has improved mobile data services, including m-commerce and '
                                            'banking',
-                                           'highly competitive Internet market, most through mobile networks',
+                                           'moderately competitive Internet market, most through mobile networks',
                                            'international submarine cables, and terrestrial cables have improved '
-                                           'Internet capacity and reduced prices',
+                                           'Internet capacity',
                                            2020],
                               'intl': [ 'landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic '
                                         'submarine cables that provide connectivity to South and West Africa, and '
                                         'Europe',
                                         'satellite earth stations - 4 Intelsat (Atlantic Ocean)',
                                         'microwave radio relay link to Panaftel system connects Ghana to its neighbors',
-                                        'Ghana-1 satellite launched in 2020',
+                                        'GhanaSat-1 nanosatellite launched in 2017',
                                         2019],
                               'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
@@ -5449,7 +5412,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 78371, 'fix': 307668, 'internet': 15700000, 'mob': 40461609},
+                              'subs': {'bb': 78371, 'fix': 307668, 'internet': 18022308, 'mob': 40461609},
                               'tld': '.gh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gh'}},
           'mcc': ['620'],
@@ -5481,7 +5444,7 @@ P1_CC2 = \
                               'capital': {'coord': '36 08 N, 5 21 W', 'name': 'Gibraltar', 'time_diff': 'UTC+1'},
                               'coast': 12,
                               'coord': ['36 08 N, 5 21 W'],
-                              'popul': 29516,
+                              'popul': 29573,
                               'ports': {'seaport': 'Gibraltar'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GI',
@@ -5501,7 +5464,7 @@ P1_CC2 = \
                                         'microwave radio relay',
                                         'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                         2019],
-                              'subs': {'bb': 19497, 'fix': 16968, 'internet': 31800, 'mob': 40537},
+                              'subs': {'bb': 21009, 'fix': 17041, 'internet': 31684, 'mob': 35438},
                               'tld': '.gi',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gi'}},
           'mcc': ['266'],
@@ -5517,7 +5480,7 @@ P1_CC2 = \
                               'capital': {'coord': '64 11 N, 51 45 W', 'name': 'Nuuk (Godthaab)', 'time_diff': 'UTC-3'},
                               'coast': 44087,
                               'coord': ['72 00 N, 40 00 W'],
-                              'popul': 57799,
+                              'popul': 57792,
                               'ports': {'seaport': 'Sisimiut'},
                               'region': 'Arctic Region',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GL',
@@ -5553,7 +5516,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 14404, 'fix': 7133, 'internet': 39500, 'mob': 61656},
+                              'subs': {'bb': 15649, 'fix': 6352, 'internet': 39358, 'mob': 65958},
                               'tld': '.gl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gl'}},
           'mcc': ['290'],
@@ -5569,7 +5532,7 @@ P1_CC2 = \
                               'capital': {'coord': '13 27 N, 16 34 W', 'name': 'Banjul', 'time_diff': 'UTC 0'},
                               'coast': 80,
                               'coord': ['13 28 N, 16 34 W'],
-                              'popul': 2221301,
+                              'popul': 2413403,
                               'ports': {'seaport': 'Banjul'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GM',
@@ -5607,7 +5570,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4433, 'fix': 44000, 'internet': 580200, 'mob': 2677954},
+                              'subs': {'bb': 5000, 'fix': 60000, 'internet': 894166, 'mob': 2677954},
                               'tld': '.gm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gm'}},
           'mcc': ['607'],
@@ -5629,7 +5592,7 @@ P1_CC2 = \
                               'capital': {'coord': '9 30 N, 13 42 W', 'name': 'Conakry', 'time_diff': 'UTC 0'},
                               'coast': 320,
                               'coord': ['11 00 N, 10 00 W'],
-                              'popul': 12877894,
+                              'popul': 13237832,
                               'ports': {'seaport': 'Conakry, Kamsar'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GN',
@@ -5670,7 +5633,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1250, 'internet': 2910000, 'mob': 12873000},
+                              'subs': {'bb': 1000, 'internet': 3414526, 'mob': 13795000},
                               'tld': '.gn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gn'}},
           'mcc': ['611'],
@@ -5695,13 +5658,13 @@ P1_CC2 = \
                      'geo': { 'airports': 7,
                               'bound': {'bord': {'Cameroon': 183, 'Gabon': 345}, 'len': 528},
                               'capital': { 'coord': '3 45 N, 8 47 E',
-                                           'name': 'Malabo; note - a new capital of Cuidad de la Paz (formerly '
+                                           'name': 'Malabo; note - a new capital of Ciudad de la Paz (formerly '
                                                    'referred to as Oyala) is being built on the mainland near '
                                                    'Djibloho; Malabo is on the island of Bioko',
                                            'time_diff': 'UTC+1'},
                               'coast': 296,
                               'coord': ['2 00 N, 10 00 E'],
-                              'popul': 857008,
+                              'popul': 1679172,
                               'ports': {'seaport': 'Bata, Luba, Malabo'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GQ',
@@ -5738,7 +5701,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1620, 'fix': 10848, 'internet': 374200, 'mob': 591223},
+                              'subs': {'bb': 1000, 'fix': 11000, 'internet': 352555, 'mob': 645000},
                               'tld': '.gq',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gq'}},
           'mcc': ['627'],
@@ -5760,7 +5723,7 @@ P1_CC2 = \
                                      'code EL in lieu of the ISO 3166-2 code of GR',
                               'coast': 13676,
                               'coord': ['39 00 N, 22 00 E'],
-                              'popul': 10569703,
+                              'popul': 10533871,
                               'ports': { 'container': 'Piraeus (5,648,000) (2019)',
                                          'seaport': 'Aspropyrgos, Pachi, Piraeus, Thessaloniki'},
                               'region': 'Europe',
@@ -5807,7 +5770,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4257026, 'fix': 4743310, 'internet': 8390000, 'mob': 11412995},
+                              'subs': {'bb': 4257026, 'fix': 5028332, 'internet': 8346434, 'mob': 11412995},
                               'tld': '.gr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gr'}},
           'mcc': ['202'],
@@ -5855,7 +5818,7 @@ P1_CC2 = \
                               'capital': {'coord': '14 37 N, 90 31 W', 'name': 'Guatemala City', 'time_diff': 'UTC-6'},
                               'coast': 400,
                               'coord': ['15 30 N, 90 15 W'],
-                              'popul': 17422821,
+                              'popul': 17703190,
                               'ports': {'seaport': 'Puerto Quetzal, Santo Tomas de Castilla'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GT',
@@ -5896,7 +5859,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 531000, 'fix': 2272467, 'internet': 11750000, 'mob': 20390671},
+                              'subs': {'bb': 612000, 'fix': 2272467, 'internet': 8429167, 'mob': 20390671},
                               'tld': '.gt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gt'}},
           'mcc': ['704'],
@@ -5914,7 +5877,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+10'},
                               'coast': 125,
                               'coord': ['13 28 N, 144 47 E'],
-                              'popul': 168801,
+                              'popul': 169086,
                               'ports': {'seaport': 'Apra Harbor'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GU',
@@ -5946,7 +5909,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3000, 'fix': 68000, 'internet': 136500, 'mob': 98000},
+                              'subs': {'bb': 3000, 'fix': 70000, 'internet': 135509, 'mob': 98000},
                               'tld': '.gu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gu'}},
           'mcc': ['310', '311'],
@@ -5978,7 +5941,7 @@ P1_CC2 = \
                               'capital': {'coord': '11 51 N, 15 35 W', 'name': 'Bissau', 'time_diff': 'UTC 0'},
                               'coast': 350,
                               'coord': ['12 00 N, 15 00 W'],
-                              'popul': 1976187,
+                              'popul': 2026778,
                               'ports': {'seaport': 'Bissau, Buba, Cacheu, Farim'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GW',
@@ -5996,7 +5959,7 @@ P1_CC2 = \
                                            'lines, radiotelephone, and mobile cellular communications',
                                            '2 mobile network operators',
                                            'one of the poorest countries in the world and this is reflected in the '
-                                           'countries telecommunications development',
+                                           "country's telecommunications development",
                                            'radio is the most important source of information for the public',
                                            2020],
                               'intl': [ 'ACE submarine cable connecting Guinea-Bissau with 20 landing points in '
@@ -6013,7 +5976,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2383, 'internet': 250000, 'mob': 1913858},
+                              'subs': {'bb': 2383, 'internet': 452640, 'mob': 1913858},
                               'tld': '.gw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gw'}},
           'mcc': ['632'],
@@ -6029,7 +5992,7 @@ P1_CC2 = \
                               'capital': {'coord': '6 48 N, 58 09 W', 'name': 'Georgetown', 'time_diff': 'UTC-4'},
                               'coast': 459,
                               'coord': ['5 00 N, 59 00 W'],
-                              'popul': 787971,
+                              'popul': 789683,
                               'ports': {'seaport': 'Georgetown'},
                               'region': 'South America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GY',
@@ -6066,11 +6029,11 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 64889, 'fix': 135795, 'internet': 294300, 'mob': 643210},
+                              'subs': {'bb': 95000, 'fix': 125000, 'internet': 289627, 'mob': 856000},
                               'tld': '.gy',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gy'}},
           'mcc': ['738'],
-          'mccmnc': ['738002', '738003', '73801', '73802', '73805'],
+          'mccmnc': ['73800', '738002', '738003', '73801', '73802', '73805'],
           'msisdn': ['592'],
           'name': 'Guyana',
           'url': 'https://en.wikipedia.org/wiki/Guyana'},
@@ -6081,7 +6044,7 @@ P1_CC2 = \
                               'bound': {'bord': {'China': 33}, 'len': 33},
                               'coast': 733,
                               'coord': ['22 15 N, 114 10 E'],
-                              'popul': 7263234,
+                              'popul': 7276588,
                               'ports': {'container': 'Hong Kong (18,361,000) (2019)', 'seaport': 'Hong Kong'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HK',
@@ -6113,13 +6076,12 @@ P1_CC2 = \
                                            'US prevented use of Pacific Light submarine cable network due to security '
                                            'issues',
                                            2020],
-                              'intl': [ 'landing points for the APG, ASE, EAC-C2C, HK-G, Bay-to-Bay Express Cable '
-                                        'System, H2 Cable, HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, APCN-2, AAG, FLAG '
-                                        'and FEA submarine cables that provide connections to Asia, US, Australia, the '
-                                        'Middle East, and Europe',
+                              'intl': [ 'landing points for the AAE-1, AAG, APCN-2, APG, ASE, FEA, FNAL, RNAL, H2HE, '
+                                        'SeaMeWe-3, SJC and TGN-IA submarine cables that provide connections to Asia, '
+                                        'US, Australia, the Middle East, and Europe',
                                         'satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean)',
                                         'coaxial cable to Guangzhou, China',
-                                        2019],
+                                        2022],
                               'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
                                         'since 2020, some aspects of the telecom sector have experienced downturn, '
@@ -6131,7 +6093,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2871081, 'fix': 3934129, 'internet': 6920000, 'mob': 21865215},
+                              'subs': {'bb': 2885586, 'fix': 3900599, 'internet': 6883256, 'mob': 21865215},
                               'tld': '.hk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hk'}},
           'mcc': ['454'],
@@ -6208,7 +6170,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC-6'},
                               'coast': 823,
                               'coord': ['15 00 N, 86 30 W'],
-                              'popul': 9346277,
+                              'popul': 9459440,
                               'ports': {'seaport': 'La Ceiba, Puerto Cortes, San Lorenzo, Tela'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HN',
@@ -6241,7 +6203,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 396454, 'fix': 531763, 'internet': 3810000, 'mob': 6960654},
+                              'subs': {'bb': 396916, 'fix': 531763, 'internet': 4159935, 'mob': 6960654},
                               'tld': '.hn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hn'}},
           'mcc': ['708'],
@@ -6262,7 +6224,7 @@ P1_CC2 = \
                               'capital': {'coord': '45 48 N, 16 00 E', 'name': 'Zagreb', 'time_diff': 'UTC+1'},
                               'coast': 5835,
                               'coord': ['45 10 N, 15 30 E'],
-                              'popul': 4208973,
+                              'popul': 4188853,
                               'ports': {'seaport': 'Ploce, Rijeka, Sibenik, Split'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HR',
@@ -6303,7 +6265,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1030973, 'fix': 1300105, 'internet': 3270000, 'mob': 4375699},
+                              'subs': {'bb': 1030973, 'fix': 1299329, 'internet': 3157190, 'mob': 4375699},
                               'tld': '.hr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hr'}},
           'mcc': ['219'],
@@ -6319,7 +6281,7 @@ P1_CC2 = \
                               'capital': {'coord': '18 32 N, 72 20 W', 'name': 'Port-au-Prince', 'time_diff': 'UTC-5'},
                               'coast': 1771,
                               'coord': ['19 00 N, 72 25 W'],
-                              'popul': 11198240,
+                              'popul': 11334637,
                               'ports': {'seaport': 'Cap-Haitien, Gonaives, Jacmel, Port-au-Prince'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HT',
@@ -6339,7 +6301,7 @@ P1_CC2 = \
                               'general': [ 'plagued by political and economic turmoil complicated by natural '
                                            "disasters, Haiti's telecommunications infrastructure is among the "
                                            'least-developed in the world',
-                                           'reliance on satellite and wireless mobile technology due to poor '
+                                           'it relies on satellite and wireless mobile technology due to poor '
                                            'fixed-line infrastructure',
                                            'investment boosted broadband availability though customer base is poor and '
                                            'theft of equipment remains problematic',
@@ -6362,7 +6324,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 31100, 'fix': 5952, 'internet': 4280000, 'mob': 6843380},
+                              'subs': {'bb': 31000, 'fix': 6000, 'internet': 3990887, 'mob': 7319000},
                               'tld': '.ht',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ht'}},
           'mcc': ['372'],
@@ -6384,7 +6346,7 @@ P1_CC2 = \
                                          'len': 2106},
                               'capital': {'coord': '47 30 N, 19 05 E', 'name': 'Budapest', 'time_diff': 'UTC+1'},
                               'coord': ['47 00 N, 20 00 E'],
-                              'popul': 9728337,
+                              'popul': 9699577,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HU',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/hungary'},
@@ -6425,7 +6387,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3265308, 'fix': 2970347, 'internet': 8010000, 'mob': 10332660},
+                              'subs': {'bb': 3265308, 'fix': 2970347, 'internet': 8287626, 'mob': 10332660},
                               'tld': '.hu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.hu'}},
           'mcc': ['216'],
@@ -6447,7 +6409,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+7'},
                               'coast': 54716,
                               'coord': ['5 00 S, 120 00 E'],
-                              'popul': 275122131,
+                              'popul': 277329163,
                               'ports': { 'container': 'Tanjung Perak (3,900,000), Tanjung Priok (7,600,000) (2019)',
                                          'seaport': 'Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, '
                                                     'Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok'},
@@ -6494,7 +6456,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 10713107, 'fix': 9186370, 'internet': 202600000, 'mob': 355748606},
+                              'subs': {'bb': 11722218, 'fix': 9662135, 'internet': 147702755, 'mob': 355620388},
                               'tld': '.id',
                               'url_tld': 'https://en.wikipedia.org/wiki/.id'}},
           'mcc': ['510'],
@@ -6525,7 +6487,7 @@ P1_CC2 = \
                               'capital': {'coord': '53 19 N, 6 14 W', 'name': 'Dublin', 'time_diff': 'UTC 0'},
                               'coast': 1448,
                               'coord': ['53 00 N, 8 00 W'],
-                              'popul': 5224884,
+                              'popul': 5275004,
                               'ports': {'container': 'Dublin (529,563) (2016)', 'seaport': 'Dublin, Shannon Foynes'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IE',
@@ -6561,7 +6523,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1516252, 'fix': 1678651, 'internet': 4510000, 'mob': 5234027},
+                              'subs': {'bb': 1516473, 'fix': 1678651, 'internet': 4586820, 'mob': 5234027},
                               'tld': '.ie',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ie'}},
           'mcc': ['272'],
@@ -6602,7 +6564,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+2'},
                               'coast': 273,
                               'coord': ['31 30 N, 34 45 E'],
-                              'popul': 8787045,
+                              'popul': 8914885,
                               'ports': { 'container': 'Ashdod (1,584,000) (2019)',
                                          'seaport': 'Ashdod, Elat (Eilat), Hadera, Haifa'},
                               'region': 'Middle East',
@@ -6642,7 +6604,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2602079, 'fix': 3080000, 'internet': 7680000, 'mob': 11400000},
+                              'subs': {'bb': 2602079, 'fix': 3370000, 'internet': 8293590, 'mob': 12270000},
                               'tld': '.il',
                               'url_tld': 'https://en.wikipedia.org/wiki/.il'}},
           'mcc': ['425'],
@@ -6672,6 +6634,7 @@ P1_CC2 = \
                       '42524',
                       '42525',
                       '42526',
+                      '42527',
                       '42528',
                       '42529',
                       '42577'],
@@ -6686,7 +6649,7 @@ P1_CC2 = \
                               'capital': {'coord': '54 09 N, 4 29 W', 'name': 'Douglas', 'time_diff': 'UTC 0'},
                               'coast': 160,
                               'coord': ['54 15 N, 4 30 W'],
-                              'popul': 90895,
+                              'popul': 91382,
                               'ports': {'seaport': 'Douglas, Ramsey'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IM',
@@ -6708,7 +6671,6 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'internet': 63500},
                               'tld': '.im',
                               'url_tld': 'https://en.wikipedia.org/wiki/.im'}},
           'mcc': ['234'],
@@ -6730,7 +6692,7 @@ P1_CC2 = \
                               'capital': {'coord': '28 36 N, 77 12 E', 'name': 'New Delhi', 'time_diff': 'UTC+5.5'},
                               'coast': 7000,
                               'coord': ['20 00 N, 77 00 E'],
-                              'popul': 1339330514,
+                              'popul': 1389637446,
                               'ports': { 'container': 'Jawaharal Nehru Port (5,100,891), Mundra (4,732,699) (2019)',
                                          'seaport': 'Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai '
                                                     '(Bombay), Sikka, Vishakhapatnam'},
@@ -6753,7 +6715,7 @@ P1_CC2 = \
                                             "fiber-optic cable and one of the world's largest domestic satellite "
                                             'systems, the Indian National Satellite system (INSAT), with 6 satellites '
                                             'supporting 33,000 (very small aperture terminals) VSAT',
-                                            2020],
+                                            2022],
                               'general': [ 'supported by deregulation, India is one of the fastest-growing telecom '
                                            'markets in the world',
                                            'implementation of 4G/LTE',
@@ -6768,16 +6730,16 @@ P1_CC2 = \
                                            'infrastructure, sustainable environment, and quality of life through '
                                            'economic growth and competition, including focus on social, economic, and '
                                            'institutional pillars',
-                                           2020],
+                                           2022],
                               'intl': [ 'a number of major international submarine cable systems, including '
                                         'SEA-ME-WE-3 & 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, SEACOM/ '
                                         'Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman '
                                         '& Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn that provide '
                                         'connectivity to Europe, Africa, Asia, the Middle East, South East Asia, '
                                         'numerous Indian Ocean islands including Australia',
-                                        'satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian '
-                                        'Ocean region',
-                                        2019],
+                                        'satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat',
+                                        'Indian Ocean region',
+                                        2022],
                               'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
                                         'since 2020, some aspects of the telecom sector have experienced downturn, '
@@ -6789,7 +6751,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 22290000, 'fix': 20052162, 'internet': 624000000, 'mob': 1153709832},
+                              'subs': {'bb': 22950000, 'fix': 20052162, 'internet': 593400000, 'mob': 1},
                               'tld': '.in',
                               'url_tld': 'https://en.wikipedia.org/wiki/.in'}},
           'mcc': ['404', '405', '406'],
@@ -7157,7 +7119,7 @@ P1_CC2 = \
                               'capital': {'coord': '33 20 N, 44 24 E', 'name': 'Baghdad', 'time_diff': 'UTC+3'},
                               'coast': 58,
                               'coord': ['33 00 N, 44 00 E'],
-                              'popul': 39650145,
+                              'popul': 40462701,
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IQ',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/iraq'},
@@ -7201,7 +7163,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 5453799, 'fix': 4166461, 'internet': 30520000, 'mob': 36946600},
+                              'subs': {'bb': 6254099, 'fix': 2699758, 'internet': 24133502, 'mob': 37475325},
                               'tld': '.iq',
                               'url_tld': 'https://en.wikipedia.org/wiki/.iq'}},
           'mcc': ['418'],
@@ -7249,7 +7211,7 @@ P1_CC2 = \
                               'capital': {'coord': '35 42 N, 51 25 E', 'name': 'Tehran', 'time_diff': 'UTC+3.5'},
                               'coast': 2440,
                               'coord': ['32 00 N, 53 00 E'],
-                              'popul': 85888910,
+                              'popul': 86758304,
                               'ports': { 'container': 'Bandar Abbas',
                                          'seaport': 'Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni'},
                               'region': 'Middle East',
@@ -7296,7 +7258,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 9564195, 'fix': 29093587, 'internet': 59160000, 'mob': 127624951},
+                              'subs': {'bb': 9564195, 'fix': 29093587, 'internet': 75594081, 'mob': 127624951},
                               'tld': '.ir',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ir'}},
           'mcc': ['432'],
@@ -7332,7 +7294,7 @@ P1_CC2 = \
                               'capital': {'coord': '64 09 N, 21 57 W', 'name': 'Reykjavik', 'time_diff': 'UTC 0'},
                               'coast': 4970,
                               'coord': ['65 00 N, 18 00 W'],
-                              'popul': 354234,
+                              'popul': 357603,
                               'ports': {'seaport': 'Grundartangi, Hafnarfjordur, Reykjavik'},
                               'region': 'Arctic Region',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IS',
@@ -7376,7 +7338,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 141816, 'fix': 107032, 'internet': 338900, 'mob': 421384},
+                              'subs': {'bb': 141816, 'fix': 107032, 'internet': 362798, 'mob': 421384},
                               'tld': '.is',
                               'url_tld': 'https://en.wikipedia.org/wiki/.is'}},
           'mcc': ['274'],
@@ -7413,7 +7375,7 @@ P1_CC2 = \
                               'capital': {'coord': '41 54 N, 12 29 E', 'name': 'Rome', 'time_diff': 'UTC+1'},
                               'coast': 7600,
                               'coord': ['42 50 N, 12 50 E'],
-                              'popul': 62390364,
+                              'popul': 61095551,
                               'ports': { 'container': 'Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)',
                                          'seaport': 'Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice'},
                               'region': 'Europe',
@@ -7454,7 +7416,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 17855620, 'fix': 19430559, 'internet': 50540000, 'mob': 77796840},
+                              'subs': {'bb': 18128787, 'fix': 19607341, 'internet': 41614669, 'mob': 77581048},
                               'tld': '.it',
                               'url_tld': 'https://en.wikipedia.org/wiki/.it'}},
           'mcc': ['222'],
@@ -7499,7 +7461,7 @@ P1_CC2 = \
                               'capital': {'coord': '49 11 N, 2 06 W', 'name': 'Saint Helier', 'time_diff': 'UTC 0'},
                               'coast': 70,
                               'coord': ['49 15 N, 2 10 W'],
-                              'popul': 101476,
+                              'popul': 102146,
                               'ports': {'seaport': 'Gorey, Saint Aubin, Saint Helier'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:JE',
@@ -7522,7 +7484,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 39699, 'fix': 48310, 'internet': 100300, 'mob': 124262},
+                              'subs': {'bb': 39699, 'fix': 48310, 'internet': 44198, 'mob': 83900},
                               'tld': '.je',
                               'url_tld': 'https://en.wikipedia.org/wiki/.je'}},
           'mcc': ['234'],
@@ -7538,7 +7500,7 @@ P1_CC2 = \
                               'capital': {'coord': '18 00 N, 76 48 W', 'name': 'Kingston', 'time_diff': 'UTC-5'},
                               'coast': 1022,
                               'coord': ['18 15 N, 77 30 W'],
-                              'popul': 2816602,
+                              'popul': 2818596,
                               'ports': { 'container': 'Kingston (1,647,609) (2019)',
                                          'seaport': 'Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port '
                                                     'Antonio, Port Esquivel, Port Kaiser, Rocky Point'},
@@ -7579,11 +7541,11 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 385603, 'fix': 436249, 'internet': 1630000, 'mob': 2873259},
+                              'subs': {'bb': 385603, 'fix': 436249, 'internet': 1621552, 'mob': 2873259},
                               'tld': '.jm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.jm'}},
           'mcc': ['338'],
-          'mccmnc': ['338020', '338040', '338050', '338070', '338080', '338110', '338180'],
+          'mccmnc': ['338020', '338040', '33805', '338070', '338080', '338110', '338180'],
           'msisdn': ['1', '1658', '1876'],
           'name': 'Jamaica',
           'url': 'https://en.wikipedia.org/wiki/Jamaica'},
@@ -7600,7 +7562,7 @@ P1_CC2 = \
                               'capital': {'coord': '31 57 N, 35 56 E', 'name': 'Amman', 'time_diff': 'UTC+2'},
                               'coast': 26,
                               'coord': ['31 00 N, 36 00 E'],
-                              'popul': 10909567,
+                              'popul': 10998531,
                               'ports': {'seaport': "Al 'Aqabah"},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:JO',
@@ -7644,7 +7606,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 625657, 'fix': 391486, 'internet': 6840000, 'mob': 6987891},
+                              'subs': {'bb': 630545, 'fix': 391486, 'internet': 6768137, 'mob': 6987891},
                               'tld': '.jo',
                               'url_tld': 'https://en.wikipedia.org/wiki/.jo'}},
           'mcc': ['416'],
@@ -7660,7 +7622,7 @@ P1_CC2 = \
                               'capital': {'coord': '35 41 N, 139 45 E', 'name': 'Tokyo', 'time_diff': 'UTC+9'},
                               'coast': 29751,
                               'coord': ['36 00 N, 138 00 E'],
-                              'popul': 124687293,
+                              'popul': 124214766,
                               'ports': { 'container': 'Kobe (2,871,642), Nagoya (2,844,004), Osaka (2,456,028), Tokyo '
                                                       '(4,510,000), Yokohama (2,990,000) (2019)',
                                          'seaport': 'Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, '
@@ -7705,7 +7667,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 43633244, 'fix': 62252837, 'internet': 117400000, 'mob': 192284308},
+                              'subs': {'bb': 44000791, 'fix': 61978594, 'internet': 113252419, 'mob': 195054893},
                               'tld': '.jp',
                               'url_tld': 'https://en.wikipedia.org/wiki/.jp'}},
           'mcc': ['440', '441'],
@@ -7816,6 +7778,10 @@ P1_CC2 = \
                       '441204',
                       '441205',
                       '441206',
+                      '441207',
+                      '441208',
+                      '441209',
+                      '441210',
                       '44140',
                       '44141',
                       '44142',
@@ -7853,7 +7819,7 @@ P1_CC2 = \
                               'capital': {'coord': '1 17 S, 36 49 E', 'name': 'Nairobi', 'time_diff': 'UTC+3'},
                               'coast': 536,
                               'coord': ['1 00 N, 38 00 E'],
-                              'popul': 54685051,
+                              'popul': 55864655,
                               'ports': {'seaport': 'Kisumu, Mombasa'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KE',
@@ -7898,7 +7864,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 674191, 'fix': 66646, 'internet': 21750000, 'mob': 61408904},
+                              'subs': {'bb': 674191, 'fix': 66646, 'internet': 16131390, 'mob': 61408904},
                               'tld': '.ke',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ke'}},
           'mcc': ['639'],
@@ -7929,7 +7895,7 @@ P1_CC2 = \
                                          'len': 4573},
                               'capital': {'coord': '42 52 N, 74 36 E', 'name': 'Bishkek', 'time_diff': 'UTC+6'},
                               'coord': ['41 00 N, 75 00 E'],
-                              'popul': 6018789,
+                              'popul': 6071750,
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KG',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kyrgyzstan'},
@@ -7968,7 +7934,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 269091, 'fix': 298855, 'internet': 3320000, 'mob': 8622565},
+                              'subs': {'bb': 289000, 'fix': 299000, 'internet': 3355749, 'mob': 8511000},
                               'tld': '.kg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kg'}},
           'mcc': ['437'],
@@ -7984,7 +7950,7 @@ P1_CC2 = \
                               'capital': {'coord': '11 33 N, 104 55 E', 'name': 'Phnom Penh', 'time_diff': 'UTC+7'},
                               'coast': 443,
                               'coord': ['13 00 N, 105 00 E'],
-                              'popul': 17304363,
+                              'popul': 16713015,
                               'ports': {'seaport': 'Sihanoukville (Kampong Saom)'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KH',
@@ -8024,7 +7990,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 713845, 'fix': 56445, 'internet': 8860000, 'mob': 21418681},
+                              'subs': {'bb': 233732, 'fix': 55603, 'internet': 5440559, 'mob': 21086791},
                               'tld': '.kh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kh'}},
           'mcc': ['456'],
@@ -8040,7 +8006,7 @@ P1_CC2 = \
                               'capital': {'coord': '1 21 N, 173 02 E', 'name': 'Tarawa', 'time_diff': 'UTC+12'},
                               'coast': 1143,
                               'coord': ['1 25 N, 173 00 E'],
-                              'popul': 113001,
+                              'popul': 114189,
                               'ports': {'seaport': 'Betio (Tarawa Atoll), Canton Island, English Harbor'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KI',
@@ -8075,7 +8041,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 185, 'fix': 33, 'internet': 17600, 'mob': 54661},
+                              'subs': {'bb': 185, 'fix': 33, 'internet': 45390, 'mob': 54661},
                               'tld': '.ki',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ki'}},
           'mcc': ['545'],
@@ -8091,18 +8057,18 @@ P1_CC2 = \
                               'capital': {'coord': '11 42 S, 43 14 E', 'name': 'Moroni', 'time_diff': 'UTC+3'},
                               'coast': 340,
                               'coord': ['12 10 S, 44 15 E'],
-                              'popul': 864335,
+                              'popul': 876437,
                               'ports': {'seaport': 'Moroni, Moutsamoudou'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KM',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/comoros'},
                      'nameset': [ 'comoros',
                                   'komori',
-                                  'komori (comorian), comores (french), juzur al qamar (arabic)',
+                                  'komori (comorian), les comores (french), juzur al qamar (arabic)',
                                   'the union of the comoros',
                                   'udzima wa komori',
-                                  'udzima wa komori (comorian), union des comores (french), jumhuriyat al qamar al '
-                                  'muttahidah (arabic)',
+                                  'udzima wa komori (comorian), union des comores (french), al ittihad al qumuri '
+                                  '(arabic)',
                                   'union of the comoros'],
                      'tel': { 'code': '269',
                               'domestic': [ 'fixed-line connections less than 1 per 100 persons',
@@ -8130,7 +8096,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 912, 'fix': 7573, 'internet': 74500, 'mob': 472815},
+                              'subs': {'bb': 1066, 'fix': 7573, 'internet': 69568, 'mob': 781579},
                               'tld': '.km',
                               'url_tld': 'https://en.wikipedia.org/wiki/.km'}},
           'mcc': ['654'],
@@ -8146,7 +8112,7 @@ P1_CC2 = \
                               'capital': {'coord': '17 18 N, 62 43 W', 'name': 'Basseterre', 'time_diff': 'UTC-4'},
                               'coast': 135,
                               'coord': ['17 20 N, 62 45 W'],
-                              'popul': 54149,
+                              'popul': 54488,
                               'ports': {'seaport': 'Basseterre, Charlestown'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KN',
@@ -8178,7 +8144,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 29272, 'fix': 17293, 'internet': 43100, 'mob': 76878},
+                              'subs': {'bb': 30000, 'fix': 15000, 'internet': 42796, 'mob': 78000},
                               'tld': '.kn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kn'}},
           'mcc': ['356'],
@@ -8194,7 +8160,7 @@ P1_CC2 = \
                               'capital': {'coord': '39 01 N, 125 45 E', 'name': 'Pyongyang', 'time_diff': 'UTC+9'},
                               'coast': 2495,
                               'coord': ['40 00 N, 127 00 E'],
-                              'popul': 25831360,
+                              'popul': 25955138,
                               'ports': { 'seaport': "Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly "
                                                     'Unggi), Wonsan'},
                               'region': 'Asia',
@@ -8237,7 +8203,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 1183806, 'mob': 3821857},
+                              'subs': {'fix': 1180000, 'mob': 6000000},
                               'tld': '.kp',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kp'}},
           'mcc': ['467'],
@@ -8257,7 +8223,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+9'},
                               'coast': 2413,
                               'coord': ['37 00 N, 127 30 E'],
-                              'popul': 51715162,
+                              'popul': 51844834,
                               'ports': { 'container': 'Busan (21,992,001), Incheon (3,091,955), Kwangyang (2,378,337) '
                                                       '(2019)',
                                          'seaport': 'Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu'},
@@ -8307,7 +8273,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 22330182, 'fix': 23858239, 'internet': 49750000, 'mob': 70513676},
+                              'subs': {'bb': 22327182, 'fix': 23858239, 'internet': 50281152, 'mob': 70513676},
                               'tld': '.kr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kr'}},
           'mcc': ['450'],
@@ -8323,7 +8289,7 @@ P1_CC2 = \
                               'capital': {'coord': '29 22 N, 47 58 E', 'name': 'Kuwait City', 'time_diff': 'UTC+3'},
                               'coast': 499,
                               'coord': ['29 30 N, 45 45 E'],
-                              'popul': 3032065,
+                              'popul': 3068155,
                               'ports': { 'seaport': "Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd "
                                                     "Allah, Mina' al Ahmadi"},
                               'region': 'Middle East',
@@ -8363,7 +8329,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 73948, 'fix': 583463, 'internet': 4260000, 'mob': 6770346},
+                              'subs': {'bb': 73948, 'fix': 583463, 'internet': 4227857, 'mob': 6770346},
                               'tld': '.kw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kw'}},
           'mcc': ['419'],
@@ -8381,7 +8347,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC-5'},
                               'coast': 160,
                               'coord': ['19 30 N, 80 30 W'],
-                              'popul': 63131,
+                              'popul': 64309,
                               'ports': {'seaport': 'Cayman Brac, George Town'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KY',
@@ -8416,11 +8382,11 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 31232, 'fix': 34768, 'internet': 53600, 'mob': 96656},
+                              'subs': {'bb': 3200, 'fix': 36000, 'internet': 53233, 'mob': 100000},
                               'tld': '.ky',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ky'}},
           'mcc': ['346'],
-          'mccmnc': ['346001', '346006', '346050', '346140', '346380', '346998'],
+          'mccmnc': ['33805', '346001', '346006', '346050', '346140', '346380', '346998'],
           'msisdn': ['1', '1345'],
           'name': 'Cayman Islands',
           'url': 'https://en.wikipedia.org/wiki/Cayman_Islands'},
@@ -8436,7 +8402,7 @@ P1_CC2 = \
                                          'len': 13364},
                               'capital': {'coord': '51 10 N, 71 25 E', 'name': 'Nur-Sultan', 'time_diff': 'UTC+6'},
                               'coord': ['48 00 N, 68 00 E'],
-                              'popul': 19245793,
+                              'popul': 19398331,
                               'ports': {'seaport': "Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)"},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KZ',
@@ -8454,7 +8420,8 @@ P1_CC2 = \
                               'general': [ 'one of the most progressive telecom sectors in Central Asia',
                                            'vast 4G network',
                                            'low fixed-line and fixed-broadband penetration',
-                                           'moderate mobile broadband penetration and high mobile penetration',
+                                           'moderate mobile broadband penetration and high mobile penetration '
+                                           'depending on location',
                                            'mobile market highly competitive and growth is slow due to saturation',
                                            2020],
                               'intl': [ 'international traffic with other former Soviet republics and China carried by '
@@ -8473,7 +8440,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2616500, 'fix': 2616500, 'internet': 15470000, 'mob': 25177000},
+                              'subs': {'bb': 2620400, 'fix': 3091000, 'internet': 16128818, 'mob': 24293900},
                               'tld': '.kz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.kz'}},
           'mcc': ['401'],
@@ -8495,7 +8462,7 @@ P1_CC2 = \
                                            'name': 'Vientiane (Viangchan)',
                                            'time_diff': 'UTC+7'},
                               'coord': ['18 00 N, 105 00 E'],
-                              'popul': 7574356,
+                              'popul': 7749595,
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LA',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/laos'},
@@ -8536,7 +8503,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 76280, 'fix': 1490831, 'internet': 3550000, 'mob': 4362183},
+                              'subs': {'bb': 128000, 'fix': 1491000, 'internet': 2473689, 'mob': 4099999},
                               'tld': '.la',
                               'url_tld': 'https://en.wikipedia.org/wiki/.la'}},
           'mcc': ['457'],
@@ -8552,7 +8519,7 @@ P1_CC2 = \
                               'capital': {'coord': '33 52 N, 35 30 E', 'name': 'Beirut', 'time_diff': 'UTC+2'},
                               'coast': 225,
                               'coord': ['33 50 N, 35 50 E'],
-                              'popul': 5261372,
+                              'popul': 5296814,
                               'ports': {'container': 'Beirut (1,229,100) (2019)', 'seaport': 'Beirut, Tripoli'},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LB',
@@ -8595,7 +8562,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 432070, 'fix': 875480, 'internet': 5310000, 'mob': 4288221},
+                              'subs': {'bb': 432070, 'fix': 875480, 'internet': 6825442, 'mob': 4288221},
                               'tld': '.lb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lb'}},
           'mcc': ['415'],
@@ -8611,7 +8578,7 @@ P1_CC2 = \
                               'capital': {'coord': '14 00 N, 61 00 W', 'name': 'Castries', 'time_diff': 'UTC-4'},
                               'coast': 158,
                               'coord': ['13 53 N, 60 58 W'],
-                              'popul': 166637,
+                              'popul': 167122,
                               'ports': {'seaport': 'Castries, Cul-de-Sac, Vieux-Fort'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LC',
@@ -8646,11 +8613,11 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 32265, 'fix': 36469, 'internet': 104400, 'mob': 184944},
+                              'subs': {'bb': 33000, 'fix': 38000, 'internet': 97323, 'mob': 203000},
                               'tld': '.lc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lc'}},
           'mcc': ['358'],
-          'mccmnc': ['338050', '358030', '358050', '358110'],
+          'mccmnc': ['33805', '358030', '358050', '358110'],
           'msisdn': ['1', '1758'],
           'name': 'Saint Lucia',
           'url': 'https://en.wikipedia.org/wiki/Saint_Lucia'},
@@ -8660,7 +8627,7 @@ P1_CC2 = \
                      'geo': { 'bound': {'bord': {'Austria': 34, 'Switzerland': 41}, 'len': 75},
                               'capital': {'coord': '47 08 N, 9 31 E', 'name': 'Vaduz', 'time_diff': 'UTC+1'},
                               'coord': ['47 16 N, 9 32 E'],
-                              'popul': 39425,
+                              'popul': 39711,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LI',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/liechtenstein'},
@@ -8688,7 +8655,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 18063, 'fix': 12723, 'internet': 37800, 'mob': 48904},
+                              'subs': {'bb': 18050, 'fix': 12607, 'internet': 37260, 'mob': 48887},
                               'tld': '.li',
                               'url_tld': 'https://en.wikipedia.org/wiki/.li'}},
           'mcc': ['295'],
@@ -8707,7 +8674,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+5.5'},
                               'coast': 1340,
                               'coord': ['7 00 N, 81 00 E'],
-                              'popul': 23044123,
+                              'popul': 23187516,
                               'ports': {'container': 'Colombo (7,228,337) (2019)', 'seaport': 'Colombo'},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LK',
@@ -8750,7 +8717,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1992429, 'fix': 2428957, 'internet': 10900000, 'mob': 29730465},
+                              'subs': {'bb': 1781530, 'fix': 2607868, 'internet': 7671650, 'mob': 30778600},
                               'tld': '.lk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lk'}},
           'mcc': ['413'],
@@ -8766,7 +8733,7 @@ P1_CC2 = \
                               'capital': {'coord': '6 18 N, 10 48 W', 'name': 'Monrovia', 'time_diff': 'UTC 0'},
                               'coast': 579,
                               'coord': ['6 30 N, 9 30 W'],
-                              'popul': 5214030,
+                              'popul': 5358483,
                               'ports': {'seaport': 'Buchanan, Monrovia'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LR',
@@ -8805,7 +8772,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 9000, 'fix': 8000, 'internet': 761000, 'mob': 2660000},
+                              'subs': {'bb': 13000, 'fix': 6000, 'internet': 1314996, 'mob': 1653000},
                               'tld': '.lr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lr'}},
           'mcc': ['618'],
@@ -8820,7 +8787,7 @@ P1_CC2 = \
                               'bound': {'bord': {'South Africa': 1106}, 'len': 1106},
                               'capital': {'coord': '29 19 S, 27 29 E', 'name': 'Maseru', 'time_diff': 'UTC+2'},
                               'coord': ['29 30 S, 28 30 E'],
-                              'popul': 2177740,
+                              'popul': 2193970,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LS',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/lesotho'},
@@ -8857,7 +8824,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 5060, 'fix': 11574, 'internet': 1030000, 'mob': 1562648},
+                              'subs': {'bb': 5060, 'fix': 11574, 'internet': 921168, 'mob': 1562648},
                               'tld': '.ls',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ls'}},
           'mcc': ['651'],
@@ -8875,7 +8842,7 @@ P1_CC2 = \
                               'capital': {'coord': '54 41 N, 25 19 E', 'name': 'Vilnius', 'time_diff': 'UTC+2'},
                               'coast': 90,
                               'coord': ['56 00 N, 24 00 E'],
-                              'popul': 2711566,
+                              'popul': 2683546,
                               'ports': {'seaport': 'Klaipeda'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LT',
@@ -8917,7 +8884,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 796814, 'fix': 322108, 'internet': 2220000, 'mob': 4742427},
+                              'subs': {'bb': 796814, 'fix': 322108, 'internet': 2319755, 'mob': 3671995},
                               'tld': '.lt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lt'}},
           'mcc': ['246'],
@@ -8945,7 +8912,7 @@ P1_CC2 = \
                               'bound': {'bord': {'Belgium': 130, 'France': 69, 'Germany': 128}, 'len': 327},
                               'capital': {'coord': '49 36 N, 6 07 E', 'name': 'Luxembourg', 'time_diff': 'UTC+1'},
                               'coord': ['49 45 N, 6 10 E'],
-                              'popul': 639589,
+                              'popul': 650364,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LU',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/luxembourg'},
@@ -8980,7 +8947,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 235155, 'fix': 268090, 'internet': 612100, 'mob': 890000},
+                              'subs': {'bb': 235155, 'fix': 268090, 'internet': 624115, 'mob': 890000},
                               'tld': '.lu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lu'}},
           'mcc': ['270'],
@@ -9008,7 +8975,7 @@ P1_CC2 = \
                               'capital': {'coord': '56 57 N, 24 06 E', 'name': 'Riga', 'time_diff': 'UTC+2'},
                               'coast': 498,
                               'coord': ['57 00 N, 25 00 E'],
-                              'popul': 1862687,
+                              'popul': 1842226,
                               'ports': {'seaport': 'Riga, Ventspils'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LV',
@@ -9049,7 +9016,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 503804, 'fix': 211849, 'internet': 1670000, 'mob': 2051359},
+                              'subs': {'bb': 490569, 'fix': 211849, 'internet': 1691400, 'mob': 2051359},
                               'tld': '.lv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.lv'}},
           'mcc': ['247'],
@@ -9073,7 +9040,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+2'},
                               'coast': 1770,
                               'coord': ['25 00 N, 17 00 E'],
-                              'popul': 7017224,
+                              'popul': 7137931,
                               'ports': {'seaport': 'Marsa al Burayqah (Marsa el Brega), Tripoli'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LY',
@@ -9085,8 +9052,7 @@ P1_CC2 = \
                                             'service generally adequate',
                                             2019],
                               'general': [ 'political and security instability in Libya has disrupted its telecom '
-                                           'sector, as warring factions make mobile towers a target and construction '
-                                           'workers regularly cut cables by mistake',
+                                           'sector',
                                            'much of its infrastructure remains superior to that in most other African '
                                            'countries',
                                            'rival operators fight for control',
@@ -9117,7 +9083,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 318000, 'fix': 1576000, 'internet': 3190000, 'mob': 6020000},
+                              'subs': {'bb': 332000, 'fix': 1576000, 'internet': 1491040, 'mob': 2922000},
                               'tld': '.ly',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ly'}},
           'mcc': ['606'],
@@ -9135,7 +9101,7 @@ P1_CC2 = \
                               'capital': {'coord': '34 01 N, 6 49 W', 'name': 'Rabat', 'time_diff': 'UTC+1'},
                               'coast': 2945,
                               'coord': ['28 30 N, 10 00 W'],
-                              'popul': 36561813,
+                              'popul': 36738229,
                               'ports': { 'container': 'Tangier (4,801,713) (2019)',
                                          'seaport': 'Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), '
                                                     'Mohammedia, Safi, Tangier'},
@@ -9163,14 +9129,18 @@ P1_CC2 = \
                                            'high mobile penetration rates in the region with low cost for broadband '
                                            'Internet access',
                                            'improvement in LTE reach and capabilities',
-                                           '5G tests underway',
+                                           'service providers have all successfully completed 5G proofs of concept and '
+                                           'are currently lining up 5G equipment providers for both radio and core '
+                                           'technology',
+                                           'regulatory agency expects to conduct the 5G spectrum auction in 2023',
                                            'mobile Internet accounts for 93% of all Internet connections',
                                            "World Bank provided funds for Morocco's digital transformation",
                                            'government supported digital education during pandemic',
                                            'submarine cables and satellite provide connectivity to Asia, Africa, the '
                                            'Middle East, Europe, and Australia',
-                                           'importer of broadcasting equipment and video displays from China',
-                                           2020],
+                                           'importer of broadcasting equipment, surveillance equipment, scanning '
+                                           'equipment, and video displays from China',
+                                           2022],
                               'intl': [ 'landing point for the Atlas Offshore, Estepona-Tetouan, Canalink and '
                                         'SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide '
                                         'connectivity to Asia, Africa, the Middle East, Europe and Australia',
@@ -9188,7 +9158,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2102434, 'fix': 2357286, 'internet': 27620000, 'mob': 49421023},
+                              'subs': {'bb': 2102434, 'fix': 2357286, 'internet': 31004869, 'mob': 49421023},
                               'tld': '.ma',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ma'}},
           'mcc': ['604'],
@@ -9203,7 +9173,7 @@ P1_CC2 = \
                               'capital': {'coord': '43 44 N, 7 25 E', 'name': 'Monaco', 'time_diff': 'UTC+1'},
                               'coast': 4,
                               'coord': ['43 44 N, 7 24 E'],
-                              'popul': 31223,
+                              'popul': 31400,
                               'ports': {'seaport': 'Hercules Port'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MC',
@@ -9238,7 +9208,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 20877, 'fix': 43706, 'internet': 38200, 'mob': 35485},
+                              'subs': {'bb': 20877, 'fix': 43706, 'internet': 37798, 'mob': 35485},
                               'tld': '.mc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mc'}},
           'mcc': ['212'],
@@ -9255,7 +9225,7 @@ P1_CC2 = \
                                            'name': 'Chisinau in Moldovan (Kishinev in Russian)',
                                            'time_diff': 'UTC+2'},
                               'coord': ['47 00 N, 29 00 E'],
-                              'popul': 3323875,
+                              'popul': 3287326,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MD',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/moldova'},
@@ -9290,7 +9260,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 719001, 'fix': 1027689, 'internet': 3070000, 'mob': 3420383},
+                              'subs': {'bb': 719001, 'fix': 1027689, 'internet': 2025380, 'mob': 3420383},
                               'tld': '.md',
                               'url_tld': 'https://en.wikipedia.org/wiki/.md'}},
           'mcc': ['259'],
@@ -9314,7 +9284,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+1'},
                               'coast': 293,
                               'coord': ['42 30 N, 19 18 E'],
-                              'popul': 607414,
+                              'popul': 604966,
                               'ports': {'seaport': 'Bar'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ME',
@@ -9345,7 +9315,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 184176, 'fix': 191768, 'internet': 477300, 'mob': 1080089},
+                              'subs': {'bb': 184176, 'fix': 191768, 'internet': 484619, 'mob': 1080089},
                               'tld': '.me',
                               'url_tld': 'https://en.wikipedia.org/wiki/.me'}},
           'mcc': ['297'],
@@ -9362,7 +9332,7 @@ P1_CC2 = \
                               'cmt': 'ccTLD .fr and .gp may also be used',
                               'coast': 58,
                               'coord': ['18 05 N, 63 57 W'],
-                              'popul': 32680,
+                              'popul': 32792,
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MF',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saint-martin'},
@@ -9396,7 +9366,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'internet': 7339},
+                              'subs': {'mob': 68840},
                               'tld': '.mf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mf'}},
           'mcc': ['340'],
@@ -9412,7 +9382,7 @@ P1_CC2 = \
                               'capital': {'coord': '18 55 S, 47 31 E', 'name': 'Antananarivo', 'time_diff': 'UTC+3'},
                               'coast': 4828,
                               'coord': ['20 00 S, 47 00 E'],
-                              'popul': 27534354,
+                              'popul': 28172462,
                               'ports': { 'seaport': 'Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara '
                                                     '(Tulear)'},
                               'region': 'Africa',
@@ -9455,7 +9425,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 27211, 'fix': 69046, 'internet': 5450000, 'mob': 10654710},
+                              'subs': {'bb': 32000, 'fix': 69000, 'internet': 2696931, 'mob': 15869000},
                               'tld': '.mg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mg'}},
           'mcc': ['646'],
@@ -9475,7 +9445,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+12'},
                               'coast': 370,
                               'coord': ['9 00 N, 168 00 E'],
-                              'popul': 78831,
+                              'popul': 79906,
                               'ports': {'seaport': 'Enitwetak Island, Kwajalein, Majuro'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MH',
@@ -9515,7 +9485,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1000, 'fix': 2361, 'internet': 23000, 'mob': 16000},
+                              'subs': {'bb': 1000, 'fix': 2361, 'internet': 22929, 'mob': 16000},
                               'tld': '.mh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mh'}},
           'mcc': ['551'],
@@ -9535,7 +9505,7 @@ P1_CC2 = \
                                          'len': 838},
                               'capital': {'coord': '42 00 N, 21 26 E', 'name': 'Skopje', 'time_diff': 'UTC+1'},
                               'coord': ['41 50 N, 22 00 E'],
-                              'popul': 2128262,
+                              'popul': 2130936,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MK',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/north-macedonia'},
@@ -9569,7 +9539,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 454300, 'fix': 400454, 'internet': 1710000, 'mob': 1921013},
+                              'subs': {'bb': 475569, 'fix': 415390, 'internet': 1678750, 'mob': 1862138},
                               'tld': '.mk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mk'}},
           'mcc': ['294'],
@@ -9590,7 +9560,7 @@ P1_CC2 = \
                                          'len': 7908},
                               'capital': {'coord': '12 39 N, 8 00 W', 'name': 'Bamako', 'time_diff': 'UTC 0'},
                               'coord': ['17 00 N, 4 00 W'],
-                              'popul': 20137527,
+                              'popul': 20741769,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ML',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mali'},
@@ -9610,25 +9580,25 @@ P1_CC2 = \
                                            'local plans for IXP',
                                            'dependent on neighboring countries for international bandwidth and access '
                                            'to submarine cables',
-                                           'Chinese investment in infrastructure stymied by security issues',
+                                           'there are Chinese investment agreements for infrastructure',
                                            'importer of broadcasting equipment from China',
                                            2020],
                               'intl': [ 'satellite communications center and fiber-optic links to neighboring '
                                         'countries',
                                         'satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean)',
-                                        0],
+                                        2020],
                               'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
                                         'since 2020, some aspects of the telecom sector have experienced downturn, '
                                         'particularly in mobile device production',
                                         'many network operators delayed upgrades to infrastructure',
-                                        'progress towards 5G implementation was postponed or slowed in some countries',
+                                        'progress towards 5G implementation is slow',
                                         'consumer spending on telecom services and devices was affected by large-scale '
                                         'job losses and the consequent restriction on disposable incomes',
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 243806, 'fix': 281638, 'internet': 5740000, 'mob': 25315598},
+                              'subs': {'bb': 243806, 'fix': 281638, 'internet': 5467725, 'mob': 25315598},
                               'tld': '.ml',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ml'}},
           'mcc': ['610'],
@@ -9646,13 +9616,13 @@ P1_CC2 = \
                                                    'Laos': 238,
                                                    'Thailand': 2416},
                                          'len': 6522},
-                              'capital': { 'coord': '16 48 N, 96 09 E',
-                                           'name': 'Rangoon (Yangon); note - Nay Pyi Taw is the administrative capital',
+                              'capital': { 'coord': '19 74 N, 96 12 E',
+                                           'name': 'Nay Pyi Taw (note - Yangon, aka Rangoon, is the former capital)',
                                            'time_diff': 'UTC+6.5'},
                               'cmt': 'ISO uses the name Myanmar',
                               'coast': 1930,
                               'coord': ['22 00 N, 98 00 E'],
-                              'popul': 57069099,
+                              'popul': 57526449,
                               'ports': {'seaport': 'Mawlamyine (Moulmein), Sittwe'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MM',
@@ -9671,9 +9641,9 @@ P1_CC2 = \
                               'domestic': [ 'fixed-line is just under 1 per 100, while mobile-cellular is roughly 90 '
                                             'per 100',
                                             2019],
-                              'general': [ 'Burma, one of the last underdeveloped telecom markets in Asia, saw growth '
-                                           'in mobile and broadband services through foreign competition and roll out '
-                                           'of 4G and 5G networks',
+                              'general': [ 'Burma, one of the least developed telecom markets in Asia, saw growth in '
+                                           'mobile and broadband services through foreign competition and roll out of '
+                                           '4G and 5G networks',
                                            'infrastructure development challenged by flooding, unreliable electricity, '
                                            'inefficient bureaucracy, and corruption',
                                            'digital divide affects rural areas',
@@ -9702,7 +9672,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 129050, 'fix': 520863, 'internet': 23650000, 'mob': 61143964},
+                              'subs': {'bb': 688185, 'fix': 523951, 'internet': 19043428, 'mob': 78548329},
                               'tld': '.mm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mm'}},
           'mcc': ['414'],
@@ -9728,7 +9698,7 @@ P1_CC2 = \
                               'bound': {'bord': {'China': 4630, 'Russia': 3452}, 'len': 8082},
                               'capital': {'coord': '47 55 N, 106 55 E', 'name': 'Ulaanbaatar', 'time_diff': 'UTC+8'},
                               'coord': ['46 00 N, 105 00 E'],
-                              'popul': 3198913,
+                              'popul': 3227863,
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MN',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mongolia'},
@@ -9764,7 +9734,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 307166, 'fix': 160153, 'internet': 2009999, 'mob': 4363919},
+                              'subs': {'bb': 307166, 'fix': 160153, 'internet': 2065324, 'mob': 4363919},
                               'tld': '.mn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mn'}},
           'mcc': ['428'],
@@ -9779,7 +9749,7 @@ P1_CC2 = \
                               'bound': {'bord': {'China': 3}, 'len': 3},
                               'coast': 41,
                               'coord': ['22 10 N, 113 33 E'],
-                              'popul': 630396,
+                              'popul': 635293,
                               'ports': {'seaport': 'Macau'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MO',
@@ -9821,7 +9791,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 193057, 'fix': 123469, 'internet': 565600, 'mob': 2181194},
+                              'subs': {'bb': 208000, 'fix': 110000, 'internet': 571421, 'mob': 2793000},
                               'tld': '.mo',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mo'}},
           'mcc': ['455'],
@@ -9837,7 +9807,7 @@ P1_CC2 = \
                               'capital': {'coord': '15 12 N, 145 45 E', 'name': 'Saipan', 'time_diff': 'UTC+10'},
                               'coast': 1482,
                               'coord': ['15 12 N, 145 45 E'],
-                              'popul': 51659,
+                              'popul': 51475,
                               'ports': {'seaport': 'Saipan, Tinian, Rota'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MP',
@@ -9872,7 +9842,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 22000, 'internet': 14500},
+                              'subs': {'fix': 20000, 'internet': 17418, 'mob': 20474},
                               'tld': '.mp',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mp'}},
           'mcc': ['310'],
@@ -9900,7 +9870,7 @@ P1_CC2 = \
                               'capital': {'coord': '18 04 N, 15 58 W', 'name': 'Nouakchott', 'time_diff': 'UTC 0'},
                               'coast': 754,
                               'coord': ['20 00 N, 12 00 W'],
-                              'popul': 4079284,
+                              'popul': 4161925,
                               'ports': {'seaport': 'Nouadhibou, Nouakchott'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MR',
@@ -9921,9 +9891,9 @@ P1_CC2 = \
                               'general': [ "Mauritania's small population and low economic output limit sustained "
                                            'growth',
                                            'transparency and tax burdens hinder foreign investment',
-                                           'World Bank and European Investment Bank support regulations to promote '
-                                           'fixed-line broadband, improvement of the national backbone network, and '
-                                           'connectivity to international cables',
+                                           'World Bank and European Investment Bank support regulatory reforms to '
+                                           'promote fixed-line broadband, improvement of the national backbone '
+                                           'network, and connectivity to international cables',
                                            'limited system of cable and open-wire lines, mobile-cellular services '
                                            'expanding though monopolies, and little stimulus for competition',
                                            '3G penetration high yet little development in LTE',
@@ -9945,7 +9915,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 19246, 'fix': 62099, 'internet': 1560000, 'mob': 4932571},
+                              'subs': {'bb': 18457, 'fix': 62099, 'internet': 1906360, 'mob': 4932571},
                               'tld': '.mr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mr'}},
           'mcc': ['609'],
@@ -9966,7 +9936,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC-4'},
                               'coast': 40,
                               'coord': ['16 45 N, 62 12 W'],
-                              'popul': 5387,
+                              'popul': 5414,
                               'ports': {'seaport': 'Little Bay, Plymouth'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MS',
@@ -9997,7 +9967,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2700, 'fix': 3000, 'internet': 2806, 'mob': 5000},
+                              'subs': {'bb': 2700, 'fix': 3000, 'internet': 2744, 'mob': 5000},
                               'tld': '.ms',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ms'}},
           'mcc': ['354'],
@@ -10013,7 +9983,7 @@ P1_CC2 = \
                               'capital': {'coord': '35 53 N, 14 30 E', 'name': 'Valletta', 'time_diff': 'UTC+1'},
                               'coast': 196,
                               'coord': ['35 50 N, 14 35 E'],
-                              'popul': 460891,
+                              'popul': 464186,
                               'ports': { 'container': 'Marsaxlokk (2,722,889) (2019)',
                                          'seaport': 'Marsaxlokk (Malta Freeport), Valletta'},
                               'region': 'Europe',
@@ -10052,7 +10022,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 213419, 'fix': 256838, 'internet': 380300, 'mob': 634386},
+                              'subs': {'bb': 213419, 'fix': 259456, 'internet': 448339, 'mob': 633123},
                               'tld': '.mt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mt'}},
           'mcc': ['278'],
@@ -10068,7 +10038,7 @@ P1_CC2 = \
                               'capital': {'coord': '20 09 S, 57 29 E', 'name': 'Port Louis', 'time_diff': 'UTC+4'},
                               'coast': 177,
                               'coord': ['20 17 S, 57 33 E'],
-                              'popul': 1386129,
+                              'popul': 1308222,
                               'ports': {'seaport': 'Port Louis'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MU',
@@ -10110,7 +10080,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 322100, 'fix': 478700, 'internet': 814500, 'mob': 1912900},
+                              'subs': {'bb': 323200, 'fix': 478700, 'internet': 822731, 'mob': 1912900},
                               'tld': '.mu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mu'}},
           'mcc': ['617'],
@@ -10126,7 +10096,7 @@ P1_CC2 = \
                               'capital': {'coord': '4 10 N, 73 30 E', 'name': 'Male', 'time_diff': 'UTC+5'},
                               'coast': 644,
                               'coord': ['3 15 N, 73 00 E'],
-                              'popul': 390669,
+                              'popul': 390164,
                               'ports': {'seaport': 'Male'},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MV',
@@ -10162,7 +10132,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 63685, 'fix': 14508, 'internet': 342500, 'mob': 717708},
+                              'subs': {'bb': 63685, 'fix': 14508, 'internet': 340542, 'mob': 717708},
                               'tld': '.mv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mv'}},
           'mcc': ['472'],
@@ -10177,7 +10147,7 @@ P1_CC2 = \
                               'bound': {'bord': {'Mozambique': 1498, 'Tanzania': 512, 'Zambia': 847}, 'len': 2857},
                               'capital': {'coord': '13 58 S, 33 47 E', 'name': 'Lilongwe', 'time_diff': 'UTC+2'},
                               'coord': ['13 30 S, 34 00 E'],
-                              'popul': 20308502,
+                              'popul': 20794353,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MW',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/malawi'},
@@ -10212,7 +10182,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 12255, 'fix': 12465, 'internet': 3450000, 'mob': 10004680},
+                              'subs': {'bb': 12255, 'fix': 12465, 'internet': 2608025, 'mob': 10004680},
                               'tld': '.mw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mw'}},
           'mcc': ['650'],
@@ -10230,7 +10200,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC-6'},
                               'coast': 9330,
                               'coord': ['23 00 N, 102 00 W'],
-                              'popul': 130207371,
+                              'popul': 129150971,
                               'ports': { 'container': 'Lazaro Cardenas (1,318,732), Manzanillo (3,069,189), Veracruz '
                                                       '(1,144,156) (2019)',
                                          'seaport': 'Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz'},
@@ -10242,34 +10212,46 @@ P1_CC2 = \
                                   'the united mexican states',
                                   'united mexican states'],
                      'tel': { 'code': '52',
-                              'domestic': [ 'fixed-line teledensity exceeds 18 per 100 persons',
-                                            'mobile-cellular teledensity is about 93 per 100 persons',
+                              'domestic': [ 'fixed-line teledensity exceeds 65 lines per every 100 households',
+                                            'mobile-cellular teledensity is about 99 per 100 persons',
                                             'domestic satellite system with 120 earth stations',
-                                            2020],
+                                            2021],
                               'general': [ 'with a large population and relatively low broadband and mobile '
-                                           "penetration, Mexico's telecom sector has potential for growth",
+                                           'penetration, (86 lines for mobile broadband for every 100 habitants in '
+                                           "June 2021) Mexico's telecom sector has potential for growth",
                                            'adequate telephone service for business and government',
                                            'improving quality and increasing mobile cellular availability, with mobile '
-                                           'subscribers far outnumbering fixed-line subscribers',
+                                           'subscribers far outnumbering fixed-line subscribers (24.6 million fixed '
+                                           'line subscribers and 125 million mobile line subscribers in June 2021)',
                                            'relatively low broadband and mobile penetration, potential for growth and '
                                            'international investment',
                                            'extensive microwave radio relay network',
                                            'considerable use of fiber-optic cable and coaxial cable',
-                                           '5G development slow in part due to high costs',
+                                           '5G development slow in part due to high costs (AT&T announced 5G rollout '
+                                           'in some sections of Mexico City in December 2021 and Telcel announced a '
+                                           'plan to launch 5G network in 18 cities in February 2022)',
                                            'IXP in Mexico City',
                                            'exporter of computers and broadcasting equipment to USA and importer of '
                                            'same from China',
-                                           2020],
+                                           2021],
                               'intl': [ 'Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, '
                                         'Canary Islands, Spain, and Italy',
                                         'the ARCOS-1 and the MAYA-1 submarine cable system together provide access to '
-                                        'Central America, parts of South America and the Caribbean, and the US',
-                                        'satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico '
-                                        'improved access to South America, Central America, and much of the US as well '
-                                        'as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile '
-                                        'earth stations)',
+                                        'Central America, parts of South America and the Caribbean, and the U.S.',
+                                        'Pan-American Crossing (PAC) submarine cable system provides access to Panama, '
+                                        'California, U.S., and Costa Rica',
+                                        'Lazaro Cardenas-Manzanillo Santiago submarines cable system (LCMSSCS) '
+                                        'provides access to Michoacan, Guerrero, and Colima, Mexico',
+                                        'AMX-1 submarine cable system with access to Colombia, Brazil, Puerto Rico, '
+                                        'Gulf of California Cable submarine cable systems that connects La Paz, Baja '
+                                        'California Sur and Topolobambo, Sinaloa',
+                                        'and Aurora submarine cable system provides access to Guatemala, Panama, '
+                                        'Ecuador, Colombia, Mexico, and the U.S. satellite earth stations - 124 (36 '
+                                        'Intelsat, 1 Solidaridad (giving Mexico improved access to South America, '
+                                        'Central America, and much of the US as well as enhancing domestic '
+                                        'communications), 9 Panamsat, numerous Inmarsat mobile earth stations)',
                                         'linked to Central American Microwave System of trunk connections',
-                                        2016],
+                                        2022],
                               'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
                                         'since 2020, some aspects of the telecom sector have experienced downturn, '
@@ -10281,7 +10263,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 21206911, 'fix': 23800105, 'internet': 92010000, 'mob': 120481969},
+                              'subs': {'bb': 21936131, 'fix': 24500456, 'internet': 92831582, 'mob': 122898392},
                               'tld': '.mx',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mx'}},
           'mcc': ['334'],
@@ -10327,7 +10309,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+8'},
                               'coast': 4675,
                               'coord': ['2 30 N, 112 30 E'],
-                              'popul': 33519406,
+                              'popul': 33871431,
                               'ports': { 'container': 'Port Kelang (Port Klang) (13,580,717), Tanjung Pelepas '
                                                       '(9,100,000) (2019)',
                                          'seaport': 'Bintulu, Johor Bahru, George Town (Penang), Pelabuhan Klang (Port '
@@ -10372,7 +10354,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3358800, 'fix': 7467900, 'internet': 27430000, 'mob': 43723600},
+                              'subs': {'bb': 3358800, 'fix': 7467900, 'internet': 29129398, 'mob': 43723600},
                               'tld': '.my',
                               'url_tld': 'https://en.wikipedia.org/wiki/.my'}},
           'mcc': ['502'],
@@ -10412,7 +10394,7 @@ P1_CC2 = \
                               'capital': {'coord': '25 57 S, 32 35 E', 'name': 'Maputo', 'time_diff': 'UTC+2'},
                               'coast': 2470,
                               'coord': ['18 15 S, 35 00 E'],
-                              'popul': 30888034,
+                              'popul': 31693239,
                               'ports': {'seaport': 'Beira, Maputo, Nacala'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MZ',
@@ -10458,7 +10440,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 69975, 'fix': 80791, 'internet': 6720000, 'mob': 14773364},
+                              'subs': {'bb': 70000, 'fix': 89016, 'internet': 5313424, 'mob': 15463226},
                               'tld': '.mz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.mz'}},
           'mcc': ['643'],
@@ -10478,7 +10460,7 @@ P1_CC2 = \
                               'capital': {'coord': '22 34 S, 17 05 E', 'name': 'Windhoek', 'time_diff': 'UTC+1'},
                               'coast': 1572,
                               'coord': ['22 00 S, 17 00 E'],
-                              'popul': 2678191,
+                              'popul': 2727409,
                               'ports': {'seaport': 'Luderitz, Walvis Bay'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NA',
@@ -10509,7 +10491,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 71063, 'fix': 141334, 'internet': 1310000, 'mob': 2594382},
+                              'subs': {'bb': 71063, 'fix': 140370, 'internet': 1041776, 'mob': 2898125},
                               'tld': '.na',
                               'url_tld': 'https://en.wikipedia.org/wiki/.na'}},
           'mcc': ['649'],
@@ -10525,7 +10507,7 @@ P1_CC2 = \
                               'capital': {'coord': '22 16 S, 166 27 E', 'name': 'Noumea', 'time_diff': 'UTC+11'},
                               'coast': 2254,
                               'coord': ['21 30 S, 165 30 E'],
-                              'popul': 293608,
+                              'popul': 297160,
                               'ports': {'seaport': 'Noumea'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NC',
@@ -10561,7 +10543,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 55371, 'fix': 77719, 'internet': 235200, 'mob': 260277},
+                              'subs': {'bb': 55000, 'fix': 46000, 'internet': 222466, 'mob': 260000},
                               'tld': '.nc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.nc'}},
           'mcc': ['546'],
@@ -10583,7 +10565,7 @@ P1_CC2 = \
                                          'len': 5834},
                               'capital': {'coord': '13 31 N, 2 07 E', 'name': 'Niamey', 'time_diff': 'UTC+1'},
                               'coord': ['16 00 N, 8 00 E'],
-                              'popul': 23605767,
+                              'popul': 24484587,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NE',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/niger'},
@@ -10624,7 +10606,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 8650, 'fix': 114352, 'internet': 3360000, 'mob': 8778880},
+                              'subs': {'bb': 12000, 'fix': 58000, 'internet': 2331072, 'mob': 14239000},
                               'tld': '.ne',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ne'}},
           'mcc': ['614'],
@@ -10663,7 +10645,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'internet': 806},
+                              'subs': {'internet': 612},
                               'tld': '.nf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.nf'}},
           'mcc': ['505'],
@@ -10680,7 +10662,7 @@ P1_CC2 = \
                               'capital': {'coord': '9 05 N, 7 32 E', 'name': 'Abuja', 'time_diff': 'UTC+1'},
                               'coast': 853,
                               'coord': ['10 00 N, 8 00 E'],
-                              'popul': 219463862,
+                              'popul': 225082083,
                               'ports': {'seaport': 'Bonny Inshore Terminal, Calabar, Lagos'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NG',
@@ -10698,14 +10680,17 @@ P1_CC2 = \
                                            'most Internet connections are via mobile networks',
                                            'foreign investment presence, particularly from China',
                                            'market competition with affordable access',
-                                           'LTE technologies available but GSM is dominate',
+                                           'LTE technologies available but GSM is dominant',
                                            'mobile penetration high due to use of multiple SIM cards and phones',
                                            'government committed to expanding broadband penetration',
                                            'operators to deploy fiber optic cable in six geopolitical zones and Lagos',
                                            'operators invested in base stations to deplete network congestion',
                                            'submarine cable break in 2020 slowed speeds and interrupted connectivity',
                                            'importer of phones and broadcast equipment from China',
-                                           2020],
+                                           'Nigeria concluded its first 5G spectrum auction in 2021 and granted '
+                                           'licenses to two firms: MTN Nigeria and Mafab Communications. Construction '
+                                           'of 5G infrastructure has not yet been completed.',
+                                           2021],
                               'intl': [ 'landing point for the SAT-3/WASC, NCSCS, MainOne, Glo-1 & 2, ACE, and Equiano '
                                         'fiber-optic submarine cable that provides connectivity to Europe and South '
                                         'and West Africa',
@@ -10722,7 +10707,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 83360, 'fix': 107031, 'internet': 104400000, 'mob': 204228678},
+                              'subs': {'bb': 65313, 'fix': 107031, 'internet': 74210251, 'mob': 204228678},
                               'tld': '.ng',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ng'}},
           'mcc': ['621'],
@@ -10754,7 +10739,7 @@ P1_CC2 = \
                               'capital': {'coord': '12 08 N, 86 15 W', 'name': 'Managua', 'time_diff': 'UTC-6'},
                               'coast': 910,
                               'coord': ['13 00 N, 85 00 W'],
-                              'popul': 6243931,
+                              'popul': 6301880,
                               'ports': {'seaport': 'Bluefields, Corinto'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NI',
@@ -10800,7 +10785,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 290351, 'fix': 210981, 'internet': 2780000, 'mob': 5976479},
+                              'subs': {'bb': 290351, 'fix': 210981, 'internet': 2981049, 'mob': 5976479},
                               'tld': '.ni',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ni'}},
           'mcc': ['710'],
@@ -10818,7 +10803,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+1'},
                               'coast': 451,
                               'coord': ['52 31 N, 5 46 E'],
-                              'popul': 17337403,
+                              'popul': 17400824,
                               'ports': { 'container': 'Rotterdam (14,810,804) (2019)',
                                          'seaport': 'IJmuiden, Vlissingen'},
                               'region': 'Europe',
@@ -10868,7 +10853,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 7525016, 'fix': 4937000, 'internet': 16469999, 'mob': 21415000},
+                              'subs': {'bb': 7525016, 'fix': 4937000, 'internet': 15871765, 'mob': 21415000},
                               'tld': '.nl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.nl'}},
           'mcc': ['204'],
@@ -10928,7 +10913,7 @@ P1_CC2 = \
                               'capital': {'coord': '59 55 N, 10 45 E', 'name': 'Oslo', 'time_diff': 'UTC+1'},
                               'coast': 25148,
                               'coord': ['62 00 N, 10 00 E'],
-                              'popul': 5509591,
+                              'popul': 5553840,
                               'ports': {'seaport': 'Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NO',
@@ -10974,7 +10959,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2387661, 'fix': 348808, 'internet': 5390000, 'mob': 5825584},
+                              'subs': {'bb': 2387661, 'fix': 348808, 'internet': 5218091, 'mob': 5825584},
                               'tld': '.no',
                               'url_tld': 'https://en.wikipedia.org/wiki/.no'}},
           'mcc': ['242'],
@@ -11011,7 +10996,7 @@ P1_CC2 = \
                               'bound': {'bord': {'China': 1389, 'India': 1770}, 'len': 3159},
                               'capital': {'coord': '27 43 N, 85 19 E', 'name': 'Kathmandu', 'time_diff': 'UTC+5.75'},
                               'coord': ['28 00 N, 84 00 E'],
-                              'popul': 30424878,
+                              'popul': 30666598,
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NP',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/nepal'},
@@ -11059,7 +11044,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 791961, 'fix': 799368, 'internet': 10780000, 'mob': 39178451},
+                              'subs': {'bb': 1270000, 'fix': 726000, 'internet': 11071987, 'mob': 38213000},
                               'tld': '.np',
                               'url_tld': 'https://en.wikipedia.org/wiki/.np'}},
           'mcc': ['429'],
@@ -11076,7 +11061,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+12'},
                               'coast': 30,
                               'coord': ['0 32 S, 166 55 E'],
-                              'popul': 9770,
+                              'popul': 9811,
                               'ports': {'seaport': 'Nauru'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NR',
@@ -11105,7 +11090,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 950, 'internet': 6771, 'mob': 10000},
+                              'subs': {'bb': 950, 'fix': 1900, 'internet': 6136, 'mob': 10000},
                               'tld': '.nr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.nr'}},
           'mcc': ['536'],
@@ -11152,7 +11137,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 1000, 'internet': 1286},
+                              'subs': {'fix': 1000, 'internet': 1292},
                               'tld': '.nu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.nu'}},
           'mcc': ['555'],
@@ -11168,7 +11153,7 @@ P1_CC2 = \
                               'capital': {'coord': '41 18 S, 174 47 E', 'name': 'Wellington', 'time_diff': 'UTC+12'},
                               'coast': 15134,
                               'coord': ['41 00 S, 174 00 E'],
-                              'popul': 4991442,
+                              'popul': 5053004,
                               'ports': { 'seaport': 'Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, '
                                                     'Wellington'},
                               'region': 'Oceania',
@@ -11206,7 +11191,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1647000, 'fix': 1760000, 'internet': 4550000, 'mob': 6400000},
+                              'subs': {'bb': 1764984, 'fix': 858000, 'internet': 4677556, 'mob': 6148000},
                               'tld': '.nz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.nz'}},
           'mcc': ['530'],
@@ -11223,7 +11208,7 @@ P1_CC2 = \
                               'capital': {'coord': '23 37 N, 58 35 E', 'name': 'Muscat', 'time_diff': 'UTC+4'},
                               'coast': 2092,
                               'coord': ['21 00 N, 57 00 E'],
-                              'popul': 3694755,
+                              'popul': 3764348,
                               'ports': { 'container': 'Salalah (4,109,000) (2019)',
                                          'seaport': "Mina' Qabus, Salalah, Suhar"},
                               'region': 'Middle East',
@@ -11263,7 +11248,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 508949, 'fix': 594550, 'internet': 4920000, 'mob': 6276535},
+                              'subs': {'bb': 508949, 'fix': 594550, 'internet': 4851291, 'mob': 6276535},
                               'tld': '.om',
                               'url_tld': 'https://en.wikipedia.org/wiki/.om'}},
           'mcc': ['422'],
@@ -11279,7 +11264,7 @@ P1_CC2 = \
                               'capital': {'coord': '8 58 N, 79 32 W', 'name': 'Panama City', 'time_diff': 'UTC-5'},
                               'coast': 2490,
                               'coord': ['9 00 N, 80 00 W'],
-                              'popul': 3928646,
+                              'popul': 4337768,
                               'ports': { 'container': 'Balboa (2,894,654), Colon (4,379,477) (2019)',
                                          'seaport': 'Balboa, Colon, Cristobal'},
                               'region': 'Central America and the Caribbean',
@@ -11321,7 +11306,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 562413, 'fix': 616698, 'internet': 2820000, 'mob': 5708163},
+                              'subs': {'bb': 562413, 'fix': 649156, 'internet': 2761452, 'mob': 5825677},
                               'tld': '.pa',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pa'}},
           'mcc': ['714'],
@@ -11342,7 +11327,7 @@ P1_CC2 = \
                               'capital': {'coord': '12 03 S, 77 03 W', 'name': 'Lima', 'time_diff': 'UTC-5'},
                               'coast': 2414,
                               'coord': ['10 00 S, 76 00 W'],
-                              'popul': 32201224,
+                              'popul': 32275736,
                               'ports': {'container': 'Callao (2,313,907) (2019)', 'seaport': 'Callao, Matarani, Paita'},
                               'region': 'South America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PE',
@@ -11390,7 +11375,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2536077, 'fix': 3082040, 'internet': 19900000, 'mob': 38915400},
+                              'subs': {'bb': 3044000, 'fix': 2470000, 'internet': 21431700, 'mob': 44000000},
                               'tld': '.pe',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pe'}},
           'mcc': ['716'],
@@ -11408,7 +11393,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC-10'},
                               'coast': 2525,
                               'coord': ['15 00 S, 140 00 W'],
-                              'popul': 297154,
+                              'popul': 299356,
                               'ports': {'seaport': 'Papeete'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PF',
@@ -11447,7 +11432,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 59790, 'fix': 60123, 'internet': 204800, 'mob': 302673},
+                              'subs': {'bb': 64000, 'fix': 94000, 'internet': 203878, 'mob': 335000},
                               'tld': '.pf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pf'}},
           'mcc': ['547'],
@@ -11463,7 +11448,7 @@ P1_CC2 = \
                               'capital': {'coord': '9 27 S, 147 11 E', 'name': 'Port Moresby', 'time_diff': 'UTC+10'},
                               'coast': 5152,
                               'coord': ['6 00 S, 147 00 E'],
-                              'popul': 7399757,
+                              'popul': 9593498,
                               'ports': {'seaport': 'Kimbe, Lae, Madang, Rabaul, Wewak'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PG',
@@ -11507,7 +11492,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 18000, 'fix': 158000, 'internet': 1370000, 'mob': 4018000},
+                              'subs': {'bb': 21000, 'fix': 166000, 'internet': 965373, 'mob': 4818000},
                               'tld': '.pg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pg'}},
           'mcc': ['537'],
@@ -11523,7 +11508,7 @@ P1_CC2 = \
                               'capital': {'coord': '14 36 N, 120 58 E', 'name': 'Manila', 'time_diff': 'UTC+8'},
                               'coast': 36289,
                               'coord': ['13 00 N, 122 00 E'],
-                              'popul': 110818325,
+                              'popul': 114597229,
                               'ports': { 'container': 'Manila (5,315,500) (2019)',
                                          'seaport': 'Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila'},
                               'region': 'Southeast Asia',
@@ -11570,7 +11555,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 5920087, 'fix': 4255808, 'internet': 73910000, 'mob': 167322432},
+                              'subs': {'bb': 7936574, 'fix': 4731196, 'internet': 54790543, 'mob': 149579406},
                               'tld': '.ph',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ph'}},
           'mcc': ['515'],
@@ -11587,7 +11572,7 @@ P1_CC2 = \
                               'capital': {'coord': '33 41 N, 73 03 E', 'name': 'Islamabad', 'time_diff': 'UTC+5'},
                               'coast': 1046,
                               'coord': ['30 00 N, 70 00 E'],
-                              'popul': 238181034,
+                              'popul': 242923845,
                               'ports': { 'container': 'Karachi (2,097,855) (2019)',
                                          'seaport': 'Karachi, Port Muhammad Bin Qasim'},
                               'region': 'Asia',
@@ -11602,13 +11587,14 @@ P1_CC2 = \
                                             'more than 90% of Pakistanis live within areas that have cell phone '
                                             'coverage',
                                             'fiber-optic networks are being constructed throughout the country to '
-                                            'increase broadband access, though broadband penetration in Pakistan is '
-                                            'still relatively low',
-                                            'fixed-line a little over 1 per 100 and mobile-cellular roughly 76 per 100 '
-                                            'persons',
-                                            2020],
-                              'general': [ "Pakistan's telecom market recently transitioned from a regulated "
-                                           'state-owned monopoly to a deregulated competitive structure, now aided by '
+                                            'increase broadband access and broadband penetration in Pakistan is '
+                                            'increasing--by the end of 2021, 50% of the population had access to '
+                                            'broadband services',
+                                            'fixed-line teledensity is a little over 1 per 100 and mobile-cellular '
+                                            'roughly 84 per 100 persons',
+                                            2021],
+                              'general': [ "Pakistan's telecom market transitioned from a regulated state-owned "
+                                           'monopoly to a deregulated competitive structure in 2003, now aided by '
                                            'foreign investment',
                                            'moderate growth over the last six years, supported by a young population '
                                            'and a rising use of mobile services',
@@ -11642,7 +11628,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2423057, 'fix': 2876794, 'internet': 61340000, 'mob': 165405847},
+                              'subs': {'bb': 2523027, 'fix': 2876794, 'internet': 55223083, 'mob': 175624364},
                               'tld': '.pk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pk'}},
           'mcc': ['410'],
@@ -11664,7 +11650,7 @@ P1_CC2 = \
                               'capital': {'coord': '52 15 N, 21 00 E', 'name': 'Warsaw', 'time_diff': 'UTC+1'},
                               'coast': 440,
                               'coord': ['52 00 N, 20 00 E'],
-                              'popul': 38185913,
+                              'popul': 38093101,
                               'ports': { 'container': 'Gdansk (2,073,215) (2019)',
                                          'seaport': 'Gdansk, Gdynia, Swinoujscie'},
                               'region': 'Europe',
@@ -11705,7 +11691,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 8212601, 'fix': 5777428, 'internet': 31970000, 'mob': 49350724},
+                              'subs': {'bb': 8369218, 'fix': 5777428, 'internet': 31456228, 'mob': 49350724},
                               'tld': '.pl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pl'}},
           'mcc': ['260'],
@@ -11772,7 +11758,7 @@ P1_CC2 = \
                               'capital': {'coord': '46 46 N, 56 11 W', 'name': 'Saint-Pierre', 'time_diff': 'UTC-3'},
                               'coast': 120,
                               'coord': ['46 50 N, 56 20 W'],
-                              'popul': 5321,
+                              'popul': 5257,
                               'ports': {'seaport': 'Saint-Pierre'},
                               'region': 'North America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PM',
@@ -11802,7 +11788,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 4086, 'internet': 4600},
+                              'subs': {'fix': 4800, 'internet': 4500},
                               'tld': '.pm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pm'}},
           'mcc': ['308'],
@@ -11849,7 +11835,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'internet': 54},
+                              'subs': {'internet': 50},
                               'tld': '.pn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pn'}},
           'mcc': ['234', '235'],
@@ -11865,7 +11851,7 @@ P1_CC2 = \
                               'capital': {'coord': '18 28 N, 66 07 W', 'name': 'San Juan', 'time_diff': 'UTC-4'},
                               'coast': 501,
                               'coord': ['18 15 N, 66 30 W'],
-                              'popul': 3142779,
+                              'popul': 3098423,
                               'ports': { 'container': 'San Juan (2,142,662) (2019)',
                                          'seaport': 'Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, '
                                                     'San Juan'},
@@ -11908,7 +11894,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 671284, 'fix': 711512, 'internet': 2210000, 'mob': 3483570},
+                              'subs': {'bb': 671284, 'fix': 711512, 'internet': 2559600, 'mob': 3483570},
                               'tld': '.pr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pr'}},
           'mcc': ['330'],
@@ -11945,7 +11931,7 @@ P1_CC2 = \
                               'capital': {'coord': '38 43 N, 9 08 W', 'name': 'Lisbon', 'time_diff': 'UTC 0'},
                               'coast': 1793,
                               'coord': ['39 30 N, 8 00 W'],
-                              'popul': 10263850,
+                              'popul': 10242081,
                               'ports': { 'container': 'Sines (1,420,000) (2019)',
                                          'seaport': 'Leixoes, Lisbon, Setubal, Sines'},
                               'region': 'Europe',
@@ -11988,7 +11974,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4160895, 'fix': 5212507, 'internet': 8580000, 'mob': 11854999},
+                              'subs': {'bb': 4160795, 'fix': 5212507, 'internet': 8031723, 'mob': 11854999},
                               'tld': '.pt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pt'}},
           'mcc': ['268'],
@@ -12018,7 +12004,7 @@ P1_CC2 = \
                               'capital': {'coord': '7 30 N, 134 37 E', 'name': 'Ngerulmud', 'time_diff': 'UTC+9'},
                               'coast': 1519,
                               'coord': ['7 30 N, 134 30 E'],
-                              'popul': 21613,
+                              'popul': 21695,
                               'ports': {'seaport': 'Koror'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PW',
@@ -12050,7 +12036,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1224, 'fix': 7204, 'internet': 6752, 'mob': 23743},
+                              'subs': {'bb': 1224, 'fix': 8000, 'internet': 7650, 'mob': 24000},
                               'tld': '.pw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.pw'}},
           'mcc': ['552'],
@@ -12065,7 +12051,7 @@ P1_CC2 = \
                               'bound': {'bord': {'Argentina': 2531, 'Bolivia': 753, 'Brazil': 1371}, 'len': 4655},
                               'capital': {'coord': '25 16 S, 57 40 W', 'name': 'Asuncion', 'time_diff': 'UTC-4'},
                               'coord': ['23 00 S, 58 00 W'],
-                              'popul': 7272639,
+                              'popul': 7356409,
                               'region': 'South America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PY',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/paraguay'},
@@ -12078,8 +12064,9 @@ P1_CC2 = \
                                             'expansion of mobile-cellular services fostered by competition among '
                                             'multiple providers',
                                             'Internet market also open to competition',
-                                            'fixed-line just under 4 per 100 and mobile-cellular just over 110 per 100',
-                                            2019],
+                                            'fixed-line just over 3 per 100 and mobile-cellular just over 105 per 100 '
+                                            'of the population',
+                                            2020],
                               'general': [ 'limited progress on structural reform and deficient infrastructure of the '
                                            'landlocked country are obstacles to telecom platform',
                                            'monopolized fixed-line service',
@@ -12087,12 +12074,13 @@ P1_CC2 = \
                                            'LTE',
                                            'deployment of fiber',
                                            'South Korean investment in education centers',
-                                           'operator enabled 100 free Internet points across the country',
+                                           'operator enabled 109 free Internet points across the country and is '
+                                           'looking to expand to 430 points in 2022',
                                            'Inter-American Development Bank loan supports modernization within '
                                            'regulatory framework',
                                            'dependent on neighboring countries for access to submarine cables',
                                            'major importer of broadcasting equipment from the USA',
-                                           2020],
+                                           2022],
                               'intl': [ "Paraguay's landlocked position means they must depend on neighbors for "
                                         'interconnection with submarine cable networks, making it cost more for '
                                         'broadband services',
@@ -12109,7 +12097,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 377379, 'fix': 272656, 'internet': 4920000, 'mob': 7761848},
+                              'subs': {'bb': 562369, 'fix': 249231, 'internet': 5278072, 'mob': 7865050},
                               'tld': '.py',
                               'url_tld': 'https://en.wikipedia.org/wiki/.py'}},
           'mcc': ['744'],
@@ -12125,7 +12113,7 @@ P1_CC2 = \
                               'capital': {'coord': '25 17 N, 51 32 E', 'name': 'Doha', 'time_diff': 'UTC+3'},
                               'coast': 563,
                               'coord': ['25 30 N, 51 15 E'],
-                              'popul': 2479995,
+                              'popul': 2508182,
                               'ports': {'seaport': "Doha, Musay'id, Ra's Laffan"},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:QA',
@@ -12164,7 +12152,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 296126, 'fix': 454701, 'internet': 2880000, 'mob': 3798514},
+                              'subs': {'bb': 296126, 'fix': 454701, 'internet': 2881060, 'mob': 3798514},
                               'tld': '.qa',
                               'url_tld': 'https://en.wikipedia.org/wiki/.qa'}},
           'mcc': ['427'],
@@ -12204,7 +12192,7 @@ P1_CC2 = \
                               'capital': {'coord': '44 26 N, 26 06 E', 'name': 'Bucharest', 'time_diff': 'UTC+2'},
                               'coast': 225,
                               'coord': ['46 00 N, 25 00 E'],
-                              'popul': 21230362,
+                              'popul': 18519899,
                               'ports': {'seaport': 'Constanta, Midia'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RO',
@@ -12240,7 +12228,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 5685000, 'fix': 3025000, 'internet': 15490000, 'mob': 22592000},
+                              'subs': {'bb': 5684782, 'fix': 3025000, 'internet': 15020866, 'mob': 22592000},
                               'tld': '.ro',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ro'}},
           'mcc': ['226'],
@@ -12265,7 +12253,7 @@ P1_CC2 = \
                                            'name': 'Belgrade (Beograd)',
                                            'time_diff': 'UTC+1'},
                               'coord': ['44 00 N, 21 00 E'],
-                              'popul': 6974289,
+                              'popul': 6739471,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RS',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/serbia'},
@@ -12299,7 +12287,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1724392, 'fix': 2572169, 'internet': 6890000, 'mob': 8260758},
+                              'subs': {'bb': 1730496, 'fix': 2572254, 'internet': 5381318, 'mob': 8260758},
                               'tld': '.rs',
                               'url_tld': 'https://en.wikipedia.org/wiki/.rs'}},
           'mcc': ['220'],
@@ -12331,7 +12319,7 @@ P1_CC2 = \
                               'capital': {'coord': '55 45 N, 37 36 E', 'name': 'Moscow', 'time_diff': 'UTC+3'},
                               'coast': 37653,
                               'coord': ['60 00 N, 100 00 E'],
-                              'popul': 142320790,
+                              'popul': 142021981,
                               'ports': { 'container': 'Saint Petersburg (2,221,724) (2019)',
                                          'seaport': '<em><br />Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br '
                                                     '/>Baltic Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br '
@@ -12390,7 +12378,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 33872758, 'fix': 27674128, 'internet': 124000000, 'mob': 238733217},
+                              'subs': {'bb': 33893305, 'fix': 25892405, 'internet': 122488468, 'mob': 238733217},
                               'tld': '.ru',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ru'}},
           'mcc': ['250'],
@@ -12432,6 +12420,7 @@ P1_CC2 = \
                       '25045',
                       '25050',
                       '25054',
+                      '25059',
                       '25060',
                       '25061',
                       '25062',
@@ -12439,6 +12428,7 @@ P1_CC2 = \
                       '25091',
                       '25092',
                       '25093',
+                      '25096',
                       '25098',
                       '25099'],
           'msisdn': ['7', '73', '74', '78', '79'],
@@ -12455,7 +12445,7 @@ P1_CC2 = \
                                          'len': 930},
                               'capital': {'coord': '1 57 S, 30 03 E', 'name': 'Kigali', 'time_diff': 'UTC+2'},
                               'coord': ['2 00 S, 30 00 E'],
-                              'popul': 12943132,
+                              'popul': 13173730,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RW',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/rwanda'},
@@ -12495,7 +12485,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 17685, 'fix': 11671, 'internet': 4120000, 'mob': 10614408},
+                              'subs': {'bb': 17685, 'fix': 11671, 'internet': 3497096, 'mob': 10614408},
                               'tld': '.rw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.rw'}},
           'mcc': ['635'],
@@ -12518,7 +12508,7 @@ P1_CC2 = \
                               'capital': {'coord': '24 39 N, 46 42 E', 'name': 'Riyadh', 'time_diff': 'UTC+3'},
                               'coast': 2640,
                               'coord': ['25 00 N, 45 00 E'],
-                              'popul': 34783757,
+                              'popul': 35354380,
                               'ports': { 'container': 'Ad Dammam (1,822,642), Jeddah (4,433,991), King Abdulla '
                                                       '(2,020,683) (2019)',
                                          'seaport': "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'"},
@@ -12567,7 +12557,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 7890261, 'fix': 5749058, 'internet': 33580000, 'mob': 43215439},
+                              'subs': {'bb': 7890261, 'fix': 5749058, 'internet': 34117590, 'mob': 43215439},
                               'tld': '.sa',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sa'}},
           'mcc': ['420'],
@@ -12583,7 +12573,7 @@ P1_CC2 = \
                               'capital': {'coord': '9 26 S, 159 57 E', 'name': 'Honiara', 'time_diff': 'UTC+11'},
                               'coast': 5313,
                               'coord': ['8 00 S, 159 00 E'],
-                              'popul': 690598,
+                              'popul': 702694,
                               'ports': {'seaport': 'Honiara, Malloco Bay, Viru Harbor, Tulagi'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SB',
@@ -12617,7 +12607,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1045, 'fix': 7104, 'internet': 198900, 'mob': 478116},
+                              'subs': {'bb': 1000, 'fix': 7000, 'internet': 80379, 'mob': 478116},
                               'tld': '.sb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sb'}},
           'mcc': ['540'],
@@ -12633,7 +12623,7 @@ P1_CC2 = \
                               'capital': {'coord': '4 37 S, 55 27 E', 'name': 'Victoria', 'time_diff': 'UTC+4'},
                               'coast': 491,
                               'coord': ['4 35 S, 55 40 E'],
-                              'popul': 96387,
+                              'popul': 97017,
                               'ports': {'seaport': 'Victoria'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SC',
@@ -12667,7 +12657,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 34966, 'fix': 18882, 'internet': 58000, 'mob': 183498},
+                              'subs': {'bb': 34966, 'fix': 18882, 'internet': 77785, 'mob': 183498},
                               'tld': '.sc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sc'}},
           'mcc': ['633'],
@@ -12690,7 +12680,7 @@ P1_CC2 = \
                               'capital': {'coord': '15 36 N, 32 32 E', 'name': 'Khartoum', 'time_diff': 'UTC+3'},
                               'coast': 853,
                               'coord': ['15 00 N, 30 00 E'],
-                              'popul': 46751152,
+                              'popul': 47958856,
                               'ports': {'seaport': 'Port Sudan'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SD',
@@ -12727,9 +12717,12 @@ P1_CC2 = \
                                         'particularly in mobile device production',
                                         'many network operators delayed upgrades to infrastructure',
                                         'consumer spending on telecom services and devices was affected by large-scale '
-                                        'job losses and the consequent restriction on disposable incomes',
+                                        'job losses and the consequent restriction on disposable incomes. Security '
+                                        'services imposed periodic internet and cellular communication blackouts '
+                                        'during civilian protests of the military takeover in October, November, and '
+                                        'December 2021.',
                                         0],
-                              'subs': {'bb': 28782, 'fix': 129408, 'internet': 13700000, 'mob': 35195207},
+                              'subs': {'bb': 28782, 'fix': 129408, 'internet': 12277795, 'mob': 33014200},
                               'tld': '.sd',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sd'}},
           'mcc': ['634'],
@@ -12756,7 +12749,7 @@ P1_CC2 = \
                               'capital': {'coord': '59 20 N, 18 03 E', 'name': 'Stockholm', 'time_diff': 'UTC+1'},
                               'coast': 3218,
                               'coord': ['62 00 N, 15 00 E'],
-                              'popul': 10261767,
+                              'popul': 10483647,
                               'ports': { 'seaport': 'Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, '
                                                     'Stockholm, Trelleborg, Visby'},
                               'region': 'Europe',
@@ -12803,7 +12796,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4101078, 'fix': 1624271, 'internet': 9930000, 'mob': 12959858},
+                              'subs': {'bb': 4179574, 'fix': 1478610, 'internet': 9835769, 'mob': 12895900},
                               'tld': '.se',
                               'url_tld': 'https://en.wikipedia.org/wiki/.se'}},
           'mcc': ['240'],
@@ -12876,7 +12869,7 @@ P1_CC2 = \
                               'capital': {'coord': '1 17 N, 103 51 E', 'name': 'Singapore', 'time_diff': 'UTC+8'},
                               'coast': 193,
                               'coord': ['1 22 N, 103 48 E'],
-                              'popul': 5866139,
+                              'popul': 5921231,
                               'ports': {'container': 'Singapore (37,195,636) (2019)', 'seaport': 'Singapore'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SG',
@@ -12919,7 +12912,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1517600, 'fix': 1891600, 'internet': 5290000, 'mob': 8427500},
+                              'subs': {'bb': 1509700, 'fix': 1891000, 'internet': 5230942, 'mob': 9034300},
                               'tld': '.sg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sg'}},
           'mcc': ['525'],
@@ -12938,7 +12931,7 @@ P1_CC2 = \
                               'coord': [ ('Saint Helena', '15 57 S, 5 42 W'),
                                          ('Ascension Island', '7 57 S, 14 22 W'),
                                          ('Tristan da Cunha island group', '37 15 S, 12 30 W')],
-                              'popul': 7915,
+                              'popul': 7925,
                               'ports': {'seaport': 'Saint Helena'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SH',
@@ -12978,7 +12971,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1000, 'fix': 3000, 'internet': 2281, 'mob': 4000},
+                              'subs': {'bb': 1000, 'fix': 3000, 'internet': 2302, 'mob': 4000},
                               'tld': '.sh',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sh'}},
           'mcc': ['658'],
@@ -12995,7 +12988,7 @@ P1_CC2 = \
                               'capital': {'coord': '46 03 N, 14 31 E', 'name': 'Ljubljana', 'time_diff': 'UTC+1'},
                               'coast': 46,
                               'coord': ['46 07 N, 14 49 E'],
-                              'popul': 2102106,
+                              'popul': 2101208,
                               'ports': {'seaport': 'Koper'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SI',
@@ -13030,7 +13023,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 651604, 'fix': 704909, 'internet': 1750000, 'mob': 2550895},
+                              'subs': {'bb': 651604, 'fix': 704909, 'internet': 1829105, 'mob': 2511980},
                               'tld': '.si',
                               'url_tld': 'https://en.wikipedia.org/wiki/.si'}},
           'mcc': ['293'],
@@ -13079,8 +13072,7 @@ P1_CC2 = \
                                         'job losses and the consequent restriction on disposable incomes',
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
-                                        0],
-                              'subs': {'internet': 1542}}},
+                                        0]}},
           'mcc': ['242'],
           'mccmnc': [],
           'msisdn': ['47', '4779'],
@@ -13098,7 +13090,7 @@ P1_CC2 = \
                                          'len': 1587},
                               'capital': {'coord': '48 09 N, 17 07 E', 'name': 'Bratislava', 'time_diff': 'UTC+1'},
                               'coord': ['48 40 N, 19 30 E'],
-                              'popul': 5436066,
+                              'popul': 5431252,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SK',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/slovakia'},
@@ -13143,7 +13135,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1701561, 'fix': 616148, 'internet': 4640000, 'mob': 7289707},
+                              'subs': {'bb': 1701561, 'fix': 648462, 'internet': 4912944, 'mob': 7399530},
                               'tld': '.sk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sk'}},
           'mcc': ['231'],
@@ -13170,7 +13162,7 @@ P1_CC2 = \
                               'capital': {'coord': '8 29 N, 13 14 W', 'name': 'Freetown', 'time_diff': 'UTC 0'},
                               'coast': 402,
                               'coord': ['8 30 N, 11 30 W'],
-                              'popul': 6807277,
+                              'popul': 8692606,
                               'ports': {'seaport': 'Freetown, Pepel, Sherbro Islands'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SL',
@@ -13203,7 +13195,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 189, 'internet': 2390000, 'mob': 6884201},
+                              'subs': {'fix': 189, 'internet': 1435857, 'mob': 6884201},
                               'tld': '.sl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sl'}},
           'mcc': ['619'],
@@ -13219,7 +13211,7 @@ P1_CC2 = \
                                            'name': 'San Marino (city)',
                                            'time_diff': 'UTC+1'},
                               'coord': ['43 46 N, 12 25 E'],
-                              'popul': 34467,
+                              'popul': 34682,
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SM',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/san-marino'},
@@ -13244,7 +13236,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 11081, 'fix': 16000, 'internet': 20400, 'mob': 38750},
+                              'subs': {'bb': 11000, 'fix': 16000, 'internet': 20318, 'mob': 39000},
                               'tld': '.sm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sm'}},
           'mcc': ['292'],
@@ -13265,7 +13257,7 @@ P1_CC2 = \
                               'capital': {'coord': '14 44 N, 17 38 W', 'name': 'Dakar', 'time_diff': 'UTC 0'},
                               'coast': 531,
                               'coord': ['14 00 N, 14 00 W'],
-                              'popul': 16082442,
+                              'popul': 17923036,
                               'ports': {'seaport': 'Dakar'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SN',
@@ -13300,7 +13292,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 177363, 'fix': 207592, 'internet': 7810000, 'mob': 19078948},
+                              'subs': {'bb': 153813, 'fix': 228774, 'internet': 7199890, 'mob': 19078948},
                               'tld': '.sn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sn'}},
           'mcc': ['608'],
@@ -13316,7 +13308,7 @@ P1_CC2 = \
                               'capital': {'coord': '2 04 N, 45 20 E', 'name': 'Mogadishu', 'time_diff': 'UTC+3'},
                               'coast': 3025,
                               'coord': ['10 00 N, 49 00 E'],
-                              'popul': 12094640,
+                              'popul': 12386248,
                               'ports': {'seaport': 'Berbera, Kismaayo'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SO',
@@ -13360,7 +13352,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 98000, 'fix': 74800, 'internet': 1950000, 'mob': 7653040},
+                              'subs': {'bb': 119000, 'fix': 91000, 'internet': 308858, 'mob': 7119000},
                               'tld': '.so',
                               'url_tld': 'https://en.wikipedia.org/wiki/.so'}},
           'mcc': ['637'],
@@ -13389,7 +13381,7 @@ P1_CC2 = \
                               'capital': {'coord': '5 50 N, 55 10 W', 'name': 'Paramaribo', 'time_diff': 'UTC-3'},
                               'coast': 386,
                               'coord': ['4 00 N, 56 00 W'],
-                              'popul': 614749,
+                              'popul': 632638,
                               'ports': {'seaport': 'Paramaribo, Wageningen'},
                               'region': 'South America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SR',
@@ -13425,7 +13417,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 92270, 'fix': 103240, 'internet': 352100, 'mob': 899339},
+                              'subs': {'bb': 92270, 'fix': 103240, 'internet': 410644, 'mob': 813844},
                               'tld': '.sr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sr'}},
           'mcc': ['746'],
@@ -13448,7 +13440,7 @@ P1_CC2 = \
                               'cmt': 'IANA has designated .ss as the ccTLD for South Sudan, however it has not been '
                                      'activated in DNS root zone',
                               'coord': ['8 00 N, 30 00 E'],
-                              'popul': 10984074,
+                              'popul': 11544905,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SS',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/south-sudan'},
@@ -13484,7 +13476,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 200, 'internet': 900700, 'mob': 2221967},
+                              'subs': {'bb': 200, 'internet': 783561, 'mob': 2221970},
                               'tld': '.ss',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ss'}},
           'mcc': ['659'],
@@ -13500,7 +13492,7 @@ P1_CC2 = \
                               'capital': {'coord': '0 20 N, 6 44 E', 'name': 'Sao Tome', 'time_diff': 'UTC 0'},
                               'coast': 209,
                               'coord': ['1 00 N, 7 00 E'],
-                              'popul': 213948,
+                              'popul': 217164,
                               'ports': {'seaport': 'Sao Tome'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ST',
@@ -13536,7 +13528,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2512, 'fix': 2720, 'internet': 65000, 'mob': 174203},
+                              'subs': {'bb': 2512, 'fix': 2790, 'internet': 72323, 'mob': 174203},
                               'tld': '.st',
                               'url_tld': 'https://en.wikipedia.org/wiki/.st'}},
           'mcc': ['626'],
@@ -13552,7 +13544,7 @@ P1_CC2 = \
                               'capital': {'coord': '13 42 N, 89 12 W', 'name': 'San Salvador', 'time_diff': 'UTC-6'},
                               'coast': 307,
                               'coord': ['13 50 N, 88 55 W'],
-                              'popul': 6528135,
+                              'popul': 6568745,
                               'ports': {'seaport': 'Puerto Cutuco'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SV',
@@ -13586,7 +13578,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 525088, 'fix': 893630, 'internet': 3280000, 'mob': 10396786},
+                              'subs': {'bb': 586000, 'fix': 894000, 'internet': 3567410, 'mob': 9949000},
                               'tld': '.sv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sv'}},
           'mcc': ['706'],
@@ -13604,7 +13596,7 @@ P1_CC2 = \
                               'capital': {'coord': '18 1 N, 63 2 W', 'name': 'Philipsburg', 'time_diff': 'UTC-4'},
                               'coast': 58,
                               'coord': ['18 4 N, 63 4 W'],
-                              'popul': 44564,
+                              'popul': 45126,
                               'ports': {'seaport': 'Philipsburg'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SX',
@@ -13639,7 +13631,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'internet': 29600, 'mob': 68840},
+                              'subs': {'mob': 68840},
                               'tld': '.sx',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sx'}},
           'mcc': ['362'],
@@ -13676,7 +13668,7 @@ P1_CC2 = \
                               'capital': {'coord': '33 30 N, 36 18 E', 'name': 'Damascus', 'time_diff': 'UTC+2'},
                               'coast': 193,
                               'coord': ['35 00 N, 38 00 E'],
-                              'popul': 20384316,
+                              'popul': 21563800,
                               'ports': {'seaport': 'Baniyas, Latakia, Tartus'},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SY',
@@ -13722,11 +13714,11 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1548100, 'fix': 2892515, 'internet': 8410000, 'mob': 16660253},
+                              'subs': {'bb': 1549356, 'fix': 2857193, 'internet': 6300237, 'mob': 19387600},
                               'tld': '.sy',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sy'}},
           'mcc': ['417'],
-          'mccmnc': ['41701', '41702', '41709'],
+          'mccmnc': ['41701', '41702', '41703', '41709'],
           'msisdn': ['963'],
           'name': 'Syria',
           'url': 'https://en.wikipedia.org/wiki/Syria'},
@@ -13740,7 +13732,7 @@ P1_CC2 = \
                                                    'capital)',
                                            'time_diff': 'UTC+2'},
                               'coord': ['26 30 S, 31 30 E'],
-                              'popul': 1113276,
+                              'popul': 1121761,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SZ',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/eswatini'},
@@ -13776,7 +13768,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 8000, 'fix': 41000, 'internet': 548100, 'mob': 1052000},
+                              'subs': {'bb': 12000, 'fix': 39000, 'internet': 539623, 'mob': 1243000},
                               'tld': '.sz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.sz'}},
           'mcc': ['653'],
@@ -13802,7 +13794,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC-5'},
                               'coast': 389,
                               'coord': ['21 45 N, 71 35 W'],
-                              'popul': 57196,
+                              'popul': 58286,
                               'ports': {'seaport': 'Cockburn Harbour, Grand Turk, Providenciales'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TC',
@@ -13836,7 +13828,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 4000, 'internet': 31000},
+                              'subs': {'fix': 4000},
                               'tld': '.tc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tc'}},
           'mcc': ['376'],
@@ -13857,7 +13849,7 @@ P1_CC2 = \
                                          'len': 6406},
                               'capital': {'coord': '12 06 N, 15 02 E', 'name': "N'Djamena", 'time_diff': 'UTC+1'},
                               'coord': ['15 00 N, 19 00 E'],
-                              'popul': 17414108,
+                              'popul': 17963211,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TD',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/chad'},
@@ -13891,7 +13883,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 5340, 'internet': 2860000, 'mob': 8687151},
+                              'subs': {'fix': 5340, 'internet': 1642586, 'mob': 8687151},
                               'tld': '.td',
                               'url_tld': 'https://en.wikipedia.org/wiki/.td'}},
           'mcc': ['622'],
@@ -13937,7 +13929,7 @@ P1_CC2 = \
                               'capital': {'coord': '6 07 N, 1 13 E', 'name': 'Lome', 'time_diff': 'UTC 0'},
                               'coast': 56,
                               'coord': ['8 00 N, 1 10 E'],
-                              'popul': 8283189,
+                              'popul': 8492333,
                               'ports': {'seaport': 'Kpeme, Lome'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TG',
@@ -13969,7 +13961,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 52706, 'fix': 46499, 'internet': 1990000, 'mob': 6516510},
+                              'subs': {'bb': 52706, 'fix': 46499, 'internet': 1986897, 'mob': 6239180},
                               'tld': '.tg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tg'}},
           'mcc': ['615'],
@@ -13986,7 +13978,7 @@ P1_CC2 = \
                               'capital': {'coord': '13 45 N, 100 31 E', 'name': 'Bangkok', 'time_diff': 'UTC+7'},
                               'coast': 3219,
                               'coord': ['15 00 N, 100 00 E'],
-                              'popul': 69480520,
+                              'popul': 69648117,
                               'ports': { 'container': 'Laem Chabang (8,106,928) (2019)',
                                          'seaport': 'Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha'},
                               'region': 'Southeast Asia',
@@ -14037,7 +14029,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 11599513, 'fix': 5003000, 'internet': 48590000, 'mob': 116294000},
+                              'subs': {'bb': 11478265, 'fix': 5003000, 'internet': 54443983, 'mob': 129614000},
                               'tld': '.th',
                               'url_tld': 'https://en.wikipedia.org/wiki/.th'}},
           'mcc': ['520'],
@@ -14070,7 +14062,7 @@ P1_CC2 = \
                                          'len': 4130},
                               'capital': {'coord': '38 33 N, 68 46 E', 'name': 'Dushanbe', 'time_diff': 'UTC+5'},
                               'coord': ['39 00 N, 71 00 E'],
-                              'popul': 8990874,
+                              'popul': 9119347,
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TJ',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tajikistan'},
@@ -14119,7 +14111,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 6000, 'fix': 479000, 'internet': 3360000, 'mob': 9904000},
+                              'subs': {'bb': 6000, 'fix': 502000, 'internet': 2050625, 'mob': 9904000},
                               'tld': '.tj',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tj'}},
           'mcc': ['436'],
@@ -14167,7 +14159,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'internet': 818},
+                              'subs': {'internet': 805},
                               'tld': '.tk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tk'}},
           'mcc': ['554'],
@@ -14183,7 +14175,7 @@ P1_CC2 = \
                               'capital': {'coord': '8 35 S, 125 36 E', 'name': 'Dili', 'time_diff': 'UTC+9'},
                               'coast': 706,
                               'coord': ['8 50 S, 125 55 E'],
-                              'popul': 1413958,
+                              'popul': 1445006,
                               'ports': {'seaport': 'Dili'},
                               'region': 'Southeast Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TL',
@@ -14230,7 +14222,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 75, 'fix': 2012, 'internet': 599700, 'mob': 1377915},
+                              'subs': {'bb': 75, 'fix': 2012, 'internet': 382348, 'mob': 1425260},
                               'tld': '.tl',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tl'}},
           'mcc': ['514'],
@@ -14251,7 +14243,7 @@ P1_CC2 = \
                                            'name': 'Ashgabat (Ashkhabad)',
                                            'time_diff': 'UTC+5'},
                               'coord': ['40 00 N, 60 00 E'],
-                              'popul': 5579889,
+                              'popul': 5636011,
                               'ports': {'seaport': 'Caspian Sea - Turkmenbasy'},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TM',
@@ -14293,7 +14285,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 5000, 'fix': 682000, 'internet': 2009999, 'mob': 9377000},
+                              'subs': {'bb': 10000, 'fix': 717000, 'internet': 1247940, 'mob': 9377000},
                               'tld': '.tm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tm'}},
           'mcc': ['438'],
@@ -14309,7 +14301,7 @@ P1_CC2 = \
                               'capital': {'coord': '36 48 N, 10 11 E', 'name': 'Tunis', 'time_diff': 'UTC+1'},
                               'coast': 1148,
                               'coord': ['34 00 N, 9 00 E'],
-                              'popul': 11811335,
+                              'popul': 11896972,
                               'ports': {'seaport': 'Bizerte, Gabes, Rades, Sfax, Skhira'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TN',
@@ -14327,24 +14319,27 @@ P1_CC2 = \
                                             'competition between several mobile-cellular service providers has '
                                             'resulted in lower activation and usage charges and a surge in '
                                             'subscribership',
-                                            'fixed-line is nearly 13 per 100 and mobile-cellular teledensity has '
-                                            'reached about 126 telephones per 100 persons',
-                                            2020],
+                                            'fixed-line is nearly 14.1 per 100 and mobile-cellular teledensity has '
+                                            'reached about 132 telephones per 100 persons',
+                                            2022],
                               'general': [ 'Tunisia has one of the most sophisticated telecom infrastructures in North '
                                            'Africa',
                                            'penetration rates for mobile and Internet services are among the highest '
                                            'in the region',
                                            'government program of regulation and infrastructure projects aims to '
                                            'improve Internet connectivity to underserved areas',
-                                           'operators built extensive LTE infrastructure in 2019, and are developing '
-                                           '5G networks and services',
-                                           'Chinese company Huawei invested in LTE network',
-                                           'operator planning nano-satellite launches in 2023',
+                                           'operators built extensive LTE infrastructure in 2019, and continue to '
+                                           'discuss plans for future 5G networks and services',
+                                           "People's Republic of China (PRC) company Huawei sold equipment to "
+                                           "operators for Tunisia's LTE networks",
+                                           'one operator has signed an agreement to pursue nano-satellite launches in '
+                                           '2023',
                                            'Internet censorship abolished, though concerns of government surveillance '
                                            'remain',
                                            'legislation passed in 2017 supporting e-commerce and active e-government',
-                                           'importer of integrated circuits and broadcasting equipment from China',
-                                           2020],
+                                           'importer of some integrated circuits and broadcasting equipment (including '
+                                           'radio, television, and communications transmitters) from the PRC',
+                                           2022],
                               'intl': [ 'landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and '
                                         'Trapani-Kelibia submarine cable systems that provides links to Europe, '
                                         'Africa, the Middle East, Asia and Southeast Asia',
@@ -14364,7 +14359,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1334551, 'fix': 1533273, 'internet': 7920000, 'mob': 14852857},
+                              'subs': {'bb': 1334059, 'fix': 1533273, 'internet': 8509405, 'mob': 14771000},
                               'tld': '.tn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tn'}},
           'mcc': ['605'],
@@ -14380,7 +14375,7 @@ P1_CC2 = \
                               'capital': {'coord': '21 08 S, 175 12 W', 'name': "Nuku'alofa", 'time_diff': 'UTC+13'},
                               'coast': 419,
                               'coord': ['20 00 S, 175 00 W'],
-                              'popul': 105780,
+                              'popul': 105517,
                               'ports': {'seaport': "Nuku'alofa, Neiafu, Pangai"},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TO',
@@ -14417,7 +14412,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 3703, 'fix': 6637, 'internet': 43800, 'mob': 62104},
+                              'subs': {'bb': 5000, 'fix': 7000, 'internet': 42844, 'mob': 62104},
                               'tld': '.to',
                               'url_tld': 'https://en.wikipedia.org/wiki/.to'}},
           'mcc': ['539'],
@@ -14441,7 +14436,7 @@ P1_CC2 = \
                               'capital': {'coord': '39 56 N, 32 52 E', 'name': 'Ankara', 'time_diff': 'UTC+3'},
                               'coast': 7200,
                               'coord': ['39 00 N, 35 00 E'],
-                              'popul': 82482383,
+                              'popul': 83047706,
                               'ports': { 'container': 'Ambarli (3,104,882), Mersin (Icel) (1,854,312), Izmet '
                                                       '(1,715,193) (2019)',
                                          'seaport': 'Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), '
@@ -14492,7 +14487,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 16734853, 'fix': 12448604, 'internet': 65800000, 'mob': 82128104},
+                              'subs': {'bb': 16734853, 'fix': 12448604, 'internet': 65784472, 'mob': 80790900},
                               'tld': '.tr',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tr'}},
           'mcc': ['286'],
@@ -14508,7 +14503,7 @@ P1_CC2 = \
                               'capital': {'coord': '10 39 N, 61 31 W', 'name': 'Port of Spain', 'time_diff': 'UTC-4'},
                               'coast': 362,
                               'coord': ['11 00 N, 61 00 W'],
-                              'popul': 1221047,
+                              'popul': 1405646,
                               'ports': {'seaport': 'Point Fortin, Point Lisas, Port of Spain, Scarborough'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TT',
@@ -14547,7 +14542,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 375990, 'fix': 323905, 'internet': 860000, 'mob': 1987996},
+                              'subs': {'bb': 376771, 'fix': 323905, 'internet': 1074126, 'mob': 2163730},
                               'tld': '.tt',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tt'}},
           'mcc': ['374'],
@@ -14566,7 +14561,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+12'},
                               'coast': 24,
                               'coord': ['8 00 S, 178 00 E'],
-                              'popul': 11448,
+                              'popul': 11544,
                               'ports': {'seaport': 'Funafuti'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TV',
@@ -14598,7 +14593,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 450, 'fix': 2000, 'internet': 5849, 'mob': 8000},
+                              'subs': {'bb': 450, 'fix': 2000, 'internet': 5711, 'mob': 8000},
                               'tld': '.tv',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tv'}},
           'mcc': ['553'],
@@ -14614,7 +14609,7 @@ P1_CC2 = \
                               'capital': {'coord': '25 02 N, 121 31 E', 'name': 'Taipei', 'time_diff': 'UTC+8'},
                               'coast': 1566,
                               'coord': ['23 30 N, 121 00 E'],
-                              'popul': 23572052,
+                              'popul': 23580712,
                               'ports': { 'container': 'Kaohsiung (10,428,634), Taichung (1,793,966), Taipei '
                                                       '(1,620,392) (2019)',
                                          'seaport': 'Keelung (Chi-lung), Kaohsiung, Hualian, Taichung'},
@@ -14651,7 +14646,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 5952411, 'fix': 12750429, 'internet': 21450000, 'mob': 29351150},
+                              'subs': {'bb': 5831470, 'fix': 12971900, 'internet': 21158750, 'mob': 29291500},
                               'tld': '.tw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tw'}},
           'mcc': ['466'],
@@ -14701,7 +14696,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+3'},
                               'coast': 1424,
                               'coord': ['6 00 S, 35 00 E'],
-                              'popul': 62092761,
+                              'popul': 63852892,
                               'ports': {'seaport': 'Dar es Salaam, Zanzibar'},
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TZ',
@@ -14719,13 +14714,19 @@ P1_CC2 = \
                                             'scatter, and fiber-optic cable',
                                             'some links being made digital',
                                             2019],
-                              'general': [ "Tanzania's telecom services are marginal and operating below capacity",
+                              'general': [ "Tanzania's telecom services are being developed to reach parity with more "
+                                           'advanced networks from neighboring countries such as Kenya and fierce '
+                                           "competition exists amongst Tanzania's 5 major mobile network operators",
                                            'one fixed-line operator with competition in mobile networks',
                                            'high tariffs on telecom',
-                                           'mobile use is growing with popularity of 3G/LTE services',
-                                           'government allocated funds in 2019 to improve rural telecom infrastructure '
-                                           'and work on national fiber backbone network connecting population around '
-                                           'country',
+                                           'mobile use remains popular, with the government subsidizing expansion of '
+                                           'mobile networks into rural communities',
+                                           'most mobile networks rely on older 2G and 3G technology with 4G/LTE '
+                                           'service available in urban centers',
+                                           'the government is currently testing 5G technology and plans to begin '
+                                           'rolling out 5G service in 2024',
+                                           'the government continues to improve rural telecom infrastructure including '
+                                           'work on a national fiber backbone network connecting the entire population',
                                            2020],
                               'intl': [ 'landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS fiber-optic '
                                         'submarine cable system linking East Africa with the Middle East',
@@ -14742,7 +14743,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1084698, 'fix': 72469, 'internet': 15150000, 'mob': 51220233},
+                              'subs': {'bb': 1135608, 'fix': 72469, 'internet': 13141527, 'mob': 47685200},
                               'tld': '.tz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.tz'}},
           'mcc': ['640'],
@@ -14776,7 +14777,7 @@ P1_CC2 = \
                               'capital': {'coord': '50 26 N, 30 31 E', 'name': 'Kyiv (Kiev)', 'time_diff': 'UTC+2'},
                               'coast': 2782,
                               'coord': ['49 00 N, 32 00 E'],
-                              'popul': 43745640,
+                              'popul': 43528136,
                               'ports': {'seaport': 'Feodosiia, Chornomorsk, Mariupol, Mykolaiv, Odesa, Yuzhne'},
                               'region': 'AsiaEurope',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UA',
@@ -14823,7 +14824,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 7769401, 'fix': 3314263, 'internet': 29470000, 'mob': 53977690},
+                              'subs': {'bb': 7769401, 'fix': 3314263, 'internet': 33101020, 'mob': 54842900},
                               'tld': '.ua',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ua'}},
           'mcc': ['255'],
@@ -14860,7 +14861,7 @@ P1_CC2 = \
                                          'len': 2729},
                               'capital': {'coord': '0 19 N, 32 33 E', 'name': 'Kampala', 'time_diff': 'UTC+3'},
                               'coord': ['1 00 N, 32 00 E'],
-                              'popul': 44712143,
+                              'popul': 46205893,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UG',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/uganda'},
@@ -14898,7 +14899,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 34596, 'fix': 90774, 'internet': 12160000, 'mob': 27688987},
+                              'subs': {'bb': 58594, 'fix': 90774, 'internet': 9148200, 'mob': 25395500},
                               'tld': '.ug',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ug'}},
           'mcc': ['641'],
@@ -14931,7 +14932,7 @@ P1_CC2 = \
                                      'code UK in lieu of the ISO 3166-2 code of GB',
                               'coast': 12429,
                               'coord': ['54 00 N, 2 00 W'],
-                              'popul': 67081000,
+                              'popul': 67791400,
                               'ports': { 'container': 'Felixstowe (3,584,000), London (2,790,000), Southampton '
                                                       '(1,924,847) (2019)',
                                          'seaport': 'Dover, Felixstowe, Immingham, Liverpool, London, Southampton, '
@@ -14992,7 +14993,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 27490258, 'fix': 32078000, 'internet': 65319999, 'mob': 79007000},
+                              'subs': {'bb': 27330297, 'fix': 32037000, 'internet': 63854528, 'mob': 80967000},
                               'tld': '.gb',
                               'url_tld': 'https://en.wikipedia.org/wiki/.gb'}},
           'mcc': ['234', '235'],
@@ -15095,7 +15096,7 @@ P1_CC2 = \
                               'capital': {'coord': '38 53 N, 77 02 W', 'name': 'Washington, DC', 'time_diff': 'UTC-5'},
                               'coast': 19924,
                               'coord': ['38 00 N, 97 00 W'],
-                              'popul': 334998398,
+                              'popul': 337341954,
                               'ports': { 'container': 'Charleston (2,436,185), Hampton Roads (2,937,962), Houston '
                                                       '(2,987,291), Long Beach (7,632,032), Los Angeles (9,337,632), '
                                                       'New York/New Jersey (7,471,131), Oakland (2,500,431), Savannah '
@@ -15168,7 +15169,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 120531000, 'fix': 103052000, 'internet': 298800000, 'mob': 442457000},
+                              'subs': {'bb': 121176000, 'fix': 101526000, 'internet': 301665983, 'mob': 442457000},
                               'tld': '.us',
                               'url_tld': 'https://en.wikipedia.org/wiki/.us'}},
           'mcc': ['310', '311', '312', '313', '314', '315', '316'],
@@ -15664,7 +15665,7 @@ P1_CC2 = \
                               'capital': {'coord': '34 51 S, 56 10 W', 'name': 'Montevideo', 'time_diff': 'UTC-3'},
                               'coast': 660,
                               'coord': ['33 00 S, 56 00 W'],
-                              'popul': 3398239,
+                              'popul': 3407213,
                               'ports': {'seaport': 'Montevideo'},
                               'region': 'South America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UY',
@@ -15709,7 +15710,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1012410, 'fix': 1165373, 'internet': 2690000, 'mob': 4779787},
+                              'subs': {'bb': 1063701, 'fix': 1224600, 'internet': 2987405, 'mob': 4779790},
                               'tld': '.uy',
                               'url_tld': 'https://en.wikipedia.org/wiki/.uy'}},
           'mcc': ['748'],
@@ -15731,7 +15732,7 @@ P1_CC2 = \
                                            'name': 'Tashkent (Toshkent)',
                                            'time_diff': 'UTC+5'},
                               'coord': ['41 00 N, 64 00 E'],
-                              'popul': 30842796,
+                              'popul': 31104937,
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UZ',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/uzbekistan'},
@@ -15786,7 +15787,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 4820009, 'fix': 3550069, 'internet': 18600000, 'mob': 33387000},
+                              'subs': {'bb': 4820009, 'fix': 3550069, 'internet': 24304756, 'mob': 33387000},
                               'tld': '.uz',
                               'url_tld': 'https://en.wikipedia.org/wiki/.uz'}},
           'mcc': ['434'],
@@ -15840,7 +15841,7 @@ P1_CC2 = \
                               'capital': {'coord': '13 08 N, 61 13 W', 'name': 'Kingstown', 'time_diff': 'UTC-4'},
                               'coast': 84,
                               'coord': ['13 15 N, 61 12 W'],
-                              'popul': 101145,
+                              'popul': 100969,
                               'ports': {'seaport': 'Kingstown'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VC',
@@ -15876,7 +15877,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 24494, 'fix': 12483, 'internet': 67000, 'mob': 97059},
+                              'subs': {'bb': 24733, 'fix': 12483, 'internet': 24408, 'mob': 97059},
                               'tld': '.vc',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vc'}},
           'mcc': ['360'],
@@ -15892,7 +15893,7 @@ P1_CC2 = \
                               'capital': {'coord': '10 29 N, 66 52 W', 'name': 'Caracas', 'time_diff': 'UTC-4'},
                               'coast': 2800,
                               'coord': ['8 00 N, 66 00 W'],
-                              'popul': 29069153,
+                              'popul': 29789730,
                               'ports': {'seaport': 'La Guaira, Maracaibo, Puerto Cabello, Punta Cardon'},
                               'region': 'South America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VE',
@@ -15909,7 +15910,8 @@ P1_CC2 = \
                                             'fixed-line over 18 per 100 and mobile-cellular telephone subscribership '
                                             'about 63 per 100 persons',
                                             2020],
-                              'general': [ 'telecom industry struggling due to political upheaval in the country',
+                              'general': [ 'the telecom industry is struggling due to political upheaval in the '
+                                           'country',
                                            'poor quality of service in many areas of the country due to decrepit state '
                                            "of fixed-line network and operators' inability to pay for equipment from "
                                            'foreign vendors',
@@ -15919,11 +15921,11 @@ P1_CC2 = \
                                            'LTE coverage to about half of the population',
                                            'government launched National Fiber Optic backbone project in 2019',
                                            'national satellite drifted off course and became non-operational',
-                                           'American company closed a telecom service due to US sanctions and a '
+                                           'an American company closed a telecom service due to US sanctions and a '
                                            'Chilean company later acquired the service',
                                            'Internet freedom deteriorating amid crisis, with frequent disruptions to '
                                            'service and monitoring',
-                                           'importer of broadcasting equipment from the USA',
+                                           'importer of broadcasting equipment from the US',
                                            2020],
                               'intl': [ 'landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, GlobeNet, '
                                         'ALBA-1 and Americas II submarine cable system providing connectivity to the '
@@ -15941,7 +15943,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2407187, 'fix': 5276274, 'internet': 20570000, 'mob': 18028388},
+                              'subs': {'bb': 2561556, 'fix': 5251182, 'internet': 20531397, 'mob': 13476300},
                               'tld': '.ve',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ve'}},
           'mcc': ['734'],
@@ -15957,7 +15959,7 @@ P1_CC2 = \
                               'capital': {'coord': '18 25 N, 64 37 W', 'name': 'Road Town', 'time_diff': 'UTC-4'},
                               'coast': 80,
                               'coord': ['18 30 N, 64 30 W'],
-                              'popul': 37891,
+                              'popul': 38632,
                               'ports': {'seaport': 'Road Harbor'},
                               'region': 'Central America and the Caribbean',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VG',
@@ -15990,7 +15992,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 6738, 'fix': 7311, 'internet': 23600, 'mob': 35163},
+                              'subs': {'bb': 6738, 'fix': 7000, 'internet': 23585, 'mob': 35163},
                               'tld': '.vg',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vg'}},
           'mcc': ['348'],
@@ -16008,7 +16010,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC-4'},
                               'coast': 188,
                               'coord': ['18 20 N, 64 50 W'],
-                              'popul': 105870,
+                              'popul': 105413,
                               'ports': { 'seaport': 'Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree '
                                                     'Bay'},
                               'region': 'Central America and the Caribbean',
@@ -16049,7 +16051,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 76000, 'internet': 67200},
+                              'subs': {'fix': 76000, 'internet': 68268, 'mob': 59121},
                               'tld': '.vi',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vi'}},
           'mcc': ['332'],
@@ -16065,7 +16067,7 @@ P1_CC2 = \
                               'capital': {'coord': '21 02 N, 105 51 E', 'name': 'Hanoi (Ha Noi)', 'time_diff': 'UTC+7'},
                               'coast': 3444,
                               'coord': ['16 10 N, 107 50 E'],
-                              'popul': 102789598,
+                              'popul': 103808319,
                               'ports': { 'container': 'Saigon (7,220,377), Cai Mep (3,742,384), Haiphong (5,133,150) '
                                                       '(2019)',
                                          'seaport': 'Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon'},
@@ -16113,7 +16115,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 16699249, 'fix': 3205775, 'internet': 68720000, 'mob': 138934626},
+                              'subs': {'bb': 16699249, 'fix': 3205775, 'internet': 68137008, 'mob': 136230000},
                               'tld': '.vn',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vn'}},
           'mcc': ['452'],
@@ -16131,7 +16133,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+11'},
                               'coast': 2528,
                               'coord': ['16 00 S, 167 00 E'],
-                              'popul': 303009,
+                              'popul': 308043,
                               'ports': {'seaport': 'Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VU',
@@ -16170,7 +16172,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 2785, 'fix': 3472, 'internet': 104100, 'mob': 246232},
+                              'subs': {'bb': 2785, 'fix': 3472, 'internet': 77969, 'mob': 265219},
                               'tld': '.vu',
                               'url_tld': 'https://en.wikipedia.org/wiki/.vu'}},
           'mcc': ['541'],
@@ -16188,7 +16190,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+12'},
                               'coast': 129,
                               'coord': ['13 18 S, 176 12 W'],
-                              'popul': 15851,
+                              'popul': 15891,
                               'ports': {'seaport': 'Leava, Mata-Utu'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:WF',
@@ -16228,7 +16230,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 3132, 'internet': 5500},
+                              'subs': {'fix': 3132, 'internet': 1029},
                               'tld': '.wf',
                               'url_tld': 'https://en.wikipedia.org/wiki/.wf'}},
           'mcc': ['543'],
@@ -16244,7 +16246,7 @@ P1_CC2 = \
                               'capital': {'coord': '13 49 S, 171 46 W', 'name': 'Apia', 'time_diff': 'UTC+13'},
                               'coast': 403,
                               'coord': ['13 35 S, 172 20 W'],
-                              'popul': 204898,
+                              'popul': 206179,
                               'ports': {'seaport': 'Apia'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:WS',
@@ -16287,7 +16289,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1692, 'fix': 8454, 'internet': 67000, 'mob': 124211},
+                              'subs': {'bb': 1692, 'fix': 6000, 'internet': 67012, 'mob': 69000},
                               'tld': '.ws',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ws'}},
           'mcc': ['549'],
@@ -16303,14 +16305,6 @@ P1_CC2 = \
           'msisdn': ['991'],
           'name': 'ITPCS',
           'url': 'https://en.wikipedia.org/wiki/ITPCS'},
-  'XD': { 'cc2': 'XD',
-          'dep': None,
-          'infos': {'codes': {}, 'geo': {}, 'nameset': ['ocha'], 'tel': {}},
-          'mcc': [],
-          'mccmnc': [],
-          'msisdn': ['888'],
-          'name': 'OCHA',
-          'url': 'https://en.wikipedia.org/wiki/OCHA'},
   'XG': { 'cc2': 'XG',
           'dep': None,
           'infos': {'codes': {}, 'geo': {}, 'nameset': ['global mobile satellite system'], 'tel': {}},
@@ -16334,7 +16328,7 @@ P1_CC2 = \
                               'cmt': 'XK and XKS are ISO 3166 user assigned codes; ISO 3166 Maintenace Authority has '
                                      'not assigned codes',
                               'coord': ['42 35 N, 21 00 E'],
-                              'popul': 1935259,
+                              'popul': 1952701,
                               'region': 'Europe',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kosovo'},
                      'nameset': [ 'kosove',
@@ -16365,7 +16359,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'fix': 117317, 'internet': 1760000, 'mob': 620186},
+                              'subs': {'fix': 383763, 'internet': 1502658, 'mob': 562000},
                               'tld': '.xk',
                               'url_tld': 'https://en.wikipedia.org/wiki/.xk'}},
           'mcc': ['221'],
@@ -16421,7 +16415,7 @@ P1_CC2 = \
                               'capital': {'coord': '15 21 N, 44 12 E', 'name': 'Sanaa', 'time_diff': 'UTC+3'},
                               'coast': 1906,
                               'coord': ['15 00 N, 48 00 E'],
-                              'popul': 30399243,
+                              'popul': 30984689,
                               'ports': {'seaport': 'Aden, Al Hudaydah, Al Mukalla'},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:YE',
@@ -16465,7 +16459,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 386330, 'fix': 1190000, 'internet': 8060000, 'mob': 15297789},
+                              'subs': {'bb': 391000, 'fix': 1240000, 'internet': 7873719, 'mob': 15357900},
                               'tld': '.ye',
                               'url_tld': 'https://en.wikipedia.org/wiki/.ye'}},
           'mcc': ['421'],
@@ -16501,7 +16495,7 @@ P1_CC2 = \
                                            'time_diff': 'UTC+2'},
                               'coast': 2798,
                               'coord': ['29 00 S, 24 00 E'],
-                              'popul': 56978635,
+                              'popul': 57516665,
                               'ports': { 'container': 'Durban (2,769,869) (2019)',
                                          'seaport': 'Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay'},
                               'region': 'Africa',
@@ -16544,7 +16538,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 1303057, 'fix': 2098802, 'internet': 38190000, 'mob': 95959439},
+                              'subs': {'bb': 1303057, 'fix': 2098802, 'internet': 41516083, 'mob': 96972500},
                               'tld': '.za',
                               'url_tld': 'https://en.wikipedia.org/wiki/.za'}},
           'mcc': ['655'],
@@ -16608,7 +16602,7 @@ P1_CC2 = \
                                                    'was announced in May 2017',
                                            'time_diff': 'UTC+2'},
                               'coord': ['15 00 S, 30 00 E'],
-                              'popul': 19077816,
+                              'popul': 19642123,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ZM',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/zambia'},
@@ -16647,7 +16641,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 82317, 'fix': 71844, 'internet': 5480000, 'mob': 19104208},
+                              'subs': {'bb': 82317, 'fix': 71844, 'internet': 3676791, 'mob': 17220600},
                               'tld': '.zm',
                               'url_tld': 'https://en.wikipedia.org/wiki/.zm'}},
           'mcc': ['645'],
@@ -16666,7 +16660,7 @@ P1_CC2 = \
                                          'len': 3229},
                               'capital': {'coord': '17 49 S, 31 02 E', 'name': 'Harare', 'time_diff': 'UTC+2'},
                               'coord': ['20 00 S, 30 00 E'],
-                              'popul': 14829988,
+                              'popul': 15121004,
                               'region': 'Africa',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ZW',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/zimbabwe'},
@@ -16713,7 +16707,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 203461, 'fix': 252067, 'internet': 5010000, 'mob': 13191708},
+                              'subs': {'bb': 203461, 'fix': 252067, 'internet': 4310249, 'mob': 13195900},
                               'tld': '.zw',
                               'url_tld': 'https://en.wikipedia.org/wiki/.zw'}},
           'mcc': ['648'],

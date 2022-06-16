@@ -11,8 +11,7 @@
       "dep": "GE",
       "neigh": {
         "bord": [
-          "Georgia",
-          "Russia"
+          "Georgia"
         ],
         "less100": [],
         "less30": []
@@ -121,6 +120,7 @@
       "neigh": {
         "bord": [
           "France",
+          "Metropolitan France",
           "Spain"
         ],
         "less100": [],
@@ -389,6 +389,7 @@
           "France",
           "Germany",
           "Luxembourg",
+          "Metropolitan France",
           "Netherlands"
         ],
         "less100": [
@@ -529,6 +530,7 @@
           "Argentina",
           "Bolivia",
           "Colombia",
+          "France",
           "French Guiana",
           "Guyana",
           "Paraguay",
@@ -652,11 +654,11 @@
       "cc2": "CA",
       "neigh": {
         "bord": [
+          "Greenland",
           "United States"
         ],
         "less100": [],
         "less30": [
-          "Greenland",
           "Saint Pierre and Miquelon"
         ]
       }
@@ -1200,11 +1202,14 @@
         "bord": [
           "Andorra",
           "Belgium",
+          "Brazil",
           "Germany",
           "Italy",
           "Luxembourg",
           "Monaco",
+          "Sint Maarten",
           "Spain",
+          "Suriname",
           "Switzerland"
         ],
         "less100": [
@@ -1313,6 +1318,7 @@
           "Denmark",
           "France",
           "Luxembourg",
+          "Metropolitan France",
           "Netherlands",
           "Poland",
           "Switzerland"
@@ -1367,11 +1373,11 @@
     "Greenland": {
       "cc2": "GL",
       "neigh": {
-        "bord": [],
-        "less100": [],
-        "less30": [
+        "bord": [
           "Canada"
-        ]
+        ],
+        "less100": [],
+        "less30": []
       }
     },
     "Grenada": {
@@ -1669,6 +1675,7 @@
         "bord": [
           "Austria",
           "France",
+          "Metropolitan France",
           "San Marino",
           "Slovenia",
           "Switzerland",
@@ -1962,7 +1969,8 @@
         "bord": [
           "Belgium",
           "France",
-          "Germany"
+          "Germany",
+          "Metropolitan France"
         ],
         "less100": [
           "Netherlands"
@@ -2148,7 +2156,8 @@
       "cc2": "MC",
       "neigh": {
         "bord": [
-          "France"
+          "France",
+          "Metropolitan France"
         ],
         "less100": [],
         "less30": [
@@ -2295,8 +2304,7 @@
       "neigh": {
         "bord": [
           "Belgium",
-          "Germany",
-          "Saint Martin"
+          "Germany"
         ],
         "less100": [
           "France",
@@ -2680,18 +2688,15 @@
       "cc2": "RU",
       "neigh": {
         "bord": [
-          "Abkhazia",
           "Azerbaijan",
           "Belarus",
           "China",
-          "Donetsk People's Republic",
           "Estonia",
           "Finland",
           "Georgia",
           "Kazakhstan",
           "Latvia",
           "Lithuania",
-          "Luhansk People's Republic",
           "Mongolia",
           "North Korea",
           "Norway",
@@ -2829,7 +2834,6 @@
       "dep": "FR",
       "neigh": {
         "bord": [
-          "Netherlands",
           "Sint Maarten"
         ],
         "less100": [
@@ -3020,6 +3024,7 @@
       "dep": "NL",
       "neigh": {
         "bord": [
+          "France",
           "Saint Martin"
         ],
         "less100": [
@@ -3174,6 +3179,7 @@
           "Andorra",
           "France",
           "Gibraltar",
+          "Metropolitan France",
           "Morocco",
           "Portugal"
         ],
@@ -3236,6 +3242,7 @@
       "neigh": {
         "bord": [
           "Brazil",
+          "France",
           "French Guiana",
           "Guyana"
         ],
@@ -3284,7 +3291,8 @@
           "France",
           "Germany",
           "Italy",
-          "Liechtenstein"
+          "Liechtenstein",
+          "Metropolitan France"
         ],
         "less100": [],
         "less30": []

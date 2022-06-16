@@ -285,7 +285,7 @@ P1_MSISDN = \
   '88216': ['Thuraya (Mobile Satellite service)'],
   '883': ['International Networks'],
   '886': ['Taiwan'],
-  '888': ['OCHA', 'Telecommunications for Disaster Relief by OCHA'],
+  '888': ['Telecommunications for Disaster Relief by OCHA'],
   '90': ['Northern Cyprus', 'Turkey'],
   '90392': ['Northern Cyprus'],
   '91': ['India'],

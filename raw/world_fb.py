@@ -24,25 +24,24 @@ WORLD_FB = \
                                                 'conv_short': 'Afghanistan',
                                                 'local_long': 'formerly Jamhuri-ye Islami-ye Afghanistan',
                                                 'local_short': 'Afghanistan'},
-                              'population': 37466414,
+                              'population': 38346720,
                               'ports': {},
                               'region': ['Asia'],
                               'subs_broadband': 26570,
-                              'subs_fixed': 134636,
-                              'subs_mobile': 22580071,
-                              'telecom': { '<p style="background': ['white', 'margin: 0in 0in 6.4pt 0in', '">', 0],
-                                           'code': '93',
-                                           'domestic': [ 'before the Taliban takeover in August 2021, less than 1 per '
-                                                         '100 for fixed-line teledensity',
+                              'subs_fixed': 145787,
+                              'subs_mobile': 22678024,
+                              'telecom': { 'code': '93',
+                                           'domestic': [ 'before 15 August 2021, less than 1 per 100 for fixed-line '
+                                                         'teledensity',
                                                          '59 per 100 for mobile-cellular',
                                                          'an increasing number of Afghans utilize mobile-cellular '
                                                          'phone networks',
                                                          2021],
-                                           'general': [ 'before the Taliban takeover in August 2021, Afghanistan had '
-                                                        'successfully rebuilt infrastructure to create a functional '
-                                                        'telecom sector that covered nearly all of the population',
-                                                        'due to mountainous geography, country relies on its mobile '
-                                                        'network',
+                                           'general': [ 'before 15 August 2021, Afghanistan had successfully rebuilt '
+                                                        'infrastructure to create a functional telecom sector that '
+                                                        'covered nearly all of the population',
+                                                        'due to mountainous geography, Afghanistan relies on its '
+                                                        'mobile network',
                                                         'mobile broadband penetration growing, but is still low '
                                                         'compared to other countries in Asia',
                                                         'operator launched LTE in Kabul',
@@ -57,7 +56,7 @@ WORLD_FB = \
                                            'intl': [ "multiple VSAT's provide international and domestic voice and "
                                                      'data connectivity',
                                                      2019]},
-                              'users_internet': 8640000},
+                              'users_internet': 7007101},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/afghanistan/page-data.json',
                    'name': 'Afghanistan',
                    'stan': 'AFG',
@@ -78,7 +77,7 @@ WORLD_FB = \
                            'coastline': 56,
                            'coord': ['34 37 N, 32 58 E'],
                            'country_name': {'conv_long': 'none', 'conv_short': 'Akrotiri'},
-                           'population': 18195,
+                           'population': 0,
                            'region': ['Middle East']},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/akrotiri/page-data.json',
                 'name': 'Akrotiri',
@@ -101,7 +100,7 @@ WORLD_FB = \
                                             'conv_short': 'Albania',
                                             'local_long': 'Republika e Shqiperise',
                                             'local_short': 'Shqiperia'},
-                          'population': 3088385,
+                          'population': 3095344,
                           'ports': {'seaport': 'Durres, Sarande, Shengjin, Vlore'},
                           'region': ['Europe'],
                           'subs_broadband': 508937,
@@ -148,7 +147,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 2000000},
+                          'users_internet': 2043251},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/albania/page-data.json',
                'name': 'Albania',
                'stan': 'ALB',
@@ -175,7 +174,7 @@ WORLD_FB = \
                                             'conv_short': 'Algeria',
                                             'local_long': "Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah",
                                             'local_short': "Al Jaza'ir"},
-                          'population': 43576691,
+                          'population': 44178884,
                           'ports': { 'seaport': 'Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, '
                                                 'Skikda'},
                           'region': ['Africa'],
@@ -225,7 +224,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 26350000},
+                          'users_internet': 27626157},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/algeria/page-data.json',
                'name': 'Algeria',
                'stan': 'DZA',
@@ -246,11 +245,11 @@ WORLD_FB = \
                                  'coastline': 116,
                                  'coord': ['14 20 S, 170 00 W'],
                                  'country_name': {'conv_long': 'American Samoa', 'conv_short': 'American Samoa'},
-                                 'population': 46366,
+                                 'population': 45443,
                                  'ports': {'seaport': 'Pago Pago'},
                                  'region': ['Oceania'],
                                  'subs_fixed': 10000,
-                                 'subs_mobile': '',
+                                 'subs_mobile': 2250,
                                  'telecom': { 'code': '1684',
                                               'domestic': [ 'nearly 18 per 100 fixed-line teledensity, domestic '
                                                             'satellite system with 1 Comsat earth station',
@@ -282,7 +281,7 @@ WORLD_FB = \
                                                         'school from home became evident, and received some support '
                                                         'from governments',
                                                         0]},
-                                 'users_internet': 22200},
+                                 'users_internet': 17147},
                       'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/american-samoa/page-data.json',
                       'name': 'American Samoa',
                       'stan': 'ASM',
@@ -302,11 +301,11 @@ WORLD_FB = \
                                             'conv_short': 'Andorra',
                                             'local_long': "Principat d'Andorra",
                                             'local_short': 'Andorra'},
-                          'population': 85645,
+                          'population': 85560,
                           'region': ['Europe'],
-                          'subs_broadband': 36358,
-                          'subs_fixed': 39657,
-                          'subs_mobile': 87909,
+                          'subs_broadband': 37000,
+                          'subs_fixed': 40000,
+                          'subs_mobile': 94000,
                           'telecom': { 'code': '376',
                                        'domestic': ['about 51 per 100 fixed-line, 114 per 100 mobile-cellular', 2019],
                                        'general': [ 'modern automatic telephone system',
@@ -330,7 +329,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 70800},
+                          'users_internet': 71084},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/andorra/page-data.json',
                'name': 'Andorra',
                'stan': 'AND',
@@ -355,7 +354,7 @@ WORLD_FB = \
                                            'conv_short': 'Angola',
                                            'local_long': 'Republica de Angola',
                                            'local_short': 'Angola'},
-                         'population': 33642646,
+                         'population': 34795287,
                          'ports': {'seaport': 'Cabinda, Lobito, Luanda, Namibe'},
                          'region': ['Africa'],
                          'subs_broadband': 230610,
@@ -399,7 +398,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 10360000},
+                         'users_internet': 11831857},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/angola/page-data.json',
               'name': 'Angola',
               'stan': 'AGO',
@@ -417,10 +416,10 @@ WORLD_FB = \
                            'coastline': 61,
                            'coord': ['18 15 N, 63 10 W'],
                            'country_name': {'conv_long': 'none', 'conv_short': 'Anguilla'},
-                           'population': 18403,
+                           'population': 18741,
                            'ports': {'seaport': 'Blowing Point, Road Bay'},
                            'region': ['Central America and the Caribbean'],
-                           'subs_broadband': '',
+                           'subs_broadband': 5000,
                            'subs_fixed': 6000,
                            'subs_mobile': 26000,
                            'telecom': { 'code': '1264',
@@ -453,7 +452,7 @@ WORLD_FB = \
                                                   'governments but the contribution to the sector has been '
                                                   'insufficient to offset steep falls in other areas of the market',
                                                   0]},
-                           'users_internet': 12300},
+                           'users_internet': 12489},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/anguilla/page-data.json',
                 'name': 'Anguilla',
                 'stan': 'AIA',
@@ -499,7 +498,7 @@ WORLD_FB = \
                            'cmt': '',
                            'gec': 'AC',
                            'infos': { 'airports': 3,
-                                      'area': { 'land': '442.6 sq km',
+                                      'area': { 'land': '443 sq km',
                                                 'note': 'includes Redonda, 1.6 sq km',
                                                 'total': '443 sq km (Antigua 280 sq km; Barbuda 161 sq km)',
                                                 'water': '0 sq km'},
@@ -510,11 +509,11 @@ WORLD_FB = \
                                       'coastline': 153,
                                       'coord': ['17 03 N, 61 48 W'],
                                       'country_name': {'conv_long': 'none', 'conv_short': 'Antigua and Barbuda'},
-                                      'population': 99175,
+                                      'population': 100335,
                                       'ports': {'seaport': "Saint John's"},
                                       'region': ['Central America and the Caribbean'],
-                                      'subs_broadband': 9261,
-                                      'subs_fixed': 24000,
+                                      'subs_broadband': 8000,
+                                      'subs_fixed': 27000,
                                       'subs_mobile': 184000,
                                       'telecom': { 'code': '1268',
                                                    'domestic': [ 'fixed-line teledensity roughly 25 per 100 persons',
@@ -536,24 +535,8 @@ WORLD_FB = \
                                                              'submarine cable systems with links to other islands in '
                                                              'the eastern Caribbean',
                                                              'satellite earth stations - 1 Intelsat (Atlantic Ocean)',
-                                                             2019],
-                                                   'note': [ 'the COVID-19 pandemic continues to have a significant '
-                                                             'impact on production and supply chains globally',
-                                                             'since 2020, some aspects of the telecom sector have '
-                                                             'experienced downturn, particularly in mobile device '
-                                                             'production',
-                                                             'many network operators delayed upgrades to '
-                                                             'infrastructure',
-                                                             'progress towards 5G implementation was postponed or '
-                                                             'slowed in some countries',
-                                                             'consumer spending on telecom services and devices was '
-                                                             'affected by large-scale job losses and the consequent '
-                                                             'restriction on disposable incomes',
-                                                             'the crucial nature of telecom services as a tool for '
-                                                             'work and school from home became evident, and received '
-                                                             'some support from governments',
-                                                             0]},
-                                      'users_internet': 74700},
+                                                             2019]},
+                                      'users_internet': 73807},
                            'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/antigua-and-barbuda/page-data.json',
                            'name': 'Antigua and Barbuda',
                            'stan': 'ATG',
@@ -579,7 +562,7 @@ WORLD_FB = \
                                               'conv_short': 'Argentina',
                                               'local_long': 'Republica Argentina',
                                               'local_short': 'Argentina'},
-                            'population': 45864941,
+                            'population': 46245668,
                             'ports': { 'container': 'Buenos Aires (1,485,328) (2019)',
                                        'seaport': 'Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia'},
                             'region': ['South America'],
@@ -592,7 +575,7 @@ WORLD_FB = \
                                                        'satellite system with 40 earth stations serve the trunk '
                                                        'network',
                                                        2020],
-                                         'general': [ 'Argentina has one of the most vigorous mobile markets in Latin '
+                                         'general': [ 'Argentina has one of the most developed mobile markets in Latin '
                                                       'America',
                                                       'with additional operators in the market, mobile penetration '
                                                       'fell in 2020 as incentives for multiple-SIM card ownership '
@@ -625,7 +608,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 36320000},
+                            'users_internet': 39024016},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/argentina/page-data.json',
                  'name': 'Argentina',
                  'stan': 'ARG',
@@ -647,7 +630,7 @@ WORLD_FB = \
                                             'conv_short': 'Armenia',
                                             'local_long': "Hayastani Hanrapetut'yun",
                                             'local_short': 'Hayastan'},
-                          'population': 3011609,
+                          'population': 3000756,
                           'region': ['Asia'],
                           'subs_broadband': 430407,
                           'subs_fixed': 427539,
@@ -699,7 +682,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 2020000},
+                          'users_internet': 2281690},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/armenia/page-data.json',
                'name': 'Armenia',
                'stan': 'ARM',
@@ -720,7 +703,7 @@ WORLD_FB = \
                                           'conv_short': 'Aruba',
                                           'local_long': 'Land Aruba (Dutch); Pais Aruba (Papiamento)',
                                           'local_short': 'Aruba'},
-                        'population': 120917,
+                        'population': 122320,
                         'ports': {'seaport': 'Barcadera, Oranjestad'},
                         'region': ['Central America and the Caribbean'],
                         'subs_broadband': 19000,
@@ -760,7 +743,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 104000},
+                        'users_internet': 103121},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/aruba/page-data.json',
              'name': 'Aruba',
              'stan': 'ABW',
@@ -806,15 +789,15 @@ WORLD_FB = \
                             'coastline': 25760,
                             'coord': ['27 00 S, 133 00 E'],
                             'country_name': {'conv_long': 'Commonwealth of Australia', 'conv_short': 'Australia'},
-                            'population': 25809973,
+                            'population': 26141369,
                             'ports': { 'container': 'Melbourne (2,967,315), Sydney (2,572,714) (2019)',
                                        'seaport': '<em><br />Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, '
                                                   'Melbourne<br /><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, '
                                                   'Hobart, Newcastle, Port Port Kembla, Sydney'},
                             'region': ['Oceania'],
-                            'subs_broadband': 8937550,
+                            'subs_broadband': 9099619,
                             'subs_fixed': 6200000,
-                            'subs_mobile': 27454000,
+                            'subs_mobile': 27453000,
                             'telecom': { 'code': '61',
                                          'domestic': [ 'roughly 24 per 100 fixed-line and 108 per 100 mobile-cellular',
                                                        'more subscribers to mobile services than there are people',
@@ -835,10 +818,10 @@ WORLD_FB = \
                                                       'predicted to be one of the top markets driving the growth of 5G '
                                                       'and data markets in Asia',
                                                       'fiber backbone to connect with submarine cables',
-                                                      'Oman-Australia cable to be completed by end of 2021',
+                                                      'Oman-Australia cable is estimated to be in service by mid-2022',
                                                       "two of Australia's major imports are broadcast equipment and "
                                                       'computers from China',
-                                                      2020],
+                                                      2021],
                                          'intl': [ 'landing points for more than 20 submarine cables including: the '
                                                    'SeaMeWe-3 optical telecommunications submarine cable with links to '
                                                    'Asia, the Middle East, and Europe',
@@ -867,7 +850,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 22820000},
+                            'users_internet': 23123940},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/australia/page-data.json',
                  'name': 'Australia',
                  'stan': 'AUS',
@@ -896,12 +879,12 @@ WORLD_FB = \
                                             'conv_short': 'Austria',
                                             'local_long': 'Republik Oesterreich',
                                             'local_short': 'Oesterreich'},
-                          'population': 8884864,
+                          'population': 8913088,
                           'ports': {},
                           'region': ['Europe'],
                           'subs_broadband': 2606000,
                           'subs_fixed': 3786725,
-                          'subs_mobile': 10682294,
+                          'subs_mobile': 10717445,
                           'telecom': { 'code': '43',
                                        'domestic': [ 'developed and efficient',
                                                      '42 per 100 fixed-line for households, 174 per 100 for companies',
@@ -940,7 +923,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 8029999},
+                          'users_internet': 7846840},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/austria/page-data.json',
                'name': 'Austria',
                'stan': 'AUT',
@@ -973,7 +956,7 @@ WORLD_FB = \
                                                'conv_short': 'Azerbaijan',
                                                'local_long': 'Azarbaycan Respublikasi',
                                                'local_short': 'Azarbaycan'},
-                             'population': 10282283,
+                             'population': 10353296,
                              'ports': {'seaport': 'Baku (Baki) located on the Caspian Sea'},
                              'region': ['Asia'],
                              'subs_broadband': 1995474,
@@ -1018,7 +1001,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 8260000},
+                             'users_internet': 8579153},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/azerbaijan/page-data.json',
                   'name': 'Azerbaijan',
                   'stan': 'AZE',
@@ -1037,13 +1020,13 @@ WORLD_FB = \
                                'coord': ['24 15 N, 76 00 W'],
                                'country_name': { 'conv_long': 'Commonwealth of The Bahamas',
                                                  'conv_short': 'The Bahamas'},
-                               'population': 352655,
+                               'population': 355608,
                                'ports': { 'container': 'Freeport (1,396,568) (2019)',
                                           'seaport': 'Freeport, Nassau, South Riding Point'},
                                'region': ['Central America and the Caribbean'],
-                               'subs_broadband': 82295,
-                               'subs_fixed': 91129,
-                               'subs_mobile': 425507,
+                               'subs_broadband': 83000,
+                               'subs_fixed': 91000,
+                               'subs_mobile': 466000,
                                'telecom': { 'code': '1242',
                                             'domestic': ['23 per 100 fixed-line, 109 per 100 mobile-cellular', 2019],
                                             'general': [ 'the telecom sector across the Caribbean continues to be a '
@@ -1078,7 +1061,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 335800},
+                               'users_internet': 342126},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bahamas-the/page-data.json',
                     'name': 'Bahamas, The',
                     'stan': 'BHS',
@@ -1099,11 +1082,11 @@ WORLD_FB = \
                                             'conv_short': 'Bahrain',
                                             'local_long': 'Mamlakat al Bahrayn',
                                             'local_short': 'Al Bahrayn'},
-                          'population': 1526929,
+                          'population': 1540558,
                           'ports': {'seaport': "Mina' Salman, Sitrah"},
                           'region': ['Middle East'],
-                          'subs_broadband': 148595,
-                          'subs_fixed': 266659,
+                          'subs_broadband': 148928,
+                          'subs_fixed': 274106,
                           'subs_mobile': 1748672,
                           'telecom': { 'code': '973',
                                        'domestic': [ 'approximately 16 per 100 fixed-line and 103 per 100 '
@@ -1144,7 +1127,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1710000},
+                          'users_internet': 170158},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bahrain/page-data.json',
                'name': 'Bahrain',
                'stan': 'BHR',
@@ -1176,13 +1159,13 @@ WORLD_FB = \
                                                'conv_short': 'Bangladesh',
                                                'local_long': 'Gana Prajatantri Bangladesh',
                                                'local_short': 'Bangladesh'},
-                             'population': 164098818,
+                             'population': 165650475,
                              'ports': { 'container': 'Chattogram (Chittagong) (3,088,187) (2019)',
                                         'seaport': 'Chattogram (Chittagong)'},
                              'region': ['Asia'],
-                             'subs_broadband': 9521970,
-                             'subs_fixed': 1450321,
-                             'subs_mobile': 170136762,
+                             'subs_broadband': 10052819,
+                             'subs_fixed': 1390048,
+                             'subs_mobile': 176279465,
                              'telecom': { 'code': '880',
                                           'domestic': [ 'fixed-line teledensity remains less than 1 per 100 persons',
                                                         'mobile-cellular telephone subscribership has been increasing '
@@ -1227,7 +1210,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 47610000},
+                             'users_internet': 41172346},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bangladesh/page-data.json',
                   'name': 'Bangladesh',
                   'stan': 'BGD',
@@ -1245,12 +1228,12 @@ WORLD_FB = \
                            'coastline': 97,
                            'coord': ['13 10 N, 59 32 W'],
                            'country_name': {'conv_long': 'none', 'conv_short': 'Barbados'},
-                           'population': 301865,
+                           'population': 302674,
                            'ports': {'seaport': 'Bridgetown'},
                            'region': ['Central America and the Caribbean'],
-                           'subs_broadband': 106803,
-                           'subs_fixed': 128043,
-                           'subs_mobile': 329326,
+                           'subs_broadband': 128000,
+                           'subs_fixed': 128000,
+                           'subs_mobile': 295000,
                            'telecom': { 'code': '1246',
                                         'domestic': [ 'fixed-line teledensity of roughly 45 per 100 persons',
                                                       'mobile-cellular telephone density about 115 per 100 persons',
@@ -1266,22 +1249,8 @@ WORLD_FB = \
                                                   'Ricco',
                                                   'satellite earth stations - 1 (Intelsat - Atlantic Ocean)',
                                                   'tropospheric scatter to Trinidad and Saint Lucia',
-                                                  2019],
-                                        'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
-                                                  'production and supply chains globally',
-                                                  'since 2020, some aspects of the telecom sector have experienced '
-                                                  'downturn, particularly in mobile device production',
-                                                  'many network operators delayed upgrades to infrastructure',
-                                                  'progress towards 5G implementation was postponed or slowed in some '
-                                                  'countries',
-                                                  'consumer spending on telecom services and devices was affected by '
-                                                  'large-scale job losses and the consequent restriction on disposable '
-                                                  'incomes',
-                                                  'the crucial nature of telecom services as a tool for work and '
-                                                  'school from home became evident, and received some support from '
-                                                  'governments',
-                                                  0]},
-                           'users_internet': 235100},
+                                                  2019]},
+                           'users_internet': 235357},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/barbados/page-data.json',
                 'name': 'Barbados',
                 'stan': 'BRB',
@@ -1318,11 +1287,11 @@ WORLD_FB = \
                                             'conv_short': 'Belarus',
                                             'local_long': "Respublika Byelarus'/Respublika Belarus'",
                                             'local_short': "Byelarus'/Belarus'"},
-                          'population': 9441842,
+                          'population': 9413505,
                           'ports': {},
                           'region': ['Europe'],
                           'subs_broadband': 3255552,
-                          'subs_fixed': 4406585,
+                          'subs_fixed': 4406560,
                           'subs_mobile': 11704084,
                           'telecom': { 'code': '375',
                                        'domestic': [ 'fixed-line teledensity is improving although rural areas '
@@ -1368,7 +1337,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 7820000},
+                          'users_internet': 7972959},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/belarus/page-data.json',
                'name': 'Belarus',
                'stan': 'BLR',
@@ -1394,7 +1363,7 @@ WORLD_FB = \
                                             'local_long': 'Royaume de Belgique (French)/Koninkrijk Belgie '
                                                           '(Dutch)/Koenigreich Belgien (German)',
                                             'local_short': 'Belgique/Belgie/Belgien'},
-                          'population': 11778842,
+                          'population': 11847338,
                           'ports': {'container': 'Antwerp (11,860,204) (2019)', 'seaport': 'Oostende, Zeebrugge'},
                           'region': ['Europe'],
                           'subs_broadband': 4734210,
@@ -1438,7 +1407,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 10570000},
+                          'users_internet': 10620701},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/belgium/page-data.json',
                'name': 'Belgium',
                'stan': 'BEL',
@@ -1456,12 +1425,12 @@ WORLD_FB = \
                          'coastline': 386,
                          'coord': ['17 15 N, 88 45 W'],
                          'country_name': {'conv_long': 'none', 'conv_short': 'Belize'},
-                         'population': 405633,
+                         'population': 412387,
                          'ports': {'seaport': 'Belize City, Big Creek'},
                          'region': ['Central America and the Caribbean'],
-                         'subs_broadband': 29600,
-                         'subs_fixed': 18500,
-                         'subs_mobile': 254919,
+                         'subs_broadband': 36000,
+                         'subs_fixed': 19000,
+                         'subs_mobile': 264000,
                          'telecom': { 'code': '501',
                                       'domestic': [ 'roughly 5 per 100 fixed-line and mobile-cellular teledensity of '
                                                     '65 per 100 persons',
@@ -1498,7 +1467,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 188900},
+                         'users_internet': 202787},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/belize/page-data.json',
               'name': 'Belize',
               'stan': 'BLZ',
@@ -1522,7 +1491,7 @@ WORLD_FB = \
                                           'conv_short': 'Benin',
                                           'local_long': 'Republique du Benin',
                                           'local_short': 'Benin'},
-                        'population': 13301694,
+                        'population': 13754688,
                         'ports': {'seaport': 'Cotonou'},
                         'region': ['Africa'],
                         'subs_broadband': 29981,
@@ -1566,7 +1535,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 3500000},
+                        'users_internet': 3152032},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/benin/page-data.json',
              'name': 'Benin',
              'stan': 'BEN',
@@ -1584,12 +1553,12 @@ WORLD_FB = \
                           'coastline': 103,
                           'coord': ['32 20 N, 64 45 W'],
                           'country_name': {'conv_long': 'none', 'conv_short': 'Bermuda'},
-                          'population': 72084,
+                          'population': 72337,
                           'ports': {'seaport': 'Hamilton, Ireland Island, Saint George'},
                           'region': ['North America'],
-                          'subs_broadband': 21883,
-                          'subs_fixed': 21883,
-                          'subs_mobile': 64997,
+                          'subs_broadband': 23000,
+                          'subs_fixed': 25000,
+                          'subs_mobile': 68000,
                           'telecom': { 'code': '1441',
                                        'domestic': [ 'the system has a high fixed-line teledensity nearing 35 per 100, '
                                                      'coupled with a mobile-cellular teledensity of roughly 103 per '
@@ -1619,7 +1588,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 61200},
+                          'users_internet': 62625},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bermuda/page-data.json',
                'name': 'Bermuda',
                'stan': 'BMU',
@@ -1640,9 +1609,9 @@ WORLD_FB = \
                                            'conv_short': 'Bhutan',
                                            'local_long': 'Druk Gyalkhap',
                                            'local_short': 'Druk Yul'},
-                         'population': 857423,
+                         'population': 867775,
                          'region': ['Asia'],
-                         'subs_broadband': 2139,
+                         'subs_broadband': 3189,
                          'subs_fixed': 22987,
                          'subs_mobile': 745137,
                          'telecom': { 'code': '975',
@@ -1677,7 +1646,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 373200},
+                         'users_internet': 416671},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bhutan/page-data.json',
               'name': 'Bhutan',
               'stan': 'BTN',
@@ -1706,7 +1675,7 @@ WORLD_FB = \
                                             'conv_short': 'Bolivia',
                                             'local_long': 'Estado Plurinacional de Bolivia',
                                             'local_short': 'Bolivia'},
-                          'population': 11758869,
+                          'population': 12054379,
                           'ports': {},
                           'region': ['South America'],
                           'subs_broadband': 931918,
@@ -1755,7 +1724,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 5580000},
+                          'users_internet': 7003817},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bolivia/page-data.json',
                'name': 'Bolivia',
                'stan': 'BOL',
@@ -1779,10 +1748,10 @@ WORLD_FB = \
                                                            'conv_short': 'Bosnia and Herzegovina',
                                                            'local_long': 'none',
                                                            'local_short': 'Bosna i Hercegovina'},
-                                         'population': 3824782,
+                                         'population': 3816459,
                                          'ports': {},
                                          'region': ['Europe'],
-                                         'subs_broadband': 770624,
+                                         'subs_broadband': 770424,
                                          'subs_fixed': 706135,
                                          'subs_mobile': 3509674,
                                          'telecom': { 'code': '387',
@@ -1823,7 +1792,7 @@ WORLD_FB = \
                                                                 'work and school from home became evident, and '
                                                                 'received some support from governments',
                                                                 0]},
-                                         'users_internet': 2320000},
+                                         'users_internet': 2394995},
                               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bosnia-and-herzegovina/page-data.json',
                               'name': 'Bosnia and Herzegovina',
                               'stan': 'BIH',
@@ -1848,11 +1817,11 @@ WORLD_FB = \
                                              'conv_short': 'Botswana',
                                              'local_long': 'Republic of Botswana',
                                              'local_short': 'Botswana'},
-                           'population': 2350667,
+                           'population': 2384246,
                            'region': ['Africa'],
-                           'subs_broadband': 71898,
-                           'subs_fixed': 142587,
-                           'subs_mobile': 3819019,
+                           'subs_broadband': 259525,
+                           'subs_fixed': 140003,
+                           'subs_mobile': 3829408,
                            'telecom': { 'code': '267',
                                         'domestic': [ 'fixed-line teledensity has declined in recent years and now '
                                                       'stands at roughly 6 telephones per 100 persons',
@@ -1895,7 +1864,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 1120000},
+                           'users_internet': 1505040},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/botswana/page-data.json',
                 'name': 'Botswana',
                 'stan': 'BWA',
@@ -1948,7 +1917,7 @@ WORLD_FB = \
                                            'conv_short': 'Brazil',
                                            'local_long': 'Republica Federativa do Brasil',
                                            'local_short': 'Brasil'},
-                         'population': 213445417,
+                         'population': 217240060,
                          'ports': { 'container': 'Itajai (1,223,262), Paranagua (865,110), Santos (4,165,248) (2019)',
                                     'seaport': 'Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao '
                                                'Sebastiao, Tubarao'},
@@ -1965,7 +1934,7 @@ WORLD_FB = \
                                                     2020],
                                       'general': [ 'Brazil is one of the largest mobile and broadband markets in Latin '
                                                    'America with healthy competition and pricing',
-                                                   '5G launched on limited basis',
+                                                   'national 5G rollout planned for 2022',
                                                    'countrywide network spectrum auction held in November 2021',
                                                    'large fixed-line broadband market with focus on fiber',
                                                    'landing point for submarine cables and investment into terrestrial '
@@ -2002,7 +1971,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 160000000},
+                         'users_internet': 172173121},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/brazil/page-data.json',
               'name': 'Brazil',
               'stan': 'BRA',
@@ -2066,11 +2035,11 @@ WORLD_FB = \
                                          'coastline': 80,
                                          'coord': ['18 30 N, 64 30 W'],
                                          'country_name': {'conv_long': 'none', 'conv_short': 'British Virgin Islands'},
-                                         'population': 37891,
+                                         'population': 38632,
                                          'ports': {'seaport': 'Road Harbor'},
                                          'region': ['Central America and the Caribbean'],
                                          'subs_broadband': 6738,
-                                         'subs_fixed': 7311,
+                                         'subs_fixed': 7000,
                                          'subs_mobile': 35163,
                                          'telecom': { 'code': '1284',
                                                       'domestic': [ 'fixed-line connections exceed 24 per 100 persons '
@@ -2108,7 +2077,7 @@ WORLD_FB = \
                                                                 'work and school from home became evident, and '
                                                                 'received some support from governments',
                                                                 0]},
-                                         'users_internet': 23600},
+                                         'users_internet': 23585},
                               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/british-virgin-islands/page-data.json',
                               'name': 'British Virgin Islands',
                               'stan': 'VGB',
@@ -2129,12 +2098,12 @@ WORLD_FB = \
                                            'conv_short': 'Brunei',
                                            'local_long': 'Negara Brunei Darussalam',
                                            'local_short': 'Brunei'},
-                         'population': 471103,
+                         'population': 478054,
                          'ports': {'seaport': 'Muara'},
                          'region': ['Southeast Asia'],
                          'subs_broadband': 71078,
                          'subs_fixed': 103885,
-                         'subs_mobile': 526732,
+                         'subs_mobile': 526589,
                          'telecom': { 'code': '673',
                                       'domestic': [ 'every service available',
                                                     'nearly 24 per 100 fixed-line, 120 per 100 mobile-cellular',
@@ -2169,7 +2138,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 417500},
+                         'users_internet': 415609},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/brunei/page-data.json',
               'name': 'Brunei',
               'stan': 'BRN',
@@ -2195,11 +2164,11 @@ WORLD_FB = \
                                              'conv_short': 'Bulgaria',
                                              'local_long': 'Republika Bulgaria',
                                              'local_short': 'Bulgaria'},
-                           'population': 6919180,
+                           'population': 6873253,
                            'ports': {'seaport': 'Burgas, Varna (Black Sea)'},
                            'region': ['Europe'],
-                           'subs_broadband': 2131606,
-                           'subs_fixed': 872323,
+                           'subs_broadband': 2115053,
+                           'subs_fixed': 872757,
                            'subs_mobile': 7945739,
                            'telecom': { 'code': '359',
                                         'domestic': [ 'fixed-line over 12 per 100 persons, mobile-cellular '
@@ -2240,7 +2209,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 4910000},
+                           'users_internet': 4853811},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/bulgaria/page-data.json',
                 'name': 'Bulgaria',
                 'stan': 'BGR',
@@ -2267,7 +2236,7 @@ WORLD_FB = \
                                                  'conv_short': 'Burkina Faso',
                                                  'local_long': 'none',
                                                  'local_short': 'Burkina Faso'},
-                               'population': 21382659,
+                               'population': 21935389,
                                'region': ['Africa'],
                                'subs_broadband': 13979,
                                'subs_fixed': 75039,
@@ -2311,7 +2280,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 5460000},
+                               'users_internet': 4598721},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/burkina-faso/page-data.json',
                     'name': 'Burkina Faso',
                     'stan': 'BFA',
@@ -2330,8 +2299,8 @@ WORLD_FB = \
                                                   'Laos': 238,
                                                   'Thailand': 2416},
                                         'len': 6522},
-                        'capital': { 'coord': '16 48 N, 96 09 E',
-                                     'name': 'Rangoon (Yangon); note - Nay Pyi Taw is the administrative capital',
+                        'capital': { 'coord': '19 74 N, 96 12 E',
+                                     'name': 'Nay Pyi Taw (note - Yangon, aka Rangoon, is the former capital)',
                                      'time_diff': 'UTC+6.5'},
                         'coastline': 1930,
                         'coord': ['22 00 N, 98 00 E'],
@@ -2340,17 +2309,17 @@ WORLD_FB = \
                                           'local_long': 'Pyidaungzu Thammada Myanma Naingngandaw (translated as the '
                                                         'Republic of the Union of Myanmar)',
                                           'local_short': 'Myanma Naingngandaw'},
-                        'population': 57069099,
+                        'population': 57526449,
                         'ports': {'seaport': 'Mawlamyine (Moulmein), Sittwe'},
                         'region': ['Southeast Asia'],
-                        'subs_broadband': 129050,
-                        'subs_fixed': 520863,
-                        'subs_mobile': 61143964,
+                        'subs_broadband': 688185,
+                        'subs_fixed': 523951,
+                        'subs_mobile': 78548329,
                         'telecom': { 'code': '95',
                                      'domestic': [ 'fixed-line is just under 1 per 100, while mobile-cellular is '
                                                    'roughly 90 per 100',
                                                    2019],
-                                     'general': [ 'Burma, one of the last underdeveloped telecom markets in Asia, saw '
+                                     'general': [ 'Burma, one of the least developed telecom markets in Asia, saw '
                                                   'growth in mobile and broadband services through foreign competition '
                                                   'and roll out of 4G and 5G networks',
                                                   'infrastructure development challenged by flooding, unreliable '
@@ -2384,7 +2353,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 23650000},
+                        'users_internet': 19043428},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/burma/page-data.json',
              'name': 'Burma',
              'stan': 'MMR',
@@ -2414,12 +2383,12 @@ WORLD_FB = \
                                             'conv_short': 'Burundi',
                                             'local_long': "Republique du Burundi/Republika y'u Burundi",
                                             'local_short': 'Burundi'},
-                          'population': 12241065,
+                          'population': 12696478,
                           'ports': {},
                           'region': ['Africa'],
                           'subs_broadband': 4230,
                           'subs_fixed': 18300,
-                          'subs_mobile': 6631154,
+                          'subs_mobile': 6631151,
                           'telecom': { 'code': '257',
                                        'domestic': [ 'telephone density one of the lowest in the world',
                                                      'fixed-line connections stand at less than 1 per 100 persons',
@@ -2454,7 +2423,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1610000},
+                          'users_internet': 1070170},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/burundi/page-data.json',
                'name': 'Burundi',
                'stan': 'BDI',
@@ -2475,7 +2444,7 @@ WORLD_FB = \
                                                'conv_short': 'Cabo Verde',
                                                'local_long': 'Republica de Cabo Verde',
                                                'local_short': 'Cabo Verde'},
-                             'population': 589451,
+                             'population': 596707,
                              'ports': {'seaport': 'Porto Grande'},
                              'region': ['Africa'],
                              'subs_broadband': 24839,
@@ -2516,7 +2485,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 346000},
+                             'users_internet': 361392},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cabo-verde/page-data.json',
                   'name': 'Cabo Verde',
                   'stan': 'CPV',
@@ -2537,12 +2506,12 @@ WORLD_FB = \
                                              'conv_short': 'Cambodia',
                                              'local_long': 'Preahreacheanachakr Kampuchea (phonetic transliteration)',
                                              'local_short': 'Kampuchea'},
-                           'population': 17304363,
+                           'population': 16713015,
                            'ports': {'seaport': 'Sihanoukville (Kampong Saom)'},
                            'region': ['Southeast Asia'],
-                           'subs_broadband': 713845,
-                           'subs_fixed': 56445,
-                           'subs_mobile': 21418681,
+                           'subs_broadband': 233732,
+                           'subs_fixed': 55603,
+                           'subs_mobile': 21086791,
                            'telecom': { 'code': '855',
                                         'domestic': [ 'fixed-line connections stand at less than 1 per 100 persons',
                                                       'mobile-cellular usage, aided by competition among service '
@@ -2576,7 +2545,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 8860000},
+                           'users_internet': 5440559},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cambodia/page-data.json',
                 'name': 'Cambodia',
                 'stan': 'KHM',
@@ -2603,12 +2572,12 @@ WORLD_FB = \
                                              'conv_short': 'Cameroon',
                                              'local_long': 'Republique du Cameroun/Republic of Cameroon',
                                              'local_short': 'Cameroun/Cameroon'},
-                           'population': 28524175,
+                           'population': 29321637,
                            'ports': {},
                            'region': ['Africa'],
-                           'subs_broadband': 713845,
-                           'subs_fixed': 883015,
-                           'subs_mobile': 25245134,
+                           'subs_broadband': 722579,
+                           'subs_fixed': 964378,
+                           'subs_mobile': 22350310,
                            'telecom': { 'code': '237',
                                         'domestic': [ 'only a little above 3 per 100 persons for fixed-line '
                                                       'subscriptions',
@@ -2648,7 +2617,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 9150000},
+                           'users_internet': 10087428},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cameroon/page-data.json',
                 'name': 'Cameroon',
                 'stan': 'CMR',
@@ -2666,13 +2635,13 @@ WORLD_FB = \
                          'coastline': 202080,
                          'coord': ['60 00 N, 95 00 W'],
                          'country_name': {'conv_long': 'none', 'conv_short': 'Canada'},
-                         'population': 37943231,
+                         'population': 38232593,
                          'ports': { 'container': 'Montreal (1,745,244), Vancouver (3,398,860) (2019)',
                                     'seaport': 'Halifax, Saint John (New Brunswick), Vancouver'},
                          'region': ['North America'],
-                         'subs_broadband': 15776602,
-                         'subs_fixed': 13926000,
-                         'subs_mobile': 36093021,
+                         'subs_broadband': 15825813,
+                         'subs_fixed': 13340000,
+                         'subs_mobile': 32360000,
                          'telecom': { 'code': '1',
                                       'domestic': [ 'Nearly 37 per 100 fixed-line and 96 per 100 mobile-cellular '
                                                     'teledensity',
@@ -2714,7 +2683,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 35630000},
+                         'users_internet': 36896088},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/canada/page-data.json',
               'name': 'Canada',
               'stan': 'CAN',
@@ -2734,12 +2703,12 @@ WORLD_FB = \
                                  'coastline': 160,
                                  'coord': ['19 30 N, 80 30 W'],
                                  'country_name': {'conv_long': 'none', 'conv_short': 'Cayman Islands'},
-                                 'population': 63131,
+                                 'population': 64309,
                                  'ports': {'seaport': 'Cayman Brac, George Town'},
                                  'region': ['Central America and the Caribbean'],
-                                 'subs_broadband': 31232,
-                                 'subs_fixed': 34768,
-                                 'subs_mobile': 96656,
+                                 'subs_broadband': 3200,
+                                 'subs_fixed': 36000,
+                                 'subs_mobile': 100000,
                                  'telecom': { 'code': '1345',
                                               'domestic': [ 'introduction of competition in the mobile-cellular market '
                                                             'in 2004 boosted subscriptions',
@@ -2775,7 +2744,7 @@ WORLD_FB = \
                                                         'school from home became evident, and received some support '
                                                         'from governments',
                                                         0]},
-                                 'users_internet': 53600},
+                                 'users_internet': 53233},
                       'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cayman-islands/page-data.json',
                       'name': 'Cayman Islands',
                       'stan': 'CYM',
@@ -2805,12 +2774,12 @@ WORLD_FB = \
                                                              'conv_short': 'none',
                                                              'local_long': 'Republique Centrafricaine',
                                                              'local_short': 'none'},
-                                           'population': 5357984,
+                                           'population': 5454533,
                                            'ports': {},
                                            'region': ['Africa'],
                                            'subs_broadband': 499,
-                                           'subs_fixed': 2193,
-                                           'subs_mobile': 1595294,
+                                           'subs_fixed': 2000,
+                                           'subs_mobile': 1831000,
                                            'telecom': { 'code': '236',
                                                         'domestic': [ 'very limited telephone service with less than 1 '
                                                                       'fixed-line connection per 100 persons',
@@ -2849,7 +2818,7 @@ WORLD_FB = \
                                                                   'for work and school from home became evident, and '
                                                                   'received some support from governments',
                                                                   0]},
-                                           'users_internet': 557100},
+                                           'users_internet': 482976},
                                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/central-african-republic/page-data.json',
                                 'name': 'Central African Republic',
                                 'stan': 'CAF',
@@ -2876,7 +2845,7 @@ WORLD_FB = \
                                          'conv_short': 'Chad',
                                          'local_long': 'Republique du Tchad/Jumhuriyat Tshad',
                                          'local_short': 'Tchad/Tshad'},
-                       'population': 17414108,
+                       'population': 17963211,
                        'region': ['Africa'],
                        'subs_broadband': 0,
                        'subs_fixed': 5340,
@@ -2908,7 +2877,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 2860000},
+                       'users_internet': 1642586},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/chad/page-data.json',
             'name': 'Chad',
             'stan': 'TCD',
@@ -2934,12 +2903,12 @@ WORLD_FB = \
                                           'conv_short': 'Chile',
                                           'local_long': 'Republica de Chile',
                                           'local_short': 'Chile'},
-                        'population': 18307925,
+                        'population': 18430408,
                         'ports': { 'container': 'San Antonio (1,709,635), Valparaiso (898,715) (2019)',
                                    'seaport': 'Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, '
                                               'Valparaiso'},
                         'region': ['South America'],
-                        'subs_broadband': 3751227,
+                        'subs_broadband': 3763826,
                         'subs_fixed': 2567938,
                         'subs_mobile': 25068249,
                         'telecom': { 'code': '56',
@@ -2981,7 +2950,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 15780000},
+                        'users_internet': 16822264},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/chile/page-data.json',
              'name': 'Chile',
              'stan': 'CHL',
@@ -3017,15 +2986,15 @@ WORLD_FB = \
                                           'conv_short': 'China',
                                           'local_long': 'Zhonghua Renmin Gongheguo',
                                           'local_short': 'Zhongguo'},
-                        'population': 1397897720,
+                        'population': 1410539758,
                         'ports': { 'container': 'Dalian (8,760,000), Guangzhou (23,236,200), Ningbo (27,530,000), '
                                                 'Qingdao (21,010,000), Shanghai (43,303,000), Shenzhen (25,770,000), '
                                                 'Tianjin (17,264,000) (2019)',
                                    'seaport': 'Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin'},
                         'region': ['Asia'],
-                        'subs_broadband': 483550000,
+                        'subs_broadband': 483549500,
                         'subs_fixed': 181908000,
-                        'subs_mobile': 1696356000,
+                        'subs_mobile': 1,
                         'telecom': { 'code': '86',
                                      'domestic': [ 'nearly 13 per 100 fixed line and 118 per 100 mobile-cellular',
                                                    'a domestic satellite system with several earth stations has been '
@@ -3038,8 +3007,8 @@ WORLD_FB = \
                                                   'government aims to provide universal and affordable broadband '
                                                   'coverage through market competition and private investment in '
                                                   'state-controlled enterprises',
-                                                  '3G and LTE subscribers will migrate to 5G aiming for 1M 5G base '
-                                                  'stations',
+                                                  '3G and LTE subscribers will migrate to 5G aiming for 2 million 5G '
+                                                  'base stations by the end of 2022',
                                                   'government strengthens IoT policies to boost economic growth',
                                                   'China is pushing development of smart cities beyond Beijing',
                                                   'Beijing residents carry virtual card integrating identity, social '
@@ -3047,7 +3016,7 @@ WORLD_FB = \
                                                   'government controls gateways to global Internet through censorship, '
                                                   'surveillance, and shut-downs',
                                                   'major exporter of broadcasting equipment world-wide',
-                                                  2020],
+                                                  2022],
                                      'intl': [ 'landing points for the RJCN, EAC-C2C, TPE, APCN-2, APG, NCP, TEA, '
                                                'SeaMeWe-3, SJC2, Taiwan Strait Express-1, AAE-1, APCN-2, AAG, FEA, '
                                                'FLAG and TSE submarine cables providing connectivity to Asia, the '
@@ -3056,21 +3025,8 @@ WORLD_FB = \
                                                'Indian Ocean',
                                                '1 Intersputnik - Indian Ocean region',
                                                'and 1 Inmarsat - Pacific and Indian Ocean regions)',
-                                               2019],
-                                     'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
-                                               'production and supply chains globally',
-                                               'since 2020, some aspects of the telecom sector have experienced '
-                                               'downturn, particularly in mobile device production',
-                                               'many network operators delayed upgrades to infrastructure',
-                                               'progress towards 5G implementation was postponed or slowed in some '
-                                               'countries',
-                                               'consumer spending on telecom services and devices was affected by '
-                                               'large-scale job losses and the consequent restriction on disposable '
-                                               'incomes',
-                                               'the crucial nature of telecom services as a tool for work and school '
-                                               'from home became evident, and received some support from governments',
-                                               0]},
-                        'users_internet': 939800000},
+                                               2019]},
+                        'users_internet': 987000000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/china/page-data.json',
              'name': 'China',
              'stan': 'CHN',
@@ -3104,7 +3060,7 @@ WORLD_FB = \
                                                           'satellite earth station - 1 (Intelsat provides telephone '
                                                           'and telex service)',
                                                           2019]},
-                                   'users_internet': 1449},
+                                   'users_internet': 790},
                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/christmas-island/page-data.json',
                         'name': 'Christmas Island',
                         'stan': 'CXR',
@@ -3193,7 +3149,7 @@ WORLD_FB = \
                                              'conv_short': 'Colombia',
                                              'local_long': 'Republica de Colombia',
                                              'local_short': 'Colombia'},
-                           'population': 50355650,
+                           'population': 49059221,
                            'ports': { 'container': 'Buenaventura (1,121,267), Cartagena (2,995,031) (2019)',
                                       'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br '
                                                  '/>Pacific Ocean - Buenaventura'},
@@ -3204,18 +3160,21 @@ WORLD_FB = \
                            'telecom': { 'code': '57',
                                         'domestic': [ 'fixed-line connections stand at about 14 per 100 persons',
                                                       'mobile cellular telephone subscribership is 133 per 100 persons',
-                                                      'competition among cellular service providers is resulting in '
-                                                      'falling local and international calling rates and contributing '
-                                                      'to the steep decline in the market share of fixed-line services',
+                                                      "Partners Telecom Colombia's (WOM) market entrance in June 2021 "
+                                                      'increased competition among cellular service providers and is '
+                                                      'resulting in falling local and international calling rates and '
+                                                      'contributing to the steep decline in the market share of '
+                                                      'fixed-line services',
                                                       'domestic satellite system with 41 earth stations',
-                                                      2020],
+                                                      2021],
                                         'general': [ "Colombia's telecom infrastructure has improved through a "
                                                      'government program of competition to upgrade services based on '
-                                                     'LTE and 5G, focusing on infrastructure in small urban centers '
+                                                     'LTE and 4G, focusing on infrastructure in small urban centers '
                                                      'and rural areas',
                                                      'national ICT Plan increased broadband and fiber connectivity',
-                                                     'operators testing 5G and completed 20k terrestrial cable '
-                                                     'connecting 80% of the country',
+                                                     'operators are testing 5G through unallocated spectrum pilots and '
+                                                     'have completed 20k terrestrial cable connecting 80% of the '
+                                                     'country',
                                                      'benefit due to access to commercial submarine cable',
                                                      2020],
                                         'intl': [ 'landing points for the SAC, Maya-1, SAIT, ACROS, AMX-1, CFX-1, '
@@ -3230,8 +3189,8 @@ WORLD_FB = \
                                                   'since 2020, some aspects of the telecom sector have experienced '
                                                   'downturn, particularly in mobile device production',
                                                   'many network operators delayed upgrades to infrastructure',
-                                                  'progress towards 5G implementation was postponed or slowed in some '
-                                                  'countries',
+                                                  'progress towards 5G implementation slowed with 5G auction delayed '
+                                                  'to 2023',
                                                   'consumer spending on telecom services and devices was affected by '
                                                   'large-scale job losses and the consequent restriction on disposable '
                                                   'incomes',
@@ -3239,7 +3198,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 34730000},
+                           'users_internet': 35618019},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/colombia/page-data.json',
                 'name': 'Colombia',
                 'stan': 'COL',
@@ -3258,16 +3217,16 @@ WORLD_FB = \
                           'coord': ['12 10 S, 44 15 E'],
                           'country_name': { 'conv_long': 'Union of the Comoros',
                                             'conv_short': 'Comoros',
-                                            'local_long': 'Udzima wa Komori (Comorian), Union des Comores (French), '
-                                                          'Jumhuriyat al Qamar al Muttahidah (Arabic)',
-                                            'local_short': 'Komori (Comorian), Comores (French), Juzur al Qamar '
+                                            'local_long': 'Udzima wa Komori (Comorian), Union des Comores (French), Al '
+                                                          'Ittihad al Qumuri (Arabic)',
+                                            'local_short': 'Komori (Comorian), Les Comores (French), Juzur al Qamar '
                                                            '(Arabic)'},
-                          'population': 864335,
+                          'population': 876437,
                           'ports': {'seaport': 'Moroni, Moutsamoudou'},
                           'region': ['Africa'],
-                          'subs_broadband': 912,
+                          'subs_broadband': 1066,
                           'subs_fixed': 7573,
-                          'subs_mobile': 472815,
+                          'subs_mobile': 781579,
                           'telecom': { 'code': '269',
                                        'domestic': [ 'fixed-line connections less than 1 per 100 persons',
                                                      'mobile-cellular usage about 54 per 100 persons',
@@ -3297,7 +3256,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 74500},
+                          'users_internet': 69568},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/comoros/page-data.json',
                'name': 'Comoros',
                'stan': 'COM',
@@ -3331,10 +3290,10 @@ WORLD_FB = \
                                                                       'conv_short': 'DRC',
                                                                       'local_long': 'Republique Democratique du Congo',
                                                                       'local_short': 'RDC'},
-                                                    'population': 105044646,
+                                                    'population': 108407721,
                                                     'ports': {'seaport': 'Banana'},
                                                     'region': ['Africa'],
-                                                    'subs_broadband': 11900,
+                                                    'subs_broadband': 31000,
                                                     'subs_fixed': 0,
                                                     'subs_mobile': 40798396,
                                                     'telecom': { 'code': '243',
@@ -3389,7 +3348,7 @@ WORLD_FB = \
                                                                            'became evident, and received some support '
                                                                            'from governments',
                                                                            0]},
-                                                    'users_internet': 21140000},
+                                                    'users_internet': 12538597},
                                          'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/congo-democratic-republic-of-the/page-data.json',
                                          'name': 'Congo, Democratic Republic of the',
                                          'stan': 'COD',
@@ -3419,12 +3378,12 @@ WORLD_FB = \
                                                            'conv_short': 'Congo (Brazzaville)',
                                                            'local_long': 'Republique du Congo',
                                                            'local_short': 'Congo'},
-                                         'population': 5417414,
+                                         'population': 5546307,
                                          'ports': {'seaport': 'Pointe-Noire'},
                                          'region': ['Africa'],
-                                         'subs_broadband': 500,
+                                         'subs_broadband': 1000,
                                          'subs_fixed': 17000,
-                                         'subs_mobile': 5000000,
+                                         'subs_mobile': 4890000,
                                          'telecom': { 'code': '242',
                                                       'domestic': [ 'fixed-line infrastructure inadequate, providing '
                                                                     'less than 1 fixed-line connection per 100 persons',
@@ -3471,7 +3430,7 @@ WORLD_FB = \
                                                                 'work and school from home became evident, and '
                                                                 'received some support from governments',
                                                                 0]},
-                                         'users_internet': 790000},
+                                         'users_internet': 484245},
                               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/congo-republic-of-the/page-data.json',
                               'name': 'Congo, Republic of the',
                               'stan': 'COG',
@@ -3489,7 +3448,7 @@ WORLD_FB = \
                                'coastline': 120,
                                'coord': ['21 14 S, 159 46 W'],
                                'country_name': {'conv_long': 'none', 'conv_short': 'Cook Islands'},
-                               'population': 8327,
+                               'population': 8128,
                                'ports': {'seaport': 'Avatiu'},
                                'region': ['Oceania'],
                                'subs_broadband': 2700,
@@ -3532,7 +3491,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 9487},
+                               'users_internet': 9476},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cook-islands/page-data.json',
                     'name': 'Cook Islands',
                     'stan': 'COK',
@@ -3580,7 +3539,7 @@ WORLD_FB = \
                                                'conv_short': 'Costa Rica',
                                                'local_long': 'Republica de Costa Rica',
                                                'local_short': 'Costa Rica'},
-                             'population': 5151140,
+                             'population': 5204411,
                              'ports': {'seaport': 'Atlantic Ocean (Caribbean) - Puerto Limon'},
                              'region': ['Central America and the Caribbean'],
                              'subs_broadband': 992725,
@@ -3624,7 +3583,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 4150000},
+                             'users_internet': 4126232},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/costa-rica/page-data.json',
                   'name': 'Costa Rica',
                   'stan': 'CRI',
@@ -3656,7 +3615,7 @@ WORLD_FB = \
                                                   'conv_short': "Cote d'Ivoire",
                                                   'local_long': "Republique de Cote d'Ivoire",
                                                   'local_short': "Cote d'Ivoire"},
-                                'population': 28088455,
+                                'population': 28713423,
                                 'ports': {'seaport': 'Abidjan, San-Pedro'},
                                 'region': ['Africa'],
                                 'subs_broadband': 260097,
@@ -3700,7 +3659,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 12500000},
+                                'users_internet': 9496179},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cote-divoire/page-data.json',
                      'name': "Cote d'Ivoire",
                      'stan': 'CIV',
@@ -3726,11 +3685,11 @@ WORLD_FB = \
                                             'conv_short': 'Croatia',
                                             'local_long': 'Republika Hrvatska',
                                             'local_short': 'Hrvatska'},
-                          'population': 4208973,
+                          'population': 4188853,
                           'ports': {'seaport': 'Ploce, Rijeka, Sibenik, Split'},
                           'region': ['Europe'],
                           'subs_broadband': 1030973,
-                          'subs_fixed': 1300105,
+                          'subs_fixed': 1299329,
                           'subs_mobile': 4375699,
                           'telecom': { 'code': '385',
                                        'domestic': [ 'fixed-line teledensity has dropped somewhat to about 32 per 100 '
@@ -3768,7 +3727,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 3270000},
+                          'users_internet': 3157190},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/croatia/page-data.json',
                'name': 'Croatia',
                'stan': 'HRV',
@@ -3789,7 +3748,7 @@ WORLD_FB = \
                                          'conv_short': 'Cuba',
                                          'local_long': 'Republica de Cuba',
                                          'local_short': 'Cuba'},
-                       'population': 11032343,
+                       'population': 11008112,
                        'ports': { 'seaport': 'Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, '
                                              'Santiago de Cuba'},
                        'region': ['Central America and the Caribbean'],
@@ -3832,7 +3791,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 7700000},
+                       'users_internet': 8381696},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cuba/page-data.json',
             'name': 'Cuba',
             'stan': 'CUB',
@@ -3853,12 +3812,12 @@ WORLD_FB = \
                                             'conv_short': 'Curacao',
                                             'local_long': 'Land Curacao (Dutch); Pais Korsou (Papiamento)',
                                             'local_short': 'Curacao (Dutch); Korsou (Papiamento)'},
-                          'population': 151885,
+                          'population': 152379,
                           'ports': {'seaport': 'Willemstad'},
                           'region': ['Central America and the Caribbean'],
-                          'subs_broadband': 53297,
-                          'subs_fixed': 53500,
-                          'subs_mobile': 184236,
+                          'subs_broadband': 55000,
+                          'subs_fixed': 54000,
+                          'subs_mobile': 182000,
                           'telecom': { 'domestic': [ 'roughly 33 per 100 users for fixed-line and 113 per 100 users '
                                                      'for cellular-mobile, majority of the islanders have Internet',
                                                      'market revenue has been affected in recent quarters as a result '
@@ -3889,7 +3848,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 112000},
+                          'users_internet': 107060},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/curacao/page-data.json',
                'name': 'Curacao',
                'stan': '',
@@ -3914,12 +3873,12 @@ WORLD_FB = \
                                            'conv_short': 'Cyprus',
                                            'local_long': 'Kypriaki Dimokratia/Kibris Cumhuriyeti',
                                            'local_short': 'Kypros/Kibris'},
-                         'population': 1281506,
+                         'population': 1295102,
                          'ports': {'seaport': 'area under government control: Larnaca, Limassol, Vasilikos'},
                          'region': ['Middle East'],
                          'subs_broadband': 332080,
                          'subs_fixed': 311439,
-                         'subs_mobile': 1230706,
+                         'subs_mobile': 1239960,
                          'telecom': { 'code': '357',
                                       'domestic': [ 'fixed-line about 35 per 100 and about 139 per 100 for '
                                                     'mobile-cellular teledensity',
@@ -3968,7 +3927,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 1040000},
+                         'users_internet': 1098699},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/cyprus/page-data.json',
               'name': 'Cyprus',
               'stan': 'CYP',
@@ -3990,12 +3949,12 @@ WORLD_FB = \
                                             'conv_short': 'Czechia',
                                             'local_long': 'Ceska republika',
                                             'local_short': 'Cesko'},
-                          'population': 10702596,
+                          'population': 10705384,
                           'ports': {},
                           'region': ['Europe'],
-                          'subs_broadband': 3802644,
-                          'subs_fixed': 1316316,
-                          'subs_mobile': 12999353,
+                          'subs_broadband': 3845426,
+                          'subs_fixed': 1335224,
+                          'subs_mobile': 12999812,
                           'telecom': { 'code': '420',
                                        'domestic': [ 'roughly 12 fixed-telephone subscriptions per 100 inhabitants and '
                                                      'mobile telephone usage of about 121 per 100 inhabitants',
@@ -4026,7 +3985,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 9430000},
+                          'users_internet': 8665265},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/czechia/page-data.json',
                'name': 'Czechia',
                'stan': 'CZE',
@@ -4052,12 +4011,12 @@ WORLD_FB = \
                                             'conv_short': 'Denmark',
                                             'local_long': 'Kongeriget Danmark',
                                             'local_short': 'Danmark'},
-                          'population': 5894687,
+                          'population': 5920767,
                           'ports': {'seaport': 'Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg'},
                           'region': ['Europe'],
-                          'subs_broadband': 2571736,
-                          'subs_fixed': 937469,
-                          'subs_mobile': 7144123,
+                          'subs_broadband': 2590282,
+                          'subs_fixed': 734436,
+                          'subs_mobile': 7252675,
                           'telecom': { 'code': '45',
                                        'domestic': [ 'fixed-line roughly 16 per 100 and about 123 per 100 for '
                                                      'mobile-cellular subscriptions',
@@ -4102,7 +4061,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 5690000},
+                          'users_internet': 5656462},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/denmark/page-data.json',
                'name': 'Denmark',
                'stan': 'DNK',
@@ -4145,7 +4104,7 @@ WORLD_FB = \
                                              'local_long': 'Republique de Djibouti (French), Jumhuriyat Jibuti '
                                                            '(Arabic)',
                                              'local_short': 'Djibouti (French), Jibuti (Arabic)'},
-                           'population': 938413,
+                           'population': 957273,
                            'ports': {'seaport': 'Djibouti'},
                            'region': ['Africa'],
                            'subs_broadband': 25053,
@@ -4197,7 +4156,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 554300},
+                           'users_internet': 582921},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/djibouti/page-data.json',
                 'name': 'Djibouti',
                 'stan': 'DJI',
@@ -4215,12 +4174,12 @@ WORLD_FB = \
                            'coastline': 148,
                            'coord': ['15 25 N, 61 20 W'],
                            'country_name': {'conv_long': 'Commonwealth of Dominica', 'conv_short': 'Dominica'},
-                           'population': 74584,
+                           'population': 74629,
                            'ports': {'seaport': 'Portsmouth, Roseau'},
                            'region': ['Central America and the Caribbean'],
-                           'subs_broadband': 11514,
-                           'subs_fixed': 2660,
-                           'subs_mobile': 75771,
+                           'subs_broadband': 16000,
+                           'subs_fixed': 1000,
+                           'subs_mobile': 76000,
                            'telecom': { 'code': '1767',
                                         'domestic': [ 'fixed-line connections continue to decline slowly with only two '
                                                       'active operators providing about 4 fixed-line connections per '
@@ -4256,7 +4215,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 50200},
+                           'users_internet': 50266},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/dominica/page-data.json',
                 'name': 'Dominica',
                 'stan': 'DMA',
@@ -4279,7 +4238,7 @@ WORLD_FB = \
                                                        'conv_short': 'The Dominican',
                                                        'local_long': 'Republica Dominicana',
                                                        'local_short': 'La Dominicana'},
-                                     'population': 10597348,
+                                     'population': 10694700,
                                      'ports': {'seaport': 'Puerto Haina, Puerto Plata, Santo Domingo'},
                                      'region': ['Central America and the Caribbean'],
                                      'subs_broadband': 1031858,
@@ -4326,7 +4285,7 @@ WORLD_FB = \
                                                             'and school from home became evident, and received some '
                                                             'support from governments',
                                                             0]},
-                                     'users_internet': 8160000},
+                                     'users_internet': 8352886},
                           'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/dominican-republic/page-data.json',
                           'name': 'Dominican Republic',
                           'stan': 'DOM',
@@ -4350,19 +4309,23 @@ WORLD_FB = \
                                             'conv_short': 'Ecuador',
                                             'local_long': 'Republica del Ecuador',
                                             'local_short': 'Ecuador'},
-                          'population': 17093159,
+                          'population': 17289554,
                           'ports': { 'container': 'Guayaquil (1,680,751) (2019)',
                                      'seaport': 'Esmeraldas, Manta, Puerto Bolivar'},
                           'region': ['South America'],
-                          'subs_broadband': 2346923,
+                          'subs_broadband': 2371297,
                           'subs_fixed': 2063044,
                           'subs_mobile': 15485366,
                           'telecom': { 'code': '593',
-                                       'domestic': [ 'fixed-line services with digital networks provided by multiple '
-                                                     'telecommunications operators',
-                                                     'fixed-line teledensity stands at about 12 per 100 persons and '
-                                                     'mobile-cellular use nearly 88 per 100 persons',
-                                                     2019],
+                                       'domestic': [ 'according to 2021 statistics from the Ministry of '
+                                                     'Telecommunications and Information Society, 50 percent of '
+                                                     "Ecuadorian homes do not have access to fixed internet. Ecuador's "
+                                                     'telecoms regulator, ARCOTEL is currently evaluating and '
+                                                     'reorganizing the 3.5GHz, 2.5 GHz, 700 MHz and AWS spectrum for '
+                                                     'future government tenders. 2G/3G technologies have a 91.11 '
+                                                     'percent of penetration and 4G technologies has 60.74 percent '
+                                                     '(2021).',
+                                                     2021],
                                        'general': [ "Ecuador's remote and mountainous geography lends challenges to "
                                                     'tele-density',
                                                     'government-owned provider to improve fixed-line and LTE '
@@ -4371,28 +4334,16 @@ WORLD_FB = \
                                                     'small telecom market dominated by the non-competitive mobile '
                                                     'sector',
                                                     'inadequate fixed-line infrastructure and slowed fixed-line '
-                                                    'broadband services',
+                                                    'broadband services (2020).',
                                                     2020],
-                                       'intl': [ 'landing points for the PAN-AM, PCCS, America Movil-Telxius West '
-                                                 'Coast Cable and SAm-1 submarine cables that provide links to South '
-                                                 'and Central America, and extending onward to the Caribbean and the '
-                                                 'US',
+                                       'intl': [ 'landing points for the SPSC (Mistral Submarine Cable), Panamerican '
+                                                 'Cable System (PAN-AM), Pacific Caribbean Cable System (PCCS), '
+                                                 'America Movil-Telxius West Coast Cable and SAm-1 submarine (SAm-1) '
+                                                 'cables that provide links to South and Central America, and '
+                                                 'extending onward to the Caribbean and the US',
                                                  'satellite earth station - 1 Intelsat (Atlantic Ocean)',
-                                                 2019],
-                                       'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
-                                                 'production and supply chains globally',
-                                                 'since 2020, some aspects of the telecom sector have experienced '
-                                                 'downturn, particularly in mobile device production',
-                                                 'many network operators delayed upgrades to infrastructure',
-                                                 'progress towards 5G implementation was postponed or slowed in some '
-                                                 'countries',
-                                                 'consumer spending on telecom services and devices was affected by '
-                                                 'large-scale job losses and the consequent restriction on disposable '
-                                                 'incomes',
-                                                 'the crucial nature of telecom services as a tool for work and school '
-                                                 'from home became evident, and received some support from governments',
-                                                 0]},
-                          'users_internet': 10170000},
+                                                 2019]},
+                          'users_internet': 11467989},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/ecuador/page-data.json',
                'name': 'Ecuador',
                'stan': 'ECU',
@@ -4414,7 +4365,7 @@ WORLD_FB = \
                                           'conv_short': 'Egypt',
                                           'local_long': 'Jumhuriyat Misr al-Arabiyah',
                                           'local_short': 'Misr'},
-                        'population': 106437241,
+                        'population': 107770524,
                         'ports': { 'container': 'Port Said (East) (3,816,084) (2019)',
                                    'seaport': 'Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said'},
                         'region': ['Africa'],
@@ -4458,7 +4409,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 59190000},
+                        'users_internet': 73680770},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/egypt/page-data.json',
              'name': 'Egypt',
              'stan': 'EGY',
@@ -4479,12 +4430,12 @@ WORLD_FB = \
                                                 'conv_short': 'El Salvador',
                                                 'local_long': 'Republica de El Salvador',
                                                 'local_short': 'El Salvador'},
-                              'population': 6528135,
+                              'population': 6568745,
                               'ports': {'seaport': 'Puerto Cutuco'},
                               'region': ['Central America and the Caribbean'],
-                              'subs_broadband': 525088,
-                              'subs_fixed': 893630,
-                              'subs_mobile': 10396786,
+                              'subs_broadband': 586000,
+                              'subs_fixed': 894000,
+                              'subs_mobile': 9949000,
                               'telecom': { 'code': '503',
                                            'domestic': [ 'fixed-line services, roughly 14 per 100, has slowed in the '
                                                          'face of mobile-cellular competition now at 161 subscribers '
@@ -4514,7 +4465,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 3280000},
+                              'users_internet': 3567410},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/el-salvador/page-data.json',
                    'name': 'El Salvador',
                    'stan': 'SLV',
@@ -4529,7 +4480,7 @@ WORLD_FB = \
                                     'area': {'land': '28,051 sq km', 'total': '28,051 sq km', 'water': '0 sq km'},
                                     'boundaries': {'bord': {'Cameroon': 183, 'Gabon': 345}, 'len': 528},
                                     'capital': { 'coord': '3 45 N, 8 47 E',
-                                                 'name': 'Malabo; note - a new capital of Cuidad de la Paz (formerly '
+                                                 'name': 'Malabo; note - a new capital of Ciudad de la Paz (formerly '
                                                          'referred to as Oyala) is being built on the mainland near '
                                                          'Djibloho; Malabo is on the island of Bioko',
                                                  'time_diff': 'UTC+1'},
@@ -4540,12 +4491,12 @@ WORLD_FB = \
                                                       'local_long': 'Republica de Guinea Ecuatorial/Republique de '
                                                                     'Guinee Equatoriale',
                                                       'local_short': 'Guinea Ecuatorial/Guinee Equatoriale'},
-                                    'population': 857008,
+                                    'population': 1679172,
                                     'ports': {'seaport': 'Bata, Luba, Malabo'},
                                     'region': ['Africa'],
-                                    'subs_broadband': 1620,
-                                    'subs_fixed': 10848,
-                                    'subs_mobile': 591223,
+                                    'subs_broadband': 1000,
+                                    'subs_fixed': 11000,
+                                    'subs_mobile': 645000,
                                     'telecom': { 'code': '240',
                                                  'domestic': [ 'fixed-line density is less than 1 per 100 persons and '
                                                                'mobile-cellular subscribership is roughly 45 per 100',
@@ -4580,7 +4531,7 @@ WORLD_FB = \
                                                            'and school from home became evident, and received some '
                                                            'support from governments',
                                                            0]},
-                                    'users_internet': 374200},
+                                    'users_internet': 352555},
                          'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/equatorial-guinea/page-data.json',
                          'name': 'Equatorial Guinea',
                          'stan': 'GNQ',
@@ -4601,12 +4552,12 @@ WORLD_FB = \
                                             'conv_short': 'Eritrea',
                                             'local_long': 'Hagere Ertra',
                                             'local_short': 'Ertra'},
-                          'population': 6147398,
+                          'population': 6209262,
                           'ports': {'seaport': 'Assab, Massawa'},
                           'region': ['Africa'],
-                          'subs_broadband': 1000,
-                          'subs_fixed': 66170,
-                          'subs_mobile': 695000,
+                          'subs_broadband': 5000,
+                          'subs_fixed': 66000,
+                          'subs_mobile': 1801000,
                           'telecom': { 'code': '291',
                                        'domestic': [ 'fixed-line subscribership is less than 2 per 100 persons and '
                                                      'mobile-cellular is just over 20 per 100',
@@ -4636,7 +4587,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 248200},
+                          'users_internet': 53200},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/eritrea/page-data.json',
                'name': 'Eritrea',
                'stan': 'ERI',
@@ -4660,7 +4611,7 @@ WORLD_FB = \
                                             'conv_short': 'Estonia',
                                             'local_long': 'Eesti Vabariik',
                                             'local_short': 'Eesti'},
-                          'population': 1220042,
+                          'population': 1211524,
                           'ports': {'seaport': 'Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn'},
                           'region': ['Europe'],
                           'subs_broadband': 415610,
@@ -4707,7 +4658,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1210000},
+                          'users_internet': 1183236},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/estonia/page-data.json',
                'name': 'Estonia',
                'stan': 'EST',
@@ -4731,11 +4682,11 @@ WORLD_FB = \
                                              'conv_short': 'Eswatini',
                                              'local_long': 'Umbuso weSwatini',
                                              'local_short': 'eSwatini'},
-                           'population': 1113276,
+                           'population': 1121761,
                            'region': ['Africa'],
-                           'subs_broadband': 8000,
-                           'subs_fixed': 41000,
-                           'subs_mobile': 1052000,
+                           'subs_broadband': 12000,
+                           'subs_fixed': 39000,
+                           'subs_mobile': 1243000,
                            'telecom': { 'code': '268',
                                         'domestic': [ 'Eswatini has 2 mobile-cellular providers',
                                                       'communication infrastructure has a geographic coverage of about '
@@ -4772,7 +4723,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 548100},
+                           'users_internet': 539623},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/eswatini/page-data.json',
                 'name': 'Eswatini',
                 'stan': 'SWZ',
@@ -4803,12 +4754,12 @@ WORLD_FB = \
                                              'conv_short': 'Ethiopia',
                                              'local_long': "Ityop'iya Federalawi Demokrasiyawi Ripeblik",
                                              'local_short': "Ityop'iya"},
-                           'population': 110871031,
+                           'population': 113656596,
                            'ports': {},
                            'region': ['Africa'],
-                           'subs_broadband': 62950,
-                           'subs_fixed': 1140000,
-                           'subs_mobile': 39540000,
+                           'subs_broadband': 212000,
+                           'subs_fixed': 1252000,
+                           'subs_mobile': 44500000,
                            'telecom': { 'code': '251',
                                         'domestic': [ 'fixed-line subscriptions at about 1 per 100 while '
                                                       'mobile-cellular stands at a little over 37 per 100',
@@ -4851,7 +4802,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 23960000},
+                           'users_internet': 27591260},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/ethiopia/page-data.json',
                 'name': 'Ethiopia',
                 'stan': 'ETH',
@@ -4908,7 +4859,7 @@ WORLD_FB = \
                                                                            '(Atlantic Ocean) with links through London '
                                                                            'to other countries',
                                                                            2015]},
-                                                    'users_internet': 3393},
+                                                    'users_internet': 3343},
                                          'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/falkland-islands-islas-malvinas/page-data.json',
                                          'name': 'Falkland Islands (Islas Malvinas)',
                                          'stan': 'FLK',
@@ -4931,12 +4882,12 @@ WORLD_FB = \
                                                   'conv_short': 'Faroe Islands',
                                                   'local_long': 'none',
                                                   'local_short': 'Foroyar'},
-                                'population': 51943,
+                                'population': 52269,
                                 'ports': {'seaport': 'Fuglafjordur, Torshavn, Vagur'},
                                 'region': ['Europe'],
                                 'subs_broadband': 18443,
                                 'subs_fixed': 15341,
-                                'subs_mobile': 59003,
+                                'subs_mobile': 59213,
                                 'telecom': { 'code': '298',
                                              'domestic': [ 'roughly 31 per 100 teledensity for fixed-line and nearly '
                                                            '121 per 100 for mobile-cellular',
@@ -4967,7 +4918,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 47800},
+                                'users_internet': 47703},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/faroe-islands/page-data.json',
                      'name': 'Faroe Islands',
                      'stan': 'FRO',
@@ -4988,12 +4939,12 @@ WORLD_FB = \
                                          'conv_short': 'Fiji',
                                          'local_long': 'Republic of Fiji/Matanitu ko Viti',
                                          'local_short': 'Fiji/Viti'},
-                       'population': 939535,
+                       'population': 943737,
                        'ports': {'seaport': 'Lautoka, Levuka, Suva'},
                        'region': ['Oceania'],
-                       'subs_broadband': 13033,
-                       'subs_fixed': 76522,
-                       'subs_mobile': 1033920,
+                       'subs_broadband': 23062,
+                       'subs_fixed': 48510,
+                       'subs_mobile': 991500,
                        'telecom': { 'code': '679',
                                     'domestic': [ 'fixed-line nearly 9 per 100 persons and mobile-cellular teledensity '
                                                   'roughly 118 per 100 persons',
@@ -5029,7 +4980,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 634100},
+                       'users_internet': 444978},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/fiji/page-data.json',
             'name': 'Fiji',
             'stan': 'FJI',
@@ -5050,7 +5001,7 @@ WORLD_FB = \
                                             'conv_short': 'Finland',
                                             'local_long': 'Suomen tasavalta/Republiken Finland',
                                             'local_short': 'Suomi/Finland'},
-                          'population': 5587442,
+                          'population': 5601547,
                           'ports': {'seaport': 'Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma'},
                           'region': ['Europe'],
                           'subs_broadband': 1846000,
@@ -5093,7 +5044,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 5270000},
+                          'users_internet': 5087180},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/finland/page-data.json',
                'name': 'Finland',
                'stan': 'FIN',
@@ -5133,7 +5084,7 @@ WORLD_FB = \
                                            'conv_short': 'France',
                                            'local_long': 'Republique francaise',
                                            'local_short': 'France'},
-                         'population': 68084217,
+                         'population': 68305148,
                          'ports': { 'container': 'Le Havre (2,822,910) (2019)',
                                     'ferry': 'Calais, Cherbourg, Le Havre',
                                     'seaport': '<br /><em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le Havre, '
@@ -5206,7 +5157,7 @@ WORLD_FB = \
                                                                 'and nearby Indian Ocean Island countries of '
                                                                 'Mauritius, and Madagascar',
                                                                 2019]},
-                         'users_internet': 59470000},
+                         'users_internet': 57272921},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/france/page-data.json',
               'name': 'France',
               'stan': 'FRA',
@@ -5253,12 +5204,12 @@ WORLD_FB = \
                                                      'conv_short': 'French Polynesia',
                                                      'local_long': "Pays d'outre-mer de la Polynesie Francaise",
                                                      'local_short': 'Polynesie Francaise'},
-                                   'population': 297154,
+                                   'population': 299356,
                                    'ports': {'seaport': 'Papeete'},
                                    'region': ['Oceania'],
-                                   'subs_broadband': 59790,
-                                   'subs_fixed': 60123,
-                                   'subs_mobile': 302673,
+                                   'subs_broadband': 64000,
+                                   'subs_fixed': 94000,
+                                   'subs_mobile': 335000,
                                    'telecom': { 'code': '689',
                                                 'domestic': [ 'fixed-line subscriptions nearly 22 per 100 persons and '
                                                               'mobile-cellular density is roughly 104 per 100 persons',
@@ -5297,7 +5248,7 @@ WORLD_FB = \
                                                           'and school from home became evident, and received some '
                                                           'support from governments',
                                                           0]},
-                                   'users_internet': 204800},
+                                   'users_internet': 203878},
                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/french-polynesia/page-data.json',
                         'name': 'French Polynesia',
                         'stan': 'PYF',
@@ -5542,12 +5493,12 @@ WORLD_FB = \
                                           'conv_short': 'Gabon',
                                           'local_long': 'Republique Gabonaise',
                                           'local_short': 'Gabon'},
-                        'population': 2284912,
+                        'population': 2340613,
                         'ports': {'seaport': 'Libreville, Owendo, Port-Gentil'},
                         'region': ['Africa'],
                         'subs_broadband': 44607,
                         'subs_fixed': 25428,
-                        'subs_mobile': 3088742,
+                        'subs_mobile': 3049530,
                         'telecom': { 'code': '241',
                                      'domestic': [ 'fixed-line is a little over 1 per 100 subscriptions',
                                                    'a growing mobile cellular network with multiple providers is '
@@ -5585,7 +5536,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 1400000},
+                        'users_internet': 1379951},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/gabon/page-data.json',
              'name': 'Gabon',
              'stan': 'GAB',
@@ -5603,11 +5554,11 @@ WORLD_FB = \
                               'coastline': 80,
                               'coord': ['13 28 N, 16 34 W'],
                               'country_name': {'conv_long': 'Republic of The Gambia', 'conv_short': 'The Gambia'},
-                              'population': 2221301,
+                              'population': 2413403,
                               'ports': {'seaport': 'Banjul'},
                               'region': ['Africa'],
-                              'subs_broadband': 4433,
-                              'subs_fixed': 44000,
+                              'subs_broadband': 5000,
+                              'subs_fixed': 60000,
                               'subs_mobile': 2677954,
                               'telecom': { 'code': '220',
                                            'domestic': [ 'fixed-line subscriptions nearly 2 per 100 with one dominant '
@@ -5646,7 +5597,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 580200},
+                              'users_internet': 894166},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/gambia-the/page-data.json',
                    'name': 'Gambia, The',
                    'stan': 'GMB',
@@ -5666,12 +5617,12 @@ WORLD_FB = \
                                                'conv_short': 'Gaza Strip',
                                                'local_long': 'none',
                                                'local_short': "Qita' Ghazzah"},
-                             'population': 1957062,
+                             'population': 1997328,
                              'ports': {'seaport': 'Gaza'},
                              'region': ['Middle East'],
-                             'subs_broadband': 320500,
-                             'subs_fixed': 472293,
-                             'subs_mobile': 4135363,
+                             'subs_broadband': 376911,
+                             'subs_fixed': 466283,
+                             'subs_mobile': 4274119,
                              'telecom': { 'domestic': [ 'Israeli company BEZEK and the Palestinian company PALTEL are '
                                                         'responsible for fixed-line services',
                                                         'the Palestinian JAWWAL company provides cellular services',
@@ -5697,7 +5648,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 2673000},
+                             'users_internet': 3602452},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/gaza-strip/page-data.json',
                   'name': 'Gaza Strip',
                   'stan': 'PSE',
@@ -5726,11 +5677,11 @@ WORLD_FB = \
                                             'conv_short': 'Georgia',
                                             'local_long': 'none',
                                             'local_short': "Sak'art'velo"},
-                          'population': 4933674,
-                          'ports': {'seaport': "Black Sea - Bat'umi, P'ot'i"},
+                          'population': 4935518,
+                          'ports': {'seaport': 'Black Sea - Batumi, Poti'},
                           'region': ['Asia'],
-                          'subs_broadband': 997785,
-                          'subs_fixed': 378498,
+                          'subs_broadband': 972162,
+                          'subs_fixed': 387698,
                           'subs_mobile': 5100101,
                           'telecom': { 'code': '995',
                                        'domestic': [ 'fixed-line subscriptions over 9 per 100, cellular telephone '
@@ -5771,7 +5722,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 2740000},
+                          'users_internet': 2717583},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/georgia/page-data.json',
                'name': 'Georgia',
                'stan': 'GEO',
@@ -5801,14 +5752,14 @@ WORLD_FB = \
                                             'conv_short': 'Germany',
                                             'local_long': 'Bundesrepublik Deutschland',
                                             'local_short': 'Deutschland'},
-                          'population': 79903481,
+                          'population': 84316622,
                           'ports': { 'container': 'Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)',
                                      'seaport': '<br /><em>Baltic Sea:</em> Kiel, Rostock<br /><em>North Sea:</em> '
                                                 'Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven'},
                           'region': ['Europe'],
-                          'subs_broadband': 36040739,
+                          'subs_broadband': 36215303,
                           'subs_fixed': 38300000,
-                          'subs_mobile': 107500000,
+                          'subs_mobile': 107400000,
                           'telecom': { 'code': '49',
                                        'domestic': [ 'extensive system of automatic telephone exchanges connected by '
                                                      'modern networks of fiber-optic cable, coaxial cable, microwave '
@@ -5852,7 +5803,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 78810000},
+                          'users_internet': 74844784},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/germany/page-data.json',
                'name': 'Germany',
                'stan': 'DEU',
@@ -5870,26 +5821,28 @@ WORLD_FB = \
                         'coastline': 539,
                         'coord': ['8 00 N, 2 00 W'],
                         'country_name': {'conv_long': 'Republic of Ghana', 'conv_short': 'Ghana'},
-                        'population': 32372889,
+                        'population': 33107275,
                         'ports': {'seaport': 'Takoradi, Tema'},
                         'region': ['Africa'],
                         'subs_broadband': 78371,
                         'subs_fixed': 307668,
                         'subs_mobile': 40461609,
                         'telecom': { 'code': '233',
-                                     'domestic': [ 'fixed-line about 1 per 100 subscriptions',
+                                     'domestic': [ 'fixed-line data about 1 per 100 subscriptions',
                                                    'competition among multiple mobile-cellular providers has spurred '
-                                                   'growth with a subscribership of more than 130 per 100 persons',
+                                                   'growth with a voice subscribership of more than 130 per 100 '
+                                                   'persons',
                                                    2020],
-                                     'general': [ 'challenged by unreliable electricity, Ghana seeks to extend telecom '
-                                                  'services nationally',
-                                                  'investment in fiber infrastructure enabled 600 additional towers to '
-                                                  'provide basic mobile services',
+                                     'general': [ 'challenged by unreliable electricity and shortage of skilled labor, '
+                                                  'Ghana seeks to extend telecom services nationally',
+                                                  'investment in fiber infrastructure and off-grid solutions provide '
+                                                  'data coverage to over 23 million people',
                                                   'launch of LTE has improved mobile data services, including '
                                                   'm-commerce and banking',
-                                                  'highly competitive Internet market, most through mobile networks',
+                                                  'moderately competitive Internet market, most through mobile '
+                                                  'networks',
                                                   'international submarine cables, and terrestrial cables have '
-                                                  'improved Internet capacity and reduced prices',
+                                                  'improved Internet capacity',
                                                   2020],
                                      'intl': [ 'landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 '
                                                'fiber-optic submarine cables that provide connectivity to South and '
@@ -5897,7 +5850,7 @@ WORLD_FB = \
                                                'satellite earth stations - 4 Intelsat (Atlantic Ocean)',
                                                'microwave radio relay link to Panaftel system connects Ghana to its '
                                                'neighbors',
-                                               'Ghana-1 satellite launched in 2020',
+                                               'GhanaSat-1 nanosatellite launched in 2017',
                                                2019],
                                      'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                                'production and supply chains globally',
@@ -5912,7 +5865,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 15700000},
+                        'users_internet': 18022308},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/ghana/page-data.json',
              'name': 'Ghana',
              'stan': 'GHA',
@@ -5930,12 +5883,12 @@ WORLD_FB = \
                             'coastline': 12,
                             'coord': ['36 08 N, 5 21 W'],
                             'country_name': {'conv_long': 'none', 'conv_short': 'Gibraltar'},
-                            'population': 29516,
+                            'population': 29573,
                             'ports': {'seaport': 'Gibraltar'},
                             'region': ['Europe'],
-                            'subs_broadband': 19497,
-                            'subs_fixed': 16968,
-                            'subs_mobile': 40537,
+                            'subs_broadband': 21009,
+                            'subs_fixed': 17041,
+                            'subs_mobile': 35438,
                             'telecom': { 'code': '350',
                                          'domestic': [ 'automatic exchange facilities',
                                                        'over 50 per 100 fixed-line and 120 per 100 mobile-cellular',
@@ -5951,7 +5904,7 @@ WORLD_FB = \
                                                    'microwave radio relay',
                                                    'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                    2019]},
-                            'users_internet': 31800},
+                            'users_internet': 31684},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/gibraltar/page-data.json',
                  'name': 'Gibraltar',
                  'stan': 'GIB',
@@ -5988,12 +5941,12 @@ WORLD_FB = \
                                            'conv_short': 'Greece',
                                            'local_long': 'Elliniki Dimokratia',
                                            'local_short': 'Ellas or Ellada'},
-                         'population': 10569703,
+                         'population': 10533871,
                          'ports': { 'container': 'Piraeus (5,648,000) (2019)',
                                     'seaport': 'Aspropyrgos, Pachi, Piraeus, Thessaloniki'},
                          'region': ['Europe'],
                          'subs_broadband': 4257026,
-                         'subs_fixed': 4743310,
+                         'subs_fixed': 5028332,
                          'subs_mobile': 11412995,
                          'telecom': { 'code': '30',
                                       'domestic': [ 'microwave radio relay trunk system',
@@ -6034,7 +5987,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 8390000},
+                         'users_internet': 8346434},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/greece/page-data.json',
               'name': 'Greece',
               'stan': 'GRC',
@@ -6056,12 +6009,12 @@ WORLD_FB = \
                                               'conv_short': 'Greenland',
                                               'local_long': 'none',
                                               'local_short': 'Kalaallit Nunaat'},
-                            'population': 57799,
+                            'population': 57792,
                             'ports': {'seaport': 'Sisimiut'},
                             'region': ['Arctic Region'],
-                            'subs_broadband': 14404,
-                            'subs_fixed': 7133,
-                            'subs_mobile': 61656,
+                            'subs_broadband': 15649,
+                            'subs_fixed': 6352,
+                            'subs_mobile': 65958,
                             'telecom': { 'code': '299',
                                          'domestic': [ 'nearly 13 per 100 for fixed-line subscriptions and 109 per 100 '
                                                        'for mobile-cellular',
@@ -6097,7 +6050,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 39500},
+                            'users_internet': 39358},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/greenland/page-data.json',
                  'name': 'Greenland',
                  'stan': 'GRL',
@@ -6115,12 +6068,12 @@ WORLD_FB = \
                           'coastline': 121,
                           'coord': ['12 07 N, 61 40 W'],
                           'country_name': {'conv_long': 'none', 'conv_short': 'Grenada'},
-                          'population': 113570,
+                          'population': 113949,
                           'ports': {'seaport': "Saint George's"},
                           'region': ['Central America and the Caribbean'],
-                          'subs_broadband': 25577,
-                          'subs_fixed': 32491,
-                          'subs_mobile': 113177,
+                          'subs_broadband': 32000,
+                          'subs_fixed': 16000,
+                          'subs_mobile': 122000,
                           'telecom': { 'code': '1473',
                                        'domestic': [ 'interisland VHF and UHF radiotelephone links',
                                                      '29 per 100 for fixed-line and 102 per 100 for mobile-cellular',
@@ -6150,7 +6103,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 66600},
+                          'users_internet': 64136},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/grenada/page-data.json',
                'name': 'Grenada',
                'stan': 'GRD',
@@ -6182,11 +6135,11 @@ WORLD_FB = \
                                          'conv_short': 'Guam',
                                          'local_long': 'none',
                                          'local_short': 'Guahan'},
-                       'population': 168801,
+                       'population': 169086,
                        'ports': {'seaport': 'Apra Harbor'},
                        'region': ['Oceania'],
                        'subs_broadband': 3000,
-                       'subs_fixed': 68000,
+                       'subs_fixed': 70000,
                        'subs_mobile': 98000,
                        'telecom': { 'code': '1671',
                                     'domestic': [ 'three major companies provide both fixed-line and mobile services, '
@@ -6217,7 +6170,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 136500},
+                       'users_internet': 135509},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guam/page-data.json',
             'name': 'Guam',
             'stan': 'GUM',
@@ -6239,10 +6192,10 @@ WORLD_FB = \
                                               'conv_short': 'Guatemala',
                                               'local_long': 'Republica de Guatemala',
                                               'local_short': 'Guatemala'},
-                            'population': 17422821,
+                            'population': 17703190,
                             'ports': {'seaport': 'Puerto Quetzal, Santo Tomas de Castilla'},
                             'region': ['Central America and the Caribbean'],
-                            'subs_broadband': 531000,
+                            'subs_broadband': 612000,
                             'subs_fixed': 2272467,
                             'subs_mobile': 20390671,
                             'telecom': { 'code': '502',
@@ -6282,7 +6235,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 11750000},
+                            'users_internet': 8429167},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guatemala/page-data.json',
                  'name': 'Guatemala',
                  'stan': 'GTM',
@@ -6303,12 +6256,12 @@ WORLD_FB = \
                            'coastline': 50,
                            'coord': ['49 28 N, 2 35 W'],
                            'country_name': {'conv_long': 'Bailiwick of Guernsey', 'conv_short': 'Guernsey'},
-                           'population': 67334,
+                           'population': 67491,
                            'ports': {'seaport': 'Braye Bay, Saint Peter Port'},
                            'region': ['Europe'],
                            'subs_broadband': 25336,
                            'subs_fixed': 33940,
-                           'subs_mobile': 71622,
+                           'subs_mobile': 43824,
                            'telecom': { 'code': '44',
                                         'domestic': [ 'fixed-line 54 per 100 and mobile-cellular 114 per 100 persons',
                                                       2020],
@@ -6335,7 +6288,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 54600},
+                           'users_internet': 54726},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guernsey/page-data.json',
                 'name': 'Guernsey',
                 'stan': '',
@@ -6362,12 +6315,12 @@ WORLD_FB = \
                                            'conv_short': 'Guinea',
                                            'local_long': 'Republique de Guinee',
                                            'local_short': 'Guinee'},
-                         'population': 12877894,
+                         'population': 13237832,
                          'ports': {'seaport': 'Conakry, Kamsar'},
                          'region': ['Africa'],
-                         'subs_broadband': 1250,
+                         'subs_broadband': 1000,
                          'subs_fixed': 0,
-                         'subs_mobile': 12873000,
+                         'subs_mobile': 13795000,
                          'telecom': { 'code': '224',
                                       'domestic': [ 'there is national coverage and Conakry is reasonably well-served',
                                                     'coverage elsewhere remains inadequate but is improving',
@@ -6402,7 +6355,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 2910000},
+                         'users_internet': 3414526},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guinea/page-data.json',
               'name': 'Guinea',
               'stan': 'GIN',
@@ -6423,7 +6376,7 @@ WORLD_FB = \
                                                   'conv_short': 'Guinea-Bissau',
                                                   'local_long': 'Republica da Guine-Bissau',
                                                   'local_short': 'Guine-Bissau'},
-                                'population': 1976187,
+                                'population': 2026778,
                                 'ports': {'seaport': 'Bissau, Buba, Cacheu, Farim'},
                                 'region': ['Africa'],
                                 'subs_broadband': 2383,
@@ -6439,7 +6392,7 @@ WORLD_FB = \
                                                           'communications',
                                                           '2 mobile network operators',
                                                           'one of the poorest countries in the world and this is '
-                                                          'reflected in the countries telecommunications development',
+                                                          "reflected in the country's telecommunications development",
                                                           'radio is the most important source of information for the '
                                                           'public',
                                                           2020],
@@ -6460,7 +6413,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 250000},
+                                'users_internet': 452640},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guinea-bissau/page-data.json',
                      'name': 'Guinea-Bissau',
                      'stan': 'GNB',
@@ -6478,12 +6431,12 @@ WORLD_FB = \
                          'coastline': 459,
                          'coord': ['5 00 N, 59 00 W'],
                          'country_name': {'conv_long': 'Cooperative Republic of Guyana', 'conv_short': 'Guyana'},
-                         'population': 787971,
+                         'population': 789683,
                          'ports': {'seaport': 'Georgetown'},
                          'region': ['South America'],
-                         'subs_broadband': 64889,
-                         'subs_fixed': 135795,
-                         'subs_mobile': 643210,
+                         'subs_broadband': 95000,
+                         'subs_fixed': 125000,
+                         'subs_mobile': 856000,
                          'telecom': { 'code': '592',
                                       'domestic': [ 'fixed-line teledensity is about 18 per 100 persons',
                                                     'mobile-cellular teledensity about 83 per 100 persons',
@@ -6515,7 +6468,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 294300},
+                         'users_internet': 289627},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/guyana/page-data.json',
               'name': 'Guyana',
               'stan': 'GUY',
@@ -6536,12 +6489,12 @@ WORLD_FB = \
                                           'conv_short': 'Haiti',
                                           'local_long': "Republique d'Haiti/Repiblik d Ayiti",
                                           'local_short': 'Haiti/Ayiti'},
-                        'population': 11198240,
+                        'population': 11334637,
                         'ports': {'seaport': 'Cap-Haitien, Gonaives, Jacmel, Port-au-Prince'},
                         'region': ['Central America and the Caribbean'],
-                        'subs_broadband': 31100,
-                        'subs_fixed': 5952,
-                        'subs_mobile': 6843380,
+                        'subs_broadband': 31000,
+                        'subs_fixed': 6000,
+                        'subs_mobile': 7319000,
                         'telecom': { 'code': '509',
                                      'domestic': [ 'fixed-line is less than 1 per 100',
                                                    'mobile-cellular telephone services have expanded greatly in the '
@@ -6552,7 +6505,7 @@ WORLD_FB = \
                                      'general': [ 'plagued by political and economic turmoil complicated by natural '
                                                   "disasters, Haiti's telecommunications infrastructure is among the "
                                                   'least-developed in the world',
-                                                  'reliance on satellite and wireless mobile technology due to poor '
+                                                  'it relies on satellite and wireless mobile technology due to poor '
                                                   'fixed-line infrastructure',
                                                   'investment boosted broadband availability though customer base is '
                                                   'poor and theft of equipment remains problematic',
@@ -6578,7 +6531,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 4280000},
+                        'users_internet': 3990887},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/haiti/page-data.json',
              'name': 'Haiti',
              'stan': 'HTI',
@@ -6670,10 +6623,10 @@ WORLD_FB = \
                                              'conv_short': 'Honduras',
                                              'local_long': 'Republica de Honduras',
                                              'local_short': 'Honduras'},
-                           'population': 9346277,
+                           'population': 9459440,
                            'ports': {'seaport': 'La Ceiba, Puerto Cortes, San Lorenzo, Tela'},
                            'region': ['Central America and the Caribbean'],
-                           'subs_broadband': 396454,
+                           'subs_broadband': 396916,
                            'subs_fixed': 531763,
                            'subs_mobile': 6960654,
                            'telecom': { 'code': '504',
@@ -6706,7 +6659,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 3810000},
+                           'users_internet': 4159935},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/honduras/page-data.json',
                 'name': 'Honduras',
                 'stan': 'HND',
@@ -6726,11 +6679,11 @@ WORLD_FB = \
                                               'conv_short': 'Hong Kong',
                                               'local_long': 'Heung Kong Takpit Hangching Ku (Eitel/Dyer-Ball)',
                                               'local_short': 'Heung Kong (Eitel/Dyer-Ball)'},
-                            'population': 7263234,
+                            'population': 7276588,
                             'ports': {'container': 'Hong Kong (18,361,000) (2019)', 'seaport': 'Hong Kong'},
                             'region': ['Southeast Asia'],
-                            'subs_broadband': 2871081,
-                            'subs_fixed': 3934129,
+                            'subs_broadband': 2885586,
+                            'subs_fixed': 3900599,
                             'subs_mobile': 21865215,
                             'telecom': { 'code': '852',
                                          'domestic': [ 'microwave radio relay links and extensive fiber-optic network',
@@ -6752,14 +6705,14 @@ WORLD_FB = \
                                                       'US prevented use of Pacific Light submarine cable network due '
                                                       'to security issues',
                                                       2020],
-                                         'intl': [ 'landing points for the APG, ASE, EAC-C2C, HK-G, Bay-to-Bay Express '
-                                                   'Cable System, H2 Cable, HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, '
-                                                   'APCN-2, AAG, FLAG and FEA submarine cables that provide '
-                                                   'connections to Asia, US, Australia, the Middle East, and Europe',
+                                         'intl': [ 'landing points for the AAE-1, AAG, APCN-2, APG, ASE, FEA, FNAL, '
+                                                   'RNAL, H2HE, SeaMeWe-3, SJC and TGN-IA submarine cables that '
+                                                   'provide connections to Asia, US, Australia, the Middle East, and '
+                                                   'Europe',
                                                    'satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 '
                                                    'Indian Ocean)',
                                                    'coaxial cable to Guangzhou, China',
-                                                   2019],
+                                                   2022],
                                          'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                                    'production and supply chains globally',
                                                    'since 2020, some aspects of the telecom sector have experienced '
@@ -6774,7 +6727,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 6920000},
+                            'users_internet': 6883256},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/hong-kong/page-data.json',
                  'name': 'Hong Kong',
                  'stan': 'HKG',
@@ -6813,7 +6766,7 @@ WORLD_FB = \
                                             'conv_short': 'Hungary',
                                             'local_long': 'none',
                                             'local_short': 'Magyarorszag'},
-                          'population': 9728337,
+                          'population': 9699577,
                           'ports': {},
                           'region': ['Europe'],
                           'subs_broadband': 3265308,
@@ -6861,7 +6814,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 8010000},
+                          'users_internet': 8287626},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/hungary/page-data.json',
                'name': 'Hungary',
                'stan': 'HUN',
@@ -6882,7 +6835,7 @@ WORLD_FB = \
                                             'conv_short': 'Iceland',
                                             'local_long': 'Lydveldid Island',
                                             'local_short': 'Island'},
-                          'population': 354234,
+                          'population': 357603,
                           'ports': {'seaport': 'Grundartangi, Hafnarfjordur, Reykjavik'},
                           'region': ['Arctic Region'],
                           'subs_broadband': 141816,
@@ -6929,7 +6882,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 338900},
+                          'users_internet': 362798},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/iceland/page-data.json',
                'name': 'Iceland',
                'stan': 'ISL',
@@ -6956,14 +6909,14 @@ WORLD_FB = \
                                           'conv_short': 'India',
                                           'local_long': 'Republic of India/Bharatiya Ganarajya',
                                           'local_short': 'India/Bharat'},
-                        'population': 1339330514,
+                        'population': 1389637446,
                         'ports': { 'container': 'Jawaharal Nehru Port (5,100,891), Mundra (4,732,699) (2019)',
                                    'seaport': 'Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai '
                                               '(Bombay), Sikka, Vishakhapatnam'},
                         'region': ['Asia'],
-                        'subs_broadband': 22290000,
+                        'subs_broadband': 22950000,
                         'subs_fixed': 20052162,
-                        'subs_mobile': 1153709832,
+                        'subs_mobile': 1,
                         'telecom': { 'code': '91',
                                      'domestic': [ 'fixed-line subscriptions stands at roughly 1 per 100 and '
                                                    'mobile-cellular at nearly 84 per 100',
@@ -6976,7 +6929,7 @@ WORLD_FB = \
                                                    'satellite systems, the Indian National Satellite system (INSAT), '
                                                    'with 6 satellites supporting 33,000 (very small aperture '
                                                    'terminals) VSAT',
-                                                   2020],
+                                                   2022],
                                      'general': [ 'supported by deregulation, India is one of the fastest-growing '
                                                   'telecom markets in the world',
                                                   'implementation of 4G/LTE',
@@ -6991,7 +6944,7 @@ WORLD_FB = \
                                                   'infrastructure, sustainable environment, and quality of life '
                                                   'through economic growth and competition, including focus on social, '
                                                   'economic, and institutional pillars',
-                                                  2020],
+                                                  2022],
                                      'intl': [ 'a number of major international submarine cable systems, including '
                                                'SEA-ME-WE-3 & 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, '
                                                'SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, '
@@ -6999,9 +6952,9 @@ WORLD_FB = \
                                                'and i2icn that provide connectivity to Europe, Africa, Asia, the '
                                                'Middle East, South East Asia, numerous Indian Ocean islands including '
                                                'Australia',
-                                               'satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat '
-                                               '(Indian Ocean region',
-                                               2019],
+                                               'satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat',
+                                               'Indian Ocean region',
+                                               2022],
                                      'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced '
@@ -7015,7 +6968,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 624000000},
+                        'users_internet': 593400000},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/india/page-data.json',
              'name': 'India',
              'stan': 'IND',
@@ -7042,14 +6995,14 @@ WORLD_FB = \
                                               'conv_short': 'Indonesia',
                                               'local_long': 'Republik Indonesia',
                                               'local_short': 'Indonesia'},
-                            'population': 275122131,
+                            'population': 277329163,
                             'ports': { 'container': 'Tanjung Perak (3,900,000), Tanjung Priok (7,600,000) (2019)',
                                        'seaport': 'Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, '
                                                   'Sungai Pakning, Tanjung Perak, Tanjung Priok'},
                             'region': ['Southeast Asia'],
-                            'subs_broadband': 10713107,
-                            'subs_fixed': 9186370,
-                            'subs_mobile': 355748606,
+                            'subs_broadband': 11722218,
+                            'subs_fixed': 9662135,
+                            'subs_mobile': 355620388,
                             'telecom': { 'code': '62',
                                          'domestic': [ 'fixed-line subscribership roughly 3 per 100 and '
                                                        'mobile-cellular 130 per 100 persons',
@@ -7092,7 +7045,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 202600000},
+                            'users_internet': 147702755},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/indonesia/page-data.json',
                  'name': 'Indonesia',
                  'stan': 'IDN',
@@ -7120,7 +7073,7 @@ WORLD_FB = \
                                          'conv_short': 'Iran',
                                          'local_long': 'Jomhuri-ye Eslami-ye Iran',
                                          'local_short': 'Iran'},
-                       'population': 85888910,
+                       'population': 86758304,
                        'ports': { 'container': 'Bandar Abbas',
                                   'seaport': 'Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni'},
                        'region': ['Middle East'],
@@ -7168,7 +7121,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 59160000},
+                       'users_internet': 75594081},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/iran/page-data.json',
             'name': 'Iran',
             'stan': 'IRN',
@@ -7195,12 +7148,12 @@ WORLD_FB = \
                                          'conv_short': 'Iraq',
                                          'local_long': 'Jumhuriyat al-Iraq/Komar-i Eraq',
                                          'local_short': 'Al Iraq/Eraq'},
-                       'population': 39650145,
+                       'population': 40462701,
                        'ports': {},
                        'region': ['Middle East'],
-                       'subs_broadband': 5453799,
-                       'subs_fixed': 4166461,
-                       'subs_mobile': 36946600,
+                       'subs_broadband': 6254099,
+                       'subs_fixed': 2699758,
+                       'subs_mobile': 37475325,
                        'telecom': { 'code': '964',
                                     'domestic': [ '3G services offered by three major mobile operators',
                                                   '4G offered by one operator in Iraqi',
@@ -7240,7 +7193,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 30520000},
+                       'users_internet': 24133502},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/iraq/page-data.json',
             'name': 'Iraq',
             'stan': 'IRQ',
@@ -7261,10 +7214,10 @@ WORLD_FB = \
                                             'conv_short': 'Ireland',
                                             'local_long': 'none',
                                             'local_short': 'Eire'},
-                          'population': 5224884,
+                          'population': 5275004,
                           'ports': {'container': 'Dublin (529,563) (2016)', 'seaport': 'Dublin, Shannon Foynes'},
                           'region': ['Europe'],
-                          'subs_broadband': 1516252,
+                          'subs_broadband': 1516473,
                           'subs_fixed': 1678651,
                           'subs_mobile': 5234027,
                           'telecom': { 'code': '353',
@@ -7303,7 +7256,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 4510000},
+                          'users_internet': 4586820},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/ireland/page-data.json',
                'name': 'Ireland',
                'stan': 'IRL',
@@ -7321,7 +7274,7 @@ WORLD_FB = \
                               'coastline': 160,
                               'coord': ['54 15 N, 4 30 W'],
                               'country_name': {'conv_long': 'none', 'conv_short': 'Isle of Man'},
-                              'population': 90895,
+                              'population': 91382,
                               'ports': {'seaport': 'Douglas, Ramsey'},
                               'region': ['Europe'],
                               'telecom': { 'code': '44',
@@ -7342,8 +7295,7 @@ WORLD_FB = \
                                                      'the crucial nature of telecom services as a tool for work and '
                                                      'school from home became evident, and received some support from '
                                                      'governments',
-                                                     0]},
-                              'users_internet': 63500},
+                                                     0]}},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/isle-of-man/page-data.json',
                    'name': 'Isle of Man',
                    'stan': '',
@@ -7374,13 +7326,13 @@ WORLD_FB = \
                                            'conv_short': 'Israel',
                                            'local_long': "Medinat Yisra'el",
                                            'local_short': "Yisra'el"},
-                         'population': 8787045,
+                         'population': 8914885,
                          'ports': { 'container': 'Ashdod (1,584,000) (2019)',
                                     'seaport': 'Ashdod, Elat (Eilat), Hadera, Haifa'},
                          'region': ['Middle East'],
                          'subs_broadband': 2602079,
-                         'subs_fixed': 3080000,
-                         'subs_mobile': 11400000,
+                         'subs_fixed': 3370000,
+                         'subs_mobile': 12270000,
                          'telecom': { 'code': '972',
                                       'domestic': [ 'good system of coaxial cable and microwave radio relay',
                                                     'all systems are digital',
@@ -7419,7 +7371,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 7680000},
+                         'users_internet': 8293590},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/israel/page-data.json',
               'name': 'Israel',
               'stan': 'ISR',
@@ -7450,13 +7402,13 @@ WORLD_FB = \
                                           'conv_short': 'Italy',
                                           'local_long': 'Repubblica Italiana',
                                           'local_short': 'Italia'},
-                        'population': 62390364,
+                        'population': 61095551,
                         'ports': { 'container': 'Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)',
                                    'seaport': 'Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice'},
                         'region': ['Europe'],
-                        'subs_broadband': 17855620,
-                        'subs_fixed': 19430559,
-                        'subs_mobile': 77796840,
+                        'subs_broadband': 18128787,
+                        'subs_fixed': 19607341,
+                        'subs_mobile': 77581048,
                         'telecom': { 'code': '39',
                                      'domestic': [ 'high-capacity cable and microwave radio relay trunks',
                                                    '32 per 100 for fixed-line and nearly 128 per 100 for '
@@ -7494,7 +7446,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 50540000},
+                        'users_internet': 41614669},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/italy/page-data.json',
              'name': 'Italy',
              'stan': 'ITA',
@@ -7512,7 +7464,7 @@ WORLD_FB = \
                           'coastline': 1022,
                           'coord': ['18 15 N, 77 30 W'],
                           'country_name': {'conv_long': 'none', 'conv_short': 'Jamaica'},
-                          'population': 2816602,
+                          'population': 2818596,
                           'ports': { 'container': 'Kingston (1,647,609) (2019)',
                                      'seaport': 'Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, '
                                                 'Port Esquivel, Port Kaiser, Rocky Point'},
@@ -7557,7 +7509,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1630000},
+                          'users_internet': 1621552},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/jamaica/page-data.json',
                'name': 'Jamaica',
                'stan': 'JAM',
@@ -7576,8 +7528,7 @@ WORLD_FB = \
                             'country_name': {'conv_long': 'none', 'conv_short': 'Jan Mayen'},
                             'population': 0,
                             'ports': {},
-                            'region': ['Arctic Region'],
-                            'users_internet': 1542},
+                            'region': ['Arctic Region']},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/jan-mayen/page-data.json',
                  'name': 'Jan Mayen',
                  'stan': 'SJM',
@@ -7603,15 +7554,15 @@ WORLD_FB = \
                                           'conv_short': 'Japan',
                                           'local_long': 'Nihon-koku/Nippon-koku',
                                           'local_short': 'Nihon/Nippon'},
-                        'population': 124687293,
+                        'population': 124214766,
                         'ports': { 'container': 'Kobe (2,871,642), Nagoya (2,844,004), Osaka (2,456,028), Tokyo '
                                                 '(4,510,000), Yokohama (2,990,000) (2019)',
                                    'seaport': 'Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, '
                                               'Tomakomai, Yokohama'},
                         'region': ['Asia'],
-                        'subs_broadband': 43633244,
-                        'subs_fixed': 62252837,
-                        'subs_mobile': 192284308,
+                        'subs_broadband': 44000791,
+                        'subs_fixed': 61978594,
+                        'subs_mobile': 195054893,
                         'telecom': { 'code': '81',
                                      'domestic': [ 'high level of modern technology and excellent service of every '
                                                    'kind',
@@ -7653,7 +7604,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 117400000},
+                        'users_internet': 113252419},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/japan/page-data.json',
              'name': 'Japan',
              'stan': 'JPN',
@@ -7682,12 +7633,12 @@ WORLD_FB = \
                          'coastline': 70,
                          'coord': ['49 15 N, 2 10 W'],
                          'country_name': {'conv_long': 'Bailiwick of Jersey', 'conv_short': 'Jersey'},
-                         'population': 101476,
+                         'population': 102146,
                          'ports': {'seaport': 'Gorey, Saint Aubin, Saint Helier'},
                          'region': ['Europe'],
                          'subs_broadband': 39699,
                          'subs_fixed': 48310,
-                         'subs_mobile': 124262,
+                         'subs_mobile': 83900,
                          'telecom': { 'code': '44',
                                       'domestic': [ 'fixed-line 45 per 100 and mobile-cellular 115 per 100 '
                                                     'subscriptions',
@@ -7710,7 +7661,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 100300},
+                         'users_internet': 44198},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/jersey/page-data.json',
               'name': 'Jersey',
               'stan': '',
@@ -7747,10 +7698,10 @@ WORLD_FB = \
                                            'conv_short': 'Jordan',
                                            'local_long': 'Al Mamlakah al Urduniyah al Hashimiyah',
                                            'local_short': 'Al Urdun'},
-                         'population': 10909567,
+                         'population': 10998531,
                          'ports': {'seaport': "Al 'Aqabah"},
                          'region': ['Middle East'],
-                         'subs_broadband': 625657,
+                         'subs_broadband': 630545,
                          'subs_fixed': 391486,
                          'subs_mobile': 6987891,
                          'telecom': { 'code': '962',
@@ -7791,7 +7742,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 6840000},
+                         'users_internet': 6768137},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/jordan/page-data.json',
               'name': 'Jordan',
               'stan': 'JOR',
@@ -7828,12 +7779,12 @@ WORLD_FB = \
                                                'conv_short': 'Kazakhstan',
                                                'local_long': 'Qazaqstan Respublikasy',
                                                'local_short': 'Qazaqstan'},
-                             'population': 19245793,
+                             'population': 19398331,
                              'ports': {'seaport': "Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)"},
                              'region': ['Asia'],
-                             'subs_broadband': 2616500,
-                             'subs_fixed': 2616500,
-                             'subs_mobile': 25177000,
+                             'subs_broadband': 2620400,
+                             'subs_fixed': 3091000,
+                             'subs_mobile': 24293900,
                              'telecom': { 'code': '7',
                                           'domestic': [ 'intercity by landline and microwave radio relay',
                                                         'number of fixed-line connections is approximately 17 per 100 '
@@ -7844,7 +7795,7 @@ WORLD_FB = \
                                                        'vast 4G network',
                                                        'low fixed-line and fixed-broadband penetration',
                                                        'moderate mobile broadband penetration and high mobile '
-                                                       'penetration',
+                                                       'penetration depending on location',
                                                        'mobile market highly competitive and growth is slow due to '
                                                        'saturation',
                                                        2020],
@@ -7867,7 +7818,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 15470000},
+                             'users_internet': 16128818},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kazakhstan/page-data.json',
                   'name': 'Kazakhstan',
                   'stan': 'KAZ',
@@ -7893,7 +7844,7 @@ WORLD_FB = \
                                           'conv_short': 'Kenya',
                                           'local_long': 'Republic of Kenya/Jamhuri ya Kenya',
                                           'local_short': 'Kenya'},
-                        'population': 54685051,
+                        'population': 55864655,
                         'ports': {'seaport': 'Kisumu, Mombasa'},
                         'region': ['Africa'],
                         'subs_broadband': 674191,
@@ -7936,7 +7887,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 21750000},
+                        'users_internet': 16131390},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kenya/page-data.json',
              'name': 'Kenya',
              'stan': 'KEN',
@@ -7973,7 +7924,7 @@ WORLD_FB = \
                                              'conv_short': 'Kiribati',
                                              'local_long': 'Republic of Kiribati',
                                              'local_short': 'Kiribati'},
-                           'population': 113001,
+                           'population': 114189,
                            'ports': {'seaport': 'Betio (Tarawa Atoll), Canton Island, English Harbor'},
                            'region': ['Oceania'],
                            'subs_broadband': 185,
@@ -8013,7 +7964,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 17600},
+                           'users_internet': 45390},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kiribati/page-data.json',
                 'name': 'Kiribati',
                 'stan': 'KIR',
@@ -8034,12 +7985,12 @@ WORLD_FB = \
                                                  'conv_short': 'North Korea',
                                                  'local_long': 'Choson-minjujuui-inmin-konghwaguk',
                                                  'local_short': 'Choson'},
-                               'population': 25831360,
+                               'population': 25955138,
                                'ports': { 'seaport': "Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly "
                                                      'Unggi), Wonsan'},
                                'region': ['Asia'],
-                               'subs_fixed': 1183806,
-                               'subs_mobile': 3821857,
+                               'subs_fixed': 1180000,
+                               'subs_mobile': 6000000,
                                'telecom': { 'code': '850',
                                             'domestic': [ 'fiber-optic links installed down to the county level',
                                                           'telephone directories unavailable',
@@ -8102,12 +8053,12 @@ WORLD_FB = \
                                                  'conv_short': 'South Korea',
                                                  'local_long': "Taehan-min'guk",
                                                  'local_short': "Han'guk"},
-                               'population': 51715162,
+                               'population': 51844834,
                                'ports': { 'container': 'Busan (21,992,001), Incheon (3,091,955), Kwangyang (2,378,337) '
                                                        '(2019)',
                                           'seaport': 'Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu'},
                                'region': ['Asia'],
-                               'subs_broadband': 22330182,
+                               'subs_broadband': 22327182,
                                'subs_fixed': 23858239,
                                'subs_mobile': 70513676,
                                'telecom': { 'code': '82',
@@ -8151,7 +8102,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 49750000},
+                               'users_internet': 50281152},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/korea-south/page-data.json',
                     'name': 'Korea, South',
                     'stan': 'KOR',
@@ -8179,10 +8130,10 @@ WORLD_FB = \
                                            'conv_short': 'Kosovo',
                                            'local_long': 'Republika e Kosoves (Republika Kosovo)',
                                            'local_short': 'Kosove (Kosovo)'},
-                         'population': 1935259,
+                         'population': 1952701,
                          'region': ['Europe'],
-                         'subs_fixed': 117317,
-                         'subs_mobile': 620186,
+                         'subs_fixed': 383763,
+                         'subs_mobile': 562000,
                          'telecom': { 'code': '383',
                                       'domestic': [ 'fixed-line roughly 6 per 100 and mobile-cellular 32 per 100 '
                                                     'persons',
@@ -8210,7 +8161,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 1760000},
+                         'users_internet': 1502658},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kosovo/page-data.json',
               'name': 'Kosovo',
               'stan': '',
@@ -8231,7 +8182,7 @@ WORLD_FB = \
                                            'conv_short': 'Kuwait',
                                            'local_long': 'Dawlat al Kuwayt',
                                            'local_short': 'Al Kuwayt'},
-                         'population': 3032065,
+                         'population': 3068155,
                          'ports': { 'seaport': "Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, "
                                                "Mina' al Ahmadi"},
                          'region': ['Middle East'],
@@ -8275,7 +8226,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 4260000},
+                         'users_internet': 4227857},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kuwait/page-data.json',
               'name': 'Kuwait',
               'stan': 'KWT',
@@ -8300,12 +8251,12 @@ WORLD_FB = \
                                                'conv_short': 'Kyrgyzstan',
                                                'local_long': 'Kyrgyz Respublikasy',
                                                'local_short': 'Kyrgyzstan'},
-                             'population': 6018789,
+                             'population': 6071750,
                              'ports': {},
                              'region': ['Asia'],
-                             'subs_broadband': 269091,
-                             'subs_fixed': 298855,
-                             'subs_mobile': 8622565,
+                             'subs_broadband': 289000,
+                             'subs_fixed': 299000,
+                             'subs_mobile': 8511000,
                              'telecom': { 'code': '996',
                                           'domestic': [ 'fixed-line penetration at nearly 5 per 100 persons remains '
                                                         'low and concentrated in urban areas',
@@ -8345,7 +8296,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 3320000},
+                             'users_internet': 3355749},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/kyrgyzstan/page-data.json',
                   'name': 'Kyrgyzstan',
                   'stan': 'KGZ',
@@ -8371,11 +8322,11 @@ WORLD_FB = \
                                          'conv_short': 'Laos',
                                          'local_long': 'Sathalanalat Paxathipatai Paxaxon Lao',
                                          'local_short': 'Mueang Lao (unofficial)'},
-                       'population': 7574356,
+                       'population': 7749595,
                        'region': ['Southeast Asia'],
-                       'subs_broadband': 76280,
-                       'subs_fixed': 1490831,
-                       'subs_mobile': 4362183,
+                       'subs_broadband': 128000,
+                       'subs_fixed': 1491000,
+                       'subs_mobile': 4099999,
                        'telecom': { 'code': '856',
                                     'domestic': [ 'fixed-line nearly 21 per 100 and 61 per 100 for mobile-cellular '
                                                   'subscriptions',
@@ -8409,7 +8360,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 3550000},
+                       'users_internet': 2473689},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/laos/page-data.json',
             'name': 'Laos',
             'stan': 'LAO',
@@ -8431,10 +8382,10 @@ WORLD_FB = \
                                            'conv_short': 'Latvia',
                                            'local_long': 'Latvijas Republika',
                                            'local_short': 'Latvija'},
-                         'population': 1862687,
+                         'population': 1842226,
                          'ports': {'seaport': 'Riga, Ventspils'},
                          'region': ['Europe'],
-                         'subs_broadband': 503804,
+                         'subs_broadband': 490569,
                          'subs_fixed': 211849,
                          'subs_mobile': 2051359,
                          'telecom': { 'code': '371',
@@ -8471,7 +8422,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 1670000},
+                         'users_internet': 1691400},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/latvia/page-data.json',
               'name': 'Latvia',
               'stan': 'LVA',
@@ -8492,7 +8443,7 @@ WORLD_FB = \
                                             'conv_short': 'Lebanon',
                                             'local_long': 'Al Jumhuriyah al Lubnaniyah',
                                             'local_short': 'Lubnan'},
-                          'population': 5261372,
+                          'population': 5296814,
                           'ports': {'container': 'Beirut (1,229,100) (2019)', 'seaport': 'Beirut, Tripoli'},
                           'region': ['Middle East'],
                           'subs_broadband': 432070,
@@ -8534,7 +8485,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 5310000},
+                          'users_internet': 6825442},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/lebanon/page-data.json',
                'name': 'Lebanon',
                'stan': 'LBN',
@@ -8555,7 +8506,7 @@ WORLD_FB = \
                                             'conv_short': 'Lesotho',
                                             'local_long': 'Kingdom of Lesotho',
                                             'local_short': 'Lesotho'},
-                          'population': 2177740,
+                          'population': 2193970,
                           'region': ['Africa'],
                           'subs_broadband': 5060,
                           'subs_fixed': 11574,
@@ -8597,7 +8548,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1030000},
+                          'users_internet': 921168},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/lesotho/page-data.json',
                'name': 'Lesotho',
                'stan': 'LSO',
@@ -8616,12 +8567,12 @@ WORLD_FB = \
                           'coastline': 579,
                           'coord': ['6 30 N, 9 30 W'],
                           'country_name': {'conv_long': 'Republic of Liberia', 'conv_short': 'Liberia'},
-                          'population': 5214030,
+                          'population': 5358483,
                           'ports': {'seaport': 'Buchanan, Monrovia'},
                           'region': ['Africa'],
-                          'subs_broadband': 9000,
-                          'subs_fixed': 8000,
-                          'subs_mobile': 2660000,
+                          'subs_broadband': 13000,
+                          'subs_fixed': 6000,
+                          'subs_mobile': 1653000,
                           'telecom': { 'code': '231',
                                        'domestic': [ 'fixed-line less than 1 per 100',
                                                      'mobile-cellular subscription base growing and teledensity '
@@ -8658,7 +8609,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 761000},
+                          'users_internet': 1314996},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/liberia/page-data.json',
                'name': 'Liberia',
                'stan': 'LBR',
@@ -8685,20 +8636,19 @@ WORLD_FB = \
                                           'conv_short': 'Libya',
                                           'local_long': 'Dawiat Libiya',
                                           'local_short': 'Libiya'},
-                        'population': 7017224,
+                        'population': 7137931,
                         'ports': {'seaport': 'Marsa al Burayqah (Marsa el Brega), Tripoli'},
                         'region': ['Africa'],
-                        'subs_broadband': 318000,
+                        'subs_broadband': 332000,
                         'subs_fixed': 1576000,
-                        'subs_mobile': 6020000,
+                        'subs_mobile': 2922000,
                         'telecom': { 'code': '218',
                                      'domestic': [ 'nearly 24 per 100 fixed-line and over 91 per 100 mobile-cellular '
                                                    'subscriptions',
                                                    'service generally adequate',
                                                    2019],
                                      'general': [ 'political and security instability in Libya has disrupted its '
-                                                  'telecom sector, as warring factions make mobile towers a target and '
-                                                  'construction workers regularly cut cables by mistake',
+                                                  'telecom sector',
                                                   'much of its infrastructure remains superior to that in most other '
                                                   'African countries',
                                                   'rival operators fight for control',
@@ -8732,7 +8682,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 3190000},
+                        'users_internet': 1491040},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/libya/page-data.json',
              'name': 'Libya',
              'stan': 'LBY',
@@ -8752,11 +8702,11 @@ WORLD_FB = \
                                                   'conv_short': 'Liechtenstein',
                                                   'local_long': 'Fuerstentum Liechtenstein',
                                                   'local_short': 'Liechtenstein'},
-                                'population': 39425,
+                                'population': 39711,
                                 'region': ['Europe'],
-                                'subs_broadband': 18063,
-                                'subs_fixed': 12723,
-                                'subs_mobile': 48904,
+                                'subs_broadband': 18050,
+                                'subs_fixed': 12607,
+                                'subs_mobile': 48887,
                                 'telecom': { 'code': '423',
                                              'domestic': [ 'fixed-line roughly 33 per 100 and mobile-cellular services '
                                                            '128 per 100',
@@ -8783,7 +8733,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 37800},
+                                'users_internet': 37260},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/liechtenstein/page-data.json',
                      'name': 'Liechtenstein',
                      'stan': 'LIE',
@@ -8806,12 +8756,12 @@ WORLD_FB = \
                                               'conv_short': 'Lithuania',
                                               'local_long': 'Lietuvos Respublika',
                                               'local_short': 'Lietuva'},
-                            'population': 2711566,
+                            'population': 2683546,
                             'ports': {'seaport': 'Klaipeda'},
                             'region': ['Europe'],
                             'subs_broadband': 796814,
                             'subs_fixed': 322108,
-                            'subs_mobile': 4742427,
+                            'subs_mobile': 3671995,
                             'telecom': { 'code': '370',
                                          'domestic': [ 'nearly 12 per 100 for fixed-line subscriptions',
                                                        'rapid expansion of mobile-cellular services has resulted in a '
@@ -8850,7 +8800,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 2220000},
+                            'users_internet': 2319755},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/lithuania/page-data.json',
                  'name': 'Lithuania',
                  'stan': 'LTU',
@@ -8871,7 +8821,7 @@ WORLD_FB = \
                                                'conv_short': 'Luxembourg',
                                                'local_long': 'Grand Duche de Luxembourg',
                                                'local_short': 'Luxembourg'},
-                             'population': 639589,
+                             'population': 650364,
                              'ports': {},
                              'region': ['Europe'],
                              'subs_broadband': 235155,
@@ -8907,7 +8857,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 612100},
+                             'users_internet': 624115},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/luxembourg/page-data.json',
                   'name': 'Luxembourg',
                   'stan': 'LUX',
@@ -8924,12 +8874,12 @@ WORLD_FB = \
                         'coastline': 41,
                         'coord': ['22 10 N, 113 33 E'],
                         'country_name': {'conv_long': 'Macau Special Administrative Region', 'conv_short': 'Macau'},
-                        'population': 630396,
+                        'population': 635293,
                         'ports': {'seaport': 'Macau'},
                         'region': ['Southeast Asia'],
-                        'subs_broadband': 193057,
-                        'subs_fixed': 123469,
-                        'subs_mobile': 2181194,
+                        'subs_broadband': 208000,
+                        'subs_fixed': 110000,
+                        'subs_mobile': 2793000,
                         'telecom': { 'code': '853',
                                      'domestic': [ 'fixed-line nearly 20 per 100 and mobile-cellular roughly 329 per '
                                                    '100 persons',
@@ -8965,7 +8915,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 565600},
+                        'users_internet': 571421},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/macau/page-data.json',
              'name': 'Macau',
              'stan': 'MAC',
@@ -8986,12 +8936,12 @@ WORLD_FB = \
                                                'conv_short': 'Madagascar',
                                                'local_long': "Republique de Madagascar/Repoblikan'i Madagasikara",
                                                'local_short': 'Madagascar/Madagasikara'},
-                             'population': 27534354,
+                             'population': 28172462,
                              'ports': {'seaport': 'Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)'},
                              'region': ['Africa'],
-                             'subs_broadband': 27211,
-                             'subs_fixed': 69046,
-                             'subs_mobile': 10654710,
+                             'subs_broadband': 32000,
+                             'subs_fixed': 69000,
+                             'subs_mobile': 15869000,
                              'telecom': { 'code': '261',
                                           'domestic': [ 'less than 1 per 100 for fixed-line and mobile-cellular '
                                                         'teledensity about 34 per 100 persons',
@@ -9028,7 +8978,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 5450000},
+                             'users_internet': 2696931},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/madagascar/page-data.json',
                   'name': 'Madagascar',
                   'stan': 'MDG',
@@ -9049,7 +8999,7 @@ WORLD_FB = \
                                            'conv_short': 'Malawi',
                                            'local_long': 'Dziko la Malawi',
                                            'local_short': 'Malawi'},
-                         'population': 20308502,
+                         'population': 20794353,
                          'ports': {},
                          'region': ['Africa'],
                          'subs_broadband': 12255,
@@ -9089,7 +9039,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 3450000},
+                         'users_internet': 2608025},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/malawi/page-data.json',
               'name': 'Malawi',
               'stan': 'MWI',
@@ -9114,7 +9064,7 @@ WORLD_FB = \
                                              'conv_short': 'Malaysia',
                                              'local_long': 'none',
                                              'local_short': 'Malaysia'},
-                           'population': 33519406,
+                           'population': 33871431,
                            'ports': { 'container': 'Port Kelang (Port Klang) (13,580,717), Tanjung Pelepas (9,100,000) '
                                                    '(2019)',
                                       'seaport': 'Bintulu, Johor Bahru, George Town (Penang), Pelabuhan Klang (Port '
@@ -9165,7 +9115,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 27430000},
+                           'users_internet': 29129398},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/malaysia/page-data.json',
                 'name': 'Malaysia',
                 'stan': 'MYS',
@@ -9186,7 +9136,7 @@ WORLD_FB = \
                                              'conv_short': 'Maldives',
                                              'local_long': 'Dhivehi Raajjeyge Jumhooriyyaa',
                                              'local_short': 'Dhivehi Raajje'},
-                           'population': 390669,
+                           'population': 390164,
                            'ports': {'seaport': 'Male'},
                            'region': ['Asia'],
                            'subs_broadband': 63685,
@@ -9221,7 +9171,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 342500},
+                           'users_internet': 340542},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/maldives/page-data.json',
                 'name': 'Maldives',
                 'stan': 'MDV',
@@ -9248,7 +9198,7 @@ WORLD_FB = \
                                          'conv_short': 'Mali',
                                          'local_long': 'Republique de Mali',
                                          'local_short': 'Mali'},
-                       'population': 20137527,
+                       'population': 20741769,
                        'ports': {},
                        'region': ['Africa'],
                        'subs_broadband': 243806,
@@ -9271,28 +9221,27 @@ WORLD_FB = \
                                                  'local plans for IXP',
                                                  'dependent on neighboring countries for international bandwidth and '
                                                  'access to submarine cables',
-                                                 'Chinese investment in infrastructure stymied by security issues',
+                                                 'there are Chinese investment agreements for infrastructure',
                                                  'importer of broadcasting equipment from China',
                                                  2020],
                                     'intl': [ 'satellite communications center and fiber-optic links to neighboring '
                                               'countries',
                                               'satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian '
                                               'Ocean)',
-                                              0],
+                                              2020],
                                     'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced '
                                               'downturn, particularly in mobile device production',
                                               'many network operators delayed upgrades to infrastructure',
-                                              'progress towards 5G implementation was postponed or slowed in some '
-                                              'countries',
+                                              'progress towards 5G implementation is slow',
                                               'consumer spending on telecom services and devices was affected by '
                                               'large-scale job losses and the consequent restriction on disposable '
                                               'incomes',
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 5740000},
+                       'users_internet': 5467725},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mali/page-data.json',
             'name': 'Mali',
             'stan': 'MLI',
@@ -9313,13 +9262,13 @@ WORLD_FB = \
                                           'conv_short': 'Malta',
                                           'local_long': "Repubblika ta' Malta",
                                           'local_short': 'Malta'},
-                        'population': 460891,
+                        'population': 464186,
                         'ports': { 'container': 'Marsaxlokk (2,722,889) (2019)',
                                    'seaport': 'Marsaxlokk (Malta Freeport), Valletta'},
                         'region': ['Europe'],
                         'subs_broadband': 213419,
-                        'subs_fixed': 256838,
-                        'subs_mobile': 634386,
+                        'subs_fixed': 259456,
+                        'subs_mobile': 633123,
                         'telecom': { 'code': '356',
                                      'domestic': [ 'fixed-line approximately 59 per 100 persons and mobile-cellular '
                                                    'subscribership 143 per 100 persons',
@@ -9355,7 +9304,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 380300},
+                        'users_internet': 448339},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/malta/page-data.json',
              'name': 'Malta',
              'stan': 'MLT',
@@ -9385,7 +9334,7 @@ WORLD_FB = \
                                                      'conv_short': 'Marshall Islands',
                                                      'local_long': 'Republic of the Marshall Islands',
                                                      'local_short': 'Marshall Islands'},
-                                   'population': 78831,
+                                   'population': 79906,
                                    'ports': {'seaport': 'Enitwetak Island, Kwajalein, Majuro'},
                                    'region': ['Oceania'],
                                    'subs_broadband': 1000,
@@ -9430,7 +9379,7 @@ WORLD_FB = \
                                                           'and school from home became evident, and received some '
                                                           'support from governments',
                                                           0]},
-                                   'users_internet': 23000},
+                                   'users_internet': 22929},
                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/marshall-islands/page-data.json',
                         'name': 'Marshall Islands',
                         'stan': 'MHL',
@@ -9463,10 +9412,10 @@ WORLD_FB = \
                                                'conv_short': 'Mauritania',
                                                'local_long': 'Al Jumhuriyah al Islamiyah al Muritaniyah',
                                                'local_short': 'Muritaniyah'},
-                             'population': 4079284,
+                             'population': 4161925,
                              'ports': {'seaport': 'Nouadhibou, Nouakchott'},
                              'region': ['Africa'],
-                             'subs_broadband': 19246,
+                             'subs_broadband': 18457,
                              'subs_fixed': 62099,
                              'subs_mobile': 4932571,
                              'telecom': { 'code': '222',
@@ -9480,9 +9429,10 @@ WORLD_FB = \
                                           'general': [ "Mauritania's small population and low economic output limit "
                                                        'sustained growth',
                                                        'transparency and tax burdens hinder foreign investment',
-                                                       'World Bank and European Investment Bank support regulations to '
-                                                       'promote fixed-line broadband, improvement of the national '
-                                                       'backbone network, and connectivity to international cables',
+                                                       'World Bank and European Investment Bank support regulatory '
+                                                       'reforms to promote fixed-line broadband, improvement of the '
+                                                       'national backbone network, and connectivity to international '
+                                                       'cables',
                                                        'limited system of cable and open-wire lines, mobile-cellular '
                                                        'services expanding though monopolies, and little stimulus for '
                                                        'competition',
@@ -9509,7 +9459,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 1560000},
+                             'users_internet': 1906360},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mauritania/page-data.json',
                   'name': 'Mauritania',
                   'stan': 'MRT',
@@ -9534,10 +9484,10 @@ WORLD_FB = \
                                               'conv_short': 'Mauritius',
                                               'local_long': 'Republic of Mauritius',
                                               'local_short': 'Mauritius'},
-                            'population': 1386129,
+                            'population': 1308222,
                             'ports': {'seaport': 'Port Louis'},
                             'region': ['Africa'],
-                            'subs_broadband': 322100,
+                            'subs_broadband': 323200,
                             'subs_fixed': 478700,
                             'subs_mobile': 1912900,
                             'telecom': { 'code': '230',
@@ -9583,7 +9533,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 814500},
+                            'users_internet': 822731},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mauritius/page-data.json',
                  'name': 'Mauritius',
                  'stan': 'MUS',
@@ -9617,44 +9567,60 @@ WORLD_FB = \
                                            'conv_short': 'Mexico',
                                            'local_long': 'Estados Unidos Mexicanos',
                                            'local_short': 'Mexico'},
-                         'population': 130207371,
+                         'population': 129150971,
                          'ports': { 'container': 'Lazaro Cardenas (1,318,732), Manzanillo (3,069,189), Veracruz '
                                                  '(1,144,156) (2019)',
                                     'seaport': 'Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz'},
                          'region': ['North America'],
-                         'subs_broadband': 21206911,
-                         'subs_fixed': 23800105,
-                         'subs_mobile': 120481969,
+                         'subs_broadband': 21936131,
+                         'subs_fixed': 24500456,
+                         'subs_mobile': 122898392,
                          'telecom': { 'code': '52',
-                                      'domestic': [ 'fixed-line teledensity exceeds 18 per 100 persons',
-                                                    'mobile-cellular teledensity is about 93 per 100 persons',
+                                      'domestic': [ 'fixed-line teledensity exceeds 65 lines per every 100 households',
+                                                    'mobile-cellular teledensity is about 99 per 100 persons',
                                                     'domestic satellite system with 120 earth stations',
-                                                    2020],
+                                                    2021],
                                       'general': [ 'with a large population and relatively low broadband and mobile '
-                                                   "penetration, Mexico's telecom sector has potential for growth",
+                                                   'penetration, (86 lines for mobile broadband for every 100 '
+                                                   "habitants in June 2021) Mexico's telecom sector has potential for "
+                                                   'growth',
                                                    'adequate telephone service for business and government',
                                                    'improving quality and increasing mobile cellular availability, '
-                                                   'with mobile subscribers far outnumbering fixed-line subscribers',
+                                                   'with mobile subscribers far outnumbering fixed-line subscribers '
+                                                   '(24.6 million fixed line subscribers and 125 million mobile line '
+                                                   'subscribers in June 2021)',
                                                    'relatively low broadband and mobile penetration, potential for '
                                                    'growth and international investment',
                                                    'extensive microwave radio relay network',
                                                    'considerable use of fiber-optic cable and coaxial cable',
-                                                   '5G development slow in part due to high costs',
+                                                   '5G development slow in part due to high costs (AT&T announced 5G '
+                                                   'rollout in some sections of Mexico City in December 2021 and '
+                                                   'Telcel announced a plan to launch 5G network in 18 cities in '
+                                                   'February 2022)',
                                                    'IXP in Mexico City',
                                                    'exporter of computers and broadcasting equipment to USA and '
                                                    'importer of same from China',
-                                                   2020],
+                                                   2021],
                                       'intl': [ 'Columbus-2 fiber-optic submarine cable with access to the US, Virgin '
                                                 'Islands, Canary Islands, Spain, and Italy',
                                                 'the ARCOS-1 and the MAYA-1 submarine cable system together provide '
                                                 'access to Central America, parts of South America and the Caribbean, '
-                                                'and the US',
-                                                'satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving '
-                                                'Mexico improved access to South America, Central America, and much of '
-                                                'the US as well as enhancing domestic communications), 1 Panamsat, '
-                                                'numerous Inmarsat mobile earth stations)',
+                                                'and the U.S.',
+                                                'Pan-American Crossing (PAC) submarine cable system provides access to '
+                                                'Panama, California, U.S., and Costa Rica',
+                                                'Lazaro Cardenas-Manzanillo Santiago submarines cable system (LCMSSCS) '
+                                                'provides access to Michoacan, Guerrero, and Colima, Mexico',
+                                                'AMX-1 submarine cable system with access to Colombia, Brazil, Puerto '
+                                                'Rico, Gulf of California Cable submarine cable systems that connects '
+                                                'La Paz, Baja California Sur and Topolobambo, Sinaloa',
+                                                'and Aurora submarine cable system provides access to Guatemala, '
+                                                'Panama, Ecuador, Colombia, Mexico, and the U.S. satellite earth '
+                                                'stations - 124 (36 Intelsat, 1 Solidaridad (giving Mexico improved '
+                                                'access to South America, Central America, and much of the US as well '
+                                                'as enhancing domestic communications), 9 Panamsat, numerous Inmarsat '
+                                                'mobile earth stations)',
                                                 'linked to Central American Microwave System of trunk connections',
-                                                2016],
+                                                2022],
                                       'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced '
@@ -9668,7 +9634,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 92010000},
+                         'users_internet': 92831582},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mexico/page-data.json',
               'name': 'Mexico',
               'stan': 'MEX',
@@ -9695,13 +9661,13 @@ WORLD_FB = \
                                                                     'conv_short': 'none',
                                                                     'local_long': 'Federated States of Micronesia',
                                                                     'local_short': 'none'},
-                                                  'population': 101675,
+                                                  'population': 101009,
                                                   'ports': { 'seaport': 'Colonia (Tamil Harbor), Molsron Lele Harbor, '
                                                                         'Pohnepi Harbor'},
                                                   'region': ['Oceania'],
-                                                  'subs_broadband': 3776,
-                                                  'subs_fixed': 6947,
-                                                  'subs_mobile': 23114,
+                                                  'subs_broadband': 6000,
+                                                  'subs_fixed': 7000,
+                                                  'subs_mobile': 22000,
                                                   'telecom': { 'code': '691',
                                                                'domestic': [ 'islands interconnected by shortwave '
                                                                              'radiotelephone, satellite (Intelsat) '
@@ -9744,7 +9710,7 @@ WORLD_FB = \
                                                                          'evident, and received some support from '
                                                                          'governments',
                                                                          0]},
-                                                  'users_internet': 40800},
+                                                  'users_internet': 39834},
                                        'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/micronesia-federated-states-of/page-data.json',
                                        'name': 'Micronesia, Federated States of',
                                        'stan': 'FSM',
@@ -9778,7 +9744,7 @@ WORLD_FB = \
                                             'conv_short': 'Moldova',
                                             'local_long': 'Republica Moldova',
                                             'local_short': 'Moldova'},
-                          'population': 3323875,
+                          'population': 3287326,
                           'region': ['Europe'],
                           'subs_broadband': 719001,
                           'subs_fixed': 1027689,
@@ -9819,7 +9785,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 3070000},
+                          'users_internet': 2025380},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/moldova/page-data.json',
                'name': 'Moldova',
                'stan': 'MDA',
@@ -9839,7 +9805,7 @@ WORLD_FB = \
                                            'conv_short': 'Monaco',
                                            'local_long': 'Principaute de Monaco',
                                            'local_short': 'Monaco'},
-                         'population': 31223,
+                         'population': 31400,
                          'ports': {'seaport': 'Hercules Port'},
                          'region': ['Europe'],
                          'subs_broadband': 20877,
@@ -9873,7 +9839,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 38200},
+                         'users_internet': 37798},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/monaco/page-data.json',
               'name': 'Monaco',
               'stan': 'MCO',
@@ -9894,7 +9860,7 @@ WORLD_FB = \
                                              'conv_short': 'Mongolia',
                                              'local_long': 'none',
                                              'local_short': 'Mongol Uls'},
-                           'population': 3198913,
+                           'population': 3227863,
                            'region': ['Asia'],
                            'subs_broadband': 307166,
                            'subs_fixed': 160153,
@@ -9933,7 +9899,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 2009999},
+                           'users_internet': 2065324},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mongolia/page-data.json',
                 'name': 'Mongolia',
                 'stan': 'MNG',
@@ -9961,7 +9927,7 @@ WORLD_FB = \
                                                'conv_short': 'Montenegro',
                                                'local_long': 'none',
                                                'local_short': 'Crna Gora'},
-                             'population': 607414,
+                             'population': 604966,
                              'ports': {'seaport': 'Bar'},
                              'region': ['Europe'],
                              'subs_broadband': 184176,
@@ -9997,7 +9963,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 477300},
+                             'users_internet': 484619},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/montenegro/page-data.json',
                   'name': 'Montenegro',
                   'stan': 'MNE',
@@ -10020,7 +9986,7 @@ WORLD_FB = \
                              'coastline': 40,
                              'coord': ['16 45 N, 62 12 W'],
                              'country_name': {'conv_long': 'none', 'conv_short': 'Montserrat'},
-                             'population': 5387,
+                             'population': 5414,
                              'ports': {'seaport': 'Little Bay, Plymouth'},
                              'region': ['Central America and the Caribbean'],
                              'subs_broadband': 2700,
@@ -10055,7 +10021,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 2806},
+                             'users_internet': 2744},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/montserrat/page-data.json',
                   'name': 'Montserrat',
                   'stan': 'MSR',
@@ -10078,7 +10044,7 @@ WORLD_FB = \
                                             'conv_short': 'Morocco',
                                             'local_long': 'Al Mamlakah al Maghribiyah',
                                             'local_short': 'Al Maghrib'},
-                          'population': 36561813,
+                          'population': 36738229,
                           'ports': { 'container': 'Tangier (4,801,713) (2019)',
                                      'seaport': 'Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), '
                                                 'Mohammedia, Safi, Tangier'},
@@ -10102,14 +10068,19 @@ WORLD_FB = \
                                                     'high mobile penetration rates in the region with low cost for '
                                                     'broadband Internet access',
                                                     'improvement in LTE reach and capabilities',
-                                                    '5G tests underway',
+                                                    'service providers have all successfully completed 5G proofs of '
+                                                    'concept and are currently lining up 5G equipment providers for '
+                                                    'both radio and core technology',
+                                                    'regulatory agency expects to conduct the 5G spectrum auction in '
+                                                    '2023',
                                                     'mobile Internet accounts for 93% of all Internet connections',
                                                     "World Bank provided funds for Morocco's digital transformation",
                                                     'government supported digital education during pandemic',
                                                     'submarine cables and satellite provide connectivity to Asia, '
                                                     'Africa, the Middle East, Europe, and Australia',
-                                                    'importer of broadcasting equipment and video displays from China',
-                                                    2020],
+                                                    'importer of broadcasting equipment, surveillance equipment, '
+                                                    'scanning equipment, and video displays from China',
+                                                    2022],
                                        'intl': [ 'landing point for the Atlas Offshore, Estepona-Tetouan, Canalink and '
                                                  'SEA-ME-WE-3 fiber-optic telecommunications undersea cables that '
                                                  'provide connectivity to Asia, Africa, the Middle East, Europe and '
@@ -10130,7 +10101,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 27620000},
+                          'users_internet': 31004869},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/morocco/page-data.json',
                'name': 'Morocco',
                'stan': 'MAR',
@@ -10157,12 +10128,12 @@ WORLD_FB = \
                                                'conv_short': 'Mozambique',
                                                'local_long': 'Republica de Mocambique',
                                                'local_short': 'Mocambique'},
-                             'population': 30888034,
+                             'population': 31693239,
                              'ports': {'seaport': 'Beira, Maputo, Nacala'},
                              'region': ['Africa'],
-                             'subs_broadband': 69975,
-                             'subs_fixed': 80791,
-                             'subs_mobile': 14773364,
+                             'subs_broadband': 70000,
+                             'subs_fixed': 89016,
+                             'subs_mobile': 15463226,
                              'telecom': { 'code': '258',
                                           'domestic': [ 'extremely low fixed-line teledensity contrasts with rapid '
                                                         'growth in the mobile-cellular network',
@@ -10205,7 +10176,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 6720000},
+                             'users_internet': 5313424},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/mozambique/page-data.json',
                   'name': 'Mozambique',
                   'stan': 'MOZ',
@@ -10241,12 +10212,12 @@ WORLD_FB = \
                                             'conv_short': 'Namibia',
                                             'local_long': 'Republic of Namibia',
                                             'local_short': 'Namibia'},
-                          'population': 2678191,
+                          'population': 2727409,
                           'ports': {'seaport': 'Luderitz, Walvis Bay'},
                           'region': ['Africa'],
                           'subs_broadband': 71063,
-                          'subs_fixed': 141334,
-                          'subs_mobile': 2594382,
+                          'subs_fixed': 140370,
+                          'subs_mobile': 2898125,
                           'telecom': { 'code': '264',
                                        'domestic': [ 'fixed-line subscribership is less than 6 per 100 and '
                                                      'mobile-cellular roughly 102 per 100 persons',
@@ -10275,7 +10246,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1310000},
+                          'users_internet': 1041776},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/namibia/page-data.json',
                'name': 'Namibia',
                'stan': 'NAM',
@@ -10297,11 +10268,11 @@ WORLD_FB = \
                                           'conv_short': 'Nauru',
                                           'local_long': 'Republic of Nauru',
                                           'local_short': 'Nauru'},
-                        'population': 9770,
+                        'population': 9811,
                         'ports': {'seaport': 'Nauru'},
                         'region': ['Oceania'],
                         'subs_broadband': 950,
-                        'subs_fixed': 0,
+                        'subs_fixed': 1900,
                         'subs_mobile': 10000,
                         'telecom': { 'code': '674',
                                      'domestic': [ 'fixed-line 0 per 100 and mobile-cellular subscribership '
@@ -10328,7 +10299,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 6771},
+                        'users_internet': 6136},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/nauru/page-data.json',
              'name': 'Nauru',
              'stan': 'NRU',
@@ -10367,11 +10338,11 @@ WORLD_FB = \
                                           'conv_short': 'Nepal',
                                           'local_long': 'none',
                                           'local_short': 'Nepal'},
-                        'population': 30424878,
+                        'population': 30666598,
                         'region': ['Asia'],
-                        'subs_broadband': 791961,
-                        'subs_fixed': 799368,
-                        'subs_mobile': 39178451,
+                        'subs_broadband': 1270000,
+                        'subs_fixed': 726000,
+                        'subs_mobile': 38213000,
                         'telecom': { 'code': '977',
                                      'domestic': [ '3G coverage is available in 20 major cities (2019)',
                                                    'disparity between high coverage in cities and coverage available '
@@ -10415,7 +10386,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 10780000},
+                        'users_internet': 11071987},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/nepal/page-data.json',
              'name': 'Nepal',
              'stan': 'NPL',
@@ -10438,7 +10409,7 @@ WORLD_FB = \
                                                 'conv_short': 'Netherlands',
                                                 'local_long': 'Koninkrijk der Nederlanden',
                                                 'local_short': 'Nederland'},
-                              'population': 17337403,
+                              'population': 17400824,
                               'ports': { 'container': 'Rotterdam (14,810,804) (2019)',
                                          'seaport': 'IJmuiden, Vlissingen'},
                               'region': ['Europe'],
@@ -10493,7 +10464,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 16469999},
+                              'users_internet': 15871765},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/netherlands/page-data.json',
                    'name': 'Netherlands',
                    'stan': 'NLD',
@@ -10526,12 +10497,12 @@ WORLD_FB = \
                                                   'conv_short': 'New Caledonia',
                                                   'local_long': 'Territoire des Nouvelle-Caledonie et Dependances',
                                                   'local_short': 'Nouvelle-Caledonie'},
-                                'population': 293608,
+                                'population': 297160,
                                 'ports': {'seaport': 'Noumea'},
                                 'region': ['Oceania'],
-                                'subs_broadband': 55371,
-                                'subs_fixed': 77719,
-                                'subs_mobile': 260277,
+                                'subs_broadband': 55000,
+                                'subs_fixed': 46000,
+                                'subs_mobile': 260000,
                                 'telecom': { 'code': '687',
                                              'domestic': [ 'fixed-line nearly 29 per 100 and mobile-cellular telephone '
                                                            'subscribership 96 per 100 persons',
@@ -10566,7 +10537,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 235200},
+                                'users_internet': 222466},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/new-caledonia/page-data.json',
                      'name': 'New Caledonia',
                      'stan': 'NCL',
@@ -10588,13 +10559,13 @@ WORLD_FB = \
                               'coastline': 15134,
                               'coord': ['41 00 S, 174 00 E'],
                               'country_name': {'conv_long': 'none', 'conv_short': 'New Zealand'},
-                              'population': 4991442,
+                              'population': 5053004,
                               'ports': { 'seaport': 'Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, '
                                                     'Wellington'},
                               'region': ['Oceania'],
-                              'subs_broadband': 1647000,
-                              'subs_fixed': 1760000,
-                              'subs_mobile': 6400000,
+                              'subs_broadband': 1764984,
+                              'subs_fixed': 858000,
+                              'subs_mobile': 6148000,
                               'telecom': { 'code': '64',
                                            'domestic': [ 'fixed-line roughly 37 per 100 and mobile-cellular telephone '
                                                          'subscribership 136 per 100 persons',
@@ -10631,7 +10602,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 4550000},
+                              'users_internet': 4677556},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/new-zealand/page-data.json',
                    'name': 'New Zealand',
                    'stan': 'NZL',
@@ -10652,7 +10623,7 @@ WORLD_FB = \
                                               'conv_short': 'Nicaragua',
                                               'local_long': 'Republica de Nicaragua',
                                               'local_short': 'Nicaragua'},
-                            'population': 6243931,
+                            'population': 6301880,
                             'ports': {'seaport': 'Bluefields, Corinto'},
                             'region': ['Central America and the Caribbean'],
                             'subs_broadband': 290351,
@@ -10702,7 +10673,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 2780000},
+                            'users_internet': 2981049},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/nicaragua/page-data.json',
                  'name': 'Nicaragua',
                  'stan': 'NIC',
@@ -10730,11 +10701,11 @@ WORLD_FB = \
                                           'conv_short': 'Niger',
                                           'local_long': 'Republique du Niger',
                                           'local_short': 'Niger'},
-                        'population': 23605767,
+                        'population': 24484587,
                         'region': ['Africa'],
-                        'subs_broadband': 8650,
-                        'subs_fixed': 114352,
-                        'subs_mobile': 8778880,
+                        'subs_broadband': 12000,
+                        'subs_fixed': 58000,
+                        'subs_mobile': 14239000,
                         'telecom': { 'code': '227',
                                      'domestic': [ 'fixed-line less than 1 per 100 persons and mobile-cellular '
                                                    'teledensity at nearly 41 per 100 persons',
@@ -10770,7 +10741,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 3360000},
+                        'users_internet': 2331072},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/niger/page-data.json',
              'name': 'Niger',
              'stan': 'NER',
@@ -10789,10 +10760,10 @@ WORLD_FB = \
                           'coastline': 853,
                           'coord': ['10 00 N, 8 00 E'],
                           'country_name': {'conv_long': 'Federal Republic of Nigeria', 'conv_short': 'Nigeria'},
-                          'population': 219463862,
+                          'population': 225082083,
                           'ports': {'seaport': 'Bonny Inshore Terminal, Calabar, Lagos'},
                           'region': ['Africa'],
-                          'subs_broadband': 83360,
+                          'subs_broadband': 65313,
                           'subs_fixed': 107031,
                           'subs_mobile': 204228678,
                           'telecom': { 'code': '234',
@@ -10807,7 +10778,7 @@ WORLD_FB = \
                                                     'most Internet connections are via mobile networks',
                                                     'foreign investment presence, particularly from China',
                                                     'market competition with affordable access',
-                                                    'LTE technologies available but GSM is dominate',
+                                                    'LTE technologies available but GSM is dominant',
                                                     'mobile penetration high due to use of multiple SIM cards and '
                                                     'phones',
                                                     'government committed to expanding broadband penetration',
@@ -10817,7 +10788,11 @@ WORLD_FB = \
                                                     'submarine cable break in 2020 slowed speeds and interrupted '
                                                     'connectivity',
                                                     'importer of phones and broadcast equipment from China',
-                                                    2020],
+                                                    'Nigeria concluded its first 5G spectrum auction in 2021 and '
+                                                    'granted licenses to two firms: MTN Nigeria and Mafab '
+                                                    'Communications. Construction of 5G infrastructure has not yet '
+                                                    'been completed.',
+                                                    2021],
                                        'intl': [ 'landing point for the SAT-3/WASC, NCSCS, MainOne, Glo-1 & 2, ACE, '
                                                  'and Equiano fiber-optic submarine cable that provides connectivity '
                                                  'to Europe and South and West Africa',
@@ -10837,7 +10812,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 104400000},
+                          'users_internet': 74210251},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/nigeria/page-data.json',
                'name': 'Nigeria',
                'stan': 'NGA',
@@ -10888,7 +10863,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 1286},
+                       'users_internet': 1292},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/niue/page-data.json',
             'name': 'Niue',
             'stan': 'NIU',
@@ -10931,7 +10906,7 @@ WORLD_FB = \
                                                         'school from home became evident, and received some support '
                                                         'from governments',
                                                         0]},
-                                 'users_internet': 806},
+                                 'users_internet': 612},
                       'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/norfolk-island/page-data.json',
                       'name': 'Norfolk Island',
                       'stan': 'NFK',
@@ -10957,11 +10932,11 @@ WORLD_FB = \
                                                     'conv_short': 'North Macedonia',
                                                     'local_long': 'Republika Severna Makedonija',
                                                     'local_short': 'Severna Makedonija'},
-                                  'population': 2128262,
+                                  'population': 2130936,
                                   'region': ['Europe'],
-                                  'subs_broadband': 454300,
-                                  'subs_fixed': 400454,
-                                  'subs_mobile': 1921013,
+                                  'subs_broadband': 475569,
+                                  'subs_fixed': 415390,
+                                  'subs_mobile': 1862138,
                                   'telecom': { 'code': '389',
                                                'domestic': [ 'fixed-line roughly 19 per 100 and mobile-cellular 92 per '
                                                              '100 subscriptions',
@@ -10992,7 +10967,7 @@ WORLD_FB = \
                                                          'and school from home became evident, and received some '
                                                          'support from governments',
                                                          0]},
-                                  'users_internet': 1710000},
+                                  'users_internet': 1678750},
                        'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/north-macedonia/page-data.json',
                        'name': 'North Macedonia',
                        'stan': 'FYR',
@@ -11018,10 +10993,11 @@ WORLD_FB = \
                                            'country_name': { 'conv_long': 'Commonwealth of the Northern Mariana '
                                                                           'Islands',
                                                              'conv_short': 'Northern Mariana Islands'},
-                                           'population': 51659,
+                                           'population': 51475,
                                            'ports': {'seaport': 'Saipan, Tinian, Rota'},
                                            'region': ['Oceania'],
-                                           'subs_fixed': 22000,
+                                           'subs_fixed': 20000,
+                                           'subs_mobile': 20474,
                                            'telecom': { 'code': '1670',
                                                         'domestic': [ 'wide variety of services available including '
                                                                       'dial-up and broadband Internet, mobile '
@@ -11060,7 +11036,7 @@ WORLD_FB = \
                                                                   'for work and school from home became evident, and '
                                                                   'received some support from governments',
                                                                   0]},
-                                           'users_internet': 14500},
+                                           'users_internet': 17418},
                                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/northern-mariana-islands/page-data.json',
                                 'name': 'Northern Mariana Islands',
                                 'stan': 'MNP',
@@ -11081,7 +11057,7 @@ WORLD_FB = \
                                            'conv_short': 'Norway',
                                            'local_long': 'Kongeriket Norge',
                                            'local_short': 'Norge'},
-                         'population': 5509591,
+                         'population': 5553840,
                          'ports': {'seaport': 'Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture'},
                          'region': ['Europe'],
                          'subs_broadband': 2387661,
@@ -11129,7 +11105,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 5390000},
+                         'users_internet': 5218091},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/norway/page-data.json',
               'name': 'Norway',
               'stan': 'NOR',
@@ -11150,7 +11126,7 @@ WORLD_FB = \
                                          'conv_short': 'Oman',
                                          'local_long': 'Saltanat Uman',
                                          'local_short': 'Uman'},
-                       'population': 3694755,
+                       'population': 3764348,
                        'ports': {'container': 'Salalah (4,109,000) (2019)', 'seaport': "Mina' Qabus, Salalah, Suhar"},
                        'region': ['Middle East'],
                        'subs_broadband': 508949,
@@ -11191,7 +11167,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 4920000},
+                       'users_internet': 4851291},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/oman/page-data.json',
             'name': 'Oman',
             'stan': 'OMN',
@@ -11213,26 +11189,27 @@ WORLD_FB = \
                                              'conv_short': 'Pakistan',
                                              'local_long': 'Jamhuryat Islami Pakistan',
                                              'local_short': 'Pakistan'},
-                           'population': 238181034,
+                           'population': 242923845,
                            'ports': { 'container': 'Karachi (2,097,855) (2019)',
                                       'seaport': 'Karachi, Port Muhammad Bin Qasim'},
                            'region': ['Asia'],
-                           'subs_broadband': 2423057,
+                           'subs_broadband': 2523027,
                            'subs_fixed': 2876794,
-                           'subs_mobile': 165405847,
+                           'subs_mobile': 175624364,
                            'telecom': { 'code': '92',
                                         'domestic': [ 'mobile-cellular subscribership has increased',
                                                       'more than 90% of Pakistanis live within areas that have cell '
                                                       'phone coverage',
                                                       'fiber-optic networks are being constructed throughout the '
-                                                      'country to increase broadband access, though broadband '
-                                                      'penetration in Pakistan is still relatively low',
-                                                      'fixed-line a little over 1 per 100 and mobile-cellular roughly '
-                                                      '76 per 100 persons',
-                                                      2020],
-                                        'general': [ "Pakistan's telecom market recently transitioned from a regulated "
-                                                     'state-owned monopoly to a deregulated competitive structure, now '
-                                                     'aided by foreign investment',
+                                                      'country to increase broadband access and broadband penetration '
+                                                      'in Pakistan is increasing--by the end of 2021, 50% of the '
+                                                      'population had access to broadband services',
+                                                      'fixed-line teledensity is a little over 1 per 100 and '
+                                                      'mobile-cellular roughly 84 per 100 persons',
+                                                      2021],
+                                        'general': [ "Pakistan's telecom market transitioned from a regulated "
+                                                     'state-owned monopoly to a deregulated competitive structure in '
+                                                     '2003, now aided by foreign investment',
                                                      'moderate growth over the last six years, supported by a young '
                                                      'population and a rising use of mobile services',
                                                      'telecom infrastructure is improving, with investments in '
@@ -11271,7 +11248,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 61340000},
+                           'users_internet': 55223083},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/pakistan/page-data.json',
                 'name': 'Pakistan',
                 'stan': 'PAK',
@@ -11292,12 +11269,12 @@ WORLD_FB = \
                                           'conv_short': 'Palau',
                                           'local_long': 'Beluu er a Belau',
                                           'local_short': 'Belau'},
-                        'population': 21613,
+                        'population': 21695,
                         'ports': {'seaport': 'Koror'},
                         'region': ['Oceania'],
                         'subs_broadband': 1224,
-                        'subs_fixed': 7204,
-                        'subs_mobile': 23743,
+                        'subs_fixed': 8000,
+                        'subs_mobile': 24000,
                         'telecom': { 'code': '680',
                                      'domestic': [ 'fixed-line nearly 41 per 100 and mobile-cellular services roughly '
                                                    '134 per 100 persons',
@@ -11328,7 +11305,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 6752},
+                        'users_internet': 7650},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/palau/page-data.json',
              'name': 'Palau',
              'stan': 'PLW',
@@ -11360,13 +11337,13 @@ WORLD_FB = \
                                            'conv_short': 'Panama',
                                            'local_long': 'Republica de Panama',
                                            'local_short': 'Panama'},
-                         'population': 3928646,
+                         'population': 4337768,
                          'ports': { 'container': 'Balboa (2,894,654), Colon (4,379,477) (2019)',
                                     'seaport': 'Balboa, Colon, Cristobal'},
                          'region': ['Central America and the Caribbean'],
                          'subs_broadband': 562413,
-                         'subs_fixed': 616698,
-                         'subs_mobile': 5708163,
+                         'subs_fixed': 649156,
+                         'subs_mobile': 5825677,
                          'telecom': { 'code': '507',
                                       'domestic': [ 'fixed-line about 14 per 100 and rapid subscribership of '
                                                     'mobile-cellular telephone roughly 132 per 100',
@@ -11399,7 +11376,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 2820000},
+                         'users_internet': 2761452},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/panama/page-data.json',
               'name': 'Panama',
               'stan': 'PAN',
@@ -11421,12 +11398,12 @@ WORLD_FB = \
                                    'country_name': { 'conv_long': 'Independent State of Papua New Guinea',
                                                      'conv_short': 'Papua New Guinea',
                                                      'local_short': 'Papuaniugini'},
-                                   'population': 7399757,
+                                   'population': 9593498,
                                    'ports': {'seaport': 'Kimbe, Lae, Madang, Rabaul, Wewak'},
                                    'region': ['Oceania'],
-                                   'subs_broadband': 18000,
-                                   'subs_fixed': 158000,
-                                   'subs_mobile': 4018000,
+                                   'subs_broadband': 21000,
+                                   'subs_fixed': 166000,
+                                   'subs_mobile': 4818000,
                                    'telecom': { 'code': '675',
                                                 'domestic': [ 'access to telephone services is not widely available',
                                                               'fixed-line nearly 2 per 100 and mobile-cellular nearly '
@@ -11472,7 +11449,7 @@ WORLD_FB = \
                                                           'and school from home became evident, and received some '
                                                           'support from governments',
                                                           0]},
-                                   'users_internet': 1370000},
+                                   'users_internet': 965373},
                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/papua-new-guinea/page-data.json',
                         'name': 'Papua New Guinea',
                         'stan': 'PNG',
@@ -11512,20 +11489,20 @@ WORLD_FB = \
                                              'conv_short': 'Paraguay',
                                              'local_long': 'Republica del Paraguay',
                                              'local_short': 'Paraguay'},
-                           'population': 7272639,
+                           'population': 7356409,
                            'ports': {},
                            'region': ['South America'],
-                           'subs_broadband': 377379,
-                           'subs_fixed': 272656,
-                           'subs_mobile': 7761848,
+                           'subs_broadband': 562369,
+                           'subs_fixed': 249231,
+                           'subs_mobile': 7865050,
                            'telecom': { 'code': '595',
                                         'domestic': [ 'deficiencies in provision of fixed-line service have resulted '
                                                       'in expansion of mobile-cellular services fostered by '
                                                       'competition among multiple providers',
                                                       'Internet market also open to competition',
-                                                      'fixed-line just under 4 per 100 and mobile-cellular just over '
-                                                      '110 per 100',
-                                                      2019],
+                                                      'fixed-line just over 3 per 100 and mobile-cellular just over '
+                                                      '105 per 100 of the population',
+                                                      2020],
                                         'general': [ 'limited progress on structural reform and deficient '
                                                      'infrastructure of the landlocked country are obstacles to '
                                                      'telecom platform',
@@ -11534,13 +11511,14 @@ WORLD_FB = \
                                                      'population through LTE',
                                                      'deployment of fiber',
                                                      'South Korean investment in education centers',
-                                                     'operator enabled 100 free Internet points across the country',
+                                                     'operator enabled 109 free Internet points across the country and '
+                                                     'is looking to expand to 430 points in 2022',
                                                      'Inter-American Development Bank loan supports modernization '
                                                      'within regulatory framework',
                                                      'dependent on neighboring countries for access to submarine '
                                                      'cables',
                                                      'major importer of broadcasting equipment from the USA',
-                                                     2020],
+                                                     2022],
                                         'intl': [ "Paraguay's landlocked position means they must depend on neighbors "
                                                   'for interconnection with submarine cable networks, making it cost '
                                                   'more for broadband services',
@@ -11560,7 +11538,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 4920000},
+                           'users_internet': 5278072},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/paraguay/page-data.json',
                 'name': 'Paraguay',
                 'stan': 'PRY',
@@ -11586,12 +11564,12 @@ WORLD_FB = \
                                          'conv_short': 'Peru',
                                          'local_long': 'Republica del Peru',
                                          'local_short': 'Peru'},
-                       'population': 32201224,
+                       'population': 32275736,
                        'ports': {'container': 'Callao (2,313,907) (2019)', 'seaport': 'Callao, Matarani, Paita'},
                        'region': ['South America'],
-                       'subs_broadband': 2536077,
-                       'subs_fixed': 3082040,
-                       'subs_mobile': 38915400,
+                       'subs_broadband': 3044000,
+                       'subs_fixed': 2470000,
+                       'subs_mobile': 44000000,
                        'telecom': { 'code': '51',
                                     'domestic': [ 'fixed-line teledensity is nearly 10 per 100 persons',
                                                   'mobile-cellular teledensity, spurred by competition among multiple '
@@ -11631,7 +11609,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 19900000},
+                       'users_internet': 21431700},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/peru/page-data.json',
             'name': 'Peru',
             'stan': 'PER',
@@ -11652,13 +11630,13 @@ WORLD_FB = \
                                                 'conv_short': 'Philippines',
                                                 'local_long': 'Republika ng Pilipinas',
                                                 'local_short': 'Pilipinas'},
-                              'population': 110818325,
+                              'population': 114597229,
                               'ports': { 'container': 'Manila (5,315,500) (2019)',
                                          'seaport': 'Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila'},
                               'region': ['Southeast Asia'],
-                              'subs_broadband': 5920087,
-                              'subs_fixed': 4255808,
-                              'subs_mobile': 167322432,
+                              'subs_broadband': 7936574,
+                              'subs_fixed': 4731196,
+                              'subs_mobile': 149579406,
                               'telecom': { 'code': '63',
                                            'domestic': [ 'telecommunications infrastructure includes the following '
                                                          'platforms: fixed line, mobile cellular, cable TV, '
@@ -11703,7 +11681,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 73910000},
+                              'users_internet': 54790543},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/philippines/page-data.json',
                    'name': 'Philippines',
                    'stan': 'PHL',
@@ -11752,7 +11730,7 @@ WORLD_FB = \
                                                           'and school from home became evident, and received some '
                                                           'support from governments',
                                                           0]},
-                                   'users_internet': 54},
+                                   'users_internet': 50},
                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/pitcairn-islands/page-data.json',
                         'name': 'Pitcairn Islands',
                         'stan': 'PCN',
@@ -11779,10 +11757,10 @@ WORLD_FB = \
                                            'conv_short': 'Poland',
                                            'local_long': 'Rzeczpospolita Polska',
                                            'local_short': 'Polska'},
-                         'population': 38185913,
+                         'population': 38093101,
                          'ports': {'container': 'Gdansk (2,073,215) (2019)', 'seaport': 'Gdansk, Gdynia, Swinoujscie'},
                          'region': ['Europe'],
-                         'subs_broadband': 8212601,
+                         'subs_broadband': 8369218,
                          'subs_fixed': 5777428,
                          'subs_mobile': 49350724,
                          'telecom': { 'code': '48',
@@ -11820,7 +11798,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 31970000},
+                         'users_internet': 31456228},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/poland/page-data.json',
               'name': 'Poland',
               'stan': 'POL',
@@ -11844,11 +11822,11 @@ WORLD_FB = \
                                              'conv_short': 'Portugal',
                                              'local_long': 'Republica Portuguesa',
                                              'local_short': 'Portugal'},
-                           'population': 10263850,
+                           'population': 10242081,
                            'ports': { 'container': 'Sines (1,420,000) (2019)',
                                       'seaport': 'Leixoes, Lisbon, Setubal, Sines'},
                            'region': ['Europe'],
-                           'subs_broadband': 4160895,
+                           'subs_broadband': 4160795,
                            'subs_fixed': 5212507,
                            'subs_mobile': 11854999,
                            'telecom': { 'code': '351',
@@ -11894,7 +11872,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 8580000},
+                           'users_internet': 8031723},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/portugal/page-data.json',
                 'name': 'Portugal',
                 'stan': 'PRT',
@@ -11912,7 +11890,7 @@ WORLD_FB = \
                               'coastline': 501,
                               'coord': ['18 15 N, 66 30 W'],
                               'country_name': {'conv_long': 'Commonwealth of Puerto Rico', 'conv_short': 'Puerto Rico'},
-                              'population': 3142779,
+                              'population': 3098423,
                               'ports': { 'container': 'San Juan (2,142,662) (2019)',
                                          'seaport': 'Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, '
                                                     'San Juan'},
@@ -11961,7 +11939,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 2210000},
+                              'users_internet': 2559600},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/puerto-rico/page-data.json',
                    'name': 'Puerto Rico',
                    'stan': 'PRI',
@@ -11982,7 +11960,7 @@ WORLD_FB = \
                                           'conv_short': 'Qatar',
                                           'local_long': 'Dawlat Qatar',
                                           'local_short': 'Qatar'},
-                        'population': 2479995,
+                        'population': 2508182,
                         'ports': {'seaport': "Doha, Musay'id, Ra's Laffan"},
                         'region': ['Middle East'],
                         'subs_broadband': 296126,
@@ -12025,7 +12003,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 2880000},
+                        'users_internet': 2881060},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/qatar/page-data.json',
              'name': 'Qatar',
              'stan': 'QAT',
@@ -12062,10 +12040,10 @@ WORLD_FB = \
                                             'conv_short': 'Romania',
                                             'local_long': 'none',
                                             'local_short': 'Romania'},
-                          'population': 21230362,
+                          'population': 18519899,
                           'ports': {'seaport': 'Constanta, Midia'},
                           'region': ['Europe'],
-                          'subs_broadband': 5685000,
+                          'subs_broadband': 5684782,
                           'subs_fixed': 3025000,
                           'subs_mobile': 22592000,
                           'telecom': { 'code': '40',
@@ -12101,7 +12079,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 15490000},
+                          'users_internet': 15020866},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/romania/page-data.json',
                'name': 'Romania',
                'stan': 'ROU',
@@ -12138,15 +12116,15 @@ WORLD_FB = \
                                            'conv_short': 'Russia',
                                            'local_long': 'Rossiyskaya Federatsiya',
                                            'local_short': 'Rossiya'},
-                         'population': 142320790,
+                         'population': 142021981,
                          'ports': { 'container': 'Saint Petersburg (2,221,724) (2019)',
                                     'seaport': '<em><br />Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br />Baltic '
                                                'Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br /><em>Black '
                                                'Sea:</em> Novorossiysk<br /><em>Pacific Ocean:</em> Nakhodka, '
                                                'Vladivostok, Vostochnyy'},
                          'region': ['Asia'],
-                         'subs_broadband': 33872758,
-                         'subs_fixed': 27674128,
+                         'subs_broadband': 33893305,
+                         'subs_fixed': 25892405,
                          'subs_mobile': 238733217,
                          'telecom': { 'code': '7',
                                       'domestic': [ 'cross-country digital trunk lines run from Saint Petersburg to '
@@ -12197,7 +12175,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 124000000},
+                         'users_internet': 122488468},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/russia/page-data.json',
               'name': 'Russia',
               'stan': 'RUS',
@@ -12222,7 +12200,7 @@ WORLD_FB = \
                                            'conv_short': 'Rwanda',
                                            'local_long': "Republika y'u Rwanda",
                                            'local_short': 'Rwanda'},
-                         'population': 12943132,
+                         'population': 13173730,
                          'ports': {},
                          'region': ['Africa'],
                          'subs_broadband': 17685,
@@ -12267,7 +12245,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 4120000},
+                         'users_internet': 3497096},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/rwanda/page-data.json',
               'name': 'Rwanda',
               'stan': 'RWA',
@@ -12287,7 +12265,7 @@ WORLD_FB = \
                                                      'conv_short': 'Saint Barthelemy',
                                                      'local_long': "Collectivite d'outre mer de Saint-Barthelemy",
                                                      'local_short': 'Saint-Barthelemy'},
-                                   'population': 7116,
+                                   'population': 7103,
                                    'ports': {'seaport': 'Gustavia'},
                                    'region': ['Central America and the Caribbean'],
                                    'telecom': { 'code': '590',
@@ -12314,7 +12292,7 @@ WORLD_FB = \
                                                           'and school from home became evident, and received some '
                                                           'support from governments',
                                                           0]},
-                                   'users_internet': 2025},
+                                   'users_internet': 7128},
                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-barthelemy/page-data.json',
                         'name': 'Saint Barthelemy',
                         'stan': '',
@@ -12348,7 +12326,7 @@ WORLD_FB = \
                                                                                                'Ascension, and Tristan '
                                                                                                'da Cunha',
                                                                                   'conv_short': 'none'},
-                                                                'population': 7915,
+                                                                'population': 7925,
                                                                 'ports': {'seaport': 'Saint Helena'},
                                                                 'region': ['Africa'],
                                                                 'subs_broadband': 1000,
@@ -12421,7 +12399,7 @@ WORLD_FB = \
                                                                                        'evident, and received some '
                                                                                        'support from governments',
                                                                                        0]},
-                                                                'users_internet': 2281},
+                                                                'users_internet': 2302},
                                                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-helena-ascension-and-tristan-da-cunha/page-data.json',
                                                      'name': 'Saint Helena, Ascension, and Tristan da Cunha',
                                                      'stan': 'SHN',
@@ -12444,12 +12422,12 @@ WORLD_FB = \
                                         'coord': ['17 20 N, 62 45 W'],
                                         'country_name': { 'conv_long': 'Federation of Saint Kitts and Nevis',
                                                           'conv_short': 'Saint Kitts and Nevis'},
-                                        'population': 54149,
+                                        'population': 54488,
                                         'ports': {'seaport': 'Basseterre, Charlestown'},
                                         'region': ['Central America and the Caribbean'],
-                                        'subs_broadband': 29272,
-                                        'subs_fixed': 17293,
-                                        'subs_mobile': 76878,
+                                        'subs_broadband': 30000,
+                                        'subs_fixed': 15000,
+                                        'subs_mobile': 78000,
                                         'telecom': { 'code': '1869',
                                                      'domestic': [ 'interisland links via ECFS',
                                                                    'fixed-line teledensity about 33 per 100 persons',
@@ -12484,7 +12462,7 @@ WORLD_FB = \
                                                                'work and school from home became evident, and received '
                                                                'some support from governments',
                                                                0]},
-                                        'users_internet': 43100},
+                                        'users_internet': 42796},
                              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-kitts-and-nevis/page-data.json',
                              'name': 'Saint Kitts and Nevis',
                              'stan': 'KNA',
@@ -12502,12 +12480,12 @@ WORLD_FB = \
                               'coastline': 158,
                               'coord': ['13 53 N, 60 58 W'],
                               'country_name': {'conv_long': 'none', 'conv_short': 'Saint Lucia'},
-                              'population': 166637,
+                              'population': 167122,
                               'ports': {'seaport': 'Castries, Cul-de-Sac, Vieux-Fort'},
                               'region': ['Central America and the Caribbean'],
-                              'subs_broadband': 32265,
-                              'subs_fixed': 36469,
-                              'subs_mobile': 184944,
+                              'subs_broadband': 33000,
+                              'subs_fixed': 38000,
+                              'subs_mobile': 203000,
                               'telecom': { 'code': '1758',
                                            'domestic': [ 'fixed-line teledensity is 20 per 100 persons and '
                                                          'mobile-cellular teledensity is roughly 102 per 100 persons',
@@ -12541,7 +12519,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 104400},
+                              'users_internet': 97323},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-lucia/page-data.json',
                    'name': 'Saint Lucia',
                    'stan': 'LCA',
@@ -12553,7 +12531,7 @@ WORLD_FB = \
                     'cmt': 'ccTLD .fr and .gp may also be used',
                     'gec': 'RN',
                     'infos': { 'airports': 1,
-                               'area': {'land': '54.4 sq km', 'total': '54 sq km', 'water': 'negligible'},
+                               'area': {'land': '50 sq km', 'total': '50 sq km', 'water': 'negligible'},
                                'boundaries': {'bord': {'Sint Maarten': 16}, 'len': 16},
                                'capital': {'coord': '18 04 N, 63 05 W', 'name': 'Marigot', 'time_diff': 'UTC-4'},
                                'coastline': 58,
@@ -12562,8 +12540,9 @@ WORLD_FB = \
                                                  'conv_short': 'Saint Martin',
                                                  'local_long': "Collectivite d'outre mer de Saint-Martin",
                                                  'local_short': 'Saint-Martin'},
-                               'population': 32680,
+                               'population': 32792,
                                'region': ['Central America and the Caribbean'],
+                               'subs_mobile': 68840,
                                'telecom': { 'code': '590',
                                             'domestic': [ 'direct dial capability with both fixed and wireless systems',
                                                           2018],
@@ -12592,8 +12571,7 @@ WORLD_FB = \
                                                       'the crucial nature of telecom services as a tool for work and '
                                                       'school from home became evident, and received some support from '
                                                       'governments',
-                                                      0]},
-                               'users_internet': 7339},
+                                                      0]}},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-martin/page-data.json',
                     'name': 'Saint Martin',
                     'stan': '',
@@ -12621,10 +12599,10 @@ WORLD_FB = \
                                                               'conv_short': 'Saint Pierre and Miquelon',
                                                               'local_long': 'Departement de Saint-Pierre et Miquelon',
                                                               'local_short': 'Saint-Pierre et Miquelon'},
-                                            'population': 5321,
+                                            'population': 5257,
                                             'ports': {'seaport': 'Saint-Pierre'},
                                             'region': ['North America'],
-                                            'subs_fixed': 4086,
+                                            'subs_fixed': 4800,
                                             'telecom': { 'code': '508',
                                                          'domestic': [ 'fixed-line teledensity 76 per 100 persons',
                                                                        2019],
@@ -12653,7 +12631,7 @@ WORLD_FB = \
                                                                    'for work and school from home became evident, and '
                                                                    'received some support from governments',
                                                                    0]},
-                                            'users_internet': 4600},
+                                            'users_internet': 4500},
                                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-pierre-and-miquelon/page-data.json',
                                  'name': 'Saint Pierre and Miquelon',
                                  'stan': 'SPM',
@@ -12676,10 +12654,10 @@ WORLD_FB = \
                                                    'coord': ['13 15 N, 61 12 W'],
                                                    'country_name': { 'conv_long': 'none',
                                                                      'conv_short': 'Saint Vincent and the Grenadines'},
-                                                   'population': 101145,
+                                                   'population': 100969,
                                                    'ports': {'seaport': 'Kingstown'},
                                                    'region': ['Central America and the Caribbean'],
-                                                   'subs_broadband': 24494,
+                                                   'subs_broadband': 24733,
                                                    'subs_fixed': 12483,
                                                    'subs_mobile': 97059,
                                                    'telecom': { 'code': '1784',
@@ -12729,7 +12707,7 @@ WORLD_FB = \
                                                                           'evident, and received some support from '
                                                                           'governments',
                                                                           0]},
-                                                   'users_internet': 67000},
+                                                   'users_internet': 24408},
                                         'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saint-vincent-and-the-grenadines/page-data.json',
                                         'name': 'Saint Vincent and the Grenadines',
                                         'stan': 'VCT',
@@ -12750,12 +12728,12 @@ WORLD_FB = \
                                           'conv_short': 'Samoa',
                                           'local_long': "Malo Sa'oloto Tuto'atasi o Samoa",
                                           'local_short': 'Samoa'},
-                        'population': 204898,
+                        'population': 206179,
                         'ports': {'seaport': 'Apia'},
                         'region': ['Oceania'],
                         'subs_broadband': 1692,
-                        'subs_fixed': 8454,
-                        'subs_mobile': 124211,
+                        'subs_fixed': 6000,
+                        'subs_mobile': 69000,
                         'telecom': { 'code': '685',
                                      'domestic': [ 'fixed-line roughly 4 per 100 and mobile-cellular teledensity '
                                                    'nearly 64 telephones per 100 persons',
@@ -12794,7 +12772,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 67000},
+                        'users_internet': 67012},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/samoa/page-data.json',
              'name': 'Samoa',
              'stan': 'WSM',
@@ -12816,11 +12794,11 @@ WORLD_FB = \
                                                'conv_short': 'San Marino',
                                                'local_long': 'Repubblica di San Marino',
                                                'local_short': 'San Marino'},
-                             'population': 34467,
+                             'population': 34682,
                              'region': ['Europe'],
-                             'subs_broadband': 11081,
+                             'subs_broadband': 11000,
                              'subs_fixed': 16000,
-                             'subs_mobile': 38750,
+                             'subs_mobile': 39000,
                              'telecom': { 'code': '378',
                                           'domestic': [ 'fixed-line a little over 47 per 100 and mobile-cellular '
                                                         'teledensity roughly 114 telephones per 100 persons',
@@ -12843,7 +12821,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 20400},
+                             'users_internet': 20318},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/san-marino/page-data.json',
                   'name': 'San Marino',
                   'stan': 'SMR',
@@ -12866,11 +12844,11 @@ WORLD_FB = \
                                                           'conv_short': 'Sao Tome and Principe',
                                                           'local_long': 'Republica Democratica de Sao Tome e Principe',
                                                           'local_short': 'Sao Tome e Principe'},
-                                        'population': 213948,
+                                        'population': 217164,
                                         'ports': {'seaport': 'Sao Tome'},
                                         'region': ['Africa'],
                                         'subs_broadband': 2512,
-                                        'subs_fixed': 2720,
+                                        'subs_fixed': 2790,
                                         'subs_mobile': 174203,
                                         'telecom': { 'code': '239',
                                                      'domestic': [ 'fixed-line roughly 1 per 100 and mobile-cellular '
@@ -12903,7 +12881,7 @@ WORLD_FB = \
                                                                'work and school from home became evident, and received '
                                                                'some support from governments',
                                                                0]},
-                                        'users_internet': 65000},
+                                        'users_internet': 72323},
                              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sao-tome-and-principe/page-data.json',
                              'name': 'Sao Tome and Principe',
                              'stan': 'STP',
@@ -12931,7 +12909,7 @@ WORLD_FB = \
                                                  'conv_short': 'Saudi Arabia',
                                                  'local_long': 'Al Mamlakah al Arabiyah as Suudiyah',
                                                  'local_short': 'Al Arabiyah as Suudiyah'},
-                               'population': 34783757,
+                               'population': 35354380,
                                'ports': { 'container': 'Ad Dammam (1,822,642), Jeddah (4,433,991), King Abdulla '
                                                        '(2,020,683) (2019)',
                                           'seaport': "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'"},
@@ -12984,7 +12962,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 33580000},
+                               'users_internet': 34117590},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/saudi-arabia/page-data.json',
                     'name': 'Saudi Arabia',
                     'stan': 'SAU',
@@ -13010,11 +12988,11 @@ WORLD_FB = \
                                             'conv_short': 'Senegal',
                                             'local_long': 'Republique du Senegal',
                                             'local_short': 'Senegal'},
-                          'population': 16082442,
+                          'population': 17923036,
                           'ports': {'seaport': 'Dakar'},
                           'region': ['Africa'],
-                          'subs_broadband': 177363,
-                          'subs_fixed': 207592,
+                          'subs_broadband': 153813,
+                          'subs_fixed': 228774,
                           'subs_mobile': 19078948,
                           'telecom': { 'code': '221',
                                        'domestic': [ 'generally reliable urban system with a fiber-optic network',
@@ -13049,7 +13027,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 7810000},
+                          'users_internet': 7199890},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/senegal/page-data.json',
                'name': 'Senegal',
                'stan': 'SEN',
@@ -13078,11 +13056,11 @@ WORLD_FB = \
                                            'conv_short': 'Serbia',
                                            'local_long': 'Republika Srbija',
                                            'local_short': 'Srbija'},
-                         'population': 6974289,
+                         'population': 6739471,
                          'ports': {},
                          'region': ['Europe'],
-                         'subs_broadband': 1724392,
-                         'subs_fixed': 2572169,
+                         'subs_broadband': 1730496,
+                         'subs_fixed': 2572254,
                          'subs_mobile': 8260758,
                          'telecom': { 'code': '381',
                                       'domestic': [ 'fixed-line over 37 per 100 and mobile-cellular over 120 per 100 '
@@ -13112,7 +13090,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 6890000},
+                         'users_internet': 5381318},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/serbia/page-data.json',
               'name': 'Serbia',
               'stan': '',
@@ -13133,7 +13111,7 @@ WORLD_FB = \
                                                'conv_short': 'Seychelles',
                                                'local_long': 'Republic of Seychelles',
                                                'local_short': 'Seychelles'},
-                             'population': 96387,
+                             'population': 97017,
                              'ports': {'seaport': 'Victoria'},
                              'region': ['Africa'],
                              'subs_broadband': 34966,
@@ -13172,7 +13150,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 58000},
+                             'users_internet': 77785},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/seychelles/page-data.json',
                   'name': 'Seychelles',
                   'stan': 'SYC',
@@ -13193,7 +13171,7 @@ WORLD_FB = \
                                                  'conv_short': 'Sierra Leone',
                                                  'local_long': 'Republic of Sierra Leone',
                                                  'local_short': 'Sierra Leone'},
-                               'population': 6807277,
+                               'population': 8692606,
                                'ports': {'seaport': 'Freetown, Pepel, Sherbro Islands'},
                                'region': ['Africa'],
                                'subs_fixed': 189,
@@ -13232,7 +13210,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 2390000},
+                               'users_internet': 1435857},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sierra-leone/page-data.json',
                     'name': 'Sierra Leone',
                     'stan': 'SLE',
@@ -13253,12 +13231,12 @@ WORLD_FB = \
                                               'conv_short': 'Singapore',
                                               'local_long': 'Republic of Singapore',
                                               'local_short': 'Singapore'},
-                            'population': 5866139,
+                            'population': 5921231,
                             'ports': {'container': 'Singapore (37,195,636) (2019)', 'seaport': 'Singapore'},
                             'region': ['Southeast Asia'],
-                            'subs_broadband': 1517600,
-                            'subs_fixed': 1891600,
-                            'subs_mobile': 8427500,
+                            'subs_broadband': 1509700,
+                            'subs_fixed': 1891000,
+                            'subs_mobile': 9034300,
                             'telecom': { 'code': '65',
                                          'domestic': [ 'excellent domestic facilities',
                                                        'fixed-line roughly 32 per 100 and mobile-cellular 144 per 100 '
@@ -13305,7 +13283,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 5290000},
+                            'users_internet': 5230942},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/singapore/page-data.json',
                  'name': 'Singapore',
                  'stan': 'SGP',
@@ -13332,7 +13310,7 @@ WORLD_FB = \
                                                  'local_long': 'Land Sint Maarten (Dutch); Country of Sint Maarten '
                                                                '(English)',
                                                  'local_short': 'Sint Maarten (Dutch and English)'},
-                               'population': 44564,
+                               'population': 45126,
                                'ports': {'seaport': 'Philipsburg'},
                                'region': ['Central America and the Caribbean'],
                                'subs_mobile': 68840,
@@ -13363,8 +13341,7 @@ WORLD_FB = \
                                                       'the crucial nature of telecom services as a tool for work and '
                                                       'school from home became evident, and received some support from '
                                                       'governments',
-                                                      0]},
-                               'users_internet': 29600},
+                                                      0]}},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sint-maarten/page-data.json',
                     'name': 'Sint Maarten',
                     'stan': '',
@@ -13390,12 +13367,12 @@ WORLD_FB = \
                                              'conv_short': 'Slovakia',
                                              'local_long': 'Slovenska republika',
                                              'local_short': 'Slovensko'},
-                           'population': 5436066,
+                           'population': 5431252,
                            'ports': {},
                            'region': ['Europe'],
                            'subs_broadband': 1701561,
-                           'subs_fixed': 616148,
-                           'subs_mobile': 7289707,
+                           'subs_fixed': 648462,
+                           'subs_mobile': 7399530,
                            'telecom': { 'code': '421',
                                         'domestic': [ 'four companies have a license to operate cellular networks and '
                                                       'provide nationwide cellular services',
@@ -13437,7 +13414,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 4640000},
+                           'users_internet': 4912944},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/slovakia/page-data.json',
                 'name': 'Slovakia',
                 'stan': 'SVK',
@@ -13459,12 +13436,12 @@ WORLD_FB = \
                                              'conv_short': 'Slovenia',
                                              'local_long': 'Republika Slovenija',
                                              'local_short': 'Slovenija'},
-                           'population': 2102106,
+                           'population': 2101208,
                            'ports': {'seaport': 'Koper'},
                            'region': ['Europe'],
                            'subs_broadband': 651604,
                            'subs_fixed': 704909,
-                           'subs_mobile': 2550895,
+                           'subs_mobile': 2511980,
                            'telecom': { 'code': '386',
                                         'domestic': [ 'fixed-line nearly 34 per 100 and mobile-cellular over 122 per '
                                                       '100 teledensity',
@@ -13496,7 +13473,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 1750000},
+                           'users_internet': 1829105},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/slovenia/page-data.json',
                 'name': 'Slovenia',
                 'stan': 'SVN',
@@ -13517,11 +13494,11 @@ WORLD_FB = \
                                                     'conv_short': 'Solomon Islands',
                                                     'local_long': 'none',
                                                     'local_short': 'Solomon Islands'},
-                                  'population': 690598,
+                                  'population': 702694,
                                   'ports': {'seaport': 'Honiara, Malloco Bay, Viru Harbor, Tulagi'},
                                   'region': ['Oceania'],
-                                  'subs_broadband': 1045,
-                                  'subs_fixed': 7104,
+                                  'subs_broadband': 1000,
+                                  'subs_fixed': 7000,
                                   'subs_mobile': 478116,
                                   'telecom': { 'code': '677',
                                                'domestic': [ 'fixed-line is just over 1 per 100 persons and '
@@ -13559,7 +13536,7 @@ WORLD_FB = \
                                                          'and school from home became evident, and received some '
                                                          'support from governments',
                                                          0]},
-                                  'users_internet': 198900},
+                                  'users_internet': 80379},
                        'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/solomon-islands/page-data.json',
                        'name': 'Solomon Islands',
                        'stan': 'SLB',
@@ -13581,12 +13558,12 @@ WORLD_FB = \
                                             'local_long': 'Jamhuuriyadda Federaalka Soomaaliya (Somali), Jumhuriyat as '
                                                           'Sumal al Fidiraliyah (Arabic)',
                                             'local_short': 'Soomaaliya (Somali), As Sumal (Arabic)'},
-                          'population': 12094640,
+                          'population': 12386248,
                           'ports': {'seaport': 'Berbera, Kismaayo'},
                           'region': ['Africa'],
-                          'subs_broadband': 98000,
-                          'subs_fixed': 74800,
-                          'subs_mobile': 7653040,
+                          'subs_broadband': 119000,
+                          'subs_fixed': 91000,
+                          'subs_mobile': 7119000,
                           'telecom': { 'code': '252',
                                        'domestic': [ 'seven networks compete for customers in the mobile sector',
                                                      'some of these mobile-service providers offer fixed-lines and '
@@ -13621,7 +13598,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 1950000},
+                          'users_internet': 308858},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/somalia/page-data.json',
                'name': 'Somalia',
                'stan': 'SOM',
@@ -13652,13 +13629,13 @@ WORLD_FB = \
                                'coastline': 2798,
                                'coord': ['29 00 S, 24 00 E'],
                                'country_name': {'conv_long': 'Republic of South Africa', 'conv_short': 'South Africa'},
-                               'population': 56978635,
+                               'population': 57516665,
                                'ports': { 'container': 'Durban (2,769,869) (2019)',
                                           'seaport': 'Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay'},
                                'region': ['Africa'],
                                'subs_broadband': 1303057,
                                'subs_fixed': 2098802,
-                               'subs_mobile': 95959439,
+                               'subs_mobile': 96972500,
                                'telecom': { 'code': '27',
                                             'domestic': [ 'fixed-line over 3 per 100 persons and mobile-cellular '
                                                           'nearly 162 telephones per 100 persons',
@@ -13704,7 +13681,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 38190000},
+                               'users_internet': 41516083},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/south-africa/page-data.json',
                     'name': 'South Africa',
                     'stan': 'ZAF',
@@ -13755,11 +13732,11 @@ WORLD_FB = \
                               'coastline': 0,
                               'coord': ['8 00 N, 30 00 E'],
                               'country_name': {'conv_long': 'Republic of South Sudan', 'conv_short': 'South Sudan'},
-                              'population': 10984074,
+                              'population': 11544905,
                               'region': ['Africa'],
                               'subs_broadband': 200,
                               'subs_fixed': 0,
-                              'subs_mobile': 2221967,
+                              'subs_mobile': 2221970,
                               'telecom': { 'code': '211',
                                            'domestic': [ 'fixed-line less than 1 per 100 subscriptions, '
                                                          'mobile-cellular roughly 20 per 100 persons',
@@ -13796,7 +13773,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 900700},
+                              'users_internet': 783561},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/south-sudan/page-data.json',
                    'name': 'South Sudan',
                    'stan': '',
@@ -13829,16 +13806,16 @@ WORLD_FB = \
                                           'conv_short': 'Spain',
                                           'local_long': 'Reino de Espana',
                                           'local_short': 'Espana'},
-                        'population': 47260584,
+                        'population': 47163418,
                         'ports': { 'container': 'Algeciras (5,125,385), Barcelona (3,324,650), Valencia (5,439,827) '
                                                 '(2019)',
                                    'seaport': '<br /><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz '
                                               'de Tenerife (in the Canary Islands)<br /><em>Mediterranean Sea:</em> '
                                               'Algeciras, Barcelona, Cartagena, Tarragona, Valencia'},
                         'region': ['Europe'],
-                        'subs_broadband': 15850358,
-                        'subs_fixed': 19455779,
-                        'subs_mobile': 55644651,
+                        'subs_broadband': 16188502,
+                        'subs_fixed': 19455658,
+                        'subs_mobile': 55354900,
                         'telecom': { 'code': '34',
                                      'domestic': [ 'fixed-line nearly 42 per 100 and mobile-cellular 119 telephones '
                                                    'per 100 persons',
@@ -13878,7 +13855,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 42540000},
+                        'users_internet': 44047980},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/spain/page-data.json',
              'name': 'Spain',
              'stan': 'ESP',
@@ -13927,12 +13904,12 @@ WORLD_FB = \
                                               'local_long': 'Shri Lanka Prajatantrika Samajavadi Janarajaya/Ilankai '
                                                             'Jananayaka Choshalichak Kutiyarachu',
                                               'local_short': 'Shri Lanka/Ilankai'},
-                            'population': 23044123,
+                            'population': 23187516,
                             'ports': {'container': 'Colombo (7,228,337) (2019)', 'seaport': 'Colombo'},
                             'region': ['Asia'],
-                            'subs_broadband': 1992429,
-                            'subs_fixed': 2428957,
-                            'subs_mobile': 29730465,
+                            'subs_broadband': 1781530,
+                            'subs_fixed': 2607868,
+                            'subs_mobile': 30778600,
                             'telecom': { 'code': '94',
                                          'domestic': [ 'fixed-line roughly 11 per 100 and mobile-cellular nearly 139 '
                                                        'per 100',
@@ -13970,7 +13947,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 10900000},
+                            'users_internet': 7671650},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sri-lanka/page-data.json',
                  'name': 'Sri Lanka',
                  'stan': 'LKA',
@@ -13998,12 +13975,12 @@ WORLD_FB = \
                                           'conv_short': 'Sudan',
                                           'local_long': 'Jumhuriyat as-Sudan',
                                           'local_short': 'As-Sudan'},
-                        'population': 46751152,
+                        'population': 47958856,
                         'ports': {'seaport': 'Port Sudan'},
                         'region': ['Africa'],
                         'subs_broadband': 28782,
                         'subs_fixed': 129408,
-                        'subs_mobile': 35195207,
+                        'subs_mobile': 33014200,
                         'telecom': { 'code': '249',
                                      'domestic': [ 'consists of microwave radio relay, cable, fiber optic, '
                                                    'radiotelephone communications, tropospheric scatter, and a '
@@ -14034,9 +14011,11 @@ WORLD_FB = \
                                                'many network operators delayed upgrades to infrastructure',
                                                'consumer spending on telecom services and devices was affected by '
                                                'large-scale job losses and the consequent restriction on disposable '
-                                               'incomes',
+                                               'incomes. Security services imposed periodic internet and cellular '
+                                               'communication blackouts during civilian protests of the military '
+                                               'takeover in October, November, and December 2021.',
                                                0]},
-                        'users_internet': 13700000},
+                        'users_internet': 12277795},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sudan/page-data.json',
              'name': 'Sudan',
              'stan': 'SDN',
@@ -14057,12 +14036,12 @@ WORLD_FB = \
                                              'conv_short': 'Suriname',
                                              'local_long': 'Republiek Suriname',
                                              'local_short': 'Suriname'},
-                           'population': 614749,
+                           'population': 632638,
                            'ports': {'seaport': 'Paramaribo, Wageningen'},
                            'region': ['South America'],
                            'subs_broadband': 92270,
                            'subs_fixed': 103240,
-                           'subs_mobile': 899339,
+                           'subs_mobile': 813844,
                            'telecom': { 'code': '597',
                                         'domestic': [ 'fixed-line nearly 18 per 100 and mobile-cellular teledensity '
                                                       'over 153 telephones per 100 persons',
@@ -14098,7 +14077,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 352100},
+                           'users_internet': 410644},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/suriname/page-data.json',
                 'name': 'Suriname',
                 'stan': 'SUR',
@@ -14150,8 +14129,7 @@ WORLD_FB = \
                                                   'the crucial nature of telecom services as a tool for work and '
                                                   'school from home became evident, and received some support from '
                                                   'governments',
-                                                  0]},
-                           'users_internet': 1542},
+                                                  0]}},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/svalbard/page-data.json',
                 'name': 'Svalbard',
                 'stan': 'SJM',
@@ -14172,13 +14150,13 @@ WORLD_FB = \
                                            'conv_short': 'Sweden',
                                            'local_long': 'Konungariket Sverige',
                                            'local_short': 'Sverige'},
-                         'population': 10261767,
+                         'population': 10483647,
                          'ports': { 'seaport': 'Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, '
                                                'Trelleborg, Visby'},
                          'region': ['Europe'],
-                         'subs_broadband': 4101078,
-                         'subs_fixed': 1624271,
-                         'subs_mobile': 12959858,
+                         'subs_broadband': 4179574,
+                         'subs_fixed': 1478610,
+                         'subs_mobile': 12895900,
                          'telecom': { 'code': '46',
                                       'domestic': [ 'fixed-line just over 16 per 100 and mobile-cellular roughly 128 '
                                                     'per 100',
@@ -14220,7 +14198,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 9930000},
+                         'users_internet': 9835769},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/sweden/page-data.json',
               'name': 'Sweden',
               'stan': 'SWE',
@@ -14249,12 +14227,12 @@ WORLD_FB = \
                                                               '(Italian); Confederaziun Svizra (Romansh)',
                                                 'local_short': 'Schweiz (German); Suisse (French); Svizzera (Italian); '
                                                                'Svizra (Romansh)'},
-                              'population': 8453550,
+                              'population': 8508698,
                               'ports': {},
                               'region': ['Europe'],
-                              'subs_broadband': 4022999,
-                              'subs_fixed': 2952000,
-                              'subs_mobile': 10900000,
+                              'subs_broadband': 4028238,
+                              'subs_fixed': 3071296,
+                              'subs_mobile': 10829000,
                               'telecom': { 'code': '41',
                                            'domestic': [ 'fixed-line over 34 per 100 and mobile-cellular '
                                                          'subscribership roughly 126 per 100 persons',
@@ -14285,7 +14263,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 8420000},
+                              'users_internet': 8118367},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/switzerland/page-data.json',
                    'name': 'Switzerland',
                    'stan': 'CHE',
@@ -14314,12 +14292,12 @@ WORLD_FB = \
                                           'conv_short': 'Syria',
                                           'local_long': 'Al Jumhuriyah al Arabiyah as Suriyah',
                                           'local_short': 'Suriyah'},
-                        'population': 20384316,
+                        'population': 21563800,
                         'ports': {'seaport': 'Baniyas, Latakia, Tartus'},
                         'region': ['Middle East'],
-                        'subs_broadband': 1548100,
-                        'subs_fixed': 2892515,
-                        'subs_mobile': 16660253,
+                        'subs_broadband': 1549356,
+                        'subs_fixed': 2857193,
+                        'subs_mobile': 19387600,
                         'telecom': { 'code': '963',
                                      'domestic': [ 'the number of fixed-line connections increased markedly prior to '
                                                    'the civil war in 2011 and now stands at over 16 per 100',
@@ -14359,7 +14337,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 8410000},
+                        'users_internet': 6300237},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/syria/page-data.json',
              'name': 'Syria',
              'stan': 'SYR',
@@ -14383,14 +14361,14 @@ WORLD_FB = \
                                            'conv_short': 'Taiwan',
                                            'local_long': 'none',
                                            'local_short': 'Taiwan'},
-                         'population': 23572052,
+                         'population': 23580712,
                          'ports': { 'container': 'Kaohsiung (10,428,634), Taichung (1,793,966), Taipei (1,620,392) '
                                                  '(2019)',
                                     'seaport': 'Keelung (Chi-lung), Kaohsiung, Hualian, Taichung'},
                          'region': ['Southeast Asia'],
-                         'subs_broadband': 5952411,
-                         'subs_fixed': 12750429,
-                         'subs_mobile': 29351150,
+                         'subs_broadband': 5831470,
+                         'subs_fixed': 12971900,
+                         'subs_mobile': 29291500,
                          'telecom': { 'code': '886',
                                       'domestic': [ 'fixed-line over 53 per 100 and mobile-cellular roughly 123 per '
                                                     '100',
@@ -14425,7 +14403,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 21450000},
+                         'users_internet': 21158750},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/taiwan/page-data.json',
               'name': 'Taiwan',
               'stan': 'TWN',
@@ -14450,10 +14428,10 @@ WORLD_FB = \
                                                'conv_short': 'Tajikistan',
                                                'local_long': 'Jumhurii Tojikiston',
                                                'local_short': 'Tojikiston'},
-                             'population': 8990874,
+                             'population': 9119347,
                              'region': ['Asia'],
                              'subs_broadband': 6000,
-                             'subs_fixed': 479000,
+                             'subs_fixed': 502000,
                              'subs_mobile': 9904000,
                              'telecom': { 'code': '992',
                                           'domestic': [ 'fixed line availability has not changed significantly since '
@@ -14503,7 +14481,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 3360000},
+                             'users_internet': 2050625},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tajikistan/page-data.json',
                   'name': 'Tajikistan',
                   'stan': 'TJK',
@@ -14543,12 +14521,12 @@ WORLD_FB = \
                                              'conv_short': 'Tanzania',
                                              'local_long': 'Jamhuri ya Muungano wa Tanzania',
                                              'local_short': 'Tanzania'},
-                           'population': 62092761,
+                           'population': 63852892,
                            'ports': {'seaport': 'Dar es Salaam, Zanzibar'},
                            'region': ['Africa'],
-                           'subs_broadband': 1084698,
+                           'subs_broadband': 1135608,
                            'subs_fixed': 72469,
-                           'subs_mobile': 51220233,
+                           'subs_mobile': 47685200,
                            'telecom': { 'code': '255',
                                         'domestic': [ 'fixed-line telephone network inadequate with less than 1 '
                                                       'connection per 100 persons',
@@ -14558,14 +14536,21 @@ WORLD_FB = \
                                                       'tropospheric scatter, and fiber-optic cable',
                                                       'some links being made digital',
                                                       2019],
-                                        'general': [ "Tanzania's telecom services are marginal and operating below "
-                                                     'capacity',
+                                        'general': [ "Tanzania's telecom services are being developed to reach parity "
+                                                     'with more advanced networks from neighboring countries such as '
+                                                     "Kenya and fierce competition exists amongst Tanzania's 5 major "
+                                                     'mobile network operators',
                                                      'one fixed-line operator with competition in mobile networks',
                                                      'high tariffs on telecom',
-                                                     'mobile use is growing with popularity of 3G/LTE services',
-                                                     'government allocated funds in 2019 to improve rural telecom '
-                                                     'infrastructure and work on national fiber backbone network '
-                                                     'connecting population around country',
+                                                     'mobile use remains popular, with the government subsidizing '
+                                                     'expansion of mobile networks into rural communities',
+                                                     'most mobile networks rely on older 2G and 3G technology with '
+                                                     '4G/LTE service available in urban centers',
+                                                     'the government is currently testing 5G technology and plans to '
+                                                     'begin rolling out 5G service in 2024',
+                                                     'the government continues to improve rural telecom infrastructure '
+                                                     'including work on a national fiber backbone network connecting '
+                                                     'the entire population',
                                                      2020],
                                         'intl': [ 'landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS '
                                                   'fiber-optic submarine cable system linking East Africa with the '
@@ -14587,7 +14572,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 15150000},
+                           'users_internet': 13141527},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tanzania/page-data.json',
                 'name': 'Tanzania',
                 'stan': 'TZA',
@@ -14609,13 +14594,13 @@ WORLD_FB = \
                                              'conv_short': 'Thailand',
                                              'local_long': 'Ratcha Anachak Thai',
                                              'local_short': 'Prathet Thai'},
-                           'population': 69480520,
+                           'population': 69648117,
                            'ports': { 'container': 'Laem Chabang (8,106,928) (2019)',
                                       'seaport': 'Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha'},
                            'region': ['Southeast Asia'],
-                           'subs_broadband': 11599513,
+                           'subs_broadband': 11478265,
                            'subs_fixed': 5003000,
-                           'subs_mobile': 116294000,
+                           'subs_mobile': 129614000,
                            'telecom': { 'code': '66',
                                         'domestic': [ 'fixed-line system provided by both a government-owned and '
                                                       'commercial provider',
@@ -14663,7 +14648,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 48590000},
+                           'users_internet': 54443983},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/thailand/page-data.json',
                 'name': 'Thailand',
                 'stan': 'THA',
@@ -14685,12 +14670,12 @@ WORLD_FB = \
                                                 'local_long': "Republika Demokratika Timor Lorosa'e [Tetum]; Republica "
                                                               'Democratica de Timor-Leste [Portuguese]',
                                                 'local_short': "Timor Lorosa'e [Tetum]; Timor-Leste [Portuguese]"},
-                              'population': 1413958,
+                              'population': 1445006,
                               'ports': {'seaport': 'Dili'},
                               'region': ['Southeast Asia'],
                               'subs_broadband': 75,
                               'subs_fixed': 2012,
-                              'subs_mobile': 1377915,
+                              'subs_mobile': 1425260,
                               'telecom': { 'code': '670',
                                            'domestic': [ 'system suffered significant damage during the violence '
                                                          'associated with independence',
@@ -14730,7 +14715,7 @@ WORLD_FB = \
                                                      'school from home became evident, and received some support from '
                                                      'governments',
                                                      0]},
-                              'users_internet': 599700},
+                              'users_internet': 382348},
                    'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/timor-leste/page-data.json',
                    'name': 'Timor-Leste',
                    'stan': 'TLS',
@@ -14751,12 +14736,12 @@ WORLD_FB = \
                                          'conv_short': 'Togo',
                                          'local_long': 'Republique Togolaise',
                                          'local_short': 'none'},
-                       'population': 8283189,
+                       'population': 8492333,
                        'ports': {'seaport': 'Kpeme, Lome'},
                        'region': ['Africa'],
                        'subs_broadband': 52706,
                        'subs_fixed': 46499,
-                       'subs_mobile': 6516510,
+                       'subs_mobile': 6239180,
                        'telecom': { 'code': '228',
                                     'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular nearly 79 '
                                                   'telephones per 100 persons with mobile-cellular use predominating',
@@ -14785,7 +14770,7 @@ WORLD_FB = \
                                               'the crucial nature of telecom services as a tool for work and school '
                                               'from home became evident, and received some support from governments',
                                               0]},
-                       'users_internet': 1990000},
+                       'users_internet': 1986897},
             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/togo/page-data.json',
             'name': 'Togo',
             'stan': 'TGO',
@@ -14837,7 +14822,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 818},
+                          'users_internet': 805},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tokelau/page-data.json',
                'name': 'Tokelau',
                'stan': 'TKL',
@@ -14858,11 +14843,11 @@ WORLD_FB = \
                                           'conv_short': 'Tonga',
                                           'local_long': "Pule'anga Fakatu'i 'o Tonga",
                                           'local_short': 'Tonga'},
-                        'population': 105780,
+                        'population': 105517,
                         'ports': {'seaport': "Nuku'alofa, Neiafu, Pangai"},
                         'region': ['Oceania'],
-                        'subs_broadband': 3703,
-                        'subs_fixed': 6637,
+                        'subs_broadband': 5000,
+                        'subs_fixed': 7000,
                         'subs_mobile': 62104,
                         'telecom': { 'code': '676',
                                      'domestic': [ 'fixed-line 6 per 100 persons and mobile-cellular teledensity 59 '
@@ -14897,7 +14882,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 43800},
+                        'users_internet': 42844},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tonga/page-data.json',
              'name': 'Tonga',
              'stan': 'TON',
@@ -14918,12 +14903,12 @@ WORLD_FB = \
                                       'coord': ['11 00 N, 61 00 W'],
                                       'country_name': { 'conv_long': 'Republic of Trinidad and Tobago',
                                                         'conv_short': 'Trinidad and Tobago'},
-                                      'population': 1221047,
+                                      'population': 1405646,
                                       'ports': {'seaport': 'Point Fortin, Point Lisas, Port of Spain, Scarborough'},
                                       'region': ['Central America and the Caribbean'],
-                                      'subs_broadband': 375990,
+                                      'subs_broadband': 376771,
                                       'subs_fixed': 323905,
-                                      'subs_mobile': 1987996,
+                                      'subs_mobile': 2163730,
                                       'telecom': { 'code': '1868',
                                                    'domestic': [ 'fixed-line over 23 per 100 persons and '
                                                                  'mobile-cellular teledensity 142 per 100 persons',
@@ -14962,7 +14947,7 @@ WORLD_FB = \
                                                              'work and school from home became evident, and received '
                                                              'some support from governments',
                                                              0]},
-                                      'users_internet': 860000},
+                                      'users_internet': 1074126},
                            'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/trinidad-and-tobago/page-data.json',
                            'name': 'Trinidad and Tobago',
                            'stan': 'TTO',
@@ -14994,12 +14979,12 @@ WORLD_FB = \
                                             'conv_short': 'Tunisia',
                                             'local_long': 'Al Jumhuriyah at Tunisiyah',
                                             'local_short': 'Tunis'},
-                          'population': 11811335,
+                          'population': 11896972,
                           'ports': {'seaport': 'Bizerte, Gabes, Rades, Sfax, Skhira'},
                           'region': ['Africa'],
-                          'subs_broadband': 1334551,
+                          'subs_broadband': 1334059,
                           'subs_fixed': 1533273,
-                          'subs_mobile': 14852857,
+                          'subs_mobile': 14771000,
                           'telecom': { 'code': '216',
                                        'domestic': [ 'in an effort to jumpstart expansion of the fixed-line network, '
                                                      'the government awarded a concession to build and operate a VSAT '
@@ -15008,26 +14993,29 @@ WORLD_FB = \
                                                      'competition between several mobile-cellular service providers '
                                                      'has resulted in lower activation and usage charges and a surge '
                                                      'in subscribership',
-                                                     'fixed-line is nearly 13 per 100 and mobile-cellular teledensity '
-                                                     'has reached about 126 telephones per 100 persons',
-                                                     2020],
+                                                     'fixed-line is nearly 14.1 per 100 and mobile-cellular '
+                                                     'teledensity has reached about 132 telephones per 100 persons',
+                                                     2022],
                                        'general': [ 'Tunisia has one of the most sophisticated telecom infrastructures '
                                                     'in North Africa',
                                                     'penetration rates for mobile and Internet services are among the '
                                                     'highest in the region',
                                                     'government program of regulation and infrastructure projects aims '
                                                     'to improve Internet connectivity to underserved areas',
-                                                    'operators built extensive LTE infrastructure in 2019, and are '
-                                                    'developing 5G networks and services',
-                                                    'Chinese company Huawei invested in LTE network',
-                                                    'operator planning nano-satellite launches in 2023',
+                                                    'operators built extensive LTE infrastructure in 2019, and '
+                                                    'continue to discuss plans for future 5G networks and services',
+                                                    "People's Republic of China (PRC) company Huawei sold equipment to "
+                                                    "operators for Tunisia's LTE networks",
+                                                    'one operator has signed an agreement to pursue nano-satellite '
+                                                    'launches in 2023',
                                                     'Internet censorship abolished, though concerns of government '
                                                     'surveillance remain',
                                                     'legislation passed in 2017 supporting e-commerce and active '
                                                     'e-government',
-                                                    'importer of integrated circuits and broadcasting equipment from '
-                                                    'China',
-                                                    2020],
+                                                    'importer of some integrated circuits and broadcasting equipment '
+                                                    '(including radio, television, and communications transmitters) '
+                                                    'from the PRC',
+                                                    2022],
                                        'intl': [ 'landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and '
                                                  'Trapani-Kelibia submarine cable systems that provides links to '
                                                  'Europe, Africa, the Middle East, Asia and Southeast Asia',
@@ -15049,7 +15037,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 7920000},
+                          'users_internet': 8509405},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tunisia/page-data.json',
                'name': 'Tunisia',
                'stan': 'TUN',
@@ -15078,7 +15066,7 @@ WORLD_FB = \
                                            'conv_short': 'Turkey',
                                            'local_long': 'Turkiye Cumhuriyeti',
                                            'local_short': 'Turkiye'},
-                         'population': 82482383,
+                         'population': 83047706,
                          'ports': { 'container': 'Ambarli (3,104,882), Mersin (Icel) (1,854,312), Izmet (1,715,193) '
                                                  '(2019)',
                                     'seaport': 'Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin '
@@ -15086,7 +15074,7 @@ WORLD_FB = \
                          'region': ['Middle East'],
                          'subs_broadband': 16734853,
                          'subs_fixed': 12448604,
-                         'subs_mobile': 82128104,
+                         'subs_mobile': 80790900,
                          'telecom': { 'code': '90',
                                       'domestic': [ 'additional digital exchanges are permitting a rapid increase in '
                                                     'subscribers',
@@ -15128,7 +15116,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 65800000},
+                         'users_internet': 65784472},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/turkey/page-data.json',
               'name': 'Turkey',
               'stan': 'TUR',
@@ -15155,11 +15143,11 @@ WORLD_FB = \
                                                  'conv_short': 'Turkmenistan',
                                                  'local_long': 'none',
                                                  'local_short': 'Turkmenistan'},
-                               'population': 5579889,
+                               'population': 5636011,
                                'ports': {'seaport': 'Caspian Sea - Turkmenbasy'},
                                'region': ['Asia'],
-                               'subs_broadband': 5000,
-                               'subs_fixed': 682000,
+                               'subs_broadband': 10000,
+                               'subs_fixed': 717000,
                                'subs_mobile': 9377000,
                                'telecom': { 'code': '993',
                                             'domestic': [ 'fixed-line nearly 12 per 100 and mobile-cellular '
@@ -15203,7 +15191,7 @@ WORLD_FB = \
                                                       'school from home became evident, and received some support from '
                                                       'governments',
                                                       0]},
-                               'users_internet': 2009999},
+                               'users_internet': 1247940},
                     'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/turkmenistan/page-data.json',
                     'name': 'Turkmenistan',
                     'stan': 'TKM',
@@ -15224,7 +15212,7 @@ WORLD_FB = \
                                            'coord': ['21 45 N, 71 35 W'],
                                            'country_name': { 'conv_long': 'none',
                                                              'conv_short': 'Turks and Caicos Islands'},
-                                           'population': 57196,
+                                           'population': 58286,
                                            'ports': {'seaport': 'Cockburn Harbour, Grand Turk, Providenciales'},
                                            'region': ['Central America and the Caribbean'],
                                            'subs_fixed': 4000,
@@ -15266,8 +15254,7 @@ WORLD_FB = \
                                                                   'the crucial nature of telecom services as a tool '
                                                                   'for work and school from home became evident, and '
                                                                   'received some support from governments',
-                                                                  0]},
-                                           'users_internet': 31000},
+                                                                  0]}},
                                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/turks-and-caicos-islands/page-data.json',
                                 'name': 'Turks and Caicos Islands',
                                 'stan': 'TCA',
@@ -15291,7 +15278,7 @@ WORLD_FB = \
                                            'conv_short': 'Tuvalu',
                                            'local_long': 'none',
                                            'local_short': 'Tuvalu'},
-                         'population': 11448,
+                         'population': 11544,
                          'ports': {'seaport': 'Funafuti'},
                          'region': ['Oceania'],
                          'subs_broadband': 450,
@@ -15325,7 +15312,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 5849},
+                         'users_internet': 5711},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/tuvalu/page-data.json',
               'name': 'Tuvalu',
               'stan': 'TUV',
@@ -15348,12 +15335,12 @@ WORLD_FB = \
                          'coastline': 0,
                          'coord': ['1 00 N, 32 00 E'],
                          'country_name': {'conv_long': 'Republic of Uganda', 'conv_short': 'Uganda'},
-                         'population': 44712143,
+                         'population': 46205893,
                          'ports': {},
                          'region': ['Africa'],
-                         'subs_broadband': 34596,
+                         'subs_broadband': 58594,
                          'subs_fixed': 90774,
-                         'subs_mobile': 27688987,
+                         'subs_mobile': 25395500,
                          'telecom': { 'code': '256',
                                       'domestic': [ 'fixed-line less than 1 per 100 and mobile cellular systems '
                                                     'teledensity about 61 per 100 persons',
@@ -15390,7 +15377,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 12160000},
+                         'users_internet': 9148200},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/uganda/page-data.json',
               'name': 'Uganda',
               'stan': 'UGA',
@@ -15422,12 +15409,12 @@ WORLD_FB = \
                                             'conv_short': 'Ukraine',
                                             'local_long': 'none',
                                             'local_short': 'Ukraina'},
-                          'population': 43745640,
+                          'population': 43528136,
                           'ports': {'seaport': 'Feodosiia, Chornomorsk, Mariupol, Mykolaiv, Odesa, Yuzhne'},
                           'region': ['AsiaEurope'],
                           'subs_broadband': 7769401,
                           'subs_fixed': 3314263,
-                          'subs_mobile': 53977690,
+                          'subs_mobile': 54842900,
                           'telecom': { 'code': '380',
                                        'domestic': [ 'fixed-line teledensity is nearly 8 per 100',
                                                      "the mobile-cellular telephone system's expansion has slowed, "
@@ -15474,7 +15461,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 29470000},
+                          'users_internet': 33101020},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/ukraine/page-data.json',
                'name': 'Ukraine',
                'stan': 'UKR',
@@ -15497,7 +15484,7 @@ WORLD_FB = \
                                                          'conv_short': 'none',
                                                          'local_long': 'Al Imarat al Arabiyah al Muttahidah',
                                                          'local_short': 'none'},
-                                       'population': 9856612,
+                                       'population': 9915803,
                                        'ports': { 'container': 'Dubai Port (14,111,000) (2019)',
                                                   'seaport': "Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan "
                                                              '(Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), '
@@ -15505,7 +15492,7 @@ WORLD_FB = \
                                        'region': ['Middle East'],
                                        'subs_broadband': 3245123,
                                        'subs_fixed': 2380866,
-                                       'subs_mobile': 18374332,
+                                       'subs_mobile': 19602800,
                                        'telecom': { 'code': '971',
                                                     'domestic': [ 'microwave radio relay, fiber-optic and coaxial '
                                                                   'cable',
@@ -15565,7 +15552,7 @@ WORLD_FB = \
                                                               'work and school from home became evident, and received '
                                                               'some support from governments',
                                                               0]},
-                                       'users_internet': 9940000},
+                                       'users_internet': 9890400},
                             'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/united-arab-emirates/page-data.json',
                             'name': 'United Arab Emirates',
                             'stan': 'ARE',
@@ -15593,16 +15580,16 @@ WORLD_FB = \
                                                                 'note - the island of Great Britain includes England, '
                                                                 'Scotland, and Wales',
                                                    'conv_short': 'United Kingdom'},
-                                 'population': 67081000,
+                                 'population': 67791400,
                                  'ports': { 'container': 'Felixstowe (3,584,000), London (2,790,000), Southampton '
                                                          '(1,924,847) (2019)',
                                             'seaport': 'Dover, Felixstowe, Immingham, Liverpool, London, Southampton, '
                                                        'Teesport (England); Forth Ports (Scotland); Milford Haven '
                                                        '(Wales)'},
                                  'region': ['Europe'],
-                                 'subs_broadband': 27490258,
-                                 'subs_fixed': 32078000,
-                                 'subs_mobile': 79007000,
+                                 'subs_broadband': 27330297,
+                                 'subs_fixed': 32037000,
+                                 'subs_mobile': 80967000,
                                  'telecom': { 'code': '44',
                                               'domestic': [ 'equal mix of buried cables, microwave radio relay, and '
                                                             'fiber-optic systems',
@@ -15657,7 +15644,7 @@ WORLD_FB = \
                                                         'school from home became evident, and received some support '
                                                         'from governments',
                                                         0]},
-                                 'users_internet': 65319999},
+                                 'users_internet': 63854528},
                       'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/united-kingdom/page-data.json',
                       'name': 'United Kingdom',
                       'stan': 'GBR',
@@ -15682,7 +15669,7 @@ WORLD_FB = \
                                 'coord': ['38 00 N, 97 00 W'],
                                 'country_name': { 'conv_long': 'United States of America',
                                                   'conv_short': 'United States'},
-                                'population': 334998398,
+                                'population': 337341954,
                                 'ports': { 'container': 'Charleston (2,436,185), Hampton Roads (2,937,962), Houston '
                                                         '(2,987,291), Long Beach (7,632,032), Los Angeles (9,337,632), '
                                                         'New York/New Jersey (7,471,131), Oakland (2,500,431), '
@@ -15692,8 +15679,8 @@ WORLD_FB = \
                                                       'Beach, Los Angeles, Oakland, Seattle/Tacoma<br /><em>Gulf of '
                                                       'Mexico:</em> Houston'},
                                 'region': ['North America'],
-                                'subs_broadband': 120531000,
-                                'subs_fixed': 103052000,
+                                'subs_broadband': 121176000,
+                                'subs_fixed': 101526000,
                                 'subs_mobile': 442457000,
                                 'telecom': { 'code': '1',
                                              'domestic': [ 'a large system of fiber-optic cable, microwave radio '
@@ -15764,7 +15751,7 @@ WORLD_FB = \
                                                        'school from home became evident, and received some support '
                                                        'from governments',
                                                        0]},
-                                'users_internet': 298800000},
+                                'users_internet': 301665983},
                      'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/united-states/page-data.json',
                      'name': 'United States',
                      'stan': 'USA',
@@ -15798,12 +15785,12 @@ WORLD_FB = \
                                             'conv_short': 'Uruguay',
                                             'local_long': 'Republica Oriental del Uruguay',
                                             'local_short': 'Uruguay'},
-                          'population': 3398239,
+                          'population': 3407213,
                           'ports': {'seaport': 'Montevideo'},
                           'region': ['South America'],
-                          'subs_broadband': 1012410,
-                          'subs_fixed': 1165373,
-                          'subs_mobile': 4779787,
+                          'subs_broadband': 1063701,
+                          'subs_fixed': 1224600,
+                          'subs_mobile': 4779790,
                           'telecom': { 'code': '598',
                                        'domestic': [ 'most modern facilities concentrated in Montevideo',
                                                      'nationwide microwave radio relay network',
@@ -15845,7 +15832,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 2690000},
+                          'users_internet': 2987405},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/uruguay/page-data.json',
                'name': 'Uruguay',
                'stan': 'URY',
@@ -15873,7 +15860,7 @@ WORLD_FB = \
                                                'conv_short': 'Uzbekistan',
                                                'local_long': "O'zbekiston Respublikasi",
                                                'local_short': "O'zbekiston"},
-                             'population': 30842796,
+                             'population': 31104937,
                              'ports': {},
                              'region': ['Asia'],
                              'subs_broadband': 4820009,
@@ -15934,7 +15921,7 @@ WORLD_FB = \
                                                     'school from home became evident, and received some support from '
                                                     'governments',
                                                     0]},
-                             'users_internet': 18600000},
+                             'users_internet': 24304756},
                   'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/uzbekistan/page-data.json',
                   'name': 'Uzbekistan',
                   'stan': 'UZB',
@@ -15960,12 +15947,12 @@ WORLD_FB = \
                                             'conv_short': 'Vanuatu',
                                             'local_long': 'Ripablik blong Vanuatu',
                                             'local_short': 'Vanuatu'},
-                          'population': 303009,
+                          'population': 308043,
                           'ports': {'seaport': 'Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila'},
                           'region': ['Oceania'],
                           'subs_broadband': 2785,
                           'subs_fixed': 3472,
-                          'subs_mobile': 246232,
+                          'subs_mobile': 265219,
                           'telecom': { 'code': '678',
                                        'domestic': [ 'fixed-line teledensity a bit over 1 per 100 and mobile-cellular '
                                                      'just over 80 per 100',
@@ -16001,7 +15988,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 104100},
+                          'users_internet': 77969},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/vanuatu/page-data.json',
                'name': 'Vanuatu',
                'stan': 'VUT',
@@ -16022,12 +16009,12 @@ WORLD_FB = \
                                               'conv_short': 'Venezuela',
                                               'local_long': 'Republica Bolivariana de Venezuela',
                                               'local_short': 'Venezuela'},
-                            'population': 29069153,
+                            'population': 29789730,
                             'ports': {'seaport': 'La Guaira, Maracaibo, Puerto Cabello, Punta Cardon'},
                             'region': ['South America'],
-                            'subs_broadband': 2407187,
-                            'subs_fixed': 5276274,
-                            'subs_mobile': 18028388,
+                            'subs_broadband': 2561556,
+                            'subs_fixed': 5251182,
+                            'subs_mobile': 13476300,
                             'telecom': { 'code': '58',
                                          'domestic': [ 'two domestic satellite systems with three earth stations',
                                                        'recent substantial improvement in telephone service in rural '
@@ -16037,8 +16024,8 @@ WORLD_FB = \
                                                        'fixed-line over 18 per 100 and mobile-cellular telephone '
                                                        'subscribership about 63 per 100 persons',
                                                        2020],
-                                         'general': [ 'telecom industry struggling due to political upheaval in the '
-                                                      'country',
+                                         'general': [ 'the telecom industry is struggling due to political upheaval in '
+                                                      'the country',
                                                       'poor quality of service in many areas of the country due to '
                                                       "decrepit state of fixed-line network and operators' inability "
                                                       'to pay for equipment from foreign vendors',
@@ -16052,11 +16039,11 @@ WORLD_FB = \
                                                       '2019',
                                                       'national satellite drifted off course and became '
                                                       'non-operational',
-                                                      'American company closed a telecom service due to US sanctions '
-                                                      'and a Chilean company later acquired the service',
+                                                      'an American company closed a telecom service due to US '
+                                                      'sanctions and a Chilean company later acquired the service',
                                                       'Internet freedom deteriorating amid crisis, with frequent '
                                                       'disruptions to service and monitoring',
-                                                      'importer of broadcasting equipment from the USA',
+                                                      'importer of broadcasting equipment from the US',
                                                       2020],
                                          'intl': [ 'landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, '
                                                    'GlobeNet, ALBA-1 and Americas II submarine cable system providing '
@@ -16078,7 +16065,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 20570000},
+                            'users_internet': 20531397},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/venezuela/page-data.json',
                  'name': 'Venezuela',
                  'stan': 'VEN',
@@ -16099,14 +16086,14 @@ WORLD_FB = \
                                             'conv_short': 'Vietnam',
                                             'local_long': 'Cong Hoa Xa Hoi Chu Nghia Viet Nam',
                                             'local_short': 'Viet Nam'},
-                          'population': 102789598,
+                          'population': 103808319,
                           'ports': { 'container': 'Saigon (7,220,377), Cai Mep (3,742,384), Haiphong (5,133,150) '
                                                   '(2019)',
                                      'seaport': 'Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon'},
                           'region': ['Southeast Asia'],
                           'subs_broadband': 16699249,
                           'subs_fixed': 3205775,
-                          'subs_mobile': 138934626,
+                          'subs_mobile': 136230000,
                           'telecom': { 'code': '84',
                                        'domestic': [ 'all provincial exchanges are digitalized and connected to Hanoi, '
                                                      'Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave '
@@ -16146,7 +16133,7 @@ WORLD_FB = \
                                                  'the crucial nature of telecom services as a tool for work and school '
                                                  'from home became evident, and received some support from governments',
                                                  0]},
-                          'users_internet': 68720000},
+                          'users_internet': 68137008},
                'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/vietnam/page-data.json',
                'name': 'Vietnam',
                'stan': 'VNM',
@@ -16166,11 +16153,12 @@ WORLD_FB = \
                                  'coastline': 188,
                                  'coord': ['18 20 N, 64 50 W'],
                                  'country_name': {'conv_long': 'none', 'conv_short': 'Virgin Islands'},
-                                 'population': 105870,
+                                 'population': 105413,
                                  'ports': { 'seaport': 'Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, '
                                                        'Limetree Bay'},
                                  'region': ['Central America and the Caribbean'],
                                  'subs_fixed': 76000,
+                                 'subs_mobile': 59121,
                                  'telecom': { 'code': '1340',
                                               'domestic': [ 'full range of services available',
                                                             'fixed-line roughly 72 per 100 persons, no recent '
@@ -16207,7 +16195,7 @@ WORLD_FB = \
                                                         'school from home became evident, and received some support '
                                                         'from governments',
                                                         0]},
-                                 'users_internet': 67200},
+                                 'users_internet': 68268},
                       'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/virgin-islands/page-data.json',
                       'name': 'Virgin Islands',
                       'stan': 'VIR',
@@ -16280,7 +16268,7 @@ WORLD_FB = \
                                                       'conv_short': 'Wallis and Futuna',
                                                       'local_long': 'Territoire des Iles Wallis et Futuna',
                                                       'local_short': 'Wallis et Futuna'},
-                                    'population': 15851,
+                                    'population': 15891,
                                     'ports': {'seaport': 'Leava, Mata-Utu'},
                                     'region': ['Oceania'],
                                     'subs_fixed': 3132,
@@ -16320,7 +16308,7 @@ WORLD_FB = \
                                                            'and school from home became evident, and received some '
                                                            'support from governments',
                                                            0]},
-                                    'users_internet': 5500},
+                                    'users_internet': 1029},
                          'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/wallis-and-futuna/page-data.json',
                          'name': 'Wallis and Futuna',
                          'stan': 'WLF',
@@ -16343,11 +16331,11 @@ WORLD_FB = \
                             'coastline': 0,
                             'coord': ['32 00 N, 35 15 E'],
                             'country_name': {'conv_long': 'none', 'conv_short': 'West Bank'},
-                            'population': 2949246,
+                            'population': 3000021,
                             'region': ['Middle East'],
                             'subs_broadband': 373050,
                             'subs_fixed': 466283,
-                            'subs_mobile': 4268,
+                            'subs_mobile': 4274119,
                             'telecom': { 'domestic': [ 'Israeli company BEZEK and the Palestinian company PALTEL are '
                                                        'responsible for fixed-line services',
                                                        'two Palestinian cellular providers, JAWWAL and WATANIYA '
@@ -16374,7 +16362,7 @@ WORLD_FB = \
                                                    'school from home became evident, and received some support from '
                                                    'governments',
                                                    0]},
-                            'users_internet': 2673000},
+                            'users_internet': 3602452},
                  'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/west-bank/page-data.json',
                  'name': 'West Bank',
                  'stan': 'PSE',
@@ -16420,9 +16408,9 @@ WORLD_FB = \
                         'population': 7772850805,
                         'ports': {},
                         'region': ['Physical Map of the World'],
-                        'subs_broadband': 1132215546,
-                        'subs_fixed': 917318375,
-                        'subs_mobile': 7876696447,
+                        'subs_broadband': 1,
+                        'subs_fixed': 901317598,
+                        'subs_mobile': 7,
                         'telecom': { 'general': [ 'Information, Communications, and Technology (ICT) is tied to '
                                                   'economic growth',
                                                   'business, trade, and foreign direct investment are all based on '
@@ -16435,8 +16423,8 @@ WORLD_FB = \
                                                   'subscriptions, rising from 3.3 billion in five years, and over 1.1 '
                                                   'billion fixed broadband subscribers, up from 830 million in 2015',
                                                   0],
-                                     'intl': [ 'economically, telecommunications has been and continues to be one of '
-                                               "the world's fastest growing markets",
+                                     'intl': [ '<em>economic impact</em> - telecommunications has been and continues '
+                                               "to be one of the world's fastest growing markets",
                                                'countries and firms are transitioning from analog to digital '
                                                'broadcasting, increasing automation capabilities and applications, '
                                                'adopting more high-definition technologies, and converting to digital '
@@ -16455,9 +16443,12 @@ WORLD_FB = \
                                                'processing equipment exports, $208 billion and $81.5 billion '
                                                'respectively and 2) the United States, conversely, receives the most '
                                                'of both commodities, importing $81.1 billion in broadcasting equipment '
-                                               'and $38.3 billion in data processing equipment in 2019',
+                                               'and $38.3 billion in data processing equipment in 2019<br /><br '
+                                               '/><em>infrastructure</em> - as of 2021, 428 submarine cables have been '
+                                               'laid worldwide with a further 36 planned',
+                                               'the undersea cables connect to 1,245 landing stations',
                                                0]},
-                        'users_internet': 3},
+                        'users_internet': 4},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/world/page-data.json',
              'name': 'World',
              'stan': '',
@@ -16483,12 +16474,12 @@ WORLD_FB = \
                                           'conv_short': 'Yemen',
                                           'local_long': 'Al Jumhuriyah al Yamaniyah',
                                           'local_short': 'Al Yaman'},
-                        'population': 30399243,
+                        'population': 30984689,
                         'ports': {'seaport': 'Aden, Al Hudaydah, Al Mukalla'},
                         'region': ['Middle East'],
-                        'subs_broadband': 386330,
-                        'subs_fixed': 1190000,
-                        'subs_mobile': 15297789,
+                        'subs_broadband': 391000,
+                        'subs_fixed': 1240000,
+                        'subs_mobile': 15357900,
                         'telecom': { 'code': '967',
                                      'domestic': [ 'the national network consists of microwave radio relay, cable, '
                                                    'tropospheric scatter, GSM and CDMA mobile-cellular telephone '
@@ -16527,7 +16518,7 @@ WORLD_FB = \
                                                'the crucial nature of telecom services as a tool for work and school '
                                                'from home became evident, and received some support from governments',
                                                0]},
-                        'users_internet': 8060000},
+                        'users_internet': 7873719},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/yemen/page-data.json',
              'name': 'Yemen',
              'stan': 'YEM',
@@ -16567,12 +16558,12 @@ WORLD_FB = \
                          'coastline': 0,
                          'coord': ['15 00 S, 30 00 E'],
                          'country_name': {'conv_long': 'Republic of Zambia', 'conv_short': 'Zambia'},
-                         'population': 19077816,
+                         'population': 19642123,
                          'ports': {},
                          'region': ['Africa'],
                          'subs_broadband': 82317,
                          'subs_fixed': 71844,
-                         'subs_mobile': 19104208,
+                         'subs_mobile': 17220600,
                          'telecom': { 'code': '260',
                                       'domestic': [ 'fiber optic connections are available between most larger towns '
                                                     'and cities with microwave radio relays serving more rural areas',
@@ -16609,7 +16600,7 @@ WORLD_FB = \
                                                 'the crucial nature of telecom services as a tool for work and school '
                                                 'from home became evident, and received some support from governments',
                                                 0]},
-                         'users_internet': 5480000},
+                         'users_internet': 3676791},
               'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/zambia/page-data.json',
               'name': 'Zambia',
               'stan': 'ZMB',
@@ -16631,12 +16622,12 @@ WORLD_FB = \
                            'coastline': 0,
                            'coord': ['20 00 S, 30 00 E'],
                            'country_name': {'conv_long': 'Republic of Zimbabwe', 'conv_short': 'Zimbabwe'},
-                           'population': 14829988,
+                           'population': 15121004,
                            'ports': {},
                            'region': ['Africa'],
                            'subs_broadband': 203461,
                            'subs_fixed': 252067,
-                           'subs_mobile': 13191708,
+                           'subs_mobile': 13195900,
                            'telecom': { 'code': '263',
                                         'domestic': [ 'consists of microwave radio relay links, open-wire lines, '
                                                       'radiotelephone communication stations, fixed wireless local '
@@ -16686,7 +16677,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 5010000},
+                           'users_internet': 4310249},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/zimbabwe/page-data.json',
                 'name': 'Zimbabwe',
                 'stan': 'ZWE',

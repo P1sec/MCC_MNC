@@ -282,7 +282,6 @@ WIKIP_MSISDN = \
              'International Networks (country code)',
              'https://en.wikipedia.org/wiki/International_Networks_(country_code)')],
   '886': [('TW', 'Taiwan', 'https://en.wikipedia.org/wiki/Taiwan')],
-  '888': [('XD', 'OCHA', 'https://en.wikipedia.org/wiki/OCHA')],
   '90': [ ('CT', 'Northern Cyprus', 'https://en.wikipedia.org/wiki/Northern_Cyprus'),
           ('TR', 'Turkey', 'https://en.wikipedia.org/wiki/Turkey')],
   '91': [('IN', 'India', 'https://en.wikipedia.org/wiki/India')],

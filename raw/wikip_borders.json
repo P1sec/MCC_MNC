@@ -403,15 +403,16 @@
       "neigh_num": 6
     },
     {
-      "border_len_km": 8893,
+      "border_len_km": 8894,
       "border_len_mi": 5526,
       "country_name": "Canada",
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Canada",
       "neigh": [
+        "Greenland",
         "United States"
       ],
-      "neigh_num": 1
+      "neigh_num": 2
     },
     {
       "border_len_km": 0,
@@ -607,6 +608,31 @@
       "neigh_num": 1
     },
     {
+      "border_len_km": 69,
+      "border_len_mi": 43,
+      "country_name": "Denmark",
+      "country_sub": [
+        [
+          "Denmark",
+          "https://en.wikipedia.org/wiki/Denmark"
+        ],
+        [
+          "Faroe Islands",
+          "https://en.wikipedia.org/wiki/Faroe_Islands"
+        ],
+        [
+          "Greenland",
+          "https://en.wikipedia.org/wiki/Greenland"
+        ]
+      ],
+      "country_url": "https://en.wikipedia.org/wiki/Denmark",
+      "neigh": [
+        "Canada",
+        "Germany"
+      ],
+      "neigh_num": 2
+    },
+    {
       "border_len_km": 528,
       "border_len_mi": 328,
       "country_name": "Djibouti",
@@ -785,24 +811,6 @@
       "neigh_num": 3
     },
     {
-      "border_len_km": 2889,
-      "border_len_mi": 1795,
-      "country_name": "France",
-      "country_sub": [],
-      "country_url": "https://en.wikipedia.org/wiki/France",
-      "neigh": [
-        "Andorra",
-        "Belgium",
-        "Germany",
-        "Italy",
-        "Luxembourg",
-        "Monaco",
-        "Spain",
-        "Switzerland"
-      ],
-      "neigh_num": 8
-    },
-    {
       "border_len_km": 4082,
       "border_len_mi": 2536,
       "country_name": "France",
@@ -838,6 +846,10 @@
         [
           "Mayotte",
           "https://en.wikipedia.org/wiki/Mayotte"
+        ],
+        [
+          "Metropolitan France",
+          "https://en.wikipedia.org/wiki/Metropolitan_France"
         ],
         [
           "New Caledonia",
@@ -1575,6 +1587,24 @@
       "neigh_num": 0
     },
     {
+      "border_len_km": 2889,
+      "border_len_mi": 1795,
+      "country_name": "Metropolitan France",
+      "country_sub": [],
+      "country_url": "https://en.wikipedia.org/wiki/Metropolitan_France",
+      "neigh": [
+        "Andorra",
+        "Belgium",
+        "Germany",
+        "Italy",
+        "Luxembourg",
+        "Monaco",
+        "Spain",
+        "Switzerland"
+      ],
+      "neigh_num": 8
+    },
+    {
       "border_len_km": 4353,
       "border_len_mi": 2705,
       "country_name": "Mexico",
@@ -1713,6 +1743,18 @@
       "neigh": [
         "India",
         "People's Republic of China"
+      ],
+      "neigh_num": 2
+    },
+    {
+      "border_len_km": 1027,
+      "border_len_mi": 638,
+      "country_name": "Netherlands",
+      "country_sub": [],
+      "country_url": "https://en.wikipedia.org/wiki/Netherlands",
+      "neigh": [
+        "Belgium",
+        "Germany"
       ],
       "neigh_num": 2
     },
@@ -1992,26 +2034,22 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Russia",
       "neigh": [
-        "Abkhazia",
         "Azerbaijan",
         "Belarus",
-        "Donetsk People's Republic",
         "Estonia",
         "Finland",
         "Georgia",
         "Kazakhstan",
         "Latvia",
         "Lithuania",
-        "Luhansk People's Republic",
         "Mongolia",
         "North Korea",
         "Norway",
         "People's Republic of China",
         "Poland",
-        "South Ossetia",
         "Ukraine"
       ],
-      "neigh_num": 16
+      "neigh_num": 14
     },
     {
       "border_len_km": 893,

@@ -63,7 +63,7 @@
           "coord": [
             "33 00 N, 65 00 E"
           ],
-          "popul": 37466414,
+          "popul": 38346720,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:AF",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/afghanistan"
@@ -76,22 +76,16 @@
           "the islamic republic of afghanistan"
         ],
         "tel": {
-          "<p style=\"background": [
-            "white",
-            "margin: 0in 0in 6.4pt 0in",
-            "\">",
-            0
-          ],
           "code": "93",
           "domestic": [
-            "before the Taliban takeover in August 2021, less than 1 per 100 for fixed-line teledensity",
+            "before 15 August 2021, less than 1 per 100 for fixed-line teledensity",
             "59 per 100 for mobile-cellular",
             "an increasing number of Afghans utilize mobile-cellular phone networks",
             2021
           ],
           "general": [
-            "before the Taliban takeover in August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population",
-            "due to mountainous geography, country relies on its mobile network",
+            "before 15 August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population",
+            "due to mountainous geography, Afghanistan relies on its mobile network",
             "mobile broadband penetration growing, but is still low compared to other countries in Asia",
             "operator launched LTE in Kabul",
             "World Bank and other donors support development of a nationwide fiber backbone",
@@ -107,9 +101,9 @@
           ],
           "subs": {
             "bb": 26570,
-            "fix": 134636,
-            "internet": 8640000,
-            "mob": 22580071
+            "fix": 145787,
+            "internet": 7007101,
+            "mob": 22678024
           },
           "tld": ".af",
           "url_tld": "https://en.wikipedia.org/wiki/.af"
@@ -187,7 +181,7 @@
           "coord": [
             "41 00 N, 20 00 E"
           ],
-          "popul": 3088385,
+          "popul": 3095344,
           "ports": {
             "seaport": "Durres, Sarande, Shengjin, Vlore"
           },
@@ -238,7 +232,7 @@
           "subs": {
             "bb": 508937,
             "fix": 223469,
-            "internet": 2000000,
+            "internet": 2043251,
             "mob": 2618880
           },
           "tld": ".al",
@@ -292,7 +286,7 @@
           "coord": [
             "28 00 N, 3 00 E"
           ],
-          "popul": 43576691,
+          "popul": 44178884,
           "ports": {
             "seaport": "Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda"
           },
@@ -344,7 +338,7 @@
           "subs": {
             "bb": 3790459,
             "fix": 4784306,
-            "internet": 26350000,
+            "internet": 27626157,
             "mob": 45555673
           },
           "tld": ".dz",
@@ -393,7 +387,7 @@
           "coord": [
             "14 20 S, 170 00 W"
           ],
-          "popul": 46366,
+          "popul": 45443,
           "ports": {
             "seaport": "Pago Pago"
           },
@@ -434,7 +428,8 @@
           ],
           "subs": {
             "fix": 10000,
-            "internet": 22200
+            "internet": 17147,
+            "mob": 2250
           },
           "tld": ".as",
           "url_tld": "https://en.wikipedia.org/wiki/.as"
@@ -481,7 +476,7 @@
           "coord": [
             "42 30 N, 1 30 E"
           ],
-          "popul": 85645,
+          "popul": 85560,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:AD",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/andorra"
@@ -518,10 +513,10 @@
             0
           ],
           "subs": {
-            "bb": 36358,
-            "fix": 39657,
-            "internet": 70800,
-            "mob": 87909
+            "bb": 37000,
+            "fix": 40000,
+            "internet": 71084,
+            "mob": 94000
           },
           "tld": ".ad",
           "url_tld": "https://en.wikipedia.org/wiki/.ad"
@@ -569,7 +564,7 @@
           "coord": [
             "12 30 S, 18 30 E"
           ],
-          "popul": 33642646,
+          "popul": 34795287,
           "ports": {
             "seaport": "Cabinda, Lobito, Luanda, Namibe"
           },
@@ -618,7 +613,7 @@
           "subs": {
             "bb": 230610,
             "fix": 119164,
-            "internet": 10360000,
+            "internet": 11831857,
             "mob": 14645050
           },
           "tld": ".ao",
@@ -665,7 +660,7 @@
           "coord": [
             "18 15 N, 63 10 W"
           ],
-          "popul": 18403,
+          "popul": 18741,
           "ports": {
             "seaport": "Blowing Point, Road Bay"
           },
@@ -705,8 +700,9 @@
             0
           ],
           "subs": {
+            "bb": 5000,
             "fix": 6000,
-            "internet": 12300,
+            "internet": 12489,
             "mob": 26000
           },
           "tld": ".ai",
@@ -811,7 +807,7 @@
           "coord": [
             "17 03 N, 61 48 W"
           ],
-          "popul": 99175,
+          "popul": 100335,
           "ports": {
             "seaport": "Saint John's"
           },
@@ -842,19 +838,10 @@
             "satellite earth stations - 1 Intelsat (Atlantic Ocean)",
             2019
           ],
-          "note": [
-            "the COVID-19 pandemic continues to have a significant impact on production and supply chains globally",
-            "since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production",
-            "many network operators delayed upgrades to infrastructure",
-            "progress towards 5G implementation was postponed or slowed in some countries",
-            "consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes",
-            "the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments",
-            0
-          ],
           "subs": {
-            "bb": 9261,
-            "fix": 24000,
-            "internet": 74700,
+            "bb": 8000,
+            "fix": 27000,
+            "internet": 73807,
             "mob": 184000
           },
           "tld": ".ag",
@@ -909,7 +896,7 @@
           "coord": [
             "34 00 S, 64 00 W"
           ],
-          "popul": 45864941,
+          "popul": 46245668,
           "ports": {
             "container": "Buenos Aires (1,485,328) (2019)",
             "seaport": "Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia"
@@ -932,7 +919,7 @@
             2020
           ],
           "general": [
-            "Argentina has one of the most vigorous mobile markets in Latin America",
+            "Argentina has one of the most developed mobile markets in Latin America",
             "with additional operators in the market, mobile penetration fell in 2020 as incentives for multiple-SIM card ownership eased",
             "LTE with tests of 5G",
             "government plan to boost fixed broadband coverage nationally and declared TV, cable, and mobile services were essential public services",
@@ -958,7 +945,7 @@
           "subs": {
             "bb": 9571562,
             "fix": 7356165,
-            "internet": 36320000,
+            "internet": 39024016,
             "mob": 54763900
           },
           "tld": ".ar",
@@ -1017,7 +1004,7 @@
           "coord": [
             "40 00 N, 45 00 E"
           ],
-          "popul": 3011609,
+          "popul": 3000756,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:AM",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/armenia"
@@ -1069,7 +1056,7 @@
           "subs": {
             "bb": 430407,
             "fix": 427539,
-            "internet": 2020000,
+            "internet": 2281690,
             "mob": 3488797
           },
           "tld": ".am",
@@ -1116,7 +1103,7 @@
           "coord": [
             "12 30 N, 69 58 W"
           ],
-          "popul": 120917,
+          "popul": 122320,
           "ports": {
             "seaport": "Barcadera, Oranjestad"
           },
@@ -1162,7 +1149,7 @@
           "subs": {
             "bb": 19000,
             "fix": 35000,
-            "internet": 104000,
+            "internet": 103121,
             "mob": 141000
           },
           "tld": ".aw",
@@ -1230,7 +1217,7 @@
           "coord": [
             "27 00 S, 133 00 E"
           ],
-          "popul": 25809973,
+          "popul": 26141369,
           "ports": {
             "container": "Melbourne (2,967,315), Sydney (2,572,714) (2019)",
             "seaport": "<em><br />Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, Melbourne<br /><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, Sydney"
@@ -1262,9 +1249,9 @@
             "mobile network operators continue to work towards the launch of 5G",
             "predicted to be one of the top markets driving the growth of 5G and data markets in Asia",
             "fiber backbone to connect with submarine cables",
-            "Oman-Australia cable to be completed by end of 2021",
+            "Oman-Australia cable is estimated to be in service by mid-2022",
             "two of Australia's major imports are broadcast equipment and computers from China",
-            2020
+            2021
           ],
           "intl": [
             "landing points for more than 20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe",
@@ -1283,10 +1270,10 @@
             0
           ],
           "subs": {
-            "bb": 8937550,
+            "bb": 9099619,
             "fix": 6200000,
-            "internet": 22820000,
-            "mob": 27454000
+            "internet": 23123940,
+            "mob": 27453000
           },
           "tld": ".au",
           "url_tld": "https://en.wikipedia.org/wiki/.au"
@@ -1397,7 +1384,7 @@
           "coord": [
             "47 20 N, 13 20 E"
           ],
-          "popul": 8884864,
+          "popul": 8913088,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:AT",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/austria"
@@ -1446,8 +1433,8 @@
           "subs": {
             "bb": 2606000,
             "fix": 3786725,
-            "internet": 8029999,
-            "mob": 10682294
+            "internet": 7846840,
+            "mob": 10717445
           },
           "tld": ".at",
           "url_tld": "https://en.wikipedia.org/wiki/.at"
@@ -1524,7 +1511,7 @@
           "coord": [
             "40 30 N, 47 30 E"
           ],
-          "popul": 10282283,
+          "popul": 10353296,
           "ports": {
             "seaport": "Baku (Baki) located on the Caspian Sea"
           },
@@ -1577,7 +1564,7 @@
           "subs": {
             "bb": 1995474,
             "fix": 1652688,
-            "internet": 8260000,
+            "internet": 8579153,
             "mob": 10344300
           },
           "tld": ".az",
@@ -1626,7 +1613,7 @@
           "coord": [
             "26 00 N, 50 33 E"
           ],
-          "popul": 1526929,
+          "popul": 1540558,
           "ports": {
             "seaport": "Mina' Salman, Sitrah"
           },
@@ -1677,9 +1664,9 @@
             0
           ],
           "subs": {
-            "bb": 148595,
-            "fix": 266659,
-            "internet": 1710000,
+            "bb": 148928,
+            "fix": 274106,
+            "internet": 170158,
             "mob": 1748672
           },
           "tld": ".bh",
@@ -1730,7 +1717,7 @@
           "coord": [
             "24 00 N, 90 00 E"
           ],
-          "popul": 164098818,
+          "popul": 165650475,
           "ports": {
             "container": "Chattogram (Chittagong) (3,088,187) (2019)",
             "seaport": "Chattogram (Chittagong)"
@@ -1780,10 +1767,10 @@
             0
           ],
           "subs": {
-            "bb": 9521970,
-            "fix": 1450321,
-            "internet": 47610000,
-            "mob": 170136762
+            "bb": 10052819,
+            "fix": 1390048,
+            "internet": 41172346,
+            "mob": 176279465
           },
           "tld": ".bd",
           "url_tld": "https://en.wikipedia.org/wiki/.bd"
@@ -1834,7 +1821,7 @@
           "coord": [
             "13 10 N, 59 32 W"
           ],
-          "popul": 301865,
+          "popul": 302674,
           "ports": {
             "seaport": "Bridgetown"
           },
@@ -1864,20 +1851,11 @@
             "tropospheric scatter to Trinidad and Saint Lucia",
             2019
           ],
-          "note": [
-            "the COVID-19 pandemic continues to have a significant impact on production and supply chains globally",
-            "since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production",
-            "many network operators delayed upgrades to infrastructure",
-            "progress towards 5G implementation was postponed or slowed in some countries",
-            "consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes",
-            "the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments",
-            0
-          ],
           "subs": {
-            "bb": 106803,
-            "fix": 128043,
-            "internet": 235100,
-            "mob": 329326
+            "bb": 128000,
+            "fix": 128000,
+            "internet": 235357,
+            "mob": 295000
           },
           "tld": ".bb",
           "url_tld": "https://en.wikipedia.org/wiki/.bb"
@@ -1932,7 +1910,7 @@
           "coord": [
             "53 00 N, 28 00 E"
           ],
-          "popul": 9441842,
+          "popul": 9413505,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BY",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/belarus"
@@ -1982,8 +1960,8 @@
           ],
           "subs": {
             "bb": 3255552,
-            "fix": 4406585,
-            "internet": 7820000,
+            "fix": 4406560,
+            "internet": 7972959,
             "mob": 11704084
           },
           "tld": ".by",
@@ -2038,7 +2016,7 @@
           "coord": [
             "50 50 N, 4 00 E"
           ],
-          "popul": 11778842,
+          "popul": 11847338,
           "ports": {
             "container": "Antwerp (11,860,204) (2019)",
             "seaport": "Oostende, Zeebrugge"
@@ -2093,7 +2071,7 @@
           "subs": {
             "bb": 4734210,
             "fix": 3634639,
-            "internet": 10570000,
+            "internet": 10620701,
             "mob": 11529728
           },
           "tld": ".be",
@@ -2169,7 +2147,7 @@
           "coord": [
             "17 15 N, 88 45 W"
           ],
-          "popul": 405633,
+          "popul": 412387,
           "ports": {
             "seaport": "Belize City, Big Creek"
           },
@@ -2212,10 +2190,10 @@
             0
           ],
           "subs": {
-            "bb": 29600,
-            "fix": 18500,
-            "internet": 188900,
-            "mob": 254919
+            "bb": 36000,
+            "fix": 19000,
+            "internet": 202787,
+            "mob": 264000
           },
           "tld": ".bz",
           "url_tld": "https://en.wikipedia.org/wiki/.bz"
@@ -2266,7 +2244,7 @@
           "coord": [
             "9 30 N, 2 15 E"
           ],
-          "popul": 13301694,
+          "popul": 13754688,
           "ports": {
             "seaport": "Cotonou"
           },
@@ -2316,7 +2294,7 @@
           "subs": {
             "bb": 29981,
             "fix": 32386,
-            "internet": 3500000,
+            "internet": 3152032,
             "mob": 11140891
           },
           "tld": ".bj",
@@ -2365,7 +2343,7 @@
           "coord": [
             "32 20 N, 64 45 W"
           ],
-          "popul": 72084,
+          "popul": 72337,
           "ports": {
             "seaport": "Hamilton, Ireland Island, Saint George"
           },
@@ -2404,10 +2382,10 @@
             0
           ],
           "subs": {
-            "bb": 21883,
-            "fix": 21883,
-            "internet": 61200,
-            "mob": 64997
+            "bb": 23000,
+            "fix": 25000,
+            "internet": 62625,
+            "mob": 68000
           },
           "tld": ".bm",
           "url_tld": "https://en.wikipedia.org/wiki/.bm"
@@ -2464,7 +2442,7 @@
           "coord": [
             "27 30 N, 90 30 E"
           ],
-          "popul": 857423,
+          "popul": 867775,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BT",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/bhutan"
@@ -2508,9 +2486,9 @@
             0
           ],
           "subs": {
-            "bb": 2139,
+            "bb": 3189,
             "fix": 22987,
-            "internet": 373200,
+            "internet": 416671,
             "mob": 745137
           },
           "tld": ".bt",
@@ -2561,7 +2539,7 @@
           "coord": [
             "17 00 S, 65 00 W"
           ],
-          "popul": 11758869,
+          "popul": 12054379,
           "region": "South America",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BO",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/bolivia"
@@ -2608,7 +2586,7 @@
           "subs": {
             "bb": 931918,
             "fix": 598082,
-            "internet": 5580000,
+            "internet": 7003817,
             "mob": 11804343
           },
           "tld": ".bo",
@@ -2711,7 +2689,7 @@
           "coord": [
             "44 00 N, 18 00 E"
           ],
-          "popul": 3824782,
+          "popul": 3816459,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BA",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/bosnia-and-herzegovina"
@@ -2751,9 +2729,9 @@
             0
           ],
           "subs": {
-            "bb": 770624,
+            "bb": 770424,
             "fix": 706135,
-            "internet": 2320000,
+            "internet": 2394995,
             "mob": 3509674
           },
           "tld": ".ba",
@@ -2803,7 +2781,7 @@
           "coord": [
             "22 00 S, 24 00 E"
           ],
-          "popul": 2350667,
+          "popul": 2384246,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BW",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/botswana"
@@ -2848,10 +2826,10 @@
             0
           ],
           "subs": {
-            "bb": 71898,
-            "fix": 142587,
-            "internet": 1120000,
-            "mob": 3819019
+            "bb": 259525,
+            "fix": 140003,
+            "internet": 1505040,
+            "mob": 3829408
           },
           "tld": ".bw",
           "url_tld": "https://en.wikipedia.org/wiki/.bw"
@@ -2944,7 +2922,7 @@
           "coord": [
             "10 00 S, 55 00 W"
           ],
-          "popul": 213445417,
+          "popul": 217240060,
           "ports": {
             "container": "Itajai (1,223,262), Paranagua (865,110), Santos (4,165,248) (2019)",
             "seaport": "Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao"
@@ -2969,7 +2947,7 @@
           ],
           "general": [
             "Brazil is one of the largest mobile and broadband markets in Latin America with healthy competition and pricing",
-            "5G launched on limited basis",
+            "national 5G rollout planned for 2022",
             "countrywide network spectrum auction held in November 2021",
             "large fixed-line broadband market with focus on fiber",
             "landing point for submarine cables and investment into terrestrial fiber cables to neighboring countries",
@@ -2997,7 +2975,7 @@
           "subs": {
             "bb": 36344670,
             "fix": 30653813,
-            "internet": 160000000,
+            "internet": 172173121,
             "mob": 205834781
           },
           "tld": ".br",
@@ -3136,7 +3114,7 @@
           "coord": [
             "18 30 N, 64 30 W"
           ],
-          "popul": 37891,
+          "popul": 38632,
           "ports": {
             "seaport": "Road Harbor"
           },
@@ -3177,8 +3155,8 @@
           ],
           "subs": {
             "bb": 6738,
-            "fix": 7311,
-            "internet": 23600,
+            "fix": 7000,
+            "internet": 23585,
             "mob": 35163
           },
           "tld": ".vg",
@@ -3228,7 +3206,7 @@
           "coord": [
             "4 30 N, 114 40 E"
           ],
-          "popul": 471103,
+          "popul": 478054,
           "ports": {
             "seaport": "Muara"
           },
@@ -3277,8 +3255,8 @@
           "subs": {
             "bb": 71078,
             "fix": 103885,
-            "internet": 417500,
-            "mob": 526732
+            "internet": 415609,
+            "mob": 526589
           },
           "tld": ".bn",
           "url_tld": "https://en.wikipedia.org/wiki/.bn"
@@ -3330,7 +3308,7 @@
           "coord": [
             "43 00 N, 25 00 E"
           ],
-          "popul": 6919180,
+          "popul": 6873253,
           "ports": {
             "seaport": "Burgas, Varna (Black Sea)"
           },
@@ -3377,9 +3355,9 @@
             0
           ],
           "subs": {
-            "bb": 2131606,
-            "fix": 872323,
-            "internet": 4910000,
+            "bb": 2115053,
+            "fix": 872757,
+            "internet": 4853811,
             "mob": 7945739
           },
           "tld": ".bg",
@@ -3437,7 +3415,7 @@
           "coord": [
             "13 00 N, 2 00 W"
           ],
-          "popul": 21382659,
+          "popul": 21935389,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BF",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/burkina-faso"
@@ -3481,7 +3459,7 @@
           "subs": {
             "bb": 13979,
             "fix": 75039,
-            "internet": 5460000,
+            "internet": 4598721,
             "mob": 22117218
           },
           "tld": ".bf",
@@ -3530,7 +3508,7 @@
           "coord": [
             "3 30 S, 30 00 E"
           ],
-          "popul": 12241065,
+          "popul": 12696478,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:BI",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/burundi"
@@ -3574,8 +3552,8 @@
           "subs": {
             "bb": 4230,
             "fix": 18300,
-            "internet": 1610000,
-            "mob": 6631154
+            "internet": 1070170,
+            "mob": 6631151
           },
           "tld": ".bi",
           "url_tld": "https://en.wikipedia.org/wiki/.bi"
@@ -3627,7 +3605,7 @@
           "coord": [
             "13 00 N, 105 00 E"
           ],
-          "popul": 17304363,
+          "popul": 16713015,
           "ports": {
             "seaport": "Sihanoukville (Kampong Saom)"
           },
@@ -3673,10 +3651,10 @@
             0
           ],
           "subs": {
-            "bb": 713845,
-            "fix": 56445,
-            "internet": 8860000,
-            "mob": 21418681
+            "bb": 233732,
+            "fix": 55603,
+            "internet": 5440559,
+            "mob": 21086791
           },
           "tld": ".kh",
           "url_tld": "https://en.wikipedia.org/wiki/.kh"
@@ -3735,7 +3713,7 @@
           "coord": [
             "6 00 N, 12 00 E"
           ],
-          "popul": 28524175,
+          "popul": 29321637,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:CM",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/cameroon"
@@ -3780,10 +3758,10 @@
             0
           ],
           "subs": {
-            "bb": 713845,
-            "fix": 883015,
-            "internet": 9150000,
-            "mob": 25245134
+            "bb": 722579,
+            "fix": 964378,
+            "internet": 10087428,
+            "mob": 22350310
           },
           "tld": ".cm",
           "url_tld": "https://en.wikipedia.org/wiki/.cm"
@@ -3831,7 +3809,7 @@
           "coord": [
             "60 00 N, 95 00 W"
           ],
-          "popul": 37943231,
+          "popul": 38232593,
           "ports": {
             "container": "Montreal (1,745,244), Vancouver (3,398,860) (2019)",
             "seaport": "Halifax, Saint John (New Brunswick), Vancouver"
@@ -3877,10 +3855,10 @@
             0
           ],
           "subs": {
-            "bb": 15776602,
-            "fix": 13926000,
-            "internet": 35630000,
-            "mob": 36093021
+            "bb": 15825813,
+            "fix": 13340000,
+            "internet": 36896088,
+            "mob": 32360000
           },
           "tld": ".ca",
           "url_tld": "https://en.wikipedia.org/wiki/.ca"
@@ -3999,7 +3977,7 @@
           "coord": [
             "16 00 N, 24 00 W"
           ],
-          "popul": 589451,
+          "popul": 596707,
           "ports": {
             "seaport": "Porto Grande"
           },
@@ -4048,7 +4026,7 @@
           "subs": {
             "bb": 24839,
             "fix": 57668,
-            "internet": 346000,
+            "internet": 361392,
             "mob": 544729
           },
           "tld": ".cv",
@@ -4093,7 +4071,7 @@
           "coord": [
             "19 30 N, 80 30 W"
           ],
-          "popul": 63131,
+          "popul": 64309,
           "ports": {
             "seaport": "Cayman Brac, George Town"
           },
@@ -4133,10 +4111,10 @@
             0
           ],
           "subs": {
-            "bb": 31232,
-            "fix": 34768,
-            "internet": 53600,
-            "mob": 96656
+            "bb": 3200,
+            "fix": 36000,
+            "internet": 53233,
+            "mob": 100000
           },
           "tld": ".ky",
           "url_tld": "https://en.wikipedia.org/wiki/.ky"
@@ -4146,6 +4124,7 @@
         "346"
       ],
       "mccmnc": [
+        "33805",
         "346001",
         "346006",
         "346050",
@@ -4190,7 +4169,7 @@
           "coord": [
             "7 00 N, 21 00 E"
           ],
-          "popul": 5357984,
+          "popul": 5454533,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:CF",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/central-african-republic"
@@ -4229,9 +4208,9 @@
           ],
           "subs": {
             "bb": 499,
-            "fix": 2193,
-            "internet": 557100,
-            "mob": 1595294
+            "fix": 2000,
+            "internet": 482976,
+            "mob": 1831000
           },
           "tld": ".cf",
           "url_tld": "https://en.wikipedia.org/wiki/.cf"
@@ -4283,7 +4262,7 @@
           "coord": [
             "15 00 N, 19 00 E"
           ],
-          "popul": 17414108,
+          "popul": 17963211,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:TD",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/chad"
@@ -4325,7 +4304,7 @@
           ],
           "subs": {
             "fix": 5340,
-            "internet": 2860000,
+            "internet": 1642586,
             "mob": 8687151
           },
           "tld": ".td",
@@ -4377,7 +4356,7 @@
           "coord": [
             "30 00 S, 71 00 W"
           ],
-          "popul": 18307925,
+          "popul": 18430408,
           "ports": {
             "container": "San Antonio (1,709,635), Valparaiso (898,715) (2019)",
             "seaport": "Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso"
@@ -4427,9 +4406,9 @@
             0
           ],
           "subs": {
-            "bb": 3751227,
+            "bb": 3763826,
             "fix": 2567938,
-            "internet": 15780000,
+            "internet": 16822264,
             "mob": 25068249
           },
           "tld": ".cl",
@@ -4516,7 +4495,7 @@
           "coord": [
             "35 00 N, 105 00 E"
           ],
-          "popul": 1397897720,
+          "popul": 1410539758,
           "ports": {
             "container": "Dalian (8,760,000), Guangzhou (23,236,200), Ningbo (27,530,000), Qingdao (21,010,000), Shanghai (43,303,000), Shenzhen (25,770,000), Tianjin (17,264,000) (2019)",
             "seaport": "Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin"
@@ -4544,13 +4523,13 @@
             "market is driven through government-allied investment",
             "fast-developing data center market",
             "government aims to provide universal and affordable broadband coverage through market competition and private investment in state-controlled enterprises",
-            "3G and LTE subscribers will migrate to 5G aiming for 1M 5G base stations",
+            "3G and LTE subscribers will migrate to 5G aiming for 2 million 5G base stations by the end of 2022",
             "government strengthens IoT policies to boost economic growth",
             "China is pushing development of smart cities beyond Beijing",
             "Beijing residents carry virtual card integrating identity, social security, health, and education documents",
             "government controls gateways to global Internet through censorship, surveillance, and shut-downs",
             "major exporter of broadcasting equipment world-wide",
-            2020
+            2022
           ],
           "intl": [
             "landing points for the RJCN, EAC-C2C, TPE, APCN-2, APG, NCP, TEA, SeaMeWe-3, SJC2, Taiwan Strait Express-1, AAE-1, APCN-2, AAG, FEA, FLAG and TSE submarine cables providing connectivity to Asia, the Middle East, Europe, and the US",
@@ -4559,20 +4538,11 @@
             "and 1 Inmarsat - Pacific and Indian Ocean regions)",
             2019
           ],
-          "note": [
-            "the COVID-19 pandemic continues to have a significant impact on production and supply chains globally",
-            "since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production",
-            "many network operators delayed upgrades to infrastructure",
-            "progress towards 5G implementation was postponed or slowed in some countries",
-            "consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes",
-            "the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments",
-            0
-          ],
           "subs": {
-            "bb": 483550000,
+            "bb": 483549500,
             "fix": 181908000,
-            "internet": 939800000,
-            "mob": 1696356000
+            "internet": 987000000,
+            "mob": 1
           },
           "tld": ".cn",
           "url_tld": "https://en.wikipedia.org/wiki/.cn"
@@ -4657,7 +4627,7 @@
             2019
           ],
           "subs": {
-            "internet": 1449
+            "internet": 790
           },
           "tld": ".cx",
           "url_tld": "https://en.wikipedia.org/wiki/.cx"
@@ -4902,7 +4872,7 @@
           "coord": [
             "4 00 N, 72 00 W"
           ],
-          "popul": 50355650,
+          "popul": 49059221,
           "ports": {
             "container": "Buenaventura (1,121,267), Cartagena (2,995,031) (2019)",
             "seaport": "Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br />Pacific Ocean - Buenaventura"
@@ -4922,14 +4892,14 @@
           "domestic": [
             "fixed-line connections stand at about 14 per 100 persons",
             "mobile cellular telephone subscribership is 133 per 100 persons",
-            "competition among cellular service providers is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed-line services",
+            "Partners Telecom Colombia's (WOM) market entrance in June 2021 increased competition among cellular service providers and is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed-line services",
             "domestic satellite system with 41 earth stations",
-            2020
+            2021
           ],
           "general": [
-            "Colombia's telecom infrastructure has improved through a government program of competition to upgrade services based on LTE and 5G, focusing on infrastructure in small urban centers and rural areas",
+            "Colombia's telecom infrastructure has improved through a government program of competition to upgrade services based on LTE and 4G, focusing on infrastructure in small urban centers and rural areas",
             "national ICT Plan increased broadband and fiber connectivity",
-            "operators testing 5G and completed 20k terrestrial cable connecting 80% of the country",
+            "operators are testing 5G through unallocated spectrum pilots and have completed 20k terrestrial cable connecting 80% of the country",
             "benefit due to access to commercial submarine cable",
             2020
           ],
@@ -4942,7 +4912,7 @@
             "the COVID-19 pandemic continues to have a significant impact on production and supply chains globally",
             "since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production",
             "many network operators delayed upgrades to infrastructure",
-            "progress towards 5G implementation was postponed or slowed in some countries",
+            "progress towards 5G implementation slowed with 5G auction delayed to 2023",
             "consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes",
             "the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments",
             0
@@ -4950,7 +4920,7 @@
           "subs": {
             "bb": 7764772,
             "fix": 7248026,
-            "internet": 34730000,
+            "internet": 35618019,
             "mob": 67672570
           },
           "tld": ".co",
@@ -5018,7 +4988,7 @@
           "coord": [
             "12 10 S, 44 15 E"
           ],
-          "popul": 864335,
+          "popul": 876437,
           "ports": {
             "seaport": "Moroni, Moutsamoudou"
           },
@@ -5029,10 +4999,10 @@
         "nameset": [
           "comoros",
           "komori",
-          "komori (comorian), comores (french), juzur al qamar (arabic)",
+          "komori (comorian), les comores (french), juzur al qamar (arabic)",
           "the union of the comoros",
           "udzima wa komori",
-          "udzima wa komori (comorian), union des comores (french), jumhuriyat al qamar al muttahidah (arabic)",
+          "udzima wa komori (comorian), union des comores (french), al ittihad al qumuri (arabic)",
           "union of the comoros"
         ],
         "tel": {
@@ -5063,10 +5033,10 @@
             0
           ],
           "subs": {
-            "bb": 912,
+            "bb": 1066,
             "fix": 7573,
-            "internet": 74500,
-            "mob": 472815
+            "internet": 69568,
+            "mob": 781579
           },
           "tld": ".km",
           "url_tld": "https://en.wikipedia.org/wiki/.km"
@@ -5110,7 +5080,7 @@
           "coord": [
             "21 14 S, 159 46 W"
           ],
-          "popul": 8327,
+          "popul": 8128,
           "ports": {
             "seaport": "Avatiu"
           },
@@ -5153,7 +5123,7 @@
           "subs": {
             "bb": 2700,
             "fix": 6576,
-            "internet": 9487,
+            "internet": 9476,
             "mob": 14539
           },
           "tld": ".ck",
@@ -5200,7 +5170,7 @@
           "coord": [
             "10 00 N, 84 00 W"
           ],
-          "popul": 5151140,
+          "popul": 5204411,
           "ports": {
             "seaport": "Atlantic Ocean (Caribbean) - Puerto Limon"
           },
@@ -5249,7 +5219,7 @@
           "subs": {
             "bb": 992725,
             "fix": 559882,
-            "internet": 4150000,
+            "internet": 4126232,
             "mob": 7512370
           },
           "tld": ".cr",
@@ -5303,7 +5273,7 @@
           "coord": [
             "45 10 N, 15 30 E"
           ],
-          "popul": 4208973,
+          "popul": 4188853,
           "ports": {
             "seaport": "Ploce, Rijeka, Sibenik, Split"
           },
@@ -5350,8 +5320,8 @@
           ],
           "subs": {
             "bb": 1030973,
-            "fix": 1300105,
-            "internet": 3270000,
+            "fix": 1299329,
+            "internet": 3157190,
             "mob": 4375699
           },
           "tld": ".hr",
@@ -5402,7 +5372,7 @@
           "coord": [
             "21 30 N, 80 00 W"
           ],
-          "popul": 11032343,
+          "popul": 11008112,
           "ports": {
             "seaport": "Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba"
           },
@@ -5449,7 +5419,7 @@
           "subs": {
             "bb": 231654,
             "fix": 1502230,
-            "internet": 7700000,
+            "internet": 8381696,
             "mob": 6661763
           },
           "tld": ".cu",
@@ -5492,7 +5462,7 @@
           "coord": [
             "12 10 N, 69 00 W"
           ],
-          "popul": 151885,
+          "popul": 152379,
           "ports": {
             "seaport": "Willemstad"
           },
@@ -5536,10 +5506,10 @@
             0
           ],
           "subs": {
-            "bb": 53297,
-            "fix": 53500,
-            "internet": 112000,
-            "mob": 184236
+            "bb": 55000,
+            "fix": 54000,
+            "internet": 107060,
+            "mob": 182000
           },
           "tld": ".cw",
           "url_tld": "https://en.wikipedia.org/wiki/.cw"
@@ -5602,7 +5572,7 @@
           "coord": [
             "35 00 N, 33 00 E"
           ],
-          "popul": 1281506,
+          "popul": 1295102,
           "ports": {
             "seaport": "area under government control: Larnaca, Limassol, Vasilikos"
           },
@@ -5656,8 +5626,8 @@
           "subs": {
             "bb": 332080,
             "fix": 311439,
-            "internet": 1040000,
-            "mob": 1230706
+            "internet": 1098699,
+            "mob": 1239960
           },
           "tld": ".cy",
           "url_tld": "https://en.wikipedia.org/wiki/.cy"
@@ -5709,7 +5679,7 @@
           "coord": [
             "49 45 N, 15 30 E"
           ],
-          "popul": 10702596,
+          "popul": 10705384,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:CZ",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/czechia"
@@ -5750,10 +5720,10 @@
             0
           ],
           "subs": {
-            "bb": 3802644,
-            "fix": 1316316,
-            "internet": 9430000,
-            "mob": 12999353
+            "bb": 3845426,
+            "fix": 1335224,
+            "internet": 8665265,
+            "mob": 12999812
           },
           "tld": ".cz",
           "url_tld": "https://en.wikipedia.org/wiki/.cz"
@@ -5817,7 +5787,7 @@
           "coord": [
             "0 00 N, 25 00 E"
           ],
-          "popul": 105044646,
+          "popul": 108407721,
           "ports": {
             "seaport": "Banana"
           },
@@ -5865,8 +5835,8 @@
             0
           ],
           "subs": {
-            "bb": 11900,
-            "internet": 21140000,
+            "bb": 31000,
+            "internet": 12538597,
             "mob": 40798396
           },
           "tld": ".cd",
@@ -5918,7 +5888,7 @@
           "coord": [
             "56 00 N, 10 00 E"
           ],
-          "popul": 5894687,
+          "popul": 5920767,
           "ports": {
             "seaport": "Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg"
           },
@@ -5966,10 +5936,10 @@
             0
           ],
           "subs": {
-            "bb": 2571736,
-            "fix": 937469,
-            "internet": 5690000,
-            "mob": 7144123
+            "bb": 2590282,
+            "fix": 734436,
+            "internet": 5656462,
+            "mob": 7252675
           },
           "tld": ".dk",
           "url_tld": "https://en.wikipedia.org/wiki/.dk"
@@ -6046,7 +6016,7 @@
           "coord": [
             "11 30 N, 43 00 E"
           ],
-          "popul": 938413,
+          "popul": 957273,
           "ports": {
             "seaport": "Djibouti"
           },
@@ -6099,7 +6069,7 @@
           "subs": {
             "bb": 25053,
             "fix": 38866,
-            "internet": 554300,
+            "internet": 582921,
             "mob": 434035
           },
           "tld": ".dj",
@@ -6143,7 +6113,7 @@
           "coord": [
             "15 25 N, 61 20 W"
           ],
-          "popul": 74584,
+          "popul": 74629,
           "ports": {
             "seaport": "Portsmouth, Roseau"
           },
@@ -6185,10 +6155,10 @@
             0
           ],
           "subs": {
-            "bb": 11514,
-            "fix": 2660,
-            "internet": 50200,
-            "mob": 75771
+            "bb": 16000,
+            "fix": 1000,
+            "internet": 50266,
+            "mob": 76000
           },
           "tld": ".dm",
           "url_tld": "https://en.wikipedia.org/wiki/.dm"
@@ -6237,7 +6207,7 @@
           "coord": [
             "19 00 N, 70 40 W"
           ],
-          "popul": 10597348,
+          "popul": 10694700,
           "ports": {
             "seaport": "Puerto Haina, Puerto Plata, Santo Domingo"
           },
@@ -6288,7 +6258,7 @@
           "subs": {
             "bb": 1031858,
             "fix": 1155493,
-            "internet": 8160000,
+            "internet": 8352886,
             "mob": 8989587
           },
           "tld": ".do",
@@ -6341,7 +6311,7 @@
           "coord": [
             "8 50 S, 125 55 E"
           ],
-          "popul": 1413958,
+          "popul": 1445006,
           "ports": {
             "seaport": "Dili"
           },
@@ -6392,8 +6362,8 @@
           "subs": {
             "bb": 75,
             "fix": 2012,
-            "internet": 599700,
-            "mob": 1377915
+            "internet": 382348,
+            "mob": 1425260
           },
           "tld": ".tl",
           "url_tld": "https://en.wikipedia.org/wiki/.tl"
@@ -6441,7 +6411,7 @@
           "coord": [
             "2 00 S, 77 30 W"
           ],
-          "popul": 17093159,
+          "popul": 17289554,
           "ports": {
             "container": "Guayaquil (1,680,751) (2019)",
             "seaport": "Esmeraldas, Manta, Puerto Bolivar"
@@ -6459,35 +6429,25 @@
         "tel": {
           "code": "593",
           "domestic": [
-            "fixed-line services with digital networks provided by multiple telecommunications operators",
-            "fixed-line teledensity stands at about 12 per 100 persons and mobile-cellular use nearly 88 per 100 persons",
-            2019
+            "according to 2021 statistics from the Ministry of Telecommunications and Information Society, 50 percent of Ecuadorian homes do not have access to fixed internet. Ecuador's telecoms regulator, ARCOTEL is currently evaluating and reorganizing the 3.5GHz, 2.5 GHz, 700 MHz and AWS spectrum for future government tenders. 2G/3G technologies have a 91.11 percent of penetration and 4G technologies has 60.74 percent (2021).",
+            2021
           ],
           "general": [
             "Ecuador's remote and mountainous geography lends challenges to tele-density",
             "government-owned provider to improve fixed-line and LTE infrastructure, with emphasis on fiber expansion from urban to rural areas and installation of a 5G network",
             "small telecom market dominated by the non-competitive mobile sector",
-            "inadequate fixed-line infrastructure and slowed fixed-line broadband services",
+            "inadequate fixed-line infrastructure and slowed fixed-line broadband services (2020).",
             2020
           ],
           "intl": [
-            "landing points for the PAN-AM, PCCS, America Movil-Telxius West Coast Cable and SAm-1 submarine cables that provide links to South and Central America, and extending onward to the Caribbean and the US",
+            "landing points for the SPSC (Mistral Submarine Cable), Panamerican Cable System (PAN-AM), Pacific Caribbean Cable System (PCCS), America Movil-Telxius West Coast Cable and SAm-1 submarine (SAm-1) cables that provide links to South and Central America, and extending onward to the Caribbean and the US",
             "satellite earth station - 1 Intelsat (Atlantic Ocean)",
             2019
           ],
-          "note": [
-            "the COVID-19 pandemic continues to have a significant impact on production and supply chains globally",
-            "since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production",
-            "many network operators delayed upgrades to infrastructure",
-            "progress towards 5G implementation was postponed or slowed in some countries",
-            "consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes",
-            "the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments",
-            0
-          ],
           "subs": {
-            "bb": 2346923,
+            "bb": 2371297,
             "fix": 2063044,
-            "internet": 10170000,
+            "internet": 11467989,
             "mob": 15485366
           },
           "tld": ".ec",
@@ -6539,7 +6499,7 @@
           "coord": [
             "27 00 N, 30 00 E"
           ],
-          "popul": 106437241,
+          "popul": 107770524,
           "ports": {
             "container": "Port Said (East) (3,816,084) (2019)",
             "seaport": "Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said"
@@ -6590,7 +6550,7 @@
           "subs": {
             "bb": 9349469,
             "fix": 9858331,
-            "internet": 59190000,
+            "internet": 73680770,
             "mob": 95357427
           },
           "tld": ".eg",
@@ -6640,7 +6600,7 @@
           "coord": [
             "13 50 N, 88 55 W"
           ],
-          "popul": 6528135,
+          "popul": 6568745,
           "ports": {
             "seaport": "Puerto Cutuco"
           },
@@ -6681,10 +6641,10 @@
             0
           ],
           "subs": {
-            "bb": 525088,
-            "fix": 893630,
-            "internet": 3280000,
-            "mob": 10396786
+            "bb": 586000,
+            "fix": 894000,
+            "internet": 3567410,
+            "mob": 9949000
           },
           "tld": ".sv",
           "url_tld": "https://en.wikipedia.org/wiki/.sv"
@@ -6727,14 +6687,14 @@
           },
           "capital": {
             "coord": "3 45 N, 8 47 E",
-            "name": "Malabo; note - a new capital of Cuidad de la Paz (formerly referred to as Oyala) is being built on the mainland near Djibloho; Malabo is on the island of Bioko",
+            "name": "Malabo; note - a new capital of Ciudad de la Paz (formerly referred to as Oyala) is being built on the mainland near Djibloho; Malabo is on the island of Bioko",
             "time_diff": "UTC+1"
           },
           "coast": 296,
           "coord": [
             "2 00 N, 10 00 E"
           ],
-          "popul": 857008,
+          "popul": 1679172,
           "ports": {
             "seaport": "Bata, Luba, Malabo"
           },
@@ -6778,10 +6738,10 @@
             0
           ],
           "subs": {
-            "bb": 1620,
-            "fix": 10848,
-            "internet": 374200,
-            "mob": 591223
+            "bb": 1000,
+            "fix": 11000,
+            "internet": 352555,
+            "mob": 645000
           },
           "tld": ".gq",
           "url_tld": "https://en.wikipedia.org/wiki/.gq"
@@ -6829,7 +6789,7 @@
           "coord": [
             "15 00 N, 39 00 E"
           ],
-          "popul": 6147398,
+          "popul": 6209262,
           "ports": {
             "seaport": "Assab, Massawa"
           },
@@ -6873,10 +6833,10 @@
             0
           ],
           "subs": {
-            "bb": 1000,
-            "fix": 66170,
-            "internet": 248200,
-            "mob": 695000
+            "bb": 5000,
+            "fix": 66000,
+            "internet": 53200,
+            "mob": 1801000
           },
           "tld": ".er",
           "url_tld": "https://en.wikipedia.org/wiki/.er"
@@ -6922,7 +6882,7 @@
           "coord": [
             "59 00 N, 26 00 E"
           ],
-          "popul": 1220042,
+          "popul": 1211524,
           "ports": {
             "seaport": "Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn"
           },
@@ -6973,7 +6933,7 @@
           "subs": {
             "bb": 415610,
             "fix": 304728,
-            "internet": 1210000,
+            "internet": 1183236,
             "mob": 1925789
           },
           "tld": ".ee",
@@ -7008,6 +6968,7 @@
         "24822",
         "24824",
         "24825",
+        "24826",
         "24871"
       ],
       "msisdn": [
@@ -7043,7 +7004,7 @@
           "coord": [
             "26 30 S, 31 30 E"
           ],
-          "popul": 1113276,
+          "popul": 1121761,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:SZ",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/eswatini"
@@ -7087,10 +7048,10 @@
             0
           ],
           "subs": {
-            "bb": 8000,
-            "fix": 41000,
-            "internet": 548100,
-            "mob": 1052000
+            "bb": 12000,
+            "fix": 39000,
+            "internet": 539623,
+            "mob": 1243000
           },
           "tld": ".sz",
           "url_tld": "https://en.wikipedia.org/wiki/.sz"
@@ -7141,7 +7102,7 @@
           "coord": [
             "8 00 N, 38 00 E"
           ],
-          "popul": 110871031,
+          "popul": 113656596,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:ET",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/ethiopia"
@@ -7189,10 +7150,10 @@
             0
           ],
           "subs": {
-            "bb": 62950,
-            "fix": 1140000,
-            "internet": 23960000,
-            "mob": 39540000
+            "bb": 212000,
+            "fix": 1252000,
+            "internet": 27591260,
+            "mob": 44500000
           },
           "tld": ".et",
           "url_tld": "https://en.wikipedia.org/wiki/.et"
@@ -7265,7 +7226,7 @@
           "subs": {
             "bb": 1000,
             "fix": 2000,
-            "internet": 3393,
+            "internet": 3343,
             "mob": 5000
           },
           "tld": ".fk",
@@ -7309,7 +7270,7 @@
           "coord": [
             "62 00 N, 7 00 W"
           ],
-          "popul": 51943,
+          "popul": 52269,
           "ports": {
             "seaport": "Fuglafjordur, Torshavn, Vagur"
           },
@@ -7351,8 +7312,8 @@
           "subs": {
             "bb": 18443,
             "fix": 15341,
-            "internet": 47800,
-            "mob": 59003
+            "internet": 47703,
+            "mob": 59213
           },
           "tld": ".fo",
           "url_tld": "https://en.wikipedia.org/wiki/.fo"
@@ -7398,7 +7359,7 @@
           "coord": [
             "6 55 N, 158 15 E"
           ],
-          "popul": 101675,
+          "popul": 101009,
           "ports": {
             "seaport": "Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor"
           },
@@ -7437,10 +7398,10 @@
             0
           ],
           "subs": {
-            "bb": 3776,
-            "fix": 6947,
-            "internet": 40800,
-            "mob": 23114
+            "bb": 6000,
+            "fix": 7000,
+            "internet": 39834,
+            "mob": 22000
           },
           "tld": ".fm",
           "url_tld": "https://en.wikipedia.org/wiki/.fm"
@@ -7483,7 +7444,7 @@
           "coord": [
             "18 00 S, 175 00 E"
           ],
-          "popul": 939535,
+          "popul": 943737,
           "ports": {
             "seaport": "Lautoka, Levuka, Suva"
           },
@@ -7528,10 +7489,10 @@
             0
           ],
           "subs": {
-            "bb": 13033,
-            "fix": 76522,
-            "internet": 634100,
-            "mob": 1033920
+            "bb": 23062,
+            "fix": 48510,
+            "internet": 444978,
+            "mob": 991500
           },
           "tld": ".fj",
           "url_tld": "https://en.wikipedia.org/wiki/.fj"
@@ -7580,7 +7541,7 @@
           "coord": [
             "64 00 N, 26 00 E"
           ],
-          "popul": 5587442,
+          "popul": 5601547,
           "ports": {
             "seaport": "Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma"
           },
@@ -7628,7 +7589,7 @@
           "subs": {
             "bb": 1846000,
             "fix": 225000,
-            "internet": 5270000,
+            "internet": 5087180,
             "mob": 7120000
           },
           "tld": ".fi",
@@ -7763,7 +7724,7 @@
               "21 06 S, 55 36 E"
             ]
           ],
-          "popul": 68084217,
+          "popul": 68305148,
           "ports": {
             "container": "Le Havre (2,822,910) (2019)",
             "ferry": "Calais, Cherbourg, Le Havre",
@@ -7827,7 +7788,7 @@
           "subs": {
             "bb": 30627000,
             "fix": 37759000,
-            "internet": 59470000,
+            "internet": 57272921,
             "mob": 72751000
           },
           "tld": ".fr",
@@ -7879,6 +7840,8 @@
         "20838",
         "20839",
         "208500",
+        "208501",
+        "208502",
         "208700",
         "208701",
         "208702",
@@ -7983,7 +7946,7 @@
           "coord": [
             "15 00 S, 140 00 W"
           ],
-          "popul": 297154,
+          "popul": 299356,
           "ports": {
             "seaport": "Papeete"
           },
@@ -8028,10 +7991,10 @@
             0
           ],
           "subs": {
-            "bb": 59790,
-            "fix": 60123,
-            "internet": 204800,
-            "mob": 302673
+            "bb": 64000,
+            "fix": 94000,
+            "internet": 203878,
+            "mob": 335000
           },
           "tld": ".pf",
           "url_tld": "https://en.wikipedia.org/wiki/.pf"
@@ -8163,7 +8126,7 @@
           "coord": [
             "1 00 S, 11 45 E"
           ],
-          "popul": 2284912,
+          "popul": 2340613,
           "ports": {
             "seaport": "Libreville, Owendo, Port-Gentil"
           },
@@ -8211,8 +8174,8 @@
           "subs": {
             "bb": 44607,
             "fix": 25428,
-            "internet": 1400000,
-            "mob": 3088742
+            "internet": 1379951,
+            "mob": 3049530
           },
           "tld": ".ga",
           "url_tld": "https://en.wikipedia.org/wiki/.ga"
@@ -8264,9 +8227,9 @@
           "coord": [
             "42 00 N, 43 30 E"
           ],
-          "popul": 4933674,
+          "popul": 4935518,
           "ports": {
-            "seaport": "Black Sea - Bat'umi, P'ot'i"
+            "seaport": "Black Sea - Batumi, Poti"
           },
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:GE",
@@ -8310,9 +8273,9 @@
             0
           ],
           "subs": {
-            "bb": 997785,
-            "fix": 378498,
-            "internet": 2740000,
+            "bb": 972162,
+            "fix": 387698,
+            "internet": 2717583,
             "mob": 5100101
           },
           "tld": ".ge",
@@ -8382,7 +8345,7 @@
           "coord": [
             "51 00 N, 9 00 E"
           ],
-          "popul": 79903481,
+          "popul": 84316622,
           "ports": {
             "container": "Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)",
             "seaport": "<br /><em>Baltic Sea:</em> Kiel, Rostock<br /><em>North Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven"
@@ -8431,10 +8394,10 @@
             0
           ],
           "subs": {
-            "bb": 36040739,
+            "bb": 36215303,
             "fix": 38300000,
-            "internet": 78810000,
-            "mob": 107500000
+            "internet": 74844784,
+            "mob": 107400000
           },
           "tld": ".de",
           "url_tld": "https://en.wikipedia.org/wiki/.de"
@@ -8483,7 +8446,8 @@
         "26277",
         "26278",
         "26279",
-        "26292"
+        "26292",
+        "26298"
       ],
       "msisdn": [
         "49"
@@ -8520,7 +8484,7 @@
           "coord": [
             "8 00 N, 2 00 W"
           ],
-          "popul": 32372889,
+          "popul": 33107275,
           "ports": {
             "seaport": "Takoradi, Tema"
           },
@@ -8536,23 +8500,23 @@
         "tel": {
           "code": "233",
           "domestic": [
-            "fixed-line about 1 per 100 subscriptions",
-            "competition among multiple mobile-cellular providers has spurred growth with a subscribership of more than 130 per 100 persons",
+            "fixed-line data about 1 per 100 subscriptions",
+            "competition among multiple mobile-cellular providers has spurred growth with a voice subscribership of more than 130 per 100 persons",
             2020
           ],
           "general": [
-            "challenged by unreliable electricity, Ghana seeks to extend telecom services nationally",
-            "investment in fiber infrastructure enabled 600 additional towers to provide basic mobile services",
+            "challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally",
+            "investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people",
             "launch of LTE has improved mobile data services, including m-commerce and banking",
-            "highly competitive Internet market, most through mobile networks",
-            "international submarine cables, and terrestrial cables have improved Internet capacity and reduced prices",
+            "moderately competitive Internet market, most through mobile networks",
+            "international submarine cables, and terrestrial cables have improved Internet capacity",
             2020
           ],
           "intl": [
             "landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe",
             "satellite earth stations - 4 Intelsat (Atlantic Ocean)",
             "microwave radio relay link to Panaftel system connects Ghana to its neighbors",
-            "Ghana-1 satellite launched in 2020",
+            "GhanaSat-1 nanosatellite launched in 2017",
             2019
           ],
           "note": [
@@ -8567,7 +8531,7 @@
           "subs": {
             "bb": 78371,
             "fix": 307668,
-            "internet": 15700000,
+            "internet": 18022308,
             "mob": 40461609
           },
           "tld": ".gh",
@@ -8629,7 +8593,7 @@
           "coord": [
             "36 08 N, 5 21 W"
           ],
-          "popul": 29516,
+          "popul": 29573,
           "ports": {
             "seaport": "Gibraltar"
           },
@@ -8660,10 +8624,10 @@
             2019
           ],
           "subs": {
-            "bb": 19497,
-            "fix": 16968,
-            "internet": 31800,
-            "mob": 40537
+            "bb": 21009,
+            "fix": 17041,
+            "internet": 31684,
+            "mob": 35438
           },
           "tld": ".gi",
           "url_tld": "https://en.wikipedia.org/wiki/.gi"
@@ -8715,7 +8679,7 @@
           "coord": [
             "39 00 N, 22 00 E"
           ],
-          "popul": 10569703,
+          "popul": 10533871,
           "ports": {
             "container": "Piraeus (5,648,000) (2019)",
             "seaport": "Aspropyrgos, Pachi, Piraeus, Thessaloniki"
@@ -8766,8 +8730,8 @@
           ],
           "subs": {
             "bb": 4257026,
-            "fix": 4743310,
-            "internet": 8390000,
+            "fix": 5028332,
+            "internet": 8346434,
             "mob": 11412995
           },
           "tld": ".gr",
@@ -8825,7 +8789,7 @@
           "coord": [
             "72 00 N, 40 00 W"
           ],
-          "popul": 57799,
+          "popul": 57792,
           "ports": {
             "seaport": "Sisimiut"
           },
@@ -8865,10 +8829,10 @@
             0
           ],
           "subs": {
-            "bb": 14404,
-            "fix": 7133,
-            "internet": 39500,
-            "mob": 61656
+            "bb": 15649,
+            "fix": 6352,
+            "internet": 39358,
+            "mob": 65958
           },
           "tld": ".gl",
           "url_tld": "https://en.wikipedia.org/wiki/.gl"
@@ -8912,7 +8876,7 @@
           "coord": [
             "12 07 N, 61 40 W"
           ],
-          "popul": 113570,
+          "popul": 113949,
           "ports": {
             "seaport": "Saint George's"
           },
@@ -8952,10 +8916,10 @@
             0
           ],
           "subs": {
-            "bb": 25577,
-            "fix": 32491,
-            "internet": 66600,
-            "mob": 113177
+            "bb": 32000,
+            "fix": 16000,
+            "internet": 64136,
+            "mob": 122000
           },
           "tld": ".gd",
           "url_tld": "https://en.wikipedia.org/wiki/.gd"
@@ -9044,7 +9008,7 @@
           "coord": [
             "13 28 N, 144 47 E"
           ],
-          "popul": 168801,
+          "popul": 169086,
           "ports": {
             "seaport": "Apra Harbor"
           },
@@ -9085,8 +9049,8 @@
           ],
           "subs": {
             "bb": 3000,
-            "fix": 68000,
-            "internet": 136500,
+            "fix": 70000,
+            "internet": 135509,
             "mob": 98000
           },
           "tld": ".gu",
@@ -9153,7 +9117,7 @@
           "coord": [
             "15 30 N, 90 15 W"
           ],
-          "popul": 17422821,
+          "popul": 17703190,
           "ports": {
             "seaport": "Puerto Quetzal, Santo Tomas de Castilla"
           },
@@ -9199,9 +9163,9 @@
             0
           ],
           "subs": {
-            "bb": 531000,
+            "bb": 612000,
             "fix": 2272467,
-            "internet": 11750000,
+            "internet": 8429167,
             "mob": 20390671
           },
           "tld": ".gt",
@@ -9246,7 +9210,7 @@
           "coord": [
             "49 28 N, 2 35 W"
           ],
-          "popul": 67334,
+          "popul": 67491,
           "ports": {
             "seaport": "Braye Bay, Saint Peter Port"
           },
@@ -9286,8 +9250,8 @@
           "subs": {
             "bb": 25336,
             "fix": 33940,
-            "internet": 54600,
-            "mob": 71622
+            "internet": 54726,
+            "mob": 43824
           },
           "tld": ".gg",
           "url_tld": "https://en.wikipedia.org/wiki/.gg"
@@ -9345,7 +9309,7 @@
           "coord": [
             "11 00 N, 10 00 W"
           ],
-          "popul": 12877894,
+          "popul": 13237832,
           "ports": {
             "seaport": "Conakry, Kamsar"
           },
@@ -9394,9 +9358,9 @@
             0
           ],
           "subs": {
-            "bb": 1250,
-            "internet": 2910000,
-            "mob": 12873000
+            "bb": 1000,
+            "internet": 3414526,
+            "mob": 13795000
           },
           "tld": ".gn",
           "url_tld": "https://en.wikipedia.org/wiki/.gn"
@@ -9446,7 +9410,7 @@
           "coord": [
             "12 00 N, 15 00 W"
           ],
-          "popul": 1976187,
+          "popul": 2026778,
           "ports": {
             "seaport": "Bissau, Buba, Cacheu, Farim"
           },
@@ -9471,7 +9435,7 @@
           "general": [
             "small system including a combination of microwave radio relay, open-wire lines, radiotelephone, and mobile cellular communications",
             "2 mobile network operators",
-            "one of the poorest countries in the world and this is reflected in the countries telecommunications development",
+            "one of the poorest countries in the world and this is reflected in the country's telecommunications development",
             "radio is the most important source of information for the public",
             2020
           ],
@@ -9490,7 +9454,7 @@
           ],
           "subs": {
             "bb": 2383,
-            "internet": 250000,
+            "internet": 452640,
             "mob": 1913858
           },
           "tld": ".gw",
@@ -9541,7 +9505,7 @@
           "coord": [
             "5 00 N, 59 00 W"
           ],
-          "popul": 787971,
+          "popul": 789683,
           "ports": {
             "seaport": "Georgetown"
           },
@@ -9585,10 +9549,10 @@
             0
           ],
           "subs": {
-            "bb": 64889,
-            "fix": 135795,
-            "internet": 294300,
-            "mob": 643210
+            "bb": 95000,
+            "fix": 125000,
+            "internet": 289627,
+            "mob": 856000
           },
           "tld": ".gy",
           "url_tld": "https://en.wikipedia.org/wiki/.gy"
@@ -9598,6 +9562,7 @@
         "738"
       ],
       "mccmnc": [
+        "73800",
         "738002",
         "738003",
         "73801",
@@ -9637,7 +9602,7 @@
           "coord": [
             "19 00 N, 72 25 W"
           ],
-          "popul": 11198240,
+          "popul": 11334637,
           "ports": {
             "seaport": "Cap-Haitien, Gonaives, Jacmel, Port-au-Prince"
           },
@@ -9662,7 +9627,7 @@
           ],
           "general": [
             "plagued by political and economic turmoil complicated by natural disasters, Haiti's telecommunications infrastructure is among the least-developed in the world",
-            "reliance on satellite and wireless mobile technology due to poor fixed-line infrastructure",
+            "it relies on satellite and wireless mobile technology due to poor fixed-line infrastructure",
             "investment boosted broadband availability though customer base is poor and theft of equipment remains problematic",
             "promotion of LTE will enable access to remote areas and e-money services",
             "World Bank grant to provide digital preparation and response for any future crises",
@@ -9683,10 +9648,10 @@
             0
           ],
           "subs": {
-            "bb": 31100,
-            "fix": 5952,
-            "internet": 4280000,
-            "mob": 6843380
+            "bb": 31000,
+            "fix": 6000,
+            "internet": 3990887,
+            "mob": 7319000
           },
           "tld": ".ht",
           "url_tld": "https://en.wikipedia.org/wiki/.ht"
@@ -9780,7 +9745,7 @@
           "coord": [
             "15 00 N, 86 30 W"
           ],
-          "popul": 9346277,
+          "popul": 9459440,
           "ports": {
             "seaport": "La Ceiba, Puerto Cortes, San Lorenzo, Tela"
           },
@@ -9823,9 +9788,9 @@
             0
           ],
           "subs": {
-            "bb": 396454,
+            "bb": 396916,
             "fix": 531763,
-            "internet": 3810000,
+            "internet": 4159935,
             "mob": 6960654
           },
           "tld": ".hn",
@@ -9871,7 +9836,7 @@
           "coord": [
             "22 15 N, 114 10 E"
           ],
-          "popul": 7263234,
+          "popul": 7276588,
           "ports": {
             "container": "Hong Kong (18,361,000) (2019)",
             "seaport": "Hong Kong"
@@ -9908,10 +9873,10 @@
             2020
           ],
           "intl": [
-            "landing points for the APG, ASE, EAC-C2C, HK-G, Bay-to-Bay Express Cable System, H2 Cable, HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, APCN-2, AAG, FLAG and FEA submarine cables that provide connections to Asia, US, Australia, the Middle East, and Europe",
+            "landing points for the AAE-1, AAG, APCN-2, APG, ASE, FEA, FNAL, RNAL, H2HE, SeaMeWe-3, SJC and TGN-IA submarine cables that provide connections to Asia, US, Australia, the Middle East, and Europe",
             "satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean)",
             "coaxial cable to Guangzhou, China",
-            2019
+            2022
           ],
           "note": [
             "the COVID-19 pandemic continues to have a significant impact on production and supply chains globally",
@@ -9923,9 +9888,9 @@
             0
           ],
           "subs": {
-            "bb": 2871081,
-            "fix": 3934129,
-            "internet": 6920000,
+            "bb": 2885586,
+            "fix": 3900599,
+            "internet": 6883256,
             "mob": 21865215
           },
           "tld": ".hk",
@@ -10012,7 +9977,7 @@
           "coord": [
             "47 00 N, 20 00 E"
           ],
-          "popul": 9728337,
+          "popul": 9699577,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:HU",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/hungary"
@@ -10055,7 +10020,7 @@
           "subs": {
             "bb": 3265308,
             "fix": 2970347,
-            "internet": 8010000,
+            "internet": 8287626,
             "mob": 10332660
           },
           "tld": ".hu",
@@ -10107,7 +10072,7 @@
           "coord": [
             "65 00 N, 18 00 W"
           ],
-          "popul": 354234,
+          "popul": 357603,
           "ports": {
             "seaport": "Grundartangi, Hafnarfjordur, Reykjavik"
           },
@@ -10157,7 +10122,7 @@
           "subs": {
             "bb": 141816,
             "fix": 107032,
-            "internet": 338900,
+            "internet": 362798,
             "mob": 421384
           },
           "tld": ".is",
@@ -10222,7 +10187,7 @@
           "coord": [
             "20 00 N, 77 00 E"
           ],
-          "popul": 1339330514,
+          "popul": 1389637446,
           "ports": {
             "container": "Jawaharal Nehru Port (5,100,891), Mundra (4,732,699) (2019)",
             "seaport": "Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam"
@@ -10245,7 +10210,7 @@
             "fixed-line subscriptions stands at roughly 1 per 100 and mobile-cellular at nearly 84 per 100",
             "mobile cellular service introduced in 1994 and organized nationwide into four metropolitan areas and 19 telecom circles, each with multiple private service providers and one or more state-owned service providers",
             "in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with 6 satellites supporting 33,000 (very small aperture terminals) VSAT",
-            2020
+            2022
           ],
           "general": [
             "supported by deregulation, India is one of the fastest-growing telecom markets in the world",
@@ -10258,12 +10223,13 @@
             "steps taken towards a 5G auction and tests",
             "submarine cable linking mainland to the Andaman and Nicobar Islands",
             "smart cities mission to promote 100 model cities in providing core infrastructure, sustainable environment, and quality of life through economic growth and competition, including focus on social, economic, and institutional pillars",
-            2020
+            2022
           ],
           "intl": [
             "a number of major international submarine cable systems, including SEA-ME-WE-3 & 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman & Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn that provide connectivity to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islands including Australia",
-            "satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian Ocean region",
-            2019
+            "satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat",
+            "Indian Ocean region",
+            2022
           ],
           "note": [
             "the COVID-19 pandemic continues to have a significant impact on production and supply chains globally",
@@ -10275,10 +10241,10 @@
             0
           ],
           "subs": {
-            "bb": 22290000,
+            "bb": 22950000,
             "fix": 20052162,
-            "internet": 624000000,
-            "mob": 1153709832
+            "internet": 593400000,
+            "mob": 1
           },
           "tld": ".in",
           "url_tld": "https://en.wikipedia.org/wiki/.in"
@@ -10645,7 +10611,7 @@
           "coord": [
             "5 00 S, 120 00 E"
           ],
-          "popul": 275122131,
+          "popul": 277329163,
           "ports": {
             "container": "Tanjung Perak (3,900,000), Tanjung Priok (7,600,000) (2019)",
             "seaport": "Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok"
@@ -10691,10 +10657,10 @@
             0
           ],
           "subs": {
-            "bb": 10713107,
-            "fix": 9186370,
-            "internet": 202600000,
-            "mob": 355748606
+            "bb": 11722218,
+            "fix": 9662135,
+            "internet": 147702755,
+            "mob": 355620388
           },
           "tld": ".id",
           "url_tld": "https://en.wikipedia.org/wiki/.id"
@@ -10760,7 +10726,7 @@
           "coord": [
             "32 00 N, 53 00 E"
           ],
-          "popul": 85888910,
+          "popul": 86758304,
           "ports": {
             "container": "Bandar Abbas",
             "seaport": "Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni"
@@ -10810,7 +10776,7 @@
           "subs": {
             "bb": 9564195,
             "fix": 29093587,
-            "internet": 59160000,
+            "internet": 75594081,
             "mob": 127624951
           },
           "tld": ".ir",
@@ -10881,7 +10847,7 @@
           "coord": [
             "33 00 N, 44 00 E"
           ],
-          "popul": 39650145,
+          "popul": 40462701,
           "region": "Middle East",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:IQ",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/iraq"
@@ -10927,10 +10893,10 @@
             0
           ],
           "subs": {
-            "bb": 5453799,
-            "fix": 4166461,
-            "internet": 30520000,
-            "mob": 36946600
+            "bb": 6254099,
+            "fix": 2699758,
+            "internet": 24133502,
+            "mob": 37475325
           },
           "tld": ".iq",
           "url_tld": "https://en.wikipedia.org/wiki/.iq"
@@ -10997,7 +10963,7 @@
           "coord": [
             "54 15 N, 4 30 W"
           ],
-          "popul": 90895,
+          "popul": 91382,
           "ports": {
             "seaport": "Douglas, Ramsey"
           },
@@ -11028,9 +10994,6 @@
             "the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments",
             0
           ],
-          "subs": {
-            "internet": 63500
-          },
           "tld": ".im",
           "url_tld": "https://en.wikipedia.org/wiki/.im"
         }
@@ -11087,7 +11050,7 @@
           "coord": [
             "31 30 N, 34 45 E"
           ],
-          "popul": 8787045,
+          "popul": 8914885,
           "ports": {
             "container": "Ashdod (1,584,000) (2019)",
             "seaport": "Ashdod, Elat (Eilat), Hadera, Haifa"
@@ -11138,9 +11101,9 @@
           ],
           "subs": {
             "bb": 2602079,
-            "fix": 3080000,
-            "internet": 7680000,
-            "mob": 11400000
+            "fix": 3370000,
+            "internet": 8293590,
+            "mob": 12270000
           },
           "tld": ".il",
           "url_tld": "https://en.wikipedia.org/wiki/.il"
@@ -11176,6 +11139,7 @@
         "42524",
         "42525",
         "42526",
+        "42527",
         "42528",
         "42529",
         "42577"
@@ -11219,7 +11183,7 @@
           "coord": [
             "42 50 N, 12 50 E"
           ],
-          "popul": 62390364,
+          "popul": 61095551,
           "ports": {
             "container": "Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)",
             "seaport": "Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice"
@@ -11267,10 +11231,10 @@
             0
           ],
           "subs": {
-            "bb": 17855620,
-            "fix": 19430559,
-            "internet": 50540000,
-            "mob": 77796840
+            "bb": 18128787,
+            "fix": 19607341,
+            "internet": 41614669,
+            "mob": 77581048
           },
           "tld": ".it",
           "url_tld": "https://en.wikipedia.org/wiki/.it"
@@ -11348,7 +11312,7 @@
           "coord": [
             "8 00 N, 5 00 W"
           ],
-          "popul": 28088455,
+          "popul": 28713423,
           "ports": {
             "seaport": "Abidjan, San-Pedro"
           },
@@ -11399,7 +11363,7 @@
           "subs": {
             "bb": 260097,
             "fix": 264073,
-            "internet": 12500000,
+            "internet": 9496179,
             "mob": 40095246
           },
           "tld": ".ci",
@@ -11450,7 +11414,7 @@
           "coord": [
             "18 15 N, 77 30 W"
           ],
-          "popul": 2816602,
+          "popul": 2818596,
           "ports": {
             "container": "Kingston (1,647,609) (2019)",
             "seaport": "Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, Port Esquivel, Port Kaiser, Rocky Point"
@@ -11496,7 +11460,7 @@
           "subs": {
             "bb": 385603,
             "fix": 436249,
-            "internet": 1630000,
+            "internet": 1621552,
             "mob": 2873259
           },
           "tld": ".jm",
@@ -11509,7 +11473,7 @@
       "mccmnc": [
         "338020",
         "338040",
-        "338050",
+        "33805",
         "338070",
         "338080",
         "338110",
@@ -11548,7 +11512,7 @@
           "coord": [
             "36 00 N, 138 00 E"
           ],
-          "popul": 124687293,
+          "popul": 124214766,
           "ports": {
             "container": "Kobe (2,871,642), Nagoya (2,844,004), Osaka (2,456,028), Tokyo (4,510,000), Yokohama (2,990,000) (2019)",
             "seaport": "Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama"
@@ -11594,10 +11558,10 @@
             0
           ],
           "subs": {
-            "bb": 43633244,
-            "fix": 62252837,
-            "internet": 117400000,
-            "mob": 192284308
+            "bb": 44000791,
+            "fix": 61978594,
+            "internet": 113252419,
+            "mob": 195054893
           },
           "tld": ".jp",
           "url_tld": "https://en.wikipedia.org/wiki/.jp"
@@ -11715,6 +11679,10 @@
         "441204",
         "441205",
         "441206",
+        "441207",
+        "441208",
+        "441209",
+        "441210",
         "44140",
         "44141",
         "44142",
@@ -11767,7 +11735,7 @@
           "coord": [
             "49 15 N, 2 10 W"
           ],
-          "popul": 101476,
+          "popul": 102146,
           "ports": {
             "seaport": "Gorey, Saint Aubin, Saint Helier"
           },
@@ -11806,8 +11774,8 @@
           "subs": {
             "bb": 39699,
             "fix": 48310,
-            "internet": 100300,
-            "mob": 124262
+            "internet": 44198,
+            "mob": 83900
           },
           "tld": ".je",
           "url_tld": "https://en.wikipedia.org/wiki/.je"
@@ -11861,7 +11829,7 @@
           "coord": [
             "31 00 N, 36 00 E"
           ],
-          "popul": 10909567,
+          "popul": 10998531,
           "ports": {
             "seaport": "Al 'Aqabah"
           },
@@ -11908,9 +11876,9 @@
             0
           ],
           "subs": {
-            "bb": 625657,
+            "bb": 630545,
             "fix": 391486,
-            "internet": 6840000,
+            "internet": 6768137,
             "mob": 6987891
           },
           "tld": ".jo",
@@ -11962,7 +11930,7 @@
           "coord": [
             "48 00 N, 68 00 E"
           ],
-          "popul": 19245793,
+          "popul": 19398331,
           "ports": {
             "seaport": "Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)"
           },
@@ -11989,7 +11957,7 @@
             "one of the most progressive telecom sectors in Central Asia",
             "vast 4G network",
             "low fixed-line and fixed-broadband penetration",
-            "moderate mobile broadband penetration and high mobile penetration",
+            "moderate mobile broadband penetration and high mobile penetration depending on location",
             "mobile market highly competitive and growth is slow due to saturation",
             2020
           ],
@@ -12008,10 +11976,10 @@
             0
           ],
           "subs": {
-            "bb": 2616500,
-            "fix": 2616500,
-            "internet": 15470000,
-            "mob": 25177000
+            "bb": 2620400,
+            "fix": 3091000,
+            "internet": 16128818,
+            "mob": 24293900
           },
           "tld": ".kz",
           "url_tld": "https://en.wikipedia.org/wiki/.kz"
@@ -12066,7 +12034,7 @@
           "coord": [
             "1 00 N, 38 00 E"
           ],
-          "popul": 54685051,
+          "popul": 55864655,
           "ports": {
             "seaport": "Kisumu, Mombasa"
           },
@@ -12115,7 +12083,7 @@
           "subs": {
             "bb": 674191,
             "fix": 66646,
-            "internet": 21750000,
+            "internet": 16131390,
             "mob": 61408904
           },
           "tld": ".ke",
@@ -12171,7 +12139,7 @@
           "coord": [
             "1 25 N, 173 00 E"
           ],
-          "popul": 113001,
+          "popul": 114189,
           "ports": {
             "seaport": "Betio (Tarawa Atoll), Canton Island, English Harbor"
           },
@@ -12216,7 +12184,7 @@
           "subs": {
             "bb": 185,
             "fix": 33,
-            "internet": 17600,
+            "internet": 45390,
             "mob": 54661
           },
           "tld": ".ki",
@@ -12265,7 +12233,7 @@
           "coord": [
             "42 35 N, 21 00 E"
           ],
-          "popul": 1935259,
+          "popul": 1952701,
           "region": "Europe",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/kosovo"
         },
@@ -12304,9 +12272,9 @@
             0
           ],
           "subs": {
-            "fix": 117317,
-            "internet": 1760000,
-            "mob": 620186
+            "fix": 383763,
+            "internet": 1502658,
+            "mob": 562000
           },
           "tld": ".xk",
           "url_tld": "https://en.wikipedia.org/wiki/.xk"
@@ -12355,7 +12323,7 @@
           "coord": [
             "29 30 N, 45 45 E"
           ],
-          "popul": 3032065,
+          "popul": 3068155,
           "ports": {
             "seaport": "Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, Mina' al Ahmadi"
           },
@@ -12406,7 +12374,7 @@
           "subs": {
             "bb": 73948,
             "fix": 583463,
-            "internet": 4260000,
+            "internet": 4227857,
             "mob": 6770346
           },
           "tld": ".kw",
@@ -12456,7 +12424,7 @@
           "coord": [
             "41 00 N, 75 00 E"
           ],
-          "popul": 6018789,
+          "popul": 6071750,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:KG",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/kyrgyzstan"
@@ -12501,10 +12469,10 @@
             0
           ],
           "subs": {
-            "bb": 269091,
-            "fix": 298855,
-            "internet": 3320000,
-            "mob": 8622565
+            "bb": 289000,
+            "fix": 299000,
+            "internet": 3355749,
+            "mob": 8511000
           },
           "tld": ".kg",
           "url_tld": "https://en.wikipedia.org/wiki/.kg"
@@ -12558,7 +12526,7 @@
           "coord": [
             "18 00 N, 105 00 E"
           ],
-          "popul": 7574356,
+          "popul": 7749595,
           "region": "Southeast Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:LA",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/laos"
@@ -12603,10 +12571,10 @@
             0
           ],
           "subs": {
-            "bb": 76280,
-            "fix": 1490831,
-            "internet": 3550000,
-            "mob": 4362183
+            "bb": 128000,
+            "fix": 1491000,
+            "internet": 2473689,
+            "mob": 4099999
           },
           "tld": ".la",
           "url_tld": "https://en.wikipedia.org/wiki/.la"
@@ -12658,7 +12626,7 @@
           "coord": [
             "57 00 N, 25 00 E"
           ],
-          "popul": 1862687,
+          "popul": 1842226,
           "ports": {
             "seaport": "Riga, Ventspils"
           },
@@ -12703,9 +12671,9 @@
             0
           ],
           "subs": {
-            "bb": 503804,
+            "bb": 490569,
             "fix": 211849,
-            "internet": 1670000,
+            "internet": 1691400,
             "mob": 2051359
           },
           "tld": ".lv",
@@ -12761,7 +12729,7 @@
           "coord": [
             "33 50 N, 35 50 E"
           ],
-          "popul": 5261372,
+          "popul": 5296814,
           "ports": {
             "container": "Beirut (1,229,100) (2019)",
             "seaport": "Beirut, Tripoli"
@@ -12813,7 +12781,7 @@
           "subs": {
             "bb": 432070,
             "fix": 875480,
-            "internet": 5310000,
+            "internet": 6825442,
             "mob": 4288221
           },
           "tld": ".lb",
@@ -12868,7 +12836,7 @@
           "coord": [
             "29 30 S, 28 30 E"
           ],
-          "popul": 2177740,
+          "popul": 2193970,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:LS",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/lesotho"
@@ -12912,7 +12880,7 @@
           "subs": {
             "bb": 5060,
             "fix": 11574,
-            "internet": 1030000,
+            "internet": 921168,
             "mob": 1562648
           },
           "tld": ".ls",
@@ -12962,7 +12930,7 @@
           "coord": [
             "6 30 N, 9 30 W"
           ],
-          "popul": 5214030,
+          "popul": 5358483,
           "ports": {
             "seaport": "Buchanan, Monrovia"
           },
@@ -13009,10 +12977,10 @@
             0
           ],
           "subs": {
-            "bb": 9000,
-            "fix": 8000,
-            "internet": 761000,
-            "mob": 2660000
+            "bb": 13000,
+            "fix": 6000,
+            "internet": 1314996,
+            "mob": 1653000
           },
           "tld": ".lr",
           "url_tld": "https://en.wikipedia.org/wiki/.lr"
@@ -13067,7 +13035,7 @@
           "coord": [
             "25 00 N, 17 00 E"
           ],
-          "popul": 7017224,
+          "popul": 7137931,
           "ports": {
             "seaport": "Marsa al Burayqah (Marsa el Brega), Tripoli"
           },
@@ -13090,7 +13058,7 @@
             2019
           ],
           "general": [
-            "political and security instability in Libya has disrupted its telecom sector, as warring factions make mobile towers a target and construction workers regularly cut cables by mistake",
+            "political and security instability in Libya has disrupted its telecom sector",
             "much of its infrastructure remains superior to that in most other African countries",
             "rival operators fight for control",
             "investment in fiber backbone and upgrades to international cables",
@@ -13118,10 +13086,10 @@
             0
           ],
           "subs": {
-            "bb": 318000,
+            "bb": 332000,
             "fix": 1576000,
-            "internet": 3190000,
-            "mob": 6020000
+            "internet": 1491040,
+            "mob": 2922000
           },
           "tld": ".ly",
           "url_tld": "https://en.wikipedia.org/wiki/.ly"
@@ -13169,7 +13137,7 @@
           "coord": [
             "47 16 N, 9 32 E"
           ],
-          "popul": 39425,
+          "popul": 39711,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:LI",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/liechtenstein"
@@ -13207,10 +13175,10 @@
             0
           ],
           "subs": {
-            "bb": 18063,
-            "fix": 12723,
-            "internet": 37800,
-            "mob": 48904
+            "bb": 18050,
+            "fix": 12607,
+            "internet": 37260,
+            "mob": 48887
           },
           "tld": ".li",
           "url_tld": "https://en.wikipedia.org/wiki/.li"
@@ -13268,7 +13236,7 @@
           "coord": [
             "56 00 N, 24 00 E"
           ],
-          "popul": 2711566,
+          "popul": 2683546,
           "ports": {
             "seaport": "Klaipeda"
           },
@@ -13318,8 +13286,8 @@
           "subs": {
             "bb": 796814,
             "fix": 322108,
-            "internet": 2220000,
-            "mob": 4742427
+            "internet": 2319755,
+            "mob": 3671995
           },
           "tld": ".lt",
           "url_tld": "https://en.wikipedia.org/wiki/.lt"
@@ -13378,7 +13346,7 @@
           "coord": [
             "49 45 N, 6 10 E"
           ],
-          "popul": 639589,
+          "popul": 650364,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:LU",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/luxembourg"
@@ -13419,7 +13387,7 @@
           "subs": {
             "bb": 235155,
             "fix": 268090,
-            "internet": 612100,
+            "internet": 624115,
             "mob": 890000
           },
           "tld": ".lu",
@@ -13471,7 +13439,7 @@
           "coord": [
             "22 10 N, 113 33 E"
           ],
-          "popul": 630396,
+          "popul": 635293,
           "ports": {
             "seaport": "Macau"
           },
@@ -13518,10 +13486,10 @@
             0
           ],
           "subs": {
-            "bb": 193057,
-            "fix": 123469,
-            "internet": 565600,
-            "mob": 2181194
+            "bb": 208000,
+            "fix": 110000,
+            "internet": 571421,
+            "mob": 2793000
           },
           "tld": ".mo",
           "url_tld": "https://en.wikipedia.org/wiki/.mo"
@@ -13571,7 +13539,7 @@
           "coord": [
             "20 00 S, 47 00 E"
           ],
-          "popul": 27534354,
+          "popul": 28172462,
           "ports": {
             "seaport": "Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)"
           },
@@ -13618,10 +13586,10 @@
             0
           ],
           "subs": {
-            "bb": 27211,
-            "fix": 69046,
-            "internet": 5450000,
-            "mob": 10654710
+            "bb": 32000,
+            "fix": 69000,
+            "internet": 2696931,
+            "mob": 15869000
           },
           "tld": ".mg",
           "url_tld": "https://en.wikipedia.org/wiki/.mg"
@@ -13671,7 +13639,7 @@
           "coord": [
             "13 30 S, 34 00 E"
           ],
-          "popul": 20308502,
+          "popul": 20794353,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:MW",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/malawi"
@@ -13717,7 +13685,7 @@
           "subs": {
             "bb": 12255,
             "fix": 12465,
-            "internet": 3450000,
+            "internet": 2608025,
             "mob": 10004680
           },
           "tld": ".mw",
@@ -13767,7 +13735,7 @@
           "coord": [
             "2 30 N, 112 30 E"
           ],
-          "popul": 33519406,
+          "popul": 33871431,
           "ports": {
             "container": "Port Kelang (Port Klang) (13,580,717), Tanjung Pelepas (9,100,000) (2019)",
             "seaport": "Bintulu, Johor Bahru, George Town (Penang), Pelabuhan Klang (Port Klang), Tanjung Pelepas"
@@ -13815,7 +13783,7 @@
           "subs": {
             "bb": 3358800,
             "fix": 7467900,
-            "internet": 27430000,
+            "internet": 29129398,
             "mob": 43723600
           },
           "tld": ".my",
@@ -13877,7 +13845,7 @@
           "coord": [
             "3 15 N, 73 00 E"
           ],
-          "popul": 390669,
+          "popul": 390164,
           "ports": {
             "seaport": "Male"
           },
@@ -13922,7 +13890,7 @@
           "subs": {
             "bb": 63685,
             "fix": 14508,
-            "internet": 342500,
+            "internet": 340542,
             "mob": 717708
           },
           "tld": ".mv",
@@ -13973,7 +13941,7 @@
           "coord": [
             "17 00 N, 4 00 W"
           ],
-          "popul": 20137527,
+          "popul": 20741769,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:ML",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/mali"
@@ -13998,20 +13966,20 @@
             "high mobile penetration and potential for mobile broadband service",
             "local plans for IXP",
             "dependent on neighboring countries for international bandwidth and access to submarine cables",
-            "Chinese investment in infrastructure stymied by security issues",
+            "there are Chinese investment agreements for infrastructure",
             "importer of broadcasting equipment from China",
             2020
           ],
           "intl": [
             "satellite communications center and fiber-optic links to neighboring countries",
             "satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean)",
-            0
+            2020
           ],
           "note": [
             "the COVID-19 pandemic continues to have a significant impact on production and supply chains globally",
             "since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production",
             "many network operators delayed upgrades to infrastructure",
-            "progress towards 5G implementation was postponed or slowed in some countries",
+            "progress towards 5G implementation is slow",
             "consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes",
             "the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments",
             0
@@ -14019,7 +13987,7 @@
           "subs": {
             "bb": 243806,
             "fix": 281638,
-            "internet": 5740000,
+            "internet": 5467725,
             "mob": 25315598
           },
           "tld": ".ml",
@@ -14065,7 +14033,7 @@
           "coord": [
             "35 50 N, 14 35 E"
           ],
-          "popul": 460891,
+          "popul": 464186,
           "ports": {
             "container": "Marsaxlokk (2,722,889) (2019)",
             "seaport": "Marsaxlokk (Malta Freeport), Valletta"
@@ -14112,9 +14080,9 @@
           ],
           "subs": {
             "bb": 213419,
-            "fix": 256838,
-            "internet": 380300,
-            "mob": 634386
+            "fix": 259456,
+            "internet": 448339,
+            "mob": 633123
           },
           "tld": ".mt",
           "url_tld": "https://en.wikipedia.org/wiki/.mt"
@@ -14161,7 +14129,7 @@
           "coord": [
             "9 00 N, 168 00 E"
           ],
-          "popul": 78831,
+          "popul": 79906,
           "ports": {
             "seaport": "Enitwetak Island, Kwajalein, Majuro"
           },
@@ -14208,7 +14176,7 @@
           "subs": {
             "bb": 1000,
             "fix": 2361,
-            "internet": 23000,
+            "internet": 22929,
             "mob": 16000
           },
           "tld": ".mh",
@@ -14299,7 +14267,7 @@
           "coord": [
             "20 00 N, 12 00 W"
           ],
-          "popul": 4079284,
+          "popul": 4161925,
           "ports": {
             "seaport": "Nouadhibou, Nouakchott"
           },
@@ -14326,7 +14294,7 @@
           "general": [
             "Mauritania's small population and low economic output limit sustained growth",
             "transparency and tax burdens hinder foreign investment",
-            "World Bank and European Investment Bank support regulations to promote fixed-line broadband, improvement of the national backbone network, and connectivity to international cables",
+            "World Bank and European Investment Bank support regulatory reforms to promote fixed-line broadband, improvement of the national backbone network, and connectivity to international cables",
             "limited system of cable and open-wire lines, mobile-cellular services expanding though monopolies, and little stimulus for competition",
             "3G penetration high yet little development in LTE",
             "mobile broadband access speeds are low",
@@ -14348,9 +14316,9 @@
             0
           ],
           "subs": {
-            "bb": 19246,
+            "bb": 18457,
             "fix": 62099,
-            "internet": 1560000,
+            "internet": 1906360,
             "mob": 4932571
           },
           "tld": ".mr",
@@ -14396,7 +14364,7 @@
           "coord": [
             "20 17 S, 57 33 E"
           ],
-          "popul": 1386129,
+          "popul": 1308222,
           "ports": {
             "seaport": "Port Louis"
           },
@@ -14441,9 +14409,9 @@
             0
           ],
           "subs": {
-            "bb": 322100,
+            "bb": 323200,
             "fix": 478700,
-            "internet": 814500,
+            "internet": 822731,
             "mob": 1912900
           },
           "tld": ".mu",
@@ -14536,7 +14504,7 @@
           "coord": [
             "23 00 N, 102 00 W"
           ],
-          "popul": 130207371,
+          "popul": 129150971,
           "ports": {
             "container": "Lazaro Cardenas (1,318,732), Manzanillo (3,069,189), Veracruz (1,144,156) (2019)",
             "seaport": "Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz"
@@ -14554,29 +14522,32 @@
         "tel": {
           "code": "52",
           "domestic": [
-            "fixed-line teledensity exceeds 18 per 100 persons",
-            "mobile-cellular teledensity is about 93 per 100 persons",
+            "fixed-line teledensity exceeds 65 lines per every 100 households",
+            "mobile-cellular teledensity is about 99 per 100 persons",
             "domestic satellite system with 120 earth stations",
-            2020
+            2021
           ],
           "general": [
-            "with a large population and relatively low broadband and mobile penetration, Mexico's telecom sector has potential for growth",
+            "with a large population and relatively low broadband and mobile penetration, (86 lines for mobile broadband for every 100 habitants in June 2021) Mexico's telecom sector has potential for growth",
             "adequate telephone service for business and government",
-            "improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers",
+            "improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers (24.6 million fixed line subscribers and 125 million mobile line subscribers in June 2021)",
             "relatively low broadband and mobile penetration, potential for growth and international investment",
             "extensive microwave radio relay network",
             "considerable use of fiber-optic cable and coaxial cable",
-            "5G development slow in part due to high costs",
+            "5G development slow in part due to high costs (AT&T announced 5G rollout in some sections of Mexico City in December 2021 and Telcel announced a plan to launch 5G network in 18 cities in February 2022)",
             "IXP in Mexico City",
             "exporter of computers and broadcasting equipment to USA and importer of same from China",
-            2020
+            2021
           ],
           "intl": [
             "Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy",
-            "the ARCOS-1 and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the US",
-            "satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations)",
+            "the ARCOS-1 and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the U.S.",
+            "Pan-American Crossing (PAC) submarine cable system provides access to Panama, California, U.S., and Costa Rica",
+            "Lazaro Cardenas-Manzanillo Santiago submarines cable system (LCMSSCS) provides access to Michoacan, Guerrero, and Colima, Mexico",
+            "AMX-1 submarine cable system with access to Colombia, Brazil, Puerto Rico, Gulf of California Cable submarine cable systems that connects La Paz, Baja California Sur and Topolobambo, Sinaloa",
+            "and Aurora submarine cable system provides access to Guatemala, Panama, Ecuador, Colombia, Mexico, and the U.S. satellite earth stations - 124 (36 Intelsat, 1 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 9 Panamsat, numerous Inmarsat mobile earth stations)",
             "linked to Central American Microwave System of trunk connections",
-            2016
+            2022
           ],
           "note": [
             "the COVID-19 pandemic continues to have a significant impact on production and supply chains globally",
@@ -14588,10 +14559,10 @@
             0
           ],
           "subs": {
-            "bb": 21206911,
-            "fix": 23800105,
-            "internet": 92010000,
-            "mob": 120481969
+            "bb": 21936131,
+            "fix": 24500456,
+            "internet": 92831582,
+            "mob": 122898392
           },
           "tld": ".mx",
           "url_tld": "https://en.wikipedia.org/wiki/.mx"
@@ -14662,7 +14633,7 @@
           "coord": [
             "47 00 N, 29 00 E"
           ],
-          "popul": 3323875,
+          "popul": 3287326,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:MD",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/moldova"
@@ -14707,7 +14678,7 @@
           "subs": {
             "bb": 719001,
             "fix": 1027689,
-            "internet": 3070000,
+            "internet": 2025380,
             "mob": 3420383
           },
           "tld": ".md",
@@ -14759,7 +14730,7 @@
           "coord": [
             "43 44 N, 7 24 E"
           ],
-          "popul": 31223,
+          "popul": 31400,
           "ports": {
             "seaport": "Hercules Port"
           },
@@ -14804,7 +14775,7 @@
           "subs": {
             "bb": 20877,
             "fix": 43706,
-            "internet": 38200,
+            "internet": 37798,
             "mob": 35485
           },
           "tld": ".mc",
@@ -14854,7 +14825,7 @@
           "coord": [
             "46 00 N, 105 00 E"
           ],
-          "popul": 3198913,
+          "popul": 3227863,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:MN",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/mongolia"
@@ -14898,7 +14869,7 @@
           "subs": {
             "bb": 307166,
             "fix": 160153,
-            "internet": 2009999,
+            "internet": 2065324,
             "mob": 4363919
           },
           "tld": ".mn",
@@ -14952,7 +14923,7 @@
           "coord": [
             "42 30 N, 19 18 E"
           ],
-          "popul": 607414,
+          "popul": 604966,
           "ports": {
             "seaport": "Bar"
           },
@@ -14996,7 +14967,7 @@
           "subs": {
             "bb": 184176,
             "fix": 191768,
-            "internet": 477300,
+            "internet": 484619,
             "mob": 1080089
           },
           "tld": ".me",
@@ -15043,7 +15014,7 @@
           "coord": [
             "16 45 N, 62 12 W"
           ],
-          "popul": 5387,
+          "popul": 5414,
           "ports": {
             "seaport": "Little Bay, Plymouth"
           },
@@ -15084,7 +15055,7 @@
           "subs": {
             "bb": 2700,
             "fix": 3000,
-            "internet": 2806,
+            "internet": 2744,
             "mob": 5000
           },
           "tld": ".ms",
@@ -15134,7 +15105,7 @@
           "coord": [
             "28 30 N, 10 00 W"
           ],
-          "popul": 36561813,
+          "popul": 36738229,
           "ports": {
             "container": "Tangier (4,801,713) (2019)",
             "seaport": "Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier"
@@ -15165,13 +15136,14 @@
             "one of the most state-of-the-art markets in Africa",
             "high mobile penetration rates in the region with low cost for broadband Internet access",
             "improvement in LTE reach and capabilities",
-            "5G tests underway",
+            "service providers have all successfully completed 5G proofs of concept and are currently lining up 5G equipment providers for both radio and core technology",
+            "regulatory agency expects to conduct the 5G spectrum auction in 2023",
             "mobile Internet accounts for 93% of all Internet connections",
             "World Bank provided funds for Morocco's digital transformation",
             "government supported digital education during pandemic",
             "submarine cables and satellite provide connectivity to Asia, Africa, the Middle East, Europe, and Australia",
-            "importer of broadcasting equipment and video displays from China",
-            2020
+            "importer of broadcasting equipment, surveillance equipment, scanning equipment, and video displays from China",
+            2022
           ],
           "intl": [
             "landing point for the Atlas Offshore, Estepona-Tetouan, Canalink and SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide connectivity to Asia, Africa, the Middle East, Europe and Australia",
@@ -15191,7 +15163,7 @@
           "subs": {
             "bb": 2102434,
             "fix": 2357286,
-            "internet": 27620000,
+            "internet": 31004869,
             "mob": 49421023
           },
           "tld": ".ma",
@@ -15248,7 +15220,7 @@
           "coord": [
             "18 15 S, 35 00 E"
           ],
-          "popul": 30888034,
+          "popul": 31693239,
           "ports": {
             "seaport": "Beira, Maputo, Nacala"
           },
@@ -15298,10 +15270,10 @@
             0
           ],
           "subs": {
-            "bb": 69975,
-            "fix": 80791,
-            "internet": 6720000,
-            "mob": 14773364
+            "bb": 70000,
+            "fix": 89016,
+            "internet": 5313424,
+            "mob": 15463226
           },
           "tld": ".mz",
           "url_tld": "https://en.wikipedia.org/wiki/.mz"
@@ -15344,8 +15316,8 @@
             "len": 6522
           },
           "capital": {
-            "coord": "16 48 N, 96 09 E",
-            "name": "Rangoon (Yangon); note - Nay Pyi Taw is the administrative capital",
+            "coord": "19 74 N, 96 12 E",
+            "name": "Nay Pyi Taw (note - Yangon, aka Rangoon, is the former capital)",
             "time_diff": "UTC+6.5"
           },
           "cmt": "ISO uses the name Myanmar",
@@ -15353,7 +15325,7 @@
           "coord": [
             "22 00 N, 98 00 E"
           ],
-          "popul": 57069099,
+          "popul": 57526449,
           "ports": {
             "seaport": "Mawlamyine (Moulmein), Sittwe"
           },
@@ -15379,7 +15351,7 @@
             2019
           ],
           "general": [
-            "Burma, one of the last underdeveloped telecom markets in Asia, saw growth in mobile and broadband services through foreign competition and roll out of 4G and 5G networks",
+            "Burma, one of the least developed telecom markets in Asia, saw growth in mobile and broadband services through foreign competition and roll out of 4G and 5G networks",
             "infrastructure development challenged by flooding, unreliable electricity, inefficient bureaucracy, and corruption",
             "digital divide affects rural areas",
             "fixed broadband remains low due to number of fixed-lines and near saturation of the mobile platform",
@@ -15405,10 +15377,10 @@
             0
           ],
           "subs": {
-            "bb": 129050,
-            "fix": 520863,
-            "internet": 23650000,
-            "mob": 61143964
+            "bb": 688185,
+            "fix": 523951,
+            "internet": 19043428,
+            "mob": 78548329
           },
           "tld": ".mm",
           "url_tld": "https://en.wikipedia.org/wiki/.mm"
@@ -15491,7 +15463,7 @@
           "coord": [
             "22 00 S, 17 00 E"
           ],
-          "popul": 2678191,
+          "popul": 2727409,
           "ports": {
             "seaport": "Luderitz, Walvis Bay"
           },
@@ -15532,9 +15504,9 @@
           ],
           "subs": {
             "bb": 71063,
-            "fix": 141334,
-            "internet": 1310000,
-            "mob": 2594382
+            "fix": 140370,
+            "internet": 1041776,
+            "mob": 2898125
           },
           "tld": ".na",
           "url_tld": "https://en.wikipedia.org/wiki/.na"
@@ -15582,7 +15554,7 @@
           "coord": [
             "0 32 S, 166 55 E"
           ],
-          "popul": 9770,
+          "popul": 9811,
           "ports": {
             "seaport": "Nauru"
           },
@@ -15623,7 +15595,8 @@
           ],
           "subs": {
             "bb": 950,
-            "internet": 6771,
+            "fix": 1900,
+            "internet": 6136,
             "mob": 10000
           },
           "tld": ".nr",
@@ -15671,7 +15644,7 @@
           "coord": [
             "28 00 N, 84 00 E"
           ],
-          "popul": 30424878,
+          "popul": 30666598,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:NP",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/nepal"
@@ -15719,10 +15692,10 @@
             0
           ],
           "subs": {
-            "bb": 791961,
-            "fix": 799368,
-            "internet": 10780000,
-            "mob": 39178451
+            "bb": 1270000,
+            "fix": 726000,
+            "internet": 11071987,
+            "mob": 38213000
           },
           "tld": ".np",
           "url_tld": "https://en.wikipedia.org/wiki/.np"
@@ -15771,7 +15744,7 @@
           "coord": [
             "52 31 N, 5 46 E"
           ],
-          "popul": 17337403,
+          "popul": 17400824,
           "ports": {
             "container": "Rotterdam (14,810,804) (2019)",
             "seaport": "IJmuiden, Vlissingen"
@@ -15826,7 +15799,7 @@
           "subs": {
             "bb": 7525016,
             "fix": 4937000,
-            "internet": 16469999,
+            "internet": 15871765,
             "mob": 21415000
           },
           "tld": ".nl",
@@ -15914,7 +15887,7 @@
           "coord": [
             "21 30 S, 165 30 E"
           ],
-          "popul": 293608,
+          "popul": 297160,
           "ports": {
             "seaport": "Noumea"
           },
@@ -15957,10 +15930,10 @@
             0
           ],
           "subs": {
-            "bb": 55371,
-            "fix": 77719,
-            "internet": 235200,
-            "mob": 260277
+            "bb": 55000,
+            "fix": 46000,
+            "internet": 222466,
+            "mob": 260000
           },
           "tld": ".nc",
           "url_tld": "https://en.wikipedia.org/wiki/.nc"
@@ -16003,7 +15976,7 @@
           "coord": [
             "41 00 S, 174 00 E"
           ],
-          "popul": 4991442,
+          "popul": 5053004,
           "ports": {
             "seaport": "Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington"
           },
@@ -16045,10 +16018,10 @@
             0
           ],
           "subs": {
-            "bb": 1647000,
-            "fix": 1760000,
-            "internet": 4550000,
-            "mob": 6400000
+            "bb": 1764984,
+            "fix": 858000,
+            "internet": 4677556,
+            "mob": 6148000
           },
           "tld": ".nz",
           "url_tld": "https://en.wikipedia.org/wiki/.nz"
@@ -16103,7 +16076,7 @@
           "coord": [
             "13 00 N, 85 00 W"
           ],
-          "popul": 6243931,
+          "popul": 6301880,
           "ports": {
             "seaport": "Bluefields, Corinto"
           },
@@ -16154,7 +16127,7 @@
           "subs": {
             "bb": 290351,
             "fix": 210981,
-            "internet": 2780000,
+            "internet": 2981049,
             "mob": 5976479
           },
           "tld": ".ni",
@@ -16207,7 +16180,7 @@
           "coord": [
             "16 00 N, 8 00 E"
           ],
-          "popul": 23605767,
+          "popul": 24484587,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:NE",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/niger"
@@ -16254,10 +16227,10 @@
             0
           ],
           "subs": {
-            "bb": 8650,
-            "fix": 114352,
-            "internet": 3360000,
-            "mob": 8778880
+            "bb": 12000,
+            "fix": 58000,
+            "internet": 2331072,
+            "mob": 14239000
           },
           "tld": ".ne",
           "url_tld": "https://en.wikipedia.org/wiki/.ne"
@@ -16308,7 +16281,7 @@
           "coord": [
             "10 00 N, 8 00 E"
           ],
-          "popul": 219463862,
+          "popul": 225082083,
           "ports": {
             "seaport": "Bonny Inshore Terminal, Calabar, Lagos"
           },
@@ -16334,14 +16307,15 @@
             "most Internet connections are via mobile networks",
             "foreign investment presence, particularly from China",
             "market competition with affordable access",
-            "LTE technologies available but GSM is dominate",
+            "LTE technologies available but GSM is dominant",
             "mobile penetration high due to use of multiple SIM cards and phones",
             "government committed to expanding broadband penetration",
             "operators to deploy fiber optic cable in six geopolitical zones and Lagos",
             "operators invested in base stations to deplete network congestion",
             "submarine cable break in 2020 slowed speeds and interrupted connectivity",
             "importer of phones and broadcast equipment from China",
-            2020
+            "Nigeria concluded its first 5G spectrum auction in 2021 and granted licenses to two firms: MTN Nigeria and Mafab Communications. Construction of 5G infrastructure has not yet been completed.",
+            2021
           ],
           "intl": [
             "landing point for the SAT-3/WASC, NCSCS, MainOne, Glo-1 & 2, ACE, and Equiano fiber-optic submarine cable that provides connectivity to Europe and South and West Africa",
@@ -16358,9 +16332,9 @@
             0
           ],
           "subs": {
-            "bb": 83360,
+            "bb": 65313,
             "fix": 107031,
-            "internet": 104400000,
+            "internet": 74210251,
             "mob": 204228678
           },
           "tld": ".ng",
@@ -16462,7 +16436,7 @@
           ],
           "subs": {
             "fix": 1000,
-            "internet": 1286
+            "internet": 1292
           },
           "tld": ".nu",
           "url_tld": "https://en.wikipedia.org/wiki/.nu"
@@ -16543,7 +16517,7 @@
             0
           ],
           "subs": {
-            "internet": 806
+            "internet": 612
           },
           "tld": ".nf",
           "url_tld": "https://en.wikipedia.org/wiki/.nf"
@@ -16591,7 +16565,7 @@
           "coord": [
             "40 00 N, 127 00 E"
           ],
-          "popul": 25831360,
+          "popul": 25955138,
           "ports": {
             "seaport": "Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly Unggi), Wonsan"
           },
@@ -16640,8 +16614,8 @@
             0
           ],
           "subs": {
-            "fix": 1183806,
-            "mob": 3821857
+            "fix": 1180000,
+            "mob": 6000000
           },
           "tld": ".kp",
           "url_tld": "https://en.wikipedia.org/wiki/.kp"
@@ -16691,7 +16665,7 @@
           "coord": [
             "41 50 N, 22 00 E"
           ],
-          "popul": 2128262,
+          "popul": 2130936,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:MK",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/north-macedonia"
@@ -16732,10 +16706,10 @@
             0
           ],
           "subs": {
-            "bb": 454300,
-            "fix": 400454,
-            "internet": 1710000,
-            "mob": 1921013
+            "bb": 475569,
+            "fix": 415390,
+            "internet": 1678750,
+            "mob": 1862138
           },
           "tld": ".mk",
           "url_tld": "https://en.wikipedia.org/wiki/.mk"
@@ -16806,7 +16780,7 @@
           "coord": [
             "15 12 N, 145 45 E"
           ],
-          "popul": 51659,
+          "popul": 51475,
           "ports": {
             "seaport": "Saipan, Tinian, Rota"
           },
@@ -16847,8 +16821,9 @@
             0
           ],
           "subs": {
-            "fix": 22000,
-            "internet": 14500
+            "fix": 20000,
+            "internet": 17418,
+            "mob": 20474
           },
           "tld": ".mp",
           "url_tld": "https://en.wikipedia.org/wiki/.mp"
@@ -16904,7 +16879,7 @@
           "coord": [
             "62 00 N, 10 00 E"
           ],
-          "popul": 5509591,
+          "popul": 5553840,
           "ports": {
             "seaport": "Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture"
           },
@@ -16958,7 +16933,7 @@
           "subs": {
             "bb": 2387661,
             "fix": 348808,
-            "internet": 5390000,
+            "internet": 5218091,
             "mob": 5825584
           },
           "tld": ".no",
@@ -17028,7 +17003,7 @@
           "coord": [
             "21 00 N, 57 00 E"
           ],
-          "popul": 3694755,
+          "popul": 3764348,
           "ports": {
             "container": "Salalah (4,109,000) (2019)",
             "seaport": "Mina' Qabus, Salalah, Suhar"
@@ -17078,7 +17053,7 @@
           "subs": {
             "bb": 508949,
             "fix": 594550,
-            "internet": 4920000,
+            "internet": 4851291,
             "mob": 6276535
           },
           "tld": ".om",
@@ -17130,7 +17105,7 @@
           "coord": [
             "30 00 N, 70 00 E"
           ],
-          "popul": 238181034,
+          "popul": 242923845,
           "ports": {
             "container": "Karachi (2,097,855) (2019)",
             "seaport": "Karachi, Port Muhammad Bin Qasim"
@@ -17150,12 +17125,12 @@
           "domestic": [
             "mobile-cellular subscribership has increased",
             "more than 90% of Pakistanis live within areas that have cell phone coverage",
-            "fiber-optic networks are being constructed throughout the country to increase broadband access, though broadband penetration in Pakistan is still relatively low",
-            "fixed-line a little over 1 per 100 and mobile-cellular roughly 76 per 100 persons",
-            2020
+            "fiber-optic networks are being constructed throughout the country to increase broadband access and broadband penetration in Pakistan is increasing--by the end of 2021, 50% of the population had access to broadband services",
+            "fixed-line teledensity is a little over 1 per 100 and mobile-cellular roughly 84 per 100 persons",
+            2021
           ],
           "general": [
-            "Pakistan's telecom market recently transitioned from a regulated state-owned monopoly to a deregulated competitive structure, now aided by foreign investment",
+            "Pakistan's telecom market transitioned from a regulated state-owned monopoly to a deregulated competitive structure in 2003, now aided by foreign investment",
             "moderate growth over the last six years, supported by a young population and a rising use of mobile services",
             "telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining",
             "system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks",
@@ -17184,10 +17159,10 @@
             0
           ],
           "subs": {
-            "bb": 2423057,
+            "bb": 2523027,
             "fix": 2876794,
-            "internet": 61340000,
-            "mob": 165405847
+            "internet": 55223083,
+            "mob": 175624364
           },
           "tld": ".pk",
           "url_tld": "https://en.wikipedia.org/wiki/.pk"
@@ -17237,7 +17212,7 @@
           "coord": [
             "7 30 N, 134 30 E"
           ],
-          "popul": 21613,
+          "popul": 21695,
           "ports": {
             "seaport": "Koror"
           },
@@ -17281,9 +17256,9 @@
           ],
           "subs": {
             "bb": 1224,
-            "fix": 7204,
-            "internet": 6752,
-            "mob": 23743
+            "fix": 8000,
+            "internet": 7650,
+            "mob": 24000
           },
           "tld": ".pw",
           "url_tld": "https://en.wikipedia.org/wiki/.pw"
@@ -17332,7 +17307,7 @@
           "coord": [
             "9 00 N, 80 00 W"
           ],
-          "popul": 3928646,
+          "popul": 4337768,
           "ports": {
             "container": "Balboa (2,894,654), Colon (4,379,477) (2019)",
             "seaport": "Balboa, Colon, Cristobal"
@@ -17383,9 +17358,9 @@
           ],
           "subs": {
             "bb": 562413,
-            "fix": 616698,
-            "internet": 2820000,
-            "mob": 5708163
+            "fix": 649156,
+            "internet": 2761452,
+            "mob": 5825677
           },
           "tld": ".pa",
           "url_tld": "https://en.wikipedia.org/wiki/.pa"
@@ -17434,7 +17409,7 @@
           "coord": [
             "6 00 S, 147 00 E"
           ],
-          "popul": 7399757,
+          "popul": 9593498,
           "ports": {
             "seaport": "Kimbe, Lae, Madang, Rabaul, Wewak"
           },
@@ -17483,10 +17458,10 @@
             0
           ],
           "subs": {
-            "bb": 18000,
-            "fix": 158000,
-            "internet": 1370000,
-            "mob": 4018000
+            "bb": 21000,
+            "fix": 166000,
+            "internet": 965373,
+            "mob": 4818000
           },
           "tld": ".pg",
           "url_tld": "https://en.wikipedia.org/wiki/.pg"
@@ -17535,7 +17510,7 @@
           "coord": [
             "23 00 S, 58 00 W"
           ],
-          "popul": 7272639,
+          "popul": 7356409,
           "region": "South America",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:PY",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/paraguay"
@@ -17551,8 +17526,8 @@
           "domestic": [
             "deficiencies in provision of fixed-line service have resulted in expansion of mobile-cellular services fostered by competition among multiple providers",
             "Internet market also open to competition",
-            "fixed-line just under 4 per 100 and mobile-cellular just over 110 per 100",
-            2019
+            "fixed-line just over 3 per 100 and mobile-cellular just over 105 per 100 of the population",
+            2020
           ],
           "general": [
             "limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to telecom platform",
@@ -17560,11 +17535,11 @@
             "effective competition in mobile market, serving 96% of population through LTE",
             "deployment of fiber",
             "South Korean investment in education centers",
-            "operator enabled 100 free Internet points across the country",
+            "operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022",
             "Inter-American Development Bank loan supports modernization within regulatory framework",
             "dependent on neighboring countries for access to submarine cables",
             "major importer of broadcasting equipment from the USA",
-            2020
+            2022
           ],
           "intl": [
             "Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services",
@@ -17581,10 +17556,10 @@
             0
           ],
           "subs": {
-            "bb": 377379,
-            "fix": 272656,
-            "internet": 4920000,
-            "mob": 7761848
+            "bb": 562369,
+            "fix": 249231,
+            "internet": 5278072,
+            "mob": 7865050
           },
           "tld": ".py",
           "url_tld": "https://en.wikipedia.org/wiki/.py"
@@ -17638,7 +17613,7 @@
           "coord": [
             "10 00 S, 76 00 W"
           ],
-          "popul": 32201224,
+          "popul": 32275736,
           "ports": {
             "container": "Callao (2,313,907) (2019)",
             "seaport": "Callao, Matarani, Paita"
@@ -17688,10 +17663,10 @@
             0
           ],
           "subs": {
-            "bb": 2536077,
-            "fix": 3082040,
-            "internet": 19900000,
-            "mob": 38915400
+            "bb": 3044000,
+            "fix": 2470000,
+            "internet": 21431700,
+            "mob": 44000000
           },
           "tld": ".pe",
           "url_tld": "https://en.wikipedia.org/wiki/.pe"
@@ -17741,7 +17716,7 @@
           "coord": [
             "13 00 N, 122 00 E"
           ],
-          "popul": 110818325,
+          "popul": 114597229,
           "ports": {
             "container": "Manila (5,315,500) (2019)",
             "seaport": "Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila"
@@ -17789,10 +17764,10 @@
             0
           ],
           "subs": {
-            "bb": 5920087,
-            "fix": 4255808,
-            "internet": 73910000,
-            "mob": 167322432
+            "bb": 7936574,
+            "fix": 4731196,
+            "internet": 54790543,
+            "mob": 149579406
           },
           "tld": ".ph",
           "url_tld": "https://en.wikipedia.org/wiki/.ph"
@@ -17886,7 +17861,7 @@
             0
           ],
           "subs": {
-            "internet": 54
+            "internet": 50
           },
           "tld": ".pn",
           "url_tld": "https://en.wikipedia.org/wiki/.pn"
@@ -17935,7 +17910,7 @@
           "coord": [
             "52 00 N, 20 00 E"
           ],
-          "popul": 38185913,
+          "popul": 38093101,
           "ports": {
             "container": "Gdansk (2,073,215) (2019)",
             "seaport": "Gdansk, Gdynia, Swinoujscie"
@@ -17982,9 +17957,9 @@
             0
           ],
           "subs": {
-            "bb": 8212601,
+            "bb": 8369218,
             "fix": 5777428,
-            "internet": 31970000,
+            "internet": 31456228,
             "mob": 49350724
           },
           "tld": ".pl",
@@ -18081,7 +18056,7 @@
           "coord": [
             "39 30 N, 8 00 W"
           ],
-          "popul": 10263850,
+          "popul": 10242081,
           "ports": {
             "container": "Sines (1,420,000) (2019)",
             "seaport": "Leixoes, Lisbon, Setubal, Sines"
@@ -18129,9 +18104,9 @@
             0
           ],
           "subs": {
-            "bb": 4160895,
+            "bb": 4160795,
             "fix": 5212507,
-            "internet": 8580000,
+            "internet": 8031723,
             "mob": 11854999
           },
           "tld": ".pt",
@@ -18189,7 +18164,7 @@
           "coord": [
             "18 15 N, 66 30 W"
           ],
-          "popul": 3142779,
+          "popul": 3098423,
           "ports": {
             "container": "San Juan (2,142,662) (2019)",
             "seaport": "Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, San Juan"
@@ -18239,7 +18214,7 @@
           "subs": {
             "bb": 671284,
             "fix": 711512,
-            "internet": 2210000,
+            "internet": 2559600,
             "mob": 3483570
           },
           "tld": ".pr",
@@ -18297,7 +18272,7 @@
           "coord": [
             "25 30 N, 51 15 E"
           ],
-          "popul": 2479995,
+          "popul": 2508182,
           "ports": {
             "seaport": "Doha, Musay'id, Ra's Laffan"
           },
@@ -18345,7 +18320,7 @@
           "subs": {
             "bb": 296126,
             "fix": 454701,
-            "internet": 2880000,
+            "internet": 2881060,
             "mob": 3798514
           },
           "tld": ".qa",
@@ -18394,7 +18369,7 @@
           "coord": [
             "53 00 N, 8 00 W"
           ],
-          "popul": 5224884,
+          "popul": 5275004,
           "ports": {
             "container": "Dublin (529,563) (2016)",
             "seaport": "Dublin, Shannon Foynes"
@@ -18438,9 +18413,9 @@
             0
           ],
           "subs": {
-            "bb": 1516252,
+            "bb": 1516473,
             "fix": 1678651,
-            "internet": 4510000,
+            "internet": 4586820,
             "mob": 5234027
           },
           "tld": ".ie",
@@ -18505,7 +18480,7 @@
           "coord": [
             "1 00 S, 15 00 E"
           ],
-          "popul": 5417414,
+          "popul": 5546307,
           "ports": {
             "seaport": "Pointe-Noire"
           },
@@ -18555,10 +18530,10 @@
             0
           ],
           "subs": {
-            "bb": 500,
+            "bb": 1000,
             "fix": 17000,
-            "internet": 790000,
-            "mob": 5000000
+            "internet": 484245,
+            "mob": 4890000
           },
           "tld": ".cg",
           "url_tld": "https://en.wikipedia.org/wiki/.cg"
@@ -18610,7 +18585,7 @@
           "coord": [
             "46 00 N, 25 00 E"
           ],
-          "popul": 21230362,
+          "popul": 18519899,
           "ports": {
             "seaport": "Constanta, Midia"
           },
@@ -18655,9 +18630,9 @@
             0
           ],
           "subs": {
-            "bb": 5685000,
+            "bb": 5684782,
             "fix": 3025000,
-            "internet": 15490000,
+            "internet": 15020866,
             "mob": 22592000
           },
           "tld": ".ro",
@@ -18727,7 +18702,7 @@
           "coord": [
             "60 00 N, 100 00 E"
           ],
-          "popul": 142320790,
+          "popul": 142021981,
           "ports": {
             "container": "Saint Petersburg (2,221,724) (2019)",
             "seaport": "<em><br />Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br />Baltic Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br /><em>Black Sea:</em> Novorossiysk<br /><em>Pacific Ocean:</em> Nakhodka, Vladivostok, Vostochnyy"
@@ -18781,9 +18756,9 @@
             0
           ],
           "subs": {
-            "bb": 33872758,
-            "fix": 27674128,
-            "internet": 124000000,
+            "bb": 33893305,
+            "fix": 25892405,
+            "internet": 122488468,
             "mob": 238733217
           },
           "tld": ".ru",
@@ -18832,6 +18807,7 @@
         "25045",
         "25050",
         "25054",
+        "25059",
         "25060",
         "25061",
         "25062",
@@ -18839,6 +18815,7 @@
         "25091",
         "25092",
         "25093",
+        "25096",
         "25098",
         "25099"
       ],
@@ -18881,7 +18858,7 @@
           "coord": [
             "2 00 S, 30 00 E"
           ],
-          "popul": 12943132,
+          "popul": 13173730,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:RW",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/rwanda"
@@ -18927,7 +18904,7 @@
           "subs": {
             "bb": 17685,
             "fix": 11671,
-            "internet": 4120000,
+            "internet": 3497096,
             "mob": 10614408
           },
           "tld": ".rw",
@@ -19013,7 +18990,7 @@
           "coord": [
             "17 90 N, 62 85 W"
           ],
-          "popul": 7116,
+          "popul": 7103,
           "ports": {
             "seaport": "Gustavia"
           },
@@ -19055,7 +19032,7 @@
             0
           ],
           "subs": {
-            "internet": 2025
+            "internet": 7128
           },
           "tld": ".bl",
           "url_tld": "https://en.wikipedia.org/wiki/.bl"
@@ -19118,7 +19095,7 @@
               "37 15 S, 12 30 W"
             ]
           ],
-          "popul": 7915,
+          "popul": 7925,
           "ports": {
             "seaport": "Saint Helena"
           },
@@ -19165,7 +19142,7 @@
           "subs": {
             "bb": 1000,
             "fix": 3000,
-            "internet": 2281,
+            "internet": 2302,
             "mob": 4000
           },
           "tld": ".sh",
@@ -19209,7 +19186,7 @@
           "coord": [
             "17 20 N, 62 45 W"
           ],
-          "popul": 54149,
+          "popul": 54488,
           "ports": {
             "seaport": "Basseterre, Charlestown"
           },
@@ -19252,10 +19229,10 @@
             0
           ],
           "subs": {
-            "bb": 29272,
-            "fix": 17293,
-            "internet": 43100,
-            "mob": 76878
+            "bb": 30000,
+            "fix": 15000,
+            "internet": 42796,
+            "mob": 78000
           },
           "tld": ".kn",
           "url_tld": "https://en.wikipedia.org/wiki/.kn"
@@ -19301,7 +19278,7 @@
           "coord": [
             "13 53 N, 60 58 W"
           ],
-          "popul": 166637,
+          "popul": 167122,
           "ports": {
             "seaport": "Castries, Cul-de-Sac, Vieux-Fort"
           },
@@ -19344,10 +19321,10 @@
             0
           ],
           "subs": {
-            "bb": 32265,
-            "fix": 36469,
-            "internet": 104400,
-            "mob": 184944
+            "bb": 33000,
+            "fix": 38000,
+            "internet": 97323,
+            "mob": 203000
           },
           "tld": ".lc",
           "url_tld": "https://en.wikipedia.org/wiki/.lc"
@@ -19357,7 +19334,7 @@
         "358"
       ],
       "mccmnc": [
-        "338050",
+        "33805",
         "358030",
         "358050",
         "358110"
@@ -19396,7 +19373,7 @@
           "coord": [
             "18 05 N, 63 57 W"
           ],
-          "popul": 32680,
+          "popul": 32792,
           "region": "Central America and the Caribbean",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:MF",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/saint-martin"
@@ -19439,7 +19416,7 @@
             0
           ],
           "subs": {
-            "internet": 7339
+            "mob": 68840
           },
           "tld": ".mf",
           "url_tld": "https://en.wikipedia.org/wiki/.mf"
@@ -19491,7 +19468,7 @@
           "coord": [
             "46 50 N, 56 20 W"
           ],
-          "popul": 5321,
+          "popul": 5257,
           "ports": {
             "seaport": "Saint-Pierre"
           },
@@ -19533,8 +19510,8 @@
             0
           ],
           "subs": {
-            "fix": 4086,
-            "internet": 4600
+            "fix": 4800,
+            "internet": 4500
           },
           "tld": ".pm",
           "url_tld": "https://en.wikipedia.org/wiki/.pm"
@@ -19579,7 +19556,7 @@
           "coord": [
             "13 15 N, 61 12 W"
           ],
-          "popul": 101145,
+          "popul": 100969,
           "ports": {
             "seaport": "Kingstown"
           },
@@ -19623,9 +19600,9 @@
             0
           ],
           "subs": {
-            "bb": 24494,
+            "bb": 24733,
             "fix": 12483,
-            "internet": 67000,
+            "internet": 24408,
             "mob": 97059
           },
           "tld": ".vc",
@@ -19673,7 +19650,7 @@
           "coord": [
             "13 35 S, 172 20 W"
           ],
-          "popul": 204898,
+          "popul": 206179,
           "ports": {
             "seaport": "Apia"
           },
@@ -19721,9 +19698,9 @@
           ],
           "subs": {
             "bb": 1692,
-            "fix": 8454,
-            "internet": 67000,
-            "mob": 124211
+            "fix": 6000,
+            "internet": 67012,
+            "mob": 69000
           },
           "tld": ".ws",
           "url_tld": "https://en.wikipedia.org/wiki/.ws"
@@ -19768,7 +19745,7 @@
           "coord": [
             "43 46 N, 12 25 E"
           ],
-          "popul": 34467,
+          "popul": 34682,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:SM",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/san-marino"
@@ -19803,10 +19780,10 @@
             0
           ],
           "subs": {
-            "bb": 11081,
+            "bb": 11000,
             "fix": 16000,
-            "internet": 20400,
-            "mob": 38750
+            "internet": 20318,
+            "mob": 39000
           },
           "tld": ".sm",
           "url_tld": "https://en.wikipedia.org/wiki/.sm"
@@ -19849,7 +19826,7 @@
           "coord": [
             "1 00 N, 7 00 E"
           ],
-          "popul": 213948,
+          "popul": 217164,
           "ports": {
             "seaport": "Sao Tome"
           },
@@ -19894,8 +19871,8 @@
           ],
           "subs": {
             "bb": 2512,
-            "fix": 2720,
-            "internet": 65000,
+            "fix": 2790,
+            "internet": 72323,
             "mob": 174203
           },
           "tld": ".st",
@@ -19948,7 +19925,7 @@
           "coord": [
             "25 00 N, 45 00 E"
           ],
-          "popul": 34783757,
+          "popul": 35354380,
           "ports": {
             "container": "Ad Dammam (1,822,642), Jeddah (4,433,991), King Abdulla (2,020,683) (2019)",
             "seaport": "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'"
@@ -20001,7 +19978,7 @@
           "subs": {
             "bb": 7890261,
             "fix": 5749058,
-            "internet": 33580000,
+            "internet": 34117590,
             "mob": 43215439
           },
           "tld": ".sa",
@@ -20058,7 +20035,7 @@
           "coord": [
             "14 00 N, 14 00 W"
           ],
-          "popul": 16082442,
+          "popul": 17923036,
           "ports": {
             "seaport": "Dakar"
           },
@@ -20104,9 +20081,9 @@
             0
           ],
           "subs": {
-            "bb": 177363,
-            "fix": 207592,
-            "internet": 7810000,
+            "bb": 153813,
+            "fix": 228774,
+            "internet": 7199890,
             "mob": 19078948
           },
           "tld": ".sn",
@@ -20160,7 +20137,7 @@
           "coord": [
             "44 00 N, 21 00 E"
           ],
-          "popul": 6974289,
+          "popul": 6739471,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:RS",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/serbia"
@@ -20202,9 +20179,9 @@
             0
           ],
           "subs": {
-            "bb": 1724392,
-            "fix": 2572169,
-            "internet": 6890000,
+            "bb": 1730496,
+            "fix": 2572254,
+            "internet": 5381318,
             "mob": 8260758
           },
           "tld": ".rs",
@@ -20257,7 +20234,7 @@
           "coord": [
             "4 35 S, 55 40 E"
           ],
-          "popul": 96387,
+          "popul": 97017,
           "ports": {
             "seaport": "Victoria"
           },
@@ -20303,7 +20280,7 @@
           "subs": {
             "bb": 34966,
             "fix": 18882,
-            "internet": 58000,
+            "internet": 77785,
             "mob": 183498
           },
           "tld": ".sc",
@@ -20353,7 +20330,7 @@
           "coord": [
             "8 30 N, 11 30 W"
           ],
-          "popul": 6807277,
+          "popul": 8692606,
           "ports": {
             "seaport": "Freetown, Pepel, Sherbro Islands"
           },
@@ -20399,7 +20376,7 @@
           ],
           "subs": {
             "fix": 189,
-            "internet": 2390000,
+            "internet": 1435857,
             "mob": 6884201
           },
           "tld": ".sl",
@@ -20453,7 +20430,7 @@
           "coord": [
             "1 22 N, 103 48 E"
           ],
-          "popul": 5866139,
+          "popul": 5921231,
           "ports": {
             "container": "Singapore (37,195,636) (2019)",
             "seaport": "Singapore"
@@ -20501,10 +20478,10 @@
             0
           ],
           "subs": {
-            "bb": 1517600,
-            "fix": 1891600,
-            "internet": 5290000,
-            "mob": 8427500
+            "bb": 1509700,
+            "fix": 1891000,
+            "internet": 5230942,
+            "mob": 9034300
           },
           "tld": ".sg",
           "url_tld": "https://en.wikipedia.org/wiki/.sg"
@@ -20559,7 +20536,7 @@
           "coord": [
             "18 4 N, 63 4 W"
           ],
-          "popul": 44564,
+          "popul": 45126,
           "ports": {
             "seaport": "Philipsburg"
           },
@@ -20604,7 +20581,6 @@
             0
           ],
           "subs": {
-            "internet": 29600,
             "mob": 68840
           },
           "tld": ".sx",
@@ -20670,7 +20646,7 @@
           "coord": [
             "48 40 N, 19 30 E"
           ],
-          "popul": 5436066,
+          "popul": 5431252,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:SK",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/slovakia"
@@ -20719,9 +20695,9 @@
           ],
           "subs": {
             "bb": 1701561,
-            "fix": 616148,
-            "internet": 4640000,
-            "mob": 7289707
+            "fix": 648462,
+            "internet": 4912944,
+            "mob": 7399530
           },
           "tld": ".sk",
           "url_tld": "https://en.wikipedia.org/wiki/.sk"
@@ -20780,7 +20756,7 @@
           "coord": [
             "46 07 N, 14 49 E"
           ],
-          "popul": 2102106,
+          "popul": 2101208,
           "ports": {
             "seaport": "Koper"
           },
@@ -20826,8 +20802,8 @@
           "subs": {
             "bb": 651604,
             "fix": 704909,
-            "internet": 1750000,
-            "mob": 2550895
+            "internet": 1829105,
+            "mob": 2511980
           },
           "tld": ".si",
           "url_tld": "https://en.wikipedia.org/wiki/.si"
@@ -20878,7 +20854,7 @@
           "coord": [
             "8 00 S, 159 00 E"
           ],
-          "popul": 690598,
+          "popul": 702694,
           "ports": {
             "seaport": "Honiara, Malloco Bay, Viru Harbor, Tulagi"
           },
@@ -20920,9 +20896,9 @@
             0
           ],
           "subs": {
-            "bb": 1045,
-            "fix": 7104,
-            "internet": 198900,
+            "bb": 1000,
+            "fix": 7000,
+            "internet": 80379,
             "mob": 478116
           },
           "tld": ".sb",
@@ -20972,7 +20948,7 @@
           "coord": [
             "10 00 N, 49 00 E"
           ],
-          "popul": 12094640,
+          "popul": 12386248,
           "ports": {
             "seaport": "Berbera, Kismaayo"
           },
@@ -21019,10 +20995,10 @@
             0
           ],
           "subs": {
-            "bb": 98000,
-            "fix": 74800,
-            "internet": 1950000,
-            "mob": 7653040
+            "bb": 119000,
+            "fix": 91000,
+            "internet": 308858,
+            "mob": 7119000
           },
           "tld": ".so",
           "url_tld": "https://en.wikipedia.org/wiki/.so"
@@ -21085,7 +21061,7 @@
           "coord": [
             "29 00 S, 24 00 E"
           ],
-          "popul": 56978635,
+          "popul": 57516665,
           "ports": {
             "container": "Durban (2,769,869) (2019)",
             "seaport": "Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay"
@@ -21135,8 +21111,8 @@
           "subs": {
             "bb": 1303057,
             "fix": 2098802,
-            "internet": 38190000,
-            "mob": 95959439
+            "internet": 41516083,
+            "mob": 96972500
           },
           "tld": ".za",
           "url_tld": "https://en.wikipedia.org/wiki/.za"
@@ -21264,7 +21240,7 @@
           "coord": [
             "37 00 N, 127 30 E"
           ],
-          "popul": 51715162,
+          "popul": 51844834,
           "ports": {
             "container": "Busan (21,992,001), Incheon (3,091,955), Kwangyang (2,378,337) (2019)",
             "seaport": "Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu"
@@ -21314,9 +21290,9 @@
             0
           ],
           "subs": {
-            "bb": 22330182,
+            "bb": 22327182,
             "fix": 23858239,
-            "internet": 49750000,
+            "internet": 50281152,
             "mob": 70513676
           },
           "tld": ".kr",
@@ -21375,7 +21351,7 @@
           "coord": [
             "8 00 N, 30 00 E"
           ],
-          "popul": 10984074,
+          "popul": 11544905,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:SS",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/south-sudan"
@@ -21414,8 +21390,8 @@
           ],
           "subs": {
             "bb": 200,
-            "internet": 900700,
-            "mob": 2221967
+            "internet": 783561,
+            "mob": 2221970
           },
           "tld": ".ss",
           "url_tld": "https://en.wikipedia.org/wiki/.ss"
@@ -21475,7 +21451,7 @@
           "coord": [
             "40 00 N, 4 00 W"
           ],
-          "popul": 47260584,
+          "popul": 47163418,
           "ports": {
             "container": "Algeciras (5,125,385), Barcelona (3,324,650), Valencia (5,439,827) (2019)",
             "seaport": "<br /><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br /><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia"
@@ -21525,10 +21501,10 @@
             0
           ],
           "subs": {
-            "bb": 15850358,
-            "fix": 19455779,
-            "internet": 42540000,
-            "mob": 55644651
+            "bb": 16188502,
+            "fix": 19455658,
+            "internet": 44047980,
+            "mob": 55354900
           },
           "tld": ".es",
           "url_tld": "https://en.wikipedia.org/wiki/.es"
@@ -21609,7 +21585,7 @@
           "coord": [
             "7 00 N, 81 00 E"
           ],
-          "popul": 23044123,
+          "popul": 23187516,
           "ports": {
             "container": "Colombo (7,228,337) (2019)",
             "seaport": "Colombo"
@@ -21656,10 +21632,10 @@
             0
           ],
           "subs": {
-            "bb": 1992429,
-            "fix": 2428957,
-            "internet": 10900000,
-            "mob": 29730465
+            "bb": 1781530,
+            "fix": 2607868,
+            "internet": 7671650,
+            "mob": 30778600
           },
           "tld": ".lk",
           "url_tld": "https://en.wikipedia.org/wiki/.lk"
@@ -21752,7 +21728,7 @@
           "coord": [
             "15 00 N, 30 00 E"
           ],
-          "popul": 46751152,
+          "popul": 47958856,
           "ports": {
             "seaport": "Port Sudan"
           },
@@ -21792,14 +21768,14 @@
           "note": [
             "since 2020, some aspects of the telecom sector have experienced a downturn because of supply-chain disruptions related to the COVID-19 pandemic, particularly in mobile device production",
             "many network operators delayed upgrades to infrastructure",
-            "consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes",
+            "consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes. Security services imposed periodic internet and cellular communication blackouts during civilian protests of the military takeover in October, November, and December 2021.",
             0
           ],
           "subs": {
             "bb": 28782,
             "fix": 129408,
-            "internet": 13700000,
-            "mob": 35195207
+            "internet": 12277795,
+            "mob": 33014200
           },
           "tld": ".sd",
           "url_tld": "https://en.wikipedia.org/wiki/.sd"
@@ -21857,7 +21833,7 @@
           "coord": [
             "4 00 N, 56 00 W"
           ],
-          "popul": 614749,
+          "popul": 632638,
           "ports": {
             "seaport": "Paramaribo, Wageningen"
           },
@@ -21906,8 +21882,8 @@
           "subs": {
             "bb": 92270,
             "fix": 103240,
-            "internet": 352100,
-            "mob": 899339
+            "internet": 410644,
+            "mob": 813844
           },
           "tld": ".sr",
           "url_tld": "https://en.wikipedia.org/wiki/.sr"
@@ -21993,10 +21969,7 @@
             "consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes",
             "the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments",
             0
-          ],
-          "subs": {
-            "internet": 1542
-          }
+          ]
         }
       },
       "mcc": [
@@ -22038,7 +22011,7 @@
           "coord": [
             "62 00 N, 15 00 E"
           ],
-          "popul": 10261767,
+          "popul": 10483647,
           "ports": {
             "seaport": "Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby"
           },
@@ -22085,10 +22058,10 @@
             0
           ],
           "subs": {
-            "bb": 4101078,
-            "fix": 1624271,
-            "internet": 9930000,
-            "mob": 12959858
+            "bb": 4179574,
+            "fix": 1478610,
+            "internet": 9835769,
+            "mob": 12895900
           },
           "tld": ".se",
           "url_tld": "https://en.wikipedia.org/wiki/.se"
@@ -22193,7 +22166,7 @@
           "coord": [
             "47 00 N, 8 00 E"
           ],
-          "popul": 8453550,
+          "popul": 8508698,
           "region": "Europe",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:CH",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/switzerland"
@@ -22235,10 +22208,10 @@
             0
           ],
           "subs": {
-            "bb": 4022999,
-            "fix": 2952000,
-            "internet": 8420000,
-            "mob": 10900000
+            "bb": 4028238,
+            "fix": 3071296,
+            "internet": 8118367,
+            "mob": 10829000
           },
           "tld": ".ch",
           "url_tld": "https://en.wikipedia.org/wiki/.ch"
@@ -22320,7 +22293,7 @@
           "coord": [
             "35 00 N, 38 00 E"
           ],
-          "popul": 20384316,
+          "popul": 21563800,
           "ports": {
             "seaport": "Baniyas, Latakia, Tartus"
           },
@@ -22370,10 +22343,10 @@
             0
           ],
           "subs": {
-            "bb": 1548100,
-            "fix": 2892515,
-            "internet": 8410000,
-            "mob": 16660253
+            "bb": 1549356,
+            "fix": 2857193,
+            "internet": 6300237,
+            "mob": 19387600
           },
           "tld": ".sy",
           "url_tld": "https://en.wikipedia.org/wiki/.sy"
@@ -22385,6 +22358,7 @@
       "mccmnc": [
         "41701",
         "41702",
+        "41703",
         "41709"
       ],
       "msisdn": [
@@ -22418,7 +22392,7 @@
           "coord": [
             "23 30 N, 121 00 E"
           ],
-          "popul": 23572052,
+          "popul": 23580712,
           "ports": {
             "container": "Kaohsiung (10,428,634), Taichung (1,793,966), Taipei (1,620,392) (2019)",
             "seaport": "Keelung (Chi-lung), Kaohsiung, Hualian, Taichung"
@@ -22464,10 +22438,10 @@
             0
           ],
           "subs": {
-            "bb": 5952411,
-            "fix": 12750429,
-            "internet": 21450000,
-            "mob": 29351150
+            "bb": 5831470,
+            "fix": 12971900,
+            "internet": 21158750,
+            "mob": 29291500
           },
           "tld": ".tw",
           "url_tld": "https://en.wikipedia.org/wiki/.tw"
@@ -22532,7 +22506,7 @@
           "coord": [
             "39 00 N, 71 00 E"
           ],
-          "popul": 8990874,
+          "popul": 9119347,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:TJ",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/tajikistan"
@@ -22581,8 +22555,8 @@
           ],
           "subs": {
             "bb": 6000,
-            "fix": 479000,
-            "internet": 3360000,
+            "fix": 502000,
+            "internet": 2050625,
             "mob": 9904000
           },
           "tld": ".tj",
@@ -22641,7 +22615,7 @@
           "coord": [
             "6 00 S, 35 00 E"
           ],
-          "popul": 62092761,
+          "popul": 63852892,
           "ports": {
             "seaport": "Dar es Salaam, Zanzibar"
           },
@@ -22665,11 +22639,13 @@
             2019
           ],
           "general": [
-            "Tanzania's telecom services are marginal and operating below capacity",
+            "Tanzania's telecom services are being developed to reach parity with more advanced networks from neighboring countries such as Kenya and fierce competition exists amongst Tanzania's 5 major mobile network operators",
             "one fixed-line operator with competition in mobile networks",
             "high tariffs on telecom",
-            "mobile use is growing with popularity of 3G/LTE services",
-            "government allocated funds in 2019 to improve rural telecom infrastructure and work on national fiber backbone network connecting population around country",
+            "mobile use remains popular, with the government subsidizing expansion of mobile networks into rural communities",
+            "most mobile networks rely on older 2G and 3G technology with 4G/LTE service available in urban centers",
+            "the government is currently testing 5G technology and plans to begin rolling out 5G service in 2024",
+            "the government continues to improve rural telecom infrastructure including work on a national fiber backbone network connecting the entire population",
             2020
           ],
           "intl": [
@@ -22687,10 +22663,10 @@
             0
           ],
           "subs": {
-            "bb": 1084698,
+            "bb": 1135608,
             "fix": 72469,
-            "internet": 15150000,
-            "mob": 51220233
+            "internet": 13141527,
+            "mob": 47685200
           },
           "tld": ".tz",
           "url_tld": "https://en.wikipedia.org/wiki/.tz"
@@ -22750,7 +22726,7 @@
           "coord": [
             "15 00 N, 100 00 E"
           ],
-          "popul": 69480520,
+          "popul": 69648117,
           "ports": {
             "container": "Laem Chabang (8,106,928) (2019)",
             "seaport": "Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha"
@@ -22804,10 +22780,10 @@
             0
           ],
           "subs": {
-            "bb": 11599513,
+            "bb": 11478265,
             "fix": 5003000,
-            "internet": 48590000,
-            "mob": 116294000
+            "internet": 54443983,
+            "mob": 129614000
           },
           "tld": ".th",
           "url_tld": "https://en.wikipedia.org/wiki/.th"
@@ -22864,7 +22840,7 @@
           "coord": [
             "24 15 N, 76 00 W"
           ],
-          "popul": 352655,
+          "popul": 355608,
           "ports": {
             "container": "Freeport (1,396,568) (2019)",
             "seaport": "Freeport, Nassau, South Riding Point"
@@ -22909,10 +22885,10 @@
             0
           ],
           "subs": {
-            "bb": 82295,
-            "fix": 91129,
-            "internet": 335800,
-            "mob": 425507
+            "bb": 83000,
+            "fix": 91000,
+            "internet": 342126,
+            "mob": 466000
           },
           "tld": ".bs",
           "url_tld": "https://en.wikipedia.org/wiki/.bs"
@@ -22961,7 +22937,7 @@
           "coord": [
             "13 28 N, 16 34 W"
           ],
-          "popul": 2221301,
+          "popul": 2413403,
           "ports": {
             "seaport": "Banjul"
           },
@@ -23006,9 +22982,9 @@
             0
           ],
           "subs": {
-            "bb": 4433,
-            "fix": 44000,
-            "internet": 580200,
+            "bb": 5000,
+            "fix": 60000,
+            "internet": 894166,
             "mob": 2677954
           },
           "tld": ".gm",
@@ -23061,7 +23037,7 @@
           "coord": [
             "8 00 N, 1 10 E"
           ],
-          "popul": 8283189,
+          "popul": 8492333,
           "ports": {
             "seaport": "Kpeme, Lome"
           },
@@ -23106,8 +23082,8 @@
           "subs": {
             "bb": 52706,
             "fix": 46499,
-            "internet": 1990000,
-            "mob": 6516510
+            "internet": 1986897,
+            "mob": 6239180
           },
           "tld": ".tg",
           "url_tld": "https://en.wikipedia.org/wiki/.tg"
@@ -23187,7 +23163,7 @@
             0
           ],
           "subs": {
-            "internet": 818
+            "internet": 805
           },
           "tld": ".tk",
           "url_tld": "https://en.wikipedia.org/wiki/.tk"
@@ -23230,7 +23206,7 @@
           "coord": [
             "20 00 S, 175 00 W"
           ],
-          "popul": 105780,
+          "popul": 105517,
           "ports": {
             "seaport": "Nuku'alofa, Neiafu, Pangai"
           },
@@ -23275,9 +23251,9 @@
             0
           ],
           "subs": {
-            "bb": 3703,
-            "fix": 6637,
-            "internet": 43800,
+            "bb": 5000,
+            "fix": 7000,
+            "internet": 42844,
             "mob": 62104
           },
           "tld": ".to",
@@ -23323,7 +23299,7 @@
           "coord": [
             "11 00 N, 61 00 W"
           ],
-          "popul": 1221047,
+          "popul": 1405646,
           "ports": {
             "seaport": "Point Fortin, Point Lisas, Port of Spain, Scarborough"
           },
@@ -23369,10 +23345,10 @@
             0
           ],
           "subs": {
-            "bb": 375990,
+            "bb": 376771,
             "fix": 323905,
-            "internet": 860000,
-            "mob": 1987996
+            "internet": 1074126,
+            "mob": 2163730
           },
           "tld": ".tt",
           "url_tld": "https://en.wikipedia.org/wiki/.tt"
@@ -23448,7 +23424,7 @@
           "coord": [
             "34 00 N, 9 00 E"
           ],
-          "popul": 11811335,
+          "popul": 11896972,
           "ports": {
             "seaport": "Bizerte, Gabes, Rades, Sfax, Skhira"
           },
@@ -23469,20 +23445,20 @@
             "in an effort to jumpstart expansion of the fixed-line network, the government awarded a concession to build and operate a VSAT network with international connectivity",
             "rural areas are served by wireless local loops",
             "competition between several mobile-cellular service providers has resulted in lower activation and usage charges and a surge in subscribership",
-            "fixed-line is nearly 13 per 100 and mobile-cellular teledensity has reached about 126 telephones per 100 persons",
-            2020
+            "fixed-line is nearly 14.1 per 100 and mobile-cellular teledensity has reached about 132 telephones per 100 persons",
+            2022
           ],
           "general": [
             "Tunisia has one of the most sophisticated telecom infrastructures in North Africa",
             "penetration rates for mobile and Internet services are among the highest in the region",
             "government program of regulation and infrastructure projects aims to improve Internet connectivity to underserved areas",
-            "operators built extensive LTE infrastructure in 2019, and are developing 5G networks and services",
-            "Chinese company Huawei invested in LTE network",
-            "operator planning nano-satellite launches in 2023",
+            "operators built extensive LTE infrastructure in 2019, and continue to discuss plans for future 5G networks and services",
+            "People's Republic of China (PRC) company Huawei sold equipment to operators for Tunisia's LTE networks",
+            "one operator has signed an agreement to pursue nano-satellite launches in 2023",
             "Internet censorship abolished, though concerns of government surveillance remain",
             "legislation passed in 2017 supporting e-commerce and active e-government",
-            "importer of integrated circuits and broadcasting equipment from China",
-            2020
+            "importer of some integrated circuits and broadcasting equipment (including radio, television, and communications transmitters) from the PRC",
+            2022
           ],
           "intl": [
             "landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and Trapani-Kelibia submarine cable systems that provides links to Europe, Africa, the Middle East, Asia and Southeast Asia",
@@ -23502,10 +23478,10 @@
             0
           ],
           "subs": {
-            "bb": 1334551,
+            "bb": 1334059,
             "fix": 1533273,
-            "internet": 7920000,
-            "mob": 14852857
+            "internet": 8509405,
+            "mob": 14771000
           },
           "tld": ".tn",
           "url_tld": "https://en.wikipedia.org/wiki/.tn"
@@ -23559,7 +23535,7 @@
           "coord": [
             "39 00 N, 35 00 E"
           ],
-          "popul": 82482383,
+          "popul": 83047706,
           "ports": {
             "container": "Ambarli (3,104,882), Mersin (Icel) (1,854,312), Izmet (1,715,193) (2019)",
             "seaport": "Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca"
@@ -23612,8 +23588,8 @@
           "subs": {
             "bb": 16734853,
             "fix": 12448604,
-            "internet": 65800000,
-            "mob": 82128104
+            "internet": 65784472,
+            "mob": 80790900
           },
           "tld": ".tr",
           "url_tld": "https://en.wikipedia.org/wiki/.tr"
@@ -23663,7 +23639,7 @@
           "coord": [
             "40 00 N, 60 00 E"
           ],
-          "popul": 5579889,
+          "popul": 5636011,
           "ports": {
             "seaport": "Caspian Sea - Turkmenbasy"
           },
@@ -23707,9 +23683,9 @@
             0
           ],
           "subs": {
-            "bb": 5000,
-            "fix": 682000,
-            "internet": 2009999,
+            "bb": 10000,
+            "fix": 717000,
+            "internet": 1247940,
             "mob": 9377000
           },
           "tld": ".tm",
@@ -23755,7 +23731,7 @@
           "coord": [
             "21 45 N, 71 35 W"
           ],
-          "popul": 57196,
+          "popul": 58286,
           "ports": {
             "seaport": "Cockburn Harbour, Grand Turk, Providenciales"
           },
@@ -23799,8 +23775,7 @@
             0
           ],
           "subs": {
-            "fix": 4000,
-            "internet": 31000
+            "fix": 4000
           },
           "tld": ".tc",
           "url_tld": "https://en.wikipedia.org/wiki/.tc"
@@ -23850,7 +23825,7 @@
           "coord": [
             "8 00 S, 178 00 E"
           ],
-          "popul": 11448,
+          "popul": 11544,
           "ports": {
             "seaport": "Funafuti"
           },
@@ -23893,7 +23868,7 @@
           "subs": {
             "bb": 450,
             "fix": 2000,
-            "internet": 5849,
+            "internet": 5711,
             "mob": 8000
           },
           "tld": ".tv",
@@ -23942,7 +23917,7 @@
           "coord": [
             "1 00 N, 32 00 E"
           ],
-          "popul": 44712143,
+          "popul": 46205893,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:UG",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/uganda"
@@ -23984,10 +23959,10 @@
             0
           ],
           "subs": {
-            "bb": 34596,
+            "bb": 58594,
             "fix": 90774,
-            "internet": 12160000,
-            "mob": 27688987
+            "internet": 9148200,
+            "mob": 25395500
           },
           "tld": ".ug",
           "url_tld": "https://en.wikipedia.org/wiki/.ug"
@@ -24052,7 +24027,7 @@
           "coord": [
             "49 00 N, 32 00 E"
           ],
-          "popul": 43745640,
+          "popul": 43528136,
           "ports": {
             "seaport": "Feodosiia, Chornomorsk, Mariupol, Mykolaiv, Odesa, Yuzhne"
           },
@@ -24101,8 +24076,8 @@
           "subs": {
             "bb": 7769401,
             "fix": 3314263,
-            "internet": 29470000,
-            "mob": 53977690
+            "internet": 33101020,
+            "mob": 54842900
           },
           "tld": ".ua",
           "url_tld": "https://en.wikipedia.org/wiki/.ua"
@@ -24165,7 +24140,7 @@
           "coord": [
             "24 00 N, 54 00 E"
           ],
-          "popul": 9856612,
+          "popul": 9915803,
           "ports": {
             "container": "Dubai Port (14,111,000) (2019)",
             "seaport": "Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)"
@@ -24217,8 +24192,8 @@
           "subs": {
             "bb": 3245123,
             "fix": 2380866,
-            "internet": 9940000,
-            "mob": 18374332
+            "internet": 9890400,
+            "mob": 19602800
           },
           "tld": ".ae",
           "url_tld": "https://en.wikipedia.org/wiki/.ae"
@@ -24269,7 +24244,7 @@
           "coord": [
             "54 00 N, 2 00 W"
           ],
-          "popul": 67081000,
+          "popul": 67791400,
           "ports": {
             "container": "Felixstowe (3,584,000), London (2,790,000), Southampton (1,924,847) (2019)",
             "seaport": "Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales)"
@@ -24319,10 +24294,10 @@
             0
           ],
           "subs": {
-            "bb": 27490258,
-            "fix": 32078000,
-            "internet": 65319999,
-            "mob": 79007000
+            "bb": 27330297,
+            "fix": 32037000,
+            "internet": 63854528,
+            "mob": 80967000
           },
           "tld": ".gb",
           "url_tld": "https://en.wikipedia.org/wiki/.gb"
@@ -24443,7 +24418,7 @@
           "coord": [
             "38 00 N, 97 00 W"
           ],
-          "popul": 334998398,
+          "popul": 337341954,
           "ports": {
             "container": "Charleston (2,436,185), Hampton Roads (2,937,962), Houston (2,987,291), Long Beach (7,632,032), Los Angeles (9,337,632), New York/New Jersey (7,471,131), Oakland (2,500,431), Savannah (4,599,177), Seattle/Tacoma (3,775,303) (2019)",
             "seaport": "<em><br />Atlantic Ocean:</em> Charleston, Hampton Roads, New York/New Jersey, Savannah<br /><em>Pacific Ocean:</em> Long Beach, Los Angeles, Oakland, Seattle/Tacoma<br /><em>Gulf of Mexico:</em> Houston"
@@ -24496,9 +24471,9 @@
             0
           ],
           "subs": {
-            "bb": 120531000,
-            "fix": 103052000,
-            "internet": 298800000,
+            "bb": 121176000,
+            "fix": 101526000,
+            "internet": 301665983,
             "mob": 442457000
           },
           "tld": ".us",
@@ -25062,7 +25037,7 @@
           "coord": [
             "18 20 N, 64 50 W"
           ],
-          "popul": 105870,
+          "popul": 105413,
           "ports": {
             "seaport": "Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree Bay"
           },
@@ -25108,7 +25083,8 @@
           ],
           "subs": {
             "fix": 76000,
-            "internet": 67200
+            "internet": 68268,
+            "mob": 59121
           },
           "tld": ".vi",
           "url_tld": "https://en.wikipedia.org/wiki/.vi"
@@ -25158,7 +25134,7 @@
           "coord": [
             "33 00 S, 56 00 W"
           ],
-          "popul": 3398239,
+          "popul": 3407213,
           "ports": {
             "seaport": "Montevideo"
           },
@@ -25208,10 +25184,10 @@
             0
           ],
           "subs": {
-            "bb": 1012410,
-            "fix": 1165373,
-            "internet": 2690000,
-            "mob": 4779787
+            "bb": 1063701,
+            "fix": 1224600,
+            "internet": 2987405,
+            "mob": 4779790
           },
           "tld": ".uy",
           "url_tld": "https://en.wikipedia.org/wiki/.uy"
@@ -25263,7 +25239,7 @@
           "coord": [
             "41 00 N, 64 00 E"
           ],
-          "popul": 30842796,
+          "popul": 31104937,
           "region": "Asia",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:UZ",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/uzbekistan"
@@ -25317,7 +25293,7 @@
           "subs": {
             "bb": 4820009,
             "fix": 3550069,
-            "internet": 18600000,
+            "internet": 24304756,
             "mob": 33387000
           },
           "tld": ".uz",
@@ -25369,7 +25345,7 @@
           "coord": [
             "16 00 S, 167 00 E"
           ],
-          "popul": 303009,
+          "popul": 308043,
           "ports": {
             "seaport": "Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila"
           },
@@ -25418,8 +25394,8 @@
           "subs": {
             "bb": 2785,
             "fix": 3472,
-            "internet": 104100,
-            "mob": 246232
+            "internet": 77969,
+            "mob": 265219
           },
           "tld": ".vu",
           "url_tld": "https://en.wikipedia.org/wiki/.vu"
@@ -25547,7 +25523,7 @@
           "coord": [
             "8 00 N, 66 00 W"
           ],
-          "popul": 29069153,
+          "popul": 29789730,
           "ports": {
             "seaport": "La Guaira, Maracaibo, Puerto Cabello, Punta Cardon"
           },
@@ -25571,7 +25547,7 @@
             2020
           ],
           "general": [
-            "telecom industry struggling due to political upheaval in the country",
+            "the telecom industry is struggling due to political upheaval in the country",
             "poor quality of service in many areas of the country due to decrepit state of fixed-line network and operators' inability to pay for equipment from foreign vendors",
             "operator suffering from stolen or damaged infrastructure",
             "many consumers favor mobile service, and cancel their fixed-line services",
@@ -25579,9 +25555,9 @@
             "LTE coverage to about half of the population",
             "government launched National Fiber Optic backbone project in 2019",
             "national satellite drifted off course and became non-operational",
-            "American company closed a telecom service due to US sanctions and a Chilean company later acquired the service",
+            "an American company closed a telecom service due to US sanctions and a Chilean company later acquired the service",
             "Internet freedom deteriorating amid crisis, with frequent disruptions to service and monitoring",
-            "importer of broadcasting equipment from the USA",
+            "importer of broadcasting equipment from the US",
             2020
           ],
           "intl": [
@@ -25599,10 +25575,10 @@
             0
           ],
           "subs": {
-            "bb": 2407187,
-            "fix": 5276274,
-            "internet": 20570000,
-            "mob": 18028388
+            "bb": 2561556,
+            "fix": 5251182,
+            "internet": 20531397,
+            "mob": 13476300
           },
           "tld": ".ve",
           "url_tld": "https://en.wikipedia.org/wiki/.ve"
@@ -25653,7 +25629,7 @@
           "coord": [
             "16 10 N, 107 50 E"
           ],
-          "popul": 102789598,
+          "popul": 103808319,
           "ports": {
             "container": "Saigon (7,220,377), Cai Mep (3,742,384), Haiphong (5,133,150) (2019)",
             "seaport": "Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon"
@@ -25704,8 +25680,8 @@
           "subs": {
             "bb": 16699249,
             "fix": 3205775,
-            "internet": 68720000,
-            "mob": 138934626
+            "internet": 68137008,
+            "mob": 136230000
           },
           "tld": ".vn",
           "url_tld": "https://en.wikipedia.org/wiki/.vn"
@@ -25756,7 +25732,7 @@
           "coord": [
             "13 18 S, 176 12 W"
           ],
-          "popul": 15851,
+          "popul": 15891,
           "ports": {
             "seaport": "Leava, Mata-Utu"
           },
@@ -25802,7 +25778,7 @@
           ],
           "subs": {
             "fix": 3132,
-            "internet": 5500
+            "internet": 1029
           },
           "tld": ".wf",
           "url_tld": "https://en.wikipedia.org/wiki/.wf"
@@ -25878,7 +25854,7 @@
           "coord": [
             "15 00 N, 48 00 E"
           ],
-          "popul": 30399243,
+          "popul": 30984689,
           "ports": {
             "seaport": "Aden, Al Hudaydah, Al Mukalla"
           },
@@ -25926,10 +25902,10 @@
             0
           ],
           "subs": {
-            "bb": 386330,
-            "fix": 1190000,
-            "internet": 8060000,
-            "mob": 15297789
+            "bb": 391000,
+            "fix": 1240000,
+            "internet": 7873719,
+            "mob": 15357900
           },
           "tld": ".ye",
           "url_tld": "https://en.wikipedia.org/wiki/.ye"
@@ -25983,7 +25959,7 @@
           "coord": [
             "15 00 S, 30 00 E"
           ],
-          "popul": 19077816,
+          "popul": 19642123,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:ZM",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/zambia"
@@ -26026,8 +26002,8 @@
           "subs": {
             "bb": 82317,
             "fix": 71844,
-            "internet": 5480000,
-            "mob": 19104208
+            "internet": 3676791,
+            "mob": 17220600
           },
           "tld": ".zm",
           "url_tld": "https://en.wikipedia.org/wiki/.zm"
@@ -26077,7 +26053,7 @@
           "coord": [
             "20 00 S, 30 00 E"
           ],
-          "popul": 14829988,
+          "popul": 15121004,
           "region": "Africa",
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:ZW",
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/zimbabwe"
@@ -26126,8 +26102,8 @@
           "subs": {
             "bb": 203461,
             "fix": 252067,
-            "internet": 5010000,
-            "mob": 13191708
+            "internet": 4310249,
+            "mob": 13195900
           },
           "tld": ".zw",
           "url_tld": "https://en.wikipedia.org/wiki/.zw"
