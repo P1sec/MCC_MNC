@@ -120,7 +120,6 @@
       "neigh": {
         "bord": [
           "France",
-          "Metropolitan France",
           "Spain"
         ],
         "less100": [],
@@ -389,7 +388,6 @@
           "France",
           "Germany",
           "Luxembourg",
-          "Metropolitan France",
           "Netherlands"
         ],
         "less100": [
@@ -530,7 +528,6 @@
           "Argentina",
           "Bolivia",
           "Colombia",
-          "France",
           "French Guiana",
           "Guyana",
           "Paraguay",
@@ -1202,14 +1199,11 @@
         "bord": [
           "Andorra",
           "Belgium",
-          "Brazil",
           "Germany",
           "Italy",
           "Luxembourg",
           "Monaco",
-          "Sint Maarten",
           "Spain",
-          "Suriname",
           "Switzerland"
         ],
         "less100": [
@@ -1318,7 +1312,6 @@
           "Denmark",
           "France",
           "Luxembourg",
-          "Metropolitan France",
           "Netherlands",
           "Poland",
           "Switzerland"
@@ -1675,7 +1668,6 @@
         "bord": [
           "Austria",
           "France",
-          "Metropolitan France",
           "San Marino",
           "Slovenia",
           "Switzerland",
@@ -1969,8 +1961,7 @@
         "bord": [
           "Belgium",
           "France",
-          "Germany",
-          "Metropolitan France"
+          "Germany"
         ],
         "less100": [
           "Netherlands"
@@ -2156,8 +2147,7 @@
       "cc2": "MC",
       "neigh": {
         "bord": [
-          "France",
-          "Metropolitan France"
+          "France"
         ],
         "less100": [],
         "less30": [
@@ -3024,7 +3014,6 @@
       "dep": "NL",
       "neigh": {
         "bord": [
-          "France",
           "Saint Martin"
         ],
         "less100": [
@@ -3179,7 +3168,6 @@
           "Andorra",
           "France",
           "Gibraltar",
-          "Metropolitan France",
           "Morocco",
           "Portugal"
         ],
@@ -3242,7 +3230,6 @@
       "neigh": {
         "bord": [
           "Brazil",
-          "France",
           "French Guiana",
           "Guyana"
         ],
@@ -3291,8 +3278,7 @@
           "France",
           "Germany",
           "Italy",
-          "Liechtenstein",
-          "Metropolitan France"
+          "Liechtenstein"
         ],
         "less100": [],
         "less30": []

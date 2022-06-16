@@ -348,6 +348,12 @@ def _strip_str(s):
     return RE_SPACE.sub(' ', s).strip()
 
 
+RE_HTML_BR = re.compile('<br[\s/]{0,}>')
+ 
+def _strip_html_br(s):
+    return RE_HTML_BR.sub('', s)
+
+
 def _extract_geo_mult(s):
     r = []
     for ssub in s.split(';'):
@@ -529,11 +535,11 @@ def _extract_ports(l):
     r = {}
     for s in l:
         if s.startswith('major seaport'):
-            r['seaport']   = _strip_str(s.split(':', 1)[1])
+            r['seaport']   = _strip_html_br(_strip_str(s.split(':', 1)[1]))
         elif s.startswith('container port'):
-            r['container'] = _strip_str(s.split(':', 1)[1])
+            r['container'] = _strip_html_br(_strip_str(s.split(':', 1)[1]))
         elif s.startswith('cruise/ferry'):
-            r['ferry']     = _strip_str(s.split(':', 1)[1])
+            r['ferry']     = _strip_html_br(_strip_str(s.split(':', 1)[1]))
     return r
 
 

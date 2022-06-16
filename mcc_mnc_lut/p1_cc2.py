@@ -719,9 +719,9 @@ P1_CC2 = \
                               'coord': ['27 00 S, 133 00 E'],
                               'popul': 26141369,
                               'ports': { 'container': 'Melbourne (2,967,315), Sydney (2,572,714) (2019)',
-                                         'seaport': '<em><br />Indian Ocean:</em> Adelaide, Darwin, Fremantle, '
-                                                    'Geelong, Melbourne<br /><em>Pacific Ocean:</em> Brisbane, Cairns, '
-                                                    'Gladstone, Hobart, Newcastle, Port Port Kembla, Sydney'},
+                                         'seaport': '<em>Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, '
+                                                    'Melbourne<em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, '
+                                                    'Hobart, Newcastle, Port Port Kembla, Sydney'},
                               'region': 'Oceania',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AU',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/australia'},
@@ -3075,8 +3075,8 @@ P1_CC2 = \
                               'coord': ['4 00 N, 72 00 W'],
                               'popul': 49059221,
                               'ports': { 'container': 'Buenaventura (1,121,267), Cartagena (2,995,031) (2019)',
-                                         'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br '
-                                                    '/>Pacific Ocean - Buenaventura'},
+                                         'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, TurboPacific '
+                                                    'Ocean - Buenaventura'},
                               'region': 'South America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CO',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/colombia'},
@@ -3636,7 +3636,7 @@ P1_CC2 = \
                               'coord': ['51 00 N, 9 00 E'],
                               'popul': 84316622,
                               'ports': { 'container': 'Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)',
-                                         'seaport': '<br /><em>Baltic Sea:</em> Kiel, Rostock<br /><em>North Sea:</em> '
+                                         'seaport': '<em>Baltic Sea:</em> Kiel, Rostock<em>North Sea:</em> '
                                                     'Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DE',
@@ -4352,9 +4352,9 @@ P1_CC2 = \
                               'popul': 47163418,
                               'ports': { 'container': 'Algeciras (5,125,385), Barcelona (3,324,650), Valencia '
                                                       '(5,439,827) (2019)',
-                                         'seaport': '<br /><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa '
-                                                    'Cruz de Tenerife (in the Canary Islands)<br /><em>Mediterranean '
-                                                    'Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia'},
+                                         'seaport': '<em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz '
+                                                    'de Tenerife (in the Canary Islands)<em>Mediterranean Sea:</em> '
+                                                    'Algeciras, Barcelona, Cartagena, Tarragona, Valencia'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ES',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/spain'},
@@ -4838,8 +4838,8 @@ P1_CC2 = \
                               'popul': 68305148,
                               'ports': { 'container': 'Le Havre (2,822,910) (2019)',
                                          'ferry': 'Calais, Cherbourg, Le Havre',
-                                         'seaport': '<br /><em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le '
-                                                    'Havre, Nantes<br /><em>Mediterranean Sea:</em> Marseille'},
+                                         'seaport': '<em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le Havre, '
+                                                    'Nantes<em>Mediterranean Sea:</em> Marseille'},
                               'region': 'Europe',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FR',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/france'},
@@ -5380,10 +5380,10 @@ P1_CC2 = \
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ghana'},
                      'nameset': ['ghana', 'republic of ghana', 'the republic of ghana'],
                      'tel': { 'code': '233',
-                              'domestic': [ 'fixed-line data about 1 per 100 subscriptions',
+                              'domestic': [ 'fixed-line data about 1 per 200 subscriptions',
                                             'competition among multiple mobile-cellular providers has spurred growth '
                                             'with a voice subscribership of more than 130 per 100 persons',
-                                            2020],
+                                            2022],
                               'general': [ 'challenged by unreliable electricity and shortage of skilled labor, Ghana '
                                            'seeks to extend telecom services nationally',
                                            'investment in fiber infrastructure and off-grid solutions provide data '
@@ -5393,14 +5393,14 @@ P1_CC2 = \
                                            'moderately competitive Internet market, most through mobile networks',
                                            'international submarine cables, and terrestrial cables have improved '
                                            'Internet capacity',
-                                           2020],
+                                           2022],
                               'intl': [ 'landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic '
                                         'submarine cables that provide connectivity to South and West Africa, and '
                                         'Europe',
                                         'satellite earth stations - 4 Intelsat (Atlantic Ocean)',
                                         'microwave radio relay link to Panaftel system connects Ghana to its neighbors',
                                         'GhanaSat-1 nanosatellite launched in 2017',
-                                        2019],
+                                        2017],
                               'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                         'and supply chains globally',
                                         'since 2020, some aspects of the telecom sector have experienced downturn, '
@@ -12097,7 +12097,7 @@ P1_CC2 = \
                                         'the crucial nature of telecom services as a tool for work and school from '
                                         'home became evident, and received some support from governments',
                                         0],
-                              'subs': {'bb': 562369, 'fix': 249231, 'internet': 5278072, 'mob': 7865050},
+                              'subs': {'bb': 562369, 'fix': 249231, 'internet': 4920000, 'mob': 7865050},
                               'tld': '.py',
                               'url_tld': 'https://en.wikipedia.org/wiki/.py'}},
           'mcc': ['744'],
@@ -12321,10 +12321,10 @@ P1_CC2 = \
                               'coord': ['60 00 N, 100 00 E'],
                               'popul': 142021981,
                               'ports': { 'container': 'Saint Petersburg (2,221,724) (2019)',
-                                         'seaport': '<em><br />Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br '
-                                                    '/>Baltic Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br '
-                                                    '/><em>Black Sea:</em> Novorossiysk<br /><em>Pacific Ocean:</em> '
-                                                    'Nakhodka, Vladivostok, Vostochnyy'},
+                                         'seaport': '<em>Arctic Ocean: </em>Arkhangelsk, Murmansk<em>Baltic Sea:</em> '
+                                                    'Kaliningrad, Primorsk, Saint Petersburg<em>Black Sea:</em> '
+                                                    'Novorossiysk<em>Pacific Ocean:</em> Nakhodka, Vladivostok, '
+                                                    'Vostochnyy'},
                               'region': 'Asia',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RU',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/russia'},
@@ -14443,12 +14443,8 @@ P1_CC2 = \
                                                     'Mersin (Icel), Limani, Yarimca'},
                               'region': 'Middle East',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TR',
-                              'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/turkey'},
-                     'nameset': [ 'republic of turkey',
-                                  'the republic of turkey',
-                                  'turkey',
-                                  'turkiye',
-                                  'turkiye cumhuriyeti'],
+                              'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/turkey-turkiye'},
+                     'nameset': ['republic of turkey', 'the republic of turkey', 'turkey', 'turkey cumhuriyeti'],
                      'tel': { 'code': '90',
                               'domestic': [ 'additional digital exchanges are permitting a rapid increase in '
                                             'subscribers',
@@ -15101,10 +15097,9 @@ P1_CC2 = \
                                                       '(2,987,291), Long Beach (7,632,032), Los Angeles (9,337,632), '
                                                       'New York/New Jersey (7,471,131), Oakland (2,500,431), Savannah '
                                                       '(4,599,177), Seattle/Tacoma (3,775,303) (2019)',
-                                         'seaport': '<em><br />Atlantic Ocean:</em> Charleston, Hampton Roads, New '
-                                                    'York/New Jersey, Savannah<br /><em>Pacific Ocean:</em> Long '
-                                                    'Beach, Los Angeles, Oakland, Seattle/Tacoma<br /><em>Gulf of '
-                                                    'Mexico:</em> Houston'},
+                                         'seaport': '<em>Atlantic Ocean:</em> Charleston, Hampton Roads, New York/New '
+                                                    'Jersey, Savannah<em>Pacific Ocean:</em> Long Beach, Los Angeles, '
+                                                    'Oakland, Seattle/Tacoma<em>Gulf of Mexico:</em> Houston'},
                               'region': 'North America',
                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:US',
                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/united-states'},

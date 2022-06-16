@@ -791,8 +791,8 @@ WORLD_FB = \
                             'country_name': {'conv_long': 'Commonwealth of Australia', 'conv_short': 'Australia'},
                             'population': 26141369,
                             'ports': { 'container': 'Melbourne (2,967,315), Sydney (2,572,714) (2019)',
-                                       'seaport': '<em><br />Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, '
-                                                  'Melbourne<br /><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, '
+                                       'seaport': '<em>Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, '
+                                                  'Melbourne<em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, '
                                                   'Hobart, Newcastle, Port Port Kembla, Sydney'},
                             'region': ['Oceania'],
                             'subs_broadband': 9099619,
@@ -3151,8 +3151,8 @@ WORLD_FB = \
                                              'local_short': 'Colombia'},
                            'population': 49059221,
                            'ports': { 'container': 'Buenaventura (1,121,267), Cartagena (2,995,031) (2019)',
-                                      'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br '
-                                                 '/>Pacific Ocean - Buenaventura'},
+                                      'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, TurboPacific '
+                                                 'Ocean - Buenaventura'},
                            'region': ['South America'],
                            'subs_broadband': 7764772,
                            'subs_fixed': 7248026,
@@ -5087,8 +5087,8 @@ WORLD_FB = \
                          'population': 68305148,
                          'ports': { 'container': 'Le Havre (2,822,910) (2019)',
                                     'ferry': 'Calais, Cherbourg, Le Havre',
-                                    'seaport': '<br /><em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le Havre, '
-                                               'Nantes<br /><em>Mediterranean Sea:</em> Marseille'},
+                                    'seaport': '<em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le Havre, '
+                                               'Nantes<em>Mediterranean Sea:</em> Marseille'},
                          'region': [ ('metropolitan France', 'Europe'),
                                      ('French Guiana', 'South America'),
                                      ('Guadeloupe', 'Central America and the Caribbean'),
@@ -5754,8 +5754,8 @@ WORLD_FB = \
                                             'local_short': 'Deutschland'},
                           'population': 84316622,
                           'ports': { 'container': 'Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)',
-                                     'seaport': '<br /><em>Baltic Sea:</em> Kiel, Rostock<br /><em>North Sea:</em> '
-                                                'Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven'},
+                                     'seaport': '<em>Baltic Sea:</em> Kiel, Rostock<em>North Sea:</em> Bremerhaven, '
+                                                'Brunsbuttel, Emden, Hamburg, Wilhelmshaven'},
                           'region': ['Europe'],
                           'subs_broadband': 36215303,
                           'subs_fixed': 38300000,
@@ -5828,11 +5828,11 @@ WORLD_FB = \
                         'subs_fixed': 307668,
                         'subs_mobile': 40461609,
                         'telecom': { 'code': '233',
-                                     'domestic': [ 'fixed-line data about 1 per 100 subscriptions',
+                                     'domestic': [ 'fixed-line data about 1 per 200 subscriptions',
                                                    'competition among multiple mobile-cellular providers has spurred '
                                                    'growth with a voice subscribership of more than 130 per 100 '
                                                    'persons',
-                                                   2020],
+                                                   2022],
                                      'general': [ 'challenged by unreliable electricity and shortage of skilled labor, '
                                                   'Ghana seeks to extend telecom services nationally',
                                                   'investment in fiber infrastructure and off-grid solutions provide '
@@ -5843,7 +5843,7 @@ WORLD_FB = \
                                                   'networks',
                                                   'international submarine cables, and terrestrial cables have '
                                                   'improved Internet capacity',
-                                                  2020],
+                                                  2022],
                                      'intl': [ 'landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 '
                                                'fiber-optic submarine cables that provide connectivity to South and '
                                                'West Africa, and Europe',
@@ -5851,7 +5851,7 @@ WORLD_FB = \
                                                'microwave radio relay link to Panaftel system connects Ghana to its '
                                                'neighbors',
                                                'GhanaSat-1 nanosatellite launched in 2017',
-                                               2019],
+                                               2017],
                                      'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced '
@@ -11538,7 +11538,7 @@ WORLD_FB = \
                                                   'school from home became evident, and received some support from '
                                                   'governments',
                                                   0]},
-                           'users_internet': 5278072},
+                           'users_internet': 4920000},
                 'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/paraguay/page-data.json',
                 'name': 'Paraguay',
                 'stan': 'PRY',
@@ -12118,10 +12118,9 @@ WORLD_FB = \
                                            'local_short': 'Rossiya'},
                          'population': 142021981,
                          'ports': { 'container': 'Saint Petersburg (2,221,724) (2019)',
-                                    'seaport': '<em><br />Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br />Baltic '
-                                               'Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br /><em>Black '
-                                               'Sea:</em> Novorossiysk<br /><em>Pacific Ocean:</em> Nakhodka, '
-                                               'Vladivostok, Vostochnyy'},
+                                    'seaport': '<em>Arctic Ocean: </em>Arkhangelsk, Murmansk<em>Baltic Sea:</em> '
+                                               'Kaliningrad, Primorsk, Saint Petersburg<em>Black Sea:</em> '
+                                               'Novorossiysk<em>Pacific Ocean:</em> Nakhodka, Vladivostok, Vostochnyy'},
                          'region': ['Asia'],
                          'subs_broadband': 33893305,
                          'subs_fixed': 25892405,
@@ -13809,9 +13808,9 @@ WORLD_FB = \
                         'population': 47163418,
                         'ports': { 'container': 'Algeciras (5,125,385), Barcelona (3,324,650), Valencia (5,439,827) '
                                                 '(2019)',
-                                   'seaport': '<br /><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz '
-                                              'de Tenerife (in the Canary Islands)<br /><em>Mediterranean Sea:</em> '
-                                              'Algeciras, Barcelona, Cartagena, Tarragona, Valencia'},
+                                   'seaport': '<em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de '
+                                              'Tenerife (in the Canary Islands)<em>Mediterranean Sea:</em> Algeciras, '
+                                              'Barcelona, Cartagena, Tarragona, Valencia'},
                         'region': ['Europe'],
                         'subs_broadband': 16188502,
                         'subs_fixed': 19455658,
@@ -15043,85 +15042,91 @@ WORLD_FB = \
                'stan': 'TUN',
                'tld': '.tn',
                'url': 'https://www.cia.gov/the-world-factbook/countries/tunisia'},
-  'Turkey': { 'cc2': 'TR',
-              'cc3': 'TUR',
-              'ccn': '792',
-              'cmt': '',
-              'gec': 'TU',
-              'infos': { 'airports': 98,
-                         'area': {'land': '769,632 sq km', 'total': '783,562 sq km', 'water': '13,930 sq km'},
-                         'boundaries': { 'bord': { 'Armenia': 311,
-                                                   'Azerbaijan': 17,
-                                                   'Bulgaria': 223,
-                                                   'Georgia': 273,
-                                                   'Greece': 192,
-                                                   'Iran': 534,
-                                                   'Iraq': 367,
-                                                   'Syria': 899},
-                                         'len': 2816},
-                         'capital': {'coord': '39 56 N, 32 52 E', 'name': 'Ankara', 'time_diff': 'UTC+3'},
-                         'coastline': 7200,
-                         'coord': ['39 00 N, 35 00 E'],
-                         'country_name': { 'conv_long': 'Republic of Turkey',
-                                           'conv_short': 'Turkey',
-                                           'local_long': 'Turkiye Cumhuriyeti',
-                                           'local_short': 'Turkiye'},
-                         'population': 83047706,
-                         'ports': { 'container': 'Ambarli (3,104,882), Mersin (Icel) (1,854,312), Izmet (1,715,193) '
-                                                 '(2019)',
-                                    'seaport': 'Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin '
-                                               '(Icel), Limani, Yarimca'},
-                         'region': ['Middle East'],
-                         'subs_broadband': 16734853,
-                         'subs_fixed': 12448604,
-                         'subs_mobile': 80790900,
-                         'telecom': { 'code': '90',
-                                      'domestic': [ 'additional digital exchanges are permitting a rapid increase in '
-                                                    'subscribers',
-                                                    'the construction of a network of technologically advanced '
-                                                    'intercity trunk lines, using both fiber-optic cable and digital '
-                                                    'microwave radio relay, is facilitating communication between '
-                                                    'urban centers',
-                                                    'remote areas are reached by a domestic satellite system',
-                                                    'fixed-line nearly 15 per 100 and mobile-cellular teledensity is '
-                                                    'over 97 telephones per 100 persons',
-                                                    2020],
-                                      'general': [ 'following earthquake damage to infrastructure in 2020, telecom '
-                                                   'sector undergoing rapid modernization and expansion, especially in '
-                                                   'mobile-cellular services',
-                                                   'mobile broadband becoming increasingly popular',
-                                                   'near saturation of 4G LTE coverage for the population',
-                                                   'strides made with 5G through investment by Huawei and Ericcson',
-                                                   'fixed and mobile infrastructure will help to underpin Smart City '
-                                                   'initiatives',
-                                                   'tight government control on social media platforms',
-                                                   'importer of broadcasting equipment and computers from China',
-                                                   2020],
-                                      'intl': [ 'landing points for the SeaMeWe-3 & -5, MedNautilus Submarine System, '
-                                                'Turcyos-1 & -2 submarine cables providing connectivity to Europe, '
-                                                'Africa, the Middle East, Asia, Southeast Asia and Australia',
-                                                'satellite earth stations - 12 Intelsat',
-                                                'mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems',
-                                                2020],
-                                      'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
-                                                'production and supply chains globally',
-                                                'since 2020, some aspects of the telecom sector have experienced '
-                                                'downturn, particularly in mobile device production',
-                                                'many network operators delayed upgrades to infrastructure',
-                                                'progress towards 5G implementation was postponed or slowed in some '
-                                                'countries',
-                                                'consumer spending on telecom services and devices was affected by '
-                                                'large-scale job losses and the consequent restriction on disposable '
-                                                'incomes',
-                                                'the crucial nature of telecom services as a tool for work and school '
-                                                'from home became evident, and received some support from governments',
-                                                0]},
-                         'users_internet': 65784472},
-              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/turkey/page-data.json',
-              'name': 'Turkey',
-              'stan': 'TUR',
-              'tld': '.tr',
-              'url': 'https://www.cia.gov/the-world-factbook/countries/turkey'},
+  'Turkey (Turkiye)': { 'cc2': 'TR',
+                        'cc3': 'TUR',
+                        'ccn': '792',
+                        'cmt': '',
+                        'gec': 'TU',
+                        'infos': { 'airports': 98,
+                                   'area': {'land': '769,632 sq km', 'total': '783,562 sq km', 'water': '13,930 sq km'},
+                                   'boundaries': { 'bord': { 'Armenia': 311,
+                                                             'Azerbaijan': 17,
+                                                             'Bulgaria': 223,
+                                                             'Georgia': 273,
+                                                             'Greece': 192,
+                                                             'Iran': 534,
+                                                             'Iraq': 367,
+                                                             'Syria': 899},
+                                                   'len': 2816},
+                                   'capital': {'coord': '39 56 N, 32 52 E', 'name': 'Ankara', 'time_diff': 'UTC+3'},
+                                   'coastline': 7200,
+                                   'coord': ['39 00 N, 35 00 E'],
+                                   'country_name': { 'conv_long': 'Republic of Turkey',
+                                                     'conv_short': 'Turkey',
+                                                     'local_long': 'Turkey Cumhuriyeti',
+                                                     'local_short': 'Turkey'},
+                                   'population': 83047706,
+                                   'ports': { 'container': 'Ambarli (3,104,882), Mersin (Icel) (1,854,312), Izmet '
+                                                           '(1,715,193) (2019)',
+                                              'seaport': 'Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli '
+                                                         '(Izmit), Mersin (Icel), Limani, Yarimca'},
+                                   'region': ['Middle East'],
+                                   'subs_broadband': 16734853,
+                                   'subs_fixed': 12448604,
+                                   'subs_mobile': 80790900,
+                                   'telecom': { 'code': '90',
+                                                'domestic': [ 'additional digital exchanges are permitting a rapid '
+                                                              'increase in subscribers',
+                                                              'the construction of a network of technologically '
+                                                              'advanced intercity trunk lines, using both fiber-optic '
+                                                              'cable and digital microwave radio relay, is '
+                                                              'facilitating communication between urban centers',
+                                                              'remote areas are reached by a domestic satellite system',
+                                                              'fixed-line nearly 15 per 100 and mobile-cellular '
+                                                              'teledensity is over 97 telephones per 100 persons',
+                                                              2020],
+                                                'general': [ 'following earthquake damage to infrastructure in 2020, '
+                                                             'telecom sector undergoing rapid modernization and '
+                                                             'expansion, especially in mobile-cellular services',
+                                                             'mobile broadband becoming increasingly popular',
+                                                             'near saturation of 4G LTE coverage for the population',
+                                                             'strides made with 5G through investment by Huawei and '
+                                                             'Ericcson',
+                                                             'fixed and mobile infrastructure will help to underpin '
+                                                             'Smart City initiatives',
+                                                             'tight government control on social media platforms',
+                                                             'importer of broadcasting equipment and computers from '
+                                                             'China',
+                                                             2020],
+                                                'intl': [ 'landing points for the SeaMeWe-3 & -5, MedNautilus '
+                                                          'Submarine System, Turcyos-1 & -2 submarine cables providing '
+                                                          'connectivity to Europe, Africa, the Middle East, Asia, '
+                                                          'Southeast Asia and Australia',
+                                                          'satellite earth stations - 12 Intelsat',
+                                                          'mobile satellite terminals - 328 in the Inmarsat and '
+                                                          'Eutelsat systems',
+                                                          2020],
+                                                'note': [ 'the COVID-19 pandemic continues to have a significant '
+                                                          'impact on production and supply chains globally',
+                                                          'since 2020, some aspects of the telecom sector have '
+                                                          'experienced downturn, particularly in mobile device '
+                                                          'production',
+                                                          'many network operators delayed upgrades to infrastructure',
+                                                          'progress towards 5G implementation was postponed or slowed '
+                                                          'in some countries',
+                                                          'consumer spending on telecom services and devices was '
+                                                          'affected by large-scale job losses and the consequent '
+                                                          'restriction on disposable incomes',
+                                                          'the crucial nature of telecom services as a tool for work '
+                                                          'and school from home became evident, and received some '
+                                                          'support from governments',
+                                                          0]},
+                                   'users_internet': 65784472},
+                        'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/turkey-turkiye/page-data.json',
+                        'name': 'Turkey (Turkiye)',
+                        'stan': 'TUR',
+                        'tld': '.tr',
+                        'url': 'https://www.cia.gov/the-world-factbook/countries/turkey-turkiye'},
   'Turkmenistan': { 'cc2': 'TM',
                     'cc3': 'TKM',
                     'ccn': '795',
@@ -15674,10 +15679,10 @@ WORLD_FB = \
                                                         '(2,987,291), Long Beach (7,632,032), Los Angeles (9,337,632), '
                                                         'New York/New Jersey (7,471,131), Oakland (2,500,431), '
                                                         'Savannah (4,599,177), Seattle/Tacoma (3,775,303) (2019)',
-                                           'seaport': '<em><br />Atlantic Ocean:</em> Charleston, Hampton Roads, New '
-                                                      'York/New Jersey, Savannah<br /><em>Pacific Ocean:</em> Long '
-                                                      'Beach, Los Angeles, Oakland, Seattle/Tacoma<br /><em>Gulf of '
-                                                      'Mexico:</em> Houston'},
+                                           'seaport': '<em>Atlantic Ocean:</em> Charleston, Hampton Roads, New '
+                                                      'York/New Jersey, Savannah<em>Pacific Ocean:</em> Long Beach, '
+                                                      'Los Angeles, Oakland, Seattle/Tacoma<em>Gulf of Mexico:</em> '
+                                                      'Houston'},
                                 'region': ['North America'],
                                 'subs_broadband': 121176000,
                                 'subs_fixed': 101526000,
