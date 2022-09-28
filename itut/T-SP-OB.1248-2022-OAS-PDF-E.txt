@@ -1,0 +1,847 @@
+                      ITU Operational Bulletin
+                                                      www.itu.int/itu-t/bulletin
+
+       No. 1248             15.VII.2022               (Information received by 1 July 2022) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                             Standardization Bureau (TSB)                                  Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                               Tel:     +41 22 730 5211                                      Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                             Fax:     +41 22 730 5853                                      Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                               E-mail: tsbmail@itu.int / tsbtson@itu.int                     E-mail: brmail@itu.int
+
+
+
+
+                                                              Table of Contents
+                                                                                                                                                            Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ....................................................................                             3
+Approval of ITU-T Recommendations .........................................................................................................                   4
+Telephone Service: .....................................................................................................................................      5
+     Saint Vincent and the Grenadines (Eastern Caribbean Telecommunications Authority) ........................                                               5
+     Tanzania (Tanzania Communications Regulatory Authority (TCRA), Dar-Es-Salaam) .............................                                              8
+Service Restrictions ....................................................................................................................................    10
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ..............................................................                             10
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of International Monitoring Stations (List VIII) .....................................................................................                  11
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card ............................                                           17
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .................................................................................................................................        18
+List of ITU Carrier Codes .............................................................................................................................      19
+List of International Signalling Point Codes (ISPC).......................................................................................                   20
+National Numbering Plan ...........................................................................................................................          21
+
+
+
+
+                                                                                                                             www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1249             1.VIII.2022           15.VII.2022
+               1250            15.VIII.2022           29.VII.2022
+               1251              1.IX.2022            12.VIII.2022
+               1252             15.IX.2022            31.VIII.2022
+               1253              1.X.2022              15.IX.2022
+               1254             15.X.2022              30.IX.2022
+               1255              1.XI.2022             14.X.2022
+               1256             15.XI.2022             1.XI.2022
+               1257             1.XII.2022             15.XI.2022
+               1258             15.XII.2022            30.XI.2022
+               1259              1.I.2023              9.XII.2022
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+       (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+       subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+       Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+       optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+       Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+       (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+       (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+       (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+       E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+       2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+       (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+       to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+       (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+       operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+       (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+       (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+       Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+       (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+       (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+       series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+       on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+       Recommendation F.1 (03/1998))
+B.     The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                           Approval of ITU-T Recommendations
+By AAP-08, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T M.3382 (06/2022): Requirements for work order processing in telecom management with AI
+
+
+
+
+                                      Telephone Service
+                                 (Recommendation ITU-T E.164)
+                                         url: www.itu.int/itu-t/inr/nnp
+
+Saint Vincent and the Grenadines (country code +1 784)
+Communication of 22.VI.2022:
+The Eastern Caribbean Telecommunications Authority (“ECTEL”) announces the following telephone number plan
+for Saint Vincent and the Grenadines. ECTEL is responsible for ensuring that all telephone numbers assigned
+within its Member States are registered with ITU.
+
+
+             Licensed Operator                    Service                 Central Office Code
+     Cable & Wireless (St. Vincent and
+                                                   Fixed                   +1 784 266 XXXX
+     the Grenadines) Limited
+                     "                            Fixed                    +1 784 366 XXXX
+                     "                            Fixed                    +1 784 367 XXXX
+                     "                            Fixed                    +1 784 368 XXXX
+                     "                            Fixed                    +1 784 369 XXXX
+                     "                            Fixed                    +1 784 370 XXXX
+                     "                            Fixed                    +1 784 371 XXXX
+                     "                            Fixed                    +1 784 372 XXXX
+                     "                            Fixed                    +1 784 373 XXXX
+                     "                            Fixed                    +1 784 374 XXXX
+                     "                            Fixed                    +1 784 375 XXXX
+                     "                            Fixed                    +1 784 376 XXXX
+                     "                            Fixed                    +1 784 377 XXXX
+                     "                            Fixed                    +1 784 378 XXXX
+                     "                            Fixed                    +1 784 379 XXXX
+                     "                            Fixed                    +1 784 380 XXXX
+                     "                            Fixed                    +1 784 381 XXXX
+                     "                            Fixed                    +1 784 382 XXXX
+                     "                            Fixed                    +1 784 383 XXXX
+                     "                            Fixed                    +1 784 384 XXXX
+                     "                            Fixed                    +1 784 385 XXXX
+                     "                            Fixed                    +1 784 386 XXXX
+                     "                            Fixed                    +1 784 438 XXXX
+                     "                            Fixed                    +1 784 450 XXXX
+                     "                            Fixed                    +1 784 451 XXXX
+                     "                            Fixed                    +1 784 452 XXXX
+                     "                            Fixed                    +1 784 453 XXXX
+                     "                            Mobile                   +1 784 454 XXXX
+                     "                            Mobile                   +1 784 455 XXXX
+                     "                            Fixed                    +1 784 456 XXXX
+                     "                            Fixed                    +1 784 457 XXXX
+                     "                            Fixed                    +1 784 458 XXXX
+                     "                            Fixed                    +1 784 480 XXXX
+                     "                            Fixed                    +1 784 481 XXXX
+                     "                            Fixed                    +1 784 482 XXXX
+
+
+
+
+               Licensed Operator         Service   Central Office Code
+     Cable & Wireless (St. Vincent and
+                                         Fixed      +1 784 483 XXXX
+         the Grenadines) Limited
+                    °                    Fixed      +1 784 484 XXXX
+                       °                 Fixed      +1 784 485 XXXX
+                       °                 Fixed      +1 784 486 XXXX
+                       °                 Fixed      +1 784 487 XXXX
+                       °                 Fixed      +1 784 488 XXXX
+                       °                 Fixed      +1 784 489 XXXX
+                       °                 Fixed      +1 784 490 XXXX
+                       °                 Mobile     +1 784 491 XXXX
+                       °                 Mobile     +1 784 492 XXXX
+                       °                 Mobile     +1 784 493 XXXX
+                       °                 Mobile     +1 784 494 XXXX
+                       °                 Mobile     +1 784 495 XXXX
+                       °                 Mobile     +1 784 496 XXXX
+                       °                 Mobile     +1 784 497 XXXX
+                       °                 Mobile     +1 784 498 XXXX
+                       °                 Fixed      +1 784 555 XXXX
+                       °                 Mobile     +1 784 593 XXXX
+                       °                 Fixed      +1 784 638 XXXX
+     Cable & Wireless (St. Vincent and
+      the Grenadines) Limited (end)      Fixed      +1 784 784 XXXX
+
+           Digicel (SVG) Limited         Mobile     +1 784 430 XXXX
+                       "                 Mobile     +1 784 431 XXXX
+                       "                 Mobile     +1 784 432 XXXX
+                       "                 Mobile     +1 784 433 XXXX
+                       "                 Mobile     +1 784 434 XXXX
+                       "                 Mobile     +1 784 526 XXXX
+                       "                 Mobile     +1 784 527 XXXX
+                       "                 Mobile     +1 784 528 XXXX
+                       "                 Mobile     +1 784 529 XXXX
+                       "                 Mobile     +1 784 530 XXXX
+                       "                 Mobile     +1 784 531 XXXX
+                       "                 Mobile     +1 784 532 XXXX
+                       "                 Mobile     +1 784 533 XXXX
+                       "                 Mobile     +1 784 534 XXXX
+        Digicel (SVG) Limited (end)      Fixed      +1 784 720 XXXX
+
+
+
+
+                  Licensed Operator                     Service      Central Office Code
+    Columbus Communications Inc.
+                                                         Fixed        +1 784 570 XXXX
+    (formerly Kelcom International Limited).
+                          "                              Fixed        +1 784 571 XXXX
+    Friends Telcom Ltd. (Friends Associates Ltd.)        VoIP         +1 784 510 XXXX
+                           "                             VoIP         +1 784 512 XXXX
+
+     Contact:
+            Mr Lawrence Nervais
+            Director of Technical Services
+            Eastern Caribbean Telecommunications Authority (ECTEL)
+            Level 5, Baywalk Mall,
+            Rodney Bay,
+            Gros Islet
+            P. O. Box BW395, LC01 601,
+            Saint Lucia
+            Tel:     +1 758 458 1701/1702 / 452 5705
+            Fax:     +1 758 458 1698
+            E-mail: ectel@ectel.int
+            URL:     www.ectel.int
+
+
+
+
+Tanzania (country code +255)
+Communication of 1.VII.2022:
+The Tanzania Communications Regulatory Authority (TCRA), Dar-Es-Salaam, announces the following updates
+to the National Numbering Plan (NNP) for Tanzania.
+
+                                    Description of deletion of resource for
+                             national E.164 numbering plan for country code 255:
+
+  NDC (national destination code)
+     or leading digits of N(S)N                     Usage of E.164 number                    Time and date of deletion
+  (national (significant) number)
+
+ 63 (NDC)                               Non-geographic number – (Find Me Anywhere)         16:00 hrs, 24th June, 2022
+ 64 (NDC)                               Non-geographic number – (Find Me Anywhere)         16:00 hrs, 24th June, 2022
+ 72 (NDC)                               Non-geographic number for                          16:00 hrs, 24th June, 2022
+                                        mobile telephony services – (Find Me Anywhere)
+
+
+                               Description of introduction of new resource for
+                             national E.164 numbering plan for country code 255:
+
+      NDC (national           N(S)N number length
+   destination code) or
+ leading digits of N(S)N     Maximum        Minimum          Usage of E.164 number         Time and date of introduction
+  (national (significant)     length         length
+         number)
+
+ 5X (NDC)                         9             9        Non-geographic number for         16:00 hours 11th May, 2022
+                                                         Corporate Networks
+
+
+ national dialling format:        05X XXXXXXX
+ international dialling format:   +255 5X XXXXXXX
+
+
+       Description of important numbers related to emergency services and other services of social value:
+                                        Tanzania (Country Code 255)
+
+                                                      Allocated or   E.164 number or
+ Important number                 Service                                                           Note
+                                                        assigned     national-only number
+ 110                    Emergency services for          Assigned     National number for             NA
+                        Lake Victoria and other                      Emergency service
+                        water bodies
+ 111                                                   Assigned      National number for             NA
+                        Crime Stoppers
+                                                                     Emergency service
+ 112                    Police Emergency               Assigned      National number for             NA
+                                                                     Emergency service
+ 113                    Anti-corruption                Assigned      National number for             NA
+                                                                     Emergency service
+ 114                    Fire Services                  Assigned      National number for             NA
+                                                                     Emergency service
+ 115                    Ambulance Services             Assigned      National number for             NA
+                                                                     Emergency service
+ 116                    Child Help Line                Assigned      National number for             NA
+                                                                     Emergency service
+ 117                    Health Help Line               Assigned      National number for             NA
+                                                                     Emergency service
+ 118                    Safety in National Parks       Allocated     National number for             NA
+                        and Game Reserves                            Emergency service
+
+                                                   Allocated or   E.164 number or
+ Important number               Service                                                    Note
+                                                     assigned     national-only number
+ 119                    Anti-Drugs                   Assigned     National number for       NA
+                                                                  Emergency service
+ 190                    Disaster Services           Assigned      National number for       NA
+                                                                  Emergency service
+ 199                    COVID-19 Medical            Assigned      National number for       NA
+                        Emergency                                 Emergency service
+
+Contact:
+           Tanzania Communications Regulatory Authority (TCRA)
+           Dr. Jabiri K. Bakari
+           20 Sam Nujoma Road
+           Mawasiliano Towers
+           P.O. Box 474
+           14414 DAR-ES-SALAAM
+           Tanzania
+           Tel:      +255 222199760-9
+           Fax:      +255 222412009-10
+           E-mail: dg@tcra.go.tz
+           URL:      www.tcra.go.tz
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                      AMENDMENTS TO SERVICE PUBLICATIONS
+                                                  Abbreviations used
+                                   ADD      Insert                       PAR    Paragraph
+                                   COL      Column                       REP    Replace
+                                   LIR      Read                         SUP    Delete
+                                   P        Page(s)
+
+
+
+                              List of International Monitoring Stations
+                                               (List VIII)
+                                            Edition of 2019
+                                                  (Amendment No. 2)
+
+
+                                                          PART I
+                 STATIONS IN THE TERRESTRIAL RADIOCOMMUNICATION SERVICES
+
+AFS - South Africa
+           REP      (Centralizing office)
+
+     Centralizing office             Postal address             Telephone, Telefax, Electronic-mail        Remarks
+ Independent                    Spectrum Management           PHONE:      +27 12 5683000
+ Communications                 Block B                       PHONE:      +27 12 5683001
+ Authority of South             350 Witch-Hazel Ave           TELEFAX:    +27 12 5683444
+ Africa                         Eco-Park                      EMAIL:      icasanc@icasa.org.za
+                                Centurion                     EMAIL:      speclicensing@icasa.org.za
+                                0169
+
+
+
+P1         ADD by alphabetical order
+                    Station: Klerefontein
+
+     Name of the station                     Postal address                     Telephone, Telefax, Electronic-mail
+ Klerefontein                   Astronomy Management Authority              PHONE:       +27 12 8436300
+                                Private Bag X894                            TELEFAX:     +27 12 3491030
+                                Pretoria                                    EMAIL:       bsethole@sarao.ac.za
+                                0001                                        EMAIL:       mere.kgampe@dst.gov.za
+                                                                            EMAIL:       smatlhane@sarao.ac.za
+
+
+
+                                                           Ranges of
+     Geographical             Types of                                           Hours of
+                                                        frequencies for                                Remarks
+     coordinates            measurements                                       service (UTC)
+                                                      each measurement
+ 30°58'17"S              Frequency                        9kHz - 9 GHz             H24         ITU-R REC SM.1139-0
+ 021°58'49"E             measurements
+ 30°58'17"S              Bandwidth                      9 kHz - 9 GHz              H24         ITU-R REC SM.1139-0
+ 021°58'49"E             measurements
+ 30°58'17"S              Automatic spectrum             9 kHz - 9 GHz              H24         ITU-R REC SM.1139-0
+ 021°58'49"E             occupancy surveys
+
+
+
+
+AUT – Austria
+          REP    (Centralizing office)
+
+        Centralizing office              Postal address       Telephone, Telefax, Electronic-mail         Remarks
+
+ Federal Ministry of Agriculture,     Radetzkystrasse 2       PHONE:    +43 1 71100 654224
+ Regions and Tourism                  1030 Wien               Email:    ernst.cerny@bmlrt.gv.at
+ Directorate-General IV/3                                     Email:    TKP-T-Zdf@bmlrt.gv.at
+ Centralizing Office for
+ Monitoring
+
+
+          SUP    Station: Klagenfurt
+          MOD Station: Wien (IMS)
+
+ Name of the Station                     Postal address                   Telephone, Telefax, Electronic-mail
+
+ Wien (IMS)              Telecommuncation Authority Austria            Phone: +43 1 71100 654488
+                         Radiomonitoring                               Email: funkmonitoring@fb.gv.at
+                         17 Krapfenwaldgasse
+                         1190 Wien
+                         Austria
+
+
+ Geographical          Types of              Ranges of frequencies        Hours of               Remarks
+ coordinates         measurements            for each measurement       service (utc)
+ 48°19'40"N       Direction-finding          (100) 500 kHz - 30         HX              Correlative
+ 016°28'43"E      measurements               MHz                                        interferometer.
+ 48°15'45"N       Direction-finding          30 MHz - 3 GHz             H24             If necessary, direction-
+ 016°20'08"E      measurements                                                          finding measurements are
+                                                                                        carried out by mobile
+                                                                                        monitoring stations (van).
+
+
+                                                                                        Correlation.
+ 48°15'45"N       Frequency                  9 kHz - 90 GHz             H24
+ 016°20'08"E      measurements
+ 48°15'45"N       Field strength or          9 kHz - 90 GHz             H24             If necessary,
+ 016°20'08"E      power flux-density                                                    measurements are carried
+                  measurements                                                          out by mobile monitoring
+                                                                                        stations (van).
+ 48°15'45"N       Bandwidth                  9 kHz - 90 GHz             H24             If necessary,
+ 016°20'08"E      measurements                                                          measurements are carried
+                                                                                        out by mobile monitoring
+                                                                                        stations (van).
+ 48°15'45"N       Automatic spectrum         9 kHz - 90 GHz             H24
+ 016°20'08"E      occupancy surveys
+ 46°38'07"N       Frequency                  9 kHz - 30 MHz             HX
+ 014°29'43"E      measurements
+ 46°38'07"N       Field strength or          9 kHz - 30 MHz             HK
+ 014°29'43"E      power flux-density
+                  measurements
+ 46°38'07"N       Direction-finding          (100) 300 kHz - 30         HX              Correlative
+ 014°29'43"E      measurements               MHz                                        interferometer.
+
+ Geographical          Types of             Ranges of frequencies        Hours of                 Remarks
+ coordinates         measurements           for each measurement       service (utc)
+ 43°38'07"N       Automatic spectrum        9 kHz - 30 MHz             HX
+ 014°29'43"E      occupancy surveys
+
+
+FIN - Finland
+          REP    (Centralizing office)
+
+       Centralizing office             Postal address       Telephone, Telefax, Electronic-mail       Remarks
+ Finnish Transport and                P.O. Box 320        PHONE: +358 295 345000
+ Communications Agency                00059 Traficom      EMAIL: radiotaajuudet@traficom.fi
+ (TRAFICOM)
+
+
+          MOD Station: Helsinki
+
+    Name of the                    Postal address                      Telephone, Telefax, Electronic-mail
+       station
+ Helsinki               P.O. Box 320                              Phone: +358 295 345000
+                        00059 Traficom                            Email: radiotaajuudet@traficom.fi
+                        Finland
+
+
+ Geographical         Types of             Ranges of frequencies        Hours of                  Remarks
+ coordinates        measurements           for each measurement       service (utc)
+ 60°11'11"N       Frequency                20 MHz - 6 GHz            0600-1400
+ 024°55'34"E      measurements
+ 60°11'11"N       Direction-finding        20 MHz - 6 GHz            0600-1400
+ 024°55'34"E      measurements
+
+
+G - United Kingdom
+          MOD (Centralizing office)
+
+  Centralizing           Postal address             Telephone, Telefax, Electronic-mail             Remarks
+    office
+ Ofcom             Ofcom                          Phone: +44 20 79813109                   Ofcom Spectrum
+                   Riverside House                Telefax: +44 20 79813208                 Management Center
+                   2a Southwark Bridge Road       Email: ifc.enquiries@ofcom.org.uk        (SMC) is staffed
+                   London SE1 9HA                                                          24 hours - 365 days.
+
+
+
+
+P2        ADD by alphabetical order
+                 Station: Fife
+
+ Name of the station                     Postal address                Telephone, Telefax, Electronic-mail
+
+Fife                         Ofcom                                   Phone: +44 1462 428528
+                             Royston Road                            Email: smc@ofcom.org.uk
+                             Baldock
+                             Hertfordshire SG7 6SH
+                             United Kingdom
+
+
+ Geographical         Types of                 Ranges of          Hours of                 Remarks
+ coordinates        measurements            frequencies for     service (utc)
+                                          each measurement
+
+56°16'05"N        Direction-finding       100 kHz - 30 MHz     H24               Better than ± 0.5 degrees
+002°48'47"W       measurements                                                   dependant on the signal to
+                                                                                 noise ratio of the wanted
+                                                                                 signal.
+
+
+                                                                                 MF/HF Super Resolution DF
+                                                                                 ECopy.
+
+
+                                                                                 Remotely controlled from
+                                                                                 Baldock, Hertfordshire.
+
+
+MOD       Station: Baldock (IMS)
+
+       Name of the station                  Postal address             Telephone, Telefax, Electronic-mail
+
+Baldock (IMS)                      Royston Road                       Phone: +44 1462 428528
+                                   Baldock                            Email: smc@ofcom.org.uk
+                                   Hertfordshire SG7 6SH
+                                   United Kingdom
+
+
+Geographical         Types of                Ranges of          Hours of                  Remarks
+coordinates        measurements           frequencies for     service (utc)
+                                        each measurement
+
+52°00'00"N       Frequency              10 kHz - 1 GHz        H24               Measurements on A1A, A3E,
+000°08'00"W      measurements                                                   F1B, F3E, G1D, G7D, J7B and
+                                                                                D7W.
+52°00'00"N       Field strength or      10 kHz - 240 kHz      H24
+000°08'00"W      power flux-density
+                 measurements
+52°00'00"N       Direction-finding      100 kHz - 30 MHz      H24               Better than ± 0.5 degrees
+000°08'00"W      measurements                                                   dependant on the signal to
+                                                                                noise ratio of the wanted
+                                                                                signal.
+
+
+
+
+ Geographical         Types of                 Ranges of            Hours of                 Remarks
+ coordinates        measurements            frequencies for       service (utc)
+                                          each measurement
+
+                                                                                  MF/HF Super Resolution DF
+                                                                                  ECopy. This DF has 3
+                                                                                  switchable arrays (MF, low HF
+                                                                                  and high HF) to cover the
+                                                                                  100 kHz to 30 MHz band.
+ 52°00'00"N       Frequency               1 GHz - 3 GHz          H24              Measurements on A1A, A3E,
+ 000°08'00"W      measurements                                                    F1B, F3E, G1D, G7D, J7B and
+                                                                                  D7W.
+ 52°00'00"N       Field strength or       240 kHz - 30 MHz       H24
+ 000°08'00"W      power flux-density
+                  measurements
+ 52°00'00"N       Field strength or       30 MHz - 3 GHz         H24
+ 000°08'00"W      power flux-density
+                  measurements
+ 52°00'00"N       Bandwidth               10 kHz - 3 GHz         H24              Electronic results available
+ 000°08'00"W      measurements                                                    upon request.
+ 52°00'00"N       Automatic               10 kHz - 3 GHz         H24              Electronic results available
+ 000°08'00"W      spectrum                                                        upon request.
+                  occupancy
+                  surveys
+
+
+J - Japan
+            MOD (Centralizing office)
+
+  Centralizing office             Postal address               Telephone, Telefax, Electronic-mail       Remarks
+
+ Telecommunications       Director General                   Phone: +81 3 52535911
+ Bureau                   Telecommunications Bureau          Telefax: +81 3 52535915
+ Ministry of Internal     Ministry of Internal Affairs       Email: kanshikokusai@ml.soumu.go.jp
+ Affairs and              and Communications
+ Communications           1-2, Kasumigaseki 2-chome
+                          Chiyoda-ku
+                          100-8926 Tokyo
+
+
+NOR - Norway
+            REP   (Centralizing office)
+
+       Centralizing office          Postal address           Telephone, Telefax, Electronic-mail         Remarks
+
+ Norwegian Communications          P.O.Box 93             Phone: +47 22 824600
+ Authority (Nkom)                  4791 Lillesand         Email: firmapost@nkom.no
+                                                          Email: www.nkom.no
+
+
+
+
+P1          ADD by alphabetical order
+                  Station: Sandnes
+
+        Name of the station                  Postal address                Telephone, Telefax, Electronic-mail
+
+ Sandnes                            P.O. Box 93                           Phone: +47 22 824600
+                                    4791 Lillesand                        Email: firmapost@nkom.no
+                                    Norway
+
+
+ Geographical          Types of               Ranges of           Hours of service             Remarks
+ coordinates         measurements        frequencies for each          (utc)
+                                            measurement
+
+ 58°48'46"N        Direction-finding     0.3 kHz - 30 MHz                             Plath DFP5050. Remotely
+ 005°40'03"E       measurements                                                       controlled HF site.
+
+
+MOD         Station: Ski
+
+       Name of the station               Postal address                   Telephone, Telefax, Electronic-mail
+
+ Ski                             P.O. Box 93                       Phone: +47 22 824600
+                                 4791 Lillesand                    Email: firmapost@nkom.no
+                                 Norway
+
+
+ Geographical         Types of measurements               Ranges of              Hours of           Remarks
+ coordinates                                         frequencies for each      service (utc)
+                                                        measurement
+
+ 59°43'58"N        Frequency measurements            6.2 kHz - 25.6 MHz                        Log-periodic.
+ 010°49'00"E
+ 59°43'58"N        Direction-finding                 13 MHz - 30 MHz                           Allgon.
+ 010°49'00"E       measurements
+
+
+                                                     PART II
+                    STATIONS IN THE SPACE RADIOCOMMUNICATION SERVICES
+
+J - Japan
+            MOD (Centralizing office)
+
+  Centralizing office             Postal address              Telephone, telefax, electronic-mail        Remarks
+
+ Telecommunications        Director General                 Phone: +81 3 52535911
+ Bureau                    Telecommunications Bureau        Telefax: +81 3 52535915
+ Ministry of Internal      Ministry of Internal Affairs     Email:   kanshikokusai@ml.soumu.go.jp
+ Affairs and               and Communications
+ Communications            1-2, Kasumigaseki 2-chome
+                           Chiyoda-ku
+                           100-8926 Tokyo
+
+
+
+
+                            List of Issuer Identifier Numbers for
+                    the International Telecommunication Charge Card
+              (in accordance with Recommendation ITU-T E.118 (05/2006))
+                               (Position on 1 December 2018)
+                            (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                             (Amendment No. 68)
+
+
+Netherlands       ADD
+
+    Country/      Company Name/Address           Issuer     Contact                              Effective
+  geographical                                 Identifier                                         date of
+      area                                      Number                                             usage
+ Netherlands      Lebara Ltd                   89 31 60     Lebara NL Operations                27.VI.2022
+                  2 Clove Crescent,                         PO box 267,
+                  E India Dock                              1110 AG DIEMEN/
+                  LONDON E14 2BE                            Entrada 111,
+                  (United Kingdom)                          1114 AA AMSTERDAM-
+                                                            DUIVENDRECHT
+                                                            Tel:    +31 203144201
+                                                            E-mail: clara.nl@lebara.com
+
+
+Switzerland       ADD
+
+    Country/      Company Name/Address           Issuer     Contact                              Effective
+  geographical                                 Identifier                                         date of
+      area                                      Number                                             usage
+ Switzerland      Comfone AG                   89 41 34     Comfone Regulatory                  23.VI.2022
+                  Nussbaumstrasse 25                        Nussbaumstrasse 25
+                  3000 BERN 22                              3000 BERN 22
+                                                            Tel:    +41 31 341 11 92
+                                                            E-mail: regulatory@comfone.com
+
+
+
+
+ Mobile Network Codes (MNC) for the international identification plan
+               for public networks and subscriptions
+       (According to Recommendation ITU-T E.212 (09/2016))
+                  (Position on 15 December 2018)
+
+                        (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                         (Amendment No. 76)
+
+
+    Country/Geographical area           MCC+MNC *           Operator/Network
+
+    Tanzania    SUP
+
+                                             640 13         Wiafrica Tanzania Limited (Cootel)
+
+                                             640 14         MO Mobile Holding Limited
+
+    Tanzania    ADD
+
+                                             640 06         WIA Company Limited
+
+
+____________
+
+*      MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+       MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                            (Amendment No. 136)
+
+
+ Country or area/ISO code                           Company Code       Contact
+  Company Name/Address                              (carrier code)
+
+
+Germany (Federal Republic of) / DEU           ADD
+
+
+ Consensus Cloud Solutions International                CCSI           Mr Derek Davis
+ Unit 3.1 Woodford Business Park                                       Tel.: +353 6564985
+ Santry, DUBLIN                                                        Email: derek.davis@consensus.com
+ (Ireland)
+
+ Diabolocom GmbH                                       DIABDE          Mr Frédéric Durand
+ Sauvignystrasse 43                                                    Tel.: +43 173034550
+ D-60325 FRANKFURT                                                     Email: carrier-relations@diabolocom.com
+
+ Henning Heedfeld                                      CALLIO          Mr Henning Heedfeld
+ - Heedfeld ITK -                                                      Tel.: +49 5222 91799 0
+ Hindenburgstrasse 24                                                  Fax: +49 5222 91799 198
+ D-32105 BAD SALZUFLEN                                                 Email: hh@heedfeld.net
+
+ Süwag Vertrieb AG & Co.KG                            SUEWAG           Mr David Wiethoff
+ Schuetzenbleiche 9 - 11                                               Tel.: +49 69 3107 3162
+ D-65929 FRANKFURT                                                     Fax: +49 69 3107 493162
+                                                                       Email: david.wiethoff@suewag.de
+
+
+Germany (Federal Republic of) / DEU           LIR
+
+
+ TKRZ Stadtwerke GmbH                                                  Mr Christoph Stegemann
+                                                        TKRZ
+ Moorbrueckenstrasse 30                                                Tel.: +49 2572 202 400
+ D-48282 EMSDETTEN                                                     Email: noc@tkrz.de
+
+
+
+
+                      List of International Signalling Point Codes (ISPC)
+                   (According to Recommendation ITU-T Q.708 (03/1999))
+                                    (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 38)
+
+ Country/ Geographical Area
+ ISPC          DEC                     Unique name of the signalling point      Name of the signalling point operator
+
+ Tanzania SUP
+
+ 6-080-3       12931                   ITSC ZNZ                                 Zanzibar Telecom Limited
+ 6-123-1       13273                   WTLSC01                                  Wiafrica Tanzania Limited
+
+ United States SUP
+
+ 3-035-4       6428                    Newark, NJ                               TotalTel
+ 3-053-3       6571                    New York, NY                             Dial-Around Telecom, Inc
+ 3-184-0       7616                    New York, NY                             Tricom USA, Inc
+ 3-185-4       7628                    Miami, FL                                IDS Telcom
+ 3-187-3       7643                    Miami, FL                                Tricom USA, Inc
+ 3-194-4       7700                    Miami, FL                                Latin Node, Inc
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                               National Numbering Plan
+                (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.VI.2022, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                         Country/ Geographical area                     Country Code (CC)
+               Morocco                                                        +212
+               Oman                                                           +968
+               Papua New Guinea                                               +675
+               Trinidad and Tobago                                           +1 868
+
+
+
+

@@ -1,0 +1,277 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1249             1.VIII.2022                 (Information received by 15 July 2022) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                               3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+Telephone Service: .........................................................................................................................................      4
+     Burkina Faso (Autorité de Régulation des Communications Electroniques et des Postes (ARCEP),
+        Ouagadougou) ....................................................................................................................................         4
+Service Restrictions ........................................................................................................................................     5
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                5
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................         6
+List of International Signalling Point Codes (ISPC) .........................................................................................                     7
+National Numbering Plan ...............................................................................................................................           8
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1250            15.VIII.2022           29.VII.2022
+               1251              1.IX.2022            12.VIII.2022
+               1252             15.IX.2022            31.VIII.2022
+               1253              1.X.2022              15.IX.2022
+               1254             15.X.2022              30.IX.2022
+               1255              1.XI.2022             14.X.2022
+               1256             15.XI.2022             1.XI.2022
+               1257             1.XII.2022             15.XI.2022
+               1258             15.XII.2022            30.XI.2022
+               1259              1.I.2023              9.XII.2022
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                  Approval of ITU-T Recommendations
+By AAP-09, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–         ITU-T X.1379 (07/2022): Security requirements for roadside unit in intelligent transportation system
+–         ITU-T X.1715 (07/2022): Security requirements and measures for integration of quantum key
+          distribution network (QKDN) and secure storage network
+
+
+
+
+                                           Telephone Service
+                                      (Recommendation ITU-T E.164)
+                                                 url: www.itu.int/itu-t/inr/nnp
+
+
+Burkina Faso (country code +226)
+Communication of 11.VII.2022:
+The Autorité de Régulation des Communications Electroniques et des Postes (ARCEP), Ouagadougou, announces
+the following updates to the national numbering plan Burkina Faso.
+•      assignment of new prefix AB=03:
+
+      NDC (national
+                           N(S)N number length
+     destination code)
+    or leading digits of                                  Usage of                 Additional              Time and date of
+      N(S)N (national      Maximum Minimum           ITU-T E.164 number           information                introduction
+        (significant)       length  length
+          number)
+
+            03                8          8        Non-geographic number -         ONATEL-S.A.              2022-07-08-00:00
+                                                  Mobile telephone service                                      (UTC)
+
+
+Contact:
+          Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+          B.P. 6437
+          OUAGADOUGOU 01
+          Burkina Faso
+          Tel:     +226 25 37 53 60/61/62
+          Fax:     +226 25 37 53 64
+          E-mail: secretariat@arcep.bf
+          URL:     www.arcep.bf
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                                 Abbreviations used
+                                 ADD     Insert                        PAR    Paragraph
+                                 COL     Column                        REP    Replace
+                                 LIR     Read                          SUP    Delete
+                                 P       Page(s)
+
+
+
+
+       Mobile Network Codes (MNC) for the international identification plan
+                     for public networks and subscriptions
+              (According to Recommendation ITU-T E.212 (09/2016))
+                         (Position on 15 December 2018)
+                       (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                        (Amendment No. 77)
+
+  Country/Geographical area            MCC+MNC *           Operator/Network
+  Spain SUP
+                                            214 13         SYMA MOBILE ESPAÑA, S.L.
+
+
+____________
+*    MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+     MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                   List of International Signalling Point Codes (ISPC)
+                 (According to Recommendation ITU-T Q.708 (03/1999))
+                                 (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 39)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point        Name of the signalling point operator
+
+
+ Japan SUP
+ 4-080-2       8834         Yamaguchi-1                                KDDI Corporation
+ 4-080-4       8836         Tokyo                                      CITIC Telecom International Japan Limited
+ 4-081-6       8846         TOKYO1                                     NTT Communications Corporation
+ 4-081-7       8847         OSAKA1                                     NTT Communications Corporation
+ 4-082-0       8848         Tokyo1                                     Saiki-Tech Communication Japan Co. Ltd.
+ 4-082-1       8849         Tokyo2                                     Saiki-Tech Communication Japan Co. Ltd.
+ 4-082-4       8852         Fukagawa-01                                IPS Inc.
+ 4-083-4       8860         Tokyo                                      RSLCom Japan K.K.
+ 4-083-5       8861         Osaka                                      RSLCom Japan K.K.
+ 4-085-3       8875         Fukagawa-02                                IPS Inc.
+ 4-085-7       8879         Tokyo                                      Cignal Telecommunications Japan K.K.
+
+ Japan ADD
+ 4-082-2       8850         Kiba-CDC1                                  Rakuten Mobile, Inc.
+ 4-082-3       8851         Kiba-CDC2                                  Rakuten Mobile, Inc.
+
+ Spain SUP
+ 2-027-3       4315         Barcelona                                  SYMA MOBILE ESPAÑA, S.L.
+ 2-027-4       4316         Madrid                                     SYMA MOBILE ESPAÑA, S.L.
+
+ Spain ADD
+ 2-028-0       4320         Madrid-Delicias                            TELEFÓNICA DE ESPAÑA, S.A. UNIPERSONAL
+ 2-028-1       4321         Barcelona-Torras i Bages                   TELEFÓNICA DE ESPAÑA, S.A. UNIPERSONAL
+
+ Sweden ADD
+ 2-082-1       4753         SOA1                                       Soatso AB
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                National Numbering Plan
+                 (According to Recommendation ITU-T E.129 (01/2013))
+                                   Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.VII.2022, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                          Country/ Geographical area                    Country Code (CC)
+                Belize                                                         +501
+                Morocco                                                        +212
+
+
+
+

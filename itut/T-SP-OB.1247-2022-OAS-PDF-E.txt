@@ -1,0 +1,339 @@
+                        ITU Operational Bulletin
+                                                         www.itu.int/itu-t/bulletin
+
+       No. 1247              1.VII.2022                   (Information received by 17 June 2022) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                     Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                         Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                         Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                        E-mail: brmail@itu.int
+
+
+
+
+                                                                  Table of Contents
+                                                                                                                                                                      Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                     3
+Approval of ITU-T Recommendations ............................................................................................................                          4
+Telephone Service:
+     Belize (Public Utilities Commission (PUC), Belize City) .............................................................................                              4
+     Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) ....................                                                             6
+Other communications:
+     China (People’s Republic of) .....................................................................................................................                 7
+     Austria ......................................................................................................................................................     7
+Service Restrictions ........................................................................................................................................           8
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                      8
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                              9
+List of International Signalling Point Codes (ISPC) .........................................................................................                          10
+
+
+
+
+                                                                                                                                     www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1248             15.VII.2022            1.VII.2022
+               1249             1.VIII.2022           15.VII.2022
+               1250            15.VIII.2022           29.VII.2022
+               1251              1.IX.2022            12.VIII.2022
+               1252             15.IX.2022            31.VIII.2022
+               1253              1.X.2022              15.IX.2022
+               1254             15.X.2022              30.IX.2022
+               1255              1.XI.2022             14.X.2022
+               1256             15.XI.2022             1.XI.2022
+               1257             1.XII.2022             15.XI.2022
+               1258             15.XII.2022            30.XI.2022
+               1259              1.I.2023              9.XII.2022
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1154 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 15 August 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                  Approval of ITU-T Recommendations
+   By AAP-07, it was announced that the following ITU-T Recommendations were approved, in accordance with
+   the procedures outlined in Recommendation ITU-T A.8:
+   –        ITU-T G.988 (2017) Amd. 5 (06/2022): ONU management and control interface (OMCI) specification:
+            Amendment 5
+   –        ITU-T G.7721.1 (06/2022): Data model of synchronization management
+   –        ITU-T X.672 (06/2022): Information technology - Open systems interconnection - Object identifier
+            resolution system
+
+
+
+                                             Telephone Service
+                                        (Recommendation ITU-T E.164)
+                                               url: www.itu.int/itu-t/inr/nnp
+   Belize (country code +501)
+   Communication of 14.VI.2022:
+   The Public Utilities Commission (PUC), Belize City, announces the following updated national numbering plan of
+   Belize.
+
+
+                       Presentation of national ITU-T E.164 numbering plan for country code 501:
+
+   a)       Overview:
+            The minimum number length (excluding the country code) is           7 digits.
+            The maximum number length (excluding the country code) is           7 digits.
+
+   b)       Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the
+            national numbering plan:
+            https://www.puc.bz/national-numbering-plan-2022/
+
+   c)       Link to the real-time database reflecting ported ITU-T E.164 numbers: n/a
+
+   d)       Detail of numbering plan:
+
+ NDC (national
+  destination         N(S)N number length
+code) or leading
+                                                          Usage of
+ digits of N(S)N                                                                            Additional information
+                                                     ITU-T E.164 number
+    (national        Maximum       Minimum
+  (significant)       length        length
+    number)
+        2             7 digits      7 digits    Geographic Numbers -             Belize District
+                                                Fixed Line Services
+        3             7 digits      7 digits    Geographic Numbers -             Orange Walk District
+                                                Fixed Line Services
+        4             7 digits      7 digits    Geographic Numbers -             Corozal District
+                                                Fixed Line Services
+        5             7 digits      7 digits    Geographic Numbers -             Stann Creek District
+                                                Fixed Line Services
+        6             7 digits      7 digits    Non-Geographic Numbers -         Mobile Services - Nationwide
+                                                Mobile Services
+        7             7 digits      7 digits    Geographic Numbers -             Toledo District
+                                                Fixed Line Services
+        8             7 digits      7 digits    Geographic Numbers -             Cayo District
+                                                Fixed Line Services
+
+        Description of important numbers related to emergency services and other services of social value:
+
+Important          Service         Allocated or assigned       E.164 number or                       Note
+ number                                                      national-only number
+   911       Emergency Service     Allocated in the NNP     National-only number      Emergency Number (Police)
+   922       Emergency Service     Allocated in the NNP     National-only number      Crime Stoppers
+   966       Emergency Service     Allocated in the NNP     National-only number      National Marine Communications
+                                                                                      Center
+  977        Emergency Service     Allocated in the NNP     National-only number      Police Witness Protection Program
+  990        Emergency Service     Allocated in the NNP     National-only number      Fire Emergency Number
+  999        Emergency Service     Allocated in the NNP     National-only number      Belize Coast Guard Emergency
+                                                                                      Number
+
+ Contact:
+               Mr Abraham Teck
+               Public Utilities Commission (PUC)
+               No. 4 Princess Margaret Drive
+               2nd Floor, Marina Towers
+               BELIZE CITY
+               Belize
+               Tel: +501 223 4938
+               Fax: +501 223 6818
+               E-mail: telecom@puc.bz
+               URL: www.puc.bz
+
+
+
+
+Morocco (country code +212)
+Communication of 17.VI.2022:
+The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following
+updates to the national telephone-numbering plan of Morocco.
+
+•      Description of introduction of new resource for national E.164 numbering plan for country code +212:
+
+          NDC (national          N(S)N number length
+       destination code) or
+     leading digits of N(S)N    Maximum      Minimum           Usage of E.164 number           Additional information
+      (national (significant)    length       length
+             number)
+              764                  9             9           Mobile services 2G/3G/4G       Itissalat Al-Maghrib1
+
+              765                  9             9           Mobile services 2G/3G/4G       Itissalat Al-Maghrib
+
+              768                  9             9           Mobile services 2G/3G/4G       Itissalat Al-Maghrib
+
+1
+    : MAROC TELECOM
+
+Contact:
+           Agence Nationale de Réglementation des Télécommunications (ANRT)
+           Centre d'affaires
+           Boulevard Ar-Riad, Hay Riad
+           B.P. 2939
+           RABAT 10100
+           Morocco
+           Tel:    +212 5 37 71 85 64
+           E-mail: numerotation@anrt.ma
+           URL:    www.anrt.ma
+
+
+
+
+                                       Other communications
+
+China (People’s Republic of)
+Communication of 25.V.2022:
+On the occasion of the 25th anniversary of the return of the Hong Kong Special Administrative Region to the
+motherland, the People’s Republic of China Administration authorizes an amateur radio operator in the Hong
+Kong Special Administrative Region to use a special call sign prefixed with "VR25" from 1 July 2022 to 30 June
+2023. Details of amateur call signs are as follows:
+
+                   Normal call sign                                          Special call sign
+ Prefixed with VR2    Suffixed with 2 to 3 characters   Prefixed with VR25        Suffixed with 2 to 3 characters
+ Example: VR2ABC                                        Example: VR25ABC
+
+
+Austria
+Communication of 15.VI.2022:
+On the occasion of the 60th anniversary of the "amateur radio association ÖVSV Landesverband Steiermark", the
+Austrian Administration authorizes an Austrian amateur station to use the special call signs OE6STMK from 1 July
+to 31 August 2022.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                           Abbreviations used
+                               ADD   Insert                  PAR   Paragraph
+                               COL   Column                  REP   Replace
+                               LIR   Read                    SUP   Delete
+                               P     Page(s)
+
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2022
+
+                                               Section VI
+
+
+REP
+      AA17        Electrotech Australia Pty Ltd., P.O. Box 7238,
+                  Warringah Mall, Brookvale NSW 2100, Australia.
+                  E-mail : satcom.billing@electrotech.net.au,
+                  Tel: +61 2 9466 6800, Fax: +61 2 9905 6318,
+                  Contact Person: John Cornish.
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 37)
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point        Name of the signalling point operator
+
+
+ Brazil ADD
+ 7-056-0       14784        PTS/SP/FRANCA                              Algar Telecom S/A
+ 7-056-6       14790        STP1 Surf/SP/SANTO ANDRE                   SURF TELECOM SA
+ 7-056-7       14791        STP2 Surf/SP/SANTO ANDRE                   SURF TELECOM SA
+ 7-057-0       14792        SMSC Alaris 01/RJ/Rio de Janeiro           TELEXPERTS TELECOMUNICACOES LTDA
+ 7-057-1       14793        PTS/MG/UBERLANDIA                          Algar Telecom S/A
+ 7-057-2       14794        CPC2RJ3SM3/RJ/RIO DE JANEIRO               Claro S.A.
+ 7-057-3       14795        PTS/SP/BARUERI                             SURF TELECOM SA
+ 7-057-4       14796        PTS/SP/SAO PAULO                           SURF TELECOM SA
+ 7-057-5       14797        Faria Lima, 1912/SP/São Paulo              AMERICA NET LTDA
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
