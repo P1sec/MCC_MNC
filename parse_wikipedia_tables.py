@@ -608,10 +608,10 @@ def read_entry_borders(T, off):
     L   = T[off]
     rec = dict(REC_BORDERS)
     #
-    rec['country_name'], rec['country_url'] = _get_country_url(L[0])
-    rec['border_len_km'] = int(explore_text(L[1]).text.strip().replace(',', '').split('.')[0])
-    rec['border_len_mi'] = int(explore_text(L[2]).text.strip().replace(',', '').split('.')[0])
-    rec['neigh_num']     = _get_int(explore_text(L[4]).text.strip())
+    rec['country_name'], rec['country_url'] = _get_country_url(L[1])
+    rec['border_len_km'] = int(explore_text(L[2]).text.strip().replace(',', '').split('.')[0])
+    rec['border_len_mi'] = int(explore_text(L[3]).text.strip().replace(',', '').split('.')[0])
+    rec['neigh_num']     = _get_int(explore_text(L[5]).text.strip())
     #
     if len(L[0]) >= 2 and len(L[0][1]) >= 2 and len(L[0][1][1]) >= 2:
         # sub countries
@@ -631,11 +631,11 @@ def read_entry_borders(T, off):
             sub.sort(key=lambda t: t[0])
             rec['country_sub'] = sub
     #
-    if len(L) >= 6:
+    if len(L) >= 7:
         #if len(L[5]) >= 1 and len(L[5][0]) >= 2:
         #    rec['neigh'] = _get_bord(L[5][0][1])
         #rec['dbg'] = L
-        rec['neigh'] = _get_bord(L[5])
+        rec['neigh'] = _get_bord(L[6])
         #
         if rec['country_name'] not in BORDER_ISSUE and rec['neigh_num'] != len(rec['neigh']):
             assert()
@@ -648,12 +648,13 @@ def parse_table_borders():
     T_B = T[0][0]
     L   = []
     cns = set()
-    for i in range(3, len(T_B)):
+    for i in range(2, len(T_B)):
         rec = read_entry_borders(T_B, i)
         if rec['country_name'] in cns:
             print('> duplicate borders entry for %s' % rec['country_name'])
         else:
             cns.add(rec['country_name'])
+        print(rec)
         L.append(rec)
     L.sort(key=lambda r: r['country_name'])
     return L
