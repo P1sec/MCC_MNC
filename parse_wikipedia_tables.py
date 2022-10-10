@@ -654,7 +654,6 @@ def parse_table_borders():
             print('> duplicate borders entry for %s' % rec['country_name'])
         else:
             cns.add(rec['country_name'])
-        print(rec)
         L.append(rec)
     L.sort(key=lambda r: r['country_name'])
     return L
