@@ -613,10 +613,10 @@ def read_entry_borders(T, off):
     rec['border_len_mi'] = int(explore_text(L[3]).text.strip().replace(',', '').split('.')[0])
     rec['neigh_num']     = _get_int(explore_text(L[5]).text.strip())
     #
-    if len(L[0]) >= 2 and len(L[0][1]) >= 2 and len(L[0][1][1]) >= 2:
-        # sub countries
+    if len(L[1]) >= 2 and len(L[1][1]) >= 2 and len(L[1][1][1]) >= 2:
+        # sub countries, listed after '→includes:'
         sub = []
-        for e in L[0][1][1]:
+        for e in L[1][1][1]:
             e = explore_text(e)
             if e is not None:
                 if len(e.values()) == 2:
@@ -640,6 +640,8 @@ def read_entry_borders(T, off):
         if rec['country_name'] not in BORDER_ISSUE and rec['neigh_num'] != len(rec['neigh']):
             assert()
     #
+    if rec['country_name'] == 'France':
+        assert()
     return rec
 
 
