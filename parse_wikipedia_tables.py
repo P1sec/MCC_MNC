@@ -640,8 +640,6 @@ def read_entry_borders(T, off):
         if rec['country_name'] not in BORDER_ISSUE and rec['neigh_num'] != len(rec['neigh']):
             assert()
     #
-    if rec['country_name'] == 'France':
-        assert()
     return rec
 
 
