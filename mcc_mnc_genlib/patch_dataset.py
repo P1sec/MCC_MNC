@@ -58,6 +58,7 @@ __all__ = [
     'country_match',
     'country_match_set',
     'country_present',
+    'wikip_borders_todict',
     ]
 
 
@@ -201,6 +202,7 @@ COUNTRY_RENAME = {
     #
     # Europe
     'Bailiwick of Guernsey'     : 'Guernsey',
+    'Kingdom of Denmark'        : 'Denmark',
     'Vatican City'              : 'Vatican',
     'Vatican City State'        : 'Vatican',
     'Holy See (Vatican City)'   : 'Vatican',
@@ -403,8 +405,6 @@ def patch_wikip_iso3166():
                     print('>>> missing CC2 %s, part of %s' % (cc2_s, country))
                 else:
                     wc_s = WIKIP_ISO3166[cc2_s]
-                    
-                    
                     if wc_s['sovereignity'] == '':
                         wc_s['sovereignity'] = cc2
                     elif wc_s['sovereignity'] != cc2:
@@ -481,6 +481,8 @@ BORD_COUNTRY_DEL = [
 
 
 # territory names that are in duplicate to their oversea territories
+# WNG: it seems this Wikipedia table is going back and forth with little differences
+#  geopolitics is not an easy topic !
 BORD_DUP_DEL = [
     #
     # Denmark:
@@ -488,12 +490,13 @@ BORD_DUP_DEL = [
     # 2nd entry corresponds to Denmark plus Faroe Islands and Greenland: delete it
     'Denmark',
     # 2022/06/16: duplicate added
+    # 2022/10/10: changed to "Kingdom of Denmark', patched, removed
     #
     # France:
     # 1st entry corresponds to metropolitan France
     # 2nd entry corresponds to France including all overseas territories: delete it
     'France',
-    # 2022/06/16: 1st changed to "Metropolitan France", but patched
+    # 2022/06/16: 1st changed to "Metropolitan France", patched
     #
     # Netherlands:
     # 1st entry corresponds to metropolitan Netherlands
@@ -504,9 +507,17 @@ BORD_DUP_DEL = [
     #
     # United Kingdom:
     # 1st entry corresponds to metropolitan UK
-    # 2nd entry corresponds to France including all overseas territories: delete it
+    # 2nd entry corresponds to UK including all overseas territories: delete it
     'United Kingdom',
     ]
+
+
+def wikip_borders_todict(bl=WIKIP_BORDERS):
+    # WIKIP_BORDERS should have been rearranged, so that it can be converted as
+    # a dict without any lost
+    bd = {r['country_name']: r for r in bl}
+    assert( len(bd) == len(bl) )
+    return bd
 
 
 def patch_wikip_borders():
@@ -545,7 +556,6 @@ def patch_wikip_borders():
                           % (oldname, newname, r['country_name']))
     #
     # 2) delete entries
-    #assert()
     for r in WIKIP_BORDERS[:]:
         if r['country_name'] in BORD_COUNTRY_DEL:
             WIKIP_BORDERS.remove(r)
@@ -566,8 +576,7 @@ def patch_wikip_borders():
     #
     # 4) remove borders to FR, NL, UK when actually against an oversea territory
     # to enable conversion of WIKIP_BORDERS into a dict
-    BD = {r['country_name']: r for r in WIKIP_BORDERS}
-    assert( len(BD) == len(WIKIP_BORDERS) )
+    BD = wikip_borders_todict(WIKIP_BORDERS)
     for name in BORD_DUP_DEL:
         for r in WIKIP_BORDERS:
             for r_neigh in r['neigh'][:]:
@@ -723,6 +732,11 @@ patch_wikip_mnc()
 # AB, Abkhazia: no ref within telephone prefixes (same prefix as Georgia ?)
 # AK, Akrotiri and Dhekelia: no ref within telephone prefixes (same prefix as Cyprus ? UK ? US ?)
 
+MSISDN_INTL = {
+    '881',
+    '882',
+    }
+
 
 def patch_wikip_msisdn():
     print('[+] patch Wikipedia list of country prefixes: WIKIP_MSISDN')
@@ -790,7 +804,8 @@ def patch_wikip_country():
                     found = True
                     break
         #
-        if not found:
+        if not found and not all([pref not in MSISDN_INTL for pref in preflist]):
+            # satellite / international operators
             print('>>> country name %s, prefix %s, not found in WIKIP_ISO3166'\
                   % (country, ', '.join(['+%s' % pref for pref in preflist])))
         #
@@ -808,7 +823,7 @@ def patch_wikip_country():
                                      ', '.join(['%s (%s)' % (r[1], r[0]) for r in WIKIP_MSISDN[pref[:i]]])))
                         found = True
                 if not found:
-                    print('>>> country %s, prefix +%s not in WIKIP_MSISDN' % (country, pref))
+                    print('>>> country name %s, prefix +%s not in WIKIP_MSISDN' % (country, pref))
 
 patch_wikip_country()
 
@@ -898,7 +913,7 @@ def patch_wfb():
     isonameset    = set([r['country_name'] for r in WIKIP_ISO3166.values()])
     #
     for name, infos in sorted(WORLD_FB.items()):
-        for k in ('cc2', 'cc3', 'ccn', 'gec'):
+        for k in ('cc2', 'cc3', 'ccn', 'genc'):
             if infos[k] == '-':
                 infos[k] = ''
         if name in WFB_COUNTRY_DEL:
