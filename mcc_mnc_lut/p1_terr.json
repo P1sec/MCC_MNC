@@ -11,7 +11,8 @@
       "dep": "GE",
       "neigh": {
         "bord": [
-          "Georgia"
+          "Georgia",
+          "Russia"
         ],
         "less100": [],
         "less30": []
@@ -1079,6 +1080,15 @@
         "less100": [
           "Nicaragua"
         ],
+        "less30": []
+      }
+    },
+    "England": {
+      "cc2": null,
+      "dep": "GB",
+      "neigh": {
+        "bord": [],
+        "less100": [],
         "less30": []
       }
     },
@@ -2678,6 +2688,7 @@
       "cc2": "RU",
       "neigh": {
         "bord": [
+          "Abkhazia",
           "Azerbaijan",
           "Belarus",
           "China",
@@ -2922,6 +2933,15 @@
     "Scattered Islands": {
       "cc2": null,
       "dep": "TF",
+      "neigh": {
+        "bord": [],
+        "less100": [],
+        "less30": []
+      }
+    },
+    "Scotland": {
+      "cc2": null,
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [],
@@ -3701,6 +3721,15 @@
     "Wake Island": {
       "cc2": null,
       "dep": "US",
+      "neigh": {
+        "bord": [],
+        "less100": [],
+        "less30": []
+      }
+    },
+    "Wales": {
+      "cc2": null,
+      "dep": "GB",
       "neigh": {
         "bord": [],
         "less100": [],

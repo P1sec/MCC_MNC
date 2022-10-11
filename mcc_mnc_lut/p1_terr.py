@@ -3,7 +3,7 @@
 # license: produced by P1 Security, based on openly available data
 
 P1_TERR = \
-{ 'Abkhazia': {'cc2': 'AB', 'dep': 'GE', 'neigh': {'bord': ['Georgia'], 'less100': [], 'less30': []}},
+{ 'Abkhazia': {'cc2': 'AB', 'dep': 'GE', 'neigh': {'bord': ['Georgia', 'Russia'], 'less100': [], 'less30': []}},
   'Adélie Land': {'cc2': None, 'dep': 'TF', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
   'Afghanistan': { 'cc2': 'AF',
                    'neigh': { 'bord': ['China', 'Iran', 'Pakistan', 'Tajikistan', 'Turkmenistan', 'Uzbekistan'],
@@ -231,6 +231,7 @@ P1_TERR = \
                         'less100': [],
                         'less30': ['Jordan', 'Saudi Arabia']}},
   'El Salvador': {'cc2': 'SV', 'neigh': {'bord': ['Guatemala', 'Honduras'], 'less100': ['Nicaragua'], 'less30': []}},
+  'England': {'cc2': None, 'dep': 'GB', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
   'Equatorial Guinea': {'cc2': 'GQ', 'neigh': {'bord': ['Cameroon', 'Gabon'], 'less100': [], 'less30': []}},
   'Eritrea': {'cc2': 'ER', 'neigh': {'bord': ['Djibouti', 'Ethiopia', 'Sudan'], 'less100': ['Yemen'], 'less30': []}},
   'Estonia': {'cc2': 'EE', 'neigh': {'bord': ['Latvia', 'Russia'], 'less100': ['Finland'], 'less30': []}},
@@ -522,7 +523,8 @@ P1_TERR = \
                           'less100': ['Slovakia'],
                           'less30': []}},
   'Russia': { 'cc2': 'RU',
-              'neigh': { 'bord': [ 'Azerbaijan',
+              'neigh': { 'bord': [ 'Abkhazia',
+                                   'Azerbaijan',
                                    'Belarus',
                                    'China',
                                    'Estonia',
@@ -596,6 +598,7 @@ P1_TERR = \
                                'less100': ['Syria'],
                                'less30': ['Bahrain', 'Egypt', 'Israel']}},
   'Scattered Islands': {'cc2': None, 'dep': 'TF', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
+  'Scotland': {'cc2': None, 'dep': 'GB', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
   'Senegal': { 'cc2': 'SN',
                'neigh': { 'bord': ['Guinea', 'Guinea-Bissau', 'Mali', 'Mauritania', 'The Gambia'],
                           'less100': [],
@@ -761,6 +764,7 @@ P1_TERR = \
                             'less30': ['Aruba', 'Trinidad']}},
   'Vietnam': {'cc2': 'VN', 'neigh': {'bord': ['Cambodia', 'China', 'Laos'], 'less100': ['Thailand'], 'less30': []}},
   'Wake Island': {'cc2': None, 'dep': 'US', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
+  'Wales': {'cc2': None, 'dep': 'GB', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
   'Wallis and Futuna': {'cc2': 'WF', 'dep': 'FR', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
   'West Bank': {'cc2': None, 'dep': 'PS', 'neigh': {'bord': ['Israel', 'Jordan'], 'less100': [], 'less30': []}},
   'Western Sahara': { 'cc2': 'EH',

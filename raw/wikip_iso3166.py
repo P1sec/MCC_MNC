@@ -2252,7 +2252,7 @@ WIKIP_ISO3166 = \
           'country_url': 'https://en.wikipedia.org/wiki/Turkey',
           'regions_url': 'https://en.wikipedia.org/wiki/ISO_3166-2:TR',
           'sovereignity': 'UN member',
-          'state_name': 'The Republic of Turkey'},
+          'state_name': 'The Republic of Türkiye'},
   'TT': { 'cc_tld': '.tt',
           'cc_tld_url': 'https://en.wikipedia.org/wiki/.tt',
           'code_alpha_2': 'TT',

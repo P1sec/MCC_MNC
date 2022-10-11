@@ -7,6 +7,18 @@
   },
   [
     {
+      "border_len_km": 382,
+      "border_len_mi": 237,
+      "country_name": "Abkhazia",
+      "country_sub": [],
+      "country_url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "neigh": [
+        "Georgia",
+        "Russia"
+      ],
+      "neigh_num": 2
+    },
+    {
       "border_len_km": 5529,
       "border_len_mi": 3436,
       "country_name": "Afghanistan",
@@ -606,31 +618,6 @@
         "Germany"
       ],
       "neigh_num": 1
-    },
-    {
-      "border_len_km": 69,
-      "border_len_mi": 43,
-      "country_name": "Denmark",
-      "country_sub": [
-        [
-          "Denmark",
-          "https://en.wikipedia.org/wiki/Denmark"
-        ],
-        [
-          "Faroe Islands",
-          "https://en.wikipedia.org/wiki/Faroe_Islands"
-        ],
-        [
-          "Greenland",
-          "https://en.wikipedia.org/wiki/Greenland"
-        ]
-      ],
-      "country_url": "https://en.wikipedia.org/wiki/Denmark",
-      "neigh": [
-        "Canada",
-        "Germany"
-      ],
-      "neigh_num": 2
     },
     {
       "border_len_km": 528,
@@ -1260,6 +1247,31 @@
         "Uganda"
       ],
       "neigh_num": 5
+    },
+    {
+      "border_len_km": 69,
+      "border_len_mi": 43,
+      "country_name": "Kingdom of Denmark",
+      "country_sub": [
+        [
+          "Denmark",
+          "https://en.wikipedia.org/wiki/Denmark"
+        ],
+        [
+          "Faroe Islands",
+          "https://en.wikipedia.org/wiki/Faroe_Islands"
+        ],
+        [
+          "Greenland",
+          "https://en.wikipedia.org/wiki/Greenland"
+        ]
+      ],
+      "country_url": "https://en.wikipedia.org/wiki/Kingdom_of_Denmark",
+      "neigh": [
+        "Canada",
+        "Germany"
+      ],
+      "neigh_num": 2
     },
     {
       "border_len_km": 1037,
@@ -2660,6 +2672,10 @@
           "https://en.wikipedia.org/wiki/Cayman_Islands"
         ],
         [
+          "England",
+          "https://en.wikipedia.org/wiki/England"
+        ],
+        [
           "Falkland Islands",
           "https://en.wikipedia.org/wiki/Falkland_Islands"
         ],
@@ -2684,6 +2700,10 @@
           "https://en.wikipedia.org/wiki/Montserrat"
         ],
         [
+          "Northern Ireland",
+          "https://en.wikipedia.org/wiki/Northern_Ireland"
+        ],
+        [
           "Pitcairn Islands",
           "https://en.wikipedia.org/wiki/Pitcairn_Islands"
         ],
@@ -2692,12 +2712,20 @@
           "https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha"
         ],
         [
+          "Scotland",
+          "https://en.wikipedia.org/wiki/Scotland"
+        ],
+        [
           "South Georgia and the South Sandwich Islands",
           "https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands"
         ],
         [
           "Turks and Caicos Islands",
           "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands"
+        ],
+        [
+          "Wales",
+          "https://en.wikipedia.org/wiki/Wales"
         ]
       ],
       "country_url": "https://en.wikipedia.org/wiki/United_Kingdom",
