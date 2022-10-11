@@ -522,8 +522,8 @@ def gen_dict_cc2():
         # 3) additional infos from the World Factbook
         if D['name'] in WORLD_FB:
             wfb = WORLD_FB[D['name']]
-            if wfb['gec']:
-                codes['gec'] = wfb['gec']
+            if wfb['genc']:
+                codes['genc'] = wfb['genc']
             if wfb['stan']:
                 codes['stan'] = wfb['stan']
             if wfb['cmt']:
@@ -643,8 +643,7 @@ def gen_dict_terr():
             R[name]['dep'] = inf['dep']
     #
     # 2) add borders and neighbours
-    WBORD = {r['country_name']: r for r in WIKIP_BORDERS}
-    assert( len(WBORD) == len(WIKIP_BORDERS) )
+    WBORD = wikip_borders_todict(WIKIP_BORDERS)
     #
     for name, inf in sorted(R.items()):
         bord, less30, less100 = set(), set(), set()
