@@ -246,7 +246,11 @@ COUNTRY_SPEC = {
     'United Kingdom': {
         'cc2' : 'GB',
         'sub' : [ # automatically filled from WIKIP_ISO3166, see patch_dataset.py
-            'Northern Ireland', # no CC2
+            # no dedicated CC2, not identified in the ISO3166 table
+            'England',
+            'Northern Ireland',
+            'Scotland',
+            'Wales',
             ],
         'sub_cc2'       : ['AK', ], # automatically filled from WIKIP_ISO3166, see patch_dataset.py
         },
