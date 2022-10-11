@@ -73,7 +73,7 @@ REC_COUNTRY  = {
     'name'  : '',
     'url'   : '',
     'json'  : '',
-    'gec'   : '',
+    'genc'  : '',
     'cc2'   : '',
     'cc3'   : '',
     'ccn'   : '',
@@ -113,7 +113,7 @@ def parse_table_country_all():
     for L in T:
         rec = dict(REC_COUNTRY)
         rec['name'] = L['entity']
-        rec['gec']  = L['genc'].upper() if L['genc'] is not None and len(L['genc']) == 2 else ''
+        rec['genc'] = L['genc'].upper() if L['genc'] is not None and len(L['genc']) in {2, 3, 4} else ''
         rec['cc2']  = L['iso_code_1'].upper() if L['iso_code_1'] is not None and len(L['iso_code_1']) == 2 else ''
         rec['cc3']  = L['iso_code_2'].upper() if L['iso_code_2'] is not None and len(L['iso_code_2']) == 3 else ''
         rec['ccn']  = L['iso_code_3'].upper() if L['iso_code_3'] is not None and len(L['iso_code_3']) == 3 else ''
