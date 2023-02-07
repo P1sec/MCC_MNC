@@ -36,7 +36,7 @@ from mcc_mnc_lut.p1_cntr import P1_CNTR
 from mcc_mnc_lut.p1_cc2  import P1_CC2
 
 
-def printext_cntr(infos, indent=''):
+def printext_cntr(infos, ext=1, indent=''):
     c = infos['codes']
     try:
         print('%s  alpha-3 code  : %s' % (indent, c['cc3']))
@@ -78,15 +78,14 @@ def printext_cntr(infos, indent=''):
             indent, ', '.join(['%s: %i' % (k, v) for (k, v) in sorted(t['subs'].items())])))
     except Exception:
         pass
-    try:
-        print('%s    general information (%i):' % (indent, t['general'][-1]))
-        for i in t['general'][:-1]:
-            print('%s      - %s' % i)
-        print('%s    international connection (%i):' % (indent, t['intl'][-1]))
-        for i in t['intl'][:-1]:
-            print('%s      - %s' % (indent, i))
-    except Exception:
-        pass
+    if ext > 1:
+        try:
+            for tkey in ('general', 'domestic', 'intl'):
+                print('%s    %s (%i):' % (indent, tkey, t[tkey][-1]))
+                for l in t[tkey][:-1]:
+                    print('%s      - %s' % (indent, l))
+        except Exception as err:
+            pass
 
 
 def print_cntr(cntr, dep=None, ext=0, indent=''):
@@ -117,7 +116,7 @@ def print_cntr(cntr, dep=None, ext=0, indent=''):
         pass
     #
     if ext:
-        printext_cntr(cntr['infos'], indent=indent)
+        printext_cntr(cntr['infos'], ext=ext, indent=indent)
     if ext > 1:
         # give the list of MCC-MNC
         print('%s  list of MCC-MNC:' % indent)
