@@ -1,0 +1,702 @@
+                         ITU Operational Bulletin
+                                                           www.itu.int/itu-t/bulletin
+
+         No. 1261              1.II.2023                   (Information received by 13 January 2023) ISSN 1564-5223 (Online)
+   Place des Nations CH-1211                               Standardization Bureau (TSB)                                     Radiocommunication Bureau (BR)
+   Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                         Tel:    +41 22 730 5560
+   Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                         Fax:    +41 22 730 5785
+   E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                        E-mail: brmail@itu.int
+
+
+
+
+                                                                   Table of Contents
+                                                                                                                                                                    Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                 3
+Approval of ITU-T Recommendations ............................................................................................................                      4
+Telephone Service: .........................................................................................................................................        5
+     Czech Republic (Czech Telecommunication Office, Prague) .....................................................................                                  5
+     Ghana (National Communications Authority (NCA), Accra) .....................................................................                                   8
+     Gibraltar (Gibraltar Regulatory Authority) ...............................................................................................                     9
+     Taiwan, China (Ministry of Industry and Information Technology of the People’s Republic of China,
+        Beijing) ................................................................................................................................................   10
+Service Restrictions ........................................................................................................................................       11
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                  11
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card ...........................                                                   12
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions .............................................................................................................................................       14
+List of ITU Carrier Codes ...............................................................................................................................           14
+List of International Signalling Point Codes (ISPC) ..........................................................................................                      15
+National Numbering Plan .............................................................................................................................               16
+
+
+
+
+                                                                                                                                     www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1262             15.II.2023             31.I.2023
+               1263              1.III.2023            14.II.2023
+               1264             15.III.2023            28.II. 2023
+               1265              1.IV.2023             15.III.2023
+               1266             15.IV.2023             31.III.2023
+               1267              1.V.2023              12.IV.2023
+               1268             15.V.2023              30.IV.2023
+               1269              1.VI.2023             12.V.2023
+               1270             15.VI.2023             1.VI.2023
+               1271             1.VII.2023             15.VI.2023
+               1272             15.VII.2023            30.VI.2023
+               1273             1.VIII.2023           14.VII.2023
+               1274            15.VIII.2023           28.VII.2023
+               1275              1.IX.2023            11.VIII.2023
+               1276             15.IX.2023            31.VIII.2023
+               1277              1.X.2023              15.IX.2023
+               1278             15.X.2023              29.IX.2023
+               1279              1.XI.2023             13.X.2023
+               1280             15.XI.2023             1.XI.2023
+               1281             1.XII.2023             15.XI.2023
+               1282             15.XII.2023            30.XI.2023
+               1283              1.I.2024              8.XII.2023
+
+
+
+
+                                         GENERAL INFORMATION
+                            Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration
+      to its Amateur and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position
+      on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to
+      ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position
+      on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on
+      1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                               Approval of ITU-T Recommendations
+By AAP-20, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T G.8052.1/Y.1346.1 (2021) Amd. 1 (01/2023): Operation, administration, maintenance (OAM)
+        management information and data models for the Ethernet-transport network element - Amendment 1
+–       ITU-T G.9711 (2021) Cor. 1 (12/2022): Multi-gigabit fast access to subscriber terminals (MGfast) Physical
+        layer specification - Corrigendum 1
+–       ITU-T L.1630 (01/2023): Framework of building infrastructure management system for sustainable city
+–       ITU-T Y.2247 (01/2023): Framework and Requirements of Network-oriented Data Integrity Verification
+        Service based on Blockchain in Future Network
+–       ITU-T Y.2248 (01/2023): Service model for Entry-level Smart Farm
+–       ITU-T Y.3119 (01/2023): Future networks including IMT-2020: capability classification framework for
+        dedicated networks
+–       ITU-T Y.3120 (01/2023): Functional Architecture for latency guarantee in large scale networks including IMT-
+        2020 and beyond
+–       ITU-T Y.3121 (01/2023): QoS requirements and framework for supporting deterministic communication
+        services in local area network for IMT-2020
+–       ITU-T Y.3183 (01/2023): Framework for network slicing management assisted by machine learning leveraging
+        QoE feedback from verticals
+–       ITU-T Y.3201 (01/2023): Fixed, mobile and satellite convergence – Framework for IMT-2020 networks and
+        beyond
+–       ITU-T Y.3325 (01/2023): Framework for high-level AI-based management communicating with external
+        management systems
+–       ITU-T Y.3539 (01/2023): Cloud computing - Framework of risk management
+–       ITU-T Y.3607 (01/2023): Big data – Functional architecture for data provenance
+–       ITU-T Y.3813 (01/2023): Quantum key distribution networks interworking – functional requirements
+–       ITU-T Y.3814 (01/2023): Quantum key distribution networks - functional requirements and architecture for
+        machine learning enablement
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                             url: www.itu.int/itu-t/inr/nnp
+
+ Czech Republic (country code +420)
+ Communication of 5.I.2023:
+ The Czech Telecommunication Office, Prague, announces the following updated National Numbering Plan of the
+ Czech Republic.
+ The numbering plan uses the principles of closed numbering. All national numbers used by subscribers have nine
+ (9) digits (except short numbers and specific numbers such as voice mail services).
+ When dialling from abroad to the Czech Republic, after the international access code (international prefix) and the
+ country code of the Czech Republic (+420), the national (significant) number (N(S)N.
+
+                                            N(S)N number
+  NDC (National Destination Code) or
+                                                length                                                Additional
+   leading digits of N(S)N (National                            Usage of E.164 Number
+                                         Minimum Maximum                                             information
+        (Significant) Number)
+                                          length      length
+1000 - 1059                                  4           5   Carrier network selection
+10600 - 10999                                                Reserved
+1110 – 111                                                   Reserved
+112                                          3           3   Single European emergency
+                                                             call number
+113 – 115                                                    Reserved
+116000 - 116111                              6           6   European harmonised
+                                                             numbers
+116112                                       6           6   Reserved
+116113 - 116999                              6           6   European harmonised
+                                                             numbers
+117                                                          Reserved
+1180 – 1189                                  4           4   Directory enquiry services
+119                                                          Reserved
+1200 - 1240                                  4           5   Services for disabled, social
+                                                             and health services, fallback
+                                                             emergencies
+12410 - 12999                                5               Services for disabled, social
+                                                             and health services, fallback
+                                                             emergencies, information
+                                                             services
+13                                           5           6   Public service numbers of
+                                                             network providers
+14000 - 14500                                5           5   Services for disabled, social,
+                                                             health, assistance, and
+                                                             security services
+14501 - 14999                                                Reserved
+15                                           3           3   National emergency call
+                                                             numbers
+1600 - 1699                                  4           4   Global services routing
+17 – 18                                                      Reserved
+190 – 198                                                    Reserved
+199                                          3           3   Anti-corruption hotline
+
+
+
+
+                                         N(S)N number
+NDC (National Destination Code) or
+                                             length                                           Additional
+ leading digits of N(S)N (National                          Usage of E.164 Number
+                                      Minimum Maximum                                        information
+      (Significant) Number)
+                                       length      length
+2                                         9           9   Public fixed network           Capital Praha and
+                                                                                         Region Stredocesky
+31                                       9         9                                     Capital Praha and
+                                                                                         Region Stredocesky
+32                                       9         9                                     Capital Praha and
+                                                                                         Region Stredocesky
+35                                       9         9                                     Region Karlovarsky
+37                                       9         9                                     Region Plzensky
+38                                       9         9                                     Region Jihocesky
+39                                       9         9                                     Region Jihocesky
+41                                       9         9                                     Region Ustecky
+46                                       9         9                                     Region Pardubicky
+47                                       9         9                                     Region Ustecky
+48                                       9         9                                     Region Liberecky
+49                                       9         9                                     Region
+                                                                                         Kralovehradecky
+51                                       9         9                                     Region
+                                                                                         Jihomoravsky
+53                                       9         9                                     Region
+                                                                                         Jihomoravsky
+54                                       9         9                                     Region
+                                                                                         Jihomoravsky
+55                                       9         9                                     Region
+                                                                                         Moravskoslezsky
+56                                       9         9                                     Region Vysocina
+57                                       9         9                                     Region Zlinsky
+58                                       9         9                                     Region Olomoucky
+59                                       9         9                                     Region
+                                                                                         Moravskoslezsky
+01 – 09,                                 9         9
+                                                         Reserved
+20,30,33,34,36,40,42,43,44,45,50,52
+600                                                      Reserved for public mobile
+                                                         networks
+601 – 608                                9         9     Public mobile network
+609, , 620 – 699                                         Reserved for public mobile
+                                                         networks
+610 - 614                                9         9     Public mobile network
+615 - 619                                9         9     Reserved
+700                                      9         9     Universal personal
+                                                         telecommunications – UPT,
+                                                         UPTAN
+702 – 719                                9         9     Public mobile network
+72 – 73                                  9         9     Public mobile network
+74 – 76                                                  Reserved
+77                                       9         9     Public mobile network
+78                                                       Reserved
+7900 - 7999                              9         9     Public mobile network
+800                                      9         9     Freephone services
+800                                      9         9     Freephone services – home
+                                                         country direct
+801 – 809                                                Reserved
+810 - 819                                9         9     Shared cost services
+820- 829                                 9         9     Virtual calling card services
+830 - 839                                9         9     Shared cost services
+                                          N(S)N number
+NDC (National Destination Code) or
+                                              length                                       Additional
+ leading digits of N(S)N (National                            Usage of E.164 Number
+                                       Minimum Maximum                                    information
+      (Significant) Number)
+                                        length      length
+ 840 – 842, 847 - 849                      9           9   Universal number services
+ 843 – 846                                                 Shared cost services
+ 850 – 899                                                 Reserved
+ 900                                       9           9   Premium rate services
+ 901 – 904                                                 Reserved
+ 905                                       9           9   Premium rate services
+ 906                                       9           9   Premium rate services
+ 907                                                       Reserved
+ 908                                       9           9   Premium rate services
+ 909                                       9           9   Premium rate services
+ 910                                       9           9   Public communications
+                                                           network – voice over lP
+ 911 – 919                                                 Reserved
+ 92                                                        Reserved
+ 93                                       11          11   Voice mail services
+ 940 - 949                                 9               Reserved
+ 95000 - 95999                             9           9   Private communications
+                                                           networks
+ 960 – 969                                 9          12   Voice mail services
+ 970                                       3           3   Public communications
+                                                           network – VolP – access code
+ 971                                       9           9   Dial-up internet access
+ 972 – 974                                 9           9   Private communications
+                                                           networks
+ 975                                                       Reserved
+ 976                                       9           9   Dial-up internet access –
+                                                           premium rate services
+ 977                                       9           9   Public data networks and
+                                                           interactive services
+ 978 – 979                                                 Reserved
+ 980                                       9          12   Virtual private networks –
+                                                           VPN
+ 981 – 982                                                 Reserved
+ 983                                       7           7   Virtual private networks –
+                                                           VPN
+ 984 – 988                                                 Reserved
+ 98900 - 98999                             9           9   Virtual private networks –
+                                                           VPN
+ 990 – 999                                                 Reserved
+
+
+Contact:
+      Czech Telecommunication Office
+      P. O. Box 02
+      225 02 PRAHA 025
+      Czech Republic
+      Tel:    +420 224 004 111
+      E-mail: international@ctu.cz
+      URL:    www.ctu.cz
+
+
+
+
+Ghana (country code +233)
+Communication of 20.XII.2022:
+The National Communications Authority (NCA), Accra, announces the assignment of new numbering blocks to an
+existing GSM/UMTS operator, Scancom PLC (MTN Ghana).
+
+a)    Overview:
+         The minimum number length (excluding the country code) is:    9 digits.
+         The maximum number length (excluding the country code) is:    9 digits.
+
+b) Detail of numbering plan:
+
+  NDC (National Destination        N(S)N number length
+   Code) or leading digits of                                                                   Additional
+                                  Maximum      Minimum          Usage of E.164 Number
+ N(S)N (National (Significant)                                                                 information
+                                   length       length
+           Number)
+53Y (NDC)                             9            9        Non-geographic number for      Scancom PLC
+Y = 0-9                                                     mobile services                (MTN Ghana)
+(53 0000000 - 53 9999999)
+
+
+
+Contact:
+         National Communications Authority (NCA)
+         Mr Paul Kofi Datsa
+         NCA Tower, No. 6 Airport City
+         Kotoka International Airport
+         P.O. Box CT 1568, Cantonments
+         ACCRA
+         Ghana
+         Tel:     +233 302 776 621
+         Fax:     +233 302 763 449
+         E-mail: info@nca.org.gh
+         URL:     www.nca.org.gh
+
+
+
+
+Gibraltar (country code +350)
+Communication of 20.XII.2022:
+The Gibraltar Regulatory Authority, announces the following national numbering plan for Gibraltar.
+                    Presentation of national ITU-T E.164 numbering plan for country code 350
+a)     Overview:
+       The minimum number length (excluding the country code) is        8     digits.
+       The maximum number length (excluding the country code) is        8     digits.
+b)     Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+       numbering plan (if any):
+       https://www.gra.gi/communications/numbering-plan
+c)     Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): n/a
+d)     Detail of numbering plan:
+
+
+                Service                              Operator                           Number Ranges
+                                                                                            200 0 0000 – 200 9 9999
+                                                   Gibtelecom                               202 0 0000 – 202 9 9999
+                                                                                            222 2 0000 – 222 2 9999
+                                                                                            222 4 0000 – 222 4 9999
+                                                      u-mee                                 222 5 0000 – 225 5 9999
+                 Fixed                                                                      222 7 0000 – 222 7 9999
+                                                                                            216 8 0000 – 216 8 4999
+                                                                                            216 9 0000 – 216 9 4999
+                                                     GibFibre                               225 0 0000 – 225 0 9999
+                                                                                            225 1 0000 – 225 1 4999
+                                                                                            225 5 0000 – 225 5 4999
+                                                                                            540 0 0000 – 549 9 9999
+                                                                                            560 0 0000 – 569 9 9999
+                                                   Gibtelecom
+                                                                                            570 0 0000 – 579 9 9999
+                Mobile                                                                      580 0 0000 – 589 9 9999
+                                                                                            510 0 0000 – 510 9 9999
+                                                     GibFibre                               525 0 0000 – 525 0 9999
+                                                                                            525 1 0000 – 525 1 4999
+
+Contact:
+           Gibraltar Regulatory Authority
+           Mr Gavin Santos – Communications Regulatory Manager
+           2nd Floor, Eurotowers 4,
+           1 Europort Road,
+           Gibraltar, GX11 1AA
+           Tel:     +350 20074636
+           Fax:     +350 20072166
+           E-mail: communications@gra.gi
+           URL:     www.gra.gi
+
+
+
+
+Taiwan, China (country code +886)
+Communication of 10.I.2023:
+The Ministry of Industry and Information Technology of the People’s Republic of China, Beijing, announces the
+following update of the numbering plan for the country code of +886.
+
+                               Presentation of numbering plan for country code +886
+
+ National destination       N(S)N number length
+    code (NDC) or
+                                                                       Usage of                       Additional
+   leading digits of
+                           Maximum      Minimum                   ITU-T E.164 number                 information
+ national (significant)
+   number (N(S)N)           length       length
+
+            2                   9           9        Geographic number – Area code for Taipei
+            2                   9           9        Geographic number – Area code for New
+                                                     Taipei
+            2                   9           9        Geographic number – Area code for Keelung
+            3                   8           8        Geographic number – Area code for Taoyuan
+            3                   8           8        Geographic number – Area code for Hsinchu
+            3                   8           8        Geographic number – Area code for Hualien
+            3                   8           8        Geographic number – Area code for Yilan
+           37                   8           8        Geographic number – Area code for Miaoli
+            4                   9           9        Geographic number – Area code for Taichung
+            4                   8           8        Geographic number – Area code for Changhua
+           49                   9           9        Geographic number – Area code for Nantou
+            5                   8           8        Geographic number – Area code for Chiayi
+            5                   8           8        Geographic number – Area code for Yunlin
+            6                   8           8        Geographic number – Area code for Tainan
+            6                   8           8        Geographic number – Area code for Penghu
+            7                   8           8        Geographic number – Area code for
+                                                     Kaohsiung
+             8                  8           8        Geographic number – Area code for Pingtung
+            82                  8           8        Geographic number – Area code for Kinmen
+           826                  8           8        Geographic number – Area code for Wuqiu
+           836                  8           8        Geographic number – Area code for Matsu
+            89                  8           8        Geographic number – Area code for Taitung
+Contact:
+                Mr Tang Zicai
+                Director, International Organizations Division
+                Department of International Cooperation
+                Ministry of Industry and Information Technology
+                13, West Changan Avenue
+                Beijing 100804
+                China
+                Tel:     +86 10 6820 5832
+                Fax:     +86 10 6601 1370
+                E-mail: tangzicai@miit.gov.cn
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                     AMENDMENTS TO SERVICE PUBLICATIONS
+                                             Abbreviations used
+                              ADD      Insert                   PAR      Paragraph
+                              COL      Column                   REP      Replace
+                              LIR      Read                     SUP      Delete
+                              P        Page(s)
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+                          (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                           (Amendment No. 76)
+Ireland   ADD
+
+      Country/       Company                       Issuer      Contact                              Effective
+    geographical     Name/Address                Identifier                                          date of
+        area                                      Number                                             usage
+ Ireland             Cellusys IOT Limited        89 353 07     ZARIOT                              30.V.2022
+                     trading as ZARIOT                         7 Bachelor’s Walk
+                     7 Bachelor’s Walk                         DUBLIN 1, D01NH93
+                     DUBLIN 1, D01NH93                         E-mail: helpdesk@zariot.com
+
+
+Sweden      LIR
+ Country/             Company                       Issuer     Contact
+ Geographical area    Name/Address                Identifier
+                                                   Number
+ Sweden               Teracom AB                  89 46 03     Pontus Berg
+                      Box 30150                                Box 30150
+                      SE-104 25 STOCKHOLM                      SE-104 25 STOCKHOLM
+                                                               Tel:    +46 8 5554 2000
+                                                               E-mail: pontus.berg@teracom.se
+ Sweden               Hi3G Access AB              89 46 07     Edwin Tumukunde
+                      Entretorget 5                            Entretorget 5
+                      SE-121 18                                SE-121 18 JOHANNESHOV
+                      JOHANNESHOV                              Tel.: +46 73 533 81 88
+                                                               E-mail: interconnect@tre.se
+ Sweden               Telenor Sverige AB          89 46 08     Stefan Wahlstedt
+                      Box 3081                                 Box 3081
+                      SE-169 03 SOLNA                          SE-169 03 SOLNA
+                                                               Tel:    +46 70 933 55 15
+                                                               E-mail: stefan.wahlstedt@telenor.se
+ Sweden               Tele2 Sverige AB            89 46 10     Carl-Johan Rydén
+                      Torshamnsgatan 17                        Tele2 Sverige AB
+                      SE-164 40 KISTA                          Torshamnsgatan 17
+                                                               SE-164 40 KISTA
+                                                               Tel.: +46 70 426 41 33
+                                                               E-mail: carljohan.ryden@tele2.com
+
+
+
+
+Country/             Company                 Issuer     Contact
+Geographical area    Name/Address          Identifier
+                                            Number
+Sweden               Tele2 Sverige AB      89 46 14     Mats Larsson Hammarsten
+                     Torshamnsgatan 17                  Tele2 Sverige AB
+                     SE-164 40 KISTA                    Torshamnsgatan 17
+                                                        SE-164 40 KISTA
+                                                        Tel.: +46 70 660 25 23
+                                                        E-mail: mats.larssonhammarsten@tele2.com
+Sweden               Tele2 Sverige AB      89 46 20     Carl-Johan Rydén
+                     Torshamnsgatan 17                  Tele2 Sverige AB
+                     SE-164 40 KISTA                    Torshamnsgatan 17
+                                                        SE-164 40 KISTA
+                                                        Tel.: +46 70 426 41 33
+                                                        E-mail: carljohan.ryden@tele2.com
+United States        GlobeTouch AB         89 46 27     James Snyder
+                     Box 5126                           GlobeTouch AB,
+                     SE-102 43 STOCKHOLM                3141 Stevens Creek Blvd,
+                                                        PMB 40206,
+                                                        SAN JOSE, CA 95117
+                                                        (United States)
+                                                        Tel.: +1 408-474-0991
+                                                        E-mail: gt.regulatory@globetouch.com
+Sweden               RebTel Networks AB    89 46 31     Linda Cullfors
+                     Jakobsbergsgatan 16                Jakobsbergsgatan 16
+                     SE-111 44 STOCKHOLM                SE-111 44 STOCKHOLM
+                                                        Tel.: +46 70 330 60 67
+                                                        E-mail: linda.cullfors@rebtel.com
+Sweden               Tele2 Sverige AB      89 46 70     Carl-Johan Rydén
+                     Torshamnsgatan 17                  Tele2 Sverige AB
+                     SE-164 40 KISTA                    Torshamnsgatan 17
+                                                        SE-164 40 KISTA
+                                                        Tel.: +46 70 426 41 33
+                                                        E-mail: carljohan.ryden@tele2.com
+Sweden               Tele2 Sverige AB      89 46 71     Carl-Johan Rydén
+                     Torshamnsgatan 17                  Tele2 Sverige AB
+                     SE-164 40 KISTA                    Torshamnsgatan 17
+                                                        SE-164 40 KISTA
+                                                        Tel.: +46 70 426 41 33
+                                                        E-mail: carljohan.ryden@tele2.com
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                    for public networks and subscriptions
+            (According to Recommendation ITU-T E.212 (09/2016))
+                       (Position on 15 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                                (Amendment No. 89)
+
+Country/Geographical area            MCC+MNC *           Operator/Network
+Canada      ADD
+                                          302 151        Cogeco Connexion Inc.
+                                          302 152        Cogeco Connexion Inc.
+Canada      LIR
+                                          302 570        Ligado Networks Corp.
+___________
+*    MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+      MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                  List of ITU Carrier Codes
+                  (According to Recommendation ITU-T M.1400 (03/2013))
+                              (Position on 15 September 2014)
+                             (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 143)
+
+
+ Country or area/ISO code                      Company Code               Contact
+  Company Name/Address                          (carrier code)
+
+
+Austria / AUT      ADD
+ yuutel GmbH                                      YUUTEL                 Mr Markus Scherer (CTO)
+ Leonard Bernsteinstrasse 10                                             Tel:    +43 12145130-0
+ 1220 WIEN                                                               E-mail: solutions@yuutel.at
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 49)
+
+ Country/ Geographical Area
+ ISPC          DEC                       Unique name of the signalling point    Name of the signalling point operator
+
+
+ Albania SUP
+ 2-152-1       5313                      GMSC – Tirana                          ONE TELECOMMUNICATIONS sh.a
+ 2-152-2       5314                      GMSC-Tirana1                           ONE TELECOMMUNICATIONS sh.a
+ 3-233-1       8009                      GMSC-AMC2                              ONE TELECOMMUNICATIONS sh.a
+
+ Albania ADD
+ 2-152-6       5318                      SAFECOMM sh.p.k.                       Safecomm Albania
+
+ Georgia ADD
+ 2-213-4       5804                      Tbilisi, Mobile Switching Centre       Servicebox LTD
+
+ Norway SUP
+ 7-240-1       16257                     Oslo3                                  Verizon Norway AS
+
+ Sweden LIR
+ 2-082-0       4752                      RIX1                                   Tele2 Sverige AB
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                 National Numbering Plan
+                  (According to Recommendation ITU-T E.129 (01/2013))
+                                   Web: www.itu.int/itu-t/inr/nnp/index.html
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.I.2023, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                                 Country/ Geographical area                    Country Code (CC)
+                 France                                                               +33
+                 French Departments and Territories in the Indian Ocean              +262
+                 French Guiana                                                       +594
+                 Guadeloupe                                                          +590
+                 Martinique                                                          +596
+                 Saint Pierre and Miquelon                                           +508
+
+
+
+
