@@ -348,10 +348,18 @@ def _strip_str(s):
     return RE_SPACE.sub(' ', s).strip()
 
 
-RE_HTML_BR = re.compile('<br[\s/]{0,}>')
+RE_HTML_BR    = re.compile('<br[\s/]{0,}>')
+RE_HTML_EMIN  = re.compile('<em>')
+RE_HTML_EMOUT = re.compile('</em>')
  
-def _strip_html_br(s):
-    return RE_HTML_BR.sub('', s)
+def _strip_html_brem(s):
+    # strip <br> and </em>
+    s = RE_HTML_EMOUT.sub('', RE_HTML_BR.sub('', s)).strip()
+    # strip <em> when at offset 0, otherwise replace it with ;
+    if s.startswith('<em>'):
+        s = s[4:].lstrip()
+    s = RE_HTML_EMIN.sub('; ', s)
+    return s.strip()
 
 
 def _extract_geo_mult(s):
@@ -534,12 +542,13 @@ def _extract_tel(l):
 def _extract_ports(l):
     r = {}
     for s in l:
+        # TODO: we need to strip <em></em>
         if s.startswith('major seaport'):
-            r['seaport']   = _strip_html_br(_strip_str(s.split(':', 1)[1]))
+            r['seaport']   = _strip_html_brem(_strip_str(s.split(':', 1)[1]))
         elif s.startswith('container port'):
-            r['container'] = _strip_html_br(_strip_str(s.split(':', 1)[1]))
+            r['container'] = _strip_html_brem(_strip_str(s.split(':', 1)[1]))
         elif s.startswith('cruise/ferry'):
-            r['ferry']     = _strip_html_br(_strip_str(s.split(':', 1)[1]))
+            r['ferry']     = _strip_html_brem(_strip_str(s.split(':', 1)[1]))
     return r
 
 
