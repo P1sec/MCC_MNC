@@ -136,7 +136,7 @@ WIKIP_COUNTRY = \
   'Japan': ['81'],
   'Jersey': ['441534'],
   'Jordan': ['962'],
-  'Kazakhstan': ['76', '77'],
+  'Kazakhstan': ['997', '7'],
   'Kenya': ['254'],
   'Kiribati': ['686'],
   'Korea, North': ['850'],

@@ -113,11 +113,6 @@
         "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
       ],
       [
-        "UM",
-        "United States Minor Outlying Islands",
-        "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands"
-      ],
-      [
         "US",
         "United States",
         "https://en.wikipedia.org/wiki/United_States"
@@ -716,8 +711,8 @@
     "268": [
       [
         "SZ",
-        "Swaziland",
-        "https://en.wikipedia.org/wiki/Swaziland"
+        "Eswatini",
+        "https://en.wikipedia.org/wiki/Eswatini"
       ]
     ],
     "269": [
@@ -1634,20 +1629,6 @@
         "https://en.wikipedia.org/wiki/Russia"
       ]
     ],
-    "800": [
-      [
-        "XT",
-        "Universal international freephone number",
-        "https://en.wikipedia.org/wiki/Universal_international_freephone_number"
-      ]
-    ],
-    "808": [
-      [
-        "XS",
-        "Shared Cost Service",
-        "https://en.wikipedia.org/wiki/Shared_Cost_Service"
-      ]
-    ],
     "81": [
       [
         "JP",
@@ -1711,39 +1692,11 @@
         "https://en.wikipedia.org/wiki/China"
       ]
     ],
-    "878": [
-      [
-        "XP",
-        "Universal Personal Telecommunications",
-        "https://en.wikipedia.org/wiki/Universal_Personal_Telecommunications"
-      ]
-    ],
     "880": [
       [
         "BD",
         "Bangladesh",
         "https://en.wikipedia.org/wiki/Bangladesh"
-      ]
-    ],
-    "881": [
-      [
-        "XG",
-        "Global Mobile Satellite System",
-        "https://en.wikipedia.org/wiki/Global_Mobile_Satellite_System"
-      ]
-    ],
-    "882": [
-      [
-        "XV",
-        "International Networks (country code)",
-        "https://en.wikipedia.org/wiki/International_Networks_(country_code)"
-      ]
-    ],
-    "883": [
-      [
-        "XV",
-        "International Networks (country code)",
-        "https://en.wikipedia.org/wiki/International_Networks_(country_code)"
       ]
     ],
     "886": [
@@ -1919,25 +1872,11 @@
         "https://en.wikipedia.org/wiki/Nepal"
       ]
     ],
-    "979": [
-      [
-        "XR",
-        "International premium rate service",
-        "https://en.wikipedia.org/wiki/International_premium_rate_service"
-      ]
-    ],
     "98": [
       [
         "IR",
         "Iran",
         "https://en.wikipedia.org/wiki/Iran"
-      ]
-    ],
-    "991": [
-      [
-        "XC",
-        "ITPCS",
-        "https://en.wikipedia.org/wiki/ITPCS"
       ]
     ],
     "992": [
@@ -1973,6 +1912,13 @@
         "KG",
         "Kyrgyzstan",
         "https://en.wikipedia.org/wiki/Kyrgyzstan"
+      ]
+    ],
+    "997": [
+      [
+        "KZ",
+        "Kazakhstan",
+        "https://en.wikipedia.org/wiki/Kazakhstan"
       ]
     ],
     "998": [
