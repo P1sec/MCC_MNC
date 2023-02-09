@@ -106,7 +106,7 @@ def parse_table_country_all():
     try:
         T = json.loads(J['result']['data']['page']['json'])['country_codes']
     except Exception as err:
-        raise(Exception('> invalid json for WFB country data codes: %s' % err))
+        raise(Exception('> invalid json for WFB country data codes: %r' % err))
     #
     D   = {} 
     #
@@ -638,7 +638,7 @@ def main():
     try:
         D = parse_table_country_all()
     except Exception as err:
-        print('> error occured: %s' % err)
+        print('> error occured: %r' % err)
         return 1
     #
     if args.j:
