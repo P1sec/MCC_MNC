@@ -422,11 +422,13 @@ def parse_table_mnc_all():
     for url in (URL_MNC_EU, URL_MNC_NA, URL_MNC_AS, URL_MNC_OC, URL_MNC_AF, URL_MNC_SA):
         T_MNC = import_html_doc(url).xpath('//table')
         for i in range(0, len(T_MNC)):
+            if not ''.join(T_MNC[i].itertext()).strip().startswith('MCC\nMNC'):
+                continue
             try:
                 mccmnc.update( _insert_mnc(D, parse_table_mnc(T_MNC[i][0])) )
             except Exception as err:
-                print('> unable to extract MNC table from %s (index %i): %s' % (url, i, err))
-                #raise(err)
+                print('> unable to extract MNC table from %s (index %i): %r' % (url, i, err))
+                raise(err)
     #
     for L in D.values():
         L.sort(key=lambda r: (r['mcc'], r['mnc']))
@@ -471,7 +473,9 @@ def parse_table_msisdn_pref():
     #
     # 2nd line: +1 prefix (North America)
     ccs  = set()
-    for e in T_P[2][1][0][3:]:
+    for e in T_P[2][1][0][2:]:
+        if not e.text:
+            continue
         cc   = e.text.strip()
         url  = URL_PREF + e.values()[0].strip()
         name = e.values()[-1].strip()
@@ -604,38 +608,36 @@ def _get_int(s):
         return int(m.group())
 
 
+def _get_subcntr(ec):
+    subc = []
+    for e in ec:
+        if 'href' in e.attrib:
+            subc.append( (e.attrib['title'].strip(),  URL_PREF + e.attrib['href']) )
+    return subc
+
+
 def read_entry_borders(T, off):
     L   = T[off]
     rec = dict(REC_BORDERS)
     #
-    rec['country_name'], rec['country_url'] = _get_country_url(L[1])
-    rec['border_len_km'] = int(explore_text(L[2]).text.strip().replace(',', '').split('.')[0])
-    rec['border_len_mi'] = int(explore_text(L[3]).text.strip().replace(',', '').split('.')[0])
-    rec['neigh_num']     = _get_int(explore_text(L[5]).text.strip())
+    #rec['dbg']           = L
+    rec['country_name'], rec['country_url'] = _get_country_url(L[0])
+    rec['border_len_km'] = int(explore_text(L[1]).text.strip().replace(',', '').split('.')[0])
+    rec['border_len_mi'] = int(explore_text(L[2]).text.strip().replace(',', '').split('.')[0])
+    rec['neigh_num']     = _get_int(explore_text(L[4]).text.strip())
     #
-    if len(L[1]) >= 2 and len(L[1][1]) >= 2 and len(L[1][1][1]) >= 2:
-        # sub countries, listed after '→includes:'
-        sub = []
-        for e in L[1][1][1]:
-            e = explore_text(e)
-            if e is not None:
-                if len(e.values()) == 2:
-                    url, name = e.values()
-                    sub.append( (name, URL_PREF + url) )
-                elif len(e.values()) == 3:
-                    url, _, name = e.values()
-                    sub.append( (name, URL_PREF + url) )
-                #else:
-                #    print(e.text)
-        if sub:
-            sub.sort(key=lambda t: t[0])
-            rec['country_sub'] = sub
+    if len(L[0]) >= 3 and len(L[0][2]) >= 2 and len(L[0][2][1]) >= 2:
+        # get list of sub countries
+        # listed after '→includes:'
+        subc = _get_subcntr(L[0][2][1])
+        if subc:
+            subc.sort(key=lambda t: t[0])
+            rec['country_sub'] = subc
     #
-    if len(L) >= 7:
-        #if len(L[5]) >= 1 and len(L[5][0]) >= 2:
-        #    rec['neigh'] = _get_bord(L[5][0][1])
-        #rec['dbg'] = L
-        rec['neigh'] = _get_bord(L[6])
+    if len(L) >= 6:
+        # get list of neighbours
+        
+        rec['neigh'] = _get_bord(L[5])
         #
         if rec['country_name'] not in BORDER_ISSUE and rec['neigh_num'] != len(rec['neigh']):
             assert()
@@ -667,27 +669,27 @@ def get_wiki_infos():
     try:
         D_iso  = parse_table_iso3166()
     except Exception as err:
-        print('parse_table_iso3166: unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
+        print('parse_table_iso3166: unable to download and / or parse Wikipedia HTML tables ; exception: %r' % err)
         return None, None, None, None, None, None, None
     try:
         L_mcc  = parse_table_mcc()
     except Exception as err:
-        print('parse_table_mcc: unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
+        print('parse_table_mcc: unable to download and / or parse Wikipedia HTML tables ; exception: %r' % err)
         return None, None, None, None, None, None, None
     try:
         D_mnc  = parse_table_mnc_all()
     except Exception as err:
-        print('parse_table_mnc_all: unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
+        print('parse_table_mnc_all: unable to download and / or parse Wikipedia HTML tables ; exception: %r' % err)
         return None, None, None, None, None, None, None
     try:
         D_pref, D_count, D_terr = parse_table_msisdn_pref()
     except Exception as err:
-        print('parse_table_msisdn_pref: unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
+        print('parse_table_msisdn_pref: unable to download and / or parse Wikipedia HTML tables ; exception: %r' % err)
         return None, None, None, None, None, None, None
     try:
         L_bord = parse_table_borders()
     except Exception as err:
-        print('parse_table_borders: unable to download and / or parse Wikipedia HTML tables ; exception: %s' % err)
+        print('parse_table_borders: unable to download and / or parse Wikipedia HTML tables ; exception: %r' % err)
         return None, None, None, None, None, None, None
     return D_iso, L_mcc, D_mnc, D_pref, D_count, D_terr, L_bord
 
