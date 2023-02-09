@@ -377,6 +377,203 @@ def _parse_mnc_line(line, mnos, mno, mnc):
 
 
 #------------------------------------------------------------------------------#
+# parse MNC updates
+#------------------------------------------------------------------------------#
+
+"""
+Regular MNC updates are available in bulletins
+We extract them in order to update the database established from bulletins 1162 onward
+The following script check within a bulletin if MNC updates are provided
+
+We keep track of all information, whatever rule applies to it (ADD, SUP or LIR)
+We don't try to get the country name, as we will match with the MCC afterwards
+"""
+
+# The list starts with a line like this
+#Country/Geographical area            MCC+MNC           Operator/Network
+# And ends with a line of underscores
+#____________
+
+RE_MNC_UPD_LIST_BEG     = re.compile(
+    ' {0,}Country/Geographical area {1,}MCC\+MNC {0,}\*{0,1} {1,}Operator/Network',
+    re.IGNORECASE
+    )
+RE_MNC_UPD_LIST_END     = re.compile(' {0,}_{5,} {0,}', re.IGNORECASE)
+RE_MNC_UPD_LIST_ENDALT  = re.compile('Extra-territorial use\*{3,}', re.IGNORECASE)
+RE_MNC_UPD_MNC          = re.compile(' {7,}([0-9]{3}) ([0-9]{2,3})(?:$|\s{1,})')
+RE_MNC_UPD_MNO          = re.compile(' {7,}(\S.{3,}) {0,}$')
+
+# this is for dropping crappy lines from crappy formed bulletins
+MNC_UPD_LINEDROP        = [
+    ('startswith', 'Country/Geographical area'),
+    ('endswith',   'No. 1210 – 21'),
+    ]
+# this is for dropping invalid MNO description from our crappy extraction algorithm
+MNC_UPD_MNODROP         = ['LIR', 'ADD', 'SUP', 'MCC+MNC', 'Operator/Network']
+
+
+def parse_mnc_upd_list(fn=PATH_PRE+'T-SP-OB.1258-2022-OAS-PDF-E.txt', dbg=False):
+    with open(fn, encoding='utf-8') as fd:
+        txt = fd.read()
+        #
+        # keep only potential update of MNC
+        beg = RE_MNC_UPD_LIST_BEG.search(txt)
+        if not beg:
+            if dbg:
+                print('> %s: MNC update list not found, beg' % fn)
+            return None
+        txt = txt[beg.end():].strip()
+        end = RE_MNC_UPD_LIST_END.search(txt)
+        if not end:
+            if dbg:
+                print('> %s: MNC update list not found, end' % fn)
+            return None
+        # check if need to remove some crappy declaration at the end
+        endalt = RE_MNC_UPD_LIST_ENDALT.search(txt)
+        if endalt and endalt.start() < end.start():
+            txt = txt[:endalt.start()].strip()
+        else:
+            txt = txt[:end.start()].strip()
+        if dbg:
+            print('> %s: MNC update list found' % fn)
+        #
+        mncdecl = []
+        for line in txt.split('\n'):
+            if not line.strip():
+                continue
+            line = line.rstrip()
+            ins  = True
+            for drop_meth, drop_expr in MNC_UPD_LINEDROP:
+                if getattr(line, drop_meth)(drop_expr):
+                    if dbg:
+                        print('>>> %s: dropping %r' % (fn, line))
+                    ins = False
+            if ins:
+                mncdecl.append(line)
+        #
+        mnclut = parse_mnc_upd_lines(mncdecl, dbg)
+        if dbg:
+            print('> %s: %i MNC records' % (fn, len(mnclut)))
+        return mnclut
+
+# We have 1 or 2 lines with country name and type of update
+# ADD (addition), SUP (suppress), LIR (update)
+
+# Then a list of MNO patterns
+#
+# pattern 1:
+#   MCC MNC         MNO compl
+#
+# pattern 2:
+#                   MNO start
+#   MCC MNC
+#                   MNO stop
+#
+# pattern 3:
+#   MCC MNC         MNO start
+#                   MNO stop
+#
+# and exceptionnally pattern 4:
+#                   MNO start
+#   MCC MNC         MNO cont
+#                   MNO stop
+
+def parse_mnc_upd_lines(lines, dbg=True):
+    #if dbg:
+    #    print('\n'.join(lines))
+    #
+    mnclut, mnclist = {}, []
+    mnc, mno, mnc_empt = '', '', False
+    #
+    for line in lines:
+        m = RE_MNC_UPD_MNC.search(line)
+        if m:
+            mnc = m.group(1) + m.group(2)
+            rem = line[m.end():].strip() 
+            if rem:
+                #    pat 1, MNO compl
+                # or pat 3, MNO start
+                mnclist.append((mnc, [rem]))
+                mnc_empt = False
+            else:
+                # pat 2, MNC only
+                if not mnclist:
+                    if dbg:
+                        print('>>> buggy MNC declaration: %r' % line)
+                else:
+                    mnclist.append((mnc, [mnclist[-1][1].pop()]))
+                mnc_empt = True
+        else:
+            m = RE_MNC_UPD_MNO.search(line)
+            if m:
+                if mnc_empt:
+                    # pat 2, MNO stop
+                    if not mnclist:
+                        if dbg:
+                            print('>>> buggy MNC declaration: %r' % line)
+                    else:
+                        mnclist[-1][1].append(m.group(1).strip())
+                else:
+                    #    pat 2, MNO start
+                    # or pat 3, MNO stop
+                    if mnclist:
+                        mnclist[-1][1].append(m.group(1).strip())
+                    else:
+                        mnclist.append(('', [m.group(1).strip()]))
+            else:
+                # end of the list of MNC
+                if mnclist:
+                    mnclut.update(_mnclist_to_mnclut(mnclist, dbg))
+                    mnclist = []
+            mnc_empt = False
+    if mnclist:
+        mnclut.update(_mnclist_to_mnclut(mnclist, dbg))
+    return mnclut
+
+
+def _mnclist_to_mnclut(mnclist, dbg):
+    mnclut = {}
+    for i, (mnc, mno_its) in enumerate(mnclist):
+        if not mnc:
+            if mno_its:
+                if len(mnclist) > 1:
+                    # exceptional pat 4, MNO start
+                    if dbg:
+                        print('>>> splitted MNO description: %r, %r' % (mnclist[i], mnclist[i+1]))
+                    assert(len(mno_its) == 1)
+                    mnclist[i+1][1].insert(0, mno_its[0])
+                else:
+                    if dbg:
+                        print('>>> buggy MNC collection: %r' % mno_its)
+            continue
+        for mno_it in mno_its[:]:
+            for drop_it in MNC_UPD_MNODROP:
+                if drop_it in mno_it:
+                    if dbg:
+                        print('>>> buggy MNC collection: %r' % mno_its)
+                    try:
+                        mno_its.remove(mno_it)
+                    except Exception:
+                        pass
+        mnclut[mnc] = ' '.join(mno_its)
+    return mnclut
+
+
+def parse_mnc_incr(start=1163, fnpre=PATH_PRE, dbg=False):
+    mnc = {}
+    for fn in sorted(os.listdir(fnpre)):
+        if not fn.startswith('T-SP-OB.'):
+            continue
+        elif int(fn[8:12]) < start:
+            continue
+        #print(fn)
+        mnclut = parse_mnc_upd_list(fnpre + fn, dbg=dbg)
+        if mnclut:
+            mnc.update(mnclut)
+    return mnc
+
+
+#------------------------------------------------------------------------------#
 # parse SPC list
 #------------------------------------------------------------------------------#
 
@@ -616,24 +813,29 @@ def main():
         try:
             dl_bull_all(bnum=args.b, dbg=False)
         except Exception as err:
-            print('> error occured during downloading: %s' % err)
+            print('> error occured during downloading: %r' % err)
             return 1
     #
     try:
         MNC_1111 = parse_mnc_list(PATH_PRE + 'T-SP-OB.1111-2016-OAS-PDF-E.txt', dbg=False)
         MNC_1162 = parse_mnc_list(PATH_PRE + 'T-SP-OB.1162-2018-OAS-PDF-E.txt', dbg=False)
     except Exception as err:
-        print('> error occured during MNC extraction: %s' % err)
+        print('> error occured during MNC extraction: %r' % err)
         return 1
     try:
         SPC_1199 = parse_spc_list(PATH_PRE + 'T-SP-OB.1199-2020-OAS-PDF-E.txt', dbg=False)
     except Exception as err:
-        print('> error occured during SPC extraction: %s' % err)
+        print('> error occured during SPC extraction: %r' % err)
         return 1
     try:
         SANC_1125 = parse_sanc_list(PATH_PRE + 'T-SP-OB.1125-2017-OAS-PDF-E.txt', dbg=False)
     except Exception as err:
-        print('> error occured during SANC extraction: %s' % err)
+        print('> error occured during SANC extraction: %r' % err)
+        return 1
+    try:
+        MNC_1162INCR = parse_mnc_incr(1163, fnpre=PATH_PRE, dbg=False)
+    except Exception as err:
+        print('> error occured during MNC incremental extraction: %r' % err)
         return 1
     #
     if args.j:
@@ -641,11 +843,13 @@ def main():
         generate_json(MNC_1162, PATH_RAW + 'itut_mnc_1162.json', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
         generate_json(SPC_1199, PATH_RAW + 'itut_spc_1199.json', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
         generate_json(SANC_1125, PATH_RAW + 'itut_sanc_1125.json', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
+        generate_json(MNC_1162INCR, PATH_RAW + 'itut_mnc_incr.json', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
     if args.p:
         generate_python(MNC_1111, PATH_RAW + 'itut_mnc_1111.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
         generate_python(MNC_1162, PATH_RAW + 'itut_mnc_1162.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
         generate_python(SPC_1199, PATH_RAW + 'itut_spc_1199.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
         generate_python(SANC_1125, PATH_RAW + 'itut_sanc_1125.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
+        generate_python(MNC_1162INCR, PATH_RAW + 'itut_mnc_incr.py', [URL_LICENSE_ITUT], URL_LICENSE_ITUT)
     return 0
 
 
