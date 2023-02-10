@@ -343,8 +343,8 @@ International Mobile, shared code ADD
 
 Trial of a proposed new international
 telecommunication service, shared code
-                                                                            Orange
-LIR                                                          991 02
+                                                                            
+LIR                                                          991 02         Orange
                                                                             (temporary assignment for trial until 6.VIII.2022)
 ____________
 MCC:    Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil

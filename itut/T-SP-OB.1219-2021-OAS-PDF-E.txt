@@ -805,8 +805,8 @@ International Mobile, shared code ADD
                                                         901 78      Telecom Italia Sparkle S.p.A.
                                                         901 79      Nokia Corporation
 Trial of a proposed new international
-telecommunication service, shared code                              Halys SAS
-ADD*                                                    991 03
+telecommunication service, shared code                              
+ADD*                                                    991 03      Halys SAS
                                                                     (temporary assignment for trial until 5.IV.2022)
 
 ____________

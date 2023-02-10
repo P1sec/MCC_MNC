@@ -906,8 +906,8 @@ Switzerland         ADD
 
 Trial of a proposed new international
 telecommunication service, shared code
-                                                                             Orange
-ADD*                                                          991 02
+ADD*                                                                         Orange
+                                                              991 02
                                                                              (temporary assignment for trial until 6.VIII.2021)
 ____________
 MCC:     Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil

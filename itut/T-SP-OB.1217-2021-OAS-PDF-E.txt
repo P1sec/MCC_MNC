@@ -584,9 +584,9 @@ See page 4 of the present Operational Bulletin No. 1217 of 1.IV.2021.
                                                  901 53
                                                                    (replacing Deutsche Telekom AG)
  Trial of a proposed new
- international telecommunication                                   World's Global Telecom
- service, shared code SUP*                       991 01            (end of temporary assignment for trial on
-                                                                   15.I.2021)
+ international telecommunication                                   
+ service, shared code SUP*                       991 01            World's Global Telecom
+                                                                   (end of temporary assignment for trial on 15.I.2021)
 ____________
           MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
           MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil

@@ -6021,8 +6021,7 @@ United Kingdom LIR
                                                     235 91      Vodafone Limited
 Trial of a proposed new international
 telecommunication service, shared code
-                                                    991 02      Orange
-SUP*
+SUP*                                                991 02      Orange
                                                                 (end of temporary assignment for trial on 7.VIII.2022)
 ____________
 MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil

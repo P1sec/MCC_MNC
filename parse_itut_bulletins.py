@@ -401,15 +401,16 @@ RE_MNC_UPD_LIST_BEG     = re.compile(
 RE_MNC_UPD_LIST_END     = re.compile(' {0,}_{5,} {0,}', re.IGNORECASE)
 RE_MNC_UPD_LIST_ENDALT  = re.compile('Extra-territorial use\*{3,}', re.IGNORECASE)
 RE_MNC_UPD_MNC          = re.compile(' {7,}([0-9]{3}) ([0-9]{2,3})(?:$|\s{1,})')
-RE_MNC_UPD_MNO          = re.compile(' {7,}(\S.{3,}) {0,}$')
+RE_MNC_UPD_MNO          = re.compile(' {20,}(\S.{3,}) {0,}$')
+RE_MNC_UPD_RULE         = re.compile('(?:^| )(ADD|SUP|LIR)(?: {0,1}\*{0,1})')
+
 
 # this is for dropping crappy lines from crappy formed bulletins
 MNC_UPD_LINEDROP        = [
     ('startswith', 'Country/Geographical area'),
     ('endswith',   'No. 1210 – 21'),
+    ('endswith',   'Operator/Network'),
     ]
-# this is for dropping invalid MNO description from our crappy extraction algorithm
-MNC_UPD_MNODROP         = ['LIR', 'ADD', 'SUP', 'MCC+MNC', 'Operator/Network']
 
 
 def parse_mnc_upd_list(fn=PATH_PRE+'T-SP-OB.1258-2022-OAS-PDF-E.txt', dbg=False):
@@ -448,6 +449,7 @@ def parse_mnc_upd_list(fn=PATH_PRE+'T-SP-OB.1258-2022-OAS-PDF-E.txt', dbg=False)
                     if dbg:
                         print('>>> %s: dropping %r' % (fn, line))
                     ins = False
+                    break
             if ins:
                 mncdecl.append(line)
         #
@@ -479,15 +481,30 @@ def parse_mnc_upd_list(fn=PATH_PRE+'T-SP-OB.1258-2022-OAS-PDF-E.txt', dbg=False)
 #                   MNO stop
 
 def parse_mnc_upd_lines(lines, dbg=True):
-    #if dbg:
-    #    print('\n'.join(lines))
     #
-    mnclut, mnclist = {}, []
-    mnc, mno, mnc_empt = '', '', False
+    #print('\n'.join(lines))
+    #return
+    #
+    mnclut, mnclist, rest = {}, [], []
+    cntr, rule, mnc, mno, mnc_empt = '', '', '', '', False
     #
     for line in lines:
+        m = RE_MNC_UPD_RULE.search(line)
+        if m:
+            if mnclist: 
+                mnclut.update(_mnclist_to_mnclut(cntr, rule, mnclist, dbg))
+                rule = ''
+            rest.append(line[:m.start()])
+            rule = m.group(1) 
+            cntr = str.strip(' '.join(map(str.strip, rest)))
+            rest.clear()
+            line = line[m.end():]
+            if dbg:
+                print('>>> rule: %s %s' % (cntr, rule))
+        #
         m = RE_MNC_UPD_MNC.search(line)
         if m:
+            assert( rule and cntr )
             mnc = m.group(1) + m.group(2)
             rem = line[m.end():].strip() 
             if rem:
@@ -506,6 +523,7 @@ def parse_mnc_upd_lines(lines, dbg=True):
         else:
             m = RE_MNC_UPD_MNO.search(line)
             if m:
+                assert( cntr and rule )
                 if mnc_empt:
                     # pat 2, MNO stop
                     if not mnclist:
@@ -521,17 +539,18 @@ def parse_mnc_upd_lines(lines, dbg=True):
                     else:
                         mnclist.append(('', [m.group(1).strip()]))
             else:
-                # end of the list of MNC
-                if mnclist:
-                    mnclut.update(_mnclist_to_mnclut(mnclist, dbg))
-                    mnclist = []
+                # end of the list of MNC, but no rule yet
+                if mnclist: 
+                    mnclut.update(_mnclist_to_mnclut(cntr, rule, mnclist, dbg))
+                    rule = ''
+                rest.append(line)
             mnc_empt = False
     if mnclist:
-        mnclut.update(_mnclist_to_mnclut(mnclist, dbg))
+        mnclut.update(_mnclist_to_mnclut(cntr, rule, mnclist, dbg))
     return mnclut
 
 
-def _mnclist_to_mnclut(mnclist, dbg):
+def _mnclist_to_mnclut(cntr, rule, mnclist, dbg):
     mnclut = {}
     for i, (mnc, mno_its) in enumerate(mnclist):
         if not mnc:
@@ -546,16 +565,8 @@ def _mnclist_to_mnclut(mnclist, dbg):
                     if dbg:
                         print('>>> buggy MNC collection: %r' % mno_its)
             continue
-        for mno_it in mno_its[:]:
-            for drop_it in MNC_UPD_MNODROP:
-                if drop_it in mno_it:
-                    if dbg:
-                        print('>>> buggy MNC collection: %r' % mno_its)
-                    try:
-                        mno_its.remove(mno_it)
-                    except Exception:
-                        pass
-        mnclut[mnc] = ' '.join(mno_its)
+        mnclut[mnc] = (' '.join(mno_its), cntr, rule)
+    mnclist.clear()
     return mnclut
 
 
